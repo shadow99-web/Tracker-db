@@ -46,7 +46,7 @@
         "Gurdurr": 1,
         "Zubat": 2,
         "Hoppip": 1,
-        "Venipede": 2,
+        "Venipede": 3,
         "Finneon": 1,
         "Weedle": 1,
         "Honedge": 2,
@@ -90,7 +90,7 @@
         "Wigglytuff": 1,
         "Beldum": 1,
         "Petilil": 1,
-        "Pachirisu": 1,
+        "Pachirisu": 2,
         "Treecko": 1,
         "Rillaboom": 1,
         "Swadloon": 1,
@@ -115,14 +115,16 @@
         "Toedscool": 1,
         "Solosis": 1,
         "Bellsprout": 1,
-        "Pikachu": 1
+        "Pikachu": 1,
+        "Heliolisk": 1,
+        "Anorith": 1
       },
-      "total_spawns": 118,
-      "last_spawn": "2026-06-17T15:32:32.992359"
+      "total_spawns": 122,
+      "last_spawn": "2026-06-17T15:33:14.755088"
     }
   },
   "global": {
-    "total_spawns": 3157,
+    "total_spawns": 3161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
