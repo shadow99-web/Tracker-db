@@ -65,7 +65,7 @@
         "Ducklett": 2,
         "Lokix": 1,
         "Glimmora": 4,
-        "Starly": 4,
+        "Starly": 5,
         "Tandemaus": 2,
         "Smoliv": 6,
         "Gloom": 1,
@@ -103,7 +103,7 @@
         "Veluza": 12,
         "Barboach": 1,
         "Klink": 3,
-        "Honedge": 8,
+        "Honedge": 10,
         "Wingull": 2,
         "Salamence": 1,
         "Drakloak": 3,
@@ -127,9 +127,9 @@
         "Teddiursa": 3,
         "Clamperl": 2,
         "Zigzagoon": 6,
-        "Weedle": 13,
+        "Weedle": 14,
         "Flamigo": 2,
-        "Lillipup": 5,
+        "Lillipup": 6,
         "Shinx": 8,
         "Bounsweet": 1,
         "Noibat": 1,
@@ -170,7 +170,7 @@
         "Flareon": 1,
         "Gastly": 4,
         "Taillow": 3,
-        "Swinub": 3,
+        "Swinub": 4,
         "Inkay": 2,
         "Gible": 3,
         "Rookidee": 5,
@@ -216,7 +216,7 @@
         "Tynamo": 4,
         "Orthworm": 3,
         "Marill": 2,
-        "Joltik": 3,
+        "Joltik": 4,
         "Politoed": 1,
         "Cyndaquil": 3,
         "Fuecoco": 2,
@@ -458,7 +458,7 @@
         "Iron moth": 1,
         "Cherubi": 1,
         "Cradily": 1,
-        "Vulpix": 1,
+        "Vulpix": 2,
         "Paras": 1,
         "Herdier": 1,
         "Pineco": 1,
@@ -489,10 +489,13 @@
         "Houndoom": 1,
         "Dottler": 1,
         "Eevee": 1,
-        "Copperajah": 1
+        "Copperajah": 1,
+        "Magneton": 1,
+        "Alakazam": 1,
+        "Bayleef": 1
       },
-      "total_spawns": 1022,
-      "last_spawn": "2026-06-17T21:27:21.327517"
+      "total_spawns": 1033,
+      "last_spawn": "2026-06-17T21:27:52.597859"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -502,7 +505,7 @@
     }
   },
   "global": {
-    "total_spawns": 4353,
+    "total_spawns": 4364,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
