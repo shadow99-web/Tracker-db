@@ -11,7 +11,7 @@
         "Electabuzz": 1,
         "Rellor": 1,
         "Sandy burmy": 1,
-        "Wiglett": 1,
+        "Wiglett": 2,
         "Bombirdier": 1,
         "Litleo": 1,
         "Purrloin": 1,
@@ -38,10 +38,25 @@
         "Kilowattrel": 1,
         "Lotad": 1,
         "Qwilfish": 1,
-        "Trapinch": 2
+        "Trapinch": 2,
+        "Toedscool": 1,
+        "Fletchling": 1,
+        "Skiploom": 1,
+        "Timburr": 1,
+        "Dj rotom": 1,
+        "Surskit": 1,
+        "Seedot": 1,
+        "Skitty": 1,
+        "Greavard": 1,
+        "Slugma": 1,
+        "Grotle": 1,
+        "Porygon": 1,
+        "Zubat": 1,
+        "Vanillish": 1,
+        "Tadbulb": 1
       },
-      "total_spawns": 37,
-      "last_spawn": "2026-06-17T19:52:11.021666"
+      "total_spawns": 53,
+      "last_spawn": "2026-06-17T19:52:41.058180"
     },
     "1443875856803168360": {
       "name": "",
@@ -268,7 +283,7 @@
     }
   },
   "global": {
-    "total_spawns": 3367,
+    "total_spawns": 3383,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
