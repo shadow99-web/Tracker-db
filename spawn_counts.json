@@ -29,7 +29,7 @@
         "Bombirdier": 1,
         "Porygon": 2,
         "Sandile": 1,
-        "Magmar": 1,
+        "Magmar": 2,
         "Frost rotom": 1,
         "Rockruff": 1,
         "Nidorino": 1,
@@ -129,14 +129,16 @@
         "Glimmora": 1,
         "Koffing": 1,
         "Popplio": 1,
-        "Sunkern": 1
+        "Sunkern": 1,
+        "Inkay": 1,
+        "Snover": 1
       },
-      "total_spawns": 138,
-      "last_spawn": "2026-06-17T15:35:53.024774"
+      "total_spawns": 141,
+      "last_spawn": "2026-06-17T15:45:45.489978"
     }
   },
   "global": {
-    "total_spawns": 3177,
+    "total_spawns": 3180,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
