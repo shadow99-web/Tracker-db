@@ -65,7 +65,7 @@
         "Rhyhorn": 1,
         "Chimchar": 2,
         "Cetitan": 1,
-        "Wurmple": 1,
+        "Wurmple": 2,
         "Arctibax": 1,
         "Tarountula": 2,
         "Shelmet": 1,
@@ -173,20 +173,22 @@
         "Flittle": 1,
         "Dj rotom": 1,
         "Ivysaur": 1,
-        "Glimmet": 1,
+        "Glimmet": 2,
         "Frogadier": 1,
         "Klink": 1,
         "Weepinbell": 1,
         "Skiddo": 1,
         "Shroodle": 1,
-        "Trapinch": 1
+        "Trapinch": 1,
+        "Lairon": 1,
+        "Magneton": 1
       },
-      "total_spawns": 211,
-      "last_spawn": "2026-06-17T17:08:52.948638"
+      "total_spawns": 215,
+      "last_spawn": "2026-06-17T17:09:32.930257"
     }
   },
   "global": {
-    "total_spawns": 3250,
+    "total_spawns": 3254,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
