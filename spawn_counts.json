@@ -100,7 +100,7 @@
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 4,
-        "Veluza": 11,
+        "Veluza": 12,
         "Barboach": 1,
         "Klink": 3,
         "Honedge": 8,
@@ -127,7 +127,7 @@
         "Teddiursa": 2,
         "Clamperl": 2,
         "Zigzagoon": 6,
-        "Weedle": 12,
+        "Weedle": 13,
         "Flamigo": 2,
         "Lillipup": 5,
         "Shinx": 7,
@@ -206,7 +206,7 @@
         "Dodrio": 1,
         "Cufant": 2,
         "Tympole": 2,
-        "Swellow": 1,
+        "Swellow": 2,
         "Aipom": 2,
         "Growlithe": 1,
         "Sewaddle": 5,
@@ -411,7 +411,7 @@
         "Pansear": 1,
         "Cutiefly": 2,
         "Peakychu": 1,
-        "Armarouge": 2,
+        "Armarouge": 3,
         "Tyrantrum": 1,
         "Larvitar": 1,
         "Tentacool": 1,
@@ -486,8 +486,8 @@
         "Trash burmy": 1,
         "Staravia": 1
       },
-      "total_spawns": 993,
-      "last_spawn": "2026-06-17T21:25:42.349676"
+      "total_spawns": 997,
+      "last_spawn": "2026-06-17T21:26:12.830411"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -497,7 +497,7 @@
     }
   },
   "global": {
-    "total_spawns": 4324,
+    "total_spawns": 4328,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
