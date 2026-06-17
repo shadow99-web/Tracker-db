@@ -9,7 +9,7 @@
         "Drilbur": 1,
         "Pawmi": 2,
         "Electabuzz": 1,
-        "Rellor": 2,
+        "Rellor": 3,
         "Sandy burmy": 1,
         "Wiglett": 3,
         "Bombirdier": 2,
@@ -31,12 +31,12 @@
         "Abra": 3,
         "Sandile": 1,
         "Sandygast": 2,
-        "Litwick": 3,
+        "Litwick": 4,
         "Grubbin": 1,
         "Escavalier": 1,
         "Dratini": 2,
         "Kilowattrel": 1,
-        "Lotad": 2,
+        "Lotad": 3,
         "Qwilfish": 1,
         "Trapinch": 5,
         "Toedscool": 2,
@@ -77,7 +77,7 @@
         "Tarountula": 1,
         "Hatterene": 1,
         "Phantump": 2,
-        "Duosion": 1,
+        "Duosion": 2,
         "Amaura": 1,
         "Gimmighoul": 3,
         "Baltoy": 1,
@@ -100,7 +100,7 @@
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 1,
-        "Veluza": 3,
+        "Veluza": 4,
         "Barboach": 1,
         "Klink": 1,
         "Honedge": 4,
@@ -193,7 +193,7 @@
         "Sunny castform": 1,
         "Pidgeotto": 1,
         "Spearow": 1,
-        "Helioptile": 1,
+        "Helioptile": 2,
         "Hoothoot": 1,
         "Grookey": 1,
         "Meditite": 1,
@@ -247,10 +247,19 @@
         "Lurantis": 1,
         "Swampert": 1,
         "Dachsbun": 1,
-        "Turtwig": 1
+        "Turtwig": 1,
+        "Prinplup": 1,
+        "Tinkatink": 1,
+        "Lechonk": 1,
+        "Kommo-o": 1,
+        "Dewott": 1,
+        "Arrokuda": 1,
+        "Golett": 1,
+        "Vullaby": 1,
+        "Cetitan": 1
       },
-      "total_spawns": 352,
-      "last_spawn": "2026-06-17T20:02:01.316979"
+      "total_spawns": 367,
+      "last_spawn": "2026-06-17T20:02:32.471251"
     },
     "1443875856803168360": {
       "name": "",
@@ -477,7 +486,7 @@
     }
   },
   "global": {
-    "total_spawns": 3682,
+    "total_spawns": 3697,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
