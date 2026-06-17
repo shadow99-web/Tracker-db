@@ -11,7 +11,7 @@
       "counts": {
         "Snivy": 1,
         "Vanillish": 3,
-        "Ralts": 2,
+        "Ralts": 3,
         "Litwick": 1,
         "Tympole": 1,
         "Bergmite": 1,
@@ -71,7 +71,7 @@
         "Shelmet": 1,
         "Lickitung": 1,
         "Klawf": 1,
-        "Gossifleur": 2,
+        "Gossifleur": 3,
         "Horsea": 1,
         "Snom": 1,
         "Shroomish": 1,
@@ -152,14 +152,16 @@
         "Goldeen": 1,
         "Whismur": 1,
         "Marshtomp": 1,
-        "Snorlax": 1
+        "Snorlax": 1,
+        "Pikipek": 1,
+        "Scovillain": 1
       },
-      "total_spawns": 168,
-      "last_spawn": "2026-06-17T17:01:23.056103"
+      "total_spawns": 172,
+      "last_spawn": "2026-06-17T17:02:03.068898"
     }
   },
   "global": {
-    "total_spawns": 3207,
+    "total_spawns": 3211,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
