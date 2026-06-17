@@ -90,7 +90,7 @@
         "Wigglytuff": 1,
         "Beldum": 1,
         "Petilil": 1,
-        "Pachirisu": 2,
+        "Pachirisu": 3,
         "Treecko": 1,
         "Rillaboom": 1,
         "Swadloon": 1,
@@ -122,19 +122,21 @@
         "Carkol": 1,
         "Abra": 1,
         "Pawmi": 1,
-        "Trubbish": 1,
+        "Trubbish": 2,
         "Swoobat": 1,
         "Charcadet": 1,
         "Starly": 1,
         "Glimmora": 1,
-        "Koffing": 1
+        "Koffing": 1,
+        "Popplio": 1,
+        "Sunkern": 1
       },
-      "total_spawns": 134,
-      "last_spawn": "2026-06-17T15:35:13.408579"
+      "total_spawns": 138,
+      "last_spawn": "2026-06-17T15:35:53.024774"
     }
   },
   "global": {
-    "total_spawns": 3173,
+    "total_spawns": 3177,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
