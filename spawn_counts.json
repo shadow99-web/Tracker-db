@@ -101,9 +101,9 @@
         "Bulbasaur": 1,
         "Seviper": 1,
         "Bidoof": 2,
-        "Gastly": 1,
+        "Gastly": 2,
         "Shuppet": 1,
-        "Hatenna": 1,
+        "Hatenna": 2,
         "Defense deoxys": 1,
         "Stantler": 1,
         "Frigibax": 1,
@@ -144,14 +144,15 @@
         "Gligar": 1,
         "Gigalith": 1,
         "Paras": 1,
-        "Oshawott": 1
+        "Oshawott": 1,
+        "Clobbopus": 1
       },
-      "total_spawns": 156,
-      "last_spawn": "2026-06-17T16:58:33.008228"
+      "total_spawns": 159,
+      "last_spawn": "2026-06-17T16:59:03.137856"
     }
   },
   "global": {
-    "total_spawns": 3195,
+    "total_spawns": 3198,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
