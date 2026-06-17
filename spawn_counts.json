@@ -16,7 +16,7 @@
         "Litleo": 3,
         "Purrloin": 1,
         "Tranquill": 1,
-        "Psyduck": 2,
+        "Psyduck": 3,
         "Rockruff": 1,
         "Haunter": 2,
         "Tangela": 1,
@@ -55,7 +55,7 @@
         "Vanillish": 5,
         "Tadbulb": 1,
         "Magnemite": 6,
-        "Whismur": 4,
+        "Whismur": 5,
         "Monferno": 4,
         "Skwovet": 1,
         "Bramblin": 5,
@@ -159,7 +159,7 @@
         "Spinarak": 3,
         "Delcatty": 1,
         "Spiritomb": 1,
-        "Yamper": 1,
+        "Yamper": 2,
         "Tepig": 5,
         "Kirlia": 1,
         "Piplup": 1,
@@ -322,7 +322,7 @@
         "Gossifleur": 1,
         "Oshawott": 2,
         "Murkrow": 1,
-        "Bellsprout": 3,
+        "Bellsprout": 4,
         "Mudbray": 2,
         "Dreepy": 4,
         "Tinkaton": 1,
@@ -519,8 +519,8 @@
         "Hariyama": 1,
         "Victreebel": 1
       },
-      "total_spawns": 1146,
-      "last_spawn": "2026-06-17T21:33:52.543713"
+      "total_spawns": 1150,
+      "last_spawn": "2026-06-17T21:37:11.328968"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -530,7 +530,7 @@
     }
   },
   "global": {
-    "total_spawns": 4477,
+    "total_spawns": 4481,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
