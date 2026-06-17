@@ -72,7 +72,7 @@
         "Clefairy": 1,
         "Spinda": 1,
         "Fomantis": 1,
-        "Droopy tatsugiri": 4,
+        "Droopy tatsugiri": 5,
         "Froslass": 2,
         "Tarountula": 1,
         "Hatterene": 1,
@@ -94,13 +94,13 @@
         "Corphish": 1,
         "Hoppip": 2,
         "Sandslash": 1,
-        "Kabuto": 2,
+        "Kabuto": 3,
         "Scatterbug": 3,
         "Pumpkaboo": 2,
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 1,
-        "Veluza": 4,
+        "Veluza": 5,
         "Barboach": 1,
         "Klink": 1,
         "Honedge": 4,
@@ -130,7 +130,7 @@
         "Weedle": 6,
         "Flamigo": 2,
         "Lillipup": 3,
-        "Shinx": 3,
+        "Shinx": 4,
         "Bounsweet": 1,
         "Noibat": 1,
         "Toxicroak": 1,
@@ -154,7 +154,7 @@
         "Dragapult": 1,
         "Rattata": 2,
         "Flapple": 1,
-        "Aron": 1,
+        "Aron": 3,
         "Boldore": 1,
         "Spinarak": 2,
         "Delcatty": 1,
@@ -230,7 +230,7 @@
         "Braixen": 1,
         "Drowzee": 1,
         "Blipbug": 2,
-        "Lampent": 1,
+        "Lampent": 2,
         "Petilil": 1,
         "Marshtomp": 1,
         "Eiscue": 1,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 2,
         "Dhelmise": 1,
-        "Bagon": 1,
+        "Bagon": 2,
         "Sudowoodo": 1,
         "Stoutland": 1,
         "Rowlet": 1,
@@ -294,10 +294,16 @@
         "Jellicent": 1,
         "Torkoal": 1,
         "Ferroseed": 1,
-        "Brionne": 1
+        "Brionne": 1,
+        "Pancham": 1,
+        "Venipede": 1,
+        "Cacturne": 1,
+        "Oddish": 1,
+        "Dragalge": 1,
+        "Iron thorns": 1
       },
-      "total_spawns": 442,
-      "last_spawn": "2026-06-17T20:05:12.200250"
+      "total_spawns": 456,
+      "last_spawn": "2026-06-17T20:05:42.257366"
     },
     "1443875856803168360": {
       "name": "",
@@ -524,7 +530,7 @@
     }
   },
   "global": {
-    "total_spawns": 3772,
+    "total_spawns": 3786,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
