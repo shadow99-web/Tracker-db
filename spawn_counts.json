@@ -120,7 +120,7 @@
         "Anorith": 1,
         "Sandshrew": 1,
         "Carkol": 1,
-        "Abra": 1,
+        "Abra": 2,
         "Pawmi": 1,
         "Trubbish": 3,
         "Swoobat": 1,
@@ -203,14 +203,17 @@
         "Electrike": 1,
         "Tinkatink": 1,
         "Mothim": 1,
-        "Chef dente": 1
+        "Chef dente": 1,
+        "Palossand": 1,
+        "Audino": 1,
+        "Fraxure": 1
       },
-      "total_spawns": 250,
-      "last_spawn": "2026-06-17T17:16:13.073752"
+      "total_spawns": 254,
+      "last_spawn": "2026-06-17T17:16:53.075908"
     }
   },
   "global": {
-    "total_spawns": 3289,
+    "total_spawns": 3293,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
