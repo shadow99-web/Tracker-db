@@ -18,7 +18,7 @@
         "Starmie": 1,
         "Kabuto": 1,
         "Dondozo": 2,
-        "Pidove": 1,
+        "Pidove": 2,
         "Fletchling": 1,
         "Nincada": 1,
         "Charmeleon": 1,
@@ -150,14 +150,16 @@
         "Veluza": 1,
         "Staravia": 1,
         "Goldeen": 1,
-        "Whismur": 1
+        "Whismur": 1,
+        "Marshtomp": 1,
+        "Snorlax": 1
       },
-      "total_spawns": 165,
-      "last_spawn": "2026-06-17T17:00:13.391306"
+      "total_spawns": 168,
+      "last_spawn": "2026-06-17T17:01:23.056103"
     }
   },
   "global": {
-    "total_spawns": 3204,
+    "total_spawns": 3207,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
