@@ -111,9 +111,9 @@
         "Scizor": 1,
         "Sneasel": 3,
         "Bonsly": 1,
-        "Horsea": 4,
+        "Horsea": 5,
         "Frigibax": 6,
-        "Spheal": 5,
+        "Spheal": 6,
         "Swadloon": 2,
         "Flittle": 5,
         "Unfezant": 1,
@@ -166,7 +166,7 @@
         "Kakuna": 3,
         "Weepinbell": 1,
         "Klawf": 5,
-        "Vanillite": 6,
+        "Vanillite": 7,
         "Flareon": 1,
         "Gastly": 4,
         "Taillow": 3,
@@ -209,7 +209,7 @@
         "Swellow": 2,
         "Aipom": 2,
         "Growlithe": 1,
-        "Sewaddle": 5,
+        "Sewaddle": 6,
         "Fidough": 4,
         "Noivern": 1,
         "Feraligatr": 1,
@@ -221,10 +221,10 @@
         "Cyndaquil": 3,
         "Fuecoco": 3,
         "Cyclizar": 2,
-        "Magmar": 3,
+        "Magmar": 4,
         "Rillaboom": 1,
         "Ninetales": 2,
-        "Wattrel": 2,
+        "Wattrel": 3,
         "Snubbull": 2,
         "Spidops": 3,
         "Braixen": 1,
@@ -459,7 +459,7 @@
         "Cherubi": 1,
         "Cradily": 1,
         "Vulpix": 2,
-        "Paras": 1,
+        "Paras": 2,
         "Herdier": 1,
         "Pineco": 1,
         "Chikorita": 1,
@@ -518,8 +518,8 @@
         "Gabite": 1,
         "Hariyama": 1
       },
-      "total_spawns": 1128,
-      "last_spawn": "2026-06-17T21:32:10.831578"
+      "total_spawns": 1135,
+      "last_spawn": "2026-06-17T21:32:40.836904"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -529,7 +529,7 @@
     }
   },
   "global": {
-    "total_spawns": 4459,
+    "total_spawns": 4466,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
