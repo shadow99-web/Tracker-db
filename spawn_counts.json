@@ -67,7 +67,7 @@
         "Cetitan": 1,
         "Wurmple": 1,
         "Arctibax": 1,
-        "Tarountula": 1,
+        "Tarountula": 2,
         "Shelmet": 1,
         "Lickitung": 1,
         "Klawf": 1,
@@ -173,14 +173,17 @@
         "Flittle": 1,
         "Dj rotom": 1,
         "Ivysaur": 1,
-        "Glimmet": 1
+        "Glimmet": 1,
+        "Frogadier": 1,
+        "Klink": 1,
+        "Weepinbell": 1
       },
-      "total_spawns": 204,
-      "last_spawn": "2026-06-17T17:07:42.996428"
+      "total_spawns": 208,
+      "last_spawn": "2026-06-17T17:08:22.940422"
     }
   },
   "global": {
-    "total_spawns": 3243,
+    "total_spawns": 3247,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
