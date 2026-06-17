@@ -25,7 +25,7 @@
         "Machop": 2,
         "Dudunsparce": 1,
         "Gothita": 1,
-        "Impidimp": 2,
+        "Impidimp": 3,
         "Charmander": 1,
         "Morelull": 1,
         "Abra": 3,
@@ -38,7 +38,7 @@
         "Kilowattrel": 1,
         "Lotad": 2,
         "Qwilfish": 1,
-        "Trapinch": 3,
+        "Trapinch": 4,
         "Toedscool": 2,
         "Fletchling": 2,
         "Skiploom": 1,
@@ -61,7 +61,7 @@
         "Bramblin": 1,
         "Yanma": 2,
         "Larvesta": 2,
-        "Beldum": 3,
+        "Beldum": 4,
         "Ducklett": 1,
         "Lokix": 1,
         "Glimmora": 2,
@@ -87,7 +87,7 @@
         "Togepi": 2,
         "Falinks": 1,
         "Tropius": 1,
-        "Poliwag": 1,
+        "Poliwag": 2,
         "Metang": 1,
         "Riolu": 1,
         "Exeggcute": 1,
@@ -152,7 +152,7 @@
         "Roggenrola": 1,
         "Pidove": 2,
         "Dragapult": 1,
-        "Rattata": 1,
+        "Rattata": 2,
         "Flapple": 1,
         "Aron": 1,
         "Boldore": 1,
@@ -168,7 +168,7 @@
         "Klawf": 1,
         "Vanillite": 1,
         "Flareon": 1,
-        "Gastly": 1,
+        "Gastly": 2,
         "Taillow": 1,
         "Swinub": 1,
         "Inkay": 1,
@@ -209,7 +209,7 @@
         "Swellow": 1,
         "Aipom": 1,
         "Growlithe": 1,
-        "Sewaddle": 2,
+        "Sewaddle": 3,
         "Fidough": 2,
         "Noivern": 1,
         "Feraligatr": 1,
@@ -227,10 +227,17 @@
         "Wattrel": 1,
         "Snubbull": 1,
         "Spidops": 1,
-        "Braixen": 1
+        "Braixen": 1,
+        "Drowzee": 1,
+        "Blipbug": 2,
+        "Lampent": 1,
+        "Petilil": 1,
+        "Marshtomp": 1,
+        "Eiscue": 1,
+        "Summer deerling": 1
       },
-      "total_spawns": 308,
-      "last_spawn": "2026-06-17T20:00:25.834518"
+      "total_spawns": 323,
+      "last_spawn": "2026-06-17T20:00:55.849461"
     },
     "1443875856803168360": {
       "name": "",
@@ -457,7 +464,7 @@
     }
   },
   "global": {
-    "total_spawns": 3638,
+    "total_spawns": 3653,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
