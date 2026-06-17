@@ -12,7 +12,7 @@
         "Rellor": 3,
         "Sandy burmy": 1,
         "Wiglett": 4,
-        "Bombirdier": 4,
+        "Bombirdier": 5,
         "Litleo": 3,
         "Purrloin": 1,
         "Tranquill": 1,
@@ -43,7 +43,7 @@
         "Fletchling": 3,
         "Skiploom": 4,
         "Timburr": 7,
-        "Dj rotom": 1,
+        "Dj rotom": 2,
         "Surskit": 3,
         "Seedot": 3,
         "Skitty": 1,
@@ -51,7 +51,7 @@
         "Slugma": 1,
         "Grotle": 3,
         "Porygon": 4,
-        "Zubat": 6,
+        "Zubat": 7,
         "Vanillish": 4,
         "Tadbulb": 1,
         "Magnemite": 5,
@@ -138,7 +138,7 @@
         "Croconaw": 2,
         "Phanpy": 1,
         "Brambleghast": 1,
-        "Pidgey": 9,
+        "Pidgey": 10,
         "Rhyhorn": 4,
         "Sentret": 4,
         "Yungoos": 2,
@@ -189,7 +189,7 @@
         "Pikachu": 3,
         "Blue plumage squawkabilly": 1,
         "Thwackey": 1,
-        "Dusk lycanroc": 1,
+        "Dusk lycanroc": 2,
         "Sunny castform": 1,
         "Pidgeotto": 3,
         "Spearow": 2,
@@ -201,7 +201,7 @@
         "Probopass": 1,
         "Scraggy": 2,
         "Rhydon": 2,
-        "Silcoon": 1,
+        "Silcoon": 2,
         "Totodile": 2,
         "Dodrio": 1,
         "Cufant": 1,
@@ -210,7 +210,7 @@
         "Aipom": 2,
         "Growlithe": 1,
         "Sewaddle": 5,
-        "Fidough": 2,
+        "Fidough": 3,
         "Noivern": 1,
         "Feraligatr": 1,
         "Tynamo": 4,
@@ -318,7 +318,7 @@
         "Prof tangrowth": 2,
         "Jangmo-o": 2,
         "Trash wormadam": 1,
-        "Quaxly": 3,
+        "Quaxly": 4,
         "Gossifleur": 1,
         "Oshawott": 1,
         "Murkrow": 1,
@@ -345,7 +345,7 @@
         "Capsakid": 2,
         "Revavroom": 1,
         "Exploud": 1,
-        "Deino": 1,
+        "Deino": 2,
         "Wooper": 2,
         "Dwebble": 2,
         "Steenee": 1,
@@ -428,10 +428,13 @@
         "Grapploct": 1,
         "Gurdurr": 1,
         "Girafarig": 1,
-        "Flaaffy": 1
+        "Flaaffy": 1,
+        "Pecharunt": 1,
+        "Feebas": 1,
+        "Buneary": 1
       },
-      "total_spawns": 805,
-      "last_spawn": "2026-06-17T20:19:21.389008"
+      "total_spawns": 817,
+      "last_spawn": "2026-06-17T20:19:52.441281"
     },
     "1443875856803168360": {
       "name": "",
@@ -658,7 +661,7 @@
     }
   },
   "global": {
-    "total_spawns": 4135,
+    "total_spawns": 4147,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
