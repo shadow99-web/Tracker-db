@@ -49,7 +49,7 @@
         "Venipede": 2,
         "Finneon": 1,
         "Weedle": 1,
-        "Honedge": 1,
+        "Honedge": 2,
         "Maushold": 1,
         "Togepi": 1,
         "Mightyena": 1,
@@ -101,14 +101,16 @@
         "Bulbasaur": 1,
         "Seviper": 1,
         "Bidoof": 1,
-        "Gastly": 1
+        "Gastly": 1,
+        "Shuppet": 1,
+        "Hatenna": 1
       },
-      "total_spawns": 100,
-      "last_spawn": "2026-06-17T15:29:32.892833"
+      "total_spawns": 103,
+      "last_spawn": "2026-06-17T15:30:05.862191"
     }
   },
   "global": {
-    "total_spawns": 3139,
+    "total_spawns": 3142,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
