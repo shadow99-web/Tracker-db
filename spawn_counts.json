@@ -28,7 +28,7 @@
         "Impidimp": 2,
         "Charmander": 1,
         "Morelull": 1,
-        "Abra": 2,
+        "Abra": 3,
         "Sandile": 1,
         "Sandygast": 2,
         "Litwick": 1,
@@ -54,9 +54,9 @@
         "Zubat": 2,
         "Vanillish": 3,
         "Tadbulb": 1,
-        "Magnemite": 3,
+        "Magnemite": 4,
         "Whismur": 1,
-        "Monferno": 1,
+        "Monferno": 2,
         "Skwovet": 1,
         "Bramblin": 1,
         "Yanma": 2,
@@ -79,7 +79,7 @@
         "Phantump": 2,
         "Duosion": 1,
         "Amaura": 1,
-        "Gimmighoul": 1,
+        "Gimmighoul": 2,
         "Baltoy": 1,
         "Mareep": 3,
         "Garbodor": 1,
@@ -95,8 +95,8 @@
         "Hoppip": 2,
         "Sandslash": 1,
         "Kabuto": 2,
-        "Scatterbug": 2,
-        "Pumpkaboo": 1,
+        "Scatterbug": 3,
+        "Pumpkaboo": 2,
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 1,
@@ -204,10 +204,21 @@
         "Silcoon": 1,
         "Totodile": 1,
         "Dodrio": 1,
-        "Cufant": 1
+        "Cufant": 1,
+        "Tympole": 1,
+        "Swellow": 1,
+        "Aipom": 1,
+        "Growlithe": 1,
+        "Sewaddle": 1,
+        "Fidough": 1,
+        "Noivern": 1,
+        "Feraligatr": 1,
+        "Tynamo": 1,
+        "Orthworm": 1,
+        "Marill": 1
       },
-      "total_spawns": 263,
-      "last_spawn": "2026-06-17T19:58:52.599128"
+      "total_spawns": 280,
+      "last_spawn": "2026-06-17T19:59:25.765692"
     },
     "1443875856803168360": {
       "name": "",
@@ -434,7 +445,7 @@
     }
   },
   "global": {
-    "total_spawns": 3593,
+    "total_spawns": 3610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
