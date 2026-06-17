@@ -36,7 +36,7 @@
         "Escavalier": 2,
         "Dratini": 3,
         "Kilowattrel": 2,
-        "Lotad": 8,
+        "Lotad": 9,
         "Qwilfish": 2,
         "Trapinch": 9,
         "Toedscool": 5,
@@ -71,7 +71,7 @@
         "Gloom": 1,
         "Clefairy": 1,
         "Spinda": 1,
-        "Fomantis": 2,
+        "Fomantis": 3,
         "Droopy tatsugiri": 6,
         "Froslass": 3,
         "Tarountula": 1,
@@ -79,9 +79,9 @@
         "Phantump": 3,
         "Duosion": 2,
         "Amaura": 2,
-        "Gimmighoul": 6,
+        "Gimmighoul": 7,
         "Baltoy": 1,
-        "Mareep": 5,
+        "Mareep": 6,
         "Garbodor": 1,
         "Slakoth": 4,
         "Togepi": 2,
@@ -127,7 +127,7 @@
         "Teddiursa": 3,
         "Clamperl": 2,
         "Zigzagoon": 6,
-        "Weedle": 14,
+        "Weedle": 15,
         "Flamigo": 2,
         "Lillipup": 6,
         "Shinx": 8,
@@ -214,7 +214,7 @@
         "Noivern": 1,
         "Feraligatr": 1,
         "Tynamo": 4,
-        "Orthworm": 3,
+        "Orthworm": 4,
         "Marill": 2,
         "Joltik": 4,
         "Politoed": 1,
@@ -250,7 +250,7 @@
         "Turtwig": 3,
         "Prinplup": 1,
         "Tinkatink": 6,
-        "Lechonk": 4,
+        "Lechonk": 5,
         "Kommo-o": 1,
         "Dewott": 4,
         "Arrokuda": 1,
@@ -433,7 +433,7 @@
         "Feebas": 1,
         "Buneary": 1,
         "Zebstrika": 1,
-        "Shuppet": 1,
+        "Shuppet": 2,
         "Paldean wooper": 1,
         "Salandit": 1,
         "School wishiwashi": 2,
@@ -508,10 +508,14 @@
         "Glameow": 1,
         "Croagunk": 1,
         "Duraludon": 1,
-        "Sawk": 1
+        "Sawk": 1,
+        "Starmie": 1,
+        "Simipour": 1,
+        "Goldeen": 1,
+        "Nickit": 1
       },
-      "total_spawns": 1093,
-      "last_spawn": "2026-06-17T21:30:34.193244"
+      "total_spawns": 1105,
+      "last_spawn": "2026-06-17T21:31:05.774781"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -521,7 +525,7 @@
     }
   },
   "global": {
-    "total_spawns": 4424,
+    "total_spawns": 4436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
