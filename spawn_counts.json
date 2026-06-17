@@ -29,7 +29,7 @@
         "Hitokage\ncollection pings": 1,
         "Peppeck\nquest pings": 1,
         "Deino\nquest pings": 1,
-        "Aburi\nquest pings": 1,
+        "Aburi\nquest pings": 2,
         "Stari\nquest pings": 2,
         "Tic\nquest pings": 4,
         "Nakkura\nquest pings": 1,
@@ -40,8 +40,8 @@
         "Tentagra\nquest pings": 1,
         "Ferkuli\nquest pings": 2,
         "Utsudon\nquest pings": 1,
-        "Fantyrm\nshiny hunt pings": 1,
-        "Dreepy\nshiny hunt pings": 1,
+        "Fantyrm\nshiny hunt pings": 2,
+        "Dreepy\nshiny hunt pings": 2,
         "Itomaru\nquest pings": 2,
         "Timburr\nquest pings": 2,
         "Arktip\nquest pings": 1,
@@ -99,7 +99,7 @@
         "Munna\nquest pings": 1,
         "Totodile\nquest pings": 1,
         "Yangusu\nquest pings": 1,
-        "Knofensa\nquest pings": 1,
+        "Knofensa\nquest pings": 2,
         "Beldum\ncollection pings": 1,
         "Terhal\ncollection pings": 1,
         "Sinistcha\nquest pings": 1,
@@ -175,14 +175,15 @@
         "Muma\nquest pings": 1,
         "Entoron\nquest pings": 1,
         "Noctus\nquest pings": 1,
-        "Noctus\ncollection pings": 1
+        "Noctus\ncollection pings": 1,
+        "Lokroko\nquest pings": 1
       },
-      "total_spawns": 217,
-      "last_spawn": "2026-06-17T12:27:03.183810"
+      "total_spawns": 222,
+      "last_spawn": "2026-06-17T12:27:43.051583"
     }
   },
   "global": {
-    "total_spawns": 2954,
+    "total_spawns": 2959,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
