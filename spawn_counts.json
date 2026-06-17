@@ -649,14 +649,18 @@
         "Vigoroth": 1,
         "Kilowattrel": 1,
         "Magnemite": 1,
-        "Gyarados": 1
+        "Gyarados": 1,
+        "Starly": 1,
+        "Gimmighoul": 1,
+        "Psyduck": 1,
+        "Geodude": 1
       },
-      "total_spawns": 20,
-      "last_spawn": "2026-06-18T02:38:43.272851"
+      "total_spawns": 24,
+      "last_spawn": "2026-06-18T02:39:24.352642"
     }
   },
   "global": {
-    "total_spawns": 5101,
+    "total_spawns": 5105,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
