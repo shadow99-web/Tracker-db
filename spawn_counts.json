@@ -50,7 +50,7 @@
         "Finneon": 1,
         "Weedle": 2,
         "Honedge": 3,
-        "Maushold": 1,
+        "Maushold": 2,
         "Togepi": 3,
         "Mightyena": 1,
         "Dreepy": 1,
@@ -122,7 +122,7 @@
         "Carkol": 1,
         "Abra": 1,
         "Pawmi": 1,
-        "Trubbish": 2,
+        "Trubbish": 3,
         "Swoobat": 1,
         "Charcadet": 2,
         "Starly": 2,
@@ -173,7 +173,7 @@
         "Flittle": 1,
         "Dj rotom": 1,
         "Ivysaur": 1,
-        "Glimmet": 2,
+        "Glimmet": 3,
         "Frogadier": 1,
         "Klink": 1,
         "Weepinbell": 1,
@@ -199,14 +199,15 @@
         "Drakloak": 1,
         "Stunky": 1,
         "Cascoon": 1,
-        "Gabite": 1
+        "Gabite": 1,
+        "Electrike": 1
       },
-      "total_spawns": 243,
-      "last_spawn": "2026-06-17T17:15:03.250039"
+      "total_spawns": 247,
+      "last_spawn": "2026-06-17T17:15:43.050894"
     }
   },
   "global": {
-    "total_spawns": 3282,
+    "total_spawns": 3286,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
