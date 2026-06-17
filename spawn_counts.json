@@ -51,8 +51,8 @@
         "Slugma": 1,
         "Grotle": 1,
         "Porygon": 2,
-        "Zubat": 2,
-        "Vanillish": 3,
+        "Zubat": 3,
+        "Vanillish": 4,
         "Tadbulb": 1,
         "Magnemite": 4,
         "Whismur": 1,
@@ -79,7 +79,7 @@
         "Phantump": 2,
         "Duosion": 1,
         "Amaura": 1,
-        "Gimmighoul": 2,
+        "Gimmighoul": 3,
         "Baltoy": 1,
         "Mareep": 3,
         "Garbodor": 1,
@@ -113,7 +113,7 @@
         "Bonsly": 1,
         "Horsea": 1,
         "Frigibax": 2,
-        "Spheal": 1,
+        "Spheal": 2,
         "Swadloon": 1,
         "Flittle": 2,
         "Unfezant": 1,
@@ -129,7 +129,7 @@
         "Zigzagoon": 2,
         "Weedle": 2,
         "Flamigo": 2,
-        "Lillipup": 1,
+        "Lillipup": 2,
         "Shinx": 2,
         "Bounsweet": 1,
         "Noibat": 1,
@@ -209,8 +209,8 @@
         "Swellow": 1,
         "Aipom": 1,
         "Growlithe": 1,
-        "Sewaddle": 1,
-        "Fidough": 1,
+        "Sewaddle": 2,
+        "Fidough": 2,
         "Noivern": 1,
         "Feraligatr": 1,
         "Tynamo": 1,
@@ -221,10 +221,16 @@
         "Cyndaquil": 1,
         "Fuecoco": 1,
         "Cyclizar": 1,
-        "Magmar": 1
+        "Magmar": 1,
+        "Rillaboom": 1,
+        "Ninetales": 1,
+        "Wattrel": 1,
+        "Snubbull": 1,
+        "Spidops": 1,
+        "Braixen": 1
       },
-      "total_spawns": 295,
-      "last_spawn": "2026-06-17T19:59:55.813855"
+      "total_spawns": 308,
+      "last_spawn": "2026-06-17T20:00:25.834518"
     },
     "1443875856803168360": {
       "name": "",
@@ -451,7 +457,7 @@
     }
   },
   "global": {
-    "total_spawns": 3625,
+    "total_spawns": 3638,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
