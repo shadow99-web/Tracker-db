@@ -51,7 +51,7 @@
         "Weedle": 2,
         "Honedge": 2,
         "Maushold": 1,
-        "Togepi": 1,
+        "Togepi": 2,
         "Mightyena": 1,
         "Dreepy": 1,
         "Wooper": 1,
@@ -158,14 +158,17 @@
         "Torchic": 1,
         "Nuzleaf": 1,
         "Diglett": 1,
-        "Arctozolt": 1
+        "Arctozolt": 1,
+        "Lotad": 1,
+        "Baltoy": 1,
+        "Froakie": 1
       },
-      "total_spawns": 180,
-      "last_spawn": "2026-06-17T17:03:23.071206"
+      "total_spawns": 184,
+      "last_spawn": "2026-06-17T17:04:03.042690"
     }
   },
   "global": {
-    "total_spawns": 3219,
+    "total_spawns": 3223,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
