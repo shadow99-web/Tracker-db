@@ -150,7 +150,7 @@
         "Dracovish": 1,
         "Bulbasaur": 1,
         "Roggenrola": 4,
-        "Pidove": 6,
+        "Pidove": 7,
         "Dragapult": 1,
         "Rattata": 3,
         "Flapple": 1,
@@ -219,7 +219,7 @@
         "Joltik": 4,
         "Politoed": 1,
         "Cyndaquil": 3,
-        "Fuecoco": 2,
+        "Fuecoco": 3,
         "Cyclizar": 2,
         "Magmar": 3,
         "Rillaboom": 1,
@@ -247,7 +247,7 @@
         "Lurantis": 1,
         "Swampert": 1,
         "Dachsbun": 4,
-        "Turtwig": 2,
+        "Turtwig": 3,
         "Prinplup": 1,
         "Tinkatink": 6,
         "Lechonk": 4,
@@ -259,7 +259,7 @@
         "Cetitan": 2,
         "Cubone": 2,
         "Gligar": 4,
-        "Tirtouga": 1,
+        "Tirtouga": 2,
         "Furret": 1,
         "Nincada": 1,
         "Fennekin": 4,
@@ -322,7 +322,7 @@
         "Gossifleur": 1,
         "Oshawott": 2,
         "Murkrow": 1,
-        "Bellsprout": 1,
+        "Bellsprout": 2,
         "Mudbray": 1,
         "Dreepy": 3,
         "Tinkaton": 1,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 1,
-        "Squirtle": 1,
+        "Squirtle": 2,
         "Remoraid": 1,
         "Torracat": 1,
         "Hisuian zorua": 1,
@@ -467,7 +467,7 @@
         "Wobbuffet": 1,
         "Roselia": 1,
         "Shelgon": 1,
-        "Buizel": 1,
+        "Buizel": 2,
         "Arctozolt": 1,
         "Snorunt": 1,
         "Bunnelby": 1,
@@ -494,10 +494,16 @@
         "Alakazam": 1,
         "Bayleef": 1,
         "Poochyena": 1,
-        "Klinklang": 1
+        "Klinklang": 1,
+        "Basculin": 1,
+        "Throh": 1,
+        "Comfey": 1,
+        "Applin": 1,
+        "Staraptor": 1,
+        "Mimikyu": 1
       },
-      "total_spawns": 1045,
-      "last_spawn": "2026-06-17T21:28:28.463714"
+      "total_spawns": 1058,
+      "last_spawn": "2026-06-17T21:29:02.277747"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -507,7 +513,7 @@
     }
   },
   "global": {
-    "total_spawns": 4376,
+    "total_spawns": 4389,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
