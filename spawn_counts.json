@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 2,
         "Patrat": 1,
-        "Mosslax": 1,
+        "Mosslax": 2,
         "Drilbur": 2,
         "Pawmi": 2,
         "Electabuzz": 1,
@@ -39,7 +39,7 @@
         "Lotad": 4,
         "Qwilfish": 1,
         "Trapinch": 6,
-        "Toedscool": 2,
+        "Toedscool": 3,
         "Fletchling": 3,
         "Skiploom": 2,
         "Timburr": 4,
@@ -140,7 +140,7 @@
         "Brambleghast": 1,
         "Pidgey": 6,
         "Rhyhorn": 3,
-        "Sentret": 3,
+        "Sentret": 4,
         "Yungoos": 1,
         "Diglett": 2,
         "Doduo": 1,
@@ -177,7 +177,7 @@
         "Minccino": 1,
         "Wurmple": 1,
         "Binacle": 1,
-        "Grafaiai": 1,
+        "Grafaiai": 2,
         "Quilladin": 1,
         "Geodude": 1,
         "Espurr": 1,
@@ -195,11 +195,11 @@
         "Spearow": 1,
         "Helioptile": 2,
         "Hoothoot": 1,
-        "Grookey": 1,
+        "Grookey": 2,
         "Meditite": 1,
         "Toedscruel": 1,
         "Probopass": 1,
-        "Scraggy": 1,
+        "Scraggy": 2,
         "Rhydon": 1,
         "Silcoon": 1,
         "Totodile": 2,
@@ -216,7 +216,7 @@
         "Tynamo": 1,
         "Orthworm": 2,
         "Marill": 1,
-        "Joltik": 1,
+        "Joltik": 2,
         "Politoed": 1,
         "Cyndaquil": 1,
         "Fuecoco": 1,
@@ -267,7 +267,7 @@
         "Vibrava": 1,
         "Loudred": 1,
         "Ceruledge": 1,
-        "Houndour": 1,
+        "Houndour": 2,
         "Glimmet": 1,
         "Goomy": 1,
         "Zapdos": 1,
@@ -300,10 +300,16 @@
         "Cacturne": 1,
         "Oddish": 1,
         "Dragalge": 1,
-        "Iron thorns": 1
+        "Iron thorns": 1,
+        "Alolan exeggutor": 1,
+        "Toxapex": 1,
+        "Lileep": 1,
+        "Rolycoly": 1,
+        "Bronzor": 1,
+        "Dartrix": 1
       },
-      "total_spawns": 456,
-      "last_spawn": "2026-06-17T20:05:42.257366"
+      "total_spawns": 470,
+      "last_spawn": "2026-06-17T20:06:12.270283"
     },
     "1443875856803168360": {
       "name": "",
@@ -530,7 +536,7 @@
     }
   },
   "global": {
-    "total_spawns": 3786,
+    "total_spawns": 3800,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
