@@ -16,7 +16,7 @@
         "Tympole": 1,
         "Bergmite": 1,
         "Starmie": 1,
-        "Kabuto": 1,
+        "Kabuto": 2,
         "Dondozo": 2,
         "Pidove": 2,
         "Fletchling": 1,
@@ -48,7 +48,7 @@
         "Hoppip": 1,
         "Venipede": 3,
         "Finneon": 1,
-        "Weedle": 1,
+        "Weedle": 2,
         "Honedge": 2,
         "Maushold": 1,
         "Togepi": 1,
@@ -154,14 +154,16 @@
         "Marshtomp": 1,
         "Snorlax": 1,
         "Pikipek": 1,
-        "Scovillain": 1
+        "Scovillain": 1,
+        "Torchic": 1,
+        "Nuzleaf": 1
       },
-      "total_spawns": 172,
-      "last_spawn": "2026-06-17T17:02:03.068898"
+      "total_spawns": 176,
+      "last_spawn": "2026-06-17T17:02:43.336597"
     }
   },
   "global": {
-    "total_spawns": 3211,
+    "total_spawns": 3215,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
