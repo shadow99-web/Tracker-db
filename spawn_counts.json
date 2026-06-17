@@ -116,7 +116,7 @@
         "Pamot\nquest pings": 1,
         "Kameru\nquest pings": 1,
         "Pupitar\nquest pings": 1,
-        "Kenhoro\nquest pings": 1,
+        "Kenhoro\nquest pings": 2,
         "Pampuli\nquest pings": 1,
         "Quilava\nquest pings": 1,
         "Murkrow\nquest pings": 1,
@@ -138,14 +138,17 @@
         "Gothita\nquest pings": 1,
         "Sproxi\nquest pings": 1,
         "Hatenna\nshiny hunt pings": 1,
-        "Veluza\nshiny hunt pings": 1
+        "Veluza\nshiny hunt pings": 1,
+        "Veluza\nquest pings": 1,
+        "Marumain\nquest pings": 1,
+        "Tutinin\nquest pings": 1
       },
-      "total_spawns": 163,
-      "last_spawn": "2026-06-17T12:10:48.443362"
+      "total_spawns": 167,
+      "last_spawn": "2026-06-17T12:11:18.456805"
     }
   },
   "global": {
-    "total_spawns": 2900,
+    "total_spawns": 2904,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
