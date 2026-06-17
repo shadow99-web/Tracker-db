@@ -622,10 +622,11 @@
         "East sea gastrodon": 1,
         "Frillish": 1,
         "Manaphy": 1,
-        "Gardevoir": 1
+        "Gardevoir": 1,
+        "Malamar": 1
       },
-      "total_spawns": 1750,
-      "last_spawn": "2026-06-17T21:54:48.829734"
+      "total_spawns": 1751,
+      "last_spawn": "2026-06-18T03:32:15.628038"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -650,17 +651,39 @@
         "Kilowattrel": 1,
         "Magnemite": 1,
         "Gyarados": 1,
-        "Starly": 1,
+        "Starly": 2,
         "Gimmighoul": 1,
         "Psyduck": 1,
-        "Geodude": 1
+        "Geodude": 1,
+        "Carnivine": 1,
+        "Dolliv": 1,
+        "Scizor": 1,
+        "Chespin": 1,
+        "Tadbulb": 1,
+        "Garchomp": 1,
+        "Blastoise": 1,
+        "Finizen": 1,
+        "Brambleghast": 1,
+        "Rockruff": 1,
+        "Snubbull": 1,
+        "Koffing": 1,
+        "Paras": 1,
+        "Abra": 1,
+        "Toedscool": 1,
+        "Trapinch": 1,
+        "Droopy tatsugiri": 1,
+        "Grubbin": 2,
+        "Golbat": 1,
+        "Nidorina": 1,
+        "Trubbish": 1,
+        "Solosis": 1
       },
-      "total_spawns": 24,
-      "last_spawn": "2026-06-18T02:39:24.352642"
+      "total_spawns": 48,
+      "last_spawn": "2026-06-18T02:43:50.789738"
     }
   },
   "global": {
-    "total_spawns": 5105,
+    "total_spawns": 5130,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
