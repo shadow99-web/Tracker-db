@@ -78,7 +78,7 @@
         "Nidoran\nquest pings": 1,
         "Flurmel\nquest pings": 2,
         "Snivy\nquest pings": 1,
-        "Flaniwal\nquest pings": 1,
+        "Flaniwal\nquest pings": 2,
         "Zirpurze\nquest pings": 1,
         "Bokure\nquest pings": 1,
         "Patrat\nquest pings": 1,
@@ -92,14 +92,15 @@
         "Kadabra\nquest pings": 1,
         "Sonans\nquest pings": 1,
         "Micrick\nquest pings": 2,
-        "Blipbug\nshiny hunt pings": 1
+        "Blipbug\nshiny hunt pings": 1,
+        "Blipbug\nquest pings": 1
       },
-      "total_spawns": 95,
-      "last_spawn": "2026-06-17T11:54:50.615102"
+      "total_spawns": 97,
+      "last_spawn": "2026-06-17T11:55:30.529675"
     }
   },
   "global": {
-    "total_spawns": 2832,
+    "total_spawns": 2834,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
