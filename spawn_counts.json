@@ -28,7 +28,7 @@
         "Impidimp": 2,
         "Charmander": 1,
         "Morelull": 1,
-        "Abra": 1,
+        "Abra": 2,
         "Sandile": 1,
         "Sandygast": 2,
         "Litwick": 1,
@@ -67,13 +67,13 @@
         "Glimmora": 2,
         "Starly": 1,
         "Tandemaus": 2,
-        "Smoliv": 1,
+        "Smoliv": 2,
         "Gloom": 1,
         "Clefairy": 1,
         "Spinda": 1,
         "Fomantis": 1,
         "Droopy tatsugiri": 1,
-        "Froslass": 1,
+        "Froslass": 2,
         "Tarountula": 1,
         "Hatterene": 1,
         "Phantump": 2,
@@ -103,7 +103,7 @@
         "Veluza": 2,
         "Barboach": 1,
         "Klink": 1,
-        "Honedge": 2,
+        "Honedge": 3,
         "Wingull": 1,
         "Salamence": 1,
         "Drakloak": 1,
@@ -136,10 +136,23 @@
         "Toxicroak": 1,
         "Charcadet": 1,
         "Croconaw": 1,
-        "Phanpy": 1
+        "Phanpy": 1,
+        "Brambleghast": 1,
+        "Pidgey": 2,
+        "Rhyhorn": 1,
+        "Sentret": 1,
+        "Yungoos": 1,
+        "Diglett": 1,
+        "Doduo": 1,
+        "Lairon": 1,
+        "Emboar": 1,
+        "Deoxys": 1,
+        "Dracovish": 1,
+        "Bulbasaur": 1,
+        "Roggenrola": 1
       },
-      "total_spawns": 158,
-      "last_spawn": "2026-06-17T19:55:47.364394"
+      "total_spawns": 176,
+      "last_spawn": "2026-06-17T19:56:17.507742"
     },
     "1443875856803168360": {
       "name": "",
@@ -366,7 +379,7 @@
     }
   },
   "global": {
-    "total_spawns": 3488,
+    "total_spawns": 3506,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
