@@ -32,7 +32,7 @@
         "Sandile": 3,
         "Sandygast": 2,
         "Litwick": 14,
-        "Grubbin": 3,
+        "Grubbin": 4,
         "Escavalier": 2,
         "Dratini": 3,
         "Kilowattrel": 2,
@@ -52,7 +52,7 @@
         "Grotle": 3,
         "Porygon": 4,
         "Zubat": 9,
-        "Vanillish": 5,
+        "Vanillish": 6,
         "Tadbulb": 1,
         "Magnemite": 6,
         "Whismur": 5,
@@ -67,7 +67,7 @@
         "Glimmora": 4,
         "Starly": 5,
         "Tandemaus": 2,
-        "Smoliv": 6,
+        "Smoliv": 7,
         "Gloom": 1,
         "Clefairy": 1,
         "Spinda": 1,
@@ -129,16 +129,16 @@
         "Zigzagoon": 6,
         "Weedle": 15,
         "Flamigo": 2,
-        "Lillipup": 6,
+        "Lillipup": 7,
         "Shinx": 8,
         "Bounsweet": 2,
         "Noibat": 1,
         "Toxicroak": 1,
-        "Charcadet": 6,
+        "Charcadet": 7,
         "Croconaw": 4,
         "Phanpy": 1,
         "Brambleghast": 1,
-        "Pidgey": 10,
+        "Pidgey": 11,
         "Rhyhorn": 6,
         "Sentret": 4,
         "Yungoos": 2,
@@ -420,7 +420,7 @@
         "Summer sawsbuck": 1,
         "Delibird": 1,
         "Ride cyclizar": 2,
-        "Gothorita": 1,
+        "Gothorita": 2,
         "Varoom": 6,
         "Yellow plumage squawkabilly": 1,
         "Centiskorch": 1,
@@ -503,7 +503,7 @@
         "Mimikyu": 1,
         "Alolan sandslash": 1,
         "Empoleon": 1,
-        "Farigiraf": 2,
+        "Farigiraf": 3,
         "Hakamo-o": 1,
         "Glameow": 1,
         "Croagunk": 1,
@@ -518,10 +518,12 @@
         "Gabite": 1,
         "Hariyama": 1,
         "Victreebel": 1,
-        "Arctibax": 1
+        "Arctibax": 1,
+        "Foongus": 1,
+        "Pansage": 1
       },
-      "total_spawns": 1156,
-      "last_spawn": "2026-06-17T21:37:50.036374"
+      "total_spawns": 1166,
+      "last_spawn": "2026-06-17T21:38:25.539412"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -531,7 +533,7 @@
     }
   },
   "global": {
-    "total_spawns": 4487,
+    "total_spawns": 4497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
