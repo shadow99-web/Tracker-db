@@ -630,14 +630,15 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Toxel": 1
+        "Toxel": 1,
+        "Rolycoly": 1
       },
-      "total_spawns": 1,
-      "last_spawn": "2026-06-17T22:35:38.430015"
+      "total_spawns": 2,
+      "last_spawn": "2026-06-17T23:10:22.919199"
     }
   },
   "global": {
-    "total_spawns": 5082,
+    "total_spawns": 5083,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
