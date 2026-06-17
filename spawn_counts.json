@@ -14,7 +14,7 @@
         "Marshtomp": 3,
         "Charmeleon": 2,
         "Seviper": 1,
-        "Farigiraf": 3,
+        "Farigiraf": 4,
         "Bombirdier": 9,
         "Timburr": 8,
         "Tarountula": 5,
@@ -74,7 +74,7 @@
         "Solosis": 5,
         "Cacnea": 1,
         "Vibrava": 2,
-        "Golett": 3,
+        "Golett": 4,
         "Spheal": 6,
         "Shinx": 7,
         "Yellow plumage squawkabilly": 1,
@@ -148,11 +148,11 @@
         "Pidove": 3,
         "Torchic": 3,
         "Minccino": 3,
-        "Scraggy": 1,
+        "Scraggy": 2,
         "Salazzle": 1,
         "Litwick": 11,
         "Eelektross": 1,
-        "Stunky": 2,
+        "Stunky": 3,
         "Piloswine": 2,
         "Charizard": 1,
         "Trash wormadam": 2,
@@ -353,7 +353,7 @@
         "Patrat": 1,
         "Bounsweet": 3,
         "Simipour": 1,
-        "Froakie": 1,
+        "Froakie": 2,
         "Ariados": 1,
         "Smearguru": 2,
         "Ursaluna": 1,
@@ -454,7 +454,7 @@
         "Cloyster": 1,
         "Staravia": 1,
         "Mawile": 2,
-        "Kadabra": 1,
+        "Kadabra": 2,
         "Crawdaunt": 1,
         "Corvisquire": 2,
         "Greedent": 1,
@@ -511,14 +511,15 @@
         "White flower": 1,
         "Weepinbell": 1,
         "Sunkern": 1,
-        "Galarian yamask": 1
+        "Galarian yamask": 1,
+        "Zorua": 1
       },
-      "total_spawns": 1208,
-      "last_spawn": "2026-06-17T07:33:49.099443"
+      "total_spawns": 1215,
+      "last_spawn": "2026-06-17T07:34:19.163155"
     }
   },
   "global": {
-    "total_spawns": 2197,
+    "total_spawns": 2204,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
