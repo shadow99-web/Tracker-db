@@ -3,10 +3,27 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 1
+        "Chimchar": 1,
+        "Patrat": 1,
+        "Mosslax": 1,
+        "Drilbur": 1,
+        "Pawmi": 1,
+        "Electabuzz": 1,
+        "Rellor": 1,
+        "Sandy burmy": 1,
+        "Wiglett": 1,
+        "Bombirdier": 1,
+        "Litleo": 1,
+        "Purrloin": 1,
+        "Tranquill": 1,
+        "Psyduck": 1,
+        "Rockruff": 1,
+        "Haunter": 1,
+        "Tangela": 1,
+        "Orbeetle": 1
       },
-      "total_spawns": 1,
-      "last_spawn": "2026-06-17T19:51:09.076916"
+      "total_spawns": 18,
+      "last_spawn": "2026-06-17T19:51:39.373424"
     },
     "1443875856803168360": {
       "name": "",
@@ -233,7 +250,7 @@
     }
   },
   "global": {
-    "total_spawns": 3331,
+    "total_spawns": 3348,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
