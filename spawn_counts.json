@@ -8,13 +8,15 @@
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
-      "counts": {},
-      "total_spawns": 0,
-      "last_spawn": null
+      "counts": {
+        "Ibui\ncollection pings": 1
+      },
+      "total_spawns": 1,
+      "last_spawn": "2026-06-17T10:52:43.003157"
     }
   },
   "global": {
-    "total_spawns": 2737,
+    "total_spawns": 2738,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
