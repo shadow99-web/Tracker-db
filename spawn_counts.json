@@ -11,8 +11,8 @@
       "counts": {
         "Ibui\ncollection pings": 1,
         "Kapilz\nquest pings": 2,
-        "Duskull\nquest pings": 3,
-        "Duskull\nshiny hunt pings": 3,
+        "Duskull\nquest pings": 4,
+        "Duskull\nshiny hunt pings": 4,
         "Jimereon\nquest pings": 1,
         "Smogogo\nquest pings": 1,
         "B": 2,
@@ -75,7 +75,7 @@
         "Sukoviran\nquest pings": 1,
         "Anokusa\nquest pings": 1,
         "Fushide\nquest pings": 3,
-        "Nidoran\nquest pings": 1,
+        "Nidoran\nquest pings": 2,
         "Flurmel\nquest pings": 2,
         "Snivy\nquest pings": 1,
         "Flaniwal\nquest pings": 2,
@@ -209,14 +209,15 @@
         "Rongrigou\ncollection pings": 1,
         "Chef dente\nquest pings": 1,
         "Mafitifu\nquest pings": 1,
-        "Koratta\nquest pings": 1
+        "Koratta\nquest pings": 1,
+        "Sealeo\nquest pings": 1
       },
-      "total_spawns": 267,
-      "last_spawn": "2026-06-17T12:34:12.875574"
+      "total_spawns": 271,
+      "last_spawn": "2026-06-17T12:34:42.954296"
     }
   },
   "global": {
-    "total_spawns": 3004,
+    "total_spawns": 3008,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
