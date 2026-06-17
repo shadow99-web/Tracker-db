@@ -19,7 +19,7 @@
         "Bidoru\nquest pings": 1,
         "Set your shiny hunt for this server to": 1,
         "Lombre\nquest pings": 1,
-        "Panpyro\nquest pings": 1,
+        "Panpyro\nquest pings": 2,
         "Dratini\nshiny hunt pings": 1,
         "Dratini\nquest pings": 1,
         "Protoga\nquest pings": 2,
@@ -55,14 +55,15 @@
         "Ignivor\ncollection pings": 1,
         "Ignivor\nquest pings": 1,
         "Farigiraf\nquest pings": 1,
-        "Snom\nquest pings": 1
+        "Snom\nquest pings": 1,
+        "Tepig\nquest pings": 1
       },
-      "total_spawns": 52,
-      "last_spawn": "2026-06-17T11:42:10.632750"
+      "total_spawns": 54,
+      "last_spawn": "2026-06-17T11:42:50.565366"
     }
   },
   "global": {
-    "total_spawns": 2789,
+    "total_spawns": 2791,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
