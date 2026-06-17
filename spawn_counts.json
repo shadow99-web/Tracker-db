@@ -150,7 +150,7 @@
         "Veluza": 1,
         "Staravia": 1,
         "Goldeen": 1,
-        "Whismur": 1,
+        "Whismur": 2,
         "Marshtomp": 1,
         "Snorlax": 1,
         "Pikipek": 2,
@@ -194,7 +194,7 @@
         "Ursaring": 1,
         "Seedot": 1,
         "Munna": 1,
-        "Rolycoly": 2,
+        "Rolycoly": 3,
         "Unfezant": 1,
         "Drakloak": 1,
         "Stunky": 1,
@@ -213,14 +213,16 @@
         "Heatmor": 1,
         "Krabby": 1,
         "Magcargo": 1,
-        "Farigiraf": 1
+        "Farigiraf": 1,
+        "Shieldon": 1,
+        "Oinkologne": 1
       },
-      "total_spawns": 272,
-      "last_spawn": "2026-06-17T18:01:13.317580"
+      "total_spawns": 276,
+      "last_spawn": "2026-06-17T18:02:02.924114"
     }
   },
   "global": {
-    "total_spawns": 3311,
+    "total_spawns": 3315,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
