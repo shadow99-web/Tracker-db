@@ -51,7 +51,7 @@
         "Slugma": 1,
         "Grotle": 1,
         "Porygon": 2,
-        "Zubat": 3,
+        "Zubat": 4,
         "Vanillish": 4,
         "Tadbulb": 1,
         "Magnemite": 4,
@@ -125,7 +125,7 @@
         "Palpitoad": 1,
         "Pikipek": 3,
         "Teddiursa": 2,
-        "Clamperl": 1,
+        "Clamperl": 2,
         "Zigzagoon": 4,
         "Weedle": 8,
         "Flamigo": 2,
@@ -134,7 +134,7 @@
         "Bounsweet": 1,
         "Noibat": 1,
         "Toxicroak": 1,
-        "Charcadet": 2,
+        "Charcadet": 3,
         "Croconaw": 2,
         "Phanpy": 1,
         "Brambleghast": 1,
@@ -163,7 +163,7 @@
         "Tepig": 3,
         "Kirlia": 1,
         "Piplup": 1,
-        "Kakuna": 1,
+        "Kakuna": 2,
         "Weepinbell": 1,
         "Klawf": 1,
         "Vanillite": 2,
@@ -213,7 +213,7 @@
         "Fidough": 2,
         "Noivern": 1,
         "Feraligatr": 1,
-        "Tynamo": 2,
+        "Tynamo": 4,
         "Orthworm": 2,
         "Marill": 1,
         "Joltik": 2,
@@ -229,7 +229,7 @@
         "Spidops": 1,
         "Braixen": 1,
         "Drowzee": 1,
-        "Blipbug": 2,
+        "Blipbug": 3,
         "Lampent": 2,
         "Petilil": 1,
         "Marshtomp": 1,
@@ -257,7 +257,7 @@
         "Golett": 2,
         "Vullaby": 1,
         "Cetitan": 1,
-        "Cubone": 1,
+        "Cubone": 2,
         "Gligar": 1,
         "Tirtouga": 1,
         "Furret": 1,
@@ -358,10 +358,16 @@
         "Muk": 1,
         "Toxel": 1,
         "Banette": 1,
-        "Three-segment dudunsparce": 1
+        "Three-segment dudunsparce": 1,
+        "Fearow": 1,
+        "Mankey": 1,
+        "Bidoof": 1,
+        "Quilava": 1,
+        "Finizen": 1,
+        "Unown y": 1
       },
-      "total_spawns": 602,
-      "last_spawn": "2026-06-17T20:10:54.293763"
+      "total_spawns": 616,
+      "last_spawn": "2026-06-17T20:11:25.718027"
     },
     "1443875856803168360": {
       "name": "",
@@ -588,7 +594,7 @@
     }
   },
   "global": {
-    "total_spawns": 3932,
+    "total_spawns": 3946,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
