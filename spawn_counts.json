@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 2,
+        "Chimchar": 3,
         "Patrat": 1,
         "Mosslax": 2,
         "Drilbur": 2,
@@ -31,7 +31,7 @@
         "Abra": 4,
         "Sandile": 2,
         "Sandygast": 2,
-        "Litwick": 9,
+        "Litwick": 10,
         "Grubbin": 1,
         "Escavalier": 2,
         "Dratini": 2,
@@ -44,8 +44,8 @@
         "Skiploom": 3,
         "Timburr": 4,
         "Dj rotom": 1,
-        "Surskit": 1,
-        "Seedot": 2,
+        "Surskit": 2,
+        "Seedot": 3,
         "Skitty": 1,
         "Greavard": 3,
         "Slugma": 1,
@@ -138,7 +138,7 @@
         "Croconaw": 2,
         "Phanpy": 1,
         "Brambleghast": 1,
-        "Pidgey": 8,
+        "Pidgey": 9,
         "Rhyhorn": 3,
         "Sentret": 4,
         "Yungoos": 2,
@@ -268,7 +268,7 @@
         "Loudred": 1,
         "Ceruledge": 2,
         "Houndour": 2,
-        "Glimmet": 2,
+        "Glimmet": 3,
         "Goomy": 1,
         "Zapdos": 1,
         "Natu": 2,
@@ -324,7 +324,7 @@
         "Murkrow": 1,
         "Bellsprout": 1,
         "Mudbray": 1,
-        "Dreepy": 1,
+        "Dreepy": 2,
         "Tinkaton": 1,
         "Corviknight": 1,
         "Froakie": 2,
@@ -366,7 +366,7 @@
         "Finizen": 1,
         "Unown y": 1,
         "Toucannon": 1,
-        "Caterpie": 1,
+        "Caterpie": 2,
         "Carvanha": 1,
         "Luxio": 1,
         "Treecko": 2,
@@ -384,10 +384,15 @@
         "Drifloon": 1,
         "Golbat": 1,
         "Swablu": 1,
-        "Shellder": 1
+        "Shellder": 1,
+        "Crobat": 1,
+        "Sandshrew": 1,
+        "Palafin": 1,
+        "Maractus": 1,
+        "Sigilyph": 1
       },
-      "total_spawns": 684,
-      "last_spawn": "2026-06-17T20:14:06.171099"
+      "total_spawns": 697,
+      "last_spawn": "2026-06-17T20:14:40.810610"
     },
     "1443875856803168360": {
       "name": "",
@@ -614,7 +619,7 @@
     }
   },
   "global": {
-    "total_spawns": 4014,
+    "total_spawns": 4027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
