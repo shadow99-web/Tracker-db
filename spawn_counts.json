@@ -43,7 +43,7 @@
         "Fantyrm\nshiny hunt pings": 1,
         "Dreepy\nshiny hunt pings": 1,
         "Itomaru\nquest pings": 1,
-        "Timburr\nquest pings": 1,
+        "Timburr\nquest pings": 2,
         "Arktip\nquest pings": 1,
         "Leufeo\nquest pings": 1,
         "Arcko\nquest pings": 1,
@@ -95,14 +95,15 @@
         "Blipbug\nshiny hunt pings": 1,
         "Blipbug\nquest pings": 1,
         "Herdier\nquest pings": 1,
-        "Bithora\nquest pings": 1
+        "Bithora\nquest pings": 1,
+        "Munna\nquest pings": 1
       },
-      "total_spawns": 99,
-      "last_spawn": "2026-06-17T11:56:10.713356"
+      "total_spawns": 101,
+      "last_spawn": "2026-06-17T11:56:50.506451"
     }
   },
   "global": {
-    "total_spawns": 2836,
+    "total_spawns": 2838,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
