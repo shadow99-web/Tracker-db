@@ -6,7 +6,7 @@
         "Dusclops": 2,
         "Staraptor": 1,
         "Tranquill": 4,
-        "Veluza": 5,
+        "Veluza": 6,
         "Drakloak": 4,
         "Deino": 2,
         "Goldeen": 1,
@@ -113,13 +113,13 @@
         "Seadra": 1,
         "Finizen": 7,
         "Popplio": 2,
-        "Zubat": 4,
+        "Zubat": 5,
         "Braixen": 3,
         "Combusken": 2,
         "Nincada": 2,
         "Psyduck": 2,
         "Kakuna": 3,
-        "Armarouge": 2,
+        "Armarouge": 3,
         "Karrablast": 2,
         "Poliwag": 4,
         "Surskit": 5,
@@ -185,7 +185,7 @@
         "Vigoroth": 3,
         "Bellibolt": 3,
         "Wurmple": 7,
-        "Taillow": 3,
+        "Taillow": 4,
         "Horsea": 5,
         "Brionne": 1,
         "Snover": 2,
@@ -416,7 +416,7 @@
         "Tynamo": 4,
         "Hakamo-o": 1,
         "Cacturne": 1,
-        "Monferno": 2,
+        "Monferno": 3,
         "Bewear": 1,
         "Drifloon": 1,
         "Dj rotom": 3,
@@ -507,14 +507,17 @@
         "Milcery": 1,
         "Helioptile": 1,
         "Chansey": 1,
-        "Larvesta": 1
+        "Larvesta": 1,
+        "White flower": 1,
+        "Weepinbell": 1,
+        "Sunkern": 1
       },
-      "total_spawns": 1190,
-      "last_spawn": "2026-06-17T07:32:47.502541"
+      "total_spawns": 1198,
+      "last_spawn": "2026-06-17T07:33:17.614406"
     }
   },
   "global": {
-    "total_spawns": 2179,
+    "total_spawns": 2187,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
