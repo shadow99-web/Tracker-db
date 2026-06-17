@@ -84,7 +84,7 @@
         "Mareep": 2,
         "Garbodor": 1,
         "Slakoth": 1,
-        "Togepi": 1,
+        "Togepi": 2,
         "Falinks": 1,
         "Tropius": 1,
         "Poliwag": 1,
@@ -100,7 +100,7 @@
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 1,
-        "Veluza": 2,
+        "Veluza": 3,
         "Barboach": 1,
         "Klink": 1,
         "Honedge": 3,
@@ -134,13 +134,13 @@
         "Bounsweet": 1,
         "Noibat": 1,
         "Toxicroak": 1,
-        "Charcadet": 1,
+        "Charcadet": 2,
         "Croconaw": 1,
         "Phanpy": 1,
         "Brambleghast": 1,
         "Pidgey": 2,
         "Rhyhorn": 1,
-        "Sentret": 1,
+        "Sentret": 2,
         "Yungoos": 1,
         "Diglett": 1,
         "Doduo": 1,
@@ -149,10 +149,21 @@
         "Deoxys": 1,
         "Dracovish": 1,
         "Bulbasaur": 1,
-        "Roggenrola": 1
+        "Roggenrola": 1,
+        "Pidove": 1,
+        "Dragapult": 1,
+        "Rattata": 1,
+        "Flapple": 1,
+        "Aron": 1,
+        "Boldore": 1,
+        "Spinarak": 1,
+        "Delcatty": 1,
+        "Spiritomb": 1,
+        "Yamper": 1,
+        "Tepig": 1
       },
-      "total_spawns": 176,
-      "last_spawn": "2026-06-17T19:56:17.507742"
+      "total_spawns": 191,
+      "last_spawn": "2026-06-17T19:56:47.537772"
     },
     "1443875856803168360": {
       "name": "",
@@ -379,7 +390,7 @@
     }
   },
   "global": {
-    "total_spawns": 3506,
+    "total_spawns": 3521,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
