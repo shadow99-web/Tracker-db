@@ -144,7 +144,7 @@
         "Gligar": 2,
         "Gigalith": 1,
         "Paras": 1,
-        "Oshawott": 1,
+        "Oshawott": 2,
         "Clobbopus": 1,
         "Phanpy": 1,
         "Veluza": 1,
@@ -182,14 +182,17 @@
         "Trapinch": 1,
         "Lairon": 1,
         "Magneton": 1,
-        "Quilladin": 1
+        "Quilladin": 1,
+        "Blue plumage squawkabilly": 1,
+        "Sandslash": 1,
+        "Low key toxtricity": 1
       },
-      "total_spawns": 218,
-      "last_spawn": "2026-06-17T17:10:03.081760"
+      "total_spawns": 222,
+      "last_spawn": "2026-06-17T17:10:42.964191"
     }
   },
   "global": {
-    "total_spawns": 3257,
+    "total_spawns": 3261,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
