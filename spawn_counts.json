@@ -42,7 +42,7 @@
         "Toedscool": 3,
         "Fletchling": 3,
         "Skiploom": 3,
-        "Timburr": 5,
+        "Timburr": 6,
         "Dj rotom": 1,
         "Surskit": 2,
         "Seedot": 3,
@@ -215,7 +215,7 @@
         "Feraligatr": 1,
         "Tynamo": 4,
         "Orthworm": 3,
-        "Marill": 1,
+        "Marill": 2,
         "Joltik": 2,
         "Politoed": 1,
         "Cyndaquil": 1,
@@ -226,10 +226,10 @@
         "Ninetales": 2,
         "Wattrel": 1,
         "Snubbull": 2,
-        "Spidops": 1,
+        "Spidops": 2,
         "Braixen": 1,
         "Drowzee": 2,
-        "Blipbug": 3,
+        "Blipbug": 4,
         "Lampent": 3,
         "Petilil": 1,
         "Marshtomp": 2,
@@ -266,7 +266,7 @@
         "Quaxwell": 1,
         "Vibrava": 2,
         "Loudred": 1,
-        "Ceruledge": 2,
+        "Ceruledge": 3,
         "Houndour": 2,
         "Glimmet": 3,
         "Goomy": 1,
@@ -361,7 +361,7 @@
         "Three-segment dudunsparce": 1,
         "Fearow": 1,
         "Mankey": 1,
-        "Bidoof": 2,
+        "Bidoof": 3,
         "Quilava": 1,
         "Finizen": 1,
         "Unown y": 1,
@@ -403,10 +403,15 @@
         "Lopunny": 1,
         "Squawkabilly": 1,
         "Electrike": 1,
-        "Drampa": 1
+        "Drampa": 1,
+        "Maschiff": 1,
+        "Rufflet": 1,
+        "Kabutops": 1,
+        "Dondozo": 1,
+        "Pansear": 1
       },
-      "total_spawns": 732,
-      "last_spawn": "2026-06-17T20:16:11.742410"
+      "total_spawns": 743,
+      "last_spawn": "2026-06-17T20:16:43.315519"
     },
     "1443875856803168360": {
       "name": "",
@@ -633,7 +638,7 @@
     }
   },
   "global": {
-    "total_spawns": 4062,
+    "total_spawns": 4073,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
