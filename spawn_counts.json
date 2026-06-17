@@ -31,7 +31,7 @@
         "Deino\nquest pings": 1,
         "Aburi\nquest pings": 1,
         "Stari\nquest pings": 2,
-        "Tic\nquest pings": 2,
+        "Tic\nquest pings": 4,
         "Nakkura\nquest pings": 1,
         "Fulgudog\nquest pings": 1,
         "Ghos\nquest pings": 2,
@@ -91,7 +91,7 @@
         "Kadabra\ncollection pings": 1,
         "Kadabra\nquest pings": 1,
         "Sonans\nquest pings": 1,
-        "Micrick\nquest pings": 2,
+        "Micrick\nquest pings": 3,
         "Blipbug\nshiny hunt pings": 2,
         "Blipbug\nquest pings": 2,
         "Herdier\nquest pings": 1,
@@ -123,14 +123,15 @@
         "Sandile\nshiny hunt pings": 1,
         "Sandile\nquest pings": 1,
         "Aron\nquest pings": 1,
-        "Aron\nshiny hunt pings": 1
+        "Aron\nshiny hunt pings": 1,
+        "Hasubo\nquest pings": 1
       },
-      "total_spawns": 139,
-      "last_spawn": "2026-06-17T12:06:58.574131"
+      "total_spawns": 143,
+      "last_spawn": "2026-06-17T12:07:38.453206"
     }
   },
   "global": {
-    "total_spawns": 2876,
+    "total_spawns": 2880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
