@@ -34,7 +34,7 @@
         "Litwick": 1,
         "Grubbin": 1,
         "Escavalier": 1,
-        "Dratini": 1,
+        "Dratini": 2,
         "Kilowattrel": 1,
         "Lotad": 1,
         "Qwilfish": 1,
@@ -42,7 +42,7 @@
         "Toedscool": 2,
         "Fletchling": 1,
         "Skiploom": 1,
-        "Timburr": 3,
+        "Timburr": 4,
         "Dj rotom": 1,
         "Surskit": 1,
         "Seedot": 1,
@@ -50,9 +50,9 @@
         "Greavard": 1,
         "Slugma": 1,
         "Grotle": 1,
-        "Porygon": 1,
+        "Porygon": 2,
         "Zubat": 2,
-        "Vanillish": 2,
+        "Vanillish": 3,
         "Tadbulb": 1,
         "Magnemite": 3,
         "Whismur": 1,
@@ -92,7 +92,7 @@
         "Riolu": 1,
         "Exeggcute": 1,
         "Corphish": 1,
-        "Hoppip": 1,
+        "Hoppip": 2,
         "Sandslash": 1,
         "Kabuto": 1,
         "Scatterbug": 2,
@@ -138,7 +138,7 @@
         "Croconaw": 2,
         "Phanpy": 1,
         "Brambleghast": 1,
-        "Pidgey": 2,
+        "Pidgey": 3,
         "Rhyhorn": 2,
         "Sentret": 3,
         "Yungoos": 1,
@@ -156,7 +156,7 @@
         "Flapple": 1,
         "Aron": 1,
         "Boldore": 1,
-        "Spinarak": 1,
+        "Spinarak": 2,
         "Delcatty": 1,
         "Spiritomb": 1,
         "Yamper": 1,
@@ -184,10 +184,20 @@
         "Cottonee": 1,
         "Elgyem": 1,
         "Luvdisc": 1,
-        "Vigoroth": 1
+        "Vigoroth": 1,
+        "Skorupi": 1,
+        "Pikachu": 1,
+        "Blue plumage squawkabilly": 1,
+        "Thwackey": 1,
+        "Dusk lycanroc": 1,
+        "Sunny castform": 1,
+        "Pidgeotto": 1,
+        "Spearow": 1,
+        "Helioptile": 1,
+        "Hoothoot": 1
       },
-      "total_spawns": 228,
-      "last_spawn": "2026-06-17T19:57:51.496480"
+      "total_spawns": 245,
+      "last_spawn": "2026-06-17T19:58:22.061076"
     },
     "1443875856803168360": {
       "name": "",
@@ -414,7 +424,7 @@
     }
   },
   "global": {
-    "total_spawns": 3558,
+    "total_spawns": 3575,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
