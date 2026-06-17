@@ -9,14 +9,18 @@
     "1443875856803168360": {
       "name": "",
       "counts": {
-        "Snivy": 1
+        "Snivy": 1,
+        "Vanillish": 1,
+        "Ralts": 1,
+        "Litwick": 1,
+        "Tympole": 1
       },
-      "total_spawns": 1,
-      "last_spawn": "2026-06-17T14:06:53.300720"
+      "total_spawns": 5,
+      "last_spawn": "2026-06-17T14:07:33.273097"
     }
   },
   "global": {
-    "total_spawns": 3040,
+    "total_spawns": 3044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
