@@ -31,7 +31,7 @@
         "Abra": 5,
         "Sandile": 2,
         "Sandygast": 2,
-        "Litwick": 12,
+        "Litwick": 13,
         "Grubbin": 2,
         "Escavalier": 2,
         "Dratini": 2,
@@ -58,7 +58,7 @@
         "Whismur": 2,
         "Monferno": 3,
         "Skwovet": 1,
-        "Bramblin": 2,
+        "Bramblin": 3,
         "Yanma": 3,
         "Larvesta": 3,
         "Beldum": 4,
@@ -100,7 +100,7 @@
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 3,
-        "Veluza": 10,
+        "Veluza": 11,
         "Barboach": 1,
         "Klink": 2,
         "Honedge": 7,
@@ -275,7 +275,7 @@
         "Dhelmise": 1,
         "Bagon": 2,
         "Sudowoodo": 1,
-        "Stoutland": 1,
+        "Stoutland": 2,
         "Rowlet": 1,
         "Galarian slowpoke": 1,
         "Poliwhirl": 1,
@@ -316,11 +316,11 @@
         "Munna": 1,
         "Pawniard": 1,
         "Prof tangrowth": 2,
-        "Jangmo-o": 3,
+        "Jangmo-o": 4,
         "Trash wormadam": 1,
         "Quaxly": 4,
         "Gossifleur": 1,
-        "Oshawott": 1,
+        "Oshawott": 2,
         "Murkrow": 1,
         "Bellsprout": 1,
         "Mudbray": 1,
@@ -362,7 +362,7 @@
         "Fearow": 1,
         "Mankey": 1,
         "Bidoof": 3,
-        "Quilava": 1,
+        "Quilava": 2,
         "Finizen": 1,
         "Unown y": 1,
         "Toucannon": 1,
@@ -453,10 +453,14 @@
         "Scovillain": 1,
         "Sunkern": 1,
         "Drizzile": 1,
-        "Sunflora": 1
+        "Sunflora": 1,
+        "Passimian": 1,
+        "Iron moth": 1,
+        "Cherubi": 1,
+        "Cradily": 1
       },
-      "total_spawns": 889,
-      "last_spawn": "2026-06-17T20:23:02.582573"
+      "total_spawns": 900,
+      "last_spawn": "2026-06-17T20:23:32.589090"
     },
     "1443875856803168360": {
       "name": "",
@@ -683,7 +687,7 @@
     }
   },
   "global": {
-    "total_spawns": 4219,
+    "total_spawns": 4230,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
