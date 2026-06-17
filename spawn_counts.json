@@ -19,7 +19,7 @@
         "Kabuto": 2,
         "Dondozo": 2,
         "Pidove": 3,
-        "Fletchling": 1,
+        "Fletchling": 2,
         "Nincada": 1,
         "Charmeleon": 1,
         "Vanillite": 1,
@@ -47,7 +47,7 @@
         "Zubat": 2,
         "Hoppip": 2,
         "Venipede": 3,
-        "Finneon": 1,
+        "Finneon": 2,
         "Weedle": 2,
         "Honedge": 3,
         "Maushold": 2,
@@ -194,7 +194,7 @@
         "Ursaring": 1,
         "Seedot": 1,
         "Munna": 1,
-        "Rolycoly": 1,
+        "Rolycoly": 2,
         "Unfezant": 1,
         "Drakloak": 1,
         "Stunky": 1,
@@ -211,14 +211,15 @@
         "Passimian": 1,
         "Kadabra": 1,
         "Heatmor": 1,
-        "Krabby": 1
+        "Krabby": 1,
+        "Magcargo": 1
       },
-      "total_spawns": 263,
-      "last_spawn": "2026-06-17T17:40:13.256637"
+      "total_spawns": 267,
+      "last_spawn": "2026-06-17T17:40:52.917146"
     }
   },
   "global": {
-    "total_spawns": 3302,
+    "total_spawns": 3306,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
