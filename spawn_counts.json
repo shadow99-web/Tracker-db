@@ -49,7 +49,7 @@
         "Arcko\nquest pings": 1,
         "Arcko\ncollection pings": 1,
         "Malvalame\nquest pings": 1,
-        "Forgita\nquest pings": 1,
+        "Forgita\nquest pings": 2,
         "Snorunt\nquest pings": 2,
         "Tanebo\nquest pings": 1,
         "Ignivor\ncollection pings": 1,
@@ -179,14 +179,18 @@
         "Lokroko\nquest pings": 1,
         "Porygon\nquest pings": 1,
         "Naetle\nquest pings": 1,
-        "Nigiragi\nquest pings": 1
+        "Nigiragi\nquest pings": 1,
+        "Cubchoo\nshiny hunt pings": 1,
+        "Cubchoo\nquest pings": 1,
+        "Shieldon\nquest pings": 1,
+        "Poulpaf\nquest pings": 1
       },
-      "total_spawns": 225,
-      "last_spawn": "2026-06-17T12:28:14.666803"
+      "total_spawns": 230,
+      "last_spawn": "2026-06-17T12:28:52.933425"
     }
   },
   "global": {
-    "total_spawns": 2962,
+    "total_spawns": 2967,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
