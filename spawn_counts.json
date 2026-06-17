@@ -10,7 +10,7 @@
       "name": "",
       "counts": {
         "Snivy": 1,
-        "Vanillish": 2,
+        "Vanillish": 3,
         "Ralts": 2,
         "Litwick": 1,
         "Tympole": 1,
@@ -117,14 +117,17 @@
         "Bellsprout": 1,
         "Pikachu": 1,
         "Heliolisk": 1,
-        "Anorith": 1
+        "Anorith": 1,
+        "Sandshrew": 1,
+        "Carkol": 1,
+        "Abra": 1
       },
-      "total_spawns": 122,
-      "last_spawn": "2026-06-17T15:33:14.755088"
+      "total_spawns": 126,
+      "last_spawn": "2026-06-17T15:33:52.943043"
     }
   },
   "global": {
-    "total_spawns": 3161,
+    "total_spawns": 3165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
