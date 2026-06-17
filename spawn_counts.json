@@ -72,7 +72,7 @@
         "Lickitung": 1,
         "Klawf": 1,
         "Gossifleur": 3,
-        "Horsea": 1,
+        "Horsea": 2,
         "Snom": 1,
         "Shroomish": 1,
         "Larvesta": 1,
@@ -88,7 +88,7 @@
         "Vulpix": 2,
         "Altaria": 1,
         "Wigglytuff": 1,
-        "Beldum": 3,
+        "Beldum": 4,
         "Petilil": 1,
         "Pachirisu": 3,
         "Treecko": 1,
@@ -208,14 +208,16 @@
         "Audino": 1,
         "Fraxure": 1,
         "Ceruledge": 1,
-        "Passimian": 1
+        "Passimian": 1,
+        "Kadabra": 1,
+        "Heatmor": 1
       },
-      "total_spawns": 257,
-      "last_spawn": "2026-06-17T17:39:03.034755"
+      "total_spawns": 261,
+      "last_spawn": "2026-06-17T17:39:43.024252"
     }
   },
   "global": {
-    "total_spawns": 3296,
+    "total_spawns": 3300,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
