@@ -10,21 +10,23 @@
       "name": "",
       "counts": {
         "Snivy": 1,
-        "Vanillish": 1,
+        "Vanillish": 2,
         "Ralts": 1,
         "Litwick": 1,
         "Tympole": 1,
         "Bergmite": 1,
         "Starmie": 1,
         "Kabuto": 1,
-        "Dondozo": 1
+        "Dondozo": 1,
+        "Pidove": 1,
+        "Fletchling": 1
       },
-      "total_spawns": 9,
-      "last_spawn": "2026-06-17T14:08:13.044989"
+      "total_spawns": 12,
+      "last_spawn": "2026-06-17T14:08:48.377223"
     }
   },
   "global": {
-    "total_spawns": 3048,
+    "total_spawns": 3051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
