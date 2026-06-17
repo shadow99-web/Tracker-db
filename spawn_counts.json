@@ -36,7 +36,7 @@
         "Deino": 1,
         "Tandemaus": 2,
         "Blitzle": 1,
-        "Bramblin": 1,
+        "Bramblin": 2,
         "Trumbeak": 1,
         "Rabsca": 1,
         "Scatterbug": 2,
@@ -125,14 +125,16 @@
         "Trubbish": 1,
         "Swoobat": 1,
         "Charcadet": 1,
-        "Starly": 1
+        "Starly": 1,
+        "Glimmora": 1,
+        "Koffing": 1
       },
-      "total_spawns": 131,
-      "last_spawn": "2026-06-17T15:34:32.902549"
+      "total_spawns": 134,
+      "last_spawn": "2026-06-17T15:35:13.408579"
     }
   },
   "global": {
-    "total_spawns": 3170,
+    "total_spawns": 3173,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
