@@ -30,7 +30,7 @@
         "Peppeck\nquest pings": 1,
         "Deino\nquest pings": 1,
         "Aburi\nquest pings": 1,
-        "Stari\nquest pings": 1,
+        "Stari\nquest pings": 2,
         "Tic\nquest pings": 2,
         "Nakkura\nquest pings": 1,
         "Fulgudog\nquest pings": 1,
@@ -38,14 +38,15 @@
         "G": 1,
         "Kirame\nquest pings": 1,
         "Tentagra\nquest pings": 1,
-        "Ferkuli\nquest pings": 1
+        "Ferkuli\nquest pings": 1,
+        "Utsudon\nquest pings": 1
       },
-      "total_spawns": 31,
-      "last_spawn": "2026-06-17T11:36:10.702626"
+      "total_spawns": 33,
+      "last_spawn": "2026-06-17T11:36:50.482901"
     }
   },
   "global": {
-    "total_spawns": 2768,
+    "total_spawns": 2770,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
