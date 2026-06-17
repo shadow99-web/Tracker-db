@@ -12,8 +12,8 @@
         "Rellor": 1,
         "Sandy burmy": 1,
         "Wiglett": 2,
-        "Bombirdier": 1,
-        "Litleo": 1,
+        "Bombirdier": 2,
+        "Litleo": 2,
         "Purrloin": 1,
         "Tranquill": 1,
         "Psyduck": 1,
@@ -25,7 +25,7 @@
         "Machop": 1,
         "Dudunsparce": 1,
         "Gothita": 1,
-        "Impidimp": 1,
+        "Impidimp": 2,
         "Charmander": 1,
         "Morelull": 1,
         "Abra": 1,
@@ -42,7 +42,7 @@
         "Toedscool": 1,
         "Fletchling": 1,
         "Skiploom": 1,
-        "Timburr": 1,
+        "Timburr": 2,
         "Dj rotom": 1,
         "Surskit": 1,
         "Seedot": 1,
@@ -52,14 +52,14 @@
         "Grotle": 1,
         "Porygon": 1,
         "Zubat": 1,
-        "Vanillish": 1,
+        "Vanillish": 2,
         "Tadbulb": 1,
         "Magnemite": 2,
         "Whismur": 1,
         "Monferno": 1,
         "Skwovet": 1,
         "Bramblin": 1,
-        "Yanma": 1,
+        "Yanma": 2,
         "Larvesta": 2,
         "Beldum": 2,
         "Ducklett": 1,
@@ -97,10 +97,22 @@
         "Kabuto": 1,
         "Scatterbug": 1,
         "Pumpkaboo": 1,
-        "Numel": 1
+        "Numel": 1,
+        "Carracosta": 1,
+        "Smearguru": 1,
+        "Veluza": 1,
+        "Barboach": 1,
+        "Klink": 1,
+        "Honedge": 1,
+        "Wingull": 1,
+        "Salamence": 1,
+        "Drakloak": 1,
+        "Chewtle": 1,
+        "Scizor": 1,
+        "Sneasel": 1
       },
-      "total_spawns": 105,
-      "last_spawn": "2026-06-17T19:54:12.638814"
+      "total_spawns": 123,
+      "last_spawn": "2026-06-17T19:54:45.724852"
     },
     "1443875856803168360": {
       "name": "",
@@ -327,7 +339,7 @@
     }
   },
   "global": {
-    "total_spawns": 3435,
+    "total_spawns": 3453,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
