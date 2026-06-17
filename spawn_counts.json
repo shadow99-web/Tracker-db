@@ -36,7 +36,7 @@
         "Fulgudog\nquest pings": 1,
         "Ghos\nquest pings": 3,
         "G": 3,
-        "Kirame\nquest pings": 4,
+        "Kirame\nquest pings": 5,
         "Tentagra\nquest pings": 2,
         "Ferkuli\nquest pings": 2,
         "Utsudon\nquest pings": 1,
@@ -182,7 +182,7 @@
         "Nigiragi\nquest pings": 2,
         "Cubchoo\nshiny hunt pings": 1,
         "Cubchoo\nquest pings": 1,
-        "Shieldon\nquest pings": 1,
+        "Shieldon\nquest pings": 2,
         "Poulpaf\nquest pings": 1,
         "Adebom\nquest pings": 1,
         "Buban\nquest pings": 1,
@@ -212,14 +212,16 @@
         "Koratta\nquest pings": 1,
         "Sealeo\nquest pings": 1,
         "Meios\nquest pings": 1,
-        "Camaub\nquest pings": 1
+        "Camaub\nquest pings": 1,
+        "Gamagaru\nquest pings": 1,
+        "Famieps\nquest pings": 1
       },
-      "total_spawns": 274,
-      "last_spawn": "2026-06-17T12:35:13.177899"
+      "total_spawns": 278,
+      "last_spawn": "2026-06-17T12:35:49.675547"
     }
   },
   "global": {
-    "total_spawns": 3011,
+    "total_spawns": 3015,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
