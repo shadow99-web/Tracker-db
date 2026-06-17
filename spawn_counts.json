@@ -7,7 +7,7 @@
         "Patrat": 1,
         "Mosslax": 2,
         "Drilbur": 2,
-        "Pawmi": 2,
+        "Pawmi": 3,
         "Electabuzz": 1,
         "Rellor": 3,
         "Sandy burmy": 1,
@@ -50,7 +50,7 @@
         "Greavard": 3,
         "Slugma": 1,
         "Grotle": 3,
-        "Porygon": 3,
+        "Porygon": 4,
         "Zubat": 6,
         "Vanillish": 4,
         "Tadbulb": 1,
@@ -100,7 +100,7 @@
         "Numel": 1,
         "Carracosta": 1,
         "Smearguru": 2,
-        "Veluza": 9,
+        "Veluza": 10,
         "Barboach": 1,
         "Klink": 2,
         "Honedge": 6,
@@ -143,7 +143,7 @@
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 2,
-        "Doduo": 1,
+        "Doduo": 2,
         "Lairon": 1,
         "Emboar": 2,
         "Deoxys": 1,
@@ -165,7 +165,7 @@
         "Piplup": 1,
         "Kakuna": 2,
         "Weepinbell": 1,
-        "Klawf": 2,
+        "Klawf": 3,
         "Vanillite": 3,
         "Flareon": 1,
         "Gastly": 4,
@@ -228,7 +228,7 @@
         "Snubbull": 2,
         "Spidops": 2,
         "Braixen": 1,
-        "Drowzee": 2,
+        "Drowzee": 3,
         "Blipbug": 4,
         "Lampent": 3,
         "Petilil": 1,
@@ -258,7 +258,7 @@
         "Vullaby": 2,
         "Cetitan": 2,
         "Cubone": 2,
-        "Gligar": 2,
+        "Gligar": 3,
         "Tirtouga": 1,
         "Furret": 1,
         "Nincada": 1,
@@ -421,13 +421,17 @@
         "Delibird": 1,
         "Ride cyclizar": 1,
         "Gothorita": 1,
-        "Varoom": 1,
+        "Varoom": 2,
         "Yellow plumage squawkabilly": 1,
         "Centiskorch": 1,
-        "Low key toxtricity": 1
+        "Low key toxtricity": 1,
+        "Grapploct": 1,
+        "Gurdurr": 1,
+        "Girafarig": 1,
+        "Flaaffy": 1
       },
-      "total_spawns": 793,
-      "last_spawn": "2026-06-17T20:18:48.943559"
+      "total_spawns": 805,
+      "last_spawn": "2026-06-17T20:19:21.389008"
     },
     "1443875856803168360": {
       "name": "",
@@ -654,7 +658,7 @@
     }
   },
   "global": {
-    "total_spawns": 4123,
+    "total_spawns": 4135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
