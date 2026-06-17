@@ -42,7 +42,7 @@
         "Toedscool": 3,
         "Fletchling": 3,
         "Skiploom": 3,
-        "Timburr": 4,
+        "Timburr": 5,
         "Dj rotom": 1,
         "Surskit": 2,
         "Seedot": 3,
@@ -76,7 +76,7 @@
         "Froslass": 3,
         "Tarountula": 1,
         "Hatterene": 1,
-        "Phantump": 2,
+        "Phantump": 3,
         "Duosion": 2,
         "Amaura": 1,
         "Gimmighoul": 5,
@@ -149,7 +149,7 @@
         "Deoxys": 1,
         "Dracovish": 1,
         "Bulbasaur": 1,
-        "Roggenrola": 3,
+        "Roggenrola": 4,
         "Pidove": 3,
         "Dragapult": 1,
         "Rattata": 3,
@@ -170,7 +170,7 @@
         "Flareon": 1,
         "Gastly": 3,
         "Taillow": 3,
-        "Swinub": 2,
+        "Swinub": 3,
         "Inkay": 2,
         "Gible": 2,
         "Rookidee": 5,
@@ -392,10 +392,18 @@
         "Sigilyph": 1,
         "Unown m": 1,
         "Stufful": 1,
-        "Wailord": 1
+        "Wailord": 1,
+        "Makuhita": 1,
+        "Lombre": 1,
+        "Ursaluna": 1,
+        "Furfrou": 1,
+        "Sylveon": 1,
+        "Nosepass": 1,
+        "Persian": 1,
+        "Lopunny": 1
       },
-      "total_spawns": 709,
-      "last_spawn": "2026-06-17T20:15:11.052941"
+      "total_spawns": 721,
+      "last_spawn": "2026-06-17T20:15:41.125465"
     },
     "1443875856803168360": {
       "name": "",
@@ -622,7 +630,7 @@
     }
   },
   "global": {
-    "total_spawns": 4039,
+    "total_spawns": 4051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
