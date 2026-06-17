@@ -8,7 +8,7 @@
         "Mosslax": 3,
         "Drilbur": 2,
         "Pawmi": 7,
-        "Electabuzz": 1,
+        "Electabuzz": 2,
         "Rellor": 8,
         "Sandy burmy": 3,
         "Wiglett": 10,
@@ -53,7 +53,7 @@
         "Porygon": 6,
         "Zubat": 13,
         "Vanillish": 6,
-        "Tadbulb": 2,
+        "Tadbulb": 3,
         "Magnemite": 10,
         "Whismur": 6,
         "Monferno": 5,
@@ -92,7 +92,7 @@
         "Riolu": 3,
         "Exeggcute": 3,
         "Corphish": 1,
-        "Hoppip": 7,
+        "Hoppip": 8,
         "Sandslash": 1,
         "Kabuto": 4,
         "Scatterbug": 7,
@@ -102,7 +102,7 @@
         "Smearguru": 6,
         "Veluza": 15,
         "Barboach": 2,
-        "Klink": 4,
+        "Klink": 5,
         "Honedge": 14,
         "Wingull": 2,
         "Salamence": 1,
@@ -149,7 +149,7 @@
         "Deoxys": 1,
         "Dracovish": 2,
         "Bulbasaur": 3,
-        "Roggenrola": 5,
+        "Roggenrola": 6,
         "Pidove": 13,
         "Dragapult": 1,
         "Rattata": 5,
@@ -243,7 +243,7 @@
         "Shroodle": 9,
         "Duskull": 7,
         "Bergmite": 1,
-        "Pignite": 2,
+        "Pignite": 3,
         "Lurantis": 1,
         "Swampert": 2,
         "Dachsbun": 4,
@@ -262,7 +262,7 @@
         "Tirtouga": 4,
         "Furret": 1,
         "Nincada": 3,
-        "Fennekin": 5,
+        "Fennekin": 6,
         "Quaxwell": 2,
         "Vibrava": 2,
         "Loudred": 1,
@@ -619,20 +619,25 @@
         "Fraxure": 1,
         "Talonflame": 1,
         "Kleavor": 1,
-        "East sea gastrodon": 1
+        "East sea gastrodon": 1,
+        "Frillish": 1,
+        "Manaphy": 1,
+        "Gardevoir": 1
       },
-      "total_spawns": 1740,
-      "last_spawn": "2026-06-17T21:54:30.039989"
+      "total_spawns": 1750,
+      "last_spawn": "2026-06-17T21:54:48.829734"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
-      "counts": {},
-      "total_spawns": 0,
-      "last_spawn": null
+      "counts": {
+        "Toxel": 1
+      },
+      "total_spawns": 1,
+      "last_spawn": "2026-06-17T22:35:38.430015"
     }
   },
   "global": {
-    "total_spawns": 5071,
+    "total_spawns": 5082,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
