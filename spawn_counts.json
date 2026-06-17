@@ -70,11 +70,11 @@
         "Escroco\nquest pings": 1,
         "Purmel\nquest pings": 2,
         "Hipopotasu\nquest pings": 1,
-        "Scyther\ncollection pings": 1,
-        "Scyther\nquest pings": 1,
+        "Scyther\ncollection pings": 2,
+        "Scyther\nquest pings": 2,
         "Sukoviran\nquest pings": 1,
         "Anokusa\nquest pings": 1,
-        "Fushide\nquest pings": 2,
+        "Fushide\nquest pings": 3,
         "Nidoran\nquest pings": 1,
         "Flurmel\nquest pings": 2,
         "Snivy\nquest pings": 1,
@@ -141,14 +141,16 @@
         "Veluza\nshiny hunt pings": 1,
         "Veluza\nquest pings": 1,
         "Marumain\nquest pings": 1,
-        "Tutinin\nquest pings": 1
+        "Tutinin\nquest pings": 1,
+        "Crimanzo\nquest pings": 1,
+        "Tandon\nquest pings": 1
       },
-      "total_spawns": 167,
-      "last_spawn": "2026-06-17T12:11:18.456805"
+      "total_spawns": 172,
+      "last_spawn": "2026-06-17T12:12:00.051314"
     }
   },
   "global": {
-    "total_spawns": 2904,
+    "total_spawns": 2909,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
