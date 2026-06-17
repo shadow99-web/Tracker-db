@@ -24,7 +24,7 @@
         "Dedenne": 1,
         "Machop": 5,
         "Dudunsparce": 1,
-        "Gothita": 3,
+        "Gothita": 4,
         "Impidimp": 3,
         "Charmander": 1,
         "Morelull": 1,
@@ -38,7 +38,7 @@
         "Kilowattrel": 1,
         "Lotad": 5,
         "Qwilfish": 2,
-        "Trapinch": 8,
+        "Trapinch": 9,
         "Toedscool": 3,
         "Fletchling": 3,
         "Skiploom": 4,
@@ -51,7 +51,7 @@
         "Slugma": 1,
         "Grotle": 3,
         "Porygon": 4,
-        "Zubat": 7,
+        "Zubat": 8,
         "Vanillish": 4,
         "Tadbulb": 1,
         "Magnemite": 5,
@@ -166,7 +166,7 @@
         "Kakuna": 2,
         "Weepinbell": 1,
         "Klawf": 4,
-        "Vanillite": 3,
+        "Vanillite": 4,
         "Flareon": 1,
         "Gastly": 4,
         "Taillow": 3,
@@ -246,7 +246,7 @@
         "Pignite": 1,
         "Lurantis": 1,
         "Swampert": 1,
-        "Dachsbun": 2,
+        "Dachsbun": 3,
         "Turtwig": 1,
         "Prinplup": 1,
         "Tinkatink": 6,
@@ -316,7 +316,7 @@
         "Munna": 1,
         "Pawniard": 1,
         "Prof tangrowth": 2,
-        "Jangmo-o": 2,
+        "Jangmo-o": 3,
         "Trash wormadam": 1,
         "Quaxly": 4,
         "Gossifleur": 1,
@@ -405,7 +405,7 @@
         "Electrike": 1,
         "Drampa": 1,
         "Maschiff": 1,
-        "Rufflet": 1,
+        "Rufflet": 2,
         "Kabutops": 1,
         "Dondozo": 2,
         "Pansear": 1,
@@ -437,10 +437,15 @@
         "Paldean wooper": 1,
         "Salandit": 1,
         "School wishiwashi": 1,
-        "Snivy": 1
+        "Snivy": 1,
+        "Wyrdeer": 1,
+        "Tangrowth": 1,
+        "Galarian zen darmanitan": 1,
+        "Bibarel": 1,
+        "Plusle": 1
       },
-      "total_spawns": 842,
-      "last_spawn": "2026-06-17T20:20:56.636659"
+      "total_spawns": 854,
+      "last_spawn": "2026-06-17T20:21:28.786959"
     },
     "1443875856803168360": {
       "name": "",
@@ -667,7 +672,7 @@
     }
   },
   "global": {
-    "total_spawns": 4172,
+    "total_spawns": 4184,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
