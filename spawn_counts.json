@@ -31,7 +31,7 @@
         "Abra": 3,
         "Sandile": 1,
         "Sandygast": 2,
-        "Litwick": 6,
+        "Litwick": 7,
         "Grubbin": 1,
         "Escavalier": 2,
         "Dratini": 2,
@@ -115,11 +115,11 @@
         "Frigibax": 4,
         "Spheal": 3,
         "Swadloon": 1,
-        "Flittle": 4,
+        "Flittle": 5,
         "Unfezant": 1,
         "Yamask": 1,
         "Ralts": 2,
-        "Solosis": 3,
+        "Solosis": 4,
         "Battle cyclizar": 2,
         "Togetic": 1,
         "Palpitoad": 1,
@@ -169,7 +169,7 @@
         "Vanillite": 1,
         "Flareon": 1,
         "Gastly": 2,
-        "Taillow": 2,
+        "Taillow": 3,
         "Swinub": 1,
         "Inkay": 1,
         "Gible": 1,
@@ -264,7 +264,7 @@
         "Nincada": 1,
         "Fennekin": 1,
         "Quaxwell": 1,
-        "Vibrava": 1,
+        "Vibrava": 2,
         "Loudred": 1,
         "Ceruledge": 1,
         "Houndour": 2,
@@ -322,10 +322,19 @@
         "Gossifleur": 1,
         "Oshawott": 1,
         "Murkrow": 1,
-        "Bellsprout": 1
+        "Bellsprout": 1,
+        "Mudbray": 1,
+        "Dreepy": 1,
+        "Tinkaton": 1,
+        "Corviknight": 1,
+        "Froakie": 1,
+        "Nymble": 1,
+        "Ferrothorn": 1,
+        "Servine": 1,
+        "Blitzle": 1
       },
-      "total_spawns": 513,
-      "last_spawn": "2026-06-17T20:07:45.663835"
+      "total_spawns": 527,
+      "last_spawn": "2026-06-17T20:08:15.838819"
     },
     "1443875856803168360": {
       "name": "",
@@ -552,7 +561,7 @@
     }
   },
   "global": {
-    "total_spawns": 3843,
+    "total_spawns": 3857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
