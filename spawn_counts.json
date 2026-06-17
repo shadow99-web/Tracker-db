@@ -68,7 +68,7 @@
         "Vrombi\nshiny hunt pings": 2,
         "Buroron\nquest pings": 2,
         "Escroco\nquest pings": 1,
-        "Purmel\nquest pings": 1,
+        "Purmel\nquest pings": 2,
         "Hipopotasu\nquest pings": 1,
         "Scyther\ncollection pings": 1,
         "Scyther\nquest pings": 1,
@@ -116,14 +116,15 @@
         "Pamot\nquest pings": 1,
         "Kameru\nquest pings": 1,
         "Pupitar\nquest pings": 1,
-        "Kenhoro\nquest pings": 1
+        "Kenhoro\nquest pings": 1,
+        "Pampuli\nquest pings": 1
       },
-      "total_spawns": 127,
-      "last_spawn": "2026-06-17T12:04:10.727972"
+      "total_spawns": 129,
+      "last_spawn": "2026-06-17T12:04:50.709389"
     }
   },
   "global": {
-    "total_spawns": 2864,
+    "total_spawns": 2866,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
