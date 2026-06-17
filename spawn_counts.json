@@ -94,7 +94,7 @@
         "Treecko": 1,
         "Rillaboom": 1,
         "Swadloon": 1,
-        "Slakoth": 1,
+        "Slakoth": 2,
         "Gothita": 1,
         "Corsola": 1,
         "Lechonk": 1,
@@ -168,17 +168,19 @@
         "Chingling": 1,
         "Teddiursa": 1,
         "Noibat": 1,
-        "Ride cyclizar": 1,
+        "Ride cyclizar": 2,
         "Sprigatito": 1,
         "Flittle": 1,
-        "Dj rotom": 1
+        "Dj rotom": 1,
+        "Ivysaur": 1,
+        "Glimmet": 1
       },
-      "total_spawns": 200,
-      "last_spawn": "2026-06-17T17:07:04.375554"
+      "total_spawns": 204,
+      "last_spawn": "2026-06-17T17:07:42.996428"
     }
   },
   "global": {
-    "total_spawns": 3239,
+    "total_spawns": 3243,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
