@@ -16,7 +16,7 @@
         "Jimereon\nquest pings": 1,
         "Smogogo\nquest pings": 1,
         "B": 3,
-        "Bidoru\nquest pings": 1,
+        "Bidoru\nquest pings": 2,
         "Set your shiny hunt for this server to": 1,
         "Lombre\nquest pings": 2,
         "Panpyro\nquest pings": 2,
@@ -217,14 +217,15 @@
         "Famieps\nquest pings": 2,
         "Uniran\nquest pings": 1,
         "Lampent\nquest pings": 1,
-        "Ghost\nquest pings": 1
+        "Ghost\nquest pings": 1,
+        "Nacli\nquest pings": 1
       },
-      "total_spawns": 283,
-      "last_spawn": "2026-06-17T12:39:55.374984"
+      "total_spawns": 285,
+      "last_spawn": "2026-06-17T12:42:56.361919"
     }
   },
   "global": {
-    "total_spawns": 3020,
+    "total_spawns": 3022,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
