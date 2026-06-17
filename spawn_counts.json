@@ -7,7 +7,7 @@
         "Patrat": 1,
         "Mosslax": 2,
         "Drilbur": 2,
-        "Pawmi": 3,
+        "Pawmi": 4,
         "Electabuzz": 1,
         "Rellor": 3,
         "Sandy burmy": 2,
@@ -31,12 +31,12 @@
         "Abra": 5,
         "Sandile": 2,
         "Sandygast": 2,
-        "Litwick": 11,
+        "Litwick": 12,
         "Grubbin": 2,
         "Escavalier": 2,
         "Dratini": 2,
         "Kilowattrel": 1,
-        "Lotad": 5,
+        "Lotad": 6,
         "Qwilfish": 2,
         "Trapinch": 9,
         "Toedscool": 4,
@@ -130,7 +130,7 @@
         "Weedle": 11,
         "Flamigo": 2,
         "Lillipup": 5,
-        "Shinx": 6,
+        "Shinx": 7,
         "Bounsweet": 1,
         "Noibat": 1,
         "Toxicroak": 1,
@@ -258,11 +258,11 @@
         "Vullaby": 2,
         "Cetitan": 2,
         "Cubone": 2,
-        "Gligar": 3,
+        "Gligar": 4,
         "Tirtouga": 1,
         "Furret": 1,
         "Nincada": 1,
-        "Fennekin": 2,
+        "Fennekin": 3,
         "Quaxwell": 1,
         "Vibrava": 2,
         "Loudred": 1,
@@ -448,10 +448,15 @@
         "Wugtrio": 1,
         "Bellibolt": 1,
         "Morgrem": 1,
-        "Misdreavus": 1
+        "Misdreavus": 1,
+        "Seviper": 1,
+        "Scovillain": 1,
+        "Sunkern": 1,
+        "Drizzile": 1,
+        "Sunflora": 1
       },
-      "total_spawns": 878,
-      "last_spawn": "2026-06-17T20:22:32.385172"
+      "total_spawns": 889,
+      "last_spawn": "2026-06-17T20:23:02.582573"
     },
     "1443875856803168360": {
       "name": "",
@@ -678,7 +683,7 @@
     }
   },
   "global": {
-    "total_spawns": 4208,
+    "total_spawns": 4219,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
