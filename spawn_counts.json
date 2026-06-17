@@ -7,7 +7,7 @@
         "Patrat": 1,
         "Mosslax": 1,
         "Drilbur": 1,
-        "Pawmi": 1,
+        "Pawmi": 2,
         "Electabuzz": 1,
         "Rellor": 1,
         "Sandy burmy": 1,
@@ -70,10 +70,25 @@
         "Smoliv": 1,
         "Gloom": 1,
         "Clefairy": 1,
-        "Spinda": 1
+        "Spinda": 1,
+        "Fomantis": 1,
+        "Droopy tatsugiri": 1,
+        "Froslass": 1,
+        "Tarountula": 1,
+        "Hatterene": 1,
+        "Phantump": 2,
+        "Duosion": 1,
+        "Amaura": 1,
+        "Gimmighoul": 1,
+        "Baltoy": 1,
+        "Mareep": 1,
+        "Garbodor": 1,
+        "Slakoth": 1,
+        "Togepi": 1,
+        "Falinks": 1
       },
-      "total_spawns": 71,
-      "last_spawn": "2026-06-17T19:53:11.686679"
+      "total_spawns": 88,
+      "last_spawn": "2026-06-17T19:53:42.331826"
     },
     "1443875856803168360": {
       "name": "",
@@ -300,7 +315,7 @@
     }
   },
   "global": {
-    "total_spawns": 3401,
+    "total_spawns": 3418,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
