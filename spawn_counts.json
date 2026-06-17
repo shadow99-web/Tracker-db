@@ -17,7 +17,7 @@
         "Bergmite": 1,
         "Starmie": 1,
         "Kabuto": 1,
-        "Dondozo": 1,
+        "Dondozo": 2,
         "Pidove": 1,
         "Fletchling": 1,
         "Nincada": 1,
@@ -82,7 +82,7 @@
         "Three-segment dudunsparce": 1,
         "Nidorina": 1,
         "Swellow": 1,
-        "Gimmighoul": 1,
+        "Gimmighoul": 2,
         "Murkrow": 1,
         "Swanna": 1,
         "Vulpix": 1,
@@ -109,14 +109,16 @@
         "Frigibax": 1,
         "Cubone": 1,
         "Corphish": 1,
-        "Revavroom": 1
+        "Revavroom": 1,
+        "Lapras": 1,
+        "Silcoon": 1
       },
-      "total_spawns": 110,
-      "last_spawn": "2026-06-17T15:31:13.116358"
+      "total_spawns": 114,
+      "last_spawn": "2026-06-17T15:31:53.099118"
     }
   },
   "global": {
-    "total_spawns": 3149,
+    "total_spawns": 3153,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
