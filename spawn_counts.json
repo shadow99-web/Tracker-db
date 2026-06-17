@@ -16,7 +16,7 @@
         "Litleo": 3,
         "Purrloin": 1,
         "Tranquill": 1,
-        "Psyduck": 1,
+        "Psyduck": 2,
         "Rockruff": 1,
         "Haunter": 1,
         "Tangela": 1,
@@ -31,17 +31,17 @@
         "Abra": 3,
         "Sandile": 1,
         "Sandygast": 2,
-        "Litwick": 2,
+        "Litwick": 3,
         "Grubbin": 1,
         "Escavalier": 1,
         "Dratini": 2,
         "Kilowattrel": 1,
         "Lotad": 2,
         "Qwilfish": 1,
-        "Trapinch": 4,
+        "Trapinch": 5,
         "Toedscool": 2,
-        "Fletchling": 2,
-        "Skiploom": 1,
+        "Fletchling": 3,
+        "Skiploom": 2,
         "Timburr": 4,
         "Dj rotom": 1,
         "Surskit": 1,
@@ -81,7 +81,7 @@
         "Amaura": 1,
         "Gimmighoul": 3,
         "Baltoy": 1,
-        "Mareep": 3,
+        "Mareep": 4,
         "Garbodor": 1,
         "Slakoth": 2,
         "Togepi": 2,
@@ -169,7 +169,7 @@
         "Vanillite": 1,
         "Flareon": 1,
         "Gastly": 2,
-        "Taillow": 1,
+        "Taillow": 2,
         "Swinub": 1,
         "Inkay": 1,
         "Gible": 1,
@@ -214,7 +214,7 @@
         "Noivern": 1,
         "Feraligatr": 1,
         "Tynamo": 1,
-        "Orthworm": 1,
+        "Orthworm": 2,
         "Marill": 1,
         "Joltik": 1,
         "Politoed": 1,
@@ -239,10 +239,18 @@
         "Clobbopus": 1,
         "Omanyte": 1,
         "Galvantula": 1,
-        "Chansey": 1
+        "Chansey": 1,
+        "Shroodle": 1,
+        "Duskull": 1,
+        "Bergmite": 1,
+        "Pignite": 1,
+        "Lurantis": 1,
+        "Swampert": 1,
+        "Dachsbun": 1,
+        "Turtwig": 1
       },
-      "total_spawns": 336,
-      "last_spawn": "2026-06-17T20:01:26.082450"
+      "total_spawns": 352,
+      "last_spawn": "2026-06-17T20:02:01.316979"
     },
     "1443875856803168360": {
       "name": "",
@@ -469,7 +477,7 @@
     }
   },
   "global": {
-    "total_spawns": 3666,
+    "total_spawns": 3682,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
