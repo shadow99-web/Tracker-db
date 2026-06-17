@@ -79,7 +79,7 @@
         "Phantump": 3,
         "Duosion": 2,
         "Amaura": 2,
-        "Gimmighoul": 5,
+        "Gimmighoul": 6,
         "Baltoy": 1,
         "Mareep": 5,
         "Garbodor": 1,
@@ -150,7 +150,7 @@
         "Dracovish": 1,
         "Bulbasaur": 1,
         "Roggenrola": 4,
-        "Pidove": 7,
+        "Pidove": 8,
         "Dragapult": 1,
         "Rattata": 3,
         "Flapple": 1,
@@ -163,10 +163,10 @@
         "Tepig": 5,
         "Kirlia": 1,
         "Piplup": 1,
-        "Kakuna": 2,
+        "Kakuna": 3,
         "Weepinbell": 1,
         "Klawf": 4,
-        "Vanillite": 5,
+        "Vanillite": 6,
         "Flareon": 1,
         "Gastly": 4,
         "Taillow": 3,
@@ -268,7 +268,7 @@
         "Loudred": 1,
         "Ceruledge": 3,
         "Houndour": 3,
-        "Glimmet": 3,
+        "Glimmet": 4,
         "Goomy": 1,
         "Zapdos": 1,
         "Natu": 2,
@@ -311,7 +311,7 @@
         "Zangoose": 1,
         "Flygon": 1,
         "Shellos": 1,
-        "Jigglypuff": 1,
+        "Jigglypuff": 2,
         "Nacli": 1,
         "Munna": 1,
         "Pawniard": 1,
@@ -500,10 +500,15 @@
         "Comfey": 1,
         "Applin": 1,
         "Staraptor": 1,
-        "Mimikyu": 1
+        "Mimikyu": 1,
+        "Alolan sandslash": 1,
+        "Empoleon": 1,
+        "Farigiraf": 1,
+        "Hakamo-o": 1,
+        "Glameow": 1
       },
-      "total_spawns": 1058,
-      "last_spawn": "2026-06-17T21:29:02.277747"
+      "total_spawns": 1069,
+      "last_spawn": "2026-06-17T21:29:32.545797"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -513,7 +518,7 @@
     }
   },
   "global": {
-    "total_spawns": 4389,
+    "total_spawns": 4400,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
