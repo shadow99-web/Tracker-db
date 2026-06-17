@@ -36,7 +36,7 @@
         "Escavalier": 2,
         "Dratini": 3,
         "Kilowattrel": 2,
-        "Lotad": 6,
+        "Lotad": 8,
         "Qwilfish": 2,
         "Trapinch": 9,
         "Toedscool": 5,
@@ -52,10 +52,10 @@
         "Grotle": 3,
         "Porygon": 4,
         "Zubat": 8,
-        "Vanillish": 4,
+        "Vanillish": 5,
         "Tadbulb": 1,
         "Magnemite": 6,
-        "Whismur": 3,
+        "Whismur": 4,
         "Monferno": 4,
         "Skwovet": 1,
         "Bramblin": 4,
@@ -95,7 +95,7 @@
         "Hoppip": 5,
         "Sandslash": 1,
         "Kabuto": 3,
-        "Scatterbug": 5,
+        "Scatterbug": 6,
         "Pumpkaboo": 2,
         "Numel": 1,
         "Carracosta": 1,
@@ -150,7 +150,7 @@
         "Dracovish": 1,
         "Bulbasaur": 1,
         "Roggenrola": 4,
-        "Pidove": 8,
+        "Pidove": 9,
         "Dragapult": 1,
         "Rattata": 3,
         "Flapple": 1,
@@ -241,7 +241,7 @@
         "Galvantula": 1,
         "Chansey": 2,
         "Shroodle": 6,
-        "Duskull": 5,
+        "Duskull": 6,
         "Bergmite": 1,
         "Pignite": 2,
         "Lurantis": 1,
@@ -323,7 +323,7 @@
         "Oshawott": 2,
         "Murkrow": 1,
         "Bellsprout": 2,
-        "Mudbray": 1,
+        "Mudbray": 2,
         "Dreepy": 4,
         "Tinkaton": 1,
         "Corviknight": 1,
@@ -338,7 +338,7 @@
         "Sealeo": 2,
         "Staryu": 2,
         "Samurott": 1,
-        "Torchic": 3,
+        "Torchic": 4,
         "Sobble": 1,
         "Mudkip": 2,
         "Charjabug": 3,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 1,
         "Squirtle": 3,
-        "Remoraid": 1,
+        "Remoraid": 2,
         "Torracat": 1,
         "Hisuian zorua": 1,
         "Wooloo": 2,
@@ -402,7 +402,7 @@
         "Persian": 1,
         "Lopunny": 1,
         "Squawkabilly": 1,
-        "Electrike": 1,
+        "Electrike": 2,
         "Drampa": 1,
         "Maschiff": 3,
         "Rufflet": 2,
@@ -507,10 +507,11 @@
         "Hakamo-o": 1,
         "Glameow": 1,
         "Croagunk": 1,
-        "Duraludon": 1
+        "Duraludon": 1,
+        "Sawk": 1
       },
-      "total_spawns": 1081,
-      "last_spawn": "2026-06-17T21:30:03.232559"
+      "total_spawns": 1093,
+      "last_spawn": "2026-06-17T21:30:34.193244"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -520,7 +521,7 @@
     }
   },
   "global": {
-    "total_spawns": 4412,
+    "total_spawns": 4424,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
