@@ -114,7 +114,7 @@
         "Horsea": 3,
         "Frigibax": 5,
         "Spheal": 4,
-        "Swadloon": 1,
+        "Swadloon": 2,
         "Flittle": 5,
         "Unfezant": 1,
         "Yamask": 1,
@@ -127,14 +127,14 @@
         "Teddiursa": 2,
         "Clamperl": 2,
         "Zigzagoon": 4,
-        "Weedle": 9,
+        "Weedle": 10,
         "Flamigo": 2,
         "Lillipup": 4,
         "Shinx": 5,
         "Bounsweet": 1,
         "Noibat": 1,
         "Toxicroak": 1,
-        "Charcadet": 3,
+        "Charcadet": 4,
         "Croconaw": 2,
         "Phanpy": 1,
         "Brambleghast": 1,
@@ -165,7 +165,7 @@
         "Piplup": 1,
         "Kakuna": 2,
         "Weepinbell": 1,
-        "Klawf": 1,
+        "Klawf": 2,
         "Vanillite": 3,
         "Flareon": 1,
         "Gastly": 2,
@@ -230,7 +230,7 @@
         "Braixen": 1,
         "Drowzee": 1,
         "Blipbug": 3,
-        "Lampent": 2,
+        "Lampent": 3,
         "Petilil": 1,
         "Marshtomp": 2,
         "Eiscue": 1,
@@ -370,17 +370,24 @@
         "Carvanha": 1,
         "Luxio": 1,
         "Treecko": 2,
-        "Sinistea": 1,
+        "Sinistea": 2,
         "Cubchoo": 1,
         "Hippopotas": 1,
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 1,
         "Squirtle": 1,
-        "Remoraid": 1
+        "Remoraid": 1,
+        "Torracat": 1,
+        "Hisuian zorua": 1,
+        "Wooloo": 1,
+        "Drifloon": 1,
+        "Golbat": 1,
+        "Swablu": 1,
+        "Shellder": 1
       },
-      "total_spawns": 671,
-      "last_spawn": "2026-06-17T20:13:32.353421"
+      "total_spawns": 684,
+      "last_spawn": "2026-06-17T20:14:06.171099"
     },
     "1443875856803168360": {
       "name": "",
@@ -607,7 +614,7 @@
     }
   },
   "global": {
-    "total_spawns": 4001,
+    "total_spawns": 4014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
