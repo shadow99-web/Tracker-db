@@ -11,7 +11,7 @@
         "Electabuzz": 1,
         "Rellor": 4,
         "Sandy burmy": 2,
-        "Wiglett": 6,
+        "Wiglett": 7,
         "Bombirdier": 5,
         "Litleo": 3,
         "Purrloin": 1,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 3,
         "Bonsly": 1,
-        "Horsea": 5,
+        "Horsea": 6,
         "Frigibax": 6,
         "Spheal": 7,
         "Swadloon": 2,
@@ -360,7 +360,7 @@
         "Banette": 1,
         "Three-segment dudunsparce": 1,
         "Fearow": 1,
-        "Mankey": 2,
+        "Mankey": 3,
         "Bidoof": 3,
         "Quilava": 2,
         "Finizen": 4,
@@ -479,7 +479,7 @@
         "Slowpoke": 1,
         "Dolliv": 1,
         "Infernape": 1,
-        "Carkol": 1,
+        "Carkol": 2,
         "Magikarp": 2,
         "Tyrogue": 1,
         "Vikavolt": 1,
@@ -492,7 +492,7 @@
         "Copperajah": 1,
         "Magneton": 2,
         "Alakazam": 1,
-        "Bayleef": 1,
+        "Bayleef": 2,
         "Poochyena": 1,
         "Klinklang": 1,
         "Basculin": 1,
@@ -517,10 +517,11 @@
         "Milcery": 1,
         "Gabite": 1,
         "Hariyama": 1,
-        "Victreebel": 1
+        "Victreebel": 1,
+        "Arctibax": 1
       },
-      "total_spawns": 1150,
-      "last_spawn": "2026-06-17T21:37:11.328968"
+      "total_spawns": 1156,
+      "last_spawn": "2026-06-17T21:37:50.036374"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -530,7 +531,7 @@
     }
   },
   "global": {
-    "total_spawns": 4481,
+    "total_spawns": 4487,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
