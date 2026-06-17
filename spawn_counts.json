@@ -12,7 +12,7 @@
         "Snivy": 1,
         "Vanillish": 3,
         "Ralts": 3,
-        "Litwick": 1,
+        "Litwick": 2,
         "Tympole": 1,
         "Bergmite": 1,
         "Starmie": 1,
@@ -206,14 +206,16 @@
         "Chef dente": 1,
         "Palossand": 1,
         "Audino": 1,
-        "Fraxure": 1
+        "Fraxure": 1,
+        "Ceruledge": 1,
+        "Passimian": 1
       },
-      "total_spawns": 254,
-      "last_spawn": "2026-06-17T17:16:53.075908"
+      "total_spawns": 257,
+      "last_spawn": "2026-06-17T17:39:03.034755"
     }
   },
   "global": {
-    "total_spawns": 3293,
+    "total_spawns": 3296,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
