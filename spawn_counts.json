@@ -95,7 +95,7 @@
         "Hoppip": 1,
         "Sandslash": 1,
         "Kabuto": 1,
-        "Scatterbug": 1,
+        "Scatterbug": 2,
         "Pumpkaboo": 1,
         "Numel": 1,
         "Carracosta": 1,
@@ -103,16 +103,31 @@
         "Veluza": 1,
         "Barboach": 1,
         "Klink": 1,
-        "Honedge": 1,
+        "Honedge": 2,
         "Wingull": 1,
         "Salamence": 1,
         "Drakloak": 1,
         "Chewtle": 1,
         "Scizor": 1,
-        "Sneasel": 1
+        "Sneasel": 1,
+        "Bonsly": 1,
+        "Horsea": 1,
+        "Frigibax": 2,
+        "Spheal": 1,
+        "Swadloon": 1,
+        "Flittle": 1,
+        "Unfezant": 1,
+        "Yamask": 1,
+        "Ralts": 1,
+        "Solosis": 1,
+        "Battle cyclizar": 1,
+        "Togetic": 1,
+        "Palpitoad": 1,
+        "Pikipek": 1,
+        "Teddiursa": 1
       },
-      "total_spawns": 123,
-      "last_spawn": "2026-06-17T19:54:45.724852"
+      "total_spawns": 141,
+      "last_spawn": "2026-06-17T19:55:15.927329"
     },
     "1443875856803168360": {
       "name": "",
@@ -339,7 +354,7 @@
     }
   },
   "global": {
-    "total_spawns": 3453,
+    "total_spawns": 3471,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
