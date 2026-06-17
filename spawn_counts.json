@@ -111,9 +111,9 @@
         "Scizor": 1,
         "Sneasel": 2,
         "Bonsly": 1,
-        "Horsea": 3,
+        "Horsea": 4,
         "Frigibax": 5,
-        "Spheal": 4,
+        "Spheal": 5,
         "Swadloon": 2,
         "Flittle": 5,
         "Unfezant": 1,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 3,
         "Togetic": 1,
         "Palpitoad": 1,
-        "Pikipek": 3,
+        "Pikipek": 4,
         "Teddiursa": 2,
         "Clamperl": 2,
         "Zigzagoon": 4,
@@ -139,7 +139,7 @@
         "Phanpy": 1,
         "Brambleghast": 1,
         "Pidgey": 9,
-        "Rhyhorn": 3,
+        "Rhyhorn": 4,
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 2,
@@ -168,10 +168,10 @@
         "Klawf": 2,
         "Vanillite": 3,
         "Flareon": 1,
-        "Gastly": 2,
+        "Gastly": 3,
         "Taillow": 3,
         "Swinub": 2,
-        "Inkay": 1,
+        "Inkay": 2,
         "Gible": 2,
         "Rookidee": 5,
         "Minccino": 1,
@@ -228,7 +228,7 @@
         "Snubbull": 2,
         "Spidops": 1,
         "Braixen": 1,
-        "Drowzee": 1,
+        "Drowzee": 2,
         "Blipbug": 3,
         "Lampent": 3,
         "Petilil": 1,
@@ -240,7 +240,7 @@
         "Omanyte": 2,
         "Galvantula": 1,
         "Chansey": 2,
-        "Shroodle": 5,
+        "Shroodle": 6,
         "Duskull": 2,
         "Bergmite": 1,
         "Pignite": 1,
@@ -249,7 +249,7 @@
         "Dachsbun": 1,
         "Turtwig": 1,
         "Prinplup": 1,
-        "Tinkatink": 2,
+        "Tinkatink": 3,
         "Lechonk": 3,
         "Kommo-o": 1,
         "Dewott": 4,
@@ -389,10 +389,13 @@
         "Sandshrew": 1,
         "Palafin": 1,
         "Maractus": 1,
-        "Sigilyph": 1
+        "Sigilyph": 1,
+        "Unown m": 1,
+        "Stufful": 1,
+        "Wailord": 1
       },
-      "total_spawns": 697,
-      "last_spawn": "2026-06-17T20:14:40.810610"
+      "total_spawns": 709,
+      "last_spawn": "2026-06-17T20:15:11.052941"
     },
     "1443875856803168360": {
       "name": "",
@@ -619,7 +622,7 @@
     }
   },
   "global": {
-    "total_spawns": 4027,
+    "total_spawns": 4039,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
