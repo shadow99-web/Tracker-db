@@ -11,7 +11,7 @@
         "Electabuzz": 1,
         "Rellor": 4,
         "Sandy burmy": 2,
-        "Wiglett": 5,
+        "Wiglett": 6,
         "Bombirdier": 5,
         "Litleo": 3,
         "Purrloin": 1,
@@ -22,16 +22,16 @@
         "Tangela": 1,
         "Orbeetle": 1,
         "Dedenne": 1,
-        "Machop": 5,
+        "Machop": 6,
         "Dudunsparce": 1,
         "Gothita": 5,
         "Impidimp": 3,
         "Charmander": 1,
         "Morelull": 1,
         "Abra": 6,
-        "Sandile": 2,
+        "Sandile": 3,
         "Sandygast": 2,
-        "Litwick": 13,
+        "Litwick": 14,
         "Grubbin": 3,
         "Escavalier": 2,
         "Dratini": 3,
@@ -58,7 +58,7 @@
         "Whismur": 4,
         "Monferno": 4,
         "Skwovet": 1,
-        "Bramblin": 4,
+        "Bramblin": 5,
         "Yanma": 3,
         "Larvesta": 3,
         "Beldum": 5,
@@ -78,7 +78,7 @@
         "Hatterene": 1,
         "Phantump": 3,
         "Duosion": 2,
-        "Amaura": 2,
+        "Amaura": 3,
         "Gimmighoul": 7,
         "Baltoy": 1,
         "Mareep": 6,
@@ -152,7 +152,7 @@
         "Roggenrola": 4,
         "Pidove": 9,
         "Dragapult": 1,
-        "Rattata": 3,
+        "Rattata": 4,
         "Flapple": 1,
         "Aron": 7,
         "Boldore": 1,
@@ -237,7 +237,7 @@
         "Summer deerling": 2,
         "Clauncher": 2,
         "Clobbopus": 1,
-        "Omanyte": 2,
+        "Omanyte": 3,
         "Galvantula": 1,
         "Chansey": 2,
         "Shroodle": 6,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 2,
         "Summer sawsbuck": 1,
         "Delibird": 1,
-        "Ride cyclizar": 1,
+        "Ride cyclizar": 2,
         "Gothorita": 1,
         "Varoom": 5,
         "Yellow plumage squawkabilly": 1,
@@ -512,10 +512,12 @@
         "Starmie": 1,
         "Simipour": 1,
         "Goldeen": 1,
-        "Nickit": 1
+        "Nickit": 1,
+        "Ivysaur": 1,
+        "Milcery": 1
       },
-      "total_spawns": 1105,
-      "last_spawn": "2026-06-17T21:31:05.774781"
+      "total_spawns": 1116,
+      "last_spawn": "2026-06-17T21:31:36.835556"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -525,7 +527,7 @@
     }
   },
   "global": {
-    "total_spawns": 4436,
+    "total_spawns": 4447,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
