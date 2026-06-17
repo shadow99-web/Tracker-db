@@ -49,7 +49,7 @@
         "Venipede": 3,
         "Finneon": 1,
         "Weedle": 2,
-        "Honedge": 2,
+        "Honedge": 3,
         "Maushold": 1,
         "Togepi": 2,
         "Mightyena": 1,
@@ -169,14 +169,16 @@
         "Teddiursa": 1,
         "Noibat": 1,
         "Ride cyclizar": 1,
-        "Sprigatito": 1
+        "Sprigatito": 1,
+        "Flittle": 1,
+        "Dj rotom": 1
       },
-      "total_spawns": 197,
-      "last_spawn": "2026-06-17T17:06:33.009060"
+      "total_spawns": 200,
+      "last_spawn": "2026-06-17T17:07:04.375554"
     }
   },
   "global": {
-    "total_spawns": 3236,
+    "total_spawns": 3239,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
