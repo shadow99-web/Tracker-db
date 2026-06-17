@@ -34,7 +34,7 @@
         "Rockruff": 1,
         "Nidorino": 1,
         "Deino": 1,
-        "Tandemaus": 2,
+        "Tandemaus": 3,
         "Blitzle": 2,
         "Bramblin": 2,
         "Trumbeak": 1,
@@ -133,7 +133,7 @@
         "Inkay": 1,
         "Snover": 1,
         "Vullaby": 1,
-        "Metang": 1,
+        "Metang": 2,
         "Snorunt": 1,
         "Ponyta": 1,
         "Nacli": 2,
@@ -153,7 +153,7 @@
         "Whismur": 1,
         "Marshtomp": 1,
         "Snorlax": 1,
-        "Pikipek": 1,
+        "Pikipek": 2,
         "Scovillain": 1,
         "Torchic": 1,
         "Nuzleaf": 1,
@@ -215,12 +215,12 @@
         "Magcargo": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 269,
-      "last_spawn": "2026-06-17T18:00:43.160119"
+      "total_spawns": 272,
+      "last_spawn": "2026-06-17T18:01:13.317580"
     }
   },
   "global": {
-    "total_spawns": 3308,
+    "total_spawns": 3311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
