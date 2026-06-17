@@ -55,7 +55,7 @@
         "Vanillish": 4,
         "Tadbulb": 1,
         "Magnemite": 4,
-        "Whismur": 1,
+        "Whismur": 2,
         "Monferno": 2,
         "Skwovet": 1,
         "Bramblin": 1,
@@ -120,17 +120,17 @@
         "Yamask": 1,
         "Ralts": 1,
         "Solosis": 3,
-        "Battle cyclizar": 1,
+        "Battle cyclizar": 2,
         "Togetic": 1,
         "Palpitoad": 1,
         "Pikipek": 1,
         "Teddiursa": 1,
         "Clamperl": 1,
         "Zigzagoon": 2,
-        "Weedle": 3,
+        "Weedle": 4,
         "Flamigo": 2,
         "Lillipup": 2,
-        "Shinx": 2,
+        "Shinx": 3,
         "Bounsweet": 1,
         "Noibat": 1,
         "Toxicroak": 1,
@@ -186,7 +186,7 @@
         "Luvdisc": 1,
         "Vigoroth": 1,
         "Skorupi": 1,
-        "Pikachu": 1,
+        "Pikachu": 2,
         "Blue plumage squawkabilly": 1,
         "Thwackey": 1,
         "Dusk lycanroc": 1,
@@ -256,10 +256,19 @@
         "Arrokuda": 1,
         "Golett": 1,
         "Vullaby": 1,
-        "Cetitan": 1
+        "Cetitan": 1,
+        "Cubone": 1,
+        "Gligar": 1,
+        "Tirtouga": 1,
+        "Furret": 1,
+        "Nincada": 1,
+        "Fennekin": 1,
+        "Quaxwell": 1,
+        "Vibrava": 1,
+        "Loudred": 1
       },
-      "total_spawns": 367,
-      "last_spawn": "2026-06-17T20:02:32.471251"
+      "total_spawns": 381,
+      "last_spawn": "2026-06-17T20:03:02.770438"
     },
     "1443875856803168360": {
       "name": "",
@@ -486,7 +495,7 @@
     }
   },
   "global": {
-    "total_spawns": 3697,
+    "total_spawns": 3711,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
