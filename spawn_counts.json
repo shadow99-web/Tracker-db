@@ -74,7 +74,7 @@
         "Scyther\nquest pings": 1,
         "Sukoviran\nquest pings": 1,
         "Anokusa\nquest pings": 1,
-        "Fushide\nquest pings": 1,
+        "Fushide\nquest pings": 2,
         "Nidoran\nquest pings": 1,
         "Flurmel\nquest pings": 2,
         "Snivy\nquest pings": 1,
@@ -124,14 +124,16 @@
         "Sandile\nquest pings": 1,
         "Aron\nquest pings": 1,
         "Aron\nshiny hunt pings": 1,
-        "Hasubo\nquest pings": 1
+        "Hasubo\nquest pings": 1,
+        "Togepi\nquest pings": 1,
+        "Pijon\nquest pings": 1
       },
-      "total_spawns": 143,
-      "last_spawn": "2026-06-17T12:07:38.453206"
+      "total_spawns": 146,
+      "last_spawn": "2026-06-17T12:08:08.659170"
     }
   },
   "global": {
-    "total_spawns": 2880,
+    "total_spawns": 2883,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
