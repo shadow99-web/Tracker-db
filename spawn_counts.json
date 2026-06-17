@@ -81,7 +81,7 @@
         "Amaura": 1,
         "Gimmighoul": 5,
         "Baltoy": 1,
-        "Mareep": 4,
+        "Mareep": 5,
         "Garbodor": 1,
         "Slakoth": 2,
         "Togepi": 2,
@@ -90,7 +90,7 @@
         "Poliwag": 2,
         "Metang": 1,
         "Riolu": 1,
-        "Exeggcute": 1,
+        "Exeggcute": 2,
         "Corphish": 1,
         "Hoppip": 2,
         "Sandslash": 1,
@@ -126,10 +126,10 @@
         "Pikipek": 3,
         "Teddiursa": 1,
         "Clamperl": 1,
-        "Zigzagoon": 2,
+        "Zigzagoon": 3,
         "Weedle": 6,
         "Flamigo": 2,
-        "Lillipup": 3,
+        "Lillipup": 4,
         "Shinx": 4,
         "Bounsweet": 1,
         "Noibat": 1,
@@ -154,7 +154,7 @@
         "Dragapult": 1,
         "Rattata": 2,
         "Flapple": 1,
-        "Aron": 3,
+        "Aron": 4,
         "Boldore": 1,
         "Spinarak": 2,
         "Delcatty": 1,
@@ -200,7 +200,7 @@
         "Toedscruel": 1,
         "Probopass": 1,
         "Scraggy": 2,
-        "Rhydon": 1,
+        "Rhydon": 2,
         "Silcoon": 1,
         "Totodile": 2,
         "Dodrio": 1,
@@ -250,7 +250,7 @@
         "Turtwig": 1,
         "Prinplup": 1,
         "Tinkatink": 2,
-        "Lechonk": 1,
+        "Lechonk": 2,
         "Kommo-o": 1,
         "Dewott": 4,
         "Arrokuda": 1,
@@ -268,7 +268,7 @@
         "Loudred": 1,
         "Ceruledge": 1,
         "Houndour": 2,
-        "Glimmet": 1,
+        "Glimmet": 2,
         "Goomy": 1,
         "Zapdos": 1,
         "Natu": 2,
@@ -296,7 +296,7 @@
         "Ferroseed": 1,
         "Brionne": 1,
         "Pancham": 1,
-        "Venipede": 1,
+        "Venipede": 2,
         "Cacturne": 1,
         "Oddish": 1,
         "Dragalge": 1,
@@ -317,10 +317,15 @@
         "Pawniard": 1,
         "Prof tangrowth": 1,
         "Jangmo-o": 1,
-        "Trash wormadam": 1
+        "Trash wormadam": 1,
+        "Quaxly": 1,
+        "Gossifleur": 1,
+        "Oshawott": 1,
+        "Murkrow": 1,
+        "Bellsprout": 1
       },
-      "total_spawns": 499,
-      "last_spawn": "2026-06-17T20:07:14.292195"
+      "total_spawns": 513,
+      "last_spawn": "2026-06-17T20:07:45.663835"
     },
     "1443875856803168360": {
       "name": "",
@@ -547,7 +552,7 @@
     }
   },
   "global": {
-    "total_spawns": 3829,
+    "total_spawns": 3843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
