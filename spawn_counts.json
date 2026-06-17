@@ -30,7 +30,7 @@
         "Morelull": 1,
         "Abra": 1,
         "Sandile": 1,
-        "Sandygast": 1,
+        "Sandygast": 2,
         "Litwick": 1,
         "Grubbin": 1,
         "Escavalier": 1,
@@ -53,10 +53,27 @@
         "Porygon": 1,
         "Zubat": 1,
         "Vanillish": 1,
-        "Tadbulb": 1
+        "Tadbulb": 1,
+        "Magnemite": 1,
+        "Whismur": 1,
+        "Monferno": 1,
+        "Skwovet": 1,
+        "Bramblin": 1,
+        "Yanma": 1,
+        "Larvesta": 1,
+        "Beldum": 1,
+        "Ducklett": 1,
+        "Lokix": 1,
+        "Glimmora": 1,
+        "Starly": 1,
+        "Tandemaus": 1,
+        "Smoliv": 1,
+        "Gloom": 1,
+        "Clefairy": 1,
+        "Spinda": 1
       },
-      "total_spawns": 53,
-      "last_spawn": "2026-06-17T19:52:41.058180"
+      "total_spawns": 71,
+      "last_spawn": "2026-06-17T19:53:11.686679"
     },
     "1443875856803168360": {
       "name": "",
@@ -283,7 +300,7 @@
     }
   },
   "global": {
-    "total_spawns": 3383,
+    "total_spawns": 3401,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
