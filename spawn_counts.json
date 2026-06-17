@@ -631,14 +631,17 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Toxel": 1,
-        "Rolycoly": 1
+        "Rolycoly": 1,
+        "Jumpluff": 1,
+        "Maschiff": 1,
+        "Pidove": 1
       },
-      "total_spawns": 2,
-      "last_spawn": "2026-06-17T23:10:22.919199"
+      "total_spawns": 5,
+      "last_spawn": "2026-06-17T23:10:53.168039"
     }
   },
   "global": {
-    "total_spawns": 5083,
+    "total_spawns": 5086,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
