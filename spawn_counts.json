@@ -718,7 +718,7 @@
         "Scorbunny": 1,
         "Rattata": 1,
         "Gulpin": 1,
-        "Tandemaus": 1,
+        "Tandemaus": 2,
         "Krokorok": 2,
         "Cascoon": 1,
         "Roggenrola": 2,
@@ -732,7 +732,7 @@
         "Wailmer": 1,
         "Darumaka": 1,
         "Delphox": 1,
-        "Cranidos": 1,
+        "Cranidos": 2,
         "Larvesta": 1,
         "Whismur": 1,
         "Misdreavus": 1,
@@ -789,14 +789,15 @@
         "Honedge": 2,
         "Nacli": 1,
         "Fletchinder": 1,
-        "Inkay": 1
+        "Inkay": 1,
+        "Gholdengo": 1
       },
-      "total_spawns": 155,
-      "last_spawn": "2026-06-18T21:21:22.935974"
+      "total_spawns": 158,
+      "last_spawn": "2026-06-18T21:21:53.037134"
     }
   },
   "global": {
-    "total_spawns": 5392,
+    "total_spawns": 5395,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
