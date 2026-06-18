@@ -765,21 +765,24 @@
         "Wiglett": 1,
         "Forretress": 1,
         "Farigiraf": 1,
-        "Rookidee": 1,
+        "Rookidee": 2,
         "Teddiursa": 1,
         "Raboot": 1,
         "Chef dente": 1,
         "Rellor": 1,
         "Pelipper": 1,
         "Scatterbug": 1,
-        "Caterpie": 1
+        "Caterpie": 1,
+        "Pancham": 1,
+        "Nymble": 1,
+        "Rampardos": 1
       },
-      "total_spawns": 127,
-      "last_spawn": "2026-06-18T14:45:30.300691"
+      "total_spawns": 131,
+      "last_spawn": "2026-06-18T15:57:11.594372"
     }
   },
   "global": {
-    "total_spawns": 5364,
+    "total_spawns": 5368,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
