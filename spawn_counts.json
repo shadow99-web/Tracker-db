@@ -741,14 +741,17 @@
         "Capsakid": 1,
         "Natu": 1,
         "Politoed": 1,
-        "Gastly": 1
+        "Gastly": 1,
+        "Slakoth": 1,
+        "Machop": 1,
+        "Roselia": 1
       },
-      "total_spawns": 93,
-      "last_spawn": "2026-06-18T14:39:33.022650"
+      "total_spawns": 96,
+      "last_spawn": "2026-06-18T14:40:15.785370"
     }
   },
   "global": {
-    "total_spawns": 5330,
+    "total_spawns": 5333,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
