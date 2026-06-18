@@ -778,7 +778,7 @@
         "Rampardos": 1,
         "Noctowl": 1,
         "Charmeleon": 1,
-        "Litleo": 1,
+        "Litleo": 2,
         "Manectric": 1,
         "Wurmple": 1,
         "Arctibax": 1,
@@ -795,14 +795,17 @@
         "Girafarig": 1,
         "Yellow plumage squawkabilly": 1,
         "Mosslax": 2,
-        "Fennekin": 1
+        "Fennekin": 1,
+        "Cubchoo": 1,
+        "Sprigatito": 1,
+        "Nosepass": 1
       },
-      "total_spawns": 166,
-      "last_spawn": "2026-06-18T21:23:03.004080"
+      "total_spawns": 170,
+      "last_spawn": "2026-06-18T21:23:43.980717"
     }
   },
   "global": {
-    "total_spawns": 5403,
+    "total_spawns": 5407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
