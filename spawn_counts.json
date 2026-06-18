@@ -698,7 +698,7 @@
         "Snubbull": 1,
         "Koffing": 1,
         "Paras": 1,
-        "Abra": 1,
+        "Abra": 2,
         "Toedscool": 1,
         "Trapinch": 1,
         "Droopy tatsugiri": 1,
@@ -765,7 +765,7 @@
         "Wiglett": 1,
         "Forretress": 1,
         "Farigiraf": 1,
-        "Rookidee": 2,
+        "Rookidee": 3,
         "Teddiursa": 1,
         "Raboot": 1,
         "Chef dente": 1,
@@ -786,14 +786,16 @@
         "Chinchou": 1,
         "Finneon": 1,
         "Doduo": 1,
-        "Honedge": 2
+        "Honedge": 2,
+        "Nacli": 1,
+        "Fletchinder": 1
       },
-      "total_spawns": 149,
-      "last_spawn": "2026-06-18T20:37:01.027952"
+      "total_spawns": 153,
+      "last_spawn": "2026-06-18T20:37:32.965101"
     }
   },
   "global": {
-    "total_spawns": 5386,
+    "total_spawns": 5390,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
