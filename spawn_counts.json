@@ -762,7 +762,7 @@
         "Lechonk": 1,
         "Cetitan": 1,
         "Turtwig": 1,
-        "Wiglett": 1,
+        "Wiglett": 2,
         "Forretress": 1,
         "Farigiraf": 1,
         "Rookidee": 3,
@@ -790,14 +790,17 @@
         "Nacli": 1,
         "Fletchinder": 1,
         "Inkay": 1,
-        "Gholdengo": 1
+        "Gholdengo": 1,
+        "Combusken": 1,
+        "Girafarig": 1,
+        "Yellow plumage squawkabilly": 1
       },
-      "total_spawns": 158,
-      "last_spawn": "2026-06-18T21:21:53.037134"
+      "total_spawns": 162,
+      "last_spawn": "2026-06-18T21:22:33.011622"
     }
   },
   "global": {
-    "total_spawns": 5395,
+    "total_spawns": 5399,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
