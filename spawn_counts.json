@@ -509,7 +509,7 @@
         "Croagunk": 1,
         "Duraludon": 1,
         "Sawk": 1,
-        "Starmie": 1,
+        "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 1,
         "Nickit": 1,
@@ -655,8 +655,8 @@
         "Pinsir": 1,
         "Mothim": 1
       },
-      "total_spawns": 1906,
-      "last_spawn": "2026-06-18T04:16:54.758581"
+      "total_spawns": 1907,
+      "last_spawn": "2026-06-18T23:33:49.812614"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -805,14 +805,14 @@
         "Wooper": 1,
         "Oinkologne": 1,
         "Squawkabilly": 1,
-        "Ekans": 1
+        "Ekans": 2
       },
-      "total_spawns": 178,
-      "last_spawn": "2026-06-18T23:16:53.572768"
+      "total_spawns": 179,
+      "last_spawn": "2026-06-18T23:16:57.146188"
     }
   },
   "global": {
-    "total_spawns": 5415,
+    "total_spawns": 5417,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
