@@ -693,7 +693,7 @@
         "Garchomp": 1,
         "Blastoise": 1,
         "Finizen": 1,
-        "Brambleghast": 1,
+        "Brambleghast": 2,
         "Rockruff": 1,
         "Snubbull": 1,
         "Koffing": 1,
@@ -724,7 +724,7 @@
         "Roggenrola": 2,
         "Spheal": 1,
         "Voltorb": 1,
-        "Litwick": 2,
+        "Litwick": 3,
         "Dachsbun": 1,
         "Ralts": 1,
         "Poliwag": 1,
@@ -780,14 +780,20 @@
         "Charmeleon": 1,
         "Litleo": 1,
         "Manectric": 1,
-        "Wurmple": 1
+        "Wurmple": 1,
+        "Arctibax": 1,
+        "Yanma": 1,
+        "Chinchou": 1,
+        "Finneon": 1,
+        "Doduo": 1,
+        "Honedge": 2
       },
-      "total_spawns": 140,
-      "last_spawn": "2026-06-18T20:32:30.363169"
+      "total_spawns": 149,
+      "last_spawn": "2026-06-18T20:37:01.027952"
     }
   },
   "global": {
-    "total_spawns": 5377,
+    "total_spawns": 5386,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
