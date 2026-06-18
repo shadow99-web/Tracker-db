@@ -719,18 +719,21 @@
         "Rattata": 1,
         "Gulpin": 1,
         "Tandemaus": 1,
-        "Krokorok": 1,
+        "Krokorok": 2,
         "Cascoon": 1,
         "Roggenrola": 2,
         "Spheal": 1,
-        "Voltorb": 1
+        "Voltorb": 1,
+        "Litwick": 1,
+        "Dachsbun": 1,
+        "Ralts": 1
       },
-      "total_spawns": 70,
-      "last_spawn": "2026-06-18T14:35:43.141493"
+      "total_spawns": 74,
+      "last_spawn": "2026-06-18T14:36:22.940487"
     }
   },
   "global": {
-    "total_spawns": 5307,
+    "total_spawns": 5311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
