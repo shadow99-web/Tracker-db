@@ -744,14 +744,18 @@
         "Gastly": 1,
         "Slakoth": 1,
         "Machop": 1,
-        "Roselia": 1
+        "Roselia": 1,
+        "Pidgeotto": 1,
+        "Buneary": 1,
+        "Gourgeist": 1,
+        "Numel": 1
       },
-      "total_spawns": 96,
-      "last_spawn": "2026-06-18T14:40:15.785370"
+      "total_spawns": 100,
+      "last_spawn": "2026-06-18T14:40:52.972402"
     }
   },
   "global": {
-    "total_spawns": 5333,
+    "total_spawns": 5337,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
