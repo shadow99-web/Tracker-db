@@ -673,7 +673,7 @@
         "Dondozo": 1,
         "Mareep": 1,
         "Ferroseed": 1,
-        "Glimmet": 3,
+        "Glimmet": 4,
         "Kabuto": 1,
         "Oddish": 2,
         "Grovyle": 1,
@@ -724,7 +724,7 @@
         "Roggenrola": 2,
         "Spheal": 1,
         "Voltorb": 1,
-        "Litwick": 1,
+        "Litwick": 2,
         "Dachsbun": 1,
         "Ralts": 1,
         "Poliwag": 1,
@@ -761,14 +761,19 @@
         "Torchic": 1,
         "Lechonk": 1,
         "Cetitan": 1,
-        "Turtwig": 1
+        "Turtwig": 1,
+        "Wiglett": 1,
+        "Forretress": 1,
+        "Farigiraf": 1,
+        "Rookidee": 1,
+        "Teddiursa": 1
       },
-      "total_spawns": 114,
-      "last_spawn": "2026-06-18T14:43:02.956410"
+      "total_spawns": 121,
+      "last_spawn": "2026-06-18T14:44:13.390849"
     }
   },
   "global": {
-    "total_spawns": 5351,
+    "total_spawns": 5358,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
