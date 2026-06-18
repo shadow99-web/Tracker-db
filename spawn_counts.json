@@ -669,7 +669,7 @@
         "Sandygast": 1,
         "Charcadet": 3,
         "Heracross": 1,
-        "Tympole": 1,
+        "Tympole": 2,
         "Dondozo": 1,
         "Mareep": 1,
         "Ferroseed": 1,
@@ -788,14 +788,15 @@
         "Doduo": 1,
         "Honedge": 2,
         "Nacli": 1,
-        "Fletchinder": 1
+        "Fletchinder": 1,
+        "Inkay": 1
       },
-      "total_spawns": 153,
-      "last_spawn": "2026-06-18T20:37:32.965101"
+      "total_spawns": 155,
+      "last_spawn": "2026-06-18T21:21:22.935974"
     }
   },
   "global": {
-    "total_spawns": 5390,
+    "total_spawns": 5392,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
