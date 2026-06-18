@@ -681,7 +681,7 @@
         "Kilowattrel": 1,
         "Magnemite": 1,
         "Gyarados": 1,
-        "Starly": 2,
+        "Starly": 3,
         "Gimmighoul": 1,
         "Psyduck": 2,
         "Geodude": 1,
@@ -807,12 +807,12 @@
         "Squawkabilly": 1,
         "Ekans": 2
       },
-      "total_spawns": 179,
-      "last_spawn": "2026-06-18T23:16:57.146188"
+      "total_spawns": 180,
+      "last_spawn": "2026-06-18T23:47:19.714137"
     }
   },
   "global": {
-    "total_spawns": 5418,
+    "total_spawns": 5419,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
