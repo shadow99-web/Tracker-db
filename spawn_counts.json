@@ -683,7 +683,7 @@
         "Gyarados": 1,
         "Starly": 2,
         "Gimmighoul": 1,
-        "Psyduck": 1,
+        "Psyduck": 2,
         "Geodude": 1,
         "Carnivine": 1,
         "Dolliv": 2,
@@ -778,14 +778,15 @@
         "Rampardos": 1,
         "Noctowl": 1,
         "Charmeleon": 1,
-        "Litleo": 1
+        "Litleo": 1,
+        "Manectric": 1
       },
-      "total_spawns": 136,
-      "last_spawn": "2026-06-18T16:42:28.159046"
+      "total_spawns": 138,
+      "last_spawn": "2026-06-18T19:08:01.803123"
     }
   },
   "global": {
-    "total_spawns": 5373,
+    "total_spawns": 5375,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
