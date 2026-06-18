@@ -675,7 +675,7 @@
         "Ferroseed": 1,
         "Glimmet": 1,
         "Kabuto": 1,
-        "Oddish": 1,
+        "Oddish": 2,
         "Grovyle": 1,
         "Vigoroth": 1,
         "Kilowattrel": 1,
@@ -718,14 +718,19 @@
         "Scorbunny": 1,
         "Rattata": 1,
         "Gulpin": 1,
-        "Tandemaus": 1
+        "Tandemaus": 1,
+        "Krokorok": 1,
+        "Cascoon": 1,
+        "Roggenrola": 2,
+        "Spheal": 1,
+        "Voltorb": 1
       },
-      "total_spawns": 63,
-      "last_spawn": "2026-06-18T14:34:33.152751"
+      "total_spawns": 70,
+      "last_spawn": "2026-06-18T14:35:43.141493"
     }
   },
   "global": {
-    "total_spawns": 5300,
+    "total_spawns": 5307,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
