@@ -51,7 +51,7 @@
         "Slugma": 3,
         "Grotle": 5,
         "Porygon": 8,
-        "Zubat": 22,
+        "Zubat": 23,
         "Vanillish": 6,
         "Tadbulb": 4,
         "Magnemite": 17,
@@ -87,12 +87,12 @@
         "Togepi": 4,
         "Falinks": 1,
         "Tropius": 1,
-        "Poliwag": 4,
+        "Poliwag": 5,
         "Metang": 3,
         "Riolu": 4,
         "Exeggcute": 3,
         "Corphish": 1,
-        "Hoppip": 10,
+        "Hoppip": 11,
         "Sandslash": 1,
         "Kabuto": 6,
         "Scatterbug": 13,
@@ -261,7 +261,7 @@
         "Gligar": 5,
         "Tirtouga": 6,
         "Furret": 1,
-        "Nincada": 5,
+        "Nincada": 6,
         "Fennekin": 11,
         "Quaxwell": 2,
         "Vibrava": 4,
@@ -289,7 +289,7 @@
         "Chef dente": 7,
         "Volcarona": 1,
         "Bewear": 2,
-        "Piloswine": 2,
+        "Piloswine": 3,
         "Simisage": 1,
         "Jellicent": 1,
         "Torkoal": 2,
@@ -444,7 +444,7 @@
         "Bibarel": 1,
         "Plusle": 2,
         "Skrelp": 4,
-        "Raticate": 1,
+        "Raticate": 2,
         "Wugtrio": 2,
         "Bellibolt": 1,
         "Morgrem": 4,
@@ -476,7 +476,7 @@
         "White plumage squawkabilly": 4,
         "Shelmet": 3,
         "Solrock": 1,
-        "Slowpoke": 4,
+        "Slowpoke": 5,
         "Dolliv": 2,
         "Infernape": 1,
         "Carkol": 4,
@@ -557,7 +557,7 @@
         "Eelektross": 1,
         "Araquanid": 1,
         "Kadabra": 3,
-        "Chandelure": 1,
+        "Chandelure": 2,
         "Ponyta": 3,
         "Togekiss": 1,
         "Braviary": 1,
@@ -735,8 +735,8 @@
         "Azurill": 1,
         "Alolan rattata": 1
       },
-      "total_spawns": 2709,
-      "last_spawn": "2026-06-19T13:58:54.828697"
+      "total_spawns": 2717,
+      "last_spawn": "2026-06-19T13:59:29.430260"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -842,7 +842,7 @@
         "Lechonk": 2,
         "Cetitan": 1,
         "Turtwig": 2,
-        "Wiglett": 4,
+        "Wiglett": 5,
         "Forretress": 2,
         "Farigiraf": 1,
         "Rookidee": 3,
@@ -888,7 +888,7 @@
         "Ekans": 2,
         "Bagon": 2,
         "Impidimp": 3,
-        "Sizzlipede": 1,
+        "Sizzlipede": 2,
         "Spidops": 2,
         "Mantyke": 1,
         "Tinkatink": 1,
@@ -1043,14 +1043,15 @@
         "Mienshao": 1,
         "Trevenant": 1,
         "Vaporeon": 1,
-        "Appletun": 1
+        "Appletun": 1,
+        "Frillish": 1
       },
-      "total_spawns": 510,
-      "last_spawn": "2026-06-19T13:58:53.884474"
+      "total_spawns": 513,
+      "last_spawn": "2026-06-19T13:59:23.888670"
     }
   },
   "global": {
-    "total_spawns": 6550,
+    "total_spawns": 6561,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
