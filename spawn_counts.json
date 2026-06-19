@@ -54,7 +54,7 @@
         "Zubat": 31,
         "Vanillish": 7,
         "Tadbulb": 11,
-        "Magnemite": 26,
+        "Magnemite": 27,
         "Whismur": 15,
         "Monferno": 9,
         "Skwovet": 2,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 8,
         "Togetic": 5,
         "Palpitoad": 2,
-        "Pikipek": 27,
+        "Pikipek": 28,
         "Teddiursa": 22,
         "Clamperl": 7,
         "Zigzagoon": 8,
@@ -200,7 +200,7 @@
         "Toedscruel": 7,
         "Probopass": 1,
         "Scraggy": 9,
-        "Rhydon": 3,
+        "Rhydon": 4,
         "Silcoon": 3,
         "Totodile": 7,
         "Dodrio": 3,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 19,
-        "Orthworm": 18,
+        "Orthworm": 19,
         "Marill": 5,
         "Joltik": 14,
         "Politoed": 2,
@@ -259,7 +259,7 @@
         "Cetitan": 4,
         "Cubone": 8,
         "Gligar": 10,
-        "Tirtouga": 9,
+        "Tirtouga": 10,
         "Furret": 1,
         "Nincada": 10,
         "Fennekin": 13,
@@ -322,7 +322,7 @@
         "Gossifleur": 2,
         "Oshawott": 7,
         "Murkrow": 8,
-        "Bellsprout": 17,
+        "Bellsprout": 18,
         "Mudbray": 6,
         "Dreepy": 17,
         "Tinkaton": 1,
@@ -348,7 +348,7 @@
         "Deino": 7,
         "Wooper": 8,
         "Dwebble": 7,
-        "Steenee": 6,
+        "Steenee": 7,
         "Darumaka": 7,
         "Arboliva": 2,
         "Ledyba": 6,
@@ -459,7 +459,7 @@
         "Cherubi": 4,
         "Cradily": 1,
         "Vulpix": 5,
-        "Paras": 7,
+        "Paras": 8,
         "Herdier": 4,
         "Pineco": 3,
         "Chikorita": 3,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 4,
-        "Nickit": 7,
+        "Nickit": 8,
         "Ivysaur": 4,
         "Milcery": 3,
         "Gabite": 2,
@@ -611,7 +611,7 @@
         "Sandy wormadam": 1,
         "Stunky": 2,
         "Pupitar": 3,
-        "Avalugg": 2,
+        "Avalugg": 3,
         "Magby": 1,
         "Wigglytuff": 1,
         "Venusaur": 3,
@@ -822,10 +822,11 @@
         "Galarian linoone": 1,
         "Xatu": 1,
         "Galarian corsola": 1,
-        "Cinderace": 1
+        "Cinderace": 1,
+        "Magcargo": 1
       },
-      "total_spawns": 4041,
-      "last_spawn": "2026-06-19T23:02:29.534564"
+      "total_spawns": 4052,
+      "last_spawn": "2026-06-19T23:02:59.799485"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1258,7 +1259,7 @@
     }
   },
   "global": {
-    "total_spawns": 8246,
+    "total_spawns": 8257,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
