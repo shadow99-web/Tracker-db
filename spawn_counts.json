@@ -95,11 +95,11 @@
         "Hoppip": 9,
         "Sandslash": 1,
         "Kabuto": 6,
-        "Scatterbug": 9,
+        "Scatterbug": 10,
         "Pumpkaboo": 2,
         "Numel": 2,
         "Carracosta": 1,
-        "Smearguru": 7,
+        "Smearguru": 8,
         "Veluza": 18,
         "Barboach": 2,
         "Klink": 8,
@@ -184,7 +184,7 @@
         "Cottonee": 2,
         "Elgyem": 1,
         "Luvdisc": 1,
-        "Vigoroth": 1,
+        "Vigoroth": 2,
         "Skorupi": 1,
         "Pikachu": 3,
         "Blue plumage squawkabilly": 2,
@@ -195,7 +195,7 @@
         "Spearow": 4,
         "Helioptile": 2,
         "Hoothoot": 5,
-        "Grookey": 7,
+        "Grookey": 8,
         "Meditite": 1,
         "Toedscruel": 3,
         "Probopass": 1,
@@ -262,7 +262,7 @@
         "Tirtouga": 5,
         "Furret": 1,
         "Nincada": 3,
-        "Fennekin": 9,
+        "Fennekin": 10,
         "Quaxwell": 2,
         "Vibrava": 3,
         "Loudred": 1,
@@ -416,10 +416,10 @@
         "Larvitar": 5,
         "Tentacool": 2,
         "Volcanion": 1,
-        "Roaming gimmighoul": 6,
+        "Roaming gimmighoul": 7,
         "Summer sawsbuck": 1,
         "Delibird": 1,
-        "Ride cyclizar": 3,
+        "Ride cyclizar": 4,
         "Gothorita": 4,
         "Varoom": 8,
         "Yellow plumage squawkabilly": 3,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 1,
         "Medicham": 1,
         "Doublade": 1,
-        "Naclstack": 2,
+        "Naclstack": 3,
         "Claydol": 1,
         "Turtonator": 1,
         "Hitmonlee": 1,
@@ -687,10 +687,11 @@
         "Koffing": 1,
         "Floragato": 1,
         "Seel": 1,
-        "Shiinotic": 1
+        "Shiinotic": 1,
+        "Gumshoos": 1
       },
-      "total_spawns": 2195,
-      "last_spawn": "2026-06-19T13:22:49.328458"
+      "total_spawns": 2204,
+      "last_spawn": "2026-06-19T13:23:19.260400"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -864,7 +865,7 @@
         "Gloom": 1,
         "Froslass": 2,
         "Electrike": 1,
-        "Tynamo": 1,
+        "Tynamo": 2,
         "Ivysaur": 1,
         "Blipbug": 2,
         "Gabite": 1,
@@ -897,14 +898,16 @@
         "Timburr": 1,
         "Larvitar": 1,
         "Lampent": 1,
-        "Binacle": 1
+        "Binacle": 1,
+        "Charjabug": 1,
+        "Tatsugiri": 1
       },
-      "total_spawns": 276,
-      "last_spawn": "2026-06-19T13:21:15.107422"
+      "total_spawns": 279,
+      "last_spawn": "2026-06-19T13:23:23.762922"
     }
   },
   "global": {
-    "total_spawns": 5802,
+    "total_spawns": 5814,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
