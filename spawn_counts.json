@@ -43,7 +43,7 @@
         "Fletchling": 14,
         "Skiploom": 7,
         "Timburr": 14,
-        "Dj rotom": 8,
+        "Dj rotom": 9,
         "Surskit": 8,
         "Seedot": 6,
         "Skitty": 3,
@@ -92,7 +92,7 @@
         "Riolu": 4,
         "Exeggcute": 3,
         "Corphish": 1,
-        "Hoppip": 11,
+        "Hoppip": 12,
         "Sandslash": 1,
         "Kabuto": 6,
         "Scatterbug": 13,
@@ -104,7 +104,7 @@
         "Barboach": 4,
         "Klink": 8,
         "Honedge": 25,
-        "Wingull": 3,
+        "Wingull": 4,
         "Salamence": 1,
         "Drakloak": 3,
         "Chewtle": 2,
@@ -207,7 +207,7 @@
         "Cufant": 4,
         "Tympole": 2,
         "Swellow": 2,
-        "Aipom": 3,
+        "Aipom": 4,
         "Growlithe": 3,
         "Sewaddle": 12,
         "Fidough": 8,
@@ -230,7 +230,7 @@
         "Braixen": 3,
         "Drowzee": 5,
         "Blipbug": 11,
-        "Lampent": 9,
+        "Lampent": 10,
         "Petilil": 4,
         "Marshtomp": 4,
         "Eiscue": 1,
@@ -268,7 +268,7 @@
         "Loudred": 1,
         "Ceruledge": 10,
         "Houndour": 9,
-        "Glimmet": 14,
+        "Glimmet": 15,
         "Goomy": 6,
         "Zapdos": 1,
         "Natu": 4,
@@ -344,7 +344,7 @@
         "Charjabug": 5,
         "Capsakid": 7,
         "Revavroom": 6,
-        "Exploud": 2,
+        "Exploud": 3,
         "Deino": 7,
         "Wooper": 6,
         "Dwebble": 4,
@@ -648,7 +648,7 @@
         "Archeops": 1,
         "Shiftry": 1,
         "Arbok": 1,
-        "Stretchy tatsugiri": 2,
+        "Stretchy tatsugiri": 3,
         "Mareanie": 3,
         "Seadra": 1,
         "Beheeyem": 1,
@@ -735,10 +735,12 @@
         "Azurill": 1,
         "Alolan rattata": 1,
         "Hippowdon": 1,
-        "Lumineon": 1
+        "Lumineon": 1,
+        "Thievul": 1,
+        "Greedent": 1
       },
-      "total_spawns": 2794,
-      "last_spawn": "2026-06-19T15:17:37.891604"
+      "total_spawns": 2804,
+      "last_spawn": "2026-06-19T15:18:08.197917"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1075,7 +1077,7 @@
     }
   },
   "global": {
-    "total_spawns": 6692,
+    "total_spawns": 6702,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
