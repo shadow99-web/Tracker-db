@@ -58,13 +58,13 @@
         "Whismur": 6,
         "Monferno": 6,
         "Skwovet": 1,
-        "Bramblin": 9,
+        "Bramblin": 10,
         "Yanma": 5,
         "Larvesta": 6,
         "Beldum": 7,
         "Ducklett": 2,
         "Lokix": 2,
-        "Glimmora": 6,
+        "Glimmora": 7,
         "Starly": 12,
         "Tandemaus": 6,
         "Smoliv": 13,
@@ -346,7 +346,7 @@
         "Revavroom": 4,
         "Exploud": 1,
         "Deino": 3,
-        "Wooper": 5,
+        "Wooper": 6,
         "Dwebble": 3,
         "Steenee": 1,
         "Darumaka": 3,
@@ -458,7 +458,7 @@
         "Iron moth": 1,
         "Cherubi": 1,
         "Cradily": 1,
-        "Vulpix": 3,
+        "Vulpix": 4,
         "Paras": 6,
         "Herdier": 2,
         "Pineco": 1,
@@ -592,7 +592,7 @@
         "Darmanitan": 1,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
-        "Mienfoo": 1,
+        "Mienfoo": 2,
         "Dewgong": 1,
         "Wartortle": 2,
         "Cetoddle": 2,
@@ -654,10 +654,12 @@
         "Beheeyem": 1,
         "Pinsir": 1,
         "Mothim": 1,
-        "Whirlipede": 1
+        "Whirlipede": 1,
+        "Absol": 1,
+        "Annihilape": 1
       },
-      "total_spawns": 1919,
-      "last_spawn": "2026-06-19T13:03:35.808697"
+      "total_spawns": 1926,
+      "last_spawn": "2026-06-19T13:04:05.947880"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -828,7 +830,7 @@
     }
   },
   "global": {
-    "total_spawns": 5457,
+    "total_spawns": 5464,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
