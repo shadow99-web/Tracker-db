@@ -484,7 +484,7 @@
         "Tyrogue": 1,
         "Vikavolt": 1,
         "Trash burmy": 2,
-        "Staravia": 2,
+        "Staravia": 3,
         "Chatot": 2,
         "Houndoom": 2,
         "Dottler": 2,
@@ -737,8 +737,8 @@
         "Hippowdon": 1,
         "Lumineon": 1
       },
-      "total_spawns": 2779,
-      "last_spawn": "2026-06-19T14:04:16.220439"
+      "total_spawns": 2780,
+      "last_spawn": "2026-06-19T14:04:35.494292"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -875,7 +875,7 @@
         "Gholdengo": 1,
         "Combusken": 1,
         "Girafarig": 1,
-        "Yellow plumage squawkabilly": 1,
+        "Yellow plumage squawkabilly": 2,
         "Mosslax": 5,
         "Fennekin": 2,
         "Cubchoo": 1,
@@ -900,7 +900,7 @@
         "Lileep": 1,
         "Joltik": 1,
         "Marill": 1,
-        "Dartrix": 2,
+        "Dartrix": 3,
         "Pumpkaboo": 1,
         "Purrloin": 2,
         "Archen": 1,
@@ -1060,14 +1060,15 @@
         "Fidough": 1,
         "Scovillain": 1,
         "Tarountula": 1,
-        "Keldeo": 1
+        "Keldeo": 1,
+        "Cryogonal": 1
       },
-      "total_spawns": 543,
-      "last_spawn": "2026-06-19T14:04:24.278403"
+      "total_spawns": 546,
+      "last_spawn": "2026-06-19T14:04:54.483558"
     }
   },
   "global": {
-    "total_spawns": 6653,
+    "total_spawns": 6657,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
