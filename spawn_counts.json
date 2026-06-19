@@ -38,7 +38,7 @@
         "Kilowattrel": 3,
         "Lotad": 20,
         "Qwilfish": 2,
-        "Trapinch": 12,
+        "Trapinch": 13,
         "Toedscool": 14,
         "Fletchling": 14,
         "Skiploom": 7,
@@ -53,9 +53,9 @@
         "Porygon": 8,
         "Zubat": 23,
         "Vanillish": 6,
-        "Tadbulb": 4,
+        "Tadbulb": 5,
         "Magnemite": 18,
-        "Whismur": 12,
+        "Whismur": 13,
         "Monferno": 7,
         "Skwovet": 1,
         "Bramblin": 13,
@@ -174,7 +174,7 @@
         "Inkay": 6,
         "Gible": 7,
         "Rookidee": 8,
-        "Minccino": 3,
+        "Minccino": 4,
         "Wurmple": 9,
         "Binacle": 3,
         "Grafaiai": 4,
@@ -239,7 +239,7 @@
         "Clobbopus": 1,
         "Omanyte": 4,
         "Galvantula": 1,
-        "Chansey": 5,
+        "Chansey": 6,
         "Shroodle": 11,
         "Duskull": 12,
         "Bergmite": 3,
@@ -341,7 +341,7 @@
         "Torchic": 5,
         "Sobble": 7,
         "Mudkip": 3,
-        "Charjabug": 4,
+        "Charjabug": 5,
         "Capsakid": 7,
         "Revavroom": 6,
         "Exploud": 2,
@@ -421,7 +421,7 @@
         "Delibird": 1,
         "Ride cyclizar": 5,
         "Gothorita": 4,
-        "Varoom": 11,
+        "Varoom": 12,
         "Yellow plumage squawkabilly": 3,
         "Centiskorch": 1,
         "Low key toxtricity": 1,
@@ -460,7 +460,7 @@
         "Cradily": 1,
         "Vulpix": 5,
         "Paras": 6,
-        "Herdier": 2,
+        "Herdier": 3,
         "Pineco": 1,
         "Chikorita": 2,
         "Woobat": 2,
@@ -736,8 +736,8 @@
         "Alolan rattata": 1,
         "Hippowdon": 1
       },
-      "total_spawns": 2758,
-      "last_spawn": "2026-06-19T14:02:13.375619"
+      "total_spawns": 2766,
+      "last_spawn": "2026-06-19T14:02:39.445946"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -760,7 +760,7 @@
         "Grovyle": 2,
         "Vigoroth": 1,
         "Kilowattrel": 1,
-        "Magnemite": 4,
+        "Magnemite": 5,
         "Gyarados": 1,
         "Starly": 7,
         "Gimmighoul": 3,
@@ -807,7 +807,7 @@
         "Voltorb": 1,
         "Litwick": 4,
         "Dachsbun": 1,
-        "Ralts": 3,
+        "Ralts": 4,
         "Poliwag": 2,
         "Veluza": 7,
         "Wailmer": 1,
@@ -1013,7 +1013,7 @@
         "Sensu oricorio": 1,
         "Barraskewda": 1,
         "Sunny castform": 1,
-        "Espathra": 1,
+        "Espathra": 2,
         "Duskull": 3,
         "Goodra": 1,
         "Spinarak": 1,
@@ -1051,14 +1051,15 @@
         "Bramblin": 1,
         "Beldum": 1,
         "Sandile": 1,
-        "Pachirisu": 1
+        "Pachirisu": 1,
+        "Gothita": 1
       },
-      "total_spawns": 528,
-      "last_spawn": "2026-06-19T14:02:03.948318"
+      "total_spawns": 532,
+      "last_spawn": "2026-06-19T14:02:44.010708"
     }
   },
   "global": {
-    "total_spawns": 6617,
+    "total_spawns": 6629,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
