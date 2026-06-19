@@ -67,7 +67,7 @@
         "Glimmora": 8,
         "Starly": 20,
         "Tandemaus": 10,
-        "Smoliv": 18,
+        "Smoliv": 19,
         "Gloom": 3,
         "Clefairy": 1,
         "Spinda": 1,
@@ -160,7 +160,7 @@
         "Delcatty": 2,
         "Spiritomb": 1,
         "Yamper": 4,
-        "Tepig": 12,
+        "Tepig": 13,
         "Kirlia": 3,
         "Piplup": 2,
         "Kakuna": 6,
@@ -737,8 +737,8 @@
         "Hippowdon": 1,
         "Lumineon": 1
       },
-      "total_spawns": 2777,
-      "last_spawn": "2026-06-19T14:03:38.184149"
+      "total_spawns": 2779,
+      "last_spawn": "2026-06-19T14:04:16.220439"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -902,7 +902,7 @@
         "Marill": 1,
         "Dartrix": 2,
         "Pumpkaboo": 1,
-        "Purrloin": 1,
+        "Purrloin": 2,
         "Archen": 1,
         "Milcery": 1,
         "Axew": 1,
@@ -1058,14 +1058,16 @@
         "Pansage": 1,
         "Torkoal": 1,
         "Fidough": 1,
-        "Scovillain": 1
+        "Scovillain": 1,
+        "Tarountula": 1,
+        "Keldeo": 1
       },
-      "total_spawns": 540,
-      "last_spawn": "2026-06-19T14:03:54.110514"
+      "total_spawns": 543,
+      "last_spawn": "2026-06-19T14:04:24.278403"
     }
   },
   "global": {
-    "total_spawns": 6648,
+    "total_spawns": 6653,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
