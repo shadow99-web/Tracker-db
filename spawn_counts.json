@@ -36,13 +36,13 @@
         "Escavalier": 5,
         "Dratini": 12,
         "Kilowattrel": 5,
-        "Lotad": 26,
+        "Lotad": 27,
         "Qwilfish": 3,
         "Trapinch": 20,
         "Toedscool": 21,
         "Fletchling": 15,
         "Skiploom": 7,
-        "Timburr": 15,
+        "Timburr": 16,
         "Dj rotom": 11,
         "Surskit": 11,
         "Seedot": 8,
@@ -80,7 +80,7 @@
         "Duosion": 4,
         "Amaura": 5,
         "Gimmighoul": 16,
-        "Baltoy": 5,
+        "Baltoy": 6,
         "Mareep": 18,
         "Garbodor": 1,
         "Slakoth": 17,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 3,
-        "Sewaddle": 15,
+        "Sewaddle": 16,
         "Fidough": 11,
         "Noivern": 2,
         "Feraligatr": 2,
@@ -224,7 +224,7 @@
         "Magmar": 8,
         "Rillaboom": 1,
         "Ninetales": 2,
-        "Wattrel": 17,
+        "Wattrel": 18,
         "Snubbull": 3,
         "Spidops": 3,
         "Braixen": 4,
@@ -257,7 +257,7 @@
         "Golett": 6,
         "Vullaby": 3,
         "Cetitan": 4,
-        "Cubone": 6,
+        "Cubone": 7,
         "Gligar": 7,
         "Tirtouga": 8,
         "Furret": 1,
@@ -268,7 +268,7 @@
         "Loudred": 4,
         "Ceruledge": 12,
         "Houndour": 9,
-        "Glimmet": 20,
+        "Glimmet": 21,
         "Goomy": 10,
         "Zapdos": 1,
         "Natu": 5,
@@ -401,7 +401,7 @@
         "Nosepass": 3,
         "Persian": 1,
         "Lopunny": 1,
-        "Squawkabilly": 3,
+        "Squawkabilly": 4,
         "Electrike": 6,
         "Drampa": 2,
         "Maschiff": 8,
@@ -575,7 +575,7 @@
         "Cascoon": 2,
         "Tentacruel": 2,
         "Nuzleaf": 1,
-        "Scorbunny": 5,
+        "Scorbunny": 6,
         "Huntail": 1,
         "Galarian meowth": 1,
         "Spoink": 2,
@@ -803,8 +803,8 @@
         "Raichu": 1,
         "Mime jr.": 1
       },
-      "total_spawns": 3656,
-      "last_spawn": "2026-06-19T21:05:33.036297"
+      "total_spawns": 3665,
+      "last_spawn": "2026-06-19T21:06:07.638586"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1115,7 +1115,7 @@
         "Frillish": 1,
         "Gossifleur": 1,
         "Remoraid": 1,
-        "Bramblin": 1,
+        "Bramblin": 2,
         "Beldum": 2,
         "Sandile": 4,
         "Pachirisu": 1,
@@ -1203,14 +1203,16 @@
         "Lickitung": 1,
         "Clamperl": 1,
         "Gligar": 1,
-        "Pansear": 1
+        "Pansear": 1,
+        "Magby": 1,
+        "Bronzor": 1
       },
-      "total_spawns": 784,
-      "last_spawn": "2026-06-19T21:05:37.555993"
+      "total_spawns": 787,
+      "last_spawn": "2026-06-19T21:06:07.655000"
     }
   },
   "global": {
-    "total_spawns": 7771,
+    "total_spawns": 7783,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
