@@ -224,7 +224,7 @@
         "Magmar": 6,
         "Rillaboom": 1,
         "Ninetales": 2,
-        "Wattrel": 8,
+        "Wattrel": 9,
         "Snubbull": 2,
         "Spidops": 3,
         "Braixen": 3,
@@ -232,14 +232,14 @@
         "Blipbug": 9,
         "Lampent": 7,
         "Petilil": 2,
-        "Marshtomp": 2,
+        "Marshtomp": 3,
         "Eiscue": 1,
         "Summer deerling": 6,
         "Clauncher": 2,
         "Clobbopus": 1,
         "Omanyte": 4,
         "Galvantula": 1,
-        "Chansey": 4,
+        "Chansey": 5,
         "Shroodle": 10,
         "Duskull": 9,
         "Bergmite": 2,
@@ -296,7 +296,7 @@
         "Ferroseed": 5,
         "Brionne": 1,
         "Pancham": 2,
-        "Venipede": 10,
+        "Venipede": 11,
         "Cacturne": 2,
         "Oddish": 11,
         "Dragalge": 1,
@@ -363,7 +363,7 @@
         "Mankey": 4,
         "Bidoof": 7,
         "Quilava": 4,
-        "Finizen": 12,
+        "Finizen": 13,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 4,
@@ -401,7 +401,7 @@
         "Nosepass": 1,
         "Persian": 1,
         "Lopunny": 1,
-        "Squawkabilly": 2,
+        "Squawkabilly": 3,
         "Electrike": 5,
         "Drampa": 1,
         "Maschiff": 5,
@@ -640,7 +640,7 @@
         "Silicobra": 1,
         "Snom": 1,
         "East sea shellos": 1,
-        "Corsola": 1,
+        "Corsola": 2,
         "Venomoth": 1,
         "Trumbeak": 1,
         "Aerodactyl": 1,
@@ -688,7 +688,7 @@
         "Floragato": 1,
         "Seel": 1,
         "Shiinotic": 1,
-        "Gumshoos": 1,
+        "Gumshoos": 2,
         "Pyroar": 1,
         "Marshadow": 1,
         "Sliggoo": 1,
@@ -701,8 +701,8 @@
         "Celebi": 1,
         "Hero palafin": 1
       },
-      "total_spawns": 2286,
-      "last_spawn": "2026-06-19T13:28:51.193886"
+      "total_spawns": 2294,
+      "last_spawn": "2026-06-19T13:29:19.311210"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -768,13 +768,13 @@
         "Krokorok": 2,
         "Cascoon": 1,
         "Roggenrola": 2,
-        "Spheal": 1,
+        "Spheal": 2,
         "Voltorb": 1,
         "Litwick": 3,
         "Dachsbun": 1,
         "Ralts": 2,
         "Poliwag": 2,
-        "Veluza": 2,
+        "Veluza": 3,
         "Wailmer": 1,
         "Darumaka": 1,
         "Delphox": 2,
@@ -929,14 +929,16 @@
         "Chewtle": 1,
         "Klink": 1,
         "Rufflet": 1,
-        "Weezing": 1
+        "Weezing": 1,
+        "Heatmor": 1,
+        "Dunsparce": 1
       },
-      "total_spawns": 310,
-      "last_spawn": "2026-06-19T13:28:47.611638"
+      "total_spawns": 314,
+      "last_spawn": "2026-06-19T13:29:24.156730"
     }
   },
   "global": {
-    "total_spawns": 5927,
+    "total_spawns": 5939,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
