@@ -45,7 +45,7 @@
         "Timburr": 13,
         "Dj rotom": 6,
         "Surskit": 8,
-        "Seedot": 4,
+        "Seedot": 5,
         "Skitty": 3,
         "Greavard": 7,
         "Slugma": 2,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 3,
         "Numel": 3,
         "Carracosta": 1,
-        "Smearguru": 8,
+        "Smearguru": 9,
         "Veluza": 19,
         "Barboach": 2,
         "Klink": 8,
@@ -138,7 +138,7 @@
         "Croconaw": 5,
         "Phanpy": 1,
         "Brambleghast": 4,
-        "Pidgey": 16,
+        "Pidgey": 17,
         "Rhyhorn": 10,
         "Sentret": 4,
         "Yungoos": 2,
@@ -166,9 +166,9 @@
         "Kakuna": 5,
         "Weepinbell": 2,
         "Klawf": 11,
-        "Vanillite": 12,
+        "Vanillite": 13,
         "Flareon": 2,
-        "Gastly": 5,
+        "Gastly": 6,
         "Taillow": 3,
         "Swinub": 6,
         "Inkay": 5,
@@ -322,7 +322,7 @@
         "Gossifleur": 2,
         "Oshawott": 3,
         "Murkrow": 4,
-        "Bellsprout": 7,
+        "Bellsprout": 8,
         "Mudbray": 3,
         "Dreepy": 11,
         "Tinkaton": 1,
@@ -345,7 +345,7 @@
         "Capsakid": 7,
         "Revavroom": 5,
         "Exploud": 2,
-        "Deino": 5,
+        "Deino": 6,
         "Wooper": 6,
         "Dwebble": 4,
         "Steenee": 1,
@@ -707,8 +707,8 @@
         "Zoroark": 1,
         "Lucario": 1
       },
-      "total_spawns": 2368,
-      "last_spawn": "2026-06-19T13:34:19.265037"
+      "total_spawns": 2375,
+      "last_spawn": "2026-06-19T13:34:51.931524"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -731,7 +731,7 @@
         "Grovyle": 1,
         "Vigoroth": 1,
         "Kilowattrel": 1,
-        "Magnemite": 2,
+        "Magnemite": 3,
         "Gyarados": 1,
         "Starly": 4,
         "Gimmighoul": 2,
@@ -931,7 +931,7 @@
         "Seadra": 3,
         "Gigalith": 1,
         "Poliwhirl": 1,
-        "Fletchling": 2,
+        "Fletchling": 3,
         "Chewtle": 1,
         "Klink": 1,
         "Rufflet": 2,
@@ -954,14 +954,15 @@
         "Spritzee": 1,
         "Swinub": 1,
         "Tropius": 1,
-        "Flamigo": 1
+        "Flamigo": 1,
+        "Talonflame": 1
       },
-      "total_spawns": 352,
-      "last_spawn": "2026-06-19T13:34:23.749123"
+      "total_spawns": 355,
+      "last_spawn": "2026-06-19T13:34:54.711487"
     }
   },
   "global": {
-    "total_spawns": 6051,
+    "total_spawns": 6061,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
