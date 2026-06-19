@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 6,
         "Patrat": 3,
-        "Mosslax": 4,
+        "Mosslax": 5,
         "Drilbur": 3,
         "Pawmi": 9,
         "Electabuzz": 3,
@@ -22,14 +22,14 @@
         "Tangela": 4,
         "Orbeetle": 1,
         "Dedenne": 1,
-        "Machop": 9,
+        "Machop": 10,
         "Dudunsparce": 1,
         "Gothita": 12,
         "Impidimp": 8,
         "Charmander": 4,
         "Morelull": 1,
         "Abra": 14,
-        "Sandile": 10,
+        "Sandile": 11,
         "Sandygast": 3,
         "Litwick": 22,
         "Grubbin": 7,
@@ -79,7 +79,7 @@
         "Phantump": 5,
         "Duosion": 2,
         "Amaura": 4,
-        "Gimmighoul": 13,
+        "Gimmighoul": 14,
         "Baltoy": 2,
         "Mareep": 11,
         "Garbodor": 1,
@@ -298,7 +298,7 @@
         "Pancham": 2,
         "Venipede": 10,
         "Cacturne": 2,
-        "Oddish": 10,
+        "Oddish": 11,
         "Dragalge": 1,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -663,7 +663,7 @@
         "Espathra": 1,
         "Vileplume": 1,
         "Kecleon": 1,
-        "Sizzlipede": 1,
+        "Sizzlipede": 2,
         "White flower floette": 1,
         "Skeledirge": 1,
         "Amoonguss": 1,
@@ -696,10 +696,12 @@
         "Tinkatuff": 1,
         "Bruxish": 1,
         "Corvisquire": 1,
-        "Mantine": 1
+        "Mantine": 1,
+        "Electrode": 1,
+        "Celebi": 1
       },
-      "total_spawns": 2262,
-      "last_spawn": "2026-06-19T13:27:14.756632"
+      "total_spawns": 2270,
+      "last_spawn": "2026-06-19T13:27:49.318653"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -919,14 +921,17 @@
         "Tentacool": 1,
         "Deino": 1,
         "Vanillish": 1,
-        "Seadra": 1
+        "Seadra": 1,
+        "Gigalith": 1,
+        "Poliwhirl": 1,
+        "Fletchling": 1
       },
-      "total_spawns": 301,
-      "last_spawn": "2026-06-19T13:27:13.888578"
+      "total_spawns": 304,
+      "last_spawn": "2026-06-19T13:27:44.030554"
     }
   },
   "global": {
-    "total_spawns": 5894,
+    "total_spawns": 5905,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
