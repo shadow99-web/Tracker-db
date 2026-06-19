@@ -32,7 +32,7 @@
         "Sandile": 19,
         "Sandygast": 4,
         "Litwick": 31,
-        "Grubbin": 10,
+        "Grubbin": 11,
         "Escavalier": 5,
         "Dratini": 11,
         "Kilowattrel": 4,
@@ -54,7 +54,7 @@
         "Zubat": 31,
         "Vanillish": 7,
         "Tadbulb": 8,
-        "Magnemite": 24,
+        "Magnemite": 25,
         "Whismur": 15,
         "Monferno": 7,
         "Skwovet": 2,
@@ -106,7 +106,7 @@
         "Honedge": 28,
         "Wingull": 5,
         "Salamence": 1,
-        "Drakloak": 3,
+        "Drakloak": 4,
         "Chewtle": 2,
         "Scizor": 1,
         "Sneasel": 8,
@@ -135,7 +135,7 @@
         "Noibat": 5,
         "Toxicroak": 1,
         "Charcadet": 19,
-        "Croconaw": 7,
+        "Croconaw": 8,
         "Phanpy": 1,
         "Brambleghast": 4,
         "Pidgey": 22,
@@ -200,7 +200,7 @@
         "Toedscruel": 5,
         "Probopass": 1,
         "Scraggy": 9,
-        "Rhydon": 2,
+        "Rhydon": 3,
         "Silcoon": 3,
         "Totodile": 6,
         "Dodrio": 3,
@@ -369,7 +369,7 @@
         "Caterpie": 8,
         "Carvanha": 5,
         "Luxio": 4,
-        "Treecko": 8,
+        "Treecko": 9,
         "Sinistea": 3,
         "Cubchoo": 3,
         "Hippopotas": 2,
@@ -435,7 +435,7 @@
         "Zebstrika": 1,
         "Shuppet": 5,
         "Paldean wooper": 2,
-        "Salandit": 4,
+        "Salandit": 5,
         "School wishiwashi": 2,
         "Snivy": 4,
         "Wyrdeer": 1,
@@ -575,7 +575,7 @@
         "Cascoon": 2,
         "Tentacruel": 2,
         "Nuzleaf": 1,
-        "Scorbunny": 4,
+        "Scorbunny": 5,
         "Huntail": 1,
         "Galarian meowth": 1,
         "Spoink": 2,
@@ -652,7 +652,7 @@
         "Mareanie": 3,
         "Seadra": 1,
         "Beheeyem": 2,
-        "Pinsir": 1,
+        "Pinsir": 2,
         "Mothim": 2,
         "Whirlipede": 5,
         "Absol": 2,
@@ -738,7 +738,7 @@
         "Lumineon": 1,
         "Thievul": 2,
         "Greedent": 1,
-        "Ekans": 1,
+        "Ekans": 2,
         "Venonat": 2,
         "Pelipper": 2,
         "Metapod": 2,
@@ -790,10 +790,11 @@
         "Ditto": 1,
         "Dada zarude": 1,
         "Happiny": 1,
-        "Matron trim furfrou": 1
+        "Matron trim furfrou": 1,
+        "Gothitelle": 1
       },
-      "total_spawns": 3471,
-      "last_spawn": "2026-06-19T20:56:38.311889"
+      "total_spawns": 3482,
+      "last_spawn": "2026-06-19T20:57:08.888825"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1034,7 +1035,7 @@
         "Wartortle": 1,
         "Grumpig": 1,
         "Bellsprout": 2,
-        "Weedle": 2,
+        "Weedle": 3,
         "Meowth": 1,
         "Spritzee": 1,
         "Swinub": 2,
@@ -1125,7 +1126,7 @@
         "Probopass": 1,
         "Thwackey": 2,
         "Starmie": 1,
-        "Wattrel": 2,
+        "Wattrel": 3,
         "Golem": 1,
         "Primarina": 1,
         "Silcoon": 1,
@@ -1176,14 +1177,15 @@
         "Bruxish": 1,
         "Ponyta": 1,
         "Oranguru": 1,
-        "Togetic": 1
+        "Togetic": 1,
+        "Tepig": 1
       },
-      "total_spawns": 730,
-      "last_spawn": "2026-06-19T20:56:37.712998"
+      "total_spawns": 733,
+      "last_spawn": "2026-06-19T20:57:07.564869"
     }
   },
   "global": {
-    "total_spawns": 7532,
+    "total_spawns": 7546,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
