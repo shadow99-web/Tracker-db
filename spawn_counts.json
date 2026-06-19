@@ -954,7 +954,7 @@
         "Gholdengo": 1,
         "Combusken": 1,
         "Girafarig": 1,
-        "Yellow plumage squawkabilly": 2,
+        "Yellow plumage squawkabilly": 3,
         "Mosslax": 6,
         "Fennekin": 3,
         "Cubchoo": 1,
@@ -1198,7 +1198,7 @@
         "Mareanie": 1,
         "Morelull": 1,
         "Bruxish": 1,
-        "Ponyta": 1,
+        "Ponyta": 2,
         "Oranguru": 1,
         "Togetic": 1,
         "Tepig": 1,
@@ -1225,14 +1225,15 @@
         "Electabuzz": 1,
         "Prof tangrowth": 1,
         "Unfezant": 1,
-        "Pidgey": 1
+        "Pidgey": 2,
+        "Swalot": 1
       },
-      "total_spawns": 818,
-      "last_spawn": "2026-06-19T22:11:37.598767"
+      "total_spawns": 822,
+      "last_spawn": "2026-06-19T22:12:17.414564"
     }
   },
   "global": {
-    "total_spawns": 8012,
+    "total_spawns": 8016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
