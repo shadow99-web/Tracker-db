@@ -888,7 +888,7 @@
         "Fennekin": 2,
         "Cubchoo": 1,
         "Sprigatito": 1,
-        "Nosepass": 1,
+        "Nosepass": 2,
         "Chikorita": 2,
         "Necrozma": 1,
         "Bounsweet": 3,
@@ -901,7 +901,7 @@
         "Sizzlipede": 3,
         "Spidops": 2,
         "Mantyke": 1,
-        "Tinkatink": 1,
+        "Tinkatink": 2,
         "Frogadier": 1,
         "Greavard": 1,
         "Dj rotom": 2,
@@ -974,7 +974,7 @@
         "Klink": 3,
         "Rufflet": 2,
         "Weezing": 1,
-        "Heatmor": 1,
+        "Heatmor": 2,
         "Dunsparce": 2,
         "Corvisquire": 1,
         "Clefairy": 1,
@@ -1001,7 +1001,7 @@
         "Carvanha": 1,
         "Dewpider": 1,
         "Gurdurr": 1,
-        "Magneton": 1,
+        "Magneton": 2,
         "Dragonite": 1,
         "Dratini": 3,
         "Meganium": 3,
@@ -1041,7 +1041,7 @@
         "Honchkrow": 1,
         "Wugtrio": 2,
         "Popplio": 1,
-        "Sandy burmy": 1,
+        "Sandy burmy": 2,
         "Helioptile": 1,
         "Salandit": 1,
         "Golisopod": 1,
@@ -1089,14 +1089,17 @@
         "Yamask": 1,
         "Staraptor": 1,
         "Simisear": 1,
-        "Lairon": 1
+        "Lairon": 1,
+        "Croagunk": 1,
+        "Aron": 1,
+        "Seedot": 1
       },
-      "total_spawns": 594,
-      "last_spawn": "2026-06-19T16:29:57.918665"
+      "total_spawns": 602,
+      "last_spawn": "2026-06-19T16:31:47.607916"
     }
   },
   "global": {
-    "total_spawns": 6801,
+    "total_spawns": 6809,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
