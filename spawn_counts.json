@@ -79,7 +79,7 @@
         "Phantump": 5,
         "Duosion": 2,
         "Amaura": 4,
-        "Gimmighoul": 12,
+        "Gimmighoul": 13,
         "Baltoy": 1,
         "Mareep": 11,
         "Garbodor": 1,
@@ -103,7 +103,7 @@
         "Veluza": 17,
         "Barboach": 2,
         "Klink": 7,
-        "Honedge": 15,
+        "Honedge": 17,
         "Wingull": 3,
         "Salamence": 1,
         "Drakloak": 3,
@@ -163,7 +163,7 @@
         "Tepig": 8,
         "Kirlia": 2,
         "Piplup": 2,
-        "Kakuna": 4,
+        "Kakuna": 5,
         "Weepinbell": 2,
         "Klawf": 9,
         "Vanillite": 11,
@@ -174,7 +174,7 @@
         "Inkay": 5,
         "Gible": 4,
         "Rookidee": 6,
-        "Minccino": 1,
+        "Minccino": 2,
         "Wurmple": 7,
         "Binacle": 2,
         "Grafaiai": 2,
@@ -267,7 +267,7 @@
         "Vibrava": 2,
         "Loudred": 1,
         "Ceruledge": 6,
-        "Houndour": 5,
+        "Houndour": 6,
         "Glimmet": 10,
         "Goomy": 3,
         "Zapdos": 1,
@@ -350,7 +350,7 @@
         "Dwebble": 3,
         "Steenee": 1,
         "Darumaka": 3,
-        "Arboliva": 1,
+        "Arboliva": 2,
         "Ledyba": 5,
         "Spritzee": 1,
         "Swirlix": 1,
@@ -511,7 +511,7 @@
         "Sawk": 1,
         "Starmie": 2,
         "Simipour": 1,
-        "Goldeen": 1,
+        "Goldeen": 2,
         "Nickit": 3,
         "Ivysaur": 3,
         "Milcery": 3,
@@ -668,10 +668,11 @@
         "Skeledirge": 1,
         "Amoonguss": 1,
         "Appletun": 1,
-        "Krookodile": 1
+        "Krookodile": 1,
+        "Primeape": 1
       },
-      "total_spawns": 2040,
-      "last_spawn": "2026-06-19T13:12:29.340399"
+      "total_spawns": 2049,
+      "last_spawn": "2026-06-19T13:12:59.176706"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -741,7 +742,7 @@
         "Voltorb": 1,
         "Litwick": 3,
         "Dachsbun": 1,
-        "Ralts": 1,
+        "Ralts": 2,
         "Poliwag": 2,
         "Veluza": 2,
         "Wailmer": 1,
@@ -786,7 +787,7 @@
         "Chef dente": 2,
         "Rellor": 1,
         "Pelipper": 1,
-        "Scatterbug": 1,
+        "Scatterbug": 2,
         "Caterpie": 1,
         "Pancham": 1,
         "Nymble": 1,
@@ -842,14 +843,16 @@
         "Sewaddle": 2,
         "Monferno": 1,
         "Drowzee": 1,
-        "Gloom": 1
+        "Gloom": 1,
+        "Froslass": 1,
+        "Electrike": 1
       },
-      "total_spawns": 223,
-      "last_spawn": "2026-06-19T13:12:14.136040"
+      "total_spawns": 227,
+      "last_spawn": "2026-06-19T13:13:03.900846"
     }
   },
   "global": {
-    "total_spawns": 5594,
+    "total_spawns": 5607,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
