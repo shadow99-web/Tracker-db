@@ -7,7 +7,7 @@
         "Patrat": 3,
         "Mosslax": 10,
         "Drilbur": 3,
-        "Pawmi": 11,
+        "Pawmi": 12,
         "Electabuzz": 3,
         "Rellor": 12,
         "Sandy burmy": 5,
@@ -113,7 +113,7 @@
         "Bonsly": 1,
         "Horsea": 17,
         "Frigibax": 10,
-        "Spheal": 18,
+        "Spheal": 19,
         "Swadloon": 5,
         "Flittle": 13,
         "Unfezant": 2,
@@ -194,7 +194,7 @@
         "Pidgeotto": 3,
         "Spearow": 7,
         "Helioptile": 3,
-        "Hoothoot": 6,
+        "Hoothoot": 7,
         "Grookey": 9,
         "Meditite": 1,
         "Toedscruel": 5,
@@ -213,7 +213,7 @@
         "Fidough": 8,
         "Noivern": 2,
         "Feraligatr": 2,
-        "Tynamo": 16,
+        "Tynamo": 17,
         "Orthworm": 17,
         "Marill": 4,
         "Joltik": 12,
@@ -261,7 +261,7 @@
         "Gligar": 5,
         "Tirtouga": 7,
         "Furret": 1,
-        "Nincada": 8,
+        "Nincada": 9,
         "Fennekin": 11,
         "Quaxwell": 2,
         "Vibrava": 4,
@@ -311,7 +311,7 @@
         "Zangoose": 2,
         "Flygon": 1,
         "Shellos": 2,
-        "Jigglypuff": 5,
+        "Jigglypuff": 6,
         "Nacli": 10,
         "Munna": 1,
         "Pawniard": 1,
@@ -322,8 +322,8 @@
         "Gossifleur": 2,
         "Oshawott": 4,
         "Murkrow": 6,
-        "Bellsprout": 12,
-        "Mudbray": 4,
+        "Bellsprout": 13,
+        "Mudbray": 5,
         "Dreepy": 12,
         "Tinkaton": 1,
         "Corviknight": 3,
@@ -349,7 +349,7 @@
         "Wooper": 7,
         "Dwebble": 4,
         "Steenee": 4,
-        "Darumaka": 5,
+        "Darumaka": 6,
         "Arboliva": 2,
         "Ledyba": 6,
         "Spritzee": 1,
@@ -625,7 +625,7 @@
         "Gardevoir": 1,
         "Malamar": 2,
         "Frost rotom": 1,
-        "Tatsugiri": 3,
+        "Tatsugiri": 4,
         "Nidorino": 1,
         "Wailmer": 3,
         "Krabby": 2,
@@ -763,10 +763,11 @@
         "Reuniclus": 1,
         "Smeargle": 1,
         "Gorebyss": 1,
-        "Yanmega": 1
+        "Yanmega": 1,
+        "Pawmo": 1
       },
-      "total_spawns": 3182,
-      "last_spawn": "2026-06-19T20:42:46.676625"
+      "total_spawns": 3193,
+      "last_spawn": "2026-06-19T20:43:19.775654"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -789,7 +790,7 @@
         "Grovyle": 2,
         "Vigoroth": 2,
         "Kilowattrel": 1,
-        "Magnemite": 6,
+        "Magnemite": 7,
         "Gyarados": 1,
         "Starly": 7,
         "Gimmighoul": 4,
@@ -876,7 +877,7 @@
         "Forretress": 2,
         "Farigiraf": 1,
         "Rookidee": 3,
-        "Teddiursa": 4,
+        "Teddiursa": 5,
         "Raboot": 3,
         "Chef dente": 3,
         "Rellor": 5,
@@ -1140,12 +1141,12 @@
         "Shellos": 1,
         "Skwovet": 1
       },
-      "total_spawns": 686,
-      "last_spawn": "2026-06-19T20:42:37.495385"
+      "total_spawns": 688,
+      "last_spawn": "2026-06-19T20:42:57.540050"
     }
   },
   "global": {
-    "total_spawns": 7199,
+    "total_spawns": 7212,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
