@@ -22,7 +22,7 @@
         "Tangela": 4,
         "Orbeetle": 1,
         "Dedenne": 1,
-        "Machop": 8,
+        "Machop": 9,
         "Dudunsparce": 1,
         "Gothita": 8,
         "Impidimp": 8,
@@ -50,7 +50,7 @@
         "Greavard": 5,
         "Slugma": 1,
         "Grotle": 3,
-        "Porygon": 6,
+        "Porygon": 7,
         "Zubat": 14,
         "Vanillish": 6,
         "Tadbulb": 3,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 10,
-        "Orthworm": 8,
+        "Orthworm": 9,
         "Marill": 3,
         "Joltik": 7,
         "Politoed": 2,
@@ -345,7 +345,7 @@
         "Capsakid": 6,
         "Revavroom": 4,
         "Exploud": 1,
-        "Deino": 3,
+        "Deino": 4,
         "Wooper": 6,
         "Dwebble": 3,
         "Steenee": 1,
@@ -549,7 +549,7 @@
         "Dragonair": 1,
         "Zweilous": 1,
         "Karrablast": 1,
-        "Shroomish": 1,
+        "Shroomish": 2,
         "Snover": 2,
         "Drednaw": 1,
         "Skarmory": 1,
@@ -595,7 +595,7 @@
         "Mienfoo": 2,
         "Dewgong": 1,
         "Wartortle": 2,
-        "Cetoddle": 2,
+        "Cetoddle": 3,
         "Kricketot": 1,
         "Porygon-z": 2,
         "Conkeldurr": 1,
@@ -656,10 +656,12 @@
         "Mothim": 1,
         "Whirlipede": 1,
         "Absol": 1,
-        "Annihilape": 1
+        "Annihilape": 1,
+        "Bouffalant": 1,
+        "Crabrawler": 1
       },
-      "total_spawns": 1929,
-      "last_spawn": "2026-06-19T13:04:37.530083"
+      "total_spawns": 1937,
+      "last_spawn": "2026-06-19T13:05:15.618597"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -830,7 +832,7 @@
     }
   },
   "global": {
-    "total_spawns": 5467,
+    "total_spawns": 5475,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
