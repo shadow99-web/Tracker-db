@@ -25,7 +25,7 @@
         "Machop": 11,
         "Dudunsparce": 1,
         "Gothita": 12,
-        "Impidimp": 9,
+        "Impidimp": 10,
         "Charmander": 4,
         "Morelull": 1,
         "Abra": 14,
@@ -40,7 +40,7 @@
         "Qwilfish": 2,
         "Trapinch": 11,
         "Toedscool": 10,
-        "Fletchling": 11,
+        "Fletchling": 12,
         "Skiploom": 6,
         "Timburr": 13,
         "Dj rotom": 6,
@@ -130,7 +130,7 @@
         "Weedle": 26,
         "Flamigo": 6,
         "Lillipup": 13,
-        "Shinx": 11,
+        "Shinx": 12,
         "Bounsweet": 8,
         "Noibat": 4,
         "Toxicroak": 1,
@@ -156,7 +156,7 @@
         "Flapple": 1,
         "Aron": 11,
         "Boldore": 2,
-        "Spinarak": 6,
+        "Spinarak": 7,
         "Delcatty": 2,
         "Spiritomb": 1,
         "Yamper": 4,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 2,
         "Sunny castform": 2,
         "Pidgeotto": 3,
-        "Spearow": 4,
+        "Spearow": 5,
         "Helioptile": 2,
         "Hoothoot": 5,
         "Grookey": 8,
@@ -215,7 +215,7 @@
         "Feraligatr": 2,
         "Tynamo": 12,
         "Orthworm": 13,
-        "Marill": 3,
+        "Marill": 4,
         "Joltik": 8,
         "Politoed": 2,
         "Cyndaquil": 5,
@@ -428,7 +428,7 @@
         "Grapploct": 1,
         "Gurdurr": 2,
         "Girafarig": 1,
-        "Flaaffy": 1,
+        "Flaaffy": 2,
         "Pecharunt": 1,
         "Feebas": 2,
         "Buneary": 2,
@@ -534,7 +534,7 @@
         "Axew": 6,
         "Trevenant": 1,
         "Trubbish": 1,
-        "Zorua": 4,
+        "Zorua": 5,
         "Archen": 1,
         "Oinkologne": 2,
         "Onix": 1,
@@ -706,8 +706,8 @@
         "Hatenna": 1,
         "Zoroark": 1
       },
-      "total_spawns": 2351,
-      "last_spawn": "2026-06-19T13:33:15.394962"
+      "total_spawns": 2359,
+      "last_spawn": "2026-06-19T13:33:49.316067"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -850,7 +850,7 @@
         "Cubchoo": 1,
         "Sprigatito": 1,
         "Nosepass": 1,
-        "Chikorita": 1,
+        "Chikorita": 2,
         "Necrozma": 1,
         "Bounsweet": 2,
         "Wooper": 1,
@@ -858,9 +858,9 @@
         "Squawkabilly": 1,
         "Ekans": 2,
         "Bagon": 2,
-        "Impidimp": 2,
+        "Impidimp": 3,
         "Sizzlipede": 1,
-        "Spidops": 1,
+        "Spidops": 2,
         "Mantyke": 1,
         "Tinkatink": 1,
         "Frogadier": 1,
@@ -954,12 +954,12 @@
         "Swinub": 1,
         "Tropius": 1
       },
-      "total_spawns": 345,
-      "last_spawn": "2026-06-19T13:33:13.930464"
+      "total_spawns": 348,
+      "last_spawn": "2026-06-19T13:33:43.791179"
     }
   },
   "global": {
-    "total_spawns": 6027,
+    "total_spawns": 6038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
