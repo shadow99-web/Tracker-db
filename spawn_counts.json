@@ -55,7 +55,7 @@
         "Vanillish": 6,
         "Tadbulb": 3,
         "Magnemite": 12,
-        "Whismur": 7,
+        "Whismur": 8,
         "Monferno": 6,
         "Skwovet": 1,
         "Bramblin": 10,
@@ -100,7 +100,7 @@
         "Numel": 2,
         "Carracosta": 1,
         "Smearguru": 7,
-        "Veluza": 17,
+        "Veluza": 18,
         "Barboach": 2,
         "Klink": 8,
         "Honedge": 18,
@@ -266,8 +266,8 @@
         "Quaxwell": 2,
         "Vibrava": 2,
         "Loudred": 1,
-        "Ceruledge": 6,
-        "Houndour": 7,
+        "Ceruledge": 7,
+        "Houndour": 8,
         "Glimmet": 10,
         "Goomy": 3,
         "Zapdos": 1,
@@ -282,7 +282,7 @@
         "Crocalor": 4,
         "Cryogonal": 1,
         "Eternatus": 1,
-        "Gholdengo": 2,
+        "Gholdengo": 4,
         "Charmeleon": 2,
         "Dipplin": 1,
         "Cramorant": 1,
@@ -414,7 +414,7 @@
         "Armarouge": 4,
         "Tyrantrum": 1,
         "Larvitar": 4,
-        "Tentacool": 1,
+        "Tentacool": 2,
         "Volcanion": 1,
         "Roaming gimmighoul": 6,
         "Summer sawsbuck": 1,
@@ -673,10 +673,11 @@
         "Grimer": 1,
         "Crabominable": 1,
         "Quaquaval": 1,
-        "Sprigatito": 1
+        "Sprigatito": 1,
+        "Metagross": 1
       },
-      "total_spawns": 2082,
-      "last_spawn": "2026-06-19T13:15:14.687990"
+      "total_spawns": 2090,
+      "last_spawn": "2026-06-19T13:15:49.332437"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -857,14 +858,17 @@
         "Litten": 1,
         "Infernape": 1,
         "Slugma": 1,
-        "Togepi": 1
+        "Togepi": 1,
+        "Shinx": 1,
+        "Linoone": 1,
+        "Lombre": 1
       },
-      "total_spawns": 240,
-      "last_spawn": "2026-06-19T13:15:13.961425"
+      "total_spawns": 243,
+      "last_spawn": "2026-06-19T13:15:44.104515"
     }
   },
   "global": {
-    "total_spawns": 5653,
+    "total_spawns": 5664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
