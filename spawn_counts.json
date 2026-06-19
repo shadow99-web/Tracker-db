@@ -43,7 +43,7 @@
         "Fletchling": 16,
         "Skiploom": 7,
         "Timburr": 16,
-        "Dj rotom": 11,
+        "Dj rotom": 12,
         "Surskit": 11,
         "Seedot": 9,
         "Skitty": 4,
@@ -113,7 +113,7 @@
         "Bonsly": 1,
         "Horsea": 19,
         "Frigibax": 12,
-        "Spheal": 22,
+        "Spheal": 23,
         "Swadloon": 5,
         "Flittle": 16,
         "Unfezant": 2,
@@ -150,7 +150,7 @@
         "Dracovish": 2,
         "Bulbasaur": 7,
         "Roggenrola": 14,
-        "Pidove": 20,
+        "Pidove": 21,
         "Dragapult": 4,
         "Rattata": 7,
         "Flapple": 2,
@@ -215,7 +215,7 @@
         "Feraligatr": 2,
         "Tynamo": 19,
         "Orthworm": 18,
-        "Marill": 4,
+        "Marill": 5,
         "Joltik": 14,
         "Politoed": 2,
         "Cyndaquil": 10,
@@ -384,7 +384,7 @@
         "Drifloon": 3,
         "Golbat": 5,
         "Swablu": 4,
-        "Shellder": 7,
+        "Shellder": 8,
         "Crobat": 1,
         "Sandshrew": 5,
         "Palafin": 3,
@@ -476,7 +476,7 @@
         "White plumage squawkabilly": 5,
         "Shelmet": 4,
         "Solrock": 1,
-        "Slowpoke": 5,
+        "Slowpoke": 6,
         "Dolliv": 4,
         "Infernape": 1,
         "Carkol": 7,
@@ -488,7 +488,7 @@
         "Chatot": 2,
         "Houndoom": 3,
         "Dottler": 3,
-        "Eevee": 2,
+        "Eevee": 3,
         "Copperajah": 1,
         "Magneton": 5,
         "Alakazam": 2,
@@ -648,7 +648,7 @@
         "Archeops": 2,
         "Shiftry": 1,
         "Arbok": 1,
-        "Stretchy tatsugiri": 5,
+        "Stretchy tatsugiri": 6,
         "Mareanie": 3,
         "Seadra": 2,
         "Beheeyem": 2,
@@ -665,7 +665,7 @@
         "Kecleon": 1,
         "Sizzlipede": 4,
         "White flower floette": 1,
-        "Skeledirge": 2,
+        "Skeledirge": 3,
         "Amoonguss": 2,
         "Appletun": 1,
         "Krookodile": 1,
@@ -817,10 +817,13 @@
         "Hypno": 1,
         "Galarian weezing": 1,
         "Gigalith": 1,
-        "Indeedee": 1
+        "Indeedee": 1,
+        "Amped toxtricity": 1,
+        "Galarian linoone": 1,
+        "Xatu": 1
       },
-      "total_spawns": 3964,
-      "last_spawn": "2026-06-19T22:54:26.657296"
+      "total_spawns": 3976,
+      "last_spawn": "2026-06-19T22:54:57.998014"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1252,7 +1255,7 @@
     }
   },
   "global": {
-    "total_spawns": 8168,
+    "total_spawns": 8180,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
