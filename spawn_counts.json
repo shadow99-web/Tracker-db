@@ -47,7 +47,7 @@
         "Surskit": 8,
         "Seedot": 6,
         "Skitty": 3,
-        "Greavard": 7,
+        "Greavard": 8,
         "Slugma": 2,
         "Grotle": 3,
         "Porygon": 8,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 6,
         "Bonsly": 1,
-        "Horsea": 14,
+        "Horsea": 15,
         "Frigibax": 8,
         "Spheal": 14,
         "Swadloon": 5,
@@ -150,7 +150,7 @@
         "Dracovish": 2,
         "Bulbasaur": 5,
         "Roggenrola": 7,
-        "Pidove": 15,
+        "Pidove": 16,
         "Dragapult": 1,
         "Rattata": 5,
         "Flapple": 1,
@@ -184,7 +184,7 @@
         "Cottonee": 2,
         "Elgyem": 1,
         "Luvdisc": 1,
-        "Vigoroth": 3,
+        "Vigoroth": 4,
         "Skorupi": 1,
         "Pikachu": 3,
         "Blue plumage squawkabilly": 2,
@@ -240,7 +240,7 @@
         "Omanyte": 4,
         "Galvantula": 1,
         "Chansey": 5,
-        "Shroodle": 10,
+        "Shroodle": 11,
         "Duskull": 11,
         "Bergmite": 2,
         "Pignite": 3,
@@ -267,7 +267,7 @@
         "Vibrava": 3,
         "Loudred": 1,
         "Ceruledge": 8,
-        "Houndour": 8,
+        "Houndour": 9,
         "Glimmet": 13,
         "Goomy": 3,
         "Zapdos": 1,
@@ -279,7 +279,7 @@
         "Rowlet": 3,
         "Galarian slowpoke": 1,
         "Poliwhirl": 2,
-        "Crocalor": 5,
+        "Crocalor": 6,
         "Cryogonal": 1,
         "Eternatus": 1,
         "Gholdengo": 5,
@@ -521,7 +521,7 @@
         "Arctibax": 1,
         "Foongus": 5,
         "Pansage": 2,
-        "Cranidos": 1,
+        "Cranidos": 2,
         "Spewpa": 2,
         "Tyrunt": 3,
         "Garganacl": 1,
@@ -717,10 +717,11 @@
         "Hydrapple": 1,
         "Emolga": 1,
         "Tsareena": 1,
-        "Blissey": 1
+        "Blissey": 1,
+        "Blastoise": 1
       },
-      "total_spawns": 2514,
-      "last_spawn": "2026-06-19T13:44:16.525710"
+      "total_spawns": 2523,
+      "last_spawn": "2026-06-19T13:44:49.904811"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -785,7 +786,7 @@
         "Tandemaus": 3,
         "Krokorok": 2,
         "Cascoon": 1,
-        "Roggenrola": 3,
+        "Roggenrola": 4,
         "Spheal": 2,
         "Voltorb": 1,
         "Litwick": 4,
@@ -888,7 +889,7 @@
         "Archen": 1,
         "Milcery": 1,
         "Axew": 1,
-        "Sewaddle": 2,
+        "Sewaddle": 3,
         "Monferno": 1,
         "Drowzee": 1,
         "Gloom": 3,
@@ -938,7 +939,7 @@
         "Peakychu": 1,
         "Alolan geodude": 1,
         "Tentacool": 1,
-        "Deino": 2,
+        "Deino": 3,
         "Vanillish": 1,
         "Seadra": 4,
         "Gigalith": 2,
@@ -996,14 +997,15 @@
         "Sensu oricorio": 1,
         "Barraskewda": 1,
         "Sunny castform": 1,
-        "Espathra": 1
+        "Espathra": 1,
+        "Duskull": 1
       },
-      "total_spawns": 432,
-      "last_spawn": "2026-06-19T13:44:09.874389"
+      "total_spawns": 436,
+      "last_spawn": "2026-06-19T13:44:44.053310"
     }
   },
   "global": {
-    "total_spawns": 6277,
+    "total_spawns": 6290,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
