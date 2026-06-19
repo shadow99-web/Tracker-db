@@ -91,7 +91,7 @@
         "Metang": 3,
         "Riolu": 4,
         "Exeggcute": 3,
-        "Corphish": 1,
+        "Corphish": 2,
         "Hoppip": 12,
         "Sandslash": 1,
         "Kabuto": 6,
@@ -187,9 +187,9 @@
         "Vigoroth": 4,
         "Skorupi": 4,
         "Pikachu": 3,
-        "Blue plumage squawkabilly": 2,
+        "Blue plumage squawkabilly": 3,
         "Thwackey": 5,
-        "Dusk lycanroc": 2,
+        "Dusk lycanroc": 3,
         "Sunny castform": 2,
         "Pidgeotto": 3,
         "Spearow": 5,
@@ -205,7 +205,7 @@
         "Totodile": 5,
         "Dodrio": 2,
         "Cufant": 4,
-        "Tympole": 2,
+        "Tympole": 3,
         "Swellow": 2,
         "Aipom": 4,
         "Growlithe": 3,
@@ -306,7 +306,7 @@
         "Lileep": 4,
         "Rolycoly": 10,
         "Bronzor": 5,
-        "Dartrix": 3,
+        "Dartrix": 4,
         "Yellow flower florges": 2,
         "Zangoose": 2,
         "Flygon": 1,
@@ -336,7 +336,7 @@
         "Bisharp": 1,
         "Chespin": 5,
         "Sealeo": 4,
-        "Staryu": 6,
+        "Staryu": 7,
         "Samurott": 2,
         "Torchic": 5,
         "Sobble": 7,
@@ -481,7 +481,7 @@
         "Infernape": 1,
         "Carkol": 4,
         "Magikarp": 4,
-        "Tyrogue": 1,
+        "Tyrogue": 2,
         "Vikavolt": 1,
         "Trash burmy": 2,
         "Staravia": 4,
@@ -506,7 +506,7 @@
         "Farigiraf": 7,
         "Hakamo-o": 2,
         "Glameow": 5,
-        "Croagunk": 2,
+        "Croagunk": 3,
         "Duraludon": 1,
         "Sawk": 1,
         "Starmie": 2,
@@ -551,7 +551,7 @@
         "Karrablast": 2,
         "Shroomish": 5,
         "Snover": 5,
-        "Drednaw": 1,
+        "Drednaw": 2,
         "Skarmory": 1,
         "Midnight lycanroc": 2,
         "Eelektross": 1,
@@ -642,7 +642,7 @@
         "East sea shellos": 1,
         "Corsola": 3,
         "Venomoth": 1,
-        "Trumbeak": 1,
+        "Trumbeak": 2,
         "Aerodactyl": 2,
         "Igglybuff": 2,
         "Archeops": 1,
@@ -752,8 +752,8 @@
         "Poltchageist": 1,
         "Incineroar": 1
       },
-      "total_spawns": 2935,
-      "last_spawn": "2026-06-19T20:30:53.377396"
+      "total_spawns": 2945,
+      "last_spawn": "2026-06-19T20:31:26.997852"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1129,7 +1129,7 @@
     }
   },
   "global": {
-    "total_spawns": 6927,
+    "total_spawns": 6937,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
