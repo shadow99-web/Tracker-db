@@ -1061,7 +1061,7 @@
         "Beldum": 2,
         "Sandile": 1,
         "Pachirisu": 1,
-        "Gothita": 1,
+        "Gothita": 2,
         "Anorith": 1,
         "Pansage": 1,
         "Torkoal": 1,
@@ -1077,14 +1077,16 @@
         "Staravia": 1,
         "Probopass": 1,
         "Thwackey": 2,
-        "Starmie": 1
+        "Starmie": 1,
+        "Wattrel": 1,
+        "Golem": 1
       },
-      "total_spawns": 568,
-      "last_spawn": "2026-06-19T16:20:07.556103"
+      "total_spawns": 571,
+      "last_spawn": "2026-06-19T16:20:37.750987"
     }
   },
   "global": {
-    "total_spawns": 6775,
+    "total_spawns": 6778,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
