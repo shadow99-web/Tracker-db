@@ -667,7 +667,7 @@
         "Maschiff": 3,
         "Pidove": 1,
         "Sandygast": 1,
-        "Charcadet": 3,
+        "Charcadet": 4,
         "Heracross": 1,
         "Tympole": 2,
         "Dondozo": 1,
@@ -812,14 +812,16 @@
         "Spidops": 1,
         "Mantyke": 1,
         "Tinkatink": 1,
-        "Frogadier": 1
+        "Frogadier": 1,
+        "Greavard": 1,
+        "Dj rotom": 1
       },
-      "total_spawns": 190,
-      "last_spawn": "2026-06-19T09:05:25.378541"
+      "total_spawns": 193,
+      "last_spawn": "2026-06-19T12:48:23.030169"
     }
   },
   "global": {
-    "total_spawns": 5433,
+    "total_spawns": 5436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
