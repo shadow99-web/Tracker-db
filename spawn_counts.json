@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
         "Toxapex": 1,
-        "Lileep": 3,
+        "Lileep": 4,
         "Rolycoly": 10,
         "Bronzor": 5,
         "Dartrix": 3,
@@ -737,8 +737,8 @@
         "Hippowdon": 1,
         "Lumineon": 1
       },
-      "total_spawns": 2780,
-      "last_spawn": "2026-06-19T14:04:35.494292"
+      "total_spawns": 2781,
+      "last_spawn": "2026-06-19T15:16:28.904733"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1068,14 +1068,14 @@
         "Omanyte": 1,
         "Staravia": 1,
         "Probopass": 1,
-        "Thwackey": 1
+        "Thwackey": 2
       },
-      "total_spawns": 566,
-      "last_spawn": "2026-06-19T15:11:58.566625"
+      "total_spawns": 567,
+      "last_spawn": "2026-06-19T15:12:05.259861"
     }
   },
   "global": {
-    "total_spawns": 6677,
+    "total_spawns": 6679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
