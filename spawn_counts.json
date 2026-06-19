@@ -897,12 +897,12 @@
         "Larvesta": 2,
         "Whismur": 1,
         "Misdreavus": 2,
-        "Carkol": 1,
+        "Carkol": 2,
         "Pikipek": 5,
         "Capsakid": 6,
         "Natu": 3,
         "Politoed": 1,
-        "Gastly": 6,
+        "Gastly": 7,
         "Slakoth": 4,
         "Machop": 4,
         "Roselia": 1,
@@ -920,7 +920,7 @@
         "Houndour": 3,
         "Smoliv": 3,
         "Torchic": 1,
-        "Lechonk": 3,
+        "Lechonk": 4,
         "Cetitan": 1,
         "Turtwig": 4,
         "Wiglett": 7,
@@ -1241,14 +1241,15 @@
         "Zoroark": 1,
         "Dusclops": 1,
         "Bulbasaur": 1,
-        "Diggersby": 1
+        "Diggersby": 1,
+        "Cherubi": 1
       },
-      "total_spawns": 869,
-      "last_spawn": "2026-06-19T22:20:17.655339"
+      "total_spawns": 873,
+      "last_spawn": "2026-06-19T22:20:57.596638"
     }
   },
   "global": {
-    "total_spawns": 8063,
+    "total_spawns": 8067,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
