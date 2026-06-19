@@ -862,7 +862,7 @@
         "Rellor": 4,
         "Pelipper": 1,
         "Scatterbug": 2,
-        "Caterpie": 2,
+        "Caterpie": 3,
         "Pancham": 2,
         "Nymble": 4,
         "Rampardos": 1,
@@ -1110,17 +1110,18 @@
         "Cofagrigus": 1,
         "Tyranitar": 1,
         "Walrein": 1,
-        "Raichu": 1,
+        "Raichu": 2,
         "Annihilape": 1,
         "Seismitoad": 1,
-        "Complete zygarde": 1
+        "Complete zygarde": 1,
+        "Dottler": 1
       },
-      "total_spawns": 656,
-      "last_spawn": "2026-06-19T17:47:37.832731"
+      "total_spawns": 659,
+      "last_spawn": "2026-06-19T18:25:24.939281"
     }
   },
   "global": {
-    "total_spawns": 6863,
+    "total_spawns": 6866,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
