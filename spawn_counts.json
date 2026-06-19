@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 6,
         "Patrat": 3,
-        "Mosslax": 6,
+        "Mosslax": 7,
         "Drilbur": 3,
         "Pawmi": 9,
         "Electabuzz": 3,
@@ -46,7 +46,7 @@
         "Dj rotom": 6,
         "Surskit": 8,
         "Seedot": 4,
-        "Skitty": 2,
+        "Skitty": 3,
         "Greavard": 7,
         "Slugma": 2,
         "Grotle": 3,
@@ -100,7 +100,7 @@
         "Numel": 2,
         "Carracosta": 1,
         "Smearguru": 8,
-        "Veluza": 18,
+        "Veluza": 19,
         "Barboach": 2,
         "Klink": 8,
         "Honedge": 23,
@@ -210,7 +210,7 @@
         "Aipom": 2,
         "Growlithe": 2,
         "Sewaddle": 12,
-        "Fidough": 7,
+        "Fidough": 8,
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 12,
@@ -241,7 +241,7 @@
         "Galvantula": 1,
         "Chansey": 5,
         "Shroodle": 10,
-        "Duskull": 10,
+        "Duskull": 11,
         "Bergmite": 2,
         "Pignite": 3,
         "Lurantis": 1,
@@ -249,7 +249,7 @@
         "Dachsbun": 4,
         "Turtwig": 4,
         "Prinplup": 1,
-        "Tinkatink": 9,
+        "Tinkatink": 10,
         "Lechonk": 10,
         "Kommo-o": 1,
         "Dewott": 5,
@@ -347,7 +347,7 @@
         "Exploud": 2,
         "Deino": 5,
         "Wooper": 6,
-        "Dwebble": 3,
+        "Dwebble": 4,
         "Steenee": 1,
         "Darumaka": 4,
         "Arboliva": 2,
@@ -703,10 +703,11 @@
         "Litten": 1,
         "Abomasnow": 1,
         "Espeon": 1,
-        "Hatenna": 1
+        "Hatenna": 1,
+        "Zoroark": 1
       },
-      "total_spawns": 2335,
-      "last_spawn": "2026-06-19T13:32:11.983649"
+      "total_spawns": 2343,
+      "last_spawn": "2026-06-19T13:32:39.376932"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -732,7 +733,7 @@
         "Magnemite": 2,
         "Gyarados": 1,
         "Starly": 4,
-        "Gimmighoul": 1,
+        "Gimmighoul": 2,
         "Psyduck": 2,
         "Geodude": 1,
         "Carnivine": 1,
@@ -776,7 +777,7 @@
         "Voltorb": 1,
         "Litwick": 3,
         "Dachsbun": 1,
-        "Ralts": 2,
+        "Ralts": 3,
         "Poliwag": 2,
         "Veluza": 3,
         "Wailmer": 1,
@@ -926,7 +927,7 @@
         "Tentacool": 1,
         "Deino": 2,
         "Vanillish": 1,
-        "Seadra": 1,
+        "Seadra": 2,
         "Gigalith": 1,
         "Poliwhirl": 1,
         "Fletchling": 2,
@@ -947,14 +948,16 @@
         "Wartortle": 1,
         "Grumpig": 1,
         "Bellsprout": 1,
-        "Weedle": 1
+        "Weedle": 1,
+        "Meowth": 1,
+        "Spritzee": 1
       },
-      "total_spawns": 337,
-      "last_spawn": "2026-06-19T13:32:11.975873"
+      "total_spawns": 342,
+      "last_spawn": "2026-06-19T13:32:43.844706"
     }
   },
   "global": {
-    "total_spawns": 6003,
+    "total_spawns": 6016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
