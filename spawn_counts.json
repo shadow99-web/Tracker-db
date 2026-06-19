@@ -666,7 +666,7 @@
         "Jumpluff": 1,
         "Maschiff": 3,
         "Pidove": 1,
-        "Sandygast": 1,
+        "Sandygast": 2,
         "Charcadet": 4,
         "Heracross": 1,
         "Tympole": 2,
@@ -816,14 +816,17 @@
         "Greavard": 1,
         "Dj rotom": 1,
         "Lileep": 1,
-        "Joltik": 1
+        "Joltik": 1,
+        "Marill": 1,
+        "Dartrix": 1,
+        "Pumpkaboo": 1
       },
-      "total_spawns": 199,
-      "last_spawn": "2026-06-19T12:49:23.177115"
+      "total_spawns": 203,
+      "last_spawn": "2026-06-19T12:50:12.848008"
     }
   },
   "global": {
-    "total_spawns": 5442,
+    "total_spawns": 5446,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
