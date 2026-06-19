@@ -29,7 +29,7 @@
         "Charmander": 3,
         "Morelull": 1,
         "Abra": 12,
-        "Sandile": 8,
+        "Sandile": 9,
         "Sandygast": 3,
         "Litwick": 20,
         "Grubbin": 7,
@@ -655,8 +655,8 @@
         "Pinsir": 1,
         "Mothim": 1
       },
-      "total_spawns": 1912,
-      "last_spawn": "2026-06-19T01:45:05.908433"
+      "total_spawns": 1913,
+      "last_spawn": "2026-06-19T13:02:57.526469"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -748,7 +748,7 @@
         "Pidgeotto": 1,
         "Buneary": 1,
         "Gourgeist": 1,
-        "Numel": 1,
+        "Numel": 2,
         "Tranquill": 1,
         "Quaquaval": 1,
         "Frigibax": 1,
@@ -822,12 +822,12 @@
         "Pumpkaboo": 1,
         "Purrloin": 1
       },
-      "total_spawns": 206,
-      "last_spawn": "2026-06-19T12:50:43.099415"
+      "total_spawns": 207,
+      "last_spawn": "2026-06-19T12:50:53.226746"
     }
   },
   "global": {
-    "total_spawns": 5449,
+    "total_spawns": 5451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
