@@ -24,7 +24,7 @@
         "Dedenne": 2,
         "Machop": 18,
         "Dudunsparce": 1,
-        "Gothita": 19,
+        "Gothita": 20,
         "Impidimp": 16,
         "Charmander": 7,
         "Morelull": 1,
@@ -63,7 +63,7 @@
         "Larvesta": 12,
         "Beldum": 15,
         "Ducklett": 3,
-        "Lokix": 3,
+        "Lokix": 4,
         "Glimmora": 8,
         "Starly": 24,
         "Tandemaus": 18,
@@ -119,7 +119,7 @@
         "Unfezant": 2,
         "Yamask": 3,
         "Ralts": 11,
-        "Solosis": 13,
+        "Solosis": 14,
         "Battle cyclizar": 6,
         "Togetic": 3,
         "Palpitoad": 2,
@@ -173,7 +173,7 @@
         "Swinub": 12,
         "Inkay": 9,
         "Gible": 11,
-        "Rookidee": 12,
+        "Rookidee": 13,
         "Minccino": 8,
         "Wurmple": 13,
         "Binacle": 6,
@@ -227,7 +227,7 @@
         "Wattrel": 18,
         "Snubbull": 3,
         "Spidops": 3,
-        "Braixen": 4,
+        "Braixen": 5,
         "Drowzee": 6,
         "Blipbug": 15,
         "Lampent": 11,
@@ -320,7 +320,7 @@
         "Trash wormadam": 1,
         "Quaxly": 6,
         "Gossifleur": 2,
-        "Oshawott": 5,
+        "Oshawott": 6,
         "Murkrow": 7,
         "Bellsprout": 15,
         "Mudbray": 6,
@@ -338,7 +338,7 @@
         "Sealeo": 5,
         "Staryu": 7,
         "Samurott": 2,
-        "Torchic": 7,
+        "Torchic": 8,
         "Sobble": 10,
         "Mudkip": 4,
         "Charjabug": 6,
@@ -407,7 +407,7 @@
         "Maschiff": 8,
         "Rufflet": 8,
         "Kabutops": 2,
-        "Dondozo": 4,
+        "Dondozo": 5,
         "Pansear": 7,
         "Cutiefly": 5,
         "Peakychu": 9,
@@ -421,7 +421,7 @@
         "Delibird": 1,
         "Ride cyclizar": 7,
         "Gothorita": 4,
-        "Varoom": 13,
+        "Varoom": 14,
         "Yellow plumage squawkabilly": 4,
         "Centiskorch": 1,
         "Low key toxtricity": 1,
@@ -696,7 +696,7 @@
         "Tinkatuff": 2,
         "Bruxish": 1,
         "Corvisquire": 1,
-        "Mantine": 2,
+        "Mantine": 3,
         "Electrode": 2,
         "Celebi": 1,
         "Hero palafin": 1,
@@ -801,10 +801,11 @@
         "Vaporeon": 1,
         "Unown i": 1,
         "Raichu": 1,
-        "Mime jr.": 1
+        "Mime jr.": 1,
+        "Voltorb": 1
       },
-      "total_spawns": 3665,
-      "last_spawn": "2026-06-19T21:06:07.638586"
+      "total_spawns": 3676,
+      "last_spawn": "2026-06-19T21:06:32.996279"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -846,7 +847,7 @@
         "Snubbull": 2,
         "Koffing": 1,
         "Paras": 4,
-        "Abra": 5,
+        "Abra": 6,
         "Toedscool": 9,
         "Trapinch": 5,
         "Droopy tatsugiri": 3,
@@ -956,7 +957,7 @@
         "Ekans": 2,
         "Bagon": 3,
         "Impidimp": 5,
-        "Sizzlipede": 3,
+        "Sizzlipede": 4,
         "Spidops": 2,
         "Mantyke": 1,
         "Tinkatink": 4,
@@ -1205,14 +1206,15 @@
         "Gligar": 1,
         "Pansear": 1,
         "Magby": 1,
-        "Bronzor": 1
+        "Bronzor": 1,
+        "Butterfree": 1
       },
-      "total_spawns": 787,
-      "last_spawn": "2026-06-19T21:06:07.655000"
+      "total_spawns": 790,
+      "last_spawn": "2026-06-19T21:06:37.564402"
     }
   },
   "global": {
-    "total_spawns": 7783,
+    "total_spawns": 7797,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
