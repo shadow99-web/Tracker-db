@@ -66,7 +66,7 @@
         "Lokix": 3,
         "Glimmora": 8,
         "Starly": 20,
-        "Tandemaus": 11,
+        "Tandemaus": 12,
         "Smoliv": 19,
         "Gloom": 3,
         "Clefairy": 1,
@@ -134,7 +134,7 @@
         "Bounsweet": 12,
         "Noibat": 4,
         "Toxicroak": 1,
-        "Charcadet": 15,
+        "Charcadet": 16,
         "Croconaw": 7,
         "Phanpy": 1,
         "Brambleghast": 4,
@@ -286,7 +286,7 @@
         "Charmeleon": 2,
         "Dipplin": 1,
         "Cramorant": 1,
-        "Chef dente": 7,
+        "Chef dente": 8,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 3,
@@ -316,7 +316,7 @@
         "Munna": 1,
         "Pawniard": 1,
         "Prof tangrowth": 3,
-        "Jangmo-o": 7,
+        "Jangmo-o": 8,
         "Trash wormadam": 1,
         "Quaxly": 5,
         "Gossifleur": 2,
@@ -328,7 +328,7 @@
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 3,
-        "Nymble": 14,
+        "Nymble": 15,
         "Ferrothorn": 1,
         "Servine": 4,
         "Blitzle": 3,
@@ -375,10 +375,10 @@
         "Hippopotas": 2,
         "Spiky-eared pichu": 1,
         "Magearna": 1,
-        "Mabosstiff": 2,
+        "Mabosstiff": 3,
         "Squirtle": 5,
         "Remoraid": 2,
-        "Torracat": 4,
+        "Torracat": 5,
         "Hisuian zorua": 1,
         "Wooloo": 2,
         "Drifloon": 2,
@@ -410,7 +410,7 @@
         "Dondozo": 3,
         "Pansear": 5,
         "Cutiefly": 5,
-        "Peakychu": 7,
+        "Peakychu": 8,
         "Armarouge": 4,
         "Tyrantrum": 1,
         "Larvitar": 5,
@@ -703,7 +703,7 @@
         "Litten": 3,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 3,
+        "Hatenna": 4,
         "Zoroark": 1,
         "Lucario": 1,
         "Crustle": 2,
@@ -739,10 +739,12 @@
         "Thievul": 1,
         "Greedent": 1,
         "Ekans": 1,
-        "Venonat": 1
+        "Venonat": 1,
+        "Pelipper": 1,
+        "Metapod": 1
       },
-      "total_spawns": 2851,
-      "last_spawn": "2026-06-19T15:20:23.045790"
+      "total_spawns": 2862,
+      "last_spawn": "2026-06-19T15:20:53.254996"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1079,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 6749,
+    "total_spawns": 6760,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
