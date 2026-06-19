@@ -809,14 +809,17 @@
         "Bagon": 1,
         "Impidimp": 1,
         "Sizzlipede": 1,
-        "Spidops": 1
+        "Spidops": 1,
+        "Mantyke": 1,
+        "Tinkatink": 1,
+        "Frogadier": 1
       },
-      "total_spawns": 187,
-      "last_spawn": "2026-06-19T09:04:52.999823"
+      "total_spawns": 190,
+      "last_spawn": "2026-06-19T09:05:25.378541"
     }
   },
   "global": {
-    "total_spawns": 5430,
+    "total_spawns": 5433,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
