@@ -77,13 +77,13 @@
         "Tarountula": 7,
         "Hatterene": 2,
         "Phantump": 11,
-        "Duosion": 4,
+        "Duosion": 5,
         "Amaura": 5,
         "Gimmighoul": 16,
         "Baltoy": 6,
         "Mareep": 18,
         "Garbodor": 1,
-        "Slakoth": 18,
+        "Slakoth": 19,
         "Togepi": 7,
         "Falinks": 2,
         "Tropius": 1,
@@ -134,7 +134,7 @@
         "Bounsweet": 18,
         "Noibat": 6,
         "Toxicroak": 2,
-        "Charcadet": 24,
+        "Charcadet": 25,
         "Croconaw": 8,
         "Phanpy": 1,
         "Brambleghast": 4,
@@ -208,7 +208,7 @@
         "Tympole": 5,
         "Swellow": 3,
         "Aipom": 6,
-        "Growlithe": 3,
+        "Growlithe": 4,
         "Sewaddle": 17,
         "Fidough": 12,
         "Noivern": 2,
@@ -342,7 +342,7 @@
         "Sobble": 10,
         "Mudkip": 4,
         "Charjabug": 6,
-        "Capsakid": 9,
+        "Capsakid": 10,
         "Revavroom": 7,
         "Exploud": 3,
         "Deino": 7,
@@ -413,10 +413,10 @@
         "Peakychu": 9,
         "Armarouge": 4,
         "Tyrantrum": 1,
-        "Larvitar": 8,
+        "Larvitar": 9,
         "Tentacool": 2,
         "Volcanion": 1,
-        "Roaming gimmighoul": 10,
+        "Roaming gimmighoul": 11,
         "Summer sawsbuck": 3,
         "Delibird": 1,
         "Ride cyclizar": 7,
@@ -738,7 +738,7 @@
         "Lumineon": 1,
         "Thievul": 2,
         "Greedent": 1,
-        "Ekans": 3,
+        "Ekans": 5,
         "Venonat": 3,
         "Pelipper": 2,
         "Metapod": 2,
@@ -805,10 +805,11 @@
         "Voltorb": 1,
         "Lickitung": 1,
         "Blue-striped basculin": 1,
-        "Barraskewda": 1
+        "Barraskewda": 1,
+        "Salazzle": 1
       },
-      "total_spawns": 3751,
-      "last_spawn": "2026-06-19T21:10:18.154519"
+      "total_spawns": 3761,
+      "last_spawn": "2026-06-19T21:10:48.047582"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1221,7 +1222,7 @@
     }
   },
   "global": {
-    "total_spawns": 7885,
+    "total_spawns": 7895,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
