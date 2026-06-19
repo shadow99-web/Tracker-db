@@ -45,7 +45,7 @@
         "Timburr": 16,
         "Dj rotom": 11,
         "Surskit": 11,
-        "Seedot": 8,
+        "Seedot": 9,
         "Skitty": 4,
         "Greavard": 11,
         "Slugma": 3,
@@ -67,7 +67,7 @@
         "Glimmora": 8,
         "Starly": 24,
         "Tandemaus": 18,
-        "Smoliv": 19,
+        "Smoliv": 20,
         "Gloom": 4,
         "Clefairy": 3,
         "Spinda": 1,
@@ -179,7 +179,7 @@
         "Binacle": 7,
         "Grafaiai": 5,
         "Quilladin": 3,
-        "Geodude": 13,
+        "Geodude": 14,
         "Espurr": 5,
         "Cottonee": 2,
         "Elgyem": 1,
@@ -209,11 +209,11 @@
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 3,
-        "Sewaddle": 16,
+        "Sewaddle": 17,
         "Fidough": 12,
         "Noivern": 2,
         "Feraligatr": 2,
-        "Tynamo": 17,
+        "Tynamo": 18,
         "Orthworm": 18,
         "Marill": 4,
         "Joltik": 14,
@@ -506,7 +506,7 @@
         "Farigiraf": 7,
         "Hakamo-o": 2,
         "Glameow": 7,
-        "Croagunk": 3,
+        "Croagunk": 4,
         "Duraludon": 1,
         "Sawk": 1,
         "Starmie": 2,
@@ -642,7 +642,7 @@
         "East sea shellos": 1,
         "Corsola": 3,
         "Venomoth": 2,
-        "Trumbeak": 3,
+        "Trumbeak": 4,
         "Aerodactyl": 2,
         "Igglybuff": 3,
         "Archeops": 1,
@@ -779,7 +779,7 @@
         "Beedrill": 1,
         "Whimsicott": 1,
         "Wishiwashi": 1,
-        "Cofagrigus": 1,
+        "Cofagrigus": 2,
         "Camerupt": 1,
         "Castform": 2,
         "Weavile": 1,
@@ -802,10 +802,11 @@
         "Unown i": 1,
         "Raichu": 1,
         "Mime jr.": 1,
-        "Voltorb": 1
+        "Voltorb": 1,
+        "Lickitung": 1
       },
-      "total_spawns": 3729,
-      "last_spawn": "2026-06-19T21:09:12.947379"
+      "total_spawns": 3738,
+      "last_spawn": "2026-06-19T21:09:43.531309"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1218,7 +1219,7 @@
     }
   },
   "global": {
-    "total_spawns": 7863,
+    "total_spawns": 7872,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
