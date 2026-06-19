@@ -31,7 +31,7 @@
         "Abra": 21,
         "Sandile": 23,
         "Sandygast": 5,
-        "Litwick": 37,
+        "Litwick": 38,
         "Grubbin": 16,
         "Escavalier": 5,
         "Dratini": 12,
@@ -166,9 +166,9 @@
         "Kakuna": 7,
         "Weepinbell": 2,
         "Klawf": 19,
-        "Vanillite": 20,
+        "Vanillite": 21,
         "Flareon": 2,
-        "Gastly": 14,
+        "Gastly": 15,
         "Taillow": 4,
         "Swinub": 14,
         "Inkay": 11,
@@ -316,7 +316,7 @@
         "Munna": 1,
         "Pawniard": 2,
         "Prof tangrowth": 4,
-        "Jangmo-o": 8,
+        "Jangmo-o": 9,
         "Trash wormadam": 1,
         "Quaxly": 6,
         "Gossifleur": 2,
@@ -413,7 +413,7 @@
         "Peakychu": 9,
         "Armarouge": 5,
         "Tyrantrum": 1,
-        "Larvitar": 10,
+        "Larvitar": 11,
         "Tentacool": 2,
         "Volcanion": 1,
         "Roaming gimmighoul": 13,
@@ -537,7 +537,7 @@
         "Zorua": 6,
         "Archen": 6,
         "Oinkologne": 5,
-        "Onix": 2,
+        "Onix": 3,
         "Vanilluxe": 1,
         "Jolteon": 1,
         "Pawmot": 3,
@@ -552,7 +552,7 @@
         "Shroomish": 6,
         "Snover": 6,
         "Drednaw": 2,
-        "Skarmory": 1,
+        "Skarmory": 2,
         "Midnight lycanroc": 2,
         "Eelektross": 1,
         "Araquanid": 1,
@@ -620,7 +620,7 @@
         "Talonflame": 3,
         "Kleavor": 3,
         "East sea gastrodon": 1,
-        "Frillish": 3,
+        "Frillish": 4,
         "Manaphy": 1,
         "Gardevoir": 1,
         "Malamar": 2,
@@ -658,7 +658,7 @@
         "Absol": 2,
         "Annihilape": 3,
         "Bouffalant": 1,
-        "Crabrawler": 2,
+        "Crabrawler": 3,
         "Budew": 1,
         "Espathra": 3,
         "Vileplume": 2,
@@ -739,7 +739,7 @@
         "Thievul": 2,
         "Greedent": 1,
         "Ekans": 5,
-        "Venonat": 4,
+        "Venonat": 5,
         "Pelipper": 2,
         "Metapod": 2,
         "Kricketune": 2,
@@ -823,10 +823,11 @@
         "Xatu": 1,
         "Galarian corsola": 1,
         "Cinderace": 1,
-        "Magcargo": 1
+        "Magcargo": 1,
+        "Sensu oricorio": 1
       },
-      "total_spawns": 4079,
-      "last_spawn": "2026-06-19T23:04:05.554307"
+      "total_spawns": 4090,
+      "last_spawn": "2026-06-19T23:04:35.355507"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1259,7 +1260,7 @@
     }
   },
   "global": {
-    "total_spawns": 8284,
+    "total_spawns": 8295,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
