@@ -28,7 +28,7 @@
         "Impidimp": 8,
         "Charmander": 3,
         "Morelull": 1,
-        "Abra": 12,
+        "Abra": 13,
         "Sandile": 9,
         "Sandygast": 3,
         "Litwick": 20,
@@ -179,7 +179,7 @@
         "Binacle": 2,
         "Grafaiai": 2,
         "Quilladin": 1,
-        "Geodude": 7,
+        "Geodude": 8,
         "Espurr": 2,
         "Cottonee": 2,
         "Elgyem": 1,
@@ -210,7 +210,7 @@
         "Aipom": 2,
         "Growlithe": 2,
         "Sewaddle": 10,
-        "Fidough": 5,
+        "Fidough": 6,
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 10,
@@ -349,7 +349,7 @@
         "Wooper": 5,
         "Dwebble": 3,
         "Steenee": 1,
-        "Darumaka": 2,
+        "Darumaka": 3,
         "Arboliva": 1,
         "Ledyba": 5,
         "Spritzee": 1,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 2,
         "Gothorita": 3,
         "Varoom": 7,
-        "Yellow plumage squawkabilly": 1,
+        "Yellow plumage squawkabilly": 2,
         "Centiskorch": 1,
         "Low key toxtricity": 1,
         "Grapploct": 1,
@@ -653,10 +653,11 @@
         "Seadra": 1,
         "Beheeyem": 1,
         "Pinsir": 1,
-        "Mothim": 1
+        "Mothim": 1,
+        "Whirlipede": 1
       },
-      "total_spawns": 1913,
-      "last_spawn": "2026-06-19T13:02:57.526469"
+      "total_spawns": 1919,
+      "last_spawn": "2026-06-19T13:03:35.808697"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -827,7 +828,7 @@
     }
   },
   "global": {
-    "total_spawns": 5451,
+    "total_spawns": 5457,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
