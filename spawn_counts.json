@@ -33,7 +33,7 @@
         "Sandygast": 3,
         "Litwick": 21,
         "Grubbin": 7,
-        "Escavalier": 2,
+        "Escavalier": 3,
         "Dratini": 7,
         "Kilowattrel": 2,
         "Lotad": 13,
@@ -67,7 +67,7 @@
         "Glimmora": 7,
         "Starly": 13,
         "Tandemaus": 8,
-        "Smoliv": 13,
+        "Smoliv": 14,
         "Gloom": 2,
         "Clefairy": 1,
         "Spinda": 1,
@@ -92,7 +92,7 @@
         "Riolu": 4,
         "Exeggcute": 3,
         "Corphish": 1,
-        "Hoppip": 8,
+        "Hoppip": 9,
         "Sandslash": 1,
         "Kabuto": 5,
         "Scatterbug": 9,
@@ -128,8 +128,8 @@
         "Clamperl": 3,
         "Zigzagoon": 6,
         "Weedle": 26,
-        "Flamigo": 5,
-        "Lillipup": 11,
+        "Flamigo": 6,
+        "Lillipup": 12,
         "Shinx": 11,
         "Bounsweet": 8,
         "Noibat": 4,
@@ -173,7 +173,7 @@
         "Swinub": 5,
         "Inkay": 5,
         "Gible": 4,
-        "Rookidee": 6,
+        "Rookidee": 7,
         "Minccino": 2,
         "Wurmple": 7,
         "Binacle": 2,
@@ -197,7 +197,7 @@
         "Hoothoot": 5,
         "Grookey": 5,
         "Meditite": 1,
-        "Toedscruel": 2,
+        "Toedscruel": 3,
         "Probopass": 1,
         "Scraggy": 6,
         "Rhydon": 2,
@@ -407,7 +407,7 @@
         "Maschiff": 5,
         "Rufflet": 3,
         "Kabutops": 1,
-        "Dondozo": 2,
+        "Dondozo": 3,
         "Pansear": 4,
         "Cutiefly": 3,
         "Peakychu": 3,
@@ -473,7 +473,7 @@
         "Bunnelby": 1,
         "Gulping cramorant": 1,
         "Simisear": 1,
-        "White plumage squawkabilly": 2,
+        "White plumage squawkabilly": 3,
         "Shelmet": 2,
         "Solrock": 1,
         "Slowpoke": 3,
@@ -679,8 +679,8 @@
         "Gastrodon": 1,
         "Golurk": 1
       },
-      "total_spawns": 2106,
-      "last_spawn": "2026-06-19T13:16:51.890987"
+      "total_spawns": 2115,
+      "last_spawn": "2026-06-19T13:17:29.287092"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -787,7 +787,7 @@
         "Cetitan": 1,
         "Turtwig": 2,
         "Wiglett": 4,
-        "Forretress": 1,
+        "Forretress": 2,
         "Farigiraf": 1,
         "Rookidee": 3,
         "Teddiursa": 1,
@@ -871,14 +871,16 @@
         "Staryu": 1,
         "Summer deerling": 1,
         "Stantler": 1,
-        "Shroodle": 1
+        "Shroodle": 1,
+        "Varoom": 1,
+        "Sandshrew": 1
       },
-      "total_spawns": 250,
-      "last_spawn": "2026-06-19T13:16:57.917184"
+      "total_spawns": 253,
+      "last_spawn": "2026-06-19T13:17:24.000042"
     }
   },
   "global": {
-    "total_spawns": 5687,
+    "total_spawns": 5699,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
