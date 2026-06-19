@@ -26,9 +26,9 @@
         "Dudunsparce": 3,
         "Gothita": 21,
         "Impidimp": 16,
-        "Charmander": 8,
+        "Charmander": 9,
         "Morelull": 1,
-        "Abra": 20,
+        "Abra": 21,
         "Sandile": 22,
         "Sandygast": 4,
         "Litwick": 35,
@@ -127,18 +127,18 @@
         "Teddiursa": 21,
         "Clamperl": 7,
         "Zigzagoon": 8,
-        "Weedle": 36,
+        "Weedle": 37,
         "Flamigo": 11,
         "Lillipup": 23,
         "Shinx": 19,
         "Bounsweet": 18,
         "Noibat": 6,
         "Toxicroak": 3,
-        "Charcadet": 28,
+        "Charcadet": 29,
         "Croconaw": 8,
         "Phanpy": 1,
         "Brambleghast": 4,
-        "Pidgey": 23,
+        "Pidgey": 24,
         "Rhyhorn": 18,
         "Sentret": 5,
         "Yungoos": 3,
@@ -264,7 +264,7 @@
         "Nincada": 10,
         "Fennekin": 13,
         "Quaxwell": 2,
-        "Vibrava": 5,
+        "Vibrava": 6,
         "Loudred": 4,
         "Ceruledge": 13,
         "Houndour": 9,
@@ -355,7 +355,7 @@
         "Spritzee": 2,
         "Swirlix": 1,
         "Aromatisse": 2,
-        "Muk": 3,
+        "Muk": 4,
         "Toxel": 4,
         "Banette": 2,
         "Three-segment dudunsparce": 2,
@@ -378,7 +378,7 @@
         "Mabosstiff": 3,
         "Squirtle": 8,
         "Remoraid": 3,
-        "Torracat": 7,
+        "Torracat": 8,
         "Hisuian zorua": 1,
         "Wooloo": 3,
         "Drifloon": 3,
@@ -456,7 +456,7 @@
         "Sunflora": 1,
         "Passimian": 1,
         "Iron moth": 1,
-        "Cherubi": 3,
+        "Cherubi": 4,
         "Cradily": 1,
         "Vulpix": 5,
         "Paras": 7,
@@ -823,8 +823,8 @@
         "Xatu": 1,
         "Galarian corsola": 1
       },
-      "total_spawns": 4010,
-      "last_spawn": "2026-06-19T22:56:38.014754"
+      "total_spawns": 4019,
+      "last_spawn": "2026-06-19T22:57:08.020796"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1249,14 +1249,15 @@
         "Dusclops": 1,
         "Bulbasaur": 1,
         "Diggersby": 1,
-        "Cherubi": 1
+        "Cherubi": 1,
+        "Clauncher": 1
       },
-      "total_spawns": 873,
-      "last_spawn": "2026-06-19T22:20:57.596638"
+      "total_spawns": 874,
+      "last_spawn": "2026-06-19T22:56:42.342688"
     }
   },
   "global": {
-    "total_spawns": 8214,
+    "total_spawns": 8224,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
