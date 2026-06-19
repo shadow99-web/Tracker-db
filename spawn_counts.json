@@ -904,7 +904,7 @@
         "Tinkatink": 2,
         "Frogadier": 1,
         "Greavard": 1,
-        "Dj rotom": 2,
+        "Dj rotom": 3,
         "Lileep": 1,
         "Joltik": 1,
         "Marill": 1,
@@ -1094,14 +1094,17 @@
         "Aron": 1,
         "Seedot": 1,
         "Spinda": 1,
-        "Spearow": 1
+        "Spearow": 1,
+        "Lycanroc": 1,
+        "Lanturn": 1,
+        "Arcanine": 1
       },
-      "total_spawns": 606,
-      "last_spawn": "2026-06-19T16:32:27.599297"
+      "total_spawns": 610,
+      "last_spawn": "2026-06-19T16:32:57.799819"
     }
   },
   "global": {
-    "total_spawns": 6813,
+    "total_spawns": 6817,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
