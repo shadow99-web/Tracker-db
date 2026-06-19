@@ -103,7 +103,7 @@
         "Veluza": 29,
         "Barboach": 4,
         "Klink": 12,
-        "Honedge": 30,
+        "Honedge": 31,
         "Wingull": 5,
         "Salamence": 1,
         "Drakloak": 4,
@@ -130,11 +130,11 @@
         "Weedle": 35,
         "Flamigo": 10,
         "Lillipup": 22,
-        "Shinx": 18,
+        "Shinx": 19,
         "Bounsweet": 18,
         "Noibat": 6,
         "Toxicroak": 2,
-        "Charcadet": 27,
+        "Charcadet": 28,
         "Croconaw": 8,
         "Phanpy": 1,
         "Brambleghast": 4,
@@ -175,7 +175,7 @@
         "Gible": 12,
         "Rookidee": 13,
         "Minccino": 9,
-        "Wurmple": 14,
+        "Wurmple": 15,
         "Binacle": 8,
         "Grafaiai": 5,
         "Quilladin": 3,
@@ -305,7 +305,7 @@
         "Toxapex": 1,
         "Lileep": 4,
         "Rolycoly": 12,
-        "Bronzor": 7,
+        "Bronzor": 8,
         "Dartrix": 4,
         "Yellow flower florges": 2,
         "Zangoose": 3,
@@ -328,7 +328,7 @@
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 5,
-        "Nymble": 22,
+        "Nymble": 23,
         "Ferrothorn": 1,
         "Servine": 4,
         "Blitzle": 3,
@@ -366,7 +366,7 @@
         "Finizen": 17,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 9,
+        "Caterpie": 10,
         "Carvanha": 5,
         "Luxio": 4,
         "Treecko": 10,
@@ -656,7 +656,7 @@
         "Mothim": 2,
         "Whirlipede": 5,
         "Absol": 2,
-        "Annihilape": 2,
+        "Annihilape": 3,
         "Bouffalant": 1,
         "Crabrawler": 2,
         "Budew": 1,
@@ -670,7 +670,7 @@
         "Appletun": 1,
         "Krookodile": 1,
         "Primeape": 1,
-        "Grimer": 2,
+        "Grimer": 3,
         "Crabominable": 2,
         "Quaquaval": 1,
         "Sprigatito": 2,
@@ -814,10 +814,12 @@
         "Tauros": 1,
         "Slurpuff": 1,
         "Umbreon": 1,
-        "Hypno": 1
+        "Hypno": 1,
+        "Galarian weezing": 1,
+        "Gigalith": 1
       },
-      "total_spawns": 3864,
-      "last_spawn": "2026-06-19T22:49:38.333678"
+      "total_spawns": 3875,
+      "last_spawn": "2026-06-19T22:50:08.846587"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1249,7 +1251,7 @@
     }
   },
   "global": {
-    "total_spawns": 8068,
+    "total_spawns": 8079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
