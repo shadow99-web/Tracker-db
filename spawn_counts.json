@@ -44,7 +44,7 @@
         "Skiploom": 7,
         "Timburr": 15,
         "Dj rotom": 11,
-        "Surskit": 10,
+        "Surskit": 11,
         "Seedot": 8,
         "Skitty": 4,
         "Greavard": 9,
@@ -134,7 +134,7 @@
         "Bounsweet": 16,
         "Noibat": 5,
         "Toxicroak": 1,
-        "Charcadet": 19,
+        "Charcadet": 20,
         "Croconaw": 8,
         "Phanpy": 1,
         "Brambleghast": 4,
@@ -571,7 +571,7 @@
         "Magmortar": 1,
         "Palossand": 1,
         "Noice face eiscue": 2,
-        "Electivire": 2,
+        "Electivire": 3,
         "Cascoon": 2,
         "Tentacruel": 2,
         "Nuzleaf": 1,
@@ -618,7 +618,7 @@
         "Mismagius": 1,
         "Fraxure": 2,
         "Talonflame": 3,
-        "Kleavor": 1,
+        "Kleavor": 2,
         "East sea gastrodon": 1,
         "Frillish": 2,
         "Manaphy": 1,
@@ -626,11 +626,11 @@
         "Malamar": 2,
         "Frost rotom": 1,
         "Tatsugiri": 5,
-        "Nidorino": 1,
+        "Nidorino": 2,
         "Wailmer": 3,
         "Krabby": 2,
         "Bronzong": 2,
-        "Lanturn": 2,
+        "Lanturn": 3,
         "Cacnea": 2,
         "Pom-pom oricorio": 2,
         "Hawlucha": 2,
@@ -648,7 +648,7 @@
         "Archeops": 1,
         "Shiftry": 1,
         "Arbok": 1,
-        "Stretchy tatsugiri": 4,
+        "Stretchy tatsugiri": 5,
         "Mareanie": 3,
         "Seadra": 2,
         "Beheeyem": 2,
@@ -739,7 +739,7 @@
         "Thievul": 2,
         "Greedent": 1,
         "Ekans": 2,
-        "Venonat": 2,
+        "Venonat": 3,
         "Pelipper": 2,
         "Metapod": 2,
         "Kricketune": 2,
@@ -797,10 +797,11 @@
         "Alolan golem": 1,
         "Dustox": 1,
         "Gliscor": 1,
-        "Mesprit": 1
+        "Mesprit": 1,
+        "Vaporeon": 1
       },
-      "total_spawns": 3561,
-      "last_spawn": "2026-06-19T21:00:58.155720"
+      "total_spawns": 3570,
+      "last_spawn": "2026-06-19T21:01:28.235309"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -823,7 +824,7 @@
         "Grovyle": 2,
         "Vigoroth": 3,
         "Kilowattrel": 2,
-        "Magnemite": 7,
+        "Magnemite": 8,
         "Gyarados": 1,
         "Starly": 7,
         "Gimmighoul": 4,
@@ -998,7 +999,7 @@
         "Flittle": 2,
         "Hatenna": 1,
         "Nincada": 1,
-        "Rhyhorn": 3,
+        "Rhyhorn": 4,
         "Ferrothorn": 2,
         "Steenee": 1,
         "Arboliva": 2,
@@ -1143,7 +1144,7 @@
         "Yamask": 1,
         "Staraptor": 1,
         "Simisear": 1,
-        "Lairon": 1,
+        "Lairon": 2,
         "Croagunk": 1,
         "Aron": 2,
         "Seedot": 1,
@@ -1196,12 +1197,12 @@
         "Jigglypuff": 1,
         "Crustle": 1
       },
-      "total_spawns": 757,
-      "last_spawn": "2026-06-19T21:00:57.466900"
+      "total_spawns": 760,
+      "last_spawn": "2026-06-19T21:01:27.671540"
     }
   },
   "global": {
-    "total_spawns": 7649,
+    "total_spawns": 7661,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
