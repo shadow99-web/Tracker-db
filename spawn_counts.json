@@ -83,7 +83,7 @@
         "Baltoy": 4,
         "Mareep": 18,
         "Garbodor": 1,
-        "Slakoth": 16,
+        "Slakoth": 17,
         "Togepi": 6,
         "Falinks": 2,
         "Tropius": 1,
@@ -94,7 +94,7 @@
         "Corphish": 3,
         "Hoppip": 16,
         "Sandslash": 1,
-        "Kabuto": 7,
+        "Kabuto": 8,
         "Scatterbug": 17,
         "Pumpkaboo": 4,
         "Numel": 6,
@@ -129,7 +129,7 @@
         "Zigzagoon": 7,
         "Weedle": 33,
         "Flamigo": 10,
-        "Lillipup": 18,
+        "Lillipup": 19,
         "Shinx": 17,
         "Bounsweet": 16,
         "Noibat": 5,
@@ -149,8 +149,8 @@
         "Deoxys": 2,
         "Dracovish": 2,
         "Bulbasaur": 7,
-        "Roggenrola": 10,
-        "Pidove": 17,
+        "Roggenrola": 11,
+        "Pidove": 18,
         "Dragapult": 4,
         "Rattata": 6,
         "Flapple": 2,
@@ -166,7 +166,7 @@
         "Kakuna": 7,
         "Weepinbell": 2,
         "Klawf": 17,
-        "Vanillite": 17,
+        "Vanillite": 18,
         "Flareon": 2,
         "Gastly": 12,
         "Taillow": 4,
@@ -286,7 +286,7 @@
         "Charmeleon": 2,
         "Dipplin": 1,
         "Cramorant": 1,
-        "Chef dente": 9,
+        "Chef dente": 10,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 3,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 2,
         "Drifloon": 3,
-        "Golbat": 3,
+        "Golbat": 4,
         "Swablu": 3,
         "Shellder": 7,
         "Crobat": 1,
@@ -595,7 +595,7 @@
         "Mienfoo": 7,
         "Dewgong": 2,
         "Wartortle": 2,
-        "Cetoddle": 7,
+        "Cetoddle": 8,
         "Kricketot": 2,
         "Porygon-z": 2,
         "Conkeldurr": 1,
@@ -644,7 +644,7 @@
         "Venomoth": 2,
         "Trumbeak": 3,
         "Aerodactyl": 2,
-        "Igglybuff": 2,
+        "Igglybuff": 3,
         "Archeops": 1,
         "Shiftry": 1,
         "Arbok": 1,
@@ -795,10 +795,12 @@
         "Dusclops": 1,
         "Galarian yamask": 1,
         "Alolan golem": 1,
-        "Dustox": 1
+        "Dustox": 1,
+        "Gliscor": 1,
+        "Mesprit": 1
       },
-      "total_spawns": 3549,
-      "last_spawn": "2026-06-19T21:00:23.075666"
+      "total_spawns": 3561,
+      "last_spawn": "2026-06-19T21:00:58.155720"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -813,7 +815,7 @@
         "Heracross": 1,
         "Tympole": 3,
         "Dondozo": 1,
-        "Mareep": 2,
+        "Mareep": 3,
         "Ferroseed": 2,
         "Glimmet": 9,
         "Kabuto": 1,
@@ -1190,14 +1192,16 @@
         "Loudred": 1,
         "Breloom": 1,
         "Milotic": 1,
-        "Copperajah": 1
+        "Copperajah": 1,
+        "Jigglypuff": 1,
+        "Crustle": 1
       },
-      "total_spawns": 754,
-      "last_spawn": "2026-06-19T21:00:27.666767"
+      "total_spawns": 757,
+      "last_spawn": "2026-06-19T21:00:57.466900"
     }
   },
   "global": {
-    "total_spawns": 7634,
+    "total_spawns": 7649,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
