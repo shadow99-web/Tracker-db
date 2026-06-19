@@ -138,7 +138,7 @@
         "Croconaw": 8,
         "Phanpy": 1,
         "Brambleghast": 4,
-        "Pidgey": 22,
+        "Pidgey": 23,
         "Rhyhorn": 17,
         "Sentret": 5,
         "Yungoos": 3,
@@ -158,7 +158,7 @@
         "Boldore": 2,
         "Spinarak": 7,
         "Delcatty": 2,
-        "Spiritomb": 2,
+        "Spiritomb": 3,
         "Yamper": 5,
         "Tepig": 14,
         "Kirlia": 4,
@@ -229,8 +229,8 @@
         "Spidops": 3,
         "Braixen": 6,
         "Drowzee": 6,
-        "Blipbug": 15,
-        "Lampent": 11,
+        "Blipbug": 16,
+        "Lampent": 12,
         "Petilil": 4,
         "Marshtomp": 7,
         "Eiscue": 1,
@@ -268,7 +268,7 @@
         "Loudred": 4,
         "Ceruledge": 13,
         "Houndour": 9,
-        "Glimmet": 21,
+        "Glimmet": 22,
         "Goomy": 11,
         "Zapdos": 1,
         "Natu": 5,
@@ -278,7 +278,7 @@
         "Stoutland": 2,
         "Rowlet": 5,
         "Galarian slowpoke": 1,
-        "Poliwhirl": 4,
+        "Poliwhirl": 5,
         "Crocalor": 9,
         "Cryogonal": 1,
         "Eternatus": 1,
@@ -322,7 +322,7 @@
         "Gossifleur": 2,
         "Oshawott": 7,
         "Murkrow": 7,
-        "Bellsprout": 15,
+        "Bellsprout": 16,
         "Mudbray": 6,
         "Dreepy": 17,
         "Tinkaton": 1,
@@ -461,7 +461,7 @@
         "Vulpix": 5,
         "Paras": 7,
         "Herdier": 4,
-        "Pineco": 2,
+        "Pineco": 3,
         "Chikorita": 3,
         "Woobat": 4,
         "Wobbuffet": 1,
@@ -477,7 +477,7 @@
         "Shelmet": 4,
         "Solrock": 1,
         "Slowpoke": 5,
-        "Dolliv": 2,
+        "Dolliv": 3,
         "Infernape": 1,
         "Carkol": 7,
         "Magikarp": 4,
@@ -716,7 +716,7 @@
         "Forretress": 1,
         "Hydrapple": 1,
         "Emolga": 1,
-        "Tsareena": 1,
+        "Tsareena": 2,
         "Blissey": 1,
         "Blastoise": 1,
         "Breloom": 1,
@@ -811,10 +811,11 @@
         "Drapion": 1,
         "Barbaracle": 1,
         "Okidogi": 1,
-        "Tauros": 1
+        "Tauros": 1,
+        "Slurpuff": 1
       },
-      "total_spawns": 3831,
-      "last_spawn": "2026-06-19T21:14:08.880574"
+      "total_spawns": 3842,
+      "last_spawn": "2026-06-19T21:14:43.399216"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1227,7 +1228,7 @@
     }
   },
   "global": {
-    "total_spawns": 7965,
+    "total_spawns": 7976,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
