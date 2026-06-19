@@ -761,7 +761,7 @@
         "Heracross": 1,
         "Tympole": 2,
         "Dondozo": 1,
-        "Mareep": 1,
+        "Mareep": 2,
         "Ferroseed": 2,
         "Glimmet": 7,
         "Kabuto": 1,
@@ -793,7 +793,7 @@
         "Trapinch": 3,
         "Droopy tatsugiri": 3,
         "Grubbin": 3,
-        "Golbat": 4,
+        "Golbat": 5,
         "Nidorina": 1,
         "Trubbish": 4,
         "Solosis": 2,
@@ -862,7 +862,7 @@
         "Rellor": 2,
         "Pelipper": 1,
         "Scatterbug": 2,
-        "Caterpie": 1,
+        "Caterpie": 2,
         "Pancham": 2,
         "Nymble": 4,
         "Rampardos": 1,
@@ -892,13 +892,13 @@
         "Chikorita": 2,
         "Necrozma": 1,
         "Bounsweet": 3,
-        "Wooper": 2,
+        "Wooper": 3,
         "Oinkologne": 1,
         "Squawkabilly": 2,
         "Ekans": 2,
         "Bagon": 3,
         "Impidimp": 3,
-        "Sizzlipede": 2,
+        "Sizzlipede": 3,
         "Spidops": 2,
         "Mantyke": 1,
         "Tinkatink": 1,
@@ -975,7 +975,7 @@
         "Rufflet": 2,
         "Weezing": 1,
         "Heatmor": 1,
-        "Dunsparce": 1,
+        "Dunsparce": 2,
         "Corvisquire": 1,
         "Clefairy": 1,
         "Eevee": 2,
@@ -1081,14 +1081,16 @@
         "Wattrel": 1,
         "Golem": 1,
         "Primarina": 1,
-        "Silcoon": 1
+        "Silcoon": 1,
+        "Chandelure": 1,
+        "Phantump": 1
       },
-      "total_spawns": 575,
-      "last_spawn": "2026-06-19T16:21:17.674897"
+      "total_spawns": 583,
+      "last_spawn": "2026-06-19T16:22:37.579646"
     }
   },
   "global": {
-    "total_spawns": 6782,
+    "total_spawns": 6790,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
