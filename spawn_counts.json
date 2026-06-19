@@ -83,7 +83,7 @@
         "Baltoy": 1,
         "Mareep": 11,
         "Garbodor": 1,
-        "Slakoth": 10,
+        "Slakoth": 11,
         "Togepi": 3,
         "Falinks": 1,
         "Tropius": 1,
@@ -175,7 +175,7 @@
         "Gible": 4,
         "Rookidee": 6,
         "Minccino": 1,
-        "Wurmple": 6,
+        "Wurmple": 7,
         "Binacle": 2,
         "Grafaiai": 2,
         "Quilladin": 1,
@@ -216,7 +216,7 @@
         "Tynamo": 10,
         "Orthworm": 10,
         "Marill": 3,
-        "Joltik": 7,
+        "Joltik": 8,
         "Politoed": 2,
         "Cyndaquil": 5,
         "Fuecoco": 5,
@@ -273,12 +273,12 @@
         "Zapdos": 1,
         "Natu": 4,
         "Dhelmise": 1,
-        "Bagon": 6,
+        "Bagon": 7,
         "Sudowoodo": 2,
         "Stoutland": 2,
         "Rowlet": 2,
         "Galarian slowpoke": 1,
-        "Poliwhirl": 1,
+        "Poliwhirl": 2,
         "Crocalor": 4,
         "Cryogonal": 1,
         "Eternatus": 1,
@@ -296,7 +296,7 @@
         "Ferroseed": 5,
         "Brionne": 1,
         "Pancham": 2,
-        "Venipede": 9,
+        "Venipede": 10,
         "Cacturne": 2,
         "Oddish": 9,
         "Dragalge": 1,
@@ -363,7 +363,7 @@
         "Mankey": 4,
         "Bidoof": 7,
         "Quilava": 4,
-        "Finizen": 11,
+        "Finizen": 12,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 4,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 2,
         "Eelektross": 1,
         "Araquanid": 1,
-        "Kadabra": 2,
+        "Kadabra": 3,
         "Chandelure": 1,
         "Ponyta": 2,
         "Togekiss": 1,
@@ -667,10 +667,11 @@
         "White flower floette": 1,
         "Skeledirge": 1,
         "Amoonguss": 1,
-        "Appletun": 1
+        "Appletun": 1,
+        "Krookodile": 1
       },
-      "total_spawns": 2031,
-      "last_spawn": "2026-06-19T13:11:51.372783"
+      "total_spawns": 2040,
+      "last_spawn": "2026-06-19T13:12:29.340399"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -755,7 +756,7 @@
         "Capsakid": 2,
         "Natu": 1,
         "Politoed": 1,
-        "Gastly": 3,
+        "Gastly": 4,
         "Slakoth": 1,
         "Machop": 3,
         "Roselia": 1,
@@ -838,16 +839,17 @@
         "Archen": 1,
         "Milcery": 1,
         "Axew": 1,
-        "Sewaddle": 1,
+        "Sewaddle": 2,
         "Monferno": 1,
-        "Drowzee": 1
+        "Drowzee": 1,
+        "Gloom": 1
       },
-      "total_spawns": 220,
-      "last_spawn": "2026-06-19T13:11:43.848836"
+      "total_spawns": 223,
+      "last_spawn": "2026-06-19T13:12:14.136040"
     }
   },
   "global": {
-    "total_spawns": 5582,
+    "total_spawns": 5594,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
