@@ -908,7 +908,7 @@
         "Lileep": 1,
         "Joltik": 1,
         "Marill": 1,
-        "Dartrix": 3,
+        "Dartrix": 4,
         "Pumpkaboo": 1,
         "Purrloin": 2,
         "Archen": 1,
@@ -1070,7 +1070,7 @@
         "Tarountula": 1,
         "Keldeo": 1,
         "Cryogonal": 1,
-        "Pawniard": 1,
+        "Pawniard": 2,
         "Lurantis": 1,
         "Cacturne": 2,
         "Omanyte": 1,
@@ -1112,14 +1112,15 @@
         "Walrein": 1,
         "Raichu": 1,
         "Annihilape": 1,
-        "Seismitoad": 1
+        "Seismitoad": 1,
+        "Complete zygarde": 1
       },
-      "total_spawns": 653,
-      "last_spawn": "2026-06-19T16:55:17.702372"
+      "total_spawns": 656,
+      "last_spawn": "2026-06-19T17:47:37.832731"
     }
   },
   "global": {
-    "total_spawns": 6860,
+    "total_spawns": 6863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
