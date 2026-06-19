@@ -950,7 +950,7 @@
         "Arboliva": 2,
         "Pawmi": 2,
         "Stoutland": 1,
-        "Timburr": 1,
+        "Timburr": 2,
         "Larvitar": 1,
         "Lampent": 5,
         "Binacle": 1,
@@ -1086,14 +1086,17 @@
         "Phantump": 1,
         "Mienfoo": 1,
         "Hariyama": 1,
-        "Yamask": 1
+        "Yamask": 1,
+        "Staraptor": 1,
+        "Simisear": 1,
+        "Lairon": 1
       },
-      "total_spawns": 590,
-      "last_spawn": "2026-06-19T16:29:23.274006"
+      "total_spawns": 594,
+      "last_spawn": "2026-06-19T16:29:57.918665"
     }
   },
   "global": {
-    "total_spawns": 6797,
+    "total_spawns": 6801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
