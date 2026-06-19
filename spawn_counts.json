@@ -757,7 +757,7 @@
         "Ferroseed": 2,
         "Glimmet": 7,
         "Kabuto": 1,
-        "Oddish": 4,
+        "Oddish": 5,
         "Grovyle": 2,
         "Vigoroth": 2,
         "Kilowattrel": 1,
@@ -798,7 +798,7 @@
         "Exeggcute": 1,
         "Grimer": 1,
         "Scorbunny": 1,
-        "Rattata": 1,
+        "Rattata": 2,
         "Gulpin": 1,
         "Tandemaus": 3,
         "Krokorok": 2,
@@ -1067,12 +1067,12 @@
         "Cacturne": 2,
         "Omanyte": 1
       },
-      "total_spawns": 557,
-      "last_spawn": "2026-06-19T14:06:41.057628"
+      "total_spawns": 559,
+      "last_spawn": "2026-06-19T14:08:43.898335"
     }
   },
   "global": {
-    "total_spawns": 6668,
+    "total_spawns": 6670,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
