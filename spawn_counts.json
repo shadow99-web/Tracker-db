@@ -58,7 +58,7 @@
         "Whismur": 15,
         "Monferno": 7,
         "Skwovet": 1,
-        "Bramblin": 16,
+        "Bramblin": 17,
         "Yanma": 5,
         "Larvesta": 12,
         "Beldum": 14,
@@ -97,10 +97,10 @@
         "Kabuto": 7,
         "Scatterbug": 14,
         "Pumpkaboo": 3,
-        "Numel": 4,
+        "Numel": 5,
         "Carracosta": 1,
         "Smearguru": 12,
-        "Veluza": 26,
+        "Veluza": 27,
         "Barboach": 4,
         "Klink": 10,
         "Honedge": 27,
@@ -342,7 +342,7 @@
         "Sobble": 8,
         "Mudkip": 4,
         "Charjabug": 5,
-        "Capsakid": 8,
+        "Capsakid": 9,
         "Revavroom": 7,
         "Exploud": 3,
         "Deino": 7,
@@ -369,7 +369,7 @@
         "Caterpie": 8,
         "Carvanha": 5,
         "Luxio": 3,
-        "Treecko": 6,
+        "Treecko": 7,
         "Sinistea": 3,
         "Cubchoo": 3,
         "Hippopotas": 2,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 3,
         "Wailord": 1,
-        "Makuhita": 2,
+        "Makuhita": 3,
         "Lombre": 6,
         "Ursaluna": 2,
         "Furfrou": 1,
@@ -560,13 +560,13 @@
         "Chandelure": 2,
         "Ponyta": 5,
         "Togekiss": 1,
-        "Braviary": 1,
+        "Braviary": 2,
         "Raboot": 2,
         "Golem": 2,
         "Slowking": 1,
         "Lilligant": 2,
         "Rabsca": 3,
-        "Gulpin": 3,
+        "Gulpin": 4,
         "Crawdaunt": 2,
         "Magmortar": 1,
         "Palossand": 1,
@@ -617,7 +617,7 @@
         "Venusaur": 2,
         "Mismagius": 1,
         "Fraxure": 2,
-        "Talonflame": 2,
+        "Talonflame": 3,
         "Kleavor": 1,
         "East sea gastrodon": 1,
         "Frillish": 2,
@@ -765,10 +765,11 @@
         "Gorebyss": 1,
         "Yanmega": 1,
         "Pawmo": 1,
-        "Finneon": 1
+        "Finneon": 1,
+        "Mamoswine": 1
       },
-      "total_spawns": 3227,
-      "last_spawn": "2026-06-19T20:44:53.179194"
+      "total_spawns": 3237,
+      "last_spawn": "2026-06-19T20:45:26.636822"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -785,7 +786,7 @@
         "Dondozo": 1,
         "Mareep": 2,
         "Ferroseed": 2,
-        "Glimmet": 8,
+        "Glimmet": 9,
         "Kabuto": 1,
         "Oddish": 5,
         "Grovyle": 2,
@@ -919,7 +920,7 @@
         "Squawkabilly": 2,
         "Ekans": 2,
         "Bagon": 3,
-        "Impidimp": 4,
+        "Impidimp": 5,
         "Sizzlipede": 3,
         "Spidops": 2,
         "Mantyke": 1,
@@ -1141,14 +1142,15 @@
         "Ninetales": 1,
         "Shellos": 1,
         "Skwovet": 1,
-        "Charmander": 1
+        "Charmander": 1,
+        "Squirtle": 1
       },
-      "total_spawns": 693,
-      "last_spawn": "2026-06-19T20:44:47.555766"
+      "total_spawns": 696,
+      "last_spawn": "2026-06-19T20:45:17.469515"
     }
   },
   "global": {
-    "total_spawns": 7251,
+    "total_spawns": 7264,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
