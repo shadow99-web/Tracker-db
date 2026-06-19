@@ -873,7 +873,7 @@
         "Elgyem": 1,
         "Piplup": 3,
         "Drakloak": 1,
-        "Klawf": 3,
+        "Klawf": 4,
         "Exeggcute": 2,
         "Grimer": 1,
         "Scorbunny": 1,
@@ -986,7 +986,7 @@
         "Milcery": 2,
         "Axew": 2,
         "Sewaddle": 5,
-        "Monferno": 1,
+        "Monferno": 2,
         "Drowzee": 1,
         "Gloom": 3,
         "Froslass": 3,
@@ -1226,14 +1226,15 @@
         "Prof tangrowth": 1,
         "Unfezant": 1,
         "Pidgey": 2,
-        "Swalot": 1
+        "Swalot": 1,
+        "Combee": 1
       },
-      "total_spawns": 829,
-      "last_spawn": "2026-06-19T22:13:37.641084"
+      "total_spawns": 832,
+      "last_spawn": "2026-06-19T22:14:09.797732"
     }
   },
   "global": {
-    "total_spawns": 8023,
+    "total_spawns": 8026,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
