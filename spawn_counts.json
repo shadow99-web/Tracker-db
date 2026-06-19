@@ -901,7 +901,7 @@
         "Sizzlipede": 3,
         "Spidops": 2,
         "Mantyke": 1,
-        "Tinkatink": 2,
+        "Tinkatink": 3,
         "Frogadier": 1,
         "Greavard": 1,
         "Dj rotom": 3,
@@ -913,7 +913,7 @@
         "Purrloin": 2,
         "Archen": 1,
         "Milcery": 1,
-        "Axew": 1,
+        "Axew": 2,
         "Sewaddle": 4,
         "Monferno": 1,
         "Drowzee": 1,
@@ -1110,14 +1110,15 @@
         "Cofagrigus": 1,
         "Tyranitar": 1,
         "Walrein": 1,
-        "Raichu": 1
+        "Raichu": 1,
+        "Annihilape": 1
       },
-      "total_spawns": 643,
-      "last_spawn": "2026-06-19T16:53:37.834245"
+      "total_spawns": 646,
+      "last_spawn": "2026-06-19T16:54:09.028106"
     }
   },
   "global": {
-    "total_spawns": 6850,
+    "total_spawns": 6853,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
