@@ -40,7 +40,7 @@
         "Qwilfish": 2,
         "Trapinch": 10,
         "Toedscool": 9,
-        "Fletchling": 10,
+        "Fletchling": 11,
         "Skiploom": 5,
         "Timburr": 12,
         "Dj rotom": 4,
@@ -60,7 +60,7 @@
         "Skwovet": 1,
         "Bramblin": 10,
         "Yanma": 5,
-        "Larvesta": 6,
+        "Larvesta": 7,
         "Beldum": 7,
         "Ducklett": 2,
         "Lokix": 2,
@@ -103,7 +103,7 @@
         "Veluza": 18,
         "Barboach": 2,
         "Klink": 8,
-        "Honedge": 18,
+        "Honedge": 19,
         "Wingull": 3,
         "Salamence": 1,
         "Drakloak": 3,
@@ -227,7 +227,7 @@
         "Wattrel": 7,
         "Snubbull": 2,
         "Spidops": 3,
-        "Braixen": 2,
+        "Braixen": 3,
         "Drowzee": 5,
         "Blipbug": 8,
         "Lampent": 6,
@@ -266,9 +266,9 @@
         "Quaxwell": 2,
         "Vibrava": 2,
         "Loudred": 1,
-        "Ceruledge": 7,
+        "Ceruledge": 8,
         "Houndour": 8,
-        "Glimmet": 10,
+        "Glimmet": 11,
         "Goomy": 3,
         "Zapdos": 1,
         "Natu": 4,
@@ -330,7 +330,7 @@
         "Froakie": 3,
         "Nymble": 13,
         "Ferrothorn": 1,
-        "Servine": 2,
+        "Servine": 3,
         "Blitzle": 3,
         "Musharna": 1,
         "Bisharp": 1,
@@ -426,7 +426,7 @@
         "Centiskorch": 1,
         "Low key toxtricity": 1,
         "Grapploct": 1,
-        "Gurdurr": 1,
+        "Gurdurr": 2,
         "Girafarig": 1,
         "Flaaffy": 1,
         "Pecharunt": 1,
@@ -674,10 +674,11 @@
         "Crabominable": 1,
         "Quaquaval": 1,
         "Sprigatito": 1,
-        "Metagross": 1
+        "Metagross": 1,
+        "Eelektrik": 1
       },
-      "total_spawns": 2090,
-      "last_spawn": "2026-06-19T13:15:49.332437"
+      "total_spawns": 2099,
+      "last_spawn": "2026-06-19T13:16:19.181226"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -861,14 +862,18 @@
         "Togepi": 1,
         "Shinx": 1,
         "Linoone": 1,
-        "Lombre": 1
+        "Lombre": 1,
+        "Bombirdier": 1,
+        "Roaming gimmighoul": 1,
+        "Dwebble": 1,
+        "Staryu": 1
       },
-      "total_spawns": 243,
-      "last_spawn": "2026-06-19T13:15:44.104515"
+      "total_spawns": 247,
+      "last_spawn": "2026-06-19T13:16:23.880331"
     }
   },
   "global": {
-    "total_spawns": 5664,
+    "total_spawns": 5677,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
