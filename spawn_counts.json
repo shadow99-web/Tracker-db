@@ -872,7 +872,7 @@
         "Venonat": 2,
         "Elgyem": 1,
         "Piplup": 3,
-        "Drakloak": 1,
+        "Drakloak": 2,
         "Klawf": 4,
         "Exeggcute": 2,
         "Grimer": 1,
@@ -1021,7 +1021,7 @@
         "Arboliva": 2,
         "Pawmi": 3,
         "Stoutland": 1,
-        "Timburr": 2,
+        "Timburr": 3,
         "Larvitar": 1,
         "Lampent": 6,
         "Binacle": 2,
@@ -1186,7 +1186,7 @@
         "Seismitoad": 1,
         "Complete zygarde": 1,
         "Dottler": 2,
-        "Hoppip": 2,
+        "Hoppip": 3,
         "Ninetales": 1,
         "Shellos": 1,
         "Skwovet": 1,
@@ -1231,14 +1231,15 @@
         "Coalossal": 1,
         "Woobat": 1,
         "Skorupi": 1,
-        "Skrelp": 1
+        "Skrelp": 1,
+        "Cacnea": 1
       },
-      "total_spawns": 840,
-      "last_spawn": "2026-06-19T22:15:27.468021"
+      "total_spawns": 844,
+      "last_spawn": "2026-06-19T22:16:08.136106"
     }
   },
   "global": {
-    "total_spawns": 8034,
+    "total_spawns": 8038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
