@@ -47,7 +47,7 @@
         "Surskit": 7,
         "Seedot": 3,
         "Skitty": 2,
-        "Greavard": 5,
+        "Greavard": 6,
         "Slugma": 2,
         "Grotle": 3,
         "Porygon": 7,
@@ -95,7 +95,7 @@
         "Hoppip": 8,
         "Sandslash": 1,
         "Kabuto": 5,
-        "Scatterbug": 7,
+        "Scatterbug": 8,
         "Pumpkaboo": 2,
         "Numel": 2,
         "Carracosta": 1,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 4,
         "Togetic": 2,
         "Palpitoad": 1,
-        "Pikipek": 12,
+        "Pikipek": 13,
         "Teddiursa": 10,
         "Clamperl": 3,
         "Zigzagoon": 6,
@@ -161,7 +161,7 @@
         "Spiritomb": 1,
         "Yamper": 4,
         "Tepig": 8,
-        "Kirlia": 1,
+        "Kirlia": 2,
         "Piplup": 2,
         "Kakuna": 4,
         "Weepinbell": 2,
@@ -188,7 +188,7 @@
         "Skorupi": 1,
         "Pikachu": 3,
         "Blue plumage squawkabilly": 2,
-        "Thwackey": 2,
+        "Thwackey": 3,
         "Dusk lycanroc": 2,
         "Sunny castform": 2,
         "Pidgeotto": 3,
@@ -218,9 +218,9 @@
         "Marill": 3,
         "Joltik": 7,
         "Politoed": 2,
-        "Cyndaquil": 4,
+        "Cyndaquil": 5,
         "Fuecoco": 5,
-        "Cyclizar": 4,
+        "Cyclizar": 5,
         "Magmar": 6,
         "Rillaboom": 1,
         "Ninetales": 2,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 1,
-        "Nickit": 2,
+        "Nickit": 3,
         "Ivysaur": 3,
         "Milcery": 3,
         "Gabite": 1,
@@ -666,8 +666,8 @@
         "Sizzlipede": 1,
         "White flower floette": 1
       },
-      "total_spawns": 2007,
-      "last_spawn": "2026-06-19T13:10:11.120219"
+      "total_spawns": 2015,
+      "last_spawn": "2026-06-19T13:10:49.436693"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -678,7 +678,7 @@
         "Maschiff": 3,
         "Pidove": 1,
         "Sandygast": 2,
-        "Charcadet": 4,
+        "Charcadet": 5,
         "Heracross": 1,
         "Tympole": 2,
         "Dondozo": 1,
@@ -832,14 +832,16 @@
         "Dartrix": 1,
         "Pumpkaboo": 1,
         "Purrloin": 1,
-        "Archen": 1
+        "Archen": 1,
+        "Milcery": 1,
+        "Axew": 1
       },
-      "total_spawns": 211,
-      "last_spawn": "2026-06-19T13:10:13.967892"
+      "total_spawns": 214,
+      "last_spawn": "2026-06-19T13:10:43.845922"
     }
   },
   "global": {
-    "total_spawns": 5549,
+    "total_spawns": 5560,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
