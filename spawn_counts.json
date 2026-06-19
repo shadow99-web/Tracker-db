@@ -68,7 +68,7 @@
         "Starly": 12,
         "Tandemaus": 6,
         "Smoliv": 13,
-        "Gloom": 1,
+        "Gloom": 2,
         "Clefairy": 1,
         "Spinda": 1,
         "Fomantis": 3,
@@ -127,9 +127,9 @@
         "Teddiursa": 10,
         "Clamperl": 3,
         "Zigzagoon": 6,
-        "Weedle": 25,
+        "Weedle": 26,
         "Flamigo": 5,
-        "Lillipup": 9,
+        "Lillipup": 10,
         "Shinx": 11,
         "Bounsweet": 7,
         "Noibat": 4,
@@ -209,7 +209,7 @@
         "Swellow": 2,
         "Aipom": 2,
         "Growlithe": 2,
-        "Sewaddle": 10,
+        "Sewaddle": 11,
         "Fidough": 6,
         "Noivern": 2,
         "Feraligatr": 2,
@@ -242,7 +242,7 @@
         "Chansey": 3,
         "Shroodle": 9,
         "Duskull": 8,
-        "Bergmite": 1,
+        "Bergmite": 2,
         "Pignite": 3,
         "Lurantis": 1,
         "Swampert": 3,
@@ -416,7 +416,7 @@
         "Larvitar": 4,
         "Tentacool": 1,
         "Volcanion": 1,
-        "Roaming gimmighoul": 5,
+        "Roaming gimmighoul": 6,
         "Summer sawsbuck": 1,
         "Delibird": 1,
         "Ride cyclizar": 2,
@@ -666,8 +666,8 @@
         "Sizzlipede": 1,
         "White flower floette": 1
       },
-      "total_spawns": 1985,
-      "last_spawn": "2026-06-19T13:08:39.336122"
+      "total_spawns": 1991,
+      "last_spawn": "2026-06-19T13:09:09.536326"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -838,7 +838,7 @@
     }
   },
   "global": {
-    "total_spawns": 5523,
+    "total_spawns": 5529,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
