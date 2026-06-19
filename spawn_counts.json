@@ -792,7 +792,7 @@
         "Toedscool": 4,
         "Trapinch": 4,
         "Droopy tatsugiri": 3,
-        "Grubbin": 4,
+        "Grubbin": 5,
         "Golbat": 5,
         "Nidorina": 1,
         "Trubbish": 4,
@@ -952,7 +952,7 @@
         "Stoutland": 1,
         "Timburr": 2,
         "Larvitar": 1,
-        "Lampent": 5,
+        "Lampent": 6,
         "Binacle": 1,
         "Charjabug": 1,
         "Tatsugiri": 1,
@@ -1097,14 +1097,15 @@
         "Spearow": 1,
         "Lycanroc": 1,
         "Lanturn": 1,
-        "Arcanine": 1
+        "Arcanine": 1,
+        "Swadloon": 1
       },
-      "total_spawns": 617,
-      "last_spawn": "2026-06-19T16:34:07.639033"
+      "total_spawns": 620,
+      "last_spawn": "2026-06-19T16:34:37.993108"
     }
   },
   "global": {
-    "total_spawns": 6824,
+    "total_spawns": 6827,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
