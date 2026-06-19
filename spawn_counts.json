@@ -24,7 +24,7 @@
         "Dedenne": 1,
         "Machop": 16,
         "Dudunsparce": 1,
-        "Gothita": 14,
+        "Gothita": 15,
         "Impidimp": 13,
         "Charmander": 5,
         "Morelull": 1,
@@ -52,7 +52,7 @@
         "Grotle": 5,
         "Porygon": 12,
         "Zubat": 26,
-        "Vanillish": 6,
+        "Vanillish": 7,
         "Tadbulb": 6,
         "Magnemite": 22,
         "Whismur": 14,
@@ -62,7 +62,7 @@
         "Yanma": 5,
         "Larvesta": 12,
         "Beldum": 14,
-        "Ducklett": 2,
+        "Ducklett": 3,
         "Lokix": 3,
         "Glimmora": 8,
         "Starly": 22,
@@ -183,7 +183,7 @@
         "Espurr": 3,
         "Cottonee": 2,
         "Elgyem": 1,
-        "Luvdisc": 1,
+        "Luvdisc": 2,
         "Vigoroth": 4,
         "Skorupi": 4,
         "Pikachu": 3,
@@ -194,7 +194,7 @@
         "Pidgeotto": 3,
         "Spearow": 7,
         "Helioptile": 3,
-        "Hoothoot": 5,
+        "Hoothoot": 6,
         "Grookey": 8,
         "Meditite": 1,
         "Toedscruel": 5,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 4,
         "Growlithe": 3,
-        "Sewaddle": 13,
+        "Sewaddle": 14,
         "Fidough": 8,
         "Noivern": 2,
         "Feraligatr": 2,
@@ -298,7 +298,7 @@
         "Pancham": 2,
         "Venipede": 16,
         "Cacturne": 3,
-        "Oddish": 15,
+        "Oddish": 16,
         "Dragalge": 1,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -327,7 +327,7 @@
         "Dreepy": 12,
         "Tinkaton": 1,
         "Corviknight": 3,
-        "Froakie": 4,
+        "Froakie": 5,
         "Nymble": 17,
         "Ferrothorn": 1,
         "Servine": 4,
@@ -573,7 +573,7 @@
         "Noice face eiscue": 2,
         "Electivire": 2,
         "Cascoon": 1,
-        "Tentacruel": 1,
+        "Tentacruel": 2,
         "Nuzleaf": 1,
         "Scorbunny": 3,
         "Huntail": 1,
@@ -610,7 +610,7 @@
         "Houndstone": 1,
         "Sandy wormadam": 1,
         "Stunky": 2,
-        "Pupitar": 1,
+        "Pupitar": 2,
         "Avalugg": 1,
         "Magby": 1,
         "Wigglytuff": 1,
@@ -762,8 +762,8 @@
         "Smoochum": 1,
         "Reuniclus": 1
       },
-      "total_spawns": 3116,
-      "last_spawn": "2026-06-19T20:39:33.012256"
+      "total_spawns": 3126,
+      "last_spawn": "2026-06-19T20:40:06.725441"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -894,7 +894,7 @@
         "Finneon": 2,
         "Doduo": 2,
         "Honedge": 5,
-        "Nacli": 2,
+        "Nacli": 3,
         "Fletchinder": 1,
         "Inkay": 2,
         "Gholdengo": 1,
@@ -1132,14 +1132,16 @@
         "Seismitoad": 1,
         "Complete zygarde": 1,
         "Dottler": 1,
-        "Hoppip": 1
+        "Hoppip": 1,
+        "Ninetales": 1,
+        "Shellos": 1
       },
-      "total_spawns": 668,
-      "last_spawn": "2026-06-19T20:39:37.548991"
+      "total_spawns": 671,
+      "last_spawn": "2026-06-19T20:40:07.910417"
     }
   },
   "global": {
-    "total_spawns": 7115,
+    "total_spawns": 7128,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
