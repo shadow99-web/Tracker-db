@@ -10,7 +10,7 @@
         "Pawmi": 9,
         "Electabuzz": 3,
         "Rellor": 11,
-        "Sandy burmy": 4,
+        "Sandy burmy": 5,
         "Wiglett": 16,
         "Bombirdier": 10,
         "Litleo": 6,
@@ -40,7 +40,7 @@
         "Qwilfish": 2,
         "Trapinch": 12,
         "Toedscool": 13,
-        "Fletchling": 13,
+        "Fletchling": 14,
         "Skiploom": 6,
         "Timburr": 14,
         "Dj rotom": 8,
@@ -131,7 +131,7 @@
         "Flamigo": 7,
         "Lillipup": 17,
         "Shinx": 15,
-        "Bounsweet": 11,
+        "Bounsweet": 12,
         "Noibat": 4,
         "Toxicroak": 1,
         "Charcadet": 15,
@@ -142,7 +142,7 @@
         "Rhyhorn": 12,
         "Sentret": 4,
         "Yungoos": 2,
-        "Diglett": 5,
+        "Diglett": 6,
         "Doduo": 3,
         "Lairon": 3,
         "Emboar": 3,
@@ -266,7 +266,7 @@
         "Quaxwell": 2,
         "Vibrava": 4,
         "Loudred": 1,
-        "Ceruledge": 9,
+        "Ceruledge": 10,
         "Houndour": 9,
         "Glimmet": 13,
         "Goomy": 5,
@@ -287,7 +287,7 @@
         "Dipplin": 1,
         "Cramorant": 1,
         "Chef dente": 7,
-        "Volcarona": 1,
+        "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 3,
         "Simisage": 1,
@@ -311,7 +311,7 @@
         "Zangoose": 2,
         "Flygon": 1,
         "Shellos": 2,
-        "Jigglypuff": 3,
+        "Jigglypuff": 4,
         "Nacli": 8,
         "Munna": 1,
         "Pawniard": 1,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 2,
-        "Squirtle": 4,
+        "Squirtle": 5,
         "Remoraid": 2,
         "Torracat": 4,
         "Hisuian zorua": 1,
@@ -579,7 +579,7 @@
         "Huntail": 1,
         "Galarian meowth": 1,
         "Spoink": 2,
-        "Scyther": 3,
+        "Scyther": 4,
         "Anorith": 2,
         "Meowth": 1,
         "Combee": 1,
@@ -735,8 +735,8 @@
         "Azurill": 1,
         "Alolan rattata": 1
       },
-      "total_spawns": 2717,
-      "last_spawn": "2026-06-19T13:59:29.430260"
+      "total_spawns": 2726,
+      "last_spawn": "2026-06-19T13:59:59.319483"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -886,7 +886,7 @@
         "Oinkologne": 1,
         "Squawkabilly": 2,
         "Ekans": 2,
-        "Bagon": 2,
+        "Bagon": 3,
         "Impidimp": 3,
         "Sizzlipede": 2,
         "Spidops": 2,
@@ -1044,14 +1044,16 @@
         "Trevenant": 1,
         "Vaporeon": 1,
         "Appletun": 1,
-        "Frillish": 1
+        "Frillish": 1,
+        "Gossifleur": 1,
+        "Remoraid": 1
       },
-      "total_spawns": 513,
-      "last_spawn": "2026-06-19T13:59:23.888670"
+      "total_spawns": 516,
+      "last_spawn": "2026-06-19T13:59:53.995551"
     }
   },
   "global": {
-    "total_spawns": 6561,
+    "total_spawns": 6573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
