@@ -1063,7 +1063,7 @@
         "Ferrothorn": 2,
         "Steenee": 1,
         "Arboliva": 2,
-        "Pawmi": 3,
+        "Pawmi": 4,
         "Stoutland": 1,
         "Timburr": 3,
         "Larvitar": 1,
@@ -1193,7 +1193,7 @@
         "Probopass": 1,
         "Thwackey": 2,
         "Starmie": 1,
-        "Wattrel": 3,
+        "Wattrel": 4,
         "Golem": 1,
         "Primarina": 1,
         "Silcoon": 1,
@@ -1289,14 +1289,15 @@
         "Cherubi": 1,
         "Clauncher": 1,
         "Dodrio": 1,
-        "Toedscruel": 1
+        "Toedscruel": 1,
+        "Metang": 1
       },
-      "total_spawns": 876,
-      "last_spawn": "2026-06-20T00:28:47.610540"
+      "total_spawns": 879,
+      "last_spawn": "2026-06-20T00:29:19.101713"
     }
   },
   "global": {
-    "total_spawns": 9068,
+    "total_spawns": 9071,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
