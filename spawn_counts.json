@@ -10,7 +10,7 @@
         "Pawmi": 17,
         "Electabuzz": 4,
         "Rellor": 13,
-        "Sandy burmy": 5,
+        "Sandy burmy": 6,
         "Wiglett": 21,
         "Bombirdier": 15,
         "Litleo": 7,
@@ -120,7 +120,7 @@
         "Yamask": 3,
         "Ralts": 11,
         "Solosis": 15,
-        "Battle cyclizar": 6,
+        "Battle cyclizar": 7,
         "Togetic": 3,
         "Palpitoad": 2,
         "Pikipek": 27,
@@ -179,7 +179,7 @@
         "Binacle": 8,
         "Grafaiai": 5,
         "Quilladin": 3,
-        "Geodude": 14,
+        "Geodude": 15,
         "Espurr": 5,
         "Cottonee": 2,
         "Elgyem": 1,
@@ -187,7 +187,7 @@
         "Vigoroth": 5,
         "Skorupi": 4,
         "Pikachu": 5,
-        "Blue plumage squawkabilly": 3,
+        "Blue plumage squawkabilly": 4,
         "Thwackey": 6,
         "Dusk lycanroc": 3,
         "Sunny castform": 3,
@@ -235,7 +235,7 @@
         "Marshtomp": 7,
         "Eiscue": 1,
         "Summer deerling": 8,
-        "Clauncher": 4,
+        "Clauncher": 5,
         "Clobbopus": 1,
         "Omanyte": 5,
         "Galvantula": 1,
@@ -340,7 +340,7 @@
         "Samurott": 2,
         "Torchic": 8,
         "Sobble": 10,
-        "Mudkip": 4,
+        "Mudkip": 5,
         "Charjabug": 6,
         "Capsakid": 11,
         "Revavroom": 8,
@@ -611,7 +611,7 @@
         "Sandy wormadam": 1,
         "Stunky": 2,
         "Pupitar": 3,
-        "Avalugg": 1,
+        "Avalugg": 2,
         "Magby": 1,
         "Wigglytuff": 1,
         "Venusaur": 3,
@@ -739,7 +739,7 @@
         "Thievul": 2,
         "Greedent": 1,
         "Ekans": 5,
-        "Venonat": 3,
+        "Venonat": 4,
         "Pelipper": 2,
         "Metapod": 2,
         "Kricketune": 2,
@@ -813,10 +813,11 @@
         "Okidogi": 1,
         "Tauros": 1,
         "Slurpuff": 1,
-        "Umbreon": 1
+        "Umbreon": 1,
+        "Hypno": 1
       },
-      "total_spawns": 3854,
-      "last_spawn": "2026-06-19T21:15:13.886205"
+      "total_spawns": 3863,
+      "last_spawn": "2026-06-19T21:15:43.190928"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1052,7 +1053,7 @@
         "Stunky": 1,
         "Nickit": 1,
         "Yamper": 2,
-        "Lotad": 4,
+        "Lotad": 5,
         "Klinklang": 1,
         "Wartortle": 1,
         "Grumpig": 1,
@@ -1224,12 +1225,12 @@
         "Electabuzz": 1,
         "Prof tangrowth": 1
       },
-      "total_spawns": 803,
-      "last_spawn": "2026-06-19T21:08:48.013380"
+      "total_spawns": 804,
+      "last_spawn": "2026-06-19T21:31:32.797108"
     }
   },
   "global": {
-    "total_spawns": 7988,
+    "total_spawns": 7998,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
