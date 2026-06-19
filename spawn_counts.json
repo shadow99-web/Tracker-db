@@ -939,7 +939,7 @@
         "Delphox": 2,
         "Cranidos": 3,
         "Larvesta": 2,
-        "Whismur": 1,
+        "Whismur": 2,
         "Misdreavus": 2,
         "Carkol": 2,
         "Pikipek": 5,
@@ -1169,7 +1169,7 @@
         "Trevenant": 1,
         "Vaporeon": 1,
         "Appletun": 1,
-        "Frillish": 1,
+        "Frillish": 2,
         "Gossifleur": 1,
         "Remoraid": 1,
         "Bramblin": 3,
@@ -1296,12 +1296,12 @@
         "Wimpod": 1,
         "Musharna": 1
       },
-      "total_spawns": 896,
-      "last_spawn": "2026-06-20T02:38:14.292521"
+      "total_spawns": 898,
+      "last_spawn": "2026-06-20T04:00:12.209281"
     }
   },
   "global": {
-    "total_spawns": 9088,
+    "total_spawns": 9090,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
