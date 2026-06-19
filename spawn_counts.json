@@ -792,7 +792,7 @@
         "Toedscool": 4,
         "Trapinch": 3,
         "Droopy tatsugiri": 3,
-        "Grubbin": 3,
+        "Grubbin": 4,
         "Golbat": 5,
         "Nidorina": 1,
         "Trubbish": 4,
@@ -1059,7 +1059,7 @@
         "Remoraid": 1,
         "Bramblin": 1,
         "Beldum": 2,
-        "Sandile": 1,
+        "Sandile": 2,
         "Pachirisu": 1,
         "Gothita": 2,
         "Anorith": 1,
@@ -1099,12 +1099,12 @@
         "Lanturn": 1,
         "Arcanine": 1
       },
-      "total_spawns": 610,
-      "last_spawn": "2026-06-19T16:32:57.799819"
+      "total_spawns": 612,
+      "last_spawn": "2026-06-19T16:33:33.663128"
     }
   },
   "global": {
-    "total_spawns": 6817,
+    "total_spawns": 6819,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
