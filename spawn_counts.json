@@ -39,7 +39,7 @@
         "Lotad": 21,
         "Qwilfish": 2,
         "Trapinch": 13,
-        "Toedscool": 14,
+        "Toedscool": 15,
         "Fletchling": 14,
         "Skiploom": 7,
         "Timburr": 14,
@@ -100,10 +100,10 @@
         "Numel": 3,
         "Carracosta": 1,
         "Smearguru": 11,
-        "Veluza": 21,
+        "Veluza": 22,
         "Barboach": 4,
         "Klink": 8,
-        "Honedge": 26,
+        "Honedge": 27,
         "Wingull": 4,
         "Salamence": 1,
         "Drakloak": 3,
@@ -127,7 +127,7 @@
         "Teddiursa": 15,
         "Clamperl": 4,
         "Zigzagoon": 7,
-        "Weedle": 26,
+        "Weedle": 27,
         "Flamigo": 8,
         "Lillipup": 17,
         "Shinx": 15,
@@ -143,10 +143,10 @@
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 6,
-        "Doduo": 3,
+        "Doduo": 4,
         "Lairon": 4,
         "Emboar": 3,
-        "Deoxys": 1,
+        "Deoxys": 2,
         "Dracovish": 2,
         "Bulbasaur": 6,
         "Roggenrola": 9,
@@ -249,7 +249,7 @@
         "Dachsbun": 4,
         "Turtwig": 4,
         "Prinplup": 1,
-        "Tinkatink": 13,
+        "Tinkatink": 14,
         "Lechonk": 11,
         "Kommo-o": 1,
         "Dewott": 5,
@@ -266,7 +266,7 @@
         "Quaxwell": 2,
         "Vibrava": 4,
         "Loudred": 1,
-        "Ceruledge": 10,
+        "Ceruledge": 11,
         "Houndour": 9,
         "Glimmet": 15,
         "Goomy": 6,
@@ -367,7 +367,7 @@
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 6,
-        "Carvanha": 4,
+        "Carvanha": 5,
         "Luxio": 3,
         "Treecko": 5,
         "Sinistea": 3,
@@ -741,10 +741,11 @@
         "Ekans": 1,
         "Venonat": 1,
         "Pelipper": 1,
-        "Metapod": 1
+        "Metapod": 1,
+        "Kricketune": 1
       },
-      "total_spawns": 2862,
-      "last_spawn": "2026-06-19T15:20:53.254996"
+      "total_spawns": 2872,
+      "last_spawn": "2026-06-19T15:21:26.823232"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1082,7 @@
     }
   },
   "global": {
-    "total_spawns": 6760,
+    "total_spawns": 6770,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
