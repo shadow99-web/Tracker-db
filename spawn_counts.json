@@ -787,7 +787,7 @@
         "Rockruff": 1,
         "Snubbull": 2,
         "Koffing": 1,
-        "Paras": 3,
+        "Paras": 4,
         "Abra": 5,
         "Toedscool": 4,
         "Trapinch": 4,
@@ -859,7 +859,7 @@
         "Teddiursa": 4,
         "Raboot": 2,
         "Chef dente": 2,
-        "Rellor": 2,
+        "Rellor": 3,
         "Pelipper": 1,
         "Scatterbug": 2,
         "Caterpie": 2,
@@ -1098,14 +1098,16 @@
         "Lycanroc": 1,
         "Lanturn": 1,
         "Arcanine": 1,
-        "Swadloon": 1
+        "Swadloon": 1,
+        "Grookey": 1,
+        "Ursaring": 1
       },
-      "total_spawns": 620,
-      "last_spawn": "2026-06-19T16:34:37.993108"
+      "total_spawns": 624,
+      "last_spawn": "2026-06-19T16:35:18.495340"
     }
   },
   "global": {
-    "total_spawns": 6827,
+    "total_spawns": 6831,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
