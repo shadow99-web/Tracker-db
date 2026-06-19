@@ -55,7 +55,7 @@
         "Vanillish": 6,
         "Tadbulb": 3,
         "Magnemite": 12,
-        "Whismur": 8,
+        "Whismur": 9,
         "Monferno": 6,
         "Skwovet": 1,
         "Bramblin": 10,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 4,
         "Togetic": 2,
         "Palpitoad": 1,
-        "Pikipek": 14,
+        "Pikipek": 15,
         "Teddiursa": 10,
         "Clamperl": 3,
         "Zigzagoon": 6,
@@ -324,13 +324,13 @@
         "Murkrow": 1,
         "Bellsprout": 7,
         "Mudbray": 3,
-        "Dreepy": 10,
+        "Dreepy": 11,
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 3,
         "Nymble": 13,
         "Ferrothorn": 1,
-        "Servine": 3,
+        "Servine": 4,
         "Blitzle": 3,
         "Musharna": 1,
         "Bisharp": 1,
@@ -445,7 +445,7 @@
         "Plusle": 2,
         "Skrelp": 3,
         "Raticate": 1,
-        "Wugtrio": 1,
+        "Wugtrio": 2,
         "Bellibolt": 1,
         "Morgrem": 4,
         "Misdreavus": 3,
@@ -456,7 +456,7 @@
         "Sunflora": 1,
         "Passimian": 1,
         "Iron moth": 1,
-        "Cherubi": 1,
+        "Cherubi": 2,
         "Cradily": 1,
         "Vulpix": 4,
         "Paras": 6,
@@ -547,7 +547,7 @@
         "Kangaskhan": 2,
         "Krokorok": 3,
         "Dragonair": 1,
-        "Zweilous": 2,
+        "Zweilous": 3,
         "Karrablast": 1,
         "Shroomish": 2,
         "Snover": 2,
@@ -655,7 +655,7 @@
         "Pinsir": 1,
         "Mothim": 1,
         "Whirlipede": 2,
-        "Absol": 1,
+        "Absol": 2,
         "Annihilape": 1,
         "Bouffalant": 1,
         "Crabrawler": 1,
@@ -684,8 +684,8 @@
         "Blaziken": 1,
         "Stantler": 1
       },
-      "total_spawns": 2154,
-      "last_spawn": "2026-06-19T13:20:00.493766"
+      "total_spawns": 2162,
+      "last_spawn": "2026-06-19T13:20:35.026052"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -803,7 +803,7 @@
         "Scatterbug": 2,
         "Caterpie": 1,
         "Pancham": 1,
-        "Nymble": 1,
+        "Nymble": 2,
         "Rampardos": 1,
         "Noctowl": 1,
         "Charmeleon": 1,
@@ -887,14 +887,16 @@
         "Ferrothorn": 1,
         "Steenee": 1,
         "Arboliva": 1,
-        "Pawmi": 1
+        "Pawmi": 1,
+        "Stoutland": 1,
+        "Timburr": 1
       },
-      "total_spawns": 269,
-      "last_spawn": "2026-06-19T13:20:04.016937"
+      "total_spawns": 272,
+      "last_spawn": "2026-06-19T13:20:33.811413"
     }
   },
   "global": {
-    "total_spawns": 5754,
+    "total_spawns": 5765,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
