@@ -25,13 +25,13 @@
         "Machop": 18,
         "Dudunsparce": 1,
         "Gothita": 19,
-        "Impidimp": 15,
+        "Impidimp": 16,
         "Charmander": 7,
         "Morelull": 1,
         "Abra": 18,
         "Sandile": 22,
         "Sandygast": 4,
-        "Litwick": 31,
+        "Litwick": 32,
         "Grubbin": 12,
         "Escavalier": 5,
         "Dratini": 12,
@@ -87,7 +87,7 @@
         "Togepi": 6,
         "Falinks": 2,
         "Tropius": 1,
-        "Poliwag": 12,
+        "Poliwag": 13,
         "Metang": 3,
         "Riolu": 4,
         "Exeggcute": 4,
@@ -100,7 +100,7 @@
         "Numel": 6,
         "Carracosta": 1,
         "Smearguru": 12,
-        "Veluza": 28,
+        "Veluza": 29,
         "Barboach": 4,
         "Klink": 11,
         "Honedge": 28,
@@ -154,7 +154,7 @@
         "Dragapult": 4,
         "Rattata": 6,
         "Flapple": 2,
-        "Aron": 12,
+        "Aron": 13,
         "Boldore": 2,
         "Spinarak": 7,
         "Delcatty": 2,
@@ -266,7 +266,7 @@
         "Quaxwell": 2,
         "Vibrava": 5,
         "Loudred": 4,
-        "Ceruledge": 11,
+        "Ceruledge": 12,
         "Houndour": 9,
         "Glimmet": 20,
         "Goomy": 10,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 9,
         "Brionne": 2,
-        "Pancham": 3,
+        "Pancham": 4,
         "Venipede": 17,
         "Cacturne": 3,
         "Oddish": 18,
@@ -322,7 +322,7 @@
         "Gossifleur": 2,
         "Oshawott": 5,
         "Murkrow": 7,
-        "Bellsprout": 14,
+        "Bellsprout": 15,
         "Mudbray": 6,
         "Dreepy": 16,
         "Tinkaton": 1,
@@ -426,7 +426,7 @@
         "Centiskorch": 1,
         "Low key toxtricity": 1,
         "Grapploct": 1,
-        "Gurdurr": 3,
+        "Gurdurr": 4,
         "Girafarig": 1,
         "Flaaffy": 2,
         "Pecharunt": 1,
@@ -531,7 +531,7 @@
         "Floatzel": 1,
         "Accelgor": 1,
         "Wormadam": 2,
-        "Axew": 8,
+        "Axew": 9,
         "Trevenant": 3,
         "Trubbish": 1,
         "Zorua": 6,
@@ -803,8 +803,8 @@
         "Raichu": 1,
         "Mime jr.": 1
       },
-      "total_spawns": 3635,
-      "last_spawn": "2026-06-19T21:04:33.026089"
+      "total_spawns": 3645,
+      "last_spawn": "2026-06-19T21:05:06.858929"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1141,7 +1141,7 @@
         "Primarina": 1,
         "Silcoon": 1,
         "Chandelure": 1,
-        "Phantump": 3,
+        "Phantump": 4,
         "Mienfoo": 2,
         "Hariyama": 1,
         "Yamask": 1,
@@ -1201,14 +1201,16 @@
         "Crustle": 1,
         "Nidorino": 1,
         "Lickitung": 1,
-        "Clamperl": 1
+        "Clamperl": 1,
+        "Gligar": 1,
+        "Pansear": 1
       },
-      "total_spawns": 777,
-      "last_spawn": "2026-06-19T21:04:27.475535"
+      "total_spawns": 780,
+      "last_spawn": "2026-06-19T21:04:57.534323"
     }
   },
   "global": {
-    "total_spawns": 7743,
+    "total_spawns": 7756,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
