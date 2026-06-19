@@ -7,7 +7,7 @@
         "Patrat": 3,
         "Mosslax": 10,
         "Drilbur": 3,
-        "Pawmi": 12,
+        "Pawmi": 13,
         "Electabuzz": 3,
         "Rellor": 12,
         "Sandy burmy": 5,
@@ -32,7 +32,7 @@
         "Sandile": 19,
         "Sandygast": 4,
         "Litwick": 30,
-        "Grubbin": 9,
+        "Grubbin": 10,
         "Escavalier": 5,
         "Dratini": 10,
         "Kilowattrel": 4,
@@ -100,7 +100,7 @@
         "Numel": 4,
         "Carracosta": 1,
         "Smearguru": 12,
-        "Veluza": 24,
+        "Veluza": 25,
         "Barboach": 4,
         "Klink": 9,
         "Honedge": 27,
@@ -153,12 +153,12 @@
         "Pidove": 17,
         "Dragapult": 4,
         "Rattata": 6,
-        "Flapple": 1,
+        "Flapple": 2,
         "Aron": 12,
         "Boldore": 2,
         "Spinarak": 7,
         "Delcatty": 2,
-        "Spiritomb": 1,
+        "Spiritomb": 2,
         "Yamper": 4,
         "Tepig": 13,
         "Kirlia": 3,
@@ -170,7 +170,7 @@
         "Flareon": 2,
         "Gastly": 11,
         "Taillow": 3,
-        "Swinub": 9,
+        "Swinub": 10,
         "Inkay": 8,
         "Gible": 10,
         "Rookidee": 11,
@@ -229,7 +229,7 @@
         "Spidops": 3,
         "Braixen": 3,
         "Drowzee": 6,
-        "Blipbug": 11,
+        "Blipbug": 12,
         "Lampent": 10,
         "Petilil": 4,
         "Marshtomp": 5,
@@ -324,7 +324,7 @@
         "Murkrow": 6,
         "Bellsprout": 13,
         "Mudbray": 5,
-        "Dreepy": 12,
+        "Dreepy": 13,
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 5,
@@ -347,7 +347,7 @@
         "Exploud": 3,
         "Deino": 7,
         "Wooper": 7,
-        "Dwebble": 4,
+        "Dwebble": 5,
         "Steenee": 4,
         "Darumaka": 6,
         "Arboliva": 2,
@@ -764,10 +764,11 @@
         "Smeargle": 2,
         "Gorebyss": 1,
         "Yanmega": 1,
-        "Pawmo": 1
+        "Pawmo": 1,
+        "Finneon": 1
       },
-      "total_spawns": 3205,
-      "last_spawn": "2026-06-19T20:43:49.919754"
+      "total_spawns": 3215,
+      "last_spawn": "2026-06-19T20:44:22.917123"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -817,7 +818,7 @@
         "Golbat": 5,
         "Nidorina": 1,
         "Trubbish": 4,
-        "Solosis": 2,
+        "Solosis": 3,
         "Skiddo": 3,
         "Venonat": 1,
         "Elgyem": 1,
@@ -835,7 +836,7 @@
         "Roggenrola": 4,
         "Spheal": 2,
         "Voltorb": 1,
-        "Litwick": 4,
+        "Litwick": 5,
         "Dachsbun": 1,
         "Ralts": 4,
         "Poliwag": 2,
@@ -1139,14 +1140,15 @@
         "Hoppip": 1,
         "Ninetales": 1,
         "Shellos": 1,
-        "Skwovet": 1
+        "Skwovet": 1,
+        "Charmander": 1
       },
-      "total_spawns": 688,
-      "last_spawn": "2026-06-19T20:42:57.540050"
+      "total_spawns": 691,
+      "last_spawn": "2026-06-19T20:44:17.419106"
     }
   },
   "global": {
-    "total_spawns": 7224,
+    "total_spawns": 7237,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
