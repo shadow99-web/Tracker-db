@@ -67,7 +67,7 @@
         "Glimmora": 9,
         "Starly": 24,
         "Tandemaus": 18,
-        "Smoliv": 21,
+        "Smoliv": 22,
         "Gloom": 5,
         "Clefairy": 3,
         "Spinda": 1,
@@ -121,7 +121,7 @@
         "Ralts": 15,
         "Solosis": 15,
         "Battle cyclizar": 8,
-        "Togetic": 4,
+        "Togetic": 5,
         "Palpitoad": 2,
         "Pikipek": 27,
         "Teddiursa": 21,
@@ -249,7 +249,7 @@
         "Dachsbun": 5,
         "Turtwig": 4,
         "Prinplup": 1,
-        "Tinkatink": 18,
+        "Tinkatink": 19,
         "Lechonk": 14,
         "Kommo-o": 1,
         "Dewott": 6,
@@ -416,7 +416,7 @@
         "Larvitar": 10,
         "Tentacool": 2,
         "Volcanion": 1,
-        "Roaming gimmighoul": 12,
+        "Roaming gimmighoul": 13,
         "Summer sawsbuck": 3,
         "Delibird": 1,
         "Ride cyclizar": 7,
@@ -595,7 +595,7 @@
         "Mienfoo": 7,
         "Dewgong": 2,
         "Wartortle": 2,
-        "Cetoddle": 9,
+        "Cetoddle": 10,
         "Kricketot": 2,
         "Porygon-z": 2,
         "Conkeldurr": 1,
@@ -821,10 +821,11 @@
         "Amped toxtricity": 1,
         "Galarian linoone": 1,
         "Xatu": 1,
-        "Galarian corsola": 1
+        "Galarian corsola": 1,
+        "Cinderace": 1
       },
-      "total_spawns": 4019,
-      "last_spawn": "2026-06-19T22:57:08.020796"
+      "total_spawns": 4025,
+      "last_spawn": "2026-06-19T22:57:38.039919"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1257,7 +1258,7 @@
     }
   },
   "global": {
-    "total_spawns": 8224,
+    "total_spawns": 8230,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
