@@ -34,7 +34,7 @@
         "Litwick": 22,
         "Grubbin": 8,
         "Escavalier": 3,
-        "Dratini": 8,
+        "Dratini": 9,
         "Kilowattrel": 2,
         "Lotad": 15,
         "Qwilfish": 2,
@@ -97,7 +97,7 @@
         "Kabuto": 6,
         "Scatterbug": 13,
         "Pumpkaboo": 2,
-        "Numel": 2,
+        "Numel": 3,
         "Carracosta": 1,
         "Smearguru": 8,
         "Veluza": 19,
@@ -356,7 +356,7 @@
         "Swirlix": 1,
         "Aromatisse": 1,
         "Muk": 1,
-        "Toxel": 1,
+        "Toxel": 2,
         "Banette": 1,
         "Three-segment dudunsparce": 2,
         "Fearow": 2,
@@ -372,7 +372,7 @@
         "Treecko": 4,
         "Sinistea": 3,
         "Cubchoo": 2,
-        "Hippopotas": 1,
+        "Hippopotas": 2,
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 2,
@@ -421,7 +421,7 @@
         "Delibird": 1,
         "Ride cyclizar": 5,
         "Gothorita": 4,
-        "Varoom": 8,
+        "Varoom": 9,
         "Yellow plumage squawkabilly": 3,
         "Centiskorch": 1,
         "Low key toxtricity": 1,
@@ -578,7 +578,7 @@
         "Scorbunny": 2,
         "Huntail": 1,
         "Galarian meowth": 1,
-        "Spoink": 1,
+        "Spoink": 2,
         "Scyther": 3,
         "Anorith": 2,
         "Meowth": 1,
@@ -649,7 +649,7 @@
         "Shiftry": 1,
         "Arbok": 1,
         "Stretchy tatsugiri": 2,
-        "Mareanie": 1,
+        "Mareanie": 2,
         "Seadra": 1,
         "Beheeyem": 1,
         "Pinsir": 1,
@@ -675,7 +675,7 @@
         "Quaquaval": 1,
         "Sprigatito": 1,
         "Metagross": 1,
-        "Eelektrik": 1,
+        "Eelektrik": 2,
         "Gastrodon": 1,
         "Golurk": 1,
         "Arcanine": 1,
@@ -706,8 +706,8 @@
         "Hatenna": 1,
         "Zoroark": 1
       },
-      "total_spawns": 2343,
-      "last_spawn": "2026-06-19T13:32:39.376932"
+      "total_spawns": 2351,
+      "last_spawn": "2026-06-19T13:33:15.394962"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -852,7 +852,7 @@
         "Nosepass": 1,
         "Chikorita": 1,
         "Necrozma": 1,
-        "Bounsweet": 1,
+        "Bounsweet": 2,
         "Wooper": 1,
         "Oinkologne": 1,
         "Squawkabilly": 1,
@@ -950,14 +950,16 @@
         "Bellsprout": 1,
         "Weedle": 1,
         "Meowth": 1,
-        "Spritzee": 1
+        "Spritzee": 1,
+        "Swinub": 1,
+        "Tropius": 1
       },
-      "total_spawns": 342,
-      "last_spawn": "2026-06-19T13:32:43.844706"
+      "total_spawns": 345,
+      "last_spawn": "2026-06-19T13:33:13.930464"
     }
   },
   "global": {
-    "total_spawns": 6016,
+    "total_spawns": 6027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
