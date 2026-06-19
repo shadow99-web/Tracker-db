@@ -932,7 +932,7 @@
         "Litwick": 6,
         "Dachsbun": 1,
         "Ralts": 4,
-        "Poliwag": 2,
+        "Poliwag": 3,
         "Veluza": 9,
         "Wailmer": 1,
         "Darumaka": 1,
@@ -1293,14 +1293,15 @@
         "Metang": 1,
         "Hippowdon": 1,
         "Happiny": 1,
-        "Wimpod": 1
+        "Wimpod": 1,
+        "Musharna": 1
       },
-      "total_spawns": 887,
-      "last_spawn": "2026-06-20T00:30:37.656749"
+      "total_spawns": 889,
+      "last_spawn": "2026-06-20T00:31:23.086303"
     }
   },
   "global": {
-    "total_spawns": 9079,
+    "total_spawns": 9081,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
