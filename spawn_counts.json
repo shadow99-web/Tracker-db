@@ -65,7 +65,7 @@
         "Ducklett": 2,
         "Lokix": 2,
         "Glimmora": 8,
-        "Starly": 15,
+        "Starly": 16,
         "Tandemaus": 8,
         "Smoliv": 14,
         "Gloom": 2,
@@ -129,7 +129,7 @@
         "Zigzagoon": 6,
         "Weedle": 26,
         "Flamigo": 6,
-        "Lillipup": 12,
+        "Lillipup": 13,
         "Shinx": 11,
         "Bounsweet": 8,
         "Noibat": 4,
@@ -139,7 +139,7 @@
         "Phanpy": 1,
         "Brambleghast": 4,
         "Pidgey": 16,
-        "Rhyhorn": 9,
+        "Rhyhorn": 10,
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 4,
@@ -173,8 +173,8 @@
         "Swinub": 6,
         "Inkay": 5,
         "Gible": 5,
-        "Rookidee": 7,
-        "Minccino": 2,
+        "Rookidee": 8,
+        "Minccino": 3,
         "Wurmple": 7,
         "Binacle": 2,
         "Grafaiai": 2,
@@ -240,7 +240,7 @@
         "Omanyte": 4,
         "Galvantula": 1,
         "Chansey": 4,
-        "Shroodle": 9,
+        "Shroodle": 10,
         "Duskull": 9,
         "Bergmite": 2,
         "Pignite": 3,
@@ -627,7 +627,7 @@
         "Frost rotom": 1,
         "Tatsugiri": 3,
         "Nidorino": 1,
-        "Wailmer": 1,
+        "Wailmer": 2,
         "Krabby": 1,
         "Bronzong": 1,
         "Lanturn": 1,
@@ -694,8 +694,8 @@
         "Sliggoo": 1,
         "Panpour": 1
       },
-      "total_spawns": 2212,
-      "last_spawn": "2026-06-19T13:23:54.701213"
+      "total_spawns": 2219,
+      "last_spawn": "2026-06-19T13:24:20.202646"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -705,7 +705,7 @@
         "Jumpluff": 1,
         "Maschiff": 3,
         "Pidove": 1,
-        "Sandygast": 2,
+        "Sandygast": 3,
         "Charcadet": 5,
         "Heracross": 1,
         "Tympole": 2,
@@ -901,18 +901,20 @@
         "Stoutland": 1,
         "Timburr": 1,
         "Larvitar": 1,
-        "Lampent": 1,
+        "Lampent": 2,
         "Binacle": 1,
         "Charjabug": 1,
         "Tatsugiri": 1,
-        "Smearguru": 1
+        "Smearguru": 1,
+        "Drifloon": 1,
+        "Kirlia": 1
       },
-      "total_spawns": 281,
-      "last_spawn": "2026-06-19T13:23:43.980016"
+      "total_spawns": 285,
+      "last_spawn": "2026-06-19T13:24:29.477053"
     }
   },
   "global": {
-    "total_spawns": 5824,
+    "total_spawns": 5835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
