@@ -7,7 +7,7 @@
         "Patrat": 2,
         "Mosslax": 4,
         "Drilbur": 3,
-        "Pawmi": 8,
+        "Pawmi": 9,
         "Electabuzz": 3,
         "Rellor": 9,
         "Sandy burmy": 4,
@@ -40,7 +40,7 @@
         "Qwilfish": 2,
         "Trapinch": 10,
         "Toedscool": 9,
-        "Fletchling": 9,
+        "Fletchling": 10,
         "Skiploom": 5,
         "Timburr": 12,
         "Dj rotom": 4,
@@ -51,7 +51,7 @@
         "Slugma": 2,
         "Grotle": 3,
         "Porygon": 7,
-        "Zubat": 15,
+        "Zubat": 16,
         "Vanillish": 6,
         "Tadbulb": 3,
         "Magnemite": 12,
@@ -65,14 +65,14 @@
         "Ducklett": 2,
         "Lokix": 2,
         "Glimmora": 7,
-        "Starly": 12,
+        "Starly": 13,
         "Tandemaus": 6,
         "Smoliv": 13,
         "Gloom": 2,
         "Clefairy": 1,
         "Spinda": 1,
         "Fomantis": 3,
-        "Droopy tatsugiri": 8,
+        "Droopy tatsugiri": 9,
         "Froslass": 3,
         "Tarountula": 3,
         "Hatterene": 1,
@@ -103,7 +103,7 @@
         "Veluza": 17,
         "Barboach": 2,
         "Klink": 7,
-        "Honedge": 17,
+        "Honedge": 18,
         "Wingull": 3,
         "Salamence": 1,
         "Drakloak": 3,
@@ -131,7 +131,7 @@
         "Flamigo": 5,
         "Lillipup": 11,
         "Shinx": 11,
-        "Bounsweet": 7,
+        "Bounsweet": 8,
         "Noibat": 4,
         "Toxicroak": 1,
         "Charcadet": 12,
@@ -213,7 +213,7 @@
         "Fidough": 6,
         "Noivern": 2,
         "Feraligatr": 2,
-        "Tynamo": 10,
+        "Tynamo": 11,
         "Orthworm": 10,
         "Marill": 3,
         "Joltik": 8,
@@ -671,8 +671,8 @@
         "Krookodile": 1,
         "Primeape": 1
       },
-      "total_spawns": 2049,
-      "last_spawn": "2026-06-19T13:12:59.176706"
+      "total_spawns": 2057,
+      "last_spawn": "2026-06-19T13:13:34.761194"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -845,14 +845,17 @@
         "Drowzee": 1,
         "Gloom": 1,
         "Froslass": 1,
-        "Electrike": 1
+        "Electrike": 1,
+        "Tynamo": 1,
+        "Ivysaur": 1,
+        "Blipbug": 1
       },
-      "total_spawns": 227,
-      "last_spawn": "2026-06-19T13:13:03.900846"
+      "total_spawns": 230,
+      "last_spawn": "2026-06-19T13:13:33.897703"
     }
   },
   "global": {
-    "total_spawns": 5607,
+    "total_spawns": 5618,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
