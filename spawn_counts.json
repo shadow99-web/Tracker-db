@@ -22,7 +22,7 @@
         "Tangela": 4,
         "Orbeetle": 1,
         "Dedenne": 1,
-        "Machop": 15,
+        "Machop": 16,
         "Dudunsparce": 1,
         "Gothita": 13,
         "Impidimp": 12,
@@ -55,7 +55,7 @@
         "Vanillish": 6,
         "Tadbulb": 5,
         "Magnemite": 20,
-        "Whismur": 13,
+        "Whismur": 14,
         "Monferno": 7,
         "Skwovet": 1,
         "Bramblin": 13,
@@ -97,7 +97,7 @@
         "Kabuto": 6,
         "Scatterbug": 14,
         "Pumpkaboo": 3,
-        "Numel": 3,
+        "Numel": 4,
         "Carracosta": 1,
         "Smearguru": 12,
         "Veluza": 23,
@@ -115,7 +115,7 @@
         "Frigibax": 10,
         "Spheal": 18,
         "Swadloon": 5,
-        "Flittle": 11,
+        "Flittle": 12,
         "Unfezant": 1,
         "Yamask": 3,
         "Ralts": 7,
@@ -129,7 +129,7 @@
         "Zigzagoon": 7,
         "Weedle": 28,
         "Flamigo": 8,
-        "Lillipup": 17,
+        "Lillipup": 18,
         "Shinx": 16,
         "Bounsweet": 12,
         "Noibat": 4,
@@ -163,7 +163,7 @@
         "Tepig": 13,
         "Kirlia": 3,
         "Piplup": 2,
-        "Kakuna": 6,
+        "Kakuna": 7,
         "Weepinbell": 2,
         "Klawf": 14,
         "Vanillite": 16,
@@ -240,7 +240,7 @@
         "Omanyte": 4,
         "Galvantula": 1,
         "Chansey": 6,
-        "Shroodle": 12,
+        "Shroodle": 13,
         "Duskull": 14,
         "Bergmite": 3,
         "Pignite": 3,
@@ -320,7 +320,7 @@
         "Trash wormadam": 1,
         "Quaxly": 5,
         "Gossifleur": 2,
-        "Oshawott": 3,
+        "Oshawott": 4,
         "Murkrow": 6,
         "Bellsprout": 12,
         "Mudbray": 4,
@@ -360,9 +360,9 @@
         "Banette": 1,
         "Three-segment dudunsparce": 2,
         "Fearow": 2,
-        "Mankey": 5,
+        "Mankey": 6,
         "Bidoof": 7,
-        "Quilava": 6,
+        "Quilava": 7,
         "Finizen": 13,
         "Unown y": 1,
         "Toucannon": 2,
@@ -752,10 +752,11 @@
         "Poltchageist": 1,
         "Incineroar": 1,
         "Morpeko": 1,
-        "Parasect": 1
+        "Parasect": 1,
+        "Alolan muk": 1
       },
-      "total_spawns": 2967,
-      "last_spawn": "2026-06-19T20:32:28.681980"
+      "total_spawns": 2978,
+      "last_spawn": "2026-06-19T20:33:03.045316"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1131,7 +1132,7 @@
     }
   },
   "global": {
-    "total_spawns": 6959,
+    "total_spawns": 6970,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
