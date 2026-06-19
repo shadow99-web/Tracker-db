@@ -171,7 +171,7 @@
         "Gastly": 14,
         "Taillow": 4,
         "Swinub": 14,
-        "Inkay": 10,
+        "Inkay": 11,
         "Gible": 12,
         "Rookidee": 14,
         "Minccino": 9,
@@ -226,7 +226,7 @@
         "Ninetales": 2,
         "Wattrel": 18,
         "Snubbull": 3,
-        "Spidops": 3,
+        "Spidops": 4,
         "Braixen": 6,
         "Drowzee": 7,
         "Blipbug": 18,
@@ -824,8 +824,8 @@
         "Galarian corsola": 1,
         "Cinderace": 1
       },
-      "total_spawns": 4025,
-      "last_spawn": "2026-06-19T22:57:38.039919"
+      "total_spawns": 4027,
+      "last_spawn": "2026-06-19T22:59:56.863005"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1258,7 +1258,7 @@
     }
   },
   "global": {
-    "total_spawns": 8230,
+    "total_spawns": 8232,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
