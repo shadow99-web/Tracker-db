@@ -58,7 +58,7 @@
         "Whismur": 15,
         "Monferno": 7,
         "Skwovet": 1,
-        "Bramblin": 17,
+        "Bramblin": 18,
         "Yanma": 5,
         "Larvesta": 12,
         "Beldum": 14,
@@ -230,7 +230,7 @@
         "Braixen": 3,
         "Drowzee": 6,
         "Blipbug": 13,
-        "Lampent": 10,
+        "Lampent": 11,
         "Petilil": 4,
         "Marshtomp": 6,
         "Eiscue": 1,
@@ -321,14 +321,14 @@
         "Quaxly": 5,
         "Gossifleur": 2,
         "Oshawott": 4,
-        "Murkrow": 6,
+        "Murkrow": 7,
         "Bellsprout": 14,
         "Mudbray": 5,
-        "Dreepy": 13,
+        "Dreepy": 14,
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 5,
-        "Nymble": 19,
+        "Nymble": 20,
         "Ferrothorn": 1,
         "Servine": 4,
         "Blitzle": 3,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 3,
-        "Squirtle": 6,
+        "Squirtle": 7,
         "Remoraid": 3,
         "Torracat": 6,
         "Hisuian zorua": 1,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 3,
         "Wailord": 1,
-        "Makuhita": 3,
+        "Makuhita": 4,
         "Lombre": 6,
         "Ursaluna": 2,
         "Furfrou": 1,
@@ -435,7 +435,7 @@
         "Zebstrika": 1,
         "Shuppet": 5,
         "Paldean wooper": 2,
-        "Salandit": 3,
+        "Salandit": 4,
         "School wishiwashi": 2,
         "Snivy": 4,
         "Wyrdeer": 1,
@@ -773,10 +773,11 @@
         "Nidorina": 1,
         "Archaludon": 1,
         "Golduck": 1,
-        "Scolipede": 1
+        "Scolipede": 1,
+        "Marowak": 1
       },
-      "total_spawns": 3303,
-      "last_spawn": "2026-06-19T20:48:33.420832"
+      "total_spawns": 3312,
+      "last_spawn": "2026-06-19T20:49:03.435877"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1159,7 +1160,7 @@
     }
   },
   "global": {
-    "total_spawns": 7336,
+    "total_spawns": 7345,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
