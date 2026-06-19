@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 8,
+        "Chimchar": 9,
         "Patrat": 3,
         "Mosslax": 10,
         "Drilbur": 3,
@@ -26,7 +26,7 @@
         "Dudunsparce": 1,
         "Gothita": 17,
         "Impidimp": 15,
-        "Charmander": 6,
+        "Charmander": 7,
         "Morelull": 1,
         "Abra": 15,
         "Sandile": 19,
@@ -53,7 +53,7 @@
         "Porygon": 12,
         "Zubat": 30,
         "Vanillish": 7,
-        "Tadbulb": 7,
+        "Tadbulb": 8,
         "Magnemite": 23,
         "Whismur": 15,
         "Monferno": 7,
@@ -102,7 +102,7 @@
         "Smearguru": 12,
         "Veluza": 28,
         "Barboach": 4,
-        "Klink": 10,
+        "Klink": 11,
         "Honedge": 28,
         "Wingull": 5,
         "Salamence": 1,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 5,
         "Togetic": 3,
         "Palpitoad": 1,
-        "Pikipek": 26,
+        "Pikipek": 27,
         "Teddiursa": 18,
         "Clamperl": 5,
         "Zigzagoon": 7,
@@ -479,7 +479,7 @@
         "Slowpoke": 5,
         "Dolliv": 2,
         "Infernape": 1,
-        "Carkol": 6,
+        "Carkol": 7,
         "Magikarp": 4,
         "Tyrogue": 2,
         "Vikavolt": 1,
@@ -642,7 +642,7 @@
         "East sea shellos": 1,
         "Corsola": 3,
         "Venomoth": 2,
-        "Trumbeak": 2,
+        "Trumbeak": 3,
         "Aerodactyl": 2,
         "Igglybuff": 2,
         "Archeops": 1,
@@ -696,7 +696,7 @@
         "Tinkatuff": 2,
         "Bruxish": 1,
         "Corvisquire": 1,
-        "Mantine": 1,
+        "Mantine": 2,
         "Electrode": 2,
         "Celebi": 1,
         "Hero palafin": 1,
@@ -784,10 +784,12 @@
         "Castform": 1,
         "Weavile": 1,
         "Gorging cramorant": 1,
-        "Shieldon": 1
+        "Shieldon": 1,
+        "Masquerain": 1,
+        "Watchog": 1
       },
-      "total_spawns": 3427,
-      "last_spawn": "2026-06-19T20:54:30.142688"
+      "total_spawns": 3437,
+      "last_spawn": "2026-06-19T20:55:03.050012"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -942,7 +944,7 @@
         "Sizzlipede": 3,
         "Spidops": 2,
         "Mantyke": 1,
-        "Tinkatink": 3,
+        "Tinkatink": 4,
         "Frogadier": 1,
         "Greavard": 1,
         "Dj rotom": 4,
@@ -1055,7 +1057,7 @@
         "Kangaskhan": 2,
         "Doublade": 2,
         "Vullaby": 1,
-        "Bellibolt": 1,
+        "Bellibolt": 2,
         "Sawk": 1,
         "Servine": 2,
         "Baltoy": 1,
@@ -1166,14 +1168,15 @@
         "Shuppet": 1,
         "Graveler": 1,
         "Mareanie": 1,
-        "Morelull": 1
+        "Morelull": 1,
+        "Bruxish": 1
       },
-      "total_spawns": 717,
-      "last_spawn": "2026-06-19T20:54:27.598753"
+      "total_spawns": 720,
+      "last_spawn": "2026-06-19T20:54:57.425867"
     }
   },
   "global": {
-    "total_spawns": 7475,
+    "total_spawns": 7488,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
