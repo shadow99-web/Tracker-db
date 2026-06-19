@@ -65,7 +65,7 @@
         "Ducklett": 3,
         "Lokix": 3,
         "Glimmora": 8,
-        "Starly": 22,
+        "Starly": 23,
         "Tandemaus": 17,
         "Smoliv": 19,
         "Gloom": 4,
@@ -81,10 +81,10 @@
         "Amaura": 5,
         "Gimmighoul": 16,
         "Baltoy": 4,
-        "Mareep": 17,
+        "Mareep": 18,
         "Garbodor": 1,
         "Slakoth": 16,
-        "Togepi": 5,
+        "Togepi": 6,
         "Falinks": 2,
         "Tropius": 1,
         "Poliwag": 12,
@@ -115,7 +115,7 @@
         "Frigibax": 11,
         "Spheal": 20,
         "Swadloon": 5,
-        "Flittle": 14,
+        "Flittle": 15,
         "Unfezant": 2,
         "Yamask": 3,
         "Ralts": 10,
@@ -179,7 +179,7 @@
         "Binacle": 6,
         "Grafaiai": 5,
         "Quilladin": 3,
-        "Geodude": 12,
+        "Geodude": 13,
         "Espurr": 3,
         "Cottonee": 2,
         "Elgyem": 1,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 4,
-        "Nickit": 6,
+        "Nickit": 7,
         "Ivysaur": 4,
         "Milcery": 3,
         "Gabite": 1,
@@ -610,7 +610,7 @@
         "Houndstone": 1,
         "Sandy wormadam": 1,
         "Stunky": 2,
-        "Pupitar": 2,
+        "Pupitar": 3,
         "Avalugg": 1,
         "Magby": 1,
         "Wigglytuff": 1,
@@ -692,7 +692,7 @@
         "Pyroar": 2,
         "Marshadow": 1,
         "Sliggoo": 1,
-        "Panpour": 3,
+        "Panpour": 4,
         "Tinkatuff": 2,
         "Bruxish": 1,
         "Corvisquire": 1,
@@ -794,10 +794,11 @@
         "Gothitelle": 1,
         "Dusclops": 1,
         "Galarian yamask": 1,
-        "Alolan golem": 1
+        "Alolan golem": 1,
+        "Dustox": 1
       },
-      "total_spawns": 3540,
-      "last_spawn": "2026-06-19T20:59:53.218689"
+      "total_spawns": 3549,
+      "last_spawn": "2026-06-19T21:00:23.075666"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -833,7 +834,7 @@
         "Tadbulb": 2,
         "Garchomp": 2,
         "Blastoise": 2,
-        "Finizen": 4,
+        "Finizen": 5,
         "Brambleghast": 2,
         "Rockruff": 1,
         "Snubbull": 2,
@@ -1020,7 +1021,7 @@
         "Seadra": 4,
         "Gigalith": 2,
         "Poliwhirl": 1,
-        "Fletchling": 4,
+        "Fletchling": 5,
         "Chewtle": 2,
         "Klink": 3,
         "Rufflet": 2,
@@ -1187,14 +1188,16 @@
         "Carracosta": 1,
         "Pangoro": 1,
         "Loudred": 1,
-        "Breloom": 1
+        "Breloom": 1,
+        "Milotic": 1,
+        "Copperajah": 1
       },
-      "total_spawns": 750,
-      "last_spawn": "2026-06-19T20:59:52.654983"
+      "total_spawns": 754,
+      "last_spawn": "2026-06-19T21:00:27.666767"
     }
   },
   "global": {
-    "total_spawns": 7621,
+    "total_spawns": 7634,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
