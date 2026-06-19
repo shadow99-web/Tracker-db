@@ -11,9 +11,9 @@
         "Electabuzz": 3,
         "Rellor": 11,
         "Sandy burmy": 5,
-        "Wiglett": 16,
+        "Wiglett": 17,
         "Bombirdier": 10,
-        "Litleo": 6,
+        "Litleo": 7,
         "Purrloin": 2,
         "Tranquill": 2,
         "Psyduck": 3,
@@ -50,7 +50,7 @@
         "Greavard": 8,
         "Slugma": 3,
         "Grotle": 5,
-        "Porygon": 9,
+        "Porygon": 10,
         "Zubat": 24,
         "Vanillish": 6,
         "Tadbulb": 5,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 3,
         "Numel": 3,
         "Carracosta": 1,
-        "Smearguru": 11,
+        "Smearguru": 12,
         "Veluza": 22,
         "Barboach": 4,
         "Klink": 8,
@@ -142,8 +142,8 @@
         "Rhyhorn": 12,
         "Sentret": 4,
         "Yungoos": 2,
-        "Diglett": 6,
-        "Doduo": 4,
+        "Diglett": 7,
+        "Doduo": 5,
         "Lairon": 4,
         "Emboar": 3,
         "Deoxys": 2,
@@ -335,7 +335,7 @@
         "Musharna": 1,
         "Bisharp": 1,
         "Chespin": 5,
-        "Sealeo": 3,
+        "Sealeo": 4,
         "Staryu": 6,
         "Samurott": 2,
         "Torchic": 5,
@@ -381,7 +381,7 @@
         "Torracat": 5,
         "Hisuian zorua": 1,
         "Wooloo": 2,
-        "Drifloon": 2,
+        "Drifloon": 3,
         "Golbat": 1,
         "Swablu": 3,
         "Shellder": 6,
@@ -437,7 +437,7 @@
         "Paldean wooper": 2,
         "Salandit": 3,
         "School wishiwashi": 2,
-        "Snivy": 3,
+        "Snivy": 4,
         "Wyrdeer": 1,
         "Tangrowth": 1,
         "Galarian zen darmanitan": 2,
@@ -704,7 +704,7 @@
         "Abomasnow": 1,
         "Espeon": 2,
         "Hatenna": 5,
-        "Zoroark": 1,
+        "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 2,
         "Combusken": 2,
@@ -748,10 +748,11 @@
         "Relicanth": 1,
         "Klefki": 1,
         "Frogadier": 1,
-        "Dewpider": 1
+        "Dewpider": 1,
+        "Poltchageist": 1
       },
-      "total_spawns": 2912,
-      "last_spawn": "2026-06-19T20:29:49.163653"
+      "total_spawns": 2923,
+      "last_spawn": "2026-06-19T20:30:23.217043"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1127,7 +1128,7 @@
     }
   },
   "global": {
-    "total_spawns": 6904,
+    "total_spawns": 6915,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
