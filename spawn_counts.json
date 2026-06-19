@@ -38,7 +38,7 @@
         "Kilowattrel": 2,
         "Lotad": 15,
         "Qwilfish": 2,
-        "Trapinch": 11,
+        "Trapinch": 12,
         "Toedscool": 10,
         "Fletchling": 12,
         "Skiploom": 6,
@@ -96,7 +96,7 @@
         "Sandslash": 1,
         "Kabuto": 6,
         "Scatterbug": 13,
-        "Pumpkaboo": 2,
+        "Pumpkaboo": 3,
         "Numel": 3,
         "Carracosta": 1,
         "Smearguru": 8,
@@ -115,7 +115,7 @@
         "Frigibax": 7,
         "Spheal": 13,
         "Swadloon": 5,
-        "Flittle": 8,
+        "Flittle": 9,
         "Unfezant": 1,
         "Yamask": 3,
         "Ralts": 5,
@@ -126,7 +126,7 @@
         "Pikipek": 15,
         "Teddiursa": 12,
         "Clamperl": 3,
-        "Zigzagoon": 6,
+        "Zigzagoon": 7,
         "Weedle": 26,
         "Flamigo": 6,
         "Lillipup": 13,
@@ -298,7 +298,7 @@
         "Pancham": 2,
         "Venipede": 11,
         "Cacturne": 2,
-        "Oddish": 11,
+        "Oddish": 12,
         "Dragalge": 1,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -547,10 +547,10 @@
         "Kangaskhan": 2,
         "Krokorok": 3,
         "Dragonair": 1,
-        "Zweilous": 3,
+        "Zweilous": 4,
         "Karrablast": 1,
         "Shroomish": 3,
-        "Snover": 3,
+        "Snover": 4,
         "Drednaw": 1,
         "Skarmory": 1,
         "Midnight lycanroc": 2,
@@ -595,7 +595,7 @@
         "Mienfoo": 3,
         "Dewgong": 2,
         "Wartortle": 2,
-        "Cetoddle": 5,
+        "Cetoddle": 6,
         "Kricketot": 1,
         "Porygon-z": 2,
         "Conkeldurr": 1,
@@ -704,10 +704,11 @@
         "Abomasnow": 1,
         "Espeon": 1,
         "Hatenna": 1,
-        "Zoroark": 1
+        "Zoroark": 1,
+        "Lucario": 1
       },
-      "total_spawns": 2359,
-      "last_spawn": "2026-06-19T13:33:49.316067"
+      "total_spawns": 2368,
+      "last_spawn": "2026-06-19T13:34:19.265037"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -772,7 +773,7 @@
         "Tandemaus": 3,
         "Krokorok": 2,
         "Cascoon": 1,
-        "Roggenrola": 2,
+        "Roggenrola": 3,
         "Spheal": 2,
         "Voltorb": 1,
         "Litwick": 3,
@@ -793,7 +794,7 @@
         "Natu": 1,
         "Politoed": 1,
         "Gastly": 4,
-        "Slakoth": 2,
+        "Slakoth": 3,
         "Machop": 3,
         "Roselia": 1,
         "Pidgeotto": 1,
@@ -927,7 +928,7 @@
         "Tentacool": 1,
         "Deino": 2,
         "Vanillish": 1,
-        "Seadra": 2,
+        "Seadra": 3,
         "Gigalith": 1,
         "Poliwhirl": 1,
         "Fletchling": 2,
@@ -952,14 +953,15 @@
         "Meowth": 1,
         "Spritzee": 1,
         "Swinub": 1,
-        "Tropius": 1
+        "Tropius": 1,
+        "Flamigo": 1
       },
-      "total_spawns": 348,
-      "last_spawn": "2026-06-19T13:33:43.791179"
+      "total_spawns": 352,
+      "last_spawn": "2026-06-19T13:34:23.749123"
     }
   },
   "global": {
-    "total_spawns": 6038,
+    "total_spawns": 6051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
