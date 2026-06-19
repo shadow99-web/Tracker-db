@@ -718,7 +718,7 @@
         "Scorbunny": 1,
         "Rattata": 1,
         "Gulpin": 1,
-        "Tandemaus": 2,
+        "Tandemaus": 3,
         "Krokorok": 2,
         "Cascoon": 1,
         "Roggenrola": 2,
@@ -814,14 +814,16 @@
         "Tinkatink": 1,
         "Frogadier": 1,
         "Greavard": 1,
-        "Dj rotom": 1
+        "Dj rotom": 1,
+        "Lileep": 1,
+        "Joltik": 1
       },
-      "total_spawns": 196,
-      "last_spawn": "2026-06-19T12:48:53.120717"
+      "total_spawns": 199,
+      "last_spawn": "2026-06-19T12:49:23.177115"
     }
   },
   "global": {
-    "total_spawns": 5439,
+    "total_spawns": 5442,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
