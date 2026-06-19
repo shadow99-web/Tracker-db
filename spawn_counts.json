@@ -769,7 +769,7 @@
         "Grovyle": 2,
         "Vigoroth": 2,
         "Kilowattrel": 1,
-        "Magnemite": 5,
+        "Magnemite": 6,
         "Gyarados": 1,
         "Starly": 7,
         "Gimmighoul": 3,
@@ -844,7 +844,7 @@
         "Frigibax": 2,
         "Bellossom": 1,
         "Archeops": 1,
-        "Quaxly": 3,
+        "Quaxly": 4,
         "Dustox": 1,
         "Houndour": 2,
         "Smoliv": 3,
@@ -914,7 +914,7 @@
         "Archen": 1,
         "Milcery": 1,
         "Axew": 1,
-        "Sewaddle": 3,
+        "Sewaddle": 4,
         "Monferno": 1,
         "Drowzee": 1,
         "Gloom": 3,
@@ -1085,14 +1085,15 @@
         "Chandelure": 1,
         "Phantump": 1,
         "Mienfoo": 1,
-        "Hariyama": 1
+        "Hariyama": 1,
+        "Yamask": 1
       },
-      "total_spawns": 586,
-      "last_spawn": "2026-06-19T16:23:07.850624"
+      "total_spawns": 590,
+      "last_spawn": "2026-06-19T16:29:23.274006"
     }
   },
   "global": {
-    "total_spawns": 6793,
+    "total_spawns": 6797,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
