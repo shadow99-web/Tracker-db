@@ -28,7 +28,7 @@
         "Impidimp": 15,
         "Charmander": 7,
         "Morelull": 1,
-        "Abra": 16,
+        "Abra": 18,
         "Sandile": 20,
         "Sandygast": 4,
         "Litwick": 31,
@@ -202,7 +202,7 @@
         "Scraggy": 9,
         "Rhydon": 3,
         "Silcoon": 3,
-        "Totodile": 6,
+        "Totodile": 7,
         "Dodrio": 3,
         "Cufant": 4,
         "Tympole": 3,
@@ -210,7 +210,7 @@
         "Aipom": 6,
         "Growlithe": 3,
         "Sewaddle": 15,
-        "Fidough": 10,
+        "Fidough": 11,
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 17,
@@ -369,7 +369,7 @@
         "Caterpie": 8,
         "Carvanha": 5,
         "Luxio": 4,
-        "Treecko": 9,
+        "Treecko": 10,
         "Sinistea": 3,
         "Cubchoo": 3,
         "Hippopotas": 2,
@@ -408,7 +408,7 @@
         "Rufflet": 8,
         "Kabutops": 2,
         "Dondozo": 4,
-        "Pansear": 6,
+        "Pansear": 7,
         "Cutiefly": 5,
         "Peakychu": 9,
         "Armarouge": 4,
@@ -692,7 +692,7 @@
         "Pyroar": 2,
         "Marshadow": 1,
         "Sliggoo": 1,
-        "Panpour": 4,
+        "Panpour": 5,
         "Tinkatuff": 2,
         "Bruxish": 1,
         "Corvisquire": 1,
@@ -738,7 +738,7 @@
         "Lumineon": 1,
         "Thievul": 2,
         "Greedent": 1,
-        "Ekans": 2,
+        "Ekans": 3,
         "Venonat": 3,
         "Pelipper": 2,
         "Metapod": 2,
@@ -798,10 +798,12 @@
         "Dustox": 1,
         "Gliscor": 1,
         "Mesprit": 1,
-        "Vaporeon": 1
+        "Vaporeon": 1,
+        "Unown i": 1,
+        "Raichu": 1
       },
-      "total_spawns": 3593,
-      "last_spawn": "2026-06-19T21:02:29.822017"
+      "total_spawns": 3603,
+      "last_spawn": "2026-06-19T21:03:02.905077"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -999,7 +1001,7 @@
         "Flittle": 2,
         "Hatenna": 1,
         "Nincada": 1,
-        "Rhyhorn": 4,
+        "Rhyhorn": 5,
         "Ferrothorn": 2,
         "Steenee": 1,
         "Arboliva": 2,
@@ -1146,7 +1148,7 @@
         "Simisear": 1,
         "Lairon": 2,
         "Croagunk": 1,
-        "Aron": 2,
+        "Aron": 3,
         "Seedot": 1,
         "Spinda": 1,
         "Spearow": 1,
@@ -1196,14 +1198,15 @@
         "Copperajah": 1,
         "Jigglypuff": 1,
         "Crustle": 1,
-        "Nidorino": 1
+        "Nidorino": 1,
+        "Lickitung": 1
       },
-      "total_spawns": 765,
-      "last_spawn": "2026-06-19T21:02:27.483714"
+      "total_spawns": 768,
+      "last_spawn": "2026-06-19T21:02:57.505977"
     }
   },
   "global": {
-    "total_spawns": 7689,
+    "total_spawns": 7702,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
