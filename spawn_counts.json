@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 4,
+        "Chimchar": 5,
         "Patrat": 2,
         "Mosslax": 4,
         "Drilbur": 3,
@@ -38,7 +38,7 @@
         "Kilowattrel": 2,
         "Lotad": 13,
         "Qwilfish": 2,
-        "Trapinch": 10,
+        "Trapinch": 11,
         "Toedscool": 9,
         "Fletchling": 11,
         "Skiploom": 6,
@@ -160,7 +160,7 @@
         "Delcatty": 2,
         "Spiritomb": 1,
         "Yamper": 4,
-        "Tepig": 8,
+        "Tepig": 9,
         "Kirlia": 2,
         "Piplup": 2,
         "Kakuna": 5,
@@ -237,11 +237,11 @@
         "Summer deerling": 5,
         "Clauncher": 2,
         "Clobbopus": 1,
-        "Omanyte": 3,
+        "Omanyte": 4,
         "Galvantula": 1,
         "Chansey": 4,
         "Shroodle": 9,
-        "Duskull": 8,
+        "Duskull": 9,
         "Bergmite": 2,
         "Pignite": 3,
         "Lurantis": 1,
@@ -264,7 +264,7 @@
         "Nincada": 3,
         "Fennekin": 9,
         "Quaxwell": 2,
-        "Vibrava": 2,
+        "Vibrava": 3,
         "Loudred": 1,
         "Ceruledge": 8,
         "Houndour": 8,
@@ -307,7 +307,7 @@
         "Rolycoly": 9,
         "Bronzor": 4,
         "Dartrix": 2,
-        "Yellow flower florges": 1,
+        "Yellow flower florges": 2,
         "Zangoose": 2,
         "Flygon": 1,
         "Shellos": 1,
@@ -654,7 +654,7 @@
         "Beheeyem": 1,
         "Pinsir": 1,
         "Mothim": 1,
-        "Whirlipede": 1,
+        "Whirlipede": 2,
         "Absol": 1,
         "Annihilape": 1,
         "Bouffalant": 1,
@@ -682,8 +682,8 @@
         "Oranguru": 1,
         "Poliwrath": 1
       },
-      "total_spawns": 2131,
-      "last_spawn": "2026-06-19T13:18:31.029975"
+      "total_spawns": 2139,
+      "last_spawn": "2026-06-19T13:19:00.258231"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -717,7 +717,7 @@
         "Scizor": 1,
         "Chespin": 1,
         "Tadbulb": 1,
-        "Garchomp": 1,
+        "Garchomp": 2,
         "Blastoise": 1,
         "Finizen": 1,
         "Brambleghast": 2,
@@ -814,7 +814,7 @@
         "Finneon": 1,
         "Doduo": 1,
         "Honedge": 3,
-        "Nacli": 1,
+        "Nacli": 2,
         "Fletchinder": 1,
         "Inkay": 1,
         "Gholdengo": 1,
@@ -880,14 +880,16 @@
         "Ceruledge": 1,
         "Flittle": 1,
         "Hatenna": 1,
-        "Nincada": 1
+        "Nincada": 1,
+        "Rhyhorn": 1,
+        "Ferrothorn": 1
       },
-      "total_spawns": 259,
-      "last_spawn": "2026-06-19T13:18:23.903788"
+      "total_spawns": 263,
+      "last_spawn": "2026-06-19T13:19:03.806319"
     }
   },
   "global": {
-    "total_spawns": 5721,
+    "total_spawns": 5733,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
