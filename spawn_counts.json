@@ -41,7 +41,7 @@
         "Trapinch": 10,
         "Toedscool": 9,
         "Fletchling": 11,
-        "Skiploom": 5,
+        "Skiploom": 6,
         "Timburr": 12,
         "Dj rotom": 4,
         "Surskit": 7,
@@ -166,7 +166,7 @@
         "Kakuna": 5,
         "Weepinbell": 2,
         "Klawf": 9,
-        "Vanillite": 11,
+        "Vanillite": 12,
         "Flareon": 2,
         "Gastly": 4,
         "Taillow": 3,
@@ -195,7 +195,7 @@
         "Spearow": 3,
         "Helioptile": 2,
         "Hoothoot": 5,
-        "Grookey": 5,
+        "Grookey": 6,
         "Meditite": 1,
         "Toedscruel": 3,
         "Probopass": 1,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 11,
-        "Orthworm": 10,
+        "Orthworm": 11,
         "Marill": 3,
         "Joltik": 8,
         "Politoed": 2,
@@ -358,7 +358,7 @@
         "Muk": 1,
         "Toxel": 1,
         "Banette": 1,
-        "Three-segment dudunsparce": 1,
+        "Three-segment dudunsparce": 2,
         "Fearow": 2,
         "Mankey": 4,
         "Bidoof": 7,
@@ -443,7 +443,7 @@
         "Galarian zen darmanitan": 2,
         "Bibarel": 1,
         "Plusle": 2,
-        "Skrelp": 2,
+        "Skrelp": 3,
         "Raticate": 1,
         "Wugtrio": 1,
         "Bellibolt": 1,
@@ -540,7 +540,7 @@
         "Onix": 1,
         "Vanilluxe": 1,
         "Jolteon": 1,
-        "Pawmot": 1,
+        "Pawmot": 2,
         "Skiddo": 3,
         "Slowbro": 1,
         "Oricorio": 1,
@@ -682,8 +682,8 @@
         "Oranguru": 1,
         "Poliwrath": 1
       },
-      "total_spawns": 2124,
-      "last_spawn": "2026-06-19T13:17:59.312149"
+      "total_spawns": 2131,
+      "last_spawn": "2026-06-19T13:18:31.029975"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -722,7 +722,7 @@
         "Finizen": 1,
         "Brambleghast": 2,
         "Rockruff": 1,
-        "Snubbull": 1,
+        "Snubbull": 2,
         "Koffing": 1,
         "Paras": 2,
         "Abra": 2,
@@ -855,7 +855,7 @@
         "Monferno": 1,
         "Drowzee": 1,
         "Gloom": 1,
-        "Froslass": 1,
+        "Froslass": 2,
         "Electrike": 1,
         "Tynamo": 1,
         "Ivysaur": 1,
@@ -879,14 +879,15 @@
         "Sandshrew": 1,
         "Ceruledge": 1,
         "Flittle": 1,
-        "Hatenna": 1
+        "Hatenna": 1,
+        "Nincada": 1
       },
-      "total_spawns": 256,
-      "last_spawn": "2026-06-19T13:17:53.938847"
+      "total_spawns": 259,
+      "last_spawn": "2026-06-19T13:18:23.903788"
     }
   },
   "global": {
-    "total_spawns": 5711,
+    "total_spawns": 5721,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
