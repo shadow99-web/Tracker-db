@@ -36,7 +36,7 @@
         "Escavalier": 3,
         "Dratini": 9,
         "Kilowattrel": 2,
-        "Lotad": 17,
+        "Lotad": 18,
         "Qwilfish": 2,
         "Trapinch": 12,
         "Toedscool": 10,
@@ -55,7 +55,7 @@
         "Vanillish": 6,
         "Tadbulb": 3,
         "Magnemite": 15,
-        "Whismur": 9,
+        "Whismur": 10,
         "Monferno": 7,
         "Skwovet": 1,
         "Bramblin": 12,
@@ -207,7 +207,7 @@
         "Cufant": 3,
         "Tympole": 2,
         "Swellow": 2,
-        "Aipom": 2,
+        "Aipom": 3,
         "Growlithe": 3,
         "Sewaddle": 12,
         "Fidough": 8,
@@ -216,7 +216,7 @@
         "Tynamo": 12,
         "Orthworm": 13,
         "Marill": 4,
-        "Joltik": 8,
+        "Joltik": 9,
         "Politoed": 2,
         "Cyndaquil": 5,
         "Fuecoco": 5,
@@ -405,7 +405,7 @@
         "Electrike": 5,
         "Drampa": 1,
         "Maschiff": 6,
-        "Rufflet": 3,
+        "Rufflet": 4,
         "Kabutops": 1,
         "Dondozo": 3,
         "Pansear": 4,
@@ -592,7 +592,7 @@
         "Darmanitan": 1,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
-        "Mienfoo": 3,
+        "Mienfoo": 4,
         "Dewgong": 2,
         "Wartortle": 2,
         "Cetoddle": 6,
@@ -609,7 +609,7 @@
         "Hitmonlee": 1,
         "Houndstone": 1,
         "Sandy wormadam": 1,
-        "Stunky": 1,
+        "Stunky": 2,
         "Pupitar": 1,
         "Avalugg": 1,
         "Magby": 1,
@@ -708,10 +708,11 @@
         "Lucario": 1,
         "Crustle": 1,
         "Combusken": 1,
-        "Gourgeist": 1
+        "Gourgeist": 1,
+        "Durant": 1
       },
-      "total_spawns": 2424,
-      "last_spawn": "2026-06-19T13:38:09.739113"
+      "total_spawns": 2432,
+      "last_spawn": "2026-06-19T13:38:39.993919"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -758,7 +759,7 @@
         "Trapinch": 2,
         "Droopy tatsugiri": 1,
         "Grubbin": 3,
-        "Golbat": 3,
+        "Golbat": 4,
         "Nidorina": 1,
         "Trubbish": 1,
         "Solosis": 2,
@@ -946,7 +947,7 @@
         "Eevee": 1,
         "Stunky": 1,
         "Nickit": 1,
-        "Yamper": 1,
+        "Yamper": 2,
         "Lotad": 2,
         "Klinklang": 1,
         "Wartortle": 1,
@@ -963,14 +964,15 @@
         "Lillipup": 1,
         "Cinderace": 2,
         "Swampert": 1,
-        "Carvanha": 1
+        "Carvanha": 1,
+        "Dewpider": 1
       },
-      "total_spawns": 376,
-      "last_spawn": "2026-06-19T13:38:04.026800"
+      "total_spawns": 379,
+      "last_spawn": "2026-06-19T13:38:35.297171"
     }
   },
   "global": {
-    "total_spawns": 6131,
+    "total_spawns": 6142,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
