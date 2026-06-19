@@ -9,7 +9,7 @@
         "Drilbur": 3,
         "Pawmi": 14,
         "Electabuzz": 3,
-        "Rellor": 12,
+        "Rellor": 13,
         "Sandy burmy": 5,
         "Wiglett": 17,
         "Bombirdier": 12,
@@ -38,7 +38,7 @@
         "Kilowattrel": 4,
         "Lotad": 25,
         "Qwilfish": 2,
-        "Trapinch": 15,
+        "Trapinch": 16,
         "Toedscool": 18,
         "Fletchling": 15,
         "Skiploom": 7,
@@ -71,7 +71,7 @@
         "Gloom": 4,
         "Clefairy": 3,
         "Spinda": 1,
-        "Fomantis": 4,
+        "Fomantis": 5,
         "Droopy tatsugiri": 11,
         "Froslass": 3,
         "Tarountula": 6,
@@ -87,7 +87,7 @@
         "Togepi": 4,
         "Falinks": 2,
         "Tropius": 1,
-        "Poliwag": 9,
+        "Poliwag": 10,
         "Metang": 3,
         "Riolu": 4,
         "Exeggcute": 4,
@@ -175,7 +175,7 @@
         "Gible": 10,
         "Rookidee": 11,
         "Minccino": 6,
-        "Wurmple": 11,
+        "Wurmple": 12,
         "Binacle": 5,
         "Grafaiai": 5,
         "Quilladin": 2,
@@ -241,7 +241,7 @@
         "Galvantula": 1,
         "Chansey": 6,
         "Shroodle": 15,
-        "Duskull": 15,
+        "Duskull": 16,
         "Bergmite": 3,
         "Pignite": 4,
         "Lurantis": 1,
@@ -363,7 +363,7 @@
         "Mankey": 6,
         "Bidoof": 7,
         "Quilava": 7,
-        "Finizen": 13,
+        "Finizen": 14,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 8,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 8,
         "Summer sawsbuck": 3,
         "Delibird": 1,
-        "Ride cyclizar": 6,
+        "Ride cyclizar": 7,
         "Gothorita": 4,
         "Varoom": 13,
         "Yellow plumage squawkabilly": 4,
@@ -581,7 +581,7 @@
         "Spoink": 2,
         "Scyther": 4,
         "Anorith": 3,
-        "Meowth": 1,
+        "Meowth": 2,
         "Combee": 1,
         "Fletchinder": 3,
         "Kingambit": 1,
@@ -767,10 +767,12 @@
         "Pawmo": 1,
         "Finneon": 1,
         "Mamoswine": 1,
-        "Drifblim": 1
+        "Drifblim": 1,
+        "Meowscarada": 1,
+        "Roserade": 1
       },
-      "total_spawns": 3248,
-      "last_spawn": "2026-06-19T20:45:53.203779"
+      "total_spawns": 3259,
+      "last_spawn": "2026-06-19T20:46:28.054341"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -849,7 +851,7 @@
         "Cranidos": 3,
         "Larvesta": 1,
         "Whismur": 1,
-        "Misdreavus": 1,
+        "Misdreavus": 2,
         "Carkol": 1,
         "Pikipek": 4,
         "Capsakid": 6,
@@ -928,7 +930,7 @@
         "Tinkatink": 3,
         "Frogadier": 1,
         "Greavard": 1,
-        "Dj rotom": 3,
+        "Dj rotom": 4,
         "Lileep": 1,
         "Joltik": 1,
         "Marill": 1,
@@ -1148,12 +1150,12 @@
         "Vanillite": 1,
         "Shuppet": 1
       },
-      "total_spawns": 700,
-      "last_spawn": "2026-06-19T20:45:57.593564"
+      "total_spawns": 702,
+      "last_spawn": "2026-06-19T20:46:17.449981"
     }
   },
   "global": {
-    "total_spawns": 7279,
+    "total_spawns": 7292,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
