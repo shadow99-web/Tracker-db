@@ -870,7 +870,7 @@
         "Charmeleon": 1,
         "Litleo": 2,
         "Manectric": 1,
-        "Wurmple": 1,
+        "Wurmple": 2,
         "Arctibax": 1,
         "Yanma": 1,
         "Chinchou": 1,
@@ -1108,14 +1108,16 @@
         "Mabosstiff": 1,
         "Scraggy": 1,
         "Cofagrigus": 1,
-        "Tyranitar": 1
+        "Tyranitar": 1,
+        "Walrein": 1,
+        "Raichu": 1
       },
-      "total_spawns": 639,
-      "last_spawn": "2026-06-19T16:37:47.623069"
+      "total_spawns": 642,
+      "last_spawn": "2026-06-19T16:38:17.415527"
     }
   },
   "global": {
-    "total_spawns": 6846,
+    "total_spawns": 6849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
