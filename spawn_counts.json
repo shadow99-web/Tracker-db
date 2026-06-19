@@ -24,9 +24,9 @@
         "Dedenne": 1,
         "Machop": 9,
         "Dudunsparce": 1,
-        "Gothita": 8,
+        "Gothita": 9,
         "Impidimp": 8,
-        "Charmander": 3,
+        "Charmander": 4,
         "Morelull": 1,
         "Abra": 13,
         "Sandile": 9,
@@ -134,7 +134,7 @@
         "Bounsweet": 7,
         "Noibat": 4,
         "Toxicroak": 1,
-        "Charcadet": 10,
+        "Charcadet": 11,
         "Croconaw": 5,
         "Phanpy": 1,
         "Brambleghast": 3,
@@ -143,12 +143,12 @@
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 3,
-        "Doduo": 2,
+        "Doduo": 3,
         "Lairon": 3,
         "Emboar": 2,
         "Deoxys": 1,
         "Dracovish": 2,
-        "Bulbasaur": 3,
+        "Bulbasaur": 5,
         "Roggenrola": 6,
         "Pidove": 13,
         "Dragapult": 1,
@@ -389,7 +389,7 @@
         "Sandshrew": 3,
         "Palafin": 2,
         "Maractus": 1,
-        "Sigilyph": 1,
+        "Sigilyph": 2,
         "Unown m": 1,
         "Stufful": 2,
         "Wailord": 1,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 1,
-        "Nickit": 1,
+        "Nickit": 2,
         "Ivysaur": 3,
         "Milcery": 3,
         "Gabite": 1,
@@ -658,10 +658,11 @@
         "Absol": 1,
         "Annihilape": 1,
         "Bouffalant": 1,
-        "Crabrawler": 1
+        "Crabrawler": 1,
+        "Budew": 1
       },
-      "total_spawns": 1937,
-      "last_spawn": "2026-06-19T13:05:15.618597"
+      "total_spawns": 1946,
+      "last_spawn": "2026-06-19T13:06:09.511027"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -832,7 +833,7 @@
     }
   },
   "global": {
-    "total_spawns": 5475,
+    "total_spawns": 5484,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
