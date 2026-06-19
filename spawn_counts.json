@@ -800,7 +800,7 @@
         "Skiddo": 3,
         "Venonat": 1,
         "Elgyem": 1,
-        "Piplup": 2,
+        "Piplup": 3,
         "Drakloak": 1,
         "Klawf": 2,
         "Exeggcute": 1,
@@ -857,9 +857,9 @@
         "Farigiraf": 1,
         "Rookidee": 3,
         "Teddiursa": 4,
-        "Raboot": 2,
+        "Raboot": 3,
         "Chef dente": 2,
-        "Rellor": 3,
+        "Rellor": 4,
         "Pelipper": 1,
         "Scatterbug": 2,
         "Caterpie": 2,
@@ -1100,14 +1100,15 @@
         "Arcanine": 1,
         "Swadloon": 1,
         "Grookey": 1,
-        "Ursaring": 1
+        "Ursaring": 1,
+        "Clodsire": 1
       },
-      "total_spawns": 624,
-      "last_spawn": "2026-06-19T16:35:18.495340"
+      "total_spawns": 628,
+      "last_spawn": "2026-06-19T16:35:57.543008"
     }
   },
   "global": {
-    "total_spawns": 6831,
+    "total_spawns": 6835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
