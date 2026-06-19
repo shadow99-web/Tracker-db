@@ -29,8 +29,8 @@
         "Charmander": 4,
         "Morelull": 1,
         "Abra": 14,
-        "Sandile": 11,
-        "Sandygast": 3,
+        "Sandile": 12,
+        "Sandygast": 4,
         "Litwick": 22,
         "Grubbin": 8,
         "Escavalier": 3,
@@ -66,7 +66,7 @@
         "Lokix": 2,
         "Glimmora": 8,
         "Starly": 17,
-        "Tandemaus": 9,
+        "Tandemaus": 10,
         "Smoliv": 16,
         "Gloom": 2,
         "Clefairy": 1,
@@ -139,7 +139,7 @@
         "Phanpy": 1,
         "Brambleghast": 4,
         "Pidgey": 17,
-        "Rhyhorn": 10,
+        "Rhyhorn": 11,
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 5,
@@ -175,7 +175,7 @@
         "Gible": 6,
         "Rookidee": 8,
         "Minccino": 3,
-        "Wurmple": 8,
+        "Wurmple": 9,
         "Binacle": 2,
         "Grafaiai": 3,
         "Quilladin": 1,
@@ -310,7 +310,7 @@
         "Yellow flower florges": 2,
         "Zangoose": 2,
         "Flygon": 1,
-        "Shellos": 1,
+        "Shellos": 2,
         "Jigglypuff": 2,
         "Nacli": 6,
         "Munna": 1,
@@ -649,7 +649,7 @@
         "Shiftry": 1,
         "Arbok": 1,
         "Stretchy tatsugiri": 2,
-        "Mareanie": 2,
+        "Mareanie": 3,
         "Seadra": 1,
         "Beheeyem": 1,
         "Pinsir": 1,
@@ -710,8 +710,8 @@
         "Combusken": 1,
         "Gourgeist": 1
       },
-      "total_spawns": 2393,
-      "last_spawn": "2026-06-19T13:36:00.297766"
+      "total_spawns": 2400,
+      "last_spawn": "2026-06-19T13:36:31.351642"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -736,7 +736,7 @@
         "Kilowattrel": 1,
         "Magnemite": 3,
         "Gyarados": 1,
-        "Starly": 4,
+        "Starly": 5,
         "Gimmighoul": 2,
         "Psyduck": 2,
         "Geodude": 1,
@@ -841,7 +841,7 @@
         "Chinchou": 1,
         "Finneon": 2,
         "Doduo": 1,
-        "Honedge": 3,
+        "Honedge": 4,
         "Nacli": 2,
         "Fletchinder": 1,
         "Inkay": 1,
@@ -936,7 +936,7 @@
         "Poliwhirl": 1,
         "Fletchling": 3,
         "Chewtle": 1,
-        "Klink": 1,
+        "Klink": 2,
         "Rufflet": 2,
         "Weezing": 1,
         "Heatmor": 1,
@@ -958,14 +958,15 @@
         "Swinub": 1,
         "Tropius": 1,
         "Flamigo": 1,
-        "Talonflame": 1
+        "Talonflame": 1,
+        "Cosmog": 1
       },
-      "total_spawns": 361,
-      "last_spawn": "2026-06-19T13:35:54.009447"
+      "total_spawns": 365,
+      "last_spawn": "2026-06-19T13:36:23.877677"
     }
   },
   "global": {
-    "total_spawns": 6085,
+    "total_spawns": 6096,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
