@@ -29,7 +29,7 @@
         "Charmander": 7,
         "Morelull": 1,
         "Abra": 18,
-        "Sandile": 20,
+        "Sandile": 22,
         "Sandygast": 4,
         "Litwick": 31,
         "Grubbin": 12,
@@ -171,7 +171,7 @@
         "Gastly": 13,
         "Taillow": 4,
         "Swinub": 12,
-        "Inkay": 8,
+        "Inkay": 9,
         "Gible": 11,
         "Rookidee": 12,
         "Minccino": 8,
@@ -229,7 +229,7 @@
         "Spidops": 3,
         "Braixen": 4,
         "Drowzee": 6,
-        "Blipbug": 14,
+        "Blipbug": 15,
         "Lampent": 11,
         "Petilil": 4,
         "Marshtomp": 6,
@@ -265,10 +265,10 @@
         "Fennekin": 11,
         "Quaxwell": 2,
         "Vibrava": 5,
-        "Loudred": 3,
+        "Loudred": 4,
         "Ceruledge": 11,
         "Houndour": 9,
-        "Glimmet": 19,
+        "Glimmet": 20,
         "Goomy": 10,
         "Zapdos": 1,
         "Natu": 5,
@@ -537,7 +537,7 @@
         "Zorua": 6,
         "Archen": 5,
         "Oinkologne": 4,
-        "Onix": 1,
+        "Onix": 2,
         "Vanilluxe": 1,
         "Jolteon": 1,
         "Pawmot": 3,
@@ -800,10 +800,11 @@
         "Mesprit": 1,
         "Vaporeon": 1,
         "Unown i": 1,
-        "Raichu": 1
+        "Raichu": 1,
+        "Mime jr.": 1
       },
-      "total_spawns": 3615,
-      "last_spawn": "2026-06-19T21:03:32.930708"
+      "total_spawns": 3623,
+      "last_spawn": "2026-06-19T21:04:02.974923"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1012,7 +1013,7 @@
         "Lampent": 6,
         "Binacle": 2,
         "Charjabug": 1,
-        "Tatsugiri": 2,
+        "Tatsugiri": 3,
         "Smearguru": 2,
         "Drifloon": 1,
         "Kirlia": 1,
@@ -1061,7 +1062,7 @@
         "Magneton": 3,
         "Dragonite": 1,
         "Dratini": 3,
-        "Meganium": 3,
+        "Meganium": 4,
         "Scyther": 1,
         "Tirtouga": 1,
         "Applin": 1,
@@ -1141,7 +1142,7 @@
         "Silcoon": 1,
         "Chandelure": 1,
         "Phantump": 3,
-        "Mienfoo": 1,
+        "Mienfoo": 2,
         "Hariyama": 1,
         "Yamask": 1,
         "Staraptor": 1,
@@ -1201,12 +1202,12 @@
         "Nidorino": 1,
         "Lickitung": 1
       },
-      "total_spawns": 771,
-      "last_spawn": "2026-06-19T21:03:27.469210"
+      "total_spawns": 774,
+      "last_spawn": "2026-06-19T21:03:57.478270"
     }
   },
   "global": {
-    "total_spawns": 7717,
+    "total_spawns": 7728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
