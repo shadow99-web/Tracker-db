@@ -922,7 +922,7 @@
         "Torchic": 1,
         "Lechonk": 2,
         "Cetitan": 1,
-        "Turtwig": 3,
+        "Turtwig": 4,
         "Wiglett": 7,
         "Forretress": 2,
         "Farigiraf": 1,
@@ -1061,7 +1061,7 @@
         "Weedle": 4,
         "Meowth": 1,
         "Spritzee": 1,
-        "Swinub": 2,
+        "Swinub": 3,
         "Tropius": 1,
         "Flamigo": 2,
         "Talonflame": 1,
@@ -1130,7 +1130,7 @@
         "Remoraid": 1,
         "Bramblin": 2,
         "Beldum": 2,
-        "Sandile": 4,
+        "Sandile": 5,
         "Pachirisu": 1,
         "Gothita": 2,
         "Anorith": 2,
@@ -1138,7 +1138,7 @@
         "Torkoal": 1,
         "Fidough": 2,
         "Scovillain": 1,
-        "Tarountula": 1,
+        "Tarountula": 2,
         "Keldeo": 1,
         "Cryogonal": 1,
         "Pawniard": 2,
@@ -1225,12 +1225,12 @@
         "Electabuzz": 1,
         "Prof tangrowth": 1
       },
-      "total_spawns": 807,
-      "last_spawn": "2026-06-19T22:07:37.583863"
+      "total_spawns": 811,
+      "last_spawn": "2026-06-19T22:08:17.569335"
     }
   },
   "global": {
-    "total_spawns": 8001,
+    "total_spawns": 8005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
