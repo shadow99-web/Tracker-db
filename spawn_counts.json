@@ -783,11 +783,11 @@
         "Abra": 5,
         "Toedscool": 4,
         "Trapinch": 3,
-        "Droopy tatsugiri": 2,
+        "Droopy tatsugiri": 3,
         "Grubbin": 3,
         "Golbat": 4,
         "Nidorina": 1,
-        "Trubbish": 3,
+        "Trubbish": 4,
         "Solosis": 2,
         "Skiddo": 3,
         "Venonat": 1,
@@ -923,7 +923,7 @@
         "Shinx": 4,
         "Linoone": 1,
         "Lombre": 2,
-        "Bombirdier": 5,
+        "Bombirdier": 6,
         "Roaming gimmighoul": 1,
         "Dwebble": 1,
         "Staryu": 1,
@@ -984,7 +984,7 @@
         "Spritzee": 1,
         "Swinub": 1,
         "Tropius": 1,
-        "Flamigo": 1,
+        "Flamigo": 2,
         "Talonflame": 1,
         "Cosmog": 1,
         "Lillipup": 1,
@@ -1050,7 +1050,7 @@
         "Gossifleur": 1,
         "Remoraid": 1,
         "Bramblin": 1,
-        "Beldum": 1,
+        "Beldum": 2,
         "Sandile": 1,
         "Pachirisu": 1,
         "Gothita": 1,
@@ -1061,14 +1061,16 @@
         "Scovillain": 1,
         "Tarountula": 1,
         "Keldeo": 1,
-        "Cryogonal": 1
+        "Cryogonal": 1,
+        "Pawniard": 1,
+        "Lurantis": 1
       },
-      "total_spawns": 546,
-      "last_spawn": "2026-06-19T14:04:54.483558"
+      "total_spawns": 553,
+      "last_spawn": "2026-06-19T14:06:04.588135"
     }
   },
   "global": {
-    "total_spawns": 6657,
+    "total_spawns": 6664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
