@@ -34,13 +34,13 @@
         "Litwick": 21,
         "Grubbin": 7,
         "Escavalier": 2,
-        "Dratini": 6,
+        "Dratini": 7,
         "Kilowattrel": 2,
         "Lotad": 13,
         "Qwilfish": 2,
         "Trapinch": 10,
         "Toedscool": 9,
-        "Fletchling": 8,
+        "Fletchling": 9,
         "Skiploom": 5,
         "Timburr": 11,
         "Dj rotom": 4,
@@ -109,7 +109,7 @@
         "Drakloak": 3,
         "Chewtle": 2,
         "Scizor": 1,
-        "Sneasel": 5,
+        "Sneasel": 6,
         "Bonsly": 1,
         "Horsea": 13,
         "Frigibax": 7,
@@ -219,7 +219,7 @@
         "Joltik": 7,
         "Politoed": 2,
         "Cyndaquil": 4,
-        "Fuecoco": 4,
+        "Fuecoco": 5,
         "Cyclizar": 4,
         "Magmar": 6,
         "Rillaboom": 1,
@@ -249,7 +249,7 @@
         "Dachsbun": 4,
         "Turtwig": 4,
         "Prinplup": 1,
-        "Tinkatink": 8,
+        "Tinkatink": 9,
         "Lechonk": 9,
         "Kommo-o": 1,
         "Dewott": 4,
@@ -419,8 +419,8 @@
         "Roaming gimmighoul": 6,
         "Summer sawsbuck": 1,
         "Delibird": 1,
-        "Ride cyclizar": 2,
-        "Gothorita": 3,
+        "Ride cyclizar": 3,
+        "Gothorita": 4,
         "Varoom": 7,
         "Yellow plumage squawkabilly": 2,
         "Centiskorch": 1,
@@ -466,7 +466,7 @@
         "Woobat": 2,
         "Wobbuffet": 1,
         "Roselia": 1,
-        "Shelgon": 1,
+        "Shelgon": 2,
         "Buizel": 2,
         "Arctozolt": 2,
         "Snorunt": 4,
@@ -498,7 +498,7 @@
         "Basculin": 1,
         "Throh": 1,
         "Comfey": 2,
-        "Applin": 3,
+        "Applin": 4,
         "Staraptor": 1,
         "Mimikyu": 1,
         "Alolan sandslash": 1,
@@ -666,8 +666,8 @@
         "Sizzlipede": 1,
         "White flower floette": 1
       },
-      "total_spawns": 1991,
-      "last_spawn": "2026-06-19T13:09:09.536326"
+      "total_spawns": 2000,
+      "last_spawn": "2026-06-19T13:09:39.275614"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -714,7 +714,7 @@
         "Trapinch": 1,
         "Droopy tatsugiri": 1,
         "Grubbin": 3,
-        "Golbat": 1,
+        "Golbat": 2,
         "Nidorina": 1,
         "Trubbish": 1,
         "Solosis": 2,
@@ -833,12 +833,12 @@
         "Pumpkaboo": 1,
         "Purrloin": 1
       },
-      "total_spawns": 207,
-      "last_spawn": "2026-06-19T12:50:53.226746"
+      "total_spawns": 208,
+      "last_spawn": "2026-06-19T13:09:43.890971"
     }
   },
   "global": {
-    "total_spawns": 5529,
+    "total_spawns": 5539,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
