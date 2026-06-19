@@ -168,7 +168,7 @@
         "Klawf": 14,
         "Vanillite": 16,
         "Flareon": 2,
-        "Gastly": 8,
+        "Gastly": 9,
         "Taillow": 3,
         "Swinub": 9,
         "Inkay": 7,
@@ -493,7 +493,7 @@
         "Magneton": 4,
         "Alakazam": 1,
         "Bayleef": 2,
-        "Poochyena": 2,
+        "Poochyena": 3,
         "Klinklang": 1,
         "Basculin": 1,
         "Throh": 1,
@@ -703,7 +703,7 @@
         "Litten": 3,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 4,
+        "Hatenna": 5,
         "Zoroark": 1,
         "Lucario": 1,
         "Crustle": 2,
@@ -742,10 +742,11 @@
         "Venonat": 1,
         "Pelipper": 1,
         "Metapod": 1,
-        "Kricketune": 1
+        "Kricketune": 1,
+        "Nidoqueen": 1
       },
-      "total_spawns": 2872,
-      "last_spawn": "2026-06-19T15:21:26.823232"
+      "total_spawns": 2876,
+      "last_spawn": "2026-06-19T15:21:33.025455"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1075,14 +1076,15 @@
         "Omanyte": 1,
         "Staravia": 1,
         "Probopass": 1,
-        "Thwackey": 2
+        "Thwackey": 2,
+        "Starmie": 1
       },
-      "total_spawns": 567,
-      "last_spawn": "2026-06-19T15:12:05.259861"
+      "total_spawns": 568,
+      "last_spawn": "2026-06-19T16:20:07.556103"
     }
   },
   "global": {
-    "total_spawns": 6770,
+    "total_spawns": 6775,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
