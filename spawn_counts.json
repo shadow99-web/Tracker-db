@@ -781,7 +781,7 @@
         "Chespin": 1,
         "Tadbulb": 2,
         "Garchomp": 2,
-        "Blastoise": 1,
+        "Blastoise": 2,
         "Finizen": 3,
         "Brambleghast": 2,
         "Rockruff": 1,
@@ -1083,14 +1083,16 @@
         "Primarina": 1,
         "Silcoon": 1,
         "Chandelure": 1,
-        "Phantump": 1
+        "Phantump": 1,
+        "Mienfoo": 1,
+        "Hariyama": 1
       },
-      "total_spawns": 583,
-      "last_spawn": "2026-06-19T16:22:37.579646"
+      "total_spawns": 586,
+      "last_spawn": "2026-06-19T16:23:07.850624"
     }
   },
   "global": {
-    "total_spawns": 6790,
+    "total_spawns": 6793,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
