@@ -7,7 +7,7 @@
         "Patrat": 3,
         "Mosslax": 10,
         "Drilbur": 4,
-        "Pawmi": 18,
+        "Pawmi": 20,
         "Electabuzz": 4,
         "Rellor": 14,
         "Sandy burmy": 6,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 5,
         "Numel": 8,
         "Carracosta": 1,
-        "Smearguru": 14,
+        "Smearguru": 16,
         "Veluza": 30,
         "Barboach": 4,
         "Klink": 14,
@@ -150,7 +150,7 @@
         "Dracovish": 2,
         "Bulbasaur": 7,
         "Roggenrola": 15,
-        "Pidove": 22,
+        "Pidove": 23,
         "Dragapult": 4,
         "Rattata": 8,
         "Flapple": 2,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 5,
-        "Sewaddle": 20,
+        "Sewaddle": 21,
         "Fidough": 12,
         "Noivern": 2,
         "Feraligatr": 2,
@@ -312,7 +312,7 @@
         "Flygon": 1,
         "Shellos": 2,
         "Jigglypuff": 7,
-        "Nacli": 12,
+        "Nacli": 13,
         "Munna": 1,
         "Pawniard": 2,
         "Prof tangrowth": 5,
@@ -345,7 +345,7 @@
         "Capsakid": 13,
         "Revavroom": 8,
         "Exploud": 3,
-        "Deino": 7,
+        "Deino": 8,
         "Wooper": 9,
         "Dwebble": 7,
         "Steenee": 8,
@@ -363,7 +363,7 @@
         "Mankey": 8,
         "Bidoof": 7,
         "Quilava": 10,
-        "Finizen": 18,
+        "Finizen": 19,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 10,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 3,
-        "Squirtle": 8,
+        "Squirtle": 9,
         "Remoraid": 3,
         "Torracat": 8,
         "Hisuian zorua": 1,
@@ -595,7 +595,7 @@
         "Mienfoo": 7,
         "Dewgong": 2,
         "Wartortle": 3,
-        "Cetoddle": 11,
+        "Cetoddle": 12,
         "Kricketot": 2,
         "Porygon-z": 2,
         "Conkeldurr": 1,
@@ -832,10 +832,12 @@
         "Lickilicky": 1,
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
-        "Mantyke": 1
+        "Mantyke": 1,
+        "Arctovish": 1,
+        "Ribombee": 1
       },
-      "total_spawns": 4225,
-      "last_spawn": "2026-06-19T23:09:25.494904"
+      "total_spawns": 4238,
+      "last_spawn": "2026-06-19T23:09:55.507476"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1268,7 +1270,7 @@
     }
   },
   "global": {
-    "total_spawns": 8430,
+    "total_spawns": 8443,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
