@@ -755,7 +755,7 @@
         "Rolycoly": 3,
         "Jumpluff": 1,
         "Maschiff": 3,
-        "Pidove": 3,
+        "Pidove": 4,
         "Sandygast": 4,
         "Charcadet": 6,
         "Heracross": 1,
@@ -971,7 +971,7 @@
         "Poliwhirl": 1,
         "Fletchling": 4,
         "Chewtle": 2,
-        "Klink": 2,
+        "Klink": 3,
         "Rufflet": 2,
         "Weezing": 1,
         "Heatmor": 1,
@@ -1079,14 +1079,16 @@
         "Thwackey": 2,
         "Starmie": 1,
         "Wattrel": 1,
-        "Golem": 1
+        "Golem": 1,
+        "Primarina": 1,
+        "Silcoon": 1
       },
-      "total_spawns": 571,
-      "last_spawn": "2026-06-19T16:20:37.750987"
+      "total_spawns": 575,
+      "last_spawn": "2026-06-19T16:21:17.674897"
     }
   },
   "global": {
-    "total_spawns": 6778,
+    "total_spawns": 6782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
