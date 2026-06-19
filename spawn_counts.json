@@ -36,7 +36,7 @@
         "Escavalier": 5,
         "Dratini": 10,
         "Kilowattrel": 3,
-        "Lotad": 22,
+        "Lotad": 23,
         "Qwilfish": 2,
         "Trapinch": 14,
         "Toedscool": 15,
@@ -51,7 +51,7 @@
         "Slugma": 3,
         "Grotle": 5,
         "Porygon": 11,
-        "Zubat": 24,
+        "Zubat": 26,
         "Vanillish": 6,
         "Tadbulb": 6,
         "Magnemite": 20,
@@ -190,7 +190,7 @@
         "Blue plumage squawkabilly": 3,
         "Thwackey": 5,
         "Dusk lycanroc": 3,
-        "Sunny castform": 2,
+        "Sunny castform": 3,
         "Pidgeotto": 3,
         "Spearow": 7,
         "Helioptile": 3,
@@ -218,9 +218,9 @@
         "Marill": 4,
         "Joltik": 12,
         "Politoed": 2,
-        "Cyndaquil": 5,
+        "Cyndaquil": 6,
         "Fuecoco": 6,
-        "Cyclizar": 6,
+        "Cyclizar": 7,
         "Magmar": 8,
         "Rillaboom": 1,
         "Ninetales": 2,
@@ -296,7 +296,7 @@
         "Ferroseed": 8,
         "Brionne": 2,
         "Pancham": 2,
-        "Venipede": 13,
+        "Venipede": 14,
         "Cacturne": 3,
         "Oddish": 14,
         "Dragalge": 1,
@@ -343,7 +343,7 @@
         "Mudkip": 4,
         "Charjabug": 5,
         "Capsakid": 7,
-        "Revavroom": 6,
+        "Revavroom": 7,
         "Exploud": 3,
         "Deino": 7,
         "Wooper": 6,
@@ -654,7 +654,7 @@
         "Beheeyem": 1,
         "Pinsir": 1,
         "Mothim": 1,
-        "Whirlipede": 3,
+        "Whirlipede": 4,
         "Absol": 2,
         "Annihilape": 2,
         "Bouffalant": 1,
@@ -753,10 +753,11 @@
         "Incineroar": 1,
         "Morpeko": 1,
         "Parasect": 1,
-        "Alolan muk": 1
+        "Alolan muk": 1,
+        "Iron boulder": 1
       },
-      "total_spawns": 3012,
-      "last_spawn": "2026-06-19T20:34:38.051133"
+      "total_spawns": 3022,
+      "last_spawn": "2026-06-19T20:35:08.096029"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1132,7 +1133,7 @@
     }
   },
   "global": {
-    "total_spawns": 7004,
+    "total_spawns": 7014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
