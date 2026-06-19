@@ -800,7 +800,7 @@
         "Skiddo": 3,
         "Venonat": 1,
         "Elgyem": 1,
-        "Piplup": 1,
+        "Piplup": 2,
         "Drakloak": 1,
         "Klawf": 2,
         "Exeggcute": 1,
@@ -1037,7 +1037,7 @@
         "Cetoddle": 1,
         "Incineroar": 1,
         "Tinkaton": 1,
-        "Battle cyclizar": 1,
+        "Battle cyclizar": 2,
         "Honchkrow": 1,
         "Wugtrio": 2,
         "Popplio": 1,
@@ -1092,14 +1092,16 @@
         "Lairon": 1,
         "Croagunk": 1,
         "Aron": 1,
-        "Seedot": 1
+        "Seedot": 1,
+        "Spinda": 1,
+        "Spearow": 1
       },
-      "total_spawns": 602,
-      "last_spawn": "2026-06-19T16:31:47.607916"
+      "total_spawns": 606,
+      "last_spawn": "2026-06-19T16:32:27.599297"
     }
   },
   "global": {
-    "total_spawns": 6809,
+    "total_spawns": 6813,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
