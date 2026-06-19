@@ -928,7 +928,7 @@
         "Farigiraf": 1,
         "Rookidee": 3,
         "Teddiursa": 5,
-        "Raboot": 3,
+        "Raboot": 4,
         "Chef dente": 3,
         "Rellor": 5,
         "Pelipper": 1,
@@ -1162,7 +1162,7 @@
         "Simisear": 1,
         "Lairon": 2,
         "Croagunk": 1,
-        "Aron": 3,
+        "Aron": 4,
         "Seedot": 1,
         "Spinda": 1,
         "Spearow": 1,
@@ -1236,14 +1236,15 @@
         "Comfey": 1,
         "Rowlet": 1,
         "Boldore": 1,
-        "Karrablast": 1
+        "Karrablast": 1,
+        "Tyrunt": 1
       },
-      "total_spawns": 859,
-      "last_spawn": "2026-06-19T22:18:37.645247"
+      "total_spawns": 862,
+      "last_spawn": "2026-06-19T22:19:10.018098"
     }
   },
   "global": {
-    "total_spawns": 8053,
+    "total_spawns": 8056,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
