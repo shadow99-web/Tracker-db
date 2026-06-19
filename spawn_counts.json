@@ -29,12 +29,12 @@
         "Charmander": 4,
         "Morelull": 1,
         "Abra": 14,
-        "Sandile": 12,
+        "Sandile": 13,
         "Sandygast": 4,
         "Litwick": 22,
         "Grubbin": 8,
         "Escavalier": 4,
-        "Dratini": 9,
+        "Dratini": 10,
         "Kilowattrel": 2,
         "Lotad": 19,
         "Qwilfish": 2,
@@ -129,7 +129,7 @@
         "Zigzagoon": 7,
         "Weedle": 26,
         "Flamigo": 7,
-        "Lillipup": 15,
+        "Lillipup": 16,
         "Shinx": 13,
         "Bounsweet": 9,
         "Noibat": 4,
@@ -163,10 +163,10 @@
         "Tepig": 11,
         "Kirlia": 2,
         "Piplup": 2,
-        "Kakuna": 5,
+        "Kakuna": 6,
         "Weepinbell": 2,
         "Klawf": 11,
-        "Vanillite": 13,
+        "Vanillite": 14,
         "Flareon": 2,
         "Gastly": 6,
         "Taillow": 3,
@@ -712,10 +712,11 @@
         "Durant": 1,
         "Grovyle": 1,
         "Snowy castform": 1,
-        "Gengar": 1
+        "Gengar": 1,
+        "Forretress": 1
       },
-      "total_spawns": 2447,
-      "last_spawn": "2026-06-19T13:39:39.363732"
+      "total_spawns": 2453,
+      "last_spawn": "2026-06-19T13:40:12.999749"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -938,7 +939,7 @@
         "Seadra": 4,
         "Gigalith": 1,
         "Poliwhirl": 1,
-        "Fletchling": 3,
+        "Fletchling": 4,
         "Chewtle": 1,
         "Klink": 2,
         "Rufflet": 2,
@@ -972,14 +973,17 @@
         "Gurdurr": 1,
         "Magneton": 1,
         "Dragonite": 1,
-        "Dratini": 1
+        "Dratini": 1,
+        "Meganium": 2,
+        "Scyther": 1,
+        "Tirtouga": 1
       },
-      "total_spawns": 391,
-      "last_spawn": "2026-06-19T13:39:43.899572"
+      "total_spawns": 396,
+      "last_spawn": "2026-06-19T13:40:10.491088"
     }
   },
   "global": {
-    "total_spawns": 6169,
+    "total_spawns": 6180,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
