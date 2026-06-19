@@ -54,7 +54,7 @@
         "Zubat": 14,
         "Vanillish": 6,
         "Tadbulb": 3,
-        "Magnemite": 11,
+        "Magnemite": 12,
         "Whismur": 6,
         "Monferno": 6,
         "Skwovet": 1,
@@ -74,9 +74,9 @@
         "Fomantis": 3,
         "Droopy tatsugiri": 8,
         "Froslass": 3,
-        "Tarountula": 2,
+        "Tarountula": 3,
         "Hatterene": 1,
-        "Phantump": 3,
+        "Phantump": 5,
         "Duosion": 2,
         "Amaura": 4,
         "Gimmighoul": 12,
@@ -149,14 +149,14 @@
         "Deoxys": 1,
         "Dracovish": 2,
         "Bulbasaur": 5,
-        "Roggenrola": 6,
+        "Roggenrola": 7,
         "Pidove": 13,
         "Dragapult": 1,
         "Rattata": 5,
         "Flapple": 1,
         "Aron": 11,
         "Boldore": 2,
-        "Spinarak": 4,
+        "Spinarak": 5,
         "Delcatty": 2,
         "Spiritomb": 1,
         "Yamper": 4,
@@ -262,7 +262,7 @@
         "Tirtouga": 5,
         "Furret": 1,
         "Nincada": 3,
-        "Fennekin": 8,
+        "Fennekin": 9,
         "Quaxwell": 2,
         "Vibrava": 2,
         "Loudred": 1,
@@ -593,7 +593,7 @@
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 2,
-        "Dewgong": 1,
+        "Dewgong": 2,
         "Wartortle": 2,
         "Cetoddle": 3,
         "Kricketot": 1,
@@ -659,10 +659,12 @@
         "Annihilape": 1,
         "Bouffalant": 1,
         "Crabrawler": 1,
-        "Budew": 1
+        "Budew": 1,
+        "Espathra": 1,
+        "Vileplume": 1
       },
-      "total_spawns": 1946,
-      "last_spawn": "2026-06-19T13:06:09.511027"
+      "total_spawns": 1956,
+      "last_spawn": "2026-06-19T13:06:49.344085"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -833,7 +835,7 @@
     }
   },
   "global": {
-    "total_spawns": 5484,
+    "total_spawns": 5494,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
