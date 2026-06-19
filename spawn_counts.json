@@ -172,7 +172,7 @@
         "Taillow": 3,
         "Swinub": 7,
         "Inkay": 6,
-        "Gible": 7,
+        "Gible": 8,
         "Rookidee": 8,
         "Minccino": 4,
         "Wurmple": 9,
@@ -241,7 +241,7 @@
         "Galvantula": 1,
         "Chansey": 6,
         "Shroodle": 11,
-        "Duskull": 12,
+        "Duskull": 13,
         "Bergmite": 3,
         "Pignite": 3,
         "Lurantis": 1,
@@ -737,8 +737,8 @@
         "Hippowdon": 1,
         "Lumineon": 1
       },
-      "total_spawns": 2781,
-      "last_spawn": "2026-06-19T15:16:28.904733"
+      "total_spawns": 2783,
+      "last_spawn": "2026-06-19T15:17:03.577909"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1075,7 +1075,7 @@
     }
   },
   "global": {
-    "total_spawns": 6679,
+    "total_spawns": 6681,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
