@@ -25,7 +25,7 @@
         "Machop": 19,
         "Dudunsparce": 4,
         "Gothita": 23,
-        "Impidimp": 20,
+        "Impidimp": 21,
         "Charmander": 9,
         "Morelull": 2,
         "Abra": 25,
@@ -40,7 +40,7 @@
         "Qwilfish": 4,
         "Trapinch": 26,
         "Toedscool": 25,
-        "Fletchling": 19,
+        "Fletchling": 20,
         "Skiploom": 7,
         "Timburr": 18,
         "Dj rotom": 15,
@@ -100,7 +100,7 @@
         "Numel": 10,
         "Carracosta": 1,
         "Smearguru": 18,
-        "Veluza": 32,
+        "Veluza": 33,
         "Barboach": 6,
         "Klink": 15,
         "Honedge": 39,
@@ -138,7 +138,7 @@
         "Croconaw": 8,
         "Phanpy": 2,
         "Brambleghast": 5,
-        "Pidgey": 33,
+        "Pidgey": 34,
         "Rhyhorn": 23,
         "Sentret": 5,
         "Yungoos": 3,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 6,
         "Shroodle": 20,
-        "Duskull": 23,
+        "Duskull": 24,
         "Bergmite": 4,
         "Pignite": 7,
         "Lurantis": 1,
@@ -431,7 +431,7 @@
         "Flaaffy": 3,
         "Pecharunt": 1,
         "Feebas": 6,
-        "Buneary": 5,
+        "Buneary": 6,
         "Zebstrika": 1,
         "Shuppet": 6,
         "Paldean wooper": 3,
@@ -566,7 +566,7 @@
         "Slowking": 1,
         "Lilligant": 2,
         "Rabsca": 4,
-        "Gulpin": 6,
+        "Gulpin": 7,
         "Crawdaunt": 3,
         "Magmortar": 1,
         "Palossand": 1,
@@ -626,7 +626,7 @@
         "Malamar": 2,
         "Frost rotom": 1,
         "Tatsugiri": 6,
-        "Nidorino": 3,
+        "Nidorino": 5,
         "Wailmer": 5,
         "Krabby": 2,
         "Bronzong": 3,
@@ -638,7 +638,7 @@
         "Glalie": 2,
         "Latios": 1,
         "Silicobra": 4,
-        "Snom": 2,
+        "Snom": 3,
         "East sea shellos": 3,
         "Corsola": 4,
         "Venomoth": 3,
@@ -857,10 +857,11 @@
         "Heatmor": 1,
         "Dubwool": 1,
         "Shuckle": 1,
-        "Hydreigon": 1
+        "Hydreigon": 1,
+        "Alolan vulpix": 1
       },
-      "total_spawns": 4850,
-      "last_spawn": "2026-06-19T23:32:09.577249"
+      "total_spawns": 4861,
+      "last_spawn": "2026-06-19T23:32:35.588855"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1287,14 +1288,15 @@
         "Diggersby": 1,
         "Cherubi": 1,
         "Clauncher": 1,
-        "Dodrio": 1
+        "Dodrio": 1,
+        "Toedscruel": 1
       },
-      "total_spawns": 875,
-      "last_spawn": "2026-06-19T23:26:08.887048"
+      "total_spawns": 876,
+      "last_spawn": "2026-06-20T00:28:47.610540"
     }
   },
   "global": {
-    "total_spawns": 9056,
+    "total_spawns": 9068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
