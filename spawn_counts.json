@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 6,
+        "Chimchar": 7,
         "Patrat": 3,
         "Mosslax": 9,
         "Drilbur": 3,
@@ -138,7 +138,7 @@
         "Croconaw": 7,
         "Phanpy": 1,
         "Brambleghast": 4,
-        "Pidgey": 19,
+        "Pidgey": 20,
         "Rhyhorn": 12,
         "Sentret": 4,
         "Yungoos": 2,
@@ -193,7 +193,7 @@
         "Sunny castform": 2,
         "Pidgeotto": 3,
         "Spearow": 5,
-        "Helioptile": 2,
+        "Helioptile": 3,
         "Hoothoot": 5,
         "Grookey": 8,
         "Meditite": 1,
@@ -224,7 +224,7 @@
         "Magmar": 8,
         "Rillaboom": 1,
         "Ninetales": 2,
-        "Wattrel": 11,
+        "Wattrel": 12,
         "Snubbull": 3,
         "Spidops": 3,
         "Braixen": 3,
@@ -268,7 +268,7 @@
         "Loudred": 1,
         "Ceruledge": 10,
         "Houndour": 9,
-        "Glimmet": 13,
+        "Glimmet": 14,
         "Goomy": 6,
         "Zapdos": 1,
         "Natu": 4,
@@ -549,7 +549,7 @@
         "Dragonair": 2,
         "Zweilous": 4,
         "Karrablast": 2,
-        "Shroomish": 4,
+        "Shroomish": 5,
         "Snover": 5,
         "Drednaw": 1,
         "Skarmory": 1,
@@ -592,11 +592,11 @@
         "Darmanitan": 1,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
-        "Mienfoo": 4,
+        "Mienfoo": 5,
         "Dewgong": 2,
         "Wartortle": 2,
         "Cetoddle": 6,
-        "Kricketot": 1,
+        "Kricketot": 2,
         "Porygon-z": 2,
         "Conkeldurr": 1,
         "Walking wake": 1,
@@ -736,8 +736,8 @@
         "Alolan rattata": 1,
         "Hippowdon": 1
       },
-      "total_spawns": 2750,
-      "last_spawn": "2026-06-19T14:01:38.492120"
+      "total_spawns": 2758,
+      "last_spawn": "2026-06-19T14:02:13.375619"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -832,7 +832,7 @@
         "Numel": 2,
         "Tranquill": 1,
         "Quaquaval": 1,
-        "Frigibax": 1,
+        "Frigibax": 2,
         "Bellossom": 1,
         "Archeops": 1,
         "Quaxly": 3,
@@ -1036,7 +1036,7 @@
         "Helioptile": 1,
         "Salandit": 1,
         "Golisopod": 1,
-        "Quilladin": 1,
+        "Quilladin": 2,
         "Tyrogue": 1,
         "Drampa": 1,
         "Spewpa": 1,
@@ -1050,14 +1050,15 @@
         "Remoraid": 1,
         "Bramblin": 1,
         "Beldum": 1,
-        "Sandile": 1
+        "Sandile": 1,
+        "Pachirisu": 1
       },
-      "total_spawns": 525,
-      "last_spawn": "2026-06-19T14:01:34.671504"
+      "total_spawns": 528,
+      "last_spawn": "2026-06-19T14:02:03.948318"
     }
   },
   "global": {
-    "total_spawns": 6606,
+    "total_spawns": 6617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
