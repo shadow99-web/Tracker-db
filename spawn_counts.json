@@ -826,7 +826,7 @@
         "Rolycoly": 4,
         "Jumpluff": 1,
         "Maschiff": 5,
-        "Pidove": 4,
+        "Pidove": 5,
         "Sandygast": 4,
         "Charcadet": 6,
         "Heracross": 1,
@@ -1053,7 +1053,7 @@
         "Stunky": 1,
         "Nickit": 1,
         "Yamper": 2,
-        "Lotad": 5,
+        "Lotad": 6,
         "Klinklang": 1,
         "Wartortle": 1,
         "Grumpig": 1,
@@ -1104,7 +1104,7 @@
         "Slowpoke": 2,
         "Foongus": 1,
         "Buizel": 1,
-        "Dreepy": 1,
+        "Dreepy": 2,
         "Cetoddle": 1,
         "Incineroar": 1,
         "Tinkaton": 1,
@@ -1137,7 +1137,7 @@
         "Pansage": 1,
         "Torkoal": 1,
         "Fidough": 2,
-        "Scovillain": 1,
+        "Scovillain": 2,
         "Tarountula": 2,
         "Keldeo": 1,
         "Cryogonal": 1,
@@ -1228,12 +1228,12 @@
         "Pidgey": 2,
         "Swalot": 1
       },
-      "total_spawns": 825,
-      "last_spawn": "2026-06-19T22:12:48.108345"
+      "total_spawns": 829,
+      "last_spawn": "2026-06-19T22:13:37.641084"
     }
   },
   "global": {
-    "total_spawns": 8019,
+    "total_spawns": 8023,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
