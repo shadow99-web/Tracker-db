@@ -51,7 +51,7 @@
         "Slugma": 2,
         "Grotle": 3,
         "Porygon": 7,
-        "Zubat": 16,
+        "Zubat": 17,
         "Vanillish": 6,
         "Tadbulb": 3,
         "Magnemite": 12,
@@ -95,7 +95,7 @@
         "Hoppip": 8,
         "Sandslash": 1,
         "Kabuto": 5,
-        "Scatterbug": 8,
+        "Scatterbug": 9,
         "Pumpkaboo": 2,
         "Numel": 2,
         "Carracosta": 1,
@@ -229,7 +229,7 @@
         "Spidops": 3,
         "Braixen": 2,
         "Drowzee": 5,
-        "Blipbug": 7,
+        "Blipbug": 8,
         "Lampent": 6,
         "Petilil": 2,
         "Marshtomp": 2,
@@ -267,7 +267,7 @@
         "Vibrava": 2,
         "Loudred": 1,
         "Ceruledge": 6,
-        "Houndour": 6,
+        "Houndour": 7,
         "Glimmet": 10,
         "Goomy": 3,
         "Zapdos": 1,
@@ -490,7 +490,7 @@
         "Dottler": 2,
         "Eevee": 2,
         "Copperajah": 1,
-        "Magneton": 3,
+        "Magneton": 4,
         "Alakazam": 1,
         "Bayleef": 2,
         "Poochyena": 2,
@@ -583,7 +583,7 @@
         "Anorith": 2,
         "Meowth": 1,
         "Combee": 1,
-        "Fletchinder": 1,
+        "Fletchinder": 2,
         "Kingambit": 1,
         "Clodsire": 1,
         "Blaze breed tauros": 1,
@@ -671,10 +671,12 @@
         "Krookodile": 1,
         "Primeape": 1,
         "Grimer": 1,
-        "Crabominable": 1
+        "Crabominable": 1,
+        "Quaquaval": 1,
+        "Sprigatito": 1
       },
-      "total_spawns": 2074,
-      "last_spawn": "2026-06-19T13:14:39.319432"
+      "total_spawns": 2082,
+      "last_spawn": "2026-06-19T13:15:14.687990"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -699,7 +701,7 @@
         "Kilowattrel": 1,
         "Magnemite": 2,
         "Gyarados": 1,
-        "Starly": 3,
+        "Starly": 4,
         "Gimmighoul": 1,
         "Psyduck": 2,
         "Geodude": 1,
@@ -853,14 +855,16 @@
         "Blipbug": 2,
         "Gabite": 1,
         "Litten": 1,
-        "Infernape": 1
+        "Infernape": 1,
+        "Slugma": 1,
+        "Togepi": 1
       },
-      "total_spawns": 237,
-      "last_spawn": "2026-06-19T13:14:44.007686"
+      "total_spawns": 240,
+      "last_spawn": "2026-06-19T13:15:13.961425"
     }
   },
   "global": {
-    "total_spawns": 5642,
+    "total_spawns": 5653,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
