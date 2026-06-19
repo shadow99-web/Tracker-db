@@ -912,7 +912,7 @@
         "Numel": 2,
         "Tranquill": 2,
         "Quaquaval": 1,
-        "Frigibax": 2,
+        "Frigibax": 3,
         "Bellossom": 1,
         "Archeops": 1,
         "Quaxly": 4,
@@ -1153,7 +1153,7 @@
         "Golem": 1,
         "Primarina": 1,
         "Silcoon": 1,
-        "Chandelure": 2,
+        "Chandelure": 3,
         "Phantump": 4,
         "Mienfoo": 2,
         "Hariyama": 1,
@@ -1232,14 +1232,15 @@
         "Woobat": 1,
         "Skorupi": 1,
         "Skrelp": 1,
-        "Cacnea": 1
+        "Cacnea": 1,
+        "Comfey": 1
       },
-      "total_spawns": 844,
-      "last_spawn": "2026-06-19T22:16:08.136106"
+      "total_spawns": 847,
+      "last_spawn": "2026-06-19T22:16:39.172525"
     }
   },
   "global": {
-    "total_spawns": 8038,
+    "total_spawns": 8041,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
