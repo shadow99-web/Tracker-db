@@ -58,7 +58,7 @@
         "Whismur": 15,
         "Monferno": 7,
         "Skwovet": 1,
-        "Bramblin": 18,
+        "Bramblin": 19,
         "Yanma": 5,
         "Larvesta": 12,
         "Beldum": 14,
@@ -168,7 +168,7 @@
         "Klawf": 15,
         "Vanillite": 16,
         "Flareon": 2,
-        "Gastly": 11,
+        "Gastly": 12,
         "Taillow": 3,
         "Swinub": 10,
         "Inkay": 8,
@@ -258,7 +258,7 @@
         "Vullaby": 3,
         "Cetitan": 3,
         "Cubone": 5,
-        "Gligar": 6,
+        "Gligar": 7,
         "Tirtouga": 7,
         "Furret": 1,
         "Nincada": 9,
@@ -305,7 +305,7 @@
         "Toxapex": 1,
         "Lileep": 4,
         "Rolycoly": 11,
-        "Bronzor": 5,
+        "Bronzor": 6,
         "Dartrix": 4,
         "Yellow flower florges": 2,
         "Zangoose": 2,
@@ -323,7 +323,7 @@
         "Oshawott": 4,
         "Murkrow": 7,
         "Bellsprout": 14,
-        "Mudbray": 5,
+        "Mudbray": 6,
         "Dreepy": 14,
         "Tinkaton": 1,
         "Corviknight": 3,
@@ -535,7 +535,7 @@
         "Trevenant": 2,
         "Trubbish": 1,
         "Zorua": 5,
-        "Archen": 4,
+        "Archen": 5,
         "Oinkologne": 3,
         "Onix": 1,
         "Vanilluxe": 1,
@@ -641,7 +641,7 @@
         "Snom": 1,
         "East sea shellos": 1,
         "Corsola": 3,
-        "Venomoth": 1,
+        "Venomoth": 2,
         "Trumbeak": 2,
         "Aerodactyl": 2,
         "Igglybuff": 2,
@@ -658,7 +658,7 @@
         "Absol": 2,
         "Annihilape": 2,
         "Bouffalant": 1,
-        "Crabrawler": 1,
+        "Crabrawler": 2,
         "Budew": 1,
         "Espathra": 3,
         "Vileplume": 2,
@@ -739,7 +739,7 @@
         "Thievul": 2,
         "Greedent": 1,
         "Ekans": 1,
-        "Venonat": 1,
+        "Venonat": 2,
         "Pelipper": 2,
         "Metapod": 2,
         "Kricketune": 2,
@@ -776,10 +776,12 @@
         "Scolipede": 1,
         "Marowak": 1,
         "Chingling": 1,
-        "Beedrill": 1
+        "Beedrill": 1,
+        "Whimsicott": 1,
+        "Wishiwashi": 1
       },
-      "total_spawns": 3325,
-      "last_spawn": "2026-06-19T20:49:38.180733"
+      "total_spawns": 3336,
+      "last_spawn": "2026-06-19T20:50:09.058075"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1162,7 +1164,7 @@
     }
   },
   "global": {
-    "total_spawns": 7358,
+    "total_spawns": 7369,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
