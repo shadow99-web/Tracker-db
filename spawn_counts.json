@@ -36,7 +36,7 @@
         "Escavalier": 3,
         "Dratini": 7,
         "Kilowattrel": 2,
-        "Lotad": 14,
+        "Lotad": 15,
         "Qwilfish": 2,
         "Trapinch": 11,
         "Toedscool": 9,
@@ -74,7 +74,7 @@
         "Fomantis": 3,
         "Droopy tatsugiri": 9,
         "Froslass": 3,
-        "Tarountula": 3,
+        "Tarountula": 4,
         "Hatterene": 1,
         "Phantump": 5,
         "Duosion": 2,
@@ -165,7 +165,7 @@
         "Piplup": 2,
         "Kakuna": 5,
         "Weepinbell": 2,
-        "Klawf": 9,
+        "Klawf": 10,
         "Vanillite": 12,
         "Flareon": 2,
         "Gastly": 5,
@@ -175,7 +175,7 @@
         "Gible": 5,
         "Rookidee": 8,
         "Minccino": 3,
-        "Wurmple": 7,
+        "Wurmple": 8,
         "Binacle": 2,
         "Grafaiai": 3,
         "Quilladin": 1,
@@ -328,7 +328,7 @@
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 3,
-        "Nymble": 13,
+        "Nymble": 14,
         "Ferrothorn": 1,
         "Servine": 4,
         "Blitzle": 3,
@@ -549,7 +549,7 @@
         "Dragonair": 1,
         "Zweilous": 3,
         "Karrablast": 1,
-        "Shroomish": 2,
+        "Shroomish": 3,
         "Snover": 3,
         "Drednaw": 1,
         "Skarmory": 1,
@@ -566,7 +566,7 @@
         "Slowking": 1,
         "Lilligant": 1,
         "Rabsca": 1,
-        "Gulpin": 1,
+        "Gulpin": 2,
         "Crawdaunt": 2,
         "Magmortar": 1,
         "Palossand": 1,
@@ -695,10 +695,11 @@
         "Panpour": 2,
         "Tinkatuff": 1,
         "Bruxish": 1,
-        "Corvisquire": 1
+        "Corvisquire": 1,
+        "Mantine": 1
       },
-      "total_spawns": 2254,
-      "last_spawn": "2026-06-19T13:26:40.828998"
+      "total_spawns": 2262,
+      "last_spawn": "2026-06-19T13:27:14.756632"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -740,7 +741,7 @@
         "Snubbull": 2,
         "Koffing": 1,
         "Paras": 2,
-        "Abra": 2,
+        "Abra": 3,
         "Toedscool": 2,
         "Trapinch": 2,
         "Droopy tatsugiri": 1,
@@ -916,14 +917,16 @@
         "Peakychu": 1,
         "Alolan geodude": 1,
         "Tentacool": 1,
-        "Deino": 1
+        "Deino": 1,
+        "Vanillish": 1,
+        "Seadra": 1
       },
-      "total_spawns": 298,
-      "last_spawn": "2026-06-19T13:26:43.895656"
+      "total_spawns": 301,
+      "last_spawn": "2026-06-19T13:27:13.888578"
     }
   },
   "global": {
-    "total_spawns": 5883,
+    "total_spawns": 5894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
