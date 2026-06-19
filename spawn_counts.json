@@ -36,7 +36,7 @@
         "Escavalier": 3,
         "Dratini": 7,
         "Kilowattrel": 2,
-        "Lotad": 13,
+        "Lotad": 14,
         "Qwilfish": 2,
         "Trapinch": 11,
         "Toedscool": 9,
@@ -44,7 +44,7 @@
         "Skiploom": 6,
         "Timburr": 13,
         "Dj rotom": 4,
-        "Surskit": 7,
+        "Surskit": 8,
         "Seedot": 3,
         "Skitty": 2,
         "Greavard": 6,
@@ -234,7 +234,7 @@
         "Petilil": 2,
         "Marshtomp": 2,
         "Eiscue": 1,
-        "Summer deerling": 5,
+        "Summer deerling": 6,
         "Clauncher": 2,
         "Clobbopus": 1,
         "Omanyte": 4,
@@ -282,7 +282,7 @@
         "Crocalor": 5,
         "Cryogonal": 1,
         "Eternatus": 1,
-        "Gholdengo": 4,
+        "Gholdengo": 5,
         "Charmeleon": 2,
         "Dipplin": 1,
         "Cramorant": 1,
@@ -324,7 +324,7 @@
         "Murkrow": 1,
         "Bellsprout": 7,
         "Mudbray": 3,
-        "Dreepy": 9,
+        "Dreepy": 10,
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 3,
@@ -558,7 +558,7 @@
         "Araquanid": 1,
         "Kadabra": 3,
         "Chandelure": 1,
-        "Ponyta": 2,
+        "Ponyta": 3,
         "Togekiss": 1,
         "Braviary": 1,
         "Raboot": 1,
@@ -648,7 +648,7 @@
         "Archeops": 1,
         "Shiftry": 1,
         "Arbok": 1,
-        "Stretchy tatsugiri": 1,
+        "Stretchy tatsugiri": 2,
         "Mareanie": 1,
         "Seadra": 1,
         "Beheeyem": 1,
@@ -681,10 +681,11 @@
         "Arcanine": 1,
         "Oranguru": 1,
         "Poliwrath": 1,
-        "Blaziken": 1
+        "Blaziken": 1,
+        "Stantler": 1
       },
-      "total_spawns": 2146,
-      "last_spawn": "2026-06-19T13:19:31.366218"
+      "total_spawns": 2154,
+      "last_spawn": "2026-06-19T13:20:00.493766"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -835,7 +836,7 @@
         "Squawkabilly": 1,
         "Ekans": 2,
         "Bagon": 2,
-        "Impidimp": 1,
+        "Impidimp": 2,
         "Sizzlipede": 1,
         "Spidops": 1,
         "Mantyke": 1,
@@ -884,14 +885,16 @@
         "Nincada": 1,
         "Rhyhorn": 1,
         "Ferrothorn": 1,
-        "Steenee": 1
+        "Steenee": 1,
+        "Arboliva": 1,
+        "Pawmi": 1
       },
-      "total_spawns": 266,
-      "last_spawn": "2026-06-19T13:19:33.874451"
+      "total_spawns": 269,
+      "last_spawn": "2026-06-19T13:20:04.016937"
     }
   },
   "global": {
-    "total_spawns": 5743,
+    "total_spawns": 5754,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
