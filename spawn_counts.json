@@ -763,7 +763,7 @@
         "Dondozo": 1,
         "Mareep": 2,
         "Ferroseed": 2,
-        "Glimmet": 7,
+        "Glimmet": 8,
         "Kabuto": 1,
         "Oddish": 5,
         "Grovyle": 2,
@@ -1083,7 +1083,7 @@
         "Primarina": 1,
         "Silcoon": 1,
         "Chandelure": 1,
-        "Phantump": 1,
+        "Phantump": 2,
         "Mienfoo": 1,
         "Hariyama": 1,
         "Yamask": 1,
@@ -1103,14 +1103,19 @@
         "Ursaring": 1,
         "Clodsire": 1,
         "Drednaw": 1,
-        "Tangela": 1
+        "Tangela": 1,
+        "Ledyba": 1,
+        "Mabosstiff": 1,
+        "Scraggy": 1,
+        "Cofagrigus": 1,
+        "Tyranitar": 1
       },
-      "total_spawns": 632,
-      "last_spawn": "2026-06-19T16:36:38.819028"
+      "total_spawns": 639,
+      "last_spawn": "2026-06-19T16:37:47.623069"
     }
   },
   "global": {
-    "total_spawns": 6839,
+    "total_spawns": 6846,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
