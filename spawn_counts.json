@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 5,
+        "Chimchar": 6,
         "Patrat": 2,
         "Mosslax": 4,
         "Drilbur": 3,
@@ -42,7 +42,7 @@
         "Toedscool": 9,
         "Fletchling": 11,
         "Skiploom": 6,
-        "Timburr": 12,
+        "Timburr": 13,
         "Dj rotom": 4,
         "Surskit": 7,
         "Seedot": 3,
@@ -114,7 +114,7 @@
         "Horsea": 13,
         "Frigibax": 7,
         "Spheal": 13,
-        "Swadloon": 3,
+        "Swadloon": 4,
         "Flittle": 7,
         "Unfezant": 1,
         "Yamask": 3,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 2,
         "Sunny castform": 2,
         "Pidgeotto": 3,
-        "Spearow": 3,
+        "Spearow": 4,
         "Helioptile": 2,
         "Hoothoot": 5,
         "Grookey": 6,
@@ -279,7 +279,7 @@
         "Rowlet": 3,
         "Galarian slowpoke": 1,
         "Poliwhirl": 2,
-        "Crocalor": 4,
+        "Crocalor": 5,
         "Cryogonal": 1,
         "Eternatus": 1,
         "Gholdengo": 4,
@@ -466,7 +466,7 @@
         "Woobat": 2,
         "Wobbuffet": 1,
         "Roselia": 1,
-        "Shelgon": 3,
+        "Shelgon": 4,
         "Buizel": 2,
         "Arctozolt": 2,
         "Snorunt": 4,
@@ -680,10 +680,11 @@
         "Golurk": 1,
         "Arcanine": 1,
         "Oranguru": 1,
-        "Poliwrath": 1
+        "Poliwrath": 1,
+        "Blaziken": 1
       },
-      "total_spawns": 2139,
-      "last_spawn": "2026-06-19T13:19:00.258231"
+      "total_spawns": 2146,
+      "last_spawn": "2026-06-19T13:19:31.366218"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -793,7 +794,7 @@
         "Forretress": 2,
         "Farigiraf": 1,
         "Rookidee": 3,
-        "Teddiursa": 1,
+        "Teddiursa": 2,
         "Raboot": 1,
         "Chef dente": 2,
         "Rellor": 1,
@@ -867,7 +868,7 @@
         "Togepi": 1,
         "Shinx": 1,
         "Linoone": 1,
-        "Lombre": 1,
+        "Lombre": 2,
         "Bombirdier": 1,
         "Roaming gimmighoul": 1,
         "Dwebble": 1,
@@ -882,14 +883,15 @@
         "Hatenna": 1,
         "Nincada": 1,
         "Rhyhorn": 1,
-        "Ferrothorn": 1
+        "Ferrothorn": 1,
+        "Steenee": 1
       },
-      "total_spawns": 263,
-      "last_spawn": "2026-06-19T13:19:03.806319"
+      "total_spawns": 266,
+      "last_spawn": "2026-06-19T13:19:33.874451"
     }
   },
   "global": {
-    "total_spawns": 5733,
+    "total_spawns": 5743,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
