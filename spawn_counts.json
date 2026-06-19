@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 6,
         "Patrat": 3,
-        "Mosslax": 5,
+        "Mosslax": 6,
         "Drilbur": 3,
         "Pawmi": 9,
         "Electabuzz": 3,
@@ -22,7 +22,7 @@
         "Tangela": 4,
         "Orbeetle": 1,
         "Dedenne": 1,
-        "Machop": 10,
+        "Machop": 11,
         "Dudunsparce": 1,
         "Gothita": 12,
         "Impidimp": 9,
@@ -39,7 +39,7 @@
         "Lotad": 15,
         "Qwilfish": 2,
         "Trapinch": 11,
-        "Toedscool": 9,
+        "Toedscool": 10,
         "Fletchling": 11,
         "Skiploom": 6,
         "Timburr": 13,
@@ -72,7 +72,7 @@
         "Clefairy": 1,
         "Spinda": 1,
         "Fomantis": 3,
-        "Droopy tatsugiri": 9,
+        "Droopy tatsugiri": 10,
         "Froslass": 3,
         "Tarountula": 4,
         "Hatterene": 1,
@@ -103,7 +103,7 @@
         "Veluza": 18,
         "Barboach": 2,
         "Klink": 8,
-        "Honedge": 22,
+        "Honedge": 23,
         "Wingull": 3,
         "Salamence": 1,
         "Drakloak": 3,
@@ -499,7 +499,7 @@
         "Throh": 1,
         "Comfey": 2,
         "Applin": 4,
-        "Staraptor": 1,
+        "Staraptor": 2,
         "Mimikyu": 1,
         "Alolan sandslash": 1,
         "Empoleon": 1,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 2,
-        "Nickit": 3,
+        "Nickit": 4,
         "Ivysaur": 3,
         "Milcery": 3,
         "Gabite": 1,
@@ -702,10 +702,11 @@
         "Hero palafin": 1,
         "Litten": 1,
         "Abomasnow": 1,
-        "Espeon": 1
+        "Espeon": 1,
+        "Hatenna": 1
       },
-      "total_spawns": 2327,
-      "last_spawn": "2026-06-19T13:31:37.171563"
+      "total_spawns": 2335,
+      "last_spawn": "2026-06-19T13:32:11.983649"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -786,12 +787,12 @@
         "Whismur": 1,
         "Misdreavus": 1,
         "Carkol": 1,
-        "Pikipek": 2,
+        "Pikipek": 3,
         "Capsakid": 5,
         "Natu": 1,
         "Politoed": 1,
         "Gastly": 4,
-        "Slakoth": 1,
+        "Slakoth": 2,
         "Machop": 3,
         "Roselia": 1,
         "Pidgeotto": 1,
@@ -876,7 +877,7 @@
         "Sewaddle": 2,
         "Monferno": 1,
         "Drowzee": 1,
-        "Gloom": 2,
+        "Gloom": 3,
         "Froslass": 2,
         "Electrike": 1,
         "Tynamo": 2,
@@ -890,7 +891,7 @@
         "Shinx": 1,
         "Linoone": 1,
         "Lombre": 2,
-        "Bombirdier": 1,
+        "Bombirdier": 2,
         "Roaming gimmighoul": 1,
         "Dwebble": 1,
         "Staryu": 1,
@@ -928,7 +929,7 @@
         "Seadra": 1,
         "Gigalith": 1,
         "Poliwhirl": 1,
-        "Fletchling": 1,
+        "Fletchling": 2,
         "Chewtle": 1,
         "Klink": 1,
         "Rufflet": 2,
@@ -944,14 +945,16 @@
         "Lotad": 1,
         "Klinklang": 1,
         "Wartortle": 1,
-        "Grumpig": 1
+        "Grumpig": 1,
+        "Bellsprout": 1,
+        "Weedle": 1
       },
-      "total_spawns": 330,
-      "last_spawn": "2026-06-19T13:31:35.521746"
+      "total_spawns": 337,
+      "last_spawn": "2026-06-19T13:32:11.975873"
     }
   },
   "global": {
-    "total_spawns": 5988,
+    "total_spawns": 6003,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
