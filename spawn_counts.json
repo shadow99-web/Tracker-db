@@ -84,7 +84,7 @@
         "Mareep": 16,
         "Garbodor": 1,
         "Slakoth": 15,
-        "Togepi": 4,
+        "Togepi": 5,
         "Falinks": 2,
         "Tropius": 1,
         "Poliwag": 11,
@@ -119,7 +119,7 @@
         "Unfezant": 2,
         "Yamask": 3,
         "Ralts": 7,
-        "Solosis": 10,
+        "Solosis": 11,
         "Battle cyclizar": 5,
         "Togetic": 3,
         "Palpitoad": 1,
@@ -179,7 +179,7 @@
         "Binacle": 5,
         "Grafaiai": 5,
         "Quilladin": 2,
-        "Geodude": 10,
+        "Geodude": 11,
         "Espurr": 3,
         "Cottonee": 2,
         "Elgyem": 1,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 3,
         "Pidgeotto": 3,
-        "Spearow": 8,
+        "Spearow": 9,
         "Helioptile": 3,
         "Hoothoot": 7,
         "Grookey": 9,
@@ -210,7 +210,7 @@
         "Aipom": 5,
         "Growlithe": 3,
         "Sewaddle": 15,
-        "Fidough": 9,
+        "Fidough": 10,
         "Noivern": 2,
         "Feraligatr": 2,
         "Tynamo": 17,
@@ -298,7 +298,7 @@
         "Pancham": 2,
         "Venipede": 17,
         "Cacturne": 3,
-        "Oddish": 17,
+        "Oddish": 18,
         "Dragalge": 1,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -347,7 +347,7 @@
         "Exploud": 3,
         "Deino": 7,
         "Wooper": 8,
-        "Dwebble": 5,
+        "Dwebble": 6,
         "Steenee": 5,
         "Darumaka": 6,
         "Arboliva": 2,
@@ -360,7 +360,7 @@
         "Banette": 1,
         "Three-segment dudunsparce": 2,
         "Fearow": 2,
-        "Mankey": 7,
+        "Mankey": 8,
         "Bidoof": 7,
         "Quilava": 8,
         "Finizen": 15,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 3,
-        "Squirtle": 7,
+        "Squirtle": 8,
         "Remoraid": 3,
         "Torracat": 6,
         "Hisuian zorua": 1,
@@ -638,7 +638,7 @@
         "Glalie": 1,
         "Latios": 1,
         "Silicobra": 2,
-        "Snom": 1,
+        "Snom": 2,
         "East sea shellos": 1,
         "Corsola": 3,
         "Venomoth": 2,
@@ -778,10 +778,11 @@
         "Chingling": 1,
         "Beedrill": 1,
         "Whimsicott": 1,
-        "Wishiwashi": 1
+        "Wishiwashi": 1,
+        "Cofagrigus": 1
       },
-      "total_spawns": 3360,
-      "last_spawn": "2026-06-19T20:51:18.047656"
+      "total_spawns": 3371,
+      "last_spawn": "2026-06-19T20:51:49.032834"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1164,7 +1165,7 @@
     }
   },
   "global": {
-    "total_spawns": 7393,
+    "total_spawns": 7404,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
