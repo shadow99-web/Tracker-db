@@ -9,7 +9,7 @@
         "Drilbur": 3,
         "Pawmi": 9,
         "Electabuzz": 3,
-        "Rellor": 9,
+        "Rellor": 10,
         "Sandy burmy": 4,
         "Wiglett": 14,
         "Bombirdier": 9,
@@ -65,7 +65,7 @@
         "Ducklett": 2,
         "Lokix": 2,
         "Glimmora": 8,
-        "Starly": 14,
+        "Starly": 15,
         "Tandemaus": 8,
         "Smoliv": 14,
         "Gloom": 2,
@@ -95,7 +95,7 @@
         "Hoppip": 9,
         "Sandslash": 1,
         "Kabuto": 6,
-        "Scatterbug": 10,
+        "Scatterbug": 11,
         "Pumpkaboo": 2,
         "Numel": 2,
         "Carracosta": 1,
@@ -602,7 +602,7 @@
         "Walking wake": 1,
         "Yellow flower floette": 1,
         "Medicham": 1,
-        "Doublade": 1,
+        "Doublade": 2,
         "Naclstack": 3,
         "Claydol": 1,
         "Turtonator": 1,
@@ -688,10 +688,14 @@
         "Floragato": 1,
         "Seel": 1,
         "Shiinotic": 1,
-        "Gumshoos": 1
+        "Gumshoos": 1,
+        "Pyroar": 1,
+        "Marshadow": 1,
+        "Sliggoo": 1,
+        "Panpour": 1
       },
-      "total_spawns": 2204,
-      "last_spawn": "2026-06-19T13:23:19.260400"
+      "total_spawns": 2212,
+      "last_spawn": "2026-06-19T13:23:54.701213"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -772,7 +776,7 @@
         "Whismur": 1,
         "Misdreavus": 1,
         "Carkol": 1,
-        "Pikipek": 1,
+        "Pikipek": 2,
         "Capsakid": 3,
         "Natu": 1,
         "Politoed": 1,
@@ -900,14 +904,15 @@
         "Lampent": 1,
         "Binacle": 1,
         "Charjabug": 1,
-        "Tatsugiri": 1
+        "Tatsugiri": 1,
+        "Smearguru": 1
       },
-      "total_spawns": 279,
-      "last_spawn": "2026-06-19T13:23:23.762922"
+      "total_spawns": 281,
+      "last_spawn": "2026-06-19T13:23:43.980016"
     }
   },
   "global": {
-    "total_spawns": 5814,
+    "total_spawns": 5824,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
