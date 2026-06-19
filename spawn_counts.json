@@ -882,7 +882,7 @@
         "Tandemaus": 4,
         "Krokorok": 2,
         "Cascoon": 1,
-        "Roggenrola": 4,
+        "Roggenrola": 5,
         "Spheal": 4,
         "Voltorb": 1,
         "Litwick": 6,
@@ -955,7 +955,7 @@
         "Combusken": 1,
         "Girafarig": 1,
         "Yellow plumage squawkabilly": 3,
-        "Mosslax": 6,
+        "Mosslax": 7,
         "Fennekin": 3,
         "Cubchoo": 1,
         "Sprigatito": 2,
@@ -992,7 +992,7 @@
         "Froslass": 3,
         "Electrike": 1,
         "Tynamo": 4,
-        "Ivysaur": 1,
+        "Ivysaur": 2,
         "Blipbug": 3,
         "Gabite": 1,
         "Litten": 1,
@@ -1228,12 +1228,12 @@
         "Pidgey": 2,
         "Swalot": 1
       },
-      "total_spawns": 822,
-      "last_spawn": "2026-06-19T22:12:17.414564"
+      "total_spawns": 825,
+      "last_spawn": "2026-06-19T22:12:48.108345"
     }
   },
   "global": {
-    "total_spawns": 8016,
+    "total_spawns": 8019,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
