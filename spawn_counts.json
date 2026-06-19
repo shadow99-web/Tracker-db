@@ -759,7 +759,7 @@
         "Kabuto": 1,
         "Oddish": 4,
         "Grovyle": 2,
-        "Vigoroth": 1,
+        "Vigoroth": 2,
         "Kilowattrel": 1,
         "Magnemite": 5,
         "Gyarados": 1,
@@ -1063,14 +1063,16 @@
         "Keldeo": 1,
         "Cryogonal": 1,
         "Pawniard": 1,
-        "Lurantis": 1
+        "Lurantis": 1,
+        "Cacturne": 2,
+        "Omanyte": 1
       },
-      "total_spawns": 553,
-      "last_spawn": "2026-06-19T14:06:04.588135"
+      "total_spawns": 557,
+      "last_spawn": "2026-06-19T14:06:41.057628"
     }
   },
   "global": {
-    "total_spawns": 6664,
+    "total_spawns": 6668,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
