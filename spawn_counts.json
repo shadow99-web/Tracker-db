@@ -914,13 +914,13 @@
         "Archen": 1,
         "Milcery": 1,
         "Axew": 2,
-        "Sewaddle": 4,
+        "Sewaddle": 5,
         "Monferno": 1,
         "Drowzee": 1,
         "Gloom": 3,
         "Froslass": 3,
         "Electrike": 1,
-        "Tynamo": 3,
+        "Tynamo": 4,
         "Ivysaur": 1,
         "Blipbug": 3,
         "Gabite": 1,
@@ -1091,7 +1091,7 @@
         "Simisear": 1,
         "Lairon": 1,
         "Croagunk": 1,
-        "Aron": 1,
+        "Aron": 2,
         "Seedot": 1,
         "Spinda": 1,
         "Spearow": 1,
@@ -1111,14 +1111,15 @@
         "Tyranitar": 1,
         "Walrein": 1,
         "Raichu": 1,
-        "Annihilape": 1
+        "Annihilape": 1,
+        "Seismitoad": 1
       },
-      "total_spawns": 646,
-      "last_spawn": "2026-06-19T16:54:09.028106"
+      "total_spawns": 650,
+      "last_spawn": "2026-06-19T16:54:47.454079"
     }
   },
   "global": {
-    "total_spawns": 6853,
+    "total_spawns": 6857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
