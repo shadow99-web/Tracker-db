@@ -12,7 +12,7 @@
         "Rellor": 9,
         "Sandy burmy": 4,
         "Wiglett": 14,
-        "Bombirdier": 8,
+        "Bombirdier": 9,
         "Litleo": 5,
         "Purrloin": 2,
         "Tranquill": 2,
@@ -66,7 +66,7 @@
         "Lokix": 2,
         "Glimmora": 7,
         "Starly": 13,
-        "Tandemaus": 7,
+        "Tandemaus": 8,
         "Smoliv": 13,
         "Gloom": 2,
         "Clefairy": 1,
@@ -134,7 +134,7 @@
         "Bounsweet": 8,
         "Noibat": 4,
         "Toxicroak": 1,
-        "Charcadet": 12,
+        "Charcadet": 13,
         "Croconaw": 5,
         "Phanpy": 1,
         "Brambleghast": 3,
@@ -201,7 +201,7 @@
         "Probopass": 1,
         "Scraggy": 6,
         "Rhydon": 2,
-        "Silcoon": 2,
+        "Silcoon": 3,
         "Totodile": 2,
         "Dodrio": 1,
         "Cufant": 3,
@@ -230,7 +230,7 @@
         "Braixen": 3,
         "Drowzee": 5,
         "Blipbug": 8,
-        "Lampent": 6,
+        "Lampent": 7,
         "Petilil": 2,
         "Marshtomp": 2,
         "Eiscue": 1,
@@ -675,10 +675,12 @@
         "Quaquaval": 1,
         "Sprigatito": 1,
         "Metagross": 1,
-        "Eelektrik": 1
+        "Eelektrik": 1,
+        "Gastrodon": 1,
+        "Golurk": 1
       },
-      "total_spawns": 2099,
-      "last_spawn": "2026-06-19T13:16:19.181226"
+      "total_spawns": 2106,
+      "last_spawn": "2026-06-19T13:16:51.890987"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -866,14 +868,17 @@
         "Bombirdier": 1,
         "Roaming gimmighoul": 1,
         "Dwebble": 1,
-        "Staryu": 1
+        "Staryu": 1,
+        "Summer deerling": 1,
+        "Stantler": 1,
+        "Shroodle": 1
       },
-      "total_spawns": 247,
-      "last_spawn": "2026-06-19T13:16:23.880331"
+      "total_spawns": 250,
+      "last_spawn": "2026-06-19T13:16:57.917184"
     }
   },
   "global": {
-    "total_spawns": 5677,
+    "total_spawns": 5687,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
