@@ -138,13 +138,13 @@
         "Croconaw": 7,
         "Phanpy": 1,
         "Brambleghast": 4,
-        "Pidgey": 20,
+        "Pidgey": 21,
         "Rhyhorn": 12,
         "Sentret": 4,
         "Yungoos": 2,
         "Diglett": 6,
         "Doduo": 3,
-        "Lairon": 3,
+        "Lairon": 4,
         "Emboar": 3,
         "Deoxys": 1,
         "Dracovish": 2,
@@ -160,7 +160,7 @@
         "Delcatty": 2,
         "Spiritomb": 1,
         "Yamper": 4,
-        "Tepig": 11,
+        "Tepig": 12,
         "Kirlia": 3,
         "Piplup": 2,
         "Kakuna": 6,
@@ -168,7 +168,7 @@
         "Klawf": 13,
         "Vanillite": 16,
         "Flareon": 2,
-        "Gastly": 6,
+        "Gastly": 7,
         "Taillow": 3,
         "Swinub": 7,
         "Inkay": 6,
@@ -253,7 +253,7 @@
         "Lechonk": 10,
         "Kommo-o": 1,
         "Dewott": 5,
-        "Arrokuda": 1,
+        "Arrokuda": 2,
         "Golett": 6,
         "Vullaby": 2,
         "Cetitan": 2,
@@ -312,7 +312,7 @@
         "Flygon": 1,
         "Shellos": 2,
         "Jigglypuff": 4,
-        "Nacli": 8,
+        "Nacli": 9,
         "Munna": 1,
         "Pawniard": 1,
         "Prof tangrowth": 3,
@@ -734,10 +734,11 @@
         "Alolan sandshrew": 1,
         "Azurill": 1,
         "Alolan rattata": 1,
-        "Hippowdon": 1
+        "Hippowdon": 1,
+        "Lumineon": 1
       },
-      "total_spawns": 2766,
-      "last_spawn": "2026-06-19T14:02:39.445946"
+      "total_spawns": 2773,
+      "last_spawn": "2026-06-19T14:03:11.792064"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1052,14 +1053,17 @@
         "Beldum": 1,
         "Sandile": 1,
         "Pachirisu": 1,
-        "Gothita": 1
+        "Gothita": 1,
+        "Anorith": 1,
+        "Pansage": 1,
+        "Torkoal": 1
       },
-      "total_spawns": 532,
-      "last_spawn": "2026-06-19T14:02:44.010708"
+      "total_spawns": 535,
+      "last_spawn": "2026-06-19T14:03:15.374419"
     }
   },
   "global": {
-    "total_spawns": 6629,
+    "total_spawns": 6639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
