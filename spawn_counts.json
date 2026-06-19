@@ -87,7 +87,7 @@
         "Togepi": 3,
         "Falinks": 1,
         "Tropius": 1,
-        "Poliwag": 2,
+        "Poliwag": 3,
         "Metang": 3,
         "Riolu": 4,
         "Exeggcute": 3,
@@ -118,7 +118,7 @@
         "Flittle": 6,
         "Unfezant": 1,
         "Yamask": 3,
-        "Ralts": 4,
+        "Ralts": 5,
         "Solosis": 10,
         "Battle cyclizar": 4,
         "Togetic": 2,
@@ -166,7 +166,7 @@
         "Kakuna": 4,
         "Weepinbell": 2,
         "Klawf": 9,
-        "Vanillite": 10,
+        "Vanillite": 11,
         "Flareon": 2,
         "Gastly": 4,
         "Taillow": 3,
@@ -197,7 +197,7 @@
         "Hoothoot": 5,
         "Grookey": 5,
         "Meditite": 1,
-        "Toedscruel": 1,
+        "Toedscruel": 2,
         "Probopass": 1,
         "Scraggy": 6,
         "Rhydon": 2,
@@ -312,7 +312,7 @@
         "Flygon": 1,
         "Shellos": 1,
         "Jigglypuff": 2,
-        "Nacli": 2,
+        "Nacli": 3,
         "Munna": 1,
         "Pawniard": 1,
         "Prof tangrowth": 3,
@@ -324,7 +324,7 @@
         "Murkrow": 1,
         "Bellsprout": 6,
         "Mudbray": 3,
-        "Dreepy": 8,
+        "Dreepy": 9,
         "Tinkaton": 1,
         "Corviknight": 3,
         "Froakie": 3,
@@ -402,7 +402,7 @@
         "Persian": 1,
         "Lopunny": 1,
         "Squawkabilly": 2,
-        "Electrike": 3,
+        "Electrike": 4,
         "Drampa": 1,
         "Maschiff": 5,
         "Rufflet": 3,
@@ -666,8 +666,8 @@
         "Sizzlipede": 1,
         "White flower floette": 1
       },
-      "total_spawns": 2000,
-      "last_spawn": "2026-06-19T13:09:39.275614"
+      "total_spawns": 2007,
+      "last_spawn": "2026-06-19T13:10:11.120219"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -708,7 +708,7 @@
         "Rockruff": 1,
         "Snubbull": 1,
         "Koffing": 1,
-        "Paras": 1,
+        "Paras": 2,
         "Abra": 2,
         "Toedscool": 2,
         "Trapinch": 1,
@@ -738,7 +738,7 @@
         "Litwick": 3,
         "Dachsbun": 1,
         "Ralts": 1,
-        "Poliwag": 1,
+        "Poliwag": 2,
         "Veluza": 2,
         "Wailmer": 1,
         "Darumaka": 1,
@@ -831,14 +831,15 @@
         "Marill": 1,
         "Dartrix": 1,
         "Pumpkaboo": 1,
-        "Purrloin": 1
+        "Purrloin": 1,
+        "Archen": 1
       },
-      "total_spawns": 208,
-      "last_spawn": "2026-06-19T13:09:43.890971"
+      "total_spawns": 211,
+      "last_spawn": "2026-06-19T13:10:13.967892"
     }
   },
   "global": {
-    "total_spawns": 5539,
+    "total_spawns": 5549,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
