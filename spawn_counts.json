@@ -842,7 +842,7 @@
         "Kilowattrel": 2,
         "Magnemite": 8,
         "Gyarados": 1,
-        "Starly": 7,
+        "Starly": 8,
         "Gimmighoul": 4,
         "Psyduck": 2,
         "Geodude": 2,
@@ -1053,7 +1053,7 @@
         "Stunky": 1,
         "Nickit": 1,
         "Yamper": 2,
-        "Lotad": 6,
+        "Lotad": 7,
         "Klinklang": 1,
         "Wartortle": 1,
         "Grumpig": 1,
@@ -1227,14 +1227,16 @@
         "Unfezant": 1,
         "Pidgey": 2,
         "Swalot": 1,
-        "Combee": 1
+        "Combee": 1,
+        "Coalossal": 1,
+        "Woobat": 1
       },
-      "total_spawns": 832,
-      "last_spawn": "2026-06-19T22:14:09.797732"
+      "total_spawns": 836,
+      "last_spawn": "2026-06-19T22:14:47.363199"
     }
   },
   "global": {
-    "total_spawns": 8026,
+    "total_spawns": 8030,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
