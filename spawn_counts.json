@@ -985,7 +985,7 @@
         "Archen": 1,
         "Milcery": 2,
         "Axew": 2,
-        "Sewaddle": 5,
+        "Sewaddle": 6,
         "Monferno": 2,
         "Drowzee": 1,
         "Gloom": 3,
@@ -1237,14 +1237,17 @@
         "Rowlet": 1,
         "Boldore": 1,
         "Karrablast": 1,
-        "Tyrunt": 1
+        "Tyrunt": 1,
+        "Zoroark": 1,
+        "Dusclops": 1,
+        "Bulbasaur": 1
       },
-      "total_spawns": 862,
-      "last_spawn": "2026-06-19T22:19:10.018098"
+      "total_spawns": 866,
+      "last_spawn": "2026-06-19T22:19:48.794695"
     }
   },
   "global": {
-    "total_spawns": 8056,
+    "total_spawns": 8060,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
