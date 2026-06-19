@@ -29,7 +29,7 @@
         "Charmander": 9,
         "Morelull": 1,
         "Abra": 21,
-        "Sandile": 22,
+        "Sandile": 23,
         "Sandygast": 4,
         "Litwick": 35,
         "Grubbin": 16,
@@ -37,7 +37,7 @@
         "Dratini": 12,
         "Kilowattrel": 5,
         "Lotad": 28,
-        "Qwilfish": 3,
+        "Qwilfish": 4,
         "Trapinch": 22,
         "Toedscool": 22,
         "Fletchling": 16,
@@ -480,7 +480,7 @@
         "Dolliv": 4,
         "Infernape": 1,
         "Carkol": 7,
-        "Magikarp": 4,
+        "Magikarp": 5,
         "Tyrogue": 3,
         "Vikavolt": 1,
         "Trash burmy": 2,
@@ -824,8 +824,8 @@
         "Galarian corsola": 1,
         "Cinderace": 1
       },
-      "total_spawns": 4028,
-      "last_spawn": "2026-06-19T23:01:21.075626"
+      "total_spawns": 4031,
+      "last_spawn": "2026-06-19T23:01:58.163479"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1258,7 +1258,7 @@
     }
   },
   "global": {
-    "total_spawns": 8233,
+    "total_spawns": 8236,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
