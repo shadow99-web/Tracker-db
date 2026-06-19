@@ -28,7 +28,7 @@
         "Impidimp": 16,
         "Charmander": 7,
         "Morelull": 1,
-        "Abra": 19,
+        "Abra": 20,
         "Sandile": 22,
         "Sandygast": 4,
         "Litwick": 32,
@@ -83,7 +83,7 @@
         "Baltoy": 6,
         "Mareep": 18,
         "Garbodor": 1,
-        "Slakoth": 17,
+        "Slakoth": 18,
         "Togepi": 6,
         "Falinks": 2,
         "Tropius": 1,
@@ -126,14 +126,14 @@
         "Pikipek": 27,
         "Teddiursa": 20,
         "Clamperl": 6,
-        "Zigzagoon": 7,
+        "Zigzagoon": 8,
         "Weedle": 33,
         "Flamigo": 10,
         "Lillipup": 19,
         "Shinx": 17,
         "Bounsweet": 16,
         "Noibat": 6,
-        "Toxicroak": 1,
+        "Toxicroak": 2,
         "Charcadet": 23,
         "Croconaw": 8,
         "Phanpy": 1,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 2,
         "Bulbasaur": 7,
-        "Roggenrola": 11,
+        "Roggenrola": 12,
         "Pidove": 19,
         "Dragapult": 4,
         "Rattata": 6,
@@ -205,7 +205,7 @@
         "Totodile": 7,
         "Dodrio": 3,
         "Cufant": 4,
-        "Tympole": 3,
+        "Tympole": 4,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 3,
@@ -218,7 +218,7 @@
         "Marill": 4,
         "Joltik": 14,
         "Politoed": 2,
-        "Cyndaquil": 8,
+        "Cyndaquil": 9,
         "Fuecoco": 6,
         "Cyclizar": 7,
         "Magmar": 8,
@@ -241,7 +241,7 @@
         "Galvantula": 1,
         "Chansey": 6,
         "Shroodle": 16,
-        "Duskull": 16,
+        "Duskull": 17,
         "Bergmite": 3,
         "Pignite": 5,
         "Lurantis": 1,
@@ -320,7 +320,7 @@
         "Trash wormadam": 1,
         "Quaxly": 6,
         "Gossifleur": 2,
-        "Oshawott": 6,
+        "Oshawott": 7,
         "Murkrow": 7,
         "Bellsprout": 15,
         "Mudbray": 6,
@@ -371,7 +371,7 @@
         "Luxio": 4,
         "Treecko": 10,
         "Sinistea": 3,
-        "Cubchoo": 3,
+        "Cubchoo": 4,
         "Hippopotas": 2,
         "Spiky-eared pichu": 1,
         "Magearna": 1,
@@ -804,8 +804,8 @@
         "Mime jr.": 1,
         "Voltorb": 1
       },
-      "total_spawns": 3676,
-      "last_spawn": "2026-06-19T21:06:32.996279"
+      "total_spawns": 3686,
+      "last_spawn": "2026-06-19T21:07:06.670831"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -853,7 +853,7 @@
         "Droopy tatsugiri": 3,
         "Grubbin": 5,
         "Golbat": 5,
-        "Nidorina": 1,
+        "Nidorina": 2,
         "Trubbish": 4,
         "Solosis": 3,
         "Skiddo": 3,
@@ -1207,14 +1207,15 @@
         "Pansear": 1,
         "Magby": 1,
         "Bronzor": 1,
-        "Butterfree": 1
+        "Butterfree": 1,
+        "Palpitoad": 1
       },
-      "total_spawns": 790,
-      "last_spawn": "2026-06-19T21:06:37.564402"
+      "total_spawns": 792,
+      "last_spawn": "2026-06-19T21:06:58.844080"
     }
   },
   "global": {
-    "total_spawns": 7797,
+    "total_spawns": 7809,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
