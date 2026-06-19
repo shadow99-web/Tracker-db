@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 7,
+        "Chimchar": 8,
         "Patrat": 3,
         "Mosslax": 9,
         "Drilbur": 3,
@@ -38,9 +38,9 @@
         "Kilowattrel": 3,
         "Lotad": 21,
         "Qwilfish": 2,
-        "Trapinch": 13,
+        "Trapinch": 14,
         "Toedscool": 15,
-        "Fletchling": 14,
+        "Fletchling": 15,
         "Skiploom": 7,
         "Timburr": 14,
         "Dj rotom": 9,
@@ -115,7 +115,7 @@
         "Frigibax": 9,
         "Spheal": 18,
         "Swadloon": 5,
-        "Flittle": 9,
+        "Flittle": 11,
         "Unfezant": 1,
         "Yamask": 3,
         "Ralts": 7,
@@ -130,7 +130,7 @@
         "Weedle": 27,
         "Flamigo": 8,
         "Lillipup": 17,
-        "Shinx": 15,
+        "Shinx": 16,
         "Bounsweet": 12,
         "Noibat": 4,
         "Toxicroak": 1,
@@ -340,7 +340,7 @@
         "Samurott": 2,
         "Torchic": 5,
         "Sobble": 7,
-        "Mudkip": 3,
+        "Mudkip": 4,
         "Charjabug": 5,
         "Capsakid": 7,
         "Revavroom": 6,
@@ -394,7 +394,7 @@
         "Stufful": 3,
         "Wailord": 1,
         "Makuhita": 2,
-        "Lombre": 5,
+        "Lombre": 6,
         "Ursaluna": 2,
         "Furfrou": 1,
         "Sylveon": 1,
@@ -558,7 +558,7 @@
         "Araquanid": 1,
         "Kadabra": 3,
         "Chandelure": 2,
-        "Ponyta": 3,
+        "Ponyta": 4,
         "Togekiss": 1,
         "Braviary": 1,
         "Raboot": 2,
@@ -743,10 +743,12 @@
         "Pelipper": 1,
         "Metapod": 1,
         "Kricketune": 1,
-        "Nidoqueen": 1
+        "Nidoqueen": 1,
+        "Hitmonchan": 1,
+        "Relicanth": 1
       },
-      "total_spawns": 2877,
-      "last_spawn": "2026-06-19T20:28:08.901549"
+      "total_spawns": 2888,
+      "last_spawn": "2026-06-19T20:28:43.038622"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1122,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 6869,
+    "total_spawns": 6880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
