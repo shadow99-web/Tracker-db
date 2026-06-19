@@ -664,7 +664,7 @@
         "Toxel": 1,
         "Rolycoly": 1,
         "Jumpluff": 1,
-        "Maschiff": 2,
+        "Maschiff": 3,
         "Pidove": 1,
         "Sandygast": 1,
         "Charcadet": 3,
@@ -679,7 +679,7 @@
         "Grovyle": 1,
         "Vigoroth": 1,
         "Kilowattrel": 1,
-        "Magnemite": 1,
+        "Magnemite": 2,
         "Gyarados": 1,
         "Starly": 3,
         "Gimmighoul": 1,
@@ -807,14 +807,16 @@
         "Squawkabilly": 1,
         "Ekans": 2,
         "Bagon": 1,
-        "Impidimp": 1
+        "Impidimp": 1,
+        "Sizzlipede": 1,
+        "Spidops": 1
       },
-      "total_spawns": 183,
-      "last_spawn": "2026-06-19T09:04:13.200710"
+      "total_spawns": 187,
+      "last_spawn": "2026-06-19T09:04:52.999823"
     }
   },
   "global": {
-    "total_spawns": 5426,
+    "total_spawns": 5430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
