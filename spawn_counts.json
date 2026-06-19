@@ -32,7 +32,7 @@
         "Sandile": 11,
         "Sandygast": 3,
         "Litwick": 22,
-        "Grubbin": 7,
+        "Grubbin": 8,
         "Escavalier": 3,
         "Dratini": 8,
         "Kilowattrel": 2,
@@ -60,12 +60,12 @@
         "Skwovet": 1,
         "Bramblin": 11,
         "Yanma": 5,
-        "Larvesta": 8,
+        "Larvesta": 9,
         "Beldum": 7,
         "Ducklett": 2,
         "Lokix": 2,
         "Glimmora": 8,
-        "Starly": 16,
+        "Starly": 17,
         "Tandemaus": 9,
         "Smoliv": 15,
         "Gloom": 2,
@@ -221,7 +221,7 @@
         "Cyndaquil": 5,
         "Fuecoco": 5,
         "Cyclizar": 5,
-        "Magmar": 6,
+        "Magmar": 7,
         "Rillaboom": 1,
         "Ninetales": 2,
         "Wattrel": 9,
@@ -342,7 +342,7 @@
         "Sobble": 3,
         "Mudkip": 3,
         "Charjabug": 4,
-        "Capsakid": 6,
+        "Capsakid": 7,
         "Revavroom": 5,
         "Exploud": 2,
         "Deino": 5,
@@ -699,10 +699,12 @@
         "Mantine": 1,
         "Electrode": 1,
         "Celebi": 1,
-        "Hero palafin": 1
+        "Hero palafin": 1,
+        "Litten": 1,
+        "Abomasnow": 1
       },
-      "total_spawns": 2294,
-      "last_spawn": "2026-06-19T13:29:19.311210"
+      "total_spawns": 2301,
+      "last_spawn": "2026-06-19T13:29:51.004506"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -931,14 +933,17 @@
         "Rufflet": 1,
         "Weezing": 1,
         "Heatmor": 1,
-        "Dunsparce": 1
+        "Dunsparce": 1,
+        "Corvisquire": 1,
+        "Clefairy": 1,
+        "Eevee": 1
       },
-      "total_spawns": 314,
-      "last_spawn": "2026-06-19T13:29:24.156730"
+      "total_spawns": 317,
+      "last_spawn": "2026-06-19T13:29:53.970235"
     }
   },
   "global": {
-    "total_spawns": 5939,
+    "total_spawns": 5949,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
