@@ -840,7 +840,7 @@
         "Grovyle": 2,
         "Vigoroth": 3,
         "Kilowattrel": 2,
-        "Magnemite": 8,
+        "Magnemite": 9,
         "Gyarados": 1,
         "Starly": 8,
         "Gimmighoul": 4,
@@ -1205,7 +1205,7 @@
         "Glalie": 1,
         "Kakuna": 1,
         "Carracosta": 1,
-        "Pangoro": 1,
+        "Pangoro": 2,
         "Loudred": 1,
         "Breloom": 1,
         "Milotic": 1,
@@ -1229,14 +1229,16 @@
         "Swalot": 1,
         "Combee": 1,
         "Coalossal": 1,
-        "Woobat": 1
+        "Woobat": 1,
+        "Skorupi": 1,
+        "Skrelp": 1
       },
-      "total_spawns": 836,
-      "last_spawn": "2026-06-19T22:14:47.363199"
+      "total_spawns": 840,
+      "last_spawn": "2026-06-19T22:15:27.468021"
     }
   },
   "global": {
-    "total_spawns": 8030,
+    "total_spawns": 8034,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
