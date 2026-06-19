@@ -40,7 +40,7 @@
         "Qwilfish": 2,
         "Trapinch": 12,
         "Toedscool": 10,
-        "Fletchling": 12,
+        "Fletchling": 13,
         "Skiploom": 6,
         "Timburr": 13,
         "Dj rotom": 6,
@@ -76,7 +76,7 @@
         "Froslass": 3,
         "Tarountula": 4,
         "Hatterene": 1,
-        "Phantump": 5,
+        "Phantump": 6,
         "Duosion": 2,
         "Amaura": 4,
         "Gimmighoul": 14,
@@ -229,7 +229,7 @@
         "Spidops": 3,
         "Braixen": 3,
         "Drowzee": 5,
-        "Blipbug": 9,
+        "Blipbug": 10,
         "Lampent": 7,
         "Petilil": 2,
         "Marshtomp": 3,
@@ -378,7 +378,7 @@
         "Mabosstiff": 2,
         "Squirtle": 3,
         "Remoraid": 2,
-        "Torracat": 3,
+        "Torracat": 4,
         "Hisuian zorua": 1,
         "Wooloo": 2,
         "Drifloon": 2,
@@ -417,7 +417,7 @@
         "Tentacool": 2,
         "Volcanion": 1,
         "Roaming gimmighoul": 7,
-        "Summer sawsbuck": 1,
+        "Summer sawsbuck": 2,
         "Delibird": 1,
         "Ride cyclizar": 5,
         "Gothorita": 4,
@@ -693,7 +693,7 @@
         "Marshadow": 1,
         "Sliggoo": 1,
         "Panpour": 2,
-        "Tinkatuff": 1,
+        "Tinkatuff": 2,
         "Bruxish": 1,
         "Corvisquire": 1,
         "Mantine": 1,
@@ -705,10 +705,12 @@
         "Espeon": 1,
         "Hatenna": 1,
         "Zoroark": 1,
-        "Lucario": 1
+        "Lucario": 1,
+        "Crustle": 1,
+        "Combusken": 1
       },
-      "total_spawns": 2375,
-      "last_spawn": "2026-06-19T13:34:51.931524"
+      "total_spawns": 2383,
+      "last_spawn": "2026-06-19T13:35:19.259684"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -718,7 +720,7 @@
         "Jumpluff": 1,
         "Maschiff": 3,
         "Pidove": 1,
-        "Sandygast": 3,
+        "Sandygast": 4,
         "Charcadet": 5,
         "Heracross": 1,
         "Tympole": 2,
@@ -846,7 +848,7 @@
         "Combusken": 1,
         "Girafarig": 1,
         "Yellow plumage squawkabilly": 1,
-        "Mosslax": 3,
+        "Mosslax": 4,
         "Fennekin": 1,
         "Cubchoo": 1,
         "Sprigatito": 1,
@@ -866,7 +868,7 @@
         "Tinkatink": 1,
         "Frogadier": 1,
         "Greavard": 1,
-        "Dj rotom": 1,
+        "Dj rotom": 2,
         "Lileep": 1,
         "Joltik": 1,
         "Marill": 1,
@@ -957,12 +959,12 @@
         "Flamigo": 1,
         "Talonflame": 1
       },
-      "total_spawns": 355,
-      "last_spawn": "2026-06-19T13:34:54.711487"
+      "total_spawns": 358,
+      "last_spawn": "2026-06-19T13:35:26.184548"
     }
   },
   "global": {
-    "total_spawns": 6061,
+    "total_spawns": 6072,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
