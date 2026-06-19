@@ -789,7 +789,7 @@
         "Koffing": 1,
         "Paras": 4,
         "Abra": 5,
-        "Toedscool": 4,
+        "Toedscool": 5,
         "Trapinch": 4,
         "Droopy tatsugiri": 3,
         "Grubbin": 5,
@@ -1078,7 +1078,7 @@
         "Probopass": 1,
         "Thwackey": 2,
         "Starmie": 1,
-        "Wattrel": 1,
+        "Wattrel": 2,
         "Golem": 1,
         "Primarina": 1,
         "Silcoon": 1,
@@ -1101,14 +1101,16 @@
         "Swadloon": 1,
         "Grookey": 1,
         "Ursaring": 1,
-        "Clodsire": 1
+        "Clodsire": 1,
+        "Drednaw": 1,
+        "Tangela": 1
       },
-      "total_spawns": 628,
-      "last_spawn": "2026-06-19T16:35:57.543008"
+      "total_spawns": 632,
+      "last_spawn": "2026-06-19T16:36:38.819028"
     }
   },
   "global": {
-    "total_spawns": 6835,
+    "total_spawns": 6839,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
