@@ -12,7 +12,7 @@
         "Rellor": 12,
         "Sandy burmy": 5,
         "Wiglett": 17,
-        "Bombirdier": 11,
+        "Bombirdier": 12,
         "Litleo": 7,
         "Purrloin": 2,
         "Tranquill": 2,
@@ -124,8 +124,8 @@
         "Togetic": 3,
         "Palpitoad": 1,
         "Pikipek": 22,
-        "Teddiursa": 15,
-        "Clamperl": 4,
+        "Teddiursa": 16,
+        "Clamperl": 5,
         "Zigzagoon": 7,
         "Weedle": 32,
         "Flamigo": 8,
@@ -173,7 +173,7 @@
         "Swinub": 9,
         "Inkay": 8,
         "Gible": 10,
-        "Rookidee": 9,
+        "Rookidee": 10,
         "Minccino": 6,
         "Wurmple": 11,
         "Binacle": 4,
@@ -213,7 +213,7 @@
         "Fidough": 8,
         "Noivern": 2,
         "Feraligatr": 2,
-        "Tynamo": 15,
+        "Tynamo": 16,
         "Orthworm": 17,
         "Marill": 4,
         "Joltik": 12,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 1,
         "Magearna": 1,
         "Mabosstiff": 3,
-        "Squirtle": 5,
+        "Squirtle": 6,
         "Remoraid": 2,
         "Torracat": 6,
         "Hisuian zorua": 1,
@@ -413,13 +413,13 @@
         "Peakychu": 8,
         "Armarouge": 4,
         "Tyrantrum": 1,
-        "Larvitar": 7,
+        "Larvitar": 8,
         "Tentacool": 2,
         "Volcanion": 1,
         "Roaming gimmighoul": 8,
         "Summer sawsbuck": 3,
         "Delibird": 1,
-        "Ride cyclizar": 5,
+        "Ride cyclizar": 6,
         "Gothorita": 4,
         "Varoom": 13,
         "Yellow plumage squawkabilly": 4,
@@ -747,7 +747,7 @@
         "Hitmonchan": 1,
         "Relicanth": 1,
         "Klefki": 1,
-        "Frogadier": 2,
+        "Frogadier": 3,
         "Dewpider": 3,
         "Poltchageist": 1,
         "Incineroar": 1,
@@ -762,10 +762,11 @@
         "Smoochum": 1,
         "Reuniclus": 1,
         "Smeargle": 1,
-        "Gorebyss": 1
+        "Gorebyss": 1,
+        "Yanmega": 1
       },
-      "total_spawns": 3172,
-      "last_spawn": "2026-06-19T20:42:13.171889"
+      "total_spawns": 3182,
+      "last_spawn": "2026-06-19T20:42:46.676625"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -773,7 +774,7 @@
         "Toxel": 1,
         "Rolycoly": 3,
         "Jumpluff": 1,
-        "Maschiff": 3,
+        "Maschiff": 4,
         "Pidove": 4,
         "Sandygast": 4,
         "Charcadet": 6,
@@ -878,9 +879,9 @@
         "Teddiursa": 4,
         "Raboot": 3,
         "Chef dente": 3,
-        "Rellor": 4,
+        "Rellor": 5,
         "Pelipper": 1,
-        "Scatterbug": 2,
+        "Scatterbug": 3,
         "Caterpie": 3,
         "Pancham": 2,
         "Nymble": 4,
@@ -1139,12 +1140,12 @@
         "Shellos": 1,
         "Skwovet": 1
       },
-      "total_spawns": 683,
-      "last_spawn": "2026-06-19T20:42:07.591800"
+      "total_spawns": 686,
+      "last_spawn": "2026-06-19T20:42:37.495385"
     }
   },
   "global": {
-    "total_spawns": 7186,
+    "total_spawns": 7199,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
