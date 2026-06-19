@@ -1084,7 +1084,7 @@
         "Seadra": 4,
         "Gigalith": 2,
         "Poliwhirl": 1,
-        "Fletchling": 6,
+        "Fletchling": 7,
         "Chewtle": 2,
         "Klink": 3,
         "Rufflet": 2,
@@ -1107,7 +1107,7 @@
         "Spritzee": 1,
         "Swinub": 3,
         "Tropius": 1,
-        "Flamigo": 2,
+        "Flamigo": 3,
         "Talonflame": 1,
         "Cosmog": 1,
         "Lillipup": 1,
@@ -1296,12 +1296,12 @@
         "Wimpod": 1,
         "Musharna": 1
       },
-      "total_spawns": 894,
-      "last_spawn": "2026-06-20T01:54:35.901181"
+      "total_spawns": 896,
+      "last_spawn": "2026-06-20T02:38:14.292521"
     }
   },
   "global": {
-    "total_spawns": 9086,
+    "total_spawns": 9088,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
