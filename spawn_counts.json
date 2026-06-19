@@ -864,7 +864,7 @@
         "Trapinch": 5,
         "Droopy tatsugiri": 3,
         "Grubbin": 5,
-        "Golbat": 5,
+        "Golbat": 6,
         "Nidorina": 2,
         "Trubbish": 4,
         "Solosis": 3,
@@ -894,7 +894,7 @@
         "Darumaka": 1,
         "Delphox": 2,
         "Cranidos": 3,
-        "Larvesta": 1,
+        "Larvesta": 2,
         "Whismur": 1,
         "Misdreavus": 2,
         "Carkol": 1,
@@ -1240,14 +1240,15 @@
         "Tyrunt": 1,
         "Zoroark": 1,
         "Dusclops": 1,
-        "Bulbasaur": 1
+        "Bulbasaur": 1,
+        "Diggersby": 1
       },
-      "total_spawns": 866,
-      "last_spawn": "2026-06-19T22:19:48.794695"
+      "total_spawns": 869,
+      "last_spawn": "2026-06-19T22:20:17.655339"
     }
   },
   "global": {
-    "total_spawns": 8060,
+    "total_spawns": 8063,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
