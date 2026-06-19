@@ -905,7 +905,7 @@
         "Paras": 4,
         "Abra": 7,
         "Toedscool": 9,
-        "Trapinch": 5,
+        "Trapinch": 6,
         "Droopy tatsugiri": 3,
         "Grubbin": 5,
         "Golbat": 6,
@@ -1181,7 +1181,7 @@
         "Pansage": 1,
         "Torkoal": 1,
         "Fidough": 3,
-        "Scovillain": 2,
+        "Scovillain": 3,
         "Tarountula": 2,
         "Keldeo": 1,
         "Cryogonal": 1,
@@ -1230,7 +1230,7 @@
         "Seismitoad": 1,
         "Complete zygarde": 1,
         "Dottler": 2,
-        "Hoppip": 3,
+        "Hoppip": 4,
         "Ninetales": 1,
         "Shellos": 1,
         "Skwovet": 1,
@@ -1292,14 +1292,15 @@
         "Toedscruel": 1,
         "Metang": 1,
         "Hippowdon": 1,
-        "Happiny": 1
+        "Happiny": 1,
+        "Wimpod": 1
       },
-      "total_spawns": 883,
-      "last_spawn": "2026-06-20T00:29:57.784921"
+      "total_spawns": 887,
+      "last_spawn": "2026-06-20T00:30:37.656749"
     }
   },
   "global": {
-    "total_spawns": 9075,
+    "total_spawns": 9079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
