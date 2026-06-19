@@ -1070,7 +1070,7 @@
         "Cinderace": 3,
         "Swampert": 1,
         "Carvanha": 1,
-        "Dewpider": 1,
+        "Dewpider": 2,
         "Gurdurr": 1,
         "Magneton": 3,
         "Dragonite": 1,
@@ -1083,7 +1083,7 @@
         "Weepinbell": 1,
         "Flutter mane": 1,
         "Kangaskhan": 2,
-        "Doublade": 2,
+        "Doublade": 3,
         "Vullaby": 1,
         "Bellibolt": 2,
         "Sawk": 1,
@@ -1128,9 +1128,9 @@
         "Frillish": 1,
         "Gossifleur": 1,
         "Remoraid": 1,
-        "Bramblin": 2,
+        "Bramblin": 3,
         "Beldum": 2,
-        "Sandile": 5,
+        "Sandile": 6,
         "Pachirisu": 1,
         "Gothita": 2,
         "Anorith": 2,
@@ -1190,7 +1190,7 @@
         "Ninetales": 1,
         "Shellos": 1,
         "Skwovet": 1,
-        "Charmander": 1,
+        "Charmander": 2,
         "Squirtle": 1,
         "Vanillite": 1,
         "Shuppet": 1,
@@ -1223,14 +1223,16 @@
         "Palpitoad": 1,
         "Midnight lycanroc": 1,
         "Electabuzz": 1,
-        "Prof tangrowth": 1
+        "Prof tangrowth": 1,
+        "Unfezant": 1,
+        "Pidgey": 1
       },
-      "total_spawns": 811,
-      "last_spawn": "2026-06-19T22:08:17.569335"
+      "total_spawns": 818,
+      "last_spawn": "2026-06-19T22:11:37.598767"
     }
   },
   "global": {
-    "total_spawns": 8005,
+    "total_spawns": 8012,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
