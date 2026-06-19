@@ -11,7 +11,7 @@
         "Electabuzz": 3,
         "Rellor": 11,
         "Sandy burmy": 4,
-        "Wiglett": 15,
+        "Wiglett": 16,
         "Bombirdier": 10,
         "Litleo": 6,
         "Purrloin": 2,
@@ -48,14 +48,14 @@
         "Seedot": 6,
         "Skitty": 3,
         "Greavard": 8,
-        "Slugma": 2,
+        "Slugma": 3,
         "Grotle": 5,
         "Porygon": 8,
         "Zubat": 22,
         "Vanillish": 6,
         "Tadbulb": 4,
         "Magnemite": 17,
-        "Whismur": 11,
+        "Whismur": 12,
         "Monferno": 7,
         "Skwovet": 1,
         "Bramblin": 13,
@@ -124,7 +124,7 @@
         "Togetic": 2,
         "Palpitoad": 1,
         "Pikipek": 20,
-        "Teddiursa": 14,
+        "Teddiursa": 15,
         "Clamperl": 3,
         "Zigzagoon": 7,
         "Weedle": 26,
@@ -138,7 +138,7 @@
         "Croconaw": 7,
         "Phanpy": 1,
         "Brambleghast": 4,
-        "Pidgey": 18,
+        "Pidgey": 19,
         "Rhyhorn": 12,
         "Sentret": 4,
         "Yungoos": 2,
@@ -165,7 +165,7 @@
         "Piplup": 2,
         "Kakuna": 6,
         "Weepinbell": 2,
-        "Klawf": 12,
+        "Klawf": 13,
         "Vanillite": 16,
         "Flareon": 2,
         "Gastly": 6,
@@ -306,7 +306,7 @@
         "Lileep": 3,
         "Rolycoly": 10,
         "Bronzor": 5,
-        "Dartrix": 2,
+        "Dartrix": 3,
         "Yellow flower florges": 2,
         "Zangoose": 2,
         "Flygon": 1,
@@ -732,10 +732,11 @@
         "Walrein": 1,
         "Cinccino": 1,
         "Alolan sandshrew": 1,
-        "Azurill": 1
+        "Azurill": 1,
+        "Alolan rattata": 1
       },
-      "total_spawns": 2701,
-      "last_spawn": "2026-06-19T13:58:19.666180"
+      "total_spawns": 2709,
+      "last_spawn": "2026-06-19T13:58:54.828697"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -846,7 +847,7 @@
         "Farigiraf": 1,
         "Rookidee": 3,
         "Teddiursa": 4,
-        "Raboot": 1,
+        "Raboot": 2,
         "Chef dente": 2,
         "Rellor": 2,
         "Pelipper": 1,
@@ -950,7 +951,7 @@
         "Kirlia": 1,
         "Zubat": 2,
         "Pikachu": 1,
-        "Peakychu": 1,
+        "Peakychu": 2,
         "Alolan geodude": 1,
         "Tentacool": 1,
         "Deino": 3,
@@ -1041,14 +1042,15 @@
         "Empoleon": 1,
         "Mienshao": 1,
         "Trevenant": 1,
-        "Vaporeon": 1
+        "Vaporeon": 1,
+        "Appletun": 1
       },
-      "total_spawns": 507,
-      "last_spawn": "2026-06-19T13:58:24.213113"
+      "total_spawns": 510,
+      "last_spawn": "2026-06-19T13:58:53.884474"
     }
   },
   "global": {
-    "total_spawns": 6539,
+    "total_spawns": 6550,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
