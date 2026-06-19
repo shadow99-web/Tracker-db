@@ -1174,7 +1174,7 @@
         "Remoraid": 1,
         "Bramblin": 3,
         "Beldum": 2,
-        "Sandile": 6,
+        "Sandile": 7,
         "Pachirisu": 1,
         "Gothita": 2,
         "Anorith": 2,
@@ -1273,7 +1273,7 @@
         "Swalot": 1,
         "Combee": 1,
         "Coalossal": 1,
-        "Woobat": 1,
+        "Woobat": 2,
         "Skorupi": 1,
         "Skrelp": 1,
         "Cacnea": 1,
@@ -1290,14 +1290,16 @@
         "Clauncher": 1,
         "Dodrio": 1,
         "Toedscruel": 1,
-        "Metang": 1
+        "Metang": 1,
+        "Hippowdon": 1,
+        "Happiny": 1
       },
-      "total_spawns": 879,
-      "last_spawn": "2026-06-20T00:29:19.101713"
+      "total_spawns": 883,
+      "last_spawn": "2026-06-20T00:29:57.784921"
     }
   },
   "global": {
-    "total_spawns": 9071,
+    "total_spawns": 9075,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
