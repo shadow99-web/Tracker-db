@@ -41,7 +41,7 @@
         "Trapinch": 12,
         "Toedscool": 13,
         "Fletchling": 14,
-        "Skiploom": 6,
+        "Skiploom": 7,
         "Timburr": 14,
         "Dj rotom": 8,
         "Surskit": 8,
@@ -54,7 +54,7 @@
         "Zubat": 23,
         "Vanillish": 6,
         "Tadbulb": 4,
-        "Magnemite": 17,
+        "Magnemite": 18,
         "Whismur": 12,
         "Monferno": 7,
         "Skwovet": 1,
@@ -118,7 +118,7 @@
         "Flittle": 9,
         "Unfezant": 1,
         "Yamask": 3,
-        "Ralts": 6,
+        "Ralts": 7,
         "Solosis": 10,
         "Battle cyclizar": 5,
         "Togetic": 2,
@@ -179,7 +179,7 @@
         "Binacle": 3,
         "Grafaiai": 4,
         "Quilladin": 1,
-        "Geodude": 9,
+        "Geodude": 10,
         "Espurr": 2,
         "Cottonee": 2,
         "Elgyem": 1,
@@ -197,12 +197,12 @@
         "Hoothoot": 5,
         "Grookey": 8,
         "Meditite": 1,
-        "Toedscruel": 4,
+        "Toedscruel": 5,
         "Probopass": 1,
         "Scraggy": 7,
         "Rhydon": 2,
         "Silcoon": 3,
-        "Totodile": 3,
+        "Totodile": 4,
         "Dodrio": 2,
         "Cufant": 3,
         "Tympole": 2,
@@ -435,7 +435,7 @@
         "Zebstrika": 1,
         "Shuppet": 5,
         "Paldean wooper": 2,
-        "Salandit": 2,
+        "Salandit": 3,
         "School wishiwashi": 2,
         "Snivy": 3,
         "Wyrdeer": 1,
@@ -735,8 +735,8 @@
         "Azurill": 1,
         "Alolan rattata": 1
       },
-      "total_spawns": 2726,
-      "last_spawn": "2026-06-19T13:59:59.319483"
+      "total_spawns": 2733,
+      "last_spawn": "2026-06-19T14:00:31.346773"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -769,7 +769,7 @@
         "Dolliv": 2,
         "Scizor": 1,
         "Chespin": 1,
-        "Tadbulb": 1,
+        "Tadbulb": 2,
         "Garchomp": 2,
         "Blastoise": 1,
         "Finizen": 3,
@@ -1046,14 +1046,15 @@
         "Appletun": 1,
         "Frillish": 1,
         "Gossifleur": 1,
-        "Remoraid": 1
+        "Remoraid": 1,
+        "Bramblin": 1
       },
-      "total_spawns": 516,
-      "last_spawn": "2026-06-19T13:59:53.995551"
+      "total_spawns": 518,
+      "last_spawn": "2026-06-19T14:00:24.218621"
     }
   },
   "global": {
-    "total_spawns": 6573,
+    "total_spawns": 6582,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
