@@ -949,7 +949,7 @@
         "Drakloak": 2,
         "Klawf": 4,
         "Exeggcute": 2,
-        "Grimer": 1,
+        "Grimer": 2,
         "Scorbunny": 1,
         "Rattata": 2,
         "Gulpin": 1,
@@ -959,7 +959,7 @@
         "Roggenrola": 5,
         "Spheal": 4,
         "Voltorb": 1,
-        "Litwick": 6,
+        "Litwick": 7,
         "Dachsbun": 1,
         "Ralts": 4,
         "Poliwag": 3,
@@ -1206,7 +1206,7 @@
         "Beldum": 3,
         "Sandile": 9,
         "Pachirisu": 1,
-        "Gothita": 2,
+        "Gothita": 3,
         "Anorith": 3,
         "Pansage": 1,
         "Torkoal": 1,
@@ -1221,7 +1221,7 @@
         "Omanyte": 1,
         "Staravia": 2,
         "Probopass": 1,
-        "Thwackey": 2,
+        "Thwackey": 3,
         "Starmie": 1,
         "Wattrel": 4,
         "Golem": 1,
@@ -1338,12 +1338,12 @@
         "Goomy": 1,
         "Floatzel": 1
       },
-      "total_spawns": 952,
-      "last_spawn": "2026-06-20T13:22:27.993989"
+      "total_spawns": 956,
+      "last_spawn": "2026-06-20T13:23:07.513174"
     }
   },
   "global": {
-    "total_spawns": 9969,
+    "total_spawns": 9973,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
