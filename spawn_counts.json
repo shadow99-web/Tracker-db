@@ -56,7 +56,7 @@
         "Tadbulb": 19,
         "Magnemite": 38,
         "Whismur": 24,
-        "Monferno": 11,
+        "Monferno": 12,
         "Skwovet": 3,
         "Bramblin": 27,
         "Yanma": 6,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 1,
         "Toxapex": 1,
         "Lileep": 5,
-        "Rolycoly": 23,
+        "Rolycoly": 24,
         "Bronzor": 14,
         "Dartrix": 6,
         "Yellow flower florges": 3,
@@ -890,8 +890,8 @@
         "Whiscash": 1,
         "Heracross": 1
       },
-      "total_spawns": 5677,
-      "last_spawn": "2026-06-20T12:02:59.231408"
+      "total_spawns": 5679,
+      "last_spawn": "2026-06-20T12:03:29.289480"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1341,7 +1341,7 @@
     }
   },
   "global": {
-    "total_spawns": 9957,
+    "total_spawns": 9959,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
