@@ -935,7 +935,7 @@
         "Poliwag": 3,
         "Veluza": 9,
         "Wailmer": 1,
-        "Darumaka": 1,
+        "Darumaka": 2,
         "Delphox": 2,
         "Cranidos": 3,
         "Larvesta": 2,
@@ -1294,14 +1294,15 @@
         "Hippowdon": 1,
         "Happiny": 1,
         "Wimpod": 1,
-        "Musharna": 1
+        "Musharna": 1,
+        "Bergmite": 1
       },
-      "total_spawns": 898,
-      "last_spawn": "2026-06-20T04:00:12.209281"
+      "total_spawns": 900,
+      "last_spawn": "2026-06-20T06:05:28.811466"
     }
   },
   "global": {
-    "total_spawns": 9090,
+    "total_spawns": 9092,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
