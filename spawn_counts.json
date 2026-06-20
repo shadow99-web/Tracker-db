@@ -32,7 +32,7 @@
         "Sandile": 30,
         "Sandygast": 9,
         "Litwick": 52,
-        "Grubbin": 20,
+        "Grubbin": 21,
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
@@ -191,7 +191,7 @@
         "Thwackey": 9,
         "Dusk lycanroc": 3,
         "Sunny castform": 3,
-        "Pidgeotto": 8,
+        "Pidgeotto": 9,
         "Spearow": 10,
         "Helioptile": 6,
         "Hoothoot": 10,
@@ -279,7 +279,7 @@
         "Rowlet": 9,
         "Galarian slowpoke": 1,
         "Poliwhirl": 7,
-        "Crocalor": 14,
+        "Crocalor": 15,
         "Cryogonal": 1,
         "Eternatus": 1,
         "Gholdengo": 9,
@@ -890,8 +890,8 @@
         "Whiscash": 1,
         "Heracross": 1
       },
-      "total_spawns": 5681,
-      "last_spawn": "2026-06-20T12:03:59.354498"
+      "total_spawns": 5684,
+      "last_spawn": "2026-06-20T12:04:33.871154"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1341,7 +1341,7 @@
     }
   },
   "global": {
-    "total_spawns": 9961,
+    "total_spawns": 9964,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
