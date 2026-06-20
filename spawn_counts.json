@@ -1174,7 +1174,7 @@
         "Remoraid": 1,
         "Bramblin": 3,
         "Beldum": 3,
-        "Sandile": 8,
+        "Sandile": 9,
         "Pachirisu": 1,
         "Gothita": 2,
         "Anorith": 2,
@@ -1244,7 +1244,7 @@
         "Bruxish": 1,
         "Ponyta": 2,
         "Oranguru": 1,
-        "Togetic": 1,
+        "Togetic": 2,
         "Tepig": 1,
         "Glalie": 1,
         "Kakuna": 1,
@@ -1298,12 +1298,12 @@
         "Bergmite": 1,
         "Cyclizar": 1
       },
-      "total_spawns": 905,
-      "last_spawn": "2026-06-20T08:08:13.589031"
+      "total_spawns": 907,
+      "last_spawn": "2026-06-20T08:16:44.090905"
     }
   },
   "global": {
-    "total_spawns": 9097,
+    "total_spawns": 9099,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
