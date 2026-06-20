@@ -1334,14 +1334,16 @@
         "Horsea": 1,
         "Typhlosion": 1,
         "Barboach": 1,
-        "Burmy": 1
+        "Burmy": 1,
+        "Goomy": 1,
+        "Floatzel": 1
       },
-      "total_spawns": 950,
-      "last_spawn": "2026-06-20T13:20:27.570176"
+      "total_spawns": 952,
+      "last_spawn": "2026-06-20T13:22:27.993989"
     }
   },
   "global": {
-    "total_spawns": 9967,
+    "total_spawns": 9969,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
