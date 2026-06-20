@@ -948,7 +948,7 @@
         "Politoed": 1,
         "Gastly": 7,
         "Slakoth": 4,
-        "Machop": 4,
+        "Machop": 6,
         "Roselia": 1,
         "Pidgeotto": 1,
         "Buneary": 1,
@@ -1196,7 +1196,7 @@
         "Wattrel": 4,
         "Golem": 1,
         "Primarina": 1,
-        "Silcoon": 1,
+        "Silcoon": 2,
         "Chandelure": 3,
         "Phantump": 5,
         "Mienfoo": 2,
@@ -1278,7 +1278,7 @@
         "Skrelp": 1,
         "Cacnea": 1,
         "Comfey": 1,
-        "Rowlet": 1,
+        "Rowlet": 2,
         "Boldore": 1,
         "Karrablast": 1,
         "Tyrunt": 1,
@@ -1306,12 +1306,12 @@
         "Barboach": 1,
         "Burmy": 1
       },
-      "total_spawns": 938,
-      "last_spawn": "2026-06-20T10:43:07.133804"
+      "total_spawns": 942,
+      "last_spawn": "2026-06-20T10:43:42.943911"
     }
   },
   "global": {
-    "total_spawns": 9130,
+    "total_spawns": 9134,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
