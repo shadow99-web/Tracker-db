@@ -887,7 +887,7 @@
         "Magnemite": 9,
         "Gyarados": 1,
         "Starly": 8,
-        "Gimmighoul": 5,
+        "Gimmighoul": 6,
         "Psyduck": 2,
         "Geodude": 2,
         "Carnivine": 1,
@@ -903,7 +903,7 @@
         "Snubbull": 2,
         "Koffing": 1,
         "Paras": 4,
-        "Abra": 7,
+        "Abra": 8,
         "Toedscool": 9,
         "Trapinch": 6,
         "Droopy tatsugiri": 3,
@@ -985,7 +985,7 @@
         "Charmeleon": 1,
         "Litleo": 2,
         "Manectric": 1,
-        "Wurmple": 2,
+        "Wurmple": 3,
         "Arctibax": 1,
         "Yanma": 1,
         "Chinchou": 1,
@@ -996,7 +996,7 @@
         "Fletchinder": 1,
         "Inkay": 4,
         "Gholdengo": 1,
-        "Combusken": 1,
+        "Combusken": 2,
         "Girafarig": 1,
         "Yellow plumage squawkabilly": 3,
         "Mosslax": 7,
@@ -1101,7 +1101,7 @@
         "Klinklang": 1,
         "Wartortle": 1,
         "Grumpig": 1,
-        "Bellsprout": 2,
+        "Bellsprout": 3,
         "Weedle": 4,
         "Meowth": 1,
         "Spritzee": 1,
@@ -1172,7 +1172,7 @@
         "Frillish": 2,
         "Gossifleur": 1,
         "Remoraid": 1,
-        "Bramblin": 3,
+        "Bramblin": 4,
         "Beldum": 3,
         "Sandile": 9,
         "Pachirisu": 1,
@@ -1274,7 +1274,7 @@
         "Combee": 1,
         "Coalossal": 1,
         "Woobat": 2,
-        "Skorupi": 1,
+        "Skorupi": 2,
         "Skrelp": 1,
         "Cacnea": 1,
         "Comfey": 1,
@@ -1299,12 +1299,12 @@
         "Cyclizar": 1,
         "Dragonair": 1
       },
-      "total_spawns": 910,
-      "last_spawn": "2026-06-20T08:44:27.462447"
+      "total_spawns": 917,
+      "last_spawn": "2026-06-20T10:39:09.193043"
     }
   },
   "global": {
-    "total_spawns": 9102,
+    "total_spawns": 9109,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
