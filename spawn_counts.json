@@ -60,7 +60,7 @@
         "Skwovet": 6,
         "Bramblin": 36,
         "Yanma": 7,
-        "Larvesta": 16,
+        "Larvesta": 17,
         "Beldum": 28,
         "Ducklett": 5,
         "Lokix": 9,
@@ -155,7 +155,7 @@
         "Rattata": 17,
         "Flapple": 4,
         "Aron": 28,
-        "Boldore": 7,
+        "Boldore": 8,
         "Spinarak": 16,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -184,7 +184,7 @@
         "Cottonee": 4,
         "Elgyem": 9,
         "Luvdisc": 3,
-        "Vigoroth": 11,
+        "Vigoroth": 12,
         "Skorupi": 8,
         "Pikachu": 9,
         "Blue plumage squawkabilly": 6,
@@ -204,7 +204,7 @@
         "Silcoon": 8,
         "Totodile": 9,
         "Dodrio": 3,
-        "Cufant": 7,
+        "Cufant": 8,
         "Tympole": 27,
         "Swellow": 3,
         "Aipom": 7,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 40,
-        "Duskull": 41,
+        "Duskull": 42,
         "Bergmite": 8,
         "Pignite": 11,
         "Lurantis": 1,
@@ -657,7 +657,7 @@
         "Whirlipede": 9,
         "Absol": 3,
         "Annihilape": 4,
-        "Bouffalant": 3,
+        "Bouffalant": 4,
         "Crabrawler": 7,
         "Budew": 2,
         "Espathra": 5,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7622,
-      "last_spawn": "2026-06-23T15:40:47.500139"
+      "total_spawns": 7628,
+      "last_spawn": "2026-06-23T15:41:31.817183"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -963,7 +963,7 @@
     }
   },
   "global": {
-    "total_spawns": 11912,
+    "total_spawns": 11918,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
