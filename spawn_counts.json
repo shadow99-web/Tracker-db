@@ -119,7 +119,7 @@
         "Unfezant": 2,
         "Yamask": 4,
         "Ralts": 23,
-        "Solosis": 21,
+        "Solosis": 22,
         "Battle cyclizar": 13,
         "Togetic": 7,
         "Palpitoad": 3,
@@ -183,7 +183,7 @@
         "Espurr": 8,
         "Cottonee": 3,
         "Elgyem": 7,
-        "Luvdisc": 2,
+        "Luvdisc": 3,
         "Vigoroth": 8,
         "Skorupi": 7,
         "Pikachu": 6,
@@ -402,7 +402,7 @@
         "Persian": 1,
         "Lopunny": 1,
         "Squawkabilly": 7,
-        "Electrike": 11,
+        "Electrike": 12,
         "Drampa": 2,
         "Maschiff": 16,
         "Rufflet": 11,
@@ -901,8 +901,8 @@
         "Galarian articuno": 1,
         "Audino": 1
       },
-      "total_spawns": 5919,
-      "last_spawn": "2026-06-23T11:56:19.068102"
+      "total_spawns": 5922,
+      "last_spawn": "2026-06-23T11:56:51.909742"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -920,7 +920,7 @@
     }
   },
   "global": {
-    "total_spawns": 10207,
+    "total_spawns": 10210,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
