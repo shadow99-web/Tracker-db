@@ -13,7 +13,7 @@
         "Sandy burmy": 8,
         "Wiglett": 31,
         "Bombirdier": 25,
-        "Litleo": 7,
+        "Litleo": 8,
         "Purrloin": 3,
         "Tranquill": 6,
         "Psyduck": 3,
@@ -47,7 +47,7 @@
         "Surskit": 15,
         "Seedot": 15,
         "Skitty": 7,
-        "Greavard": 25,
+        "Greavard": 26,
         "Slugma": 6,
         "Grotle": 6,
         "Porygon": 25,
@@ -134,7 +134,7 @@
         "Bounsweet": 18,
         "Noibat": 9,
         "Toxicroak": 4,
-        "Charcadet": 32,
+        "Charcadet": 33,
         "Croconaw": 10,
         "Phanpy": 2,
         "Brambleghast": 6,
@@ -184,7 +184,7 @@
         "Cottonee": 3,
         "Elgyem": 7,
         "Luvdisc": 3,
-        "Vigoroth": 8,
+        "Vigoroth": 9,
         "Skorupi": 7,
         "Pikachu": 6,
         "Blue plumage squawkabilly": 6,
@@ -545,7 +545,7 @@
         "Slowbro": 4,
         "Oricorio": 2,
         "Kangaskhan": 2,
-        "Krokorok": 7,
+        "Krokorok": 8,
         "Dragonair": 3,
         "Zweilous": 6,
         "Karrablast": 4,
@@ -904,10 +904,11 @@
         "Cursola": 1,
         "Snorlax": 1,
         "Mienshao": 1,
-        "Glaceon": 1
+        "Glaceon": 1,
+        "Primarina": 1
       },
-      "total_spawns": 6015,
-      "last_spawn": "2026-06-23T12:07:28.217928"
+      "total_spawns": 6021,
+      "last_spawn": "2026-06-23T12:08:07.050925"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -925,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10303,
+    "total_spawns": 10309,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
