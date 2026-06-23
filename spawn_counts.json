@@ -119,14 +119,14 @@
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 31,
-        "Solosis": 36,
+        "Solosis": 37,
         "Battle cyclizar": 15,
         "Togetic": 9,
         "Palpitoad": 4,
         "Pikipek": 50,
         "Teddiursa": 34,
         "Clamperl": 11,
-        "Zigzagoon": 15,
+        "Zigzagoon": 16,
         "Weedle": 52,
         "Flamigo": 34,
         "Lillipup": 39,
@@ -322,7 +322,7 @@
         "Gossifleur": 11,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 40,
+        "Bellsprout": 41,
         "Mudbray": 10,
         "Dreepy": 36,
         "Tinkaton": 3,
@@ -352,7 +352,7 @@
         "Darumaka": 14,
         "Arboliva": 3,
         "Ledyba": 12,
-        "Spritzee": 7,
+        "Spritzee": 8,
         "Swirlix": 5,
         "Aromatisse": 3,
         "Muk": 4,
@@ -814,7 +814,7 @@
         "Tauros": 1,
         "Slurpuff": 2,
         "Umbreon": 1,
-        "Hypno": 1,
+        "Hypno": 2,
         "Galarian weezing": 1,
         "Gigalith": 1,
         "Indeedee": 2,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7990,
-      "last_spawn": "2026-06-23T16:37:37.224100"
+      "total_spawns": 7995,
+      "last_spawn": "2026-06-23T16:38:14.490799"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -978,10 +978,11 @@
         "Lickilicky": 1,
         "Hisuian voltorb": 1,
         "Dreepy": 2,
-        "Bagon": 1
+        "Bagon": 1,
+        "Archen": 1
       },
-      "total_spawns": 36,
-      "last_spawn": "2026-06-23T16:36:37.677136"
+      "total_spawns": 37,
+      "last_spawn": "2026-06-23T16:37:47.482073"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -991,7 +992,7 @@
     }
   },
   "global": {
-    "total_spawns": 12313,
+    "total_spawns": 12319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
