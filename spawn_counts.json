@@ -103,7 +103,7 @@
         "Veluza": 38,
         "Barboach": 8,
         "Klink": 18,
-        "Honedge": 46,
+        "Honedge": 47,
         "Wingull": 9,
         "Salamence": 1,
         "Drakloak": 7,
@@ -215,7 +215,7 @@
         "Feraligatr": 3,
         "Tynamo": 25,
         "Orthworm": 26,
-        "Marill": 9,
+        "Marill": 10,
         "Joltik": 16,
         "Politoed": 3,
         "Cyndaquil": 12,
@@ -240,13 +240,13 @@
         "Omanyte": 8,
         "Galvantula": 2,
         "Chansey": 6,
-        "Shroodle": 31,
+        "Shroodle": 32,
         "Duskull": 33,
         "Bergmite": 7,
         "Pignite": 9,
         "Lurantis": 1,
         "Swampert": 3,
-        "Dachsbun": 9,
+        "Dachsbun": 10,
         "Turtwig": 6,
         "Prinplup": 5,
         "Tinkatink": 30,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6026,
-      "last_spawn": "2026-06-23T12:08:37.156104"
+      "total_spawns": 6030,
+      "last_spawn": "2026-06-23T12:09:07.175771"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10314,
+    "total_spawns": 10318,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
