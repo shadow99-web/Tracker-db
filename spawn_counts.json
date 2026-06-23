@@ -43,7 +43,7 @@
         "Fletchling": 26,
         "Skiploom": 11,
         "Timburr": 35,
-        "Dj rotom": 30,
+        "Dj rotom": 31,
         "Surskit": 18,
         "Seedot": 27,
         "Skitty": 9,
@@ -173,7 +173,7 @@
         "Swinub": 33,
         "Inkay": 14,
         "Gible": 21,
-        "Rookidee": 24,
+        "Rookidee": 25,
         "Minccino": 13,
         "Wurmple": 30,
         "Binacle": 11,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 11,
         "Quilava": 17,
-        "Finizen": 40,
+        "Finizen": 41,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 25,
@@ -602,7 +602,7 @@
         "Walking wake": 1,
         "Yellow flower floette": 2,
         "Medicham": 3,
-        "Doublade": 6,
+        "Doublade": 7,
         "Naclstack": 6,
         "Claydol": 1,
         "Turtonator": 2,
@@ -703,7 +703,7 @@
         "Litten": 11,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 27,
+        "Hatenna": 28,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7918,
-      "last_spawn": "2026-06-23T16:29:27.120062"
+      "total_spawns": 7923,
+      "last_spawn": "2026-06-23T16:29:57.393573"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -967,10 +967,11 @@
         "Larvesta": 1,
         "Starly": 1,
         "Varoom": 1,
-        "Weedle": 1
+        "Weedle": 1,
+        "Chef dente": 1
       },
-      "total_spawns": 20,
-      "last_spawn": "2026-06-23T16:29:17.567599"
+      "total_spawns": 21,
+      "last_spawn": "2026-06-23T16:29:37.731818"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -980,7 +981,7 @@
     }
   },
   "global": {
-    "total_spawns": 12225,
+    "total_spawns": 12231,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
