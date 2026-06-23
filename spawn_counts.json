@@ -124,7 +124,7 @@
         "Togetic": 8,
         "Palpitoad": 3,
         "Pikipek": 45,
-        "Teddiursa": 32,
+        "Teddiursa": 33,
         "Clamperl": 11,
         "Zigzagoon": 14,
         "Weedle": 48,
@@ -421,7 +421,7 @@
         "Delibird": 1,
         "Ride cyclizar": 11,
         "Gothorita": 7,
-        "Varoom": 26,
+        "Varoom": 27,
         "Yellow plumage squawkabilly": 9,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
@@ -587,7 +587,7 @@
         "Kingambit": 2,
         "Clodsire": 9,
         "Blaze breed tauros": 1,
-        "Wimpod": 4,
+        "Wimpod": 5,
         "Torterra": 2,
         "Darmanitan": 1,
         "Rainy castform": 1,
@@ -846,7 +846,7 @@
         "Graveler": 4,
         "Carbink": 1,
         "Armaldo": 3,
-        "Grimmsnarl": 2,
+        "Grimmsnarl": 3,
         "Quagsire": 2,
         "Darkrai": 1,
         "Togedemaru": 2,
@@ -923,7 +923,7 @@
         "Hattrem": 1,
         "Clefable": 1,
         "Serperior": 2,
-        "Lycanroc": 2,
+        "Lycanroc": 3,
         "Kingdra": 1,
         "Farfetch'd": 2,
         "Unown l": 1,
@@ -936,8 +936,8 @@
         "Pyukumuku": 1,
         "Machoke": 1
       },
-      "total_spawns": 7233,
-      "last_spawn": "2026-06-23T14:56:33.901163"
+      "total_spawns": 7238,
+      "last_spawn": "2026-06-23T14:57:07.097714"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -956,7 +956,7 @@
     }
   },
   "global": {
-    "total_spawns": 11522,
+    "total_spawns": 11527,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
