@@ -9,7 +9,7 @@
         "Drilbur": 6,
         "Pawmi": 36,
         "Electabuzz": 6,
-        "Rellor": 24,
+        "Rellor": 25,
         "Sandy burmy": 8,
         "Wiglett": 37,
         "Bombirdier": 26,
@@ -38,7 +38,7 @@
         "Kilowattrel": 7,
         "Lotad": 44,
         "Qwilfish": 5,
-        "Trapinch": 36,
+        "Trapinch": 37,
         "Toedscool": 30,
         "Fletchling": 23,
         "Skiploom": 10,
@@ -87,7 +87,7 @@
         "Togepi": 21,
         "Falinks": 3,
         "Tropius": 1,
-        "Poliwag": 26,
+        "Poliwag": 27,
         "Metang": 5,
         "Riolu": 4,
         "Exeggcute": 8,
@@ -256,7 +256,7 @@
         "Arrokuda": 6,
         "Golett": 6,
         "Vullaby": 6,
-        "Cetitan": 7,
+        "Cetitan": 8,
         "Cubone": 11,
         "Gligar": 14,
         "Tirtouga": 12,
@@ -310,7 +310,7 @@
         "Yellow flower florges": 3,
         "Zangoose": 6,
         "Flygon": 2,
-        "Shellos": 4,
+        "Shellos": 5,
         "Jigglypuff": 12,
         "Nacli": 20,
         "Munna": 6,
@@ -703,7 +703,7 @@
         "Litten": 9,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 20,
+        "Hatenna": 21,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -926,8 +926,8 @@
         "Lycanroc": 1,
         "Kingdra": 1
       },
-      "total_spawns": 6751,
-      "last_spawn": "2026-06-23T14:02:27.421491"
+      "total_spawns": 6757,
+      "last_spawn": "2026-06-23T14:03:07.329908"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -946,7 +946,7 @@
     }
   },
   "global": {
-    "total_spawns": 11040,
+    "total_spawns": 11046,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
