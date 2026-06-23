@@ -398,7 +398,7 @@
         "Ursaluna": 2,
         "Furfrou": 2,
         "Sylveon": 1,
-        "Nosepass": 7,
+        "Nosepass": 8,
         "Persian": 1,
         "Lopunny": 1,
         "Squawkabilly": 7,
@@ -435,7 +435,7 @@
         "Zebstrika": 1,
         "Shuppet": 8,
         "Paldean wooper": 3,
-        "Salandit": 8,
+        "Salandit": 9,
         "School wishiwashi": 4,
         "Snivy": 7,
         "Wyrdeer": 2,
@@ -572,7 +572,7 @@
         "Palossand": 1,
         "Noice face eiscue": 2,
         "Electivire": 3,
-        "Cascoon": 2,
+        "Cascoon": 3,
         "Tentacruel": 4,
         "Nuzleaf": 5,
         "Scorbunny": 12,
@@ -620,7 +620,7 @@
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
-        "Frillish": 7,
+        "Frillish": 8,
         "Manaphy": 1,
         "Gardevoir": 1,
         "Malamar": 2,
@@ -845,7 +845,7 @@
         "Granbull": 1,
         "Graveler": 3,
         "Carbink": 1,
-        "Armaldo": 2,
+        "Armaldo": 3,
         "Grimmsnarl": 1,
         "Quagsire": 2,
         "Darkrai": 1,
@@ -922,8 +922,8 @@
         "Wynaut": 1,
         "Hattrem": 1
       },
-      "total_spawns": 6604,
-      "last_spawn": "2026-06-23T13:13:17.434597"
+      "total_spawns": 6609,
+      "last_spawn": "2026-06-23T13:13:51.853469"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -941,7 +941,7 @@
     }
   },
   "global": {
-    "total_spawns": 10892,
+    "total_spawns": 10897,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
