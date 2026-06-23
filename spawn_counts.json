@@ -179,7 +179,7 @@
         "Binacle": 10,
         "Grafaiai": 7,
         "Quilladin": 5,
-        "Geodude": 28,
+        "Geodude": 29,
         "Espurr": 8,
         "Cottonee": 3,
         "Elgyem": 7,
@@ -210,7 +210,7 @@
         "Aipom": 6,
         "Growlithe": 9,
         "Sewaddle": 30,
-        "Fidough": 19,
+        "Fidough": 20,
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 26,
@@ -268,7 +268,7 @@
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
-        "Glimmet": 31,
+        "Glimmet": 32,
         "Goomy": 17,
         "Zapdos": 1,
         "Natu": 6,
@@ -276,7 +276,7 @@
         "Bagon": 12,
         "Sudowoodo": 3,
         "Stoutland": 2,
-        "Rowlet": 10,
+        "Rowlet": 11,
         "Galarian slowpoke": 1,
         "Poliwhirl": 8,
         "Crocalor": 15,
@@ -361,7 +361,7 @@
         "Three-segment dudunsparce": 2,
         "Fearow": 3,
         "Mankey": 10,
-        "Bidoof": 9,
+        "Bidoof": 10,
         "Quilava": 14,
         "Finizen": 26,
         "Unown y": 1,
@@ -913,10 +913,11 @@
         "Ludicolo": 1,
         "Eldegoss": 1,
         "Dracozolt": 1,
-        "Galarian rapidash": 1
+        "Galarian rapidash": 1,
+        "Skuntank": 1
       },
-      "total_spawns": 6316,
-      "last_spawn": "2026-06-23T12:41:09.989098"
+      "total_spawns": 6322,
+      "last_spawn": "2026-06-23T12:41:46.973654"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -934,7 +935,7 @@
     }
   },
   "global": {
-    "total_spawns": 10604,
+    "total_spawns": 10610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
