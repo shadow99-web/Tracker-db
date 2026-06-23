@@ -97,7 +97,7 @@
         "Kabuto": 13,
         "Scatterbug": 40,
         "Pumpkaboo": 12,
-        "Numel": 20,
+        "Numel": 21,
         "Carracosta": 3,
         "Smearguru": 31,
         "Veluza": 51,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 47,
+        "Bellsprout": 48,
         "Mudbray": 11,
         "Dreepy": 40,
         "Tinkaton": 3,
@@ -450,7 +450,7 @@
         "Morgrem": 8,
         "Misdreavus": 6,
         "Seviper": 1,
-        "Scovillain": 9,
+        "Scovillain": 10,
         "Sunkern": 7,
         "Drizzile": 5,
         "Sunflora": 3,
@@ -625,7 +625,7 @@
         "Gardevoir": 1,
         "Malamar": 2,
         "Frost rotom": 1,
-        "Tatsugiri": 12,
+        "Tatsugiri": 13,
         "Nidorino": 7,
         "Wailmer": 10,
         "Krabby": 8,
@@ -682,7 +682,7 @@
         "Oranguru": 3,
         "Poliwrath": 3,
         "Blaziken": 2,
-        "Stantler": 8,
+        "Stantler": 9,
         "Butterfree": 2,
         "Koffing": 7,
         "Floragato": 7,
@@ -962,8 +962,8 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 8891,
-      "last_spawn": "2026-06-23T18:53:07.105261"
+      "total_spawns": 8896,
+      "last_spawn": "2026-06-23T18:53:37.298387"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13227,
+    "total_spawns": 13232,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
