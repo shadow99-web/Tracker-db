@@ -22,7 +22,7 @@
         "Tangela": 10,
         "Orbeetle": 3,
         "Dedenne": 3,
-        "Machop": 24,
+        "Machop": 25,
         "Dudunsparce": 4,
         "Gothita": 29,
         "Impidimp": 28,
@@ -156,7 +156,7 @@
         "Flapple": 3,
         "Aron": 25,
         "Boldore": 3,
-        "Spinarak": 11,
+        "Spinarak": 12,
         "Delcatty": 3,
         "Spiritomb": 3,
         "Yamper": 8,
@@ -215,7 +215,7 @@
         "Feraligatr": 4,
         "Tynamo": 28,
         "Orthworm": 29,
-        "Marill": 10,
+        "Marill": 11,
         "Joltik": 19,
         "Politoed": 3,
         "Cyndaquil": 13,
@@ -314,7 +314,7 @@
         "Jigglypuff": 11,
         "Nacli": 20,
         "Munna": 6,
-        "Pawniard": 7,
+        "Pawniard": 8,
         "Prof tangrowth": 13,
         "Jangmo-o": 13,
         "Trash wormadam": 2,
@@ -921,10 +921,11 @@
         "Sableye": 1,
         "Wynaut": 1,
         "Hattrem": 1,
-        "Clefable": 1
+        "Clefable": 1,
+        "Serperior": 1
       },
-      "total_spawns": 6650,
-      "last_spawn": "2026-06-23T13:18:37.255598"
+      "total_spawns": 6655,
+      "last_spawn": "2026-06-23T13:19:12.635562"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -942,7 +943,7 @@
     }
   },
   "global": {
-    "total_spawns": 10938,
+    "total_spawns": 10943,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
