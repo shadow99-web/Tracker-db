@@ -28,7 +28,7 @@
         "Impidimp": 35,
         "Charmander": 15,
         "Morelull": 5,
-        "Abra": 41,
+        "Abra": 42,
         "Sandile": 38,
         "Sandygast": 14,
         "Litwick": 65,
@@ -76,7 +76,7 @@
         "Froslass": 4,
         "Tarountula": 29,
         "Hatterene": 2,
-        "Phantump": 16,
+        "Phantump": 17,
         "Duosion": 11,
         "Amaura": 10,
         "Gimmighoul": 38,
@@ -129,7 +129,7 @@
         "Zigzagoon": 16,
         "Weedle": 55,
         "Flamigo": 36,
-        "Lillipup": 42,
+        "Lillipup": 43,
         "Shinx": 44,
         "Bounsweet": 29,
         "Noibat": 14,
@@ -375,7 +375,7 @@
         "Hippopotas": 6,
         "Spiky-eared pichu": 2,
         "Magearna": 1,
-        "Mabosstiff": 9,
+        "Mabosstiff": 10,
         "Squirtle": 18,
         "Remoraid": 5,
         "Torracat": 12,
@@ -949,10 +949,11 @@
         "Latias": 1,
         "Unown n": 1,
         "Unown exclamation": 1,
-        "Ninjask": 1
+        "Ninjask": 1,
+        "Nidoking": 1
       },
-      "total_spawns": 8486,
-      "last_spawn": "2026-06-23T17:34:07.200303"
+      "total_spawns": 8491,
+      "last_spawn": "2026-06-23T17:34:37.398957"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1004,7 +1005,7 @@
     }
   },
   "global": {
-    "total_spawns": 12816,
+    "total_spawns": 12821,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
