@@ -43,14 +43,14 @@
         "Fletchling": 30,
         "Skiploom": 12,
         "Timburr": 36,
-        "Dj rotom": 37,
+        "Dj rotom": 38,
         "Surskit": 19,
         "Seedot": 31,
         "Skitty": 10,
         "Greavard": 44,
         "Slugma": 11,
         "Grotle": 9,
-        "Porygon": 40,
+        "Porygon": 41,
         "Zubat": 55,
         "Vanillish": 10,
         "Tadbulb": 42,
@@ -72,7 +72,7 @@
         "Clefairy": 7,
         "Spinda": 2,
         "Fomantis": 6,
-        "Droopy tatsugiri": 19,
+        "Droopy tatsugiri": 20,
         "Froslass": 4,
         "Tarountula": 30,
         "Hatterene": 2,
@@ -171,7 +171,7 @@
         "Gastly": 35,
         "Taillow": 13,
         "Swinub": 37,
-        "Inkay": 14,
+        "Inkay": 15,
         "Gible": 24,
         "Rookidee": 26,
         "Minccino": 14,
@@ -589,7 +589,7 @@
         "Blaze breed tauros": 1,
         "Wimpod": 7,
         "Torterra": 2,
-        "Darmanitan": 1,
+        "Darmanitan": 2,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 11,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8779,
-      "last_spawn": "2026-06-23T18:40:07.059514"
+      "total_spawns": 8784,
+      "last_spawn": "2026-06-23T18:40:37.452546"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13114,
+    "total_spawns": 13119,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
