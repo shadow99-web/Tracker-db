@@ -24,7 +24,7 @@
         "Dedenne": 3,
         "Machop": 26,
         "Dudunsparce": 5,
-        "Gothita": 30,
+        "Gothita": 31,
         "Impidimp": 30,
         "Charmander": 13,
         "Morelull": 4,
@@ -119,7 +119,7 @@
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 28,
-        "Solosis": 32,
+        "Solosis": 33,
         "Battle cyclizar": 15,
         "Togetic": 8,
         "Palpitoad": 4,
@@ -132,7 +132,7 @@
         "Lillipup": 34,
         "Shinx": 38,
         "Bounsweet": 24,
-        "Noibat": 12,
+        "Noibat": 13,
         "Toxicroak": 4,
         "Charcadet": 38,
         "Croconaw": 11,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 7,
-        "Nickit": 9,
+        "Nickit": 10,
         "Ivysaur": 8,
         "Milcery": 5,
         "Gabite": 2,
@@ -596,7 +596,7 @@
         "Dewgong": 3,
         "Wartortle": 7,
         "Cetoddle": 21,
-        "Kricketot": 6,
+        "Kricketot": 7,
         "Porygon-z": 2,
         "Conkeldurr": 2,
         "Walking wake": 1,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7372,
-      "last_spawn": "2026-06-23T15:12:17.219848"
+      "total_spawns": 7377,
+      "last_spawn": "2026-06-23T15:12:51.892476"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11661,
+    "total_spawns": 11666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
