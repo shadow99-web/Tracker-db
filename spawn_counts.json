@@ -67,9 +67,9 @@
         "Glimmora": 13,
         "Starly": 38,
         "Tandemaus": 27,
-        "Smoliv": 40,
+        "Smoliv": 41,
         "Gloom": 9,
-        "Clefairy": 5,
+        "Clefairy": 6,
         "Spinda": 2,
         "Fomantis": 5,
         "Droopy tatsugiri": 19,
@@ -174,7 +174,7 @@
         "Inkay": 12,
         "Gible": 15,
         "Rookidee": 20,
-        "Minccino": 10,
+        "Minccino": 11,
         "Wurmple": 25,
         "Binacle": 10,
         "Grafaiai": 7,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 2,
         "Pancham": 5,
-        "Venipede": 30,
+        "Venipede": 31,
         "Cacturne": 4,
         "Oddish": 32,
         "Dragalge": 3,
@@ -372,7 +372,7 @@
         "Treecko": 14,
         "Sinistea": 3,
         "Cubchoo": 5,
-        "Hippopotas": 4,
+        "Hippopotas": 5,
         "Spiky-eared pichu": 2,
         "Magearna": 1,
         "Mabosstiff": 5,
@@ -531,7 +531,7 @@
         "Floatzel": 1,
         "Accelgor": 1,
         "Wormadam": 3,
-        "Axew": 20,
+        "Axew": 21,
         "Trevenant": 4,
         "Trubbish": 3,
         "Zorua": 7,
@@ -915,8 +915,8 @@
         "Dracozolt": 1,
         "Galarian rapidash": 1
       },
-      "total_spawns": 6295,
-      "last_spawn": "2026-06-23T12:38:47.222439"
+      "total_spawns": 6301,
+      "last_spawn": "2026-06-23T12:39:27.073390"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -934,7 +934,7 @@
     }
   },
   "global": {
-    "total_spawns": 10583,
+    "total_spawns": 10589,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
