@@ -89,7 +89,7 @@
         "Tropius": 1,
         "Poliwag": 33,
         "Metang": 6,
-        "Riolu": 5,
+        "Riolu": 6,
         "Exeggcute": 8,
         "Corphish": 4,
         "Hoppip": 35,
@@ -127,7 +127,7 @@
         "Teddiursa": 34,
         "Clamperl": 11,
         "Zigzagoon": 15,
-        "Weedle": 51,
+        "Weedle": 52,
         "Flamigo": 34,
         "Lillipup": 39,
         "Shinx": 41,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 7,
-        "Venipede": 40,
+        "Venipede": 41,
         "Cacturne": 4,
         "Oddish": 40,
         "Dragalge": 4,
@@ -541,7 +541,7 @@
         "Vanilluxe": 2,
         "Jolteon": 2,
         "Pawmot": 5,
-        "Skiddo": 5,
+        "Skiddo": 6,
         "Slowbro": 5,
         "Oricorio": 3,
         "Kangaskhan": 2,
@@ -883,7 +883,7 @@
         "Urshifu": 1,
         "Swalot": 1,
         "Cloyster": 1,
-        "Kingler": 2,
+        "Kingler": 3,
         "Alomomola": 2,
         "White-striped basculin": 1,
         "Ampharos": 1,
@@ -934,7 +934,7 @@
         "Druddigon": 1,
         "Honchkrow": 1,
         "Pyukumuku": 2,
-        "Machoke": 2,
+        "Machoke": 3,
         "Sunshine cherrim": 1,
         "Beautifly": 2,
         "Ting-lu": 1,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7953,
-      "last_spawn": "2026-06-23T16:33:27.379440"
+      "total_spawns": 7959,
+      "last_spawn": "2026-06-23T16:34:07.200974"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -987,7 +987,7 @@
     }
   },
   "global": {
-    "total_spawns": 12268,
+    "total_spawns": 12274,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
