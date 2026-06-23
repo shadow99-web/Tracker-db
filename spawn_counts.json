@@ -83,7 +83,7 @@
         "Baltoy": 15,
         "Mareep": 38,
         "Garbodor": 2,
-        "Slakoth": 42,
+        "Slakoth": 43,
         "Togepi": 27,
         "Falinks": 5,
         "Tropius": 1,
@@ -184,7 +184,7 @@
         "Cottonee": 4,
         "Elgyem": 9,
         "Luvdisc": 4,
-        "Vigoroth": 14,
+        "Vigoroth": 15,
         "Skorupi": 8,
         "Pikachu": 10,
         "Blue plumage squawkabilly": 6,
@@ -250,7 +250,7 @@
         "Turtwig": 6,
         "Prinplup": 7,
         "Tinkatink": 39,
-        "Lechonk": 36,
+        "Lechonk": 37,
         "Kommo-o": 1,
         "Dewott": 12,
         "Arrokuda": 8,
@@ -504,7 +504,7 @@
         "Alolan sandslash": 1,
         "Empoleon": 3,
         "Farigiraf": 11,
-        "Hakamo-o": 5,
+        "Hakamo-o": 6,
         "Glameow": 10,
         "Croagunk": 8,
         "Duraludon": 5,
@@ -700,7 +700,7 @@
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 2,
-        "Litten": 11,
+        "Litten": 12,
         "Abomasnow": 1,
         "Espeon": 2,
         "Hatenna": 28,
@@ -946,8 +946,8 @@
         "Iron treads": 1,
         "Meowstic": 1
       },
-      "total_spawns": 8111,
-      "last_spawn": "2026-06-23T16:51:11.840865"
+      "total_spawns": 8116,
+      "last_spawn": "2026-06-23T16:51:47.267934"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12439,
+    "total_spawns": 12444,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
