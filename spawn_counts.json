@@ -985,7 +985,7 @@
         "Gible": 2,
         "Larvesta": 1,
         "Starly": 1,
-        "Varoom": 1,
+        "Varoom": 2,
         "Weedle": 1,
         "Chef dente": 1,
         "Hatenna": 2,
@@ -996,7 +996,7 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 1,
         "Hisuian voltorb": 1,
-        "Dreepy": 2,
+        "Dreepy": 3,
         "Bagon": 1,
         "Archen": 1,
         "Shinx": 1,
@@ -1013,10 +1013,11 @@
         "Froakie": 1,
         "Hawlucha": 1,
         "Feebas": 1,
-        "Lapras": 1
+        "Lapras": 1,
+        "Seismitoad": 1
       },
-      "total_spawns": 58,
-      "last_spawn": "2026-06-23T22:27:28.046795"
+      "total_spawns": 61,
+      "last_spawn": "2026-06-23T22:29:47.708786"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1026,7 +1027,7 @@
     }
   },
   "global": {
-    "total_spawns": 13392,
+    "total_spawns": 13395,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
