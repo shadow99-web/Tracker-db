@@ -154,7 +154,7 @@
         "Dragapult": 5,
         "Rattata": 17,
         "Flapple": 5,
-        "Aron": 30,
+        "Aron": 31,
         "Boldore": 8,
         "Spinarak": 16,
         "Delcatty": 4,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 7,
-        "Tinkatink": 39,
+        "Tinkatink": 40,
         "Lechonk": 37,
         "Kommo-o": 1,
         "Dewott": 12,
@@ -464,7 +464,7 @@
         "Pineco": 9,
         "Chikorita": 7,
         "Woobat": 9,
-        "Wobbuffet": 1,
+        "Wobbuffet": 2,
         "Roselia": 4,
         "Shelgon": 8,
         "Buizel": 9,
@@ -769,7 +769,7 @@
         "Mamoswine": 2,
         "Drifblim": 2,
         "Meowscarada": 2,
-        "Roserade": 2,
+        "Roserade": 3,
         "Nidorina": 6,
         "Archaludon": 1,
         "Golduck": 2,
@@ -843,7 +843,7 @@
         "Lunatone": 3,
         "Exeggutor": 1,
         "Granbull": 1,
-        "Graveler": 5,
+        "Graveler": 6,
         "Carbink": 2,
         "Armaldo": 3,
         "Grimmsnarl": 3,
@@ -946,8 +946,8 @@
         "Iron treads": 1,
         "Meowstic": 1
       },
-      "total_spawns": 8116,
-      "last_spawn": "2026-06-23T16:51:47.267934"
+      "total_spawns": 8121,
+      "last_spawn": "2026-06-23T16:52:17.407036"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12444,
+    "total_spawns": 12449,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
