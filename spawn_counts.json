@@ -28,13 +28,13 @@
         "Impidimp": 26,
         "Charmander": 10,
         "Morelull": 2,
-        "Abra": 32,
+        "Abra": 33,
         "Sandile": 30,
         "Sandygast": 11,
         "Litwick": 55,
         "Grubbin": 25,
         "Escavalier": 6,
-        "Dratini": 18,
+        "Dratini": 19,
         "Kilowattrel": 6,
         "Lotad": 42,
         "Qwilfish": 5,
@@ -308,7 +308,7 @@
         "Bronzor": 15,
         "Dartrix": 6,
         "Yellow flower florges": 3,
-        "Zangoose": 5,
+        "Zangoose": 6,
         "Flygon": 2,
         "Shellos": 4,
         "Jigglypuff": 11,
@@ -354,7 +354,7 @@
         "Ledyba": 9,
         "Spritzee": 2,
         "Swirlix": 4,
-        "Aromatisse": 2,
+        "Aromatisse": 3,
         "Muk": 4,
         "Toxel": 7,
         "Banette": 2,
@@ -381,7 +381,7 @@
         "Torracat": 10,
         "Hisuian zorua": 1,
         "Wooloo": 7,
-        "Drifloon": 5,
+        "Drifloon": 6,
         "Golbat": 11,
         "Swablu": 7,
         "Shellder": 10,
@@ -445,7 +445,7 @@
         "Plusle": 2,
         "Skrelp": 5,
         "Raticate": 5,
-        "Wugtrio": 4,
+        "Wugtrio": 5,
         "Bellibolt": 4,
         "Morgrem": 7,
         "Misdreavus": 5,
@@ -916,8 +916,8 @@
         "Galarian rapidash": 1,
         "Skuntank": 1
       },
-      "total_spawns": 6358,
-      "last_spawn": "2026-06-23T12:45:47.264767"
+      "total_spawns": 6364,
+      "last_spawn": "2026-06-23T12:46:30.726037"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -935,7 +935,7 @@
     }
   },
   "global": {
-    "total_spawns": 10646,
+    "total_spawns": 10652,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
