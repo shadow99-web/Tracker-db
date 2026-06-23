@@ -74,7 +74,7 @@
         "Fomantis": 6,
         "Droopy tatsugiri": 20,
         "Froslass": 4,
-        "Tarountula": 30,
+        "Tarountula": 31,
         "Hatterene": 2,
         "Phantump": 17,
         "Duosion": 11,
@@ -102,7 +102,7 @@
         "Smearguru": 31,
         "Veluza": 51,
         "Barboach": 13,
-        "Klink": 29,
+        "Klink": 30,
         "Honedge": 57,
         "Wingull": 15,
         "Salamence": 1,
@@ -164,7 +164,7 @@
         "Kirlia": 10,
         "Piplup": 5,
         "Kakuna": 15,
-        "Weepinbell": 6,
+        "Weepinbell": 7,
         "Klawf": 38,
         "Vanillite": 36,
         "Flareon": 3,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 6,
-        "Pancham": 9,
+        "Pancham": 10,
         "Venipede": 49,
         "Cacturne": 4,
         "Oddish": 43,
@@ -563,7 +563,7 @@
         "Braviary": 3,
         "Raboot": 11,
         "Golem": 2,
-        "Slowking": 5,
+        "Slowking": 6,
         "Lilligant": 4,
         "Rabsca": 6,
         "Gulpin": 14,
@@ -961,8 +961,8 @@
         "Mawile": 1,
         "Dusknoir": 1
       },
-      "total_spawns": 8847,
-      "last_spawn": "2026-06-23T18:47:51.745294"
+      "total_spawns": 8852,
+      "last_spawn": "2026-06-23T18:48:27.405857"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1003,10 +1003,11 @@
         "Tynamo": 1,
         "Tandemaus": 1,
         "Smearguru": 1,
-        "Magnemite": 1
+        "Magnemite": 1,
+        "Teddiursa": 1
       },
-      "total_spawns": 48,
-      "last_spawn": "2026-06-23T18:12:58.714041"
+      "total_spawns": 49,
+      "last_spawn": "2026-06-23T18:48:11.718276"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1016,7 +1017,7 @@
     }
   },
   "global": {
-    "total_spawns": 13182,
+    "total_spawns": 13188,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
