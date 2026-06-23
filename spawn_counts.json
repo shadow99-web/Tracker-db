@@ -92,7 +92,7 @@
         "Riolu": 4,
         "Exeggcute": 8,
         "Corphish": 4,
-        "Hoppip": 27,
+        "Hoppip": 28,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 30,
@@ -154,7 +154,7 @@
         "Dragapult": 5,
         "Rattata": 15,
         "Flapple": 3,
-        "Aron": 25,
+        "Aron": 26,
         "Boldore": 3,
         "Spinarak": 13,
         "Delcatty": 3,
@@ -319,7 +319,7 @@
         "Jangmo-o": 13,
         "Trash wormadam": 2,
         "Quaxly": 9,
-        "Gossifleur": 8,
+        "Gossifleur": 9,
         "Oshawott": 9,
         "Murkrow": 10,
         "Bellsprout": 37,
@@ -369,7 +369,7 @@
         "Caterpie": 23,
         "Carvanha": 9,
         "Luxio": 9,
-        "Treecko": 14,
+        "Treecko": 15,
         "Sinistea": 3,
         "Cubchoo": 5,
         "Hippopotas": 6,
@@ -649,7 +649,7 @@
         "Shiftry": 1,
         "Arbok": 1,
         "Stretchy tatsugiri": 11,
-        "Mareanie": 4,
+        "Mareanie": 5,
         "Seadra": 5,
         "Beheeyem": 3,
         "Pinsir": 3,
@@ -692,7 +692,7 @@
         "Pyroar": 3,
         "Marshadow": 1,
         "Sliggoo": 4,
-        "Panpour": 8,
+        "Panpour": 9,
         "Tinkatuff": 3,
         "Bruxish": 3,
         "Corvisquire": 3,
@@ -926,8 +926,8 @@
         "Lycanroc": 1,
         "Kingdra": 1
       },
-      "total_spawns": 6763,
-      "last_spawn": "2026-06-23T14:03:47.305088"
+      "total_spawns": 6769,
+      "last_spawn": "2026-06-23T14:04:27.095633"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -946,7 +946,7 @@
     }
   },
   "global": {
-    "total_spawns": 11052,
+    "total_spawns": 11058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
