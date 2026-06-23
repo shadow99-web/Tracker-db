@@ -50,7 +50,7 @@
         "Greavard": 30,
         "Slugma": 6,
         "Grotle": 6,
-        "Porygon": 26,
+        "Porygon": 27,
         "Zubat": 47,
         "Vanillish": 9,
         "Tadbulb": 25,
@@ -474,7 +474,7 @@
         "Gulping cramorant": 2,
         "Simisear": 1,
         "White plumage squawkabilly": 9,
-        "Shelmet": 7,
+        "Shelmet": 8,
         "Solrock": 1,
         "Slowpoke": 10,
         "Dolliv": 5,
@@ -682,10 +682,10 @@
         "Oranguru": 2,
         "Poliwrath": 2,
         "Blaziken": 2,
-        "Stantler": 5,
+        "Stantler": 6,
         "Butterfree": 1,
         "Koffing": 5,
-        "Floragato": 4,
+        "Floragato": 5,
         "Seel": 3,
         "Shiinotic": 1,
         "Gumshoos": 2,
@@ -915,10 +915,11 @@
         "Dracozolt": 1,
         "Galarian rapidash": 1,
         "Skuntank": 1,
-        "Gogoat": 1
+        "Gogoat": 1,
+        "Bellossom": 1
       },
-      "total_spawns": 6380,
-      "last_spawn": "2026-06-23T12:48:11.935820"
+      "total_spawns": 6385,
+      "last_spawn": "2026-06-23T12:48:47.023358"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -936,7 +937,7 @@
     }
   },
   "global": {
-    "total_spawns": 10668,
+    "total_spawns": 10673,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
