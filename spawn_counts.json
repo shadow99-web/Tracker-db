@@ -32,7 +32,7 @@
         "Sandile": 34,
         "Sandygast": 14,
         "Litwick": 64,
-        "Grubbin": 32,
+        "Grubbin": 33,
         "Escavalier": 6,
         "Dratini": 26,
         "Kilowattrel": 8,
@@ -97,7 +97,7 @@
         "Kabuto": 11,
         "Scatterbug": 38,
         "Pumpkaboo": 11,
-        "Numel": 17,
+        "Numel": 18,
         "Carracosta": 3,
         "Smearguru": 30,
         "Veluza": 49,
@@ -220,7 +220,7 @@
         "Politoed": 3,
         "Cyndaquil": 18,
         "Fuecoco": 11,
-        "Cyclizar": 15,
+        "Cyclizar": 16,
         "Magmar": 13,
         "Rillaboom": 3,
         "Ninetales": 2,
@@ -250,7 +250,7 @@
         "Turtwig": 6,
         "Prinplup": 7,
         "Tinkatink": 39,
-        "Lechonk": 35,
+        "Lechonk": 36,
         "Kommo-o": 1,
         "Dewott": 12,
         "Arrokuda": 8,
@@ -595,7 +595,7 @@
         "Mienfoo": 11,
         "Dewgong": 3,
         "Wartortle": 9,
-        "Cetoddle": 23,
+        "Cetoddle": 24,
         "Kricketot": 9,
         "Porygon-z": 2,
         "Conkeldurr": 3,
@@ -822,7 +822,7 @@
         "Galarian linoone": 1,
         "Xatu": 4,
         "Galarian corsola": 1,
-        "Cinderace": 1,
+        "Cinderace": 2,
         "Magcargo": 2,
         "Sensu oricorio": 3,
         "Rhyperior": 2,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8074,
-      "last_spawn": "2026-06-23T16:47:07.386170"
+      "total_spawns": 8080,
+      "last_spawn": "2026-06-23T16:47:47.082523"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -996,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12401,
+    "total_spawns": 12407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
