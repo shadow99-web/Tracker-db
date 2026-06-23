@@ -66,7 +66,7 @@
         "Lokix": 7,
         "Glimmora": 13,
         "Starly": 36,
-        "Tandemaus": 26,
+        "Tandemaus": 27,
         "Smoliv": 39,
         "Gloom": 9,
         "Clefairy": 4,
@@ -163,7 +163,7 @@
         "Tepig": 21,
         "Kirlia": 5,
         "Piplup": 4,
-        "Kakuna": 12,
+        "Kakuna": 13,
         "Weepinbell": 4,
         "Klawf": 26,
         "Vanillite": 26,
@@ -386,7 +386,7 @@
         "Swablu": 7,
         "Shellder": 10,
         "Crobat": 4,
-        "Sandshrew": 6,
+        "Sandshrew": 7,
         "Palafin": 6,
         "Maractus": 1,
         "Sigilyph": 4,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 7,
-        "Nickit": 8,
+        "Nickit": 9,
         "Ivysaur": 6,
         "Milcery": 4,
         "Gabite": 2,
@@ -787,7 +787,7 @@
         "Shieldon": 3,
         "Masquerain": 1,
         "Watchog": 2,
-        "Ditto": 2,
+        "Ditto": 3,
         "Dada zarude": 1,
         "Happiny": 1,
         "Matron trim furfrou": 1,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6059,
-      "last_spawn": "2026-06-23T12:12:17.321130"
+      "total_spawns": 6064,
+      "last_spawn": "2026-06-23T12:12:51.930484"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10347,
+    "total_spawns": 10352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
