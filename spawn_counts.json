@@ -31,7 +31,7 @@
         "Abra": 34,
         "Sandile": 31,
         "Sandygast": 13,
-        "Litwick": 57,
+        "Litwick": 58,
         "Grubbin": 28,
         "Escavalier": 6,
         "Dratini": 20,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 4,
         "Pancham": 5,
-        "Venipede": 35,
+        "Venipede": 36,
         "Cacturne": 4,
         "Oddish": 36,
         "Dragalge": 3,
@@ -323,7 +323,7 @@
         "Oshawott": 9,
         "Murkrow": 11,
         "Bellsprout": 39,
-        "Mudbray": 9,
+        "Mudbray": 10,
         "Dreepy": 30,
         "Tinkaton": 2,
         "Corviknight": 4,
@@ -401,7 +401,7 @@
         "Nosepass": 8,
         "Persian": 1,
         "Lopunny": 1,
-        "Squawkabilly": 8,
+        "Squawkabilly": 9,
         "Electrike": 12,
         "Drampa": 2,
         "Maschiff": 20,
@@ -470,7 +470,7 @@
         "Buizel": 7,
         "Arctozolt": 3,
         "Snorunt": 6,
-        "Bunnelby": 7,
+        "Bunnelby": 8,
         "Gulping cramorant": 2,
         "Simisear": 1,
         "White plumage squawkabilly": 10,
@@ -846,7 +846,7 @@
         "Graveler": 3,
         "Carbink": 1,
         "Armaldo": 3,
-        "Grimmsnarl": 1,
+        "Grimmsnarl": 2,
         "Quagsire": 2,
         "Darkrai": 1,
         "Togedemaru": 2,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6891,
-      "last_spawn": "2026-06-23T14:18:07.209514"
+      "total_spawns": 6897,
+      "last_spawn": "2026-06-23T14:18:47.286392"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11180,
+    "total_spawns": 11186,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
