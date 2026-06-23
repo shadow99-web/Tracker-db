@@ -99,7 +99,7 @@
         "Pumpkaboo": 8,
         "Numel": 16,
         "Carracosta": 1,
-        "Smearguru": 23,
+        "Smearguru": 24,
         "Veluza": 39,
         "Barboach": 8,
         "Klink": 18,
@@ -283,7 +283,7 @@
         "Cryogonal": 1,
         "Eternatus": 1,
         "Gholdengo": 10,
-        "Charmeleon": 2,
+        "Charmeleon": 3,
         "Dipplin": 1,
         "Cramorant": 3,
         "Chef dente": 14,
@@ -410,7 +410,7 @@
         "Dondozo": 20,
         "Pansear": 9,
         "Cutiefly": 7,
-        "Peakychu": 16,
+        "Peakychu": 17,
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 15,
@@ -682,7 +682,7 @@
         "Oranguru": 2,
         "Poliwrath": 2,
         "Blaziken": 2,
-        "Stantler": 4,
+        "Stantler": 5,
         "Butterfree": 1,
         "Koffing": 5,
         "Floragato": 4,
@@ -916,8 +916,8 @@
         "Galarian rapidash": 1,
         "Skuntank": 1
       },
-      "total_spawns": 6327,
-      "last_spawn": "2026-06-23T12:42:17.077300"
+      "total_spawns": 6331,
+      "last_spawn": "2026-06-23T12:42:47.294106"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -935,7 +935,7 @@
     }
   },
   "global": {
-    "total_spawns": 10615,
+    "total_spawns": 10619,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
