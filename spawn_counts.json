@@ -25,7 +25,7 @@
         "Machop": 31,
         "Dudunsparce": 6,
         "Gothita": 35,
-        "Impidimp": 35,
+        "Impidimp": 36,
         "Charmander": 15,
         "Morelull": 5,
         "Abra": 42,
@@ -53,7 +53,7 @@
         "Porygon": 39,
         "Zubat": 54,
         "Vanillish": 10,
-        "Tadbulb": 35,
+        "Tadbulb": 36,
         "Magnemite": 49,
         "Whismur": 34,
         "Monferno": 15,
@@ -130,7 +130,7 @@
         "Weedle": 55,
         "Flamigo": 36,
         "Lillipup": 43,
-        "Shinx": 44,
+        "Shinx": 45,
         "Bounsweet": 29,
         "Noibat": 14,
         "Toxicroak": 5,
@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 10,
         "Charjabug": 10,
-        "Capsakid": 29,
+        "Capsakid": 30,
         "Revavroom": 14,
         "Exploud": 3,
         "Deino": 20,
@@ -407,7 +407,7 @@
         "Maschiff": 29,
         "Rufflet": 14,
         "Kabutops": 2,
-        "Dondozo": 27,
+        "Dondozo": 28,
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 30,
@@ -673,7 +673,7 @@
         "Grimer": 6,
         "Crabominable": 3,
         "Quaquaval": 1,
-        "Sprigatito": 13,
+        "Sprigatito": 14,
         "Metagross": 3,
         "Eelektrik": 7,
         "Gastrodon": 4,
@@ -953,8 +953,8 @@
         "Nidoking": 1,
         "Pichu": 1
       },
-      "total_spawns": 8532,
-      "last_spawn": "2026-06-23T17:39:27.533792"
+      "total_spawns": 8538,
+      "last_spawn": "2026-06-23T17:40:07.167168"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,7 +1006,7 @@
     }
   },
   "global": {
-    "total_spawns": 12862,
+    "total_spawns": 12868,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
