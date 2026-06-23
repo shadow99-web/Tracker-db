@@ -104,18 +104,18 @@
         "Barboach": 8,
         "Klink": 18,
         "Honedge": 46,
-        "Wingull": 8,
+        "Wingull": 9,
         "Salamence": 1,
         "Drakloak": 7,
         "Chewtle": 5,
         "Scizor": 1,
         "Sneasel": 9,
         "Bonsly": 1,
-        "Horsea": 23,
+        "Horsea": 24,
         "Frigibax": 19,
         "Spheal": 37,
         "Swadloon": 6,
-        "Flittle": 21,
+        "Flittle": 22,
         "Unfezant": 2,
         "Yamask": 4,
         "Ralts": 22,
@@ -322,7 +322,7 @@
         "Gossifleur": 6,
         "Oshawott": 9,
         "Murkrow": 8,
-        "Bellsprout": 31,
+        "Bellsprout": 32,
         "Mudbray": 8,
         "Dreepy": 27,
         "Tinkaton": 2,
@@ -894,8 +894,8 @@
         "Aqua breed tauros": 1,
         "Fan rotom": 1
       },
-      "total_spawns": 5780,
-      "last_spawn": "2026-06-23T11:40:37.510235"
+      "total_spawns": 5784,
+      "last_spawn": "2026-06-23T11:41:08.110621"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -907,7 +907,7 @@
     }
   },
   "global": {
-    "total_spawns": 10068,
+    "total_spawns": 10072,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
