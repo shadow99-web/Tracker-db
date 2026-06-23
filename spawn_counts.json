@@ -55,13 +55,13 @@
         "Vanillish": 10,
         "Tadbulb": 28,
         "Magnemite": 42,
-        "Whismur": 26,
+        "Whismur": 27,
         "Monferno": 13,
         "Skwovet": 5,
         "Bramblin": 31,
         "Yanma": 6,
         "Larvesta": 15,
-        "Beldum": 25,
+        "Beldum": 26,
         "Ducklett": 4,
         "Lokix": 7,
         "Glimmora": 13,
@@ -170,7 +170,7 @@
         "Flareon": 3,
         "Gastly": 27,
         "Taillow": 9,
-        "Swinub": 29,
+        "Swinub": 30,
         "Inkay": 14,
         "Gible": 16,
         "Rookidee": 21,
@@ -414,7 +414,7 @@
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 15,
-        "Tentacool": 3,
+        "Tentacool": 4,
         "Volcanion": 1,
         "Roaming gimmighoul": 19,
         "Summer sawsbuck": 3,
@@ -660,7 +660,7 @@
         "Bouffalant": 2,
         "Crabrawler": 5,
         "Budew": 1,
-        "Espathra": 4,
+        "Espathra": 5,
         "Vileplume": 2,
         "Kecleon": 1,
         "Sizzlipede": 6,
@@ -687,7 +687,7 @@
         "Koffing": 5,
         "Floragato": 5,
         "Seel": 3,
-        "Shiinotic": 2,
+        "Shiinotic": 3,
         "Gumshoos": 2,
         "Pyroar": 3,
         "Marshadow": 1,
@@ -922,8 +922,8 @@
         "Wynaut": 1,
         "Hattrem": 1
       },
-      "total_spawns": 6626,
-      "last_spawn": "2026-06-23T13:15:47.239160"
+      "total_spawns": 6632,
+      "last_spawn": "2026-06-23T13:16:27.506237"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -941,7 +941,7 @@
     }
   },
   "global": {
-    "total_spawns": 10914,
+    "total_spawns": 10920,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
