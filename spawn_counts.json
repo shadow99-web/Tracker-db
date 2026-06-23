@@ -152,7 +152,7 @@
         "Roggenrola": 20,
         "Pidove": 33,
         "Dragapult": 4,
-        "Rattata": 12,
+        "Rattata": 13,
         "Flapple": 3,
         "Aron": 21,
         "Boldore": 3,
@@ -226,7 +226,7 @@
         "Ninetales": 2,
         "Wattrel": 30,
         "Snubbull": 8,
-        "Spidops": 7,
+        "Spidops": 8,
         "Braixen": 10,
         "Drowzee": 10,
         "Blipbug": 26,
@@ -340,7 +340,7 @@
         "Samurott": 2,
         "Torchic": 10,
         "Sobble": 15,
-        "Mudkip": 8,
+        "Mudkip": 9,
         "Charjabug": 9,
         "Capsakid": 20,
         "Revavroom": 10,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 5,
         "Squirtle": 12,
-        "Remoraid": 3,
+        "Remoraid": 4,
         "Torracat": 9,
         "Hisuian zorua": 1,
         "Wooloo": 7,
@@ -717,7 +717,7 @@
         "Hydrapple": 1,
         "Emolga": 2,
         "Tsareena": 2,
-        "Blissey": 1,
+        "Blissey": 2,
         "Blastoise": 1,
         "Breloom": 1,
         "Zamazenta": 1,
@@ -893,8 +893,8 @@
         "Ambipom": 2,
         "Aqua breed tauros": 1
       },
-      "total_spawns": 5761,
-      "last_spawn": "2026-06-23T11:38:31.758524"
+      "total_spawns": 5766,
+      "last_spawn": "2026-06-23T11:39:07.050499"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -906,7 +906,7 @@
     }
   },
   "global": {
-    "total_spawns": 10049,
+    "total_spawns": 10054,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
