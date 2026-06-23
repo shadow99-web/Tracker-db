@@ -58,7 +58,7 @@
         "Whismur": 32,
         "Monferno": 15,
         "Skwovet": 6,
-        "Bramblin": 37,
+        "Bramblin": 38,
         "Yanma": 7,
         "Larvesta": 17,
         "Beldum": 29,
@@ -134,7 +134,7 @@
         "Bounsweet": 27,
         "Noibat": 14,
         "Toxicroak": 4,
-        "Charcadet": 42,
+        "Charcadet": 43,
         "Croconaw": 11,
         "Phanpy": 5,
         "Brambleghast": 10,
@@ -199,7 +199,7 @@
         "Meditite": 7,
         "Toedscruel": 11,
         "Probopass": 2,
-        "Scraggy": 14,
+        "Scraggy": 15,
         "Rhydon": 7,
         "Silcoon": 8,
         "Totodile": 11,
@@ -322,7 +322,7 @@
         "Gossifleur": 11,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 42,
+        "Bellsprout": 43,
         "Mudbray": 10,
         "Dreepy": 38,
         "Tinkaton": 3,
@@ -445,7 +445,7 @@
         "Plusle": 2,
         "Skrelp": 5,
         "Raticate": 7,
-        "Wugtrio": 6,
+        "Wugtrio": 7,
         "Bellibolt": 5,
         "Morgrem": 8,
         "Misdreavus": 5,
@@ -639,7 +639,7 @@
         "Latios": 1,
         "Silicobra": 8,
         "Snom": 5,
-        "East sea shellos": 4,
+        "East sea shellos": 5,
         "Corsola": 7,
         "Venomoth": 5,
         "Trumbeak": 7,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8089,
-      "last_spawn": "2026-06-23T16:48:47.285519"
+      "total_spawns": 8095,
+      "last_spawn": "2026-06-23T16:49:27.121081"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -996,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12417,
+    "total_spawns": 12423,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
