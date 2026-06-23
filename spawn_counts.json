@@ -22,7 +22,7 @@
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 3,
-        "Machop": 28,
+        "Machop": 29,
         "Dudunsparce": 6,
         "Gothita": 34,
         "Impidimp": 33,
@@ -47,7 +47,7 @@
         "Surskit": 19,
         "Seedot": 27,
         "Skitty": 9,
-        "Greavard": 40,
+        "Greavard": 41,
         "Slugma": 9,
         "Grotle": 9,
         "Porygon": 37,
@@ -148,7 +148,7 @@
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
-        "Bulbasaur": 9,
+        "Bulbasaur": 10,
         "Roggenrola": 36,
         "Pidove": 39,
         "Dragapult": 5,
@@ -583,7 +583,7 @@
         "Anorith": 10,
         "Meowth": 4,
         "Combee": 6,
-        "Fletchinder": 13,
+        "Fletchinder": 14,
         "Kingambit": 2,
         "Clodsire": 10,
         "Blaze breed tauros": 1,
@@ -797,7 +797,7 @@
         "Alolan golem": 1,
         "Dustox": 1,
         "Gliscor": 2,
-        "Mesprit": 1,
+        "Mesprit": 2,
         "Vaporeon": 3,
         "Unown i": 1,
         "Raichu": 1,
@@ -947,10 +947,11 @@
         "Meowstic": 1,
         "Luxray": 1,
         "Latias": 1,
-        "Unown n": 1
+        "Unown n": 1,
+        "Unown exclamation": 1
       },
-      "total_spawns": 8320,
-      "last_spawn": "2026-06-23T17:15:07.950555"
+      "total_spawns": 8326,
+      "last_spawn": "2026-06-23T17:15:47.156246"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12648,
+    "total_spawns": 12654,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
