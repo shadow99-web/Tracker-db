@@ -165,7 +165,7 @@
         "Piplup": 4,
         "Kakuna": 12,
         "Weepinbell": 4,
-        "Klawf": 25,
+        "Klawf": 26,
         "Vanillite": 25,
         "Flareon": 3,
         "Gastly": 24,
@@ -410,7 +410,7 @@
         "Dondozo": 19,
         "Pansear": 9,
         "Cutiefly": 7,
-        "Peakychu": 13,
+        "Peakychu": 14,
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 13,
@@ -644,7 +644,7 @@
         "Venomoth": 5,
         "Trumbeak": 5,
         "Aerodactyl": 4,
-        "Igglybuff": 4,
+        "Igglybuff": 5,
         "Archeops": 2,
         "Shiftry": 1,
         "Arbok": 1,
@@ -673,7 +673,7 @@
         "Grimer": 3,
         "Crabominable": 2,
         "Quaquaval": 1,
-        "Sprigatito": 4,
+        "Sprigatito": 5,
         "Metagross": 3,
         "Eelektrik": 2,
         "Gastrodon": 3,
@@ -900,10 +900,11 @@
         "Baxcalibur": 1,
         "Galarian articuno": 1,
         "Audino": 1,
-        "Orange flower florges": 1
+        "Orange flower florges": 1,
+        "Cursola": 1
       },
-      "total_spawns": 5932,
-      "last_spawn": "2026-06-23T11:58:07.239669"
+      "total_spawns": 5937,
+      "last_spawn": "2026-06-23T11:58:37.324321"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -921,7 +922,7 @@
     }
   },
   "global": {
-    "total_spawns": 10220,
+    "total_spawns": 10225,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
