@@ -165,12 +165,12 @@
         "Piplup": 4,
         "Kakuna": 13,
         "Weepinbell": 4,
-        "Klawf": 27,
+        "Klawf": 28,
         "Vanillite": 26,
         "Flareon": 3,
         "Gastly": 25,
         "Taillow": 9,
-        "Swinub": 26,
+        "Swinub": 27,
         "Inkay": 12,
         "Gible": 15,
         "Rookidee": 20,
@@ -339,7 +339,7 @@
         "Staryu": 8,
         "Samurott": 2,
         "Torchic": 12,
-        "Sobble": 16,
+        "Sobble": 17,
         "Mudkip": 9,
         "Charjabug": 9,
         "Capsakid": 21,
@@ -460,7 +460,7 @@
         "Cradily": 3,
         "Vulpix": 9,
         "Paras": 8,
-        "Herdier": 7,
+        "Herdier": 8,
         "Pineco": 6,
         "Chikorita": 5,
         "Woobat": 7,
@@ -911,10 +911,11 @@
         "Clawitzer": 1,
         "Leafeon": 1,
         "Ludicolo": 1,
-        "Eldegoss": 1
+        "Eldegoss": 1,
+        "Dracozolt": 1
       },
-      "total_spawns": 6234,
-      "last_spawn": "2026-06-23T12:31:51.717450"
+      "total_spawns": 6239,
+      "last_spawn": "2026-06-23T12:32:27.178683"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -932,7 +933,7 @@
     }
   },
   "global": {
-    "total_spawns": 10522,
+    "total_spawns": 10527,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
