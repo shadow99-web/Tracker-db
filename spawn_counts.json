@@ -28,7 +28,7 @@
         "Impidimp": 36,
         "Charmander": 16,
         "Morelull": 5,
-        "Abra": 42,
+        "Abra": 43,
         "Sandile": 41,
         "Sandygast": 14,
         "Litwick": 67,
@@ -136,7 +136,7 @@
         "Toxicroak": 5,
         "Charcadet": 45,
         "Croconaw": 12,
-        "Phanpy": 5,
+        "Phanpy": 6,
         "Brambleghast": 10,
         "Pidgey": 51,
         "Rhyhorn": 37,
@@ -882,7 +882,7 @@
         "High plain vivillon": 1,
         "Urshifu": 1,
         "Swalot": 1,
-        "Cloyster": 1,
+        "Cloyster": 2,
         "Kingler": 3,
         "Alomomola": 2,
         "White-striped basculin": 1,
@@ -954,10 +954,11 @@
         "Pichu": 1,
         "Carnivine": 1,
         "Goodra": 1,
-        "Aurorus": 1
+        "Aurorus": 1,
+        "Florges": 1
       },
-      "total_spawns": 8698,
-      "last_spawn": "2026-06-23T18:30:57.405707"
+      "total_spawns": 8702,
+      "last_spawn": "2026-06-23T18:31:27.802954"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1011,7 +1012,7 @@
     }
   },
   "global": {
-    "total_spawns": 13033,
+    "total_spawns": 13037,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
