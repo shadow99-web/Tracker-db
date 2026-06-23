@@ -15,7 +15,7 @@
         "Bombirdier": 27,
         "Litleo": 10,
         "Purrloin": 5,
-        "Tranquill": 6,
+        "Tranquill": 7,
         "Psyduck": 4,
         "Rockruff": 7,
         "Haunter": 7,
@@ -53,7 +53,7 @@
         "Porygon": 32,
         "Zubat": 49,
         "Vanillish": 10,
-        "Tadbulb": 31,
+        "Tadbulb": 32,
         "Magnemite": 45,
         "Whismur": 27,
         "Monferno": 15,
@@ -208,7 +208,7 @@
         "Tympole": 24,
         "Swellow": 3,
         "Aipom": 7,
-        "Growlithe": 9,
+        "Growlithe": 10,
         "Sewaddle": 32,
         "Fidough": 23,
         "Noivern": 2,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 7,
-        "Venipede": 39,
+        "Venipede": 40,
         "Cacturne": 4,
         "Oddish": 37,
         "Dragalge": 3,
@@ -703,7 +703,7 @@
         "Litten": 11,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 24,
+        "Hatenna": 25,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7377,
-      "last_spawn": "2026-06-23T15:12:51.892476"
+      "total_spawns": 7382,
+      "last_spawn": "2026-06-23T15:13:27.184681"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11666,
+    "total_spawns": 11671,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
