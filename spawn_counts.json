@@ -29,7 +29,7 @@
         "Charmander": 15,
         "Morelull": 5,
         "Abra": 40,
-        "Sandile": 35,
+        "Sandile": 36,
         "Sandygast": 14,
         "Litwick": 64,
         "Grubbin": 34,
@@ -47,7 +47,7 @@
         "Surskit": 19,
         "Seedot": 27,
         "Skitty": 9,
-        "Greavard": 38,
+        "Greavard": 39,
         "Slugma": 9,
         "Grotle": 9,
         "Porygon": 37,
@@ -102,7 +102,7 @@
         "Smearguru": 30,
         "Veluza": 50,
         "Barboach": 13,
-        "Klink": 28,
+        "Klink": 29,
         "Honedge": 54,
         "Wingull": 13,
         "Salamence": 1,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 36,
-        "Orthworm": 38,
+        "Orthworm": 39,
         "Marill": 12,
         "Joltik": 20,
         "Politoed": 3,
@@ -248,7 +248,7 @@
         "Swampert": 3,
         "Dachsbun": 11,
         "Turtwig": 6,
-        "Prinplup": 7,
+        "Prinplup": 8,
         "Tinkatink": 40,
         "Lechonk": 39,
         "Kommo-o": 1,
@@ -654,7 +654,7 @@
         "Beheeyem": 3,
         "Pinsir": 4,
         "Mothim": 3,
-        "Whirlipede": 9,
+        "Whirlipede": 10,
         "Absol": 3,
         "Annihilape": 4,
         "Bouffalant": 4,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8272,
-      "last_spawn": "2026-06-23T17:09:47.248690"
+      "total_spawns": 8278,
+      "last_spawn": "2026-06-23T17:10:27.093714"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12600,
+    "total_spawns": 12606,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
