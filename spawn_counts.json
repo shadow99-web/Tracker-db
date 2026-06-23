@@ -24,7 +24,7 @@
         "Dedenne": 3,
         "Machop": 28,
         "Dudunsparce": 5,
-        "Gothita": 31,
+        "Gothita": 32,
         "Impidimp": 32,
         "Charmander": 14,
         "Morelull": 5,
@@ -183,7 +183,7 @@
         "Espurr": 9,
         "Cottonee": 4,
         "Elgyem": 9,
-        "Luvdisc": 3,
+        "Luvdisc": 4,
         "Vigoroth": 14,
         "Skorupi": 8,
         "Pikachu": 9,
@@ -196,7 +196,7 @@
         "Helioptile": 8,
         "Hoothoot": 12,
         "Grookey": 15,
-        "Meditite": 6,
+        "Meditite": 7,
         "Toedscruel": 10,
         "Probopass": 2,
         "Scraggy": 14,
@@ -366,7 +366,7 @@
         "Finizen": 41,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 25,
+        "Caterpie": 26,
         "Carvanha": 10,
         "Luxio": 9,
         "Treecko": 16,
@@ -454,7 +454,7 @@
         "Sunkern": 7,
         "Drizzile": 5,
         "Sunflora": 3,
-        "Passimian": 2,
+        "Passimian": 3,
         "Iron moth": 1,
         "Cherubi": 5,
         "Cradily": 3,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7985,
-      "last_spawn": "2026-06-23T16:37:07.077334"
+      "total_spawns": 7990,
+      "last_spawn": "2026-06-23T16:37:37.224100"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -991,7 +991,7 @@
     }
   },
   "global": {
-    "total_spawns": 12308,
+    "total_spawns": 12313,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
