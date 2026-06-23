@@ -38,7 +38,7 @@
         "Kilowattrel": 6,
         "Lotad": 42,
         "Qwilfish": 5,
-        "Trapinch": 32,
+        "Trapinch": 33,
         "Toedscool": 30,
         "Fletchling": 23,
         "Skiploom": 9,
@@ -160,7 +160,7 @@
         "Delcatty": 3,
         "Spiritomb": 3,
         "Yamper": 7,
-        "Tepig": 22,
+        "Tepig": 23,
         "Kirlia": 5,
         "Piplup": 4,
         "Kakuna": 13,
@@ -184,7 +184,7 @@
         "Cottonee": 3,
         "Elgyem": 7,
         "Luvdisc": 3,
-        "Vigoroth": 9,
+        "Vigoroth": 10,
         "Skorupi": 7,
         "Pikachu": 6,
         "Blue plumage squawkabilly": 6,
@@ -404,7 +404,7 @@
         "Squawkabilly": 7,
         "Electrike": 12,
         "Drampa": 2,
-        "Maschiff": 16,
+        "Maschiff": 18,
         "Rufflet": 12,
         "Kabutops": 2,
         "Dondozo": 19,
@@ -911,8 +911,8 @@
         "Clawitzer": 1,
         "Leafeon": 1
       },
-      "total_spawns": 6127,
-      "last_spawn": "2026-06-23T12:19:51.729025"
+      "total_spawns": 6132,
+      "last_spawn": "2026-06-23T12:20:27.267759"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -930,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 10415,
+    "total_spawns": 10420,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
