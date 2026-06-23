@@ -25,7 +25,7 @@
         "Machop": 25,
         "Dudunsparce": 4,
         "Gothita": 29,
-        "Impidimp": 28,
+        "Impidimp": 29,
         "Charmander": 11,
         "Morelull": 3,
         "Abra": 34,
@@ -53,7 +53,7 @@
         "Porygon": 31,
         "Zubat": 48,
         "Vanillish": 10,
-        "Tadbulb": 30,
+        "Tadbulb": 31,
         "Magnemite": 42,
         "Whismur": 27,
         "Monferno": 13,
@@ -134,7 +134,7 @@
         "Bounsweet": 23,
         "Noibat": 11,
         "Toxicroak": 4,
-        "Charcadet": 35,
+        "Charcadet": 36,
         "Croconaw": 11,
         "Phanpy": 3,
         "Brambleghast": 8,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 34,
-        "Duskull": 35,
+        "Duskull": 36,
         "Bergmite": 7,
         "Pignite": 10,
         "Lurantis": 1,
@@ -348,7 +348,7 @@
         "Deino": 14,
         "Wooper": 16,
         "Dwebble": 8,
-        "Steenee": 10,
+        "Steenee": 11,
         "Darumaka": 10,
         "Arboliva": 3,
         "Ledyba": 10,
@@ -608,7 +608,7 @@
         "Turtonator": 2,
         "Hitmonlee": 2,
         "Houndstone": 1,
-        "Sandy wormadam": 1,
+        "Sandy wormadam": 2,
         "Stunky": 5,
         "Pupitar": 4,
         "Avalugg": 3,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6903,
-      "last_spawn": "2026-06-23T14:19:27.976388"
+      "total_spawns": 6909,
+      "last_spawn": "2026-06-23T14:20:07.091911"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11192,
+    "total_spawns": 11198,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
