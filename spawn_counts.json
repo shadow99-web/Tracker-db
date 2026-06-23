@@ -14,7 +14,7 @@
         "Wiglett": 38,
         "Bombirdier": 26,
         "Litleo": 9,
-        "Purrloin": 4,
+        "Purrloin": 5,
         "Tranquill": 6,
         "Psyduck": 3,
         "Rockruff": 7,
@@ -161,7 +161,7 @@
         "Spiritomb": 4,
         "Yamper": 8,
         "Tepig": 24,
-        "Kirlia": 6,
+        "Kirlia": 7,
         "Piplup": 5,
         "Kakuna": 13,
         "Weepinbell": 5,
@@ -526,7 +526,7 @@
         "Tyrunt": 4,
         "Garganacl": 1,
         "Chinchou": 3,
-        "Maushold": 10,
+        "Maushold": 11,
         "Bastiodon": 1,
         "Floatzel": 2,
         "Accelgor": 1,
@@ -809,7 +809,7 @@
         "Salazzle": 3,
         "Pidgeot": 3,
         "Drapion": 2,
-        "Barbaracle": 1,
+        "Barbaracle": 2,
         "Okidogi": 1,
         "Tauros": 1,
         "Slurpuff": 2,
@@ -887,7 +887,7 @@
         "Alomomola": 2,
         "White-striped basculin": 1,
         "Ampharos": 1,
-        "Whiscash": 1,
+        "Whiscash": 2,
         "Heracross": 1,
         "Orange flower floette": 1,
         "Ambipom": 3,
@@ -932,8 +932,8 @@
         "Steelix": 1,
         "Excadrill": 1
       },
-      "total_spawns": 7049,
-      "last_spawn": "2026-06-23T14:35:51.754816"
+      "total_spawns": 7054,
+      "last_spawn": "2026-06-23T14:36:29.851050"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +952,7 @@
     }
   },
   "global": {
-    "total_spawns": 11338,
+    "total_spawns": 11343,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
