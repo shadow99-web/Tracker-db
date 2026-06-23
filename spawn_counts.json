@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 15,
+        "Chimchar": 16,
         "Patrat": 6,
         "Mosslax": 20,
         "Drilbur": 6,
@@ -95,7 +95,7 @@
         "Hoppip": 28,
         "Sandslash": 1,
         "Kabuto": 11,
-        "Scatterbug": 30,
+        "Scatterbug": 31,
         "Pumpkaboo": 8,
         "Numel": 17,
         "Carracosta": 1,
@@ -170,7 +170,7 @@
         "Flareon": 3,
         "Gastly": 27,
         "Taillow": 9,
-        "Swinub": 31,
+        "Swinub": 32,
         "Inkay": 14,
         "Gible": 18,
         "Rookidee": 21,
@@ -417,7 +417,7 @@
         "Tentacool": 4,
         "Volcanion": 1,
         "Roaming gimmighoul": 20,
-        "Summer sawsbuck": 4,
+        "Summer sawsbuck": 5,
         "Delibird": 1,
         "Ride cyclizar": 11,
         "Gothorita": 6,
@@ -601,7 +601,7 @@
         "Conkeldurr": 2,
         "Walking wake": 1,
         "Yellow flower floette": 2,
-        "Medicham": 2,
+        "Medicham": 3,
         "Doublade": 4,
         "Naclstack": 5,
         "Claydol": 1,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 6970,
-      "last_spawn": "2026-06-23T14:27:07.144729"
+      "total_spawns": 6975,
+      "last_spawn": "2026-06-23T14:27:37.345293"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11259,
+    "total_spawns": 11264,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
