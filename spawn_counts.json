@@ -39,7 +39,7 @@
         "Lotad": 46,
         "Qwilfish": 5,
         "Trapinch": 39,
-        "Toedscool": 31,
+        "Toedscool": 32,
         "Fletchling": 24,
         "Skiploom": 10,
         "Timburr": 33,
@@ -74,7 +74,7 @@
         "Fomantis": 5,
         "Droopy tatsugiri": 19,
         "Froslass": 3,
-        "Tarountula": 23,
+        "Tarountula": 24,
         "Hatterene": 2,
         "Phantump": 13,
         "Duosion": 8,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 13,
         "Bonsly": 2,
-        "Horsea": 30,
+        "Horsea": 31,
         "Frigibax": 27,
         "Spheal": 45,
         "Swadloon": 7,
@@ -139,7 +139,7 @@
         "Phanpy": 4,
         "Brambleghast": 9,
         "Pidgey": 44,
-        "Rhyhorn": 32,
+        "Rhyhorn": 33,
         "Sentret": 9,
         "Yungoos": 3,
         "Diglett": 15,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 21,
         "Summer sawsbuck": 6,
         "Delibird": 1,
-        "Ride cyclizar": 11,
+        "Ride cyclizar": 12,
         "Gothorita": 7,
         "Varoom": 27,
         "Yellow plumage squawkabilly": 9,
@@ -938,8 +938,8 @@
         "Sunshine cherrim": 1,
         "Beautifly": 1
       },
-      "total_spawns": 7305,
-      "last_spawn": "2026-06-23T15:04:37.467365"
+      "total_spawns": 7310,
+      "last_spawn": "2026-06-23T15:05:11.695733"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -958,7 +958,7 @@
     }
   },
   "global": {
-    "total_spawns": 11594,
+    "total_spawns": 11599,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
