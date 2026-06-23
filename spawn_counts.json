@@ -138,7 +138,7 @@
         "Croconaw": 11,
         "Phanpy": 4,
         "Brambleghast": 10,
-        "Pidgey": 45,
+        "Pidgey": 46,
         "Rhyhorn": 33,
         "Sentret": 9,
         "Yungoos": 3,
@@ -156,7 +156,7 @@
         "Flapple": 4,
         "Aron": 28,
         "Boldore": 7,
-        "Spinarak": 15,
+        "Spinarak": 16,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 8,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 11,
-        "Nymble": 38,
+        "Nymble": 39,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 8,
@@ -550,7 +550,7 @@
         "Zweilous": 6,
         "Karrablast": 6,
         "Shroomish": 12,
-        "Snover": 7,
+        "Snover": 8,
         "Drednaw": 2,
         "Skarmory": 4,
         "Midnight lycanroc": 2,
@@ -829,7 +829,7 @@
         "Linoone": 1,
         "Omastar": 1,
         "Boltund": 2,
-        "Lickilicky": 2,
+        "Lickilicky": 3,
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 1,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7533,
-      "last_spawn": "2026-06-23T15:30:37.273769"
+      "total_spawns": 7538,
+      "last_spawn": "2026-06-23T15:31:11.962258"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -961,7 +961,7 @@
     }
   },
   "global": {
-    "total_spawns": 11822,
+    "total_spawns": 11827,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
