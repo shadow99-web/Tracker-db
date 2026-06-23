@@ -9,7 +9,7 @@
         "Drilbur": 9,
         "Pawmi": 43,
         "Electabuzz": 8,
-        "Rellor": 35,
+        "Rellor": 36,
         "Sandy burmy": 9,
         "Wiglett": 48,
         "Bombirdier": 35,
@@ -185,7 +185,7 @@
         "Elgyem": 10,
         "Luvdisc": 4,
         "Vigoroth": 17,
-        "Skorupi": 9,
+        "Skorupi": 10,
         "Pikachu": 11,
         "Blue plumage squawkabilly": 6,
         "Thwackey": 12,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 46,
-        "Duskull": 49,
+        "Duskull": 50,
         "Bergmite": 10,
         "Pignite": 14,
         "Lurantis": 1,
@@ -288,7 +288,7 @@
         "Cramorant": 4,
         "Chef dente": 24,
         "Volcarona": 2,
-        "Bewear": 2,
+        "Bewear": 3,
         "Piloswine": 12,
         "Simisage": 2,
         "Jellicent": 4,
@@ -519,7 +519,7 @@
         "Hariyama": 3,
         "Victreebel": 1,
         "Arctibax": 6,
-        "Foongus": 14,
+        "Foongus": 15,
         "Pansage": 7,
         "Cranidos": 8,
         "Spewpa": 7,
@@ -962,8 +962,8 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 8974,
-      "last_spawn": "2026-06-23T19:02:27.235347"
+      "total_spawns": 8979,
+      "last_spawn": "2026-06-23T19:02:57.276167"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13310,
+    "total_spawns": 13315,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
