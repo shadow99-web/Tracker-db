@@ -21,7 +21,7 @@
         "Haunter": 5,
         "Tangela": 10,
         "Orbeetle": 2,
-        "Dedenne": 2,
+        "Dedenne": 3,
         "Machop": 22,
         "Dudunsparce": 4,
         "Gothita": 28,
@@ -67,7 +67,7 @@
         "Glimmora": 13,
         "Starly": 36,
         "Tandemaus": 26,
-        "Smoliv": 37,
+        "Smoliv": 38,
         "Gloom": 9,
         "Clefairy": 4,
         "Spinda": 2,
@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 5,
-        "Tympole": 15,
+        "Tympole": 16,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -328,7 +328,7 @@
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 5,
-        "Nymble": 31,
+        "Nymble": 32,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 5,
@@ -901,10 +901,11 @@
         "Galarian articuno": 1,
         "Audino": 1,
         "Orange flower florges": 1,
-        "Cursola": 1
+        "Cursola": 1,
+        "Snorlax": 1
       },
-      "total_spawns": 5942,
-      "last_spawn": "2026-06-23T11:59:11.968545"
+      "total_spawns": 5947,
+      "last_spawn": "2026-06-23T11:59:47.198850"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -922,7 +923,7 @@
     }
   },
   "global": {
-    "total_spawns": 10230,
+    "total_spawns": 10235,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
