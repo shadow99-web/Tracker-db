@@ -23,7 +23,7 @@
         "Orbeetle": 3,
         "Dedenne": 3,
         "Machop": 25,
-        "Dudunsparce": 4,
+        "Dudunsparce": 5,
         "Gothita": 29,
         "Impidimp": 29,
         "Charmander": 12,
@@ -42,7 +42,7 @@
         "Toedscool": 31,
         "Fletchling": 23,
         "Skiploom": 10,
-        "Timburr": 32,
+        "Timburr": 33,
         "Dj rotom": 27,
         "Surskit": 16,
         "Seedot": 22,
@@ -179,7 +179,7 @@
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
-        "Geodude": 35,
+        "Geodude": 36,
         "Espurr": 8,
         "Cottonee": 4,
         "Elgyem": 8,
@@ -843,7 +843,7 @@
         "Lunatone": 3,
         "Exeggutor": 1,
         "Granbull": 1,
-        "Graveler": 3,
+        "Graveler": 4,
         "Carbink": 1,
         "Armaldo": 3,
         "Grimmsnarl": 2,
@@ -892,7 +892,7 @@
         "Orange flower floette": 1,
         "Ambipom": 3,
         "Aqua breed tauros": 1,
-        "Fan rotom": 1,
+        "Fan rotom": 2,
         "Stonjourner": 2,
         "Elekid": 1,
         "Floette": 2,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 6996,
-      "last_spawn": "2026-06-23T14:29:57.614019"
+      "total_spawns": 7001,
+      "last_spawn": "2026-06-23T14:30:31.863457"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11285,
+    "total_spawns": 11290,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
