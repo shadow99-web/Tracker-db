@@ -58,7 +58,7 @@
         "Whismur": 28,
         "Monferno": 15,
         "Skwovet": 6,
-        "Bramblin": 34,
+        "Bramblin": 35,
         "Yanma": 7,
         "Larvesta": 16,
         "Beldum": 28,
@@ -96,7 +96,7 @@
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 35,
-        "Pumpkaboo": 9,
+        "Pumpkaboo": 10,
         "Numel": 17,
         "Carracosta": 1,
         "Smearguru": 27,
@@ -160,7 +160,7 @@
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 8,
-        "Tepig": 24,
+        "Tepig": 25,
         "Kirlia": 7,
         "Piplup": 5,
         "Kakuna": 14,
@@ -196,7 +196,7 @@
         "Helioptile": 8,
         "Hoothoot": 12,
         "Grookey": 14,
-        "Meditite": 5,
+        "Meditite": 6,
         "Toedscruel": 10,
         "Probopass": 2,
         "Scraggy": 14,
@@ -213,7 +213,7 @@
         "Fidough": 24,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 30,
+        "Tynamo": 31,
         "Orthworm": 36,
         "Marill": 12,
         "Joltik": 20,
@@ -283,7 +283,7 @@
         "Cryogonal": 2,
         "Eternatus": 1,
         "Gholdengo": 10,
-        "Charmeleon": 3,
+        "Charmeleon": 4,
         "Dipplin": 1,
         "Cramorant": 3,
         "Chef dente": 17,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7454,
-      "last_spawn": "2026-06-23T15:21:33.975250"
+      "total_spawns": 7460,
+      "last_spawn": "2026-06-23T15:22:07.104793"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11743,
+    "total_spawns": 11749,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
