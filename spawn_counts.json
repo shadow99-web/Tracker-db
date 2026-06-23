@@ -18,7 +18,7 @@
         "Tranquill": 10,
         "Psyduck": 5,
         "Rockruff": 8,
-        "Haunter": 7,
+        "Haunter": 8,
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 3,
@@ -53,7 +53,7 @@
         "Porygon": 40,
         "Zubat": 55,
         "Vanillish": 10,
-        "Tadbulb": 40,
+        "Tadbulb": 41,
         "Magnemite": 50,
         "Whismur": 35,
         "Monferno": 15,
@@ -106,7 +106,7 @@
         "Honedge": 56,
         "Wingull": 14,
         "Salamence": 1,
-        "Drakloak": 10,
+        "Drakloak": 11,
         "Chewtle": 8,
         "Scizor": 1,
         "Sneasel": 15,
@@ -559,7 +559,7 @@
         "Kadabra": 12,
         "Chandelure": 6,
         "Ponyta": 14,
-        "Togekiss": 3,
+        "Togekiss": 4,
         "Braviary": 3,
         "Raboot": 11,
         "Golem": 2,
@@ -605,7 +605,7 @@
         "Doublade": 7,
         "Naclstack": 7,
         "Claydol": 1,
-        "Turtonator": 2,
+        "Turtonator": 3,
         "Hitmonlee": 2,
         "Houndstone": 5,
         "Sandy wormadam": 2,
@@ -959,8 +959,8 @@
         "Dandy trim furfrou": 1,
         "Rapidash": 1
       },
-      "total_spawns": 8762,
-      "last_spawn": "2026-06-23T18:38:11.736450"
+      "total_spawns": 8767,
+      "last_spawn": "2026-06-23T18:38:47.158242"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1014,7 +1014,7 @@
     }
   },
   "global": {
-    "total_spawns": 13097,
+    "total_spawns": 13102,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
