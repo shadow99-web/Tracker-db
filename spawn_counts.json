@@ -103,7 +103,7 @@
         "Veluza": 46,
         "Barboach": 12,
         "Klink": 26,
-        "Honedge": 53,
+        "Honedge": 54,
         "Wingull": 12,
         "Salamence": 1,
         "Drakloak": 9,
@@ -126,7 +126,7 @@
         "Pikipek": 49,
         "Teddiursa": 34,
         "Clamperl": 11,
-        "Zigzagoon": 14,
+        "Zigzagoon": 15,
         "Weedle": 50,
         "Flamigo": 34,
         "Lillipup": 36,
@@ -218,7 +218,7 @@
         "Marill": 12,
         "Joltik": 20,
         "Politoed": 3,
-        "Cyndaquil": 16,
+        "Cyndaquil": 17,
         "Fuecoco": 10,
         "Cyclizar": 14,
         "Magmar": 13,
@@ -286,7 +286,7 @@
         "Charmeleon": 4,
         "Dipplin": 1,
         "Cramorant": 3,
-        "Chef dente": 17,
+        "Chef dente": 18,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 10,
@@ -596,7 +596,7 @@
         "Dewgong": 3,
         "Wartortle": 8,
         "Cetoddle": 22,
-        "Kricketot": 7,
+        "Kricketot": 8,
         "Porygon-z": 2,
         "Conkeldurr": 2,
         "Walking wake": 1,
@@ -673,7 +673,7 @@
         "Grimer": 4,
         "Crabominable": 2,
         "Quaquaval": 1,
-        "Sprigatito": 10,
+        "Sprigatito": 11,
         "Metagross": 3,
         "Eelektrik": 6,
         "Gastrodon": 4,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7628,
-      "last_spawn": "2026-06-23T15:41:31.817183"
+      "total_spawns": 7634,
+      "last_spawn": "2026-06-23T15:42:07.199435"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -963,7 +963,7 @@
     }
   },
   "global": {
-    "total_spawns": 11918,
+    "total_spawns": 11924,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
