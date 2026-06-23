@@ -103,7 +103,7 @@
         "Veluza": 44,
         "Barboach": 11,
         "Klink": 23,
-        "Honedge": 51,
+        "Honedge": 52,
         "Wingull": 12,
         "Salamence": 1,
         "Drakloak": 9,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 11,
         "Quilava": 14,
-        "Finizen": 33,
+        "Finizen": 34,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 23,
@@ -423,7 +423,7 @@
         "Gothorita": 7,
         "Varoom": 26,
         "Yellow plumage squawkabilly": 9,
-        "Centiskorch": 3,
+        "Centiskorch": 4,
         "Low key toxtricity": 1,
         "Grapploct": 2,
         "Gurdurr": 6,
@@ -595,7 +595,7 @@
         "Mienfoo": 11,
         "Dewgong": 3,
         "Wartortle": 7,
-        "Cetoddle": 20,
+        "Cetoddle": 21,
         "Kricketot": 6,
         "Porygon-z": 2,
         "Conkeldurr": 2,
@@ -747,7 +747,7 @@
         "Hitmonchan": 1,
         "Relicanth": 1,
         "Klefki": 3,
-        "Frogadier": 9,
+        "Frogadier": 10,
         "Dewpider": 7,
         "Poltchageist": 2,
         "Incineroar": 2,
@@ -930,14 +930,14 @@
         "Delphox": 1,
         "Rampardos": 1,
         "Steelix": 1,
-        "Excadrill": 1,
+        "Excadrill": 2,
         "Druddigon": 1,
         "Honchkrow": 1,
         "Pyukumuku": 1,
         "Machoke": 1
       },
-      "total_spawns": 7227,
-      "last_spawn": "2026-06-23T14:55:47.137296"
+      "total_spawns": 7233,
+      "last_spawn": "2026-06-23T14:56:33.901163"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -956,7 +956,7 @@
     }
   },
   "global": {
-    "total_spawns": 11516,
+    "total_spawns": 11522,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
