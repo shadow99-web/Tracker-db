@@ -47,7 +47,7 @@
         "Surskit": 16,
         "Seedot": 22,
         "Skitty": 9,
-        "Greavard": 32,
+        "Greavard": 33,
         "Slugma": 6,
         "Grotle": 8,
         "Porygon": 31,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 14,
         "Togetic": 8,
         "Palpitoad": 3,
-        "Pikipek": 42,
+        "Pikipek": 43,
         "Teddiursa": 30,
         "Clamperl": 11,
         "Zigzagoon": 14,
@@ -250,7 +250,7 @@
         "Turtwig": 6,
         "Prinplup": 6,
         "Tinkatink": 38,
-        "Lechonk": 29,
+        "Lechonk": 30,
         "Kommo-o": 1,
         "Dewott": 9,
         "Arrokuda": 6,
@@ -410,7 +410,7 @@
         "Dondozo": 21,
         "Pansear": 9,
         "Cutiefly": 7,
-        "Peakychu": 18,
+        "Peakychu": 19,
         "Armarouge": 7,
         "Tyrantrum": 1,
         "Larvitar": 16,
@@ -461,7 +461,7 @@
         "Vulpix": 10,
         "Paras": 8,
         "Herdier": 8,
-        "Pineco": 6,
+        "Pineco": 7,
         "Chikorita": 5,
         "Woobat": 9,
         "Wobbuffet": 1,
@@ -557,7 +557,7 @@
         "Eelektross": 1,
         "Araquanid": 3,
         "Kadabra": 5,
-        "Chandelure": 5,
+        "Chandelure": 6,
         "Ponyta": 10,
         "Togekiss": 2,
         "Braviary": 3,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6923,
-      "last_spawn": "2026-06-23T14:21:47.305116"
+      "total_spawns": 6929,
+      "last_spawn": "2026-06-23T14:22:27.080380"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11212,
+    "total_spawns": 11218,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
