@@ -83,7 +83,7 @@
         "Baltoy": 16,
         "Mareep": 38,
         "Garbodor": 2,
-        "Slakoth": 43,
+        "Slakoth": 44,
         "Togepi": 27,
         "Falinks": 5,
         "Tropius": 1,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 41,
+        "Shroodle": 42,
         "Duskull": 46,
         "Bergmite": 9,
         "Pignite": 14,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 8,
-        "Venipede": 45,
+        "Venipede": 46,
         "Cacturne": 4,
         "Oddish": 40,
         "Dragalge": 4,
@@ -338,7 +338,7 @@
         "Sealeo": 12,
         "Staryu": 8,
         "Samurott": 2,
-        "Torchic": 16,
+        "Torchic": 17,
         "Sobble": 18,
         "Mudkip": 10,
         "Charjabug": 10,
@@ -947,8 +947,8 @@
         "Meowstic": 1,
         "Luxray": 1
       },
-      "total_spawns": 8167,
-      "last_spawn": "2026-06-23T16:57:37.089926"
+      "total_spawns": 8171,
+      "last_spawn": "2026-06-23T16:58:07.755261"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -998,7 +998,7 @@
     }
   },
   "global": {
-    "total_spawns": 12495,
+    "total_spawns": 12499,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
