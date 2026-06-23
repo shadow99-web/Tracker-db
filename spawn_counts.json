@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 19,
         "Kilowattrel": 6,
-        "Lotad": 42,
+        "Lotad": 43,
         "Qwilfish": 5,
         "Trapinch": 34,
         "Toedscool": 30,
@@ -90,7 +90,7 @@
         "Poliwag": 26,
         "Metang": 5,
         "Riolu": 4,
-        "Exeggcute": 7,
+        "Exeggcute": 8,
         "Corphish": 4,
         "Hoppip": 26,
         "Sandslash": 1,
@@ -100,7 +100,7 @@
         "Numel": 16,
         "Carracosta": 1,
         "Smearguru": 24,
-        "Veluza": 39,
+        "Veluza": 40,
         "Barboach": 8,
         "Klink": 18,
         "Honedge": 48,
@@ -250,7 +250,7 @@
         "Turtwig": 6,
         "Prinplup": 5,
         "Tinkatink": 35,
-        "Lechonk": 28,
+        "Lechonk": 29,
         "Kommo-o": 1,
         "Dewott": 9,
         "Arrokuda": 6,
@@ -384,7 +384,7 @@
         "Drifloon": 6,
         "Golbat": 11,
         "Swablu": 7,
-        "Shellder": 10,
+        "Shellder": 11,
         "Crobat": 5,
         "Sandshrew": 7,
         "Palafin": 7,
@@ -673,7 +673,7 @@
         "Grimer": 3,
         "Crabominable": 2,
         "Quaquaval": 1,
-        "Sprigatito": 6,
+        "Sprigatito": 7,
         "Metagross": 3,
         "Eelektrik": 3,
         "Gastrodon": 3,
@@ -919,8 +919,8 @@
         "Bellossom": 1,
         "Pirouette meloetta": 1
       },
-      "total_spawns": 6468,
-      "last_spawn": "2026-06-23T12:58:07.188428"
+      "total_spawns": 6474,
+      "last_spawn": "2026-06-23T12:58:46.989939"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -938,7 +938,7 @@
     }
   },
   "global": {
-    "total_spawns": 10756,
+    "total_spawns": 10762,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
