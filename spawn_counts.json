@@ -197,7 +197,7 @@
         "Hoothoot": 12,
         "Grookey": 15,
         "Meditite": 7,
-        "Toedscruel": 11,
+        "Toedscruel": 12,
         "Probopass": 2,
         "Scraggy": 15,
         "Rhydon": 10,
@@ -213,7 +213,7 @@
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 37,
+        "Tynamo": 38,
         "Orthworm": 39,
         "Marill": 12,
         "Joltik": 20,
@@ -296,9 +296,9 @@
         "Ferroseed": 12,
         "Brionne": 6,
         "Pancham": 9,
-        "Venipede": 48,
+        "Venipede": 49,
         "Cacturne": 4,
-        "Oddish": 41,
+        "Oddish": 42,
         "Dragalge": 4,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8433,
-      "last_spawn": "2026-06-23T17:28:07.102454"
+      "total_spawns": 8437,
+      "last_spawn": "2026-06-23T17:28:37.521235"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1002,7 +1002,7 @@
     }
   },
   "global": {
-    "total_spawns": 12761,
+    "total_spawns": 12765,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
