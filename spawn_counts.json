@@ -31,7 +31,7 @@
         "Abra": 39,
         "Sandile": 33,
         "Sandygast": 13,
-        "Litwick": 62,
+        "Litwick": 63,
         "Grubbin": 29,
         "Escavalier": 6,
         "Dratini": 23,
@@ -506,7 +506,7 @@
         "Farigiraf": 10,
         "Hakamo-o": 4,
         "Glameow": 10,
-        "Croagunk": 6,
+        "Croagunk": 7,
         "Duraludon": 5,
         "Sawk": 2,
         "Starmie": 2,
@@ -942,18 +942,19 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7655,
-      "last_spawn": "2026-06-23T15:44:27.172916"
+      "total_spawns": 7657,
+      "last_spawn": "2026-06-23T15:44:37.242263"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Brionne": 1,
         "Sandygast": 1,
-        "Clauncher": 1
+        "Clauncher": 1,
+        "Barbaracle": 1
       },
-      "total_spawns": 3,
-      "last_spawn": "2026-06-23T15:34:17.735849"
+      "total_spawns": 4,
+      "last_spawn": "2026-06-23T15:46:35.510489"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -963,7 +964,7 @@
     }
   },
   "global": {
-    "total_spawns": 11945,
+    "total_spawns": 11948,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
