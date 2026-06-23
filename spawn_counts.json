@@ -31,14 +31,14 @@
         "Abra": 28,
         "Sandile": 30,
         "Sandygast": 10,
-        "Litwick": 54,
+        "Litwick": 55,
         "Grubbin": 24,
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
         "Lotad": 42,
         "Qwilfish": 5,
-        "Trapinch": 31,
+        "Trapinch": 32,
         "Toedscool": 30,
         "Fletchling": 23,
         "Skiploom": 9,
@@ -65,7 +65,7 @@
         "Ducklett": 3,
         "Lokix": 7,
         "Glimmora": 13,
-        "Starly": 36,
+        "Starly": 37,
         "Tandemaus": 27,
         "Smoliv": 39,
         "Gloom": 9,
@@ -428,7 +428,7 @@
         "Grapploct": 1,
         "Gurdurr": 6,
         "Girafarig": 3,
-        "Flaaffy": 3,
+        "Flaaffy": 4,
         "Pecharunt": 1,
         "Feebas": 6,
         "Buneary": 6,
@@ -907,10 +907,11 @@
         "Glaceon": 1,
         "Primarina": 1,
         "Unown x": 1,
-        "Aggron": 1
+        "Aggron": 1,
+        "Clawitzer": 1
       },
-      "total_spawns": 6117,
-      "last_spawn": "2026-06-23T12:18:47.086550"
+      "total_spawns": 6122,
+      "last_spawn": "2026-06-23T12:19:17.519657"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -928,7 +929,7 @@
     }
   },
   "global": {
-    "total_spawns": 10405,
+    "total_spawns": 10410,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
