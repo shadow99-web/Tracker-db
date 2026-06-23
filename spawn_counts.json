@@ -11,7 +11,7 @@
         "Electabuzz": 6,
         "Rellor": 26,
         "Sandy burmy": 8,
-        "Wiglett": 37,
+        "Wiglett": 38,
         "Bombirdier": 26,
         "Litleo": 8,
         "Purrloin": 4,
@@ -143,7 +143,7 @@
         "Sentret": 6,
         "Yungoos": 3,
         "Diglett": 12,
-        "Doduo": 8,
+        "Doduo": 9,
         "Lairon": 9,
         "Emboar": 4,
         "Deoxys": 2,
@@ -179,7 +179,7 @@
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 5,
-        "Geodude": 32,
+        "Geodude": 33,
         "Espurr": 8,
         "Cottonee": 3,
         "Elgyem": 8,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 28,
-        "Orthworm": 29,
+        "Orthworm": 30,
         "Marill": 11,
         "Joltik": 19,
         "Politoed": 3,
@@ -650,7 +650,7 @@
         "Arbok": 1,
         "Stretchy tatsugiri": 11,
         "Mareanie": 5,
-        "Seadra": 5,
+        "Seadra": 6,
         "Beheeyem": 3,
         "Pinsir": 3,
         "Mothim": 2,
@@ -840,7 +840,7 @@
         "Manectric": 2,
         "Gallade": 1,
         "Family of three maushold": 1,
-        "Lunatone": 2,
+        "Lunatone": 3,
         "Exeggutor": 1,
         "Granbull": 1,
         "Graveler": 3,
@@ -926,8 +926,8 @@
         "Lycanroc": 1,
         "Kingdra": 1
       },
-      "total_spawns": 6784,
-      "last_spawn": "2026-06-23T14:06:08.288075"
+      "total_spawns": 6790,
+      "last_spawn": "2026-06-23T14:06:47.271193"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -946,7 +946,7 @@
     }
   },
   "global": {
-    "total_spawns": 11073,
+    "total_spawns": 11079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
