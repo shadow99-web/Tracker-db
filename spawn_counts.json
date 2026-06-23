@@ -55,7 +55,7 @@
         "Vanillish": 10,
         "Tadbulb": 32,
         "Magnemite": 45,
-        "Whismur": 30,
+        "Whismur": 31,
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 36,
@@ -195,7 +195,7 @@
         "Spearow": 12,
         "Helioptile": 8,
         "Hoothoot": 12,
-        "Grookey": 14,
+        "Grookey": 15,
         "Meditite": 6,
         "Toedscruel": 10,
         "Probopass": 2,
@@ -345,7 +345,7 @@
         "Capsakid": 25,
         "Revavroom": 10,
         "Exploud": 3,
-        "Deino": 17,
+        "Deino": 18,
         "Wooper": 18,
         "Dwebble": 9,
         "Steenee": 11,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 7,
         "Wailord": 1,
-        "Makuhita": 10,
+        "Makuhita": 11,
         "Lombre": 13,
         "Ursaluna": 2,
         "Furfrou": 2,
@@ -414,7 +414,7 @@
         "Armarouge": 8,
         "Tyrantrum": 1,
         "Larvitar": 16,
-        "Tentacool": 4,
+        "Tentacool": 5,
         "Volcanion": 1,
         "Roaming gimmighoul": 22,
         "Summer sawsbuck": 6,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7595,
-      "last_spawn": "2026-06-23T15:37:47.032852"
+      "total_spawns": 7600,
+      "last_spawn": "2026-06-23T15:38:17.192390"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -962,7 +962,7 @@
     }
   },
   "global": {
-    "total_spawns": 11885,
+    "total_spawns": 11890,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
