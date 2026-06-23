@@ -979,12 +979,12 @@
         "Roggenrola": 3,
         "Armarouge": 1,
         "Gastly": 1,
-        "Scatterbug": 4,
+        "Scatterbug": 5,
         "Wurmple": 1,
         "Gothita": 2,
         "Gible": 2,
         "Larvesta": 1,
-        "Starly": 1,
+        "Starly": 2,
         "Varoom": 2,
         "Weedle": 1,
         "Chef dente": 1,
@@ -1014,10 +1014,12 @@
         "Hawlucha": 1,
         "Feebas": 1,
         "Lapras": 1,
-        "Seismitoad": 1
+        "Seismitoad": 1,
+        "Frigibax": 1,
+        "Meowth": 1
       },
-      "total_spawns": 61,
-      "last_spawn": "2026-06-23T22:29:47.708786"
+      "total_spawns": 65,
+      "last_spawn": "2026-06-23T22:31:27.785581"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1027,7 +1029,7 @@
     }
   },
   "global": {
-    "total_spawns": 13395,
+    "total_spawns": 13399,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
