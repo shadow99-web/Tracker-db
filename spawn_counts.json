@@ -11,7 +11,7 @@
         "Electabuzz": 7,
         "Rellor": 30,
         "Sandy burmy": 9,
-        "Wiglett": 43,
+        "Wiglett": 44,
         "Bombirdier": 31,
         "Litleo": 11,
         "Purrloin": 6,
@@ -62,7 +62,7 @@
         "Yanma": 7,
         "Larvesta": 17,
         "Beldum": 28,
-        "Ducklett": 5,
+        "Ducklett": 6,
         "Lokix": 10,
         "Glimmora": 14,
         "Starly": 42,
@@ -150,10 +150,10 @@
         "Dracovish": 3,
         "Bulbasaur": 9,
         "Roggenrola": 32,
-        "Pidove": 37,
+        "Pidove": 38,
         "Dragapult": 5,
         "Rattata": 17,
-        "Flapple": 4,
+        "Flapple": 5,
         "Aron": 29,
         "Boldore": 8,
         "Spinarak": 16,
@@ -407,7 +407,7 @@
         "Maschiff": 24,
         "Rufflet": 13,
         "Kabutops": 2,
-        "Dondozo": 24,
+        "Dondozo": 25,
         "Pansear": 10,
         "Cutiefly": 8,
         "Peakychu": 25,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7864,
-      "last_spawn": "2026-06-23T16:23:26.979028"
+      "total_spawns": 7869,
+      "last_spawn": "2026-06-23T16:23:57.262223"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -958,10 +958,12 @@
         "Mosslax": 1,
         "Rookidee": 1,
         "Roggenrola": 1,
-        "Armarouge": 1
+        "Armarouge": 1,
+        "Gastly": 1,
+        "Scatterbug": 1
       },
-      "total_spawns": 9,
-      "last_spawn": "2026-06-23T16:18:16.405962"
+      "total_spawns": 11,
+      "last_spawn": "2026-06-23T16:23:47.587608"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -971,7 +973,7 @@
     }
   },
   "global": {
-    "total_spawns": 12160,
+    "total_spawns": 12167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
