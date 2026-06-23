@@ -66,7 +66,7 @@
         "Lokix": 8,
         "Glimmora": 13,
         "Starly": 39,
-        "Tandemaus": 31,
+        "Tandemaus": 32,
         "Smoliv": 43,
         "Gloom": 9,
         "Clefairy": 6,
@@ -327,7 +327,7 @@
         "Dreepy": 29,
         "Tinkaton": 2,
         "Corviknight": 4,
-        "Froakie": 9,
+        "Froakie": 10,
         "Nymble": 36,
         "Ferrothorn": 1,
         "Servine": 6,
@@ -342,7 +342,7 @@
         "Sobble": 17,
         "Mudkip": 10,
         "Charjabug": 9,
-        "Capsakid": 21,
+        "Capsakid": 22,
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 14,
@@ -588,7 +588,7 @@
         "Clodsire": 8,
         "Blaze breed tauros": 1,
         "Wimpod": 4,
-        "Torterra": 1,
+        "Torterra": 2,
         "Darmanitan": 1,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
@@ -675,7 +675,7 @@
         "Quaquaval": 1,
         "Sprigatito": 8,
         "Metagross": 3,
-        "Eelektrik": 4,
+        "Eelektrik": 5,
         "Gastrodon": 4,
         "Golurk": 3,
         "Arcanine": 3,
@@ -689,7 +689,7 @@
         "Seel": 4,
         "Shiinotic": 3,
         "Gumshoos": 2,
-        "Pyroar": 3,
+        "Pyroar": 4,
         "Marshadow": 1,
         "Sliggoo": 4,
         "Panpour": 9,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6870,
-      "last_spawn": "2026-06-23T14:15:47.206471"
+      "total_spawns": 6876,
+      "last_spawn": "2026-06-23T14:16:27.055576"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11159,
+    "total_spawns": 11165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
