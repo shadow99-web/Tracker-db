@@ -171,7 +171,7 @@
         "Gastly": 27,
         "Taillow": 9,
         "Swinub": 29,
-        "Inkay": 13,
+        "Inkay": 14,
         "Gible": 16,
         "Rookidee": 21,
         "Minccino": 11,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 28,
-        "Orthworm": 28,
+        "Orthworm": 29,
         "Marill": 10,
         "Joltik": 19,
         "Politoed": 3,
@@ -259,10 +259,10 @@
         "Cetitan": 6,
         "Cubone": 11,
         "Gligar": 14,
-        "Tirtouga": 11,
+        "Tirtouga": 12,
         "Furret": 1,
         "Nincada": 14,
-        "Fennekin": 17,
+        "Fennekin": 18,
         "Quaxwell": 4,
         "Vibrava": 7,
         "Loudred": 4,
@@ -581,7 +581,7 @@
         "Spoink": 3,
         "Scyther": 7,
         "Anorith": 9,
-        "Meowth": 3,
+        "Meowth": 4,
         "Combee": 2,
         "Fletchinder": 11,
         "Kingambit": 1,
@@ -703,7 +703,7 @@
         "Litten": 8,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 19,
+        "Hatenna": 20,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -922,8 +922,8 @@
         "Wynaut": 1,
         "Hattrem": 1
       },
-      "total_spawns": 6614,
-      "last_spawn": "2026-06-23T13:14:27.503129"
+      "total_spawns": 6620,
+      "last_spawn": "2026-06-23T13:15:07.813156"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -941,7 +941,7 @@
     }
   },
   "global": {
-    "total_spawns": 10902,
+    "total_spawns": 10908,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
