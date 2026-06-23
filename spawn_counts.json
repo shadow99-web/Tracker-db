@@ -30,7 +30,7 @@
         "Morelull": 6,
         "Abra": 43,
         "Sandile": 41,
-        "Sandygast": 14,
+        "Sandygast": 15,
         "Litwick": 67,
         "Grubbin": 39,
         "Escavalier": 6,
@@ -58,7 +58,7 @@
         "Whismur": 35,
         "Monferno": 15,
         "Skwovet": 6,
-        "Bramblin": 45,
+        "Bramblin": 46,
         "Yanma": 8,
         "Larvesta": 17,
         "Beldum": 29,
@@ -213,7 +213,7 @@
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 43,
+        "Tynamo": 44,
         "Orthworm": 44,
         "Marill": 12,
         "Joltik": 21,
@@ -888,7 +888,7 @@
         "White-striped basculin": 1,
         "Ampharos": 1,
         "Whiscash": 2,
-        "Heracross": 1,
+        "Heracross": 2,
         "Orange flower floette": 1,
         "Ambipom": 3,
         "Aqua breed tauros": 1,
@@ -962,8 +962,8 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 8911,
-      "last_spawn": "2026-06-23T18:55:17.232498"
+      "total_spawns": 8915,
+      "last_spawn": "2026-06-23T18:55:47.256454"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13247,
+    "total_spawns": 13251,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
