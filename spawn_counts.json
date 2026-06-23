@@ -92,7 +92,7 @@
         "Riolu": 6,
         "Exeggcute": 9,
         "Corphish": 4,
-        "Hoppip": 36,
+        "Hoppip": 37,
         "Sandslash": 1,
         "Kabuto": 13,
         "Scatterbug": 39,
@@ -130,7 +130,7 @@
         "Weedle": 54,
         "Flamigo": 36,
         "Lillipup": 42,
-        "Shinx": 42,
+        "Shinx": 43,
         "Bounsweet": 29,
         "Noibat": 14,
         "Toxicroak": 5,
@@ -386,7 +386,7 @@
         "Swablu": 11,
         "Shellder": 12,
         "Crobat": 6,
-        "Sandshrew": 8,
+        "Sandshrew": 9,
         "Palafin": 8,
         "Maractus": 2,
         "Sigilyph": 4,
@@ -548,7 +548,7 @@
         "Krokorok": 12,
         "Dragonair": 6,
         "Zweilous": 6,
-        "Karrablast": 7,
+        "Karrablast": 8,
         "Shroomish": 13,
         "Snover": 10,
         "Drednaw": 3,
@@ -610,7 +610,7 @@
         "Houndstone": 4,
         "Sandy wormadam": 2,
         "Stunky": 6,
-        "Pupitar": 6,
+        "Pupitar": 7,
         "Avalugg": 4,
         "Magby": 4,
         "Wigglytuff": 2,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8442,
-      "last_spawn": "2026-06-23T17:29:11.987813"
+      "total_spawns": 8447,
+      "last_spawn": "2026-06-23T17:29:47.126515"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1002,7 +1002,7 @@
     }
   },
   "global": {
-    "total_spawns": 12770,
+    "total_spawns": 12775,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
