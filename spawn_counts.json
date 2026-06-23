@@ -225,7 +225,7 @@
         "Rillaboom": 3,
         "Ninetales": 2,
         "Wattrel": 34,
-        "Snubbull": 10,
+        "Snubbull": 11,
         "Spidops": 8,
         "Braixen": 11,
         "Drowzee": 10,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 5,
-        "Tinkatink": 34,
+        "Tinkatink": 35,
         "Lechonk": 27,
         "Kommo-o": 1,
         "Dewott": 9,
@@ -322,7 +322,7 @@
         "Gossifleur": 8,
         "Oshawott": 9,
         "Murkrow": 10,
-        "Bellsprout": 35,
+        "Bellsprout": 36,
         "Mudbray": 9,
         "Dreepy": 29,
         "Tinkaton": 2,
@@ -541,7 +541,7 @@
         "Vanilluxe": 1,
         "Jolteon": 1,
         "Pawmot": 3,
-        "Skiddo": 3,
+        "Skiddo": 4,
         "Slowbro": 4,
         "Oricorio": 2,
         "Kangaskhan": 2,
@@ -629,7 +629,7 @@
         "Nidorino": 5,
         "Wailmer": 7,
         "Krabby": 5,
-        "Bronzong": 4,
+        "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 2,
         "Pom-pom oricorio": 3,
@@ -919,8 +919,8 @@
         "Bellossom": 1,
         "Pirouette meloetta": 1
       },
-      "total_spawns": 6438,
-      "last_spawn": "2026-06-23T12:54:47.300259"
+      "total_spawns": 6443,
+      "last_spawn": "2026-06-23T12:55:19.289312"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -938,7 +938,7 @@
     }
   },
   "global": {
-    "total_spawns": 10726,
+    "total_spawns": 10731,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
