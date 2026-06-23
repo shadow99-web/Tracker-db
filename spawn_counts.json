@@ -95,7 +95,7 @@
         "Hoppip": 35,
         "Sandslash": 1,
         "Kabuto": 12,
-        "Scatterbug": 38,
+        "Scatterbug": 39,
         "Pumpkaboo": 11,
         "Numel": 18,
         "Carracosta": 3,
@@ -111,14 +111,14 @@
         "Scizor": 1,
         "Sneasel": 15,
         "Bonsly": 2,
-        "Horsea": 34,
+        "Horsea": 35,
         "Frigibax": 29,
         "Spheal": 54,
         "Swadloon": 7,
         "Flittle": 39,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 34,
+        "Ralts": 35,
         "Solosis": 41,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 8,
         "Wailord": 2,
-        "Makuhita": 11,
+        "Makuhita": 12,
         "Lombre": 13,
         "Ursaluna": 2,
         "Furfrou": 2,
@@ -571,7 +571,7 @@
         "Magmortar": 1,
         "Palossand": 2,
         "Noice face eiscue": 2,
-        "Electivire": 3,
+        "Electivire": 4,
         "Cascoon": 6,
         "Tentacruel": 5,
         "Nuzleaf": 8,
@@ -738,7 +738,7 @@
         "Lumineon": 3,
         "Thievul": 3,
         "Greedent": 4,
-        "Ekans": 10,
+        "Ekans": 11,
         "Venonat": 9,
         "Pelipper": 4,
         "Metapod": 9,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8293,
-      "last_spawn": "2026-06-23T17:12:07.570336"
+      "total_spawns": 8299,
+      "last_spawn": "2026-06-23T17:12:47.205489"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12621,
+    "total_spawns": 12627,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
