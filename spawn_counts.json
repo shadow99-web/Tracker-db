@@ -54,12 +54,12 @@
         "Zubat": 55,
         "Vanillish": 10,
         "Tadbulb": 39,
-        "Magnemite": 49,
+        "Magnemite": 50,
         "Whismur": 35,
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 43,
-        "Yanma": 7,
+        "Yanma": 8,
         "Larvesta": 17,
         "Beldum": 29,
         "Ducklett": 7,
@@ -80,7 +80,7 @@
         "Duosion": 11,
         "Amaura": 10,
         "Gimmighoul": 38,
-        "Baltoy": 16,
+        "Baltoy": 17,
         "Mareep": 40,
         "Garbodor": 2,
         "Slakoth": 46,
@@ -695,7 +695,7 @@
         "Panpour": 9,
         "Tinkatuff": 7,
         "Bruxish": 3,
-        "Corvisquire": 4,
+        "Corvisquire": 5,
         "Mantine": 5,
         "Electrode": 3,
         "Celebi": 1,
@@ -952,10 +952,11 @@
         "Ninjask": 1,
         "Nidoking": 1,
         "Pichu": 1,
-        "Carnivine": 1
+        "Carnivine": 1,
+        "Goodra": 1
       },
-      "total_spawns": 8642,
-      "last_spawn": "2026-06-23T18:24:47.150060"
+      "total_spawns": 8647,
+      "last_spawn": "2026-06-23T18:25:17.167770"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1009,7 +1010,7 @@
     }
   },
   "global": {
-    "total_spawns": 12977,
+    "total_spawns": 12982,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
