@@ -103,7 +103,7 @@
         "Veluza": 51,
         "Barboach": 13,
         "Klink": 29,
-        "Honedge": 56,
+        "Honedge": 57,
         "Wingull": 14,
         "Salamence": 1,
         "Drakloak": 11,
@@ -139,7 +139,7 @@
         "Phanpy": 6,
         "Brambleghast": 10,
         "Pidgey": 53,
-        "Rhyhorn": 37,
+        "Rhyhorn": 38,
         "Sentret": 13,
         "Yungoos": 5,
         "Diglett": 17,
@@ -459,10 +459,10 @@
         "Cherubi": 6,
         "Cradily": 3,
         "Vulpix": 11,
-        "Paras": 11,
+        "Paras": 12,
         "Herdier": 12,
         "Pineco": 10,
-        "Chikorita": 8,
+        "Chikorita": 9,
         "Woobat": 9,
         "Wobbuffet": 3,
         "Roselia": 4,
@@ -505,7 +505,7 @@
         "Empoleon": 3,
         "Farigiraf": 11,
         "Hakamo-o": 7,
-        "Glameow": 12,
+        "Glameow": 13,
         "Croagunk": 8,
         "Duraludon": 5,
         "Sawk": 2,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8809,
-      "last_spawn": "2026-06-23T18:43:31.777742"
+      "total_spawns": 8814,
+      "last_spawn": "2026-06-23T18:44:09.286514"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13144,
+    "total_spawns": 13149,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
