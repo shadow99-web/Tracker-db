@@ -31,7 +31,7 @@
         "Abra": 39,
         "Sandile": 33,
         "Sandygast": 13,
-        "Litwick": 60,
+        "Litwick": 61,
         "Grubbin": 29,
         "Escavalier": 6,
         "Dratini": 23,
@@ -134,7 +134,7 @@
         "Bounsweet": 24,
         "Noibat": 13,
         "Toxicroak": 4,
-        "Charcadet": 39,
+        "Charcadet": 40,
         "Croconaw": 11,
         "Phanpy": 4,
         "Brambleghast": 10,
@@ -404,7 +404,7 @@
         "Squawkabilly": 10,
         "Electrike": 12,
         "Drampa": 2,
-        "Maschiff": 21,
+        "Maschiff": 22,
         "Rufflet": 13,
         "Kabutops": 2,
         "Dondozo": 24,
@@ -460,7 +460,7 @@
         "Cradily": 3,
         "Vulpix": 10,
         "Paras": 10,
-        "Herdier": 10,
+        "Herdier": 11,
         "Pineco": 8,
         "Chikorita": 7,
         "Woobat": 9,
@@ -515,7 +515,7 @@
         "Nickit": 10,
         "Ivysaur": 8,
         "Milcery": 5,
-        "Gabite": 2,
+        "Gabite": 3,
         "Hariyama": 2,
         "Victreebel": 1,
         "Arctibax": 4,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7578,
-      "last_spawn": "2026-06-23T15:35:51.946871"
+      "total_spawns": 7583,
+      "last_spawn": "2026-06-23T15:36:31.273155"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -962,7 +962,7 @@
     }
   },
   "global": {
-    "total_spawns": 11868,
+    "total_spawns": 11873,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
