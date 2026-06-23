@@ -83,7 +83,7 @@
         "Baltoy": 14,
         "Mareep": 36,
         "Garbodor": 2,
-        "Slakoth": 38,
+        "Slakoth": 39,
         "Togepi": 25,
         "Falinks": 4,
         "Tropius": 1,
@@ -107,7 +107,7 @@
         "Wingull": 13,
         "Salamence": 1,
         "Drakloak": 9,
-        "Chewtle": 7,
+        "Chewtle": 8,
         "Scizor": 1,
         "Sneasel": 14,
         "Bonsly": 2,
@@ -139,7 +139,7 @@
         "Phanpy": 4,
         "Brambleghast": 10,
         "Pidgey": 46,
-        "Rhyhorn": 33,
+        "Rhyhorn": 34,
         "Sentret": 10,
         "Yungoos": 3,
         "Diglett": 15,
@@ -315,7 +315,7 @@
         "Nacli": 24,
         "Munna": 7,
         "Pawniard": 9,
-        "Prof tangrowth": 14,
+        "Prof tangrowth": 15,
         "Jangmo-o": 15,
         "Trash wormadam": 2,
         "Quaxly": 10,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 13,
         "Gothorita": 7,
         "Varoom": 28,
-        "Yellow plumage squawkabilly": 10,
+        "Yellow plumage squawkabilly": 11,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
         "Grapploct": 2,
@@ -644,7 +644,7 @@
         "Venomoth": 5,
         "Trumbeak": 6,
         "Aerodactyl": 4,
-        "Igglybuff": 5,
+        "Igglybuff": 6,
         "Archeops": 3,
         "Shiftry": 1,
         "Arbok": 2,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7719,
-      "last_spawn": "2026-06-23T16:07:07.298068"
+      "total_spawns": 7725,
+      "last_spawn": "2026-06-23T16:07:47.727538"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -968,7 +968,7 @@
     }
   },
   "global": {
-    "total_spawns": 12014,
+    "total_spawns": 12020,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
