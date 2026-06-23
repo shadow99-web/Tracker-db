@@ -92,7 +92,7 @@
         "Riolu": 5,
         "Exeggcute": 8,
         "Corphish": 4,
-        "Hoppip": 32,
+        "Hoppip": 33,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 35,
@@ -280,7 +280,7 @@
         "Galarian slowpoke": 1,
         "Poliwhirl": 8,
         "Crocalor": 16,
-        "Cryogonal": 1,
+        "Cryogonal": 2,
         "Eternatus": 1,
         "Gholdengo": 10,
         "Charmeleon": 3,
@@ -362,7 +362,7 @@
         "Fearow": 3,
         "Mankey": 10,
         "Bidoof": 11,
-        "Quilava": 14,
+        "Quilava": 15,
         "Finizen": 34,
         "Unown y": 1,
         "Toucannon": 2,
@@ -558,7 +558,7 @@
         "Araquanid": 3,
         "Kadabra": 7,
         "Chandelure": 6,
-        "Ponyta": 11,
+        "Ponyta": 12,
         "Togekiss": 2,
         "Braviary": 3,
         "Raboot": 10,
@@ -637,7 +637,7 @@
         "Ursaring": 4,
         "Glalie": 2,
         "Latios": 1,
-        "Silicobra": 7,
+        "Silicobra": 8,
         "Snom": 4,
         "East sea shellos": 3,
         "Corsola": 7,
@@ -938,8 +938,8 @@
         "Sunshine cherrim": 1,
         "Beautifly": 1
       },
-      "total_spawns": 7290,
-      "last_spawn": "2026-06-23T15:02:57.202209"
+      "total_spawns": 7295,
+      "last_spawn": "2026-06-23T15:03:32.083422"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -958,7 +958,7 @@
     }
   },
   "global": {
-    "total_spawns": 11579,
+    "total_spawns": 11584,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
