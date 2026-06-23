@@ -31,7 +31,7 @@
         "Abra": 40,
         "Sandile": 37,
         "Sandygast": 14,
-        "Litwick": 64,
+        "Litwick": 65,
         "Grubbin": 34,
         "Escavalier": 6,
         "Dratini": 26,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 7,
         "Prinplup": 8,
-        "Tinkatink": 40,
+        "Tinkatink": 41,
         "Lechonk": 39,
         "Kommo-o": 1,
         "Dewott": 12,
@@ -294,7 +294,7 @@
         "Jellicent": 4,
         "Torkoal": 2,
         "Ferroseed": 12,
-        "Brionne": 5,
+        "Brionne": 6,
         "Pancham": 9,
         "Venipede": 48,
         "Cacturne": 4,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 4,
         "Scyther": 8,
-        "Anorith": 9,
+        "Anorith": 10,
         "Meowth": 4,
         "Combee": 6,
         "Fletchinder": 13,
@@ -594,7 +594,7 @@
         "Galarian darumaka": 1,
         "Mienfoo": 11,
         "Dewgong": 3,
-        "Wartortle": 10,
+        "Wartortle": 11,
         "Cetoddle": 25,
         "Kricketot": 10,
         "Porygon-z": 2,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8305,
-      "last_spawn": "2026-06-23T17:13:27.143513"
+      "total_spawns": 8310,
+      "last_spawn": "2026-06-23T17:13:57.517734"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12633,
+    "total_spawns": 12638,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
