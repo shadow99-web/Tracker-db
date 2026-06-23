@@ -61,9 +61,9 @@
         "Bramblin": 28,
         "Yanma": 6,
         "Larvesta": 12,
-        "Beldum": 23,
+        "Beldum": 24,
         "Ducklett": 3,
-        "Lokix": 6,
+        "Lokix": 7,
         "Glimmora": 13,
         "Starly": 36,
         "Tandemaus": 26,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 6,
         "Shroodle": 29,
-        "Duskull": 32,
+        "Duskull": 33,
         "Bergmite": 7,
         "Pignite": 8,
         "Lurantis": 1,
@@ -585,7 +585,7 @@
         "Combee": 2,
         "Fletchinder": 10,
         "Kingambit": 1,
-        "Clodsire": 4,
+        "Clodsire": 5,
         "Blaze breed tauros": 1,
         "Wimpod": 3,
         "Torterra": 1,
@@ -643,7 +643,7 @@
         "Corsola": 7,
         "Venomoth": 4,
         "Trumbeak": 5,
-        "Aerodactyl": 3,
+        "Aerodactyl": 4,
         "Igglybuff": 4,
         "Archeops": 2,
         "Shiftry": 1,
@@ -897,8 +897,8 @@
         "Elekid": 1,
         "Floette": 1
       },
-      "total_spawns": 5857,
-      "last_spawn": "2026-06-23T11:49:11.793641"
+      "total_spawns": 5862,
+      "last_spawn": "2026-06-23T11:49:47.144653"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -910,7 +910,7 @@
     }
   },
   "global": {
-    "total_spawns": 10145,
+    "total_spawns": 10150,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
