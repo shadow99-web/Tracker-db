@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 16,
         "Patrat": 6,
-        "Mosslax": 20,
+        "Mosslax": 21,
         "Drilbur": 6,
         "Pawmi": 37,
         "Electabuzz": 6,
@@ -47,7 +47,7 @@
         "Surskit": 16,
         "Seedot": 22,
         "Skitty": 9,
-        "Greavard": 33,
+        "Greavard": 34,
         "Slugma": 6,
         "Grotle": 8,
         "Porygon": 31,
@@ -96,7 +96,7 @@
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 32,
-        "Pumpkaboo": 8,
+        "Pumpkaboo": 9,
         "Numel": 17,
         "Carracosta": 1,
         "Smearguru": 26,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 28,
-        "Orthworm": 32,
+        "Orthworm": 33,
         "Marill": 12,
         "Joltik": 19,
         "Politoed": 3,
@@ -286,7 +286,7 @@
         "Charmeleon": 3,
         "Dipplin": 1,
         "Cramorant": 3,
-        "Chef dente": 16,
+        "Chef dente": 17,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 8,
@@ -462,7 +462,7 @@
         "Paras": 8,
         "Herdier": 8,
         "Pineco": 7,
-        "Chikorita": 6,
+        "Chikorita": 7,
         "Woobat": 9,
         "Wobbuffet": 1,
         "Roselia": 4,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 7012,
-      "last_spawn": "2026-06-23T14:31:47.109523"
+      "total_spawns": 7018,
+      "last_spawn": "2026-06-23T14:32:27.247323"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11301,
+    "total_spawns": 11307,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
