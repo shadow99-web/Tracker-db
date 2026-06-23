@@ -78,7 +78,7 @@
         "Hatterene": 2,
         "Phantump": 13,
         "Duosion": 5,
-        "Amaura": 8,
+        "Amaura": 9,
         "Gimmighoul": 26,
         "Baltoy": 10,
         "Mareep": 27,
@@ -342,7 +342,7 @@
         "Sobble": 15,
         "Mudkip": 8,
         "Charjabug": 9,
-        "Capsakid": 19,
+        "Capsakid": 20,
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 12,
@@ -366,7 +366,7 @@
         "Finizen": 25,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 15,
+        "Caterpie": 16,
         "Carvanha": 7,
         "Luxio": 6,
         "Treecko": 14,
@@ -473,7 +473,7 @@
         "Bunnelby": 5,
         "Gulping cramorant": 2,
         "Simisear": 1,
-        "White plumage squawkabilly": 8,
+        "White plumage squawkabilly": 9,
         "Shelmet": 6,
         "Solrock": 1,
         "Slowpoke": 10,
@@ -742,7 +742,7 @@
         "Venonat": 6,
         "Pelipper": 3,
         "Metapod": 5,
-        "Kricketune": 3,
+        "Kricketune": 4,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
         "Relicanth": 1,
@@ -891,8 +891,8 @@
         "Heracross": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 5726,
-      "last_spawn": "2026-06-23T11:34:27.017472"
+      "total_spawns": 5731,
+      "last_spawn": "2026-06-23T11:34:57.262128"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -902,7 +902,7 @@
     }
   },
   "global": {
-    "total_spawns": 10013,
+    "total_spawns": 10018,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
