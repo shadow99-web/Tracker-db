@@ -7,7 +7,7 @@
         "Patrat": 5,
         "Mosslax": 20,
         "Drilbur": 6,
-        "Pawmi": 36,
+        "Pawmi": 37,
         "Electabuzz": 6,
         "Rellor": 26,
         "Sandy burmy": 8,
@@ -87,7 +87,7 @@
         "Togepi": 21,
         "Falinks": 3,
         "Tropius": 1,
-        "Poliwag": 27,
+        "Poliwag": 28,
         "Metang": 5,
         "Riolu": 4,
         "Exeggcute": 8,
@@ -215,7 +215,7 @@
         "Feraligatr": 4,
         "Tynamo": 28,
         "Orthworm": 30,
-        "Marill": 11,
+        "Marill": 12,
         "Joltik": 19,
         "Politoed": 3,
         "Cyndaquil": 14,
@@ -346,7 +346,7 @@
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 14,
-        "Wooper": 15,
+        "Wooper": 16,
         "Dwebble": 8,
         "Steenee": 10,
         "Darumaka": 10,
@@ -713,7 +713,7 @@
         "Grovyle": 4,
         "Snowy castform": 1,
         "Gengar": 2,
-        "Forretress": 1,
+        "Forretress": 2,
         "Hydrapple": 1,
         "Emolga": 2,
         "Tsareena": 2,
@@ -925,10 +925,11 @@
         "Serperior": 2,
         "Lycanroc": 1,
         "Kingdra": 1,
-        "Farfetch'd": 1
+        "Farfetch'd": 1,
+        "Unown l": 1
       },
-      "total_spawns": 6796,
-      "last_spawn": "2026-06-23T14:07:28.534486"
+      "total_spawns": 6802,
+      "last_spawn": "2026-06-23T14:08:07.502812"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -947,7 +948,7 @@
     }
   },
   "global": {
-    "total_spawns": 11085,
+    "total_spawns": 11091,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
