@@ -28,7 +28,7 @@
         "Impidimp": 26,
         "Charmander": 10,
         "Morelull": 2,
-        "Abra": 30,
+        "Abra": 31,
         "Sandile": 30,
         "Sandygast": 11,
         "Litwick": 55,
@@ -46,8 +46,8 @@
         "Dj rotom": 22,
         "Surskit": 15,
         "Seedot": 20,
-        "Skitty": 8,
-        "Greavard": 29,
+        "Skitty": 9,
+        "Greavard": 30,
         "Slugma": 6,
         "Grotle": 6,
         "Porygon": 26,
@@ -67,7 +67,7 @@
         "Glimmora": 13,
         "Starly": 38,
         "Tandemaus": 27,
-        "Smoliv": 41,
+        "Smoliv": 42,
         "Gloom": 9,
         "Clefairy": 6,
         "Spinda": 2,
@@ -532,7 +532,7 @@
         "Accelgor": 1,
         "Wormadam": 3,
         "Axew": 21,
-        "Trevenant": 4,
+        "Trevenant": 5,
         "Trubbish": 3,
         "Zorua": 7,
         "Archen": 14,
@@ -747,7 +747,7 @@
         "Hitmonchan": 1,
         "Relicanth": 1,
         "Klefki": 2,
-        "Frogadier": 7,
+        "Frogadier": 8,
         "Dewpider": 6,
         "Poltchageist": 2,
         "Incineroar": 2,
@@ -916,8 +916,8 @@
         "Galarian rapidash": 1,
         "Skuntank": 1
       },
-      "total_spawns": 6331,
-      "last_spawn": "2026-06-23T12:42:47.294106"
+      "total_spawns": 6337,
+      "last_spawn": "2026-06-23T12:43:27.891687"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -935,7 +935,7 @@
     }
   },
   "global": {
-    "total_spawns": 10619,
+    "total_spawns": 10625,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
