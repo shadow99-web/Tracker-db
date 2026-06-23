@@ -155,7 +155,7 @@
         "Rattata": 16,
         "Flapple": 3,
         "Aron": 27,
-        "Boldore": 4,
+        "Boldore": 5,
         "Spinarak": 14,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -186,7 +186,7 @@
         "Luvdisc": 3,
         "Vigoroth": 11,
         "Skorupi": 8,
-        "Pikachu": 8,
+        "Pikachu": 9,
         "Blue plumage squawkabilly": 6,
         "Thwackey": 9,
         "Dusk lycanroc": 3,
@@ -770,7 +770,7 @@
         "Drifblim": 2,
         "Meowscarada": 2,
         "Roserade": 2,
-        "Nidorina": 3,
+        "Nidorina": 4,
         "Archaludon": 1,
         "Golduck": 2,
         "Scolipede": 1,
@@ -778,7 +778,7 @@
         "Chingling": 2,
         "Beedrill": 5,
         "Whimsicott": 2,
-        "Wishiwashi": 2,
+        "Wishiwashi": 3,
         "Cofagrigus": 2,
         "Camerupt": 1,
         "Castform": 4,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7393,
-      "last_spawn": "2026-06-23T15:14:37.089815"
+      "total_spawns": 7397,
+      "last_spawn": "2026-06-23T15:15:07.373104"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11682,
+    "total_spawns": 11686,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
