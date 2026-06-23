@@ -42,10 +42,10 @@
         "Toedscool": 34,
         "Fletchling": 27,
         "Skiploom": 11,
-        "Timburr": 35,
+        "Timburr": 36,
         "Dj rotom": 34,
         "Surskit": 19,
-        "Seedot": 28,
+        "Seedot": 29,
         "Skitty": 9,
         "Greavard": 42,
         "Slugma": 9,
@@ -87,7 +87,7 @@
         "Togepi": 28,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 35,
+        "Poliwag": 36,
         "Metang": 7,
         "Riolu": 6,
         "Exeggcute": 9,
@@ -130,7 +130,7 @@
         "Weedle": 55,
         "Flamigo": 36,
         "Lillipup": 42,
-        "Shinx": 43,
+        "Shinx": 44,
         "Bounsweet": 29,
         "Noibat": 14,
         "Toxicroak": 5,
@@ -312,7 +312,7 @@
         "Flygon": 2,
         "Shellos": 7,
         "Jigglypuff": 13,
-        "Nacli": 24,
+        "Nacli": 25,
         "Munna": 7,
         "Pawniard": 10,
         "Prof tangrowth": 16,
@@ -566,7 +566,7 @@
         "Slowking": 5,
         "Lilligant": 4,
         "Rabsca": 6,
-        "Gulpin": 13,
+        "Gulpin": 14,
         "Crawdaunt": 3,
         "Magmortar": 1,
         "Palossand": 2,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8480,
-      "last_spawn": "2026-06-23T17:33:27.206416"
+      "total_spawns": 8486,
+      "last_spawn": "2026-06-23T17:34:07.200303"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -990,10 +990,11 @@
         "Shinx": 1,
         "Pikachu": 1,
         "Rhyhorn": 1,
-        "Tynamo": 1
+        "Tynamo": 1,
+        "Tandemaus": 1
       },
-      "total_spawns": 42,
-      "last_spawn": "2026-06-23T17:30:29.401389"
+      "total_spawns": 43,
+      "last_spawn": "2026-06-23T17:33:35.484621"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1003,7 +1004,7 @@
     }
   },
   "global": {
-    "total_spawns": 12809,
+    "total_spawns": 12816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
