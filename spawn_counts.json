@@ -168,7 +168,7 @@
         "Klawf": 28,
         "Vanillite": 26,
         "Flareon": 3,
-        "Gastly": 25,
+        "Gastly": 26,
         "Taillow": 9,
         "Swinub": 27,
         "Inkay": 12,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 5,
-        "Tinkatink": 31,
+        "Tinkatink": 32,
         "Lechonk": 25,
         "Kommo-o": 1,
         "Dewott": 9,
@@ -387,7 +387,7 @@
         "Shellder": 10,
         "Crobat": 4,
         "Sandshrew": 7,
-        "Palafin": 6,
+        "Palafin": 7,
         "Maractus": 1,
         "Sigilyph": 4,
         "Unown m": 1,
@@ -463,7 +463,7 @@
         "Herdier": 8,
         "Pineco": 6,
         "Chikorita": 5,
-        "Woobat": 7,
+        "Woobat": 8,
         "Wobbuffet": 1,
         "Roselia": 3,
         "Shelgon": 6,
@@ -820,7 +820,7 @@
         "Indeedee": 1,
         "Amped toxtricity": 2,
         "Galarian linoone": 1,
-        "Xatu": 2,
+        "Xatu": 3,
         "Galarian corsola": 1,
         "Cinderace": 1,
         "Magcargo": 2,
@@ -915,8 +915,8 @@
         "Dracozolt": 1,
         "Galarian rapidash": 1
       },
-      "total_spawns": 6281,
-      "last_spawn": "2026-06-23T12:37:07.128585"
+      "total_spawns": 6286,
+      "last_spawn": "2026-06-23T12:37:37.206002"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -934,7 +934,7 @@
     }
   },
   "global": {
-    "total_spawns": 10569,
+    "total_spawns": 10574,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
