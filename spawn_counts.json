@@ -101,8 +101,8 @@
         "Carracosta": 1,
         "Smearguru": 26,
         "Veluza": 43,
-        "Barboach": 10,
-        "Klink": 22,
+        "Barboach": 11,
+        "Klink": 23,
         "Honedge": 50,
         "Wingull": 12,
         "Salamence": 1,
@@ -155,7 +155,7 @@
         "Rattata": 16,
         "Flapple": 3,
         "Aron": 26,
-        "Boldore": 3,
+        "Boldore": 4,
         "Spinarak": 13,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -233,7 +233,7 @@
         "Lampent": 19,
         "Petilil": 6,
         "Marshtomp": 11,
-        "Eiscue": 3,
+        "Eiscue": 4,
         "Summer deerling": 12,
         "Clauncher": 9,
         "Clobbopus": 4,
@@ -264,7 +264,7 @@
         "Nincada": 14,
         "Fennekin": 18,
         "Quaxwell": 4,
-        "Vibrava": 8,
+        "Vibrava": 9,
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
@@ -659,7 +659,7 @@
         "Annihilape": 4,
         "Bouffalant": 2,
         "Crabrawler": 6,
-        "Budew": 1,
+        "Budew": 2,
         "Espathra": 5,
         "Vileplume": 2,
         "Kecleon": 1,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 6985,
-      "last_spawn": "2026-06-23T14:28:47.264085"
+      "total_spawns": 6991,
+      "last_spawn": "2026-06-23T14:29:27.306758"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11274,
+    "total_spawns": 11280,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
