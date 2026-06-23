@@ -123,7 +123,7 @@
         "Battle cyclizar": 15,
         "Togetic": 9,
         "Palpitoad": 4,
-        "Pikipek": 50,
+        "Pikipek": 51,
         "Teddiursa": 34,
         "Clamperl": 11,
         "Zigzagoon": 16,
@@ -274,11 +274,11 @@
         "Natu": 10,
         "Dhelmise": 2,
         "Bagon": 14,
-        "Sudowoodo": 3,
+        "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 13,
         "Galarian slowpoke": 1,
-        "Poliwhirl": 8,
+        "Poliwhirl": 9,
         "Crocalor": 17,
         "Cryogonal": 2,
         "Eternatus": 1,
@@ -324,7 +324,7 @@
         "Murkrow": 11,
         "Bellsprout": 42,
         "Mudbray": 10,
-        "Dreepy": 37,
+        "Dreepy": 38,
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 12,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8085,
-      "last_spawn": "2026-06-23T16:48:17.282126"
+      "total_spawns": 8089,
+      "last_spawn": "2026-06-23T16:48:47.285519"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -996,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12413,
+    "total_spawns": 12417,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
