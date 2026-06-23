@@ -31,7 +31,7 @@
         "Abra": 40,
         "Sandile": 34,
         "Sandygast": 14,
-        "Litwick": 63,
+        "Litwick": 64,
         "Grubbin": 32,
         "Escavalier": 6,
         "Dratini": 26,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 10,
         "Numel": 17,
         "Carracosta": 3,
-        "Smearguru": 29,
+        "Smearguru": 30,
         "Veluza": 49,
         "Barboach": 12,
         "Klink": 28,
@@ -169,12 +169,12 @@
         "Vanillite": 31,
         "Flareon": 3,
         "Gastly": 32,
-        "Taillow": 11,
+        "Taillow": 12,
         "Swinub": 34,
         "Inkay": 14,
         "Gible": 21,
         "Rookidee": 25,
-        "Minccino": 13,
+        "Minccino": 14,
         "Wurmple": 31,
         "Binacle": 11,
         "Grafaiai": 8,
@@ -487,7 +487,7 @@
         "Staravia": 8,
         "Chatot": 3,
         "Houndoom": 5,
-        "Dottler": 9,
+        "Dottler": 10,
         "Eevee": 7,
         "Copperajah": 3,
         "Magneton": 8,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7942,
-      "last_spawn": "2026-06-23T16:32:07.414178"
+      "total_spawns": 7947,
+      "last_spawn": "2026-06-23T16:32:47.527969"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -956,7 +956,7 @@
         "Barbaracle": 1,
         "Amoonguss": 1,
         "Mosslax": 1,
-        "Rookidee": 1,
+        "Rookidee": 2,
         "Roggenrola": 2,
         "Armarouge": 1,
         "Gastly": 1,
@@ -975,8 +975,8 @@
         "Sandile": 1,
         "Riolu": 1
       },
-      "total_spawns": 26,
-      "last_spawn": "2026-06-23T16:32:07.575366"
+      "total_spawns": 27,
+      "last_spawn": "2026-06-23T16:32:17.507078"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -986,7 +986,7 @@
     }
   },
   "global": {
-    "total_spawns": 12255,
+    "total_spawns": 12261,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
