@@ -981,8 +981,8 @@
         "Gastly": 1,
         "Scatterbug": 5,
         "Wurmple": 1,
-        "Gothita": 2,
-        "Gible": 2,
+        "Gothita": 3,
+        "Gible": 3,
         "Larvesta": 1,
         "Starly": 2,
         "Varoom": 2,
@@ -1018,10 +1018,11 @@
         "Frigibax": 1,
         "Meowth": 1,
         "Dj rotom": 1,
-        "Prof tangrowth": 1
+        "Prof tangrowth": 1,
+        "Charcadet": 1
       },
-      "total_spawns": 67,
-      "last_spawn": "2026-06-23T22:31:58.049102"
+      "total_spawns": 70,
+      "last_spawn": "2026-06-23T22:32:48.294978"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1031,7 +1032,7 @@
     }
   },
   "global": {
-    "total_spawns": 13401,
+    "total_spawns": 13404,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
