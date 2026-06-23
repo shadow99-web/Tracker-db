@@ -58,7 +58,7 @@
         "Whismur": 31,
         "Monferno": 15,
         "Skwovet": 6,
-        "Bramblin": 36,
+        "Bramblin": 37,
         "Yanma": 7,
         "Larvesta": 17,
         "Beldum": 29,
@@ -386,7 +386,7 @@
         "Swablu": 9,
         "Shellder": 12,
         "Crobat": 6,
-        "Sandshrew": 7,
+        "Sandshrew": 8,
         "Palafin": 7,
         "Maractus": 2,
         "Sigilyph": 4,
@@ -407,7 +407,7 @@
         "Maschiff": 25,
         "Rufflet": 13,
         "Kabutops": 2,
-        "Dondozo": 25,
+        "Dondozo": 26,
         "Pansear": 10,
         "Cutiefly": 10,
         "Peakychu": 26,
@@ -484,7 +484,7 @@
         "Tyrogue": 9,
         "Vikavolt": 1,
         "Trash burmy": 2,
-        "Staravia": 8,
+        "Staravia": 9,
         "Chatot": 3,
         "Houndoom": 5,
         "Dottler": 10,
@@ -652,7 +652,7 @@
         "Mareanie": 6,
         "Seadra": 6,
         "Beheeyem": 3,
-        "Pinsir": 3,
+        "Pinsir": 4,
         "Mothim": 2,
         "Whirlipede": 9,
         "Absol": 3,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7965,
-      "last_spawn": "2026-06-23T16:34:47.102537"
+      "total_spawns": 7970,
+      "last_spawn": "2026-06-23T16:35:19.755220"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -969,15 +969,16 @@
         "Varoom": 1,
         "Weedle": 1,
         "Chef dente": 1,
-        "Hatenna": 1,
+        "Hatenna": 2,
         "Dugtrio": 1,
         "Kadabra": 1,
         "Sandile": 1,
         "Riolu": 1,
-        "Hisuian avalugg": 1
+        "Hisuian avalugg": 1,
+        "Lickilicky": 1
       },
-      "total_spawns": 29,
-      "last_spawn": "2026-06-23T16:34:07.691911"
+      "total_spawns": 31,
+      "last_spawn": "2026-06-23T16:35:07.638171"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -987,7 +988,7 @@
     }
   },
   "global": {
-    "total_spawns": 12281,
+    "total_spawns": 12288,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
