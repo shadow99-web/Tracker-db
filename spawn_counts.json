@@ -192,11 +192,11 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 10,
-        "Spearow": 10,
+        "Spearow": 11,
         "Helioptile": 7,
         "Hoothoot": 11,
         "Grookey": 12,
-        "Meditite": 3,
+        "Meditite": 4,
         "Toedscruel": 10,
         "Probopass": 2,
         "Scraggy": 12,
@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 7,
-        "Tympole": 20,
+        "Tympole": 21,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -216,7 +216,7 @@
         "Tynamo": 27,
         "Orthworm": 28,
         "Marill": 10,
-        "Joltik": 18,
+        "Joltik": 19,
         "Politoed": 3,
         "Cyndaquil": 13,
         "Fuecoco": 8,
@@ -328,7 +328,7 @@
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 8,
-        "Nymble": 35,
+        "Nymble": 36,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 8,
@@ -695,7 +695,7 @@
         "Panpour": 8,
         "Tinkatuff": 3,
         "Bruxish": 3,
-        "Corvisquire": 2,
+        "Corvisquire": 3,
         "Mantine": 3,
         "Electrode": 3,
         "Celebi": 1,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6528,
-      "last_spawn": "2026-06-23T13:04:47.655431"
+      "total_spawns": 6534,
+      "last_spawn": "2026-06-23T13:05:27.024862"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10816,
+    "total_spawns": 10822,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
