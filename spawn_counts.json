@@ -79,7 +79,7 @@
         "Phantump": 17,
         "Duosion": 11,
         "Amaura": 10,
-        "Gimmighoul": 39,
+        "Gimmighoul": 40,
         "Baltoy": 18,
         "Mareep": 41,
         "Garbodor": 2,
@@ -165,7 +165,7 @@
         "Piplup": 5,
         "Kakuna": 15,
         "Weepinbell": 7,
-        "Klawf": 39,
+        "Klawf": 40,
         "Vanillite": 36,
         "Flareon": 4,
         "Gastly": 37,
@@ -175,7 +175,7 @@
         "Gible": 24,
         "Rookidee": 26,
         "Minccino": 14,
-        "Wurmple": 34,
+        "Wurmple": 35,
         "Binacle": 13,
         "Grafaiai": 9,
         "Quilladin": 6,
@@ -213,7 +213,7 @@
         "Fidough": 27,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 44,
+        "Tynamo": 45,
         "Orthworm": 45,
         "Marill": 12,
         "Joltik": 21,
@@ -387,7 +387,7 @@
         "Shellder": 12,
         "Crobat": 8,
         "Sandshrew": 9,
-        "Palafin": 9,
+        "Palafin": 10,
         "Maractus": 2,
         "Sigilyph": 4,
         "Unown m": 1,
@@ -962,8 +962,8 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 8988,
-      "last_spawn": "2026-06-23T19:04:07.532246"
+      "total_spawns": 8993,
+      "last_spawn": "2026-06-23T19:04:47.137704"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13324,
+    "total_spawns": 13329,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
