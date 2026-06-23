@@ -54,7 +54,7 @@
         "Zubat": 52,
         "Vanillish": 10,
         "Tadbulb": 34,
-        "Magnemite": 46,
+        "Magnemite": 47,
         "Whismur": 31,
         "Monferno": 15,
         "Skwovet": 6,
@@ -213,7 +213,7 @@
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 34,
+        "Tynamo": 35,
         "Orthworm": 37,
         "Marill": 12,
         "Joltik": 20,
@@ -243,7 +243,7 @@
         "Shroodle": 40,
         "Duskull": 44,
         "Bergmite": 8,
-        "Pignite": 13,
+        "Pignite": 14,
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 11,
@@ -269,7 +269,7 @@
         "Ceruledge": 16,
         "Houndour": 12,
         "Glimmet": 39,
-        "Goomy": 21,
+        "Goomy": 22,
         "Zapdos": 1,
         "Natu": 9,
         "Dhelmise": 2,
@@ -345,7 +345,7 @@
         "Capsakid": 25,
         "Revavroom": 11,
         "Exploud": 3,
-        "Deino": 19,
+        "Deino": 20,
         "Wooper": 20,
         "Dwebble": 9,
         "Steenee": 11,
@@ -402,7 +402,7 @@
         "Persian": 2,
         "Lopunny": 2,
         "Squawkabilly": 10,
-        "Electrike": 12,
+        "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 25,
         "Rufflet": 13,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7947,
-      "last_spawn": "2026-06-23T16:32:47.527969"
+      "total_spawns": 7953,
+      "last_spawn": "2026-06-23T16:33:27.379440"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -973,10 +973,11 @@
         "Dugtrio": 1,
         "Kadabra": 1,
         "Sandile": 1,
-        "Riolu": 1
+        "Riolu": 1,
+        "Hisuian avalugg": 1
       },
-      "total_spawns": 27,
-      "last_spawn": "2026-06-23T16:32:17.507078"
+      "total_spawns": 28,
+      "last_spawn": "2026-06-23T16:32:57.596886"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -986,7 +987,7 @@
     }
   },
   "global": {
-    "total_spawns": 12261,
+    "total_spawns": 12268,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
