@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 9,
-        "Roggenrola": 28,
+        "Roggenrola": 29,
         "Pidove": 37,
         "Dragapult": 5,
         "Rattata": 16,
@@ -179,7 +179,7 @@
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
-        "Geodude": 36,
+        "Geodude": 37,
         "Espurr": 8,
         "Cottonee": 4,
         "Elgyem": 8,
@@ -410,7 +410,7 @@
         "Dondozo": 21,
         "Pansear": 9,
         "Cutiefly": 8,
-        "Peakychu": 20,
+        "Peakychu": 21,
         "Armarouge": 7,
         "Tyrantrum": 1,
         "Larvitar": 16,
@@ -657,7 +657,7 @@
         "Whirlipede": 8,
         "Absol": 3,
         "Annihilape": 4,
-        "Bouffalant": 2,
+        "Bouffalant": 3,
         "Crabrawler": 6,
         "Budew": 2,
         "Espathra": 5,
@@ -825,7 +825,7 @@
         "Cinderace": 1,
         "Magcargo": 2,
         "Sensu oricorio": 2,
-        "Rhyperior": 1,
+        "Rhyperior": 2,
         "Linoone": 1,
         "Omastar": 1,
         "Boltund": 2,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7111,
-      "last_spawn": "2026-06-23T14:42:47.550335"
+      "total_spawns": 7116,
+      "last_spawn": "2026-06-23T14:43:17.578766"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11400,
+    "total_spawns": 11405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
