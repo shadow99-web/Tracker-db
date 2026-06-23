@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 7,
-        "Roggenrola": 22,
+        "Roggenrola": 23,
         "Pidove": 33,
         "Dragapult": 5,
         "Rattata": 14,
@@ -316,7 +316,7 @@
         "Munna": 5,
         "Pawniard": 6,
         "Prof tangrowth": 9,
-        "Jangmo-o": 10,
+        "Jangmo-o": 11,
         "Trash wormadam": 2,
         "Quaxly": 8,
         "Gossifleur": 6,
@@ -445,7 +445,7 @@
         "Plusle": 2,
         "Skrelp": 5,
         "Raticate": 5,
-        "Wugtrio": 3,
+        "Wugtrio": 4,
         "Bellibolt": 4,
         "Morgrem": 7,
         "Misdreavus": 5,
@@ -899,10 +899,11 @@
         "Shedinja": 1,
         "Baxcalibur": 1,
         "Galarian articuno": 1,
-        "Audino": 1
+        "Audino": 1,
+        "Orange flower florges": 1
       },
-      "total_spawns": 5922,
-      "last_spawn": "2026-06-23T11:56:51.909742"
+      "total_spawns": 5926,
+      "last_spawn": "2026-06-23T11:57:27.198588"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -920,7 +921,7 @@
     }
   },
   "global": {
-    "total_spawns": 10210,
+    "total_spawns": 10214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
