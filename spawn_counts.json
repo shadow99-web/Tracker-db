@@ -92,7 +92,7 @@
         "Riolu": 5,
         "Exeggcute": 8,
         "Corphish": 4,
-        "Hoppip": 31,
+        "Hoppip": 32,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 33,
@@ -306,7 +306,7 @@
         "Lileep": 6,
         "Rolycoly": 27,
         "Bronzor": 15,
-        "Dartrix": 6,
+        "Dartrix": 7,
         "Yellow flower florges": 3,
         "Zangoose": 6,
         "Flygon": 2,
@@ -450,7 +450,7 @@
         "Morgrem": 8,
         "Misdreavus": 5,
         "Seviper": 1,
-        "Scovillain": 7,
+        "Scovillain": 8,
         "Sunkern": 6,
         "Drizzile": 5,
         "Sunflora": 3,
@@ -469,7 +469,7 @@
         "Shelgon": 7,
         "Buizel": 7,
         "Arctozolt": 3,
-        "Snorunt": 6,
+        "Snorunt": 7,
         "Bunnelby": 8,
         "Gulping cramorant": 2,
         "Simisear": 2,
@@ -558,7 +558,7 @@
         "Araquanid": 3,
         "Kadabra": 6,
         "Chandelure": 6,
-        "Ponyta": 10,
+        "Ponyta": 11,
         "Togekiss": 2,
         "Braviary": 3,
         "Raboot": 10,
@@ -595,7 +595,7 @@
         "Mienfoo": 11,
         "Dewgong": 3,
         "Wartortle": 7,
-        "Cetoddle": 19,
+        "Cetoddle": 20,
         "Kricketot": 6,
         "Porygon-z": 2,
         "Conkeldurr": 2,
@@ -934,8 +934,8 @@
         "Druddigon": 1,
         "Honchkrow": 1
       },
-      "total_spawns": 7194,
-      "last_spawn": "2026-06-23T14:52:07.248832"
+      "total_spawns": 7200,
+      "last_spawn": "2026-06-23T14:52:47.435711"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -954,7 +954,7 @@
     }
   },
   "global": {
-    "total_spawns": 11483,
+    "total_spawns": 11489,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
