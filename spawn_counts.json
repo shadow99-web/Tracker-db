@@ -43,7 +43,7 @@
         "Fletchling": 29,
         "Skiploom": 12,
         "Timburr": 36,
-        "Dj rotom": 36,
+        "Dj rotom": 37,
         "Surskit": 19,
         "Seedot": 30,
         "Skitty": 10,
@@ -67,7 +67,7 @@
         "Glimmora": 16,
         "Starly": 45,
         "Tandemaus": 36,
-        "Smoliv": 52,
+        "Smoliv": 53,
         "Gloom": 11,
         "Clefairy": 7,
         "Spinda": 2,
@@ -125,7 +125,7 @@
         "Palpitoad": 4,
         "Pikipek": 52,
         "Teddiursa": 36,
-        "Clamperl": 12,
+        "Clamperl": 13,
         "Zigzagoon": 16,
         "Weedle": 57,
         "Flamigo": 39,
@@ -456,7 +456,7 @@
         "Sunflora": 3,
         "Passimian": 3,
         "Iron moth": 1,
-        "Cherubi": 5,
+        "Cherubi": 6,
         "Cradily": 3,
         "Vulpix": 11,
         "Paras": 11,
@@ -779,7 +779,7 @@
         "Beedrill": 5,
         "Whimsicott": 2,
         "Wishiwashi": 3,
-        "Cofagrigus": 2,
+        "Cofagrigus": 3,
         "Camerupt": 2,
         "Castform": 5,
         "Weavile": 1,
@@ -955,10 +955,11 @@
         "Carnivine": 1,
         "Goodra": 1,
         "Aurorus": 1,
-        "Florges": 1
+        "Florges": 1,
+        "Dandy trim furfrou": 1
       },
-      "total_spawns": 8716,
-      "last_spawn": "2026-06-23T18:33:07.719515"
+      "total_spawns": 8722,
+      "last_spawn": "2026-06-23T18:33:47.063661"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1012,7 +1013,7 @@
     }
   },
   "global": {
-    "total_spawns": 13051,
+    "total_spawns": 13057,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
