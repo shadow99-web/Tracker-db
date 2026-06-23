@@ -95,7 +95,7 @@
         "Hoppip": 22,
         "Sandslash": 1,
         "Kabuto": 11,
-        "Scatterbug": 27,
+        "Scatterbug": 28,
         "Pumpkaboo": 8,
         "Numel": 13,
         "Carracosta": 1,
@@ -404,7 +404,7 @@
         "Squawkabilly": 7,
         "Electrike": 10,
         "Drampa": 2,
-        "Maschiff": 14,
+        "Maschiff": 15,
         "Rufflet": 11,
         "Kabutops": 2,
         "Dondozo": 17,
@@ -564,7 +564,7 @@
         "Raboot": 9,
         "Golem": 2,
         "Slowking": 3,
-        "Lilligant": 3,
+        "Lilligant": 4,
         "Rabsca": 5,
         "Gulpin": 9,
         "Crawdaunt": 3,
@@ -891,10 +891,11 @@
         "Heracross": 1,
         "Orange flower floette": 1,
         "Ambipom": 2,
-        "Aqua breed tauros": 1
+        "Aqua breed tauros": 1,
+        "Fan rotom": 1
       },
-      "total_spawns": 5771,
-      "last_spawn": "2026-06-23T11:39:37.092194"
+      "total_spawns": 5775,
+      "last_spawn": "2026-06-23T11:40:07.364453"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -906,7 +907,7 @@
     }
   },
   "global": {
-    "total_spawns": 10059,
+    "total_spawns": 10063,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
