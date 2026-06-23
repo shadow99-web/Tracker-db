@@ -118,7 +118,7 @@
         "Flittle": 31,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 24,
+        "Ralts": 25,
         "Solosis": 30,
         "Battle cyclizar": 14,
         "Togetic": 8,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 4,
         "Pancham": 5,
-        "Venipede": 33,
+        "Venipede": 34,
         "Cacturne": 4,
         "Oddish": 34,
         "Dragalge": 3,
@@ -366,7 +366,7 @@
         "Finizen": 28,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 22,
+        "Caterpie": 23,
         "Carvanha": 9,
         "Luxio": 9,
         "Treecko": 14,
@@ -413,7 +413,7 @@
         "Peakychu": 18,
         "Armarouge": 6,
         "Tyrantrum": 1,
-        "Larvitar": 15,
+        "Larvitar": 16,
         "Tentacool": 4,
         "Volcanion": 1,
         "Roaming gimmighoul": 19,
@@ -686,7 +686,7 @@
         "Butterfree": 1,
         "Koffing": 5,
         "Floragato": 5,
-        "Seel": 3,
+        "Seel": 4,
         "Shiinotic": 3,
         "Gumshoos": 2,
         "Pyroar": 3,
@@ -925,8 +925,8 @@
         "Serperior": 2,
         "Lycanroc": 1
       },
-      "total_spawns": 6727,
-      "last_spawn": "2026-06-23T13:59:37.883858"
+      "total_spawns": 6732,
+      "last_spawn": "2026-06-23T14:00:12.864297"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -945,7 +945,7 @@
     }
   },
   "global": {
-    "total_spawns": 11016,
+    "total_spawns": 11021,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
