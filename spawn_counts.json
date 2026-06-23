@@ -41,7 +41,7 @@
         "Trapinch": 41,
         "Toedscool": 33,
         "Fletchling": 25,
-        "Skiploom": 10,
+        "Skiploom": 11,
         "Timburr": 34,
         "Dj rotom": 29,
         "Surskit": 17,
@@ -119,7 +119,7 @@
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 29,
-        "Solosis": 33,
+        "Solosis": 34,
         "Battle cyclizar": 15,
         "Togetic": 8,
         "Palpitoad": 4,
@@ -230,7 +230,7 @@
         "Braixen": 12,
         "Drowzee": 13,
         "Blipbug": 35,
-        "Lampent": 20,
+        "Lampent": 21,
         "Petilil": 6,
         "Marshtomp": 12,
         "Eiscue": 4,
@@ -324,7 +324,7 @@
         "Murkrow": 11,
         "Bellsprout": 40,
         "Mudbray": 10,
-        "Dreepy": 33,
+        "Dreepy": 34,
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 12,
@@ -476,7 +476,7 @@
         "White plumage squawkabilly": 11,
         "Shelmet": 9,
         "Solrock": 2,
-        "Slowpoke": 10,
+        "Slowpoke": 11,
         "Dolliv": 6,
         "Infernape": 1,
         "Carkol": 9,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7695,
-      "last_spawn": "2026-06-23T16:04:27.158946"
+      "total_spawns": 7700,
+      "last_spawn": "2026-06-23T16:04:57.160219"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -968,7 +968,7 @@
     }
   },
   "global": {
-    "total_spawns": 11990,
+    "total_spawns": 11995,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
