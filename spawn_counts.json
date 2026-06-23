@@ -13,7 +13,7 @@
         "Sandy burmy": 8,
         "Wiglett": 38,
         "Bombirdier": 26,
-        "Litleo": 8,
+        "Litleo": 9,
         "Purrloin": 4,
         "Tranquill": 6,
         "Psyduck": 3,
@@ -50,7 +50,7 @@
         "Greavard": 32,
         "Slugma": 6,
         "Grotle": 8,
-        "Porygon": 30,
+        "Porygon": 31,
         "Zubat": 48,
         "Vanillish": 10,
         "Tadbulb": 29,
@@ -322,7 +322,7 @@
         "Gossifleur": 9,
         "Oshawott": 9,
         "Murkrow": 10,
-        "Bellsprout": 38,
+        "Bellsprout": 39,
         "Mudbray": 9,
         "Dreepy": 29,
         "Tinkaton": 2,
@@ -585,7 +585,7 @@
         "Combee": 2,
         "Fletchinder": 12,
         "Kingambit": 1,
-        "Clodsire": 6,
+        "Clodsire": 7,
         "Blaze breed tauros": 1,
         "Wimpod": 3,
         "Torterra": 1,
@@ -670,7 +670,7 @@
         "Appletun": 1,
         "Krookodile": 4,
         "Primeape": 1,
-        "Grimer": 3,
+        "Grimer": 4,
         "Crabominable": 2,
         "Quaquaval": 1,
         "Sprigatito": 8,
@@ -877,7 +877,7 @@
         "Cleffa": 1,
         "Machamp": 1,
         "Altaria": 4,
-        "Purugly": 2,
+        "Purugly": 3,
         "Seaking": 2,
         "High plain vivillon": 1,
         "Urshifu": 1,
@@ -929,8 +929,8 @@
         "Unown l": 1,
         "Delphox": 1
       },
-      "total_spawns": 6828,
-      "last_spawn": "2026-06-23T14:11:07.307481"
+      "total_spawns": 6834,
+      "last_spawn": "2026-06-23T14:11:47.086122"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -949,7 +949,7 @@
     }
   },
   "global": {
-    "total_spawns": 11117,
+    "total_spawns": 11123,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
