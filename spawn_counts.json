@@ -83,7 +83,7 @@
         "Baltoy": 15,
         "Mareep": 38,
         "Garbodor": 2,
-        "Slakoth": 41,
+        "Slakoth": 42,
         "Togepi": 26,
         "Falinks": 5,
         "Tropius": 1,
@@ -305,7 +305,7 @@
         "Toxapex": 2,
         "Lileep": 8,
         "Rolycoly": 28,
-        "Bronzor": 15,
+        "Bronzor": 16,
         "Dartrix": 8,
         "Yellow flower florges": 3,
         "Zangoose": 6,
@@ -491,7 +491,7 @@
         "Eevee": 8,
         "Copperajah": 3,
         "Magneton": 8,
-        "Alakazam": 2,
+        "Alakazam": 3,
         "Bayleef": 5,
         "Poochyena": 8,
         "Klinklang": 3,
@@ -518,7 +518,7 @@
         "Gabite": 3,
         "Hariyama": 2,
         "Victreebel": 1,
-        "Arctibax": 4,
+        "Arctibax": 5,
         "Foongus": 14,
         "Pansage": 6,
         "Cranidos": 7,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 4,
         "Eelektross": 1,
         "Araquanid": 3,
-        "Kadabra": 10,
+        "Kadabra": 11,
         "Chandelure": 6,
         "Ponyta": 13,
         "Togekiss": 2,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8059,
-      "last_spawn": "2026-06-23T16:45:27.132392"
+      "total_spawns": 8064,
+      "last_spawn": "2026-06-23T16:45:57.180779"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -982,10 +982,11 @@
         "Bagon": 1,
         "Archen": 1,
         "Shinx": 1,
-        "Pikachu": 1
+        "Pikachu": 1,
+        "Rhyhorn": 1
       },
-      "total_spawns": 39,
-      "last_spawn": "2026-06-23T16:39:27.609266"
+      "total_spawns": 40,
+      "last_spawn": "2026-06-23T16:45:45.398865"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -995,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12385,
+    "total_spawns": 12391,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
