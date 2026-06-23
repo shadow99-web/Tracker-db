@@ -115,7 +115,7 @@
         "Frigibax": 20,
         "Spheal": 38,
         "Swadloon": 6,
-        "Flittle": 22,
+        "Flittle": 23,
         "Unfezant": 2,
         "Yamask": 4,
         "Ralts": 23,
@@ -321,7 +321,7 @@
         "Quaxly": 8,
         "Gossifleur": 6,
         "Oshawott": 9,
-        "Murkrow": 8,
+        "Murkrow": 9,
         "Bellsprout": 33,
         "Mudbray": 8,
         "Dreepy": 27,
@@ -426,7 +426,7 @@
         "Centiskorch": 2,
         "Low key toxtricity": 1,
         "Grapploct": 1,
-        "Gurdurr": 5,
+        "Gurdurr": 6,
         "Girafarig": 3,
         "Flaaffy": 3,
         "Pecharunt": 1,
@@ -450,7 +450,7 @@
         "Morgrem": 7,
         "Misdreavus": 5,
         "Seviper": 1,
-        "Scovillain": 6,
+        "Scovillain": 7,
         "Sunkern": 5,
         "Drizzile": 4,
         "Sunflora": 2,
@@ -902,10 +902,11 @@
         "Audino": 1,
         "Orange flower florges": 1,
         "Cursola": 1,
-        "Snorlax": 1
+        "Snorlax": 1,
+        "Mienshao": 1
       },
-      "total_spawns": 5952,
-      "last_spawn": "2026-06-23T12:00:17.279664"
+      "total_spawns": 5957,
+      "last_spawn": "2026-06-23T12:00:51.899399"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -923,7 +924,7 @@
     }
   },
   "global": {
-    "total_spawns": 10240,
+    "total_spawns": 10245,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
