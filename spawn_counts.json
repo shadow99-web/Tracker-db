@@ -50,7 +50,7 @@
         "Greavard": 29,
         "Slugma": 6,
         "Grotle": 6,
-        "Porygon": 25,
+        "Porygon": 26,
         "Zubat": 46,
         "Vanillish": 8,
         "Tadbulb": 23,
@@ -67,7 +67,7 @@
         "Glimmora": 13,
         "Starly": 38,
         "Tandemaus": 27,
-        "Smoliv": 39,
+        "Smoliv": 40,
         "Gloom": 9,
         "Clefairy": 4,
         "Spinda": 2,
@@ -84,7 +84,7 @@
         "Mareep": 31,
         "Garbodor": 1,
         "Slakoth": 31,
-        "Togepi": 17,
+        "Togepi": 18,
         "Falinks": 2,
         "Tropius": 1,
         "Poliwag": 23,
@@ -142,7 +142,7 @@
         "Rhyhorn": 27,
         "Sentret": 6,
         "Yungoos": 3,
-        "Diglett": 10,
+        "Diglett": 11,
         "Doduo": 7,
         "Lairon": 9,
         "Emboar": 4,
@@ -650,7 +650,7 @@
         "Arbok": 1,
         "Stretchy tatsugiri": 10,
         "Mareanie": 4,
-        "Seadra": 4,
+        "Seadra": 5,
         "Beheeyem": 3,
         "Pinsir": 3,
         "Mothim": 2,
@@ -673,7 +673,7 @@
         "Grimer": 3,
         "Crabominable": 2,
         "Quaquaval": 1,
-        "Sprigatito": 5,
+        "Sprigatito": 6,
         "Metagross": 3,
         "Eelektrik": 2,
         "Gastrodon": 3,
@@ -914,8 +914,8 @@
         "Eldegoss": 1,
         "Dracozolt": 1
       },
-      "total_spawns": 6239,
-      "last_spawn": "2026-06-23T12:32:27.178683"
+      "total_spawns": 6245,
+      "last_spawn": "2026-06-23T12:33:07.033724"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -933,7 +933,7 @@
     }
   },
   "global": {
-    "total_spawns": 10527,
+    "total_spawns": 10533,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
