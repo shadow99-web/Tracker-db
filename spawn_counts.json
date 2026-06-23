@@ -55,7 +55,7 @@
         "Vanillish": 10,
         "Tadbulb": 35,
         "Magnemite": 49,
-        "Whismur": 33,
+        "Whismur": 34,
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 40,
@@ -67,7 +67,7 @@
         "Glimmora": 16,
         "Starly": 45,
         "Tandemaus": 35,
-        "Smoliv": 51,
+        "Smoliv": 52,
         "Gloom": 10,
         "Clefairy": 7,
         "Spinda": 2,
@@ -87,7 +87,7 @@
         "Togepi": 28,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 34,
+        "Poliwag": 35,
         "Metang": 7,
         "Riolu": 6,
         "Exeggcute": 9,
@@ -103,7 +103,7 @@
         "Veluza": 51,
         "Barboach": 13,
         "Klink": 29,
-        "Honedge": 55,
+        "Honedge": 56,
         "Wingull": 13,
         "Salamence": 1,
         "Drakloak": 9,
@@ -948,10 +948,11 @@
         "Luxray": 2,
         "Latias": 1,
         "Unown n": 1,
-        "Unown exclamation": 1
+        "Unown exclamation": 1,
+        "Ninjask": 1
       },
-      "total_spawns": 8399,
-      "last_spawn": "2026-06-23T17:24:17.478487"
+      "total_spawns": 8404,
+      "last_spawn": "2026-06-23T17:24:51.793439"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1002,7 @@
     }
   },
   "global": {
-    "total_spawns": 12727,
+    "total_spawns": 12732,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
