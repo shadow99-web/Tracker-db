@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 31,
         "Baltoy": 12,
-        "Mareep": 34,
+        "Mareep": 35,
         "Garbodor": 2,
         "Slakoth": 34,
         "Togepi": 23,
@@ -109,7 +109,7 @@
         "Drakloak": 9,
         "Chewtle": 6,
         "Scizor": 1,
-        "Sneasel": 11,
+        "Sneasel": 12,
         "Bonsly": 2,
         "Horsea": 29,
         "Frigibax": 24,
@@ -195,7 +195,7 @@
         "Spearow": 12,
         "Helioptile": 8,
         "Hoothoot": 11,
-        "Grookey": 13,
+        "Grookey": 14,
         "Meditite": 5,
         "Toedscruel": 10,
         "Probopass": 2,
@@ -269,7 +269,7 @@
         "Ceruledge": 16,
         "Houndour": 12,
         "Glimmet": 37,
-        "Goomy": 20,
+        "Goomy": 21,
         "Zapdos": 1,
         "Natu": 9,
         "Dhelmise": 1,
@@ -451,7 +451,7 @@
         "Misdreavus": 5,
         "Seviper": 1,
         "Scovillain": 7,
-        "Sunkern": 5,
+        "Sunkern": 6,
         "Drizzile": 5,
         "Sunflora": 3,
         "Passimian": 2,
@@ -480,7 +480,7 @@
         "Dolliv": 5,
         "Infernape": 1,
         "Carkol": 9,
-        "Magikarp": 7,
+        "Magikarp": 8,
         "Tyrogue": 8,
         "Vikavolt": 1,
         "Trash burmy": 2,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7150,
-      "last_spawn": "2026-06-23T14:47:07.163959"
+      "total_spawns": 7156,
+      "last_spawn": "2026-06-23T14:47:47.550109"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11439,
+    "total_spawns": 11445,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
