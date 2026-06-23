@@ -14,7 +14,7 @@
         "Wiglett": 32,
         "Bombirdier": 25,
         "Litleo": 8,
-        "Purrloin": 3,
+        "Purrloin": 4,
         "Tranquill": 6,
         "Psyduck": 3,
         "Rockruff": 6,
@@ -31,8 +31,8 @@
         "Abra": 28,
         "Sandile": 30,
         "Sandygast": 10,
-        "Litwick": 53,
-        "Grubbin": 23,
+        "Litwick": 54,
+        "Grubbin": 24,
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
@@ -216,7 +216,7 @@
         "Tynamo": 25,
         "Orthworm": 26,
         "Marill": 10,
-        "Joltik": 16,
+        "Joltik": 17,
         "Politoed": 3,
         "Cyndaquil": 12,
         "Fuecoco": 8,
@@ -239,7 +239,7 @@
         "Clobbopus": 3,
         "Omanyte": 8,
         "Galvantula": 2,
-        "Chansey": 6,
+        "Chansey": 7,
         "Shroodle": 32,
         "Duskull": 33,
         "Bergmite": 7,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 2,
         "Pancham": 5,
-        "Venipede": 29,
+        "Venipede": 30,
         "Cacturne": 4,
         "Oddish": 30,
         "Dragalge": 3,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6030,
-      "last_spawn": "2026-06-23T12:09:07.175771"
+      "total_spawns": 6036,
+      "last_spawn": "2026-06-23T12:09:47.050138"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10318,
+    "total_spawns": 10324,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
