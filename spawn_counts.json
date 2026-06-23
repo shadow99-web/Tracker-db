@@ -404,7 +404,7 @@
         "Squawkabilly": 7,
         "Electrike": 12,
         "Drampa": 2,
-        "Maschiff": 19,
+        "Maschiff": 20,
         "Rufflet": 12,
         "Kabutops": 2,
         "Dondozo": 21,
@@ -924,16 +924,17 @@
         "Clefable": 1,
         "Serperior": 1
       },
-      "total_spawns": 6670,
-      "last_spawn": "2026-06-23T13:20:51.934177"
+      "total_spawns": 6671,
+      "last_spawn": "2026-06-23T13:20:57.746787"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Brionne": 1
+        "Brionne": 1,
+        "Sandygast": 1
       },
-      "total_spawns": 1,
-      "last_spawn": "2026-06-23T11:35:21.709330"
+      "total_spawns": 2,
+      "last_spawn": "2026-06-23T13:47:10.331809"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -943,7 +944,7 @@
     }
   },
   "global": {
-    "total_spawns": 10958,
+    "total_spawns": 10960,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
