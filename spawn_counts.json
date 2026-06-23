@@ -14,7 +14,7 @@
         "Wiglett": 47,
         "Bombirdier": 33,
         "Litleo": 12,
-        "Purrloin": 7,
+        "Purrloin": 8,
         "Tranquill": 10,
         "Psyduck": 5,
         "Rockruff": 8,
@@ -180,7 +180,7 @@
         "Grafaiai": 9,
         "Quilladin": 6,
         "Geodude": 41,
-        "Espurr": 9,
+        "Espurr": 10,
         "Cottonee": 4,
         "Elgyem": 9,
         "Luvdisc": 4,
@@ -246,7 +246,7 @@
         "Pignite": 14,
         "Lurantis": 1,
         "Swampert": 3,
-        "Dachsbun": 11,
+        "Dachsbun": 12,
         "Turtwig": 7,
         "Prinplup": 8,
         "Tinkatink": 43,
@@ -413,7 +413,7 @@
         "Peakychu": 30,
         "Armarouge": 9,
         "Tyrantrum": 1,
-        "Larvitar": 17,
+        "Larvitar": 18,
         "Tentacool": 5,
         "Volcanion": 1,
         "Roaming gimmighoul": 22,
@@ -932,7 +932,7 @@
         "Steelix": 1,
         "Excadrill": 2,
         "Druddigon": 1,
-        "Honchkrow": 1,
+        "Honchkrow": 2,
         "Pyukumuku": 2,
         "Machoke": 3,
         "Sunshine cherrim": 1,
@@ -952,8 +952,8 @@
         "Ninjask": 1,
         "Nidoking": 1
       },
-      "total_spawns": 8491,
-      "last_spawn": "2026-06-23T17:34:37.398957"
+      "total_spawns": 8496,
+      "last_spawn": "2026-06-23T17:35:11.931904"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1005,7 +1005,7 @@
     }
   },
   "global": {
-    "total_spawns": 12821,
+    "total_spawns": 12826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
