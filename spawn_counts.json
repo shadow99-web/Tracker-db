@@ -123,7 +123,7 @@
         "Battle cyclizar": 15,
         "Togetic": 8,
         "Palpitoad": 4,
-        "Pikipek": 48,
+        "Pikipek": 49,
         "Teddiursa": 34,
         "Clamperl": 11,
         "Zigzagoon": 14,
@@ -200,7 +200,7 @@
         "Toedscruel": 10,
         "Probopass": 2,
         "Scraggy": 14,
-        "Rhydon": 6,
+        "Rhydon": 7,
         "Silcoon": 8,
         "Totodile": 9,
         "Dodrio": 3,
@@ -229,7 +229,7 @@
         "Spidops": 8,
         "Braixen": 12,
         "Drowzee": 13,
-        "Blipbug": 32,
+        "Blipbug": 33,
         "Lampent": 20,
         "Petilil": 6,
         "Marshtomp": 12,
@@ -346,7 +346,7 @@
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 17,
-        "Wooper": 17,
+        "Wooper": 18,
         "Dwebble": 9,
         "Steenee": 11,
         "Darumaka": 12,
@@ -707,7 +707,7 @@
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
-        "Combusken": 10,
+        "Combusken": 11,
         "Gourgeist": 4,
         "Durant": 2,
         "Grovyle": 6,
@@ -941,17 +941,18 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7563,
-      "last_spawn": "2026-06-23T15:34:11.646598"
+      "total_spawns": 7568,
+      "last_spawn": "2026-06-23T15:34:47.131135"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Brionne": 1,
-        "Sandygast": 1
+        "Sandygast": 1,
+        "Clauncher": 1
       },
-      "total_spawns": 2,
-      "last_spawn": "2026-06-23T13:47:10.331809"
+      "total_spawns": 3,
+      "last_spawn": "2026-06-23T15:34:17.735849"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -961,7 +962,7 @@
     }
   },
   "global": {
-    "total_spawns": 11852,
+    "total_spawns": 11858,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
