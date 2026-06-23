@@ -43,7 +43,7 @@
         "Fletchling": 23,
         "Skiploom": 9,
         "Timburr": 27,
-        "Dj rotom": 20,
+        "Dj rotom": 21,
         "Surskit": 15,
         "Seedot": 17,
         "Skitty": 8,
@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 28,
         "Baltoy": 12,
-        "Mareep": 30,
+        "Mareep": 31,
         "Garbodor": 1,
         "Slakoth": 31,
         "Togepi": 15,
@@ -132,7 +132,7 @@
         "Lillipup": 29,
         "Shinx": 34,
         "Bounsweet": 19,
-        "Noibat": 9,
+        "Noibat": 10,
         "Toxicroak": 4,
         "Charcadet": 33,
         "Croconaw": 11,
@@ -195,7 +195,7 @@
         "Spearow": 10,
         "Helioptile": 6,
         "Hoothoot": 10,
-        "Grookey": 11,
+        "Grookey": 12,
         "Meditite": 3,
         "Toedscruel": 10,
         "Probopass": 1,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 19,
         "Summer sawsbuck": 3,
         "Delibird": 1,
-        "Ride cyclizar": 10,
+        "Ride cyclizar": 11,
         "Gothorita": 6,
         "Varoom": 22,
         "Yellow plumage squawkabilly": 9,
@@ -912,8 +912,8 @@
         "Leafeon": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 6190,
-      "last_spawn": "2026-06-23T12:26:51.984185"
+      "total_spawns": 6195,
+      "last_spawn": "2026-06-23T12:27:27.017852"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -931,7 +931,7 @@
     }
   },
   "global": {
-    "total_spawns": 10478,
+    "total_spawns": 10483,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
