@@ -51,7 +51,7 @@
         "Slugma": 9,
         "Grotle": 9,
         "Porygon": 37,
-        "Zubat": 53,
+        "Zubat": 54,
         "Vanillish": 10,
         "Tadbulb": 35,
         "Magnemite": 48,
@@ -77,7 +77,7 @@
         "Tarountula": 27,
         "Hatterene": 2,
         "Phantump": 16,
-        "Duosion": 9,
+        "Duosion": 10,
         "Amaura": 10,
         "Gimmighoul": 38,
         "Baltoy": 16,
@@ -582,7 +582,7 @@
         "Scyther": 7,
         "Anorith": 9,
         "Meowth": 4,
-        "Combee": 4,
+        "Combee": 5,
         "Fletchinder": 12,
         "Kingambit": 2,
         "Clodsire": 10,
@@ -687,7 +687,7 @@
         "Koffing": 6,
         "Floragato": 6,
         "Seel": 8,
-        "Shiinotic": 3,
+        "Shiinotic": 4,
         "Gumshoos": 2,
         "Pyroar": 4,
         "Marshadow": 1,
@@ -947,8 +947,8 @@
         "Meowstic": 1,
         "Luxray": 1
       },
-      "total_spawns": 8177,
-      "last_spawn": "2026-06-23T16:58:47.240308"
+      "total_spawns": 8181,
+      "last_spawn": "2026-06-23T16:59:27.450436"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -998,7 +998,7 @@
     }
   },
   "global": {
-    "total_spawns": 12505,
+    "total_spawns": 12509,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
