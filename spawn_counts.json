@@ -32,7 +32,7 @@
         "Sandile": 30,
         "Sandygast": 9,
         "Litwick": 53,
-        "Grubbin": 22,
+        "Grubbin": 23,
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
@@ -90,7 +90,7 @@
         "Poliwag": 20,
         "Metang": 5,
         "Riolu": 4,
-        "Exeggcute": 6,
+        "Exeggcute": 7,
         "Corphish": 3,
         "Hoppip": 22,
         "Sandslash": 1,
@@ -151,7 +151,7 @@
         "Bulbasaur": 7,
         "Roggenrola": 21,
         "Pidove": 33,
-        "Dragapult": 4,
+        "Dragapult": 5,
         "Rattata": 13,
         "Flapple": 3,
         "Aron": 22,
@@ -180,7 +180,7 @@
         "Grafaiai": 7,
         "Quilladin": 5,
         "Geodude": 26,
-        "Espurr": 7,
+        "Espurr": 8,
         "Cottonee": 3,
         "Elgyem": 7,
         "Luvdisc": 2,
@@ -210,7 +210,7 @@
         "Aipom": 6,
         "Growlithe": 9,
         "Sewaddle": 28,
-        "Fidough": 17,
+        "Fidough": 18,
         "Noivern": 2,
         "Feraligatr": 3,
         "Tynamo": 25,
@@ -740,7 +740,7 @@
         "Greedent": 2,
         "Ekans": 7,
         "Venonat": 6,
-        "Pelipper": 3,
+        "Pelipper": 4,
         "Metapod": 5,
         "Kricketune": 4,
         "Nidoqueen": 3,
@@ -897,8 +897,8 @@
         "Elekid": 1,
         "Floette": 1
       },
-      "total_spawns": 5862,
-      "last_spawn": "2026-06-23T11:49:47.144653"
+      "total_spawns": 5868,
+      "last_spawn": "2026-06-23T11:50:27.249933"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -907,10 +907,16 @@
       },
       "total_spawns": 1,
       "last_spawn": "2026-06-23T11:35:21.709330"
+    },
+    "1393259626610557130": {
+      "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
+      "counts": {},
+      "total_spawns": 0,
+      "last_spawn": null
     }
   },
   "global": {
-    "total_spawns": 10150,
+    "total_spawns": 10156,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
