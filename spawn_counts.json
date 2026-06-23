@@ -213,12 +213,12 @@
         "Fidough": 25,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 33,
+        "Tynamo": 34,
         "Orthworm": 37,
         "Marill": 12,
         "Joltik": 20,
         "Politoed": 3,
-        "Cyndaquil": 17,
+        "Cyndaquil": 18,
         "Fuecoco": 10,
         "Cyclizar": 14,
         "Magmar": 13,
@@ -316,7 +316,7 @@
         "Munna": 7,
         "Pawniard": 9,
         "Prof tangrowth": 14,
-        "Jangmo-o": 14,
+        "Jangmo-o": 15,
         "Trash wormadam": 2,
         "Quaxly": 10,
         "Gossifleur": 10,
@@ -511,7 +511,7 @@
         "Sawk": 2,
         "Starmie": 2,
         "Simipour": 1,
-        "Goldeen": 8,
+        "Goldeen": 9,
         "Nickit": 10,
         "Ivysaur": 8,
         "Milcery": 5,
@@ -818,7 +818,7 @@
         "Galarian weezing": 1,
         "Gigalith": 1,
         "Indeedee": 2,
-        "Amped toxtricity": 3,
+        "Amped toxtricity": 4,
         "Galarian linoone": 1,
         "Xatu": 4,
         "Galarian corsola": 1,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7663,
-      "last_spawn": "2026-06-23T16:00:47.153349"
+      "total_spawns": 7668,
+      "last_spawn": "2026-06-23T16:01:17.316061"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -967,7 +967,7 @@
     }
   },
   "global": {
-    "total_spawns": 11957,
+    "total_spawns": 11962,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
