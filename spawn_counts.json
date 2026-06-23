@@ -34,7 +34,7 @@
         "Litwick": 58,
         "Grubbin": 28,
         "Escavalier": 6,
-        "Dratini": 20,
+        "Dratini": 21,
         "Kilowattrel": 7,
         "Lotad": 46,
         "Qwilfish": 5,
@@ -417,7 +417,7 @@
         "Tentacool": 4,
         "Volcanion": 1,
         "Roaming gimmighoul": 20,
-        "Summer sawsbuck": 3,
+        "Summer sawsbuck": 4,
         "Delibird": 1,
         "Ride cyclizar": 11,
         "Gothorita": 6,
@@ -513,7 +513,7 @@
         "Simipour": 1,
         "Goldeen": 7,
         "Nickit": 9,
-        "Ivysaur": 6,
+        "Ivysaur": 7,
         "Milcery": 4,
         "Gabite": 2,
         "Hariyama": 2,
@@ -874,7 +874,7 @@
         "Basculegion": 1,
         "Magnezone": 1,
         "Alolan graveler": 1,
-        "Cleffa": 1,
+        "Cleffa": 2,
         "Machamp": 1,
         "Altaria": 4,
         "Purugly": 3,
@@ -911,7 +911,7 @@
         "Clawitzer": 1,
         "Leafeon": 1,
         "Ludicolo": 2,
-        "Eldegoss": 1,
+        "Eldegoss": 2,
         "Dracozolt": 1,
         "Galarian rapidash": 1,
         "Skuntank": 1,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6918,
-      "last_spawn": "2026-06-23T14:21:11.854976"
+      "total_spawns": 6923,
+      "last_spawn": "2026-06-23T14:21:47.305116"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11207,
+    "total_spawns": 11212,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
