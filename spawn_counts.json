@@ -113,7 +113,7 @@
         "Bonsly": 1,
         "Horsea": 23,
         "Frigibax": 19,
-        "Spheal": 36,
+        "Spheal": 37,
         "Swadloon": 6,
         "Flittle": 21,
         "Unfezant": 2,
@@ -138,7 +138,7 @@
         "Croconaw": 10,
         "Phanpy": 2,
         "Brambleghast": 6,
-        "Pidgey": 39,
+        "Pidgey": 40,
         "Rhyhorn": 25,
         "Sentret": 6,
         "Yungoos": 3,
@@ -398,7 +398,7 @@
         "Ursaluna": 2,
         "Furfrou": 2,
         "Sylveon": 1,
-        "Nosepass": 6,
+        "Nosepass": 7,
         "Persian": 1,
         "Lopunny": 1,
         "Squawkabilly": 7,
@@ -488,7 +488,7 @@
         "Chatot": 3,
         "Houndoom": 4,
         "Dottler": 5,
-        "Eevee": 5,
+        "Eevee": 6,
         "Copperajah": 2,
         "Magneton": 6,
         "Alakazam": 2,
@@ -760,7 +760,7 @@
         "Golisopod": 4,
         "Greninja": 2,
         "Smoochum": 2,
-        "Reuniclus": 1,
+        "Reuniclus": 2,
         "Smeargle": 2,
         "Gorebyss": 1,
         "Yanmega": 1,
@@ -894,8 +894,8 @@
         "Aqua breed tauros": 1,
         "Fan rotom": 1
       },
-      "total_spawns": 5775,
-      "last_spawn": "2026-06-23T11:40:07.364453"
+      "total_spawns": 5780,
+      "last_spawn": "2026-06-23T11:40:37.510235"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -907,7 +907,7 @@
     }
   },
   "global": {
-    "total_spawns": 10063,
+    "total_spawns": 10068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
