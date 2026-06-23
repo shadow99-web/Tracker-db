@@ -30,7 +30,7 @@
         "Morelull": 2,
         "Abra": 28,
         "Sandile": 30,
-        "Sandygast": 10,
+        "Sandygast": 11,
         "Litwick": 55,
         "Grubbin": 24,
         "Escavalier": 6,
@@ -83,7 +83,7 @@
         "Baltoy": 12,
         "Mareep": 29,
         "Garbodor": 1,
-        "Slakoth": 30,
+        "Slakoth": 31,
         "Togepi": 14,
         "Falinks": 2,
         "Tropius": 1,
@@ -173,7 +173,7 @@
         "Swinub": 24,
         "Inkay": 12,
         "Gible": 15,
-        "Rookidee": 19,
+        "Rookidee": 20,
         "Minccino": 10,
         "Wurmple": 24,
         "Binacle": 10,
@@ -212,7 +212,7 @@
         "Sewaddle": 30,
         "Fidough": 19,
         "Noivern": 2,
-        "Feraligatr": 3,
+        "Feraligatr": 4,
         "Tynamo": 25,
         "Orthworm": 28,
         "Marill": 10,
@@ -264,7 +264,7 @@
         "Nincada": 14,
         "Fennekin": 17,
         "Quaxwell": 4,
-        "Vibrava": 6,
+        "Vibrava": 7,
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
@@ -785,7 +785,7 @@
         "Weavile": 1,
         "Gorging cramorant": 1,
         "Shieldon": 3,
-        "Masquerain": 1,
+        "Masquerain": 2,
         "Watchog": 2,
         "Ditto": 3,
         "Dada zarude": 1,
@@ -911,8 +911,8 @@
         "Clawitzer": 1,
         "Leafeon": 1
       },
-      "total_spawns": 6132,
-      "last_spawn": "2026-06-23T12:20:27.267759"
+      "total_spawns": 6138,
+      "last_spawn": "2026-06-23T12:21:07.421400"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -930,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 10420,
+    "total_spawns": 10426,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
