@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 32,
         "Baltoy": 13,
-        "Mareep": 35,
+        "Mareep": 36,
         "Garbodor": 2,
         "Slakoth": 35,
         "Togepi": 23,
@@ -224,7 +224,7 @@
         "Magmar": 13,
         "Rillaboom": 3,
         "Ninetales": 2,
-        "Wattrel": 39,
+        "Wattrel": 40,
         "Snubbull": 11,
         "Spidops": 8,
         "Braixen": 12,
@@ -366,7 +366,7 @@
         "Finizen": 34,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 23,
+        "Caterpie": 24,
         "Carvanha": 10,
         "Luxio": 9,
         "Treecko": 15,
@@ -459,7 +459,7 @@
         "Cherubi": 5,
         "Cradily": 3,
         "Vulpix": 10,
-        "Paras": 9,
+        "Paras": 10,
         "Herdier": 8,
         "Pineco": 8,
         "Chikorita": 7,
@@ -936,10 +936,11 @@
         "Pyukumuku": 1,
         "Machoke": 2,
         "Sunshine cherrim": 1,
-        "Beautifly": 1
+        "Beautifly": 1,
+        "Ting-lu": 1
       },
-      "total_spawns": 7310,
-      "last_spawn": "2026-06-23T15:05:11.695733"
+      "total_spawns": 7315,
+      "last_spawn": "2026-06-23T15:05:48.276613"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -958,7 +959,7 @@
     }
   },
   "global": {
-    "total_spawns": 11599,
+    "total_spawns": 11604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
