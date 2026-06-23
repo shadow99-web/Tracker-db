@@ -186,7 +186,7 @@
         "Luvdisc": 4,
         "Vigoroth": 14,
         "Skorupi": 8,
-        "Pikachu": 9,
+        "Pikachu": 10,
         "Blue plumage squawkabilly": 6,
         "Thwackey": 9,
         "Dusk lycanroc": 3,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 8,
-        "Venipede": 43,
+        "Venipede": 44,
         "Cacturne": 4,
         "Oddish": 40,
         "Dragalge": 4,
@@ -594,7 +594,7 @@
         "Galarian darumaka": 1,
         "Mienfoo": 11,
         "Dewgong": 3,
-        "Wartortle": 9,
+        "Wartortle": 10,
         "Cetoddle": 24,
         "Kricketot": 10,
         "Porygon-z": 2,
@@ -836,7 +836,7 @@
         "Arctovish": 5,
         "Ribombee": 1,
         "Alolan meowth": 1,
-        "Klang": 2,
+        "Klang": 3,
         "Manectric": 2,
         "Gallade": 1,
         "Family of three maushold": 1,
@@ -943,10 +943,11 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1,
         "Giratina": 1,
-        "Iron treads": 1
+        "Iron treads": 1,
+        "Meowstic": 1
       },
-      "total_spawns": 8106,
-      "last_spawn": "2026-06-23T16:50:37.416074"
+      "total_spawns": 8111,
+      "last_spawn": "2026-06-23T16:51:11.840865"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -996,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12434,
+    "total_spawns": 12439,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
