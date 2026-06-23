@@ -65,7 +65,7 @@
         "Ducklett": 6,
         "Lokix": 10,
         "Glimmora": 14,
-        "Starly": 42,
+        "Starly": 43,
         "Tandemaus": 33,
         "Smoliv": 49,
         "Gloom": 9,
@@ -242,7 +242,7 @@
         "Chansey": 7,
         "Shroodle": 40,
         "Duskull": 44,
-        "Bergmite": 8,
+        "Bergmite": 9,
         "Pignite": 14,
         "Lurantis": 1,
         "Swampert": 3,
@@ -541,7 +541,7 @@
         "Vanilluxe": 2,
         "Jolteon": 2,
         "Pawmot": 5,
-        "Skiddo": 6,
+        "Skiddo": 7,
         "Slowbro": 5,
         "Oricorio": 3,
         "Kangaskhan": 2,
@@ -653,7 +653,7 @@
         "Seadra": 6,
         "Beheeyem": 3,
         "Pinsir": 4,
-        "Mothim": 2,
+        "Mothim": 3,
         "Whirlipede": 9,
         "Absol": 3,
         "Annihilape": 4,
@@ -669,7 +669,7 @@
         "Amoonguss": 5,
         "Appletun": 1,
         "Krookodile": 4,
-        "Primeape": 1,
+        "Primeape": 2,
         "Grimer": 5,
         "Crabominable": 3,
         "Quaquaval": 1,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7995,
-      "last_spawn": "2026-06-23T16:38:14.490799"
+      "total_spawns": 8000,
+      "last_spawn": "2026-06-23T16:38:47.282738"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -979,10 +979,11 @@
         "Hisuian voltorb": 1,
         "Dreepy": 2,
         "Bagon": 1,
-        "Archen": 1
+        "Archen": 1,
+        "Shinx": 1
       },
-      "total_spawns": 37,
-      "last_spawn": "2026-06-23T16:37:47.482073"
+      "total_spawns": 38,
+      "last_spawn": "2026-06-23T16:38:27.538866"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -992,7 +993,7 @@
     }
   },
   "global": {
-    "total_spawns": 12319,
+    "total_spawns": 12325,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
