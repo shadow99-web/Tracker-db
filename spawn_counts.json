@@ -12,7 +12,7 @@
         "Rellor": 28,
         "Sandy burmy": 8,
         "Wiglett": 38,
-        "Bombirdier": 27,
+        "Bombirdier": 28,
         "Litleo": 10,
         "Purrloin": 5,
         "Tranquill": 7,
@@ -243,7 +243,7 @@
         "Shroodle": 38,
         "Duskull": 40,
         "Bergmite": 8,
-        "Pignite": 10,
+        "Pignite": 11,
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 11,
@@ -262,7 +262,7 @@
         "Tirtouga": 12,
         "Furret": 1,
         "Nincada": 14,
-        "Fennekin": 18,
+        "Fennekin": 19,
         "Quaxwell": 4,
         "Vibrava": 9,
         "Loudred": 4,
@@ -342,7 +342,7 @@
         "Sobble": 17,
         "Mudkip": 10,
         "Charjabug": 9,
-        "Capsakid": 23,
+        "Capsakid": 24,
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 16,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 2,
         "Eelektross": 1,
         "Araquanid": 3,
-        "Kadabra": 8,
+        "Kadabra": 9,
         "Chandelure": 6,
         "Ponyta": 12,
         "Togekiss": 2,
@@ -628,7 +628,7 @@
         "Tatsugiri": 8,
         "Nidorino": 6,
         "Wailmer": 8,
-        "Krabby": 6,
+        "Krabby": 7,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 3,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7382,
-      "last_spawn": "2026-06-23T15:13:27.184681"
+      "total_spawns": 7388,
+      "last_spawn": "2026-06-23T15:14:07.039166"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11671,
+    "total_spawns": 11677,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
