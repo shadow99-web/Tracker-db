@@ -28,7 +28,7 @@
         "Impidimp": 37,
         "Charmander": 17,
         "Morelull": 6,
-        "Abra": 44,
+        "Abra": 45,
         "Sandile": 42,
         "Sandygast": 15,
         "Litwick": 67,
@@ -83,7 +83,7 @@
         "Baltoy": 18,
         "Mareep": 41,
         "Garbodor": 2,
-        "Slakoth": 48,
+        "Slakoth": 49,
         "Togepi": 30,
         "Falinks": 5,
         "Tropius": 1,
@@ -496,7 +496,7 @@
         "Poochyena": 8,
         "Klinklang": 3,
         "Basculin": 4,
-        "Throh": 2,
+        "Throh": 3,
         "Comfey": 2,
         "Applin": 15,
         "Staraptor": 2,
@@ -719,7 +719,7 @@
         "Tsareena": 2,
         "Blissey": 3,
         "Blastoise": 2,
-        "Breloom": 2,
+        "Breloom": 3,
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
@@ -886,7 +886,7 @@
         "Kingler": 3,
         "Alomomola": 2,
         "White-striped basculin": 1,
-        "Ampharos": 1,
+        "Ampharos": 2,
         "Whiscash": 2,
         "Heracross": 2,
         "Orange flower floette": 1,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9039,
-      "last_spawn": "2026-06-23T19:09:57.360020"
+      "total_spawns": 9044,
+      "last_spawn": "2026-06-23T19:10:31.863958"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1020,7 +1020,7 @@
     }
   },
   "global": {
-    "total_spawns": 13376,
+    "total_spawns": 13381,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
