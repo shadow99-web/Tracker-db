@@ -130,7 +130,7 @@
         "Weedle": 46,
         "Flamigo": 32,
         "Lillipup": 33,
-        "Shinx": 36,
+        "Shinx": 37,
         "Bounsweet": 24,
         "Noibat": 11,
         "Toxicroak": 4,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 2,
         "Eelektross": 1,
         "Araquanid": 3,
-        "Kadabra": 5,
+        "Kadabra": 6,
         "Chandelure": 6,
         "Ponyta": 10,
         "Togekiss": 2,
@@ -584,7 +584,7 @@
         "Meowth": 4,
         "Combee": 2,
         "Fletchinder": 12,
-        "Kingambit": 1,
+        "Kingambit": 2,
         "Clodsire": 8,
         "Blaze breed tauros": 1,
         "Wimpod": 4,
@@ -724,7 +724,7 @@
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
         "Typhlosion": 1,
-        "Ariados": 1,
+        "Ariados": 2,
         "Volbeat": 2,
         "Burmy": 2,
         "Popplio": 3,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 7023,
-      "last_spawn": "2026-06-23T14:32:57.364451"
+      "total_spawns": 7027,
+      "last_spawn": "2026-06-23T14:33:27.417275"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11312,
+    "total_spawns": 11316,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
