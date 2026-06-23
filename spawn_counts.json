@@ -29,7 +29,7 @@
         "Charmander": 11,
         "Morelull": 3,
         "Abra": 34,
-        "Sandile": 30,
+        "Sandile": 31,
         "Sandygast": 13,
         "Litwick": 57,
         "Grubbin": 26,
@@ -128,9 +128,9 @@
         "Clamperl": 11,
         "Zigzagoon": 14,
         "Weedle": 45,
-        "Flamigo": 29,
+        "Flamigo": 30,
         "Lillipup": 32,
-        "Shinx": 35,
+        "Shinx": 36,
         "Bounsweet": 23,
         "Noibat": 10,
         "Toxicroak": 4,
@@ -179,7 +179,7 @@
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 5,
-        "Geodude": 31,
+        "Geodude": 32,
         "Espurr": 8,
         "Cottonee": 3,
         "Elgyem": 8,
@@ -475,7 +475,7 @@
         "Simisear": 1,
         "White plumage squawkabilly": 9,
         "Shelmet": 8,
-        "Solrock": 1,
+        "Solrock": 2,
         "Slowpoke": 10,
         "Dolliv": 5,
         "Infernape": 1,
@@ -691,7 +691,7 @@
         "Gumshoos": 2,
         "Pyroar": 3,
         "Marshadow": 1,
-        "Sliggoo": 3,
+        "Sliggoo": 4,
         "Panpour": 8,
         "Tinkatuff": 3,
         "Bruxish": 3,
@@ -926,8 +926,8 @@
         "Lycanroc": 1,
         "Kingdra": 1
       },
-      "total_spawns": 6757,
-      "last_spawn": "2026-06-23T14:03:07.329908"
+      "total_spawns": 6763,
+      "last_spawn": "2026-06-23T14:03:47.305088"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -946,7 +946,7 @@
     }
   },
   "global": {
-    "total_spawns": 11046,
+    "total_spawns": 11052,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
