@@ -349,7 +349,7 @@
         "Wooper": 18,
         "Dwebble": 9,
         "Steenee": 11,
-        "Darumaka": 13,
+        "Darumaka": 14,
         "Arboliva": 3,
         "Ledyba": 11,
         "Spritzee": 6,
@@ -538,7 +538,7 @@
         "Archen": 15,
         "Oinkologne": 10,
         "Onix": 8,
-        "Vanilluxe": 1,
+        "Vanilluxe": 2,
         "Jolteon": 2,
         "Pawmot": 5,
         "Skiddo": 5,
@@ -576,7 +576,7 @@
         "Tentacruel": 5,
         "Nuzleaf": 6,
         "Scorbunny": 12,
-        "Huntail": 2,
+        "Huntail": 3,
         "Galarian meowth": 1,
         "Spoink": 4,
         "Scyther": 7,
@@ -715,7 +715,7 @@
         "Gengar": 2,
         "Forretress": 2,
         "Hydrapple": 1,
-        "Emolga": 2,
+        "Emolga": 3,
         "Tsareena": 2,
         "Blissey": 2,
         "Blastoise": 2,
@@ -770,7 +770,7 @@
         "Drifblim": 2,
         "Meowscarada": 2,
         "Roserade": 2,
-        "Nidorina": 4,
+        "Nidorina": 5,
         "Archaludon": 1,
         "Golduck": 2,
         "Scolipede": 2,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7869,
-      "last_spawn": "2026-06-23T16:23:57.262223"
+      "total_spawns": 7874,
+      "last_spawn": "2026-06-23T16:24:31.900780"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,10 +960,11 @@
         "Roggenrola": 1,
         "Armarouge": 1,
         "Gastly": 1,
-        "Scatterbug": 1
+        "Scatterbug": 1,
+        "Wurmple": 1
       },
-      "total_spawns": 11,
-      "last_spawn": "2026-06-23T16:23:47.587608"
+      "total_spawns": 12,
+      "last_spawn": "2026-06-23T16:24:07.462497"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -973,7 +974,7 @@
     }
   },
   "global": {
-    "total_spawns": 12167,
+    "total_spawns": 12173,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
