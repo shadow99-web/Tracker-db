@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 26,
         "Frigibax": 22,
-        "Spheal": 38,
+        "Spheal": 39,
         "Swadloon": 7,
         "Flittle": 28,
         "Unfezant": 3,
@@ -328,7 +328,7 @@
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 7,
-        "Nymble": 33,
+        "Nymble": 34,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 7,
@@ -465,7 +465,7 @@
         "Chikorita": 5,
         "Woobat": 8,
         "Wobbuffet": 1,
-        "Roselia": 3,
+        "Roselia": 4,
         "Shelgon": 6,
         "Buizel": 5,
         "Arctozolt": 3,
@@ -537,7 +537,7 @@
         "Zorua": 7,
         "Archen": 14,
         "Oinkologne": 9,
-        "Onix": 6,
+        "Onix": 7,
         "Vanilluxe": 1,
         "Jolteon": 1,
         "Pawmot": 3,
@@ -648,7 +648,7 @@
         "Archeops": 2,
         "Shiftry": 1,
         "Arbok": 1,
-        "Stretchy tatsugiri": 10,
+        "Stretchy tatsugiri": 11,
         "Mareanie": 4,
         "Seadra": 5,
         "Beheeyem": 3,
@@ -833,7 +833,7 @@
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 1,
-        "Arctovish": 4,
+        "Arctovish": 5,
         "Ribombee": 1,
         "Alolan meowth": 1,
         "Klang": 1,
@@ -918,8 +918,8 @@
         "Gogoat": 1,
         "Bellossom": 1
       },
-      "total_spawns": 6403,
-      "last_spawn": "2026-06-23T12:50:47.113000"
+      "total_spawns": 6409,
+      "last_spawn": "2026-06-23T12:51:28.718792"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -937,7 +937,7 @@
     }
   },
   "global": {
-    "total_spawns": 10691,
+    "total_spawns": 10697,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
