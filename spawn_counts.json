@@ -125,7 +125,7 @@
         "Palpitoad": 3,
         "Pikipek": 41,
         "Teddiursa": 29,
-        "Clamperl": 9,
+        "Clamperl": 10,
         "Zigzagoon": 13,
         "Weedle": 44,
         "Flamigo": 28,
@@ -221,7 +221,7 @@
         "Cyndaquil": 13,
         "Fuecoco": 8,
         "Cyclizar": 13,
-        "Magmar": 10,
+        "Magmar": 11,
         "Rillaboom": 3,
         "Ninetales": 2,
         "Wattrel": 35,
@@ -338,7 +338,7 @@
         "Sealeo": 10,
         "Staryu": 8,
         "Samurott": 2,
-        "Torchic": 12,
+        "Torchic": 13,
         "Sobble": 17,
         "Mudkip": 10,
         "Charjabug": 9,
@@ -407,10 +407,10 @@
         "Maschiff": 19,
         "Rufflet": 12,
         "Kabutops": 2,
-        "Dondozo": 20,
+        "Dondozo": 21,
         "Pansear": 9,
         "Cutiefly": 7,
-        "Peakychu": 17,
+        "Peakychu": 18,
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 15,
@@ -445,7 +445,7 @@
         "Plusle": 2,
         "Skrelp": 5,
         "Raticate": 5,
-        "Wugtrio": 5,
+        "Wugtrio": 6,
         "Bellibolt": 4,
         "Morgrem": 7,
         "Misdreavus": 5,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6522,
-      "last_spawn": "2026-06-23T13:04:07.333637"
+      "total_spawns": 6528,
+      "last_spawn": "2026-06-23T13:04:47.655431"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10810,
+    "total_spawns": 10816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
