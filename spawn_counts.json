@@ -83,7 +83,7 @@
         "Baltoy": 12,
         "Mareep": 33,
         "Garbodor": 2,
-        "Slakoth": 32,
+        "Slakoth": 33,
         "Togepi": 21,
         "Falinks": 3,
         "Tropius": 1,
@@ -102,7 +102,7 @@
         "Smearguru": 26,
         "Veluza": 43,
         "Barboach": 10,
-        "Klink": 21,
+        "Klink": 22,
         "Honedge": 49,
         "Wingull": 12,
         "Salamence": 1,
@@ -367,7 +367,7 @@
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 23,
-        "Carvanha": 9,
+        "Carvanha": 10,
         "Luxio": 9,
         "Treecko": 15,
         "Sinistea": 3,
@@ -907,7 +907,7 @@
         "Glaceon": 1,
         "Primarina": 1,
         "Unown x": 1,
-        "Aggron": 1,
+        "Aggron": 2,
         "Clawitzer": 1,
         "Leafeon": 1,
         "Ludicolo": 2,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6914,
-      "last_spawn": "2026-06-23T14:20:37.098047"
+      "total_spawns": 6918,
+      "last_spawn": "2026-06-23T14:21:11.854976"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11203,
+    "total_spawns": 11207,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
