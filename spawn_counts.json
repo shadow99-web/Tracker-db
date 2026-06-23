@@ -11,7 +11,7 @@
         "Electabuzz": 6,
         "Rellor": 22,
         "Sandy burmy": 8,
-        "Wiglett": 30,
+        "Wiglett": 31,
         "Bombirdier": 25,
         "Litleo": 7,
         "Purrloin": 3,
@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
-        "Lotad": 38,
+        "Lotad": 39,
         "Qwilfish": 4,
         "Trapinch": 31,
         "Toedscool": 29,
@@ -121,7 +121,7 @@
         "Ralts": 22,
         "Solosis": 21,
         "Battle cyclizar": 13,
-        "Togetic": 6,
+        "Togetic": 7,
         "Palpitoad": 3,
         "Pikipek": 33,
         "Teddiursa": 28,
@@ -169,7 +169,7 @@
         "Vanillite": 24,
         "Flareon": 3,
         "Gastly": 23,
-        "Taillow": 8,
+        "Taillow": 9,
         "Swinub": 23,
         "Inkay": 12,
         "Gible": 15,
@@ -543,7 +543,7 @@
         "Pawmot": 3,
         "Skiddo": 3,
         "Slowbro": 3,
-        "Oricorio": 1,
+        "Oricorio": 2,
         "Kangaskhan": 2,
         "Krokorok": 7,
         "Dragonair": 3,
@@ -891,18 +891,20 @@
         "Heracross": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 5731,
-      "last_spawn": "2026-06-23T11:34:57.262128"
+      "total_spawns": 5736,
+      "last_spawn": "2026-06-23T11:35:31.933065"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
-      "counts": {},
-      "total_spawns": 0,
-      "last_spawn": null
+      "counts": {
+        "Brionne": 1
+      },
+      "total_spawns": 1,
+      "last_spawn": "2026-06-23T11:35:21.709330"
     }
   },
   "global": {
-    "total_spawns": 10018,
+    "total_spawns": 10024,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
