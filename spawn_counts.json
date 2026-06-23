@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 5,
-        "Tympole": 17,
+        "Tympole": 18,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -416,7 +416,7 @@
         "Larvitar": 14,
         "Tentacool": 2,
         "Volcanion": 1,
-        "Roaming gimmighoul": 18,
+        "Roaming gimmighoul": 19,
         "Summer sawsbuck": 3,
         "Delibird": 1,
         "Ride cyclizar": 10,
@@ -532,7 +532,7 @@
         "Accelgor": 1,
         "Wormadam": 3,
         "Axew": 19,
-        "Trevenant": 3,
+        "Trevenant": 4,
         "Trubbish": 2,
         "Zorua": 7,
         "Archen": 13,
@@ -660,7 +660,7 @@
         "Bouffalant": 2,
         "Crabrawler": 5,
         "Budew": 1,
-        "Espathra": 3,
+        "Espathra": 4,
         "Vileplume": 2,
         "Kecleon": 1,
         "Sizzlipede": 6,
@@ -682,7 +682,7 @@
         "Oranguru": 2,
         "Poliwrath": 2,
         "Blaziken": 2,
-        "Stantler": 3,
+        "Stantler": 4,
         "Butterfree": 1,
         "Koffing": 5,
         "Floragato": 2,
@@ -911,8 +911,8 @@
         "Clawitzer": 1,
         "Leafeon": 1
       },
-      "total_spawns": 6159,
-      "last_spawn": "2026-06-23T12:23:27.200942"
+      "total_spawns": 6164,
+      "last_spawn": "2026-06-23T12:23:57.672076"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -930,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 10447,
+    "total_spawns": 10452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
