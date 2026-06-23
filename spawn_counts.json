@@ -103,7 +103,7 @@
         "Veluza": 37,
         "Barboach": 8,
         "Klink": 18,
-        "Honedge": 45,
+        "Honedge": 46,
         "Wingull": 8,
         "Salamence": 1,
         "Drakloak": 7,
@@ -703,7 +703,7 @@
         "Litten": 7,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 14,
+        "Hatenna": 15,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -818,7 +818,7 @@
         "Galarian weezing": 1,
         "Gigalith": 1,
         "Indeedee": 1,
-        "Amped toxtricity": 1,
+        "Amped toxtricity": 2,
         "Galarian linoone": 1,
         "Xatu": 2,
         "Galarian corsola": 1,
@@ -890,10 +890,11 @@
         "Whiscash": 1,
         "Heracross": 1,
         "Orange flower floette": 1,
-        "Ambipom": 1
+        "Ambipom": 2,
+        "Aqua breed tauros": 1
       },
-      "total_spawns": 5756,
-      "last_spawn": "2026-06-23T11:37:57.279430"
+      "total_spawns": 5761,
+      "last_spawn": "2026-06-23T11:38:31.758524"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -905,7 +906,7 @@
     }
   },
   "global": {
-    "total_spawns": 10044,
+    "total_spawns": 10049,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
