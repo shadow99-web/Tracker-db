@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 19,
-        "Patrat": 9,
+        "Patrat": 10,
         "Mosslax": 24,
         "Drilbur": 7,
         "Pawmi": 42,
@@ -29,7 +29,7 @@
         "Charmander": 15,
         "Morelull": 5,
         "Abra": 42,
-        "Sandile": 39,
+        "Sandile": 40,
         "Sandygast": 14,
         "Litwick": 65,
         "Grubbin": 35,
@@ -269,7 +269,7 @@
         "Ceruledge": 18,
         "Houndour": 12,
         "Glimmet": 42,
-        "Goomy": 22,
+        "Goomy": 23,
         "Zapdos": 1,
         "Natu": 11,
         "Dhelmise": 2,
@@ -512,7 +512,7 @@
         "Starmie": 4,
         "Simipour": 1,
         "Goldeen": 10,
-        "Nickit": 12,
+        "Nickit": 13,
         "Ivysaur": 8,
         "Milcery": 7,
         "Gabite": 3,
@@ -554,7 +554,7 @@
         "Drednaw": 3,
         "Skarmory": 4,
         "Midnight lycanroc": 4,
-        "Eelektross": 1,
+        "Eelektross": 2,
         "Araquanid": 4,
         "Kadabra": 12,
         "Chandelure": 6,
@@ -953,8 +953,8 @@
         "Nidoking": 1,
         "Pichu": 1
       },
-      "total_spawns": 8522,
-      "last_spawn": "2026-06-23T17:38:17.353717"
+      "total_spawns": 8527,
+      "last_spawn": "2026-06-23T17:38:51.780048"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,7 +1006,7 @@
     }
   },
   "global": {
-    "total_spawns": 12852,
+    "total_spawns": 12857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
