@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 17,
         "Patrat": 7,
-        "Mosslax": 22,
+        "Mosslax": 23,
         "Drilbur": 7,
         "Pawmi": 39,
         "Electabuzz": 7,
@@ -118,7 +118,7 @@
         "Flittle": 37,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 28,
+        "Ralts": 29,
         "Solosis": 33,
         "Battle cyclizar": 15,
         "Togetic": 8,
@@ -331,7 +331,7 @@
         "Nymble": 39,
         "Ferrothorn": 1,
         "Servine": 6,
-        "Blitzle": 8,
+        "Blitzle": 9,
         "Musharna": 2,
         "Bisharp": 3,
         "Chespin": 6,
@@ -343,7 +343,7 @@
         "Mudkip": 10,
         "Charjabug": 10,
         "Capsakid": 25,
-        "Revavroom": 10,
+        "Revavroom": 11,
         "Exploud": 3,
         "Deino": 18,
         "Wooper": 18,
@@ -625,7 +625,7 @@
         "Gardevoir": 1,
         "Malamar": 2,
         "Frost rotom": 1,
-        "Tatsugiri": 8,
+        "Tatsugiri": 9,
         "Nidorino": 6,
         "Wailmer": 8,
         "Krabby": 7,
@@ -809,7 +809,7 @@
         "Salazzle": 3,
         "Pidgeot": 3,
         "Drapion": 3,
-        "Barbaracle": 2,
+        "Barbaracle": 3,
         "Okidogi": 1,
         "Tauros": 1,
         "Slurpuff": 2,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7677,
-      "last_spawn": "2026-06-23T16:02:28.127016"
+      "total_spawns": 7683,
+      "last_spawn": "2026-06-23T16:03:07.519541"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -967,7 +967,7 @@
     }
   },
   "global": {
-    "total_spawns": 11971,
+    "total_spawns": 11977,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
