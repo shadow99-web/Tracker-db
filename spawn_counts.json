@@ -45,7 +45,7 @@
         "Timburr": 34,
         "Dj rotom": 29,
         "Surskit": 17,
-        "Seedot": 25,
+        "Seedot": 26,
         "Skitty": 9,
         "Greavard": 36,
         "Slugma": 9,
@@ -476,7 +476,7 @@
         "White plumage squawkabilly": 11,
         "Shelmet": 9,
         "Solrock": 2,
-        "Slowpoke": 11,
+        "Slowpoke": 12,
         "Dolliv": 6,
         "Infernape": 1,
         "Carkol": 9,
@@ -566,7 +566,7 @@
         "Slowking": 5,
         "Lilligant": 4,
         "Rabsca": 6,
-        "Gulpin": 10,
+        "Gulpin": 11,
         "Crawdaunt": 3,
         "Magmortar": 1,
         "Palossand": 2,
@@ -781,7 +781,7 @@
         "Wishiwashi": 3,
         "Cofagrigus": 2,
         "Camerupt": 1,
-        "Castform": 4,
+        "Castform": 5,
         "Weavile": 1,
         "Gorging cramorant": 1,
         "Shieldon": 3,
@@ -920,7 +920,7 @@
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 1,
-        "Hattrem": 1,
+        "Hattrem": 2,
         "Clefable": 1,
         "Serperior": 2,
         "Lycanroc": 3,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7758,
-      "last_spawn": "2026-06-23T16:11:31.319236"
+      "total_spawns": 7763,
+      "last_spawn": "2026-06-23T16:12:07.100054"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -969,7 +969,7 @@
     }
   },
   "global": {
-    "total_spawns": 12053,
+    "total_spawns": 12058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
