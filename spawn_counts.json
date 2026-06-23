@@ -32,7 +32,7 @@
         "Sandile": 41,
         "Sandygast": 14,
         "Litwick": 67,
-        "Grubbin": 37,
+        "Grubbin": 38,
         "Escavalier": 6,
         "Dratini": 26,
         "Kilowattrel": 8,
@@ -199,7 +199,7 @@
         "Meditite": 8,
         "Toedscruel": 13,
         "Probopass": 2,
-        "Scraggy": 16,
+        "Scraggy": 17,
         "Rhydon": 13,
         "Silcoon": 8,
         "Totodile": 11,
@@ -401,7 +401,7 @@
         "Nosepass": 8,
         "Persian": 2,
         "Lopunny": 2,
-        "Squawkabilly": 11,
+        "Squawkabilly": 12,
         "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 30,
@@ -610,7 +610,7 @@
         "Houndstone": 5,
         "Sandy wormadam": 2,
         "Stunky": 6,
-        "Pupitar": 7,
+        "Pupitar": 8,
         "Avalugg": 4,
         "Magby": 4,
         "Wigglytuff": 2,
@@ -956,10 +956,11 @@
         "Goodra": 1,
         "Aurorus": 1,
         "Florges": 1,
-        "Dandy trim furfrou": 1
+        "Dandy trim furfrou": 1,
+        "Rapidash": 1
       },
-      "total_spawns": 8722,
-      "last_spawn": "2026-06-23T18:33:47.063661"
+      "total_spawns": 8727,
+      "last_spawn": "2026-06-23T18:34:17.515266"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1013,7 +1014,7 @@
     }
   },
   "global": {
-    "total_spawns": 13057,
+    "total_spawns": 13062,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
