@@ -24,7 +24,7 @@
         "Dedenne": 2,
         "Machop": 22,
         "Dudunsparce": 4,
-        "Gothita": 25,
+        "Gothita": 27,
         "Impidimp": 23,
         "Charmander": 10,
         "Morelull": 2,
@@ -213,7 +213,7 @@
         "Fidough": 17,
         "Noivern": 2,
         "Feraligatr": 3,
-        "Tynamo": 24,
+        "Tynamo": 25,
         "Orthworm": 26,
         "Marill": 8,
         "Joltik": 16,
@@ -240,7 +240,7 @@
         "Omanyte": 8,
         "Galvantula": 2,
         "Chansey": 6,
-        "Shroodle": 28,
+        "Shroodle": 29,
         "Duskull": 32,
         "Bergmite": 6,
         "Pignite": 8,
@@ -549,7 +549,7 @@
         "Dragonair": 3,
         "Zweilous": 5,
         "Karrablast": 4,
-        "Shroomish": 9,
+        "Shroomish": 10,
         "Snover": 6,
         "Drednaw": 2,
         "Skarmory": 2,
@@ -891,8 +891,8 @@
         "Heracross": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 5721,
-      "last_spawn": "2026-06-23T11:33:51.666351"
+      "total_spawns": 5726,
+      "last_spawn": "2026-06-23T11:34:27.017472"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -902,7 +902,7 @@
     }
   },
   "global": {
-    "total_spawns": 10008,
+    "total_spawns": 10013,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
