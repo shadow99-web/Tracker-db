@@ -9,7 +9,7 @@
         "Drilbur": 6,
         "Pawmi": 29,
         "Electabuzz": 6,
-        "Rellor": 22,
+        "Rellor": 23,
         "Sandy burmy": 8,
         "Wiglett": 31,
         "Bombirdier": 25,
@@ -97,7 +97,7 @@
         "Kabuto": 11,
         "Scatterbug": 28,
         "Pumpkaboo": 8,
-        "Numel": 13,
+        "Numel": 14,
         "Carracosta": 1,
         "Smearguru": 21,
         "Veluza": 38,
@@ -175,7 +175,7 @@
         "Gible": 15,
         "Rookidee": 17,
         "Minccino": 10,
-        "Wurmple": 23,
+        "Wurmple": 24,
         "Binacle": 10,
         "Grafaiai": 6,
         "Quilladin": 5,
@@ -331,7 +331,7 @@
         "Nymble": 30,
         "Ferrothorn": 1,
         "Servine": 6,
-        "Blitzle": 4,
+        "Blitzle": 5,
         "Musharna": 2,
         "Bisharp": 1,
         "Chespin": 5,
@@ -878,7 +878,7 @@
         "Machamp": 1,
         "Altaria": 2,
         "Purugly": 1,
-        "Seaking": 1,
+        "Seaking": 2,
         "High plain vivillon": 1,
         "Urshifu": 1,
         "Swalot": 1,
@@ -896,8 +896,8 @@
         "Stonjourner": 1,
         "Elekid": 1
       },
-      "total_spawns": 5817,
-      "last_spawn": "2026-06-23T11:44:47.035054"
+      "total_spawns": 5822,
+      "last_spawn": "2026-06-23T11:45:17.322777"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -909,7 +909,7 @@
     }
   },
   "global": {
-    "total_spawns": 10105,
+    "total_spawns": 10110,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
