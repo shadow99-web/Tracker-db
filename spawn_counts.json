@@ -12,7 +12,7 @@
         "Rellor": 23,
         "Sandy burmy": 8,
         "Wiglett": 33,
-        "Bombirdier": 25,
+        "Bombirdier": 26,
         "Litleo": 8,
         "Purrloin": 4,
         "Tranquill": 6,
@@ -35,7 +35,7 @@
         "Grubbin": 26,
         "Escavalier": 6,
         "Dratini": 19,
-        "Kilowattrel": 6,
+        "Kilowattrel": 7,
         "Lotad": 44,
         "Qwilfish": 5,
         "Trapinch": 35,
@@ -129,7 +129,7 @@
         "Zigzagoon": 13,
         "Weedle": 44,
         "Flamigo": 28,
-        "Lillipup": 30,
+        "Lillipup": 31,
         "Shinx": 34,
         "Bounsweet": 22,
         "Noibat": 10,
@@ -161,7 +161,7 @@
         "Spiritomb": 3,
         "Yamper": 8,
         "Tepig": 24,
-        "Kirlia": 5,
+        "Kirlia": 6,
         "Piplup": 5,
         "Kakuna": 13,
         "Weepinbell": 5,
@@ -421,7 +421,7 @@
         "Delibird": 1,
         "Ride cyclizar": 11,
         "Gothorita": 6,
-        "Varoom": 23,
+        "Varoom": 24,
         "Yellow plumage squawkabilly": 9,
         "Centiskorch": 2,
         "Low key toxtricity": 1,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6534,
-      "last_spawn": "2026-06-23T13:05:27.024862"
+      "total_spawns": 6539,
+      "last_spawn": "2026-06-23T13:05:57.394620"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10822,
+    "total_spawns": 10827,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
