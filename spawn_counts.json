@@ -83,7 +83,7 @@
         "Baltoy": 14,
         "Mareep": 36,
         "Garbodor": 2,
-        "Slakoth": 35,
+        "Slakoth": 36,
         "Togepi": 24,
         "Falinks": 3,
         "Tropius": 1,
@@ -155,7 +155,7 @@
         "Rattata": 16,
         "Flapple": 4,
         "Aron": 27,
-        "Boldore": 5,
+        "Boldore": 6,
         "Spinarak": 15,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -612,7 +612,7 @@
         "Stunky": 5,
         "Pupitar": 4,
         "Avalugg": 3,
-        "Magby": 3,
+        "Magby": 4,
         "Wigglytuff": 2,
         "Venusaur": 3,
         "Mismagius": 2,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7465,
-      "last_spawn": "2026-06-23T15:22:37.255504"
+      "total_spawns": 7468,
+      "last_spawn": "2026-06-23T15:23:07.324795"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11754,
+    "total_spawns": 11757,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
