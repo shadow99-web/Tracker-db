@@ -220,7 +220,7 @@
         "Politoed": 3,
         "Cyndaquil": 16,
         "Fuecoco": 10,
-        "Cyclizar": 13,
+        "Cyclizar": 14,
         "Magmar": 13,
         "Rillaboom": 3,
         "Ninetales": 2,
@@ -240,8 +240,8 @@
         "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 36,
-        "Duskull": 38,
+        "Shroodle": 37,
+        "Duskull": 39,
         "Bergmite": 8,
         "Pignite": 10,
         "Lurantis": 1,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 5,
-        "Pancham": 6,
+        "Pancham": 7,
         "Venipede": 39,
         "Cacturne": 4,
         "Oddish": 37,
@@ -404,7 +404,7 @@
         "Squawkabilly": 10,
         "Electrike": 12,
         "Drampa": 2,
-        "Maschiff": 20,
+        "Maschiff": 21,
         "Rufflet": 12,
         "Kabutops": 2,
         "Dondozo": 22,
@@ -933,10 +933,11 @@
         "Excadrill": 1,
         "Druddigon": 1,
         "Honchkrow": 1,
-        "Pyukumuku": 1
+        "Pyukumuku": 1,
+        "Machoke": 1
       },
-      "total_spawns": 7215,
-      "last_spawn": "2026-06-23T14:54:27.361452"
+      "total_spawns": 7221,
+      "last_spawn": "2026-06-23T14:55:07.437150"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -955,7 +956,7 @@
     }
   },
   "global": {
-    "total_spawns": 11504,
+    "total_spawns": 11510,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
