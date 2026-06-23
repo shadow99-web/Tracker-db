@@ -6,7 +6,7 @@
         "Chimchar": 17,
         "Patrat": 6,
         "Mosslax": 21,
-        "Drilbur": 6,
+        "Drilbur": 7,
         "Pawmi": 38,
         "Electabuzz": 6,
         "Rellor": 28,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 13,
         "Bonsly": 2,
-        "Horsea": 31,
+        "Horsea": 32,
         "Frigibax": 27,
         "Spheal": 45,
         "Swadloon": 7,
@@ -122,7 +122,7 @@
         "Solosis": 32,
         "Battle cyclizar": 15,
         "Togetic": 8,
-        "Palpitoad": 3,
+        "Palpitoad": 4,
         "Pikipek": 45,
         "Teddiursa": 33,
         "Clamperl": 11,
@@ -310,7 +310,7 @@
         "Yellow flower florges": 3,
         "Zangoose": 6,
         "Flygon": 2,
-        "Shellos": 5,
+        "Shellos": 6,
         "Jigglypuff": 13,
         "Nacli": 21,
         "Munna": 7,
@@ -407,7 +407,7 @@
         "Maschiff": 21,
         "Rufflet": 12,
         "Kabutops": 2,
-        "Dondozo": 22,
+        "Dondozo": 23,
         "Pansear": 9,
         "Cutiefly": 8,
         "Peakychu": 22,
@@ -700,7 +700,7 @@
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 2,
-        "Litten": 10,
+        "Litten": 11,
         "Abomasnow": 1,
         "Espeon": 2,
         "Hatenna": 24,
@@ -939,8 +939,8 @@
         "Beautifly": 1,
         "Ting-lu": 1
       },
-      "total_spawns": 7315,
-      "last_spawn": "2026-06-23T15:05:48.276613"
+      "total_spawns": 7321,
+      "last_spawn": "2026-06-23T15:06:34.327588"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -959,7 +959,7 @@
     }
   },
   "global": {
-    "total_spawns": 11604,
+    "total_spawns": 11610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
