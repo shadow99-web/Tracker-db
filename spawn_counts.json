@@ -115,7 +115,7 @@
         "Frigibax": 22,
         "Spheal": 41,
         "Swadloon": 7,
-        "Flittle": 29,
+        "Flittle": 30,
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 23,
@@ -136,7 +136,7 @@
         "Toxicroak": 4,
         "Charcadet": 33,
         "Croconaw": 11,
-        "Phanpy": 2,
+        "Phanpy": 3,
         "Brambleghast": 6,
         "Pidgey": 41,
         "Rhyhorn": 27,
@@ -298,13 +298,13 @@
         "Pancham": 5,
         "Venipede": 32,
         "Cacturne": 4,
-        "Oddish": 33,
+        "Oddish": 34,
         "Dragalge": 3,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
         "Toxapex": 1,
         "Lileep": 5,
-        "Rolycoly": 25,
+        "Rolycoly": 26,
         "Bronzor": 15,
         "Dartrix": 6,
         "Yellow flower florges": 3,
@@ -920,8 +920,8 @@
         "Pirouette meloetta": 1,
         "Sableye": 1
       },
-      "total_spawns": 6497,
-      "last_spawn": "2026-06-23T13:01:17.389685"
+      "total_spawns": 6501,
+      "last_spawn": "2026-06-23T13:01:47.461452"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -939,7 +939,7 @@
     }
   },
   "global": {
-    "total_spawns": 10785,
+    "total_spawns": 10789,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
