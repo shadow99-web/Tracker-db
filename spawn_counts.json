@@ -132,7 +132,7 @@
         "Lillipup": 32,
         "Shinx": 36,
         "Bounsweet": 23,
-        "Noibat": 10,
+        "Noibat": 11,
         "Toxicroak": 4,
         "Charcadet": 35,
         "Croconaw": 11,
@@ -179,7 +179,7 @@
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
-        "Geodude": 33,
+        "Geodude": 34,
         "Espurr": 8,
         "Cottonee": 3,
         "Elgyem": 8,
@@ -676,7 +676,7 @@
         "Sprigatito": 8,
         "Metagross": 3,
         "Eelektrik": 4,
-        "Gastrodon": 3,
+        "Gastrodon": 4,
         "Golurk": 3,
         "Arcanine": 3,
         "Oranguru": 2,
@@ -927,10 +927,11 @@
         "Kingdra": 1,
         "Farfetch'd": 1,
         "Unown l": 1,
-        "Delphox": 1
+        "Delphox": 1,
+        "Rampardos": 1
       },
-      "total_spawns": 6839,
-      "last_spawn": "2026-06-23T14:12:17.129358"
+      "total_spawns": 6843,
+      "last_spawn": "2026-06-23T14:12:47.224484"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -949,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11128,
+    "total_spawns": 11132,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
