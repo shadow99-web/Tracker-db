@@ -134,7 +134,7 @@
         "Bounsweet": 22,
         "Noibat": 10,
         "Toxicroak": 4,
-        "Charcadet": 33,
+        "Charcadet": 34,
         "Croconaw": 11,
         "Phanpy": 3,
         "Brambleghast": 7,
@@ -199,7 +199,7 @@
         "Meditite": 4,
         "Toedscruel": 10,
         "Probopass": 2,
-        "Scraggy": 12,
+        "Scraggy": 13,
         "Rhydon": 6,
         "Silcoon": 8,
         "Totodile": 8,
@@ -271,7 +271,7 @@
         "Glimmet": 34,
         "Goomy": 17,
         "Zapdos": 1,
-        "Natu": 6,
+        "Natu": 7,
         "Dhelmise": 1,
         "Bagon": 12,
         "Sudowoodo": 3,
@@ -920,10 +920,11 @@
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 1,
-        "Hattrem": 1
+        "Hattrem": 1,
+        "Clefable": 1
       },
-      "total_spawns": 6646,
-      "last_spawn": "2026-06-23T13:18:07.082951"
+      "total_spawns": 6650,
+      "last_spawn": "2026-06-23T13:18:37.255598"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -941,7 +942,7 @@
     }
   },
   "global": {
-    "total_spawns": 10934,
+    "total_spawns": 10938,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
