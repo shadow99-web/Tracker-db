@@ -152,7 +152,7 @@
         "Roggenrola": 33,
         "Pidove": 38,
         "Dragapult": 5,
-        "Rattata": 17,
+        "Rattata": 18,
         "Flapple": 5,
         "Aron": 31,
         "Boldore": 8,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 41,
-        "Duskull": 44,
+        "Duskull": 45,
         "Bergmite": 9,
         "Pignite": 14,
         "Lurantis": 1,
@@ -250,7 +250,7 @@
         "Turtwig": 6,
         "Prinplup": 7,
         "Tinkatink": 40,
-        "Lechonk": 37,
+        "Lechonk": 38,
         "Kommo-o": 1,
         "Dewott": 12,
         "Arrokuda": 8,
@@ -323,7 +323,7 @@
         "Oshawott": 10,
         "Murkrow": 11,
         "Bellsprout": 43,
-        "Mudbray": 10,
+        "Mudbray": 11,
         "Dreepy": 38,
         "Tinkaton": 3,
         "Corviknight": 4,
@@ -595,7 +595,7 @@
         "Mienfoo": 11,
         "Dewgong": 3,
         "Wartortle": 10,
-        "Cetoddle": 24,
+        "Cetoddle": 25,
         "Kricketot": 10,
         "Porygon-z": 2,
         "Conkeldurr": 3,
@@ -727,7 +727,7 @@
         "Ariados": 2,
         "Volbeat": 2,
         "Burmy": 2,
-        "Popplio": 6,
+        "Popplio": 7,
         "Mandibuzz": 4,
         "Walrein": 1,
         "Cinccino": 1,
@@ -946,8 +946,8 @@
         "Iron treads": 1,
         "Meowstic": 1
       },
-      "total_spawns": 8136,
-      "last_spawn": "2026-06-23T16:54:07.358185"
+      "total_spawns": 8142,
+      "last_spawn": "2026-06-23T16:54:47.025447"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12464,
+    "total_spawns": 12470,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
