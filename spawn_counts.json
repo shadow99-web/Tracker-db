@@ -170,7 +170,7 @@
         "Flareon": 3,
         "Gastly": 26,
         "Taillow": 9,
-        "Swinub": 27,
+        "Swinub": 29,
         "Inkay": 12,
         "Gible": 15,
         "Rookidee": 20,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 5,
-        "Tinkatink": 32,
+        "Tinkatink": 33,
         "Lechonk": 27,
         "Kommo-o": 1,
         "Dewott": 9,
@@ -331,7 +331,7 @@
         "Nymble": 33,
         "Ferrothorn": 1,
         "Servine": 6,
-        "Blitzle": 6,
+        "Blitzle": 7,
         "Musharna": 2,
         "Bisharp": 2,
         "Chespin": 5,
@@ -594,7 +594,7 @@
         "Galarian darumaka": 1,
         "Mienfoo": 9,
         "Dewgong": 3,
-        "Wartortle": 5,
+        "Wartortle": 6,
         "Cetoddle": 15,
         "Kricketot": 5,
         "Porygon-z": 2,
@@ -916,8 +916,8 @@
         "Galarian rapidash": 1,
         "Skuntank": 1
       },
-      "total_spawns": 6322,
-      "last_spawn": "2026-06-23T12:41:46.973654"
+      "total_spawns": 6327,
+      "last_spawn": "2026-06-23T12:42:17.077300"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -935,7 +935,7 @@
     }
   },
   "global": {
-    "total_spawns": 10610,
+    "total_spawns": 10615,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
