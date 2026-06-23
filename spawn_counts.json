@@ -84,7 +84,7 @@
         "Mareep": 31,
         "Garbodor": 1,
         "Slakoth": 31,
-        "Togepi": 16,
+        "Togepi": 17,
         "Falinks": 2,
         "Tropius": 1,
         "Poliwag": 23,
@@ -246,7 +246,7 @@
         "Pignite": 10,
         "Lurantis": 1,
         "Swampert": 3,
-        "Dachsbun": 10,
+        "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 5,
         "Tinkatink": 31,
@@ -268,7 +268,7 @@
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
-        "Glimmet": 30,
+        "Glimmet": 31,
         "Goomy": 17,
         "Zapdos": 1,
         "Natu": 6,
@@ -463,7 +463,7 @@
         "Herdier": 7,
         "Pineco": 6,
         "Chikorita": 5,
-        "Woobat": 6,
+        "Woobat": 7,
         "Wobbuffet": 1,
         "Roselia": 3,
         "Shelgon": 6,
@@ -656,7 +656,7 @@
         "Mothim": 2,
         "Whirlipede": 8,
         "Absol": 3,
-        "Annihilape": 3,
+        "Annihilape": 4,
         "Bouffalant": 2,
         "Crabrawler": 5,
         "Budew": 1,
@@ -912,8 +912,8 @@
         "Leafeon": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 6200,
-      "last_spawn": "2026-06-23T12:27:57.102959"
+      "total_spawns": 6205,
+      "last_spawn": "2026-06-23T12:28:31.809891"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -931,7 +931,7 @@
     }
   },
   "global": {
-    "total_spawns": 10488,
+    "total_spawns": 10493,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
