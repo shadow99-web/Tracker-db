@@ -31,7 +31,7 @@
         "Abra": 42,
         "Sandile": 40,
         "Sandygast": 14,
-        "Litwick": 66,
+        "Litwick": 67,
         "Grubbin": 35,
         "Escavalier": 6,
         "Dratini": 26,
@@ -249,7 +249,7 @@
         "Dachsbun": 12,
         "Turtwig": 7,
         "Prinplup": 8,
-        "Tinkatink": 43,
+        "Tinkatink": 44,
         "Lechonk": 39,
         "Kommo-o": 1,
         "Dewott": 12,
@@ -491,7 +491,7 @@
         "Eevee": 8,
         "Copperajah": 4,
         "Magneton": 9,
-        "Alakazam": 3,
+        "Alakazam": 4,
         "Bayleef": 5,
         "Poochyena": 8,
         "Klinklang": 3,
@@ -656,7 +656,7 @@
         "Mothim": 3,
         "Whirlipede": 11,
         "Absol": 3,
-        "Annihilape": 4,
+        "Annihilape": 5,
         "Bouffalant": 4,
         "Crabrawler": 7,
         "Budew": 2,
@@ -954,8 +954,8 @@
         "Pichu": 1,
         "Carnivine": 1
       },
-      "total_spawns": 8583,
-      "last_spawn": "2026-06-23T17:45:17.150474"
+      "total_spawns": 8587,
+      "last_spawn": "2026-06-23T17:45:48.328919"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1007,7 +1007,7 @@
     }
   },
   "global": {
-    "total_spawns": 12913,
+    "total_spawns": 12917,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
