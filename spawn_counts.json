@@ -34,7 +34,7 @@
         "Litwick": 57,
         "Grubbin": 28,
         "Escavalier": 6,
-        "Dratini": 19,
+        "Dratini": 20,
         "Kilowattrel": 7,
         "Lotad": 46,
         "Qwilfish": 5,
@@ -248,7 +248,7 @@
         "Swampert": 3,
         "Dachsbun": 11,
         "Turtwig": 6,
-        "Prinplup": 5,
+        "Prinplup": 6,
         "Tinkatink": 38,
         "Lechonk": 29,
         "Kommo-o": 1,
@@ -269,7 +269,7 @@
         "Ceruledge": 16,
         "Houndour": 12,
         "Glimmet": 35,
-        "Goomy": 18,
+        "Goomy": 19,
         "Zapdos": 1,
         "Natu": 8,
         "Dhelmise": 1,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 1,
         "Toxapex": 1,
         "Lileep": 6,
-        "Rolycoly": 26,
+        "Rolycoly": 27,
         "Bronzor": 15,
         "Dartrix": 6,
         "Yellow flower florges": 3,
@@ -326,7 +326,7 @@
         "Mudbray": 9,
         "Dreepy": 29,
         "Tinkaton": 2,
-        "Corviknight": 3,
+        "Corviknight": 4,
         "Froakie": 9,
         "Nymble": 36,
         "Ferrothorn": 1,
@@ -541,7 +541,7 @@
         "Vanilluxe": 1,
         "Jolteon": 2,
         "Pawmot": 3,
-        "Skiddo": 4,
+        "Skiddo": 5,
         "Slowbro": 4,
         "Oricorio": 2,
         "Kangaskhan": 2,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6843,
-      "last_spawn": "2026-06-23T14:12:47.224484"
+      "total_spawns": 6849,
+      "last_spawn": "2026-06-23T14:13:27.027954"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11132,
+    "total_spawns": 11138,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
