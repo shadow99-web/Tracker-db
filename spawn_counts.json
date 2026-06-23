@@ -32,7 +32,7 @@
         "Sandile": 31,
         "Sandygast": 13,
         "Litwick": 57,
-        "Grubbin": 26,
+        "Grubbin": 27,
         "Escavalier": 6,
         "Dratini": 19,
         "Kilowattrel": 7,
@@ -229,7 +229,7 @@
         "Spidops": 8,
         "Braixen": 11,
         "Drowzee": 11,
-        "Blipbug": 28,
+        "Blipbug": 29,
         "Lampent": 19,
         "Petilil": 6,
         "Marshtomp": 11,
@@ -867,7 +867,7 @@
         "Pincurchin": 1,
         "Dunsparce": 1,
         "Lapras": 2,
-        "Illumise": 1,
+        "Illumise": 2,
         "Scrafty": 1,
         "Swanna": 1,
         "Grumpig": 1,
@@ -897,7 +897,7 @@
         "Elekid": 1,
         "Floette": 2,
         "Shedinja": 2,
-        "Baxcalibur": 1,
+        "Baxcalibur": 2,
         "Galarian articuno": 1,
         "Audino": 1,
         "Orange flower florges": 1,
@@ -926,8 +926,8 @@
         "Lycanroc": 1,
         "Kingdra": 1
       },
-      "total_spawns": 6774,
-      "last_spawn": "2026-06-23T14:04:57.254567"
+      "total_spawns": 6778,
+      "last_spawn": "2026-06-23T14:05:27.408588"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -946,7 +946,7 @@
     }
   },
   "global": {
-    "total_spawns": 11063,
+    "total_spawns": 11067,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
