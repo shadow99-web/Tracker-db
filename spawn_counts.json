@@ -29,7 +29,7 @@
         "Charmander": 14,
         "Morelull": 5,
         "Abra": 40,
-        "Sandile": 34,
+        "Sandile": 35,
         "Sandygast": 14,
         "Litwick": 64,
         "Grubbin": 33,
@@ -422,11 +422,11 @@
         "Ride cyclizar": 14,
         "Gothorita": 7,
         "Varoom": 30,
-        "Yellow plumage squawkabilly": 11,
+        "Yellow plumage squawkabilly": 12,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
         "Grapploct": 2,
-        "Gurdurr": 7,
+        "Gurdurr": 8,
         "Girafarig": 4,
         "Flaaffy": 5,
         "Pecharunt": 1,
@@ -503,7 +503,7 @@
         "Mimikyu": 1,
         "Alolan sandslash": 1,
         "Empoleon": 3,
-        "Farigiraf": 10,
+        "Farigiraf": 11,
         "Hakamo-o": 5,
         "Glameow": 10,
         "Croagunk": 8,
@@ -596,7 +596,7 @@
         "Dewgong": 3,
         "Wartortle": 9,
         "Cetoddle": 24,
-        "Kricketot": 9,
+        "Kricketot": 10,
         "Porygon-z": 2,
         "Conkeldurr": 3,
         "Walking wake": 1,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8080,
-      "last_spawn": "2026-06-23T16:47:47.082523"
+      "total_spawns": 8085,
+      "last_spawn": "2026-06-23T16:48:17.282126"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -963,7 +963,7 @@
         "Gastly": 1,
         "Scatterbug": 2,
         "Wurmple": 1,
-        "Gothita": 1,
+        "Gothita": 2,
         "Gible": 2,
         "Larvesta": 1,
         "Starly": 1,
@@ -985,8 +985,8 @@
         "Pikachu": 1,
         "Rhyhorn": 1
       },
-      "total_spawns": 40,
-      "last_spawn": "2026-06-23T16:45:45.398865"
+      "total_spawns": 41,
+      "last_spawn": "2026-06-23T16:48:17.050074"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -996,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12407,
+    "total_spawns": 12413,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
