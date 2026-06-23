@@ -78,7 +78,7 @@
         "Hatterene": 2,
         "Phantump": 15,
         "Duosion": 9,
-        "Amaura": 9,
+        "Amaura": 10,
         "Gimmighoul": 37,
         "Baltoy": 15,
         "Mareep": 38,
@@ -271,7 +271,7 @@
         "Glimmet": 39,
         "Goomy": 22,
         "Zapdos": 1,
-        "Natu": 9,
+        "Natu": 10,
         "Dhelmise": 2,
         "Bagon": 14,
         "Sudowoodo": 3,
@@ -498,7 +498,7 @@
         "Basculin": 4,
         "Throh": 2,
         "Comfey": 2,
-        "Applin": 14,
+        "Applin": 15,
         "Staraptor": 2,
         "Mimikyu": 1,
         "Alolan sandslash": 1,
@@ -566,7 +566,7 @@
         "Slowking": 5,
         "Lilligant": 4,
         "Rabsca": 6,
-        "Gulpin": 12,
+        "Gulpin": 13,
         "Crawdaunt": 3,
         "Magmortar": 1,
         "Palossand": 2,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7974,
-      "last_spawn": "2026-06-23T16:35:51.827156"
+      "total_spawns": 7978,
+      "last_spawn": "2026-06-23T16:36:18.121343"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -955,7 +955,7 @@
         "Clauncher": 1,
         "Barbaracle": 1,
         "Amoonguss": 1,
-        "Mosslax": 1,
+        "Mosslax": 2,
         "Rookidee": 2,
         "Roggenrola": 2,
         "Armarouge": 1,
@@ -975,10 +975,12 @@
         "Sandile": 1,
         "Riolu": 1,
         "Hisuian avalugg": 1,
-        "Lickilicky": 1
+        "Lickilicky": 1,
+        "Hisuian voltorb": 1,
+        "Dreepy": 1
       },
-      "total_spawns": 31,
-      "last_spawn": "2026-06-23T16:35:07.638171"
+      "total_spawns": 34,
+      "last_spawn": "2026-06-23T16:36:27.966834"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -988,7 +990,7 @@
     }
   },
   "global": {
-    "total_spawns": 12292,
+    "total_spawns": 12299,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
