@@ -44,7 +44,7 @@
         "Skiploom": 10,
         "Timburr": 30,
         "Dj rotom": 26,
-        "Surskit": 15,
+        "Surskit": 16,
         "Seedot": 22,
         "Skitty": 9,
         "Greavard": 32,
@@ -97,7 +97,7 @@
         "Kabuto": 11,
         "Scatterbug": 30,
         "Pumpkaboo": 8,
-        "Numel": 16,
+        "Numel": 17,
         "Carracosta": 1,
         "Smearguru": 25,
         "Veluza": 43,
@@ -680,7 +680,7 @@
         "Golurk": 3,
         "Arcanine": 3,
         "Oranguru": 2,
-        "Poliwrath": 2,
+        "Poliwrath": 3,
         "Blaziken": 2,
         "Stantler": 7,
         "Butterfree": 1,
@@ -836,7 +836,7 @@
         "Arctovish": 5,
         "Ribombee": 1,
         "Alolan meowth": 1,
-        "Klang": 1,
+        "Klang": 2,
         "Manectric": 2,
         "Gallade": 1,
         "Family of three maushold": 1,
@@ -910,7 +910,7 @@
         "Aggron": 1,
         "Clawitzer": 1,
         "Leafeon": 1,
-        "Ludicolo": 1,
+        "Ludicolo": 2,
         "Eldegoss": 1,
         "Dracozolt": 1,
         "Galarian rapidash": 1,
@@ -926,10 +926,11 @@
         "Lycanroc": 1,
         "Kingdra": 1,
         "Farfetch'd": 1,
-        "Unown l": 1
+        "Unown l": 1,
+        "Delphox": 1
       },
-      "total_spawns": 6802,
-      "last_spawn": "2026-06-23T14:08:07.502812"
+      "total_spawns": 6808,
+      "last_spawn": "2026-06-23T14:08:47.254945"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -948,7 +949,7 @@
     }
   },
   "global": {
-    "total_spawns": 11091,
+    "total_spawns": 11097,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
