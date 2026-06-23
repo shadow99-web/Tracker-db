@@ -970,7 +970,7 @@
         "Roggenrola": 3,
         "Armarouge": 1,
         "Gastly": 1,
-        "Scatterbug": 3,
+        "Scatterbug": 4,
         "Wurmple": 1,
         "Gothita": 2,
         "Gible": 2,
@@ -994,10 +994,12 @@
         "Pikachu": 1,
         "Rhyhorn": 1,
         "Tynamo": 1,
-        "Tandemaus": 1
+        "Tandemaus": 1,
+        "Smearguru": 1,
+        "Magnemite": 1
       },
-      "total_spawns": 45,
-      "last_spawn": "2026-06-23T17:54:57.919951"
+      "total_spawns": 48,
+      "last_spawn": "2026-06-23T18:12:58.714041"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1007,7 +1009,7 @@
     }
   },
   "global": {
-    "total_spawns": 12968,
+    "total_spawns": 12971,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
