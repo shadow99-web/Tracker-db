@@ -100,7 +100,7 @@
         "Numel": 17,
         "Carracosta": 1,
         "Smearguru": 26,
-        "Veluza": 43,
+        "Veluza": 44,
         "Barboach": 11,
         "Klink": 23,
         "Honedge": 51,
@@ -140,7 +140,7 @@
         "Brambleghast": 9,
         "Pidgey": 44,
         "Rhyhorn": 30,
-        "Sentret": 8,
+        "Sentret": 9,
         "Yungoos": 3,
         "Diglett": 15,
         "Doduo": 9,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 35,
+        "Shroodle": 36,
         "Duskull": 37,
         "Bergmite": 8,
         "Pignite": 10,
@@ -399,7 +399,7 @@
         "Furfrou": 2,
         "Sylveon": 1,
         "Nosepass": 8,
-        "Persian": 1,
+        "Persian": 2,
         "Lopunny": 1,
         "Squawkabilly": 10,
         "Electrike": 12,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 1,
         "Wormadam": 3,
-        "Axew": 22,
+        "Axew": 23,
         "Trevenant": 5,
         "Trubbish": 3,
         "Zorua": 7,
@@ -923,7 +923,7 @@
         "Hattrem": 1,
         "Clefable": 1,
         "Serperior": 2,
-        "Lycanroc": 1,
+        "Lycanroc": 2,
         "Kingdra": 1,
         "Farfetch'd": 2,
         "Unown l": 1,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7144,
-      "last_spawn": "2026-06-23T14:46:30.241438"
+      "total_spawns": 7150,
+      "last_spawn": "2026-06-23T14:47:07.163959"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11433,
+    "total_spawns": 11439,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
