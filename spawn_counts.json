@@ -224,11 +224,11 @@
         "Magmar": 13,
         "Rillaboom": 3,
         "Ninetales": 2,
-        "Wattrel": 37,
+        "Wattrel": 38,
         "Snubbull": 11,
         "Spidops": 8,
         "Braixen": 11,
-        "Drowzee": 11,
+        "Drowzee": 12,
         "Blipbug": 30,
         "Lampent": 19,
         "Petilil": 6,
@@ -545,7 +545,7 @@
         "Slowbro": 4,
         "Oricorio": 2,
         "Kangaskhan": 2,
-        "Krokorok": 8,
+        "Krokorok": 9,
         "Dragonair": 3,
         "Zweilous": 6,
         "Karrablast": 4,
@@ -585,7 +585,7 @@
         "Combee": 2,
         "Fletchinder": 12,
         "Kingambit": 1,
-        "Clodsire": 7,
+        "Clodsire": 8,
         "Blaze breed tauros": 1,
         "Wimpod": 3,
         "Torterra": 1,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6854,
-      "last_spawn": "2026-06-23T14:13:57.171880"
+      "total_spawns": 6858,
+      "last_spawn": "2026-06-23T14:14:27.223835"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11143,
+    "total_spawns": 11147,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
