@@ -10,7 +10,7 @@
         "Pawmi": 39,
         "Electabuzz": 7,
         "Rellor": 29,
-        "Sandy burmy": 8,
+        "Sandy burmy": 9,
         "Wiglett": 41,
         "Bombirdier": 29,
         "Litleo": 10,
@@ -65,7 +65,7 @@
         "Ducklett": 5,
         "Lokix": 9,
         "Glimmora": 13,
-        "Starly": 41,
+        "Starly": 42,
         "Tandemaus": 33,
         "Smoliv": 49,
         "Gloom": 9,
@@ -410,7 +410,7 @@
         "Dondozo": 24,
         "Pansear": 9,
         "Cutiefly": 8,
-        "Peakychu": 24,
+        "Peakychu": 25,
         "Armarouge": 8,
         "Tyrantrum": 1,
         "Larvitar": 16,
@@ -553,7 +553,7 @@
         "Snover": 8,
         "Drednaw": 2,
         "Skarmory": 4,
-        "Midnight lycanroc": 2,
+        "Midnight lycanroc": 4,
         "Eelektross": 1,
         "Araquanid": 3,
         "Kadabra": 9,
@@ -859,7 +859,7 @@
         "Shuckle": 3,
         "Hydreigon": 1,
         "Alolan vulpix": 1,
-        "Liepard": 2,
+        "Liepard": 3,
         "Leavanny": 1,
         "Pa'u oricorio": 1,
         "Donphan": 1,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7689,
-      "last_spawn": "2026-06-23T16:03:47.337894"
+      "total_spawns": 7695,
+      "last_spawn": "2026-06-23T16:04:27.158946"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -954,10 +954,11 @@
         "Barbaracle": 1,
         "Amoonguss": 1,
         "Mosslax": 1,
-        "Rookidee": 1
+        "Rookidee": 1,
+        "Roggenrola": 1
       },
-      "total_spawns": 7,
-      "last_spawn": "2026-06-23T15:58:38.709255"
+      "total_spawns": 8,
+      "last_spawn": "2026-06-23T16:03:52.984322"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -967,7 +968,7 @@
     }
   },
   "global": {
-    "total_spawns": 11983,
+    "total_spawns": 11990,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
