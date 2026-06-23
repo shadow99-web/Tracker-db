@@ -63,7 +63,7 @@
         "Larvesta": 15,
         "Beldum": 26,
         "Ducklett": 4,
-        "Lokix": 7,
+        "Lokix": 8,
         "Glimmora": 13,
         "Starly": 39,
         "Tandemaus": 29,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 9,
         "Bonsly": 2,
-        "Horsea": 26,
+        "Horsea": 27,
         "Frigibax": 22,
         "Spheal": 42,
         "Swadloon": 7,
@@ -264,7 +264,7 @@
         "Nincada": 14,
         "Fennekin": 18,
         "Quaxwell": 4,
-        "Vibrava": 7,
+        "Vibrava": 8,
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
@@ -572,7 +572,7 @@
         "Palossand": 1,
         "Noice face eiscue": 2,
         "Electivire": 3,
-        "Cascoon": 3,
+        "Cascoon": 4,
         "Tentacruel": 4,
         "Nuzleaf": 5,
         "Scorbunny": 12,
@@ -583,7 +583,7 @@
         "Anorith": 9,
         "Meowth": 4,
         "Combee": 2,
-        "Fletchinder": 11,
+        "Fletchinder": 12,
         "Kingambit": 1,
         "Clodsire": 6,
         "Blaze breed tauros": 1,
@@ -741,7 +741,7 @@
         "Ekans": 8,
         "Venonat": 7,
         "Pelipper": 4,
-        "Metapod": 5,
+        "Metapod": 6,
         "Kricketune": 4,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
@@ -924,8 +924,8 @@
         "Clefable": 1,
         "Serperior": 1
       },
-      "total_spawns": 6689,
-      "last_spawn": "2026-06-23T13:55:27.397803"
+      "total_spawns": 6695,
+      "last_spawn": "2026-06-23T13:56:07.224398"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -944,7 +944,7 @@
     }
   },
   "global": {
-    "total_spawns": 10978,
+    "total_spawns": 10984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
