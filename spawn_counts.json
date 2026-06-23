@@ -13,7 +13,7 @@
         "Sandy burmy": 9,
         "Wiglett": 46,
         "Bombirdier": 33,
-        "Litleo": 11,
+        "Litleo": 12,
         "Purrloin": 7,
         "Tranquill": 9,
         "Psyduck": 5,
@@ -47,7 +47,7 @@
         "Surskit": 19,
         "Seedot": 27,
         "Skitty": 9,
-        "Greavard": 41,
+        "Greavard": 42,
         "Slugma": 9,
         "Grotle": 9,
         "Porygon": 37,
@@ -204,8 +204,8 @@
         "Silcoon": 8,
         "Totodile": 11,
         "Dodrio": 3,
-        "Cufant": 8,
-        "Tympole": 28,
+        "Cufant": 9,
+        "Tympole": 29,
         "Swellow": 3,
         "Aipom": 7,
         "Growlithe": 11,
@@ -343,7 +343,7 @@
         "Mudkip": 10,
         "Charjabug": 10,
         "Capsakid": 28,
-        "Revavroom": 13,
+        "Revavroom": 14,
         "Exploud": 3,
         "Deino": 20,
         "Wooper": 20,
@@ -539,7 +539,7 @@
         "Oinkologne": 11,
         "Onix": 8,
         "Vanilluxe": 2,
-        "Jolteon": 2,
+        "Jolteon": 3,
         "Pawmot": 5,
         "Skiddo": 9,
         "Slowbro": 5,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8388,
-      "last_spawn": "2026-06-23T17:23:07.129205"
+      "total_spawns": 8394,
+      "last_spawn": "2026-06-23T17:23:47.090601"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12716,
+    "total_spawns": 12722,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
