@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 35,
         "Frigibax": 30,
-        "Spheal": 56,
+        "Spheal": 57,
         "Swadloon": 8,
         "Flittle": 40,
         "Unfezant": 3,
@@ -166,7 +166,7 @@
         "Kakuna": 15,
         "Weepinbell": 6,
         "Klawf": 37,
-        "Vanillite": 35,
+        "Vanillite": 36,
         "Flareon": 3,
         "Gastly": 34,
         "Taillow": 12,
@@ -213,10 +213,10 @@
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 39,
+        "Tynamo": 40,
         "Orthworm": 43,
         "Marill": 12,
-        "Joltik": 20,
+        "Joltik": 21,
         "Politoed": 3,
         "Cyndaquil": 19,
         "Fuecoco": 11,
@@ -903,7 +903,7 @@
         "Orange flower florges": 1,
         "Cursola": 1,
         "Snorlax": 3,
-        "Mienshao": 1,
+        "Mienshao": 2,
         "Glaceon": 1,
         "Primarina": 1,
         "Unown x": 1,
@@ -955,8 +955,8 @@
         "Carnivine": 1,
         "Goodra": 1
       },
-      "total_spawns": 8668,
-      "last_spawn": "2026-06-23T18:27:37.232489"
+      "total_spawns": 8673,
+      "last_spawn": "2026-06-23T18:28:11.916028"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1010,7 +1010,7 @@
     }
   },
   "global": {
-    "total_spawns": 13003,
+    "total_spawns": 13008,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
