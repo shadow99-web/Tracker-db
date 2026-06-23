@@ -176,7 +176,7 @@
         "Rookidee": 25,
         "Minccino": 14,
         "Wurmple": 32,
-        "Binacle": 11,
+        "Binacle": 12,
         "Grafaiai": 9,
         "Quilladin": 6,
         "Geodude": 41,
@@ -255,7 +255,7 @@
         "Dewott": 12,
         "Arrokuda": 8,
         "Golett": 9,
-        "Vullaby": 7,
+        "Vullaby": 8,
         "Cetitan": 8,
         "Cubone": 12,
         "Gligar": 16,
@@ -271,7 +271,7 @@
         "Glimmet": 40,
         "Goomy": 22,
         "Zapdos": 1,
-        "Natu": 10,
+        "Natu": 11,
         "Dhelmise": 2,
         "Bagon": 14,
         "Sudowoodo": 4,
@@ -800,7 +800,7 @@
         "Mesprit": 2,
         "Vaporeon": 3,
         "Unown i": 1,
-        "Raichu": 1,
+        "Raichu": 2,
         "Mime jr.": 2,
         "Voltorb": 3,
         "Lickitung": 2,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8369,
-      "last_spawn": "2026-06-23T17:20:57.266963"
+      "total_spawns": 8373,
+      "last_spawn": "2026-06-23T17:21:27.352523"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12697,
+    "total_spawns": 12701,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
