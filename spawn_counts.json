@@ -79,7 +79,7 @@
         "Phantump": 13,
         "Duosion": 8,
         "Amaura": 9,
-        "Gimmighoul": 32,
+        "Gimmighoul": 33,
         "Baltoy": 13,
         "Mareep": 36,
         "Garbodor": 2,
@@ -493,7 +493,7 @@
         "Magneton": 7,
         "Alakazam": 2,
         "Bayleef": 5,
-        "Poochyena": 7,
+        "Poochyena": 8,
         "Klinklang": 3,
         "Basculin": 3,
         "Throh": 2,
@@ -631,7 +631,7 @@
         "Krabby": 6,
         "Bronzong": 5,
         "Lanturn": 3,
-        "Cacnea": 2,
+        "Cacnea": 3,
         "Pom-pom oricorio": 3,
         "Hawlucha": 3,
         "Ursaring": 4,
@@ -798,7 +798,7 @@
         "Dustox": 1,
         "Gliscor": 1,
         "Mesprit": 1,
-        "Vaporeon": 2,
+        "Vaporeon": 3,
         "Unown i": 1,
         "Raichu": 1,
         "Mime jr.": 1,
@@ -939,8 +939,8 @@
         "Beautifly": 1,
         "Ting-lu": 1
       },
-      "total_spawns": 7326,
-      "last_spawn": "2026-06-23T15:07:07.243228"
+      "total_spawns": 7330,
+      "last_spawn": "2026-06-23T15:07:37.285356"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -959,7 +959,7 @@
     }
   },
   "global": {
-    "total_spawns": 11615,
+    "total_spawns": 11619,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
