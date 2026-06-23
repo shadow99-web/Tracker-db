@@ -128,7 +128,7 @@
         "Clamperl": 11,
         "Zigzagoon": 14,
         "Weedle": 45,
-        "Flamigo": 30,
+        "Flamigo": 31,
         "Lillipup": 32,
         "Shinx": 36,
         "Bounsweet": 23,
@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 7,
-        "Tympole": 21,
+        "Tympole": 22,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -224,7 +224,7 @@
         "Magmar": 13,
         "Rillaboom": 3,
         "Ninetales": 2,
-        "Wattrel": 36,
+        "Wattrel": 37,
         "Snubbull": 11,
         "Spidops": 8,
         "Braixen": 11,
@@ -279,7 +279,7 @@
         "Rowlet": 11,
         "Galarian slowpoke": 1,
         "Poliwhirl": 8,
-        "Crocalor": 15,
+        "Crocalor": 16,
         "Cryogonal": 1,
         "Eternatus": 1,
         "Gholdengo": 10,
@@ -637,7 +637,7 @@
         "Ursaring": 4,
         "Glalie": 2,
         "Latios": 1,
-        "Silicobra": 6,
+        "Silicobra": 7,
         "Snom": 4,
         "East sea shellos": 3,
         "Corsola": 7,
@@ -924,10 +924,11 @@
         "Clefable": 1,
         "Serperior": 2,
         "Lycanroc": 1,
-        "Kingdra": 1
+        "Kingdra": 1,
+        "Farfetch'd": 1
       },
-      "total_spawns": 6790,
-      "last_spawn": "2026-06-23T14:06:47.271193"
+      "total_spawns": 6796,
+      "last_spawn": "2026-06-23T14:07:28.534486"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -946,7 +947,7 @@
     }
   },
   "global": {
-    "total_spawns": 11079,
+    "total_spawns": 11085,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
