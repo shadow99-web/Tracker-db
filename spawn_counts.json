@@ -91,7 +91,7 @@
         "Metang": 5,
         "Riolu": 4,
         "Exeggcute": 7,
-        "Corphish": 3,
+        "Corphish": 4,
         "Hoppip": 25,
         "Sandslash": 1,
         "Kabuto": 11,
@@ -268,7 +268,7 @@
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
-        "Glimmet": 29,
+        "Glimmet": 30,
         "Goomy": 15,
         "Zapdos": 1,
         "Natu": 6,
@@ -346,7 +346,7 @@
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 13,
-        "Wooper": 13,
+        "Wooper": 14,
         "Dwebble": 8,
         "Steenee": 9,
         "Darumaka": 10,
@@ -413,7 +413,7 @@
         "Peakychu": 14,
         "Armarouge": 6,
         "Tyrantrum": 1,
-        "Larvitar": 13,
+        "Larvitar": 14,
         "Tentacool": 2,
         "Volcanion": 1,
         "Roaming gimmighoul": 18,
@@ -677,7 +677,7 @@
         "Metagross": 3,
         "Eelektrik": 2,
         "Gastrodon": 3,
-        "Golurk": 2,
+        "Golurk": 3,
         "Arcanine": 3,
         "Oranguru": 2,
         "Poliwrath": 2,
@@ -707,7 +707,7 @@
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
-        "Combusken": 6,
+        "Combusken": 7,
         "Gourgeist": 4,
         "Durant": 2,
         "Grovyle": 4,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6036,
-      "last_spawn": "2026-06-23T12:09:47.050138"
+      "total_spawns": 6042,
+      "last_spawn": "2026-06-23T12:10:27.509642"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10324,
+    "total_spawns": 10330,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
