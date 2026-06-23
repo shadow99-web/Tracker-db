@@ -100,7 +100,7 @@
         "Numel": 16,
         "Carracosta": 1,
         "Smearguru": 24,
-        "Veluza": 40,
+        "Veluza": 41,
         "Barboach": 8,
         "Klink": 18,
         "Honedge": 48,
@@ -129,7 +129,7 @@
         "Zigzagoon": 13,
         "Weedle": 44,
         "Flamigo": 28,
-        "Lillipup": 29,
+        "Lillipup": 30,
         "Shinx": 34,
         "Bounsweet": 22,
         "Noibat": 10,
@@ -328,7 +328,7 @@
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 7,
-        "Nymble": 34,
+        "Nymble": 35,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 8,
@@ -620,14 +620,14 @@
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
-        "Frillish": 6,
+        "Frillish": 7,
         "Manaphy": 1,
         "Gardevoir": 1,
         "Malamar": 2,
         "Frost rotom": 1,
         "Tatsugiri": 8,
         "Nidorino": 5,
-        "Wailmer": 7,
+        "Wailmer": 8,
         "Krabby": 5,
         "Bronzong": 5,
         "Lanturn": 3,
@@ -920,8 +920,8 @@
         "Pirouette meloetta": 1,
         "Sableye": 1
       },
-      "total_spawns": 6492,
-      "last_spawn": "2026-06-23T13:00:47.399612"
+      "total_spawns": 6497,
+      "last_spawn": "2026-06-23T13:01:17.389685"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -939,7 +939,7 @@
     }
   },
   "global": {
-    "total_spawns": 10780,
+    "total_spawns": 10785,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
