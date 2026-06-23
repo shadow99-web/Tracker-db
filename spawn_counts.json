@@ -15,7 +15,7 @@
         "Bombirdier": 33,
         "Litleo": 12,
         "Purrloin": 7,
-        "Tranquill": 9,
+        "Tranquill": 10,
         "Psyduck": 5,
         "Rockruff": 8,
         "Haunter": 7,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 43,
+        "Shroodle": 44,
         "Duskull": 47,
         "Bergmite": 9,
         "Pignite": 14,
@@ -408,10 +408,10 @@
         "Rufflet": 14,
         "Kabutops": 2,
         "Dondozo": 27,
-        "Pansear": 10,
+        "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 30,
-        "Armarouge": 8,
+        "Armarouge": 9,
         "Tyrantrum": 1,
         "Larvitar": 17,
         "Tentacool": 5,
@@ -819,7 +819,7 @@
         "Gigalith": 1,
         "Indeedee": 2,
         "Amped toxtricity": 4,
-        "Galarian linoone": 1,
+        "Galarian linoone": 2,
         "Xatu": 4,
         "Galarian corsola": 1,
         "Cinderace": 3,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8447,
-      "last_spawn": "2026-06-23T17:29:47.126515"
+      "total_spawns": 8452,
+      "last_spawn": "2026-06-23T17:30:17.172736"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1002,7 +1002,7 @@
     }
   },
   "global": {
-    "total_spawns": 12775,
+    "total_spawns": 12780,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
