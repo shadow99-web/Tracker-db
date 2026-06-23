@@ -103,7 +103,7 @@
         "Veluza": 46,
         "Barboach": 12,
         "Klink": 25,
-        "Honedge": 52,
+        "Honedge": 53,
         "Wingull": 12,
         "Salamence": 1,
         "Drakloak": 9,
@@ -115,7 +115,7 @@
         "Frigibax": 27,
         "Spheal": 46,
         "Swadloon": 7,
-        "Flittle": 34,
+        "Flittle": 35,
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 28,
@@ -299,7 +299,7 @@
         "Venipede": 40,
         "Cacturne": 4,
         "Oddish": 37,
-        "Dragalge": 3,
+        "Dragalge": 4,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
         "Toxapex": 2,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 7,
         "Wailord": 1,
-        "Makuhita": 9,
+        "Makuhita": 10,
         "Lombre": 12,
         "Ursaluna": 2,
         "Furfrou": 2,
@@ -817,7 +817,7 @@
         "Hypno": 1,
         "Galarian weezing": 1,
         "Gigalith": 1,
-        "Indeedee": 1,
+        "Indeedee": 2,
         "Amped toxtricity": 3,
         "Galarian linoone": 1,
         "Xatu": 4,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7468,
-      "last_spawn": "2026-06-23T15:23:07.324795"
+      "total_spawns": 7473,
+      "last_spawn": "2026-06-23T15:23:37.515014"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11757,
+    "total_spawns": 11762,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
