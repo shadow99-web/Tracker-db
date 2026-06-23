@@ -124,7 +124,7 @@
         "Togetic": 8,
         "Palpitoad": 3,
         "Pikipek": 43,
-        "Teddiursa": 30,
+        "Teddiursa": 31,
         "Clamperl": 11,
         "Zigzagoon": 14,
         "Weedle": 46,
@@ -134,10 +134,10 @@
         "Bounsweet": 24,
         "Noibat": 11,
         "Toxicroak": 4,
-        "Charcadet": 36,
+        "Charcadet": 37,
         "Croconaw": 11,
         "Phanpy": 3,
-        "Brambleghast": 8,
+        "Brambleghast": 9,
         "Pidgey": 43,
         "Rhyhorn": 28,
         "Sentret": 7,
@@ -613,7 +613,7 @@
         "Pupitar": 4,
         "Avalugg": 3,
         "Magby": 3,
-        "Wigglytuff": 1,
+        "Wigglytuff": 2,
         "Venusaur": 3,
         "Mismagius": 1,
         "Fraxure": 6,
@@ -928,10 +928,11 @@
         "Farfetch'd": 1,
         "Unown l": 1,
         "Delphox": 1,
-        "Rampardos": 1
+        "Rampardos": 1,
+        "Steelix": 1
       },
-      "total_spawns": 6929,
-      "last_spawn": "2026-06-23T14:22:27.080380"
+      "total_spawns": 6934,
+      "last_spawn": "2026-06-23T14:22:57.305621"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11218,
+    "total_spawns": 11223,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
