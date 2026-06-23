@@ -369,7 +369,7 @@
         "Caterpie": 25,
         "Carvanha": 10,
         "Luxio": 9,
-        "Treecko": 15,
+        "Treecko": 16,
         "Sinistea": 3,
         "Cubchoo": 6,
         "Hippopotas": 6,
@@ -512,9 +512,9 @@
         "Starmie": 3,
         "Simipour": 1,
         "Goldeen": 9,
-        "Nickit": 11,
+        "Nickit": 12,
         "Ivysaur": 8,
-        "Milcery": 5,
+        "Milcery": 6,
         "Gabite": 3,
         "Hariyama": 2,
         "Victreebel": 1,
@@ -607,7 +607,7 @@
         "Claydol": 1,
         "Turtonator": 2,
         "Hitmonlee": 2,
-        "Houndstone": 2,
+        "Houndstone": 3,
         "Sandy wormadam": 2,
         "Stunky": 6,
         "Pupitar": 6,
@@ -933,7 +933,7 @@
         "Excadrill": 2,
         "Druddigon": 1,
         "Honchkrow": 1,
-        "Pyukumuku": 1,
+        "Pyukumuku": 2,
         "Machoke": 2,
         "Sunshine cherrim": 1,
         "Beautifly": 1,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7840,
-      "last_spawn": "2026-06-23T16:20:47.086897"
+      "total_spawns": 7845,
+      "last_spawn": "2026-06-23T16:21:17.245052"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -970,7 +970,7 @@
     }
   },
   "global": {
-    "total_spawns": 12136,
+    "total_spawns": 12141,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
