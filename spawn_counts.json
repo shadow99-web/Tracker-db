@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 26,
         "Kilowattrel": 8,
-        "Lotad": 56,
+        "Lotad": 57,
         "Qwilfish": 5,
         "Trapinch": 46,
         "Toedscool": 34,
@@ -81,7 +81,7 @@
         "Amaura": 10,
         "Gimmighoul": 38,
         "Baltoy": 18,
-        "Mareep": 40,
+        "Mareep": 41,
         "Garbodor": 2,
         "Slakoth": 47,
         "Togepi": 28,
@@ -286,7 +286,7 @@
         "Charmeleon": 7,
         "Dipplin": 1,
         "Cramorant": 4,
-        "Chef dente": 23,
+        "Chef dente": 24,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 11,
@@ -752,7 +752,7 @@
         "Poltchageist": 2,
         "Incineroar": 2,
         "Morpeko": 5,
-        "Parasect": 3,
+        "Parasect": 4,
         "Alolan muk": 1,
         "Iron boulder": 1,
         "Haxorus": 1,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8800,
-      "last_spawn": "2026-06-23T18:42:27.230696"
+      "total_spawns": 8804,
+      "last_spawn": "2026-06-23T18:42:57.247844"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13135,
+    "total_spawns": 13139,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
