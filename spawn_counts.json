@@ -7,7 +7,7 @@
         "Patrat": 6,
         "Mosslax": 21,
         "Drilbur": 6,
-        "Pawmi": 37,
+        "Pawmi": 38,
         "Electabuzz": 6,
         "Rellor": 28,
         "Sandy burmy": 8,
@@ -156,7 +156,7 @@
         "Flapple": 3,
         "Aron": 27,
         "Boldore": 4,
-        "Spinarak": 13,
+        "Spinarak": 14,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 8,
@@ -484,7 +484,7 @@
         "Tyrogue": 8,
         "Vikavolt": 1,
         "Trash burmy": 2,
-        "Staravia": 7,
+        "Staravia": 8,
         "Chatot": 3,
         "Houndoom": 5,
         "Dottler": 8,
@@ -934,11 +934,12 @@
         "Druddigon": 1,
         "Honchkrow": 1,
         "Pyukumuku": 1,
-        "Machoke": 1,
-        "Sunshine cherrim": 1
+        "Machoke": 2,
+        "Sunshine cherrim": 1,
+        "Beautifly": 1
       },
-      "total_spawns": 7280,
-      "last_spawn": "2026-06-23T15:01:51.814522"
+      "total_spawns": 7285,
+      "last_spawn": "2026-06-23T15:02:27.072898"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -957,7 +958,7 @@
     }
   },
   "global": {
-    "total_spawns": 11569,
+    "total_spawns": 11574,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
