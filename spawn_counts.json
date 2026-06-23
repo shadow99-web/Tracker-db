@@ -129,7 +129,7 @@
         "Zigzagoon": 15,
         "Weedle": 51,
         "Flamigo": 34,
-        "Lillipup": 38,
+        "Lillipup": 39,
         "Shinx": 41,
         "Bounsweet": 27,
         "Noibat": 14,
@@ -225,7 +225,7 @@
         "Rillaboom": 3,
         "Ninetales": 2,
         "Wattrel": 42,
-        "Snubbull": 11,
+        "Snubbull": 12,
         "Spidops": 8,
         "Braixen": 12,
         "Drowzee": 13,
@@ -324,7 +324,7 @@
         "Murkrow": 11,
         "Bellsprout": 40,
         "Mudbray": 10,
-        "Dreepy": 34,
+        "Dreepy": 35,
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 12,
@@ -598,7 +598,7 @@
         "Cetoddle": 23,
         "Kricketot": 9,
         "Porygon-z": 2,
-        "Conkeldurr": 2,
+        "Conkeldurr": 3,
         "Walking wake": 1,
         "Yellow flower floette": 2,
         "Medicham": 3,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7923,
-      "last_spawn": "2026-06-23T16:29:57.393573"
+      "total_spawns": 7927,
+      "last_spawn": "2026-06-23T16:30:27.157696"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -968,10 +968,11 @@
         "Starly": 1,
         "Varoom": 1,
         "Weedle": 1,
-        "Chef dente": 1
+        "Chef dente": 1,
+        "Hatenna": 1
       },
-      "total_spawns": 21,
-      "last_spawn": "2026-06-23T16:29:37.731818"
+      "total_spawns": 22,
+      "last_spawn": "2026-06-23T16:30:27.660794"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -981,7 +982,7 @@
     }
   },
   "global": {
-    "total_spawns": 12231,
+    "total_spawns": 12236,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
