@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 9,
         "Bonsly": 2,
-        "Horsea": 25,
+        "Horsea": 26,
         "Frigibax": 21,
         "Spheal": 38,
         "Swadloon": 6,
@@ -119,11 +119,11 @@
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 23,
-        "Solosis": 26,
+        "Solosis": 27,
         "Battle cyclizar": 13,
         "Togetic": 8,
         "Palpitoad": 3,
-        "Pikipek": 38,
+        "Pikipek": 39,
         "Teddiursa": 28,
         "Clamperl": 9,
         "Zigzagoon": 11,
@@ -258,7 +258,7 @@
         "Vullaby": 6,
         "Cetitan": 4,
         "Cubone": 11,
-        "Gligar": 12,
+        "Gligar": 13,
         "Tirtouga": 11,
         "Furret": 1,
         "Nincada": 14,
@@ -436,7 +436,7 @@
         "Shuppet": 7,
         "Paldean wooper": 3,
         "Salandit": 8,
-        "School wishiwashi": 3,
+        "School wishiwashi": 4,
         "Snivy": 5,
         "Wyrdeer": 2,
         "Tangrowth": 1,
@@ -914,8 +914,8 @@
         "Eldegoss": 1,
         "Dracozolt": 1
       },
-      "total_spawns": 6255,
-      "last_spawn": "2026-06-23T12:34:11.689454"
+      "total_spawns": 6260,
+      "last_spawn": "2026-06-23T12:34:47.084928"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -933,7 +933,7 @@
     }
   },
   "global": {
-    "total_spawns": 10543,
+    "total_spawns": 10548,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
