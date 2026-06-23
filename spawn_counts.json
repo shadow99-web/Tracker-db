@@ -39,7 +39,7 @@
         "Lotad": 44,
         "Qwilfish": 5,
         "Trapinch": 37,
-        "Toedscool": 30,
+        "Toedscool": 31,
         "Fletchling": 23,
         "Skiploom": 10,
         "Timburr": 30,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 8,
         "Roggenrola": 27,
-        "Pidove": 36,
+        "Pidove": 37,
         "Dragapult": 5,
         "Rattata": 15,
         "Flapple": 3,
@@ -416,7 +416,7 @@
         "Larvitar": 16,
         "Tentacool": 4,
         "Volcanion": 1,
-        "Roaming gimmighoul": 19,
+        "Roaming gimmighoul": 20,
         "Summer sawsbuck": 3,
         "Delibird": 1,
         "Ride cyclizar": 11,
@@ -710,7 +710,7 @@
         "Combusken": 9,
         "Gourgeist": 4,
         "Durant": 2,
-        "Grovyle": 4,
+        "Grovyle": 5,
         "Snowy castform": 1,
         "Gengar": 2,
         "Forretress": 2,
@@ -876,7 +876,7 @@
         "Alolan graveler": 1,
         "Cleffa": 1,
         "Machamp": 1,
-        "Altaria": 2,
+        "Altaria": 4,
         "Purugly": 2,
         "Seaking": 2,
         "High plain vivillon": 1,
@@ -929,8 +929,8 @@
         "Unown l": 1,
         "Delphox": 1
       },
-      "total_spawns": 6808,
-      "last_spawn": "2026-06-23T14:08:47.254945"
+      "total_spawns": 6814,
+      "last_spawn": "2026-06-23T14:09:27.301472"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -949,7 +949,7 @@
     }
   },
   "global": {
-    "total_spawns": 11097,
+    "total_spawns": 11103,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
