@@ -43,7 +43,7 @@
         "Fletchling": 23,
         "Skiploom": 9,
         "Timburr": 26,
-        "Dj rotom": 17,
+        "Dj rotom": 18,
         "Surskit": 15,
         "Seedot": 15,
         "Skitty": 7,
@@ -92,7 +92,7 @@
         "Riolu": 4,
         "Exeggcute": 7,
         "Corphish": 3,
-        "Hoppip": 24,
+        "Hoppip": 25,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 28,
@@ -139,7 +139,7 @@
         "Phanpy": 2,
         "Brambleghast": 6,
         "Pidgey": 40,
-        "Rhyhorn": 26,
+        "Rhyhorn": 27,
         "Sentret": 6,
         "Yungoos": 3,
         "Diglett": 10,
@@ -240,7 +240,7 @@
         "Omanyte": 8,
         "Galvantula": 2,
         "Chansey": 6,
-        "Shroodle": 30,
+        "Shroodle": 31,
         "Duskull": 33,
         "Bergmite": 7,
         "Pignite": 9,
@@ -537,7 +537,7 @@
         "Zorua": 7,
         "Archen": 13,
         "Oinkologne": 9,
-        "Onix": 4,
+        "Onix": 5,
         "Vanilluxe": 1,
         "Jolteon": 1,
         "Pawmot": 3,
@@ -684,7 +684,7 @@
         "Blaziken": 2,
         "Stantler": 3,
         "Butterfree": 1,
-        "Koffing": 3,
+        "Koffing": 4,
         "Floragato": 2,
         "Seel": 3,
         "Shiinotic": 1,
@@ -905,8 +905,8 @@
         "Snorlax": 1,
         "Mienshao": 1
       },
-      "total_spawns": 5997,
-      "last_spawn": "2026-06-23T12:05:27.207892"
+      "total_spawns": 6003,
+      "last_spawn": "2026-06-23T12:06:08.074019"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -924,7 +924,7 @@
     }
   },
   "global": {
-    "total_spawns": 10285,
+    "total_spawns": 10291,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
