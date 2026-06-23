@@ -7,11 +7,11 @@
         "Patrat": 5,
         "Mosslax": 16,
         "Drilbur": 6,
-        "Pawmi": 30,
+        "Pawmi": 31,
         "Electabuzz": 6,
         "Rellor": 23,
         "Sandy burmy": 8,
-        "Wiglett": 31,
+        "Wiglett": 32,
         "Bombirdier": 25,
         "Litleo": 8,
         "Purrloin": 3,
@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
-        "Lotad": 41,
+        "Lotad": 42,
         "Qwilfish": 5,
         "Trapinch": 31,
         "Toedscool": 30,
@@ -57,7 +57,7 @@
         "Magnemite": 40,
         "Whismur": 25,
         "Monferno": 13,
-        "Skwovet": 4,
+        "Skwovet": 5,
         "Bramblin": 29,
         "Yanma": 6,
         "Larvesta": 12,
@@ -508,7 +508,7 @@
         "Glameow": 10,
         "Croagunk": 6,
         "Duraludon": 5,
-        "Sawk": 1,
+        "Sawk": 2,
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 7,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6021,
-      "last_spawn": "2026-06-23T12:08:07.050925"
+      "total_spawns": 6026,
+      "last_spawn": "2026-06-23T12:08:37.156104"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10309,
+    "total_spawns": 10314,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
