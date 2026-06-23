@@ -182,13 +182,13 @@
         "Geodude": 44,
         "Espurr": 10,
         "Cottonee": 4,
-        "Elgyem": 9,
+        "Elgyem": 10,
         "Luvdisc": 4,
         "Vigoroth": 17,
         "Skorupi": 9,
         "Pikachu": 11,
         "Blue plumage squawkabilly": 6,
-        "Thwackey": 10,
+        "Thwackey": 11,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 14,
@@ -349,7 +349,7 @@
         "Wooper": 20,
         "Dwebble": 9,
         "Steenee": 12,
-        "Darumaka": 15,
+        "Darumaka": 16,
         "Arboliva": 3,
         "Ledyba": 12,
         "Spritzee": 8,
@@ -959,10 +959,11 @@
         "Dandy trim furfrou": 1,
         "Rapidash": 1,
         "Mawile": 1,
-        "Dusknoir": 1
+        "Dusknoir": 1,
+        "Sirfetch'd": 1
       },
-      "total_spawns": 8867,
-      "last_spawn": "2026-06-23T18:50:11.967015"
+      "total_spawns": 8871,
+      "last_spawn": "2026-06-23T18:50:51.710531"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1017,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13203,
+    "total_spawns": 13207,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
