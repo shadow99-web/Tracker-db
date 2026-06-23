@@ -43,7 +43,7 @@
         "Fletchling": 23,
         "Skiploom": 10,
         "Timburr": 33,
-        "Dj rotom": 27,
+        "Dj rotom": 28,
         "Surskit": 16,
         "Seedot": 22,
         "Skitty": 9,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 28,
-        "Orthworm": 34,
+        "Orthworm": 35,
         "Marill": 12,
         "Joltik": 19,
         "Politoed": 3,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 5,
-        "Pancham": 5,
+        "Pancham": 6,
         "Venipede": 37,
         "Cacturne": 4,
         "Oddish": 36,
@@ -352,7 +352,7 @@
         "Darumaka": 10,
         "Arboliva": 3,
         "Ledyba": 10,
-        "Spritzee": 3,
+        "Spritzee": 4,
         "Swirlix": 5,
         "Aromatisse": 3,
         "Muk": 4,
@@ -473,7 +473,7 @@
         "Bunnelby": 8,
         "Gulping cramorant": 2,
         "Simisear": 1,
-        "White plumage squawkabilly": 10,
+        "White plumage squawkabilly": 11,
         "Shelmet": 8,
         "Solrock": 2,
         "Slowpoke": 10,
@@ -513,7 +513,7 @@
         "Simipour": 1,
         "Goldeen": 7,
         "Nickit": 9,
-        "Ivysaur": 7,
+        "Ivysaur": 8,
         "Milcery": 4,
         "Gabite": 2,
         "Hariyama": 2,
@@ -932,8 +932,8 @@
         "Steelix": 1,
         "Excadrill": 1
       },
-      "total_spawns": 7054,
-      "last_spawn": "2026-06-23T14:36:29.851050"
+      "total_spawns": 7060,
+      "last_spawn": "2026-06-23T14:37:10.221107"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +952,7 @@
     }
   },
   "global": {
-    "total_spawns": 11343,
+    "total_spawns": 11349,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
