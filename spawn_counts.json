@@ -80,7 +80,7 @@
         "Duosion": 9,
         "Amaura": 10,
         "Gimmighoul": 37,
-        "Baltoy": 15,
+        "Baltoy": 16,
         "Mareep": 38,
         "Garbodor": 2,
         "Slakoth": 43,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 1,
         "Toxapex": 2,
         "Lileep": 8,
-        "Rolycoly": 28,
+        "Rolycoly": 29,
         "Bronzor": 16,
         "Dartrix": 8,
         "Yellow flower florges": 3,
@@ -315,7 +315,7 @@
         "Nacli": 24,
         "Munna": 7,
         "Pawniard": 9,
-        "Prof tangrowth": 15,
+        "Prof tangrowth": 16,
         "Jangmo-o": 15,
         "Trash wormadam": 3,
         "Quaxly": 10,
@@ -944,10 +944,11 @@
         "Hisuian goodra": 1,
         "Giratina": 1,
         "Iron treads": 1,
-        "Meowstic": 1
+        "Meowstic": 1,
+        "Luxray": 1
       },
-      "total_spawns": 8147,
-      "last_spawn": "2026-06-23T16:55:17.156647"
+      "total_spawns": 8151,
+      "last_spawn": "2026-06-23T16:55:47.174052"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +998,7 @@
     }
   },
   "global": {
-    "total_spawns": 12475,
+    "total_spawns": 12479,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
