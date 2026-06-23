@@ -84,7 +84,7 @@
         "Mareep": 29,
         "Garbodor": 1,
         "Slakoth": 30,
-        "Togepi": 13,
+        "Togepi": 14,
         "Falinks": 2,
         "Tropius": 1,
         "Poliwag": 22,
@@ -269,7 +269,7 @@
         "Ceruledge": 16,
         "Houndour": 12,
         "Glimmet": 30,
-        "Goomy": 16,
+        "Goomy": 17,
         "Zapdos": 1,
         "Natu": 6,
         "Dhelmise": 1,
@@ -286,7 +286,7 @@
         "Charmeleon": 2,
         "Dipplin": 1,
         "Cramorant": 3,
-        "Chef dente": 12,
+        "Chef dente": 13,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 8,
@@ -346,7 +346,7 @@
         "Revavroom": 10,
         "Exploud": 3,
         "Deino": 14,
-        "Wooper": 14,
+        "Wooper": 15,
         "Dwebble": 8,
         "Steenee": 9,
         "Darumaka": 10,
@@ -908,8 +908,8 @@
         "Primarina": 1,
         "Unown x": 1
       },
-      "total_spawns": 6092,
-      "last_spawn": "2026-06-23T12:15:57.275043"
+      "total_spawns": 6096,
+      "last_spawn": "2026-06-23T12:16:30.731271"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -927,7 +927,7 @@
     }
   },
   "global": {
-    "total_spawns": 10380,
+    "total_spawns": 10384,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
