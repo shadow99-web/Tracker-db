@@ -222,7 +222,7 @@
         "Fuecoco": 8,
         "Cyclizar": 13,
         "Magmar": 10,
-        "Rillaboom": 2,
+        "Rillaboom": 3,
         "Ninetales": 2,
         "Wattrel": 32,
         "Snubbull": 8,
@@ -327,7 +327,7 @@
         "Dreepy": 28,
         "Tinkaton": 2,
         "Corviknight": 3,
-        "Froakie": 6,
+        "Froakie": 7,
         "Nymble": 32,
         "Ferrothorn": 1,
         "Servine": 6,
@@ -561,7 +561,7 @@
         "Ponyta": 8,
         "Togekiss": 2,
         "Braviary": 3,
-        "Raboot": 9,
+        "Raboot": 10,
         "Golem": 2,
         "Slowking": 4,
         "Lilligant": 4,
@@ -574,7 +574,7 @@
         "Electivire": 3,
         "Cascoon": 2,
         "Tentacruel": 4,
-        "Nuzleaf": 4,
+        "Nuzleaf": 5,
         "Scorbunny": 10,
         "Huntail": 2,
         "Galarian meowth": 1,
@@ -593,7 +593,7 @@
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 9,
-        "Dewgong": 2,
+        "Dewgong": 3,
         "Wartortle": 5,
         "Cetoddle": 15,
         "Kricketot": 5,
@@ -851,7 +851,7 @@
         "Darkrai": 1,
         "Togedemaru": 2,
         "Minior": 1,
-        "Mr. mime": 2,
+        "Mr. mime": 3,
         "Chesnaught": 1,
         "Jumpluff": 1,
         "Heatmor": 1,
@@ -911,8 +911,8 @@
         "Clawitzer": 1,
         "Leafeon": 1
       },
-      "total_spawns": 6138,
-      "last_spawn": "2026-06-23T12:21:07.421400"
+      "total_spawns": 6144,
+      "last_spawn": "2026-06-23T12:21:47.305241"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -930,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 10426,
+    "total_spawns": 10432,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
