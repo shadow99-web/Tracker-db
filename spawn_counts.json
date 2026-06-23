@@ -61,7 +61,7 @@
         "Bramblin": 31,
         "Yanma": 6,
         "Larvesta": 15,
-        "Beldum": 27,
+        "Beldum": 28,
         "Ducklett": 4,
         "Lokix": 8,
         "Glimmora": 13,
@@ -168,7 +168,7 @@
         "Klawf": 32,
         "Vanillite": 26,
         "Flareon": 3,
-        "Gastly": 29,
+        "Gastly": 30,
         "Taillow": 10,
         "Swinub": 32,
         "Inkay": 14,
@@ -289,7 +289,7 @@
         "Chef dente": 17,
         "Volcarona": 2,
         "Bewear": 2,
-        "Piloswine": 8,
+        "Piloswine": 9,
         "Simisage": 2,
         "Jellicent": 4,
         "Torkoal": 2,
@@ -423,7 +423,7 @@
         "Gothorita": 7,
         "Varoom": 25,
         "Yellow plumage squawkabilly": 9,
-        "Centiskorch": 2,
+        "Centiskorch": 3,
         "Low key toxtricity": 1,
         "Grapploct": 2,
         "Gurdurr": 6,
@@ -911,7 +911,7 @@
         "Clawitzer": 1,
         "Leafeon": 1,
         "Ludicolo": 2,
-        "Eldegoss": 2,
+        "Eldegoss": 3,
         "Dracozolt": 1,
         "Galarian rapidash": 1,
         "Skuntank": 1,
@@ -934,8 +934,8 @@
         "Druddigon": 1,
         "Honchkrow": 1
       },
-      "total_spawns": 7173,
-      "last_spawn": "2026-06-23T14:49:47.184397"
+      "total_spawns": 7178,
+      "last_spawn": "2026-06-23T14:50:17.288090"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -954,7 +954,7 @@
     }
   },
   "global": {
-    "total_spawns": 11462,
+    "total_spawns": 11467,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
