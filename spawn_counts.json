@@ -118,7 +118,7 @@
         "Flittle": 39,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 33,
+        "Ralts": 34,
         "Solosis": 39,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -152,7 +152,7 @@
         "Roggenrola": 34,
         "Pidove": 38,
         "Dragapult": 5,
-        "Rattata": 18,
+        "Rattata": 19,
         "Flapple": 5,
         "Aron": 31,
         "Boldore": 8,
@@ -175,7 +175,7 @@
         "Gible": 21,
         "Rookidee": 25,
         "Minccino": 14,
-        "Wurmple": 31,
+        "Wurmple": 32,
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 9,
-        "Venipede": 47,
+        "Venipede": 48,
         "Cacturne": 4,
         "Oddish": 40,
         "Dragalge": 4,
@@ -314,7 +314,7 @@
         "Jigglypuff": 13,
         "Nacli": 24,
         "Munna": 7,
-        "Pawniard": 9,
+        "Pawniard": 10,
         "Prof tangrowth": 16,
         "Jangmo-o": 15,
         "Trash wormadam": 3,
@@ -559,7 +559,7 @@
         "Kadabra": 12,
         "Chandelure": 6,
         "Ponyta": 13,
-        "Togekiss": 2,
+        "Togekiss": 3,
         "Braviary": 3,
         "Raboot": 10,
         "Golem": 2,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8226,
-      "last_spawn": "2026-06-23T17:04:27.247942"
+      "total_spawns": 8232,
+      "last_spawn": "2026-06-23T17:05:07.127539"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12554,
+    "total_spawns": 12560,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
