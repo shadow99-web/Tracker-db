@@ -83,7 +83,7 @@
         "Baltoy": 16,
         "Mareep": 38,
         "Garbodor": 2,
-        "Slakoth": 44,
+        "Slakoth": 45,
         "Togepi": 27,
         "Falinks": 5,
         "Tropius": 1,
@@ -129,7 +129,7 @@
         "Zigzagoon": 16,
         "Weedle": 54,
         "Flamigo": 34,
-        "Lillipup": 40,
+        "Lillipup": 41,
         "Shinx": 41,
         "Bounsweet": 29,
         "Noibat": 14,
@@ -140,7 +140,7 @@
         "Brambleghast": 10,
         "Pidgey": 49,
         "Rhyhorn": 36,
-        "Sentret": 10,
+        "Sentret": 11,
         "Yungoos": 4,
         "Diglett": 16,
         "Doduo": 9,
@@ -421,7 +421,7 @@
         "Delibird": 1,
         "Ride cyclizar": 14,
         "Gothorita": 8,
-        "Varoom": 30,
+        "Varoom": 31,
         "Yellow plumage squawkabilly": 12,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
@@ -801,7 +801,7 @@
         "Vaporeon": 3,
         "Unown i": 1,
         "Raichu": 1,
-        "Mime jr.": 1,
+        "Mime jr.": 2,
         "Voltorb": 3,
         "Lickitung": 2,
         "Blue-striped basculin": 3,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8237,
-      "last_spawn": "2026-06-23T17:05:37.144975"
+      "total_spawns": 8242,
+      "last_spawn": "2026-06-23T17:06:11.810918"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12565,
+    "total_spawns": 12570,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
