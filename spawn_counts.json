@@ -215,7 +215,7 @@
         "Feraligatr": 4,
         "Tynamo": 45,
         "Orthworm": 45,
-        "Marill": 12,
+        "Marill": 13,
         "Joltik": 21,
         "Politoed": 3,
         "Cyndaquil": 20,
@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 10,
         "Charjabug": 10,
-        "Capsakid": 31,
+        "Capsakid": 32,
         "Revavroom": 15,
         "Exploud": 3,
         "Deino": 22,
@@ -361,7 +361,7 @@
         "Three-segment dudunsparce": 3,
         "Fearow": 3,
         "Mankey": 10,
-        "Bidoof": 11,
+        "Bidoof": 12,
         "Quilava": 18,
         "Finizen": 44,
         "Unown y": 1,
@@ -444,7 +444,7 @@
         "Bibarel": 2,
         "Plusle": 3,
         "Skrelp": 5,
-        "Raticate": 7,
+        "Raticate": 8,
         "Wugtrio": 7,
         "Bellibolt": 6,
         "Morgrem": 8,
@@ -870,7 +870,7 @@
         "Illumise": 3,
         "Scrafty": 1,
         "Swanna": 2,
-        "Grumpig": 2,
+        "Grumpig": 3,
         "Basculegion": 1,
         "Magnezone": 1,
         "Alolan graveler": 1,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9029,
-      "last_spawn": "2026-06-23T19:08:47.338257"
+      "total_spawns": 9034,
+      "last_spawn": "2026-06-23T19:09:19.339343"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1020,7 +1020,7 @@
     }
   },
   "global": {
-    "total_spawns": 13366,
+    "total_spawns": 13371,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
