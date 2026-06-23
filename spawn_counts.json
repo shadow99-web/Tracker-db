@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
-        "Lotad": 39,
+        "Lotad": 40,
         "Qwilfish": 5,
         "Trapinch": 31,
         "Toedscool": 29,
@@ -50,7 +50,7 @@
         "Greavard": 24,
         "Slugma": 6,
         "Grotle": 6,
-        "Porygon": 24,
+        "Porygon": 25,
         "Zubat": 46,
         "Vanillish": 8,
         "Tadbulb": 22,
@@ -92,7 +92,7 @@
         "Riolu": 4,
         "Exeggcute": 7,
         "Corphish": 3,
-        "Hoppip": 23,
+        "Hoppip": 24,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 28,
@@ -407,7 +407,7 @@
         "Maschiff": 16,
         "Rufflet": 11,
         "Kabutops": 2,
-        "Dondozo": 17,
+        "Dondozo": 18,
         "Pansear": 9,
         "Cutiefly": 7,
         "Peakychu": 13,
@@ -900,8 +900,8 @@
         "Baxcalibur": 1,
         "Galarian articuno": 1
       },
-      "total_spawns": 5906,
-      "last_spawn": "2026-06-23T11:54:37.531245"
+      "total_spawns": 5910,
+      "last_spawn": "2026-06-23T11:55:11.676394"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -919,7 +919,7 @@
     }
   },
   "global": {
-    "total_spawns": 10194,
+    "total_spawns": 10198,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
