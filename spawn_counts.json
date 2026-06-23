@@ -124,7 +124,7 @@
         "Togetic": 8,
         "Palpitoad": 3,
         "Pikipek": 45,
-        "Teddiursa": 31,
+        "Teddiursa": 32,
         "Clamperl": 11,
         "Zigzagoon": 14,
         "Weedle": 48,
@@ -139,7 +139,7 @@
         "Phanpy": 3,
         "Brambleghast": 9,
         "Pidgey": 44,
-        "Rhyhorn": 31,
+        "Rhyhorn": 32,
         "Sentret": 9,
         "Yungoos": 3,
         "Diglett": 15,
@@ -182,7 +182,7 @@
         "Geodude": 37,
         "Espurr": 8,
         "Cottonee": 4,
-        "Elgyem": 8,
+        "Elgyem": 9,
         "Luvdisc": 3,
         "Vigoroth": 11,
         "Skorupi": 8,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 29,
-        "Orthworm": 35,
+        "Orthworm": 36,
         "Marill": 12,
         "Joltik": 19,
         "Politoed": 3,
@@ -407,7 +407,7 @@
         "Maschiff": 20,
         "Rufflet": 12,
         "Kabutops": 2,
-        "Dondozo": 21,
+        "Dondozo": 22,
         "Pansear": 9,
         "Cutiefly": 8,
         "Peakychu": 22,
@@ -518,7 +518,7 @@
         "Gabite": 2,
         "Hariyama": 2,
         "Victreebel": 1,
-        "Arctibax": 3,
+        "Arctibax": 4,
         "Foongus": 13,
         "Pansage": 5,
         "Cranidos": 7,
@@ -934,8 +934,8 @@
         "Druddigon": 1,
         "Honchkrow": 1
       },
-      "total_spawns": 7200,
-      "last_spawn": "2026-06-23T14:52:47.435711"
+      "total_spawns": 7206,
+      "last_spawn": "2026-06-23T14:53:27.105087"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -954,7 +954,7 @@
     }
   },
   "global": {
-    "total_spawns": 11489,
+    "total_spawns": 11495,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
