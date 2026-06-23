@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 35,
         "Frigibax": 30,
-        "Spheal": 54,
+        "Spheal": 55,
         "Swadloon": 7,
         "Flittle": 39,
         "Unfezant": 3,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 10,
-        "Roggenrola": 36,
+        "Roggenrola": 37,
         "Pidove": 39,
         "Dragapult": 5,
         "Rattata": 19,
@@ -521,7 +521,7 @@
         "Arctibax": 6,
         "Foongus": 14,
         "Pansage": 7,
-        "Cranidos": 7,
+        "Cranidos": 8,
         "Spewpa": 7,
         "Tyrunt": 5,
         "Garganacl": 1,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 1,
+        "Typhlosion": 2,
         "Ariados": 2,
         "Volbeat": 2,
         "Burmy": 2,
@@ -803,7 +803,7 @@
         "Raichu": 2,
         "Mime jr.": 2,
         "Voltorb": 3,
-        "Lickitung": 2,
+        "Lickitung": 3,
         "Blue-striped basculin": 3,
         "Barraskewda": 2,
         "Salazzle": 4,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8457,
-      "last_spawn": "2026-06-23T17:30:52.039599"
+      "total_spawns": 8462,
+      "last_spawn": "2026-06-23T17:31:27.281517"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1003,7 +1003,7 @@
     }
   },
   "global": {
-    "total_spawns": 12786,
+    "total_spawns": 12791,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
