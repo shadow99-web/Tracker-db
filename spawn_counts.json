@@ -32,7 +32,7 @@
         "Sandile": 30,
         "Sandygast": 11,
         "Litwick": 55,
-        "Grubbin": 24,
+        "Grubbin": 25,
         "Escavalier": 6,
         "Dratini": 18,
         "Kilowattrel": 6,
@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 28,
         "Baltoy": 12,
-        "Mareep": 31,
+        "Mareep": 32,
         "Garbodor": 1,
         "Slakoth": 31,
         "Togepi": 18,
@@ -298,7 +298,7 @@
         "Pancham": 5,
         "Venipede": 30,
         "Cacturne": 4,
-        "Oddish": 31,
+        "Oddish": 32,
         "Dragalge": 3,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -328,7 +328,7 @@
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 7,
-        "Nymble": 32,
+        "Nymble": 33,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 6,
@@ -685,7 +685,7 @@
         "Stantler": 4,
         "Butterfree": 1,
         "Koffing": 5,
-        "Floragato": 3,
+        "Floragato": 4,
         "Seel": 3,
         "Shiinotic": 1,
         "Gumshoos": 2,
@@ -738,7 +738,7 @@
         "Lumineon": 3,
         "Thievul": 2,
         "Greedent": 2,
-        "Ekans": 7,
+        "Ekans": 8,
         "Venonat": 7,
         "Pelipper": 4,
         "Metapod": 5,
@@ -915,8 +915,8 @@
         "Dracozolt": 1,
         "Galarian rapidash": 1
       },
-      "total_spawns": 6275,
-      "last_spawn": "2026-06-23T12:36:32.268248"
+      "total_spawns": 6281,
+      "last_spawn": "2026-06-23T12:37:07.128585"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -934,7 +934,7 @@
     }
   },
   "global": {
-    "total_spawns": 10563,
+    "total_spawns": 10569,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
