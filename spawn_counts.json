@@ -41,7 +41,7 @@
         "Trapinch": 44,
         "Toedscool": 34,
         "Fletchling": 28,
-        "Skiploom": 11,
+        "Skiploom": 12,
         "Timburr": 36,
         "Dj rotom": 36,
         "Surskit": 19,
@@ -50,7 +50,7 @@
         "Greavard": 43,
         "Slugma": 10,
         "Grotle": 9,
-        "Porygon": 39,
+        "Porygon": 40,
         "Zubat": 55,
         "Vanillish": 10,
         "Tadbulb": 39,
@@ -83,7 +83,7 @@
         "Baltoy": 17,
         "Mareep": 40,
         "Garbodor": 2,
-        "Slakoth": 46,
+        "Slakoth": 47,
         "Togepi": 28,
         "Falinks": 5,
         "Tropius": 1,
@@ -366,7 +366,7 @@
         "Finizen": 43,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 26,
+        "Caterpie": 27,
         "Carvanha": 10,
         "Luxio": 9,
         "Treecko": 17,
@@ -791,7 +791,7 @@
         "Dada zarude": 1,
         "Happiny": 2,
         "Matron trim furfrou": 1,
-        "Gothitelle": 2,
+        "Gothitelle": 3,
         "Dusclops": 5,
         "Galarian yamask": 1,
         "Alolan golem": 1,
@@ -955,8 +955,8 @@
         "Carnivine": 1,
         "Goodra": 1
       },
-      "total_spawns": 8652,
-      "last_spawn": "2026-06-23T18:25:51.736292"
+      "total_spawns": 8657,
+      "last_spawn": "2026-06-23T18:26:27.188162"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1010,7 +1010,7 @@
     }
   },
   "global": {
-    "total_spawns": 12987,
+    "total_spawns": 12992,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
