@@ -28,7 +28,7 @@
         "Impidimp": 30,
         "Charmander": 13,
         "Morelull": 4,
-        "Abra": 36,
+        "Abra": 37,
         "Sandile": 32,
         "Sandygast": 13,
         "Litwick": 60,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 30,
         "Frigibax": 26,
-        "Spheal": 44,
+        "Spheal": 45,
         "Swadloon": 7,
         "Flittle": 31,
         "Unfezant": 3,
@@ -318,7 +318,7 @@
         "Prof tangrowth": 13,
         "Jangmo-o": 14,
         "Trash wormadam": 2,
-        "Quaxly": 9,
+        "Quaxly": 10,
         "Gossifleur": 9,
         "Oshawott": 9,
         "Murkrow": 11,
@@ -428,7 +428,7 @@
         "Grapploct": 2,
         "Gurdurr": 6,
         "Girafarig": 3,
-        "Flaaffy": 4,
+        "Flaaffy": 5,
         "Pecharunt": 1,
         "Feebas": 7,
         "Buneary": 8,
@@ -647,7 +647,7 @@
         "Igglybuff": 5,
         "Archeops": 3,
         "Shiftry": 1,
-        "Arbok": 1,
+        "Arbok": 2,
         "Stretchy tatsugiri": 11,
         "Mareanie": 5,
         "Seadra": 6,
@@ -741,7 +741,7 @@
         "Ekans": 9,
         "Venonat": 8,
         "Pelipper": 4,
-        "Metapod": 7,
+        "Metapod": 8,
         "Kricketune": 4,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
@@ -937,8 +937,8 @@
         "Machoke": 1,
         "Sunshine cherrim": 1
       },
-      "total_spawns": 7247,
-      "last_spawn": "2026-06-23T14:58:07.301131"
+      "total_spawns": 7253,
+      "last_spawn": "2026-06-23T14:58:47.372032"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -957,7 +957,7 @@
     }
   },
   "global": {
-    "total_spawns": 11536,
+    "total_spawns": 11542,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
