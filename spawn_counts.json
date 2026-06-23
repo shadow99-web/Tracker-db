@@ -160,7 +160,7 @@
         "Delcatty": 3,
         "Spiritomb": 3,
         "Yamper": 8,
-        "Tepig": 23,
+        "Tepig": 24,
         "Kirlia": 5,
         "Piplup": 5,
         "Kakuna": 13,
@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 7,
-        "Tympole": 18,
+        "Tympole": 19,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -595,7 +595,7 @@
         "Mienfoo": 9,
         "Dewgong": 3,
         "Wartortle": 6,
-        "Cetoddle": 15,
+        "Cetoddle": 16,
         "Kricketot": 5,
         "Porygon-z": 2,
         "Conkeldurr": 1,
@@ -917,10 +917,11 @@
         "Skuntank": 1,
         "Gogoat": 1,
         "Bellossom": 1,
-        "Pirouette meloetta": 1
+        "Pirouette meloetta": 1,
+        "Sableye": 1
       },
-      "total_spawns": 6479,
-      "last_spawn": "2026-06-23T12:59:16.995709"
+      "total_spawns": 6483,
+      "last_spawn": "2026-06-23T12:59:47.103607"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -938,7 +939,7 @@
     }
   },
   "global": {
-    "total_spawns": 10767,
+    "total_spawns": 10771,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
