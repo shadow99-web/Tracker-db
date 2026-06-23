@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 13,
         "Patrat": 5,
-        "Mosslax": 14,
+        "Mosslax": 15,
         "Drilbur": 6,
         "Pawmi": 29,
         "Electabuzz": 6,
@@ -53,7 +53,7 @@
         "Porygon": 24,
         "Zubat": 46,
         "Vanillish": 8,
-        "Tadbulb": 20,
+        "Tadbulb": 21,
         "Magnemite": 39,
         "Whismur": 25,
         "Monferno": 12,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 13,
         "Togetic": 7,
         "Palpitoad": 3,
-        "Pikipek": 34,
+        "Pikipek": 35,
         "Teddiursa": 28,
         "Clamperl": 8,
         "Zigzagoon": 11,
@@ -433,7 +433,7 @@
         "Feebas": 6,
         "Buneary": 6,
         "Zebstrika": 1,
-        "Shuppet": 6,
+        "Shuppet": 7,
         "Paldean wooper": 3,
         "Salandit": 8,
         "School wishiwashi": 3,
@@ -894,10 +894,11 @@
         "Aqua breed tauros": 1,
         "Fan rotom": 1,
         "Stonjourner": 1,
-        "Elekid": 1
+        "Elekid": 1,
+        "Floette": 1
       },
-      "total_spawns": 5852,
-      "last_spawn": "2026-06-23T11:48:37.613126"
+      "total_spawns": 5857,
+      "last_spawn": "2026-06-23T11:49:11.793641"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -909,7 +910,7 @@
     }
   },
   "global": {
-    "total_spawns": 10140,
+    "total_spawns": 10145,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
