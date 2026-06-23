@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 17,
-        "Patrat": 6,
+        "Patrat": 7,
         "Mosslax": 22,
         "Drilbur": 7,
         "Pawmi": 39,
@@ -115,7 +115,7 @@
         "Frigibax": 27,
         "Spheal": 46,
         "Swadloon": 7,
-        "Flittle": 36,
+        "Flittle": 37,
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 28,
@@ -324,7 +324,7 @@
         "Murkrow": 11,
         "Bellsprout": 40,
         "Mudbray": 10,
-        "Dreepy": 32,
+        "Dreepy": 33,
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 11,
@@ -335,7 +335,7 @@
         "Musharna": 2,
         "Bisharp": 3,
         "Chespin": 6,
-        "Sealeo": 10,
+        "Sealeo": 11,
         "Staryu": 8,
         "Samurott": 2,
         "Torchic": 14,
@@ -662,7 +662,7 @@
         "Budew": 2,
         "Espathra": 5,
         "Vileplume": 2,
-        "Kecleon": 1,
+        "Kecleon": 2,
         "Sizzlipede": 6,
         "White flower floette": 1,
         "Skeledirge": 4,
@@ -912,7 +912,7 @@
         "Leafeon": 1,
         "Ludicolo": 2,
         "Eldegoss": 3,
-        "Dracozolt": 1,
+        "Dracozolt": 2,
         "Galarian rapidash": 1,
         "Skuntank": 1,
         "Gogoat": 1,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7589,
-      "last_spawn": "2026-06-23T15:37:07.224738"
+      "total_spawns": 7595,
+      "last_spawn": "2026-06-23T15:37:47.032852"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -962,7 +962,7 @@
     }
   },
   "global": {
-    "total_spawns": 11879,
+    "total_spawns": 11885,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
