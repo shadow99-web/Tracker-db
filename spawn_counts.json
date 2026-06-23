@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 44,
-        "Orthworm": 44,
+        "Orthworm": 45,
         "Marill": 12,
         "Joltik": 21,
         "Politoed": 3,
@@ -252,7 +252,7 @@
         "Tinkatink": 44,
         "Lechonk": 40,
         "Kommo-o": 1,
-        "Dewott": 12,
+        "Dewott": 13,
         "Arrokuda": 10,
         "Golett": 9,
         "Vullaby": 8,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 1,
         "Toxapex": 2,
         "Lileep": 8,
-        "Rolycoly": 30,
+        "Rolycoly": 31,
         "Bronzor": 17,
         "Dartrix": 9,
         "Yellow flower florges": 3,
@@ -405,7 +405,7 @@
         "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 30,
-        "Rufflet": 14,
+        "Rufflet": 15,
         "Kabutops": 4,
         "Dondozo": 30,
         "Pansear": 11,
@@ -511,7 +511,7 @@
         "Sawk": 2,
         "Starmie": 5,
         "Simipour": 1,
-        "Goldeen": 10,
+        "Goldeen": 11,
         "Nickit": 14,
         "Ivysaur": 8,
         "Milcery": 9,
@@ -962,8 +962,8 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 8969,
-      "last_spawn": "2026-06-23T19:01:51.757089"
+      "total_spawns": 8974,
+      "last_spawn": "2026-06-23T19:02:27.235347"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13305,
+    "total_spawns": 13310,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
