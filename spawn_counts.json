@@ -66,7 +66,7 @@
         "Lokix": 8,
         "Glimmora": 13,
         "Starly": 39,
-        "Tandemaus": 30,
+        "Tandemaus": 31,
         "Smoliv": 43,
         "Gloom": 9,
         "Clefairy": 6,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 14,
         "Togetic": 8,
         "Palpitoad": 3,
-        "Pikipek": 41,
+        "Pikipek": 42,
         "Teddiursa": 30,
         "Clamperl": 11,
         "Zigzagoon": 14,
@@ -172,7 +172,7 @@
         "Taillow": 9,
         "Swinub": 31,
         "Inkay": 14,
-        "Gible": 17,
+        "Gible": 18,
         "Rookidee": 21,
         "Minccino": 12,
         "Wurmple": 26,
@@ -181,7 +181,7 @@
         "Quilladin": 6,
         "Geodude": 34,
         "Espurr": 8,
-        "Cottonee": 3,
+        "Cottonee": 4,
         "Elgyem": 8,
         "Luvdisc": 3,
         "Vigoroth": 11,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 11,
         "Quilava": 14,
-        "Finizen": 29,
+        "Finizen": 30,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 23,
@@ -598,7 +598,7 @@
         "Cetoddle": 17,
         "Kricketot": 5,
         "Porygon-z": 2,
-        "Conkeldurr": 1,
+        "Conkeldurr": 2,
         "Walking wake": 1,
         "Yellow flower floette": 2,
         "Medicham": 2,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6864,
-      "last_spawn": "2026-06-23T14:15:07.418076"
+      "total_spawns": 6870,
+      "last_spawn": "2026-06-23T14:15:47.206471"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11153,
+    "total_spawns": 11159,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
