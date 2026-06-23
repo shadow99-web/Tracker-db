@@ -41,7 +41,7 @@
         "Trapinch": 31,
         "Toedscool": 29,
         "Fletchling": 23,
-        "Skiploom": 8,
+        "Skiploom": 9,
         "Timburr": 25,
         "Dj rotom": 17,
         "Surskit": 15,
@@ -129,7 +129,7 @@
         "Zigzagoon": 11,
         "Weedle": 43,
         "Flamigo": 23,
-        "Lillipup": 28,
+        "Lillipup": 29,
         "Shinx": 34,
         "Bounsweet": 18,
         "Noibat": 9,
@@ -362,7 +362,7 @@
         "Fearow": 3,
         "Mankey": 10,
         "Bidoof": 8,
-        "Quilava": 13,
+        "Quilava": 14,
         "Finizen": 25,
         "Unown y": 1,
         "Toucannon": 2,
@@ -502,7 +502,7 @@
         "Staraptor": 2,
         "Mimikyu": 1,
         "Alolan sandslash": 1,
-        "Empoleon": 2,
+        "Empoleon": 3,
         "Farigiraf": 9,
         "Hakamo-o": 3,
         "Glameow": 10,
@@ -547,10 +547,10 @@
         "Kangaskhan": 2,
         "Krokorok": 7,
         "Dragonair": 3,
-        "Zweilous": 5,
+        "Zweilous": 6,
         "Karrablast": 4,
         "Shroomish": 11,
-        "Snover": 6,
+        "Snover": 7,
         "Drednaw": 2,
         "Skarmory": 3,
         "Midnight lycanroc": 2,
@@ -905,8 +905,8 @@
         "Snorlax": 1,
         "Mienshao": 1
       },
-      "total_spawns": 5962,
-      "last_spawn": "2026-06-23T12:01:32.898862"
+      "total_spawns": 5968,
+      "last_spawn": "2026-06-23T12:02:07.469338"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -924,7 +924,7 @@
     }
   },
   "global": {
-    "total_spawns": 10250,
+    "total_spawns": 10256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
