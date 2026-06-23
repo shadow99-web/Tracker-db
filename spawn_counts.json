@@ -29,7 +29,7 @@
         "Charmander": 15,
         "Morelull": 5,
         "Abra": 40,
-        "Sandile": 37,
+        "Sandile": 38,
         "Sandygast": 14,
         "Litwick": 65,
         "Grubbin": 34,
@@ -100,7 +100,7 @@
         "Numel": 19,
         "Carracosta": 3,
         "Smearguru": 30,
-        "Veluza": 50,
+        "Veluza": 51,
         "Barboach": 13,
         "Klink": 29,
         "Honedge": 55,
@@ -322,7 +322,7 @@
         "Gossifleur": 11,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 44,
+        "Bellsprout": 45,
         "Mudbray": 11,
         "Dreepy": 39,
         "Tinkaton": 3,
@@ -401,7 +401,7 @@
         "Nosepass": 8,
         "Persian": 2,
         "Lopunny": 2,
-        "Squawkabilly": 10,
+        "Squawkabilly": 11,
         "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 27,
@@ -712,7 +712,7 @@
         "Durant": 2,
         "Grovyle": 9,
         "Snowy castform": 1,
-        "Gengar": 2,
+        "Gengar": 3,
         "Forretress": 2,
         "Hydrapple": 1,
         "Emolga": 3,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8383,
-      "last_spawn": "2026-06-23T17:22:31.887382"
+      "total_spawns": 8388,
+      "last_spawn": "2026-06-23T17:23:07.129205"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12711,
+    "total_spawns": 12716,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
