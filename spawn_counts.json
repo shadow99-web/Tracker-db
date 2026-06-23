@@ -352,7 +352,7 @@
         "Darumaka": 10,
         "Arboliva": 3,
         "Ledyba": 10,
-        "Spritzee": 2,
+        "Spritzee": 3,
         "Swirlix": 4,
         "Aromatisse": 3,
         "Muk": 4,
@@ -414,7 +414,7 @@
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 15,
-        "Tentacool": 2,
+        "Tentacool": 3,
         "Volcanion": 1,
         "Roaming gimmighoul": 19,
         "Summer sawsbuck": 3,
@@ -633,7 +633,7 @@
         "Lanturn": 3,
         "Cacnea": 2,
         "Pom-pom oricorio": 3,
-        "Hawlucha": 2,
+        "Hawlucha": 3,
         "Ursaring": 4,
         "Glalie": 2,
         "Latios": 1,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6596,
-      "last_spawn": "2026-06-23T13:12:17.225665"
+      "total_spawns": 6599,
+      "last_spawn": "2026-06-23T13:12:47.280459"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10884,
+    "total_spawns": 10887,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
