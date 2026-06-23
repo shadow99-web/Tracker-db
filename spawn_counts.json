@@ -219,7 +219,7 @@
         "Joltik": 20,
         "Politoed": 3,
         "Cyndaquil": 18,
-        "Fuecoco": 10,
+        "Fuecoco": 11,
         "Cyclizar": 15,
         "Magmar": 13,
         "Rillaboom": 3,
@@ -404,7 +404,7 @@
         "Squawkabilly": 10,
         "Electrike": 12,
         "Drampa": 2,
-        "Maschiff": 23,
+        "Maschiff": 24,
         "Rufflet": 13,
         "Kabutops": 2,
         "Dondozo": 24,
@@ -476,7 +476,7 @@
         "White plumage squawkabilly": 11,
         "Shelmet": 9,
         "Solrock": 2,
-        "Slowpoke": 12,
+        "Slowpoke": 13,
         "Dolliv": 6,
         "Infernape": 1,
         "Carkol": 9,
@@ -919,7 +919,7 @@
         "Bellossom": 3,
         "Pirouette meloetta": 1,
         "Sableye": 1,
-        "Wynaut": 1,
+        "Wynaut": 2,
         "Hattrem": 2,
         "Clefable": 1,
         "Serperior": 2,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7815,
-      "last_spawn": "2026-06-23T16:17:57.237834"
+      "total_spawns": 7819,
+      "last_spawn": "2026-06-23T16:18:27.786042"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -956,10 +956,11 @@
         "Amoonguss": 1,
         "Mosslax": 1,
         "Rookidee": 1,
-        "Roggenrola": 1
+        "Roggenrola": 1,
+        "Armarouge": 1
       },
-      "total_spawns": 8,
-      "last_spawn": "2026-06-23T16:03:52.984322"
+      "total_spawns": 9,
+      "last_spawn": "2026-06-23T16:18:16.405962"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -969,7 +970,7 @@
     }
   },
   "global": {
-    "total_spawns": 12110,
+    "total_spawns": 12115,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
