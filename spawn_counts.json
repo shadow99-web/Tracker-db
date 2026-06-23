@@ -48,7 +48,7 @@
         "Seedot": 30,
         "Skitty": 10,
         "Greavard": 44,
-        "Slugma": 10,
+        "Slugma": 11,
         "Grotle": 9,
         "Porygon": 40,
         "Zubat": 55,
@@ -88,7 +88,7 @@
         "Falinks": 5,
         "Tropius": 1,
         "Poliwag": 36,
-        "Metang": 7,
+        "Metang": 8,
         "Riolu": 6,
         "Exeggcute": 9,
         "Corphish": 4,
@@ -112,7 +112,7 @@
         "Sneasel": 15,
         "Bonsly": 2,
         "Horsea": 35,
-        "Frigibax": 30,
+        "Frigibax": 31,
         "Spheal": 57,
         "Swadloon": 8,
         "Flittle": 40,
@@ -184,7 +184,7 @@
         "Cottonee": 4,
         "Elgyem": 9,
         "Luvdisc": 4,
-        "Vigoroth": 16,
+        "Vigoroth": 17,
         "Skorupi": 9,
         "Pikachu": 11,
         "Blue plumage squawkabilly": 6,
@@ -200,7 +200,7 @@
         "Toedscruel": 13,
         "Probopass": 2,
         "Scraggy": 16,
-        "Rhydon": 12,
+        "Rhydon": 13,
         "Silcoon": 8,
         "Totodile": 11,
         "Dodrio": 3,
@@ -957,8 +957,8 @@
         "Aurorus": 1,
         "Florges": 1
       },
-      "total_spawns": 8711,
-      "last_spawn": "2026-06-23T18:32:31.899511"
+      "total_spawns": 8716,
+      "last_spawn": "2026-06-23T18:33:07.719515"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1012,7 +1012,7 @@
     }
   },
   "global": {
-    "total_spawns": 13046,
+    "total_spawns": 13051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
