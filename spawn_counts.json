@@ -128,7 +128,7 @@
         "Clamperl": 8,
         "Zigzagoon": 11,
         "Weedle": 43,
-        "Flamigo": 23,
+        "Flamigo": 24,
         "Lillipup": 29,
         "Shinx": 34,
         "Bounsweet": 18,
@@ -139,7 +139,7 @@
         "Phanpy": 2,
         "Brambleghast": 6,
         "Pidgey": 40,
-        "Rhyhorn": 25,
+        "Rhyhorn": 26,
         "Sentret": 6,
         "Yungoos": 3,
         "Diglett": 10,
@@ -229,7 +229,7 @@
         "Spidops": 8,
         "Braixen": 10,
         "Drowzee": 10,
-        "Blipbug": 26,
+        "Blipbug": 27,
         "Lampent": 17,
         "Petilil": 6,
         "Marshtomp": 10,
@@ -243,7 +243,7 @@
         "Shroodle": 29,
         "Duskull": 33,
         "Bergmite": 7,
-        "Pignite": 8,
+        "Pignite": 9,
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 9,
@@ -318,7 +318,7 @@
         "Prof tangrowth": 9,
         "Jangmo-o": 12,
         "Trash wormadam": 2,
-        "Quaxly": 8,
+        "Quaxly": 9,
         "Gossifleur": 6,
         "Oshawott": 9,
         "Murkrow": 9,
@@ -372,7 +372,7 @@
         "Treecko": 14,
         "Sinistea": 3,
         "Cubchoo": 5,
-        "Hippopotas": 3,
+        "Hippopotas": 4,
         "Spiky-eared pichu": 2,
         "Magearna": 1,
         "Mabosstiff": 5,
@@ -905,8 +905,8 @@
         "Snorlax": 1,
         "Mienshao": 1
       },
-      "total_spawns": 5980,
-      "last_spawn": "2026-06-23T12:03:28.929630"
+      "total_spawns": 5986,
+      "last_spawn": "2026-06-23T12:04:07.211765"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -924,7 +924,7 @@
     }
   },
   "global": {
-    "total_spawns": 10268,
+    "total_spawns": 10274,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
