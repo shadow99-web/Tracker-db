@@ -129,7 +129,7 @@
         "Zigzagoon": 16,
         "Weedle": 52,
         "Flamigo": 34,
-        "Lillipup": 39,
+        "Lillipup": 40,
         "Shinx": 41,
         "Bounsweet": 27,
         "Noibat": 14,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 5,
-        "Pancham": 7,
+        "Pancham": 8,
         "Venipede": 43,
         "Cacturne": 4,
         "Oddish": 40,
@@ -322,7 +322,7 @@
         "Gossifleur": 11,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 41,
+        "Bellsprout": 42,
         "Mudbray": 10,
         "Dreepy": 37,
         "Tinkaton": 3,
@@ -362,7 +362,7 @@
         "Fearow": 3,
         "Mankey": 10,
         "Bidoof": 11,
-        "Quilava": 17,
+        "Quilava": 18,
         "Finizen": 42,
         "Unown y": 1,
         "Toucannon": 2,
@@ -546,7 +546,7 @@
         "Oricorio": 3,
         "Kangaskhan": 2,
         "Krokorok": 12,
-        "Dragonair": 4,
+        "Dragonair": 5,
         "Zweilous": 6,
         "Karrablast": 6,
         "Shroomish": 13,
@@ -736,7 +736,7 @@
         "Alolan rattata": 1,
         "Hippowdon": 2,
         "Lumineon": 3,
-        "Thievul": 2,
+        "Thievul": 3,
         "Greedent": 4,
         "Ekans": 10,
         "Venonat": 8,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8068,
-      "last_spawn": "2026-06-23T16:46:33.508027"
+      "total_spawns": 8074,
+      "last_spawn": "2026-06-23T16:47:07.386170"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -996,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12395,
+    "total_spawns": 12401,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
