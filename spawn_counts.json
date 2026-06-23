@@ -22,7 +22,7 @@
         "Tangela": 10,
         "Orbeetle": 3,
         "Dedenne": 3,
-        "Machop": 23,
+        "Machop": 24,
         "Dudunsparce": 4,
         "Gothita": 28,
         "Impidimp": 27,
@@ -58,7 +58,7 @@
         "Whismur": 26,
         "Monferno": 13,
         "Skwovet": 5,
-        "Bramblin": 30,
+        "Bramblin": 31,
         "Yanma": 6,
         "Larvesta": 14,
         "Beldum": 25,
@@ -66,7 +66,7 @@
         "Lokix": 7,
         "Glimmora": 13,
         "Starly": 38,
-        "Tandemaus": 28,
+        "Tandemaus": 29,
         "Smoliv": 43,
         "Gloom": 9,
         "Clefairy": 6,
@@ -139,7 +139,7 @@
         "Phanpy": 3,
         "Brambleghast": 6,
         "Pidgey": 41,
-        "Rhyhorn": 27,
+        "Rhyhorn": 28,
         "Sentret": 6,
         "Yungoos": 3,
         "Diglett": 11,
@@ -165,7 +165,7 @@
         "Piplup": 5,
         "Kakuna": 13,
         "Weepinbell": 5,
-        "Klawf": 29,
+        "Klawf": 30,
         "Vanillite": 26,
         "Flareon": 3,
         "Gastly": 27,
@@ -728,7 +728,7 @@
         "Volbeat": 2,
         "Burmy": 2,
         "Popplio": 3,
-        "Mandibuzz": 3,
+        "Mandibuzz": 4,
         "Walrein": 1,
         "Cinccino": 1,
         "Alolan sandshrew": 1,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6549,
-      "last_spawn": "2026-06-23T13:07:07.227474"
+      "total_spawns": 6555,
+      "last_spawn": "2026-06-23T13:07:47.326099"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10837,
+    "total_spawns": 10843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
