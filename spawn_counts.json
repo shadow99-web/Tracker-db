@@ -69,7 +69,7 @@
         "Tandemaus": 27,
         "Smoliv": 40,
         "Gloom": 9,
-        "Clefairy": 4,
+        "Clefairy": 5,
         "Spinda": 2,
         "Fomantis": 5,
         "Droopy tatsugiri": 19,
@@ -230,7 +230,7 @@
         "Braixen": 11,
         "Drowzee": 10,
         "Blipbug": 28,
-        "Lampent": 17,
+        "Lampent": 19,
         "Petilil": 6,
         "Marshtomp": 11,
         "Eiscue": 3,
@@ -893,7 +893,7 @@
         "Ambipom": 3,
         "Aqua breed tauros": 1,
         "Fan rotom": 1,
-        "Stonjourner": 1,
+        "Stonjourner": 2,
         "Elekid": 1,
         "Floette": 2,
         "Shedinja": 2,
@@ -915,8 +915,8 @@
         "Dracozolt": 1,
         "Galarian rapidash": 1
       },
-      "total_spawns": 6265,
-      "last_spawn": "2026-06-23T12:35:17.352664"
+      "total_spawns": 6269,
+      "last_spawn": "2026-06-23T12:35:47.355451"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -934,7 +934,7 @@
     }
   },
   "global": {
-    "total_spawns": 10553,
+    "total_spawns": 10557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
