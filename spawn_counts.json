@@ -65,7 +65,7 @@
         "Ducklett": 6,
         "Lokix": 10,
         "Glimmora": 15,
-        "Starly": 43,
+        "Starly": 44,
         "Tandemaus": 33,
         "Smoliv": 50,
         "Gloom": 9,
@@ -144,7 +144,7 @@
         "Yungoos": 3,
         "Diglett": 16,
         "Doduo": 9,
-        "Lairon": 10,
+        "Lairon": 11,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
@@ -165,7 +165,7 @@
         "Piplup": 5,
         "Kakuna": 14,
         "Weepinbell": 6,
-        "Klawf": 36,
+        "Klawf": 37,
         "Vanillite": 32,
         "Flareon": 3,
         "Gastly": 33,
@@ -404,7 +404,7 @@
         "Squawkabilly": 10,
         "Electrike": 13,
         "Drampa": 2,
-        "Maschiff": 25,
+        "Maschiff": 26,
         "Rufflet": 13,
         "Kabutops": 2,
         "Dondozo": 26,
@@ -511,7 +511,7 @@
         "Sawk": 2,
         "Starmie": 3,
         "Simipour": 1,
-        "Goldeen": 9,
+        "Goldeen": 10,
         "Nickit": 12,
         "Ivysaur": 8,
         "Milcery": 6,
@@ -520,7 +520,7 @@
         "Victreebel": 1,
         "Arctibax": 5,
         "Foongus": 14,
-        "Pansage": 6,
+        "Pansage": 7,
         "Cranidos": 7,
         "Spewpa": 7,
         "Tyrunt": 5,
@@ -945,8 +945,8 @@
         "Giratina": 1,
         "Iron treads": 1
       },
-      "total_spawns": 8095,
-      "last_spawn": "2026-06-23T16:49:27.121081"
+      "total_spawns": 8101,
+      "last_spawn": "2026-06-23T16:50:07.354503"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -996,7 +996,7 @@
     }
   },
   "global": {
-    "total_spawns": 12423,
+    "total_spawns": 12429,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
