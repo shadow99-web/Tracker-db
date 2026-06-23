@@ -17,7 +17,7 @@
         "Purrloin": 4,
         "Tranquill": 6,
         "Psyduck": 3,
-        "Rockruff": 6,
+        "Rockruff": 7,
         "Haunter": 6,
         "Tangela": 10,
         "Orbeetle": 2,
@@ -154,7 +154,7 @@
         "Dragapult": 5,
         "Rattata": 14,
         "Flapple": 3,
-        "Aron": 23,
+        "Aron": 24,
         "Boldore": 3,
         "Spinarak": 11,
         "Delcatty": 3,
@@ -213,7 +213,7 @@
         "Fidough": 19,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 25,
+        "Tynamo": 26,
         "Orthworm": 28,
         "Marill": 10,
         "Joltik": 18,
@@ -725,7 +725,7 @@
         "Cornerstone mask ogerpon": 1,
         "Typhlosion": 1,
         "Ariados": 1,
-        "Volbeat": 1,
+        "Volbeat": 2,
         "Burmy": 2,
         "Popplio": 3,
         "Mandibuzz": 3,
@@ -772,7 +772,7 @@
         "Roserade": 2,
         "Nidorina": 3,
         "Archaludon": 1,
-        "Golduck": 1,
+        "Golduck": 2,
         "Scolipede": 1,
         "Marowak": 1,
         "Chingling": 2,
@@ -913,8 +913,8 @@
         "Ludicolo": 1,
         "Eldegoss": 1
       },
-      "total_spawns": 6224,
-      "last_spawn": "2026-06-23T12:30:46.987263"
+      "total_spawns": 6229,
+      "last_spawn": "2026-06-23T12:31:17.227461"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -932,7 +932,7 @@
     }
   },
   "global": {
-    "total_spawns": 10512,
+    "total_spawns": 10517,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
