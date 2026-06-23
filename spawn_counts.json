@@ -3,13 +3,13 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 14,
+        "Chimchar": 15,
         "Patrat": 5,
         "Mosslax": 19,
         "Drilbur": 6,
         "Pawmi": 36,
         "Electabuzz": 6,
-        "Rellor": 23,
+        "Rellor": 24,
         "Sandy burmy": 8,
         "Wiglett": 34,
         "Bombirdier": 26,
@@ -60,7 +60,7 @@
         "Skwovet": 5,
         "Bramblin": 31,
         "Yanma": 6,
-        "Larvesta": 14,
+        "Larvesta": 15,
         "Beldum": 25,
         "Ducklett": 4,
         "Lokix": 7,
@@ -256,7 +256,7 @@
         "Arrokuda": 6,
         "Golett": 6,
         "Vullaby": 6,
-        "Cetitan": 5,
+        "Cetitan": 6,
         "Cubone": 11,
         "Gligar": 13,
         "Tirtouga": 11,
@@ -557,7 +557,7 @@
         "Eelektross": 1,
         "Araquanid": 2,
         "Kadabra": 5,
-        "Chandelure": 4,
+        "Chandelure": 5,
         "Ponyta": 8,
         "Togekiss": 2,
         "Braviary": 3,
@@ -707,7 +707,7 @@
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
-        "Combusken": 8,
+        "Combusken": 9,
         "Gourgeist": 4,
         "Durant": 2,
         "Grovyle": 4,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6570,
-      "last_spawn": "2026-06-23T13:09:27.174531"
+      "total_spawns": 6576,
+      "last_spawn": "2026-06-23T13:10:07.240529"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10858,
+    "total_spawns": 10864,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
