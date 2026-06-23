@@ -58,7 +58,7 @@
         "Whismur": 33,
         "Monferno": 15,
         "Skwovet": 6,
-        "Bramblin": 38,
+        "Bramblin": 39,
         "Yanma": 7,
         "Larvesta": 17,
         "Beldum": 29,
@@ -331,7 +331,7 @@
         "Nymble": 41,
         "Ferrothorn": 1,
         "Servine": 7,
-        "Blitzle": 10,
+        "Blitzle": 11,
         "Musharna": 2,
         "Bisharp": 3,
         "Chespin": 6,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 4,
         "Eelektross": 1,
         "Araquanid": 3,
-        "Kadabra": 11,
+        "Kadabra": 12,
         "Chandelure": 6,
         "Ponyta": 13,
         "Togekiss": 2,
@@ -627,7 +627,7 @@
         "Frost rotom": 1,
         "Tatsugiri": 10,
         "Nidorino": 6,
-        "Wailmer": 8,
+        "Wailmer": 9,
         "Krabby": 8,
         "Bronzong": 5,
         "Lanturn": 3,
@@ -945,10 +945,12 @@
         "Giratina": 1,
         "Iron treads": 1,
         "Meowstic": 1,
-        "Luxray": 1
+        "Luxray": 1,
+        "Latias": 1,
+        "Unown n": 1
       },
-      "total_spawns": 8205,
-      "last_spawn": "2026-06-23T17:02:07.400067"
+      "total_spawns": 8211,
+      "last_spawn": "2026-06-23T17:02:47.198599"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -998,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12533,
+    "total_spawns": 12539,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
