@@ -195,7 +195,7 @@
         "Spearow": 14,
         "Helioptile": 9,
         "Hoothoot": 12,
-        "Grookey": 16,
+        "Grookey": 17,
         "Meditite": 8,
         "Toedscruel": 14,
         "Probopass": 2,
@@ -213,7 +213,7 @@
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 42,
+        "Tynamo": 43,
         "Orthworm": 44,
         "Marill": 12,
         "Joltik": 21,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 8,
         "Drifloon": 8,
-        "Golbat": 13,
+        "Golbat": 14,
         "Swablu": 11,
         "Shellder": 12,
         "Crobat": 8,
@@ -683,7 +683,7 @@
         "Poliwrath": 3,
         "Blaziken": 2,
         "Stantler": 8,
-        "Butterfree": 1,
+        "Butterfree": 2,
         "Koffing": 7,
         "Floragato": 7,
         "Seel": 8,
@@ -910,7 +910,7 @@
         "Aggron": 2,
         "Clawitzer": 1,
         "Leafeon": 1,
-        "Ludicolo": 2,
+        "Ludicolo": 3,
         "Eldegoss": 4,
         "Dracozolt": 2,
         "Galarian rapidash": 1,
@@ -962,8 +962,8 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 8886,
-      "last_spawn": "2026-06-23T18:52:33.200985"
+      "total_spawns": 8891,
+      "last_spawn": "2026-06-23T18:53:07.105261"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1018,7 @@
     }
   },
   "global": {
-    "total_spawns": 13222,
+    "total_spawns": 13227,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
