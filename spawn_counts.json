@@ -92,14 +92,14 @@
         "Riolu": 4,
         "Exeggcute": 7,
         "Corphish": 4,
-        "Hoppip": 25,
+        "Hoppip": 26,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 28,
         "Pumpkaboo": 8,
         "Numel": 15,
         "Carracosta": 1,
-        "Smearguru": 21,
+        "Smearguru": 22,
         "Veluza": 38,
         "Barboach": 8,
         "Klink": 18,
@@ -119,7 +119,7 @@
         "Unfezant": 2,
         "Yamask": 4,
         "Ralts": 23,
-        "Solosis": 23,
+        "Solosis": 24,
         "Battle cyclizar": 13,
         "Togetic": 8,
         "Palpitoad": 3,
@@ -135,7 +135,7 @@
         "Noibat": 9,
         "Toxicroak": 4,
         "Charcadet": 33,
-        "Croconaw": 10,
+        "Croconaw": 11,
         "Phanpy": 2,
         "Brambleghast": 6,
         "Pidgey": 40,
@@ -345,7 +345,7 @@
         "Capsakid": 21,
         "Revavroom": 10,
         "Exploud": 3,
-        "Deino": 13,
+        "Deino": 14,
         "Wooper": 14,
         "Dwebble": 8,
         "Steenee": 9,
@@ -684,7 +684,7 @@
         "Blaziken": 2,
         "Stantler": 3,
         "Butterfree": 1,
-        "Koffing": 4,
+        "Koffing": 5,
         "Floragato": 2,
         "Seel": 3,
         "Shiinotic": 1,
@@ -908,8 +908,8 @@
         "Primarina": 1,
         "Unown x": 1
       },
-      "total_spawns": 6081,
-      "last_spawn": "2026-06-23T12:14:47.151739"
+      "total_spawns": 6087,
+      "last_spawn": "2026-06-23T12:15:27.131627"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -927,7 +927,7 @@
     }
   },
   "global": {
-    "total_spawns": 10369,
+    "total_spawns": 10375,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
