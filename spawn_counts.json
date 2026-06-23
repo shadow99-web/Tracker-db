@@ -47,7 +47,7 @@
         "Surskit": 19,
         "Seedot": 29,
         "Skitty": 10,
-        "Greavard": 42,
+        "Greavard": 43,
         "Slugma": 10,
         "Grotle": 9,
         "Porygon": 39,
@@ -55,7 +55,7 @@
         "Vanillish": 10,
         "Tadbulb": 37,
         "Magnemite": 49,
-        "Whismur": 34,
+        "Whismur": 35,
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 43,
@@ -97,7 +97,7 @@
         "Kabuto": 13,
         "Scatterbug": 39,
         "Pumpkaboo": 11,
-        "Numel": 19,
+        "Numel": 20,
         "Carracosta": 3,
         "Smearguru": 30,
         "Veluza": 51,
@@ -200,7 +200,7 @@
         "Toedscruel": 13,
         "Probopass": 2,
         "Scraggy": 16,
-        "Rhydon": 10,
+        "Rhydon": 11,
         "Silcoon": 8,
         "Totodile": 11,
         "Dodrio": 3,
@@ -693,7 +693,7 @@
         "Marshadow": 1,
         "Sliggoo": 5,
         "Panpour": 9,
-        "Tinkatuff": 6,
+        "Tinkatuff": 7,
         "Bruxish": 3,
         "Corvisquire": 4,
         "Mantine": 5,
@@ -707,7 +707,7 @@
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
-        "Combusken": 13,
+        "Combusken": 14,
         "Gourgeist": 5,
         "Durant": 2,
         "Grovyle": 9,
@@ -954,8 +954,8 @@
         "Pichu": 1,
         "Carnivine": 1
       },
-      "total_spawns": 8587,
-      "last_spawn": "2026-06-23T17:45:48.328919"
+      "total_spawns": 8593,
+      "last_spawn": "2026-06-23T17:46:27.155638"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1007,7 +1007,7 @@
     }
   },
   "global": {
-    "total_spawns": 12917,
+    "total_spawns": 12923,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
