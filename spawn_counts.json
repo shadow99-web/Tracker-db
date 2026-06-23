@@ -29,7 +29,7 @@
         "Charmander": 13,
         "Morelull": 4,
         "Abra": 39,
-        "Sandile": 32,
+        "Sandile": 33,
         "Sandygast": 13,
         "Litwick": 60,
         "Grubbin": 29,
@@ -48,7 +48,7 @@
         "Seedot": 24,
         "Skitty": 9,
         "Greavard": 35,
-        "Slugma": 7,
+        "Slugma": 8,
         "Grotle": 8,
         "Porygon": 33,
         "Zubat": 49,
@@ -59,7 +59,7 @@
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 34,
-        "Yanma": 6,
+        "Yanma": 7,
         "Larvesta": 16,
         "Beldum": 28,
         "Ducklett": 5,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 13,
         "Bonsly": 2,
-        "Horsea": 32,
+        "Horsea": 33,
         "Frigibax": 27,
         "Spheal": 46,
         "Swadloon": 7,
@@ -134,7 +134,7 @@
         "Bounsweet": 24,
         "Noibat": 13,
         "Toxicroak": 4,
-        "Charcadet": 38,
+        "Charcadet": 39,
         "Croconaw": 11,
         "Phanpy": 4,
         "Brambleghast": 10,
@@ -341,7 +341,7 @@
         "Torchic": 14,
         "Sobble": 17,
         "Mudkip": 10,
-        "Charjabug": 9,
+        "Charjabug": 10,
         "Capsakid": 24,
         "Revavroom": 10,
         "Exploud": 3,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7439,
-      "last_spawn": "2026-06-23T15:19:47.198555"
+      "total_spawns": 7445,
+      "last_spawn": "2026-06-23T15:20:27.173313"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11728,
+    "total_spawns": 11734,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
