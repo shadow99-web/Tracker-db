@@ -13,7 +13,7 @@
         "Sandy burmy": 9,
         "Wiglett": 43,
         "Bombirdier": 30,
-        "Litleo": 10,
+        "Litleo": 11,
         "Purrloin": 6,
         "Tranquill": 9,
         "Psyduck": 5,
@@ -45,7 +45,7 @@
         "Timburr": 34,
         "Dj rotom": 30,
         "Surskit": 18,
-        "Seedot": 26,
+        "Seedot": 27,
         "Skitty": 9,
         "Greavard": 36,
         "Slugma": 9,
@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 37,
         "Baltoy": 14,
-        "Mareep": 36,
+        "Mareep": 37,
         "Garbodor": 2,
         "Slakoth": 40,
         "Togepi": 25,
@@ -154,7 +154,7 @@
         "Dragapult": 5,
         "Rattata": 17,
         "Flapple": 4,
-        "Aron": 28,
+        "Aron": 29,
         "Boldore": 8,
         "Spinarak": 16,
         "Delcatty": 4,
@@ -941,10 +941,11 @@
         "Hitmontop": 1,
         "Munchlax": 1,
         "Galarian ponyta": 1,
-        "Hisuian goodra": 1
+        "Hisuian goodra": 1,
+        "Giratina": 1
       },
-      "total_spawns": 7849,
-      "last_spawn": "2026-06-23T16:21:47.324620"
+      "total_spawns": 7854,
+      "last_spawn": "2026-06-23T16:22:18.442859"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -970,7 +971,7 @@
     }
   },
   "global": {
-    "total_spawns": 12145,
+    "total_spawns": 12150,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
