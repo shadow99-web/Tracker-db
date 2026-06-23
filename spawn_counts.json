@@ -168,7 +168,7 @@
         "Klawf": 26,
         "Vanillite": 26,
         "Flareon": 3,
-        "Gastly": 24,
+        "Gastly": 25,
         "Taillow": 9,
         "Swinub": 24,
         "Inkay": 12,
@@ -331,7 +331,7 @@
         "Nymble": 32,
         "Ferrothorn": 1,
         "Servine": 6,
-        "Blitzle": 5,
+        "Blitzle": 6,
         "Musharna": 2,
         "Bisharp": 1,
         "Chespin": 5,
@@ -345,7 +345,7 @@
         "Capsakid": 21,
         "Revavroom": 10,
         "Exploud": 3,
-        "Deino": 12,
+        "Deino": 13,
         "Wooper": 13,
         "Dwebble": 8,
         "Steenee": 9,
@@ -563,7 +563,7 @@
         "Braviary": 3,
         "Raboot": 9,
         "Golem": 2,
-        "Slowking": 3,
+        "Slowking": 4,
         "Lilligant": 4,
         "Rabsca": 5,
         "Gulpin": 9,
@@ -787,7 +787,7 @@
         "Shieldon": 3,
         "Masquerain": 1,
         "Watchog": 2,
-        "Ditto": 1,
+        "Ditto": 2,
         "Dada zarude": 1,
         "Happiny": 1,
         "Matron trim furfrou": 1,
@@ -903,10 +903,11 @@
         "Orange flower florges": 1,
         "Cursola": 1,
         "Snorlax": 1,
-        "Mienshao": 1
+        "Mienshao": 1,
+        "Glaceon": 1
       },
-      "total_spawns": 6009,
-      "last_spawn": "2026-06-23T12:06:47.082451"
+      "total_spawns": 6015,
+      "last_spawn": "2026-06-23T12:07:28.217928"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -924,7 +925,7 @@
     }
   },
   "global": {
-    "total_spawns": 10297,
+    "total_spawns": 10303,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
