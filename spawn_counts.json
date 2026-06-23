@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 36,
-        "Orthworm": 37,
+        "Orthworm": 38,
         "Marill": 12,
         "Joltik": 20,
         "Politoed": 3,
@@ -283,7 +283,7 @@
         "Cryogonal": 2,
         "Eternatus": 1,
         "Gholdengo": 10,
-        "Charmeleon": 4,
+        "Charmeleon": 5,
         "Dipplin": 1,
         "Cramorant": 3,
         "Chef dente": 21,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 8,
-        "Venipede": 44,
+        "Venipede": 45,
         "Cacturne": 4,
         "Oddish": 40,
         "Dragalge": 4,
@@ -477,7 +477,7 @@
         "Shelmet": 9,
         "Solrock": 2,
         "Slowpoke": 13,
-        "Dolliv": 8,
+        "Dolliv": 9,
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 8,
@@ -787,7 +787,7 @@
         "Shieldon": 3,
         "Masquerain": 2,
         "Watchog": 2,
-        "Ditto": 4,
+        "Ditto": 5,
         "Dada zarude": 1,
         "Happiny": 2,
         "Matron trim furfrou": 1,
@@ -946,8 +946,8 @@
         "Iron treads": 1,
         "Meowstic": 1
       },
-      "total_spawns": 8126,
-      "last_spawn": "2026-06-23T16:52:51.814723"
+      "total_spawns": 8131,
+      "last_spawn": "2026-06-23T16:53:27.175409"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12454,
+    "total_spawns": 12459,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
