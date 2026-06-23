@@ -118,7 +118,7 @@
         "Flittle": 38,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 32,
+        "Ralts": 33,
         "Solosis": 38,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 40,
+        "Shroodle": 41,
         "Duskull": 44,
         "Bergmite": 9,
         "Pignite": 14,
@@ -383,7 +383,7 @@
         "Wooloo": 7,
         "Drifloon": 7,
         "Golbat": 12,
-        "Swablu": 10,
+        "Swablu": 11,
         "Shellder": 12,
         "Crobat": 6,
         "Sandshrew": 8,
@@ -582,7 +582,7 @@
         "Scyther": 7,
         "Anorith": 9,
         "Meowth": 4,
-        "Combee": 3,
+        "Combee": 4,
         "Fletchinder": 12,
         "Kingambit": 2,
         "Clodsire": 10,
@@ -802,7 +802,7 @@
         "Unown i": 1,
         "Raichu": 1,
         "Mime jr.": 1,
-        "Voltorb": 2,
+        "Voltorb": 3,
         "Lickitung": 2,
         "Blue-striped basculin": 3,
         "Barraskewda": 2,
@@ -946,8 +946,8 @@
         "Iron treads": 1,
         "Meowstic": 1
       },
-      "total_spawns": 8121,
-      "last_spawn": "2026-06-23T16:52:17.407036"
+      "total_spawns": 8126,
+      "last_spawn": "2026-06-23T16:52:51.814723"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12449,
+    "total_spawns": 12454,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
