@@ -68,7 +68,7 @@
         "Starly": 45,
         "Tandemaus": 35,
         "Smoliv": 52,
-        "Gloom": 10,
+        "Gloom": 11,
         "Clefairy": 7,
         "Spinda": 2,
         "Fomantis": 6,
@@ -154,7 +154,7 @@
         "Dragapult": 5,
         "Rattata": 22,
         "Flapple": 5,
-        "Aron": 34,
+        "Aron": 35,
         "Boldore": 9,
         "Spinarak": 17,
         "Delcatty": 4,
@@ -218,7 +218,7 @@
         "Marill": 12,
         "Joltik": 20,
         "Politoed": 3,
-        "Cyndaquil": 18,
+        "Cyndaquil": 19,
         "Fuecoco": 11,
         "Cyclizar": 18,
         "Magmar": 13,
@@ -315,7 +315,7 @@
         "Nacli": 25,
         "Munna": 7,
         "Pawniard": 10,
-        "Prof tangrowth": 17,
+        "Prof tangrowth": 18,
         "Jangmo-o": 17,
         "Trash wormadam": 3,
         "Quaxly": 10,
@@ -708,7 +708,7 @@
         "Lucario": 1,
         "Crustle": 3,
         "Combusken": 14,
-        "Gourgeist": 5,
+        "Gourgeist": 6,
         "Durant": 2,
         "Grovyle": 9,
         "Snowy castform": 1,
@@ -954,8 +954,8 @@
         "Pichu": 1,
         "Carnivine": 1
       },
-      "total_spawns": 8625,
-      "last_spawn": "2026-06-23T17:49:59.149270"
+      "total_spawns": 8630,
+      "last_spawn": "2026-06-23T17:50:31.741681"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1007,7 +1007,7 @@
     }
   },
   "global": {
-    "total_spawns": 12955,
+    "total_spawns": 12960,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
