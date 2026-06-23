@@ -51,11 +51,11 @@
         "Slugma": 9,
         "Grotle": 9,
         "Porygon": 36,
-        "Zubat": 52,
+        "Zubat": 53,
         "Vanillish": 10,
         "Tadbulb": 34,
-        "Magnemite": 47,
-        "Whismur": 31,
+        "Magnemite": 48,
+        "Whismur": 32,
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 37,
@@ -142,7 +142,7 @@
         "Rhyhorn": 35,
         "Sentret": 10,
         "Yungoos": 3,
-        "Diglett": 15,
+        "Diglett": 16,
         "Doduo": 9,
         "Lairon": 10,
         "Emboar": 4,
@@ -184,7 +184,7 @@
         "Cottonee": 4,
         "Elgyem": 9,
         "Luvdisc": 3,
-        "Vigoroth": 13,
+        "Vigoroth": 14,
         "Skorupi": 8,
         "Pikachu": 9,
         "Blue plumage squawkabilly": 6,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 7,
         "Growlithe": 10,
-        "Sewaddle": 33,
+        "Sewaddle": 34,
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
@@ -260,7 +260,7 @@
         "Cubone": 11,
         "Gligar": 16,
         "Tirtouga": 12,
-        "Furret": 1,
+        "Furret": 2,
         "Nincada": 16,
         "Fennekin": 19,
         "Quaxwell": 5,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7978,
-      "last_spawn": "2026-06-23T16:36:18.121343"
+      "total_spawns": 7985,
+      "last_spawn": "2026-06-23T16:37:07.077334"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -977,10 +977,11 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 1,
         "Hisuian voltorb": 1,
-        "Dreepy": 1
+        "Dreepy": 2,
+        "Bagon": 1
       },
-      "total_spawns": 34,
-      "last_spawn": "2026-06-23T16:36:27.966834"
+      "total_spawns": 36,
+      "last_spawn": "2026-06-23T16:36:37.677136"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -990,7 +991,7 @@
     }
   },
   "global": {
-    "total_spawns": 12299,
+    "total_spawns": 12308,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
