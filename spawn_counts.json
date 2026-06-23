@@ -16,7 +16,7 @@
         "Litleo": 10,
         "Purrloin": 6,
         "Tranquill": 9,
-        "Psyduck": 4,
+        "Psyduck": 5,
         "Rockruff": 7,
         "Haunter": 7,
         "Tangela": 11,
@@ -48,7 +48,7 @@
         "Seedot": 25,
         "Skitty": 9,
         "Greavard": 35,
-        "Slugma": 8,
+        "Slugma": 9,
         "Grotle": 9,
         "Porygon": 35,
         "Zubat": 51,
@@ -118,7 +118,7 @@
         "Flittle": 37,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 29,
+        "Ralts": 30,
         "Solosis": 34,
         "Battle cyclizar": 15,
         "Togetic": 8,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 1,
         "Toxapex": 2,
         "Lileep": 8,
-        "Rolycoly": 27,
+        "Rolycoly": 28,
         "Bronzor": 15,
         "Dartrix": 7,
         "Yellow flower florges": 3,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 13,
         "Gothorita": 7,
         "Varoom": 28,
-        "Yellow plumage squawkabilly": 9,
+        "Yellow plumage squawkabilly": 10,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
         "Grapploct": 2,
@@ -506,7 +506,7 @@
         "Farigiraf": 10,
         "Hakamo-o": 4,
         "Glameow": 10,
-        "Croagunk": 7,
+        "Croagunk": 8,
         "Duraludon": 5,
         "Sawk": 2,
         "Starmie": 2,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7713,
-      "last_spawn": "2026-06-23T16:06:34.793620"
+      "total_spawns": 7719,
+      "last_spawn": "2026-06-23T16:07:07.298068"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -968,7 +968,7 @@
     }
   },
   "global": {
-    "total_spawns": 12008,
+    "total_spawns": 12014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
