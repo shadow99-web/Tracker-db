@@ -112,7 +112,7 @@
         "Sneasel": 15,
         "Bonsly": 2,
         "Horsea": 35,
-        "Frigibax": 33,
+        "Frigibax": 34,
         "Spheal": 57,
         "Swadloon": 8,
         "Flittle": 40,
@@ -250,7 +250,7 @@
         "Turtwig": 7,
         "Prinplup": 8,
         "Tinkatink": 44,
-        "Lechonk": 39,
+        "Lechonk": 40,
         "Kommo-o": 1,
         "Dewott": 12,
         "Arrokuda": 8,
@@ -587,7 +587,7 @@
         "Kingambit": 2,
         "Clodsire": 10,
         "Blaze breed tauros": 1,
-        "Wimpod": 7,
+        "Wimpod": 8,
         "Torterra": 2,
         "Darmanitan": 2,
         "Rainy castform": 1,
@@ -803,7 +803,7 @@
         "Raichu": 2,
         "Mime jr.": 2,
         "Voltorb": 3,
-        "Lickitung": 4,
+        "Lickitung": 5,
         "Blue-striped basculin": 3,
         "Barraskewda": 2,
         "Salazzle": 4,
@@ -919,7 +919,7 @@
         "Bellossom": 3,
         "Pirouette meloetta": 1,
         "Sableye": 1,
-        "Wynaut": 2,
+        "Wynaut": 3,
         "Hattrem": 3,
         "Clefable": 1,
         "Serperior": 2,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8804,
-      "last_spawn": "2026-06-23T18:42:57.247844"
+      "total_spawns": 8809,
+      "last_spawn": "2026-06-23T18:43:31.777742"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13139,
+    "total_spawns": 13144,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
