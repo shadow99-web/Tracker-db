@@ -67,7 +67,7 @@
         "Glimmora": 14,
         "Starly": 43,
         "Tandemaus": 33,
-        "Smoliv": 49,
+        "Smoliv": 50,
         "Gloom": 9,
         "Clefairy": 7,
         "Spinda": 2,
@@ -118,7 +118,7 @@
         "Flittle": 38,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 31,
+        "Ralts": 32,
         "Solosis": 37,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -459,7 +459,7 @@
         "Cherubi": 5,
         "Cradily": 3,
         "Vulpix": 11,
-        "Paras": 10,
+        "Paras": 11,
         "Herdier": 11,
         "Pineco": 9,
         "Chikorita": 7,
@@ -488,7 +488,7 @@
         "Chatot": 3,
         "Houndoom": 5,
         "Dottler": 10,
-        "Eevee": 7,
+        "Eevee": 8,
         "Copperajah": 3,
         "Magneton": 8,
         "Alakazam": 2,
@@ -541,7 +541,7 @@
         "Vanilluxe": 2,
         "Jolteon": 2,
         "Pawmot": 5,
-        "Skiddo": 7,
+        "Skiddo": 8,
         "Slowbro": 5,
         "Oricorio": 3,
         "Kangaskhan": 2,
@@ -770,7 +770,7 @@
         "Drifblim": 2,
         "Meowscarada": 2,
         "Roserade": 2,
-        "Nidorina": 5,
+        "Nidorina": 6,
         "Archaludon": 1,
         "Golduck": 2,
         "Scolipede": 2,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 8011,
-      "last_spawn": "2026-06-23T16:40:07.304043"
+      "total_spawns": 8017,
+      "last_spawn": "2026-06-23T16:40:47.209142"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -994,7 +994,7 @@
     }
   },
   "global": {
-    "total_spawns": 12337,
+    "total_spawns": 12343,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
