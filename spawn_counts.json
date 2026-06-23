@@ -70,7 +70,7 @@
         "Smoliv": 37,
         "Gloom": 9,
         "Clefairy": 4,
-        "Spinda": 1,
+        "Spinda": 2,
         "Fomantis": 5,
         "Droopy tatsugiri": 18,
         "Froslass": 3,
@@ -250,7 +250,7 @@
         "Turtwig": 6,
         "Prinplup": 5,
         "Tinkatink": 30,
-        "Lechonk": 23,
+        "Lechonk": 24,
         "Kommo-o": 1,
         "Dewott": 9,
         "Arrokuda": 5,
@@ -531,7 +531,7 @@
         "Floatzel": 1,
         "Accelgor": 1,
         "Wormadam": 3,
-        "Axew": 18,
+        "Axew": 19,
         "Trevenant": 3,
         "Trubbish": 2,
         "Zorua": 7,
@@ -898,10 +898,11 @@
         "Floette": 1,
         "Shedinja": 1,
         "Baxcalibur": 1,
-        "Galarian articuno": 1
+        "Galarian articuno": 1,
+        "Audino": 1
       },
-      "total_spawns": 5910,
-      "last_spawn": "2026-06-23T11:55:11.676394"
+      "total_spawns": 5914,
+      "last_spawn": "2026-06-23T11:55:49.056251"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -919,7 +920,7 @@
     }
   },
   "global": {
-    "total_spawns": 10198,
+    "total_spawns": 10202,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
