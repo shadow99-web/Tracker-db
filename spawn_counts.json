@@ -64,7 +64,7 @@
         "Beldum": 28,
         "Ducklett": 5,
         "Lokix": 10,
-        "Glimmora": 13,
+        "Glimmora": 14,
         "Starly": 42,
         "Tandemaus": 33,
         "Smoliv": 49,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 10,
         "Numel": 17,
         "Carracosta": 2,
-        "Smearguru": 27,
+        "Smearguru": 28,
         "Veluza": 47,
         "Barboach": 12,
         "Klink": 27,
@@ -317,7 +317,7 @@
         "Pawniard": 9,
         "Prof tangrowth": 15,
         "Jangmo-o": 15,
-        "Trash wormadam": 2,
+        "Trash wormadam": 3,
         "Quaxly": 10,
         "Gossifleur": 10,
         "Oshawott": 10,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 12,
-        "Nymble": 39,
+        "Nymble": 40,
         "Ferrothorn": 1,
         "Servine": 7,
         "Blitzle": 9,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 11,
         "Quilava": 16,
-        "Finizen": 38,
+        "Finizen": 39,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 25,
@@ -595,7 +595,7 @@
         "Mienfoo": 11,
         "Dewgong": 3,
         "Wartortle": 9,
-        "Cetoddle": 22,
+        "Cetoddle": 23,
         "Kricketot": 9,
         "Porygon-z": 2,
         "Conkeldurr": 2,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7783,
-      "last_spawn": "2026-06-23T16:14:27.389227"
+      "total_spawns": 7789,
+      "last_spawn": "2026-06-23T16:15:07.360109"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -969,7 +969,7 @@
     }
   },
   "global": {
-    "total_spawns": 12078,
+    "total_spawns": 12084,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
