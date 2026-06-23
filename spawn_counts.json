@@ -8,7 +8,7 @@
         "Mosslax": 22,
         "Drilbur": 7,
         "Pawmi": 39,
-        "Electabuzz": 6,
+        "Electabuzz": 7,
         "Rellor": 29,
         "Sandy burmy": 8,
         "Wiglett": 39,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 15,
         "Togetic": 8,
         "Palpitoad": 4,
-        "Pikipek": 47,
+        "Pikipek": 48,
         "Teddiursa": 34,
         "Clamperl": 11,
         "Zigzagoon": 14,
@@ -168,7 +168,7 @@
         "Klawf": 35,
         "Vanillite": 27,
         "Flareon": 3,
-        "Gastly": 30,
+        "Gastly": 31,
         "Taillow": 11,
         "Swinub": 33,
         "Inkay": 14,
@@ -549,7 +549,7 @@
         "Dragonair": 3,
         "Zweilous": 6,
         "Karrablast": 6,
-        "Shroomish": 12,
+        "Shroomish": 13,
         "Snover": 8,
         "Drednaw": 2,
         "Skarmory": 4,
@@ -631,7 +631,7 @@
         "Krabby": 7,
         "Bronzong": 5,
         "Lanturn": 3,
-        "Cacnea": 3,
+        "Cacnea": 4,
         "Pom-pom oricorio": 3,
         "Hawlucha": 3,
         "Ursaring": 5,
@@ -796,7 +796,7 @@
         "Galarian yamask": 1,
         "Alolan golem": 1,
         "Dustox": 1,
-        "Gliscor": 1,
+        "Gliscor": 2,
         "Mesprit": 1,
         "Vaporeon": 3,
         "Unown i": 1,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7541,
-      "last_spawn": "2026-06-23T15:31:47.502239"
+      "total_spawns": 7547,
+      "last_spawn": "2026-06-23T15:32:27.606832"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -961,7 +961,7 @@
     }
   },
   "global": {
-    "total_spawns": 11830,
+    "total_spawns": 11836,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
