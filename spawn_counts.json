@@ -79,7 +79,7 @@
         "Phantump": 15,
         "Duosion": 9,
         "Amaura": 9,
-        "Gimmighoul": 35,
+        "Gimmighoul": 36,
         "Baltoy": 14,
         "Mareep": 36,
         "Garbodor": 2,
@@ -306,7 +306,7 @@
         "Lileep": 8,
         "Rolycoly": 28,
         "Bronzor": 15,
-        "Dartrix": 7,
+        "Dartrix": 8,
         "Yellow flower florges": 3,
         "Zangoose": 6,
         "Flygon": 2,
@@ -509,7 +509,7 @@
         "Croagunk": 8,
         "Duraludon": 5,
         "Sawk": 2,
-        "Starmie": 2,
+        "Starmie": 3,
         "Simipour": 1,
         "Goldeen": 9,
         "Nickit": 11,
@@ -610,7 +610,7 @@
         "Houndstone": 1,
         "Sandy wormadam": 2,
         "Stunky": 6,
-        "Pupitar": 5,
+        "Pupitar": 6,
         "Avalugg": 3,
         "Magby": 4,
         "Wigglytuff": 2,
@@ -686,7 +686,7 @@
         "Butterfree": 1,
         "Koffing": 6,
         "Floragato": 6,
-        "Seel": 7,
+        "Seel": 8,
         "Shiinotic": 3,
         "Gumshoos": 2,
         "Pyroar": 4,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7742,
-      "last_spawn": "2026-06-23T16:09:37.425169"
+      "total_spawns": 7747,
+      "last_spawn": "2026-06-23T16:10:11.968648"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -969,7 +969,7 @@
     }
   },
   "global": {
-    "total_spawns": 12037,
+    "total_spawns": 12042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
