@@ -112,7 +112,7 @@
         "Sneasel": 13,
         "Bonsly": 2,
         "Horsea": 30,
-        "Frigibax": 25,
+        "Frigibax": 26,
         "Spheal": 44,
         "Swadloon": 7,
         "Flittle": 31,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 36,
-        "Duskull": 37,
+        "Duskull": 38,
         "Bergmite": 8,
         "Pignite": 10,
         "Lurantis": 1,
@@ -298,7 +298,7 @@
         "Pancham": 6,
         "Venipede": 39,
         "Cacturne": 4,
-        "Oddish": 36,
+        "Oddish": 37,
         "Dragalge": 3,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -673,7 +673,7 @@
         "Grimer": 4,
         "Crabominable": 2,
         "Quaquaval": 1,
-        "Sprigatito": 8,
+        "Sprigatito": 9,
         "Metagross": 3,
         "Eelektrik": 6,
         "Gastrodon": 4,
@@ -935,8 +935,8 @@
         "Honchkrow": 1,
         "Pyukumuku": 1
       },
-      "total_spawns": 7211,
-      "last_spawn": "2026-06-23T14:53:57.228698"
+      "total_spawns": 7215,
+      "last_spawn": "2026-06-23T14:54:27.361452"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -955,7 +955,7 @@
     }
   },
   "global": {
-    "total_spawns": 11500,
+    "total_spawns": 11504,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
