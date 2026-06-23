@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 11,
         "Quilava": 14,
-        "Finizen": 30,
+        "Finizen": 31,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 23,
@@ -461,7 +461,7 @@
         "Vulpix": 10,
         "Paras": 9,
         "Herdier": 8,
-        "Pineco": 7,
+        "Pineco": 8,
         "Chikorita": 7,
         "Woobat": 9,
         "Wobbuffet": 1,
@@ -548,7 +548,7 @@
         "Krokorok": 10,
         "Dragonair": 3,
         "Zweilous": 6,
-        "Karrablast": 5,
+        "Karrablast": 6,
         "Shroomish": 11,
         "Snover": 7,
         "Drednaw": 2,
@@ -645,7 +645,7 @@
         "Trumbeak": 6,
         "Aerodactyl": 4,
         "Igglybuff": 5,
-        "Archeops": 2,
+        "Archeops": 3,
         "Shiftry": 1,
         "Arbok": 1,
         "Stretchy tatsugiri": 11,
@@ -930,10 +930,11 @@
         "Delphox": 1,
         "Rampardos": 1,
         "Steelix": 1,
-        "Excadrill": 1
+        "Excadrill": 1,
+        "Druddigon": 1
       },
-      "total_spawns": 7096,
-      "last_spawn": "2026-06-23T14:41:07.119648"
+      "total_spawns": 7101,
+      "last_spawn": "2026-06-23T14:41:37.666455"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11385,
+    "total_spawns": 11390,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
