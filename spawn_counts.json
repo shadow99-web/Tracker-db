@@ -53,7 +53,7 @@
         "Porygon": 40,
         "Zubat": 55,
         "Vanillish": 10,
-        "Tadbulb": 41,
+        "Tadbulb": 42,
         "Magnemite": 50,
         "Whismur": 35,
         "Monferno": 15,
@@ -123,12 +123,12 @@
         "Battle cyclizar": 15,
         "Togetic": 9,
         "Palpitoad": 4,
-        "Pikipek": 52,
+        "Pikipek": 53,
         "Teddiursa": 36,
         "Clamperl": 13,
         "Zigzagoon": 16,
         "Weedle": 57,
-        "Flamigo": 39,
+        "Flamigo": 40,
         "Lillipup": 43,
         "Shinx": 45,
         "Bounsweet": 30,
@@ -154,7 +154,7 @@
         "Dragapult": 5,
         "Rattata": 22,
         "Flapple": 5,
-        "Aron": 35,
+        "Aron": 36,
         "Boldore": 9,
         "Spinarak": 18,
         "Delcatty": 4,
@@ -246,7 +246,7 @@
         "Pignite": 14,
         "Lurantis": 1,
         "Swampert": 3,
-        "Dachsbun": 13,
+        "Dachsbun": 14,
         "Turtwig": 7,
         "Prinplup": 8,
         "Tinkatink": 44,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 12,
         "Dhelmise": 2,
-        "Bagon": 15,
+        "Bagon": 16,
         "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 13,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8773,
-      "last_spawn": "2026-06-23T18:39:27.149217"
+      "total_spawns": 8779,
+      "last_spawn": "2026-06-23T18:40:07.059514"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13108,
+    "total_spawns": 13114,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
