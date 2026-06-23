@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 27,
         "Baltoy": 12,
-        "Mareep": 29,
+        "Mareep": 30,
         "Garbodor": 1,
         "Slakoth": 31,
         "Togepi": 15,
@@ -190,7 +190,7 @@
         "Blue plumage squawkabilly": 6,
         "Thwackey": 9,
         "Dusk lycanroc": 3,
-        "Sunny castform": 3,
+        "Sunny castform": 4,
         "Pidgeotto": 10,
         "Spearow": 10,
         "Helioptile": 6,
@@ -308,10 +308,10 @@
         "Bronzor": 15,
         "Dartrix": 6,
         "Yellow flower florges": 3,
-        "Zangoose": 4,
+        "Zangoose": 5,
         "Flygon": 2,
         "Shellos": 3,
-        "Jigglypuff": 10,
+        "Jigglypuff": 11,
         "Nacli": 20,
         "Munna": 5,
         "Pawniard": 6,
@@ -407,7 +407,7 @@
         "Maschiff": 18,
         "Rufflet": 12,
         "Kabutops": 2,
-        "Dondozo": 19,
+        "Dondozo": 20,
         "Pansear": 9,
         "Cutiefly": 7,
         "Peakychu": 16,
@@ -909,10 +909,11 @@
         "Unown x": 1,
         "Aggron": 1,
         "Clawitzer": 1,
-        "Leafeon": 1
+        "Leafeon": 1,
+        "Ludicolo": 1
       },
-      "total_spawns": 6174,
-      "last_spawn": "2026-06-23T12:25:07.364354"
+      "total_spawns": 6180,
+      "last_spawn": "2026-06-23T12:25:47.130604"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -930,7 +931,7 @@
     }
   },
   "global": {
-    "total_spawns": 10462,
+    "total_spawns": 10468,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
