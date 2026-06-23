@@ -141,7 +141,7 @@
         "Pidgey": 49,
         "Rhyhorn": 37,
         "Sentret": 12,
-        "Yungoos": 4,
+        "Yungoos": 5,
         "Diglett": 16,
         "Doduo": 9,
         "Lairon": 11,
@@ -177,7 +177,7 @@
         "Minccino": 14,
         "Wurmple": 32,
         "Binacle": 11,
-        "Grafaiai": 8,
+        "Grafaiai": 9,
         "Quilladin": 6,
         "Geodude": 41,
         "Espurr": 9,
@@ -200,7 +200,7 @@
         "Toedscruel": 11,
         "Probopass": 2,
         "Scraggy": 15,
-        "Rhydon": 9,
+        "Rhydon": 10,
         "Silcoon": 8,
         "Totodile": 11,
         "Dodrio": 3,
@@ -550,7 +550,7 @@
         "Zweilous": 6,
         "Karrablast": 6,
         "Shroomish": 13,
-        "Snover": 9,
+        "Snover": 10,
         "Drednaw": 2,
         "Skarmory": 4,
         "Midnight lycanroc": 4,
@@ -695,7 +695,7 @@
         "Panpour": 9,
         "Tinkatuff": 5,
         "Bruxish": 3,
-        "Corvisquire": 3,
+        "Corvisquire": 4,
         "Mantine": 4,
         "Electrode": 3,
         "Celebi": 1,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8340,
-      "last_spawn": "2026-06-23T17:17:17.548694"
+      "total_spawns": 8345,
+      "last_spawn": "2026-06-23T17:17:51.958335"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12668,
+    "total_spawns": 12673,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
