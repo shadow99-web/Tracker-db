@@ -129,7 +129,7 @@
         "Zigzagoon": 14,
         "Weedle": 44,
         "Flamigo": 29,
-        "Lillipup": 31,
+        "Lillipup": 32,
         "Shinx": 35,
         "Bounsweet": 22,
         "Noibat": 10,
@@ -142,7 +142,7 @@
         "Rhyhorn": 28,
         "Sentret": 6,
         "Yungoos": 3,
-        "Diglett": 11,
+        "Diglett": 12,
         "Doduo": 8,
         "Lairon": 9,
         "Emboar": 4,
@@ -221,7 +221,7 @@
         "Cyndaquil": 14,
         "Fuecoco": 9,
         "Cyclizar": 13,
-        "Magmar": 12,
+        "Magmar": 13,
         "Rillaboom": 3,
         "Ninetales": 2,
         "Wattrel": 36,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 5,
-        "Tinkatink": 37,
+        "Tinkatink": 38,
         "Lechonk": 29,
         "Kommo-o": 1,
         "Dewott": 9,
@@ -271,7 +271,7 @@
         "Glimmet": 35,
         "Goomy": 18,
         "Zapdos": 1,
-        "Natu": 7,
+        "Natu": 8,
         "Dhelmise": 1,
         "Bagon": 12,
         "Sudowoodo": 3,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 2,
         "Magearna": 1,
         "Mabosstiff": 5,
-        "Squirtle": 12,
+        "Squirtle": 13,
         "Remoraid": 5,
         "Torracat": 10,
         "Hisuian zorua": 1,
@@ -925,8 +925,8 @@
         "Serperior": 1,
         "Lycanroc": 1
       },
-      "total_spawns": 6710,
-      "last_spawn": "2026-06-23T13:57:47.274076"
+      "total_spawns": 6716,
+      "last_spawn": "2026-06-23T13:58:27.126124"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -945,7 +945,7 @@
     }
   },
   "global": {
-    "total_spawns": 10999,
+    "total_spawns": 11005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
