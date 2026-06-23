@@ -14,7 +14,7 @@
         "Wiglett": 41,
         "Bombirdier": 29,
         "Litleo": 10,
-        "Purrloin": 5,
+        "Purrloin": 6,
         "Tranquill": 9,
         "Psyduck": 4,
         "Rockruff": 7,
@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 23,
         "Kilowattrel": 8,
-        "Lotad": 49,
+        "Lotad": 50,
         "Qwilfish": 5,
         "Trapinch": 41,
         "Toedscool": 33,
@@ -130,7 +130,7 @@
         "Weedle": 50,
         "Flamigo": 33,
         "Lillipup": 36,
-        "Shinx": 40,
+        "Shinx": 41,
         "Bounsweet": 24,
         "Noibat": 13,
         "Toxicroak": 4,
@@ -229,7 +229,7 @@
         "Spidops": 8,
         "Braixen": 12,
         "Drowzee": 13,
-        "Blipbug": 33,
+        "Blipbug": 34,
         "Lampent": 20,
         "Petilil": 6,
         "Marshtomp": 12,
@@ -263,7 +263,7 @@
         "Furret": 1,
         "Nincada": 15,
         "Fennekin": 19,
-        "Quaxwell": 4,
+        "Quaxwell": 5,
         "Vibrava": 9,
         "Loudred": 4,
         "Ceruledge": 16,
@@ -526,7 +526,7 @@
         "Tyrunt": 5,
         "Garganacl": 1,
         "Chinchou": 3,
-        "Maushold": 11,
+        "Maushold": 12,
         "Bastiodon": 1,
         "Floatzel": 2,
         "Accelgor": 1,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7583,
-      "last_spawn": "2026-06-23T15:36:31.273155"
+      "total_spawns": 7589,
+      "last_spawn": "2026-06-23T15:37:07.224738"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -962,7 +962,7 @@
     }
   },
   "global": {
-    "total_spawns": 11873,
+    "total_spawns": 11879,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
