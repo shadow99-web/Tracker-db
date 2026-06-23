@@ -47,7 +47,7 @@
         "Surskit": 19,
         "Seedot": 32,
         "Skitty": 10,
-        "Greavard": 45,
+        "Greavard": 46,
         "Slugma": 11,
         "Grotle": 9,
         "Porygon": 42,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 11,
-        "Roggenrola": 38,
+        "Roggenrola": 39,
         "Pidove": 44,
         "Dragapult": 5,
         "Rattata": 23,
@@ -366,7 +366,7 @@
         "Finizen": 44,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 27,
+        "Caterpie": 28,
         "Carvanha": 11,
         "Luxio": 9,
         "Treecko": 19,
@@ -401,7 +401,7 @@
         "Nosepass": 8,
         "Persian": 2,
         "Lopunny": 2,
-        "Squawkabilly": 13,
+        "Squawkabilly": 14,
         "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 30,
@@ -437,7 +437,7 @@
         "Paldean wooper": 3,
         "Salandit": 11,
         "School wishiwashi": 4,
-        "Snivy": 9,
+        "Snivy": 10,
         "Wyrdeer": 2,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9013,
-      "last_spawn": "2026-06-23T19:06:58.197292"
+      "total_spawns": 9018,
+      "last_spawn": "2026-06-23T19:07:32.399211"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,10 +1006,11 @@
         "Tandemaus": 1,
         "Smearguru": 1,
         "Magnemite": 1,
-        "Teddiursa": 1
+        "Teddiursa": 1,
+        "Houndoom": 1
       },
-      "total_spawns": 49,
-      "last_spawn": "2026-06-23T18:48:11.718276"
+      "total_spawns": 50,
+      "last_spawn": "2026-06-23T19:07:13.628594"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1019,7 +1020,7 @@
     }
   },
   "global": {
-    "total_spawns": 13349,
+    "total_spawns": 13355,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
