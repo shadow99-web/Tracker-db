@@ -66,7 +66,7 @@
         "Lokix": 10,
         "Glimmora": 15,
         "Starly": 44,
-        "Tandemaus": 34,
+        "Tandemaus": 35,
         "Smoliv": 50,
         "Gloom": 9,
         "Clefairy": 7,
@@ -279,14 +279,14 @@
         "Rowlet": 13,
         "Galarian slowpoke": 1,
         "Poliwhirl": 9,
-        "Crocalor": 17,
+        "Crocalor": 18,
         "Cryogonal": 2,
         "Eternatus": 1,
         "Gholdengo": 10,
         "Charmeleon": 5,
         "Dipplin": 1,
         "Cramorant": 3,
-        "Chef dente": 21,
+        "Chef dente": 22,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 10,
@@ -322,7 +322,7 @@
         "Gossifleur": 11,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 43,
+        "Bellsprout": 44,
         "Mudbray": 11,
         "Dreepy": 38,
         "Tinkaton": 3,
@@ -477,7 +477,7 @@
         "Shelmet": 9,
         "Solrock": 2,
         "Slowpoke": 13,
-        "Dolliv": 9,
+        "Dolliv": 10,
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 8,
@@ -946,8 +946,8 @@
         "Iron treads": 1,
         "Meowstic": 1
       },
-      "total_spawns": 8142,
-      "last_spawn": "2026-06-23T16:54:47.025447"
+      "total_spawns": 8147,
+      "last_spawn": "2026-06-23T16:55:17.156647"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -997,7 +997,7 @@
     }
   },
   "global": {
-    "total_spawns": 12470,
+    "total_spawns": 12475,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
