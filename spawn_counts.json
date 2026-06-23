@@ -81,7 +81,7 @@
         "Amaura": 10,
         "Gimmighoul": 38,
         "Baltoy": 16,
-        "Mareep": 38,
+        "Mareep": 39,
         "Garbodor": 2,
         "Slakoth": 45,
         "Togepi": 27,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 12,
-        "Nymble": 41,
+        "Nymble": 42,
         "Ferrothorn": 1,
         "Servine": 7,
         "Blitzle": 11,
@@ -405,7 +405,7 @@
         "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 27,
-        "Rufflet": 13,
+        "Rufflet": 14,
         "Kabutops": 2,
         "Dondozo": 26,
         "Pansear": 10,
@@ -593,7 +593,7 @@
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 11,
-        "Dewgong": 3,
+        "Dewgong": 4,
         "Wartortle": 11,
         "Cetoddle": 25,
         "Kricketot": 10,
@@ -773,7 +773,7 @@
         "Nidorina": 6,
         "Archaludon": 1,
         "Golduck": 2,
-        "Scolipede": 2,
+        "Scolipede": 3,
         "Marowak": 1,
         "Chingling": 2,
         "Beedrill": 5,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8315,
-      "last_spawn": "2026-06-23T17:14:31.829067"
+      "total_spawns": 8320,
+      "last_spawn": "2026-06-23T17:15:07.950555"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12643,
+    "total_spawns": 12648,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
