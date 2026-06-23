@@ -128,7 +128,7 @@
         "Clamperl": 9,
         "Zigzagoon": 12,
         "Weedle": 44,
-        "Flamigo": 26,
+        "Flamigo": 27,
         "Lillipup": 29,
         "Shinx": 34,
         "Bounsweet": 22,
@@ -172,7 +172,7 @@
         "Taillow": 9,
         "Swinub": 29,
         "Inkay": 13,
-        "Gible": 15,
+        "Gible": 16,
         "Rookidee": 20,
         "Minccino": 11,
         "Wurmple": 25,
@@ -372,7 +372,7 @@
         "Treecko": 14,
         "Sinistea": 3,
         "Cubchoo": 5,
-        "Hippopotas": 5,
+        "Hippopotas": 6,
         "Spiky-eared pichu": 2,
         "Magearna": 1,
         "Mabosstiff": 5,
@@ -503,7 +503,7 @@
         "Mimikyu": 1,
         "Alolan sandslash": 1,
         "Empoleon": 3,
-        "Farigiraf": 9,
+        "Farigiraf": 10,
         "Hakamo-o": 4,
         "Glameow": 10,
         "Croagunk": 6,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 2,
         "Medicham": 2,
         "Doublade": 4,
-        "Naclstack": 4,
+        "Naclstack": 5,
         "Claydol": 1,
         "Turtonator": 2,
         "Hitmonlee": 2,
@@ -919,8 +919,8 @@
         "Bellossom": 1,
         "Pirouette meloetta": 1
       },
-      "total_spawns": 6453,
-      "last_spawn": "2026-06-23T12:56:28.676683"
+      "total_spawns": 6458,
+      "last_spawn": "2026-06-23T12:56:58.936966"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -938,7 +938,7 @@
     }
   },
   "global": {
-    "total_spawns": 10741,
+    "total_spawns": 10746,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
