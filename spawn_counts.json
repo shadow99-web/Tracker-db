@@ -50,7 +50,7 @@
         "Greavard": 21,
         "Slugma": 6,
         "Grotle": 6,
-        "Porygon": 23,
+        "Porygon": 24,
         "Zubat": 46,
         "Vanillish": 8,
         "Tadbulb": 19,
@@ -127,7 +127,7 @@
         "Teddiursa": 28,
         "Clamperl": 8,
         "Zigzagoon": 11,
-        "Weedle": 42,
+        "Weedle": 43,
         "Flamigo": 19,
         "Lillipup": 28,
         "Shinx": 33,
@@ -216,7 +216,7 @@
         "Tynamo": 24,
         "Orthworm": 25,
         "Marill": 8,
-        "Joltik": 15,
+        "Joltik": 16,
         "Politoed": 3,
         "Cyndaquil": 11,
         "Fuecoco": 8,
@@ -331,7 +331,7 @@
         "Nymble": 29,
         "Ferrothorn": 1,
         "Servine": 6,
-        "Blitzle": 3,
+        "Blitzle": 4,
         "Musharna": 2,
         "Bisharp": 1,
         "Chespin": 5,
@@ -888,10 +888,11 @@
         "White-striped basculin": 1,
         "Ampharos": 1,
         "Whiscash": 1,
-        "Heracross": 1
+        "Heracross": 1,
+        "Orange flower floette": 1
       },
-      "total_spawns": 5702,
-      "last_spawn": "2026-06-23T11:31:37.249539"
+      "total_spawns": 5707,
+      "last_spawn": "2026-06-23T11:32:11.641631"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -901,7 +902,7 @@
     }
   },
   "global": {
-    "total_spawns": 9989,
+    "total_spawns": 9994,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
