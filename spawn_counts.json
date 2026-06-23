@@ -22,7 +22,7 @@
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 3,
-        "Machop": 30,
+        "Machop": 31,
         "Dudunsparce": 6,
         "Gothita": 34,
         "Impidimp": 34,
@@ -71,7 +71,7 @@
         "Gloom": 10,
         "Clefairy": 7,
         "Spinda": 2,
-        "Fomantis": 5,
+        "Fomantis": 6,
         "Droopy tatsugiri": 19,
         "Froslass": 4,
         "Tarountula": 28,
@@ -124,7 +124,7 @@
         "Togetic": 9,
         "Palpitoad": 4,
         "Pikipek": 51,
-        "Teddiursa": 35,
+        "Teddiursa": 36,
         "Clamperl": 12,
         "Zigzagoon": 16,
         "Weedle": 54,
@@ -138,7 +138,7 @@
         "Croconaw": 12,
         "Phanpy": 5,
         "Brambleghast": 10,
-        "Pidgey": 49,
+        "Pidgey": 50,
         "Rhyhorn": 37,
         "Sentret": 12,
         "Yungoos": 5,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8423,
-      "last_spawn": "2026-06-23T17:26:57.068049"
+      "total_spawns": 8427,
+      "last_spawn": "2026-06-23T17:27:27.409090"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1002,7 +1002,7 @@
     }
   },
   "global": {
-    "total_spawns": 12751,
+    "total_spawns": 12755,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
