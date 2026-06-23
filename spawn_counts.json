@@ -20,7 +20,7 @@
         "Rockruff": 7,
         "Haunter": 6,
         "Tangela": 10,
-        "Orbeetle": 2,
+        "Orbeetle": 3,
         "Dedenne": 3,
         "Machop": 23,
         "Dudunsparce": 4,
@@ -131,7 +131,7 @@
         "Flamigo": 26,
         "Lillipup": 29,
         "Shinx": 34,
-        "Bounsweet": 21,
+        "Bounsweet": 22,
         "Noibat": 10,
         "Toxicroak": 4,
         "Charcadet": 33,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 2,
         "Pancham": 5,
-        "Venipede": 31,
+        "Venipede": 32,
         "Cacturne": 4,
         "Oddish": 33,
         "Dragalge": 3,
@@ -348,7 +348,7 @@
         "Deino": 14,
         "Wooper": 15,
         "Dwebble": 8,
-        "Steenee": 9,
+        "Steenee": 10,
         "Darumaka": 10,
         "Arboliva": 3,
         "Ledyba": 9,
@@ -695,7 +695,7 @@
         "Panpour": 8,
         "Tinkatuff": 3,
         "Bruxish": 3,
-        "Corvisquire": 1,
+        "Corvisquire": 2,
         "Mantine": 3,
         "Electrode": 3,
         "Celebi": 1,
@@ -919,8 +919,8 @@
         "Bellossom": 1,
         "Pirouette meloetta": 1
       },
-      "total_spawns": 6448,
-      "last_spawn": "2026-06-23T12:55:51.689058"
+      "total_spawns": 6453,
+      "last_spawn": "2026-06-23T12:56:28.676683"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -938,7 +938,7 @@
     }
   },
   "global": {
-    "total_spawns": 10736,
+    "total_spawns": 10741,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
