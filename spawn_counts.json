@@ -150,9 +150,9 @@
         "Dracovish": 3,
         "Bulbasaur": 11,
         "Roggenrola": 38,
-        "Pidove": 43,
+        "Pidove": 44,
         "Dragapult": 5,
-        "Rattata": 22,
+        "Rattata": 23,
         "Flapple": 5,
         "Aron": 36,
         "Boldore": 9,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 6,
-        "Pancham": 10,
+        "Pancham": 11,
         "Venipede": 50,
         "Cacturne": 4,
         "Oddish": 43,
@@ -949,7 +949,7 @@
         "Latias": 1,
         "Unown n": 1,
         "Unown exclamation": 1,
-        "Ninjask": 1,
+        "Ninjask": 2,
         "Nidoking": 1,
         "Pichu": 1,
         "Carnivine": 1,
@@ -960,10 +960,11 @@
         "Rapidash": 1,
         "Mawile": 1,
         "Dusknoir": 1,
-        "Sirfetch'd": 1
+        "Sirfetch'd": 1,
+        "Galarian darmanitan": 1
       },
-      "total_spawns": 9008,
-      "last_spawn": "2026-06-23T19:06:27.374151"
+      "total_spawns": 9013,
+      "last_spawn": "2026-06-23T19:06:58.197292"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1018,7 +1019,7 @@
     }
   },
   "global": {
-    "total_spawns": 13344,
+    "total_spawns": 13349,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
