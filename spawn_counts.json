@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 10,
         "Roggenrola": 37,
-        "Pidove": 39,
+        "Pidove": 40,
         "Dragapult": 5,
         "Rattata": 21,
         "Flapple": 5,
@@ -404,7 +404,7 @@
         "Squawkabilly": 11,
         "Electrike": 13,
         "Drampa": 2,
-        "Maschiff": 28,
+        "Maschiff": 29,
         "Rufflet": 14,
         "Kabutops": 2,
         "Dondozo": 27,
@@ -430,7 +430,7 @@
         "Girafarig": 4,
         "Flaaffy": 5,
         "Pecharunt": 1,
-        "Feebas": 7,
+        "Feebas": 8,
         "Buneary": 9,
         "Zebstrika": 1,
         "Shuppet": 10,
@@ -784,8 +784,8 @@
         "Castform": 5,
         "Weavile": 1,
         "Gorging cramorant": 1,
-        "Shieldon": 3,
-        "Masquerain": 2,
+        "Shieldon": 4,
+        "Masquerain": 3,
         "Watchog": 2,
         "Ditto": 5,
         "Dada zarude": 1,
@@ -808,7 +808,7 @@
         "Barraskewda": 2,
         "Salazzle": 4,
         "Pidgeot": 3,
-        "Drapion": 3,
+        "Drapion": 4,
         "Barbaracle": 3,
         "Okidogi": 1,
         "Tauros": 2,
@@ -952,8 +952,8 @@
         "Ninjask": 1,
         "Nidoking": 1
       },
-      "total_spawns": 8511,
-      "last_spawn": "2026-06-23T17:37:07.601424"
+      "total_spawns": 8517,
+      "last_spawn": "2026-06-23T17:37:47.151781"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1005,7 +1005,7 @@
     }
   },
   "global": {
-    "total_spawns": 12841,
+    "total_spawns": 12847,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
