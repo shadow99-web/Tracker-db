@@ -30,7 +30,7 @@
         "Morelull": 2,
         "Abra": 34,
         "Sandile": 30,
-        "Sandygast": 12,
+        "Sandygast": 13,
         "Litwick": 57,
         "Grubbin": 26,
         "Escavalier": 6,
@@ -42,7 +42,7 @@
         "Toedscool": 30,
         "Fletchling": 23,
         "Skiploom": 10,
-        "Timburr": 29,
+        "Timburr": 30,
         "Dj rotom": 25,
         "Surskit": 15,
         "Seedot": 22,
@@ -102,9 +102,9 @@
         "Smearguru": 25,
         "Veluza": 41,
         "Barboach": 9,
-        "Klink": 19,
+        "Klink": 20,
         "Honedge": 48,
-        "Wingull": 10,
+        "Wingull": 11,
         "Salamence": 1,
         "Drakloak": 9,
         "Chewtle": 6,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 2,
         "Pancham": 5,
-        "Venipede": 32,
+        "Venipede": 33,
         "Cacturne": 4,
         "Oddish": 34,
         "Dragalge": 3,
@@ -555,7 +555,7 @@
         "Skarmory": 4,
         "Midnight lycanroc": 2,
         "Eelektross": 1,
-        "Araquanid": 2,
+        "Araquanid": 3,
         "Kadabra": 5,
         "Chandelure": 5,
         "Ponyta": 9,
@@ -922,8 +922,8 @@
         "Wynaut": 1,
         "Hattrem": 1
       },
-      "total_spawns": 6620,
-      "last_spawn": "2026-06-23T13:15:07.813156"
+      "total_spawns": 6626,
+      "last_spawn": "2026-06-23T13:15:47.239160"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -941,7 +941,7 @@
     }
   },
   "global": {
-    "total_spawns": 10908,
+    "total_spawns": 10914,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
