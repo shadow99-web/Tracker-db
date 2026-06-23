@@ -67,7 +67,7 @@
         "Glimmora": 13,
         "Starly": 40,
         "Tandemaus": 32,
-        "Smoliv": 43,
+        "Smoliv": 44,
         "Gloom": 9,
         "Clefairy": 6,
         "Spinda": 2,
@@ -142,14 +142,14 @@
         "Rhyhorn": 30,
         "Sentret": 8,
         "Yungoos": 3,
-        "Diglett": 14,
+        "Diglett": 15,
         "Doduo": 9,
         "Lairon": 9,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 9,
-        "Roggenrola": 29,
+        "Roggenrola": 30,
         "Pidove": 37,
         "Dragapult": 5,
         "Rattata": 16,
@@ -227,7 +227,7 @@
         "Wattrel": 38,
         "Snubbull": 11,
         "Spidops": 8,
-        "Braixen": 11,
+        "Braixen": 12,
         "Drowzee": 12,
         "Blipbug": 31,
         "Lampent": 19,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 9,
         "Dhelmise": 1,
-        "Bagon": 12,
+        "Bagon": 13,
         "Sudowoodo": 3,
         "Stoutland": 2,
         "Rowlet": 12,
@@ -446,7 +446,7 @@
         "Skrelp": 5,
         "Raticate": 6,
         "Wugtrio": 6,
-        "Bellibolt": 4,
+        "Bellibolt": 5,
         "Morgrem": 8,
         "Misdreavus": 5,
         "Seviper": 1,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7126,
-      "last_spawn": "2026-06-23T14:44:27.449600"
+      "total_spawns": 7132,
+      "last_spawn": "2026-06-23T14:45:07.132851"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11415,
+    "total_spawns": 11421,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
