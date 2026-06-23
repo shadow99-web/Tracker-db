@@ -28,7 +28,7 @@
         "Impidimp": 29,
         "Charmander": 12,
         "Morelull": 3,
-        "Abra": 34,
+        "Abra": 35,
         "Sandile": 31,
         "Sandygast": 13,
         "Litwick": 59,
@@ -92,10 +92,10 @@
         "Riolu": 5,
         "Exeggcute": 8,
         "Corphish": 4,
-        "Hoppip": 28,
+        "Hoppip": 29,
         "Sandslash": 1,
         "Kabuto": 11,
-        "Scatterbug": 31,
+        "Scatterbug": 32,
         "Pumpkaboo": 8,
         "Numel": 17,
         "Carracosta": 1,
@@ -528,7 +528,7 @@
         "Chinchou": 3,
         "Maushold": 10,
         "Bastiodon": 1,
-        "Floatzel": 1,
+        "Floatzel": 2,
         "Accelgor": 1,
         "Wormadam": 3,
         "Axew": 21,
@@ -574,7 +574,7 @@
         "Electivire": 3,
         "Cascoon": 5,
         "Tentacruel": 4,
-        "Nuzleaf": 5,
+        "Nuzleaf": 6,
         "Scorbunny": 12,
         "Huntail": 2,
         "Galarian meowth": 1,
@@ -870,7 +870,7 @@
         "Illumise": 2,
         "Scrafty": 1,
         "Swanna": 1,
-        "Grumpig": 1,
+        "Grumpig": 2,
         "Basculegion": 1,
         "Magnezone": 1,
         "Alolan graveler": 1,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 7006,
-      "last_spawn": "2026-06-23T14:31:08.778609"
+      "total_spawns": 7012,
+      "last_spawn": "2026-06-23T14:31:47.109523"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11295,
+    "total_spawns": 11301,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
