@@ -298,7 +298,7 @@
         "Pancham": 5,
         "Venipede": 35,
         "Cacturne": 4,
-        "Oddish": 35,
+        "Oddish": 36,
         "Dragalge": 3,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -361,7 +361,7 @@
         "Three-segment dudunsparce": 2,
         "Fearow": 3,
         "Mankey": 10,
-        "Bidoof": 10,
+        "Bidoof": 11,
         "Quilava": 14,
         "Finizen": 29,
         "Unown y": 1,
@@ -545,7 +545,7 @@
         "Slowbro": 4,
         "Oricorio": 2,
         "Kangaskhan": 2,
-        "Krokorok": 9,
+        "Krokorok": 10,
         "Dragonair": 3,
         "Zweilous": 6,
         "Karrablast": 4,
@@ -587,7 +587,7 @@
         "Kingambit": 1,
         "Clodsire": 8,
         "Blaze breed tauros": 1,
-        "Wimpod": 3,
+        "Wimpod": 4,
         "Torterra": 1,
         "Darmanitan": 1,
         "Rainy castform": 1,
@@ -746,7 +746,7 @@
         "Nidoqueen": 3,
         "Hitmonchan": 1,
         "Relicanth": 1,
-        "Klefki": 2,
+        "Klefki": 3,
         "Frogadier": 9,
         "Dewpider": 6,
         "Poltchageist": 2,
@@ -776,7 +776,7 @@
         "Scolipede": 1,
         "Marowak": 1,
         "Chingling": 2,
-        "Beedrill": 4,
+        "Beedrill": 5,
         "Whimsicott": 2,
         "Wishiwashi": 2,
         "Cofagrigus": 2,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6858,
-      "last_spawn": "2026-06-23T14:14:27.223835"
+      "total_spawns": 6864,
+      "last_spawn": "2026-06-23T14:15:07.418076"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11147,
+    "total_spawns": 11153,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
