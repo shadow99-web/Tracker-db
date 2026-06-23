@@ -45,7 +45,7 @@
         "Timburr": 34,
         "Dj rotom": 29,
         "Surskit": 17,
-        "Seedot": 24,
+        "Seedot": 25,
         "Skitty": 9,
         "Greavard": 35,
         "Slugma": 8,
@@ -84,7 +84,7 @@
         "Mareep": 36,
         "Garbodor": 2,
         "Slakoth": 37,
-        "Togepi": 24,
+        "Togepi": 25,
         "Falinks": 4,
         "Tropius": 1,
         "Poliwag": 31,
@@ -129,7 +129,7 @@
         "Zigzagoon": 15,
         "Weedle": 50,
         "Flamigo": 34,
-        "Lillipup": 37,
+        "Lillipup": 38,
         "Shinx": 41,
         "Bounsweet": 26,
         "Noibat": 13,
@@ -358,7 +358,7 @@
         "Muk": 4,
         "Toxel": 7,
         "Banette": 2,
-        "Three-segment dudunsparce": 2,
+        "Three-segment dudunsparce": 3,
         "Fearow": 3,
         "Mankey": 10,
         "Bidoof": 11,
@@ -670,7 +670,7 @@
         "Appletun": 1,
         "Krookodile": 4,
         "Primeape": 1,
-        "Grimer": 4,
+        "Grimer": 5,
         "Crabominable": 2,
         "Quaquaval": 1,
         "Sprigatito": 11,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7658,
-      "last_spawn": "2026-06-23T16:00:12.448152"
+      "total_spawns": 7663,
+      "last_spawn": "2026-06-23T16:00:47.153349"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -967,7 +967,7 @@
     }
   },
   "global": {
-    "total_spawns": 11952,
+    "total_spawns": 11957,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
