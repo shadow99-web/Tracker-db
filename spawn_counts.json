@@ -155,7 +155,7 @@
         "Rattata": 21,
         "Flapple": 5,
         "Aron": 32,
-        "Boldore": 8,
+        "Boldore": 9,
         "Spinarak": 17,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -196,7 +196,7 @@
         "Helioptile": 9,
         "Hoothoot": 12,
         "Grookey": 16,
-        "Meditite": 7,
+        "Meditite": 8,
         "Toedscruel": 12,
         "Probopass": 2,
         "Scraggy": 16,
@@ -242,7 +242,7 @@
         "Chansey": 7,
         "Shroodle": 44,
         "Duskull": 47,
-        "Bergmite": 9,
+        "Bergmite": 10,
         "Pignite": 14,
         "Lurantis": 1,
         "Swampert": 3,
@@ -404,10 +404,10 @@
         "Squawkabilly": 11,
         "Electrike": 13,
         "Drampa": 2,
-        "Maschiff": 29,
+        "Maschiff": 30,
         "Rufflet": 14,
         "Kabutops": 2,
-        "Dondozo": 28,
+        "Dondozo": 29,
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 30,
@@ -489,7 +489,7 @@
         "Houndoom": 5,
         "Dottler": 10,
         "Eevee": 8,
-        "Copperajah": 3,
+        "Copperajah": 4,
         "Magneton": 9,
         "Alakazam": 3,
         "Bayleef": 5,
@@ -953,8 +953,8 @@
         "Nidoking": 1,
         "Pichu": 1
       },
-      "total_spawns": 8552,
-      "last_spawn": "2026-06-23T17:41:47.353747"
+      "total_spawns": 8558,
+      "last_spawn": "2026-06-23T17:42:27.269299"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,7 +1006,7 @@
     }
   },
   "global": {
-    "total_spawns": 12882,
+    "total_spawns": 12888,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
