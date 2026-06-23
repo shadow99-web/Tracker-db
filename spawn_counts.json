@@ -84,7 +84,7 @@
         "Mareep": 29,
         "Garbodor": 1,
         "Slakoth": 31,
-        "Togepi": 14,
+        "Togepi": 15,
         "Falinks": 2,
         "Tropius": 1,
         "Poliwag": 22,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 9,
         "Bonsly": 2,
-        "Horsea": 24,
+        "Horsea": 25,
         "Frigibax": 20,
         "Spheal": 38,
         "Swadloon": 6,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 32,
-        "Duskull": 33,
+        "Duskull": 34,
         "Bergmite": 7,
         "Pignite": 10,
         "Lurantis": 1,
@@ -410,7 +410,7 @@
         "Dondozo": 19,
         "Pansear": 9,
         "Cutiefly": 7,
-        "Peakychu": 15,
+        "Peakychu": 16,
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 14,
@@ -877,7 +877,7 @@
         "Cleffa": 1,
         "Machamp": 1,
         "Altaria": 2,
-        "Purugly": 1,
+        "Purugly": 2,
         "Seaking": 2,
         "High plain vivillon": 1,
         "Urshifu": 1,
@@ -911,8 +911,8 @@
         "Clawitzer": 1,
         "Leafeon": 1
       },
-      "total_spawns": 6164,
-      "last_spawn": "2026-06-23T12:23:57.672076"
+      "total_spawns": 6169,
+      "last_spawn": "2026-06-23T12:24:31.756142"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -930,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 10452,
+    "total_spawns": 10457,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
