@@ -43,7 +43,7 @@
         "Fletchling": 24,
         "Skiploom": 10,
         "Timburr": 33,
-        "Dj rotom": 28,
+        "Dj rotom": 29,
         "Surskit": 17,
         "Seedot": 23,
         "Skitty": 9,
@@ -230,7 +230,7 @@
         "Braixen": 12,
         "Drowzee": 13,
         "Blipbug": 31,
-        "Lampent": 19,
+        "Lampent": 20,
         "Petilil": 6,
         "Marshtomp": 12,
         "Eiscue": 4,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 11,
-        "Nymble": 37,
+        "Nymble": 38,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 8,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 2,
         "Magearna": 1,
         "Mabosstiff": 7,
-        "Squirtle": 16,
+        "Squirtle": 17,
         "Remoraid": 5,
         "Torracat": 12,
         "Hisuian zorua": 1,
@@ -540,7 +540,7 @@
         "Onix": 8,
         "Vanilluxe": 1,
         "Jolteon": 2,
-        "Pawmot": 4,
+        "Pawmot": 5,
         "Skiddo": 5,
         "Slowbro": 5,
         "Oricorio": 2,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7367,
-      "last_spawn": "2026-06-23T15:11:47.036438"
+      "total_spawns": 7372,
+      "last_spawn": "2026-06-23T15:12:17.219848"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11656,
+    "total_spawns": 11661,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
