@@ -81,10 +81,10 @@
         "Amaura": 9,
         "Gimmighoul": 31,
         "Baltoy": 12,
-        "Mareep": 33,
+        "Mareep": 34,
         "Garbodor": 2,
         "Slakoth": 34,
-        "Togepi": 22,
+        "Togepi": 23,
         "Falinks": 3,
         "Tropius": 1,
         "Poliwag": 28,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 11,
         "Bonsly": 2,
-        "Horsea": 28,
+        "Horsea": 29,
         "Frigibax": 24,
         "Spheal": 44,
         "Swadloon": 7,
@@ -138,7 +138,7 @@
         "Croconaw": 11,
         "Phanpy": 3,
         "Brambleghast": 9,
-        "Pidgey": 43,
+        "Pidgey": 44,
         "Rhyhorn": 30,
         "Sentret": 8,
         "Yungoos": 3,
@@ -196,7 +196,7 @@
         "Helioptile": 8,
         "Hoothoot": 11,
         "Grookey": 13,
-        "Meditite": 4,
+        "Meditite": 5,
         "Toedscruel": 10,
         "Probopass": 2,
         "Scraggy": 14,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7116,
-      "last_spawn": "2026-06-23T14:43:17.578766"
+      "total_spawns": 7121,
+      "last_spawn": "2026-06-23T14:43:51.726017"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11405,
+    "total_spawns": 11410,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
