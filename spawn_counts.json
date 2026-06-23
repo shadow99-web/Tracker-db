@@ -87,7 +87,7 @@
         "Togepi": 19,
         "Falinks": 2,
         "Tropius": 1,
-        "Poliwag": 24,
+        "Poliwag": 25,
         "Metang": 5,
         "Riolu": 4,
         "Exeggcute": 7,
@@ -112,7 +112,7 @@
         "Sneasel": 9,
         "Bonsly": 2,
         "Horsea": 26,
-        "Frigibax": 21,
+        "Frigibax": 22,
         "Spheal": 38,
         "Swadloon": 7,
         "Flittle": 28,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 7,
         "Roggenrola": 23,
-        "Pidove": 34,
+        "Pidove": 35,
         "Dragapult": 5,
         "Rattata": 14,
         "Flapple": 3,
@@ -324,7 +324,7 @@
         "Murkrow": 10,
         "Bellsprout": 35,
         "Mudbray": 9,
-        "Dreepy": 28,
+        "Dreepy": 29,
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 7,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 10,
         "Quilava": 14,
-        "Finizen": 26,
+        "Finizen": 27,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 19,
@@ -765,7 +765,7 @@
         "Gorebyss": 1,
         "Yanmega": 1,
         "Pawmo": 4,
-        "Finneon": 4,
+        "Finneon": 5,
         "Mamoswine": 2,
         "Drifblim": 2,
         "Meowscarada": 2,
@@ -918,8 +918,8 @@
         "Gogoat": 1,
         "Bellossom": 1
       },
-      "total_spawns": 6391,
-      "last_spawn": "2026-06-23T12:49:27.669486"
+      "total_spawns": 6397,
+      "last_spawn": "2026-06-23T12:50:07.114076"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -937,7 +937,7 @@
     }
   },
   "global": {
-    "total_spawns": 10679,
+    "total_spawns": 10685,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
