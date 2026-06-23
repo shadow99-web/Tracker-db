@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 7,
-        "Roggenrola": 20,
+        "Roggenrola": 21,
         "Pidove": 33,
         "Dragapult": 4,
         "Rattata": 13,
@@ -177,7 +177,7 @@
         "Minccino": 10,
         "Wurmple": 24,
         "Binacle": 10,
-        "Grafaiai": 6,
+        "Grafaiai": 7,
         "Quilladin": 5,
         "Geodude": 26,
         "Espurr": 7,
@@ -481,7 +481,7 @@
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 6,
-        "Tyrogue": 6,
+        "Tyrogue": 7,
         "Vikavolt": 1,
         "Trash burmy": 2,
         "Staravia": 7,
@@ -655,7 +655,7 @@
         "Pinsir": 2,
         "Mothim": 2,
         "Whirlipede": 7,
-        "Absol": 2,
+        "Absol": 3,
         "Annihilape": 3,
         "Bouffalant": 2,
         "Crabrawler": 5,
@@ -896,8 +896,8 @@
         "Stonjourner": 1,
         "Elekid": 1
       },
-      "total_spawns": 5843,
-      "last_spawn": "2026-06-23T11:47:37.128947"
+      "total_spawns": 5847,
+      "last_spawn": "2026-06-23T11:48:07.400080"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -909,7 +909,7 @@
     }
   },
   "global": {
-    "total_spawns": 10131,
+    "total_spawns": 10135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
