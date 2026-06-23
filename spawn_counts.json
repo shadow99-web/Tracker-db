@@ -160,7 +160,7 @@
         "Delcatty": 3,
         "Spiritomb": 3,
         "Yamper": 6,
-        "Tepig": 20,
+        "Tepig": 21,
         "Kirlia": 5,
         "Piplup": 4,
         "Kakuna": 11,
@@ -890,12 +890,18 @@
         "Whiscash": 1,
         "Heracross": 1
       },
-      "total_spawns": 5686,
-      "last_spawn": "2026-06-20T12:05:03.843361"
+      "total_spawns": 5687,
+      "last_spawn": "2026-06-23T11:29:57.027315"
+    },
+    "1443875856803168360": {
+      "name": "PokeMania Arcadia \u00ae",
+      "counts": {},
+      "total_spawns": 0,
+      "last_spawn": null
     }
   },
   "global": {
-    "total_spawns": 9973,
+    "total_spawns": 9974,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
