@@ -12,7 +12,7 @@
         "Rellor": 29,
         "Sandy burmy": 8,
         "Wiglett": 39,
-        "Bombirdier": 28,
+        "Bombirdier": 29,
         "Litleo": 10,
         "Purrloin": 5,
         "Tranquill": 9,
@@ -34,7 +34,7 @@
         "Litwick": 60,
         "Grubbin": 29,
         "Escavalier": 6,
-        "Dratini": 22,
+        "Dratini": 23,
         "Kilowattrel": 8,
         "Lotad": 49,
         "Qwilfish": 5,
@@ -55,7 +55,7 @@
         "Vanillish": 10,
         "Tadbulb": 32,
         "Magnemite": 45,
-        "Whismur": 29,
+        "Whismur": 30,
         "Monferno": 15,
         "Skwovet": 6,
         "Bramblin": 36,
@@ -102,7 +102,7 @@
         "Smearguru": 27,
         "Veluza": 46,
         "Barboach": 12,
-        "Klink": 25,
+        "Klink": 26,
         "Honedge": 53,
         "Wingull": 12,
         "Salamence": 1,
@@ -241,7 +241,7 @@
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 38,
-        "Duskull": 40,
+        "Duskull": 41,
         "Bergmite": 8,
         "Pignite": 11,
         "Lurantis": 1,
@@ -587,7 +587,7 @@
         "Kingambit": 2,
         "Clodsire": 10,
         "Blaze breed tauros": 1,
-        "Wimpod": 5,
+        "Wimpod": 6,
         "Torterra": 2,
         "Darmanitan": 1,
         "Rainy castform": 1,
@@ -941,8 +941,8 @@
         "Hitmontop": 1,
         "Munchlax": 1
       },
-      "total_spawns": 7547,
-      "last_spawn": "2026-06-23T15:32:27.606832"
+      "total_spawns": 7553,
+      "last_spawn": "2026-06-23T15:33:07.145614"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -961,7 +961,7 @@
     }
   },
   "global": {
-    "total_spawns": 11836,
+    "total_spawns": 11842,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
