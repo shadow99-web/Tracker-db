@@ -79,7 +79,7 @@
         "Phantump": 15,
         "Duosion": 9,
         "Amaura": 9,
-        "Gimmighoul": 36,
+        "Gimmighoul": 37,
         "Baltoy": 14,
         "Mareep": 36,
         "Garbodor": 2,
@@ -100,7 +100,7 @@
         "Numel": 17,
         "Carracosta": 3,
         "Smearguru": 29,
-        "Veluza": 48,
+        "Veluza": 49,
         "Barboach": 12,
         "Klink": 27,
         "Honedge": 54,
@@ -134,7 +134,7 @@
         "Bounsweet": 26,
         "Noibat": 14,
         "Toxicroak": 4,
-        "Charcadet": 41,
+        "Charcadet": 42,
         "Croconaw": 11,
         "Phanpy": 5,
         "Brambleghast": 10,
@@ -144,7 +144,7 @@
         "Yungoos": 3,
         "Diglett": 15,
         "Doduo": 9,
-        "Lairon": 9,
+        "Lairon": 10,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 11,
-        "Spearow": 13,
+        "Spearow": 14,
         "Helioptile": 8,
         "Hoothoot": 12,
         "Grookey": 15,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7805,
-      "last_spawn": "2026-06-23T16:16:51.985894"
+      "total_spawns": 7810,
+      "last_spawn": "2026-06-23T16:17:27.056333"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -969,7 +969,7 @@
     }
   },
   "global": {
-    "total_spawns": 12100,
+    "total_spawns": 12105,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
