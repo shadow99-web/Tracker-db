@@ -26,7 +26,7 @@
         "Dudunsparce": 5,
         "Gothita": 30,
         "Impidimp": 30,
-        "Charmander": 12,
+        "Charmander": 13,
         "Morelull": 3,
         "Abra": 36,
         "Sandile": 32,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 11,
         "Quilava": 14,
-        "Finizen": 32,
+        "Finizen": 33,
         "Unown y": 1,
         "Toucannon": 2,
         "Caterpie": 23,
@@ -466,7 +466,7 @@
         "Woobat": 9,
         "Wobbuffet": 1,
         "Roselia": 4,
-        "Shelgon": 6,
+        "Shelgon": 7,
         "Buizel": 7,
         "Arctozolt": 3,
         "Snorunt": 6,
@@ -486,7 +486,7 @@
         "Trash burmy": 2,
         "Staravia": 7,
         "Chatot": 3,
-        "Houndoom": 4,
+        "Houndoom": 5,
         "Dottler": 8,
         "Eevee": 6,
         "Copperajah": 2,
@@ -678,7 +678,7 @@
         "Eelektrik": 6,
         "Gastrodon": 4,
         "Golurk": 3,
-        "Arcanine": 3,
+        "Arcanine": 4,
         "Oranguru": 2,
         "Poliwrath": 3,
         "Blaziken": 2,
@@ -883,7 +883,7 @@
         "Urshifu": 1,
         "Swalot": 1,
         "Cloyster": 1,
-        "Kingler": 1,
+        "Kingler": 2,
         "Alomomola": 2,
         "White-striped basculin": 1,
         "Ampharos": 1,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7132,
-      "last_spawn": "2026-06-23T14:45:07.132851"
+      "total_spawns": 7138,
+      "last_spawn": "2026-06-23T14:45:47.290518"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11421,
+    "total_spawns": 11427,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
