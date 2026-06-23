@@ -143,7 +143,7 @@
         "Sentret": 6,
         "Yungoos": 3,
         "Diglett": 11,
-        "Doduo": 7,
+        "Doduo": 8,
         "Lairon": 9,
         "Emboar": 4,
         "Deoxys": 2,
@@ -173,7 +173,7 @@
         "Swinub": 29,
         "Inkay": 13,
         "Gible": 16,
-        "Rookidee": 20,
+        "Rookidee": 21,
         "Minccino": 11,
         "Wurmple": 26,
         "Binacle": 10,
@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 7,
-        "Tympole": 19,
+        "Tympole": 20,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -404,7 +404,7 @@
         "Squawkabilly": 7,
         "Electrike": 12,
         "Drampa": 2,
-        "Maschiff": 18,
+        "Maschiff": 19,
         "Rufflet": 12,
         "Kabutops": 2,
         "Dondozo": 20,
@@ -778,7 +778,7 @@
         "Chingling": 2,
         "Beedrill": 4,
         "Whimsicott": 2,
-        "Wishiwashi": 1,
+        "Wishiwashi": 2,
         "Cofagrigus": 2,
         "Camerupt": 1,
         "Castform": 4,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6512,
-      "last_spawn": "2026-06-23T13:02:57.623149"
+      "total_spawns": 6517,
+      "last_spawn": "2026-06-23T13:03:31.810950"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10800,
+    "total_spawns": 10805,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
