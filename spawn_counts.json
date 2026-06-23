@@ -173,7 +173,7 @@
         "Swinub": 24,
         "Inkay": 12,
         "Gible": 15,
-        "Rookidee": 18,
+        "Rookidee": 19,
         "Minccino": 10,
         "Wurmple": 24,
         "Binacle": 10,
@@ -191,7 +191,7 @@
         "Thwackey": 9,
         "Dusk lycanroc": 3,
         "Sunny castform": 3,
-        "Pidgeotto": 9,
+        "Pidgeotto": 10,
         "Spearow": 10,
         "Helioptile": 6,
         "Hoothoot": 10,
@@ -205,7 +205,7 @@
         "Totodile": 8,
         "Dodrio": 3,
         "Cufant": 5,
-        "Tympole": 16,
+        "Tympole": 17,
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
@@ -249,7 +249,7 @@
         "Dachsbun": 10,
         "Turtwig": 6,
         "Prinplup": 5,
-        "Tinkatink": 30,
+        "Tinkatink": 31,
         "Lechonk": 24,
         "Kommo-o": 1,
         "Dewott": 9,
@@ -576,7 +576,7 @@
         "Tentacruel": 4,
         "Nuzleaf": 4,
         "Scorbunny": 10,
-        "Huntail": 1,
+        "Huntail": 2,
         "Galarian meowth": 1,
         "Spoink": 3,
         "Scyther": 7,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6064,
-      "last_spawn": "2026-06-23T12:12:51.930484"
+      "total_spawns": 6069,
+      "last_spawn": "2026-06-23T12:13:27.120628"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10352,
+    "total_spawns": 10357,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
