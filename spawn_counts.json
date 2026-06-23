@@ -9,7 +9,7 @@
         "Drilbur": 7,
         "Pawmi": 39,
         "Electabuzz": 7,
-        "Rellor": 31,
+        "Rellor": 32,
         "Sandy burmy": 9,
         "Wiglett": 44,
         "Bombirdier": 32,
@@ -243,7 +243,7 @@
         "Shroodle": 40,
         "Duskull": 44,
         "Bergmite": 8,
-        "Pignite": 12,
+        "Pignite": 13,
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 11,
@@ -319,7 +319,7 @@
         "Jangmo-o": 15,
         "Trash wormadam": 3,
         "Quaxly": 10,
-        "Gossifleur": 10,
+        "Gossifleur": 11,
         "Oshawott": 10,
         "Murkrow": 11,
         "Bellsprout": 40,
@@ -351,7 +351,7 @@
         "Steenee": 11,
         "Darumaka": 14,
         "Arboliva": 3,
-        "Ledyba": 11,
+        "Ledyba": 12,
         "Spritzee": 7,
         "Swirlix": 5,
         "Aromatisse": 3,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 2,
         "Medicham": 3,
         "Doublade": 7,
-        "Naclstack": 6,
+        "Naclstack": 7,
         "Claydol": 1,
         "Turtonator": 2,
         "Hitmonlee": 2,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7933,
-      "last_spawn": "2026-06-23T16:31:07.235109"
+      "total_spawns": 7938,
+      "last_spawn": "2026-06-23T16:31:37.524978"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -970,10 +970,11 @@
         "Weedle": 1,
         "Chef dente": 1,
         "Hatenna": 1,
-        "Dugtrio": 1
+        "Dugtrio": 1,
+        "Kadabra": 1
       },
-      "total_spawns": 23,
-      "last_spawn": "2026-06-23T16:30:47.660986"
+      "total_spawns": 24,
+      "last_spawn": "2026-06-23T16:31:27.548533"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -983,7 +984,7 @@
     }
   },
   "global": {
-    "total_spawns": 12243,
+    "total_spawns": 12249,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
