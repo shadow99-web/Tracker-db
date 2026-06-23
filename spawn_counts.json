@@ -140,7 +140,7 @@
         "Brambleghast": 9,
         "Pidgey": 43,
         "Rhyhorn": 30,
-        "Sentret": 7,
+        "Sentret": 8,
         "Yungoos": 3,
         "Diglett": 14,
         "Doduo": 9,
@@ -276,7 +276,7 @@
         "Bagon": 12,
         "Sudowoodo": 3,
         "Stoutland": 2,
-        "Rowlet": 11,
+        "Rowlet": 12,
         "Galarian slowpoke": 1,
         "Poliwhirl": 8,
         "Crocalor": 16,
@@ -296,7 +296,7 @@
         "Ferroseed": 12,
         "Brionne": 5,
         "Pancham": 6,
-        "Venipede": 37,
+        "Venipede": 38,
         "Cacturne": 4,
         "Oddish": 36,
         "Dragalge": 3,
@@ -378,7 +378,7 @@
         "Mabosstiff": 7,
         "Squirtle": 15,
         "Remoraid": 5,
-        "Torracat": 10,
+        "Torracat": 11,
         "Hisuian zorua": 1,
         "Wooloo": 7,
         "Drifloon": 7,
@@ -472,7 +472,7 @@
         "Snorunt": 6,
         "Bunnelby": 8,
         "Gulping cramorant": 2,
-        "Simisear": 1,
+        "Simisear": 2,
         "White plumage squawkabilly": 11,
         "Shelmet": 8,
         "Solrock": 2,
@@ -563,7 +563,7 @@
         "Braviary": 3,
         "Raboot": 10,
         "Golem": 2,
-        "Slowking": 4,
+        "Slowking": 5,
         "Lilligant": 4,
         "Rabsca": 6,
         "Gulpin": 10,
@@ -932,8 +932,8 @@
         "Steelix": 1,
         "Excadrill": 1
       },
-      "total_spawns": 7066,
-      "last_spawn": "2026-06-23T14:37:47.113054"
+      "total_spawns": 7072,
+      "last_spawn": "2026-06-23T14:38:27.065286"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +952,7 @@
     }
   },
   "global": {
-    "total_spawns": 11355,
+    "total_spawns": 11361,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
