@@ -114,7 +114,7 @@
         "Horsea": 35,
         "Frigibax": 30,
         "Spheal": 55,
-        "Swadloon": 7,
+        "Swadloon": 8,
         "Flittle": 40,
         "Unfezant": 3,
         "Yamask": 4,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 38,
-        "Orthworm": 39,
+        "Orthworm": 41,
         "Marill": 12,
         "Joltik": 20,
         "Politoed": 3,
@@ -504,7 +504,7 @@
         "Alolan sandslash": 1,
         "Empoleon": 3,
         "Farigiraf": 11,
-        "Hakamo-o": 6,
+        "Hakamo-o": 7,
         "Glameow": 11,
         "Croagunk": 8,
         "Duraludon": 5,
@@ -616,7 +616,7 @@
         "Wigglytuff": 2,
         "Venusaur": 3,
         "Mismagius": 2,
-        "Fraxure": 7,
+        "Fraxure": 8,
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
@@ -953,8 +953,8 @@
         "Nidoking": 1,
         "Pichu": 1
       },
-      "total_spawns": 8547,
-      "last_spawn": "2026-06-23T17:41:11.711123"
+      "total_spawns": 8552,
+      "last_spawn": "2026-06-23T17:41:47.353747"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,7 +1006,7 @@
     }
   },
   "global": {
-    "total_spawns": 12877,
+    "total_spawns": 12882,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
