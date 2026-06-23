@@ -45,7 +45,7 @@
         "Timburr": 26,
         "Dj rotom": 19,
         "Surskit": 15,
-        "Seedot": 16,
+        "Seedot": 17,
         "Skitty": 7,
         "Greavard": 28,
         "Slugma": 6,
@@ -72,7 +72,7 @@
         "Clefairy": 4,
         "Spinda": 2,
         "Fomantis": 5,
-        "Droopy tatsugiri": 18,
+        "Droopy tatsugiri": 19,
         "Froslass": 3,
         "Tarountula": 16,
         "Hatterene": 2,
@@ -97,7 +97,7 @@
         "Kabuto": 11,
         "Scatterbug": 28,
         "Pumpkaboo": 8,
-        "Numel": 15,
+        "Numel": 16,
         "Carracosta": 1,
         "Smearguru": 22,
         "Veluza": 38,
@@ -291,7 +291,7 @@
         "Bewear": 2,
         "Piloswine": 8,
         "Simisage": 2,
-        "Jellicent": 3,
+        "Jellicent": 4,
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 2,
@@ -652,7 +652,7 @@
         "Mareanie": 4,
         "Seadra": 4,
         "Beheeyem": 3,
-        "Pinsir": 2,
+        "Pinsir": 3,
         "Mothim": 2,
         "Whirlipede": 8,
         "Absol": 3,
@@ -908,8 +908,8 @@
         "Primarina": 1,
         "Unown x": 1
       },
-      "total_spawns": 6087,
-      "last_spawn": "2026-06-23T12:15:27.131627"
+      "total_spawns": 6092,
+      "last_spawn": "2026-06-23T12:15:57.275043"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -927,7 +927,7 @@
     }
   },
   "global": {
-    "total_spawns": 10375,
+    "total_spawns": 10380,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
