@@ -227,7 +227,7 @@
         "Wattrel": 45,
         "Snubbull": 12,
         "Spidops": 8,
-        "Braixen": 12,
+        "Braixen": 13,
         "Drowzee": 13,
         "Blipbug": 39,
         "Lampent": 21,
@@ -536,7 +536,7 @@
         "Trubbish": 3,
         "Zorua": 8,
         "Archen": 16,
-        "Oinkologne": 10,
+        "Oinkologne": 11,
         "Onix": 8,
         "Vanilluxe": 2,
         "Jolteon": 2,
@@ -558,7 +558,7 @@
         "Araquanid": 3,
         "Kadabra": 12,
         "Chandelure": 6,
-        "Ponyta": 13,
+        "Ponyta": 14,
         "Togekiss": 3,
         "Braviary": 3,
         "Raboot": 10,
@@ -650,7 +650,7 @@
         "Arbok": 2,
         "Stretchy tatsugiri": 12,
         "Mareanie": 6,
-        "Seadra": 6,
+        "Seadra": 7,
         "Beheeyem": 3,
         "Pinsir": 4,
         "Mothim": 3,
@@ -696,7 +696,7 @@
         "Tinkatuff": 5,
         "Bruxish": 3,
         "Corvisquire": 3,
-        "Mantine": 3,
+        "Mantine": 4,
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 2,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8326,
-      "last_spawn": "2026-06-23T17:15:47.156246"
+      "total_spawns": 8331,
+      "last_spawn": "2026-06-23T17:16:17.217880"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12654,
+    "total_spawns": 12659,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
