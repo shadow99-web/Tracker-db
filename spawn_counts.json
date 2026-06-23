@@ -5,13 +5,13 @@
       "counts": {
         "Chimchar": 14,
         "Patrat": 5,
-        "Mosslax": 18,
+        "Mosslax": 19,
         "Drilbur": 6,
         "Pawmi": 36,
         "Electabuzz": 6,
         "Rellor": 23,
         "Sandy burmy": 8,
-        "Wiglett": 33,
+        "Wiglett": 34,
         "Bombirdier": 26,
         "Litleo": 8,
         "Purrloin": 4,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 26,
         "Frigibax": 22,
-        "Spheal": 41,
+        "Spheal": 42,
         "Swadloon": 7,
         "Flittle": 30,
         "Unfezant": 3,
@@ -268,7 +268,7 @@
         "Loudred": 4,
         "Ceruledge": 16,
         "Houndour": 12,
-        "Glimmet": 33,
+        "Glimmet": 34,
         "Goomy": 17,
         "Zapdos": 1,
         "Natu": 6,
@@ -366,7 +366,7 @@
         "Finizen": 28,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 20,
+        "Caterpie": 21,
         "Carvanha": 9,
         "Luxio": 8,
         "Treecko": 14,
@@ -751,7 +751,7 @@
         "Dewpider": 6,
         "Poltchageist": 2,
         "Incineroar": 2,
-        "Morpeko": 2,
+        "Morpeko": 3,
         "Parasect": 2,
         "Alolan muk": 1,
         "Iron boulder": 1,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6555,
-      "last_spawn": "2026-06-23T13:07:47.326099"
+      "total_spawns": 6561,
+      "last_spawn": "2026-06-23T13:08:27.098422"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10843,
+    "total_spawns": 10849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
