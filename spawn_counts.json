@@ -26,7 +26,7 @@
         "Dudunsparce": 4,
         "Gothita": 29,
         "Impidimp": 28,
-        "Charmander": 10,
+        "Charmander": 11,
         "Morelull": 3,
         "Abra": 34,
         "Sandile": 30,
@@ -127,7 +127,7 @@
         "Teddiursa": 30,
         "Clamperl": 10,
         "Zigzagoon": 14,
-        "Weedle": 44,
+        "Weedle": 45,
         "Flamigo": 29,
         "Lillipup": 32,
         "Shinx": 35,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 10,
-        "Spearow": 11,
+        "Spearow": 12,
         "Helioptile": 7,
         "Hoothoot": 11,
         "Grookey": 13,
@@ -311,7 +311,7 @@
         "Zangoose": 6,
         "Flygon": 2,
         "Shellos": 4,
-        "Jigglypuff": 11,
+        "Jigglypuff": 12,
         "Nacli": 20,
         "Munna": 6,
         "Pawniard": 8,
@@ -383,7 +383,7 @@
         "Wooloo": 7,
         "Drifloon": 6,
         "Golbat": 11,
-        "Swablu": 7,
+        "Swablu": 8,
         "Shellder": 11,
         "Crobat": 5,
         "Sandshrew": 7,
@@ -925,8 +925,8 @@
         "Serperior": 2,
         "Lycanroc": 1
       },
-      "total_spawns": 6722,
-      "last_spawn": "2026-06-23T13:59:07.028956"
+      "total_spawns": 6727,
+      "last_spawn": "2026-06-23T13:59:37.883858"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -945,7 +945,7 @@
     }
   },
   "global": {
-    "total_spawns": 11011,
+    "total_spawns": 11016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
