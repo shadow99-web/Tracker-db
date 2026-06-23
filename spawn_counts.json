@@ -32,7 +32,7 @@
         "Sandile": 34,
         "Sandygast": 14,
         "Litwick": 63,
-        "Grubbin": 30,
+        "Grubbin": 31,
         "Escavalier": 6,
         "Dratini": 25,
         "Kilowattrel": 8,
@@ -127,7 +127,7 @@
         "Teddiursa": 34,
         "Clamperl": 11,
         "Zigzagoon": 15,
-        "Weedle": 50,
+        "Weedle": 51,
         "Flamigo": 34,
         "Lillipup": 38,
         "Shinx": 41,
@@ -174,7 +174,7 @@
         "Inkay": 14,
         "Gible": 21,
         "Rookidee": 24,
-        "Minccino": 12,
+        "Minccino": 13,
         "Wurmple": 30,
         "Binacle": 11,
         "Grafaiai": 8,
@@ -352,7 +352,7 @@
         "Darumaka": 14,
         "Arboliva": 3,
         "Ledyba": 11,
-        "Spritzee": 6,
+        "Spritzee": 7,
         "Swirlix": 5,
         "Aromatisse": 3,
         "Muk": 4,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7874,
-      "last_spawn": "2026-06-23T16:24:31.900780"
+      "total_spawns": 7878,
+      "last_spawn": "2026-06-23T16:24:57.061463"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -961,10 +961,12 @@
         "Armarouge": 1,
         "Gastly": 1,
         "Scatterbug": 1,
-        "Wurmple": 1
+        "Wurmple": 1,
+        "Gothita": 1,
+        "Gible": 1
       },
-      "total_spawns": 12,
-      "last_spawn": "2026-06-23T16:24:07.462497"
+      "total_spawns": 14,
+      "last_spawn": "2026-06-23T16:25:07.532306"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -974,7 +976,7 @@
     }
   },
   "global": {
-    "total_spawns": 12173,
+    "total_spawns": 12179,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
