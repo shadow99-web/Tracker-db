@@ -43,7 +43,7 @@
         "Fletchling": 25,
         "Skiploom": 11,
         "Timburr": 34,
-        "Dj rotom": 29,
+        "Dj rotom": 30,
         "Surskit": 18,
         "Seedot": 26,
         "Skitty": 9,
@@ -102,7 +102,7 @@
         "Smearguru": 29,
         "Veluza": 49,
         "Barboach": 12,
-        "Klink": 27,
+        "Klink": 28,
         "Honedge": 54,
         "Wingull": 13,
         "Salamence": 1,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 34,
         "Frigibax": 28,
-        "Spheal": 47,
+        "Spheal": 48,
         "Swadloon": 7,
         "Flittle": 37,
         "Unfezant": 3,
@@ -791,7 +791,7 @@
         "Dada zarude": 1,
         "Happiny": 2,
         "Matron trim furfrou": 1,
-        "Gothitelle": 1,
+        "Gothitelle": 2,
         "Dusclops": 4,
         "Galarian yamask": 1,
         "Alolan golem": 1,
@@ -943,8 +943,8 @@
         "Galarian ponyta": 1,
         "Hisuian goodra": 1
       },
-      "total_spawns": 7845,
-      "last_spawn": "2026-06-23T16:21:17.245052"
+      "total_spawns": 7849,
+      "last_spawn": "2026-06-23T16:21:47.324620"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -970,7 +970,7 @@
     }
   },
   "global": {
-    "total_spawns": 12141,
+    "total_spawns": 12145,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
