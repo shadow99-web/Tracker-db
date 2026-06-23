@@ -174,7 +174,7 @@
         "Inkay": 14,
         "Gible": 16,
         "Rookidee": 21,
-        "Minccino": 11,
+        "Minccino": 12,
         "Wurmple": 26,
         "Binacle": 11,
         "Grafaiai": 8,
@@ -195,7 +195,7 @@
         "Spearow": 11,
         "Helioptile": 7,
         "Hoothoot": 11,
-        "Grookey": 12,
+        "Grookey": 13,
         "Meditite": 4,
         "Toedscruel": 10,
         "Probopass": 2,
@@ -658,7 +658,7 @@
         "Absol": 3,
         "Annihilape": 4,
         "Bouffalant": 2,
-        "Crabrawler": 5,
+        "Crabrawler": 6,
         "Budew": 1,
         "Espathra": 5,
         "Vileplume": 2,
@@ -673,7 +673,7 @@
         "Grimer": 3,
         "Crabominable": 2,
         "Quaquaval": 1,
-        "Sprigatito": 7,
+        "Sprigatito": 8,
         "Metagross": 3,
         "Eelektrik": 3,
         "Gastrodon": 3,
@@ -922,10 +922,11 @@
         "Wynaut": 1,
         "Hattrem": 1,
         "Clefable": 1,
-        "Serperior": 1
+        "Serperior": 1,
+        "Lycanroc": 1
       },
-      "total_spawns": 6700,
-      "last_spawn": "2026-06-23T13:56:37.417011"
+      "total_spawns": 6705,
+      "last_spawn": "2026-06-23T13:57:13.320252"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -944,7 +945,7 @@
     }
   },
   "global": {
-    "total_spawns": 10989,
+    "total_spawns": 10994,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
