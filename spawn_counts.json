@@ -138,9 +138,9 @@
         "Croconaw": 12,
         "Phanpy": 6,
         "Brambleghast": 10,
-        "Pidgey": 51,
+        "Pidgey": 53,
         "Rhyhorn": 37,
-        "Sentret": 12,
+        "Sentret": 13,
         "Yungoos": 5,
         "Diglett": 17,
         "Doduo": 10,
@@ -312,7 +312,7 @@
         "Flygon": 2,
         "Shellos": 7,
         "Jigglypuff": 13,
-        "Nacli": 25,
+        "Nacli": 26,
         "Munna": 7,
         "Pawniard": 10,
         "Prof tangrowth": 20,
@@ -827,7 +827,7 @@
         "Sensu oricorio": 3,
         "Rhyperior": 2,
         "Linoone": 1,
-        "Omastar": 1,
+        "Omastar": 2,
         "Boltund": 2,
         "Lickilicky": 3,
         "Dragonite": 1,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8789,
-      "last_spawn": "2026-06-23T18:41:11.872265"
+      "total_spawns": 8794,
+      "last_spawn": "2026-06-23T18:41:47.316414"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13124,
+    "total_spawns": 13129,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
