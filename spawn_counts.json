@@ -152,7 +152,7 @@
         "Roggenrola": 37,
         "Pidove": 39,
         "Dragapult": 5,
-        "Rattata": 19,
+        "Rattata": 20,
         "Flapple": 5,
         "Aron": 32,
         "Boldore": 8,
@@ -195,7 +195,7 @@
         "Spearow": 14,
         "Helioptile": 8,
         "Hoothoot": 12,
-        "Grookey": 15,
+        "Grookey": 16,
         "Meditite": 7,
         "Toedscruel": 12,
         "Probopass": 2,
@@ -256,7 +256,7 @@
         "Arrokuda": 8,
         "Golett": 9,
         "Vullaby": 8,
-        "Cetitan": 9,
+        "Cetitan": 10,
         "Cubone": 12,
         "Gligar": 16,
         "Tirtouga": 12,
@@ -385,7 +385,7 @@
         "Golbat": 12,
         "Swablu": 11,
         "Shellder": 12,
-        "Crobat": 6,
+        "Crobat": 7,
         "Sandshrew": 9,
         "Palafin": 8,
         "Maractus": 2,
@@ -464,7 +464,7 @@
         "Pineco": 10,
         "Chikorita": 8,
         "Woobat": 9,
-        "Wobbuffet": 2,
+        "Wobbuffet": 3,
         "Roselia": 4,
         "Shelgon": 8,
         "Buizel": 11,
@@ -545,7 +545,7 @@
         "Slowbro": 5,
         "Oricorio": 3,
         "Kangaskhan": 2,
-        "Krokorok": 12,
+        "Krokorok": 13,
         "Dragonair": 6,
         "Zweilous": 6,
         "Karrablast": 8,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8462,
-      "last_spawn": "2026-06-23T17:31:27.281517"
+      "total_spawns": 8468,
+      "last_spawn": "2026-06-23T17:32:07.312328"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1003,7 +1003,7 @@
     }
   },
   "global": {
-    "total_spawns": 12791,
+    "total_spawns": 12797,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
