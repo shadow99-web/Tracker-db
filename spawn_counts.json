@@ -65,7 +65,7 @@
         "Ducklett": 3,
         "Lokix": 7,
         "Glimmora": 13,
-        "Starly": 37,
+        "Starly": 38,
         "Tandemaus": 27,
         "Smoliv": 39,
         "Gloom": 9,
@@ -115,7 +115,7 @@
         "Frigibax": 20,
         "Spheal": 38,
         "Swadloon": 6,
-        "Flittle": 24,
+        "Flittle": 25,
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 23,
@@ -131,7 +131,7 @@
         "Flamigo": 24,
         "Lillipup": 29,
         "Shinx": 34,
-        "Bounsweet": 18,
+        "Bounsweet": 19,
         "Noibat": 9,
         "Toxicroak": 4,
         "Charcadet": 33,
@@ -410,7 +410,7 @@
         "Dondozo": 19,
         "Pansear": 9,
         "Cutiefly": 7,
-        "Peakychu": 14,
+        "Peakychu": 15,
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 14,
@@ -908,10 +908,11 @@
         "Primarina": 1,
         "Unown x": 1,
         "Aggron": 1,
-        "Clawitzer": 1
+        "Clawitzer": 1,
+        "Leafeon": 1
       },
-      "total_spawns": 6122,
-      "last_spawn": "2026-06-23T12:19:17.519657"
+      "total_spawns": 6127,
+      "last_spawn": "2026-06-23T12:19:51.729025"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -929,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 10410,
+    "total_spawns": 10415,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
