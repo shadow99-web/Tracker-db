@@ -136,7 +136,7 @@
         "Toxicroak": 5,
         "Charcadet": 45,
         "Croconaw": 12,
-        "Phanpy": 6,
+        "Phanpy": 7,
         "Brambleghast": 10,
         "Pidgey": 53,
         "Rhyhorn": 38,
@@ -213,12 +213,12 @@
         "Fidough": 26,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 40,
+        "Tynamo": 41,
         "Orthworm": 43,
         "Marill": 12,
         "Joltik": 21,
         "Politoed": 3,
-        "Cyndaquil": 19,
+        "Cyndaquil": 20,
         "Fuecoco": 11,
         "Cyclizar": 18,
         "Magmar": 13,
@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 10,
         "Charjabug": 10,
-        "Capsakid": 30,
+        "Capsakid": 31,
         "Revavroom": 15,
         "Exploud": 3,
         "Deino": 21,
@@ -582,7 +582,7 @@
         "Scyther": 11,
         "Anorith": 11,
         "Meowth": 4,
-        "Combee": 8,
+        "Combee": 9,
         "Fletchinder": 14,
         "Kingambit": 2,
         "Clodsire": 10,
@@ -612,7 +612,7 @@
         "Stunky": 6,
         "Pupitar": 8,
         "Avalugg": 4,
-        "Magby": 4,
+        "Magby": 5,
         "Wigglytuff": 2,
         "Venusaur": 3,
         "Mismagius": 2,
@@ -960,8 +960,8 @@
         "Rapidash": 1,
         "Mawile": 1
       },
-      "total_spawns": 8826,
-      "last_spawn": "2026-06-23T18:45:27.352324"
+      "total_spawns": 8832,
+      "last_spawn": "2026-06-23T18:46:07.232791"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1015,7 @@
     }
   },
   "global": {
-    "total_spawns": 13161,
+    "total_spawns": 13167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
