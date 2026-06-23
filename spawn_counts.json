@@ -116,7 +116,7 @@
         "Spheal": 38,
         "Swadloon": 6,
         "Flittle": 24,
-        "Unfezant": 2,
+        "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 23,
         "Solosis": 24,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 3,
         "Tynamo": 25,
-        "Orthworm": 27,
+        "Orthworm": 28,
         "Marill": 10,
         "Joltik": 17,
         "Politoed": 3,
@@ -312,7 +312,7 @@
         "Flygon": 2,
         "Shellos": 3,
         "Jigglypuff": 10,
-        "Nacli": 19,
+        "Nacli": 20,
         "Munna": 5,
         "Pawniard": 6,
         "Prof tangrowth": 10,
@@ -596,7 +596,7 @@
         "Dewgong": 2,
         "Wartortle": 5,
         "Cetoddle": 15,
-        "Kricketot": 4,
+        "Kricketot": 5,
         "Porygon-z": 2,
         "Conkeldurr": 1,
         "Walking wake": 1,
@@ -906,10 +906,11 @@
         "Mienshao": 1,
         "Glaceon": 1,
         "Primarina": 1,
-        "Unown x": 1
+        "Unown x": 1,
+        "Aggron": 1
       },
-      "total_spawns": 6112,
-      "last_spawn": "2026-06-23T12:18:12.015250"
+      "total_spawns": 6117,
+      "last_spawn": "2026-06-23T12:18:47.086550"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -927,7 +928,7 @@
     }
   },
   "global": {
-    "total_spawns": 10400,
+    "total_spawns": 10405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
