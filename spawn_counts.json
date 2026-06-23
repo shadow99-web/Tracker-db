@@ -83,7 +83,7 @@
         "Baltoy": 12,
         "Mareep": 33,
         "Garbodor": 2,
-        "Slakoth": 31,
+        "Slakoth": 32,
         "Togepi": 21,
         "Falinks": 3,
         "Tropius": 1,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 27,
         "Frigibax": 22,
-        "Spheal": 43,
+        "Spheal": 44,
         "Swadloon": 7,
         "Flittle": 31,
         "Unfezant": 3,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 28,
-        "Orthworm": 30,
+        "Orthworm": 31,
         "Marill": 12,
         "Joltik": 19,
         "Politoed": 3,
@@ -327,7 +327,7 @@
         "Dreepy": 30,
         "Tinkaton": 2,
         "Corviknight": 4,
-        "Froakie": 10,
+        "Froakie": 11,
         "Nymble": 36,
         "Ferrothorn": 1,
         "Servine": 6,
@@ -381,7 +381,7 @@
         "Torracat": 10,
         "Hisuian zorua": 1,
         "Wooloo": 7,
-        "Drifloon": 6,
+        "Drifloon": 7,
         "Golbat": 11,
         "Swablu": 8,
         "Shellder": 11,
@@ -691,7 +691,7 @@
         "Gumshoos": 2,
         "Pyroar": 4,
         "Marshadow": 1,
-        "Sliggoo": 4,
+        "Sliggoo": 5,
         "Panpour": 9,
         "Tinkatuff": 3,
         "Bruxish": 3,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6897,
-      "last_spawn": "2026-06-23T14:18:47.286392"
+      "total_spawns": 6903,
+      "last_spawn": "2026-06-23T14:19:27.976388"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11186,
+    "total_spawns": 11192,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
