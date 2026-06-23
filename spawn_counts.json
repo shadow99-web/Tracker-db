@@ -66,7 +66,7 @@
         "Lokix": 11,
         "Glimmora": 16,
         "Starly": 45,
-        "Tandemaus": 37,
+        "Tandemaus": 38,
         "Smoliv": 53,
         "Gloom": 11,
         "Clefairy": 8,
@@ -134,7 +134,7 @@
         "Bounsweet": 30,
         "Noibat": 14,
         "Toxicroak": 5,
-        "Charcadet": 45,
+        "Charcadet": 46,
         "Croconaw": 12,
         "Phanpy": 7,
         "Brambleghast": 10,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 4,
         "Eelektross": 2,
         "Araquanid": 4,
-        "Kadabra": 12,
+        "Kadabra": 13,
         "Chandelure": 6,
         "Ponyta": 14,
         "Togekiss": 4,
@@ -958,10 +958,11 @@
         "Florges": 1,
         "Dandy trim furfrou": 1,
         "Rapidash": 1,
-        "Mawile": 1
+        "Mawile": 1,
+        "Dusknoir": 1
       },
-      "total_spawns": 8838,
-      "last_spawn": "2026-06-23T18:46:47.167508"
+      "total_spawns": 8842,
+      "last_spawn": "2026-06-23T18:47:17.840538"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1015,7 +1016,7 @@
     }
   },
   "global": {
-    "total_spawns": 13173,
+    "total_spawns": 13177,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
