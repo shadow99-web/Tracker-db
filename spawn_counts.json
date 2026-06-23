@@ -991,7 +991,7 @@
         "Hatenna": 2,
         "Dugtrio": 1,
         "Kadabra": 1,
-        "Sandile": 1,
+        "Sandile": 2,
         "Riolu": 1,
         "Hisuian avalugg": 1,
         "Lickilicky": 1,
@@ -1010,10 +1010,11 @@
         "Houndoom": 1,
         "Torracat": 1,
         "Donphan": 1,
-        "Froakie": 1
+        "Froakie": 1,
+        "Hawlucha": 1
       },
-      "total_spawns": 53,
-      "last_spawn": "2026-06-23T22:22:47.479088"
+      "total_spawns": 55,
+      "last_spawn": "2026-06-23T22:23:47.446251"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1023,7 +1024,7 @@
     }
   },
   "global": {
-    "total_spawns": 13387,
+    "total_spawns": 13389,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
