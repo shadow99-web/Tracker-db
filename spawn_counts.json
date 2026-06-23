@@ -15,7 +15,7 @@
         "Bombirdier": 28,
         "Litleo": 10,
         "Purrloin": 5,
-        "Tranquill": 7,
+        "Tranquill": 9,
         "Psyduck": 4,
         "Rockruff": 7,
         "Haunter": 7,
@@ -69,7 +69,7 @@
         "Tandemaus": 32,
         "Smoliv": 48,
         "Gloom": 9,
-        "Clefairy": 6,
+        "Clefairy": 7,
         "Spinda": 2,
         "Fomantis": 5,
         "Droopy tatsugiri": 19,
@@ -155,7 +155,7 @@
         "Rattata": 16,
         "Flapple": 4,
         "Aron": 27,
-        "Boldore": 6,
+        "Boldore": 7,
         "Spinarak": 15,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -362,7 +362,7 @@
         "Fearow": 3,
         "Mankey": 10,
         "Bidoof": 11,
-        "Quilava": 15,
+        "Quilava": 16,
         "Finizen": 37,
         "Unown y": 1,
         "Toucannon": 2,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7477,
-      "last_spawn": "2026-06-23T15:24:11.784137"
+      "total_spawns": 7482,
+      "last_spawn": "2026-06-23T15:24:47.079702"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11766,
+    "total_spawns": 11771,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
