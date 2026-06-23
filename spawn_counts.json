@@ -54,7 +54,7 @@
         "Zubat": 46,
         "Vanillish": 8,
         "Tadbulb": 20,
-        "Magnemite": 38,
+        "Magnemite": 39,
         "Whismur": 24,
         "Monferno": 12,
         "Skwovet": 4,
@@ -100,7 +100,7 @@
         "Numel": 13,
         "Carracosta": 1,
         "Smearguru": 21,
-        "Veluza": 37,
+        "Veluza": 38,
         "Barboach": 8,
         "Klink": 18,
         "Honedge": 46,
@@ -404,13 +404,13 @@
         "Squawkabilly": 7,
         "Electrike": 10,
         "Drampa": 2,
-        "Maschiff": 15,
+        "Maschiff": 16,
         "Rufflet": 11,
         "Kabutops": 2,
         "Dondozo": 17,
         "Pansear": 8,
         "Cutiefly": 7,
-        "Peakychu": 12,
+        "Peakychu": 13,
         "Armarouge": 6,
         "Tyrantrum": 1,
         "Larvitar": 13,
@@ -684,7 +684,7 @@
         "Blaziken": 2,
         "Stantler": 3,
         "Butterfree": 1,
-        "Koffing": 2,
+        "Koffing": 3,
         "Floragato": 2,
         "Seel": 3,
         "Shiinotic": 1,
@@ -892,10 +892,11 @@
         "Orange flower floette": 1,
         "Ambipom": 2,
         "Aqua breed tauros": 1,
-        "Fan rotom": 1
+        "Fan rotom": 1,
+        "Stonjourner": 1
       },
-      "total_spawns": 5784,
-      "last_spawn": "2026-06-23T11:41:08.110621"
+      "total_spawns": 5790,
+      "last_spawn": "2026-06-23T11:41:47.209644"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -907,7 +908,7 @@
     }
   },
   "global": {
-    "total_spawns": 10072,
+    "total_spawns": 10078,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
