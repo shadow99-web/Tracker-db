@@ -50,7 +50,7 @@
         "Greavard": 35,
         "Slugma": 8,
         "Grotle": 9,
-        "Porygon": 34,
+        "Porygon": 35,
         "Zubat": 50,
         "Vanillish": 10,
         "Tadbulb": 32,
@@ -87,7 +87,7 @@
         "Togepi": 24,
         "Falinks": 4,
         "Tropius": 1,
-        "Poliwag": 30,
+        "Poliwag": 31,
         "Metang": 5,
         "Riolu": 5,
         "Exeggcute": 8,
@@ -128,10 +128,10 @@
         "Clamperl": 11,
         "Zigzagoon": 14,
         "Weedle": 50,
-        "Flamigo": 33,
+        "Flamigo": 34,
         "Lillipup": 36,
         "Shinx": 41,
-        "Bounsweet": 24,
+        "Bounsweet": 25,
         "Noibat": 13,
         "Toxicroak": 4,
         "Charcadet": 41,
@@ -161,7 +161,7 @@
         "Spiritomb": 4,
         "Yamper": 8,
         "Tepig": 26,
-        "Kirlia": 7,
+        "Kirlia": 8,
         "Piplup": 5,
         "Kakuna": 14,
         "Weepinbell": 6,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 39,
+        "Shroodle": 40,
         "Duskull": 41,
         "Bergmite": 8,
         "Pignite": 11,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7616,
-      "last_spawn": "2026-06-23T15:40:07.920780"
+      "total_spawns": 7622,
+      "last_spawn": "2026-06-23T15:40:47.500139"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -963,7 +963,7 @@
     }
   },
   "global": {
-    "total_spawns": 11906,
+    "total_spawns": 11912,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
