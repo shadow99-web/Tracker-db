@@ -137,7 +137,7 @@
         "Charcadet": 35,
         "Croconaw": 11,
         "Phanpy": 3,
-        "Brambleghast": 7,
+        "Brambleghast": 8,
         "Pidgey": 43,
         "Rhyhorn": 28,
         "Sentret": 6,
@@ -172,7 +172,7 @@
         "Taillow": 9,
         "Swinub": 31,
         "Inkay": 14,
-        "Gible": 16,
+        "Gible": 17,
         "Rookidee": 21,
         "Minccino": 12,
         "Wurmple": 26,
@@ -199,7 +199,7 @@
         "Meditite": 4,
         "Toedscruel": 10,
         "Probopass": 2,
-        "Scraggy": 13,
+        "Scraggy": 14,
         "Rhydon": 6,
         "Silcoon": 8,
         "Totodile": 8,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 2,
         "Magearna": 1,
         "Mabosstiff": 6,
-        "Squirtle": 13,
+        "Squirtle": 14,
         "Remoraid": 5,
         "Torracat": 10,
         "Hisuian zorua": 1,
@@ -498,7 +498,7 @@
         "Basculin": 1,
         "Throh": 2,
         "Comfey": 2,
-        "Applin": 11,
+        "Applin": 12,
         "Staraptor": 2,
         "Mimikyu": 1,
         "Alolan sandslash": 1,
@@ -930,8 +930,8 @@
         "Delphox": 1,
         "Rampardos": 1
       },
-      "total_spawns": 6849,
-      "last_spawn": "2026-06-23T14:13:27.027954"
+      "total_spawns": 6854,
+      "last_spawn": "2026-06-23T14:13:57.171880"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -950,7 +950,7 @@
     }
   },
   "global": {
-    "total_spawns": 11138,
+    "total_spawns": 11143,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
