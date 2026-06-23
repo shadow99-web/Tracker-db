@@ -109,10 +109,10 @@
         "Drakloak": 9,
         "Chewtle": 7,
         "Scizor": 1,
-        "Sneasel": 12,
+        "Sneasel": 13,
         "Bonsly": 2,
         "Horsea": 29,
-        "Frigibax": 24,
+        "Frigibax": 25,
         "Spheal": 44,
         "Swadloon": 7,
         "Flittle": 31,
@@ -172,7 +172,7 @@
         "Taillow": 10,
         "Swinub": 32,
         "Inkay": 14,
-        "Gible": 18,
+        "Gible": 19,
         "Rookidee": 21,
         "Minccino": 12,
         "Wurmple": 26,
@@ -549,7 +549,7 @@
         "Dragonair": 3,
         "Zweilous": 6,
         "Karrablast": 6,
-        "Shroomish": 11,
+        "Shroomish": 12,
         "Snover": 7,
         "Drednaw": 2,
         "Skarmory": 4,
@@ -931,10 +931,11 @@
         "Rampardos": 1,
         "Steelix": 1,
         "Excadrill": 1,
-        "Druddigon": 1
+        "Druddigon": 1,
+        "Honchkrow": 1
       },
-      "total_spawns": 7168,
-      "last_spawn": "2026-06-23T14:49:11.863575"
+      "total_spawns": 7173,
+      "last_spawn": "2026-06-23T14:49:47.184397"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +954,7 @@
     }
   },
   "global": {
-    "total_spawns": 11457,
+    "total_spawns": 11462,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
