@@ -25,7 +25,7 @@
         "Machop": 31,
         "Dudunsparce": 6,
         "Gothita": 34,
-        "Impidimp": 34,
+        "Impidimp": 35,
         "Charmander": 15,
         "Morelull": 5,
         "Abra": 41,
@@ -45,7 +45,7 @@
         "Timburr": 35,
         "Dj rotom": 34,
         "Surskit": 19,
-        "Seedot": 27,
+        "Seedot": 28,
         "Skitty": 9,
         "Greavard": 42,
         "Slugma": 9,
@@ -268,7 +268,7 @@
         "Loudred": 5,
         "Ceruledge": 18,
         "Houndour": 12,
-        "Glimmet": 40,
+        "Glimmet": 41,
         "Goomy": 22,
         "Zapdos": 1,
         "Natu": 11,
@@ -437,7 +437,7 @@
         "Paldean wooper": 3,
         "Salandit": 11,
         "School wishiwashi": 4,
-        "Snivy": 8,
+        "Snivy": 9,
         "Wyrdeer": 2,
         "Tangrowth": 1,
         "Galarian zen darmanitan": 2,
@@ -539,7 +539,7 @@
         "Oinkologne": 11,
         "Onix": 8,
         "Vanilluxe": 2,
-        "Jolteon": 3,
+        "Jolteon": 4,
         "Pawmot": 5,
         "Skiddo": 9,
         "Slowbro": 5,
@@ -951,8 +951,8 @@
         "Unown exclamation": 1,
         "Ninjask": 1
       },
-      "total_spawns": 8452,
-      "last_spawn": "2026-06-23T17:30:17.172736"
+      "total_spawns": 8457,
+      "last_spawn": "2026-06-23T17:30:52.039599"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -989,10 +989,11 @@
         "Archen": 1,
         "Shinx": 1,
         "Pikachu": 1,
-        "Rhyhorn": 1
+        "Rhyhorn": 1,
+        "Tynamo": 1
       },
-      "total_spawns": 41,
-      "last_spawn": "2026-06-23T16:48:17.050074"
+      "total_spawns": 42,
+      "last_spawn": "2026-06-23T17:30:29.401389"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1002,7 +1003,7 @@
     }
   },
   "global": {
-    "total_spawns": 12780,
+    "total_spawns": 12786,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
