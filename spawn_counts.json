@@ -45,7 +45,7 @@
         "Timburr": 26,
         "Dj rotom": 18,
         "Surskit": 15,
-        "Seedot": 15,
+        "Seedot": 16,
         "Skitty": 7,
         "Greavard": 26,
         "Slugma": 6,
@@ -218,7 +218,7 @@
         "Marill": 10,
         "Joltik": 17,
         "Politoed": 3,
-        "Cyndaquil": 12,
+        "Cyndaquil": 13,
         "Fuecoco": 8,
         "Cyclizar": 13,
         "Magmar": 10,
@@ -234,7 +234,7 @@
         "Petilil": 6,
         "Marshtomp": 10,
         "Eiscue": 3,
-        "Summer deerling": 11,
+        "Summer deerling": 12,
         "Clauncher": 7,
         "Clobbopus": 3,
         "Omanyte": 8,
@@ -366,7 +366,7 @@
         "Finizen": 25,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 17,
+        "Caterpie": 18,
         "Carvanha": 8,
         "Luxio": 6,
         "Treecko": 14,
@@ -573,7 +573,7 @@
         "Noice face eiscue": 2,
         "Electivire": 3,
         "Cascoon": 2,
-        "Tentacruel": 3,
+        "Tentacruel": 4,
         "Nuzleaf": 4,
         "Scorbunny": 10,
         "Huntail": 1,
@@ -895,7 +895,7 @@
         "Fan rotom": 1,
         "Stonjourner": 1,
         "Elekid": 1,
-        "Floette": 1,
+        "Floette": 2,
         "Shedinja": 1,
         "Baxcalibur": 1,
         "Galarian articuno": 1,
@@ -907,8 +907,8 @@
         "Glaceon": 1,
         "Primarina": 1
       },
-      "total_spawns": 6042,
-      "last_spawn": "2026-06-23T12:10:27.509642"
+      "total_spawns": 6048,
+      "last_spawn": "2026-06-23T12:11:07.223655"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -926,7 +926,7 @@
     }
   },
   "global": {
-    "total_spawns": 10330,
+    "total_spawns": 10336,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
