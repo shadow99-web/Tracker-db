@@ -127,7 +127,7 @@
         "Teddiursa": 31,
         "Clamperl": 11,
         "Zigzagoon": 14,
-        "Weedle": 46,
+        "Weedle": 47,
         "Flamigo": 32,
         "Lillipup": 33,
         "Shinx": 37,
@@ -234,14 +234,14 @@
         "Petilil": 6,
         "Marshtomp": 11,
         "Eiscue": 4,
-        "Summer deerling": 12,
+        "Summer deerling": 13,
         "Clauncher": 9,
         "Clobbopus": 4,
         "Omanyte": 8,
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 35,
-        "Duskull": 36,
+        "Duskull": 37,
         "Bergmite": 8,
         "Pignite": 10,
         "Lurantis": 1,
@@ -519,7 +519,7 @@
         "Hariyama": 2,
         "Victreebel": 1,
         "Arctibax": 3,
-        "Foongus": 12,
+        "Foongus": 13,
         "Pansage": 5,
         "Cranidos": 6,
         "Spewpa": 6,
@@ -585,7 +585,7 @@
         "Combee": 2,
         "Fletchinder": 12,
         "Kingambit": 2,
-        "Clodsire": 8,
+        "Clodsire": 9,
         "Blaze breed tauros": 1,
         "Wimpod": 4,
         "Torterra": 2,
@@ -932,8 +932,8 @@
         "Steelix": 1,
         "Excadrill": 1
       },
-      "total_spawns": 7072,
-      "last_spawn": "2026-06-23T14:38:27.065286"
+      "total_spawns": 7077,
+      "last_spawn": "2026-06-23T14:38:57.239391"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +952,7 @@
     }
   },
   "global": {
-    "total_spawns": 11361,
+    "total_spawns": 11366,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
