@@ -109,7 +109,7 @@
         "Drakloak": 9,
         "Chewtle": 8,
         "Scizor": 1,
-        "Sneasel": 14,
+        "Sneasel": 15,
         "Bonsly": 2,
         "Horsea": 34,
         "Frigibax": 28,
@@ -139,7 +139,7 @@
         "Phanpy": 5,
         "Brambleghast": 10,
         "Pidgey": 49,
-        "Rhyhorn": 36,
+        "Rhyhorn": 37,
         "Sentret": 11,
         "Yungoos": 4,
         "Diglett": 16,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 9,
         "Roggenrola": 34,
-        "Pidove": 38,
+        "Pidove": 39,
         "Dragapult": 5,
         "Rattata": 19,
         "Flapple": 5,
@@ -316,7 +316,7 @@
         "Munna": 7,
         "Pawniard": 10,
         "Prof tangrowth": 16,
-        "Jangmo-o": 15,
+        "Jangmo-o": 16,
         "Trash wormadam": 3,
         "Quaxly": 10,
         "Gossifleur": 11,
@@ -670,7 +670,7 @@
         "Appletun": 1,
         "Krookodile": 4,
         "Primeape": 3,
-        "Grimer": 5,
+        "Grimer": 6,
         "Crabominable": 3,
         "Quaquaval": 1,
         "Sprigatito": 13,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8251,
-      "last_spawn": "2026-06-23T17:07:17.256684"
+      "total_spawns": 8256,
+      "last_spawn": "2026-06-23T17:07:52.008117"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12579,
+    "total_spawns": 12584,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
