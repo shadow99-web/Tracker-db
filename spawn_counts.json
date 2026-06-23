@@ -45,13 +45,13 @@
         "Timburr": 27,
         "Dj rotom": 22,
         "Surskit": 15,
-        "Seedot": 20,
+        "Seedot": 21,
         "Skitty": 9,
         "Greavard": 30,
         "Slugma": 6,
         "Grotle": 6,
         "Porygon": 26,
-        "Zubat": 46,
+        "Zubat": 47,
         "Vanillish": 8,
         "Tadbulb": 25,
         "Magnemite": 41,
@@ -79,7 +79,7 @@
         "Phantump": 13,
         "Duosion": 6,
         "Amaura": 9,
-        "Gimmighoul": 29,
+        "Gimmighoul": 30,
         "Baltoy": 12,
         "Mareep": 33,
         "Garbodor": 1,
@@ -164,11 +164,11 @@
         "Kirlia": 5,
         "Piplup": 4,
         "Kakuna": 13,
-        "Weepinbell": 4,
+        "Weepinbell": 5,
         "Klawf": 29,
         "Vanillite": 26,
         "Flareon": 3,
-        "Gastly": 26,
+        "Gastly": 27,
         "Taillow": 9,
         "Swinub": 29,
         "Inkay": 12,
@@ -840,7 +840,7 @@
         "Manectric": 2,
         "Gallade": 1,
         "Family of three maushold": 1,
-        "Lunatone": 1,
+        "Lunatone": 2,
         "Exeggutor": 1,
         "Granbull": 1,
         "Graveler": 2,
@@ -916,8 +916,8 @@
         "Galarian rapidash": 1,
         "Skuntank": 1
       },
-      "total_spawns": 6352,
-      "last_spawn": "2026-06-23T12:45:07.324837"
+      "total_spawns": 6358,
+      "last_spawn": "2026-06-23T12:45:47.264767"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -935,7 +935,7 @@
     }
   },
   "global": {
-    "total_spawns": 10640,
+    "total_spawns": 10646,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
