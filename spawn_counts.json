@@ -25,7 +25,7 @@
         "Machop": 24,
         "Dudunsparce": 4,
         "Gothita": 28,
-        "Impidimp": 27,
+        "Impidimp": 28,
         "Charmander": 10,
         "Morelull": 2,
         "Abra": 34,
@@ -128,7 +128,7 @@
         "Clamperl": 10,
         "Zigzagoon": 13,
         "Weedle": 44,
-        "Flamigo": 28,
+        "Flamigo": 29,
         "Lillipup": 31,
         "Shinx": 35,
         "Bounsweet": 22,
@@ -314,7 +314,7 @@
         "Jigglypuff": 11,
         "Nacli": 20,
         "Munna": 6,
-        "Pawniard": 6,
+        "Pawniard": 7,
         "Prof tangrowth": 11,
         "Jangmo-o": 13,
         "Trash wormadam": 2,
@@ -458,7 +458,7 @@
         "Iron moth": 1,
         "Cherubi": 5,
         "Cradily": 3,
-        "Vulpix": 9,
+        "Vulpix": 10,
         "Paras": 8,
         "Herdier": 8,
         "Pineco": 6,
@@ -921,8 +921,8 @@
         "Sableye": 1,
         "Wynaut": 1
       },
-      "total_spawns": 6566,
-      "last_spawn": "2026-06-23T13:08:57.136378"
+      "total_spawns": 6570,
+      "last_spawn": "2026-06-23T13:09:27.174531"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 10854,
+    "total_spawns": 10858,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
