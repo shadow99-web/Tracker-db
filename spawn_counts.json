@@ -43,11 +43,11 @@
         "Fletchling": 23,
         "Skiploom": 9,
         "Timburr": 26,
-        "Dj rotom": 18,
+        "Dj rotom": 19,
         "Surskit": 15,
         "Seedot": 16,
         "Skitty": 7,
-        "Greavard": 27,
+        "Greavard": 28,
         "Slugma": 6,
         "Grotle": 6,
         "Porygon": 25,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
-        "Sewaddle": 29,
+        "Sewaddle": 30,
         "Fidough": 19,
         "Noivern": 2,
         "Feraligatr": 3,
@@ -477,7 +477,7 @@
         "Shelmet": 6,
         "Solrock": 1,
         "Slowpoke": 10,
-        "Dolliv": 4,
+        "Dolliv": 5,
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 7,
@@ -804,7 +804,7 @@
         "Mime jr.": 1,
         "Voltorb": 2,
         "Lickitung": 2,
-        "Blue-striped basculin": 2,
+        "Blue-striped basculin": 3,
         "Barraskewda": 2,
         "Salazzle": 3,
         "Pidgeot": 3,
@@ -829,7 +829,7 @@
         "Linoone": 1,
         "Omastar": 1,
         "Boltund": 1,
-        "Lickilicky": 1,
+        "Lickilicky": 2,
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 1,
@@ -908,8 +908,8 @@
         "Primarina": 1,
         "Unown x": 1
       },
-      "total_spawns": 6075,
-      "last_spawn": "2026-06-23T12:14:07.259822"
+      "total_spawns": 6081,
+      "last_spawn": "2026-06-23T12:14:47.151739"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -927,7 +927,7 @@
     }
   },
   "global": {
-    "total_spawns": 10363,
+    "total_spawns": 10369,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
