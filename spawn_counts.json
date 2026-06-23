@@ -139,7 +139,7 @@
         "Phanpy": 3,
         "Brambleghast": 9,
         "Pidgey": 43,
-        "Rhyhorn": 29,
+        "Rhyhorn": 30,
         "Sentret": 7,
         "Yungoos": 3,
         "Diglett": 14,
@@ -169,7 +169,7 @@
         "Vanillite": 26,
         "Flareon": 3,
         "Gastly": 29,
-        "Taillow": 9,
+        "Taillow": 10,
         "Swinub": 32,
         "Inkay": 14,
         "Gible": 18,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 28,
-        "Orthworm": 33,
+        "Orthworm": 34,
         "Marill": 12,
         "Joltik": 19,
         "Politoed": 3,
@@ -240,7 +240,7 @@
         "Omanyte": 8,
         "Galvantula": 2,
         "Chansey": 7,
-        "Shroodle": 34,
+        "Shroodle": 35,
         "Duskull": 36,
         "Bergmite": 8,
         "Pignite": 10,
@@ -487,7 +487,7 @@
         "Staravia": 7,
         "Chatot": 3,
         "Houndoom": 4,
-        "Dottler": 7,
+        "Dottler": 8,
         "Eevee": 6,
         "Copperajah": 2,
         "Magneton": 7,
@@ -787,7 +787,7 @@
         "Shieldon": 3,
         "Masquerain": 2,
         "Watchog": 2,
-        "Ditto": 3,
+        "Ditto": 4,
         "Dada zarude": 1,
         "Happiny": 2,
         "Matron trim furfrou": 1,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 7027,
-      "last_spawn": "2026-06-23T14:33:27.417275"
+      "total_spawns": 7033,
+      "last_spawn": "2026-06-23T14:34:07.093840"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11316,
+    "total_spawns": 11322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
