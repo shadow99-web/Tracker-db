@@ -142,14 +142,14 @@
         "Rhyhorn": 28,
         "Sentret": 6,
         "Yungoos": 3,
-        "Diglett": 12,
+        "Diglett": 13,
         "Doduo": 9,
         "Lairon": 9,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 8,
-        "Roggenrola": 27,
+        "Roggenrola": 28,
         "Pidove": 37,
         "Dragapult": 5,
         "Rattata": 15,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 6,
         "Growlithe": 9,
-        "Sewaddle": 30,
+        "Sewaddle": 31,
         "Fidough": 21,
         "Noivern": 2,
         "Feraligatr": 4,
@@ -321,7 +321,7 @@
         "Quaxly": 9,
         "Gossifleur": 9,
         "Oshawott": 9,
-        "Murkrow": 10,
+        "Murkrow": 11,
         "Bellsprout": 39,
         "Mudbray": 9,
         "Dreepy": 29,
@@ -916,7 +916,7 @@
         "Galarian rapidash": 1,
         "Skuntank": 1,
         "Gogoat": 1,
-        "Bellossom": 2,
+        "Bellossom": 3,
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 1,
@@ -929,8 +929,8 @@
         "Unown l": 1,
         "Delphox": 1
       },
-      "total_spawns": 6834,
-      "last_spawn": "2026-06-23T14:11:47.086122"
+      "total_spawns": 6839,
+      "last_spawn": "2026-06-23T14:12:17.129358"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -949,7 +949,7 @@
     }
   },
   "global": {
-    "total_spawns": 11123,
+    "total_spawns": 11128,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
