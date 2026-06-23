@@ -185,7 +185,7 @@
         "Elgyem": 7,
         "Luvdisc": 2,
         "Vigoroth": 8,
-        "Skorupi": 6,
+        "Skorupi": 7,
         "Pikachu": 6,
         "Blue plumage squawkabilly": 6,
         "Thwackey": 9,
@@ -315,7 +315,7 @@
         "Nacli": 19,
         "Munna": 5,
         "Pawniard": 6,
-        "Prof tangrowth": 8,
+        "Prof tangrowth": 9,
         "Jangmo-o": 9,
         "Trash wormadam": 1,
         "Quaxly": 8,
@@ -552,7 +552,7 @@
         "Shroomish": 11,
         "Snover": 6,
         "Drednaw": 2,
-        "Skarmory": 2,
+        "Skarmory": 3,
         "Midnight lycanroc": 2,
         "Eelektross": 1,
         "Araquanid": 2,
@@ -600,7 +600,7 @@
         "Porygon-z": 2,
         "Conkeldurr": 1,
         "Walking wake": 1,
-        "Yellow flower floette": 1,
+        "Yellow flower floette": 2,
         "Medicham": 2,
         "Doublade": 4,
         "Naclstack": 4,
@@ -781,7 +781,7 @@
         "Wishiwashi": 1,
         "Cofagrigus": 2,
         "Camerupt": 1,
-        "Castform": 3,
+        "Castform": 4,
         "Weavile": 1,
         "Gorging cramorant": 1,
         "Shieldon": 2,
@@ -896,8 +896,8 @@
         "Stonjourner": 1,
         "Elekid": 1
       },
-      "total_spawns": 5838,
-      "last_spawn": "2026-06-23T11:47:06.986403"
+      "total_spawns": 5843,
+      "last_spawn": "2026-06-23T11:47:37.128947"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -909,7 +909,7 @@
     }
   },
   "global": {
-    "total_spawns": 10126,
+    "total_spawns": 10131,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
