@@ -179,7 +179,7 @@
         "Binacle": 12,
         "Grafaiai": 9,
         "Quilladin": 6,
-        "Geodude": 42,
+        "Geodude": 43,
         "Espurr": 10,
         "Cottonee": 4,
         "Elgyem": 9,
@@ -197,7 +197,7 @@
         "Hoothoot": 12,
         "Grookey": 16,
         "Meditite": 8,
-        "Toedscruel": 12,
+        "Toedscruel": 13,
         "Probopass": 2,
         "Scraggy": 16,
         "Rhydon": 10,
@@ -414,7 +414,7 @@
         "Armarouge": 9,
         "Tyrantrum": 1,
         "Larvitar": 18,
-        "Tentacool": 5,
+        "Tentacool": 6,
         "Volcanion": 1,
         "Roaming gimmighoul": 22,
         "Summer sawsbuck": 6,
@@ -567,7 +567,7 @@
         "Lilligant": 4,
         "Rabsca": 6,
         "Gulpin": 14,
-        "Crawdaunt": 3,
+        "Crawdaunt": 4,
         "Magmortar": 1,
         "Palossand": 2,
         "Noice face eiscue": 2,
@@ -812,7 +812,7 @@
         "Barbaracle": 3,
         "Okidogi": 1,
         "Tauros": 2,
-        "Slurpuff": 2,
+        "Slurpuff": 3,
         "Umbreon": 1,
         "Hypno": 2,
         "Galarian weezing": 1,
@@ -953,8 +953,8 @@
         "Nidoking": 1,
         "Pichu": 1
       },
-      "total_spawns": 8558,
-      "last_spawn": "2026-06-23T17:42:27.269299"
+      "total_spawns": 8563,
+      "last_spawn": "2026-06-23T17:42:57.443656"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,7 +1006,7 @@
     }
   },
   "global": {
-    "total_spawns": 12888,
+    "total_spawns": 12893,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
