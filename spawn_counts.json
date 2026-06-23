@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 35,
         "Frigibax": 30,
-        "Spheal": 55,
+        "Spheal": 56,
         "Swadloon": 8,
         "Flittle": 40,
         "Unfezant": 3,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 15,
         "Togetic": 9,
         "Palpitoad": 4,
-        "Pikipek": 51,
+        "Pikipek": 52,
         "Teddiursa": 36,
         "Clamperl": 12,
         "Zigzagoon": 16,
@@ -587,7 +587,7 @@
         "Kingambit": 2,
         "Clodsire": 10,
         "Blaze breed tauros": 1,
-        "Wimpod": 6,
+        "Wimpod": 7,
         "Torterra": 2,
         "Darmanitan": 1,
         "Rainy castform": 1,
@@ -607,7 +607,7 @@
         "Claydol": 1,
         "Turtonator": 2,
         "Hitmonlee": 2,
-        "Houndstone": 4,
+        "Houndstone": 5,
         "Sandy wormadam": 2,
         "Stunky": 6,
         "Pupitar": 7,
@@ -951,10 +951,11 @@
         "Unown exclamation": 1,
         "Ninjask": 1,
         "Nidoking": 1,
-        "Pichu": 1
+        "Pichu": 1,
+        "Carnivine": 1
       },
-      "total_spawns": 8573,
-      "last_spawn": "2026-06-23T17:44:07.140262"
+      "total_spawns": 8578,
+      "last_spawn": "2026-06-23T17:44:47.014518"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1006,7 +1007,7 @@
     }
   },
   "global": {
-    "total_spawns": 12903,
+    "total_spawns": 12908,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
