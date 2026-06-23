@@ -9,7 +9,7 @@
         "Drilbur": 6,
         "Pawmi": 37,
         "Electabuzz": 6,
-        "Rellor": 27,
+        "Rellor": 28,
         "Sandy burmy": 8,
         "Wiglett": 38,
         "Bombirdier": 26,
@@ -351,7 +351,7 @@
         "Steenee": 11,
         "Darumaka": 11,
         "Arboliva": 3,
-        "Ledyba": 10,
+        "Ledyba": 11,
         "Spritzee": 4,
         "Swirlix": 5,
         "Aromatisse": 3,
@@ -451,7 +451,7 @@
         "Misdreavus": 5,
         "Seviper": 1,
         "Scovillain": 8,
-        "Sunkern": 6,
+        "Sunkern": 7,
         "Drizzile": 5,
         "Sunflora": 3,
         "Passimian": 2,
@@ -540,7 +540,7 @@
         "Onix": 8,
         "Vanilluxe": 1,
         "Jolteon": 2,
-        "Pawmot": 3,
+        "Pawmot": 4,
         "Skiddo": 5,
         "Slowbro": 5,
         "Oricorio": 2,
@@ -703,7 +703,7 @@
         "Litten": 10,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 23,
+        "Hatenna": 24,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -902,7 +902,7 @@
         "Audino": 1,
         "Orange flower florges": 1,
         "Cursola": 1,
-        "Snorlax": 2,
+        "Snorlax": 3,
         "Mienshao": 1,
         "Glaceon": 1,
         "Primarina": 1,
@@ -937,8 +937,8 @@
         "Machoke": 1,
         "Sunshine cherrim": 1
       },
-      "total_spawns": 7253,
-      "last_spawn": "2026-06-23T14:58:47.372032"
+      "total_spawns": 7259,
+      "last_spawn": "2026-06-23T14:59:27.274288"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -957,7 +957,7 @@
     }
   },
   "global": {
-    "total_spawns": 11542,
+    "total_spawns": 11548,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
