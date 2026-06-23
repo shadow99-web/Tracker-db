@@ -28,7 +28,7 @@
         "Impidimp": 32,
         "Charmander": 14,
         "Morelull": 5,
-        "Abra": 39,
+        "Abra": 40,
         "Sandile": 34,
         "Sandygast": 14,
         "Litwick": 63,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 34,
         "Frigibax": 28,
-        "Spheal": 50,
+        "Spheal": 51,
         "Swadloon": 7,
         "Flittle": 38,
         "Unfezant": 3,
@@ -175,7 +175,7 @@
         "Gible": 21,
         "Rookidee": 25,
         "Minccino": 13,
-        "Wurmple": 30,
+        "Wurmple": 31,
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 12,
-        "Nymble": 40,
+        "Nymble": 41,
         "Ferrothorn": 1,
         "Servine": 7,
         "Blitzle": 10,
@@ -944,8 +944,8 @@
         "Hisuian goodra": 1,
         "Giratina": 1
       },
-      "total_spawns": 7938,
-      "last_spawn": "2026-06-23T16:31:37.524978"
+      "total_spawns": 7942,
+      "last_spawn": "2026-06-23T16:32:07.414178"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -971,10 +971,12 @@
         "Chef dente": 1,
         "Hatenna": 1,
         "Dugtrio": 1,
-        "Kadabra": 1
+        "Kadabra": 1,
+        "Sandile": 1,
+        "Riolu": 1
       },
-      "total_spawns": 24,
-      "last_spawn": "2026-06-23T16:31:27.548533"
+      "total_spawns": 26,
+      "last_spawn": "2026-06-23T16:32:07.575366"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -984,7 +986,7 @@
     }
   },
   "global": {
-    "total_spawns": 12249,
+    "total_spawns": 12255,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
