@@ -65,7 +65,7 @@
         "Ducklett": 4,
         "Lokix": 7,
         "Glimmora": 13,
-        "Starly": 38,
+        "Starly": 39,
         "Tandemaus": 29,
         "Smoliv": 43,
         "Gloom": 9,
@@ -437,7 +437,7 @@
         "Paldean wooper": 3,
         "Salandit": 8,
         "School wishiwashi": 4,
-        "Snivy": 6,
+        "Snivy": 7,
         "Wyrdeer": 2,
         "Tangrowth": 1,
         "Galarian zen darmanitan": 2,
@@ -535,7 +535,7 @@
         "Trevenant": 5,
         "Trubbish": 3,
         "Zorua": 7,
-        "Archen": 14,
+        "Archen": 15,
         "Oinkologne": 10,
         "Onix": 8,
         "Vanilluxe": 1,
@@ -592,7 +592,7 @@
         "Darmanitan": 1,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
-        "Mienfoo": 9,
+        "Mienfoo": 10,
         "Dewgong": 3,
         "Wartortle": 6,
         "Cetoddle": 17,
@@ -919,10 +919,11 @@
         "Bellossom": 1,
         "Pirouette meloetta": 1,
         "Sableye": 1,
-        "Wynaut": 1
+        "Wynaut": 1,
+        "Hattrem": 1
       },
-      "total_spawns": 6599,
-      "last_spawn": "2026-06-23T13:12:47.280459"
+      "total_spawns": 6604,
+      "last_spawn": "2026-06-23T13:13:17.434597"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -940,7 +941,7 @@
     }
   },
   "global": {
-    "total_spawns": 10887,
+    "total_spawns": 10892,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
