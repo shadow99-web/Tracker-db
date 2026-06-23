@@ -121,7 +121,7 @@
         "Ralts": 22,
         "Solosis": 21,
         "Battle cyclizar": 13,
-        "Togetic": 5,
+        "Togetic": 6,
         "Palpitoad": 3,
         "Pikipek": 33,
         "Teddiursa": 28,
@@ -328,7 +328,7 @@
         "Tinkaton": 2,
         "Corviknight": 3,
         "Froakie": 5,
-        "Nymble": 28,
+        "Nymble": 29,
         "Ferrothorn": 1,
         "Servine": 6,
         "Blitzle": 3,
@@ -521,7 +521,7 @@
         "Arctibax": 2,
         "Foongus": 9,
         "Pansage": 4,
-        "Cranidos": 5,
+        "Cranidos": 6,
         "Spewpa": 4,
         "Tyrunt": 4,
         "Garganacl": 1,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 2,
         "Eelektross": 1,
         "Araquanid": 2,
-        "Kadabra": 3,
+        "Kadabra": 4,
         "Chandelure": 4,
         "Ponyta": 8,
         "Togekiss": 2,
@@ -692,7 +692,7 @@
         "Pyroar": 2,
         "Marshadow": 1,
         "Sliggoo": 2,
-        "Panpour": 6,
+        "Panpour": 7,
         "Tinkatuff": 3,
         "Bruxish": 2,
         "Corvisquire": 1,
@@ -890,8 +890,8 @@
         "Whiscash": 1,
         "Heracross": 1
       },
-      "total_spawns": 5697,
-      "last_spawn": "2026-06-23T11:31:07.208590"
+      "total_spawns": 5702,
+      "last_spawn": "2026-06-23T11:31:37.249539"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -901,7 +901,7 @@
     }
   },
   "global": {
-    "total_spawns": 9984,
+    "total_spawns": 9989,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
