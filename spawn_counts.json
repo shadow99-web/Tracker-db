@@ -120,7 +120,7 @@
         "Yamask": 4,
         "Ralts": 27,
         "Solosis": 31,
-        "Battle cyclizar": 14,
+        "Battle cyclizar": 15,
         "Togetic": 8,
         "Palpitoad": 3,
         "Pikipek": 43,
@@ -148,7 +148,7 @@
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
-        "Bulbasaur": 8,
+        "Bulbasaur": 9,
         "Roggenrola": 28,
         "Pidove": 37,
         "Dragapult": 5,
@@ -453,7 +453,7 @@
         "Scovillain": 7,
         "Sunkern": 5,
         "Drizzile": 5,
-        "Sunflora": 2,
+        "Sunflora": 3,
         "Passimian": 2,
         "Iron moth": 1,
         "Cherubi": 5,
@@ -481,7 +481,7 @@
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 7,
-        "Tyrogue": 7,
+        "Tyrogue": 8,
         "Vikavolt": 1,
         "Trash burmy": 2,
         "Staravia": 7,
@@ -932,8 +932,8 @@
         "Steelix": 1,
         "Excadrill": 1
       },
-      "total_spawns": 7077,
-      "last_spawn": "2026-06-23T14:38:57.239391"
+      "total_spawns": 7081,
+      "last_spawn": "2026-06-23T14:39:27.640258"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +952,7 @@
     }
   },
   "global": {
-    "total_spawns": 11366,
+    "total_spawns": 11370,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
