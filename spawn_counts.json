@@ -50,7 +50,7 @@
         "Greavard": 32,
         "Slugma": 6,
         "Grotle": 7,
-        "Porygon": 27,
+        "Porygon": 28,
         "Zubat": 47,
         "Vanillish": 10,
         "Tadbulb": 28,
@@ -100,7 +100,7 @@
         "Numel": 16,
         "Carracosta": 1,
         "Smearguru": 25,
-        "Veluza": 42,
+        "Veluza": 43,
         "Barboach": 9,
         "Klink": 21,
         "Honedge": 48,
@@ -156,7 +156,7 @@
         "Flapple": 3,
         "Aron": 25,
         "Boldore": 3,
-        "Spinarak": 12,
+        "Spinarak": 13,
         "Delcatty": 3,
         "Spiritomb": 3,
         "Yamper": 8,
@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
         "Toxapex": 1,
-        "Lileep": 5,
+        "Lileep": 6,
         "Rolycoly": 26,
         "Bronzor": 15,
         "Dartrix": 6,
@@ -366,7 +366,7 @@
         "Finizen": 28,
         "Unown y": 1,
         "Toucannon": 2,
-        "Caterpie": 21,
+        "Caterpie": 22,
         "Carvanha": 9,
         "Luxio": 8,
         "Treecko": 14,
@@ -737,7 +737,7 @@
         "Hippowdon": 2,
         "Lumineon": 3,
         "Thievul": 2,
-        "Greedent": 2,
+        "Greedent": 3,
         "Ekans": 8,
         "Venonat": 7,
         "Pelipper": 4,
@@ -924,8 +924,8 @@
         "Clefable": 1,
         "Serperior": 1
       },
-      "total_spawns": 6683,
-      "last_spawn": "2026-06-23T13:54:47.270903"
+      "total_spawns": 6689,
+      "last_spawn": "2026-06-23T13:55:27.397803"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -944,7 +944,7 @@
     }
   },
   "global": {
-    "total_spawns": 10972,
+    "total_spawns": 10978,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
