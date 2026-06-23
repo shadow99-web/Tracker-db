@@ -152,9 +152,9 @@
         "Roggenrola": 38,
         "Pidove": 40,
         "Dragapult": 5,
-        "Rattata": 21,
+        "Rattata": 22,
         "Flapple": 5,
-        "Aron": 33,
+        "Aron": 34,
         "Boldore": 9,
         "Spinarak": 17,
         "Delcatty": 4,
@@ -334,7 +334,7 @@
         "Blitzle": 11,
         "Musharna": 2,
         "Bisharp": 3,
-        "Chespin": 8,
+        "Chespin": 9,
         "Sealeo": 12,
         "Staryu": 8,
         "Samurott": 2,
@@ -416,7 +416,7 @@
         "Larvitar": 18,
         "Tentacool": 6,
         "Volcanion": 1,
-        "Roaming gimmighoul": 22,
+        "Roaming gimmighoul": 23,
         "Summer sawsbuck": 6,
         "Delibird": 2,
         "Ride cyclizar": 14,
@@ -561,7 +561,7 @@
         "Ponyta": 14,
         "Togekiss": 3,
         "Braviary": 3,
-        "Raboot": 10,
+        "Raboot": 11,
         "Golem": 2,
         "Slowking": 5,
         "Lilligant": 4,
@@ -954,8 +954,8 @@
         "Pichu": 1,
         "Carnivine": 1
       },
-      "total_spawns": 8620,
-      "last_spawn": "2026-06-23T17:49:27.046379"
+      "total_spawns": 8625,
+      "last_spawn": "2026-06-23T17:49:59.149270"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1007,7 +1007,7 @@
     }
   },
   "global": {
-    "total_spawns": 12950,
+    "total_spawns": 12955,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
