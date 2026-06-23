@@ -27,7 +27,7 @@
         "Gothita": 30,
         "Impidimp": 30,
         "Charmander": 13,
-        "Morelull": 3,
+        "Morelull": 4,
         "Abra": 36,
         "Sandile": 32,
         "Sandygast": 13,
@@ -54,7 +54,7 @@
         "Zubat": 49,
         "Vanillish": 10,
         "Tadbulb": 31,
-        "Magnemite": 44,
+        "Magnemite": 45,
         "Whismur": 27,
         "Monferno": 15,
         "Skwovet": 6,
@@ -235,9 +235,9 @@
         "Marshtomp": 12,
         "Eiscue": 4,
         "Summer deerling": 13,
-        "Clauncher": 10,
+        "Clauncher": 11,
         "Clobbopus": 4,
-        "Omanyte": 8,
+        "Omanyte": 9,
         "Galvantula": 2,
         "Chansey": 7,
         "Shroodle": 35,
@@ -679,7 +679,7 @@
         "Gastrodon": 4,
         "Golurk": 3,
         "Arcanine": 4,
-        "Oranguru": 2,
+        "Oranguru": 3,
         "Poliwrath": 3,
         "Blaziken": 2,
         "Stantler": 7,
@@ -877,7 +877,7 @@
         "Cleffa": 2,
         "Machamp": 2,
         "Altaria": 4,
-        "Purugly": 3,
+        "Purugly": 4,
         "Seaking": 2,
         "High plain vivillon": 1,
         "Urshifu": 1,
@@ -933,8 +933,8 @@
         "Excadrill": 1,
         "Druddigon": 1
       },
-      "total_spawns": 7138,
-      "last_spawn": "2026-06-23T14:45:47.290518"
+      "total_spawns": 7144,
+      "last_spawn": "2026-06-23T14:46:30.241438"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -953,7 +953,7 @@
     }
   },
   "global": {
-    "total_spawns": 11427,
+    "total_spawns": 11433,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
