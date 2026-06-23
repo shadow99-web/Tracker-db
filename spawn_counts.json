@@ -17,13 +17,13 @@
         "Purrloin": 6,
         "Tranquill": 9,
         "Psyduck": 5,
-        "Rockruff": 7,
+        "Rockruff": 8,
         "Haunter": 7,
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 3,
         "Machop": 28,
-        "Dudunsparce": 5,
+        "Dudunsparce": 6,
         "Gothita": 33,
         "Impidimp": 33,
         "Charmander": 14,
@@ -54,7 +54,7 @@
         "Zubat": 54,
         "Vanillish": 10,
         "Tadbulb": 35,
-        "Magnemite": 48,
+        "Magnemite": 49,
         "Whismur": 33,
         "Monferno": 15,
         "Skwovet": 6,
@@ -191,7 +191,7 @@
         "Thwackey": 9,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
-        "Pidgeotto": 11,
+        "Pidgeotto": 12,
         "Spearow": 14,
         "Helioptile": 8,
         "Hoothoot": 12,
@@ -583,7 +583,7 @@
         "Anorith": 9,
         "Meowth": 4,
         "Combee": 5,
-        "Fletchinder": 12,
+        "Fletchinder": 13,
         "Kingambit": 2,
         "Clodsire": 10,
         "Blaze breed tauros": 1,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8242,
-      "last_spawn": "2026-06-23T17:06:11.810918"
+      "total_spawns": 8247,
+      "last_spawn": "2026-06-23T17:06:47.166156"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12570,
+    "total_spawns": 12575,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
