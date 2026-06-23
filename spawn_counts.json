@@ -198,7 +198,7 @@
         "Grookey": 12,
         "Meditite": 3,
         "Toedscruel": 10,
-        "Probopass": 1,
+        "Probopass": 2,
         "Scraggy": 12,
         "Rhydon": 5,
         "Silcoon": 8,
@@ -431,7 +431,7 @@
         "Flaaffy": 4,
         "Pecharunt": 1,
         "Feebas": 7,
-        "Buneary": 6,
+        "Buneary": 7,
         "Zebstrika": 1,
         "Shuppet": 7,
         "Paldean wooper": 3,
@@ -703,7 +703,7 @@
         "Litten": 8,
         "Abomasnow": 1,
         "Espeon": 2,
-        "Hatenna": 18,
+        "Hatenna": 19,
         "Zoroark": 2,
         "Lucario": 1,
         "Crustle": 3,
@@ -902,7 +902,7 @@
         "Audino": 1,
         "Orange flower florges": 1,
         "Cursola": 1,
-        "Snorlax": 1,
+        "Snorlax": 2,
         "Mienshao": 1,
         "Glaceon": 1,
         "Primarina": 1,
@@ -912,10 +912,11 @@
         "Leafeon": 1,
         "Ludicolo": 1,
         "Eldegoss": 1,
-        "Dracozolt": 1
+        "Dracozolt": 1,
+        "Galarian rapidash": 1
       },
-      "total_spawns": 6260,
-      "last_spawn": "2026-06-23T12:34:47.084928"
+      "total_spawns": 6265,
+      "last_spawn": "2026-06-23T12:35:17.352664"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -933,7 +934,7 @@
     }
   },
   "global": {
-    "total_spawns": 10548,
+    "total_spawns": 10553,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
