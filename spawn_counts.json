@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 21,
         "Kilowattrel": 7,
-        "Lotad": 46,
+        "Lotad": 47,
         "Qwilfish": 5,
         "Trapinch": 39,
         "Toedscool": 32,
@@ -60,7 +60,7 @@
         "Skwovet": 6,
         "Bramblin": 32,
         "Yanma": 6,
-        "Larvesta": 15,
+        "Larvesta": 16,
         "Beldum": 28,
         "Ducklett": 5,
         "Lokix": 9,
@@ -254,7 +254,7 @@
         "Kommo-o": 1,
         "Dewott": 10,
         "Arrokuda": 6,
-        "Golett": 6,
+        "Golett": 7,
         "Vullaby": 6,
         "Cetitan": 8,
         "Cubone": 11,
@@ -514,7 +514,7 @@
         "Goldeen": 7,
         "Nickit": 9,
         "Ivysaur": 8,
-        "Milcery": 4,
+        "Milcery": 5,
         "Gabite": 2,
         "Hariyama": 2,
         "Victreebel": 1,
@@ -844,7 +844,7 @@
         "Exeggutor": 1,
         "Granbull": 1,
         "Graveler": 4,
-        "Carbink": 1,
+        "Carbink": 2,
         "Armaldo": 3,
         "Grimmsnarl": 3,
         "Quagsire": 2,
@@ -937,10 +937,11 @@
         "Machoke": 2,
         "Sunshine cherrim": 1,
         "Beautifly": 1,
-        "Ting-lu": 1
+        "Ting-lu": 1,
+        "Hitmontop": 1
       },
-      "total_spawns": 7340,
-      "last_spawn": "2026-06-23T15:08:47.264108"
+      "total_spawns": 7346,
+      "last_spawn": "2026-06-23T15:09:27.057664"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -959,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11629,
+    "total_spawns": 11635,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
