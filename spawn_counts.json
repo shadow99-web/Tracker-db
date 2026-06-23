@@ -12,7 +12,7 @@
         "Rellor": 32,
         "Sandy burmy": 9,
         "Wiglett": 46,
-        "Bombirdier": 32,
+        "Bombirdier": 33,
         "Litleo": 11,
         "Purrloin": 6,
         "Tranquill": 9,
@@ -100,7 +100,7 @@
         "Numel": 18,
         "Carracosta": 3,
         "Smearguru": 30,
-        "Veluza": 49,
+        "Veluza": 50,
         "Barboach": 13,
         "Klink": 28,
         "Honedge": 54,
@@ -156,7 +156,7 @@
         "Flapple": 5,
         "Aron": 32,
         "Boldore": 8,
-        "Spinarak": 16,
+        "Spinarak": 17,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 8,
@@ -550,7 +550,7 @@
         "Zweilous": 6,
         "Karrablast": 6,
         "Shroomish": 13,
-        "Snover": 8,
+        "Snover": 9,
         "Drednaw": 2,
         "Skarmory": 4,
         "Midnight lycanroc": 4,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8247,
-      "last_spawn": "2026-06-23T17:06:47.166156"
+      "total_spawns": 8251,
+      "last_spawn": "2026-06-23T17:07:17.256684"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12575,
+    "total_spawns": 12579,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
