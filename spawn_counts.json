@@ -49,8 +49,8 @@
         "Skitty": 9,
         "Greavard": 35,
         "Slugma": 8,
-        "Grotle": 8,
-        "Porygon": 33,
+        "Grotle": 9,
+        "Porygon": 34,
         "Zubat": 50,
         "Vanillish": 10,
         "Tadbulb": 32,
@@ -109,7 +109,7 @@
         "Drakloak": 9,
         "Chewtle": 7,
         "Scizor": 1,
-        "Sneasel": 13,
+        "Sneasel": 14,
         "Bonsly": 2,
         "Horsea": 33,
         "Frigibax": 27,
@@ -213,7 +213,7 @@
         "Fidough": 24,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 31,
+        "Tynamo": 32,
         "Orthworm": 36,
         "Marill": 12,
         "Joltik": 20,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7496,
-      "last_spawn": "2026-06-23T15:26:17.804273"
+      "total_spawns": 7500,
+      "last_spawn": "2026-06-23T15:26:51.701617"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11785,
+    "total_spawns": 11789,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
