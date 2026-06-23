@@ -207,7 +207,7 @@
         "Cufant": 7,
         "Tympole": 23,
         "Swellow": 3,
-        "Aipom": 6,
+        "Aipom": 7,
         "Growlithe": 9,
         "Sewaddle": 31,
         "Fidough": 23,
@@ -235,7 +235,7 @@
         "Marshtomp": 12,
         "Eiscue": 4,
         "Summer deerling": 13,
-        "Clauncher": 11,
+        "Clauncher": 12,
         "Clobbopus": 4,
         "Omanyte": 9,
         "Galvantula": 2,
@@ -248,7 +248,7 @@
         "Swampert": 3,
         "Dachsbun": 11,
         "Turtwig": 6,
-        "Prinplup": 6,
+        "Prinplup": 7,
         "Tinkatink": 38,
         "Lechonk": 31,
         "Kommo-o": 1,
@@ -312,7 +312,7 @@
         "Flygon": 2,
         "Shellos": 6,
         "Jigglypuff": 13,
-        "Nacli": 21,
+        "Nacli": 22,
         "Munna": 7,
         "Pawniard": 9,
         "Prof tangrowth": 13,
@@ -686,7 +686,7 @@
         "Butterfree": 1,
         "Koffing": 6,
         "Floragato": 5,
-        "Seel": 5,
+        "Seel": 6,
         "Shiinotic": 3,
         "Gumshoos": 2,
         "Pyroar": 4,
@@ -939,8 +939,8 @@
         "Beautifly": 1,
         "Ting-lu": 1
       },
-      "total_spawns": 7335,
-      "last_spawn": "2026-06-23T15:08:11.718688"
+      "total_spawns": 7340,
+      "last_spawn": "2026-06-23T15:08:47.264108"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -959,7 +959,7 @@
     }
   },
   "global": {
-    "total_spawns": 11624,
+    "total_spawns": 11629,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
