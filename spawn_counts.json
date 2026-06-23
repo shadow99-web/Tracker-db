@@ -42,7 +42,7 @@
         "Toedscool": 29,
         "Fletchling": 23,
         "Skiploom": 8,
-        "Timburr": 24,
+        "Timburr": 25,
         "Dj rotom": 17,
         "Surskit": 15,
         "Seedot": 15,
@@ -81,7 +81,7 @@
         "Amaura": 9,
         "Gimmighoul": 26,
         "Baltoy": 11,
-        "Mareep": 27,
+        "Mareep": 28,
         "Garbodor": 1,
         "Slakoth": 30,
         "Togepi": 13,
@@ -173,13 +173,13 @@
         "Swinub": 23,
         "Inkay": 12,
         "Gible": 15,
-        "Rookidee": 17,
+        "Rookidee": 18,
         "Minccino": 10,
         "Wurmple": 24,
         "Binacle": 10,
         "Grafaiai": 6,
         "Quilladin": 5,
-        "Geodude": 25,
+        "Geodude": 26,
         "Espurr": 7,
         "Cottonee": 3,
         "Elgyem": 7,
@@ -348,7 +348,7 @@
         "Deino": 12,
         "Wooper": 13,
         "Dwebble": 8,
-        "Steenee": 8,
+        "Steenee": 9,
         "Darumaka": 10,
         "Arboliva": 3,
         "Ledyba": 9,
@@ -896,8 +896,8 @@
         "Stonjourner": 1,
         "Elekid": 1
       },
-      "total_spawns": 5822,
-      "last_spawn": "2026-06-23T11:45:17.322777"
+      "total_spawns": 5827,
+      "last_spawn": "2026-06-23T11:45:51.815725"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -909,7 +909,7 @@
     }
   },
   "global": {
-    "total_spawns": 10110,
+    "total_spawns": 10115,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
