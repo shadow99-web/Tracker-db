@@ -302,7 +302,7 @@
         "Dragalge": 3,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
-        "Toxapex": 1,
+        "Toxapex": 2,
         "Lileep": 8,
         "Rolycoly": 27,
         "Bronzor": 15,
@@ -311,7 +311,7 @@
         "Zangoose": 6,
         "Flygon": 2,
         "Shellos": 5,
-        "Jigglypuff": 12,
+        "Jigglypuff": 13,
         "Nacli": 21,
         "Munna": 7,
         "Pawniard": 9,
@@ -474,7 +474,7 @@
         "Gulping cramorant": 2,
         "Simisear": 2,
         "White plumage squawkabilly": 11,
-        "Shelmet": 8,
+        "Shelmet": 9,
         "Solrock": 2,
         "Slowpoke": 10,
         "Dolliv": 6,
@@ -489,7 +489,7 @@
         "Houndoom": 5,
         "Dottler": 8,
         "Eevee": 6,
-        "Copperajah": 2,
+        "Copperajah": 3,
         "Magneton": 7,
         "Alakazam": 2,
         "Bayleef": 5,
@@ -719,7 +719,7 @@
         "Tsareena": 2,
         "Blissey": 2,
         "Blastoise": 1,
-        "Breloom": 1,
+        "Breloom": 2,
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
@@ -938,8 +938,8 @@
         "Sunshine cherrim": 1,
         "Beautifly": 1
       },
-      "total_spawns": 7300,
-      "last_spawn": "2026-06-23T15:04:07.115302"
+      "total_spawns": 7305,
+      "last_spawn": "2026-06-23T15:04:37.467365"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -958,7 +958,7 @@
     }
   },
   "global": {
-    "total_spawns": 11589,
+    "total_spawns": 11594,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
