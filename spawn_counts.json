@@ -77,7 +77,7 @@
         "Tarountula": 25,
         "Hatterene": 2,
         "Phantump": 14,
-        "Duosion": 8,
+        "Duosion": 9,
         "Amaura": 9,
         "Gimmighoul": 35,
         "Baltoy": 14,
@@ -140,7 +140,7 @@
         "Brambleghast": 10,
         "Pidgey": 46,
         "Rhyhorn": 33,
-        "Sentret": 9,
+        "Sentret": 10,
         "Yungoos": 3,
         "Diglett": 15,
         "Doduo": 9,
@@ -205,7 +205,7 @@
         "Totodile": 9,
         "Dodrio": 3,
         "Cufant": 7,
-        "Tympole": 26,
+        "Tympole": 27,
         "Swellow": 3,
         "Aipom": 7,
         "Growlithe": 10,
@@ -252,7 +252,7 @@
         "Tinkatink": 38,
         "Lechonk": 33,
         "Kommo-o": 1,
-        "Dewott": 10,
+        "Dewott": 11,
         "Arrokuda": 6,
         "Golett": 7,
         "Vullaby": 6,
@@ -327,7 +327,7 @@
         "Dreepy": 33,
         "Tinkaton": 3,
         "Corviknight": 4,
-        "Froakie": 11,
+        "Froakie": 12,
         "Nymble": 39,
         "Ferrothorn": 1,
         "Servine": 6,
@@ -594,7 +594,7 @@
         "Galarian darumaka": 1,
         "Mienfoo": 11,
         "Dewgong": 3,
-        "Wartortle": 7,
+        "Wartortle": 8,
         "Cetoddle": 21,
         "Kricketot": 7,
         "Porygon-z": 2,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7604,
-      "last_spawn": "2026-06-23T15:38:47.318479"
+      "total_spawns": 7610,
+      "last_spawn": "2026-06-23T15:39:27.159548"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -963,7 +963,7 @@
     }
   },
   "global": {
-    "total_spawns": 11894,
+    "total_spawns": 11900,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
