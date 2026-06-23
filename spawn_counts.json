@@ -227,7 +227,7 @@
         "Wattrel": 33,
         "Snubbull": 9,
         "Spidops": 8,
-        "Braixen": 10,
+        "Braixen": 11,
         "Drowzee": 10,
         "Blipbug": 27,
         "Lampent": 17,
@@ -255,7 +255,7 @@
         "Dewott": 9,
         "Arrokuda": 5,
         "Golett": 6,
-        "Vullaby": 5,
+        "Vullaby": 6,
         "Cetitan": 4,
         "Cubone": 11,
         "Gligar": 12,
@@ -694,7 +694,7 @@
         "Sliggoo": 2,
         "Panpour": 8,
         "Tinkatuff": 3,
-        "Bruxish": 2,
+        "Bruxish": 3,
         "Corvisquire": 1,
         "Mantine": 3,
         "Electrode": 3,
@@ -896,7 +896,7 @@
         "Stonjourner": 1,
         "Elekid": 1,
         "Floette": 2,
-        "Shedinja": 1,
+        "Shedinja": 2,
         "Baxcalibur": 1,
         "Galarian articuno": 1,
         "Audino": 1,
@@ -912,8 +912,8 @@
         "Leafeon": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 6205,
-      "last_spawn": "2026-06-23T12:28:31.809891"
+      "total_spawns": 6209,
+      "last_spawn": "2026-06-23T12:29:07.091514"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -931,7 +931,7 @@
     }
   },
   "global": {
-    "total_spawns": 10493,
+    "total_spawns": 10497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
