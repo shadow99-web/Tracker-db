@@ -442,7 +442,7 @@
         "Tangrowth": 1,
         "Galarian zen darmanitan": 2,
         "Bibarel": 2,
-        "Plusle": 2,
+        "Plusle": 3,
         "Skrelp": 5,
         "Raticate": 7,
         "Wugtrio": 7,
@@ -467,7 +467,7 @@
         "Wobbuffet": 2,
         "Roselia": 4,
         "Shelgon": 8,
-        "Buizel": 9,
+        "Buizel": 10,
         "Arctozolt": 3,
         "Snorunt": 7,
         "Bunnelby": 9,
@@ -710,14 +710,14 @@
         "Combusken": 13,
         "Gourgeist": 5,
         "Durant": 2,
-        "Grovyle": 8,
+        "Grovyle": 9,
         "Snowy castform": 1,
         "Gengar": 2,
         "Forretress": 2,
         "Hydrapple": 1,
         "Emolga": 3,
         "Tsareena": 2,
-        "Blissey": 2,
+        "Blissey": 3,
         "Blastoise": 2,
         "Breloom": 2,
         "Zamazenta": 1,
@@ -727,7 +727,7 @@
         "Ariados": 2,
         "Volbeat": 2,
         "Burmy": 2,
-        "Popplio": 7,
+        "Popplio": 8,
         "Mandibuzz": 4,
         "Walrein": 1,
         "Cinccino": 1,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8284,
-      "last_spawn": "2026-06-23T17:11:07.138739"
+      "total_spawns": 8289,
+      "last_spawn": "2026-06-23T17:11:37.321140"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12612,
+    "total_spawns": 12617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
