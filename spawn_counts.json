@@ -25,10 +25,10 @@
         "Machop": 22,
         "Dudunsparce": 4,
         "Gothita": 28,
-        "Impidimp": 25,
+        "Impidimp": 26,
         "Charmander": 10,
         "Morelull": 2,
-        "Abra": 28,
+        "Abra": 29,
         "Sandile": 30,
         "Sandygast": 11,
         "Litwick": 55,
@@ -43,7 +43,7 @@
         "Fletchling": 23,
         "Skiploom": 9,
         "Timburr": 27,
-        "Dj rotom": 21,
+        "Dj rotom": 22,
         "Surskit": 15,
         "Seedot": 17,
         "Skitty": 8,
@@ -575,7 +575,7 @@
         "Cascoon": 2,
         "Tentacruel": 4,
         "Nuzleaf": 5,
-        "Scorbunny": 10,
+        "Scorbunny": 11,
         "Huntail": 2,
         "Galarian meowth": 1,
         "Spoink": 3,
@@ -685,7 +685,7 @@
         "Stantler": 4,
         "Butterfree": 1,
         "Koffing": 5,
-        "Floragato": 2,
+        "Floragato": 3,
         "Seel": 3,
         "Shiinotic": 1,
         "Gumshoos": 2,
@@ -912,8 +912,8 @@
         "Leafeon": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 6209,
-      "last_spawn": "2026-06-23T12:29:07.091514"
+      "total_spawns": 6214,
+      "last_spawn": "2026-06-23T12:29:37.327780"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -931,7 +931,7 @@
     }
   },
   "global": {
-    "total_spawns": 10497,
+    "total_spawns": 10502,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
