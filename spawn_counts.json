@@ -22,7 +22,7 @@
         "Tangela": 10,
         "Orbeetle": 3,
         "Dedenne": 3,
-        "Machop": 25,
+        "Machop": 26,
         "Dudunsparce": 5,
         "Gothita": 30,
         "Impidimp": 30,
@@ -47,7 +47,7 @@
         "Surskit": 16,
         "Seedot": 23,
         "Skitty": 9,
-        "Greavard": 34,
+        "Greavard": 35,
         "Slugma": 7,
         "Grotle": 8,
         "Porygon": 31,
@@ -92,7 +92,7 @@
         "Riolu": 5,
         "Exeggcute": 8,
         "Corphish": 4,
-        "Hoppip": 30,
+        "Hoppip": 31,
         "Sandslash": 1,
         "Kabuto": 11,
         "Scatterbug": 33,
@@ -111,7 +111,7 @@
         "Scizor": 1,
         "Sneasel": 13,
         "Bonsly": 2,
-        "Horsea": 29,
+        "Horsea": 30,
         "Frigibax": 25,
         "Spheal": 44,
         "Swadloon": 7,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 15,
         "Togetic": 8,
         "Palpitoad": 3,
-        "Pikipek": 44,
+        "Pikipek": 45,
         "Teddiursa": 31,
         "Clamperl": 11,
         "Zigzagoon": 14,
@@ -139,7 +139,7 @@
         "Phanpy": 3,
         "Brambleghast": 9,
         "Pidgey": 44,
-        "Rhyhorn": 30,
+        "Rhyhorn": 31,
         "Sentret": 9,
         "Yungoos": 3,
         "Diglett": 15,
@@ -934,8 +934,8 @@
         "Druddigon": 1,
         "Honchkrow": 1
       },
-      "total_spawns": 7188,
-      "last_spawn": "2026-06-23T14:51:32.034061"
+      "total_spawns": 7194,
+      "last_spawn": "2026-06-23T14:52:07.248832"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -954,7 +954,7 @@
     }
   },
   "global": {
-    "total_spawns": 11477,
+    "total_spawns": 11483,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
