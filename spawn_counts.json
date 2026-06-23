@@ -19,14 +19,14 @@
         "Psyduck": 4,
         "Rockruff": 7,
         "Haunter": 7,
-        "Tangela": 10,
+        "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 3,
         "Machop": 27,
         "Dudunsparce": 5,
         "Gothita": 31,
         "Impidimp": 30,
-        "Charmander": 13,
+        "Charmander": 14,
         "Morelull": 4,
         "Abra": 39,
         "Sandile": 33,
@@ -138,7 +138,7 @@
         "Croconaw": 11,
         "Phanpy": 4,
         "Brambleghast": 10,
-        "Pidgey": 44,
+        "Pidgey": 45,
         "Rhyhorn": 33,
         "Sentret": 9,
         "Yungoos": 3,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 22,
         "Summer sawsbuck": 6,
         "Delibird": 1,
-        "Ride cyclizar": 12,
+        "Ride cyclizar": 13,
         "Gothorita": 7,
         "Varoom": 28,
         "Yellow plumage squawkabilly": 9,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7505,
-      "last_spawn": "2026-06-23T15:27:27.196166"
+      "total_spawns": 7509,
+      "last_spawn": "2026-06-23T15:27:57.274831"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11794,
+    "total_spawns": 11798,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
