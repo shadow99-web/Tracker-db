@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 19,
+        "Chimchar": 20,
         "Patrat": 10,
         "Mosslax": 24,
         "Drilbur": 8,
@@ -58,7 +58,7 @@
         "Whismur": 35,
         "Monferno": 15,
         "Skwovet": 6,
-        "Bramblin": 43,
+        "Bramblin": 44,
         "Yanma": 8,
         "Larvesta": 17,
         "Beldum": 29,
@@ -80,7 +80,7 @@
         "Duosion": 11,
         "Amaura": 10,
         "Gimmighoul": 38,
-        "Baltoy": 17,
+        "Baltoy": 18,
         "Mareep": 40,
         "Garbodor": 2,
         "Slakoth": 47,
@@ -734,7 +734,7 @@
         "Alolan sandshrew": 1,
         "Azurill": 1,
         "Alolan rattata": 1,
-        "Hippowdon": 2,
+        "Hippowdon": 3,
         "Lumineon": 3,
         "Thievul": 3,
         "Greedent": 4,
@@ -953,10 +953,11 @@
         "Nidoking": 1,
         "Pichu": 1,
         "Carnivine": 1,
-        "Goodra": 1
+        "Goodra": 1,
+        "Aurorus": 1
       },
-      "total_spawns": 8693,
-      "last_spawn": "2026-06-23T18:30:27.081735"
+      "total_spawns": 8698,
+      "last_spawn": "2026-06-23T18:30:57.405707"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1010,7 +1011,7 @@
     }
   },
   "global": {
-    "total_spawns": 13028,
+    "total_spawns": 13033,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
