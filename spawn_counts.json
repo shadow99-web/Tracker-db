@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 15,
         "Patrat": 5,
-        "Mosslax": 19,
+        "Mosslax": 20,
         "Drilbur": 6,
         "Pawmi": 36,
         "Electabuzz": 6,
@@ -74,7 +74,7 @@
         "Fomantis": 5,
         "Droopy tatsugiri": 19,
         "Froslass": 3,
-        "Tarountula": 21,
+        "Tarountula": 22,
         "Hatterene": 2,
         "Phantump": 13,
         "Duosion": 7,
@@ -249,7 +249,7 @@
         "Dachsbun": 11,
         "Turtwig": 6,
         "Prinplup": 5,
-        "Tinkatink": 36,
+        "Tinkatink": 37,
         "Lechonk": 29,
         "Kommo-o": 1,
         "Dewott": 9,
@@ -454,7 +454,7 @@
         "Sunkern": 5,
         "Drizzile": 5,
         "Sunflora": 2,
-        "Passimian": 1,
+        "Passimian": 2,
         "Iron moth": 1,
         "Cherubi": 5,
         "Cradily": 3,
@@ -470,7 +470,7 @@
         "Buizel": 5,
         "Arctozolt": 3,
         "Snorunt": 6,
-        "Bunnelby": 6,
+        "Bunnelby": 7,
         "Gulping cramorant": 2,
         "Simisear": 1,
         "White plumage squawkabilly": 9,
@@ -924,8 +924,8 @@
         "Clefable": 1,
         "Serperior": 1
       },
-      "total_spawns": 6672,
-      "last_spawn": "2026-06-23T13:53:31.999279"
+      "total_spawns": 6677,
+      "last_spawn": "2026-06-23T13:54:07.067167"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -944,7 +944,7 @@
     }
   },
   "global": {
-    "total_spawns": 10961,
+    "total_spawns": 10966,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
