@@ -45,7 +45,7 @@
         "Timburr": 27,
         "Dj rotom": 22,
         "Surskit": 15,
-        "Seedot": 21,
+        "Seedot": 22,
         "Skitty": 9,
         "Greavard": 30,
         "Slugma": 6,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 26,
         "Frigibax": 22,
-        "Spheal": 39,
+        "Spheal": 40,
         "Swadloon": 7,
         "Flittle": 28,
         "Unfezant": 3,
@@ -224,7 +224,7 @@
         "Magmar": 10,
         "Rillaboom": 3,
         "Ninetales": 2,
-        "Wattrel": 33,
+        "Wattrel": 34,
         "Snubbull": 10,
         "Spidops": 8,
         "Braixen": 11,
@@ -236,7 +236,7 @@
         "Eiscue": 3,
         "Summer deerling": 12,
         "Clauncher": 7,
-        "Clobbopus": 3,
+        "Clobbopus": 4,
         "Omanyte": 8,
         "Galvantula": 2,
         "Chansey": 7,
@@ -331,7 +331,7 @@
         "Nymble": 34,
         "Ferrothorn": 1,
         "Servine": 6,
-        "Blitzle": 7,
+        "Blitzle": 8,
         "Musharna": 2,
         "Bisharp": 2,
         "Chespin": 5,
@@ -425,7 +425,7 @@
         "Yellow plumage squawkabilly": 9,
         "Centiskorch": 2,
         "Low key toxtricity": 1,
-        "Grapploct": 1,
+        "Grapploct": 2,
         "Gurdurr": 6,
         "Girafarig": 3,
         "Flaaffy": 4,
@@ -918,8 +918,8 @@
         "Gogoat": 1,
         "Bellossom": 1
       },
-      "total_spawns": 6409,
-      "last_spawn": "2026-06-23T12:51:28.718792"
+      "total_spawns": 6415,
+      "last_spawn": "2026-06-23T12:52:07.086296"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -937,7 +937,7 @@
     }
   },
   "global": {
-    "total_spawns": 10697,
+    "total_spawns": 10703,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
