@@ -16,7 +16,7 @@
         "Litleo": 9,
         "Purrloin": 5,
         "Tranquill": 6,
-        "Psyduck": 3,
+        "Psyduck": 4,
         "Rockruff": 7,
         "Haunter": 7,
         "Tangela": 10,
@@ -31,7 +31,7 @@
         "Abra": 36,
         "Sandile": 32,
         "Sandygast": 13,
-        "Litwick": 59,
+        "Litwick": 60,
         "Grubbin": 29,
         "Escavalier": 6,
         "Dratini": 21,
@@ -45,7 +45,7 @@
         "Timburr": 33,
         "Dj rotom": 28,
         "Surskit": 16,
-        "Seedot": 22,
+        "Seedot": 23,
         "Skitty": 9,
         "Greavard": 34,
         "Slugma": 6,
@@ -84,7 +84,7 @@
         "Mareep": 33,
         "Garbodor": 2,
         "Slakoth": 34,
-        "Togepi": 21,
+        "Togepi": 22,
         "Falinks": 3,
         "Tropius": 1,
         "Poliwag": 28,
@@ -118,7 +118,7 @@
         "Flittle": 31,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 26,
+        "Ralts": 27,
         "Solosis": 31,
         "Battle cyclizar": 14,
         "Togetic": 8,
@@ -498,7 +498,7 @@
         "Basculin": 2,
         "Throh": 2,
         "Comfey": 2,
-        "Applin": 12,
+        "Applin": 13,
         "Staraptor": 2,
         "Mimikyu": 1,
         "Alolan sandslash": 1,
@@ -932,8 +932,8 @@
         "Steelix": 1,
         "Excadrill": 1
       },
-      "total_spawns": 7060,
-      "last_spawn": "2026-06-23T14:37:10.221107"
+      "total_spawns": 7066,
+      "last_spawn": "2026-06-23T14:37:47.113054"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -952,7 +952,7 @@
     }
   },
   "global": {
-    "total_spawns": 11349,
+    "total_spawns": 11355,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
