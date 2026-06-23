@@ -85,7 +85,7 @@
         "Garbodor": 2,
         "Slakoth": 36,
         "Togepi": 24,
-        "Falinks": 3,
+        "Falinks": 4,
         "Tropius": 1,
         "Poliwag": 29,
         "Metang": 5,
@@ -95,7 +95,7 @@
         "Hoppip": 33,
         "Sandslash": 1,
         "Kabuto": 11,
-        "Scatterbug": 35,
+        "Scatterbug": 36,
         "Pumpkaboo": 10,
         "Numel": 17,
         "Carracosta": 1,
@@ -165,7 +165,7 @@
         "Piplup": 5,
         "Kakuna": 14,
         "Weepinbell": 6,
-        "Klawf": 34,
+        "Klawf": 35,
         "Vanillite": 27,
         "Flareon": 3,
         "Gastly": 30,
@@ -289,7 +289,7 @@
         "Chef dente": 17,
         "Volcarona": 2,
         "Bewear": 2,
-        "Piloswine": 9,
+        "Piloswine": 10,
         "Simisage": 2,
         "Jellicent": 4,
         "Torkoal": 2,
@@ -511,7 +511,7 @@
         "Sawk": 2,
         "Starmie": 2,
         "Simipour": 1,
-        "Goldeen": 7,
+        "Goldeen": 8,
         "Nickit": 10,
         "Ivysaur": 8,
         "Milcery": 5,
@@ -940,8 +940,8 @@
         "Ting-lu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 7500,
-      "last_spawn": "2026-06-23T15:26:51.701617"
+      "total_spawns": 7505,
+      "last_spawn": "2026-06-23T15:27:27.196166"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +960,7 @@
     }
   },
   "global": {
-    "total_spawns": 11789,
+    "total_spawns": 11794,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
