@@ -139,7 +139,7 @@
         "Phanpy": 7,
         "Brambleghast": 10,
         "Pidgey": 53,
-        "Rhyhorn": 38,
+        "Rhyhorn": 39,
         "Sentret": 13,
         "Yungoos": 5,
         "Diglett": 17,
@@ -298,7 +298,7 @@
         "Pancham": 11,
         "Venipede": 50,
         "Cacturne": 4,
-        "Oddish": 43,
+        "Oddish": 44,
         "Dragalge": 4,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -391,7 +391,7 @@
         "Maractus": 2,
         "Sigilyph": 4,
         "Unown m": 1,
-        "Stufful": 8,
+        "Stufful": 9,
         "Wailord": 3,
         "Makuhita": 13,
         "Lombre": 13,
@@ -523,7 +523,7 @@
         "Pansage": 7,
         "Cranidos": 8,
         "Spewpa": 7,
-        "Tyrunt": 6,
+        "Tyrunt": 7,
         "Garganacl": 1,
         "Chinchou": 3,
         "Maushold": 14,
@@ -674,7 +674,7 @@
         "Crabominable": 3,
         "Quaquaval": 2,
         "Sprigatito": 14,
-        "Metagross": 3,
+        "Metagross": 4,
         "Eelektrik": 7,
         "Gastrodon": 4,
         "Golurk": 3,
@@ -826,7 +826,7 @@
         "Magcargo": 2,
         "Sensu oricorio": 3,
         "Rhyperior": 2,
-        "Linoone": 1,
+        "Linoone": 2,
         "Omastar": 2,
         "Boltund": 2,
         "Lickilicky": 3,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9023,
-      "last_spawn": "2026-06-23T19:08:07.258411"
+      "total_spawns": 9029,
+      "last_spawn": "2026-06-23T19:08:47.338257"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1020,7 +1020,7 @@
     }
   },
   "global": {
-    "total_spawns": 13360,
+    "total_spawns": 13366,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
