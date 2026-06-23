@@ -32,7 +32,7 @@
         "Sandile": 35,
         "Sandygast": 14,
         "Litwick": 64,
-        "Grubbin": 33,
+        "Grubbin": 34,
         "Escavalier": 6,
         "Dratini": 26,
         "Kilowattrel": 8,
@@ -47,7 +47,7 @@
         "Surskit": 19,
         "Seedot": 27,
         "Skitty": 9,
-        "Greavard": 37,
+        "Greavard": 38,
         "Slugma": 9,
         "Grotle": 9,
         "Porygon": 37,
@@ -639,7 +639,7 @@
         "Latios": 1,
         "Silicobra": 9,
         "Snom": 5,
-        "East sea shellos": 5,
+        "East sea shellos": 6,
         "Corsola": 7,
         "Venomoth": 5,
         "Trumbeak": 7,
@@ -648,7 +648,7 @@
         "Archeops": 4,
         "Shiftry": 1,
         "Arbok": 2,
-        "Stretchy tatsugiri": 11,
+        "Stretchy tatsugiri": 12,
         "Mareanie": 6,
         "Seadra": 6,
         "Beheeyem": 3,
@@ -834,7 +834,7 @@
         "High-speed flight configuration genesect": 1,
         "Mantyke": 1,
         "Arctovish": 5,
-        "Ribombee": 1,
+        "Ribombee": 2,
         "Alolan meowth": 1,
         "Klang": 3,
         "Manectric": 2,
@@ -949,8 +949,8 @@
         "Latias": 1,
         "Unown n": 1
       },
-      "total_spawns": 8216,
-      "last_spawn": "2026-06-23T17:03:18.580587"
+      "total_spawns": 8221,
+      "last_spawn": "2026-06-23T17:03:51.903413"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1000,7 +1000,7 @@
     }
   },
   "global": {
-    "total_spawns": 12544,
+    "total_spawns": 12549,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
