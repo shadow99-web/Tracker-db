@@ -119,7 +119,7 @@
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 26,
-        "Solosis": 30,
+        "Solosis": 31,
         "Battle cyclizar": 14,
         "Togetic": 8,
         "Palpitoad": 3,
@@ -158,7 +158,7 @@
         "Boldore": 3,
         "Spinarak": 13,
         "Delcatty": 4,
-        "Spiritomb": 3,
+        "Spiritomb": 4,
         "Yamper": 8,
         "Tepig": 24,
         "Kirlia": 6,
@@ -229,7 +229,7 @@
         "Spidops": 8,
         "Braixen": 11,
         "Drowzee": 12,
-        "Blipbug": 30,
+        "Blipbug": 31,
         "Lampent": 19,
         "Petilil": 6,
         "Marshtomp": 11,
@@ -312,7 +312,7 @@
         "Flygon": 2,
         "Shellos": 5,
         "Jigglypuff": 12,
-        "Nacli": 20,
+        "Nacli": 21,
         "Munna": 6,
         "Pawniard": 9,
         "Prof tangrowth": 13,
@@ -490,7 +490,7 @@
         "Dottler": 7,
         "Eevee": 6,
         "Copperajah": 2,
-        "Magneton": 6,
+        "Magneton": 7,
         "Alakazam": 2,
         "Bayleef": 5,
         "Poochyena": 6,
@@ -759,7 +759,7 @@
         "Jynx": 4,
         "Golisopod": 4,
         "Greninja": 2,
-        "Smoochum": 2,
+        "Smoochum": 3,
         "Reuniclus": 2,
         "Smeargle": 2,
         "Gorebyss": 1,
@@ -931,8 +931,8 @@
         "Rampardos": 1,
         "Steelix": 1
       },
-      "total_spawns": 6943,
-      "last_spawn": "2026-06-23T14:24:07.248241"
+      "total_spawns": 6949,
+      "last_spawn": "2026-06-23T14:24:47.116236"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -951,7 +951,7 @@
     }
   },
   "global": {
-    "total_spawns": 11232,
+    "total_spawns": 11238,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
