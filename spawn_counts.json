@@ -254,7 +254,7 @@
         "Kommo-o": 1,
         "Dewott": 12,
         "Arrokuda": 8,
-        "Golett": 8,
+        "Golett": 9,
         "Vullaby": 7,
         "Cetitan": 8,
         "Cubone": 12,
@@ -286,7 +286,7 @@
         "Charmeleon": 5,
         "Dipplin": 1,
         "Cramorant": 3,
-        "Chef dente": 22,
+        "Chef dente": 23,
         "Volcarona": 2,
         "Bewear": 2,
         "Piloswine": 10,
@@ -509,7 +509,7 @@
         "Croagunk": 8,
         "Duraludon": 5,
         "Sawk": 2,
-        "Starmie": 3,
+        "Starmie": 4,
         "Simipour": 1,
         "Goldeen": 10,
         "Nickit": 12,
@@ -795,7 +795,7 @@
         "Dusclops": 5,
         "Galarian yamask": 1,
         "Alolan golem": 1,
-        "Dustox": 1,
+        "Dustox": 2,
         "Gliscor": 2,
         "Mesprit": 2,
         "Vaporeon": 3,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8331,
-      "last_spawn": "2026-06-23T17:16:17.217880"
+      "total_spawns": 8335,
+      "last_spawn": "2026-06-23T17:16:47.314492"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12659,
+    "total_spawns": 12663,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
