@@ -83,7 +83,7 @@
         "Baltoy": 14,
         "Mareep": 36,
         "Garbodor": 2,
-        "Slakoth": 37,
+        "Slakoth": 38,
         "Togepi": 25,
         "Falinks": 4,
         "Tropius": 1,
@@ -175,7 +175,7 @@
         "Gible": 20,
         "Rookidee": 23,
         "Minccino": 12,
-        "Wurmple": 28,
+        "Wurmple": 29,
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
@@ -352,7 +352,7 @@
         "Darumaka": 13,
         "Arboliva": 3,
         "Ledyba": 11,
-        "Spritzee": 5,
+        "Spritzee": 6,
         "Swirlix": 5,
         "Aromatisse": 3,
         "Muk": 4,
@@ -512,7 +512,7 @@
         "Starmie": 2,
         "Simipour": 1,
         "Goldeen": 9,
-        "Nickit": 10,
+        "Nickit": 11,
         "Ivysaur": 8,
         "Milcery": 5,
         "Gabite": 3,
@@ -545,7 +545,7 @@
         "Slowbro": 5,
         "Oricorio": 2,
         "Kangaskhan": 2,
-        "Krokorok": 11,
+        "Krokorok": 12,
         "Dragonair": 3,
         "Zweilous": 6,
         "Karrablast": 6,
@@ -628,7 +628,7 @@
         "Tatsugiri": 9,
         "Nidorino": 6,
         "Wailmer": 8,
-        "Krabby": 7,
+        "Krabby": 8,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 4,
@@ -942,8 +942,8 @@
         "Munchlax": 1,
         "Galarian ponyta": 1
       },
-      "total_spawns": 7683,
-      "last_spawn": "2026-06-23T16:03:07.519541"
+      "total_spawns": 7689,
+      "last_spawn": "2026-06-23T16:03:47.337894"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -967,7 +967,7 @@
     }
   },
   "global": {
-    "total_spawns": 11977,
+    "total_spawns": 11983,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
