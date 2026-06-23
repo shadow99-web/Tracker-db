@@ -6,7 +6,7 @@
         "Chimchar": 20,
         "Patrat": 10,
         "Mosslax": 24,
-        "Drilbur": 8,
+        "Drilbur": 9,
         "Pawmi": 42,
         "Electabuzz": 8,
         "Rellor": 34,
@@ -156,7 +156,7 @@
         "Flapple": 5,
         "Aron": 35,
         "Boldore": 9,
-        "Spinarak": 17,
+        "Spinarak": 18,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 8,
@@ -235,7 +235,7 @@
         "Marshtomp": 13,
         "Eiscue": 4,
         "Summer deerling": 13,
-        "Clauncher": 14,
+        "Clauncher": 15,
         "Clobbopus": 5,
         "Omanyte": 9,
         "Galvantula": 2,
@@ -319,7 +319,7 @@
         "Jangmo-o": 17,
         "Trash wormadam": 3,
         "Quaxly": 10,
-        "Gossifleur": 11,
+        "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
         "Bellsprout": 47,
@@ -579,7 +579,7 @@
         "Huntail": 3,
         "Galarian meowth": 1,
         "Spoink": 4,
-        "Scyther": 9,
+        "Scyther": 10,
         "Anorith": 11,
         "Meowth": 4,
         "Combee": 8,
@@ -858,7 +858,7 @@
         "Dubwool": 1,
         "Shuckle": 3,
         "Hydreigon": 1,
-        "Alolan vulpix": 1,
+        "Alolan vulpix": 2,
         "Liepard": 3,
         "Leavanny": 1,
         "Pa'u oricorio": 1,
@@ -959,8 +959,8 @@
         "Dandy trim furfrou": 1,
         "Rapidash": 1
       },
-      "total_spawns": 8731,
-      "last_spawn": "2026-06-23T18:34:47.570698"
+      "total_spawns": 8737,
+      "last_spawn": "2026-06-23T18:35:27.015349"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1014,7 +1014,7 @@
     }
   },
   "global": {
-    "total_spawns": 13066,
+    "total_spawns": 13072,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
