@@ -179,7 +179,7 @@
         "Binacle": 11,
         "Grafaiai": 8,
         "Quilladin": 6,
-        "Geodude": 37,
+        "Geodude": 38,
         "Espurr": 8,
         "Cottonee": 4,
         "Elgyem": 9,
@@ -407,7 +407,7 @@
         "Maschiff": 21,
         "Rufflet": 13,
         "Kabutops": 2,
-        "Dondozo": 23,
+        "Dondozo": 24,
         "Pansear": 9,
         "Cutiefly": 8,
         "Peakychu": 23,
@@ -610,7 +610,7 @@
         "Houndstone": 1,
         "Sandy wormadam": 2,
         "Stunky": 6,
-        "Pupitar": 4,
+        "Pupitar": 5,
         "Avalugg": 3,
         "Magby": 4,
         "Wigglytuff": 2,
@@ -808,7 +808,7 @@
         "Barraskewda": 2,
         "Salazzle": 3,
         "Pidgeot": 3,
-        "Drapion": 2,
+        "Drapion": 3,
         "Barbaracle": 2,
         "Okidogi": 1,
         "Tauros": 1,
@@ -938,10 +938,11 @@
         "Sunshine cherrim": 1,
         "Beautifly": 1,
         "Ting-lu": 1,
-        "Hitmontop": 1
+        "Hitmontop": 1,
+        "Munchlax": 1
       },
-      "total_spawns": 7518,
-      "last_spawn": "2026-06-23T15:28:57.856574"
+      "total_spawns": 7523,
+      "last_spawn": "2026-06-23T15:29:31.896189"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -960,7 +961,7 @@
     }
   },
   "global": {
-    "total_spawns": 11807,
+    "total_spawns": 11812,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
