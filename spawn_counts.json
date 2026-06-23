@@ -256,7 +256,7 @@
         "Arrokuda": 8,
         "Golett": 9,
         "Vullaby": 8,
-        "Cetitan": 8,
+        "Cetitan": 9,
         "Cubone": 12,
         "Gligar": 16,
         "Tirtouga": 12,
@@ -481,7 +481,7 @@
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 8,
-        "Tyrogue": 9,
+        "Tyrogue": 10,
         "Vikavolt": 1,
         "Trash burmy": 2,
         "Staravia": 9,
@@ -546,7 +546,7 @@
         "Oricorio": 3,
         "Kangaskhan": 2,
         "Krokorok": 12,
-        "Dragonair": 5,
+        "Dragonair": 6,
         "Zweilous": 6,
         "Karrablast": 7,
         "Shroomish": 13,
@@ -595,7 +595,7 @@
         "Mienfoo": 11,
         "Dewgong": 4,
         "Wartortle": 11,
-        "Cetoddle": 25,
+        "Cetoddle": 26,
         "Kricketot": 10,
         "Porygon-z": 2,
         "Conkeldurr": 3,
@@ -626,7 +626,7 @@
         "Malamar": 2,
         "Frost rotom": 1,
         "Tatsugiri": 11,
-        "Nidorino": 6,
+        "Nidorino": 7,
         "Wailmer": 10,
         "Krabby": 8,
         "Bronzong": 5,
@@ -950,8 +950,8 @@
         "Unown n": 1,
         "Unown exclamation": 1
       },
-      "total_spawns": 8378,
-      "last_spawn": "2026-06-23T17:21:57.453719"
+      "total_spawns": 8383,
+      "last_spawn": "2026-06-23T17:22:31.887382"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1001,7 +1001,7 @@
     }
   },
   "global": {
-    "total_spawns": 12706,
+    "total_spawns": 12711,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
