@@ -67,7 +67,7 @@
         "Glimmora": 16,
         "Starly": 50,
         "Tandemaus": 40,
-        "Smoliv": 58,
+        "Smoliv": 59,
         "Gloom": 12,
         "Clefairy": 10,
         "Spinda": 2,
@@ -84,7 +84,7 @@
         "Mareep": 41,
         "Garbodor": 2,
         "Slakoth": 52,
-        "Togepi": 32,
+        "Togepi": 33,
         "Falinks": 5,
         "Tropius": 1,
         "Poliwag": 39,
@@ -103,7 +103,7 @@
         "Veluza": 54,
         "Barboach": 16,
         "Klink": 33,
-        "Honedge": 59,
+        "Honedge": 60,
         "Wingull": 15,
         "Salamence": 1,
         "Drakloak": 11,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 11,
         "Squirtle": 19,
-        "Remoraid": 5,
+        "Remoraid": 6,
         "Torracat": 12,
         "Hisuian zorua": 1,
         "Wooloo": 8,
@@ -456,7 +456,7 @@
         "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
-        "Cherubi": 7,
+        "Cherubi": 8,
         "Cradily": 3,
         "Vulpix": 11,
         "Paras": 12,
@@ -963,10 +963,11 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1,
         "Thundurus": 1,
-        "Seismitoad": 1
+        "Seismitoad": 1,
+        "Komala": 1
       },
-      "total_spawns": 9537,
-      "last_spawn": "2026-06-24T10:03:47.093428"
+      "total_spawns": 9543,
+      "last_spawn": "2026-06-24T10:04:27.272442"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1059,7 @@
     }
   },
   "global": {
-    "total_spawns": 13921,
+    "total_spawns": 13927,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
