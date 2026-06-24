@@ -154,7 +154,7 @@
         "Dragapult": 6,
         "Rattata": 29,
         "Flapple": 8,
-        "Aron": 59,
+        "Aron": 60,
         "Boldore": 15,
         "Spinarak": 22,
         "Delcatty": 4,
@@ -450,7 +450,7 @@
         "Morgrem": 10,
         "Misdreavus": 11,
         "Seviper": 4,
-        "Scovillain": 13,
+        "Scovillain": 14,
         "Sunkern": 12,
         "Drizzile": 9,
         "Sunflora": 4,
@@ -473,7 +473,7 @@
         "Bunnelby": 14,
         "Gulping cramorant": 2,
         "Simisear": 2,
-        "White plumage squawkabilly": 15,
+        "White plumage squawkabilly": 16,
         "Shelmet": 15,
         "Solrock": 3,
         "Slowpoke": 16,
@@ -746,7 +746,7 @@
         "Nidoqueen": 3,
         "Hitmonchan": 1,
         "Relicanth": 1,
-        "Klefki": 4,
+        "Klefki": 5,
         "Frogadier": 15,
         "Dewpider": 9,
         "Poltchageist": 4,
@@ -970,7 +970,7 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1,
         "Tapu fini": 1,
-        "Minun": 4,
+        "Minun": 5,
         "Wo-chien": 1,
         "Octillery": 1,
         "Coalossal": 2,
@@ -989,7 +989,7 @@
         "Slither wing": 1,
         "Diggersby": 1,
         "Hisuian voltorb": 1,
-        "Pachirisu": 1,
+        "Pachirisu": 2,
         "Unown p": 1,
         "Hisuian samurott": 1,
         "Ledian": 3,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12250,
-      "last_spawn": "2026-06-24T17:24:07.337876"
+      "total_spawns": 12256,
+      "last_spawn": "2026-06-24T17:24:47.060339"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16658,
+    "total_spawns": 16664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
