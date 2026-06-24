@@ -137,7 +137,7 @@
         "Charcadet": 49,
         "Croconaw": 12,
         "Phanpy": 7,
-        "Brambleghast": 10,
+        "Brambleghast": 11,
         "Pidgey": 54,
         "Rhyhorn": 40,
         "Sentret": 13,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 3,
         "Chansey": 7,
-        "Shroodle": 46,
+        "Shroodle": 47,
         "Duskull": 51,
         "Bergmite": 10,
         "Pignite": 14,
@@ -311,7 +311,7 @@
         "Zangoose": 6,
         "Flygon": 3,
         "Shellos": 7,
-        "Jigglypuff": 13,
+        "Jigglypuff": 14,
         "Nacli": 27,
         "Munna": 8,
         "Pawniard": 10,
@@ -388,7 +388,7 @@
         "Crobat": 8,
         "Sandshrew": 9,
         "Palafin": 10,
-        "Maractus": 2,
+        "Maractus": 3,
         "Sigilyph": 4,
         "Unown m": 1,
         "Stufful": 9,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9227,
-      "last_spawn": "2026-06-24T08:56:57.180007"
+      "total_spawns": 9231,
+      "last_spawn": "2026-06-24T08:57:31.847793"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13603,
+    "total_spawns": 13607,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
