@@ -53,7 +53,7 @@
         "Porygon": 55,
         "Zubat": 58,
         "Vanillish": 13,
-        "Tadbulb": 49,
+        "Tadbulb": 50,
         "Magnemite": 58,
         "Whismur": 42,
         "Monferno": 17,
@@ -62,7 +62,7 @@
         "Yanma": 10,
         "Larvesta": 23,
         "Beldum": 35,
-        "Ducklett": 9,
+        "Ducklett": 10,
         "Lokix": 13,
         "Glimmora": 16,
         "Starly": 55,
@@ -421,7 +421,7 @@
         "Delibird": 2,
         "Ride cyclizar": 19,
         "Gothorita": 11,
-        "Varoom": 38,
+        "Varoom": 39,
         "Yellow plumage squawkabilly": 15,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
@@ -727,7 +727,7 @@
         "Ariados": 2,
         "Volbeat": 5,
         "Burmy": 2,
-        "Popplio": 11,
+        "Popplio": 12,
         "Mandibuzz": 4,
         "Walrein": 2,
         "Cinccino": 4,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10619,
-      "last_spawn": "2026-06-24T13:21:37.399743"
+      "total_spawns": 10623,
+      "last_spawn": "2026-06-24T13:22:11.799533"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 15005,
+    "total_spawns": 15009,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
