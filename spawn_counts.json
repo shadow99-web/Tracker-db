@@ -95,7 +95,7 @@
         "Hoppip": 41,
         "Sandslash": 1,
         "Kabuto": 13,
-        "Scatterbug": 46,
+        "Scatterbug": 47,
         "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 3,
@@ -118,7 +118,7 @@
         "Flittle": 45,
         "Unfezant": 3,
         "Yamask": 8,
-        "Ralts": 41,
+        "Ralts": 42,
         "Solosis": 47,
         "Battle cyclizar": 20,
         "Togetic": 9,
@@ -255,7 +255,7 @@
         "Dewott": 15,
         "Arrokuda": 14,
         "Golett": 11,
-        "Vullaby": 10,
+        "Vullaby": 11,
         "Cetitan": 12,
         "Cubone": 14,
         "Gligar": 17,
@@ -825,7 +825,7 @@
         "Cinderace": 4,
         "Magcargo": 2,
         "Sensu oricorio": 3,
-        "Rhyperior": 2,
+        "Rhyperior": 3,
         "Linoone": 3,
         "Omastar": 2,
         "Boltund": 3,
@@ -849,7 +849,7 @@
         "Grimmsnarl": 4,
         "Quagsire": 2,
         "Darkrai": 1,
-        "Togedemaru": 2,
+        "Togedemaru": 3,
         "Minior": 1,
         "Mr. mime": 3,
         "Chesnaught": 1,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10623,
-      "last_spawn": "2026-06-24T13:22:11.799533"
+      "total_spawns": 10628,
+      "last_spawn": "2026-06-24T13:22:47.328940"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 15009,
+    "total_spawns": 15014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
