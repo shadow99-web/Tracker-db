@@ -96,12 +96,12 @@
         "Sandslash": 2,
         "Kabuto": 16,
         "Scatterbug": 56,
-        "Pumpkaboo": 13,
+        "Pumpkaboo": 14,
         "Numel": 23,
         "Carracosta": 4,
         "Smearguru": 40,
         "Veluza": 66,
-        "Barboach": 22,
+        "Barboach": 23,
         "Klink": 46,
         "Honedge": 73,
         "Wingull": 20,
@@ -117,7 +117,7 @@
         "Swadloon": 16,
         "Flittle": 52,
         "Unfezant": 6,
-        "Yamask": 9,
+        "Yamask": 10,
         "Ralts": 51,
         "Solosis": 55,
         "Battle cyclizar": 25,
@@ -213,7 +213,7 @@
         "Fidough": 35,
         "Noivern": 2,
         "Feraligatr": 5,
-        "Tynamo": 61,
+        "Tynamo": 62,
         "Orthworm": 51,
         "Marill": 16,
         "Joltik": 23,
@@ -546,7 +546,7 @@
         "Oricorio": 3,
         "Kangaskhan": 4,
         "Krokorok": 16,
-        "Dragonair": 10,
+        "Dragonair": 11,
         "Zweilous": 9,
         "Karrablast": 11,
         "Shroomish": 19,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12647,
-      "last_spawn": "2026-06-24T18:53:31.788192"
+      "total_spawns": 12652,
+      "last_spawn": "2026-06-24T18:54:07.196482"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17065,
+    "total_spawns": 17070,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
