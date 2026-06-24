@@ -27,7 +27,7 @@
         "Gothita": 46,
         "Impidimp": 41,
         "Charmander": 21,
-        "Morelull": 8,
+        "Morelull": 9,
         "Abra": 52,
         "Sandile": 54,
         "Sandygast": 16,
@@ -81,7 +81,7 @@
         "Amaura": 11,
         "Gimmighoul": 46,
         "Baltoy": 22,
-        "Mareep": 46,
+        "Mareep": 47,
         "Garbodor": 2,
         "Slakoth": 60,
         "Togepi": 39,
@@ -120,7 +120,7 @@
         "Yamask": 8,
         "Ralts": 45,
         "Solosis": 47,
-        "Battle cyclizar": 20,
+        "Battle cyclizar": 21,
         "Togetic": 10,
         "Palpitoad": 9,
         "Pikipek": 62,
@@ -378,7 +378,7 @@
         "Mabosstiff": 12,
         "Squirtle": 21,
         "Remoraid": 8,
-        "Torracat": 14,
+        "Torracat": 15,
         "Hisuian zorua": 1,
         "Wooloo": 10,
         "Drifloon": 9,
@@ -426,7 +426,7 @@
         "Centiskorch": 5,
         "Low key toxtricity": 1,
         "Grapploct": 2,
-        "Gurdurr": 9,
+        "Gurdurr": 10,
         "Girafarig": 5,
         "Flaaffy": 8,
         "Pecharunt": 1,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10900,
-      "last_spawn": "2026-06-24T13:53:17.375286"
+      "total_spawns": 10905,
+      "last_spawn": "2026-06-24T13:53:51.763790"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15287,
+    "total_spawns": 15292,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
