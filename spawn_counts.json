@@ -84,7 +84,7 @@
         "Mareep": 41,
         "Garbodor": 2,
         "Slakoth": 52,
-        "Togepi": 31,
+        "Togepi": 32,
         "Falinks": 5,
         "Tropius": 1,
         "Poliwag": 39,
@@ -124,7 +124,7 @@
         "Togetic": 9,
         "Palpitoad": 5,
         "Pikipek": 56,
-        "Teddiursa": 39,
+        "Teddiursa": 40,
         "Clamperl": 13,
         "Zigzagoon": 16,
         "Weedle": 60,
@@ -229,7 +229,7 @@
         "Spidops": 11,
         "Braixen": 14,
         "Drowzee": 13,
-        "Blipbug": 43,
+        "Blipbug": 44,
         "Lampent": 23,
         "Petilil": 9,
         "Marshtomp": 15,
@@ -460,7 +460,7 @@
         "Cradily": 3,
         "Vulpix": 11,
         "Paras": 12,
-        "Herdier": 12,
+        "Herdier": 13,
         "Pineco": 11,
         "Chikorita": 11,
         "Woobat": 10,
@@ -500,7 +500,7 @@
         "Comfey": 2,
         "Applin": 15,
         "Staraptor": 2,
-        "Mimikyu": 1,
+        "Mimikyu": 2,
         "Alolan sandslash": 1,
         "Empoleon": 3,
         "Farigiraf": 13,
@@ -560,7 +560,7 @@
         "Chandelure": 6,
         "Ponyta": 15,
         "Togekiss": 4,
-        "Braviary": 3,
+        "Braviary": 4,
         "Raboot": 12,
         "Golem": 2,
         "Slowking": 6,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9425,
-      "last_spawn": "2026-06-24T09:51:07.389967"
+      "total_spawns": 9431,
+      "last_spawn": "2026-06-24T09:51:47.513046"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13809,
+    "total_spawns": 13815,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
