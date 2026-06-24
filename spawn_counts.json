@@ -127,7 +127,7 @@
         "Teddiursa": 42,
         "Clamperl": 13,
         "Zigzagoon": 16,
-        "Weedle": 64,
+        "Weedle": 65,
         "Flamigo": 44,
         "Lillipup": 49,
         "Shinx": 49,
@@ -152,7 +152,7 @@
         "Roggenrola": 45,
         "Pidove": 45,
         "Dragapult": 6,
-        "Rattata": 26,
+        "Rattata": 27,
         "Flapple": 6,
         "Aron": 41,
         "Boldore": 10,
@@ -229,7 +229,7 @@
         "Spidops": 13,
         "Braixen": 14,
         "Drowzee": 13,
-        "Blipbug": 45,
+        "Blipbug": 46,
         "Lampent": 23,
         "Petilil": 10,
         "Marshtomp": 15,
@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 12,
         "Charjabug": 10,
-        "Capsakid": 35,
+        "Capsakid": 36,
         "Revavroom": 15,
         "Exploud": 4,
         "Deino": 26,
@@ -625,7 +625,7 @@
         "Gardevoir": 1,
         "Malamar": 2,
         "Frost rotom": 2,
-        "Tatsugiri": 15,
+        "Tatsugiri": 16,
         "Nidorino": 8,
         "Wailmer": 11,
         "Krabby": 11,
@@ -969,8 +969,8 @@
         "Azumarill": 1,
         "Galarian farfetch'd": 1
       },
-      "total_spawns": 9780,
-      "last_spawn": "2026-06-24T10:31:08.761993"
+      "total_spawns": 9785,
+      "last_spawn": "2026-06-24T10:31:47.096801"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1062,7 +1062,7 @@
     }
   },
   "global": {
-    "total_spawns": 14164,
+    "total_spawns": 14169,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
