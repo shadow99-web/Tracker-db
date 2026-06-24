@@ -171,7 +171,7 @@
         "Gastly": 39,
         "Taillow": 13,
         "Swinub": 44,
-        "Inkay": 17,
+        "Inkay": 18,
         "Gible": 30,
         "Rookidee": 29,
         "Minccino": 14,
@@ -179,7 +179,7 @@
         "Binacle": 15,
         "Grafaiai": 9,
         "Quilladin": 6,
-        "Geodude": 51,
+        "Geodude": 52,
         "Espurr": 10,
         "Cottonee": 6,
         "Elgyem": 11,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
-        "Chef dente": 29,
+        "Chef dente": 30,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -431,7 +431,7 @@
         "Flaaffy": 7,
         "Pecharunt": 1,
         "Feebas": 11,
-        "Buneary": 11,
+        "Buneary": 12,
         "Zebstrika": 1,
         "Shuppet": 12,
         "Paldean wooper": 3,
@@ -693,7 +693,7 @@
         "Marshadow": 1,
         "Sliggoo": 5,
         "Panpour": 9,
-        "Tinkatuff": 8,
+        "Tinkatuff": 9,
         "Bruxish": 3,
         "Corvisquire": 5,
         "Mantine": 6,
@@ -895,7 +895,7 @@
         "Fan rotom": 2,
         "Stonjourner": 2,
         "Elekid": 2,
-        "Floette": 3,
+        "Floette": 4,
         "Shedinja": 2,
         "Baxcalibur": 3,
         "Galarian articuno": 1,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9955,
-      "last_spawn": "2026-06-24T10:51:07.324454"
+      "total_spawns": 9961,
+      "last_spawn": "2026-06-24T10:51:47.400787"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14340,
+    "total_spawns": 14346,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
