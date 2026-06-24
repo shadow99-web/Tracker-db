@@ -39,7 +39,7 @@
         "Lotad": 58,
         "Qwilfish": 5,
         "Trapinch": 49,
-        "Toedscool": 35,
+        "Toedscool": 36,
         "Fletchling": 31,
         "Skiploom": 12,
         "Timburr": 40,
@@ -224,7 +224,7 @@
         "Magmar": 13,
         "Rillaboom": 4,
         "Ninetales": 2,
-        "Wattrel": 51,
+        "Wattrel": 52,
         "Snubbull": 12,
         "Spidops": 10,
         "Braixen": 14,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 50,
+        "Bellsprout": 51,
         "Mudbray": 11,
         "Dreepy": 40,
         "Tinkaton": 3,
@@ -600,7 +600,7 @@
         "Porygon-z": 2,
         "Conkeldurr": 4,
         "Walking wake": 1,
-        "Yellow flower floette": 2,
+        "Yellow flower floette": 3,
         "Medicham": 3,
         "Doublade": 7,
         "Naclstack": 7,
@@ -682,7 +682,7 @@
         "Oranguru": 4,
         "Poliwrath": 3,
         "Blaziken": 2,
-        "Stantler": 9,
+        "Stantler": 10,
         "Butterfree": 2,
         "Koffing": 8,
         "Floragato": 7,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9109,
-      "last_spawn": "2026-06-24T08:43:47.104391"
+      "total_spawns": 9114,
+      "last_spawn": "2026-06-24T08:44:17.270910"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1048,7 +1048,7 @@
     }
   },
   "global": {
-    "total_spawns": 13485,
+    "total_spawns": 13490,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
