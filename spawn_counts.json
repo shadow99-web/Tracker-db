@@ -38,7 +38,7 @@
         "Kilowattrel": 13,
         "Lotad": 73,
         "Qwilfish": 5,
-        "Trapinch": 59,
+        "Trapinch": 60,
         "Toedscool": 45,
         "Fletchling": 44,
         "Skiploom": 16,
@@ -61,14 +61,14 @@
         "Bramblin": 60,
         "Yanma": 11,
         "Larvesta": 24,
-        "Beldum": 44,
+        "Beldum": 45,
         "Ducklett": 10,
         "Lokix": 15,
         "Glimmora": 16,
         "Starly": 64,
         "Tandemaus": 46,
         "Smoliv": 68,
-        "Gloom": 16,
+        "Gloom": 17,
         "Clefairy": 13,
         "Spinda": 3,
         "Fomantis": 7,
@@ -162,7 +162,7 @@
         "Yamper": 14,
         "Tepig": 30,
         "Kirlia": 13,
-        "Piplup": 9,
+        "Piplup": 10,
         "Kakuna": 16,
         "Weepinbell": 10,
         "Klawf": 55,
@@ -229,7 +229,7 @@
         "Spidops": 14,
         "Braixen": 15,
         "Drowzee": 16,
-        "Blipbug": 58,
+        "Blipbug": 59,
         "Lampent": 23,
         "Petilil": 15,
         "Marshtomp": 16,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11834,
-      "last_spawn": "2026-06-24T16:37:47.099513"
+      "total_spawns": 11839,
+      "last_spawn": "2026-06-24T16:38:17.123860"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16237,
+    "total_spawns": 16242,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
