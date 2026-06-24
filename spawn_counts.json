@@ -27,8 +27,8 @@
         "Gothita": 48,
         "Impidimp": 42,
         "Charmander": 22,
-        "Morelull": 9,
-        "Abra": 55,
+        "Morelull": 10,
+        "Abra": 56,
         "Sandile": 55,
         "Sandygast": 16,
         "Litwick": 77,
@@ -81,7 +81,7 @@
         "Amaura": 11,
         "Gimmighoul": 48,
         "Baltoy": 23,
-        "Mareep": 48,
+        "Mareep": 49,
         "Garbodor": 3,
         "Slakoth": 62,
         "Togepi": 46,
@@ -179,7 +179,7 @@
         "Binacle": 18,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 61,
+        "Geodude": 62,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -513,7 +513,7 @@
         "Simipour": 1,
         "Goldeen": 15,
         "Nickit": 17,
-        "Ivysaur": 11,
+        "Ivysaur": 12,
         "Milcery": 13,
         "Gabite": 4,
         "Hariyama": 3,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11419,
-      "last_spawn": "2026-06-24T15:50:47.007312"
+      "total_spawns": 11424,
+      "last_spawn": "2026-06-24T15:51:17.107189"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15815,
+    "total_spawns": 15820,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
