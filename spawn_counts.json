@@ -12,7 +12,7 @@
         "Rellor": 51,
         "Sandy burmy": 9,
         "Wiglett": 64,
-        "Bombirdier": 51,
+        "Bombirdier": 52,
         "Litleo": 15,
         "Purrloin": 10,
         "Tranquill": 15,
@@ -101,7 +101,7 @@
         "Carracosta": 4,
         "Smearguru": 40,
         "Veluza": 66,
-        "Barboach": 20,
+        "Barboach": 21,
         "Klink": 46,
         "Honedge": 73,
         "Wingull": 20,
@@ -444,7 +444,7 @@
         "Bibarel": 4,
         "Plusle": 4,
         "Skrelp": 8,
-        "Raticate": 10,
+        "Raticate": 11,
         "Wugtrio": 13,
         "Bellibolt": 10,
         "Morgrem": 11,
@@ -572,7 +572,7 @@
         "Palossand": 3,
         "Noice face eiscue": 3,
         "Electivire": 4,
-        "Cascoon": 9,
+        "Cascoon": 10,
         "Tentacruel": 7,
         "Nuzleaf": 10,
         "Scorbunny": 19,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12616,
-      "last_spawn": "2026-06-24T18:49:47.195069"
+      "total_spawns": 12620,
+      "last_spawn": "2026-06-24T18:50:27.223621"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17034,
+    "total_spawns": 17038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
