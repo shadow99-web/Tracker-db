@@ -52,7 +52,7 @@
         "Grotle": 9,
         "Porygon": 46,
         "Zubat": 57,
-        "Vanillish": 11,
+        "Vanillish": 12,
         "Tadbulb": 46,
         "Magnemite": 53,
         "Whismur": 39,
@@ -74,7 +74,7 @@
         "Fomantis": 7,
         "Droopy tatsugiri": 21,
         "Froslass": 5,
-        "Tarountula": 36,
+        "Tarountula": 37,
         "Hatterene": 3,
         "Phantump": 18,
         "Duosion": 12,
@@ -92,7 +92,7 @@
         "Riolu": 9,
         "Exeggcute": 11,
         "Corphish": 5,
-        "Hoppip": 38,
+        "Hoppip": 39,
         "Sandslash": 1,
         "Kabuto": 13,
         "Scatterbug": 42,
@@ -846,7 +846,7 @@
         "Graveler": 10,
         "Carbink": 2,
         "Armaldo": 3,
-        "Grimmsnarl": 3,
+        "Grimmsnarl": 4,
         "Quagsire": 2,
         "Darkrai": 1,
         "Togedemaru": 2,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9844,
-      "last_spawn": "2026-06-24T10:38:37.160309"
+      "total_spawns": 9848,
+      "last_spawn": "2026-06-24T10:39:08.735619"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14229,
+    "total_spawns": 14233,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
