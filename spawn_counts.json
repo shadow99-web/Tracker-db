@@ -95,7 +95,7 @@
         "Hoppip": 43,
         "Sandslash": 2,
         "Kabuto": 16,
-        "Scatterbug": 51,
+        "Scatterbug": 52,
         "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 3,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 14,
-        "Roggenrola": 56,
+        "Roggenrola": 57,
         "Pidove": 57,
         "Dragapult": 6,
         "Rattata": 29,
@@ -213,7 +213,7 @@
         "Fidough": 33,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 59,
+        "Tynamo": 60,
         "Orthworm": 50,
         "Marill": 14,
         "Joltik": 23,
@@ -660,7 +660,7 @@
         "Bouffalant": 5,
         "Crabrawler": 13,
         "Budew": 4,
-        "Espathra": 11,
+        "Espathra": 12,
         "Vileplume": 3,
         "Kecleon": 3,
         "Sizzlipede": 9,
@@ -751,7 +751,7 @@
         "Dewpider": 9,
         "Poltchageist": 4,
         "Incineroar": 3,
-        "Morpeko": 8,
+        "Morpeko": 9,
         "Parasect": 5,
         "Alolan muk": 1,
         "Iron boulder": 2,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11980,
-      "last_spawn": "2026-06-24T16:53:57.277252"
+      "total_spawns": 11985,
+      "last_spawn": "2026-06-24T16:54:31.959898"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16384,
+    "total_spawns": 16389,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
