@@ -17,12 +17,12 @@
         "Purrloin": 8,
         "Tranquill": 12,
         "Psyduck": 5,
-        "Rockruff": 9,
+        "Rockruff": 10,
         "Haunter": 8,
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 4,
-        "Machop": 35,
+        "Machop": 36,
         "Dudunsparce": 9,
         "Gothita": 43,
         "Impidimp": 39,
@@ -114,7 +114,7 @@
         "Horsea": 43,
         "Frigibax": 42,
         "Spheal": 62,
-        "Swadloon": 9,
+        "Swadloon": 10,
         "Flittle": 42,
         "Unfezant": 3,
         "Yamask": 8,
@@ -134,7 +134,7 @@
         "Bounsweet": 35,
         "Noibat": 15,
         "Toxicroak": 5,
-        "Charcadet": 56,
+        "Charcadet": 57,
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 12,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 13,
-        "Cetoddle": 37,
+        "Cetoddle": 38,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10097,
-      "last_spawn": "2026-06-24T11:06:59.041002"
+      "total_spawns": 10102,
+      "last_spawn": "2026-06-24T11:07:32.011790"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14482,
+    "total_spawns": 14487,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
