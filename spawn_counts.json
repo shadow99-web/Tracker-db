@@ -50,7 +50,7 @@
         "Greavard": 50,
         "Slugma": 13,
         "Grotle": 10,
-        "Porygon": 55,
+        "Porygon": 56,
         "Zubat": 58,
         "Vanillish": 13,
         "Tadbulb": 50,
@@ -59,7 +59,7 @@
         "Monferno": 17,
         "Skwovet": 9,
         "Bramblin": 55,
-        "Yanma": 10,
+        "Yanma": 11,
         "Larvesta": 23,
         "Beldum": 38,
         "Ducklett": 10,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 49,
         "Frigibax": 47,
-        "Spheal": 64,
+        "Spheal": 65,
         "Swadloon": 13,
         "Flittle": 45,
         "Unfezant": 3,
@@ -130,7 +130,7 @@
         "Weedle": 70,
         "Flamigo": 48,
         "Lillipup": 53,
-        "Shinx": 53,
+        "Shinx": 54,
         "Bounsweet": 37,
         "Noibat": 15,
         "Toxicroak": 5,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
-        "Chef dente": 34,
+        "Chef dente": 35,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -725,7 +725,7 @@
         "Cornerstone mask ogerpon": 1,
         "Typhlosion": 3,
         "Ariados": 2,
-        "Volbeat": 5,
+        "Volbeat": 6,
         "Burmy": 2,
         "Popplio": 12,
         "Mandibuzz": 4,
@@ -980,8 +980,8 @@
         "Mudsdale": 1,
         "Slaking": 1
       },
-      "total_spawns": 10729,
-      "last_spawn": "2026-06-24T13:34:07.341159"
+      "total_spawns": 10735,
+      "last_spawn": "2026-06-24T13:34:47.181010"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1075,7 +1075,7 @@
     }
   },
   "global": {
-    "total_spawns": 15115,
+    "total_spawns": 15121,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
