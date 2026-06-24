@@ -55,7 +55,7 @@
         "Vanillish": 18,
         "Tadbulb": 58,
         "Magnemite": 63,
-        "Whismur": 51,
+        "Whismur": 52,
         "Monferno": 19,
         "Skwovet": 14,
         "Bramblin": 62,
@@ -186,7 +186,7 @@
         "Luvdisc": 6,
         "Vigoroth": 20,
         "Skorupi": 16,
-        "Pikachu": 16,
+        "Pikachu": 17,
         "Blue plumage squawkabilly": 8,
         "Thwackey": 16,
         "Dusk lycanroc": 3,
@@ -209,7 +209,7 @@
         "Swellow": 4,
         "Aipom": 12,
         "Growlithe": 12,
-        "Sewaddle": 52,
+        "Sewaddle": 53,
         "Fidough": 35,
         "Noivern": 2,
         "Feraligatr": 5,
@@ -977,7 +977,7 @@
         "Sandy shocks": 1,
         "Hoopa": 1,
         "Vanilla cream love sweet alcremie": 1,
-        "Mudsdale": 2,
+        "Mudsdale": 3,
         "Slaking": 1,
         "Munkidori": 1,
         "Wash rotom": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12787,
-      "last_spawn": "2026-06-24T19:09:17.118134"
+      "total_spawns": 12791,
+      "last_spawn": "2026-06-24T19:09:47.555385"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17205,
+    "total_spawns": 17209,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
