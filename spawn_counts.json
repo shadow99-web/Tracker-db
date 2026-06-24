@@ -95,7 +95,7 @@
         "Hoppip": 43,
         "Sandslash": 2,
         "Kabuto": 16,
-        "Scatterbug": 54,
+        "Scatterbug": 55,
         "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 4,
@@ -163,7 +163,7 @@
         "Tepig": 31,
         "Kirlia": 14,
         "Piplup": 11,
-        "Kakuna": 17,
+        "Kakuna": 18,
         "Weepinbell": 10,
         "Klawf": 56,
         "Vanillite": 48,
@@ -228,8 +228,8 @@
         "Snubbull": 13,
         "Spidops": 14,
         "Braixen": 16,
-        "Drowzee": 16,
-        "Blipbug": 60,
+        "Drowzee": 17,
+        "Blipbug": 61,
         "Lampent": 23,
         "Petilil": 16,
         "Marshtomp": 16,
@@ -249,7 +249,7 @@
         "Dachsbun": 17,
         "Turtwig": 11,
         "Prinplup": 12,
-        "Tinkatink": 62,
+        "Tinkatink": 63,
         "Lechonk": 53,
         "Kommo-o": 1,
         "Dewott": 18,
@@ -306,7 +306,7 @@
         "Lileep": 11,
         "Rolycoly": 43,
         "Bronzor": 21,
-        "Dartrix": 11,
+        "Dartrix": 12,
         "Yellow flower florges": 3,
         "Zangoose": 6,
         "Flygon": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12375,
-      "last_spawn": "2026-06-24T18:22:47.369273"
+      "total_spawns": 12381,
+      "last_spawn": "2026-06-24T18:23:27.373174"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16792,
+    "total_spawns": 16798,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
