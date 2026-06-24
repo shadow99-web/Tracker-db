@@ -81,7 +81,7 @@
         "Amaura": 11,
         "Gimmighoul": 49,
         "Baltoy": 24,
-        "Mareep": 49,
+        "Mareep": 50,
         "Garbodor": 3,
         "Slakoth": 64,
         "Togepi": 46,
@@ -172,7 +172,7 @@
         "Taillow": 17,
         "Swinub": 49,
         "Inkay": 18,
-        "Gible": 34,
+        "Gible": 35,
         "Rookidee": 32,
         "Minccino": 16,
         "Wurmple": 40,
@@ -215,7 +215,7 @@
         "Feraligatr": 4,
         "Tynamo": 57,
         "Orthworm": 50,
-        "Marill": 13,
+        "Marill": 14,
         "Joltik": 22,
         "Politoed": 3,
         "Cyndaquil": 24,
@@ -316,7 +316,7 @@
         "Munna": 12,
         "Pawniard": 11,
         "Prof tangrowth": 34,
-        "Jangmo-o": 25,
+        "Jangmo-o": 26,
         "Trash wormadam": 4,
         "Quaxly": 13,
         "Gossifleur": 15,
@@ -367,7 +367,7 @@
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 37,
-        "Carvanha": 15,
+        "Carvanha": 16,
         "Luxio": 12,
         "Treecko": 21,
         "Sinistea": 7,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11560,
-      "last_spawn": "2026-06-24T16:06:27.239296"
+      "total_spawns": 11565,
+      "last_spawn": "2026-06-24T16:06:57.255409"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1087,10 +1087,11 @@
         "Beldum": 2,
         "Whismur": 1,
         "Crabrawler": 1,
-        "Mudkip": 1
+        "Mudkip": 1,
+        "Greavard": 1
       },
-      "total_spawns": 114,
-      "last_spawn": "2026-06-24T16:06:17.748496"
+      "total_spawns": 115,
+      "last_spawn": "2026-06-24T16:06:47.897464"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1100,7 +1101,7 @@
     }
   },
   "global": {
-    "total_spawns": 15961,
+    "total_spawns": 15967,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
