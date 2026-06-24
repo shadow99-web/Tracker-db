@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 41,
         "Frigibax": 41,
-        "Spheal": 59,
+        "Spheal": 60,
         "Swadloon": 9,
         "Flittle": 42,
         "Unfezant": 3,
@@ -175,7 +175,7 @@
         "Gible": 28,
         "Rookidee": 28,
         "Minccino": 14,
-        "Wurmple": 36,
+        "Wurmple": 37,
         "Binacle": 15,
         "Grafaiai": 9,
         "Quilladin": 6,
@@ -380,7 +380,7 @@
         "Remoraid": 6,
         "Torracat": 12,
         "Hisuian zorua": 1,
-        "Wooloo": 8,
+        "Wooloo": 9,
         "Drifloon": 9,
         "Golbat": 14,
         "Swablu": 12,
@@ -535,7 +535,7 @@
         "Trevenant": 7,
         "Trubbish": 4,
         "Zorua": 8,
-        "Archen": 17,
+        "Archen": 18,
         "Oinkologne": 11,
         "Onix": 9,
         "Vanilluxe": 2,
@@ -836,7 +836,7 @@
         "Arctovish": 6,
         "Ribombee": 2,
         "Alolan meowth": 1,
-        "Klang": 3,
+        "Klang": 4,
         "Manectric": 2,
         "Gallade": 2,
         "Family of three maushold": 1,
@@ -968,8 +968,8 @@
         "Reshiram": 1,
         "Azumarill": 1
       },
-      "total_spawns": 9754,
-      "last_spawn": "2026-06-24T10:28:11.795513"
+      "total_spawns": 9759,
+      "last_spawn": "2026-06-24T10:28:47.105671"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1061,7 +1061,7 @@
     }
   },
   "global": {
-    "total_spawns": 14138,
+    "total_spawns": 14143,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
