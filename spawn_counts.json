@@ -29,7 +29,7 @@
         "Charmander": 25,
         "Morelull": 11,
         "Abra": 60,
-        "Sandile": 60,
+        "Sandile": 61,
         "Sandygast": 18,
         "Litwick": 82,
         "Grubbin": 49,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 17,
-        "Spearow": 21,
+        "Spearow": 22,
         "Helioptile": 13,
         "Hoothoot": 12,
         "Grookey": 18,
@@ -241,7 +241,7 @@
         "Galvantula": 3,
         "Chansey": 8,
         "Shroodle": 59,
-        "Duskull": 62,
+        "Duskull": 63,
         "Bergmite": 15,
         "Pignite": 16,
         "Lurantis": 1,
@@ -309,7 +309,7 @@
         "Dartrix": 12,
         "Yellow flower florges": 3,
         "Zangoose": 6,
-        "Flygon": 3,
+        "Flygon": 4,
         "Shellos": 9,
         "Jigglypuff": 19,
         "Nacli": 35,
@@ -320,7 +320,7 @@
         "Trash wormadam": 4,
         "Quaxly": 15,
         "Gossifleur": 16,
-        "Oshawott": 14,
+        "Oshawott": 15,
         "Murkrow": 14,
         "Bellsprout": 67,
         "Mudbray": 15,
@@ -349,7 +349,7 @@
         "Wooper": 24,
         "Dwebble": 14,
         "Steenee": 15,
-        "Darumaka": 21,
+        "Darumaka": 22,
         "Arboliva": 5,
         "Ledyba": 13,
         "Spritzee": 11,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12420,
-      "last_spawn": "2026-06-24T18:27:47.167388"
+      "total_spawns": 12426,
+      "last_spawn": "2026-06-24T18:28:27.426923"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16837,
+    "total_spawns": 16843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
