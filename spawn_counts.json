@@ -28,7 +28,7 @@
         "Impidimp": 39,
         "Charmander": 20,
         "Morelull": 8,
-        "Abra": 50,
+        "Abra": 51,
         "Sandile": 53,
         "Sandygast": 15,
         "Litwick": 76,
@@ -61,7 +61,7 @@
         "Bramblin": 54,
         "Yanma": 10,
         "Larvesta": 22,
-        "Beldum": 34,
+        "Beldum": 35,
         "Ducklett": 9,
         "Lokix": 13,
         "Glimmora": 16,
@@ -144,7 +144,7 @@
         "Yungoos": 5,
         "Diglett": 20,
         "Doduo": 11,
-        "Lairon": 14,
+        "Lairon": 15,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
@@ -241,7 +241,7 @@
         "Galvantula": 3,
         "Chansey": 7,
         "Shroodle": 53,
-        "Duskull": 56,
+        "Duskull": 57,
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 2,
         "Toxapex": 3,
         "Lileep": 9,
-        "Rolycoly": 35,
+        "Rolycoly": 36,
         "Bronzor": 18,
         "Dartrix": 10,
         "Yellow flower florges": 3,
@@ -973,10 +973,11 @@
         "Minun": 2,
         "Wo-chien": 1,
         "Octillery": 1,
-        "Coalossal": 1
+        "Coalossal": 1,
+        "Sandy shocks": 1
       },
-      "total_spawns": 10464,
-      "last_spawn": "2026-06-24T13:04:07.235577"
+      "total_spawns": 10470,
+      "last_spawn": "2026-06-24T13:04:47.178991"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1070,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14850,
+    "total_spawns": 14856,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
