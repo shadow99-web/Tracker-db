@@ -6,7 +6,7 @@
         "Chimchar": 21,
         "Patrat": 12,
         "Mosslax": 25,
-        "Drilbur": 10,
+        "Drilbur": 11,
         "Pawmi": 45,
         "Electabuzz": 8,
         "Rellor": 39,
@@ -129,7 +129,7 @@
         "Zigzagoon": 16,
         "Weedle": 61,
         "Flamigo": 43,
-        "Lillipup": 47,
+        "Lillipup": 48,
         "Shinx": 49,
         "Bounsweet": 34,
         "Noibat": 15,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 4,
         "Cufant": 11,
-        "Tympole": 30,
+        "Tympole": 31,
         "Swellow": 3,
         "Aipom": 7,
         "Growlithe": 11,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 3,
         "Chansey": 7,
-        "Shroodle": 48,
+        "Shroodle": 49,
         "Duskull": 51,
         "Bergmite": 10,
         "Pignite": 14,
@@ -542,7 +542,7 @@
         "Jolteon": 4,
         "Pawmot": 5,
         "Skiddo": 9,
-        "Slowbro": 5,
+        "Slowbro": 6,
         "Oricorio": 3,
         "Kangaskhan": 3,
         "Krokorok": 13,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9495,
-      "last_spawn": "2026-06-24T09:58:57.328418"
+      "total_spawns": 9500,
+      "last_spawn": "2026-06-24T09:59:31.812676"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13879,
+    "total_spawns": 13884,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
