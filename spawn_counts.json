@@ -65,7 +65,7 @@
         "Ducklett": 10,
         "Lokix": 15,
         "Glimmora": 17,
-        "Starly": 64,
+        "Starly": 65,
         "Tandemaus": 46,
         "Smoliv": 70,
         "Gloom": 18,
@@ -345,7 +345,7 @@
         "Capsakid": 46,
         "Revavroom": 17,
         "Exploud": 5,
-        "Deino": 31,
+        "Deino": 32,
         "Wooper": 23,
         "Dwebble": 14,
         "Steenee": 15,
@@ -366,7 +366,7 @@
         "Finizen": 57,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 39,
+        "Caterpie": 40,
         "Carvanha": 16,
         "Luxio": 12,
         "Treecko": 25,
@@ -411,7 +411,7 @@
         "Pansear": 16,
         "Cutiefly": 10,
         "Peakychu": 38,
-        "Armarouge": 14,
+        "Armarouge": 15,
         "Tyrantrum": 1,
         "Larvitar": 27,
         "Tentacool": 8,
@@ -523,7 +523,7 @@
         "Pansage": 9,
         "Cranidos": 15,
         "Spewpa": 13,
-        "Tyrunt": 10,
+        "Tyrunt": 11,
         "Garganacl": 1,
         "Chinchou": 10,
         "Maushold": 15,
@@ -566,7 +566,7 @@
         "Slowking": 8,
         "Lilligant": 4,
         "Rabsca": 9,
-        "Gulpin": 20,
+        "Gulpin": 21,
         "Crawdaunt": 5,
         "Magmortar": 2,
         "Palossand": 3,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 12026,
-      "last_spawn": "2026-06-24T16:59:07.275405"
+      "total_spawns": 12032,
+      "last_spawn": "2026-06-24T16:59:47.182474"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16430,
+    "total_spawns": 16436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
