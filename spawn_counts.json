@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 20,
-        "Patrat": 10,
+        "Patrat": 11,
         "Mosslax": 24,
         "Drilbur": 10,
         "Pawmi": 44,
@@ -493,7 +493,7 @@
         "Magneton": 9,
         "Alakazam": 4,
         "Bayleef": 5,
-        "Poochyena": 9,
+        "Poochyena": 10,
         "Klinklang": 3,
         "Basculin": 4,
         "Throh": 3,
@@ -654,13 +654,13 @@
         "Beheeyem": 3,
         "Pinsir": 4,
         "Mothim": 3,
-        "Whirlipede": 11,
+        "Whirlipede": 12,
         "Absol": 3,
         "Annihilape": 5,
         "Bouffalant": 4,
         "Crabrawler": 8,
         "Budew": 4,
-        "Espathra": 5,
+        "Espathra": 6,
         "Vileplume": 2,
         "Kecleon": 2,
         "Sizzlipede": 7,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9105,
-      "last_spawn": "2026-06-24T08:43:11.881562"
+      "total_spawns": 9109,
+      "last_spawn": "2026-06-24T08:43:47.104391"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1048,7 +1048,7 @@
     }
   },
   "global": {
-    "total_spawns": 13481,
+    "total_spawns": 13485,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
