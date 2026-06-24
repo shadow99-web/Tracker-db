@@ -8,7 +8,7 @@
         "Mosslax": 40,
         "Drilbur": 13,
         "Pawmi": 60,
-        "Electabuzz": 8,
+        "Electabuzz": 9,
         "Rellor": 52,
         "Sandy burmy": 9,
         "Wiglett": 64,
@@ -59,7 +59,7 @@
         "Monferno": 19,
         "Skwovet": 14,
         "Bramblin": 62,
-        "Yanma": 12,
+        "Yanma": 13,
         "Larvesta": 26,
         "Beldum": 46,
         "Ducklett": 12,
@@ -256,7 +256,7 @@
         "Arrokuda": 16,
         "Golett": 14,
         "Vullaby": 11,
-        "Cetitan": 15,
+        "Cetitan": 16,
         "Cubone": 15,
         "Gligar": 21,
         "Tirtouga": 17,
@@ -462,7 +462,7 @@
         "Paras": 16,
         "Herdier": 21,
         "Pineco": 11,
-        "Chikorita": 15,
+        "Chikorita": 16,
         "Woobat": 16,
         "Wobbuffet": 3,
         "Roselia": 6,
@@ -776,7 +776,7 @@
         "Scolipede": 3,
         "Marowak": 1,
         "Chingling": 2,
-        "Beedrill": 5,
+        "Beedrill": 6,
         "Whimsicott": 5,
         "Wishiwashi": 6,
         "Cofagrigus": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12839,
-      "last_spawn": "2026-06-24T19:15:17.735199"
+      "total_spawns": 12844,
+      "last_spawn": "2026-06-24T19:15:51.881010"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17257,
+    "total_spawns": 17262,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
