@@ -138,7 +138,7 @@
         "Croconaw": 16,
         "Phanpy": 9,
         "Brambleghast": 17,
-        "Pidgey": 77,
+        "Pidgey": 78,
         "Rhyhorn": 53,
         "Sentret": 16,
         "Yungoos": 11,
@@ -383,7 +383,7 @@
         "Wooloo": 12,
         "Drifloon": 10,
         "Golbat": 17,
-        "Swablu": 14,
+        "Swablu": 15,
         "Shellder": 16,
         "Crobat": 10,
         "Sandshrew": 15,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 12,
         "Wailord": 3,
-        "Makuhita": 17,
+        "Makuhita": 18,
         "Lombre": 16,
         "Ursaluna": 5,
         "Furfrou": 2,
@@ -631,7 +631,7 @@
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
-        "Cacnea": 6,
+        "Cacnea": 7,
         "Pom-pom oricorio": 4,
         "Hawlucha": 6,
         "Ursaring": 10,
@@ -673,7 +673,7 @@
         "Grimer": 9,
         "Crabominable": 4,
         "Quaquaval": 4,
-        "Sprigatito": 21,
+        "Sprigatito": 22,
         "Metagross": 5,
         "Eelektrik": 9,
         "Gastrodon": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12917,
-      "last_spawn": "2026-06-24T19:24:07.064498"
+      "total_spawns": 12922,
+      "last_spawn": "2026-06-24T19:24:37.155531"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17335,
+    "total_spawns": 17340,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
