@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 38,
         "Kilowattrel": 11,
-        "Lotad": 69,
+        "Lotad": 70,
         "Qwilfish": 5,
         "Trapinch": 59,
         "Toedscool": 44,
@@ -129,7 +129,7 @@
         "Zigzagoon": 19,
         "Weedle": 73,
         "Flamigo": 51,
-        "Lillipup": 55,
+        "Lillipup": 56,
         "Shinx": 58,
         "Bounsweet": 39,
         "Noibat": 17,
@@ -179,7 +179,7 @@
         "Binacle": 17,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 58,
+        "Geodude": 59,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -416,7 +416,7 @@
         "Larvitar": 23,
         "Tentacool": 8,
         "Volcanion": 1,
-        "Roaming gimmighoul": 33,
+        "Roaming gimmighoul": 34,
         "Summer sawsbuck": 6,
         "Delibird": 3,
         "Ride cyclizar": 20,
@@ -427,7 +427,7 @@
         "Low key toxtricity": 1,
         "Grapploct": 2,
         "Gurdurr": 10,
-        "Girafarig": 6,
+        "Girafarig": 7,
         "Flaaffy": 8,
         "Pecharunt": 1,
         "Feebas": 11,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11290,
-      "last_spawn": "2026-06-24T14:37:07.025611"
+      "total_spawns": 11295,
+      "last_spawn": "2026-06-24T14:37:37.186965"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15677,
+    "total_spawns": 15682,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
