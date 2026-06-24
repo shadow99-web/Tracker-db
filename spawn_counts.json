@@ -34,7 +34,7 @@
         "Litwick": 82,
         "Grubbin": 49,
         "Escavalier": 9,
-        "Dratini": 41,
+        "Dratini": 42,
         "Kilowattrel": 15,
         "Lotad": 79,
         "Qwilfish": 5,
@@ -369,7 +369,7 @@
         "Caterpie": 44,
         "Carvanha": 16,
         "Luxio": 13,
-        "Treecko": 26,
+        "Treecko": 27,
         "Sinistea": 8,
         "Cubchoo": 7,
         "Hippopotas": 9,
@@ -421,7 +421,7 @@
         "Delibird": 3,
         "Ride cyclizar": 20,
         "Gothorita": 13,
-        "Varoom": 51,
+        "Varoom": 52,
         "Yellow plumage squawkabilly": 19,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -780,7 +780,7 @@
         "Whimsicott": 4,
         "Wishiwashi": 6,
         "Cofagrigus": 4,
-        "Camerupt": 2,
+        "Camerupt": 3,
         "Castform": 8,
         "Weavile": 1,
         "Gorging cramorant": 1,
@@ -855,7 +855,7 @@
         "Chesnaught": 1,
         "Jumpluff": 3,
         "Heatmor": 2,
-        "Dubwool": 1,
+        "Dubwool": 2,
         "Shuckle": 3,
         "Hydreigon": 1,
         "Alolan vulpix": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12573,
-      "last_spawn": "2026-06-24T18:44:47.528860"
+      "total_spawns": 12578,
+      "last_spawn": "2026-06-24T18:45:27.204306"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16991,
+    "total_spawns": 16996,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
