@@ -42,7 +42,7 @@
         "Toedscool": 45,
         "Fletchling": 41,
         "Skiploom": 15,
-        "Timburr": 52,
+        "Timburr": 53,
         "Dj rotom": 44,
         "Surskit": 23,
         "Seedot": 41,
@@ -89,7 +89,7 @@
         "Tropius": 2,
         "Poliwag": 51,
         "Metang": 8,
-        "Riolu": 11,
+        "Riolu": 12,
         "Exeggcute": 13,
         "Corphish": 10,
         "Hoppip": 42,
@@ -112,7 +112,7 @@
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 50,
-        "Frigibax": 50,
+        "Frigibax": 51,
         "Spheal": 67,
         "Swadloon": 14,
         "Flittle": 50,
@@ -249,7 +249,7 @@
         "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 11,
-        "Tinkatink": 58,
+        "Tinkatink": 59,
         "Lechonk": 49,
         "Kommo-o": 1,
         "Dewott": 15,
@@ -457,7 +457,7 @@
         "Passimian": 3,
         "Iron moth": 1,
         "Cherubi": 10,
-        "Cradily": 3,
+        "Cradily": 4,
         "Vulpix": 13,
         "Paras": 12,
         "Herdier": 18,
@@ -881,7 +881,7 @@
         "Seaking": 2,
         "High plain vivillon": 1,
         "Urshifu": 1,
-        "Swalot": 2,
+        "Swalot": 3,
         "Cloyster": 3,
         "Kingler": 4,
         "Alomomola": 2,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11402,
-      "last_spawn": "2026-06-24T15:48:47.186116"
+      "total_spawns": 11408,
+      "last_spawn": "2026-06-24T15:49:27.869240"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15798,
+    "total_spawns": 15804,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
