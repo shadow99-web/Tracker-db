@@ -131,7 +131,7 @@
         "Flamigo": 43,
         "Lillipup": 47,
         "Shinx": 48,
-        "Bounsweet": 32,
+        "Bounsweet": 33,
         "Noibat": 15,
         "Toxicroak": 5,
         "Charcadet": 51,
@@ -165,7 +165,7 @@
         "Piplup": 7,
         "Kakuna": 15,
         "Weepinbell": 9,
-        "Klawf": 41,
+        "Klawf": 42,
         "Vanillite": 37,
         "Flareon": 4,
         "Gastly": 39,
@@ -265,7 +265,7 @@
         "Fennekin": 20,
         "Quaxwell": 7,
         "Vibrava": 11,
-        "Loudred": 6,
+        "Loudred": 7,
         "Ceruledge": 21,
         "Houndour": 12,
         "Glimmet": 46,
@@ -276,7 +276,7 @@
         "Bagon": 18,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 13,
+        "Rowlet": 14,
         "Galarian slowpoke": 1,
         "Poliwhirl": 9,
         "Crocalor": 19,
@@ -575,7 +575,7 @@
         "Cascoon": 7,
         "Tentacruel": 5,
         "Nuzleaf": 9,
-        "Scorbunny": 13,
+        "Scorbunny": 14,
         "Huntail": 3,
         "Galarian meowth": 1,
         "Spoink": 4,
@@ -962,10 +962,11 @@
         "Dusknoir": 1,
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1,
-        "Thundurus": 1
+        "Thundurus": 1,
+        "Seismitoad": 1
       },
-      "total_spawns": 9436,
-      "last_spawn": "2026-06-24T09:52:27.434129"
+      "total_spawns": 9442,
+      "last_spawn": "2026-06-24T09:53:06.975543"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13820,
+    "total_spawns": 13826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
