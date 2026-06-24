@@ -36,7 +36,7 @@
         "Escavalier": 6,
         "Dratini": 34,
         "Kilowattrel": 11,
-        "Lotad": 64,
+        "Lotad": 65,
         "Qwilfish": 5,
         "Trapinch": 58,
         "Toedscool": 41,
@@ -269,7 +269,7 @@
         "Ceruledge": 23,
         "Houndour": 16,
         "Glimmet": 51,
-        "Goomy": 28,
+        "Goomy": 29,
         "Zapdos": 1,
         "Natu": 14,
         "Dhelmise": 2,
@@ -456,7 +456,7 @@
         "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
-        "Cherubi": 8,
+        "Cherubi": 9,
         "Cradily": 3,
         "Vulpix": 13,
         "Paras": 12,
@@ -478,7 +478,7 @@
         "Solrock": 3,
         "Slowpoke": 14,
         "Dolliv": 12,
-        "Infernape": 1,
+        "Infernape": 2,
         "Carkol": 10,
         "Magikarp": 11,
         "Tyrogue": 15,
@@ -558,7 +558,7 @@
         "Araquanid": 4,
         "Kadabra": 13,
         "Chandelure": 6,
-        "Ponyta": 16,
+        "Ponyta": 17,
         "Togekiss": 5,
         "Braviary": 4,
         "Raboot": 13,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10634,
-      "last_spawn": "2026-06-24T13:23:27.141109"
+      "total_spawns": 10639,
+      "last_spawn": "2026-06-24T13:23:57.284112"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 15020,
+    "total_spawns": 15025,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
