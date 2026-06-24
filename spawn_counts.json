@@ -139,7 +139,7 @@
         "Phanpy": 9,
         "Brambleghast": 17,
         "Pidgey": 79,
-        "Rhyhorn": 54,
+        "Rhyhorn": 55,
         "Sentret": 16,
         "Yungoos": 11,
         "Diglett": 22,
@@ -195,7 +195,7 @@
         "Spearow": 23,
         "Helioptile": 16,
         "Hoothoot": 14,
-        "Grookey": 18,
+        "Grookey": 19,
         "Meditite": 8,
         "Toedscruel": 18,
         "Probopass": 5,
@@ -249,7 +249,7 @@
         "Dachsbun": 17,
         "Turtwig": 11,
         "Prinplup": 13,
-        "Tinkatink": 65,
+        "Tinkatink": 66,
         "Lechonk": 58,
         "Kommo-o": 1,
         "Dewott": 19,
@@ -306,7 +306,7 @@
         "Lileep": 12,
         "Rolycoly": 45,
         "Bronzor": 23,
-        "Dartrix": 13,
+        "Dartrix": 14,
         "Yellow flower florges": 3,
         "Zangoose": 6,
         "Flygon": 4,
@@ -315,7 +315,7 @@
         "Nacli": 37,
         "Munna": 14,
         "Pawniard": 14,
-        "Prof tangrowth": 40,
+        "Prof tangrowth": 41,
         "Jangmo-o": 29,
         "Trash wormadam": 4,
         "Quaxly": 15,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12936,
-      "last_spawn": "2026-06-24T19:26:17.456034"
+      "total_spawns": 12941,
+      "last_spawn": "2026-06-24T19:26:52.698498"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17354,
+    "total_spawns": 17359,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
