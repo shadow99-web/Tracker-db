@@ -130,7 +130,7 @@
         "Weedle": 65,
         "Flamigo": 44,
         "Lillipup": 50,
-        "Shinx": 49,
+        "Shinx": 50,
         "Bounsweet": 34,
         "Noibat": 15,
         "Toxicroak": 5,
@@ -179,7 +179,7 @@
         "Binacle": 15,
         "Grafaiai": 9,
         "Quilladin": 6,
-        "Geodude": 49,
+        "Geodude": 50,
         "Espurr": 10,
         "Cottonee": 6,
         "Elgyem": 11,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 4,
         "Cufant": 11,
-        "Tympole": 32,
+        "Tympole": 33,
         "Swellow": 4,
         "Aipom": 8,
         "Growlithe": 11,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 49,
-        "Orthworm": 46,
+        "Orthworm": 47,
         "Marill": 13,
         "Joltik": 21,
         "Politoed": 3,
@@ -576,7 +576,7 @@
         "Tentacruel": 5,
         "Nuzleaf": 9,
         "Scorbunny": 14,
-        "Huntail": 3,
+        "Huntail": 4,
         "Galarian meowth": 1,
         "Spoink": 4,
         "Scyther": 11,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9899,
-      "last_spawn": "2026-06-24T10:44:47.195396"
+      "total_spawns": 9904,
+      "last_spawn": "2026-06-24T10:45:18.788335"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14284,
+    "total_spawns": 14289,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
