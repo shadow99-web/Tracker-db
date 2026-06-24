@@ -131,7 +131,7 @@
         "Flamigo": 42,
         "Lillipup": 46,
         "Shinx": 47,
-        "Bounsweet": 30,
+        "Bounsweet": 31,
         "Noibat": 15,
         "Toxicroak": 5,
         "Charcadet": 49,
@@ -210,7 +210,7 @@
         "Aipom": 7,
         "Growlithe": 11,
         "Sewaddle": 38,
-        "Fidough": 27,
+        "Fidough": 28,
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 46,
@@ -620,7 +620,7 @@
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
-        "Frillish": 10,
+        "Frillish": 11,
         "Manaphy": 1,
         "Gardevoir": 1,
         "Malamar": 2,
@@ -661,7 +661,7 @@
         "Crabrawler": 9,
         "Budew": 4,
         "Espathra": 6,
-        "Vileplume": 2,
+        "Vileplume": 3,
         "Kecleon": 2,
         "Sizzlipede": 7,
         "White flower floette": 2,
@@ -916,7 +916,7 @@
         "Galarian rapidash": 1,
         "Skuntank": 1,
         "Gogoat": 2,
-        "Bellossom": 3,
+        "Bellossom": 4,
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 3,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9294,
-      "last_spawn": "2026-06-24T09:04:57.296339"
+      "total_spawns": 9299,
+      "last_spawn": "2026-06-24T09:05:31.740242"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13670,
+    "total_spawns": 13675,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
