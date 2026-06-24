@@ -65,9 +65,9 @@
         "Ducklett": 8,
         "Lokix": 12,
         "Glimmora": 16,
-        "Starly": 49,
+        "Starly": 50,
         "Tandemaus": 40,
-        "Smoliv": 57,
+        "Smoliv": 58,
         "Gloom": 12,
         "Clefairy": 10,
         "Spinda": 2,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 41,
+        "Roggenrola": 42,
         "Pidove": 44,
         "Dragapult": 6,
         "Rattata": 26,
@@ -166,7 +166,7 @@
         "Kakuna": 15,
         "Weepinbell": 9,
         "Klawf": 43,
-        "Vanillite": 37,
+        "Vanillite": 38,
         "Flareon": 4,
         "Gastly": 39,
         "Taillow": 13,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 3,
         "Magearna": 1,
         "Mabosstiff": 11,
-        "Squirtle": 18,
+        "Squirtle": 19,
         "Remoraid": 5,
         "Torracat": 12,
         "Hisuian zorua": 1,
@@ -865,7 +865,7 @@
         "Donphan": 1,
         "Charizard": 2,
         "Pincurchin": 1,
-        "Dunsparce": 1,
+        "Dunsparce": 2,
         "Lapras": 3,
         "Illumise": 3,
         "Scrafty": 1,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9511,
-      "last_spawn": "2026-06-24T10:00:47.378443"
+      "total_spawns": 9517,
+      "last_spawn": "2026-06-24T10:01:27.418366"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13895,
+    "total_spawns": 13901,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
