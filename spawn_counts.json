@@ -7,7 +7,7 @@
         "Patrat": 10,
         "Mosslax": 24,
         "Drilbur": 10,
-        "Pawmi": 43,
+        "Pawmi": 44,
         "Electabuzz": 8,
         "Rellor": 36,
         "Sandy burmy": 9,
@@ -102,14 +102,14 @@
         "Smearguru": 32,
         "Veluza": 52,
         "Barboach": 15,
-        "Klink": 30,
+        "Klink": 31,
         "Honedge": 57,
         "Wingull": 15,
         "Salamence": 1,
         "Drakloak": 11,
         "Chewtle": 8,
         "Scizor": 1,
-        "Sneasel": 15,
+        "Sneasel": 16,
         "Bonsly": 2,
         "Horsea": 35,
         "Frigibax": 37,
@@ -227,7 +227,7 @@
         "Wattrel": 51,
         "Snubbull": 12,
         "Spidops": 10,
-        "Braixen": 13,
+        "Braixen": 14,
         "Drowzee": 13,
         "Blipbug": 43,
         "Lampent": 23,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9091,
-      "last_spawn": "2026-06-24T08:41:37.117060"
+      "total_spawns": 9095,
+      "last_spawn": "2026-06-24T08:42:07.140965"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1048,7 +1048,7 @@
     }
   },
   "global": {
-    "total_spawns": 13467,
+    "total_spawns": 13471,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
