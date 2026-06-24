@@ -90,7 +90,7 @@
         "Poliwag": 51,
         "Metang": 8,
         "Riolu": 13,
-        "Exeggcute": 13,
+        "Exeggcute": 14,
         "Corphish": 10,
         "Hoppip": 43,
         "Sandslash": 2,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 23,
         "Togetic": 11,
         "Palpitoad": 11,
-        "Pikipek": 67,
+        "Pikipek": 68,
         "Teddiursa": 49,
         "Clamperl": 17,
         "Zigzagoon": 20,
@@ -193,7 +193,7 @@
         "Sunny castform": 4,
         "Pidgeotto": 16,
         "Spearow": 18,
-        "Helioptile": 10,
+        "Helioptile": 11,
         "Hoothoot": 12,
         "Grookey": 17,
         "Meditite": 8,
@@ -296,7 +296,7 @@
         "Ferroseed": 17,
         "Brionne": 8,
         "Pancham": 14,
-        "Venipede": 66,
+        "Venipede": 67,
         "Cacturne": 4,
         "Oddish": 52,
         "Dragalge": 4,
@@ -583,7 +583,7 @@
         "Anorith": 19,
         "Meowth": 10,
         "Combee": 10,
-        "Fletchinder": 18,
+        "Fletchinder": 19,
         "Kingambit": 2,
         "Clodsire": 16,
         "Blaze breed tauros": 1,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11748,
-      "last_spawn": "2026-06-24T16:27:51.863872"
+      "total_spawns": 11753,
+      "last_spawn": "2026-06-24T16:28:27.187898"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16151,
+    "total_spawns": 16156,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
