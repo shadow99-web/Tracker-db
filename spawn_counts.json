@@ -38,7 +38,7 @@
         "Kilowattrel": 15,
         "Lotad": 78,
         "Qwilfish": 5,
-        "Trapinch": 62,
+        "Trapinch": 63,
         "Toedscool": 47,
         "Fletchling": 48,
         "Skiploom": 17,
@@ -54,7 +54,7 @@
         "Zubat": 71,
         "Vanillish": 18,
         "Tadbulb": 55,
-        "Magnemite": 60,
+        "Magnemite": 61,
         "Whismur": 48,
         "Monferno": 17,
         "Skwovet": 13,
@@ -89,7 +89,7 @@
         "Tropius": 3,
         "Poliwag": 54,
         "Metang": 10,
-        "Riolu": 14,
+        "Riolu": 15,
         "Exeggcute": 14,
         "Corphish": 10,
         "Hoppip": 43,
@@ -256,7 +256,7 @@
         "Arrokuda": 16,
         "Golett": 14,
         "Vullaby": 11,
-        "Cetitan": 14,
+        "Cetitan": 15,
         "Cubone": 15,
         "Gligar": 19,
         "Tirtouga": 17,
@@ -750,7 +750,7 @@
         "Frogadier": 15,
         "Dewpider": 9,
         "Poltchageist": 4,
-        "Incineroar": 3,
+        "Incineroar": 4,
         "Morpeko": 9,
         "Parasect": 5,
         "Alolan muk": 2,
@@ -853,7 +853,7 @@
         "Minior": 1,
         "Mr. mime": 3,
         "Chesnaught": 1,
-        "Jumpluff": 2,
+        "Jumpluff": 3,
         "Heatmor": 2,
         "Dubwool": 1,
         "Shuckle": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12369,
-      "last_spawn": "2026-06-24T18:22:07.181356"
+      "total_spawns": 12375,
+      "last_spawn": "2026-06-24T18:22:47.369273"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16786,
+    "total_spawns": 16792,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
