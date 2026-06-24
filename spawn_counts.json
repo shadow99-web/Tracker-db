@@ -68,7 +68,7 @@
         "Starly": 49,
         "Tandemaus": 39,
         "Smoliv": 57,
-        "Gloom": 11,
+        "Gloom": 12,
         "Clefairy": 10,
         "Spinda": 2,
         "Fomantis": 6,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 3,
         "Chansey": 7,
-        "Shroodle": 47,
+        "Shroodle": 48,
         "Duskull": 51,
         "Bergmite": 10,
         "Pignite": 14,
@@ -356,7 +356,7 @@
         "Swirlix": 5,
         "Aromatisse": 3,
         "Muk": 4,
-        "Toxel": 9,
+        "Toxel": 10,
         "Banette": 2,
         "Three-segment dudunsparce": 3,
         "Fearow": 3,
@@ -473,7 +473,7 @@
         "Bunnelby": 10,
         "Gulping cramorant": 2,
         "Simisear": 2,
-        "White plumage squawkabilly": 11,
+        "White plumage squawkabilly": 12,
         "Shelmet": 10,
         "Solrock": 3,
         "Slowpoke": 14,
@@ -634,7 +634,7 @@
         "Cacnea": 4,
         "Pom-pom oricorio": 3,
         "Hawlucha": 4,
-        "Ursaring": 6,
+        "Ursaring": 7,
         "Glalie": 2,
         "Latios": 1,
         "Silicobra": 10,
@@ -696,7 +696,7 @@
         "Tinkatuff": 8,
         "Bruxish": 3,
         "Corvisquire": 5,
-        "Mantine": 5,
+        "Mantine": 6,
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 3,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9419,
-      "last_spawn": "2026-06-24T09:50:27.166808"
+      "total_spawns": 9425,
+      "last_spawn": "2026-06-24T09:51:07.389967"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13803,
+    "total_spawns": 13809,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
