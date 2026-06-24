@@ -101,7 +101,7 @@
         "Carracosta": 3,
         "Smearguru": 33,
         "Veluza": 54,
-        "Barboach": 15,
+        "Barboach": 16,
         "Klink": 31,
         "Honedge": 58,
         "Wingull": 15,
@@ -209,7 +209,7 @@
         "Swellow": 3,
         "Aipom": 7,
         "Growlithe": 11,
-        "Sewaddle": 38,
+        "Sewaddle": 39,
         "Fidough": 28,
         "Noivern": 2,
         "Feraligatr": 4,
@@ -574,7 +574,7 @@
         "Electivire": 4,
         "Cascoon": 7,
         "Tentacruel": 5,
-        "Nuzleaf": 8,
+        "Nuzleaf": 9,
         "Scorbunny": 13,
         "Huntail": 3,
         "Galarian meowth": 1,
@@ -700,10 +700,10 @@
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 3,
-        "Litten": 12,
+        "Litten": 13,
         "Abomasnow": 2,
         "Espeon": 2,
-        "Hatenna": 31,
+        "Hatenna": 32,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 3,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9322,
-      "last_spawn": "2026-06-24T09:08:07.024152"
+      "total_spawns": 9327,
+      "last_spawn": "2026-06-24T09:08:37.098910"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13698,
+    "total_spawns": 13703,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
