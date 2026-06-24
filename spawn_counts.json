@@ -124,7 +124,7 @@
         "Togetic": 12,
         "Palpitoad": 12,
         "Pikipek": 69,
-        "Teddiursa": 52,
+        "Teddiursa": 53,
         "Clamperl": 17,
         "Zigzagoon": 21,
         "Weedle": 82,
@@ -188,7 +188,7 @@
         "Skorupi": 15,
         "Pikachu": 15,
         "Blue plumage squawkabilly": 8,
-        "Thwackey": 15,
+        "Thwackey": 16,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 17,
@@ -229,7 +229,7 @@
         "Spidops": 14,
         "Braixen": 16,
         "Drowzee": 16,
-        "Blipbug": 59,
+        "Blipbug": 60,
         "Lampent": 23,
         "Petilil": 15,
         "Marshtomp": 16,
@@ -342,7 +342,7 @@
         "Sobble": 23,
         "Mudkip": 15,
         "Charjabug": 12,
-        "Capsakid": 46,
+        "Capsakid": 47,
         "Revavroom": 17,
         "Exploud": 5,
         "Deino": 32,
@@ -366,7 +366,7 @@
         "Finizen": 58,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 41,
+        "Caterpie": 42,
         "Carvanha": 16,
         "Luxio": 12,
         "Treecko": 26,
@@ -999,8 +999,8 @@
         "Tyranitar": 1,
         "Inteleon": 1
       },
-      "total_spawns": 12168,
-      "last_spawn": "2026-06-24T17:15:01.245164"
+      "total_spawns": 12173,
+      "last_spawn": "2026-06-24T17:15:32.013814"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1111,7 +1111,7 @@
     }
   },
   "global": {
-    "total_spawns": 16575,
+    "total_spawns": 16580,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
