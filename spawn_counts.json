@@ -12,7 +12,7 @@
         "Rellor": 42,
         "Sandy burmy": 9,
         "Wiglett": 58,
-        "Bombirdier": 37,
+        "Bombirdier": 38,
         "Litleo": 12,
         "Purrloin": 8,
         "Tranquill": 12,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 14,
-        "Spearow": 15,
+        "Spearow": 16,
         "Helioptile": 10,
         "Hoothoot": 12,
         "Grookey": 17,
@@ -267,7 +267,7 @@
         "Vibrava": 14,
         "Loudred": 9,
         "Ceruledge": 23,
-        "Houndour": 14,
+        "Houndour": 15,
         "Glimmet": 51,
         "Goomy": 26,
         "Zapdos": 1,
@@ -324,7 +324,7 @@
         "Murkrow": 11,
         "Bellsprout": 55,
         "Mudbray": 12,
-        "Dreepy": 40,
+        "Dreepy": 41,
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 14,
@@ -688,7 +688,7 @@
         "Floragato": 8,
         "Seel": 9,
         "Shiinotic": 4,
-        "Gumshoos": 2,
+        "Gumshoos": 3,
         "Pyroar": 4,
         "Marshadow": 1,
         "Sliggoo": 6,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10346,
-      "last_spawn": "2026-06-24T11:35:07.092400"
+      "total_spawns": 10351,
+      "last_spawn": "2026-06-24T11:35:37.251320"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14731,
+    "total_spawns": 14736,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
