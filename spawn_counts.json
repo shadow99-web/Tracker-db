@@ -15,9 +15,9 @@
         "Bombirdier": 41,
         "Litleo": 12,
         "Purrloin": 9,
-        "Tranquill": 12,
+        "Tranquill": 13,
         "Psyduck": 5,
-        "Rockruff": 10,
+        "Rockruff": 11,
         "Haunter": 10,
         "Tangela": 11,
         "Orbeetle": 3,
@@ -128,9 +128,9 @@
         "Clamperl": 16,
         "Zigzagoon": 18,
         "Weedle": 70,
-        "Flamigo": 49,
-        "Lillipup": 54,
-        "Shinx": 54,
+        "Flamigo": 50,
+        "Lillipup": 55,
+        "Shinx": 55,
         "Bounsweet": 38,
         "Noibat": 15,
         "Toxicroak": 5,
@@ -413,7 +413,7 @@
         "Peakychu": 34,
         "Armarouge": 12,
         "Tyrantrum": 1,
-        "Larvitar": 20,
+        "Larvitar": 21,
         "Tentacool": 8,
         "Volcanion": 1,
         "Roaming gimmighoul": 32,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10925,
-      "last_spawn": "2026-06-24T13:56:07.180216"
+      "total_spawns": 10931,
+      "last_spawn": "2026-06-24T13:56:48.451924"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15312,
+    "total_spawns": 15318,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
