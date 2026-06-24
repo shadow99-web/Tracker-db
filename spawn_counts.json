@@ -416,7 +416,7 @@
         "Larvitar": 28,
         "Tentacool": 9,
         "Volcanion": 1,
-        "Roaming gimmighoul": 40,
+        "Roaming gimmighoul": 41,
         "Summer sawsbuck": 6,
         "Delibird": 3,
         "Ride cyclizar": 20,
@@ -682,7 +682,7 @@
         "Oranguru": 4,
         "Poliwrath": 5,
         "Blaziken": 4,
-        "Stantler": 13,
+        "Stantler": 14,
         "Butterfree": 2,
         "Koffing": 14,
         "Floragato": 8,
@@ -697,10 +697,10 @@
         "Bruxish": 3,
         "Corvisquire": 8,
         "Mantine": 6,
-        "Electrode": 4,
+        "Electrode": 5,
         "Celebi": 1,
         "Hero palafin": 3,
-        "Litten": 17,
+        "Litten": 18,
         "Abomasnow": 3,
         "Espeon": 3,
         "Hatenna": 53,
@@ -735,7 +735,7 @@
         "Azurill": 1,
         "Alolan rattata": 2,
         "Hippowdon": 3,
-        "Lumineon": 5,
+        "Lumineon": 6,
         "Thievul": 3,
         "Greedent": 5,
         "Ekans": 14,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12533,
-      "last_spawn": "2026-06-24T18:40:17.262717"
+      "total_spawns": 12538,
+      "last_spawn": "2026-06-24T18:40:52.023016"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16951,
+    "total_spawns": 16956,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
