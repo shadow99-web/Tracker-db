@@ -121,7 +121,7 @@
         "Ralts": 47,
         "Solosis": 50,
         "Battle cyclizar": 23,
-        "Togetic": 10,
+        "Togetic": 11,
         "Palpitoad": 11,
         "Pikipek": 67,
         "Teddiursa": 47,
@@ -141,7 +141,7 @@
         "Pidgey": 71,
         "Rhyhorn": 49,
         "Sentret": 16,
-        "Yungoos": 7,
+        "Yungoos": 8,
         "Diglett": 20,
         "Doduo": 12,
         "Lairon": 18,
@@ -171,7 +171,7 @@
         "Gastly": 45,
         "Taillow": 17,
         "Swinub": 49,
-        "Inkay": 19,
+        "Inkay": 20,
         "Gible": 35,
         "Rookidee": 32,
         "Minccino": 16,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
-        "Tympole": 44,
+        "Tympole": 45,
         "Swellow": 4,
         "Aipom": 10,
         "Growlithe": 12,
@@ -703,7 +703,7 @@
         "Litten": 17,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 46,
+        "Hatenna": 47,
         "Zoroark": 4,
         "Lucario": 1,
         "Crustle": 4,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11602,
-      "last_spawn": "2026-06-24T16:11:07.083553"
+      "total_spawns": 11607,
+      "last_spawn": "2026-06-24T16:11:37.131251"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1102,7 +1102,7 @@
     }
   },
   "global": {
-    "total_spawns": 16005,
+    "total_spawns": 16010,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
