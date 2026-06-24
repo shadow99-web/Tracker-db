@@ -124,7 +124,7 @@
         "Togetic": 11,
         "Palpitoad": 11,
         "Pikipek": 67,
-        "Teddiursa": 48,
+        "Teddiursa": 49,
         "Clamperl": 17,
         "Zigzagoon": 20,
         "Weedle": 76,
@@ -296,7 +296,7 @@
         "Ferroseed": 17,
         "Brionne": 8,
         "Pancham": 14,
-        "Venipede": 64,
+        "Venipede": 65,
         "Cacturne": 4,
         "Oddish": 52,
         "Dragalge": 4,
@@ -992,10 +992,11 @@
         "Pachirisu": 1,
         "Unown p": 1,
         "Hisuian samurott": 1,
-        "Ledian": 1
+        "Ledian": 2,
+        "Cherrim": 1
       },
-      "total_spawns": 11655,
-      "last_spawn": "2026-06-24T16:17:11.878850"
+      "total_spawns": 11659,
+      "last_spawn": "2026-06-24T16:17:47.083582"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1102,7 +1103,7 @@
     }
   },
   "global": {
-    "total_spawns": 16058,
+    "total_spawns": 16062,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
