@@ -95,7 +95,7 @@
         "Hoppip": 43,
         "Sandslash": 2,
         "Kabuto": 16,
-        "Scatterbug": 53,
+        "Scatterbug": 54,
         "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 4,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 52,
         "Frigibax": 57,
-        "Spheal": 71,
+        "Spheal": 72,
         "Swadloon": 15,
         "Flittle": 51,
         "Unfezant": 6,
@@ -252,7 +252,7 @@
         "Tinkatink": 62,
         "Lechonk": 53,
         "Kommo-o": 1,
-        "Dewott": 17,
+        "Dewott": 18,
         "Arrokuda": 16,
         "Golett": 14,
         "Vullaby": 11,
@@ -925,7 +925,7 @@
         "Serperior": 3,
         "Lycanroc": 8,
         "Kingdra": 2,
-        "Farfetch'd": 2,
+        "Farfetch'd": 3,
         "Unown l": 1,
         "Delphox": 3,
         "Rampardos": 1,
@@ -999,10 +999,11 @@
         "Tyranitar": 1,
         "Inteleon": 1,
         "Rotom drone": 1,
-        "Aegislash": 1
+        "Aegislash": 1,
+        "Iron valiant": 1
       },
-      "total_spawns": 12296,
-      "last_spawn": "2026-06-24T17:29:17.251721"
+      "total_spawns": 12301,
+      "last_spawn": "2026-06-24T17:29:51.824850"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1114,7 +1115,7 @@
     }
   },
   "global": {
-    "total_spawns": 16704,
+    "total_spawns": 16709,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
