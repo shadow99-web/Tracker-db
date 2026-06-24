@@ -58,7 +58,7 @@
         "Whismur": 52,
         "Monferno": 19,
         "Skwovet": 14,
-        "Bramblin": 62,
+        "Bramblin": 63,
         "Yanma": 13,
         "Larvesta": 26,
         "Beldum": 46,
@@ -124,7 +124,7 @@
         "Togetic": 12,
         "Palpitoad": 13,
         "Pikipek": 70,
-        "Teddiursa": 57,
+        "Teddiursa": 58,
         "Clamperl": 18,
         "Zigzagoon": 22,
         "Weedle": 82,
@@ -226,10 +226,10 @@
         "Ninetales": 5,
         "Wattrel": 69,
         "Snubbull": 14,
-        "Spidops": 14,
+        "Spidops": 15,
         "Braixen": 16,
         "Drowzee": 18,
-        "Blipbug": 62,
+        "Blipbug": 63,
         "Lampent": 23,
         "Petilil": 17,
         "Marshtomp": 16,
@@ -343,7 +343,7 @@
         "Mudkip": 16,
         "Charjabug": 12,
         "Capsakid": 48,
-        "Revavroom": 17,
+        "Revavroom": 18,
         "Exploud": 5,
         "Deino": 34,
         "Wooper": 25,
@@ -408,7 +408,7 @@
         "Rufflet": 22,
         "Kabutops": 6,
         "Dondozo": 47,
-        "Pansear": 17,
+        "Pansear": 18,
         "Cutiefly": 10,
         "Peakychu": 40,
         "Armarouge": 16,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12860,
-      "last_spawn": "2026-06-24T19:17:47.180282"
+      "total_spawns": 12866,
+      "last_spawn": "2026-06-24T19:18:27.390629"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17278,
+    "total_spawns": 17284,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
