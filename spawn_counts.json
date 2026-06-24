@@ -87,7 +87,7 @@
         "Togepi": 38,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 45,
+        "Poliwag": 46,
         "Metang": 8,
         "Riolu": 9,
         "Exeggcute": 12,
@@ -264,7 +264,7 @@
         "Nincada": 20,
         "Fennekin": 20,
         "Quaxwell": 9,
-        "Vibrava": 14,
+        "Vibrava": 15,
         "Loudred": 9,
         "Ceruledge": 23,
         "Houndour": 15,
@@ -277,7 +277,7 @@
         "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 15,
-        "Galarian slowpoke": 1,
+        "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 20,
         "Cryogonal": 2,
@@ -324,7 +324,7 @@
         "Murkrow": 12,
         "Bellsprout": 56,
         "Mudbray": 13,
-        "Dreepy": 42,
+        "Dreepy": 43,
         "Tinkaton": 4,
         "Corviknight": 4,
         "Froakie": 15,
@@ -635,7 +635,7 @@
         "Pom-pom oricorio": 3,
         "Hawlucha": 4,
         "Ursaring": 8,
-        "Glalie": 2,
+        "Glalie": 3,
         "Latios": 1,
         "Silicobra": 11,
         "Snom": 7,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10500,
-      "last_spawn": "2026-06-24T13:08:12.004972"
+      "total_spawns": 10505,
+      "last_spawn": "2026-06-24T13:08:47.551679"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14886,
+    "total_spawns": 14891,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
