@@ -68,7 +68,7 @@
         "Starly": 64,
         "Tandemaus": 46,
         "Smoliv": 68,
-        "Gloom": 17,
+        "Gloom": 18,
         "Clefairy": 13,
         "Spinda": 3,
         "Fomantis": 7,
@@ -122,7 +122,7 @@
         "Solosis": 52,
         "Battle cyclizar": 23,
         "Togetic": 12,
-        "Palpitoad": 11,
+        "Palpitoad": 12,
         "Pikipek": 69,
         "Teddiursa": 50,
         "Clamperl": 17,
@@ -209,7 +209,7 @@
         "Swellow": 4,
         "Aipom": 10,
         "Growlithe": 12,
-        "Sewaddle": 49,
+        "Sewaddle": 50,
         "Fidough": 32,
         "Noivern": 2,
         "Feraligatr": 4,
@@ -497,7 +497,7 @@
         "Klinklang": 4,
         "Basculin": 4,
         "Throh": 4,
-        "Comfey": 2,
+        "Comfey": 3,
         "Applin": 18,
         "Staraptor": 4,
         "Mimikyu": 2,
@@ -540,7 +540,7 @@
         "Onix": 10,
         "Vanilluxe": 2,
         "Jolteon": 5,
-        "Pawmot": 5,
+        "Pawmot": 6,
         "Skiddo": 11,
         "Slowbro": 6,
         "Oricorio": 3,
@@ -584,7 +584,7 @@
         "Meowth": 10,
         "Combee": 10,
         "Fletchinder": 19,
-        "Kingambit": 2,
+        "Kingambit": 3,
         "Clodsire": 17,
         "Blaze breed tauros": 1,
         "Wimpod": 12,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11858,
-      "last_spawn": "2026-06-24T16:40:27.347564"
+      "total_spawns": 11864,
+      "last_spawn": "2026-06-24T16:41:07.117364"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16261,
+    "total_spawns": 16267,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
