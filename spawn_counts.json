@@ -236,7 +236,7 @@
         "Eiscue": 6,
         "Summer deerling": 16,
         "Clauncher": 17,
-        "Clobbopus": 5,
+        "Clobbopus": 6,
         "Omanyte": 12,
         "Galvantula": 3,
         "Chansey": 8,
@@ -296,7 +296,7 @@
         "Ferroseed": 18,
         "Brionne": 9,
         "Pancham": 15,
-        "Venipede": 71,
+        "Venipede": 72,
         "Cacturne": 4,
         "Oddish": 53,
         "Dragalge": 4,
@@ -566,10 +566,10 @@
         "Slowking": 8,
         "Lilligant": 4,
         "Rabsca": 9,
-        "Gulpin": 21,
+        "Gulpin": 22,
         "Crawdaunt": 5,
         "Magmortar": 2,
-        "Palossand": 3,
+        "Palossand": 4,
         "Noice face eiscue": 3,
         "Electivire": 4,
         "Cascoon": 10,
@@ -631,7 +631,7 @@
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
-        "Cacnea": 5,
+        "Cacnea": 6,
         "Pom-pom oricorio": 4,
         "Hawlucha": 6,
         "Ursaring": 10,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12691,
-      "last_spawn": "2026-06-24T18:58:37.367181"
+      "total_spawns": 12696,
+      "last_spawn": "2026-06-24T18:59:11.879710"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17109,
+    "total_spawns": 17114,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
