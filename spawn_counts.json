@@ -12,7 +12,7 @@
         "Rellor": 51,
         "Sandy burmy": 9,
         "Wiglett": 64,
-        "Bombirdier": 52,
+        "Bombirdier": 53,
         "Litleo": 15,
         "Purrloin": 10,
         "Tranquill": 15,
@@ -39,7 +39,7 @@
         "Lotad": 79,
         "Qwilfish": 5,
         "Trapinch": 63,
-        "Toedscool": 49,
+        "Toedscool": 50,
         "Fletchling": 50,
         "Skiploom": 17,
         "Timburr": 60,
@@ -134,7 +134,7 @@
         "Bounsweet": 44,
         "Noibat": 19,
         "Toxicroak": 6,
-        "Charcadet": 71,
+        "Charcadet": 72,
         "Croconaw": 16,
         "Phanpy": 9,
         "Brambleghast": 17,
@@ -410,7 +410,7 @@
         "Dondozo": 45,
         "Pansear": 16,
         "Cutiefly": 10,
-        "Peakychu": 39,
+        "Peakychu": 40,
         "Armarouge": 16,
         "Tyrantrum": 1,
         "Larvitar": 28,
@@ -890,7 +890,7 @@
         "Whiscash": 3,
         "Heracross": 3,
         "Orange flower floette": 1,
-        "Ambipom": 4,
+        "Ambipom": 5,
         "Aqua breed tauros": 1,
         "Fan rotom": 2,
         "Stonjourner": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12637,
-      "last_spawn": "2026-06-24T18:52:27.306532"
+      "total_spawns": 12642,
+      "last_spawn": "2026-06-24T18:52:57.455546"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17055,
+    "total_spawns": 17060,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
