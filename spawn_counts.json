@@ -128,9 +128,9 @@
         "Clamperl": 15,
         "Zigzagoon": 16,
         "Weedle": 67,
-        "Flamigo": 45,
+        "Flamigo": 46,
         "Lillipup": 52,
-        "Shinx": 51,
+        "Shinx": 52,
         "Bounsweet": 35,
         "Noibat": 15,
         "Toxicroak": 5,
@@ -213,7 +213,7 @@
         "Fidough": 29,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 52,
+        "Tynamo": 53,
         "Orthworm": 47,
         "Marill": 13,
         "Joltik": 21,
@@ -331,7 +331,7 @@
         "Nymble": 50,
         "Ferrothorn": 2,
         "Servine": 8,
-        "Blitzle": 12,
+        "Blitzle": 13,
         "Musharna": 2,
         "Bisharp": 3,
         "Chespin": 12,
@@ -660,7 +660,7 @@
         "Bouffalant": 5,
         "Crabrawler": 9,
         "Budew": 4,
-        "Espathra": 6,
+        "Espathra": 7,
         "Vileplume": 3,
         "Kecleon": 2,
         "Sizzlipede": 7,
@@ -769,7 +769,7 @@
         "Mamoswine": 3,
         "Drifblim": 2,
         "Meowscarada": 3,
-        "Roserade": 3,
+        "Roserade": 4,
         "Nidorina": 8,
         "Archaludon": 1,
         "Golduck": 2,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10071,
-      "last_spawn": "2026-06-24T11:04:07.313823"
+      "total_spawns": 10077,
+      "last_spawn": "2026-06-24T11:04:47.128556"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14456,
+    "total_spawns": 14462,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
