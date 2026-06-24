@@ -18,7 +18,7 @@
         "Tranquill": 12,
         "Psyduck": 5,
         "Rockruff": 10,
-        "Haunter": 9,
+        "Haunter": 10,
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 6,
@@ -322,7 +322,7 @@
         "Gossifleur": 13,
         "Oshawott": 12,
         "Murkrow": 12,
-        "Bellsprout": 61,
+        "Bellsprout": 62,
         "Mudbray": 14,
         "Dreepy": 44,
         "Tinkaton": 4,
@@ -469,7 +469,7 @@
         "Shelgon": 12,
         "Buizel": 12,
         "Arctozolt": 6,
-        "Snorunt": 8,
+        "Snorunt": 9,
         "Bunnelby": 13,
         "Gulping cramorant": 2,
         "Simisear": 2,
@@ -874,7 +874,7 @@
         "Basculegion": 1,
         "Magnezone": 2,
         "Alolan graveler": 1,
-        "Cleffa": 3,
+        "Cleffa": 4,
         "Machamp": 5,
         "Altaria": 5,
         "Purugly": 5,
@@ -983,8 +983,8 @@
         "Wash rotom": 1,
         "Great tusk": 1
       },
-      "total_spawns": 10823,
-      "last_spawn": "2026-06-24T13:44:37.180623"
+      "total_spawns": 10827,
+      "last_spawn": "2026-06-24T13:45:07.304906"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1079,7 +1079,7 @@
     }
   },
   "global": {
-    "total_spawns": 15210,
+    "total_spawns": 15214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
