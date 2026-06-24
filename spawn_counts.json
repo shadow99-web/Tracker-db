@@ -111,7 +111,7 @@
         "Scizor": 2,
         "Sneasel": 17,
         "Bonsly": 2,
-        "Horsea": 42,
+        "Horsea": 43,
         "Frigibax": 42,
         "Spheal": 62,
         "Swadloon": 9,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 17,
         "Togetic": 9,
         "Palpitoad": 6,
-        "Pikipek": 59,
+        "Pikipek": 60,
         "Teddiursa": 42,
         "Clamperl": 15,
         "Zigzagoon": 16,
@@ -691,7 +691,7 @@
         "Gumshoos": 2,
         "Pyroar": 4,
         "Marshadow": 1,
-        "Sliggoo": 5,
+        "Sliggoo": 6,
         "Panpour": 9,
         "Tinkatuff": 9,
         "Bruxish": 3,
@@ -970,10 +970,11 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1,
         "Tapu fini": 1,
-        "Minun": 1
+        "Minun": 1,
+        "Wo-chien": 1
       },
-      "total_spawns": 10062,
-      "last_spawn": "2026-06-24T11:02:57.321565"
+      "total_spawns": 10066,
+      "last_spawn": "2026-06-24T11:03:32.298489"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14447,
+    "total_spawns": 14451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
