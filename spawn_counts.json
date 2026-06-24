@@ -22,7 +22,7 @@
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 4,
-        "Machop": 34,
+        "Machop": 35,
         "Dudunsparce": 8,
         "Gothita": 41,
         "Impidimp": 38,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 17,
         "Togetic": 9,
         "Palpitoad": 6,
-        "Pikipek": 58,
+        "Pikipek": 59,
         "Teddiursa": 42,
         "Clamperl": 14,
         "Zigzagoon": 16,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 10,
         "Wailord": 3,
-        "Makuhita": 13,
+        "Makuhita": 14,
         "Lombre": 13,
         "Ursaluna": 4,
         "Furfrou": 2,
@@ -493,7 +493,7 @@
         "Magneton": 11,
         "Alakazam": 4,
         "Bayleef": 7,
-        "Poochyena": 10,
+        "Poochyena": 11,
         "Klinklang": 4,
         "Basculin": 4,
         "Throh": 3,
@@ -920,7 +920,7 @@
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 3,
-        "Hattrem": 4,
+        "Hattrem": 5,
         "Clefable": 2,
         "Serperior": 2,
         "Lycanroc": 5,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9877,
-      "last_spawn": "2026-06-24T10:42:17.327270"
+      "total_spawns": 9882,
+      "last_spawn": "2026-06-24T10:42:51.794832"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14262,
+    "total_spawns": 14267,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
