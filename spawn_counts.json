@@ -85,7 +85,7 @@
         "Garbodor": 3,
         "Slakoth": 66,
         "Togepi": 47,
-        "Falinks": 5,
+        "Falinks": 6,
         "Tropius": 3,
         "Poliwag": 52,
         "Metang": 9,
@@ -312,7 +312,7 @@
         "Flygon": 3,
         "Shellos": 9,
         "Jigglypuff": 18,
-        "Nacli": 33,
+        "Nacli": 34,
         "Munna": 12,
         "Pawniard": 11,
         "Prof tangrowth": 34,
@@ -410,7 +410,7 @@
         "Dondozo": 43,
         "Pansear": 16,
         "Cutiefly": 10,
-        "Peakychu": 37,
+        "Peakychu": 38,
         "Armarouge": 14,
         "Tyrantrum": 1,
         "Larvitar": 25,
@@ -588,7 +588,7 @@
         "Clodsire": 17,
         "Blaze breed tauros": 1,
         "Wimpod": 12,
-        "Torterra": 2,
+        "Torterra": 3,
         "Darmanitan": 3,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
@@ -610,7 +610,7 @@
         "Houndstone": 5,
         "Sandy wormadam": 2,
         "Stunky": 11,
-        "Pupitar": 10,
+        "Pupitar": 11,
         "Avalugg": 4,
         "Magby": 6,
         "Wigglytuff": 3,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11914,
-      "last_spawn": "2026-06-24T16:46:37.649510"
+      "total_spawns": 11919,
+      "last_spawn": "2026-06-24T16:47:12.072362"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16317,
+    "total_spawns": 16322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
