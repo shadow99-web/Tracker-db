@@ -103,7 +103,7 @@
         "Veluza": 64,
         "Barboach": 19,
         "Klink": 43,
-        "Honedge": 70,
+        "Honedge": 71,
         "Wingull": 19,
         "Salamence": 2,
         "Drakloak": 13,
@@ -112,7 +112,7 @@
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 51,
-        "Frigibax": 55,
+        "Frigibax": 56,
         "Spheal": 70,
         "Swadloon": 14,
         "Flittle": 51,
@@ -237,7 +237,7 @@
         "Summer deerling": 16,
         "Clauncher": 17,
         "Clobbopus": 5,
-        "Omanyte": 10,
+        "Omanyte": 11,
         "Galvantula": 3,
         "Chansey": 8,
         "Shroodle": 57,
@@ -386,7 +386,7 @@
         "Swablu": 13,
         "Shellder": 15,
         "Crobat": 9,
-        "Sandshrew": 13,
+        "Sandshrew": 14,
         "Palafin": 10,
         "Maractus": 3,
         "Sigilyph": 4,
@@ -585,7 +585,7 @@
         "Combee": 10,
         "Fletchinder": 19,
         "Kingambit": 3,
-        "Clodsire": 18,
+        "Clodsire": 19,
         "Blaze breed tauros": 1,
         "Wimpod": 12,
         "Torterra": 3,
@@ -747,7 +747,7 @@
         "Hitmonchan": 1,
         "Relicanth": 1,
         "Klefki": 4,
-        "Frogadier": 14,
+        "Frogadier": 15,
         "Dewpider": 9,
         "Poltchageist": 4,
         "Incineroar": 3,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11999,
-      "last_spawn": "2026-06-24T16:56:07.409116"
+      "total_spawns": 12005,
+      "last_spawn": "2026-06-24T16:56:47.279169"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16403,
+    "total_spawns": 16409,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
