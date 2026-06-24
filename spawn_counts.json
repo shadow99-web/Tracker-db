@@ -154,7 +154,7 @@
         "Dragapult": 6,
         "Rattata": 29,
         "Flapple": 8,
-        "Aron": 51,
+        "Aron": 52,
         "Boldore": 14,
         "Spinarak": 21,
         "Delcatty": 4,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 5,
         "Wartortle": 13,
-        "Cetoddle": 42,
+        "Cetoddle": 43,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -658,7 +658,7 @@
         "Absol": 3,
         "Annihilape": 7,
         "Bouffalant": 5,
-        "Crabrawler": 10,
+        "Crabrawler": 11,
         "Budew": 4,
         "Espathra": 11,
         "Vileplume": 3,
@@ -703,7 +703,7 @@
         "Litten": 16,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 43,
+        "Hatenna": 44,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
@@ -988,10 +988,11 @@
         "Polteageist": 1,
         "Slither wing": 1,
         "Diggersby": 1,
-        "Hisuian voltorb": 1
+        "Hisuian voltorb": 1,
+        "Pachirisu": 1
       },
-      "total_spawns": 11189,
-      "last_spawn": "2026-06-24T14:25:37.672879"
+      "total_spawns": 11194,
+      "last_spawn": "2026-06-24T14:26:11.934547"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1086,7 +1087,7 @@
     }
   },
   "global": {
-    "total_spawns": 15576,
+    "total_spawns": 15581,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
