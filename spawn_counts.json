@@ -14,7 +14,7 @@
         "Wiglett": 58,
         "Bombirdier": 38,
         "Litleo": 12,
-        "Purrloin": 8,
+        "Purrloin": 9,
         "Tranquill": 12,
         "Psyduck": 5,
         "Rockruff": 10,
@@ -28,7 +28,7 @@
         "Impidimp": 39,
         "Charmander": 20,
         "Morelull": 8,
-        "Abra": 48,
+        "Abra": 50,
         "Sandile": 53,
         "Sandygast": 15,
         "Litwick": 75,
@@ -54,7 +54,7 @@
         "Zubat": 58,
         "Vanillish": 13,
         "Tadbulb": 48,
-        "Magnemite": 57,
+        "Magnemite": 58,
         "Whismur": 41,
         "Monferno": 17,
         "Skwovet": 8,
@@ -138,7 +138,7 @@
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 13,
-        "Pidgey": 59,
+        "Pidgey": 60,
         "Rhyhorn": 42,
         "Sentret": 15,
         "Yungoos": 5,
@@ -974,8 +974,8 @@
         "Wo-chien": 1,
         "Octillery": 1
       },
-      "total_spawns": 10372,
-      "last_spawn": "2026-06-24T12:53:31.795786"
+      "total_spawns": 10377,
+      "last_spawn": "2026-06-24T12:54:07.135027"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1069,7 +1069,7 @@
     }
   },
   "global": {
-    "total_spawns": 14758,
+    "total_spawns": 14763,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
