@@ -69,7 +69,7 @@
         "Tandemaus": 39,
         "Smoliv": 56,
         "Gloom": 11,
-        "Clefairy": 8,
+        "Clefairy": 9,
         "Spinda": 2,
         "Fomantis": 6,
         "Droopy tatsugiri": 21,
@@ -138,7 +138,7 @@
         "Croconaw": 13,
         "Phanpy": 7,
         "Brambleghast": 11,
-        "Pidgey": 56,
+        "Pidgey": 57,
         "Rhyhorn": 40,
         "Sentret": 13,
         "Yungoos": 5,
@@ -315,7 +315,7 @@
         "Nacli": 27,
         "Munna": 8,
         "Pawniard": 10,
-        "Prof tangrowth": 22,
+        "Prof tangrowth": 23,
         "Jangmo-o": 19,
         "Trash wormadam": 4,
         "Quaxly": 10,
@@ -490,7 +490,7 @@
         "Dottler": 10,
         "Eevee": 9,
         "Copperajah": 4,
-        "Magneton": 9,
+        "Magneton": 10,
         "Alakazam": 4,
         "Bayleef": 6,
         "Poochyena": 10,
@@ -628,7 +628,7 @@
         "Tatsugiri": 15,
         "Nidorino": 8,
         "Wailmer": 10,
-        "Krabby": 8,
+        "Krabby": 9,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9336,
-      "last_spawn": "2026-06-24T09:09:47.038400"
+      "total_spawns": 9341,
+      "last_spawn": "2026-06-24T09:10:17.124505"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13712,
+    "total_spawns": 13717,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
