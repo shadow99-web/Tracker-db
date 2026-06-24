@@ -32,7 +32,7 @@
         "Sandile": 54,
         "Sandygast": 16,
         "Litwick": 76,
-        "Grubbin": 43,
+        "Grubbin": 44,
         "Escavalier": 6,
         "Dratini": 37,
         "Kilowattrel": 11,
@@ -74,7 +74,7 @@
         "Fomantis": 7,
         "Droopy tatsugiri": 21,
         "Froslass": 5,
-        "Tarountula": 41,
+        "Tarountula": 42,
         "Hatterene": 3,
         "Phantump": 20,
         "Duosion": 15,
@@ -229,7 +229,7 @@
         "Spidops": 14,
         "Braixen": 14,
         "Drowzee": 15,
-        "Blipbug": 56,
+        "Blipbug": 57,
         "Lampent": 23,
         "Petilil": 14,
         "Marshtomp": 15,
@@ -748,7 +748,7 @@
         "Relicanth": 1,
         "Klefki": 4,
         "Frogadier": 13,
-        "Dewpider": 8,
+        "Dewpider": 9,
         "Poltchageist": 2,
         "Incineroar": 2,
         "Morpeko": 7,
@@ -770,7 +770,7 @@
         "Drifblim": 2,
         "Meowscarada": 4,
         "Roserade": 4,
-        "Nidorina": 8,
+        "Nidorina": 9,
         "Archaludon": 1,
         "Golduck": 2,
         "Scolipede": 3,
@@ -939,7 +939,7 @@
         "Beautifly": 2,
         "Ting-lu": 1,
         "Hitmontop": 1,
-        "Munchlax": 2,
+        "Munchlax": 3,
         "Galarian ponyta": 1,
         "Hisuian goodra": 1,
         "Giratina": 1,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10931,
-      "last_spawn": "2026-06-24T13:56:48.451924"
+      "total_spawns": 10937,
+      "last_spawn": "2026-06-24T13:57:27.445346"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15318,
+    "total_spawns": 15324,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
