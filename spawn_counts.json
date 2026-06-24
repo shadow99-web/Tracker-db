@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 5,
         "Tynamo": 63,
-        "Orthworm": 51,
+        "Orthworm": 52,
         "Marill": 16,
         "Joltik": 23,
         "Politoed": 3,
@@ -269,7 +269,7 @@
         "Ceruledge": 24,
         "Houndour": 17,
         "Glimmet": 59,
-        "Goomy": 37,
+        "Goomy": 38,
         "Zapdos": 1,
         "Natu": 15,
         "Dhelmise": 2,
@@ -340,7 +340,7 @@
         "Samurott": 3,
         "Torchic": 24,
         "Sobble": 24,
-        "Mudkip": 15,
+        "Mudkip": 16,
         "Charjabug": 12,
         "Capsakid": 48,
         "Revavroom": 17,
@@ -511,7 +511,7 @@
         "Sawk": 4,
         "Starmie": 6,
         "Simipour": 1,
-        "Goldeen": 16,
+        "Goldeen": 17,
         "Nickit": 19,
         "Ivysaur": 12,
         "Milcery": 14,
@@ -589,7 +589,7 @@
         "Blaze breed tauros": 1,
         "Wimpod": 13,
         "Torterra": 3,
-        "Darmanitan": 4,
+        "Darmanitan": 5,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 12,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12696,
-      "last_spawn": "2026-06-24T18:59:11.879710"
+      "total_spawns": 12701,
+      "last_spawn": "2026-06-24T18:59:47.140558"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17114,
+    "total_spawns": 17119,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
