@@ -130,12 +130,12 @@
         "Weedle": 60,
         "Flamigo": 43,
         "Lillipup": 46,
-        "Shinx": 47,
+        "Shinx": 48,
         "Bounsweet": 31,
         "Noibat": 15,
         "Toxicroak": 5,
         "Charcadet": 50,
-        "Croconaw": 12,
+        "Croconaw": 13,
         "Phanpy": 7,
         "Brambleghast": 11,
         "Pidgey": 55,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 14,
-        "Spearow": 14,
+        "Spearow": 15,
         "Helioptile": 9,
         "Hoothoot": 12,
         "Grookey": 17,
@@ -298,7 +298,7 @@
         "Pancham": 12,
         "Venipede": 52,
         "Cacturne": 4,
-        "Oddish": 44,
+        "Oddish": 45,
         "Dragalge": 4,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -356,7 +356,7 @@
         "Swirlix": 5,
         "Aromatisse": 3,
         "Muk": 4,
-        "Toxel": 8,
+        "Toxel": 9,
         "Banette": 2,
         "Three-segment dudunsparce": 3,
         "Fearow": 3,
@@ -492,7 +492,7 @@
         "Copperajah": 4,
         "Magneton": 9,
         "Alakazam": 4,
-        "Bayleef": 5,
+        "Bayleef": 6,
         "Poochyena": 10,
         "Klinklang": 3,
         "Basculin": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9316,
-      "last_spawn": "2026-06-24T09:07:27.187171"
+      "total_spawns": 9322,
+      "last_spawn": "2026-06-24T09:08:07.024152"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13692,
+    "total_spawns": 13698,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
