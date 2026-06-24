@@ -17,7 +17,7 @@
         "Purrloin": 10,
         "Tranquill": 15,
         "Psyduck": 7,
-        "Rockruff": 12,
+        "Rockruff": 13,
         "Haunter": 12,
         "Tangela": 15,
         "Orbeetle": 4,
@@ -29,7 +29,7 @@
         "Charmander": 25,
         "Morelull": 11,
         "Abra": 60,
-        "Sandile": 59,
+        "Sandile": 60,
         "Sandygast": 18,
         "Litwick": 82,
         "Grubbin": 49,
@@ -174,7 +174,7 @@
         "Inkay": 20,
         "Gible": 36,
         "Rookidee": 34,
-        "Minccino": 17,
+        "Minccino": 18,
         "Wurmple": 46,
         "Binacle": 18,
         "Grafaiai": 9,
@@ -231,7 +231,7 @@
         "Drowzee": 16,
         "Blipbug": 60,
         "Lampent": 23,
-        "Petilil": 15,
+        "Petilil": 16,
         "Marshtomp": 16,
         "Eiscue": 6,
         "Summer deerling": 16,
@@ -335,7 +335,7 @@
         "Musharna": 2,
         "Bisharp": 3,
         "Chespin": 16,
-        "Sealeo": 15,
+        "Sealeo": 16,
         "Staryu": 9,
         "Samurott": 3,
         "Torchic": 22,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12323,
-      "last_spawn": "2026-06-24T18:16:57.307565"
+      "total_spawns": 12328,
+      "last_spawn": "2026-06-24T18:17:31.751396"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1123,7 +1123,7 @@
     }
   },
   "global": {
-    "total_spawns": 16739,
+    "total_spawns": 16744,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
