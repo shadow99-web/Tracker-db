@@ -19,7 +19,7 @@
         "Psyduck": 5,
         "Rockruff": 12,
         "Haunter": 11,
-        "Tangela": 11,
+        "Tangela": 12,
         "Orbeetle": 3,
         "Dedenne": 6,
         "Machop": 39,
@@ -67,7 +67,7 @@
         "Glimmora": 16,
         "Starly": 62,
         "Tandemaus": 45,
-        "Smoliv": 64,
+        "Smoliv": 65,
         "Gloom": 14,
         "Clefairy": 13,
         "Spinda": 2,
@@ -92,7 +92,7 @@
         "Riolu": 11,
         "Exeggcute": 12,
         "Corphish": 10,
-        "Hoppip": 41,
+        "Hoppip": 42,
         "Sandslash": 2,
         "Kabuto": 13,
         "Scatterbug": 48,
@@ -139,7 +139,7 @@
         "Phanpy": 8,
         "Brambleghast": 13,
         "Pidgey": 69,
-        "Rhyhorn": 46,
+        "Rhyhorn": 47,
         "Sentret": 16,
         "Yungoos": 7,
         "Diglett": 20,
@@ -262,7 +262,7 @@
         "Tirtouga": 14,
         "Furret": 3,
         "Nincada": 22,
-        "Fennekin": 20,
+        "Fennekin": 21,
         "Quaxwell": 9,
         "Vibrava": 16,
         "Loudred": 10,
@@ -596,7 +596,7 @@
         "Dewgong": 5,
         "Wartortle": 13,
         "Cetoddle": 43,
-        "Kricketot": 13,
+        "Kricketot": 14,
         "Porygon-z": 2,
         "Conkeldurr": 4,
         "Walking wake": 1,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11254,
-      "last_spawn": "2026-06-24T14:33:07.927819"
+      "total_spawns": 11260,
+      "last_spawn": "2026-06-24T14:33:47.057607"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15641,
+    "total_spawns": 15647,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
