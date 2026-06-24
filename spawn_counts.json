@@ -25,7 +25,7 @@
         "Machop": 38,
         "Dudunsparce": 9,
         "Gothita": 45,
-        "Impidimp": 39,
+        "Impidimp": 40,
         "Charmander": 20,
         "Morelull": 8,
         "Abra": 51,
@@ -80,7 +80,7 @@
         "Duosion": 14,
         "Amaura": 11,
         "Gimmighoul": 46,
-        "Baltoy": 20,
+        "Baltoy": 21,
         "Mareep": 45,
         "Garbodor": 2,
         "Slakoth": 55,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 20,
         "Togetic": 9,
         "Palpitoad": 6,
-        "Pikipek": 60,
+        "Pikipek": 61,
         "Teddiursa": 43,
         "Clamperl": 15,
         "Zigzagoon": 17,
@@ -172,7 +172,7 @@
         "Taillow": 14,
         "Swinub": 46,
         "Inkay": 18,
-        "Gible": 31,
+        "Gible": 32,
         "Rookidee": 29,
         "Minccino": 15,
         "Wurmple": 39,
@@ -241,7 +241,7 @@
         "Galvantula": 3,
         "Chansey": 7,
         "Shroodle": 53,
-        "Duskull": 57,
+        "Duskull": 58,
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
@@ -296,7 +296,7 @@
         "Ferroseed": 15,
         "Brionne": 8,
         "Pancham": 12,
-        "Venipede": 56,
+        "Venipede": 57,
         "Cacturne": 4,
         "Oddish": 50,
         "Dragalge": 4,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10485,
-      "last_spawn": "2026-06-24T13:06:27.190938"
+      "total_spawns": 10491,
+      "last_spawn": "2026-06-24T13:07:07.215177"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14871,
+    "total_spawns": 14877,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
