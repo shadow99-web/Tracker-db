@@ -115,7 +115,7 @@
         "Frigibax": 48,
         "Spheal": 67,
         "Swadloon": 14,
-        "Flittle": 49,
+        "Flittle": 50,
         "Unfezant": 4,
         "Yamask": 9,
         "Ralts": 45,
@@ -240,7 +240,7 @@
         "Omanyte": 10,
         "Galvantula": 3,
         "Chansey": 8,
-        "Shroodle": 55,
+        "Shroodle": 56,
         "Duskull": 59,
         "Bergmite": 11,
         "Pignite": 14,
@@ -296,7 +296,7 @@
         "Ferroseed": 16,
         "Brionne": 8,
         "Pancham": 12,
-        "Venipede": 63,
+        "Venipede": 64,
         "Cacturne": 4,
         "Oddish": 52,
         "Dragalge": 4,
@@ -452,7 +452,7 @@
         "Seviper": 2,
         "Scovillain": 12,
         "Sunkern": 10,
-        "Drizzile": 7,
+        "Drizzile": 8,
         "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
@@ -870,7 +870,7 @@
         "Illumise": 4,
         "Scrafty": 1,
         "Swanna": 4,
-        "Grumpig": 3,
+        "Grumpig": 4,
         "Basculegion": 1,
         "Magnezone": 2,
         "Alolan graveler": 1,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11229,
-      "last_spawn": "2026-06-24T14:30:13.454266"
+      "total_spawns": 11234,
+      "last_spawn": "2026-06-24T14:30:47.161074"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15616,
+    "total_spawns": 15621,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
