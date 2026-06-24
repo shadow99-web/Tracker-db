@@ -102,7 +102,7 @@
         "Smearguru": 40,
         "Veluza": 64,
         "Barboach": 19,
-        "Klink": 43,
+        "Klink": 44,
         "Honedge": 71,
         "Wingull": 19,
         "Salamence": 2,
@@ -130,7 +130,7 @@
         "Weedle": 81,
         "Flamigo": 52,
         "Lillipup": 57,
-        "Shinx": 62,
+        "Shinx": 63,
         "Bounsweet": 42,
         "Noibat": 19,
         "Toxicroak": 5,
@@ -220,7 +220,7 @@
         "Politoed": 3,
         "Cyndaquil": 24,
         "Fuecoco": 17,
-        "Cyclizar": 23,
+        "Cyclizar": 24,
         "Magmar": 15,
         "Rillaboom": 6,
         "Ninetales": 4,
@@ -575,7 +575,7 @@
         "Cascoon": 9,
         "Tentacruel": 6,
         "Nuzleaf": 9,
-        "Scorbunny": 18,
+        "Scorbunny": 19,
         "Huntail": 6,
         "Galarian meowth": 1,
         "Spoink": 6,
@@ -829,7 +829,7 @@
         "Linoone": 4,
         "Omastar": 2,
         "Boltund": 4,
-        "Lickilicky": 3,
+        "Lickilicky": 4,
         "Dragonite": 2,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 2,
@@ -997,8 +997,8 @@
         "Blade aegislash": 1,
         "Miltank": 1
       },
-      "total_spawns": 12071,
-      "last_spawn": "2026-06-24T17:04:12.382721"
+      "total_spawns": 12076,
+      "last_spawn": "2026-06-24T17:04:47.369954"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1107,7 +1107,7 @@
     }
   },
   "global": {
-    "total_spawns": 16476,
+    "total_spawns": 16481,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
