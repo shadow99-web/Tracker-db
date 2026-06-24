@@ -143,7 +143,7 @@
         "Sentret": 16,
         "Yungoos": 10,
         "Diglett": 22,
-        "Doduo": 13,
+        "Doduo": 14,
         "Lairon": 18,
         "Emboar": 5,
         "Deoxys": 2,
@@ -156,7 +156,7 @@
         "Flapple": 8,
         "Aron": 60,
         "Boldore": 15,
-        "Spinarak": 22,
+        "Spinarak": 23,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 14,
@@ -519,7 +519,7 @@
         "Hariyama": 3,
         "Victreebel": 1,
         "Arctibax": 14,
-        "Foongus": 15,
+        "Foongus": 16,
         "Pansage": 9,
         "Cranidos": 16,
         "Spewpa": 14,
@@ -604,7 +604,7 @@
         "Medicham": 3,
         "Doublade": 13,
         "Naclstack": 11,
-        "Claydol": 3,
+        "Claydol": 4,
         "Turtonator": 3,
         "Hitmonlee": 2,
         "Houndstone": 5,
@@ -796,7 +796,7 @@
         "Galarian yamask": 1,
         "Alolan golem": 1,
         "Dustox": 2,
-        "Gliscor": 2,
+        "Gliscor": 3,
         "Mesprit": 2,
         "Vaporeon": 7,
         "Unown i": 1,
@@ -807,7 +807,7 @@
         "Blue-striped basculin": 3,
         "Barraskewda": 3,
         "Salazzle": 4,
-        "Pidgeot": 5,
+        "Pidgeot": 6,
         "Drapion": 4,
         "Barbaracle": 3,
         "Okidogi": 2,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12522,
-      "last_spawn": "2026-06-24T18:39:07.410132"
+      "total_spawns": 12528,
+      "last_spawn": "2026-06-24T18:39:47.253522"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16940,
+    "total_spawns": 16946,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
