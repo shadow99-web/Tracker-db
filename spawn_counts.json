@@ -232,7 +232,7 @@
         "Blipbug": 43,
         "Lampent": 23,
         "Petilil": 8,
-        "Marshtomp": 13,
+        "Marshtomp": 14,
         "Eiscue": 4,
         "Summer deerling": 14,
         "Clauncher": 15,
@@ -295,8 +295,8 @@
         "Torkoal": 2,
         "Ferroseed": 12,
         "Brionne": 6,
-        "Pancham": 11,
-        "Venipede": 50,
+        "Pancham": 12,
+        "Venipede": 51,
         "Cacturne": 4,
         "Oddish": 44,
         "Dragalge": 4,
@@ -309,7 +309,7 @@
         "Dartrix": 9,
         "Yellow flower florges": 3,
         "Zangoose": 6,
-        "Flygon": 2,
+        "Flygon": 3,
         "Shellos": 7,
         "Jigglypuff": 13,
         "Nacli": 27,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9077,
-      "last_spawn": "2026-06-24T08:39:58.534954"
+      "total_spawns": 9081,
+      "last_spawn": "2026-06-24T08:40:28.758543"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1047,7 +1047,7 @@
     }
   },
   "global": {
-    "total_spawns": 13452,
+    "total_spawns": 13456,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
