@@ -70,7 +70,7 @@
         "Smoliv": 68,
         "Gloom": 16,
         "Clefairy": 13,
-        "Spinda": 2,
+        "Spinda": 3,
         "Fomantis": 7,
         "Droopy tatsugiri": 22,
         "Froslass": 6,
@@ -227,7 +227,7 @@
         "Wattrel": 64,
         "Snubbull": 12,
         "Spidops": 14,
-        "Braixen": 14,
+        "Braixen": 15,
         "Drowzee": 16,
         "Blipbug": 58,
         "Lampent": 23,
@@ -369,7 +369,7 @@
         "Caterpie": 38,
         "Carvanha": 16,
         "Luxio": 12,
-        "Treecko": 23,
+        "Treecko": 24,
         "Sinistea": 7,
         "Cubchoo": 7,
         "Hippopotas": 8,
@@ -404,7 +404,7 @@
         "Squawkabilly": 17,
         "Electrike": 15,
         "Drampa": 3,
-        "Maschiff": 44,
+        "Maschiff": 45,
         "Rufflet": 21,
         "Kabutops": 6,
         "Dondozo": 42,
@@ -558,7 +558,7 @@
         "Araquanid": 4,
         "Kadabra": 13,
         "Chandelure": 6,
-        "Ponyta": 19,
+        "Ponyta": 20,
         "Togekiss": 5,
         "Braviary": 4,
         "Raboot": 14,
@@ -703,7 +703,7 @@
         "Litten": 17,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 48,
+        "Hatenna": 49,
         "Zoroark": 4,
         "Lucario": 1,
         "Crustle": 4,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11828,
-      "last_spawn": "2026-06-24T16:37:11.054130"
+      "total_spawns": 11834,
+      "last_spawn": "2026-06-24T16:37:47.099513"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16231,
+    "total_spawns": 16237,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
