@@ -179,7 +179,7 @@
         "Binacle": 16,
         "Grafaiai": 9,
         "Quilladin": 6,
-        "Geodude": 55,
+        "Geodude": 56,
         "Espurr": 11,
         "Cottonee": 6,
         "Elgyem": 12,
@@ -276,7 +276,7 @@
         "Bagon": 21,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 16,
+        "Rowlet": 17,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 20,
@@ -324,7 +324,7 @@
         "Murkrow": 12,
         "Bellsprout": 64,
         "Mudbray": 14,
-        "Dreepy": 44,
+        "Dreepy": 45,
         "Tinkaton": 4,
         "Corviknight": 5,
         "Froakie": 16,
@@ -451,7 +451,7 @@
         "Misdreavus": 9,
         "Seviper": 2,
         "Scovillain": 11,
-        "Sunkern": 9,
+        "Sunkern": 10,
         "Drizzile": 7,
         "Sunflora": 4,
         "Passimian": 3,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 5,
         "Wartortle": 13,
-        "Cetoddle": 40,
+        "Cetoddle": 41,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10953,
-      "last_spawn": "2026-06-24T13:59:11.843893"
+      "total_spawns": 10958,
+      "last_spawn": "2026-06-24T13:59:47.176027"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15340,
+    "total_spawns": 15345,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
