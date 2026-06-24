@@ -40,7 +40,7 @@
         "Qwilfish": 5,
         "Trapinch": 58,
         "Toedscool": 43,
-        "Fletchling": 38,
+        "Fletchling": 39,
         "Skiploom": 15,
         "Timburr": 50,
         "Dj rotom": 43,
@@ -401,7 +401,7 @@
         "Nosepass": 10,
         "Persian": 2,
         "Lopunny": 3,
-        "Squawkabilly": 16,
+        "Squawkabilly": 17,
         "Electrike": 14,
         "Drampa": 3,
         "Maschiff": 39,
@@ -421,7 +421,7 @@
         "Delibird": 2,
         "Ride cyclizar": 20,
         "Gothorita": 11,
-        "Varoom": 41,
+        "Varoom": 42,
         "Yellow plumage squawkabilly": 15,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -862,7 +862,7 @@
         "Liepard": 4,
         "Leavanny": 1,
         "Pa'u oricorio": 1,
-        "Donphan": 1,
+        "Donphan": 2,
         "Charizard": 2,
         "Pincurchin": 1,
         "Dunsparce": 2,
@@ -986,8 +986,8 @@
         "Unown v": 1,
         "Koraidon": 1
       },
-      "total_spawns": 10990,
-      "last_spawn": "2026-06-24T14:03:17.106584"
+      "total_spawns": 10994,
+      "last_spawn": "2026-06-24T14:03:51.735345"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1082,7 +1082,7 @@
     }
   },
   "global": {
-    "total_spawns": 15377,
+    "total_spawns": 15381,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
