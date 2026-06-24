@@ -101,7 +101,7 @@
         "Carracosta": 3,
         "Smearguru": 36,
         "Veluza": 56,
-        "Barboach": 17,
+        "Barboach": 18,
         "Klink": 36,
         "Honedge": 61,
         "Wingull": 17,
@@ -134,7 +134,7 @@
         "Bounsweet": 34,
         "Noibat": 15,
         "Toxicroak": 5,
-        "Charcadet": 54,
+        "Charcadet": 55,
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 12,
@@ -167,7 +167,7 @@
         "Weepinbell": 9,
         "Klawf": 44,
         "Vanillite": 39,
-        "Flareon": 5,
+        "Flareon": 6,
         "Gastly": 39,
         "Taillow": 13,
         "Swinub": 44,
@@ -509,7 +509,7 @@
         "Croagunk": 8,
         "Duraludon": 6,
         "Sawk": 2,
-        "Starmie": 5,
+        "Starmie": 6,
         "Simipour": 1,
         "Goldeen": 14,
         "Nickit": 15,
@@ -854,7 +854,7 @@
         "Mr. mime": 3,
         "Chesnaught": 1,
         "Jumpluff": 1,
-        "Heatmor": 1,
+        "Heatmor": 2,
         "Dubwool": 1,
         "Shuckle": 3,
         "Hydreigon": 1,
@@ -958,7 +958,7 @@
         "Florges": 1,
         "Dandy trim furfrou": 1,
         "Rapidash": 1,
-        "Mawile": 1,
+        "Mawile": 2,
         "Dusknoir": 1,
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9961,
-      "last_spawn": "2026-06-24T10:51:47.400787"
+      "total_spawns": 9967,
+      "last_spawn": "2026-06-24T10:52:27.177695"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14346,
+    "total_spawns": 14352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
