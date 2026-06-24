@@ -45,7 +45,7 @@
         "Timburr": 61,
         "Dj rotom": 53,
         "Surskit": 25,
-        "Seedot": 49,
+        "Seedot": 50,
         "Skitty": 12,
         "Greavard": 58,
         "Slugma": 13,
@@ -296,7 +296,7 @@
         "Ferroseed": 19,
         "Brionne": 9,
         "Pancham": 15,
-        "Venipede": 72,
+        "Venipede": 73,
         "Cacturne": 4,
         "Oddish": 53,
         "Dragalge": 4,
@@ -360,7 +360,7 @@
         "Banette": 3,
         "Three-segment dudunsparce": 3,
         "Fearow": 4,
-        "Mankey": 16,
+        "Mankey": 17,
         "Bidoof": 13,
         "Quilava": 21,
         "Finizen": 60,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 20,
         "Gothorita": 14,
         "Varoom": 53,
-        "Yellow plumage squawkabilly": 19,
+        "Yellow plumage squawkabilly": 20,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
         "Grapploct": 2,
@@ -437,7 +437,7 @@
         "Paldean wooper": 4,
         "Salandit": 13,
         "School wishiwashi": 4,
-        "Snivy": 15,
+        "Snivy": 16,
         "Wyrdeer": 2,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12802,
-      "last_spawn": "2026-06-24T19:10:58.569162"
+      "total_spawns": 12807,
+      "last_spawn": "2026-06-24T19:11:31.951363"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17220,
+    "total_spawns": 17225,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
