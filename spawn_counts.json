@@ -31,7 +31,7 @@
         "Abra": 46,
         "Sandile": 49,
         "Sandygast": 15,
-        "Litwick": 72,
+        "Litwick": 73,
         "Grubbin": 40,
         "Escavalier": 6,
         "Dratini": 33,
@@ -120,7 +120,7 @@
         "Yamask": 5,
         "Ralts": 39,
         "Solosis": 46,
-        "Battle cyclizar": 16,
+        "Battle cyclizar": 17,
         "Togetic": 9,
         "Palpitoad": 6,
         "Pikipek": 57,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
-        "Chef dente": 27,
+        "Chef dente": 28,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -486,7 +486,7 @@
         "Trash burmy": 3,
         "Staravia": 10,
         "Chatot": 3,
-        "Houndoom": 6,
+        "Houndoom": 7,
         "Dottler": 11,
         "Eevee": 10,
         "Copperajah": 4,
@@ -822,7 +822,7 @@
         "Galarian linoone": 2,
         "Xatu": 4,
         "Galarian corsola": 1,
-        "Cinderace": 3,
+        "Cinderace": 4,
         "Magcargo": 2,
         "Sensu oricorio": 3,
         "Rhyperior": 2,
@@ -969,8 +969,8 @@
         "Azumarill": 1,
         "Galarian farfetch'd": 1
       },
-      "total_spawns": 9818,
-      "last_spawn": "2026-06-24T10:35:47.141206"
+      "total_spawns": 9823,
+      "last_spawn": "2026-06-24T10:36:17.195634"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1063,7 +1063,7 @@
     }
   },
   "global": {
-    "total_spawns": 14203,
+    "total_spawns": 14208,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
