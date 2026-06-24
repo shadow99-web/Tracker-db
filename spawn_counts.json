@@ -9,7 +9,7 @@
         "Drilbur": 13,
         "Pawmi": 50,
         "Electabuzz": 8,
-        "Rellor": 42,
+        "Rellor": 43,
         "Sandy burmy": 9,
         "Wiglett": 58,
         "Bombirdier": 40,
@@ -312,7 +312,7 @@
         "Flygon": 3,
         "Shellos": 9,
         "Jigglypuff": 16,
-        "Nacli": 30,
+        "Nacli": 31,
         "Munna": 9,
         "Pawniard": 11,
         "Prof tangrowth": 30,
@@ -407,7 +407,7 @@
         "Maschiff": 37,
         "Rufflet": 19,
         "Kabutops": 6,
-        "Dondozo": 38,
+        "Dondozo": 39,
         "Pansear": 15,
         "Cutiefly": 10,
         "Peakychu": 34,
@@ -660,7 +660,7 @@
         "Bouffalant": 5,
         "Crabrawler": 10,
         "Budew": 4,
-        "Espathra": 10,
+        "Espathra": 11,
         "Vileplume": 3,
         "Kecleon": 2,
         "Sizzlipede": 7,
@@ -978,10 +978,11 @@
         "Hoopa": 1,
         "Vanilla cream love sweet alcremie": 1,
         "Mudsdale": 1,
-        "Slaking": 1
+        "Slaking": 1,
+        "Munkidori": 1
       },
-      "total_spawns": 10754,
-      "last_spawn": "2026-06-24T13:36:57.405624"
+      "total_spawns": 10759,
+      "last_spawn": "2026-06-24T13:37:31.939836"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1076,7 +1077,7 @@
     }
   },
   "global": {
-    "total_spawns": 15141,
+    "total_spawns": 15146,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
