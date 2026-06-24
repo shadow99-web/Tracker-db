@@ -47,7 +47,7 @@
         "Surskit": 23,
         "Seedot": 41,
         "Skitty": 10,
-        "Greavard": 53,
+        "Greavard": 54,
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 57,
@@ -58,7 +58,7 @@
         "Whismur": 44,
         "Monferno": 17,
         "Skwovet": 10,
-        "Bramblin": 58,
+        "Bramblin": 59,
         "Yanma": 11,
         "Larvesta": 24,
         "Beldum": 43,
@@ -68,7 +68,7 @@
         "Starly": 62,
         "Tandemaus": 46,
         "Smoliv": 67,
-        "Gloom": 14,
+        "Gloom": 15,
         "Clefairy": 13,
         "Spinda": 2,
         "Fomantis": 7,
@@ -462,7 +462,7 @@
         "Paras": 12,
         "Herdier": 18,
         "Pineco": 11,
-        "Chikorita": 13,
+        "Chikorita": 14,
         "Woobat": 14,
         "Wobbuffet": 3,
         "Roselia": 6,
@@ -924,7 +924,7 @@
         "Clefable": 3,
         "Serperior": 2,
         "Lycanroc": 8,
-        "Kingdra": 1,
+        "Kingdra": 2,
         "Farfetch'd": 2,
         "Unown l": 1,
         "Delphox": 3,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11369,
-      "last_spawn": "2026-06-24T15:45:06.108739"
+      "total_spawns": 11374,
+      "last_spawn": "2026-06-24T15:45:37.099225"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1096,7 +1096,7 @@
     }
   },
   "global": {
-    "total_spawns": 15765,
+    "total_spawns": 15770,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
