@@ -229,7 +229,7 @@
         "Spidops": 12,
         "Braixen": 14,
         "Drowzee": 13,
-        "Blipbug": 44,
+        "Blipbug": 45,
         "Lampent": 23,
         "Petilil": 9,
         "Marshtomp": 15,
@@ -247,7 +247,7 @@
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 14,
-        "Turtwig": 8,
+        "Turtwig": 9,
         "Prinplup": 9,
         "Tinkatink": 45,
         "Lechonk": 41,
@@ -395,7 +395,7 @@
         "Wailord": 3,
         "Makuhita": 13,
         "Lombre": 13,
-        "Ursaluna": 2,
+        "Ursaluna": 3,
         "Furfrou": 2,
         "Sylveon": 1,
         "Nosepass": 9,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 11,
-        "Cetoddle": 29,
+        "Cetoddle": 30,
         "Kricketot": 12,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -642,7 +642,7 @@
         "East sea shellos": 6,
         "Corsola": 8,
         "Venomoth": 5,
-        "Trumbeak": 8,
+        "Trumbeak": 9,
         "Aerodactyl": 4,
         "Igglybuff": 6,
         "Archeops": 4,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9500,
-      "last_spawn": "2026-06-24T09:59:31.812676"
+      "total_spawns": 9505,
+      "last_spawn": "2026-06-24T10:00:07.710989"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13884,
+    "total_spawns": 13889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
