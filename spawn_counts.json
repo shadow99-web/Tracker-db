@@ -14,7 +14,7 @@
         "Wiglett": 60,
         "Bombirdier": 45,
         "Litleo": 13,
-        "Purrloin": 9,
+        "Purrloin": 10,
         "Tranquill": 14,
         "Psyduck": 5,
         "Rockruff": 12,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 23,
         "Togetic": 10,
         "Palpitoad": 10,
-        "Pikipek": 65,
+        "Pikipek": 66,
         "Teddiursa": 47,
         "Clamperl": 16,
         "Zigzagoon": 19,
@@ -587,7 +587,7 @@
         "Kingambit": 2,
         "Clodsire": 15,
         "Blaze breed tauros": 1,
-        "Wimpod": 11,
+        "Wimpod": 12,
         "Torterra": 2,
         "Darmanitan": 3,
         "Rainy castform": 1,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 5,
         "Wartortle": 13,
-        "Cetoddle": 43,
+        "Cetoddle": 44,
         "Kricketot": 14,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -730,7 +730,7 @@
         "Popplio": 13,
         "Mandibuzz": 4,
         "Walrein": 2,
-        "Cinccino": 4,
+        "Cinccino": 5,
         "Alolan sandshrew": 2,
         "Azurill": 1,
         "Alolan rattata": 2,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11491,
-      "last_spawn": "2026-06-24T15:58:47.106306"
+      "total_spawns": 11496,
+      "last_spawn": "2026-06-24T15:59:17.215204"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1098,7 +1098,7 @@
     }
   },
   "global": {
-    "total_spawns": 15889,
+    "total_spawns": 15894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
