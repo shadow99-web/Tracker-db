@@ -12,7 +12,7 @@
         "Rellor": 48,
         "Sandy burmy": 9,
         "Wiglett": 63,
-        "Bombirdier": 48,
+        "Bombirdier": 49,
         "Litleo": 14,
         "Purrloin": 10,
         "Tranquill": 15,
@@ -162,7 +162,7 @@
         "Yamper": 14,
         "Tepig": 31,
         "Kirlia": 14,
-        "Piplup": 10,
+        "Piplup": 11,
         "Kakuna": 16,
         "Weepinbell": 10,
         "Klawf": 56,
@@ -280,7 +280,7 @@
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 22,
-        "Cryogonal": 4,
+        "Cryogonal": 5,
         "Eternatus": 1,
         "Gholdengo": 15,
         "Charmeleon": 8,
@@ -431,7 +431,7 @@
         "Flaaffy": 8,
         "Pecharunt": 1,
         "Feebas": 11,
-        "Buneary": 14,
+        "Buneary": 15,
         "Zebstrika": 2,
         "Shuppet": 12,
         "Paldean wooper": 3,
@@ -753,7 +753,7 @@
         "Incineroar": 3,
         "Morpeko": 9,
         "Parasect": 5,
-        "Alolan muk": 1,
+        "Alolan muk": 2,
         "Iron boulder": 2,
         "Haxorus": 3,
         "Jynx": 5,
@@ -999,8 +999,8 @@
         "Tyranitar": 1,
         "Inteleon": 1
       },
-      "total_spawns": 12163,
-      "last_spawn": "2026-06-24T17:14:27.283195"
+      "total_spawns": 12168,
+      "last_spawn": "2026-06-24T17:15:01.245164"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1111,7 +1111,7 @@
     }
   },
   "global": {
-    "total_spawns": 16570,
+    "total_spawns": 16575,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
