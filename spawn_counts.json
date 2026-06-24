@@ -34,12 +34,12 @@
         "Litwick": 69,
         "Grubbin": 40,
         "Escavalier": 6,
-        "Dratini": 31,
+        "Dratini": 32,
         "Kilowattrel": 9,
         "Lotad": 60,
         "Qwilfish": 5,
         "Trapinch": 49,
-        "Toedscool": 36,
+        "Toedscool": 37,
         "Fletchling": 32,
         "Skiploom": 12,
         "Timburr": 41,
@@ -156,7 +156,7 @@
         "Flapple": 6,
         "Aron": 38,
         "Boldore": 10,
-        "Spinarak": 18,
+        "Spinarak": 19,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 8,
@@ -407,7 +407,7 @@
         "Maschiff": 31,
         "Rufflet": 15,
         "Kabutops": 4,
-        "Dondozo": 32,
+        "Dondozo": 33,
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 31,
@@ -420,7 +420,7 @@
         "Summer sawsbuck": 6,
         "Delibird": 2,
         "Ride cyclizar": 15,
-        "Gothorita": 9,
+        "Gothorita": 10,
         "Varoom": 33,
         "Yellow plumage squawkabilly": 12,
         "Centiskorch": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9400,
-      "last_spawn": "2026-06-24T09:48:11.917730"
+      "total_spawns": 9405,
+      "last_spawn": "2026-06-24T09:48:46.968384"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13784,
+    "total_spawns": 13789,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
