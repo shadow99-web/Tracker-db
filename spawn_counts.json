@@ -11,7 +11,7 @@
         "Electabuzz": 8,
         "Rellor": 40,
         "Sandy burmy": 9,
-        "Wiglett": 55,
+        "Wiglett": 56,
         "Bombirdier": 37,
         "Litleo": 12,
         "Purrloin": 8,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 46,
+        "Roggenrola": 47,
         "Pidove": 45,
         "Dragapult": 6,
         "Rattata": 27,
@@ -168,7 +168,7 @@
         "Klawf": 44,
         "Vanillite": 40,
         "Flareon": 6,
-        "Gastly": 39,
+        "Gastly": 40,
         "Taillow": 13,
         "Swinub": 45,
         "Inkay": 18,
@@ -349,7 +349,7 @@
         "Wooper": 22,
         "Dwebble": 12,
         "Steenee": 12,
-        "Darumaka": 17,
+        "Darumaka": 18,
         "Arboliva": 4,
         "Ledyba": 13,
         "Spritzee": 8,
@@ -421,7 +421,7 @@
         "Delibird": 2,
         "Ride cyclizar": 17,
         "Gothorita": 11,
-        "Varoom": 35,
+        "Varoom": 36,
         "Yellow plumage squawkabilly": 13,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
@@ -742,7 +742,7 @@
         "Venonat": 10,
         "Pelipper": 4,
         "Metapod": 10,
-        "Kricketune": 4,
+        "Kricketune": 5,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
         "Relicanth": 1,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10107,
-      "last_spawn": "2026-06-24T11:08:07.206194"
+      "total_spawns": 10113,
+      "last_spawn": "2026-06-24T11:08:47.149980"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14492,
+    "total_spawns": 14498,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
