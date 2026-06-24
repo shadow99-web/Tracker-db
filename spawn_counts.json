@@ -66,7 +66,7 @@
         "Lokix": 15,
         "Glimmora": 17,
         "Starly": 65,
-        "Tandemaus": 47,
+        "Tandemaus": 48,
         "Smoliv": 70,
         "Gloom": 18,
         "Clefairy": 13,
@@ -103,7 +103,7 @@
         "Veluza": 64,
         "Barboach": 19,
         "Klink": 45,
-        "Honedge": 71,
+        "Honedge": 72,
         "Wingull": 20,
         "Salamence": 2,
         "Drakloak": 14,
@@ -172,7 +172,7 @@
         "Taillow": 18,
         "Swinub": 55,
         "Inkay": 20,
-        "Gible": 35,
+        "Gible": 36,
         "Rookidee": 33,
         "Minccino": 17,
         "Wurmple": 45,
@@ -240,7 +240,7 @@
         "Omanyte": 11,
         "Galvantula": 3,
         "Chansey": 8,
-        "Shroodle": 57,
+        "Shroodle": 58,
         "Duskull": 60,
         "Bergmite": 15,
         "Pignite": 16,
@@ -404,7 +404,7 @@
         "Squawkabilly": 17,
         "Electrike": 15,
         "Drampa": 3,
-        "Maschiff": 45,
+        "Maschiff": 46,
         "Rufflet": 21,
         "Kabutops": 6,
         "Dondozo": 45,
@@ -476,7 +476,7 @@
         "White plumage squawkabilly": 15,
         "Shelmet": 15,
         "Solrock": 3,
-        "Slowpoke": 15,
+        "Slowpoke": 16,
         "Dolliv": 12,
         "Infernape": 2,
         "Carkol": 12,
@@ -999,8 +999,8 @@
         "Tyranitar": 1,
         "Inteleon": 1
       },
-      "total_spawns": 12178,
-      "last_spawn": "2026-06-24T17:16:07.179305"
+      "total_spawns": 12184,
+      "last_spawn": "2026-06-24T17:16:47.278678"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1111,7 +1111,7 @@
     }
   },
   "global": {
-    "total_spawns": 16585,
+    "total_spawns": 16591,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
