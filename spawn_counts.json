@@ -78,7 +78,7 @@
         "Hatterene": 4,
         "Phantump": 20,
         "Duosion": 18,
-        "Amaura": 12,
+        "Amaura": 13,
         "Gimmighoul": 57,
         "Baltoy": 27,
         "Mareep": 56,
@@ -249,7 +249,7 @@
         "Dachsbun": 17,
         "Turtwig": 11,
         "Prinplup": 13,
-        "Tinkatink": 64,
+        "Tinkatink": 65,
         "Lechonk": 58,
         "Kommo-o": 1,
         "Dewott": 19,
@@ -324,7 +324,7 @@
         "Murkrow": 14,
         "Bellsprout": 70,
         "Mudbray": 16,
-        "Dreepy": 51,
+        "Dreepy": 52,
         "Tinkaton": 4,
         "Corviknight": 6,
         "Froakie": 17,
@@ -564,8 +564,8 @@
         "Raboot": 15,
         "Golem": 3,
         "Slowking": 8,
-        "Lilligant": 4,
-        "Rabsca": 9,
+        "Lilligant": 5,
+        "Rabsca": 10,
         "Gulpin": 22,
         "Crawdaunt": 5,
         "Magmortar": 2,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12897,
-      "last_spawn": "2026-06-24T19:21:51.856297"
+      "total_spawns": 12902,
+      "last_spawn": "2026-06-24T19:22:27.086005"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17315,
+    "total_spawns": 17320,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
