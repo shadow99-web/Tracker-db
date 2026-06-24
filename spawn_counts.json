@@ -115,7 +115,7 @@
         "Frigibax": 47,
         "Spheal": 66,
         "Swadloon": 13,
-        "Flittle": 46,
+        "Flittle": 47,
         "Unfezant": 3,
         "Yamask": 8,
         "Ralts": 45,
@@ -220,7 +220,7 @@
         "Politoed": 3,
         "Cyndaquil": 22,
         "Fuecoco": 13,
-        "Cyclizar": 21,
+        "Cyclizar": 22,
         "Magmar": 14,
         "Rillaboom": 4,
         "Ninetales": 2,
@@ -386,7 +386,7 @@
         "Swablu": 13,
         "Shellder": 14,
         "Crobat": 9,
-        "Sandshrew": 12,
+        "Sandshrew": 13,
         "Palafin": 10,
         "Maractus": 3,
         "Sigilyph": 4,
@@ -798,7 +798,7 @@
         "Dustox": 2,
         "Gliscor": 2,
         "Mesprit": 2,
-        "Vaporeon": 3,
+        "Vaporeon": 4,
         "Unown i": 1,
         "Raichu": 2,
         "Mime jr.": 2,
@@ -893,7 +893,7 @@
         "Ambipom": 4,
         "Aqua breed tauros": 1,
         "Fan rotom": 2,
-        "Stonjourner": 2,
+        "Stonjourner": 3,
         "Elekid": 2,
         "Floette": 4,
         "Shedinja": 2,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10873,
-      "last_spawn": "2026-06-24T13:50:11.838278"
+      "total_spawns": 10878,
+      "last_spawn": "2026-06-24T13:50:47.326312"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15260,
+    "total_spawns": 15265,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
