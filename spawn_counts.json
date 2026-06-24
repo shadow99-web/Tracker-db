@@ -452,7 +452,7 @@
         "Seviper": 2,
         "Scovillain": 11,
         "Sunkern": 9,
-        "Drizzile": 5,
+        "Drizzile": 6,
         "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
@@ -477,7 +477,7 @@
         "Shelmet": 11,
         "Solrock": 3,
         "Slowpoke": 14,
-        "Dolliv": 11,
+        "Dolliv": 12,
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 11,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 3,
         "Wormadam": 3,
-        "Axew": 37,
+        "Axew": 38,
         "Trevenant": 7,
         "Trubbish": 5,
         "Zorua": 8,
@@ -703,7 +703,7 @@
         "Litten": 13,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 34,
+        "Hatenna": 35,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
@@ -875,7 +875,7 @@
         "Magnezone": 2,
         "Alolan graveler": 1,
         "Cleffa": 3,
-        "Machamp": 4,
+        "Machamp": 5,
         "Altaria": 5,
         "Purugly": 5,
         "Seaking": 2,
@@ -971,10 +971,11 @@
         "Alolan raichu": 1,
         "Tapu fini": 1,
         "Minun": 2,
-        "Wo-chien": 1
+        "Wo-chien": 1,
+        "Octillery": 1
       },
-      "total_spawns": 10356,
-      "last_spawn": "2026-06-24T12:51:47.224353"
+      "total_spawns": 10362,
+      "last_spawn": "2026-06-24T12:52:27.117485"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1068,7 +1069,7 @@
     }
   },
   "global": {
-    "total_spawns": 14742,
+    "total_spawns": 14748,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
