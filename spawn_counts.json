@@ -38,7 +38,7 @@
         "Kilowattrel": 11,
         "Lotad": 63,
         "Qwilfish": 5,
-        "Trapinch": 57,
+        "Trapinch": 58,
         "Toedscool": 40,
         "Fletchling": 36,
         "Skiploom": 12,
@@ -127,7 +127,7 @@
         "Teddiursa": 43,
         "Clamperl": 15,
         "Zigzagoon": 17,
-        "Weedle": 69,
+        "Weedle": 70,
         "Flamigo": 47,
         "Lillipup": 52,
         "Shinx": 53,
@@ -200,7 +200,7 @@
         "Toedscruel": 15,
         "Probopass": 4,
         "Scraggy": 18,
-        "Rhydon": 14,
+        "Rhydon": 15,
         "Silcoon": 10,
         "Totodile": 11,
         "Dodrio": 5,
@@ -583,11 +583,11 @@
         "Anorith": 15,
         "Meowth": 8,
         "Combee": 9,
-        "Fletchinder": 15,
+        "Fletchinder": 16,
         "Kingambit": 2,
         "Clodsire": 14,
         "Blaze breed tauros": 1,
-        "Wimpod": 8,
+        "Wimpod": 9,
         "Torterra": 2,
         "Darmanitan": 2,
         "Rainy castform": 1,
@@ -660,7 +660,7 @@
         "Bouffalant": 5,
         "Crabrawler": 10,
         "Budew": 4,
-        "Espathra": 8,
+        "Espathra": 9,
         "Vileplume": 3,
         "Kecleon": 2,
         "Sizzlipede": 7,
@@ -975,8 +975,8 @@
         "Octillery": 1,
         "Coalossal": 1
       },
-      "total_spawns": 10458,
-      "last_spawn": "2026-06-24T13:03:27.401317"
+      "total_spawns": 10464,
+      "last_spawn": "2026-06-24T13:04:07.235577"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1070,7 +1070,7 @@
     }
   },
   "global": {
-    "total_spawns": 14844,
+    "total_spawns": 14850,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
