@@ -15,7 +15,7 @@
         "Bombirdier": 37,
         "Litleo": 12,
         "Purrloin": 8,
-        "Tranquill": 11,
+        "Tranquill": 12,
         "Psyduck": 5,
         "Rockruff": 9,
         "Haunter": 8,
@@ -137,7 +137,7 @@
         "Charcadet": 54,
         "Croconaw": 13,
         "Phanpy": 8,
-        "Brambleghast": 11,
+        "Brambleghast": 12,
         "Pidgey": 59,
         "Rhyhorn": 40,
         "Sentret": 15,
@@ -213,7 +213,7 @@
         "Fidough": 28,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 49,
+        "Tynamo": 50,
         "Orthworm": 47,
         "Marill": 13,
         "Joltik": 21,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
-        "Chef dente": 28,
+        "Chef dente": 29,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 2,
         "Wormadam": 3,
-        "Axew": 36,
+        "Axew": 37,
         "Trevenant": 7,
         "Trubbish": 4,
         "Zorua": 8,
@@ -890,7 +890,7 @@
         "Whiscash": 2,
         "Heracross": 2,
         "Orange flower floette": 1,
-        "Ambipom": 3,
+        "Ambipom": 4,
         "Aqua breed tauros": 1,
         "Fan rotom": 2,
         "Stonjourner": 2,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9929,
-      "last_spawn": "2026-06-24T10:48:07.411065"
+      "total_spawns": 9935,
+      "last_spawn": "2026-06-24T10:48:47.112894"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14314,
+    "total_spawns": 14320,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
