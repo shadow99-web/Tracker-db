@@ -11,7 +11,7 @@
         "Electabuzz": 8,
         "Rellor": 39,
         "Sandy burmy": 9,
-        "Wiglett": 49,
+        "Wiglett": 50,
         "Bombirdier": 36,
         "Litleo": 12,
         "Purrloin": 8,
@@ -71,7 +71,7 @@
         "Gloom": 12,
         "Clefairy": 10,
         "Spinda": 2,
-        "Fomantis": 6,
+        "Fomantis": 7,
         "Droopy tatsugiri": 21,
         "Froslass": 4,
         "Tarountula": 35,
@@ -186,7 +186,7 @@
         "Luvdisc": 4,
         "Vigoroth": 18,
         "Skorupi": 11,
-        "Pikachu": 12,
+        "Pikachu": 13,
         "Blue plumage squawkabilly": 7,
         "Thwackey": 12,
         "Dusk lycanroc": 3,
@@ -613,7 +613,7 @@
         "Pupitar": 8,
         "Avalugg": 4,
         "Magby": 5,
-        "Wigglytuff": 2,
+        "Wigglytuff": 3,
         "Venusaur": 4,
         "Mismagius": 2,
         "Fraxure": 9,
@@ -883,7 +883,7 @@
         "Urshifu": 1,
         "Swalot": 2,
         "Cloyster": 3,
-        "Kingler": 3,
+        "Kingler": 4,
         "Alomomola": 2,
         "White-striped basculin": 2,
         "Ampharos": 2,
@@ -967,8 +967,8 @@
         "Komala": 1,
         "Reshiram": 1
       },
-      "total_spawns": 9580,
-      "last_spawn": "2026-06-24T10:08:47.074244"
+      "total_spawns": 9585,
+      "last_spawn": "2026-06-24T10:09:17.226210"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1060,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 13964,
+    "total_spawns": 13969,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
