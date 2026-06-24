@@ -53,7 +53,7 @@
         "Porygon": 56,
         "Zubat": 61,
         "Vanillish": 14,
-        "Tadbulb": 51,
+        "Tadbulb": 52,
         "Magnemite": 59,
         "Whismur": 44,
         "Monferno": 17,
@@ -66,7 +66,7 @@
         "Lokix": 14,
         "Glimmora": 16,
         "Starly": 62,
-        "Tandemaus": 45,
+        "Tandemaus": 46,
         "Smoliv": 65,
         "Gloom": 14,
         "Clefairy": 13,
@@ -250,7 +250,7 @@
         "Turtwig": 11,
         "Prinplup": 11,
         "Tinkatink": 57,
-        "Lechonk": 48,
+        "Lechonk": 49,
         "Kommo-o": 1,
         "Dewott": 15,
         "Arrokuda": 15,
@@ -681,7 +681,7 @@
         "Arcanine": 5,
         "Oranguru": 4,
         "Poliwrath": 4,
-        "Blaziken": 2,
+        "Blaziken": 3,
         "Stantler": 12,
         "Butterfree": 2,
         "Koffing": 12,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11265,
-      "last_spawn": "2026-06-24T14:34:17.122943"
+      "total_spawns": 11269,
+      "last_spawn": "2026-06-24T14:34:47.138687"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15652,
+    "total_spawns": 15656,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
