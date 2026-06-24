@@ -40,7 +40,7 @@
         "Qwilfish": 5,
         "Trapinch": 62,
         "Toedscool": 46,
-        "Fletchling": 45,
+        "Fletchling": 46,
         "Skiploom": 16,
         "Timburr": 57,
         "Dj rotom": 50,
@@ -51,7 +51,7 @@
         "Slugma": 13,
         "Grotle": 12,
         "Porygon": 61,
-        "Zubat": 69,
+        "Zubat": 70,
         "Vanillish": 18,
         "Tadbulb": 55,
         "Magnemite": 60,
@@ -259,7 +259,7 @@
         "Cetitan": 14,
         "Cubone": 15,
         "Gligar": 19,
-        "Tirtouga": 16,
+        "Tirtouga": 17,
         "Furret": 3,
         "Nincada": 23,
         "Fennekin": 24,
@@ -322,7 +322,7 @@
         "Gossifleur": 16,
         "Oshawott": 14,
         "Murkrow": 14,
-        "Bellsprout": 66,
+        "Bellsprout": 67,
         "Mudbray": 15,
         "Dreepy": 49,
         "Tinkaton": 4,
@@ -554,7 +554,7 @@
         "Drednaw": 4,
         "Skarmory": 5,
         "Midnight lycanroc": 4,
-        "Eelektross": 2,
+        "Eelektross": 3,
         "Araquanid": 4,
         "Kadabra": 13,
         "Chandelure": 6,
@@ -739,7 +739,7 @@
         "Thievul": 3,
         "Greedent": 5,
         "Ekans": 14,
-        "Venonat": 12,
+        "Venonat": 13,
         "Pelipper": 4,
         "Metapod": 13,
         "Kricketune": 5,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12229,
-      "last_spawn": "2026-06-24T17:21:47.278243"
+      "total_spawns": 12235,
+      "last_spawn": "2026-06-24T17:22:27.149035"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16637,
+    "total_spawns": 16643,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
