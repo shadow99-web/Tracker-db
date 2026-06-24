@@ -21,11 +21,11 @@
         "Haunter": 8,
         "Tangela": 11,
         "Orbeetle": 3,
-        "Dedenne": 3,
+        "Dedenne": 4,
         "Machop": 33,
         "Dudunsparce": 6,
         "Gothita": 40,
-        "Impidimp": 37,
+        "Impidimp": 38,
         "Charmander": 17,
         "Morelull": 7,
         "Abra": 45,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 39,
+        "Roggenrola": 40,
         "Pidove": 44,
         "Dragapult": 5,
         "Rattata": 24,
@@ -166,9 +166,9 @@
         "Kakuna": 15,
         "Weepinbell": 8,
         "Klawf": 40,
-        "Vanillite": 36,
+        "Vanillite": 37,
         "Flareon": 4,
-        "Gastly": 38,
+        "Gastly": 39,
         "Taillow": 13,
         "Swinub": 39,
         "Inkay": 15,
@@ -637,7 +637,7 @@
         "Ursaring": 5,
         "Glalie": 2,
         "Latios": 1,
-        "Silicobra": 9,
+        "Silicobra": 10,
         "Snom": 5,
         "East sea shellos": 6,
         "Corsola": 8,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9145,
-      "last_spawn": "2026-06-24T08:47:47.398986"
+      "total_spawns": 9151,
+      "last_spawn": "2026-06-24T08:48:27.143948"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13521,
+    "total_spawns": 13527,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
