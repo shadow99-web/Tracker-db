@@ -253,7 +253,7 @@
         "Lechonk": 41,
         "Kommo-o": 1,
         "Dewott": 14,
-        "Arrokuda": 11,
+        "Arrokuda": 12,
         "Golett": 9,
         "Vullaby": 8,
         "Cetitan": 12,
@@ -268,7 +268,7 @@
         "Loudred": 6,
         "Ceruledge": 21,
         "Houndour": 12,
-        "Glimmet": 45,
+        "Glimmet": 46,
         "Goomy": 23,
         "Zapdos": 1,
         "Natu": 13,
@@ -461,7 +461,7 @@
         "Vulpix": 11,
         "Paras": 12,
         "Herdier": 12,
-        "Pineco": 10,
+        "Pineco": 11,
         "Chikorita": 9,
         "Woobat": 10,
         "Wobbuffet": 3,
@@ -596,7 +596,7 @@
         "Dewgong": 4,
         "Wartortle": 11,
         "Cetoddle": 29,
-        "Kricketot": 11,
+        "Kricketot": 12,
         "Porygon-z": 2,
         "Conkeldurr": 4,
         "Walking wake": 1,
@@ -666,7 +666,7 @@
         "Sizzlipede": 7,
         "White flower floette": 2,
         "Skeledirge": 4,
-        "Amoonguss": 5,
+        "Amoonguss": 6,
         "Appletun": 1,
         "Krookodile": 5,
         "Primeape": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9355,
-      "last_spawn": "2026-06-24T09:11:57.231350"
+      "total_spawns": 9360,
+      "last_spawn": "2026-06-24T09:12:31.894222"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13731,
+    "total_spawns": 13736,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
