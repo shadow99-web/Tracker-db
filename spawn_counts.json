@@ -52,7 +52,7 @@
         "Grotle": 11,
         "Porygon": 56,
         "Zubat": 61,
-        "Vanillish": 14,
+        "Vanillish": 15,
         "Tadbulb": 53,
         "Magnemite": 59,
         "Whismur": 44,
@@ -136,7 +136,7 @@
         "Toxicroak": 5,
         "Charcadet": 63,
         "Croconaw": 13,
-        "Phanpy": 8,
+        "Phanpy": 9,
         "Brambleghast": 13,
         "Pidgey": 70,
         "Rhyhorn": 48,
@@ -176,7 +176,7 @@
         "Rookidee": 32,
         "Minccino": 16,
         "Wurmple": 40,
-        "Binacle": 17,
+        "Binacle": 18,
         "Grafaiai": 9,
         "Quilladin": 7,
         "Geodude": 60,
@@ -223,7 +223,7 @@
         "Cyclizar": 22,
         "Magmar": 14,
         "Rillaboom": 5,
-        "Ninetales": 2,
+        "Ninetales": 3,
         "Wattrel": 63,
         "Snubbull": 12,
         "Spidops": 14,
@@ -245,7 +245,7 @@
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
-        "Swampert": 4,
+        "Swampert": 5,
         "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 11,
@@ -634,7 +634,7 @@
         "Cacnea": 5,
         "Pom-pom oricorio": 3,
         "Hawlucha": 5,
-        "Ursaring": 8,
+        "Ursaring": 9,
         "Glalie": 3,
         "Latios": 1,
         "Silicobra": 11,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11327,
-      "last_spawn": "2026-06-24T14:41:17.115928"
+      "total_spawns": 11333,
+      "last_spawn": "2026-06-24T15:40:57.407501"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1095,7 +1095,7 @@
     }
   },
   "global": {
-    "total_spawns": 15721,
+    "total_spawns": 15727,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
