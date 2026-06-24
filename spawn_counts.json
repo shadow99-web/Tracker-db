@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 21,
         "Patrat": 12,
-        "Mosslax": 25,
+        "Mosslax": 26,
         "Drilbur": 11,
         "Pawmi": 45,
         "Electabuzz": 8,
@@ -112,7 +112,7 @@
         "Sneasel": 16,
         "Bonsly": 2,
         "Horsea": 37,
-        "Frigibax": 39,
+        "Frigibax": 40,
         "Spheal": 59,
         "Swadloon": 9,
         "Flittle": 41,
@@ -159,7 +159,7 @@
         "Spinarak": 19,
         "Delcatty": 4,
         "Spiritomb": 4,
-        "Yamper": 9,
+        "Yamper": 10,
         "Tepig": 27,
         "Kirlia": 11,
         "Piplup": 7,
@@ -443,7 +443,7 @@
         "Galarian zen darmanitan": 2,
         "Bibarel": 3,
         "Plusle": 3,
-        "Skrelp": 5,
+        "Skrelp": 6,
         "Raticate": 9,
         "Wugtrio": 8,
         "Bellibolt": 7,
@@ -843,7 +843,7 @@
         "Lunatone": 5,
         "Exeggutor": 1,
         "Granbull": 1,
-        "Graveler": 8,
+        "Graveler": 9,
         "Carbink": 2,
         "Armaldo": 3,
         "Grimmsnarl": 3,
@@ -920,7 +920,7 @@
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 3,
-        "Hattrem": 3,
+        "Hattrem": 4,
         "Clefable": 2,
         "Serperior": 2,
         "Lycanroc": 3,
@@ -967,8 +967,8 @@
         "Komala": 1,
         "Reshiram": 1
       },
-      "total_spawns": 9589,
-      "last_spawn": "2026-06-24T10:09:47.728450"
+      "total_spawns": 9595,
+      "last_spawn": "2026-06-24T10:10:27.189326"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1060,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 13973,
+    "total_spawns": 13979,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
