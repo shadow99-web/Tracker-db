@@ -173,7 +173,7 @@
         "Swinub": 41,
         "Inkay": 16,
         "Gible": 26,
-        "Rookidee": 26,
+        "Rookidee": 27,
         "Minccino": 14,
         "Wurmple": 36,
         "Binacle": 15,
@@ -302,7 +302,7 @@
         "Dragalge": 4,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
-        "Toxapex": 2,
+        "Toxapex": 3,
         "Lileep": 9,
         "Rolycoly": 33,
         "Bronzor": 17,
@@ -330,7 +330,7 @@
         "Froakie": 12,
         "Nymble": 49,
         "Ferrothorn": 2,
-        "Servine": 7,
+        "Servine": 8,
         "Blitzle": 11,
         "Musharna": 2,
         "Bisharp": 3,
@@ -520,7 +520,7 @@
         "Victreebel": 1,
         "Arctibax": 6,
         "Foongus": 15,
-        "Pansage": 7,
+        "Pansage": 8,
         "Cranidos": 9,
         "Spewpa": 8,
         "Tyrunt": 9,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9447,
-      "last_spawn": "2026-06-24T09:53:37.057049"
+      "total_spawns": 9451,
+      "last_spawn": "2026-06-24T09:54:07.478976"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13831,
+    "total_spawns": 13835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
