@@ -7,7 +7,7 @@
         "Patrat": 14,
         "Mosslax": 39,
         "Drilbur": 13,
-        "Pawmi": 57,
+        "Pawmi": 58,
         "Electabuzz": 8,
         "Rellor": 48,
         "Sandy burmy": 9,
@@ -111,7 +111,7 @@
         "Scizor": 2,
         "Sneasel": 17,
         "Bonsly": 2,
-        "Horsea": 51,
+        "Horsea": 52,
         "Frigibax": 56,
         "Spheal": 70,
         "Swadloon": 15,
@@ -154,7 +154,7 @@
         "Dragapult": 6,
         "Rattata": 29,
         "Flapple": 8,
-        "Aron": 58,
+        "Aron": 59,
         "Boldore": 15,
         "Spinarak": 22,
         "Delcatty": 4,
@@ -909,7 +909,7 @@
         "Unown x": 1,
         "Aggron": 2,
         "Clawitzer": 3,
-        "Leafeon": 2,
+        "Leafeon": 3,
         "Ludicolo": 5,
         "Eldegoss": 4,
         "Dracozolt": 3,
@@ -963,7 +963,7 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 2,
         "Thundurus": 1,
-        "Seismitoad": 1,
+        "Seismitoad": 2,
         "Komala": 1,
         "Reshiram": 1,
         "Azumarill": 1,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 12021,
-      "last_spawn": "2026-06-24T16:58:31.779823"
+      "total_spawns": 12026,
+      "last_spawn": "2026-06-24T16:59:07.275405"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16425,
+    "total_spawns": 16430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
