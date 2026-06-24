@@ -25,7 +25,7 @@
         "Machop": 39,
         "Dudunsparce": 9,
         "Gothita": 48,
-        "Impidimp": 41,
+        "Impidimp": 42,
         "Charmander": 22,
         "Morelull": 9,
         "Abra": 54,
@@ -103,7 +103,7 @@
         "Veluza": 62,
         "Barboach": 19,
         "Klink": 39,
-        "Honedge": 63,
+        "Honedge": 64,
         "Wingull": 18,
         "Salamence": 2,
         "Drakloak": 13,
@@ -165,7 +165,7 @@
         "Piplup": 9,
         "Kakuna": 16,
         "Weepinbell": 10,
-        "Klawf": 51,
+        "Klawf": 52,
         "Vanillite": 42,
         "Flareon": 6,
         "Gastly": 43,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 14,
         "Dhelmise": 2,
-        "Bagon": 21,
+        "Bagon": 22,
         "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 17,
@@ -614,7 +614,7 @@
         "Avalugg": 4,
         "Magby": 5,
         "Wigglytuff": 3,
-        "Venusaur": 4,
+        "Venusaur": 5,
         "Mismagius": 3,
         "Fraxure": 11,
         "Talonflame": 3,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11121,
-      "last_spawn": "2026-06-24T14:18:07.068442"
+      "total_spawns": 11126,
+      "last_spawn": "2026-06-24T14:18:37.208793"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15508,
+    "total_spawns": 15513,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
