@@ -63,7 +63,7 @@
         "Larvesta": 24,
         "Beldum": 41,
         "Ducklett": 10,
-        "Lokix": 13,
+        "Lokix": 14,
         "Glimmora": 16,
         "Starly": 60,
         "Tandemaus": 45,
@@ -144,7 +144,7 @@
         "Yungoos": 7,
         "Diglett": 20,
         "Doduo": 12,
-        "Lairon": 16,
+        "Lairon": 17,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
@@ -168,7 +168,7 @@
         "Klawf": 52,
         "Vanillite": 42,
         "Flareon": 6,
-        "Gastly": 43,
+        "Gastly": 44,
         "Taillow": 15,
         "Swinub": 48,
         "Inkay": 18,
@@ -179,7 +179,7 @@
         "Binacle": 17,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 57,
+        "Geodude": 58,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -384,7 +384,7 @@
         "Drifloon": 9,
         "Golbat": 15,
         "Swablu": 13,
-        "Shellder": 14,
+        "Shellder": 15,
         "Crobat": 9,
         "Sandshrew": 13,
         "Palafin": 10,
@@ -518,7 +518,7 @@
         "Gabite": 4,
         "Hariyama": 3,
         "Victreebel": 1,
-        "Arctibax": 11,
+        "Arctibax": 12,
         "Foongus": 15,
         "Pansage": 8,
         "Cranidos": 13,
@@ -990,8 +990,8 @@
         "Diggersby": 1,
         "Hisuian voltorb": 1
       },
-      "total_spawns": 11163,
-      "last_spawn": "2026-06-24T14:22:47.065490"
+      "total_spawns": 11169,
+      "last_spawn": "2026-06-24T14:23:27.228834"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1086,7 +1086,7 @@
     }
   },
   "global": {
-    "total_spawns": 15550,
+    "total_spawns": 15556,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
