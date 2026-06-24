@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 5,
         "Tynamo": 64,
-        "Orthworm": 52,
+        "Orthworm": 53,
         "Marill": 16,
         "Joltik": 23,
         "Politoed": 3,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 15,
         "Dhelmise": 2,
-        "Bagon": 24,
+        "Bagon": 25,
         "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 21,
@@ -375,7 +375,7 @@
         "Hippopotas": 10,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
-        "Mabosstiff": 15,
+        "Mabosstiff": 16,
         "Squirtle": 26,
         "Remoraid": 8,
         "Torracat": 17,
@@ -513,7 +513,7 @@
         "Simipour": 1,
         "Goldeen": 17,
         "Nickit": 19,
-        "Ivysaur": 12,
+        "Ivysaur": 13,
         "Milcery": 14,
         "Gabite": 4,
         "Hariyama": 3,
@@ -579,7 +579,7 @@
         "Huntail": 6,
         "Galarian meowth": 1,
         "Spoink": 6,
-        "Scyther": 19,
+        "Scyther": 20,
         "Anorith": 20,
         "Meowth": 11,
         "Combee": 10,
@@ -606,7 +606,7 @@
         "Naclstack": 12,
         "Claydol": 4,
         "Turtonator": 3,
-        "Hitmonlee": 2,
+        "Hitmonlee": 3,
         "Houndstone": 5,
         "Sandy wormadam": 2,
         "Stunky": 12,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12812,
-      "last_spawn": "2026-06-24T19:12:07.364702"
+      "total_spawns": 12818,
+      "last_spawn": "2026-06-24T19:12:47.383985"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17230,
+    "total_spawns": 17236,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
