@@ -124,7 +124,7 @@
         "Togetic": 10,
         "Palpitoad": 8,
         "Pikipek": 61,
-        "Teddiursa": 43,
+        "Teddiursa": 44,
         "Clamperl": 16,
         "Zigzagoon": 18,
         "Weedle": 70,
@@ -204,7 +204,7 @@
         "Silcoon": 11,
         "Totodile": 11,
         "Dodrio": 5,
-        "Cufant": 12,
+        "Cufant": 13,
         "Tympole": 39,
         "Swellow": 4,
         "Aipom": 9,
@@ -257,7 +257,7 @@
         "Golett": 11,
         "Vullaby": 11,
         "Cetitan": 12,
-        "Cubone": 14,
+        "Cubone": 15,
         "Gligar": 17,
         "Tirtouga": 14,
         "Furret": 2,
@@ -345,7 +345,7 @@
         "Capsakid": 41,
         "Revavroom": 15,
         "Exploud": 5,
-        "Deino": 28,
+        "Deino": 29,
         "Wooper": 23,
         "Dwebble": 12,
         "Steenee": 12,
@@ -512,7 +512,7 @@
         "Starmie": 6,
         "Simipour": 1,
         "Goldeen": 15,
-        "Nickit": 16,
+        "Nickit": 17,
         "Ivysaur": 11,
         "Milcery": 12,
         "Gabite": 4,
@@ -980,8 +980,8 @@
         "Mudsdale": 1,
         "Slaking": 1
       },
-      "total_spawns": 10749,
-      "last_spawn": "2026-06-24T13:36:27.123771"
+      "total_spawns": 10754,
+      "last_spawn": "2026-06-24T13:36:57.405624"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1062,10 +1062,11 @@
         "Pikipek": 1,
         "Nacli": 1,
         "Grovyle": 1,
-        "Wartortle": 1
+        "Wartortle": 1,
+        "Amped toxtricity": 1
       },
-      "total_spawns": 99,
-      "last_spawn": "2026-06-24T12:39:09.838673"
+      "total_spawns": 100,
+      "last_spawn": "2026-06-24T13:36:43.443244"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1075,7 +1076,7 @@
     }
   },
   "global": {
-    "total_spawns": 15135,
+    "total_spawns": 15141,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
