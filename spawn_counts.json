@@ -123,7 +123,7 @@
         "Battle cyclizar": 21,
         "Togetic": 10,
         "Palpitoad": 10,
-        "Pikipek": 62,
+        "Pikipek": 63,
         "Teddiursa": 45,
         "Clamperl": 16,
         "Zigzagoon": 18,
@@ -168,7 +168,7 @@
         "Klawf": 51,
         "Vanillite": 41,
         "Flareon": 6,
-        "Gastly": 42,
+        "Gastly": 43,
         "Taillow": 14,
         "Swinub": 48,
         "Inkay": 18,
@@ -179,7 +179,7 @@
         "Binacle": 17,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 56,
+        "Geodude": 57,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -349,7 +349,7 @@
         "Wooper": 23,
         "Dwebble": 13,
         "Steenee": 13,
-        "Darumaka": 18,
+        "Darumaka": 19,
         "Arboliva": 4,
         "Ledyba": 13,
         "Spritzee": 9,
@@ -703,7 +703,7 @@
         "Litten": 15,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 41,
+        "Hatenna": 42,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
@@ -784,7 +784,7 @@
         "Castform": 7,
         "Weavile": 1,
         "Gorging cramorant": 1,
-        "Shieldon": 7,
+        "Shieldon": 8,
         "Masquerain": 4,
         "Watchog": 3,
         "Ditto": 5,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11070,
-      "last_spawn": "2026-06-24T14:12:27.176907"
+      "total_spawns": 11076,
+      "last_spawn": "2026-06-24T14:13:07.114355"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15457,
+    "total_spawns": 15463,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
