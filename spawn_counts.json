@@ -25,7 +25,7 @@
         "Machop": 45,
         "Dudunsparce": 12,
         "Gothita": 49,
-        "Impidimp": 47,
+        "Impidimp": 48,
         "Charmander": 25,
         "Morelull": 11,
         "Abra": 60,
@@ -126,7 +126,7 @@
         "Pikipek": 70,
         "Teddiursa": 57,
         "Clamperl": 18,
-        "Zigzagoon": 21,
+        "Zigzagoon": 22,
         "Weedle": 82,
         "Flamigo": 53,
         "Lillipup": 60,
@@ -193,7 +193,7 @@
         "Sunny castform": 4,
         "Pidgeotto": 17,
         "Spearow": 23,
-        "Helioptile": 13,
+        "Helioptile": 14,
         "Hoothoot": 14,
         "Grookey": 18,
         "Meditite": 8,
@@ -363,7 +363,7 @@
         "Mankey": 17,
         "Bidoof": 13,
         "Quilava": 21,
-        "Finizen": 60,
+        "Finizen": 61,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 44,
@@ -714,7 +714,7 @@
         "Snowy castform": 1,
         "Gengar": 6,
         "Forretress": 4,
-        "Hydrapple": 1,
+        "Hydrapple": 2,
         "Emolga": 3,
         "Tsareena": 3,
         "Blissey": 4,
@@ -777,7 +777,7 @@
         "Marowak": 1,
         "Chingling": 2,
         "Beedrill": 5,
-        "Whimsicott": 4,
+        "Whimsicott": 5,
         "Wishiwashi": 6,
         "Cofagrigus": 4,
         "Camerupt": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12822,
-      "last_spawn": "2026-06-24T19:13:28.879318"
+      "total_spawns": 12828,
+      "last_spawn": "2026-06-24T19:14:07.240062"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17240,
+    "total_spawns": 17246,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
