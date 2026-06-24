@@ -28,7 +28,7 @@
         "Impidimp": 43,
         "Charmander": 23,
         "Morelull": 11,
-        "Abra": 58,
+        "Abra": 59,
         "Sandile": 56,
         "Sandygast": 16,
         "Litwick": 78,
@@ -280,7 +280,7 @@
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 21,
-        "Cryogonal": 3,
+        "Cryogonal": 4,
         "Eternatus": 1,
         "Gholdengo": 14,
         "Charmeleon": 8,
@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 2,
         "Toxapex": 4,
-        "Lileep": 9,
+        "Lileep": 10,
         "Rolycoly": 42,
         "Bronzor": 21,
         "Dartrix": 11,
@@ -459,7 +459,7 @@
         "Cherubi": 11,
         "Cradily": 4,
         "Vulpix": 13,
-        "Paras": 13,
+        "Paras": 14,
         "Herdier": 21,
         "Pineco": 11,
         "Chikorita": 14,
@@ -649,7 +649,7 @@
         "Shiftry": 1,
         "Arbok": 4,
         "Stretchy tatsugiri": 18,
-        "Mareanie": 13,
+        "Mareanie": 14,
         "Seadra": 7,
         "Beheeyem": 4,
         "Pinsir": 5,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11848,
-      "last_spawn": "2026-06-24T16:39:17.442819"
+      "total_spawns": 11853,
+      "last_spawn": "2026-06-24T16:39:51.875460"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16251,
+    "total_spawns": 16256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
