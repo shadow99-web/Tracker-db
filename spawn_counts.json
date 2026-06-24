@@ -34,7 +34,7 @@
         "Litwick": 69,
         "Grubbin": 40,
         "Escavalier": 6,
-        "Dratini": 32,
+        "Dratini": 33,
         "Kilowattrel": 9,
         "Lotad": 60,
         "Qwilfish": 5,
@@ -42,7 +42,7 @@
         "Toedscool": 37,
         "Fletchling": 32,
         "Skiploom": 12,
-        "Timburr": 41,
+        "Timburr": 42,
         "Dj rotom": 39,
         "Surskit": 19,
         "Seedot": 34,
@@ -118,7 +118,7 @@
         "Flittle": 41,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 37,
+        "Ralts": 38,
         "Solosis": 45,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -411,7 +411,7 @@
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 31,
-        "Armarouge": 9,
+        "Armarouge": 10,
         "Tyrantrum": 1,
         "Larvitar": 18,
         "Tentacool": 6,
@@ -703,7 +703,7 @@
         "Litten": 13,
         "Abomasnow": 2,
         "Espeon": 2,
-        "Hatenna": 32,
+        "Hatenna": 33,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
@@ -730,7 +730,7 @@
         "Popplio": 10,
         "Mandibuzz": 4,
         "Walrein": 1,
-        "Cinccino": 2,
+        "Cinccino": 3,
         "Alolan sandshrew": 1,
         "Azurill": 1,
         "Alolan rattata": 1,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9457,
-      "last_spawn": "2026-06-24T09:54:47.155731"
+      "total_spawns": 9463,
+      "last_spawn": "2026-06-24T09:55:27.384423"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13841,
+    "total_spawns": 13847,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
