@@ -72,7 +72,7 @@
         "Clefairy": 13,
         "Spinda": 3,
         "Fomantis": 7,
-        "Droopy tatsugiri": 22,
+        "Droopy tatsugiri": 23,
         "Froslass": 6,
         "Tarountula": 44,
         "Hatterene": 3,
@@ -132,7 +132,7 @@
         "Lillipup": 57,
         "Shinx": 61,
         "Bounsweet": 42,
-        "Noibat": 18,
+        "Noibat": 19,
         "Toxicroak": 5,
         "Charcadet": 68,
         "Croconaw": 14,
@@ -363,7 +363,7 @@
         "Mankey": 14,
         "Bidoof": 13,
         "Quilava": 21,
-        "Finizen": 57,
+        "Finizen": 58,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 40,
@@ -728,7 +728,7 @@
         "Volbeat": 6,
         "Burmy": 3,
         "Popplio": 13,
-        "Mandibuzz": 5,
+        "Mandibuzz": 6,
         "Walrein": 3,
         "Cinccino": 5,
         "Alolan sandshrew": 2,
@@ -994,10 +994,11 @@
         "Hisuian samurott": 1,
         "Ledian": 2,
         "Cherrim": 1,
-        "Blade aegislash": 1
+        "Blade aegislash": 1,
+        "Miltank": 1
       },
-      "total_spawns": 12041,
-      "last_spawn": "2026-06-24T17:00:47.440917"
+      "total_spawns": 12046,
+      "last_spawn": "2026-06-24T17:01:27.010025"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1092,10 +1093,11 @@
         "Mudkip": 1,
         "Greavard": 1,
         "Axew": 1,
-        "Ride cyclizar": 1
+        "Ride cyclizar": 1,
+        "Trapinch": 1
       },
-      "total_spawns": 117,
-      "last_spawn": "2026-06-24T16:48:10.346397"
+      "total_spawns": 118,
+      "last_spawn": "2026-06-24T17:00:50.342054"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1105,7 +1107,7 @@
     }
   },
   "global": {
-    "total_spawns": 16445,
+    "total_spawns": 16451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
