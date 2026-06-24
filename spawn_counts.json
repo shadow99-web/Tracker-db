@@ -31,7 +31,7 @@
         "Abra": 47,
         "Sandile": 51,
         "Sandygast": 15,
-        "Litwick": 74,
+        "Litwick": 75,
         "Grubbin": 41,
         "Escavalier": 6,
         "Dratini": 33,
@@ -407,7 +407,7 @@
         "Maschiff": 34,
         "Rufflet": 17,
         "Kabutops": 4,
-        "Dondozo": 34,
+        "Dondozo": 35,
         "Pansear": 12,
         "Cutiefly": 10,
         "Peakychu": 33,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 13,
-        "Cetoddle": 36,
+        "Cetoddle": 37,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -609,7 +609,7 @@
         "Hitmonlee": 2,
         "Houndstone": 5,
         "Sandy wormadam": 2,
-        "Stunky": 7,
+        "Stunky": 8,
         "Pupitar": 9,
         "Avalugg": 4,
         "Magby": 5,
@@ -916,7 +916,7 @@
         "Galarian rapidash": 1,
         "Skuntank": 1,
         "Gogoat": 2,
-        "Bellossom": 4,
+        "Bellossom": 5,
         "Pirouette meloetta": 1,
         "Sableye": 1,
         "Wynaut": 3,
@@ -944,7 +944,7 @@
         "Hisuian goodra": 1,
         "Giratina": 1,
         "Iron treads": 1,
-        "Meowstic": 1,
+        "Meowstic": 2,
         "Luxray": 2,
         "Latias": 1,
         "Unown n": 1,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 10018,
-      "last_spawn": "2026-06-24T10:58:09.275253"
+      "total_spawns": 10024,
+      "last_spawn": "2026-06-24T10:58:50.416027"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14403,
+    "total_spawns": 14409,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
