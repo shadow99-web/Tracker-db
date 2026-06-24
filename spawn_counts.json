@@ -7,7 +7,7 @@
         "Patrat": 12,
         "Mosslax": 27,
         "Drilbur": 12,
-        "Pawmi": 45,
+        "Pawmi": 46,
         "Electabuzz": 8,
         "Rellor": 40,
         "Sandy burmy": 9,
@@ -334,7 +334,7 @@
         "Blitzle": 12,
         "Musharna": 2,
         "Bisharp": 3,
-        "Chespin": 11,
+        "Chespin": 12,
         "Sealeo": 13,
         "Staryu": 8,
         "Samurott": 2,
@@ -445,7 +445,7 @@
         "Plusle": 3,
         "Skrelp": 6,
         "Raticate": 9,
-        "Wugtrio": 9,
+        "Wugtrio": 10,
         "Bellibolt": 7,
         "Morgrem": 8,
         "Misdreavus": 6,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 13,
-        "Cetoddle": 33,
+        "Cetoddle": 34,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -768,7 +768,7 @@
         "Finneon": 6,
         "Mamoswine": 3,
         "Drifblim": 2,
-        "Meowscarada": 2,
+        "Meowscarada": 3,
         "Roserade": 3,
         "Nidorina": 8,
         "Archaludon": 1,
@@ -869,7 +869,7 @@
         "Lapras": 3,
         "Illumise": 4,
         "Scrafty": 1,
-        "Swanna": 2,
+        "Swanna": 3,
         "Grumpig": 3,
         "Basculegion": 1,
         "Magnezone": 2,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9893,
-      "last_spawn": "2026-06-24T10:44:07.328522"
+      "total_spawns": 9899,
+      "last_spawn": "2026-06-24T10:44:47.195396"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14278,
+    "total_spawns": 14284,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
