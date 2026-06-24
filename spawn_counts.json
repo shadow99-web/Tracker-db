@@ -39,7 +39,7 @@
         "Lotad": 65,
         "Qwilfish": 5,
         "Trapinch": 58,
-        "Toedscool": 41,
+        "Toedscool": 42,
         "Fletchling": 36,
         "Skiploom": 12,
         "Timburr": 50,
@@ -67,7 +67,7 @@
         "Glimmora": 16,
         "Starly": 56,
         "Tandemaus": 43,
-        "Smoliv": 63,
+        "Smoliv": 64,
         "Gloom": 14,
         "Clefairy": 12,
         "Spinda": 2,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
-        "Chef dente": 33,
+        "Chef dente": 34,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -518,7 +518,7 @@
         "Gabite": 4,
         "Hariyama": 3,
         "Victreebel": 1,
-        "Arctibax": 9,
+        "Arctibax": 10,
         "Foongus": 15,
         "Pansage": 8,
         "Cranidos": 12,
@@ -859,7 +859,7 @@
         "Shuckle": 3,
         "Hydreigon": 1,
         "Alolan vulpix": 2,
-        "Liepard": 3,
+        "Liepard": 4,
         "Leavanny": 1,
         "Pa'u oricorio": 1,
         "Donphan": 1,
@@ -977,10 +977,11 @@
         "Sandy shocks": 1,
         "Hoopa": 1,
         "Vanilla cream love sweet alcremie": 1,
-        "Mudsdale": 1
+        "Mudsdale": 1,
+        "Slaking": 1
       },
-      "total_spawns": 10723,
-      "last_spawn": "2026-06-24T13:33:27.162885"
+      "total_spawns": 10729,
+      "last_spawn": "2026-06-24T13:34:07.341159"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1074,7 +1075,7 @@
     }
   },
   "global": {
-    "total_spawns": 15109,
+    "total_spawns": 15115,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
