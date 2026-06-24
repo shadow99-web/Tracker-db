@@ -193,7 +193,7 @@
         "Sunny castform": 4,
         "Pidgeotto": 17,
         "Spearow": 23,
-        "Helioptile": 14,
+        "Helioptile": 15,
         "Hoothoot": 14,
         "Grookey": 18,
         "Meditite": 8,
@@ -295,7 +295,7 @@
         "Torkoal": 3,
         "Ferroseed": 19,
         "Brionne": 9,
-        "Pancham": 15,
+        "Pancham": 16,
         "Venipede": 73,
         "Cacturne": 4,
         "Oddish": 53,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 6,
         "Wartortle": 13,
-        "Cetoddle": 48,
+        "Cetoddle": 49,
         "Kricketot": 15,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -614,7 +614,7 @@
         "Avalugg": 5,
         "Magby": 6,
         "Wigglytuff": 3,
-        "Venusaur": 7,
+        "Venusaur": 8,
         "Mismagius": 3,
         "Fraxure": 13,
         "Talonflame": 4,
@@ -692,7 +692,7 @@
         "Pyroar": 5,
         "Marshadow": 2,
         "Sliggoo": 7,
-        "Panpour": 12,
+        "Panpour": 13,
         "Tinkatuff": 11,
         "Bruxish": 3,
         "Corvisquire": 8,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12855,
-      "last_spawn": "2026-06-24T19:17:12.148436"
+      "total_spawns": 12860,
+      "last_spawn": "2026-06-24T19:17:47.180282"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17273,
+    "total_spawns": 17278,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
