@@ -41,7 +41,7 @@
         "Trapinch": 62,
         "Toedscool": 46,
         "Fletchling": 47,
-        "Skiploom": 16,
+        "Skiploom": 17,
         "Timburr": 57,
         "Dj rotom": 51,
         "Surskit": 24,
@@ -81,7 +81,7 @@
         "Amaura": 11,
         "Gimmighoul": 55,
         "Baltoy": 25,
-        "Mareep": 52,
+        "Mareep": 53,
         "Garbodor": 3,
         "Slakoth": 68,
         "Togepi": 48,
@@ -372,7 +372,7 @@
         "Treecko": 26,
         "Sinistea": 8,
         "Cubchoo": 7,
-        "Hippopotas": 8,
+        "Hippopotas": 9,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
         "Mabosstiff": 14,
@@ -823,7 +823,7 @@
         "Xatu": 4,
         "Galarian corsola": 1,
         "Cinderace": 4,
-        "Magcargo": 3,
+        "Magcargo": 4,
         "Sensu oricorio": 5,
         "Rhyperior": 3,
         "Linoone": 4,
@@ -1000,10 +1000,11 @@
         "Inteleon": 1,
         "Rotom drone": 1,
         "Aegislash": 1,
-        "Iron valiant": 1
+        "Iron valiant": 1,
+        "Beartic": 1
       },
-      "total_spawns": 12308,
-      "last_spawn": "2026-06-24T18:15:11.877633"
+      "total_spawns": 12313,
+      "last_spawn": "2026-06-24T18:15:47.052789"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1122,7 +1123,7 @@
     }
   },
   "global": {
-    "total_spawns": 16724,
+    "total_spawns": 16729,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
