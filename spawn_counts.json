@@ -27,7 +27,7 @@
         "Gothita": 48,
         "Impidimp": 43,
         "Charmander": 22,
-        "Morelull": 10,
+        "Morelull": 11,
         "Abra": 56,
         "Sandile": 55,
         "Sandygast": 16,
@@ -102,7 +102,7 @@
         "Smearguru": 40,
         "Veluza": 64,
         "Barboach": 19,
-        "Klink": 39,
+        "Klink": 40,
         "Honedge": 66,
         "Wingull": 19,
         "Salamence": 2,
@@ -144,7 +144,7 @@
         "Yungoos": 7,
         "Diglett": 20,
         "Doduo": 12,
-        "Lairon": 17,
+        "Lairon": 18,
         "Emboar": 5,
         "Deoxys": 2,
         "Dracovish": 3,
@@ -337,7 +337,7 @@
         "Chespin": 16,
         "Sealeo": 14,
         "Staryu": 8,
-        "Samurott": 2,
+        "Samurott": 3,
         "Torchic": 21,
         "Sobble": 23,
         "Mudkip": 14,
@@ -421,7 +421,7 @@
         "Delibird": 3,
         "Ride cyclizar": 20,
         "Gothorita": 11,
-        "Varoom": 45,
+        "Varoom": 46,
         "Yellow plumage squawkabilly": 16,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -704,7 +704,7 @@
         "Abomasnow": 3,
         "Espeon": 3,
         "Hatenna": 46,
-        "Zoroark": 3,
+        "Zoroark": 4,
         "Lucario": 1,
         "Crustle": 4,
         "Combusken": 15,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11512,
-      "last_spawn": "2026-06-24T16:01:08.053526"
+      "total_spawns": 11518,
+      "last_spawn": "2026-06-24T16:01:48.254381"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1098,7 +1098,7 @@
     }
   },
   "global": {
-    "total_spawns": 15910,
+    "total_spawns": 15916,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
