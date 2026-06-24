@@ -34,7 +34,7 @@
         "Litwick": 82,
         "Grubbin": 51,
         "Escavalier": 9,
-        "Dratini": 44,
+        "Dratini": 45,
         "Kilowattrel": 15,
         "Lotad": 82,
         "Qwilfish": 5,
@@ -138,7 +138,7 @@
         "Croconaw": 16,
         "Phanpy": 9,
         "Brambleghast": 17,
-        "Pidgey": 79,
+        "Pidgey": 80,
         "Rhyhorn": 55,
         "Sentret": 16,
         "Yungoos": 11,
@@ -428,7 +428,7 @@
         "Grapploct": 2,
         "Gurdurr": 11,
         "Girafarig": 7,
-        "Flaaffy": 8,
+        "Flaaffy": 9,
         "Pecharunt": 1,
         "Feebas": 13,
         "Buneary": 16,
@@ -472,7 +472,7 @@
         "Snorunt": 10,
         "Bunnelby": 15,
         "Gulping cramorant": 2,
-        "Simisear": 2,
+        "Simisear": 3,
         "White plumage squawkabilly": 18,
         "Shelmet": 17,
         "Solrock": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12979,
-      "last_spawn": "2026-06-24T19:31:07.406084"
+      "total_spawns": 12983,
+      "last_spawn": "2026-06-24T19:31:47.767306"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17397,
+    "total_spawns": 17401,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
