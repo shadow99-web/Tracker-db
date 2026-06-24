@@ -159,7 +159,7 @@
         "Spinarak": 21,
         "Delcatty": 4,
         "Spiritomb": 4,
-        "Yamper": 12,
+        "Yamper": 13,
         "Tepig": 30,
         "Kirlia": 12,
         "Piplup": 9,
@@ -279,7 +279,7 @@
         "Rowlet": 17,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
-        "Crocalor": 20,
+        "Crocalor": 21,
         "Cryogonal": 3,
         "Eternatus": 1,
         "Gholdengo": 14,
@@ -561,7 +561,7 @@
         "Ponyta": 17,
         "Togekiss": 5,
         "Braviary": 4,
-        "Raboot": 13,
+        "Raboot": 14,
         "Golem": 2,
         "Slowking": 8,
         "Lilligant": 4,
@@ -703,7 +703,7 @@
         "Litten": 16,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 44,
+        "Hatenna": 45,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
@@ -749,7 +749,7 @@
         "Klefki": 4,
         "Frogadier": 13,
         "Dewpider": 9,
-        "Poltchageist": 2,
+        "Poltchageist": 3,
         "Incineroar": 2,
         "Morpeko": 7,
         "Parasect": 5,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11260,
-      "last_spawn": "2026-06-24T14:33:47.057607"
+      "total_spawns": 11265,
+      "last_spawn": "2026-06-24T14:34:17.122943"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15647,
+    "total_spawns": 15652,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
