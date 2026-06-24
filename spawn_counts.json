@@ -25,14 +25,14 @@
         "Machop": 42,
         "Dudunsparce": 10,
         "Gothita": 49,
-        "Impidimp": 43,
+        "Impidimp": 44,
         "Charmander": 23,
         "Morelull": 11,
         "Abra": 60,
         "Sandile": 56,
         "Sandygast": 16,
         "Litwick": 79,
-        "Grubbin": 47,
+        "Grubbin": 48,
         "Escavalier": 8,
         "Dratini": 40,
         "Kilowattrel": 14,
@@ -57,7 +57,7 @@
         "Magnemite": 59,
         "Whismur": 48,
         "Monferno": 17,
-        "Skwovet": 12,
+        "Skwovet": 13,
         "Bramblin": 60,
         "Yanma": 12,
         "Larvesta": 26,
@@ -585,7 +585,7 @@
         "Combee": 10,
         "Fletchinder": 19,
         "Kingambit": 3,
-        "Clodsire": 17,
+        "Clodsire": 18,
         "Blaze breed tauros": 1,
         "Wimpod": 12,
         "Torterra": 3,
@@ -950,7 +950,7 @@
         "Unown n": 1,
         "Unown exclamation": 1,
         "Ninjask": 3,
-        "Nidoking": 2,
+        "Nidoking": 3,
         "Pichu": 2,
         "Carnivine": 1,
         "Goodra": 2,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11965,
-      "last_spawn": "2026-06-24T16:52:17.413346"
+      "total_spawns": 11970,
+      "last_spawn": "2026-06-24T16:52:51.957957"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16369,
+    "total_spawns": 16374,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
