@@ -33,7 +33,7 @@
         "Sandygast": 16,
         "Litwick": 78,
         "Grubbin": 47,
-        "Escavalier": 7,
+        "Escavalier": 8,
         "Dratini": 40,
         "Kilowattrel": 13,
         "Lotad": 72,
@@ -129,7 +129,7 @@
         "Zigzagoon": 20,
         "Weedle": 77,
         "Flamigo": 52,
-        "Lillipup": 56,
+        "Lillipup": 57,
         "Shinx": 59,
         "Bounsweet": 40,
         "Noibat": 17,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 14,
-        "Roggenrola": 55,
+        "Roggenrola": 56,
         "Pidove": 57,
         "Dragapult": 6,
         "Rattata": 29,
@@ -170,7 +170,7 @@
         "Flareon": 6,
         "Gastly": 45,
         "Taillow": 17,
-        "Swinub": 51,
+        "Swinub": 52,
         "Inkay": 20,
         "Gible": 35,
         "Rookidee": 33,
@@ -407,7 +407,7 @@
         "Maschiff": 44,
         "Rufflet": 21,
         "Kabutops": 6,
-        "Dondozo": 40,
+        "Dondozo": 41,
         "Pansear": 15,
         "Cutiefly": 10,
         "Peakychu": 34,
@@ -520,7 +520,7 @@
         "Victreebel": 1,
         "Arctibax": 13,
         "Foongus": 15,
-        "Pansage": 8,
+        "Pansage": 9,
         "Cranidos": 15,
         "Spewpa": 12,
         "Tyrunt": 10,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11732,
-      "last_spawn": "2026-06-24T16:26:07.233587"
+      "total_spawns": 11738,
+      "last_spawn": "2026-06-24T16:26:47.201777"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16135,
+    "total_spawns": 16141,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
