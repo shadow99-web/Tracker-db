@@ -61,7 +61,7 @@
         "Bramblin": 60,
         "Yanma": 11,
         "Larvesta": 24,
-        "Beldum": 43,
+        "Beldum": 44,
         "Ducklett": 10,
         "Lokix": 15,
         "Glimmora": 16,
@@ -293,7 +293,7 @@
         "Simisage": 3,
         "Jellicent": 4,
         "Torkoal": 3,
-        "Ferroseed": 17,
+        "Ferroseed": 18,
         "Brionne": 8,
         "Pancham": 14,
         "Venipede": 67,
@@ -535,7 +535,7 @@
         "Trevenant": 7,
         "Trubbish": 6,
         "Zorua": 9,
-        "Archen": 20,
+        "Archen": 21,
         "Oinkologne": 14,
         "Onix": 10,
         "Vanilluxe": 2,
@@ -575,7 +575,7 @@
         "Cascoon": 9,
         "Tentacruel": 6,
         "Nuzleaf": 9,
-        "Scorbunny": 16,
+        "Scorbunny": 17,
         "Huntail": 6,
         "Galarian meowth": 1,
         "Spoink": 5,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11758,
-      "last_spawn": "2026-06-24T16:28:57.215791"
+      "total_spawns": 11762,
+      "last_spawn": "2026-06-24T16:29:27.307751"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16161,
+    "total_spawns": 16165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
