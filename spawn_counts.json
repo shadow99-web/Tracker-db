@@ -36,13 +36,13 @@
         "Escavalier": 6,
         "Dratini": 38,
         "Kilowattrel": 12,
-        "Lotad": 71,
+        "Lotad": 72,
         "Qwilfish": 5,
         "Trapinch": 59,
         "Toedscool": 45,
         "Fletchling": 41,
         "Skiploom": 15,
-        "Timburr": 53,
+        "Timburr": 54,
         "Dj rotom": 44,
         "Surskit": 23,
         "Seedot": 41,
@@ -521,7 +521,7 @@
         "Arctibax": 12,
         "Foongus": 15,
         "Pansage": 8,
-        "Cranidos": 14,
+        "Cranidos": 15,
         "Spewpa": 11,
         "Tyrunt": 10,
         "Garganacl": 1,
@@ -717,7 +717,7 @@
         "Hydrapple": 1,
         "Emolga": 3,
         "Tsareena": 3,
-        "Blissey": 3,
+        "Blissey": 4,
         "Blastoise": 2,
         "Breloom": 3,
         "Zamazenta": 1,
@@ -934,7 +934,7 @@
         "Druddigon": 2,
         "Honchkrow": 2,
         "Pyukumuku": 2,
-        "Machoke": 5,
+        "Machoke": 6,
         "Sunshine cherrim": 1,
         "Beautifly": 2,
         "Ting-lu": 1,
@@ -945,7 +945,7 @@
         "Giratina": 1,
         "Iron treads": 1,
         "Meowstic": 2,
-        "Luxray": 2,
+        "Luxray": 3,
         "Latias": 1,
         "Unown n": 1,
         "Unown exclamation": 1,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11460,
-      "last_spawn": "2026-06-24T15:55:17.248263"
+      "total_spawns": 11466,
+      "last_spawn": "2026-06-24T15:55:57.232927"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15857,
+    "total_spawns": 15863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
