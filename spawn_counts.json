@@ -103,7 +103,7 @@
         "Veluza": 54,
         "Barboach": 16,
         "Klink": 31,
-        "Honedge": 58,
+        "Honedge": 59,
         "Wingull": 15,
         "Salamence": 1,
         "Drakloak": 11,
@@ -131,7 +131,7 @@
         "Flamigo": 43,
         "Lillipup": 47,
         "Shinx": 48,
-        "Bounsweet": 31,
+        "Bounsweet": 32,
         "Noibat": 15,
         "Toxicroak": 5,
         "Charcadet": 51,
@@ -410,7 +410,7 @@
         "Dondozo": 32,
         "Pansear": 11,
         "Cutiefly": 10,
-        "Peakychu": 30,
+        "Peakychu": 31,
         "Armarouge": 9,
         "Tyrantrum": 1,
         "Larvitar": 18,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9369,
-      "last_spawn": "2026-06-24T09:13:37.179031"
+      "total_spawns": 9372,
+      "last_spawn": "2026-06-24T09:13:57.112855"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1037,10 +1037,11 @@
         "Lairon": 1,
         "Impidimp": 1,
         "Solosis": 1,
-        "Brambleghast": 1
+        "Brambleghast": 1,
+        "Rellor": 1
       },
-      "total_spawns": 90,
-      "last_spawn": "2026-06-24T09:13:16.046165"
+      "total_spawns": 91,
+      "last_spawn": "2026-06-24T09:18:29.939396"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1050,7 +1051,7 @@
     }
   },
   "global": {
-    "total_spawns": 13746,
+    "total_spawns": 13750,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
