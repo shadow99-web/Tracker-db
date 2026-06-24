@@ -27,7 +27,7 @@
         "Gothita": 42,
         "Impidimp": 39,
         "Charmander": 20,
-        "Morelull": 7,
+        "Morelull": 8,
         "Abra": 47,
         "Sandile": 51,
         "Sandygast": 15,
@@ -282,7 +282,7 @@
         "Crocalor": 20,
         "Cryogonal": 2,
         "Eternatus": 1,
-        "Gholdengo": 11,
+        "Gholdengo": 12,
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
@@ -366,7 +366,7 @@
         "Finizen": 48,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 32,
+        "Caterpie": 33,
         "Carvanha": 12,
         "Luxio": 12,
         "Treecko": 19,
@@ -642,7 +642,7 @@
         "East sea shellos": 6,
         "Corsola": 8,
         "Venomoth": 5,
-        "Trumbeak": 9,
+        "Trumbeak": 10,
         "Aerodactyl": 4,
         "Igglybuff": 6,
         "Archeops": 4,
@@ -818,7 +818,7 @@
         "Galarian weezing": 1,
         "Gigalith": 1,
         "Indeedee": 3,
-        "Amped toxtricity": 4,
+        "Amped toxtricity": 5,
         "Galarian linoone": 2,
         "Xatu": 4,
         "Galarian corsola": 1,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10082,
-      "last_spawn": "2026-06-24T11:05:17.995295"
+      "total_spawns": 10087,
+      "last_spawn": "2026-06-24T11:05:52.594488"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14467,
+    "total_spawns": 14472,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
