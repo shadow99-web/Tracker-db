@@ -32,7 +32,7 @@
         "Sandile": 53,
         "Sandygast": 15,
         "Litwick": 76,
-        "Grubbin": 41,
+        "Grubbin": 42,
         "Escavalier": 6,
         "Dratini": 33,
         "Kilowattrel": 11,
@@ -50,7 +50,7 @@
         "Greavard": 49,
         "Slugma": 13,
         "Grotle": 9,
-        "Porygon": 51,
+        "Porygon": 52,
         "Zubat": 58,
         "Vanillish": 13,
         "Tadbulb": 48,
@@ -105,7 +105,7 @@
         "Klink": 38,
         "Honedge": 62,
         "Wingull": 18,
-        "Salamence": 1,
+        "Salamence": 2,
         "Drakloak": 13,
         "Chewtle": 10,
         "Scizor": 2,
@@ -191,7 +191,7 @@
         "Thwackey": 14,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
-        "Pidgeotto": 14,
+        "Pidgeotto": 15,
         "Spearow": 16,
         "Helioptile": 10,
         "Hoothoot": 12,
@@ -254,7 +254,7 @@
         "Kommo-o": 1,
         "Dewott": 14,
         "Arrokuda": 14,
-        "Golett": 9,
+        "Golett": 10,
         "Vullaby": 10,
         "Cetitan": 12,
         "Cubone": 14,
@@ -975,8 +975,8 @@
         "Octillery": 1,
         "Coalossal": 1
       },
-      "total_spawns": 10442,
-      "last_spawn": "2026-06-24T13:01:37.358927"
+      "total_spawns": 10447,
+      "last_spawn": "2026-06-24T13:02:11.998007"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1070,7 +1070,7 @@
     }
   },
   "global": {
-    "total_spawns": 14828,
+    "total_spawns": 14833,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
