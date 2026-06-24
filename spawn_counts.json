@@ -63,7 +63,7 @@
         "Larvesta": 18,
         "Beldum": 30,
         "Ducklett": 7,
-        "Lokix": 11,
+        "Lokix": 12,
         "Glimmora": 16,
         "Starly": 45,
         "Tandemaus": 39,
@@ -128,7 +128,7 @@
         "Clamperl": 13,
         "Zigzagoon": 16,
         "Weedle": 60,
-        "Flamigo": 41,
+        "Flamigo": 42,
         "Lillipup": 45,
         "Shinx": 46,
         "Bounsweet": 30,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 1,
         "Toxapex": 2,
         "Lileep": 8,
-        "Rolycoly": 32,
+        "Rolycoly": 33,
         "Bronzor": 17,
         "Dartrix": 9,
         "Yellow flower florges": 3,
@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 10,
         "Charjabug": 10,
-        "Capsakid": 32,
+        "Capsakid": 33,
         "Revavroom": 15,
         "Exploud": 3,
         "Deino": 22,
@@ -398,7 +398,7 @@
         "Ursaluna": 2,
         "Furfrou": 2,
         "Sylveon": 1,
-        "Nosepass": 8,
+        "Nosepass": 9,
         "Persian": 2,
         "Lopunny": 2,
         "Squawkabilly": 14,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9156,
-      "last_spawn": "2026-06-24T08:48:57.150264"
+      "total_spawns": 9161,
+      "last_spawn": "2026-06-24T08:49:31.955974"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13532,
+    "total_spawns": 13537,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
