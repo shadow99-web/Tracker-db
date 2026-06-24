@@ -9,7 +9,7 @@
         "Drilbur": 13,
         "Pawmi": 56,
         "Electabuzz": 8,
-        "Rellor": 45,
+        "Rellor": 46,
         "Sandy burmy": 9,
         "Wiglett": 59,
         "Bombirdier": 45,
@@ -186,7 +186,7 @@
         "Luvdisc": 5,
         "Vigoroth": 20,
         "Skorupi": 12,
-        "Pikachu": 14,
+        "Pikachu": 15,
         "Blue plumage squawkabilly": 8,
         "Thwackey": 14,
         "Dusk lycanroc": 3,
@@ -413,7 +413,7 @@
         "Peakychu": 34,
         "Armarouge": 14,
         "Tyrantrum": 1,
-        "Larvitar": 23,
+        "Larvitar": 24,
         "Tentacool": 8,
         "Volcanion": 1,
         "Roaming gimmighoul": 36,
@@ -642,7 +642,7 @@
         "East sea shellos": 7,
         "Corsola": 8,
         "Venomoth": 7,
-        "Trumbeak": 14,
+        "Trumbeak": 15,
         "Aerodactyl": 5,
         "Igglybuff": 6,
         "Archeops": 4,
@@ -727,7 +727,7 @@
         "Ariados": 2,
         "Volbeat": 6,
         "Burmy": 3,
-        "Popplio": 12,
+        "Popplio": 13,
         "Mandibuzz": 4,
         "Walrein": 2,
         "Cinccino": 4,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11434,
-      "last_spawn": "2026-06-24T15:52:27.013967"
+      "total_spawns": 11439,
+      "last_spawn": "2026-06-24T15:52:57.159398"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15830,
+    "total_spawns": 15835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
