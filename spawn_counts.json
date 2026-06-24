@@ -89,7 +89,7 @@
         "Tropius": 2,
         "Poliwag": 49,
         "Metang": 8,
-        "Riolu": 10,
+        "Riolu": 11,
         "Exeggcute": 12,
         "Corphish": 9,
         "Hoppip": 41,
@@ -112,7 +112,7 @@
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 49,
-        "Frigibax": 47,
+        "Frigibax": 48,
         "Spheal": 67,
         "Swadloon": 14,
         "Flittle": 49,
@@ -305,7 +305,7 @@
         "Toxapex": 3,
         "Lileep": 9,
         "Rolycoly": 38,
-        "Bronzor": 20,
+        "Bronzor": 21,
         "Dartrix": 10,
         "Yellow flower florges": 3,
         "Zangoose": 6,
@@ -504,7 +504,7 @@
         "Alolan sandslash": 1,
         "Empoleon": 3,
         "Farigiraf": 15,
-        "Hakamo-o": 9,
+        "Hakamo-o": 10,
         "Glameow": 14,
         "Croagunk": 8,
         "Duraludon": 6,
@@ -923,7 +923,7 @@
         "Hattrem": 6,
         "Clefable": 3,
         "Serperior": 2,
-        "Lycanroc": 7,
+        "Lycanroc": 8,
         "Kingdra": 1,
         "Farfetch'd": 2,
         "Unown l": 1,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11111,
-      "last_spawn": "2026-06-24T14:16:57.340385"
+      "total_spawns": 11116,
+      "last_spawn": "2026-06-24T14:17:31.814905"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15498,
+    "total_spawns": 15503,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
