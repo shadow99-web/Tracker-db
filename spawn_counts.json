@@ -197,7 +197,7 @@
         "Hoothoot": 12,
         "Grookey": 17,
         "Meditite": 8,
-        "Toedscruel": 16,
+        "Toedscruel": 17,
         "Probopass": 4,
         "Scraggy": 18,
         "Rhydon": 16,
@@ -249,7 +249,7 @@
         "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 10,
-        "Tinkatink": 55,
+        "Tinkatink": 56,
         "Lechonk": 48,
         "Kommo-o": 1,
         "Dewott": 15,
@@ -518,11 +518,11 @@
         "Gabite": 4,
         "Hariyama": 3,
         "Victreebel": 1,
-        "Arctibax": 10,
+        "Arctibax": 11,
         "Foongus": 15,
         "Pansage": 8,
         "Cranidos": 13,
-        "Spewpa": 10,
+        "Spewpa": 11,
         "Tyrunt": 10,
         "Garganacl": 1,
         "Chinchou": 9,
@@ -985,10 +985,11 @@
         "Naganadel": 1,
         "Unown v": 1,
         "Koraidon": 1,
-        "Polteageist": 1
+        "Polteageist": 1,
+        "Slither wing": 1
       },
-      "total_spawns": 11034,
-      "last_spawn": "2026-06-24T14:08:27.085371"
+      "total_spawns": 11039,
+      "last_spawn": "2026-06-24T14:08:57.180360"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1083,7 +1084,7 @@
     }
   },
   "global": {
-    "total_spawns": 15421,
+    "total_spawns": 15426,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
