@@ -95,7 +95,7 @@
         "Hoppip": 40,
         "Sandslash": 1,
         "Kabuto": 13,
-        "Scatterbug": 42,
+        "Scatterbug": 43,
         "Pumpkaboo": 12,
         "Numel": 22,
         "Carracosta": 3,
@@ -250,7 +250,7 @@
         "Turtwig": 11,
         "Prinplup": 9,
         "Tinkatink": 50,
-        "Lechonk": 42,
+        "Lechonk": 43,
         "Kommo-o": 1,
         "Dewott": 14,
         "Arrokuda": 12,
@@ -315,7 +315,7 @@
         "Nacli": 29,
         "Munna": 9,
         "Pawniard": 11,
-        "Prof tangrowth": 28,
+        "Prof tangrowth": 29,
         "Jangmo-o": 21,
         "Trash wormadam": 4,
         "Quaxly": 10,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 30,
         "Summer sawsbuck": 6,
         "Delibird": 2,
-        "Ride cyclizar": 17,
+        "Ride cyclizar": 18,
         "Gothorita": 11,
         "Varoom": 38,
         "Yellow plumage squawkabilly": 14,
@@ -735,7 +735,7 @@
         "Azurill": 1,
         "Alolan rattata": 1,
         "Hippowdon": 3,
-        "Lumineon": 3,
+        "Lumineon": 4,
         "Thievul": 3,
         "Greedent": 5,
         "Ekans": 12,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10238,
-      "last_spawn": "2026-06-24T11:22:57.268652"
+      "total_spawns": 10243,
+      "last_spawn": "2026-06-24T11:23:31.630404"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14623,
+    "total_spawns": 14628,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
