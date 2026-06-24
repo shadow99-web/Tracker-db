@@ -32,7 +32,7 @@
         "Sandile": 56,
         "Sandygast": 16,
         "Litwick": 78,
-        "Grubbin": 46,
+        "Grubbin": 47,
         "Escavalier": 7,
         "Dratini": 38,
         "Kilowattrel": 13,
@@ -65,7 +65,7 @@
         "Ducklett": 10,
         "Lokix": 15,
         "Glimmora": 16,
-        "Starly": 63,
+        "Starly": 64,
         "Tandemaus": 46,
         "Smoliv": 68,
         "Gloom": 15,
@@ -259,7 +259,7 @@
         "Cetitan": 13,
         "Cubone": 15,
         "Gligar": 18,
-        "Tirtouga": 14,
+        "Tirtouga": 15,
         "Furret": 3,
         "Nincada": 23,
         "Fennekin": 22,
@@ -565,7 +565,7 @@
         "Golem": 2,
         "Slowking": 8,
         "Lilligant": 4,
-        "Rabsca": 7,
+        "Rabsca": 8,
         "Gulpin": 19,
         "Crawdaunt": 5,
         "Magmortar": 1,
@@ -619,7 +619,7 @@
         "Fraxure": 12,
         "Talonflame": 3,
         "Kleavor": 5,
-        "East sea gastrodon": 3,
+        "East sea gastrodon": 4,
         "Frillish": 12,
         "Manaphy": 1,
         "Gardevoir": 2,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 4,
+        "Typhlosion": 5,
         "Ariados": 2,
         "Volbeat": 6,
         "Burmy": 3,
@@ -995,8 +995,8 @@
         "Ledian": 2,
         "Cherrim": 1
       },
-      "total_spawns": 11659,
-      "last_spawn": "2026-06-24T16:17:47.083582"
+      "total_spawns": 11665,
+      "last_spawn": "2026-06-24T16:18:27.234218"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1103,7 +1103,7 @@
     }
   },
   "global": {
-    "total_spawns": 16062,
+    "total_spawns": 16068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
