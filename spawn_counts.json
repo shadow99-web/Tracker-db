@@ -126,7 +126,7 @@
         "Pikipek": 61,
         "Teddiursa": 43,
         "Clamperl": 16,
-        "Zigzagoon": 17,
+        "Zigzagoon": 18,
         "Weedle": 70,
         "Flamigo": 47,
         "Lillipup": 52,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 11,
         "Murkrow": 12,
-        "Bellsprout": 57,
+        "Bellsprout": 58,
         "Mudbray": 13,
         "Dreepy": 44,
         "Tinkaton": 4,
@@ -408,7 +408,7 @@
         "Rufflet": 18,
         "Kabutops": 6,
         "Dondozo": 38,
-        "Pansear": 14,
+        "Pansear": 15,
         "Cutiefly": 10,
         "Peakychu": 34,
         "Armarouge": 12,
@@ -445,7 +445,7 @@
         "Plusle": 3,
         "Skrelp": 6,
         "Raticate": 9,
-        "Wugtrio": 10,
+        "Wugtrio": 11,
         "Bellibolt": 8,
         "Morgrem": 8,
         "Misdreavus": 6,
@@ -615,7 +615,7 @@
         "Magby": 5,
         "Wigglytuff": 3,
         "Venusaur": 4,
-        "Mismagius": 2,
+        "Mismagius": 3,
         "Fraxure": 9,
         "Talonflame": 3,
         "Kleavor": 4,
@@ -656,7 +656,7 @@
         "Mothim": 4,
         "Whirlipede": 13,
         "Absol": 3,
-        "Annihilape": 6,
+        "Annihilape": 7,
         "Bouffalant": 5,
         "Crabrawler": 10,
         "Budew": 4,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10562,
-      "last_spawn": "2026-06-24T13:15:07.541643"
+      "total_spawns": 10568,
+      "last_spawn": "2026-06-24T13:15:47.262075"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14948,
+    "total_spawns": 14954,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
