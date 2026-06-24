@@ -29,7 +29,7 @@
         "Charmander": 20,
         "Morelull": 8,
         "Abra": 51,
-        "Sandile": 53,
+        "Sandile": 54,
         "Sandygast": 15,
         "Litwick": 76,
         "Grubbin": 42,
@@ -87,7 +87,7 @@
         "Togepi": 38,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 46,
+        "Poliwag": 47,
         "Metang": 8,
         "Riolu": 10,
         "Exeggcute": 12,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 54,
-        "Orthworm": 48,
+        "Orthworm": 49,
         "Marill": 13,
         "Joltik": 22,
         "Politoed": 3,
@@ -643,7 +643,7 @@
         "Corsola": 8,
         "Venomoth": 5,
         "Trumbeak": 10,
-        "Aerodactyl": 4,
+        "Aerodactyl": 5,
         "Igglybuff": 6,
         "Archeops": 4,
         "Shiftry": 1,
@@ -888,7 +888,7 @@
         "White-striped basculin": 2,
         "Ampharos": 3,
         "Whiscash": 2,
-        "Heracross": 2,
+        "Heracross": 3,
         "Orange flower floette": 1,
         "Ambipom": 4,
         "Aqua breed tauros": 1,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10537,
-      "last_spawn": "2026-06-24T13:12:17.138578"
+      "total_spawns": 10542,
+      "last_spawn": "2026-06-24T13:12:51.696651"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14923,
+    "total_spawns": 14928,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
