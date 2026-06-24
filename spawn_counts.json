@@ -76,7 +76,7 @@
         "Froslass": 5,
         "Tarountula": 41,
         "Hatterene": 3,
-        "Phantump": 19,
+        "Phantump": 20,
         "Duosion": 15,
         "Amaura": 11,
         "Gimmighoul": 46,
@@ -86,7 +86,7 @@
         "Slakoth": 60,
         "Togepi": 39,
         "Falinks": 5,
-        "Tropius": 1,
+        "Tropius": 2,
         "Poliwag": 49,
         "Metang": 8,
         "Riolu": 10,
@@ -141,7 +141,7 @@
         "Pidgey": 66,
         "Rhyhorn": 45,
         "Sentret": 16,
-        "Yungoos": 6,
+        "Yungoos": 7,
         "Diglett": 20,
         "Doduo": 12,
         "Lairon": 16,
@@ -213,7 +213,7 @@
         "Fidough": 29,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 56,
+        "Tynamo": 57,
         "Orthworm": 49,
         "Marill": 13,
         "Joltik": 22,
@@ -404,7 +404,7 @@
         "Squawkabilly": 16,
         "Electrike": 14,
         "Drampa": 3,
-        "Maschiff": 37,
+        "Maschiff": 38,
         "Rufflet": 20,
         "Kabutops": 6,
         "Dondozo": 39,
@@ -616,7 +616,7 @@
         "Wigglytuff": 3,
         "Venusaur": 4,
         "Mismagius": 3,
-        "Fraxure": 10,
+        "Fraxure": 11,
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
@@ -984,8 +984,8 @@
         "Great tusk": 1,
         "Naganadel": 1
       },
-      "total_spawns": 10851,
-      "last_spawn": "2026-06-24T13:47:47.163992"
+      "total_spawns": 10857,
+      "last_spawn": "2026-06-24T13:48:27.178092"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1080,7 +1080,7 @@
     }
   },
   "global": {
-    "total_spawns": 15238,
+    "total_spawns": 15244,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
