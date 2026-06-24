@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 50,
         "Frigibax": 51,
-        "Spheal": 67,
+        "Spheal": 68,
         "Swadloon": 14,
         "Flittle": 50,
         "Unfezant": 4,
@@ -168,7 +168,7 @@
         "Klawf": 53,
         "Vanillite": 43,
         "Flareon": 6,
-        "Gastly": 44,
+        "Gastly": 45,
         "Taillow": 17,
         "Swinub": 48,
         "Inkay": 18,
@@ -250,7 +250,7 @@
         "Turtwig": 11,
         "Prinplup": 12,
         "Tinkatink": 60,
-        "Lechonk": 49,
+        "Lechonk": 50,
         "Kommo-o": 1,
         "Dewott": 15,
         "Arrokuda": 15,
@@ -328,7 +328,7 @@
         "Tinkaton": 4,
         "Corviknight": 5,
         "Froakie": 17,
-        "Nymble": 56,
+        "Nymble": 57,
         "Ferrothorn": 2,
         "Servine": 11,
         "Blitzle": 14,
@@ -648,7 +648,7 @@
         "Archeops": 4,
         "Shiftry": 1,
         "Arbok": 4,
-        "Stretchy tatsugiri": 17,
+        "Stretchy tatsugiri": 18,
         "Mareanie": 12,
         "Seadra": 7,
         "Beheeyem": 4,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11439,
-      "last_spawn": "2026-06-24T15:52:57.159398"
+      "total_spawns": 11444,
+      "last_spawn": "2026-06-24T15:53:32.120970"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15835,
+    "total_spawns": 15840,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
