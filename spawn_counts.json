@@ -58,7 +58,7 @@
         "Whismur": 39,
         "Monferno": 16,
         "Skwovet": 7,
-        "Bramblin": 51,
+        "Bramblin": 52,
         "Yanma": 10,
         "Larvesta": 22,
         "Beldum": 33,
@@ -451,7 +451,7 @@
         "Misdreavus": 6,
         "Seviper": 2,
         "Scovillain": 10,
-        "Sunkern": 7,
+        "Sunkern": 8,
         "Drizzile": 5,
         "Sunflora": 4,
         "Passimian": 3,
@@ -539,7 +539,7 @@
         "Oinkologne": 11,
         "Onix": 9,
         "Vanilluxe": 2,
-        "Jolteon": 4,
+        "Jolteon": 5,
         "Pawmot": 5,
         "Skiddo": 9,
         "Slowbro": 6,
@@ -712,7 +712,7 @@
         "Durant": 2,
         "Grovyle": 9,
         "Snowy castform": 1,
-        "Gengar": 4,
+        "Gengar": 5,
         "Forretress": 2,
         "Hydrapple": 1,
         "Emolga": 3,
@@ -969,8 +969,8 @@
         "Azumarill": 1,
         "Galarian farfetch'd": 1
       },
-      "total_spawns": 9823,
-      "last_spawn": "2026-06-24T10:36:17.195634"
+      "total_spawns": 9827,
+      "last_spawn": "2026-06-24T10:36:47.261040"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1063,7 +1063,7 @@
     }
   },
   "global": {
-    "total_spawns": 14208,
+    "total_spawns": 14212,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
