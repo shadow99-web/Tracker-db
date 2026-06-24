@@ -127,7 +127,7 @@
         "Teddiursa": 50,
         "Clamperl": 17,
         "Zigzagoon": 21,
-        "Weedle": 78,
+        "Weedle": 79,
         "Flamigo": 52,
         "Lillipup": 57,
         "Shinx": 61,
@@ -249,7 +249,7 @@
         "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 12,
-        "Tinkatink": 60,
+        "Tinkatink": 61,
         "Lechonk": 53,
         "Kommo-o": 1,
         "Dewott": 15,
@@ -276,7 +276,7 @@
         "Bagon": 23,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 18,
+        "Rowlet": 19,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 21,
@@ -525,7 +525,7 @@
         "Spewpa": 13,
         "Tyrunt": 10,
         "Garganacl": 1,
-        "Chinchou": 9,
+        "Chinchou": 10,
         "Maushold": 15,
         "Bastiodon": 1,
         "Floatzel": 2,
@@ -870,7 +870,7 @@
         "Illumise": 5,
         "Scrafty": 1,
         "Swanna": 4,
-        "Grumpig": 4,
+        "Grumpig": 5,
         "Basculegion": 1,
         "Magnezone": 2,
         "Alolan graveler": 1,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11919,
-      "last_spawn": "2026-06-24T16:47:12.072362"
+      "total_spawns": 11924,
+      "last_spawn": "2026-06-24T16:47:47.065585"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16322,
+    "total_spawns": 16327,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
