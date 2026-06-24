@@ -135,7 +135,7 @@
         "Noibat": 17,
         "Toxicroak": 5,
         "Charcadet": 65,
-        "Croconaw": 13,
+        "Croconaw": 14,
         "Phanpy": 9,
         "Brambleghast": 14,
         "Pidgey": 71,
@@ -175,7 +175,7 @@
         "Gible": 35,
         "Rookidee": 33,
         "Minccino": 16,
-        "Wurmple": 41,
+        "Wurmple": 42,
         "Binacle": 18,
         "Grafaiai": 9,
         "Quilladin": 7,
@@ -323,7 +323,7 @@
         "Oshawott": 13,
         "Murkrow": 14,
         "Bellsprout": 65,
-        "Mudbray": 14,
+        "Mudbray": 15,
         "Dreepy": 47,
         "Tinkaton": 4,
         "Corviknight": 5,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 20,
         "Gothorita": 11,
         "Varoom": 46,
-        "Yellow plumage squawkabilly": 17,
+        "Yellow plumage squawkabilly": 18,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
         "Grapploct": 2,
@@ -934,7 +934,7 @@
         "Druddigon": 2,
         "Honchkrow": 2,
         "Pyukumuku": 2,
-        "Machoke": 7,
+        "Machoke": 8,
         "Sunshine cherrim": 1,
         "Beautifly": 2,
         "Ting-lu": 1,
@@ -993,10 +993,11 @@
         "Unown p": 1,
         "Hisuian samurott": 1,
         "Ledian": 2,
-        "Cherrim": 1
+        "Cherrim": 1,
+        "Blade aegislash": 1
       },
-      "total_spawns": 11720,
-      "last_spawn": "2026-06-24T16:24:47.395706"
+      "total_spawns": 11726,
+      "last_spawn": "2026-06-24T16:25:27.222552"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1103,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16123,
+    "total_spawns": 16129,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
