@@ -171,7 +171,7 @@
         "Gastly": 39,
         "Taillow": 13,
         "Swinub": 39,
-        "Inkay": 15,
+        "Inkay": 16,
         "Gible": 24,
         "Rookidee": 26,
         "Minccino": 14,
@@ -201,7 +201,7 @@
         "Probopass": 3,
         "Scraggy": 17,
         "Rhydon": 13,
-        "Silcoon": 8,
+        "Silcoon": 9,
         "Totodile": 11,
         "Dodrio": 4,
         "Cufant": 10,
@@ -263,7 +263,7 @@
         "Furret": 2,
         "Nincada": 17,
         "Fennekin": 20,
-        "Quaxwell": 5,
+        "Quaxwell": 6,
         "Vibrava": 10,
         "Loudred": 6,
         "Ceruledge": 20,
@@ -279,10 +279,10 @@
         "Rowlet": 13,
         "Galarian slowpoke": 1,
         "Poliwhirl": 9,
-        "Crocalor": 18,
+        "Crocalor": 19,
         "Cryogonal": 2,
         "Eternatus": 1,
-        "Gholdengo": 10,
+        "Gholdengo": 11,
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9260,
-      "last_spawn": "2026-06-24T09:00:57.248936"
+      "total_spawns": 9265,
+      "last_spawn": "2026-06-24T09:01:37.385622"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13636,
+    "total_spawns": 13641,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
