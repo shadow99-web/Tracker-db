@@ -43,7 +43,7 @@
         "Fletchling": 47,
         "Skiploom": 17,
         "Timburr": 57,
-        "Dj rotom": 51,
+        "Dj rotom": 52,
         "Surskit": 24,
         "Seedot": 45,
         "Skitty": 12,
@@ -79,7 +79,7 @@
         "Phantump": 20,
         "Duosion": 17,
         "Amaura": 11,
-        "Gimmighoul": 55,
+        "Gimmighoul": 56,
         "Baltoy": 25,
         "Mareep": 53,
         "Garbodor": 3,
@@ -414,7 +414,7 @@
         "Armarouge": 15,
         "Tyrantrum": 1,
         "Larvitar": 27,
-        "Tentacool": 8,
+        "Tentacool": 9,
         "Volcanion": 1,
         "Roaming gimmighoul": 38,
         "Summer sawsbuck": 6,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 3,
         "Wormadam": 3,
-        "Axew": 41,
+        "Axew": 42,
         "Trevenant": 7,
         "Trubbish": 6,
         "Zorua": 9,
@@ -670,7 +670,7 @@
         "Appletun": 2,
         "Krookodile": 7,
         "Primeape": 4,
-        "Grimer": 8,
+        "Grimer": 9,
         "Crabominable": 4,
         "Quaquaval": 4,
         "Sprigatito": 19,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12333,
-      "last_spawn": "2026-06-24T18:18:07.043639"
+      "total_spawns": 12338,
+      "last_spawn": "2026-06-24T18:18:37.093472"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1110,10 +1110,11 @@
         "Rabsca": 1,
         "Floragato": 1,
         "Watchog": 1,
-        "Boltund": 1
+        "Boltund": 1,
+        "Lillipup": 1
       },
-      "total_spawns": 129,
-      "last_spawn": "2026-06-24T18:11:47.933146"
+      "total_spawns": 130,
+      "last_spawn": "2026-06-24T18:18:15.153979"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1123,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16749,
+    "total_spawns": 16755,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
