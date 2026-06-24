@@ -87,7 +87,7 @@
         "Togepi": 45,
         "Falinks": 5,
         "Tropius": 2,
-        "Poliwag": 50,
+        "Poliwag": 51,
         "Metang": 8,
         "Riolu": 11,
         "Exeggcute": 13,
@@ -179,7 +179,7 @@
         "Binacle": 18,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 60,
+        "Geodude": 61,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -350,7 +350,7 @@
         "Dwebble": 13,
         "Steenee": 13,
         "Darumaka": 20,
-        "Arboliva": 4,
+        "Arboliva": 5,
         "Ledyba": 13,
         "Spritzee": 10,
         "Swirlix": 10,
@@ -446,7 +446,7 @@
         "Skrelp": 8,
         "Raticate": 9,
         "Wugtrio": 12,
-        "Bellibolt": 9,
+        "Bellibolt": 10,
         "Morgrem": 9,
         "Misdreavus": 10,
         "Seviper": 2,
@@ -505,7 +505,7 @@
         "Empoleon": 3,
         "Farigiraf": 15,
         "Hakamo-o": 10,
-        "Glameow": 15,
+        "Glameow": 16,
         "Croagunk": 8,
         "Duraludon": 6,
         "Sawk": 3,
@@ -667,7 +667,7 @@
         "White flower floette": 3,
         "Skeledirge": 6,
         "Amoonguss": 6,
-        "Appletun": 1,
+        "Appletun": 2,
         "Krookodile": 5,
         "Primeape": 4,
         "Grimer": 8,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11390,
-      "last_spawn": "2026-06-24T15:47:27.690110"
+      "total_spawns": 11396,
+      "last_spawn": "2026-06-24T15:48:07.494549"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1096,7 +1096,7 @@
     }
   },
   "global": {
-    "total_spawns": 15786,
+    "total_spawns": 15792,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
