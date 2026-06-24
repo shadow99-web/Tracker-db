@@ -62,9 +62,9 @@
         "Yanma": 12,
         "Larvesta": 26,
         "Beldum": 46,
-        "Ducklett": 11,
+        "Ducklett": 12,
         "Lokix": 15,
-        "Glimmora": 17,
+        "Glimmora": 18,
         "Starly": 65,
         "Tandemaus": 49,
         "Smoliv": 70,
@@ -579,7 +579,7 @@
         "Huntail": 6,
         "Galarian meowth": 1,
         "Spoink": 6,
-        "Scyther": 16,
+        "Scyther": 17,
         "Anorith": 19,
         "Meowth": 11,
         "Combee": 10,
@@ -823,7 +823,7 @@
         "Xatu": 4,
         "Galarian corsola": 1,
         "Cinderace": 4,
-        "Magcargo": 2,
+        "Magcargo": 3,
         "Sensu oricorio": 5,
         "Rhyperior": 3,
         "Linoone": 4,
@@ -998,10 +998,11 @@
         "Miltank": 1,
         "Tyranitar": 1,
         "Inteleon": 1,
-        "Rotom drone": 1
+        "Rotom drone": 1,
+        "Aegislash": 1
       },
-      "total_spawns": 12281,
-      "last_spawn": "2026-06-24T17:27:37.588057"
+      "total_spawns": 12286,
+      "last_spawn": "2026-06-24T17:28:11.832544"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1114,7 @@
     }
   },
   "global": {
-    "total_spawns": 16689,
+    "total_spawns": 16694,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
