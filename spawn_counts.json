@@ -102,7 +102,7 @@
         "Smearguru": 34,
         "Veluza": 54,
         "Barboach": 16,
-        "Klink": 32,
+        "Klink": 33,
         "Honedge": 59,
         "Wingull": 15,
         "Salamence": 1,
@@ -138,7 +138,7 @@
         "Croconaw": 13,
         "Phanpy": 7,
         "Brambleghast": 11,
-        "Pidgey": 58,
+        "Pidgey": 59,
         "Rhyhorn": 40,
         "Sentret": 13,
         "Yungoos": 5,
@@ -165,7 +165,7 @@
         "Piplup": 7,
         "Kakuna": 15,
         "Weepinbell": 9,
-        "Klawf": 42,
+        "Klawf": 43,
         "Vanillite": 37,
         "Flareon": 4,
         "Gastly": 39,
@@ -360,13 +360,13 @@
         "Banette": 2,
         "Three-segment dudunsparce": 3,
         "Fearow": 3,
-        "Mankey": 11,
+        "Mankey": 12,
         "Bidoof": 12,
         "Quilava": 19,
         "Finizen": 47,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 28,
+        "Caterpie": 29,
         "Carvanha": 11,
         "Luxio": 11,
         "Treecko": 19,
@@ -407,7 +407,7 @@
         "Maschiff": 31,
         "Rufflet": 15,
         "Kabutops": 4,
-        "Dondozo": 33,
+        "Dondozo": 34,
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 31,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9484,
-      "last_spawn": "2026-06-24T09:57:47.045796"
+      "total_spawns": 9490,
+      "last_spawn": "2026-06-24T09:58:26.977672"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13868,
+    "total_spawns": 13874,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
