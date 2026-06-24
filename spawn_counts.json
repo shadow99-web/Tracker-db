@@ -39,9 +39,9 @@
         "Lotad": 68,
         "Qwilfish": 5,
         "Trapinch": 58,
-        "Toedscool": 42,
+        "Toedscool": 43,
         "Fletchling": 37,
-        "Skiploom": 14,
+        "Skiploom": 15,
         "Timburr": 50,
         "Dj rotom": 43,
         "Surskit": 23,
@@ -339,7 +339,7 @@
         "Staryu": 8,
         "Samurott": 2,
         "Torchic": 20,
-        "Sobble": 22,
+        "Sobble": 23,
         "Mudkip": 14,
         "Charjabug": 10,
         "Capsakid": 44,
@@ -628,7 +628,7 @@
         "Tatsugiri": 16,
         "Nidorino": 8,
         "Wailmer": 13,
-        "Krabby": 14,
+        "Krabby": 15,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 4,
@@ -983,10 +983,11 @@
         "Wash rotom": 1,
         "Great tusk": 1,
         "Naganadel": 1,
-        "Unown v": 1
+        "Unown v": 1,
+        "Koraidon": 1
       },
-      "total_spawns": 10968,
-      "last_spawn": "2026-06-24T14:00:51.919967"
+      "total_spawns": 10973,
+      "last_spawn": "2026-06-24T14:01:27.275124"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1082,7 @@
     }
   },
   "global": {
-    "total_spawns": 15355,
+    "total_spawns": 15360,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
