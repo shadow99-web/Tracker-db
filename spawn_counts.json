@@ -256,7 +256,7 @@
         "Arrokuda": 11,
         "Golett": 9,
         "Vullaby": 8,
-        "Cetitan": 11,
+        "Cetitan": 12,
         "Cubone": 13,
         "Gligar": 16,
         "Tirtouga": 14,
@@ -266,7 +266,7 @@
         "Quaxwell": 7,
         "Vibrava": 11,
         "Loudred": 6,
-        "Ceruledge": 20,
+        "Ceruledge": 21,
         "Houndour": 12,
         "Glimmet": 45,
         "Goomy": 23,
@@ -329,7 +329,7 @@
         "Corviknight": 4,
         "Froakie": 12,
         "Nymble": 49,
-        "Ferrothorn": 1,
+        "Ferrothorn": 2,
         "Servine": 7,
         "Blitzle": 11,
         "Musharna": 2,
@@ -468,7 +468,7 @@
         "Roselia": 4,
         "Shelgon": 10,
         "Buizel": 12,
-        "Arctozolt": 5,
+        "Arctozolt": 6,
         "Snorunt": 7,
         "Bunnelby": 10,
         "Gulping cramorant": 2,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9341,
-      "last_spawn": "2026-06-24T09:10:17.124505"
+      "total_spawns": 9345,
+      "last_spawn": "2026-06-24T09:10:51.672571"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13717,
+    "total_spawns": 13721,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
