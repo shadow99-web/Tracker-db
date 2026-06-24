@@ -12,7 +12,7 @@
         "Rellor": 46,
         "Sandy burmy": 9,
         "Wiglett": 61,
-        "Bombirdier": 46,
+        "Bombirdier": 47,
         "Litleo": 13,
         "Purrloin": 10,
         "Tranquill": 14,
@@ -137,7 +137,7 @@
         "Charcadet": 64,
         "Croconaw": 13,
         "Phanpy": 9,
-        "Brambleghast": 13,
+        "Brambleghast": 14,
         "Pidgey": 71,
         "Rhyhorn": 49,
         "Sentret": 16,
@@ -207,7 +207,7 @@
         "Cufant": 14,
         "Tympole": 44,
         "Swellow": 4,
-        "Aipom": 9,
+        "Aipom": 10,
         "Growlithe": 12,
         "Sewaddle": 45,
         "Fidough": 30,
@@ -320,7 +320,7 @@
         "Trash wormadam": 4,
         "Quaxly": 13,
         "Gossifleur": 15,
-        "Oshawott": 12,
+        "Oshawott": 13,
         "Murkrow": 14,
         "Bellsprout": 65,
         "Mudbray": 14,
@@ -459,7 +459,7 @@
         "Cherubi": 10,
         "Cradily": 4,
         "Vulpix": 13,
-        "Paras": 12,
+        "Paras": 13,
         "Herdier": 19,
         "Pineco": 11,
         "Chikorita": 14,
@@ -750,7 +750,7 @@
         "Frogadier": 14,
         "Dewpider": 9,
         "Poltchageist": 3,
-        "Incineroar": 2,
+        "Incineroar": 3,
         "Morpeko": 7,
         "Parasect": 5,
         "Alolan muk": 1,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11575,
-      "last_spawn": "2026-06-24T16:08:07.387154"
+      "total_spawns": 11581,
+      "last_spawn": "2026-06-24T16:08:47.452065"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1102,7 +1102,7 @@
     }
   },
   "global": {
-    "total_spawns": 15978,
+    "total_spawns": 15984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
