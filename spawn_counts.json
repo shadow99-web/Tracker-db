@@ -58,7 +58,7 @@
         "Whismur": 40,
         "Monferno": 16,
         "Skwovet": 7,
-        "Bramblin": 52,
+        "Bramblin": 53,
         "Yanma": 10,
         "Larvesta": 22,
         "Beldum": 33,
@@ -383,7 +383,7 @@
         "Wooloo": 10,
         "Drifloon": 9,
         "Golbat": 14,
-        "Swablu": 12,
+        "Swablu": 13,
         "Shellder": 13,
         "Crobat": 8,
         "Sandshrew": 10,
@@ -402,7 +402,7 @@
         "Persian": 2,
         "Lopunny": 2,
         "Squawkabilly": 14,
-        "Electrike": 13,
+        "Electrike": 14,
         "Drampa": 2,
         "Maschiff": 34,
         "Rufflet": 17,
@@ -460,13 +460,13 @@
         "Cradily": 3,
         "Vulpix": 12,
         "Paras": 12,
-        "Herdier": 13,
+        "Herdier": 14,
         "Pineco": 11,
         "Chikorita": 11,
         "Woobat": 12,
         "Wobbuffet": 3,
         "Roselia": 5,
-        "Shelgon": 11,
+        "Shelgon": 12,
         "Buizel": 12,
         "Arctozolt": 6,
         "Snorunt": 8,
@@ -912,7 +912,7 @@
         "Leafeon": 1,
         "Ludicolo": 4,
         "Eldegoss": 4,
-        "Dracozolt": 2,
+        "Dracozolt": 3,
         "Galarian rapidash": 1,
         "Skuntank": 1,
         "Gogoat": 2,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 10045,
-      "last_spawn": "2026-06-24T11:01:07.163838"
+      "total_spawns": 10051,
+      "last_spawn": "2026-06-24T11:01:47.464744"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14430,
+    "total_spawns": 14436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
