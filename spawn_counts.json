@@ -47,7 +47,7 @@
         "Surskit": 23,
         "Seedot": 41,
         "Skitty": 10,
-        "Greavard": 52,
+        "Greavard": 53,
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 57,
@@ -411,7 +411,7 @@
         "Pansear": 15,
         "Cutiefly": 10,
         "Peakychu": 34,
-        "Armarouge": 13,
+        "Armarouge": 14,
         "Tyrantrum": 1,
         "Larvitar": 23,
         "Tentacool": 8,
@@ -589,7 +589,7 @@
         "Blaze breed tauros": 1,
         "Wimpod": 11,
         "Torterra": 2,
-        "Darmanitan": 2,
+        "Darmanitan": 3,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 12,
@@ -779,7 +779,7 @@
         "Beedrill": 5,
         "Whimsicott": 4,
         "Wishiwashi": 6,
-        "Cofagrigus": 3,
+        "Cofagrigus": 4,
         "Camerupt": 2,
         "Castform": 8,
         "Weavile": 1,
@@ -824,7 +824,7 @@
         "Galarian corsola": 1,
         "Cinderace": 4,
         "Magcargo": 2,
-        "Sensu oricorio": 4,
+        "Sensu oricorio": 5,
         "Rhyperior": 3,
         "Linoone": 3,
         "Omastar": 2,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11353,
-      "last_spawn": "2026-06-24T15:43:11.752635"
+      "total_spawns": 11358,
+      "last_spawn": "2026-06-24T15:43:47.148305"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1095,7 +1095,7 @@
     }
   },
   "global": {
-    "total_spawns": 15748,
+    "total_spawns": 15753,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
