@@ -11,7 +11,7 @@
         "Electabuzz": 8,
         "Rellor": 49,
         "Sandy burmy": 9,
-        "Wiglett": 63,
+        "Wiglett": 64,
         "Bombirdier": 51,
         "Litleo": 15,
         "Purrloin": 10,
@@ -175,7 +175,7 @@
         "Gible": 36,
         "Rookidee": 34,
         "Minccino": 18,
-        "Wurmple": 46,
+        "Wurmple": 47,
         "Binacle": 18,
         "Grafaiai": 10,
         "Quilladin": 7,
@@ -416,7 +416,7 @@
         "Larvitar": 27,
         "Tentacool": 9,
         "Volcanion": 1,
-        "Roaming gimmighoul": 38,
+        "Roaming gimmighoul": 39,
         "Summer sawsbuck": 6,
         "Delibird": 3,
         "Ride cyclizar": 20,
@@ -684,7 +684,7 @@
         "Blaziken": 4,
         "Stantler": 12,
         "Butterfree": 2,
-        "Koffing": 13,
+        "Koffing": 14,
         "Floragato": 8,
         "Seel": 11,
         "Shiinotic": 4,
@@ -932,7 +932,7 @@
         "Steelix": 1,
         "Excadrill": 3,
         "Druddigon": 3,
-        "Honchkrow": 2,
+        "Honchkrow": 3,
         "Pyukumuku": 2,
         "Machoke": 10,
         "Sunshine cherrim": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12364,
-      "last_spawn": "2026-06-24T18:21:31.664642"
+      "total_spawns": 12369,
+      "last_spawn": "2026-06-24T18:22:07.181356"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16781,
+    "total_spawns": 16786,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
