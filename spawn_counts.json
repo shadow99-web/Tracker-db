@@ -29,7 +29,7 @@
         "Charmander": 18,
         "Morelull": 7,
         "Abra": 46,
-        "Sandile": 47,
+        "Sandile": 48,
         "Sandygast": 15,
         "Litwick": 69,
         "Grubbin": 40,
@@ -226,7 +226,7 @@
         "Ninetales": 2,
         "Wattrel": 53,
         "Snubbull": 12,
-        "Spidops": 11,
+        "Spidops": 12,
         "Braixen": 14,
         "Drowzee": 13,
         "Blipbug": 44,
@@ -257,7 +257,7 @@
         "Golett": 9,
         "Vullaby": 9,
         "Cetitan": 12,
-        "Cubone": 13,
+        "Cubone": 14,
         "Gligar": 16,
         "Tirtouga": 14,
         "Furret": 2,
@@ -315,7 +315,7 @@
         "Nacli": 27,
         "Munna": 8,
         "Pawniard": 10,
-        "Prof tangrowth": 24,
+        "Prof tangrowth": 25,
         "Jangmo-o": 20,
         "Trash wormadam": 4,
         "Quaxly": 10,
@@ -682,7 +682,7 @@
         "Oranguru": 4,
         "Poliwrath": 3,
         "Blaziken": 2,
-        "Stantler": 10,
+        "Stantler": 11,
         "Butterfree": 2,
         "Koffing": 9,
         "Floragato": 7,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9442,
-      "last_spawn": "2026-06-24T09:53:06.975543"
+      "total_spawns": 9447,
+      "last_spawn": "2026-06-24T09:53:37.057049"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13826,
+    "total_spawns": 13831,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
