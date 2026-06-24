@@ -69,7 +69,7 @@
         "Tandemaus": 39,
         "Smoliv": 57,
         "Gloom": 11,
-        "Clefairy": 9,
+        "Clefairy": 10,
         "Spinda": 2,
         "Fomantis": 6,
         "Droopy tatsugiri": 21,
@@ -79,7 +79,7 @@
         "Phantump": 18,
         "Duosion": 12,
         "Amaura": 11,
-        "Gimmighoul": 41,
+        "Gimmighoul": 42,
         "Baltoy": 18,
         "Mareep": 41,
         "Garbodor": 2,
@@ -179,7 +179,7 @@
         "Binacle": 15,
         "Grafaiai": 9,
         "Quilladin": 6,
-        "Geodude": 45,
+        "Geodude": 46,
         "Espurr": 10,
         "Cottonee": 5,
         "Elgyem": 10,
@@ -789,7 +789,7 @@
         "Watchog": 2,
         "Ditto": 5,
         "Dada zarude": 1,
-        "Happiny": 2,
+        "Happiny": 3,
         "Matron trim furfrou": 1,
         "Gothitelle": 3,
         "Dusclops": 5,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9410,
-      "last_spawn": "2026-06-24T09:49:17.009645"
+      "total_spawns": 9414,
+      "last_spawn": "2026-06-24T09:49:51.867668"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13794,
+    "total_spawns": 13798,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
