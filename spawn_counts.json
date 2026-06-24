@@ -87,7 +87,7 @@
         "Togepi": 38,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 40,
+        "Poliwag": 41,
         "Metang": 8,
         "Riolu": 9,
         "Exeggcute": 11,
@@ -139,7 +139,7 @@
         "Phanpy": 8,
         "Brambleghast": 12,
         "Pidgey": 59,
-        "Rhyhorn": 40,
+        "Rhyhorn": 41,
         "Sentret": 15,
         "Yungoos": 5,
         "Diglett": 20,
@@ -279,7 +279,7 @@
         "Rowlet": 15,
         "Galarian slowpoke": 1,
         "Poliwhirl": 9,
-        "Crocalor": 19,
+        "Crocalor": 20,
         "Cryogonal": 2,
         "Eternatus": 1,
         "Gholdengo": 11,
@@ -311,7 +311,7 @@
         "Zangoose": 6,
         "Flygon": 3,
         "Shellos": 7,
-        "Jigglypuff": 15,
+        "Jigglypuff": 16,
         "Nacli": 29,
         "Munna": 8,
         "Pawniard": 10,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 13,
-        "Cetoddle": 35,
+        "Cetoddle": 36,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 10008,
-      "last_spawn": "2026-06-24T10:56:57.336360"
+      "total_spawns": 10013,
+      "last_spawn": "2026-06-24T10:57:31.775628"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14393,
+    "total_spawns": 14398,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
