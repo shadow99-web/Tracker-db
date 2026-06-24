@@ -29,7 +29,7 @@
         "Charmander": 22,
         "Morelull": 9,
         "Abra": 55,
-        "Sandile": 54,
+        "Sandile": 55,
         "Sandygast": 16,
         "Litwick": 77,
         "Grubbin": 46,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
-        "Tympole": 42,
+        "Tympole": 43,
         "Swellow": 4,
         "Aipom": 9,
         "Growlithe": 12,
@@ -254,7 +254,7 @@
         "Kommo-o": 1,
         "Dewott": 15,
         "Arrokuda": 15,
-        "Golett": 12,
+        "Golett": 13,
         "Vullaby": 11,
         "Cetitan": 13,
         "Cubone": 15,
@@ -416,7 +416,7 @@
         "Larvitar": 23,
         "Tentacool": 8,
         "Volcanion": 1,
-        "Roaming gimmighoul": 34,
+        "Roaming gimmighoul": 35,
         "Summer sawsbuck": 6,
         "Delibird": 3,
         "Ride cyclizar": 20,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 5,
         "Scyther": 15,
-        "Anorith": 17,
+        "Anorith": 18,
         "Meowth": 9,
         "Combee": 10,
         "Fletchinder": 17,
@@ -991,10 +991,11 @@
         "Hisuian voltorb": 1,
         "Pachirisu": 1,
         "Unown p": 1,
-        "Hisuian samurott": 1
+        "Hisuian samurott": 1,
+        "Ledian": 1
       },
-      "total_spawns": 11396,
-      "last_spawn": "2026-06-24T15:48:07.494549"
+      "total_spawns": 11402,
+      "last_spawn": "2026-06-24T15:48:47.186116"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1096,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15792,
+    "total_spawns": 15798,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
