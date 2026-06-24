@@ -32,7 +32,7 @@
         "Sandile": 44,
         "Sandygast": 15,
         "Litwick": 68,
-        "Grubbin": 39,
+        "Grubbin": 40,
         "Escavalier": 6,
         "Dratini": 28,
         "Kilowattrel": 9,
@@ -87,7 +87,7 @@
         "Togepi": 31,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 37,
+        "Poliwag": 38,
         "Metang": 8,
         "Riolu": 8,
         "Exeggcute": 11,
@@ -181,7 +181,7 @@
         "Quilladin": 6,
         "Geodude": 45,
         "Espurr": 10,
-        "Cottonee": 4,
+        "Cottonee": 5,
         "Elgyem": 10,
         "Luvdisc": 4,
         "Vigoroth": 17,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 51,
+        "Bellsprout": 52,
         "Mudbray": 11,
         "Dreepy": 40,
         "Tinkaton": 3,
@@ -585,7 +585,7 @@
         "Combee": 9,
         "Fletchinder": 14,
         "Kingambit": 2,
-        "Clodsire": 12,
+        "Clodsire": 13,
         "Blaze breed tauros": 1,
         "Wimpod": 8,
         "Torterra": 2,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9206,
-      "last_spawn": "2026-06-24T08:54:37.227782"
+      "total_spawns": 9211,
+      "last_spawn": "2026-06-24T08:55:11.707872"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13582,
+    "total_spawns": 13587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
