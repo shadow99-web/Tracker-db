@@ -16,7 +16,7 @@
         "Litleo": 13,
         "Purrloin": 10,
         "Tranquill": 14,
-        "Psyduck": 5,
+        "Psyduck": 7,
         "Rockruff": 12,
         "Haunter": 11,
         "Tangela": 14,
@@ -118,7 +118,7 @@
         "Flittle": 51,
         "Unfezant": 5,
         "Yamask": 9,
-        "Ralts": 47,
+        "Ralts": 48,
         "Solosis": 50,
         "Battle cyclizar": 23,
         "Togetic": 11,
@@ -460,7 +460,7 @@
         "Cradily": 4,
         "Vulpix": 13,
         "Paras": 13,
-        "Herdier": 19,
+        "Herdier": 20,
         "Pineco": 11,
         "Chikorita": 14,
         "Woobat": 15,
@@ -908,7 +908,7 @@
         "Primarina": 1,
         "Unown x": 1,
         "Aggron": 2,
-        "Clawitzer": 1,
+        "Clawitzer": 2,
         "Leafeon": 2,
         "Ludicolo": 5,
         "Eldegoss": 4,
@@ -995,8 +995,8 @@
         "Ledian": 2,
         "Cherrim": 1
       },
-      "total_spawns": 11665,
-      "last_spawn": "2026-06-24T16:18:27.234218"
+      "total_spawns": 11670,
+      "last_spawn": "2026-06-24T16:18:57.507064"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1103,7 +1103,7 @@
     }
   },
   "global": {
-    "total_spawns": 16068,
+    "total_spawns": 16073,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
