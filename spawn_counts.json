@@ -20,7 +20,7 @@
         "Rockruff": 12,
         "Haunter": 11,
         "Tangela": 13,
-        "Orbeetle": 3,
+        "Orbeetle": 4,
         "Dedenne": 6,
         "Machop": 40,
         "Dudunsparce": 9,
@@ -31,7 +31,7 @@
         "Abra": 55,
         "Sandile": 54,
         "Sandygast": 16,
-        "Litwick": 76,
+        "Litwick": 77,
         "Grubbin": 46,
         "Escavalier": 6,
         "Dratini": 38,
@@ -51,7 +51,7 @@
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 57,
-        "Zubat": 61,
+        "Zubat": 62,
         "Vanillish": 15,
         "Tadbulb": 53,
         "Magnemite": 59,
@@ -187,7 +187,7 @@
         "Vigoroth": 20,
         "Skorupi": 12,
         "Pikachu": 14,
-        "Blue plumage squawkabilly": 7,
+        "Blue plumage squawkabilly": 8,
         "Thwackey": 14,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
@@ -342,7 +342,7 @@
         "Sobble": 23,
         "Mudkip": 14,
         "Charjabug": 10,
-        "Capsakid": 45,
+        "Capsakid": 46,
         "Revavroom": 17,
         "Exploud": 5,
         "Deino": 30,
@@ -758,7 +758,7 @@
         "Haxorus": 3,
         "Jynx": 4,
         "Golisopod": 5,
-        "Greninja": 3,
+        "Greninja": 4,
         "Smoochum": 4,
         "Reuniclus": 2,
         "Smeargle": 3,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11358,
-      "last_spawn": "2026-06-24T15:43:47.148305"
+      "total_spawns": 11364,
+      "last_spawn": "2026-06-24T15:44:27.231850"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1095,7 +1095,7 @@
     }
   },
   "global": {
-    "total_spawns": 15753,
+    "total_spawns": 15759,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
