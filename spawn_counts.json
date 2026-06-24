@@ -130,7 +130,7 @@
         "Weedle": 72,
         "Flamigo": 51,
         "Lillipup": 55,
-        "Shinx": 55,
+        "Shinx": 56,
         "Bounsweet": 38,
         "Noibat": 16,
         "Toxicroak": 5,
@@ -248,7 +248,7 @@
         "Swampert": 3,
         "Dachsbun": 15,
         "Turtwig": 11,
-        "Prinplup": 10,
+        "Prinplup": 11,
         "Tinkatink": 56,
         "Lechonk": 48,
         "Kommo-o": 1,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 2,
         "Toxapex": 4,
         "Lileep": 9,
-        "Rolycoly": 38,
+        "Rolycoly": 39,
         "Bronzor": 21,
         "Dartrix": 10,
         "Yellow flower florges": 3,
@@ -352,7 +352,7 @@
         "Darumaka": 19,
         "Arboliva": 4,
         "Ledyba": 13,
-        "Spritzee": 9,
+        "Spritzee": 10,
         "Swirlix": 9,
         "Aromatisse": 3,
         "Muk": 4,
@@ -572,7 +572,7 @@
         "Palossand": 2,
         "Noice face eiscue": 2,
         "Electivire": 4,
-        "Cascoon": 8,
+        "Cascoon": 9,
         "Tentacruel": 6,
         "Nuzleaf": 9,
         "Scorbunny": 16,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11131,
-      "last_spawn": "2026-06-24T14:19:11.807862"
+      "total_spawns": 11136,
+      "last_spawn": "2026-06-24T14:19:47.555894"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15518,
+    "total_spawns": 15523,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
