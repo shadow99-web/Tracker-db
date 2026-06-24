@@ -12,7 +12,7 @@
         "Rellor": 43,
         "Sandy burmy": 9,
         "Wiglett": 59,
-        "Bombirdier": 41,
+        "Bombirdier": 42,
         "Litleo": 12,
         "Purrloin": 9,
         "Tranquill": 13,
@@ -40,7 +40,7 @@
         "Qwilfish": 5,
         "Trapinch": 58,
         "Toedscool": 43,
-        "Fletchling": 37,
+        "Fletchling": 38,
         "Skiploom": 15,
         "Timburr": 50,
         "Dj rotom": 43,
@@ -176,7 +176,7 @@
         "Rookidee": 30,
         "Minccino": 16,
         "Wurmple": 40,
-        "Binacle": 16,
+        "Binacle": 17,
         "Grafaiai": 9,
         "Quilladin": 6,
         "Geodude": 56,
@@ -463,7 +463,7 @@
         "Herdier": 18,
         "Pineco": 11,
         "Chikorita": 12,
-        "Woobat": 12,
+        "Woobat": 13,
         "Wobbuffet": 3,
         "Roselia": 6,
         "Shelgon": 12,
@@ -579,7 +579,7 @@
         "Huntail": 5,
         "Galarian meowth": 1,
         "Spoink": 5,
-        "Scyther": 14,
+        "Scyther": 15,
         "Anorith": 17,
         "Meowth": 8,
         "Combee": 10,
@@ -921,7 +921,7 @@
         "Sableye": 1,
         "Wynaut": 3,
         "Hattrem": 6,
-        "Clefable": 2,
+        "Clefable": 3,
         "Serperior": 2,
         "Lycanroc": 7,
         "Kingdra": 1,
@@ -986,8 +986,8 @@
         "Unown v": 1,
         "Koraidon": 1
       },
-      "total_spawns": 10979,
-      "last_spawn": "2026-06-24T14:02:07.402977"
+      "total_spawns": 10985,
+      "last_spawn": "2026-06-24T14:02:47.052520"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1082,7 +1082,7 @@
     }
   },
   "global": {
-    "total_spawns": 15366,
+    "total_spawns": 15372,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
