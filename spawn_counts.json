@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 28,
         "Patrat": 14,
-        "Mosslax": 39,
+        "Mosslax": 40,
         "Drilbur": 13,
         "Pawmi": 60,
         "Electabuzz": 8,
@@ -54,7 +54,7 @@
         "Zubat": 71,
         "Vanillish": 18,
         "Tadbulb": 55,
-        "Magnemite": 61,
+        "Magnemite": 62,
         "Whismur": 48,
         "Monferno": 18,
         "Skwovet": 13,
@@ -80,7 +80,7 @@
         "Duosion": 17,
         "Amaura": 11,
         "Gimmighoul": 56,
-        "Baltoy": 25,
+        "Baltoy": 26,
         "Mareep": 54,
         "Garbodor": 3,
         "Slakoth": 68,
@@ -413,7 +413,7 @@
         "Peakychu": 38,
         "Armarouge": 16,
         "Tyrantrum": 1,
-        "Larvitar": 27,
+        "Larvitar": 28,
         "Tentacool": 9,
         "Volcanion": 1,
         "Roaming gimmighoul": 40,
@@ -421,7 +421,7 @@
         "Delibird": 3,
         "Ride cyclizar": 20,
         "Gothorita": 13,
-        "Varoom": 49,
+        "Varoom": 50,
         "Yellow plumage squawkabilly": 19,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12457,
-      "last_spawn": "2026-06-24T18:31:54.352320"
+      "total_spawns": 12462,
+      "last_spawn": "2026-06-24T18:32:27.178701"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16875,
+    "total_spawns": 16880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
