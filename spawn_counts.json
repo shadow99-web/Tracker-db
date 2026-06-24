@@ -51,10 +51,10 @@
         "Slugma": 13,
         "Grotle": 12,
         "Porygon": 61,
-        "Zubat": 68,
+        "Zubat": 69,
         "Vanillish": 18,
         "Tadbulb": 55,
-        "Magnemite": 59,
+        "Magnemite": 60,
         "Whismur": 48,
         "Monferno": 17,
         "Skwovet": 13,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
-        "Tympole": 49,
+        "Tympole": 50,
         "Swellow": 4,
         "Aipom": 11,
         "Growlithe": 12,
@@ -241,7 +241,7 @@
         "Galvantula": 3,
         "Chansey": 8,
         "Shroodle": 58,
-        "Duskull": 60,
+        "Duskull": 61,
         "Bergmite": 15,
         "Pignite": 16,
         "Lurantis": 1,
@@ -514,7 +514,7 @@
         "Goldeen": 16,
         "Nickit": 17,
         "Ivysaur": 12,
-        "Milcery": 13,
+        "Milcery": 14,
         "Gabite": 4,
         "Hariyama": 3,
         "Victreebel": 1,
@@ -897,7 +897,7 @@
         "Elekid": 2,
         "Floette": 4,
         "Shedinja": 2,
-        "Baxcalibur": 3,
+        "Baxcalibur": 4,
         "Galarian articuno": 1,
         "Audino": 1,
         "Orange flower florges": 1,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12202,
-      "last_spawn": "2026-06-24T17:18:47.362939"
+      "total_spawns": 12208,
+      "last_spawn": "2026-06-24T17:19:27.679857"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1099,10 +1099,11 @@
         "Ride cyclizar": 1,
         "Trapinch": 1,
         "Smoliv": 1,
-        "Pawniard": 1
+        "Pawniard": 1,
+        "Frogadier": 1
       },
-      "total_spawns": 120,
-      "last_spawn": "2026-06-24T17:12:10.781627"
+      "total_spawns": 121,
+      "last_spawn": "2026-06-24T17:18:47.827978"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1112,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16609,
+    "total_spawns": 16616,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
