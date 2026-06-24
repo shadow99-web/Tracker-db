@@ -19,7 +19,7 @@
         "Psyduck": 5,
         "Rockruff": 12,
         "Haunter": 11,
-        "Tangela": 12,
+        "Tangela": 13,
         "Orbeetle": 3,
         "Dedenne": 6,
         "Machop": 39,
@@ -81,7 +81,7 @@
         "Amaura": 11,
         "Gimmighoul": 48,
         "Baltoy": 23,
-        "Mareep": 47,
+        "Mareep": 48,
         "Garbodor": 2,
         "Slakoth": 62,
         "Togepi": 45,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 55,
-        "Pidove": 54,
+        "Pidove": 55,
         "Dragapult": 6,
         "Rattata": 29,
         "Flapple": 8,
@@ -681,7 +681,7 @@
         "Arcanine": 5,
         "Oranguru": 4,
         "Poliwrath": 4,
-        "Blaziken": 3,
+        "Blaziken": 4,
         "Stantler": 12,
         "Butterfree": 2,
         "Koffing": 12,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11305,
-      "last_spawn": "2026-06-24T14:38:47.064870"
+      "total_spawns": 11309,
+      "last_spawn": "2026-06-24T14:39:17.198116"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15692,
+    "total_spawns": 15696,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
