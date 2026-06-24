@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 20,
         "Patrat": 11,
-        "Mosslax": 24,
+        "Mosslax": 25,
         "Drilbur": 10,
         "Pawmi": 45,
         "Electabuzz": 8,
@@ -42,7 +42,7 @@
         "Toedscool": 36,
         "Fletchling": 32,
         "Skiploom": 12,
-        "Timburr": 40,
+        "Timburr": 41,
         "Dj rotom": 38,
         "Surskit": 19,
         "Seedot": 33,
@@ -89,7 +89,7 @@
         "Tropius": 1,
         "Poliwag": 37,
         "Metang": 8,
-        "Riolu": 7,
+        "Riolu": 8,
         "Exeggcute": 11,
         "Corphish": 4,
         "Hoppip": 37,
@@ -253,7 +253,7 @@
         "Lechonk": 40,
         "Kommo-o": 1,
         "Dewott": 13,
-        "Arrokuda": 10,
+        "Arrokuda": 11,
         "Golett": 9,
         "Vullaby": 8,
         "Cetitan": 10,
@@ -370,7 +370,7 @@
         "Carvanha": 11,
         "Luxio": 10,
         "Treecko": 19,
-        "Sinistea": 4,
+        "Sinistea": 5,
         "Cubchoo": 6,
         "Hippopotas": 7,
         "Spiky-eared pichu": 3,
@@ -544,7 +544,7 @@
         "Skiddo": 9,
         "Slowbro": 5,
         "Oricorio": 3,
-        "Kangaskhan": 2,
+        "Kangaskhan": 3,
         "Krokorok": 13,
         "Dragonair": 7,
         "Zweilous": 6,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9195,
-      "last_spawn": "2026-06-24T08:53:27.187073"
+      "total_spawns": 9201,
+      "last_spawn": "2026-06-24T08:54:07.059486"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13571,
+    "total_spawns": 13577,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
