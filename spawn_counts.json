@@ -108,7 +108,7 @@
         "Salamence": 2,
         "Drakloak": 14,
         "Chewtle": 12,
-        "Scizor": 2,
+        "Scizor": 3,
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 55,
@@ -221,7 +221,7 @@
         "Cyndaquil": 24,
         "Fuecoco": 18,
         "Cyclizar": 25,
-        "Magmar": 16,
+        "Magmar": 17,
         "Rillaboom": 7,
         "Ninetales": 5,
         "Wattrel": 69,
@@ -443,7 +443,7 @@
         "Galarian zen darmanitan": 2,
         "Bibarel": 4,
         "Plusle": 4,
-        "Skrelp": 8,
+        "Skrelp": 9,
         "Raticate": 11,
         "Wugtrio": 14,
         "Bellibolt": 12,
@@ -553,7 +553,7 @@
         "Snover": 13,
         "Drednaw": 4,
         "Skarmory": 5,
-        "Midnight lycanroc": 4,
+        "Midnight lycanroc": 5,
         "Eelektross": 4,
         "Araquanid": 4,
         "Kadabra": 13,
@@ -583,7 +583,7 @@
         "Anorith": 20,
         "Meowth": 11,
         "Combee": 10,
-        "Fletchinder": 19,
+        "Fletchinder": 20,
         "Kingambit": 3,
         "Clodsire": 20,
         "Blaze breed tauros": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12797,
-      "last_spawn": "2026-06-24T19:10:27.261959"
+      "total_spawns": 12802,
+      "last_spawn": "2026-06-24T19:10:58.569162"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17215,
+    "total_spawns": 17220,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
