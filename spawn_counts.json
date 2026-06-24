@@ -261,7 +261,7 @@
         "Gligar": 18,
         "Tirtouga": 14,
         "Furret": 3,
-        "Nincada": 20,
+        "Nincada": 21,
         "Fennekin": 20,
         "Quaxwell": 9,
         "Vibrava": 16,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 10,
         "Drifloon": 9,
-        "Golbat": 14,
+        "Golbat": 15,
         "Swablu": 13,
         "Shellder": 14,
         "Crobat": 9,
@@ -405,7 +405,7 @@
         "Electrike": 14,
         "Drampa": 3,
         "Maschiff": 39,
-        "Rufflet": 20,
+        "Rufflet": 21,
         "Kabutops": 6,
         "Dondozo": 39,
         "Pansear": 15,
@@ -735,7 +735,7 @@
         "Azurill": 1,
         "Alolan rattata": 2,
         "Hippowdon": 3,
-        "Lumineon": 4,
+        "Lumineon": 5,
         "Thievul": 3,
         "Greedent": 5,
         "Ekans": 13,
@@ -970,7 +970,7 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1,
         "Tapu fini": 1,
-        "Minun": 2,
+        "Minun": 3,
         "Wo-chien": 1,
         "Octillery": 1,
         "Coalossal": 2,
@@ -986,8 +986,8 @@
         "Unown v": 1,
         "Koraidon": 1
       },
-      "total_spawns": 10985,
-      "last_spawn": "2026-06-24T14:02:47.052520"
+      "total_spawns": 10990,
+      "last_spawn": "2026-06-24T14:03:17.106584"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1082,7 +1082,7 @@
     }
   },
   "global": {
-    "total_spawns": 15372,
+    "total_spawns": 15377,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
