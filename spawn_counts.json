@@ -59,7 +59,7 @@
         "Monferno": 16,
         "Skwovet": 6,
         "Bramblin": 47,
-        "Yanma": 9,
+        "Yanma": 10,
         "Larvesta": 18,
         "Beldum": 30,
         "Ducklett": 7,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 4,
-        "Chef dente": 24,
+        "Chef dente": 25,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -347,7 +347,7 @@
         "Exploud": 3,
         "Deino": 23,
         "Wooper": 20,
-        "Dwebble": 11,
+        "Dwebble": 12,
         "Steenee": 12,
         "Darumaka": 16,
         "Arboliva": 4,
@@ -444,7 +444,7 @@
         "Bibarel": 2,
         "Plusle": 3,
         "Skrelp": 5,
-        "Raticate": 8,
+        "Raticate": 9,
         "Wugtrio": 7,
         "Bellibolt": 6,
         "Morgrem": 8,
@@ -751,7 +751,7 @@
         "Dewpider": 7,
         "Poltchageist": 2,
         "Incineroar": 2,
-        "Morpeko": 6,
+        "Morpeko": 7,
         "Parasect": 4,
         "Alolan muk": 1,
         "Iron boulder": 1,
@@ -838,7 +838,7 @@
         "Alolan meowth": 1,
         "Klang": 3,
         "Manectric": 2,
-        "Gallade": 1,
+        "Gallade": 2,
         "Family of three maushold": 1,
         "Lunatone": 4,
         "Exeggutor": 1,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9216,
-      "last_spawn": "2026-06-24T08:55:47.106425"
+      "total_spawns": 9222,
+      "last_spawn": "2026-06-24T08:56:27.040442"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13592,
+    "total_spawns": 13598,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
