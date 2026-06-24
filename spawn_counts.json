@@ -460,10 +460,10 @@
         "Cradily": 4,
         "Vulpix": 13,
         "Paras": 12,
-        "Herdier": 18,
+        "Herdier": 19,
         "Pineco": 11,
         "Chikorita": 14,
-        "Woobat": 14,
+        "Woobat": 15,
         "Wobbuffet": 3,
         "Roselia": 6,
         "Shelgon": 12,
@@ -544,7 +544,7 @@
         "Skiddo": 11,
         "Slowbro": 6,
         "Oricorio": 3,
-        "Kangaskhan": 3,
+        "Kangaskhan": 4,
         "Krokorok": 14,
         "Dragonair": 9,
         "Zweilous": 7,
@@ -756,7 +756,7 @@
         "Alolan muk": 1,
         "Iron boulder": 2,
         "Haxorus": 3,
-        "Jynx": 4,
+        "Jynx": 5,
         "Golisopod": 5,
         "Greninja": 4,
         "Smoochum": 4,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11565,
-      "last_spawn": "2026-06-24T16:06:57.255409"
+      "total_spawns": 11569,
+      "last_spawn": "2026-06-24T16:07:27.728337"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1101,7 +1101,7 @@
     }
   },
   "global": {
-    "total_spawns": 15967,
+    "total_spawns": 15971,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
