@@ -138,7 +138,7 @@
         "Croconaw": 13,
         "Phanpy": 7,
         "Brambleghast": 11,
-        "Pidgey": 57,
+        "Pidgey": 58,
         "Rhyhorn": 40,
         "Sentret": 13,
         "Yungoos": 5,
@@ -266,7 +266,7 @@
         "Quaxwell": 7,
         "Vibrava": 11,
         "Loudred": 7,
-        "Ceruledge": 21,
+        "Ceruledge": 22,
         "Houndour": 12,
         "Glimmet": 46,
         "Goomy": 24,
@@ -312,7 +312,7 @@
         "Flygon": 3,
         "Shellos": 7,
         "Jigglypuff": 14,
-        "Nacli": 27,
+        "Nacli": 28,
         "Munna": 8,
         "Pawniard": 10,
         "Prof tangrowth": 25,
@@ -784,9 +784,9 @@
         "Castform": 5,
         "Weavile": 1,
         "Gorging cramorant": 1,
-        "Shieldon": 4,
+        "Shieldon": 5,
         "Masquerain": 3,
-        "Watchog": 2,
+        "Watchog": 3,
         "Ditto": 5,
         "Dada zarude": 1,
         "Happiny": 3,
@@ -951,7 +951,7 @@
         "Unown exclamation": 1,
         "Ninjask": 2,
         "Nidoking": 1,
-        "Pichu": 1,
+        "Pichu": 2,
         "Carnivine": 1,
         "Goodra": 2,
         "Aurorus": 1,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9463,
-      "last_spawn": "2026-06-24T09:55:27.384423"
+      "total_spawns": 9469,
+      "last_spawn": "2026-06-24T09:56:07.121477"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13847,
+    "total_spawns": 13853,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
