@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 14,
         "Roggenrola": 58,
-        "Pidove": 59,
+        "Pidove": 60,
         "Dragapult": 7,
         "Rattata": 29,
         "Flapple": 8,
@@ -324,7 +324,7 @@
         "Murkrow": 14,
         "Bellsprout": 67,
         "Mudbray": 15,
-        "Dreepy": 49,
+        "Dreepy": 50,
         "Tinkaton": 4,
         "Corviknight": 6,
         "Froakie": 17,
@@ -533,20 +533,20 @@
         "Wormadam": 3,
         "Axew": 42,
         "Trevenant": 7,
-        "Trubbish": 6,
+        "Trubbish": 7,
         "Zorua": 9,
         "Archen": 22,
         "Oinkologne": 14,
         "Onix": 11,
         "Vanilluxe": 2,
-        "Jolteon": 5,
+        "Jolteon": 6,
         "Pawmot": 6,
         "Skiddo": 11,
         "Slowbro": 6,
         "Oricorio": 3,
         "Kangaskhan": 4,
         "Krokorok": 16,
-        "Dragonair": 9,
+        "Dragonair": 10,
         "Zweilous": 9,
         "Karrablast": 11,
         "Shroomish": 19,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12493,
-      "last_spawn": "2026-06-24T18:35:51.701662"
+      "total_spawns": 12498,
+      "last_spawn": "2026-06-24T18:36:27.221921"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16911,
+    "total_spawns": 16916,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
