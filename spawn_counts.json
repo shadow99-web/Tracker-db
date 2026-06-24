@@ -129,7 +129,7 @@
         "Zigzagoon": 16,
         "Weedle": 65,
         "Flamigo": 44,
-        "Lillipup": 49,
+        "Lillipup": 50,
         "Shinx": 49,
         "Bounsweet": 34,
         "Noibat": 15,
@@ -182,7 +182,7 @@
         "Geodude": 49,
         "Espurr": 10,
         "Cottonee": 6,
-        "Elgyem": 10,
+        "Elgyem": 11,
         "Luvdisc": 4,
         "Vigoroth": 18,
         "Skorupi": 11,
@@ -226,7 +226,7 @@
         "Ninetales": 2,
         "Wattrel": 55,
         "Snubbull": 12,
-        "Spidops": 13,
+        "Spidops": 14,
         "Braixen": 14,
         "Drowzee": 13,
         "Blipbug": 48,
@@ -266,7 +266,7 @@
         "Quaxwell": 9,
         "Vibrava": 12,
         "Loudred": 8,
-        "Ceruledge": 22,
+        "Ceruledge": 23,
         "Houndour": 12,
         "Glimmet": 48,
         "Goomy": 24,
@@ -323,7 +323,7 @@
         "Oshawott": 10,
         "Murkrow": 11,
         "Bellsprout": 54,
-        "Mudbray": 11,
+        "Mudbray": 12,
         "Dreepy": 40,
         "Tinkaton": 3,
         "Corviknight": 4,
@@ -923,7 +923,7 @@
         "Hattrem": 4,
         "Clefable": 2,
         "Serperior": 2,
-        "Lycanroc": 4,
+        "Lycanroc": 5,
         "Kingdra": 1,
         "Farfetch'd": 2,
         "Unown l": 1,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9848,
-      "last_spawn": "2026-06-24T10:39:08.735619"
+      "total_spawns": 9854,
+      "last_spawn": "2026-06-24T10:39:47.133188"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14233,
+    "total_spawns": 14239,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
