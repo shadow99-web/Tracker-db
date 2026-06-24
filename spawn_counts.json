@@ -137,13 +137,13 @@
         "Charcadet": 57,
         "Croconaw": 13,
         "Phanpy": 8,
-        "Brambleghast": 12,
+        "Brambleghast": 13,
         "Pidgey": 59,
         "Rhyhorn": 41,
         "Sentret": 15,
         "Yungoos": 5,
         "Diglett": 20,
-        "Doduo": 10,
+        "Doduo": 11,
         "Lairon": 13,
         "Emboar": 4,
         "Deoxys": 2,
@@ -366,7 +366,7 @@
         "Finizen": 48,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 33,
+        "Caterpie": 34,
         "Carvanha": 12,
         "Luxio": 12,
         "Treecko": 19,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 17,
         "Gothorita": 11,
         "Varoom": 36,
-        "Yellow plumage squawkabilly": 13,
+        "Yellow plumage squawkabilly": 14,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
         "Grapploct": 2,
@@ -759,7 +759,7 @@
         "Jynx": 4,
         "Golisopod": 4,
         "Greninja": 3,
-        "Smoochum": 3,
+        "Smoochum": 4,
         "Reuniclus": 2,
         "Smeargle": 3,
         "Gorebyss": 1,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10118,
-      "last_spawn": "2026-06-24T11:09:19.735224"
+      "total_spawns": 10123,
+      "last_spawn": "2026-06-24T11:09:51.799915"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14503,
+    "total_spawns": 14508,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
