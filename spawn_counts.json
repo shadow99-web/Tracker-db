@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 27,
-        "Patrat": 13,
+        "Patrat": 14,
         "Mosslax": 39,
         "Drilbur": 13,
         "Pawmi": 57,
@@ -13,7 +13,7 @@
         "Sandy burmy": 9,
         "Wiglett": 63,
         "Bombirdier": 48,
-        "Litleo": 13,
+        "Litleo": 14,
         "Purrloin": 10,
         "Tranquill": 15,
         "Psyduck": 7,
@@ -64,7 +64,7 @@
         "Beldum": 45,
         "Ducklett": 10,
         "Lokix": 15,
-        "Glimmora": 16,
+        "Glimmora": 17,
         "Starly": 64,
         "Tandemaus": 46,
         "Smoliv": 68,
@@ -175,7 +175,7 @@
         "Gible": 35,
         "Rookidee": 33,
         "Minccino": 17,
-        "Wurmple": 43,
+        "Wurmple": 44,
         "Binacle": 18,
         "Grafaiai": 9,
         "Quilladin": 7,
@@ -224,7 +224,7 @@
         "Magmar": 14,
         "Rillaboom": 6,
         "Ninetales": 4,
-        "Wattrel": 64,
+        "Wattrel": 65,
         "Snubbull": 12,
         "Spidops": 14,
         "Braixen": 15,
@@ -792,7 +792,7 @@
         "Happiny": 3,
         "Matron trim furfrou": 1,
         "Gothitelle": 3,
-        "Dusclops": 5,
+        "Dusclops": 6,
         "Galarian yamask": 1,
         "Alolan golem": 1,
         "Dustox": 2,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11873,
-      "last_spawn": "2026-06-24T16:42:08.108058"
+      "total_spawns": 11879,
+      "last_spawn": "2026-06-24T16:42:47.082896"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16276,
+    "total_spawns": 16282,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
