@@ -34,7 +34,7 @@
         "Litwick": 67,
         "Grubbin": 39,
         "Escavalier": 6,
-        "Dratini": 27,
+        "Dratini": 28,
         "Kilowattrel": 9,
         "Lotad": 59,
         "Qwilfish": 5,
@@ -112,7 +112,7 @@
         "Sneasel": 16,
         "Bonsly": 2,
         "Horsea": 35,
-        "Frigibax": 37,
+        "Frigibax": 38,
         "Spheal": 57,
         "Swadloon": 9,
         "Flittle": 41,
@@ -123,11 +123,11 @@
         "Battle cyclizar": 15,
         "Togetic": 9,
         "Palpitoad": 4,
-        "Pikipek": 55,
+        "Pikipek": 56,
         "Teddiursa": 38,
         "Clamperl": 13,
         "Zigzagoon": 16,
-        "Weedle": 59,
+        "Weedle": 60,
         "Flamigo": 41,
         "Lillipup": 44,
         "Shinx": 46,
@@ -658,7 +658,7 @@
         "Absol": 3,
         "Annihilape": 5,
         "Bouffalant": 4,
-        "Crabrawler": 8,
+        "Crabrawler": 9,
         "Budew": 4,
         "Espathra": 6,
         "Vileplume": 2,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9119,
-      "last_spawn": "2026-06-24T08:44:51.790572"
+      "total_spawns": 9124,
+      "last_spawn": "2026-06-24T08:45:27.114459"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1048,7 +1048,7 @@
     }
   },
   "global": {
-    "total_spawns": 13495,
+    "total_spawns": 13500,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
