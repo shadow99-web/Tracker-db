@@ -73,7 +73,7 @@
         "Spinda": 3,
         "Fomantis": 7,
         "Droopy tatsugiri": 24,
-        "Froslass": 6,
+        "Froslass": 7,
         "Tarountula": 44,
         "Hatterene": 3,
         "Phantump": 20,
@@ -289,7 +289,7 @@
         "Chef dente": 38,
         "Volcarona": 2,
         "Bewear": 3,
-        "Piloswine": 12,
+        "Piloswine": 13,
         "Simisage": 3,
         "Jellicent": 4,
         "Torkoal": 3,
@@ -398,7 +398,7 @@
         "Ursaluna": 4,
         "Furfrou": 2,
         "Sylveon": 1,
-        "Nosepass": 11,
+        "Nosepass": 12,
         "Persian": 2,
         "Lopunny": 3,
         "Squawkabilly": 17,
@@ -703,7 +703,7 @@
         "Litten": 17,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 50,
+        "Hatenna": 51,
         "Zoroark": 5,
         "Lucario": 1,
         "Crustle": 4,
@@ -995,10 +995,11 @@
         "Ledian": 3,
         "Cherrim": 1,
         "Blade aegislash": 1,
-        "Miltank": 1
+        "Miltank": 1,
+        "Tyranitar": 1
       },
-      "total_spawns": 12106,
-      "last_spawn": "2026-06-24T17:08:07.209230"
+      "total_spawns": 12111,
+      "last_spawn": "2026-06-24T17:08:37.477963"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1108,7 +1109,7 @@
     }
   },
   "global": {
-    "total_spawns": 16512,
+    "total_spawns": 16517,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
