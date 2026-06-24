@@ -29,7 +29,7 @@
         "Charmander": 18,
         "Morelull": 7,
         "Abra": 46,
-        "Sandile": 48,
+        "Sandile": 49,
         "Sandygast": 15,
         "Litwick": 69,
         "Grubbin": 40,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 42,
-        "Pidove": 44,
+        "Pidove": 45,
         "Dragapult": 6,
         "Rattata": 26,
         "Flapple": 6,
@@ -411,7 +411,7 @@
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 32,
-        "Armarouge": 10,
+        "Armarouge": 11,
         "Tyrantrum": 1,
         "Larvitar": 18,
         "Tentacool": 7,
@@ -420,7 +420,7 @@
         "Summer sawsbuck": 6,
         "Delibird": 2,
         "Ride cyclizar": 17,
-        "Gothorita": 10,
+        "Gothorita": 11,
         "Varoom": 34,
         "Yellow plumage squawkabilly": 12,
         "Centiskorch": 4,
@@ -499,7 +499,7 @@
         "Throh": 3,
         "Comfey": 2,
         "Applin": 16,
-        "Staraptor": 2,
+        "Staraptor": 3,
         "Mimikyu": 2,
         "Alolan sandslash": 1,
         "Empoleon": 3,
@@ -967,8 +967,8 @@
         "Komala": 1,
         "Reshiram": 1
       },
-      "total_spawns": 9687,
-      "last_spawn": "2026-06-24T10:20:37.270616"
+      "total_spawns": 9692,
+      "last_spawn": "2026-06-24T10:21:11.705326"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1060,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 14071,
+    "total_spawns": 14076,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
