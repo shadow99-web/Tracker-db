@@ -268,7 +268,7 @@
         "Loudred": 8,
         "Ceruledge": 23,
         "Houndour": 12,
-        "Glimmet": 49,
+        "Glimmet": 50,
         "Goomy": 24,
         "Zapdos": 1,
         "Natu": 13,
@@ -339,10 +339,10 @@
         "Staryu": 8,
         "Samurott": 2,
         "Torchic": 19,
-        "Sobble": 18,
+        "Sobble": 19,
         "Mudkip": 12,
         "Charjabug": 10,
-        "Capsakid": 37,
+        "Capsakid": 38,
         "Revavroom": 15,
         "Exploud": 4,
         "Deino": 26,
@@ -484,7 +484,7 @@
         "Tyrogue": 12,
         "Vikavolt": 1,
         "Trash burmy": 3,
-        "Staravia": 11,
+        "Staravia": 12,
         "Chatot": 3,
         "Houndoom": 7,
         "Dottler": 11,
@@ -832,7 +832,7 @@
         "Lickilicky": 3,
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
-        "Mantyke": 1,
+        "Mantyke": 2,
         "Arctovish": 6,
         "Ribombee": 2,
         "Alolan meowth": 1,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9924,
-      "last_spawn": "2026-06-24T10:47:32.050174"
+      "total_spawns": 9929,
+      "last_spawn": "2026-06-24T10:48:07.411065"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14309,
+    "total_spawns": 14314,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
