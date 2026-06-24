@@ -39,11 +39,11 @@
         "Lotad": 70,
         "Qwilfish": 5,
         "Trapinch": 59,
-        "Toedscool": 44,
+        "Toedscool": 45,
         "Fletchling": 40,
         "Skiploom": 15,
         "Timburr": 52,
-        "Dj rotom": 43,
+        "Dj rotom": 44,
         "Surskit": 23,
         "Seedot": 41,
         "Skitty": 10,
@@ -119,7 +119,7 @@
         "Unfezant": 4,
         "Yamask": 9,
         "Ralts": 45,
-        "Solosis": 48,
+        "Solosis": 49,
         "Battle cyclizar": 23,
         "Togetic": 10,
         "Palpitoad": 10,
@@ -148,7 +148,7 @@
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
-        "Bulbasaur": 12,
+        "Bulbasaur": 13,
         "Roggenrola": 55,
         "Pidove": 55,
         "Dragapult": 6,
@@ -755,7 +755,7 @@
         "Parasect": 5,
         "Alolan muk": 1,
         "Iron boulder": 2,
-        "Haxorus": 2,
+        "Haxorus": 3,
         "Jynx": 4,
         "Golisopod": 5,
         "Greninja": 3,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11338,
-      "last_spawn": "2026-06-24T15:41:31.739406"
+      "total_spawns": 11343,
+      "last_spawn": "2026-06-24T15:42:07.324112"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1095,7 +1095,7 @@
     }
   },
   "global": {
-    "total_spawns": 15732,
+    "total_spawns": 15737,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
