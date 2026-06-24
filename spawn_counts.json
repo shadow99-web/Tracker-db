@@ -61,7 +61,7 @@
         "Bramblin": 50,
         "Yanma": 10,
         "Larvesta": 20,
-        "Beldum": 31,
+        "Beldum": 32,
         "Ducklett": 8,
         "Lokix": 12,
         "Glimmora": 16,
@@ -185,7 +185,7 @@
         "Elgyem": 10,
         "Luvdisc": 4,
         "Vigoroth": 18,
-        "Skorupi": 10,
+        "Skorupi": 11,
         "Pikachu": 12,
         "Blue plumage squawkabilly": 7,
         "Thwackey": 12,
@@ -218,7 +218,7 @@
         "Marill": 13,
         "Joltik": 21,
         "Politoed": 3,
-        "Cyndaquil": 20,
+        "Cyndaquil": 21,
         "Fuecoco": 12,
         "Cyclizar": 18,
         "Magmar": 13,
@@ -366,7 +366,7 @@
         "Finizen": 47,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 29,
+        "Caterpie": 30,
         "Carvanha": 11,
         "Luxio": 11,
         "Treecko": 19,
@@ -581,7 +581,7 @@
         "Spoink": 4,
         "Scyther": 11,
         "Anorith": 12,
-        "Meowth": 6,
+        "Meowth": 7,
         "Combee": 9,
         "Fletchinder": 14,
         "Kingambit": 2,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9517,
-      "last_spawn": "2026-06-24T10:01:27.418366"
+      "total_spawns": 9522,
+      "last_spawn": "2026-06-24T10:02:07.204336"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13901,
+    "total_spawns": 13906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
