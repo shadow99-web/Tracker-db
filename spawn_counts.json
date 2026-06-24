@@ -38,7 +38,7 @@
         "Kilowattrel": 9,
         "Lotad": 60,
         "Qwilfish": 5,
-        "Trapinch": 49,
+        "Trapinch": 50,
         "Toedscool": 37,
         "Fletchling": 32,
         "Skiploom": 12,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 12,
         "Numel": 22,
         "Carracosta": 3,
-        "Smearguru": 34,
+        "Smearguru": 35,
         "Veluza": 54,
         "Barboach": 16,
         "Klink": 33,
@@ -127,7 +127,7 @@
         "Teddiursa": 40,
         "Clamperl": 13,
         "Zigzagoon": 16,
-        "Weedle": 61,
+        "Weedle": 62,
         "Flamigo": 43,
         "Lillipup": 48,
         "Shinx": 49,
@@ -249,7 +249,7 @@
         "Dachsbun": 14,
         "Turtwig": 9,
         "Prinplup": 9,
-        "Tinkatink": 46,
+        "Tinkatink": 47,
         "Lechonk": 41,
         "Kommo-o": 1,
         "Dewott": 14,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9527,
-      "last_spawn": "2026-06-24T10:02:37.268065"
+      "total_spawns": 9531,
+      "last_spawn": "2026-06-24T10:03:07.908748"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13911,
+    "total_spawns": 13915,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
