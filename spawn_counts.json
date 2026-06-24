@@ -12,7 +12,7 @@
         "Rellor": 40,
         "Sandy burmy": 9,
         "Wiglett": 53,
-        "Bombirdier": 36,
+        "Bombirdier": 37,
         "Litleo": 12,
         "Purrloin": 8,
         "Tranquill": 11,
@@ -26,7 +26,7 @@
         "Dudunsparce": 8,
         "Gothita": 41,
         "Impidimp": 38,
-        "Charmander": 18,
+        "Charmander": 19,
         "Morelull": 7,
         "Abra": 47,
         "Sandile": 49,
@@ -249,7 +249,7 @@
         "Dachsbun": 14,
         "Turtwig": 10,
         "Prinplup": 9,
-        "Tinkatink": 49,
+        "Tinkatink": 50,
         "Lechonk": 41,
         "Kommo-o": 1,
         "Dewott": 14,
@@ -561,7 +561,7 @@
         "Ponyta": 16,
         "Togekiss": 4,
         "Braviary": 4,
-        "Raboot": 12,
+        "Raboot": 13,
         "Golem": 2,
         "Slowking": 7,
         "Lilligant": 4,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 4,
         "Scyther": 11,
-        "Anorith": 12,
+        "Anorith": 13,
         "Meowth": 8,
         "Combee": 9,
         "Fletchinder": 14,
@@ -665,7 +665,7 @@
         "Kecleon": 2,
         "Sizzlipede": 7,
         "White flower floette": 2,
-        "Skeledirge": 4,
+        "Skeledirge": 5,
         "Amoonguss": 6,
         "Appletun": 1,
         "Krookodile": 5,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9860,
-      "last_spawn": "2026-06-24T10:40:27.367896"
+      "total_spawns": 9866,
+      "last_spawn": "2026-06-24T10:41:07.200186"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14245,
+    "total_spawns": 14251,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
