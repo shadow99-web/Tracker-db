@@ -42,7 +42,7 @@
         "Toedscool": 40,
         "Fletchling": 36,
         "Skiploom": 12,
-        "Timburr": 46,
+        "Timburr": 47,
         "Dj rotom": 41,
         "Surskit": 21,
         "Seedot": 36,
@@ -435,7 +435,7 @@
         "Zebstrika": 1,
         "Shuppet": 12,
         "Paldean wooper": 3,
-        "Salandit": 11,
+        "Salandit": 12,
         "School wishiwashi": 4,
         "Snivy": 10,
         "Wyrdeer": 2,
@@ -465,7 +465,7 @@
         "Chikorita": 11,
         "Woobat": 12,
         "Wobbuffet": 3,
-        "Roselia": 5,
+        "Roselia": 6,
         "Shelgon": 12,
         "Buizel": 12,
         "Arctozolt": 6,
@@ -529,7 +529,7 @@
         "Maushold": 14,
         "Bastiodon": 1,
         "Floatzel": 2,
-        "Accelgor": 2,
+        "Accelgor": 3,
         "Wormadam": 3,
         "Axew": 37,
         "Trevenant": 7,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 4,
         "Scyther": 12,
-        "Anorith": 14,
+        "Anorith": 15,
         "Meowth": 8,
         "Combee": 9,
         "Fletchinder": 14,
@@ -716,7 +716,7 @@
         "Forretress": 2,
         "Hydrapple": 1,
         "Emolga": 3,
-        "Tsareena": 2,
+        "Tsareena": 3,
         "Blissey": 3,
         "Blastoise": 2,
         "Breloom": 3,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10298,
-      "last_spawn": "2026-06-24T11:29:49.085396"
+      "total_spawns": 10304,
+      "last_spawn": "2026-06-24T11:30:27.243114"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14683,
+    "total_spawns": 14689,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
