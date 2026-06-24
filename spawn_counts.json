@@ -29,7 +29,7 @@
         "Charmander": 23,
         "Morelull": 11,
         "Abra": 60,
-        "Sandile": 56,
+        "Sandile": 57,
         "Sandygast": 17,
         "Litwick": 81,
         "Grubbin": 49,
@@ -215,7 +215,7 @@
         "Feraligatr": 4,
         "Tynamo": 61,
         "Orthworm": 50,
-        "Marill": 15,
+        "Marill": 16,
         "Joltik": 23,
         "Politoed": 3,
         "Cyndaquil": 24,
@@ -395,7 +395,7 @@
         "Wailord": 3,
         "Makuhita": 17,
         "Lombre": 15,
-        "Ursaluna": 4,
+        "Ursaluna": 5,
         "Furfrou": 2,
         "Sylveon": 1,
         "Nosepass": 12,
@@ -496,7 +496,7 @@
         "Poochyena": 11,
         "Klinklang": 4,
         "Basculin": 4,
-        "Throh": 4,
+        "Throh": 5,
         "Comfey": 3,
         "Applin": 18,
         "Staraptor": 4,
@@ -996,10 +996,11 @@
         "Cherrim": 1,
         "Blade aegislash": 1,
         "Miltank": 1,
-        "Tyranitar": 1
+        "Tyranitar": 1,
+        "Inteleon": 1
       },
-      "total_spawns": 12116,
-      "last_spawn": "2026-06-24T17:09:11.885783"
+      "total_spawns": 12121,
+      "last_spawn": "2026-06-24T17:09:47.226166"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1109,7 +1110,7 @@
     }
   },
   "global": {
-    "total_spawns": 16522,
+    "total_spawns": 16527,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
