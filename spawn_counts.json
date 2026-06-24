@@ -224,7 +224,7 @@
         "Magmar": 14,
         "Rillaboom": 4,
         "Ninetales": 2,
-        "Wattrel": 54,
+        "Wattrel": 55,
         "Snubbull": 12,
         "Spidops": 13,
         "Braixen": 14,
@@ -312,7 +312,7 @@
         "Flygon": 3,
         "Shellos": 7,
         "Jigglypuff": 14,
-        "Nacli": 28,
+        "Nacli": 29,
         "Munna": 8,
         "Pawniard": 10,
         "Prof tangrowth": 26,
@@ -490,7 +490,7 @@
         "Dottler": 11,
         "Eevee": 10,
         "Copperajah": 4,
-        "Magneton": 10,
+        "Magneton": 11,
         "Alakazam": 4,
         "Bayleef": 7,
         "Poochyena": 10,
@@ -833,7 +833,7 @@
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 1,
-        "Arctovish": 5,
+        "Arctovish": 6,
         "Ribombee": 2,
         "Alolan meowth": 1,
         "Klang": 3,
@@ -843,7 +843,7 @@
         "Lunatone": 5,
         "Exeggutor": 1,
         "Granbull": 1,
-        "Graveler": 9,
+        "Graveler": 10,
         "Carbink": 2,
         "Armaldo": 3,
         "Grimmsnarl": 3,
@@ -968,8 +968,8 @@
         "Reshiram": 1,
         "Azumarill": 1
       },
-      "total_spawns": 9744,
-      "last_spawn": "2026-06-24T10:27:07.131448"
+      "total_spawns": 9749,
+      "last_spawn": "2026-06-24T10:27:37.210049"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1061,7 +1061,7 @@
     }
   },
   "global": {
-    "total_spawns": 14128,
+    "total_spawns": 14133,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
