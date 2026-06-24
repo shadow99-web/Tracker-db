@@ -18,7 +18,7 @@
         "Tranquill": 12,
         "Psyduck": 5,
         "Rockruff": 10,
-        "Haunter": 8,
+        "Haunter": 9,
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 5,
@@ -112,7 +112,7 @@
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 47,
-        "Frigibax": 44,
+        "Frigibax": 45,
         "Spheal": 64,
         "Swadloon": 12,
         "Flittle": 43,
@@ -144,7 +144,7 @@
         "Yungoos": 5,
         "Diglett": 20,
         "Doduo": 11,
-        "Lairon": 13,
+        "Lairon": 14,
         "Emboar": 4,
         "Deoxys": 2,
         "Dracovish": 3,
@@ -481,7 +481,7 @@
         "Infernape": 1,
         "Carkol": 10,
         "Magikarp": 11,
-        "Tyrogue": 14,
+        "Tyrogue": 15,
         "Vikavolt": 1,
         "Trash burmy": 3,
         "Staravia": 12,
@@ -972,10 +972,11 @@
         "Tapu fini": 1,
         "Minun": 2,
         "Wo-chien": 1,
-        "Octillery": 1
+        "Octillery": 1,
+        "Coalossal": 1
       },
-      "total_spawns": 10377,
-      "last_spawn": "2026-06-24T12:54:07.135027"
+      "total_spawns": 10382,
+      "last_spawn": "2026-06-24T12:54:37.420267"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1069,7 +1070,7 @@
     }
   },
   "global": {
-    "total_spawns": 14763,
+    "total_spawns": 14768,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
