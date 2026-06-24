@@ -118,7 +118,7 @@
         "Flittle": 41,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 36,
+        "Ralts": 37,
         "Solosis": 43,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -149,11 +149,11 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 40,
+        "Roggenrola": 41,
         "Pidove": 44,
         "Dragapult": 6,
         "Rattata": 26,
-        "Flapple": 5,
+        "Flapple": 6,
         "Aron": 38,
         "Boldore": 10,
         "Spinarak": 18,
@@ -345,7 +345,7 @@
         "Capsakid": 35,
         "Revavroom": 15,
         "Exploud": 3,
-        "Deino": 23,
+        "Deino": 24,
         "Wooper": 20,
         "Dwebble": 12,
         "Steenee": 12,
@@ -882,7 +882,7 @@
         "High plain vivillon": 1,
         "Urshifu": 1,
         "Swalot": 2,
-        "Cloyster": 2,
+        "Cloyster": 3,
         "Kingler": 3,
         "Alomomola": 2,
         "White-striped basculin": 1,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9390,
-      "last_spawn": "2026-06-24T09:47:07.182627"
+      "total_spawns": 9395,
+      "last_spawn": "2026-06-24T09:47:37.252690"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13774,
+    "total_spawns": 13779,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
