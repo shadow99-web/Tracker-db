@@ -52,7 +52,7 @@
         "Grotle": 10,
         "Porygon": 56,
         "Zubat": 58,
-        "Vanillish": 13,
+        "Vanillish": 14,
         "Tadbulb": 50,
         "Magnemite": 58,
         "Whismur": 43,
@@ -128,7 +128,7 @@
         "Clamperl": 16,
         "Zigzagoon": 18,
         "Weedle": 70,
-        "Flamigo": 48,
+        "Flamigo": 49,
         "Lillipup": 54,
         "Shinx": 54,
         "Bounsweet": 37,
@@ -342,7 +342,7 @@
         "Sobble": 21,
         "Mudkip": 14,
         "Charjabug": 10,
-        "Capsakid": 41,
+        "Capsakid": 42,
         "Revavroom": 15,
         "Exploud": 5,
         "Deino": 29,
@@ -421,7 +421,7 @@
         "Delibird": 2,
         "Ride cyclizar": 20,
         "Gothorita": 11,
-        "Varoom": 40,
+        "Varoom": 41,
         "Yellow plumage squawkabilly": 15,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -980,10 +980,11 @@
         "Mudsdale": 1,
         "Slaking": 1,
         "Munkidori": 1,
-        "Wash rotom": 1
+        "Wash rotom": 1,
+        "Great tusk": 1
       },
-      "total_spawns": 10779,
-      "last_spawn": "2026-06-24T13:39:47.023733"
+      "total_spawns": 10784,
+      "last_spawn": "2026-06-24T13:40:17.067415"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1078,7 +1079,7 @@
     }
   },
   "global": {
-    "total_spawns": 15166,
+    "total_spawns": 15171,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
