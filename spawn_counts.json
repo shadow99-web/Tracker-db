@@ -241,7 +241,7 @@
         "Galvantula": 3,
         "Chansey": 7,
         "Shroodle": 49,
-        "Duskull": 52,
+        "Duskull": 53,
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
@@ -481,7 +481,7 @@
         "Infernape": 1,
         "Carkol": 9,
         "Magikarp": 9,
-        "Tyrogue": 11,
+        "Tyrogue": 12,
         "Vikavolt": 1,
         "Trash burmy": 3,
         "Staravia": 10,
@@ -867,7 +867,7 @@
         "Pincurchin": 1,
         "Dunsparce": 2,
         "Lapras": 3,
-        "Illumise": 3,
+        "Illumise": 4,
         "Scrafty": 1,
         "Swanna": 2,
         "Grumpig": 3,
@@ -966,10 +966,11 @@
         "Seismitoad": 1,
         "Komala": 1,
         "Reshiram": 1,
-        "Azumarill": 1
+        "Azumarill": 1,
+        "Galarian farfetch'd": 1
       },
-      "total_spawns": 9770,
-      "last_spawn": "2026-06-24T10:29:57.294036"
+      "total_spawns": 9774,
+      "last_spawn": "2026-06-24T10:30:27.722519"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1061,7 +1062,7 @@
     }
   },
   "global": {
-    "total_spawns": 14154,
+    "total_spawns": 14158,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
