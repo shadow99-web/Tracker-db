@@ -17,7 +17,7 @@
         "Purrloin": 8,
         "Tranquill": 10,
         "Psyduck": 5,
-        "Rockruff": 8,
+        "Rockruff": 9,
         "Haunter": 8,
         "Tangela": 11,
         "Orbeetle": 3,
@@ -54,7 +54,7 @@
         "Zubat": 56,
         "Vanillish": 10,
         "Tadbulb": 43,
-        "Magnemite": 52,
+        "Magnemite": 53,
         "Whismur": 37,
         "Monferno": 16,
         "Skwovet": 6,
@@ -129,7 +129,7 @@
         "Zigzagoon": 16,
         "Weedle": 60,
         "Flamigo": 42,
-        "Lillipup": 45,
+        "Lillipup": 46,
         "Shinx": 46,
         "Bounsweet": 30,
         "Noibat": 15,
@@ -249,7 +249,7 @@
         "Dachsbun": 14,
         "Turtwig": 8,
         "Prinplup": 9,
-        "Tinkatink": 44,
+        "Tinkatink": 45,
         "Lechonk": 40,
         "Kommo-o": 1,
         "Dewott": 14,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 12,
         "Quilava": 18,
-        "Finizen": 45,
+        "Finizen": 46,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 28,
@@ -693,7 +693,7 @@
         "Marshadow": 1,
         "Sliggoo": 5,
         "Panpour": 9,
-        "Tinkatuff": 7,
+        "Tinkatuff": 8,
         "Bruxish": 3,
         "Corvisquire": 5,
         "Mantine": 5,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9245,
-      "last_spawn": "2026-06-24T08:59:07.497623"
+      "total_spawns": 9251,
+      "last_spawn": "2026-06-24T08:59:47.218505"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13621,
+    "total_spawns": 13627,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
