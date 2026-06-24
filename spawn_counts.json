@@ -38,7 +38,7 @@
         "Kilowattrel": 15,
         "Lotad": 76,
         "Qwilfish": 5,
-        "Trapinch": 61,
+        "Trapinch": 62,
         "Toedscool": 46,
         "Fletchling": 45,
         "Skiploom": 16,
@@ -52,7 +52,7 @@
         "Grotle": 12,
         "Porygon": 61,
         "Zubat": 68,
-        "Vanillish": 17,
+        "Vanillish": 18,
         "Tadbulb": 55,
         "Magnemite": 59,
         "Whismur": 48,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
-        "Tympole": 48,
+        "Tympole": 49,
         "Swellow": 4,
         "Aipom": 11,
         "Growlithe": 12,
@@ -219,7 +219,7 @@
         "Joltik": 23,
         "Politoed": 3,
         "Cyndaquil": 24,
-        "Fuecoco": 17,
+        "Fuecoco": 18,
         "Cyclizar": 24,
         "Magmar": 15,
         "Rillaboom": 6,
@@ -496,7 +496,7 @@
         "Poochyena": 11,
         "Klinklang": 4,
         "Basculin": 4,
-        "Throh": 5,
+        "Throh": 6,
         "Comfey": 3,
         "Applin": 18,
         "Staraptor": 4,
@@ -589,7 +589,7 @@
         "Blaze breed tauros": 1,
         "Wimpod": 12,
         "Torterra": 3,
-        "Darmanitan": 3,
+        "Darmanitan": 4,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 12,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12196,
-      "last_spawn": "2026-06-24T17:18:07.235900"
+      "total_spawns": 12202,
+      "last_spawn": "2026-06-24T17:18:47.362939"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1112,7 +1112,7 @@
     }
   },
   "global": {
-    "total_spawns": 16603,
+    "total_spawns": 16609,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
