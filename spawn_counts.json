@@ -250,7 +250,7 @@
         "Turtwig": 11,
         "Prinplup": 12,
         "Tinkatink": 64,
-        "Lechonk": 56,
+        "Lechonk": 57,
         "Kommo-o": 1,
         "Dewott": 18,
         "Arrokuda": 16,
@@ -404,11 +404,11 @@
         "Squawkabilly": 18,
         "Electrike": 15,
         "Drampa": 4,
-        "Maschiff": 46,
+        "Maschiff": 47,
         "Rufflet": 22,
         "Kabutops": 6,
         "Dondozo": 45,
-        "Pansear": 16,
+        "Pansear": 17,
         "Cutiefly": 10,
         "Peakychu": 40,
         "Armarouge": 16,
@@ -540,7 +540,7 @@
         "Onix": 12,
         "Vanilluxe": 2,
         "Jolteon": 6,
-        "Pawmot": 6,
+        "Pawmot": 7,
         "Skiddo": 11,
         "Slowbro": 6,
         "Oricorio": 3,
@@ -712,7 +712,7 @@
         "Durant": 2,
         "Grovyle": 12,
         "Snowy castform": 1,
-        "Gengar": 5,
+        "Gengar": 6,
         "Forretress": 4,
         "Hydrapple": 1,
         "Emolga": 3,
@@ -769,7 +769,7 @@
         "Mamoswine": 6,
         "Drifblim": 2,
         "Meowscarada": 4,
-        "Roserade": 5,
+        "Roserade": 6,
         "Nidorina": 10,
         "Archaludon": 1,
         "Golduck": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12680,
-      "last_spawn": "2026-06-24T18:57:27.824090"
+      "total_spawns": 12686,
+      "last_spawn": "2026-06-24T18:58:07.217303"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17098,
+    "total_spawns": 17104,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
