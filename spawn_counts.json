@@ -60,7 +60,7 @@
         "Skwovet": 6,
         "Bramblin": 50,
         "Yanma": 10,
-        "Larvesta": 18,
+        "Larvesta": 19,
         "Beldum": 31,
         "Ducklett": 7,
         "Lokix": 12,
@@ -134,7 +134,7 @@
         "Bounsweet": 31,
         "Noibat": 15,
         "Toxicroak": 5,
-        "Charcadet": 50,
+        "Charcadet": 51,
         "Croconaw": 13,
         "Phanpy": 7,
         "Brambleghast": 11,
@@ -363,7 +363,7 @@
         "Mankey": 10,
         "Bidoof": 12,
         "Quilava": 19,
-        "Finizen": 46,
+        "Finizen": 47,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 28,
@@ -430,7 +430,7 @@
         "Girafarig": 4,
         "Flaaffy": 5,
         "Pecharunt": 1,
-        "Feebas": 8,
+        "Feebas": 9,
         "Buneary": 11,
         "Zebstrika": 1,
         "Shuppet": 10,
@@ -684,7 +684,7 @@
         "Blaziken": 2,
         "Stantler": 10,
         "Butterfree": 2,
-        "Koffing": 8,
+        "Koffing": 9,
         "Floragato": 7,
         "Seel": 8,
         "Shiinotic": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9364,
-      "last_spawn": "2026-06-24T09:13:07.023817"
+      "total_spawns": 9369,
+      "last_spawn": "2026-06-24T09:13:37.179031"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1036,10 +1036,11 @@
         "Bergmite": 1,
         "Lairon": 1,
         "Impidimp": 1,
-        "Solosis": 1
+        "Solosis": 1,
+        "Brambleghast": 1
       },
-      "total_spawns": 89,
-      "last_spawn": "2026-06-24T08:40:46.902872"
+      "total_spawns": 90,
+      "last_spawn": "2026-06-24T09:13:16.046165"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1049,7 +1050,7 @@
     }
   },
   "global": {
-    "total_spawns": 13740,
+    "total_spawns": 13746,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
