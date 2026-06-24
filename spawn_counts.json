@@ -61,7 +61,7 @@
         "Bramblin": 58,
         "Yanma": 11,
         "Larvesta": 24,
-        "Beldum": 42,
+        "Beldum": 43,
         "Ducklett": 10,
         "Lokix": 14,
         "Glimmora": 16,
@@ -134,7 +134,7 @@
         "Bounsweet": 39,
         "Noibat": 17,
         "Toxicroak": 5,
-        "Charcadet": 62,
+        "Charcadet": 63,
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 13,
@@ -316,7 +316,7 @@
         "Munna": 10,
         "Pawniard": 11,
         "Prof tangrowth": 34,
-        "Jangmo-o": 24,
+        "Jangmo-o": 25,
         "Trash wormadam": 4,
         "Quaxly": 12,
         "Gossifleur": 14,
@@ -492,7 +492,7 @@
         "Copperajah": 4,
         "Magneton": 12,
         "Alakazam": 4,
-        "Bayleef": 9,
+        "Bayleef": 10,
         "Poochyena": 11,
         "Klinklang": 4,
         "Basculin": 4,
@@ -616,7 +616,7 @@
         "Wigglytuff": 3,
         "Venusaur": 5,
         "Mismagius": 3,
-        "Fraxure": 11,
+        "Fraxure": 12,
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11295,
-      "last_spawn": "2026-06-24T14:37:37.186965"
+      "total_spawns": 11300,
+      "last_spawn": "2026-06-24T14:38:11.995397"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15682,
+    "total_spawns": 15687,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
