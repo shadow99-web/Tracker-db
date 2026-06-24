@@ -89,7 +89,7 @@
         "Tropius": 3,
         "Poliwag": 54,
         "Metang": 10,
-        "Riolu": 13,
+        "Riolu": 14,
         "Exeggcute": 14,
         "Corphish": 10,
         "Hoppip": 43,
@@ -143,7 +143,7 @@
         "Sentret": 16,
         "Yungoos": 10,
         "Diglett": 22,
-        "Doduo": 12,
+        "Doduo": 13,
         "Lairon": 18,
         "Emboar": 5,
         "Deoxys": 2,
@@ -210,7 +210,7 @@
         "Aipom": 11,
         "Growlithe": 12,
         "Sewaddle": 51,
-        "Fidough": 33,
+        "Fidough": 34,
         "Noivern": 2,
         "Feraligatr": 4,
         "Tynamo": 61,
@@ -336,7 +336,7 @@
         "Bisharp": 3,
         "Chespin": 16,
         "Sealeo": 15,
-        "Staryu": 8,
+        "Staryu": 9,
         "Samurott": 3,
         "Torchic": 22,
         "Sobble": 23,
@@ -811,7 +811,7 @@
         "Drapion": 4,
         "Barbaracle": 3,
         "Okidogi": 2,
-        "Tauros": 3,
+        "Tauros": 4,
         "Slurpuff": 4,
         "Umbreon": 2,
         "Hypno": 2,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12256,
-      "last_spawn": "2026-06-24T17:24:47.060339"
+      "total_spawns": 12261,
+      "last_spawn": "2026-06-24T17:25:17.113954"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16664,
+    "total_spawns": 16669,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
