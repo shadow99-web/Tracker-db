@@ -87,7 +87,7 @@
         "Togepi": 48,
         "Falinks": 6,
         "Tropius": 3,
-        "Poliwag": 53,
+        "Poliwag": 54,
         "Metang": 9,
         "Riolu": 13,
         "Exeggcute": 14,
@@ -328,7 +328,7 @@
         "Tinkaton": 4,
         "Corviknight": 5,
         "Froakie": 17,
-        "Nymble": 58,
+        "Nymble": 59,
         "Ferrothorn": 2,
         "Servine": 11,
         "Blitzle": 15,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 3,
         "Wormadam": 3,
-        "Axew": 40,
+        "Axew": 41,
         "Trevenant": 7,
         "Trubbish": 6,
         "Zorua": 9,
@@ -632,7 +632,7 @@
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 5,
-        "Pom-pom oricorio": 3,
+        "Pom-pom oricorio": 4,
         "Hawlucha": 6,
         "Ursaring": 9,
         "Glalie": 3,
@@ -959,7 +959,7 @@
         "Dandy trim furfrou": 1,
         "Rapidash": 1,
         "Mawile": 2,
-        "Dusknoir": 2,
+        "Dusknoir": 3,
         "Sirfetch'd": 1,
         "Galarian darmanitan": 2,
         "Thundurus": 1,
@@ -998,8 +998,8 @@
         "Miltank": 1,
         "Tyranitar": 1
       },
-      "total_spawns": 12111,
-      "last_spawn": "2026-06-24T17:08:37.477963"
+      "total_spawns": 12116,
+      "last_spawn": "2026-06-24T17:09:11.885783"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1109,7 +1109,7 @@
     }
   },
   "global": {
-    "total_spawns": 16517,
+    "total_spawns": 16522,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
