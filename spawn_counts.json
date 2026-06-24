@@ -38,7 +38,7 @@
         "Kilowattrel": 9,
         "Lotad": 60,
         "Qwilfish": 5,
-        "Trapinch": 50,
+        "Trapinch": 51,
         "Toedscool": 37,
         "Fletchling": 35,
         "Skiploom": 12,
@@ -112,7 +112,7 @@
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 38,
-        "Frigibax": 40,
+        "Frigibax": 41,
         "Spheal": 59,
         "Swadloon": 9,
         "Flittle": 41,
@@ -122,7 +122,7 @@
         "Solosis": 45,
         "Battle cyclizar": 15,
         "Togetic": 9,
-        "Palpitoad": 5,
+        "Palpitoad": 6,
         "Pikipek": 57,
         "Teddiursa": 41,
         "Clamperl": 13,
@@ -315,7 +315,7 @@
         "Nacli": 28,
         "Munna": 8,
         "Pawniard": 10,
-        "Prof tangrowth": 25,
+        "Prof tangrowth": 26,
         "Jangmo-o": 21,
         "Trash wormadam": 4,
         "Quaxly": 10,
@@ -335,7 +335,7 @@
         "Musharna": 2,
         "Bisharp": 3,
         "Chespin": 11,
-        "Sealeo": 12,
+        "Sealeo": 13,
         "Staryu": 8,
         "Samurott": 2,
         "Torchic": 19,
@@ -684,7 +684,7 @@
         "Blaziken": 2,
         "Stantler": 11,
         "Butterfree": 2,
-        "Koffing": 10,
+        "Koffing": 11,
         "Floragato": 7,
         "Seel": 8,
         "Shiinotic": 4,
@@ -967,8 +967,8 @@
         "Komala": 1,
         "Reshiram": 1
       },
-      "total_spawns": 9616,
-      "last_spawn": "2026-06-24T10:12:47.236316"
+      "total_spawns": 9622,
+      "last_spawn": "2026-06-24T10:13:27.102141"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1060,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 14000,
+    "total_spawns": 14006,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
