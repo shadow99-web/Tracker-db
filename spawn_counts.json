@@ -125,7 +125,7 @@
         "Palpitoad": 6,
         "Pikipek": 58,
         "Teddiursa": 42,
-        "Clamperl": 13,
+        "Clamperl": 14,
         "Zigzagoon": 16,
         "Weedle": 65,
         "Flamigo": 44,
@@ -206,7 +206,7 @@
         "Dodrio": 4,
         "Cufant": 11,
         "Tympole": 32,
-        "Swellow": 3,
+        "Swellow": 4,
         "Aipom": 8,
         "Growlithe": 11,
         "Sewaddle": 42,
@@ -247,7 +247,7 @@
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 14,
-        "Turtwig": 9,
+        "Turtwig": 10,
         "Prinplup": 9,
         "Tinkatink": 49,
         "Lechonk": 41,
@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 12,
         "Charjabug": 10,
-        "Capsakid": 36,
+        "Capsakid": 37,
         "Revavroom": 15,
         "Exploud": 4,
         "Deino": 26,
@@ -536,7 +536,7 @@
         "Trubbish": 4,
         "Zorua": 8,
         "Archen": 18,
-        "Oinkologne": 11,
+        "Oinkologne": 12,
         "Onix": 9,
         "Vanilluxe": 2,
         "Jolteon": 5,
@@ -810,7 +810,7 @@
         "Pidgeot": 4,
         "Drapion": 4,
         "Barbaracle": 3,
-        "Okidogi": 1,
+        "Okidogi": 2,
         "Tauros": 2,
         "Slurpuff": 3,
         "Umbreon": 1,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9854,
-      "last_spawn": "2026-06-24T10:39:47.133188"
+      "total_spawns": 9860,
+      "last_spawn": "2026-06-24T10:40:27.367896"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14239,
+    "total_spawns": 14245,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
