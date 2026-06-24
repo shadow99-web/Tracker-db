@@ -25,7 +25,7 @@
         "Machop": 45,
         "Dudunsparce": 12,
         "Gothita": 49,
-        "Impidimp": 49,
+        "Impidimp": 50,
         "Charmander": 26,
         "Morelull": 11,
         "Abra": 60,
@@ -142,7 +142,7 @@
         "Rhyhorn": 55,
         "Sentret": 16,
         "Yungoos": 11,
-        "Diglett": 22,
+        "Diglett": 23,
         "Doduo": 15,
         "Lairon": 18,
         "Emboar": 5,
@@ -166,7 +166,7 @@
         "Kakuna": 18,
         "Weepinbell": 11,
         "Klawf": 57,
-        "Vanillite": 48,
+        "Vanillite": 49,
         "Flareon": 6,
         "Gastly": 47,
         "Taillow": 18,
@@ -368,7 +368,7 @@
         "Toucannon": 3,
         "Caterpie": 45,
         "Carvanha": 17,
-        "Luxio": 13,
+        "Luxio": 14,
         "Treecko": 27,
         "Sinistea": 8,
         "Cubchoo": 7,
@@ -545,7 +545,7 @@
         "Slowbro": 6,
         "Oricorio": 4,
         "Kangaskhan": 4,
-        "Krokorok": 16,
+        "Krokorok": 17,
         "Dragonair": 11,
         "Zweilous": 9,
         "Karrablast": 12,
@@ -778,7 +778,7 @@
         "Chingling": 2,
         "Beedrill": 6,
         "Whimsicott": 5,
-        "Wishiwashi": 6,
+        "Wishiwashi": 7,
         "Cofagrigus": 4,
         "Camerupt": 4,
         "Castform": 8,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12961,
-      "last_spawn": "2026-06-24T19:29:07.244665"
+      "total_spawns": 12967,
+      "last_spawn": "2026-06-24T19:29:47.348029"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17379,
+    "total_spawns": 17385,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
