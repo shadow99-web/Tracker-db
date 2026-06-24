@@ -186,7 +186,7 @@
         "Luvdisc": 6,
         "Vigoroth": 20,
         "Skorupi": 15,
-        "Pikachu": 15,
+        "Pikachu": 16,
         "Blue plumage squawkabilly": 8,
         "Thwackey": 16,
         "Dusk lycanroc": 3,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
-        "Tympole": 50,
+        "Tympole": 51,
         "Swellow": 4,
         "Aipom": 11,
         "Growlithe": 12,
@@ -492,7 +492,7 @@
         "Copperajah": 4,
         "Magneton": 13,
         "Alakazam": 4,
-        "Bayleef": 10,
+        "Bayleef": 11,
         "Poochyena": 11,
         "Klinklang": 4,
         "Basculin": 4,
@@ -512,7 +512,7 @@
         "Starmie": 6,
         "Simipour": 1,
         "Goldeen": 16,
-        "Nickit": 18,
+        "Nickit": 19,
         "Ivysaur": 12,
         "Milcery": 14,
         "Gabite": 4,
@@ -654,7 +654,7 @@
         "Beheeyem": 4,
         "Pinsir": 6,
         "Mothim": 4,
-        "Whirlipede": 13,
+        "Whirlipede": 14,
         "Absol": 3,
         "Annihilape": 7,
         "Bouffalant": 6,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12276,
-      "last_spawn": "2026-06-24T17:27:07.100462"
+      "total_spawns": 12281,
+      "last_spawn": "2026-06-24T17:27:37.588057"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16684,
+    "total_spawns": 16689,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
