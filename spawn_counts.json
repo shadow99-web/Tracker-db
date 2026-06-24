@@ -165,7 +165,7 @@
         "Piplup": 9,
         "Kakuna": 16,
         "Weepinbell": 10,
-        "Klawf": 52,
+        "Klawf": 53,
         "Vanillite": 42,
         "Flareon": 6,
         "Gastly": 44,
@@ -218,7 +218,7 @@
         "Marill": 13,
         "Joltik": 22,
         "Politoed": 3,
-        "Cyndaquil": 22,
+        "Cyndaquil": 23,
         "Fuecoco": 15,
         "Cyclizar": 22,
         "Magmar": 14,
@@ -243,7 +243,7 @@
         "Shroodle": 56,
         "Duskull": 59,
         "Bergmite": 11,
-        "Pignite": 14,
+        "Pignite": 15,
         "Lurantis": 1,
         "Swampert": 5,
         "Dachsbun": 15,
@@ -293,7 +293,7 @@
         "Simisage": 3,
         "Jellicent": 4,
         "Torkoal": 2,
-        "Ferroseed": 16,
+        "Ferroseed": 17,
         "Brionne": 8,
         "Pancham": 13,
         "Venipede": 64,
@@ -639,7 +639,7 @@
         "Latios": 1,
         "Silicobra": 11,
         "Snom": 7,
-        "East sea shellos": 6,
+        "East sea shellos": 7,
         "Corsola": 8,
         "Venomoth": 7,
         "Trumbeak": 13,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11364,
-      "last_spawn": "2026-06-24T15:44:27.231850"
+      "total_spawns": 11369,
+      "last_spawn": "2026-06-24T15:45:06.108739"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1082,10 +1082,11 @@
         "Inkay": 1,
         "Fidough": 1,
         "Spritzee": 1,
-        "Squawkabilly": 1
+        "Squawkabilly": 1,
+        "Beldum": 1
       },
-      "total_spawns": 108,
-      "last_spawn": "2026-06-24T15:42:41.589957"
+      "total_spawns": 109,
+      "last_spawn": "2026-06-24T15:44:27.601408"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1095,7 +1096,7 @@
     }
   },
   "global": {
-    "total_spawns": 15759,
+    "total_spawns": 15765,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
