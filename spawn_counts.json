@@ -342,7 +342,7 @@
         "Sobble": 18,
         "Mudkip": 10,
         "Charjabug": 10,
-        "Capsakid": 34,
+        "Capsakid": 35,
         "Revavroom": 15,
         "Exploud": 3,
         "Deino": 23,
@@ -453,7 +453,7 @@
         "Scovillain": 10,
         "Sunkern": 7,
         "Drizzile": 5,
-        "Sunflora": 3,
+        "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
         "Cherubi": 6,
@@ -512,7 +512,7 @@
         "Starmie": 5,
         "Simipour": 1,
         "Goldeen": 11,
-        "Nickit": 14,
+        "Nickit": 15,
         "Ivysaur": 8,
         "Milcery": 10,
         "Gabite": 4,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 2,
         "Wormadam": 3,
-        "Axew": 33,
+        "Axew": 34,
         "Trevenant": 6,
         "Trubbish": 4,
         "Zorua": 8,
@@ -592,7 +592,7 @@
         "Darmanitan": 2,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
-        "Mienfoo": 11,
+        "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 11,
         "Cetoddle": 29,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9270,
-      "last_spawn": "2026-06-24T09:02:11.798714"
+      "total_spawns": 9275,
+      "last_spawn": "2026-06-24T09:02:47.006388"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13646,
+    "total_spawns": 13651,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
