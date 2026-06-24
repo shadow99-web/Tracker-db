@@ -112,14 +112,14 @@
         "Sneasel": 16,
         "Bonsly": 2,
         "Horsea": 37,
-        "Frigibax": 38,
+        "Frigibax": 39,
         "Spheal": 58,
         "Swadloon": 9,
         "Flittle": 41,
         "Unfezant": 3,
         "Yamask": 4,
         "Ralts": 37,
-        "Solosis": 43,
+        "Solosis": 44,
         "Battle cyclizar": 15,
         "Togetic": 9,
         "Palpitoad": 5,
@@ -162,7 +162,7 @@
         "Yamper": 9,
         "Tepig": 27,
         "Kirlia": 11,
-        "Piplup": 6,
+        "Piplup": 7,
         "Kakuna": 15,
         "Weepinbell": 9,
         "Klawf": 41,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 26,
         "Summer sawsbuck": 6,
         "Delibird": 2,
-        "Ride cyclizar": 15,
+        "Ride cyclizar": 16,
         "Gothorita": 10,
         "Varoom": 33,
         "Yellow plumage squawkabilly": 12,
@@ -737,7 +737,7 @@
         "Hippowdon": 3,
         "Lumineon": 3,
         "Thievul": 3,
-        "Greedent": 4,
+        "Greedent": 5,
         "Ekans": 12,
         "Venonat": 9,
         "Pelipper": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9414,
-      "last_spawn": "2026-06-24T09:49:51.867668"
+      "total_spawns": 9419,
+      "last_spawn": "2026-06-24T09:50:27.166808"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13798,
+    "total_spawns": 13803,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
