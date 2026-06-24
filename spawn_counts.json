@@ -61,7 +61,7 @@
         "Bramblin": 55,
         "Yanma": 10,
         "Larvesta": 23,
-        "Beldum": 35,
+        "Beldum": 36,
         "Ducklett": 10,
         "Lokix": 13,
         "Glimmora": 16,
@@ -248,7 +248,7 @@
         "Swampert": 3,
         "Dachsbun": 14,
         "Turtwig": 11,
-        "Prinplup": 9,
+        "Prinplup": 10,
         "Tinkatink": 54,
         "Lechonk": 44,
         "Kommo-o": 1,
@@ -320,7 +320,7 @@
         "Trash wormadam": 4,
         "Quaxly": 10,
         "Gossifleur": 12,
-        "Oshawott": 11,
+        "Oshawott": 12,
         "Murkrow": 12,
         "Bellsprout": 58,
         "Mudbray": 13,
@@ -421,7 +421,7 @@
         "Delibird": 2,
         "Ride cyclizar": 19,
         "Gothorita": 11,
-        "Varoom": 39,
+        "Varoom": 40,
         "Yellow plumage squawkabilly": 15,
         "Centiskorch": 4,
         "Low key toxtricity": 1,
@@ -616,7 +616,7 @@
         "Wigglytuff": 3,
         "Venusaur": 4,
         "Mismagius": 3,
-        "Fraxure": 9,
+        "Fraxure": 10,
         "Talonflame": 3,
         "Kleavor": 4,
         "East sea gastrodon": 3,
@@ -974,10 +974,11 @@
         "Wo-chien": 1,
         "Octillery": 1,
         "Coalossal": 1,
-        "Sandy shocks": 1
+        "Sandy shocks": 1,
+        "Hoopa": 1
       },
-      "total_spawns": 10654,
-      "last_spawn": "2026-06-24T13:25:47.409258"
+      "total_spawns": 10660,
+      "last_spawn": "2026-06-24T13:26:27.142831"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1072,7 @@
     }
   },
   "global": {
-    "total_spawns": 15040,
+    "total_spawns": 15046,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
