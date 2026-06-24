@@ -50,7 +50,7 @@
         "Greavard": 49,
         "Slugma": 13,
         "Grotle": 9,
-        "Porygon": 49,
+        "Porygon": 50,
         "Zubat": 57,
         "Vanillish": 13,
         "Tadbulb": 48,
@@ -253,7 +253,7 @@
         "Lechonk": 43,
         "Kommo-o": 1,
         "Dewott": 14,
-        "Arrokuda": 13,
+        "Arrokuda": 14,
         "Golett": 9,
         "Vullaby": 10,
         "Cetitan": 12,
@@ -426,7 +426,7 @@
         "Centiskorch": 4,
         "Low key toxtricity": 1,
         "Grapploct": 2,
-        "Gurdurr": 8,
+        "Gurdurr": 9,
         "Girafarig": 5,
         "Flaaffy": 7,
         "Pecharunt": 1,
@@ -816,7 +816,7 @@
         "Umbreon": 1,
         "Hypno": 2,
         "Galarian weezing": 1,
-        "Gigalith": 1,
+        "Gigalith": 2,
         "Indeedee": 3,
         "Amped toxtricity": 5,
         "Galarian linoone": 2,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10294,
-      "last_spawn": "2026-06-24T11:29:17.184471"
+      "total_spawns": 10298,
+      "last_spawn": "2026-06-24T11:29:49.085396"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14679,
+    "total_spawns": 14683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
