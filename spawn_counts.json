@@ -39,7 +39,7 @@
         "Lotad": 68,
         "Qwilfish": 5,
         "Trapinch": 58,
-        "Toedscool": 43,
+        "Toedscool": 44,
         "Fletchling": 39,
         "Skiploom": 15,
         "Timburr": 50,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 53,
+        "Roggenrola": 54,
         "Pidove": 49,
         "Dragapult": 6,
         "Rattata": 28,
@@ -165,7 +165,7 @@
         "Piplup": 8,
         "Kakuna": 16,
         "Weepinbell": 10,
-        "Klawf": 49,
+        "Klawf": 50,
         "Vanillite": 41,
         "Flareon": 6,
         "Gastly": 42,
@@ -450,7 +450,7 @@
         "Morgrem": 8,
         "Misdreavus": 9,
         "Seviper": 2,
-        "Scovillain": 11,
+        "Scovillain": 12,
         "Sunkern": 10,
         "Drizzile": 7,
         "Sunflora": 4,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 5,
         "Wartortle": 13,
-        "Cetoddle": 41,
+        "Cetoddle": 42,
         "Kricketot": 13,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -677,7 +677,7 @@
         "Metagross": 5,
         "Eelektrik": 9,
         "Gastrodon": 4,
-        "Golurk": 3,
+        "Golurk": 4,
         "Arcanine": 4,
         "Oranguru": 4,
         "Poliwrath": 4,
@@ -987,8 +987,8 @@
         "Koraidon": 1,
         "Polteageist": 1
       },
-      "total_spawns": 11013,
-      "last_spawn": "2026-06-24T14:06:07.447861"
+      "total_spawns": 11019,
+      "last_spawn": "2026-06-24T14:06:47.131891"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1083,7 +1083,7 @@
     }
   },
   "global": {
-    "total_spawns": 15400,
+    "total_spawns": 15406,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
