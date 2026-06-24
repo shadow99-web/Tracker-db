@@ -33,7 +33,7 @@
         "Sandygast": 16,
         "Litwick": 78,
         "Grubbin": 46,
-        "Escavalier": 6,
+        "Escavalier": 7,
         "Dratini": 38,
         "Kilowattrel": 13,
         "Lotad": 72,
@@ -185,7 +185,7 @@
         "Elgyem": 12,
         "Luvdisc": 5,
         "Vigoroth": 20,
-        "Skorupi": 13,
+        "Skorupi": 14,
         "Pikachu": 15,
         "Blue plumage squawkabilly": 8,
         "Thwackey": 15,
@@ -222,7 +222,7 @@
         "Fuecoco": 16,
         "Cyclizar": 22,
         "Magmar": 14,
-        "Rillaboom": 5,
+        "Rillaboom": 6,
         "Ninetales": 4,
         "Wattrel": 63,
         "Snubbull": 12,
@@ -728,7 +728,7 @@
         "Volbeat": 6,
         "Burmy": 3,
         "Popplio": 13,
-        "Mandibuzz": 4,
+        "Mandibuzz": 5,
         "Walrein": 2,
         "Cinccino": 5,
         "Alolan sandshrew": 2,
@@ -741,7 +741,7 @@
         "Ekans": 13,
         "Venonat": 10,
         "Pelipper": 4,
-        "Metapod": 11,
+        "Metapod": 12,
         "Kricketune": 5,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11620,
-      "last_spawn": "2026-06-24T16:13:11.983445"
+      "total_spawns": 11625,
+      "last_spawn": "2026-06-24T16:13:47.213885"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1102,7 +1102,7 @@
     }
   },
   "global": {
-    "total_spawns": 16023,
+    "total_spawns": 16028,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
