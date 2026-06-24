@@ -24,7 +24,7 @@
         "Dedenne": 6,
         "Machop": 39,
         "Dudunsparce": 9,
-        "Gothita": 47,
+        "Gothita": 48,
         "Impidimp": 41,
         "Charmander": 22,
         "Morelull": 9,
@@ -84,7 +84,7 @@
         "Mareep": 47,
         "Garbodor": 2,
         "Slakoth": 62,
-        "Togepi": 42,
+        "Togepi": 43,
         "Falinks": 5,
         "Tropius": 2,
         "Poliwag": 49,
@@ -115,7 +115,7 @@
         "Frigibax": 47,
         "Spheal": 67,
         "Swadloon": 14,
-        "Flittle": 48,
+        "Flittle": 49,
         "Unfezant": 4,
         "Yamask": 8,
         "Ralts": 45,
@@ -828,7 +828,7 @@
         "Rhyperior": 3,
         "Linoone": 3,
         "Omastar": 2,
-        "Boltund": 3,
+        "Boltund": 4,
         "Lickilicky": 3,
         "Dragonite": 1,
         "High-speed flight configuration genesect": 1,
@@ -846,7 +846,7 @@
         "Graveler": 10,
         "Carbink": 3,
         "Armaldo": 3,
-        "Grimmsnarl": 4,
+        "Grimmsnarl": 5,
         "Quagsire": 2,
         "Darkrai": 1,
         "Togedemaru": 3,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11096,
-      "last_spawn": "2026-06-24T14:15:18.125935"
+      "total_spawns": 11101,
+      "last_spawn": "2026-06-24T14:15:51.733873"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15483,
+    "total_spawns": 15488,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
