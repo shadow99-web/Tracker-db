@@ -36,7 +36,7 @@
         "Escavalier": 9,
         "Dratini": 43,
         "Kilowattrel": 15,
-        "Lotad": 79,
+        "Lotad": 80,
         "Qwilfish": 5,
         "Trapinch": 64,
         "Toedscool": 50,
@@ -65,7 +65,7 @@
         "Ducklett": 12,
         "Lokix": 15,
         "Glimmora": 18,
-        "Starly": 65,
+        "Starly": 66,
         "Tandemaus": 50,
         "Smoliv": 71,
         "Gloom": 18,
@@ -220,7 +220,7 @@
         "Politoed": 3,
         "Cyndaquil": 24,
         "Fuecoco": 18,
-        "Cyclizar": 24,
+        "Cyclizar": 25,
         "Magmar": 16,
         "Rillaboom": 6,
         "Ninetales": 5,
@@ -262,7 +262,7 @@
         "Tirtouga": 17,
         "Furret": 3,
         "Nincada": 23,
-        "Fennekin": 24,
+        "Fennekin": 25,
         "Quaxwell": 9,
         "Vibrava": 19,
         "Loudred": 11,
@@ -363,7 +363,7 @@
         "Mankey": 16,
         "Bidoof": 13,
         "Quilava": 21,
-        "Finizen": 59,
+        "Finizen": 60,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 44,
@@ -407,7 +407,7 @@
         "Maschiff": 47,
         "Rufflet": 22,
         "Kabutops": 6,
-        "Dondozo": 45,
+        "Dondozo": 46,
         "Pansear": 17,
         "Cutiefly": 10,
         "Peakychu": 40,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12716,
-      "last_spawn": "2026-06-24T19:01:27.131921"
+      "total_spawns": 12722,
+      "last_spawn": "2026-06-24T19:02:07.422831"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17134,
+    "total_spawns": 17140,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
