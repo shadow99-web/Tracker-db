@@ -35,7 +35,7 @@
         "Grubbin": 41,
         "Escavalier": 6,
         "Dratini": 33,
-        "Kilowattrel": 9,
+        "Kilowattrel": 10,
         "Lotad": 61,
         "Qwilfish": 5,
         "Trapinch": 54,
@@ -45,7 +45,7 @@
         "Timburr": 46,
         "Dj rotom": 41,
         "Surskit": 21,
-        "Seedot": 34,
+        "Seedot": 35,
         "Skitty": 10,
         "Greavard": 49,
         "Slugma": 13,
@@ -87,7 +87,7 @@
         "Togepi": 38,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 41,
+        "Poliwag": 42,
         "Metang": 8,
         "Riolu": 9,
         "Exeggcute": 11,
@@ -197,7 +197,7 @@
         "Hoothoot": 12,
         "Grookey": 17,
         "Meditite": 8,
-        "Toedscruel": 14,
+        "Toedscruel": 15,
         "Probopass": 4,
         "Scraggy": 18,
         "Rhydon": 13,
@@ -628,7 +628,7 @@
         "Tatsugiri": 16,
         "Nidorino": 8,
         "Wailmer": 11,
-        "Krabby": 11,
+        "Krabby": 12,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 4,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10113,
-      "last_spawn": "2026-06-24T11:08:47.149980"
+      "total_spawns": 10118,
+      "last_spawn": "2026-06-24T11:09:19.735224"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14498,
+    "total_spawns": 14503,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
