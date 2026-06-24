@@ -19,7 +19,7 @@
         "Psyduck": 7,
         "Rockruff": 14,
         "Haunter": 12,
-        "Tangela": 16,
+        "Tangela": 17,
         "Orbeetle": 4,
         "Dedenne": 6,
         "Machop": 44,
@@ -42,7 +42,7 @@
         "Toedscool": 48,
         "Fletchling": 49,
         "Skiploom": 17,
-        "Timburr": 58,
+        "Timburr": 59,
         "Dj rotom": 52,
         "Surskit": 24,
         "Seedot": 48,
@@ -315,7 +315,7 @@
         "Nacli": 36,
         "Munna": 13,
         "Pawniard": 13,
-        "Prof tangrowth": 38,
+        "Prof tangrowth": 39,
         "Jangmo-o": 29,
         "Trash wormadam": 4,
         "Quaxly": 15,
@@ -596,7 +596,7 @@
         "Dewgong": 5,
         "Wartortle": 13,
         "Cetoddle": 48,
-        "Kricketot": 14,
+        "Kricketot": 15,
         "Porygon-z": 2,
         "Conkeldurr": 4,
         "Walking wake": 1,
@@ -829,7 +829,7 @@
         "Linoone": 4,
         "Omastar": 2,
         "Boltund": 4,
-        "Lickilicky": 4,
+        "Lickilicky": 5,
         "Dragonite": 2,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12563,
-      "last_spawn": "2026-06-24T18:43:37.686811"
+      "total_spawns": 12568,
+      "last_spawn": "2026-06-24T18:44:11.951254"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16981,
+    "total_spawns": 16986,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
