@@ -106,7 +106,7 @@
         "Honedge": 62,
         "Wingull": 18,
         "Salamence": 1,
-        "Drakloak": 12,
+        "Drakloak": 13,
         "Chewtle": 10,
         "Scizor": 2,
         "Sneasel": 17,
@@ -115,11 +115,11 @@
         "Frigibax": 46,
         "Spheal": 64,
         "Swadloon": 12,
-        "Flittle": 44,
+        "Flittle": 45,
         "Unfezant": 3,
         "Yamask": 8,
         "Ralts": 41,
-        "Solosis": 46,
+        "Solosis": 47,
         "Battle cyclizar": 20,
         "Togetic": 9,
         "Palpitoad": 6,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 14,
-        "Nymble": 51,
+        "Nymble": 52,
         "Ferrothorn": 2,
         "Servine": 8,
         "Blitzle": 13,
@@ -923,7 +923,7 @@
         "Hattrem": 5,
         "Clefable": 2,
         "Serperior": 2,
-        "Lycanroc": 6,
+        "Lycanroc": 7,
         "Kingdra": 1,
         "Farfetch'd": 2,
         "Unown l": 1,
@@ -975,8 +975,8 @@
         "Octillery": 1,
         "Coalossal": 1
       },
-      "total_spawns": 10422,
-      "last_spawn": "2026-06-24T12:59:11.723185"
+      "total_spawns": 10427,
+      "last_spawn": "2026-06-24T12:59:47.143370"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1070,7 +1070,7 @@
     }
   },
   "global": {
-    "total_spawns": 14808,
+    "total_spawns": 14813,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
