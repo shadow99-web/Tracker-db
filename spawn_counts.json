@@ -68,7 +68,7 @@
         "Starly": 64,
         "Tandemaus": 46,
         "Smoliv": 68,
-        "Gloom": 15,
+        "Gloom": 16,
         "Clefairy": 13,
         "Spinda": 2,
         "Fomantis": 7,
@@ -112,7 +112,7 @@
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 50,
-        "Frigibax": 54,
+        "Frigibax": 55,
         "Spheal": 68,
         "Swadloon": 14,
         "Flittle": 51,
@@ -254,7 +254,7 @@
         "Kommo-o": 1,
         "Dewott": 15,
         "Arrokuda": 16,
-        "Golett": 13,
+        "Golett": 14,
         "Vullaby": 11,
         "Cetitan": 13,
         "Cubone": 15,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 20,
         "Gothorita": 11,
         "Varoom": 46,
-        "Yellow plumage squawkabilly": 16,
+        "Yellow plumage squawkabilly": 17,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
         "Grapploct": 2,
@@ -663,7 +663,7 @@
         "Espathra": 11,
         "Vileplume": 3,
         "Kecleon": 2,
-        "Sizzlipede": 8,
+        "Sizzlipede": 9,
         "White flower floette": 3,
         "Skeledirge": 6,
         "Amoonguss": 6,
@@ -995,8 +995,8 @@
         "Ledian": 2,
         "Cherrim": 1
       },
-      "total_spawns": 11679,
-      "last_spawn": "2026-06-24T16:20:03.704824"
+      "total_spawns": 11684,
+      "last_spawn": "2026-06-24T16:20:47.032938"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1103,7 +1103,7 @@
     }
   },
   "global": {
-    "total_spawns": 16082,
+    "total_spawns": 16087,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
