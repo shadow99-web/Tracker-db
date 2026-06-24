@@ -19,7 +19,7 @@
         "Psyduck": 7,
         "Rockruff": 13,
         "Haunter": 12,
-        "Tangela": 15,
+        "Tangela": 16,
         "Orbeetle": 4,
         "Dedenne": 6,
         "Machop": 43,
@@ -95,7 +95,7 @@
         "Hoppip": 43,
         "Sandslash": 2,
         "Kabuto": 16,
-        "Scatterbug": 55,
+        "Scatterbug": 56,
         "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 4,
@@ -114,7 +114,7 @@
         "Horsea": 52,
         "Frigibax": 57,
         "Spheal": 72,
-        "Swadloon": 15,
+        "Swadloon": 16,
         "Flittle": 51,
         "Unfezant": 6,
         "Yamask": 9,
@@ -437,7 +437,7 @@
         "Paldean wooper": 4,
         "Salandit": 13,
         "School wishiwashi": 4,
-        "Snivy": 13,
+        "Snivy": 14,
         "Wyrdeer": 2,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -614,7 +614,7 @@
         "Avalugg": 4,
         "Magby": 6,
         "Wigglytuff": 3,
-        "Venusaur": 6,
+        "Venusaur": 7,
         "Mismagius": 3,
         "Fraxure": 13,
         "Talonflame": 3,
@@ -673,7 +673,7 @@
         "Grimer": 9,
         "Crabominable": 4,
         "Quaquaval": 4,
-        "Sprigatito": 19,
+        "Sprigatito": 20,
         "Metagross": 5,
         "Eelektrik": 9,
         "Gastrodon": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12426,
-      "last_spawn": "2026-06-24T18:28:27.426923"
+      "total_spawns": 12432,
+      "last_spawn": "2026-06-24T18:29:07.078513"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16843,
+    "total_spawns": 16849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
