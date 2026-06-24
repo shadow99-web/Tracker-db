@@ -72,7 +72,7 @@
         "Clefairy": 13,
         "Spinda": 3,
         "Fomantis": 7,
-        "Droopy tatsugiri": 28,
+        "Droopy tatsugiri": 29,
         "Froslass": 7,
         "Tarountula": 44,
         "Hatterene": 3,
@@ -170,7 +170,7 @@
         "Flareon": 6,
         "Gastly": 46,
         "Taillow": 18,
-        "Swinub": 57,
+        "Swinub": 58,
         "Inkay": 20,
         "Gible": 37,
         "Rookidee": 34,
@@ -178,7 +178,7 @@
         "Wurmple": 47,
         "Binacle": 19,
         "Grafaiai": 10,
-        "Quilladin": 7,
+        "Quilladin": 8,
         "Geodude": 70,
         "Espurr": 13,
         "Cottonee": 9,
@@ -448,7 +448,7 @@
         "Wugtrio": 12,
         "Bellibolt": 10,
         "Morgrem": 10,
-        "Misdreavus": 11,
+        "Misdreavus": 12,
         "Seviper": 4,
         "Scovillain": 14,
         "Sunkern": 12,
@@ -627,7 +627,7 @@
         "Frost rotom": 2,
         "Tatsugiri": 17,
         "Nidorino": 10,
-        "Wailmer": 15,
+        "Wailmer": 16,
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
@@ -785,7 +785,7 @@
         "Weavile": 1,
         "Gorging cramorant": 1,
         "Shieldon": 8,
-        "Masquerain": 4,
+        "Masquerain": 5,
         "Watchog": 3,
         "Ditto": 5,
         "Dada zarude": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12441,
-      "last_spawn": "2026-06-24T18:30:07.988433"
+      "total_spawns": 12447,
+      "last_spawn": "2026-06-24T18:30:47.235001"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16858,
+    "total_spawns": 16864,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
