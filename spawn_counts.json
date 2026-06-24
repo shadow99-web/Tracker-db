@@ -65,7 +65,7 @@
         "Ducklett": 10,
         "Lokix": 13,
         "Glimmora": 16,
-        "Starly": 55,
+        "Starly": 56,
         "Tandemaus": 42,
         "Smoliv": 62,
         "Gloom": 14,
@@ -121,7 +121,7 @@
         "Ralts": 42,
         "Solosis": 47,
         "Battle cyclizar": 20,
-        "Togetic": 9,
+        "Togetic": 10,
         "Palpitoad": 8,
         "Pikipek": 61,
         "Teddiursa": 43,
@@ -269,14 +269,14 @@
         "Ceruledge": 23,
         "Houndour": 16,
         "Glimmet": 51,
-        "Goomy": 29,
+        "Goomy": 30,
         "Zapdos": 1,
         "Natu": 14,
         "Dhelmise": 2,
         "Bagon": 20,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 15,
+        "Rowlet": 16,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 20,
@@ -442,7 +442,7 @@
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
         "Bibarel": 4,
-        "Plusle": 3,
+        "Plusle": 4,
         "Skrelp": 6,
         "Raticate": 9,
         "Wugtrio": 11,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10639,
-      "last_spawn": "2026-06-24T13:23:57.284112"
+      "total_spawns": 10644,
+      "last_spawn": "2026-06-24T13:24:31.809076"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 15025,
+    "total_spawns": 15030,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
