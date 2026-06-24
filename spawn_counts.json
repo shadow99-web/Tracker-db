@@ -93,7 +93,7 @@
         "Exeggcute": 12,
         "Corphish": 9,
         "Hoppip": 41,
-        "Sandslash": 1,
+        "Sandslash": 2,
         "Kabuto": 13,
         "Scatterbug": 48,
         "Pumpkaboo": 13,
@@ -240,13 +240,13 @@
         "Omanyte": 10,
         "Galvantula": 3,
         "Chansey": 8,
-        "Shroodle": 54,
+        "Shroodle": 55,
         "Duskull": 58,
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
         "Swampert": 3,
-        "Dachsbun": 14,
+        "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 10,
         "Tinkatink": 55,
@@ -460,7 +460,7 @@
         "Cradily": 3,
         "Vulpix": 13,
         "Paras": 12,
-        "Herdier": 17,
+        "Herdier": 18,
         "Pineco": 11,
         "Chikorita": 12,
         "Woobat": 12,
@@ -642,7 +642,7 @@
         "East sea shellos": 6,
         "Corsola": 8,
         "Venomoth": 7,
-        "Trumbeak": 11,
+        "Trumbeak": 12,
         "Aerodactyl": 5,
         "Igglybuff": 6,
         "Archeops": 4,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10943,
-      "last_spawn": "2026-06-24T13:58:07.161150"
+      "total_spawns": 10948,
+      "last_spawn": "2026-06-24T13:58:37.216067"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15330,
+    "total_spawns": 15335,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
