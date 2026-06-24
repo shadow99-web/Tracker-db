@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 17,
-        "Spearow": 22,
+        "Spearow": 23,
         "Helioptile": 13,
         "Hoothoot": 14,
         "Grookey": 18,
@@ -593,7 +593,7 @@
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 12,
-        "Dewgong": 5,
+        "Dewgong": 6,
         "Wartortle": 13,
         "Cetoddle": 48,
         "Kricketot": 15,
@@ -627,7 +627,7 @@
         "Frost rotom": 2,
         "Tatsugiri": 18,
         "Nidorino": 10,
-        "Wailmer": 16,
+        "Wailmer": 17,
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
@@ -883,7 +883,7 @@
         "Urshifu": 1,
         "Swalot": 3,
         "Cloyster": 3,
-        "Kingler": 4,
+        "Kingler": 5,
         "Alomomola": 2,
         "White-striped basculin": 3,
         "Ampharos": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12658,
-      "last_spawn": "2026-06-24T18:54:47.065721"
+      "total_spawns": 12662,
+      "last_spawn": "2026-06-24T18:55:17.589045"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17076,
+    "total_spawns": 17080,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
