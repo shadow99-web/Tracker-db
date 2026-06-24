@@ -99,7 +99,7 @@
         "Pumpkaboo": 12,
         "Numel": 21,
         "Carracosta": 3,
-        "Smearguru": 31,
+        "Smearguru": 32,
         "Veluza": 52,
         "Barboach": 15,
         "Klink": 30,
@@ -222,7 +222,7 @@
         "Fuecoco": 12,
         "Cyclizar": 18,
         "Magmar": 13,
-        "Rillaboom": 3,
+        "Rillaboom": 4,
         "Ninetales": 2,
         "Wattrel": 51,
         "Snubbull": 12,
@@ -234,7 +234,7 @@
         "Petilil": 8,
         "Marshtomp": 13,
         "Eiscue": 4,
-        "Summer deerling": 13,
+        "Summer deerling": 14,
         "Clauncher": 15,
         "Clobbopus": 5,
         "Omanyte": 9,
@@ -407,7 +407,7 @@
         "Maschiff": 30,
         "Rufflet": 15,
         "Kabutops": 4,
-        "Dondozo": 31,
+        "Dondozo": 32,
         "Pansear": 11,
         "Cutiefly": 10,
         "Peakychu": 30,
@@ -581,7 +581,7 @@
         "Spoink": 4,
         "Scyther": 11,
         "Anorith": 11,
-        "Meowth": 4,
+        "Meowth": 5,
         "Combee": 9,
         "Fletchinder": 14,
         "Kingambit": 2,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9072,
-      "last_spawn": "2026-06-24T08:39:27.330972"
+      "total_spawns": 9077,
+      "last_spawn": "2026-06-24T08:39:58.534954"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1047,7 +1047,7 @@
     }
   },
   "global": {
-    "total_spawns": 13447,
+    "total_spawns": 13452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
