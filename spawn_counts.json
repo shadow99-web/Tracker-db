@@ -58,7 +58,7 @@
         "Whismur": 37,
         "Monferno": 16,
         "Skwovet": 6,
-        "Bramblin": 48,
+        "Bramblin": 50,
         "Yanma": 10,
         "Larvesta": 18,
         "Beldum": 31,
@@ -87,7 +87,7 @@
         "Togepi": 31,
         "Falinks": 5,
         "Tropius": 1,
-        "Poliwag": 38,
+        "Poliwag": 39,
         "Metang": 8,
         "Riolu": 8,
         "Exeggcute": 11,
@@ -316,7 +316,7 @@
         "Munna": 8,
         "Pawniard": 10,
         "Prof tangrowth": 23,
-        "Jangmo-o": 19,
+        "Jangmo-o": 20,
         "Trash wormadam": 4,
         "Quaxly": 10,
         "Gossifleur": 12,
@@ -505,7 +505,7 @@
         "Empoleon": 3,
         "Farigiraf": 13,
         "Hakamo-o": 9,
-        "Glameow": 13,
+        "Glameow": 14,
         "Croagunk": 8,
         "Duraludon": 6,
         "Sawk": 2,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9350,
-      "last_spawn": "2026-06-24T09:11:26.995878"
+      "total_spawns": 9355,
+      "last_spawn": "2026-06-24T09:11:57.231350"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13726,
+    "total_spawns": 13731,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
