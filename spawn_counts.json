@@ -118,7 +118,7 @@
         "Flittle": 42,
         "Unfezant": 3,
         "Yamask": 5,
-        "Ralts": 38,
+        "Ralts": 39,
         "Solosis": 46,
         "Battle cyclizar": 16,
         "Togetic": 9,
@@ -134,7 +134,7 @@
         "Bounsweet": 34,
         "Noibat": 15,
         "Toxicroak": 5,
-        "Charcadet": 52,
+        "Charcadet": 53,
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 11,
@@ -170,7 +170,7 @@
         "Flareon": 5,
         "Gastly": 39,
         "Taillow": 13,
-        "Swinub": 43,
+        "Swinub": 44,
         "Inkay": 17,
         "Gible": 28,
         "Rookidee": 28,
@@ -229,7 +229,7 @@
         "Spidops": 13,
         "Braixen": 14,
         "Drowzee": 13,
-        "Blipbug": 46,
+        "Blipbug": 47,
         "Lampent": 23,
         "Petilil": 10,
         "Marshtomp": 15,
@@ -686,7 +686,7 @@
         "Butterfree": 2,
         "Koffing": 11,
         "Floragato": 8,
-        "Seel": 8,
+        "Seel": 9,
         "Shiinotic": 4,
         "Gumshoos": 2,
         "Pyroar": 4,
@@ -969,8 +969,8 @@
         "Azumarill": 1,
         "Galarian farfetch'd": 1
       },
-      "total_spawns": 9785,
-      "last_spawn": "2026-06-24T10:31:47.096801"
+      "total_spawns": 9790,
+      "last_spawn": "2026-06-24T10:32:18.365844"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,10 +1049,11 @@
         "Entei": 1,
         "Flaaffy": 1,
         "Pikipek": 1,
-        "Nacli": 1
+        "Nacli": 1,
+        "Grovyle": 1
       },
-      "total_spawns": 97,
-      "last_spawn": "2026-06-24T09:41:24.001204"
+      "total_spawns": 98,
+      "last_spawn": "2026-06-24T10:31:50.886340"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1062,7 +1063,7 @@
     }
   },
   "global": {
-    "total_spawns": 14169,
+    "total_spawns": 14175,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
