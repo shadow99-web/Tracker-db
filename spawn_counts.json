@@ -26,7 +26,7 @@
         "Dudunsparce": 12,
         "Gothita": 49,
         "Impidimp": 48,
-        "Charmander": 25,
+        "Charmander": 26,
         "Morelull": 11,
         "Abra": 60,
         "Sandile": 61,
@@ -49,7 +49,7 @@
         "Skitty": 12,
         "Greavard": 58,
         "Slugma": 13,
-        "Grotle": 12,
+        "Grotle": 13,
         "Porygon": 66,
         "Zubat": 71,
         "Vanillish": 18,
@@ -118,7 +118,7 @@
         "Flittle": 52,
         "Unfezant": 6,
         "Yamask": 11,
-        "Ralts": 52,
+        "Ralts": 53,
         "Solosis": 56,
         "Battle cyclizar": 25,
         "Togetic": 12,
@@ -129,7 +129,7 @@
         "Zigzagoon": 22,
         "Weedle": 82,
         "Flamigo": 53,
-        "Lillipup": 60,
+        "Lillipup": 61,
         "Shinx": 68,
         "Bounsweet": 44,
         "Noibat": 19,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 2,
         "Toxapex": 4,
         "Lileep": 12,
-        "Rolycoly": 44,
+        "Rolycoly": 45,
         "Bronzor": 23,
         "Dartrix": 13,
         "Yellow flower florges": 3,
@@ -452,7 +452,7 @@
         "Seviper": 4,
         "Scovillain": 16,
         "Sunkern": 12,
-        "Drizzile": 9,
+        "Drizzile": 10,
         "Sunflora": 4,
         "Passimian": 4,
         "Iron moth": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12849,
-      "last_spawn": "2026-06-24T19:16:27.099185"
+      "total_spawns": 12855,
+      "last_spawn": "2026-06-24T19:17:12.148436"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17267,
+    "total_spawns": 17273,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
