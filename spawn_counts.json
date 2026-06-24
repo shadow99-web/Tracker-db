@@ -52,10 +52,10 @@
         "Grotle": 11,
         "Porygon": 59,
         "Zubat": 67,
-        "Vanillish": 16,
+        "Vanillish": 17,
         "Tadbulb": 55,
         "Magnemite": 59,
-        "Whismur": 47,
+        "Whismur": 48,
         "Monferno": 17,
         "Skwovet": 12,
         "Bramblin": 60,
@@ -81,7 +81,7 @@
         "Amaura": 11,
         "Gimmighoul": 53,
         "Baltoy": 24,
-        "Mareep": 51,
+        "Mareep": 52,
         "Garbodor": 3,
         "Slakoth": 66,
         "Togepi": 47,
@@ -131,10 +131,10 @@
         "Flamigo": 52,
         "Lillipup": 57,
         "Shinx": 61,
-        "Bounsweet": 41,
+        "Bounsweet": 42,
         "Noibat": 17,
         "Toxicroak": 5,
-        "Charcadet": 65,
+        "Charcadet": 66,
         "Croconaw": 14,
         "Phanpy": 9,
         "Brambleghast": 14,
@@ -219,7 +219,7 @@
         "Joltik": 23,
         "Politoed": 3,
         "Cyndaquil": 24,
-        "Fuecoco": 16,
+        "Fuecoco": 17,
         "Cyclizar": 22,
         "Magmar": 14,
         "Rillaboom": 6,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11924,
-      "last_spawn": "2026-06-24T16:47:47.065585"
+      "total_spawns": 11930,
+      "last_spawn": "2026-06-24T16:48:27.043794"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1091,10 +1091,11 @@
         "Crabrawler": 1,
         "Mudkip": 1,
         "Greavard": 1,
-        "Axew": 1
+        "Axew": 1,
+        "Ride cyclizar": 1
       },
-      "total_spawns": 116,
-      "last_spawn": "2026-06-24T16:07:27.880160"
+      "total_spawns": 117,
+      "last_spawn": "2026-06-24T16:48:10.346397"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1104,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16327,
+    "total_spawns": 16334,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
