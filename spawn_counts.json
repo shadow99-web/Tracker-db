@@ -18,7 +18,7 @@
         "Tranquill": 15,
         "Psyduck": 7,
         "Rockruff": 14,
-        "Haunter": 12,
+        "Haunter": 13,
         "Tangela": 17,
         "Orbeetle": 4,
         "Dedenne": 6,
@@ -58,7 +58,7 @@
         "Whismur": 50,
         "Monferno": 18,
         "Skwovet": 14,
-        "Bramblin": 61,
+        "Bramblin": 62,
         "Yanma": 12,
         "Larvesta": 26,
         "Beldum": 46,
@@ -74,7 +74,7 @@
         "Fomantis": 7,
         "Droopy tatsugiri": 29,
         "Froslass": 7,
-        "Tarountula": 45,
+        "Tarountula": 46,
         "Hatterene": 3,
         "Phantump": 20,
         "Duosion": 18,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 14,
         "Roggenrola": 58,
-        "Pidove": 61,
+        "Pidove": 62,
         "Dragapult": 7,
         "Rattata": 29,
         "Flapple": 8,
@@ -348,7 +348,7 @@
         "Deino": 32,
         "Wooper": 24,
         "Dwebble": 14,
-        "Steenee": 15,
+        "Steenee": 16,
         "Darumaka": 22,
         "Arboliva": 5,
         "Ledyba": 13,
@@ -446,7 +446,7 @@
         "Skrelp": 8,
         "Raticate": 11,
         "Wugtrio": 13,
-        "Bellibolt": 11,
+        "Bellibolt": 12,
         "Morgrem": 11,
         "Misdreavus": 13,
         "Seviper": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12652,
-      "last_spawn": "2026-06-24T18:54:07.196482"
+      "total_spawns": 12658,
+      "last_spawn": "2026-06-24T18:54:47.065721"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17070,
+    "total_spawns": 17076,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
