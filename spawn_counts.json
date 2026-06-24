@@ -123,7 +123,7 @@
         "Battle cyclizar": 23,
         "Togetic": 10,
         "Palpitoad": 10,
-        "Pikipek": 64,
+        "Pikipek": 65,
         "Teddiursa": 47,
         "Clamperl": 16,
         "Zigzagoon": 19,
@@ -139,7 +139,7 @@
         "Phanpy": 9,
         "Brambleghast": 13,
         "Pidgey": 71,
-        "Rhyhorn": 48,
+        "Rhyhorn": 49,
         "Sentret": 16,
         "Yungoos": 7,
         "Diglett": 20,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 2,
         "Toxapex": 4,
         "Lileep": 9,
-        "Rolycoly": 40,
+        "Rolycoly": 41,
         "Bronzor": 21,
         "Dartrix": 10,
         "Yellow flower florges": 3,
@@ -318,7 +318,7 @@
         "Prof tangrowth": 34,
         "Jangmo-o": 25,
         "Trash wormadam": 4,
-        "Quaxly": 12,
+        "Quaxly": 13,
         "Gossifleur": 15,
         "Oshawott": 12,
         "Murkrow": 13,
@@ -448,8 +448,8 @@
         "Wugtrio": 12,
         "Bellibolt": 10,
         "Morgrem": 9,
-        "Misdreavus": 10,
-        "Seviper": 2,
+        "Misdreavus": 11,
+        "Seviper": 3,
         "Scovillain": 12,
         "Sunkern": 10,
         "Drizzile": 8,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11428,
-      "last_spawn": "2026-06-24T15:51:47.135719"
+      "total_spawns": 11434,
+      "last_spawn": "2026-06-24T15:52:27.013967"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15824,
+    "total_spawns": 15830,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
