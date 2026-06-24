@@ -104,7 +104,7 @@
         "Barboach": 16,
         "Klink": 35,
         "Honedge": 60,
-        "Wingull": 16,
+        "Wingull": 17,
         "Salamence": 1,
         "Drakloak": 11,
         "Chewtle": 9,
@@ -128,7 +128,7 @@
         "Clamperl": 13,
         "Zigzagoon": 16,
         "Weedle": 63,
-        "Flamigo": 43,
+        "Flamigo": 44,
         "Lillipup": 48,
         "Shinx": 49,
         "Bounsweet": 34,
@@ -167,7 +167,7 @@
         "Weepinbell": 9,
         "Klawf": 43,
         "Vanillite": 38,
-        "Flareon": 4,
+        "Flareon": 5,
         "Gastly": 39,
         "Taillow": 13,
         "Swinub": 43,
@@ -549,7 +549,7 @@
         "Dragonair": 7,
         "Zweilous": 6,
         "Karrablast": 8,
-        "Shroomish": 15,
+        "Shroomish": 16,
         "Snover": 10,
         "Drednaw": 4,
         "Skarmory": 4,
@@ -602,7 +602,7 @@
         "Walking wake": 1,
         "Yellow flower floette": 3,
         "Medicham": 3,
-        "Doublade": 7,
+        "Doublade": 8,
         "Naclstack": 7,
         "Claydol": 1,
         "Turtonator": 3,
@@ -967,8 +967,8 @@
         "Komala": 1,
         "Reshiram": 1
       },
-      "total_spawns": 9671,
-      "last_spawn": "2026-06-24T10:18:52.034275"
+      "total_spawns": 9676,
+      "last_spawn": "2026-06-24T10:19:27.147302"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1060,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 14055,
+    "total_spawns": 14060,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
