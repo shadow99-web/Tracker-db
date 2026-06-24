@@ -60,9 +60,9 @@
         "Skwovet": 6,
         "Bramblin": 50,
         "Yanma": 10,
-        "Larvesta": 19,
+        "Larvesta": 20,
         "Beldum": 31,
-        "Ducklett": 7,
+        "Ducklett": 8,
         "Lokix": 12,
         "Glimmora": 16,
         "Starly": 48,
@@ -118,7 +118,7 @@
         "Flittle": 41,
         "Unfezant": 3,
         "Yamask": 4,
-        "Ralts": 35,
+        "Ralts": 36,
         "Solosis": 43,
         "Battle cyclizar": 15,
         "Togetic": 9,
@@ -232,7 +232,7 @@
         "Blipbug": 43,
         "Lampent": 23,
         "Petilil": 9,
-        "Marshtomp": 14,
+        "Marshtomp": 15,
         "Eiscue": 4,
         "Summer deerling": 15,
         "Clauncher": 15,
@@ -673,7 +673,7 @@
         "Grimer": 6,
         "Crabominable": 3,
         "Quaquaval": 2,
-        "Sprigatito": 15,
+        "Sprigatito": 16,
         "Metagross": 4,
         "Eelektrik": 7,
         "Gastrodon": 4,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9373,
-      "last_spawn": "2026-06-24T09:45:11.707660"
+      "total_spawns": 9378,
+      "last_spawn": "2026-06-24T09:45:47.247048"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1057,7 +1057,7 @@
     }
   },
   "global": {
-    "total_spawns": 13757,
+    "total_spawns": 13762,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
