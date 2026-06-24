@@ -315,7 +315,7 @@
         "Nacli": 35,
         "Munna": 12,
         "Pawniard": 13,
-        "Prof tangrowth": 36,
+        "Prof tangrowth": 37,
         "Jangmo-o": 27,
         "Trash wormadam": 4,
         "Quaxly": 15,
@@ -434,7 +434,7 @@
         "Buneary": 15,
         "Zebstrika": 2,
         "Shuppet": 12,
-        "Paldean wooper": 3,
+        "Paldean wooper": 4,
         "Salandit": 13,
         "School wishiwashi": 4,
         "Snivy": 13,
@@ -686,7 +686,7 @@
         "Butterfree": 2,
         "Koffing": 13,
         "Floragato": 8,
-        "Seel": 10,
+        "Seel": 11,
         "Shiinotic": 4,
         "Gumshoos": 3,
         "Pyroar": 5,
@@ -729,7 +729,7 @@
         "Burmy": 4,
         "Popplio": 13,
         "Mandibuzz": 6,
-        "Walrein": 3,
+        "Walrein": 4,
         "Cinccino": 5,
         "Alolan sandshrew": 2,
         "Azurill": 1,
@@ -934,7 +934,7 @@
         "Druddigon": 3,
         "Honchkrow": 2,
         "Pyukumuku": 2,
-        "Machoke": 9,
+        "Machoke": 10,
         "Sunshine cherrim": 1,
         "Beautifly": 2,
         "Ting-lu": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12318,
-      "last_spawn": "2026-06-24T18:16:17.356217"
+      "total_spawns": 12323,
+      "last_spawn": "2026-06-24T18:16:57.307565"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1123,7 +1123,7 @@
     }
   },
   "global": {
-    "total_spawns": 16734,
+    "total_spawns": 16739,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
