@@ -66,7 +66,7 @@
         "Lokix": 13,
         "Glimmora": 16,
         "Starly": 57,
-        "Tandemaus": 44,
+        "Tandemaus": 45,
         "Smoliv": 64,
         "Gloom": 14,
         "Clefairy": 13,
@@ -100,7 +100,7 @@
         "Numel": 22,
         "Carracosta": 3,
         "Smearguru": 39,
-        "Veluza": 60,
+        "Veluza": 61,
         "Barboach": 19,
         "Klink": 39,
         "Honedge": 63,
@@ -124,7 +124,7 @@
         "Togetic": 10,
         "Palpitoad": 9,
         "Pikipek": 62,
-        "Teddiursa": 44,
+        "Teddiursa": 45,
         "Clamperl": 16,
         "Zigzagoon": 18,
         "Weedle": 70,
@@ -178,7 +178,7 @@
         "Wurmple": 40,
         "Binacle": 17,
         "Grafaiai": 9,
-        "Quilladin": 6,
+        "Quilladin": 7,
         "Geodude": 56,
         "Espurr": 11,
         "Cottonee": 6,
@@ -984,10 +984,11 @@
         "Great tusk": 1,
         "Naganadel": 1,
         "Unown v": 1,
-        "Koraidon": 1
+        "Koraidon": 1,
+        "Polteageist": 1
       },
-      "total_spawns": 10999,
-      "last_spawn": "2026-06-24T14:04:27.496742"
+      "total_spawns": 11004,
+      "last_spawn": "2026-06-24T14:04:58.531260"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1082,7 +1083,7 @@
     }
   },
   "global": {
-    "total_spawns": 15386,
+    "total_spawns": 15391,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
