@@ -19,7 +19,7 @@
         "Psyduck": 5,
         "Rockruff": 12,
         "Haunter": 11,
-        "Tangela": 13,
+        "Tangela": 14,
         "Orbeetle": 4,
         "Dedenne": 6,
         "Machop": 40,
@@ -35,7 +35,7 @@
         "Grubbin": 46,
         "Escavalier": 6,
         "Dratini": 38,
-        "Kilowattrel": 12,
+        "Kilowattrel": 13,
         "Lotad": 72,
         "Qwilfish": 5,
         "Trapinch": 59,
@@ -73,7 +73,7 @@
         "Spinda": 2,
         "Fomantis": 7,
         "Droopy tatsugiri": 22,
-        "Froslass": 5,
+        "Froslass": 6,
         "Tarountula": 43,
         "Hatterene": 3,
         "Phantump": 20,
@@ -123,11 +123,11 @@
         "Battle cyclizar": 23,
         "Togetic": 10,
         "Palpitoad": 10,
-        "Pikipek": 66,
+        "Pikipek": 67,
         "Teddiursa": 47,
         "Clamperl": 16,
         "Zigzagoon": 19,
-        "Weedle": 74,
+        "Weedle": 75,
         "Flamigo": 51,
         "Lillipup": 56,
         "Shinx": 59,
@@ -747,7 +747,7 @@
         "Hitmonchan": 1,
         "Relicanth": 1,
         "Klefki": 4,
-        "Frogadier": 13,
+        "Frogadier": 14,
         "Dewpider": 9,
         "Poltchageist": 3,
         "Incineroar": 2,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11518,
-      "last_spawn": "2026-06-24T16:01:48.254381"
+      "total_spawns": 11524,
+      "last_spawn": "2026-06-24T16:02:27.471703"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1098,7 +1098,7 @@
     }
   },
   "global": {
-    "total_spawns": 15916,
+    "total_spawns": 15922,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
