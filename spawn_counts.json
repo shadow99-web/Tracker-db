@@ -213,7 +213,7 @@
         "Fidough": 28,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 46,
+        "Tynamo": 47,
         "Orthworm": 46,
         "Marill": 13,
         "Joltik": 21,
@@ -263,7 +263,7 @@
         "Furret": 2,
         "Nincada": 17,
         "Fennekin": 20,
-        "Quaxwell": 7,
+        "Quaxwell": 8,
         "Vibrava": 11,
         "Loudred": 7,
         "Ceruledge": 22,
@@ -463,7 +463,7 @@
         "Herdier": 13,
         "Pineco": 11,
         "Chikorita": 11,
-        "Woobat": 10,
+        "Woobat": 11,
         "Wobbuffet": 3,
         "Roselia": 4,
         "Shelgon": 10,
@@ -518,7 +518,7 @@
         "Gabite": 4,
         "Hariyama": 3,
         "Victreebel": 1,
-        "Arctibax": 7,
+        "Arctibax": 8,
         "Foongus": 15,
         "Pansage": 8,
         "Cranidos": 9,
@@ -921,7 +921,7 @@
         "Sableye": 1,
         "Wynaut": 3,
         "Hattrem": 3,
-        "Clefable": 1,
+        "Clefable": 2,
         "Serperior": 2,
         "Lycanroc": 3,
         "Kingdra": 1,
@@ -965,8 +965,8 @@
         "Thundurus": 1,
         "Seismitoad": 1
       },
-      "total_spawns": 9474,
-      "last_spawn": "2026-06-24T09:56:37.126197"
+      "total_spawns": 9479,
+      "last_spawn": "2026-06-24T09:57:11.838850"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1058,7 +1058,7 @@
     }
   },
   "global": {
-    "total_spawns": 13858,
+    "total_spawns": 13863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
