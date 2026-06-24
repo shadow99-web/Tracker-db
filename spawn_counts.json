@@ -17,7 +17,7 @@
         "Purrloin": 10,
         "Tranquill": 15,
         "Psyduck": 7,
-        "Rockruff": 13,
+        "Rockruff": 14,
         "Haunter": 12,
         "Tangela": 16,
         "Orbeetle": 4,
@@ -129,7 +129,7 @@
         "Zigzagoon": 21,
         "Weedle": 82,
         "Flamigo": 53,
-        "Lillipup": 57,
+        "Lillipup": 58,
         "Shinx": 66,
         "Bounsweet": 43,
         "Noibat": 19,
@@ -194,7 +194,7 @@
         "Pidgeotto": 17,
         "Spearow": 22,
         "Helioptile": 13,
-        "Hoothoot": 12,
+        "Hoothoot": 13,
         "Grookey": 18,
         "Meditite": 8,
         "Toedscruel": 18,
@@ -319,7 +319,7 @@
         "Jangmo-o": 28,
         "Trash wormadam": 4,
         "Quaxly": 15,
-        "Gossifleur": 16,
+        "Gossifleur": 17,
         "Oshawott": 15,
         "Murkrow": 14,
         "Bellsprout": 67,
@@ -617,7 +617,7 @@
         "Venusaur": 7,
         "Mismagius": 3,
         "Fraxure": 13,
-        "Talonflame": 3,
+        "Talonflame": 4,
         "Kleavor": 5,
         "East sea gastrodon": 4,
         "Frillish": 12,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12473,
-      "last_spawn": "2026-06-24T18:33:37.217607"
+      "total_spawns": 12478,
+      "last_spawn": "2026-06-24T18:34:11.957175"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16891,
+    "total_spawns": 16896,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
