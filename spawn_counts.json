@@ -49,7 +49,7 @@
         "Skitty": 11,
         "Greavard": 56,
         "Slugma": 13,
-        "Grotle": 11,
+        "Grotle": 12,
         "Porygon": 60,
         "Zubat": 68,
         "Vanillish": 17,
@@ -83,11 +83,11 @@
         "Baltoy": 25,
         "Mareep": 52,
         "Garbodor": 3,
-        "Slakoth": 66,
+        "Slakoth": 67,
         "Togepi": 48,
         "Falinks": 6,
         "Tropius": 3,
-        "Poliwag": 52,
+        "Poliwag": 53,
         "Metang": 9,
         "Riolu": 13,
         "Exeggcute": 14,
@@ -128,7 +128,7 @@
         "Clamperl": 17,
         "Zigzagoon": 21,
         "Weedle": 82,
-        "Flamigo": 52,
+        "Flamigo": 53,
         "Lillipup": 57,
         "Shinx": 63,
         "Bounsweet": 42,
@@ -703,7 +703,7 @@
         "Litten": 17,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 49,
+        "Hatenna": 50,
         "Zoroark": 5,
         "Lucario": 1,
         "Crustle": 4,
@@ -832,7 +832,7 @@
         "Lickilicky": 4,
         "Dragonite": 2,
         "High-speed flight configuration genesect": 1,
-        "Mantyke": 2,
+        "Mantyke": 3,
         "Arctovish": 6,
         "Ribombee": 2,
         "Alolan meowth": 1,
@@ -997,8 +997,8 @@
         "Blade aegislash": 1,
         "Miltank": 1
       },
-      "total_spawns": 12088,
-      "last_spawn": "2026-06-24T17:06:07.287397"
+      "total_spawns": 12094,
+      "last_spawn": "2026-06-24T17:06:47.884566"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1094,10 +1094,11 @@
         "Greavard": 1,
         "Axew": 1,
         "Ride cyclizar": 1,
-        "Trapinch": 1
+        "Trapinch": 1,
+        "Smoliv": 1
       },
-      "total_spawns": 118,
-      "last_spawn": "2026-06-24T17:00:50.342054"
+      "total_spawns": 119,
+      "last_spawn": "2026-06-24T17:06:16.638554"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1107,7 +1108,7 @@
     }
   },
   "global": {
-    "total_spawns": 16493,
+    "total_spawns": 16500,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
