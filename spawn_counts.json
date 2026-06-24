@@ -90,7 +90,7 @@
         "Poliwag": 43,
         "Metang": 8,
         "Riolu": 9,
-        "Exeggcute": 11,
+        "Exeggcute": 12,
         "Corphish": 7,
         "Hoppip": 40,
         "Sandslash": 1,
@@ -188,7 +188,7 @@
         "Skorupi": 11,
         "Pikachu": 13,
         "Blue plumage squawkabilly": 7,
-        "Thwackey": 13,
+        "Thwackey": 14,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 14,
@@ -237,7 +237,7 @@
         "Summer deerling": 15,
         "Clauncher": 16,
         "Clobbopus": 5,
-        "Omanyte": 9,
+        "Omanyte": 10,
         "Galvantula": 3,
         "Chansey": 7,
         "Shroodle": 53,
@@ -249,7 +249,7 @@
         "Dachsbun": 14,
         "Turtwig": 11,
         "Prinplup": 9,
-        "Tinkatink": 51,
+        "Tinkatink": 52,
         "Lechonk": 43,
         "Kommo-o": 1,
         "Dewott": 14,
@@ -282,7 +282,7 @@
         "Crocalor": 20,
         "Cryogonal": 2,
         "Eternatus": 1,
-        "Gholdengo": 13,
+        "Gholdengo": 14,
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
@@ -975,8 +975,8 @@
         "Octillery": 1,
         "Coalossal": 1
       },
-      "total_spawns": 10397,
-      "last_spawn": "2026-06-24T12:56:27.036974"
+      "total_spawns": 10402,
+      "last_spawn": "2026-06-24T12:56:57.232813"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1070,7 +1070,7 @@
     }
   },
   "global": {
-    "total_spawns": 14783,
+    "total_spawns": 14788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
