@@ -269,11 +269,11 @@
         "Ceruledge": 24,
         "Houndour": 16,
         "Glimmet": 55,
-        "Goomy": 33,
+        "Goomy": 34,
         "Zapdos": 1,
         "Natu": 15,
         "Dhelmise": 2,
-        "Bagon": 22,
+        "Bagon": 23,
         "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 18,
@@ -347,7 +347,7 @@
         "Exploud": 5,
         "Deino": 31,
         "Wooper": 23,
-        "Dwebble": 13,
+        "Dwebble": 14,
         "Steenee": 13,
         "Darumaka": 21,
         "Arboliva": 5,
@@ -612,7 +612,7 @@
         "Stunky": 11,
         "Pupitar": 10,
         "Avalugg": 4,
-        "Magby": 5,
+        "Magby": 6,
         "Wigglytuff": 3,
         "Venusaur": 6,
         "Mismagius": 3,
@@ -930,7 +930,7 @@
         "Delphox": 3,
         "Rampardos": 1,
         "Steelix": 1,
-        "Excadrill": 2,
+        "Excadrill": 3,
         "Druddigon": 2,
         "Honchkrow": 2,
         "Pyukumuku": 2,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11803,
-      "last_spawn": "2026-06-24T16:34:07.125263"
+      "total_spawns": 11808,
+      "last_spawn": "2026-06-24T16:34:37.240625"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16206,
+    "total_spawns": 16211,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
