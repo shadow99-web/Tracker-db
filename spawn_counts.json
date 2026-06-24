@@ -119,7 +119,7 @@
         "Unfezant": 6,
         "Yamask": 9,
         "Ralts": 49,
-        "Solosis": 52,
+        "Solosis": 53,
         "Battle cyclizar": 23,
         "Togetic": 12,
         "Palpitoad": 12,
@@ -141,7 +141,7 @@
         "Pidgey": 72,
         "Rhyhorn": 50,
         "Sentret": 16,
-        "Yungoos": 9,
+        "Yungoos": 10,
         "Diglett": 22,
         "Doduo": 12,
         "Lairon": 18,
@@ -407,7 +407,7 @@
         "Maschiff": 45,
         "Rufflet": 21,
         "Kabutops": 6,
-        "Dondozo": 44,
+        "Dondozo": 45,
         "Pansear": 16,
         "Cutiefly": 10,
         "Peakychu": 38,
@@ -692,7 +692,7 @@
         "Pyroar": 5,
         "Marshadow": 2,
         "Sliggoo": 6,
-        "Panpour": 11,
+        "Panpour": 12,
         "Tinkatuff": 11,
         "Bruxish": 3,
         "Corvisquire": 7,
@@ -970,7 +970,7 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1,
         "Tapu fini": 1,
-        "Minun": 3,
+        "Minun": 4,
         "Wo-chien": 1,
         "Octillery": 1,
         "Coalossal": 2,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 12032,
-      "last_spawn": "2026-06-24T16:59:47.182474"
+      "total_spawns": 12037,
+      "last_spawn": "2026-06-24T17:00:17.357046"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16436,
+    "total_spawns": 16441,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
