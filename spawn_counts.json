@@ -80,7 +80,7 @@
         "Duosion": 12,
         "Amaura": 11,
         "Gimmighoul": 43,
-        "Baltoy": 18,
+        "Baltoy": 19,
         "Mareep": 41,
         "Garbodor": 2,
         "Slakoth": 53,
@@ -173,7 +173,7 @@
         "Swinub": 41,
         "Inkay": 17,
         "Gible": 26,
-        "Rookidee": 27,
+        "Rookidee": 28,
         "Minccino": 14,
         "Wurmple": 36,
         "Binacle": 15,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 53,
+        "Bellsprout": 54,
         "Mudbray": 11,
         "Dreepy": 40,
         "Tinkaton": 3,
@@ -741,7 +741,7 @@
         "Ekans": 12,
         "Venonat": 9,
         "Pelipper": 4,
-        "Metapod": 9,
+        "Metapod": 10,
         "Kricketune": 4,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
@@ -964,10 +964,11 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1,
         "Seismitoad": 1,
-        "Komala": 1
+        "Komala": 1,
+        "Reshiram": 1
       },
-      "total_spawns": 9569,
-      "last_spawn": "2026-06-24T10:07:27.157467"
+      "total_spawns": 9574,
+      "last_spawn": "2026-06-24T10:08:07.330474"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1059,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 13953,
+    "total_spawns": 13958,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
