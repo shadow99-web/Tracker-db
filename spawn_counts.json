@@ -21,7 +21,7 @@
         "Haunter": 8,
         "Tangela": 11,
         "Orbeetle": 3,
-        "Dedenne": 4,
+        "Dedenne": 5,
         "Machop": 36,
         "Dudunsparce": 9,
         "Gothita": 43,
@@ -35,7 +35,7 @@
         "Grubbin": 41,
         "Escavalier": 6,
         "Dratini": 33,
-        "Kilowattrel": 10,
+        "Kilowattrel": 11,
         "Lotad": 61,
         "Qwilfish": 5,
         "Trapinch": 54,
@@ -301,7 +301,7 @@
         "Oddish": 50,
         "Dragalge": 4,
         "Iron thorns": 1,
-        "Alolan exeggutor": 1,
+        "Alolan exeggutor": 2,
         "Toxapex": 3,
         "Lileep": 9,
         "Rolycoly": 35,
@@ -394,7 +394,7 @@
         "Stufful": 10,
         "Wailord": 3,
         "Makuhita": 14,
-        "Lombre": 13,
+        "Lombre": 14,
         "Ursaluna": 4,
         "Furfrou": 2,
         "Sylveon": 1,
@@ -470,7 +470,7 @@
         "Buizel": 12,
         "Arctozolt": 6,
         "Snorunt": 8,
-        "Bunnelby": 10,
+        "Bunnelby": 11,
         "Gulping cramorant": 2,
         "Simisear": 2,
         "White plumage squawkabilly": 13,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10123,
-      "last_spawn": "2026-06-24T11:09:51.799915"
+      "total_spawns": 10128,
+      "last_spawn": "2026-06-24T11:10:27.384586"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14508,
+    "total_spawns": 14513,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
