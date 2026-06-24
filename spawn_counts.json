@@ -51,7 +51,7 @@
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 56,
-        "Zubat": 60,
+        "Zubat": 61,
         "Vanillish": 14,
         "Tadbulb": 51,
         "Magnemite": 58,
@@ -150,13 +150,13 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 52,
-        "Pidove": 48,
+        "Pidove": 49,
         "Dragapult": 6,
         "Rattata": 28,
         "Flapple": 8,
-        "Aron": 49,
+        "Aron": 50,
         "Boldore": 14,
-        "Spinarak": 19,
+        "Spinarak": 20,
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 12,
@@ -498,7 +498,7 @@
         "Basculin": 4,
         "Throh": 4,
         "Comfey": 2,
-        "Applin": 17,
+        "Applin": 18,
         "Staraptor": 3,
         "Mimikyu": 2,
         "Alolan sandslash": 1,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10948,
-      "last_spawn": "2026-06-24T13:58:37.216067"
+      "total_spawns": 10953,
+      "last_spawn": "2026-06-24T13:59:11.843893"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15335,
+    "total_spawns": 15340,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
