@@ -61,7 +61,7 @@
         "Bramblin": 58,
         "Yanma": 11,
         "Larvesta": 24,
-        "Beldum": 41,
+        "Beldum": 42,
         "Ducklett": 10,
         "Lokix": 14,
         "Glimmora": 16,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 13,
-        "Tympole": 41,
+        "Tympole": 42,
         "Swellow": 4,
         "Aipom": 9,
         "Growlithe": 12,
@@ -328,7 +328,7 @@
         "Tinkaton": 4,
         "Corviknight": 5,
         "Froakie": 17,
-        "Nymble": 54,
+        "Nymble": 55,
         "Ferrothorn": 2,
         "Servine": 11,
         "Blitzle": 14,
@@ -437,7 +437,7 @@
         "Paldean wooper": 3,
         "Salandit": 12,
         "School wishiwashi": 4,
-        "Snivy": 11,
+        "Snivy": 12,
         "Wyrdeer": 2,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -583,7 +583,7 @@
         "Anorith": 17,
         "Meowth": 9,
         "Combee": 10,
-        "Fletchinder": 16,
+        "Fletchinder": 17,
         "Kingambit": 2,
         "Clodsire": 14,
         "Blaze breed tauros": 1,
@@ -726,7 +726,7 @@
         "Typhlosion": 3,
         "Ariados": 2,
         "Volbeat": 6,
-        "Burmy": 2,
+        "Burmy": 3,
         "Popplio": 12,
         "Mandibuzz": 4,
         "Walrein": 2,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11284,
-      "last_spawn": "2026-06-24T14:36:27.160553"
+      "total_spawns": 11290,
+      "last_spawn": "2026-06-24T14:37:07.025611"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15671,
+    "total_spawns": 15677,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
