@@ -95,7 +95,7 @@
         "Hoppip": 43,
         "Sandslash": 2,
         "Kabuto": 14,
-        "Scatterbug": 48,
+        "Scatterbug": 49,
         "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 3,
@@ -179,7 +179,7 @@
         "Binacle": 18,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 64,
+        "Geodude": 65,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -354,7 +354,7 @@
         "Ledyba": 13,
         "Spritzee": 11,
         "Swirlix": 10,
-        "Aromatisse": 3,
+        "Aromatisse": 4,
         "Muk": 4,
         "Toxel": 13,
         "Banette": 3,
@@ -404,7 +404,7 @@
         "Squawkabilly": 17,
         "Electrike": 15,
         "Drampa": 3,
-        "Maschiff": 40,
+        "Maschiff": 41,
         "Rufflet": 21,
         "Kabutops": 6,
         "Dondozo": 40,
@@ -585,7 +585,7 @@
         "Combee": 10,
         "Fletchinder": 17,
         "Kingambit": 2,
-        "Clodsire": 15,
+        "Clodsire": 16,
         "Blaze breed tauros": 1,
         "Wimpod": 12,
         "Torterra": 2,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11535,
-      "last_spawn": "2026-06-24T16:03:37.346871"
+      "total_spawns": 11540,
+      "last_spawn": "2026-06-24T16:04:11.717462"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,10 +1085,11 @@
         "Spritzee": 1,
         "Squawkabilly": 1,
         "Beldum": 1,
-        "Whismur": 1
+        "Whismur": 1,
+        "Crabrawler": 1
       },
-      "total_spawns": 111,
-      "last_spawn": "2026-06-24T15:58:04.546110"
+      "total_spawns": 112,
+      "last_spawn": "2026-06-24T16:03:58.247349"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1098,7 +1099,7 @@
     }
   },
   "global": {
-    "total_spawns": 15933,
+    "total_spawns": 15939,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
