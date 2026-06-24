@@ -120,7 +120,7 @@
         "Yamask": 9,
         "Ralts": 50,
         "Solosis": 55,
-        "Battle cyclizar": 23,
+        "Battle cyclizar": 24,
         "Togetic": 12,
         "Palpitoad": 12,
         "Pikipek": 69,
@@ -166,7 +166,7 @@
         "Kakuna": 16,
         "Weepinbell": 10,
         "Klawf": 56,
-        "Vanillite": 47,
+        "Vanillite": 48,
         "Flareon": 6,
         "Gastly": 45,
         "Taillow": 18,
@@ -180,7 +180,7 @@
         "Grafaiai": 9,
         "Quilladin": 7,
         "Geodude": 69,
-        "Espurr": 12,
+        "Espurr": 13,
         "Cottonee": 9,
         "Elgyem": 13,
         "Luvdisc": 6,
@@ -249,7 +249,7 @@
         "Dachsbun": 16,
         "Turtwig": 11,
         "Prinplup": 12,
-        "Tinkatink": 61,
+        "Tinkatink": 62,
         "Lechonk": 53,
         "Kommo-o": 1,
         "Dewott": 16,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 15,
         "Dhelmise": 2,
-        "Bagon": 23,
+        "Bagon": 24,
         "Sudowoodo": 4,
         "Stoutland": 2,
         "Rowlet": 21,
@@ -353,7 +353,7 @@
         "Arboliva": 5,
         "Ledyba": 13,
         "Spritzee": 11,
-        "Swirlix": 10,
+        "Swirlix": 11,
         "Aromatisse": 4,
         "Muk": 4,
         "Toxel": 13,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12213,
-      "last_spawn": "2026-06-24T17:20:07.097749"
+      "total_spawns": 12219,
+      "last_spawn": "2026-06-24T17:20:37.136070"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16621,
+    "total_spawns": 16627,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
