@@ -92,7 +92,7 @@
         "Riolu": 9,
         "Exeggcute": 11,
         "Corphish": 6,
-        "Hoppip": 39,
+        "Hoppip": 40,
         "Sandslash": 1,
         "Kabuto": 13,
         "Scatterbug": 42,
@@ -170,7 +170,7 @@
         "Flareon": 6,
         "Gastly": 40,
         "Taillow": 13,
-        "Swinub": 45,
+        "Swinub": 46,
         "Inkay": 18,
         "Gible": 31,
         "Rookidee": 29,
@@ -334,7 +334,7 @@
         "Blitzle": 13,
         "Musharna": 2,
         "Bisharp": 3,
-        "Chespin": 13,
+        "Chespin": 14,
         "Sealeo": 13,
         "Staryu": 8,
         "Samurott": 2,
@@ -628,7 +628,7 @@
         "Tatsugiri": 16,
         "Nidorino": 8,
         "Wailmer": 11,
-        "Krabby": 12,
+        "Krabby": 13,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 4,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10167,
-      "last_spawn": "2026-06-24T11:14:51.838499"
+      "total_spawns": 10171,
+      "last_spawn": "2026-06-24T11:15:27.367225"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14552,
+    "total_spawns": 14556,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
