@@ -74,7 +74,7 @@
         "Fomantis": 7,
         "Droopy tatsugiri": 21,
         "Froslass": 5,
-        "Tarountula": 40,
+        "Tarountula": 41,
         "Hatterene": 3,
         "Phantump": 19,
         "Duosion": 15,
@@ -141,7 +141,7 @@
         "Pidgey": 66,
         "Rhyhorn": 45,
         "Sentret": 16,
-        "Yungoos": 5,
+        "Yungoos": 6,
         "Diglett": 20,
         "Doduo": 12,
         "Lairon": 16,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 51,
+        "Roggenrola": 52,
         "Pidove": 48,
         "Dragapult": 6,
         "Rattata": 28,
@@ -166,7 +166,7 @@
         "Kakuna": 16,
         "Weepinbell": 10,
         "Klawf": 48,
-        "Vanillite": 40,
+        "Vanillite": 41,
         "Flareon": 6,
         "Gastly": 42,
         "Taillow": 14,
@@ -473,7 +473,7 @@
         "Bunnelby": 13,
         "Gulping cramorant": 2,
         "Simisear": 2,
-        "White plumage squawkabilly": 13,
+        "White plumage squawkabilly": 14,
         "Shelmet": 11,
         "Solrock": 3,
         "Slowpoke": 15,
@@ -981,10 +981,11 @@
         "Slaking": 1,
         "Munkidori": 1,
         "Wash rotom": 1,
-        "Great tusk": 1
+        "Great tusk": 1,
+        "Naganadel": 1
       },
-      "total_spawns": 10833,
-      "last_spawn": "2026-06-24T13:45:47.541843"
+      "total_spawns": 10839,
+      "last_spawn": "2026-06-24T13:46:27.622930"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1079,7 +1080,7 @@
     }
   },
   "global": {
-    "total_spawns": 15220,
+    "total_spawns": 15226,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
