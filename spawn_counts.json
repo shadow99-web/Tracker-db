@@ -170,10 +170,10 @@
         "Flareon": 6,
         "Gastly": 47,
         "Taillow": 18,
-        "Swinub": 59,
+        "Swinub": 60,
         "Inkay": 20,
         "Gible": 41,
-        "Rookidee": 35,
+        "Rookidee": 36,
         "Minccino": 20,
         "Wurmple": 47,
         "Binacle": 19,
@@ -293,7 +293,7 @@
         "Simisage": 3,
         "Jellicent": 4,
         "Torkoal": 3,
-        "Ferroseed": 18,
+        "Ferroseed": 19,
         "Brionne": 9,
         "Pancham": 15,
         "Venipede": 72,
@@ -345,7 +345,7 @@
         "Capsakid": 48,
         "Revavroom": 17,
         "Exploud": 5,
-        "Deino": 33,
+        "Deino": 34,
         "Wooper": 24,
         "Dwebble": 14,
         "Steenee": 16,
@@ -627,7 +627,7 @@
         "Frost rotom": 2,
         "Tatsugiri": 19,
         "Nidorino": 10,
-        "Wailmer": 17,
+        "Wailmer": 18,
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12757,
-      "last_spawn": "2026-06-24T19:05:57.849936"
+      "total_spawns": 12762,
+      "last_spawn": "2026-06-24T19:06:32.040923"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17175,
+    "total_spawns": 17180,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
