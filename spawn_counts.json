@@ -51,7 +51,7 @@
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 60,
-        "Zubat": 67,
+        "Zubat": 68,
         "Vanillish": 17,
         "Tadbulb": 55,
         "Magnemite": 59,
@@ -276,7 +276,7 @@
         "Bagon": 23,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 19,
+        "Rowlet": 20,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 21,
@@ -909,7 +909,7 @@
         "Unown x": 1,
         "Aggron": 2,
         "Clawitzer": 3,
-        "Leafeon": 3,
+        "Leafeon": 4,
         "Ludicolo": 5,
         "Eldegoss": 4,
         "Dracozolt": 3,
@@ -931,7 +931,7 @@
         "Rampardos": 1,
         "Steelix": 1,
         "Excadrill": 3,
-        "Druddigon": 2,
+        "Druddigon": 3,
         "Honchkrow": 2,
         "Pyukumuku": 2,
         "Machoke": 9,
@@ -992,13 +992,13 @@
         "Pachirisu": 1,
         "Unown p": 1,
         "Hisuian samurott": 1,
-        "Ledian": 2,
+        "Ledian": 3,
         "Cherrim": 1,
         "Blade aegislash": 1,
         "Miltank": 1
       },
-      "total_spawns": 12046,
-      "last_spawn": "2026-06-24T17:01:27.010025"
+      "total_spawns": 12051,
+      "last_spawn": "2026-06-24T17:01:57.218552"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1107,7 +1107,7 @@
     }
   },
   "global": {
-    "total_spawns": 16451,
+    "total_spawns": 16456,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
