@@ -65,7 +65,7 @@
         "Ducklett": 10,
         "Lokix": 13,
         "Glimmora": 16,
-        "Starly": 57,
+        "Starly": 58,
         "Tandemaus": 45,
         "Smoliv": 64,
         "Gloom": 14,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 54,
-        "Pidove": 49,
+        "Pidove": 50,
         "Dragapult": 6,
         "Rattata": 28,
         "Flapple": 8,
@@ -315,7 +315,7 @@
         "Nacli": 31,
         "Munna": 10,
         "Pawniard": 11,
-        "Prof tangrowth": 31,
+        "Prof tangrowth": 32,
         "Jangmo-o": 23,
         "Trash wormadam": 4,
         "Quaxly": 10,
@@ -741,7 +741,7 @@
         "Ekans": 13,
         "Venonat": 10,
         "Pelipper": 4,
-        "Metapod": 10,
+        "Metapod": 11,
         "Kricketune": 5,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
@@ -986,10 +986,11 @@
         "Unown v": 1,
         "Koraidon": 1,
         "Polteageist": 1,
-        "Slither wing": 1
+        "Slither wing": 1,
+        "Diggersby": 1
       },
-      "total_spawns": 11039,
-      "last_spawn": "2026-06-24T14:08:57.180360"
+      "total_spawns": 11044,
+      "last_spawn": "2026-06-24T14:09:31.790489"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1084,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15426,
+    "total_spawns": 15431,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
