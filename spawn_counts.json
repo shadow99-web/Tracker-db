@@ -90,7 +90,7 @@
         "Poliwag": 50,
         "Metang": 8,
         "Riolu": 11,
-        "Exeggcute": 12,
+        "Exeggcute": 13,
         "Corphish": 10,
         "Hoppip": 42,
         "Sandslash": 2,
@@ -245,7 +245,7 @@
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
-        "Swampert": 3,
+        "Swampert": 4,
         "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 11,
@@ -633,7 +633,7 @@
         "Lanturn": 3,
         "Cacnea": 5,
         "Pom-pom oricorio": 3,
-        "Hawlucha": 4,
+        "Hawlucha": 5,
         "Ursaring": 8,
         "Glalie": 3,
         "Latios": 1,
@@ -700,7 +700,7 @@
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 3,
-        "Litten": 16,
+        "Litten": 17,
         "Abomasnow": 3,
         "Espeon": 3,
         "Hatenna": 45,
@@ -766,7 +766,7 @@
         "Yanmega": 2,
         "Pawmo": 5,
         "Finneon": 8,
-        "Mamoswine": 5,
+        "Mamoswine": 6,
         "Drifblim": 2,
         "Meowscarada": 4,
         "Roserade": 4,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11269,
-      "last_spawn": "2026-06-24T14:34:47.138687"
+      "total_spawns": 11274,
+      "last_spawn": "2026-06-24T14:35:17.176379"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15656,
+    "total_spawns": 15661,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
