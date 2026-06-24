@@ -91,7 +91,7 @@
         "Metang": 8,
         "Riolu": 9,
         "Exeggcute": 11,
-        "Corphish": 6,
+        "Corphish": 7,
         "Hoppip": 40,
         "Sandslash": 1,
         "Kabuto": 13,
@@ -111,7 +111,7 @@
         "Scizor": 2,
         "Sneasel": 17,
         "Bonsly": 2,
-        "Horsea": 47,
+        "Horsea": 48,
         "Frigibax": 45,
         "Spheal": 64,
         "Swadloon": 12,
@@ -203,7 +203,7 @@
         "Rhydon": 14,
         "Silcoon": 10,
         "Totodile": 11,
-        "Dodrio": 4,
+        "Dodrio": 5,
         "Cufant": 12,
         "Tympole": 39,
         "Swellow": 4,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 10,
         "Wailord": 3,
-        "Makuhita": 15,
+        "Makuhita": 16,
         "Lombre": 14,
         "Ursaluna": 4,
         "Furfrou": 2,
@@ -462,7 +462,7 @@
         "Paras": 12,
         "Herdier": 16,
         "Pineco": 11,
-        "Chikorita": 11,
+        "Chikorita": 12,
         "Woobat": 12,
         "Wobbuffet": 3,
         "Roselia": 6,
@@ -975,8 +975,8 @@
         "Octillery": 1,
         "Coalossal": 1
       },
-      "total_spawns": 10386,
-      "last_spawn": "2026-06-24T12:55:11.933013"
+      "total_spawns": 10391,
+      "last_spawn": "2026-06-24T12:55:47.218713"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1070,7 +1070,7 @@
     }
   },
   "global": {
-    "total_spawns": 14772,
+    "total_spawns": 14777,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
