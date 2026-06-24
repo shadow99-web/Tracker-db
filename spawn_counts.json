@@ -84,7 +84,7 @@
         "Mareep": 56,
         "Garbodor": 3,
         "Slakoth": 70,
-        "Togepi": 49,
+        "Togepi": 50,
         "Falinks": 6,
         "Tropius": 3,
         "Poliwag": 58,
@@ -92,7 +92,7 @@
         "Riolu": 15,
         "Exeggcute": 14,
         "Corphish": 10,
-        "Hoppip": 47,
+        "Hoppip": 48,
         "Sandslash": 2,
         "Kabuto": 16,
         "Scatterbug": 56,
@@ -387,7 +387,7 @@
         "Shellder": 16,
         "Crobat": 10,
         "Sandshrew": 15,
-        "Palafin": 10,
+        "Palafin": 11,
         "Maractus": 4,
         "Sigilyph": 4,
         "Unown m": 1,
@@ -416,7 +416,7 @@
         "Larvitar": 29,
         "Tentacool": 9,
         "Volcanion": 1,
-        "Roaming gimmighoul": 41,
+        "Roaming gimmighoul": 42,
         "Summer sawsbuck": 6,
         "Delibird": 4,
         "Ride cyclizar": 20,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 6,
         "Wartortle": 13,
-        "Cetoddle": 49,
+        "Cetoddle": 50,
         "Kricketot": 15,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -764,7 +764,7 @@
         "Smeargle": 3,
         "Gorebyss": 1,
         "Yanmega": 3,
-        "Pawmo": 6,
+        "Pawmo": 7,
         "Finneon": 9,
         "Mamoswine": 6,
         "Drifblim": 2,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12866,
-      "last_spawn": "2026-06-24T19:18:27.390629"
+      "total_spawns": 12872,
+      "last_spawn": "2026-06-24T19:19:07.175026"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17284,
+    "total_spawns": 17290,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
