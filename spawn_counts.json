@@ -130,7 +130,7 @@
         "Weedle": 60,
         "Flamigo": 42,
         "Lillipup": 46,
-        "Shinx": 46,
+        "Shinx": 47,
         "Bounsweet": 30,
         "Noibat": 15,
         "Toxicroak": 5,
@@ -264,7 +264,7 @@
         "Nincada": 17,
         "Fennekin": 20,
         "Quaxwell": 6,
-        "Vibrava": 10,
+        "Vibrava": 11,
         "Loudred": 6,
         "Ceruledge": 20,
         "Houndour": 12,
@@ -294,7 +294,7 @@
         "Jellicent": 4,
         "Torkoal": 2,
         "Ferroseed": 12,
-        "Brionne": 6,
+        "Brionne": 7,
         "Pancham": 12,
         "Venipede": 52,
         "Cacturne": 4,
@@ -334,7 +334,7 @@
         "Blitzle": 11,
         "Musharna": 2,
         "Bisharp": 3,
-        "Chespin": 9,
+        "Chespin": 10,
         "Sealeo": 12,
         "Staryu": 8,
         "Samurott": 2,
@@ -503,7 +503,7 @@
         "Mimikyu": 1,
         "Alolan sandslash": 1,
         "Empoleon": 3,
-        "Farigiraf": 12,
+        "Farigiraf": 13,
         "Hakamo-o": 9,
         "Glameow": 13,
         "Croagunk": 8,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9265,
-      "last_spawn": "2026-06-24T09:01:37.385622"
+      "total_spawns": 9270,
+      "last_spawn": "2026-06-24T09:02:11.798714"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13641,
+    "total_spawns": 13646,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
