@@ -87,7 +87,7 @@
         "Togepi": 48,
         "Falinks": 6,
         "Tropius": 3,
-        "Poliwag": 55,
+        "Poliwag": 56,
         "Metang": 10,
         "Riolu": 15,
         "Exeggcute": 14,
@@ -162,7 +162,7 @@
         "Yamper": 14,
         "Tepig": 31,
         "Kirlia": 14,
-        "Piplup": 12,
+        "Piplup": 13,
         "Kakuna": 18,
         "Weepinbell": 10,
         "Klawf": 56,
@@ -172,7 +172,7 @@
         "Taillow": 18,
         "Swinub": 58,
         "Inkay": 20,
-        "Gible": 39,
+        "Gible": 40,
         "Rookidee": 34,
         "Minccino": 18,
         "Wurmple": 47,
@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 2,
         "Toxapex": 4,
-        "Lileep": 11,
+        "Lileep": 12,
         "Rolycoly": 44,
         "Bronzor": 21,
         "Dartrix": 12,
@@ -338,7 +338,7 @@
         "Sealeo": 16,
         "Staryu": 9,
         "Samurott": 3,
-        "Torchic": 22,
+        "Torchic": 23,
         "Sobble": 24,
         "Mudkip": 15,
         "Charjabug": 12,
@@ -496,7 +496,7 @@
         "Poochyena": 12,
         "Klinklang": 4,
         "Basculin": 4,
-        "Throh": 6,
+        "Throh": 7,
         "Comfey": 3,
         "Applin": 18,
         "Staraptor": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12462,
-      "last_spawn": "2026-06-24T18:32:27.178701"
+      "total_spawns": 12468,
+      "last_spawn": "2026-06-24T18:33:06.984356"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16880,
+    "total_spawns": 16886,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
