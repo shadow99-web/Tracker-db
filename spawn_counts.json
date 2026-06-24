@@ -111,9 +111,9 @@
         "Scizor": 2,
         "Sneasel": 17,
         "Bonsly": 2,
-        "Horsea": 41,
+        "Horsea": 42,
         "Frigibax": 42,
-        "Spheal": 61,
+        "Spheal": 62,
         "Swadloon": 9,
         "Flittle": 42,
         "Unfezant": 3,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 54,
+        "Bellsprout": 55,
         "Mudbray": 12,
         "Dreepy": 40,
         "Tinkaton": 3,
@@ -414,7 +414,7 @@
         "Armarouge": 11,
         "Tyrantrum": 1,
         "Larvitar": 18,
-        "Tentacool": 7,
+        "Tentacool": 8,
         "Volcanion": 1,
         "Roaming gimmighoul": 28,
         "Summer sawsbuck": 6,
@@ -897,7 +897,7 @@
         "Elekid": 2,
         "Floette": 3,
         "Shedinja": 2,
-        "Baxcalibur": 2,
+        "Baxcalibur": 3,
         "Galarian articuno": 1,
         "Audino": 1,
         "Orange flower florges": 1,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9944,
-      "last_spawn": "2026-06-24T10:49:51.856688"
+      "total_spawns": 9949,
+      "last_spawn": "2026-06-24T10:50:27.234901"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14329,
+    "total_spawns": 14334,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
