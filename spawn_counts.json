@@ -124,7 +124,7 @@
         "Togetic": 12,
         "Palpitoad": 12,
         "Pikipek": 69,
-        "Teddiursa": 50,
+        "Teddiursa": 51,
         "Clamperl": 17,
         "Zigzagoon": 21,
         "Weedle": 82,
@@ -181,7 +181,7 @@
         "Quilladin": 7,
         "Geodude": 69,
         "Espurr": 11,
-        "Cottonee": 8,
+        "Cottonee": 9,
         "Elgyem": 13,
         "Luvdisc": 5,
         "Vigoroth": 20,
@@ -201,7 +201,7 @@
         "Probopass": 4,
         "Scraggy": 20,
         "Rhydon": 16,
-        "Silcoon": 12,
+        "Silcoon": 13,
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
@@ -224,7 +224,7 @@
         "Magmar": 15,
         "Rillaboom": 6,
         "Ninetales": 4,
-        "Wattrel": 65,
+        "Wattrel": 66,
         "Snubbull": 13,
         "Spidops": 14,
         "Braixen": 15,
@@ -246,7 +246,7 @@
         "Pignite": 15,
         "Lurantis": 1,
         "Swampert": 5,
-        "Dachsbun": 15,
+        "Dachsbun": 16,
         "Turtwig": 11,
         "Prinplup": 12,
         "Tinkatink": 61,
@@ -999,8 +999,8 @@
         "Tyranitar": 1,
         "Inteleon": 1
       },
-      "total_spawns": 12127,
-      "last_spawn": "2026-06-24T17:10:27.169025"
+      "total_spawns": 12132,
+      "last_spawn": "2026-06-24T17:10:57.315158"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1110,7 +1110,7 @@
     }
   },
   "global": {
-    "total_spawns": 16533,
+    "total_spawns": 16538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
