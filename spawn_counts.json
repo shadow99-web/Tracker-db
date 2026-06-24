@@ -29,7 +29,7 @@
         "Charmander": 20,
         "Morelull": 7,
         "Abra": 47,
-        "Sandile": 49,
+        "Sandile": 50,
         "Sandygast": 15,
         "Litwick": 74,
         "Grubbin": 41,
@@ -38,7 +38,7 @@
         "Kilowattrel": 9,
         "Lotad": 61,
         "Qwilfish": 5,
-        "Trapinch": 53,
+        "Trapinch": 54,
         "Toedscool": 37,
         "Fletchling": 35,
         "Skiploom": 12,
@@ -241,7 +241,7 @@
         "Galvantula": 3,
         "Chansey": 7,
         "Shroodle": 49,
-        "Duskull": 53,
+        "Duskull": 54,
         "Bergmite": 11,
         "Pignite": 14,
         "Lurantis": 1,
@@ -684,7 +684,7 @@
         "Blaziken": 2,
         "Stantler": 11,
         "Butterfree": 2,
-        "Koffing": 11,
+        "Koffing": 12,
         "Floragato": 8,
         "Seel": 9,
         "Shiinotic": 4,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9940,
-      "last_spawn": "2026-06-24T10:49:17.120998"
+      "total_spawns": 9944,
+      "last_spawn": "2026-06-24T10:49:51.856688"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14325,
+    "total_spawns": 14329,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
