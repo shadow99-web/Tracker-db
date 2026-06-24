@@ -83,7 +83,7 @@
         "Baltoy": 19,
         "Mareep": 41,
         "Garbodor": 2,
-        "Slakoth": 53,
+        "Slakoth": 54,
         "Togepi": 33,
         "Falinks": 5,
         "Tropius": 1,
@@ -99,17 +99,17 @@
         "Pumpkaboo": 12,
         "Numel": 22,
         "Carracosta": 3,
-        "Smearguru": 35,
+        "Smearguru": 36,
         "Veluza": 54,
         "Barboach": 16,
-        "Klink": 34,
+        "Klink": 35,
         "Honedge": 60,
         "Wingull": 16,
         "Salamence": 1,
         "Drakloak": 11,
         "Chewtle": 9,
         "Scizor": 1,
-        "Sneasel": 16,
+        "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 37,
         "Frigibax": 40,
@@ -628,7 +628,7 @@
         "Tatsugiri": 15,
         "Nidorino": 8,
         "Wailmer": 10,
-        "Krabby": 9,
+        "Krabby": 10,
         "Bronzong": 5,
         "Lanturn": 3,
         "Cacnea": 4,
@@ -934,7 +934,7 @@
         "Druddigon": 2,
         "Honchkrow": 2,
         "Pyukumuku": 2,
-        "Machoke": 3,
+        "Machoke": 4,
         "Sunshine cherrim": 1,
         "Beautifly": 2,
         "Ting-lu": 1,
@@ -967,8 +967,8 @@
         "Komala": 1,
         "Reshiram": 1
       },
-      "total_spawns": 9595,
-      "last_spawn": "2026-06-24T10:10:27.189326"
+      "total_spawns": 9601,
+      "last_spawn": "2026-06-24T10:11:07.077533"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1060,7 +1060,7 @@
     }
   },
   "global": {
-    "total_spawns": 13979,
+    "total_spawns": 13985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
