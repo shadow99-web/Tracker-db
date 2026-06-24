@@ -166,7 +166,7 @@
         "Kakuna": 16,
         "Weepinbell": 10,
         "Klawf": 51,
-        "Vanillite": 41,
+        "Vanillite": 42,
         "Flareon": 6,
         "Gastly": 43,
         "Taillow": 14,
@@ -356,7 +356,7 @@
         "Swirlix": 9,
         "Aromatisse": 3,
         "Muk": 4,
-        "Toxel": 12,
+        "Toxel": 13,
         "Banette": 3,
         "Three-segment dudunsparce": 3,
         "Fearow": 3,
@@ -369,7 +369,7 @@
         "Caterpie": 36,
         "Carvanha": 15,
         "Luxio": 12,
-        "Treecko": 19,
+        "Treecko": 20,
         "Sinistea": 6,
         "Cubchoo": 6,
         "Hippopotas": 7,
@@ -672,7 +672,7 @@
         "Primeape": 4,
         "Grimer": 7,
         "Crabominable": 4,
-        "Quaquaval": 3,
+        "Quaquaval": 4,
         "Sprigatito": 18,
         "Metagross": 5,
         "Eelektrik": 9,
@@ -781,7 +781,7 @@
         "Wishiwashi": 4,
         "Cofagrigus": 3,
         "Camerupt": 2,
-        "Castform": 7,
+        "Castform": 8,
         "Weavile": 1,
         "Gorging cramorant": 1,
         "Shieldon": 8,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11091,
-      "last_spawn": "2026-06-24T14:14:47.075161"
+      "total_spawns": 11096,
+      "last_spawn": "2026-06-24T14:15:18.125935"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15478,
+    "total_spawns": 15483,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
