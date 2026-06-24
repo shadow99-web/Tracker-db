@@ -52,10 +52,10 @@
         "Grotle": 11,
         "Porygon": 57,
         "Zubat": 67,
-        "Vanillish": 15,
+        "Vanillish": 16,
         "Tadbulb": 54,
         "Magnemite": 59,
-        "Whismur": 45,
+        "Whismur": 46,
         "Monferno": 17,
         "Skwovet": 12,
         "Bramblin": 59,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 14,
-        "Tympole": 43,
+        "Tympole": 44,
         "Swellow": 4,
         "Aipom": 9,
         "Growlithe": 12,
@@ -404,7 +404,7 @@
         "Squawkabilly": 17,
         "Electrike": 15,
         "Drampa": 3,
-        "Maschiff": 41,
+        "Maschiff": 42,
         "Rufflet": 21,
         "Kabutops": 6,
         "Dondozo": 40,
@@ -558,7 +558,7 @@
         "Araquanid": 4,
         "Kadabra": 13,
         "Chandelure": 6,
-        "Ponyta": 17,
+        "Ponyta": 18,
         "Togekiss": 5,
         "Braviary": 4,
         "Raboot": 14,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11555,
-      "last_spawn": "2026-06-24T16:05:51.792902"
+      "total_spawns": 11560,
+      "last_spawn": "2026-06-24T16:06:27.239296"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1084,12 +1084,13 @@
         "Fidough": 1,
         "Spritzee": 1,
         "Squawkabilly": 1,
-        "Beldum": 1,
+        "Beldum": 2,
         "Whismur": 1,
-        "Crabrawler": 1
+        "Crabrawler": 1,
+        "Mudkip": 1
       },
-      "total_spawns": 112,
-      "last_spawn": "2026-06-24T16:03:58.247349"
+      "total_spawns": 114,
+      "last_spawn": "2026-06-24T16:06:17.748496"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1099,7 +1100,7 @@
     }
   },
   "global": {
-    "total_spawns": 15954,
+    "total_spawns": 15961,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
