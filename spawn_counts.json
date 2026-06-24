@@ -77,7 +77,7 @@
         "Tarountula": 37,
         "Hatterene": 3,
         "Phantump": 18,
-        "Duosion": 12,
+        "Duosion": 13,
         "Amaura": 11,
         "Gimmighoul": 46,
         "Baltoy": 19,
@@ -130,7 +130,7 @@
         "Weedle": 65,
         "Flamigo": 44,
         "Lillipup": 51,
-        "Shinx": 50,
+        "Shinx": 51,
         "Bounsweet": 34,
         "Noibat": 15,
         "Toxicroak": 5,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 4,
         "Cufant": 11,
-        "Tympole": 33,
+        "Tympole": 34,
         "Swellow": 4,
         "Aipom": 8,
         "Growlithe": 11,
@@ -311,7 +311,7 @@
         "Zangoose": 6,
         "Flygon": 3,
         "Shellos": 7,
-        "Jigglypuff": 14,
+        "Jigglypuff": 15,
         "Nacli": 29,
         "Munna": 8,
         "Pawniard": 10,
@@ -338,7 +338,7 @@
         "Sealeo": 13,
         "Staryu": 8,
         "Samurott": 2,
-        "Torchic": 19,
+        "Torchic": 20,
         "Sobble": 19,
         "Mudkip": 12,
         "Charjabug": 10,
@@ -875,7 +875,7 @@
         "Magnezone": 2,
         "Alolan graveler": 1,
         "Cleffa": 3,
-        "Machamp": 3,
+        "Machamp": 4,
         "Altaria": 5,
         "Purugly": 5,
         "Seaking": 2,
@@ -971,8 +971,8 @@
         "Alolan raichu": 1,
         "Tapu fini": 1
       },
-      "total_spawns": 9949,
-      "last_spawn": "2026-06-24T10:50:27.234901"
+      "total_spawns": 9955,
+      "last_spawn": "2026-06-24T10:51:07.324454"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1065,7 @@
     }
   },
   "global": {
-    "total_spawns": 14334,
+    "total_spawns": 14340,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
