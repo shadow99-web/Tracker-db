@@ -45,7 +45,7 @@
         "Timburr": 54,
         "Dj rotom": 45,
         "Surskit": 24,
-        "Seedot": 42,
+        "Seedot": 43,
         "Skitty": 10,
         "Greavard": 55,
         "Slugma": 13,
@@ -276,7 +276,7 @@
         "Bagon": 22,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 17,
+        "Rowlet": 18,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 21,
@@ -450,7 +450,7 @@
         "Morgrem": 9,
         "Misdreavus": 11,
         "Seviper": 3,
-        "Scovillain": 12,
+        "Scovillain": 13,
         "Sunkern": 11,
         "Drizzile": 8,
         "Sunflora": 4,
@@ -547,7 +547,7 @@
         "Kangaskhan": 4,
         "Krokorok": 14,
         "Dragonair": 9,
-        "Zweilous": 7,
+        "Zweilous": 8,
         "Karrablast": 9,
         "Shroomish": 18,
         "Snover": 12,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 3,
+        "Typhlosion": 4,
         "Ariados": 2,
         "Volbeat": 6,
         "Burmy": 3,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11615,
-      "last_spawn": "2026-06-24T16:12:37.442264"
+      "total_spawns": 11620,
+      "last_spawn": "2026-06-24T16:13:11.983445"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1102,7 +1102,7 @@
     }
   },
   "global": {
-    "total_spawns": 16018,
+    "total_spawns": 16023,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
