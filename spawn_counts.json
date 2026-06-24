@@ -104,7 +104,7 @@
         "Barboach": 19,
         "Klink": 39,
         "Honedge": 65,
-        "Wingull": 18,
+        "Wingull": 19,
         "Salamence": 2,
         "Drakloak": 13,
         "Chewtle": 11,
@@ -130,7 +130,7 @@
         "Weedle": 73,
         "Flamigo": 51,
         "Lillipup": 56,
-        "Shinx": 58,
+        "Shinx": 59,
         "Bounsweet": 39,
         "Noibat": 17,
         "Toxicroak": 5,
@@ -248,7 +248,7 @@
         "Swampert": 5,
         "Dachsbun": 15,
         "Turtwig": 11,
-        "Prinplup": 11,
+        "Prinplup": 12,
         "Tinkatink": 60,
         "Lechonk": 49,
         "Kommo-o": 1,
@@ -416,7 +416,7 @@
         "Larvitar": 23,
         "Tentacool": 8,
         "Volcanion": 1,
-        "Roaming gimmighoul": 35,
+        "Roaming gimmighoul": 36,
         "Summer sawsbuck": 6,
         "Delibird": 3,
         "Ride cyclizar": 20,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11424,
-      "last_spawn": "2026-06-24T15:51:17.107189"
+      "total_spawns": 11428,
+      "last_spawn": "2026-06-24T15:51:47.135719"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15820,
+    "total_spawns": 15824,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
