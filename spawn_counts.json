@@ -18,7 +18,7 @@
         "Tranquill": 13,
         "Psyduck": 5,
         "Rockruff": 11,
-        "Haunter": 10,
+        "Haunter": 11,
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 6,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 55,
-        "Pidove": 52,
+        "Pidove": 53,
         "Dragapult": 6,
         "Rattata": 28,
         "Flapple": 8,
@@ -363,7 +363,7 @@
         "Mankey": 14,
         "Bidoof": 13,
         "Quilava": 20,
-        "Finizen": 54,
+        "Finizen": 55,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 36,
@@ -416,7 +416,7 @@
         "Larvitar": 23,
         "Tentacool": 8,
         "Volcanion": 1,
-        "Roaming gimmighoul": 32,
+        "Roaming gimmighoul": 33,
         "Summer sawsbuck": 6,
         "Delibird": 2,
         "Ride cyclizar": 20,
@@ -990,8 +990,8 @@
         "Diggersby": 1,
         "Hisuian voltorb": 1
       },
-      "total_spawns": 11147,
-      "last_spawn": "2026-06-24T14:20:57.129387"
+      "total_spawns": 11151,
+      "last_spawn": "2026-06-24T14:21:28.791266"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1086,7 +1086,7 @@
     }
   },
   "global": {
-    "total_spawns": 15534,
+    "total_spawns": 15538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
