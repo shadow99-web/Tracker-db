@@ -96,7 +96,7 @@
         "Sandslash": 1,
         "Kabuto": 13,
         "Scatterbug": 46,
-        "Pumpkaboo": 12,
+        "Pumpkaboo": 13,
         "Numel": 22,
         "Carracosta": 3,
         "Smearguru": 39,
@@ -131,7 +131,7 @@
         "Flamigo": 47,
         "Lillipup": 52,
         "Shinx": 53,
-        "Bounsweet": 35,
+        "Bounsweet": 36,
         "Noibat": 15,
         "Toxicroak": 5,
         "Charcadet": 60,
@@ -170,7 +170,7 @@
         "Flareon": 6,
         "Gastly": 40,
         "Taillow": 14,
-        "Swinub": 46,
+        "Swinub": 47,
         "Inkay": 18,
         "Gible": 32,
         "Rookidee": 30,
@@ -229,7 +229,7 @@
         "Spidops": 14,
         "Braixen": 14,
         "Drowzee": 15,
-        "Blipbug": 51,
+        "Blipbug": 52,
         "Lampent": 23,
         "Petilil": 11,
         "Marshtomp": 15,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 31,
         "Summer sawsbuck": 6,
         "Delibird": 2,
-        "Ride cyclizar": 18,
+        "Ride cyclizar": 19,
         "Gothorita": 11,
         "Varoom": 38,
         "Yellow plumage squawkabilly": 15,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10532,
-      "last_spawn": "2026-06-24T13:11:47.120176"
+      "total_spawns": 10537,
+      "last_spawn": "2026-06-24T13:12:17.138578"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14918,
+    "total_spawns": 14923,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
