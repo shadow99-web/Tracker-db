@@ -23,7 +23,7 @@
         "Orbeetle": 4,
         "Dedenne": 6,
         "Machop": 43,
-        "Dudunsparce": 10,
+        "Dudunsparce": 11,
         "Gothita": 49,
         "Impidimp": 44,
         "Charmander": 23,
@@ -130,7 +130,7 @@
         "Weedle": 80,
         "Flamigo": 52,
         "Lillipup": 57,
-        "Shinx": 61,
+        "Shinx": 62,
         "Bounsweet": 42,
         "Noibat": 19,
         "Toxicroak": 5,
@@ -139,7 +139,7 @@
         "Phanpy": 9,
         "Brambleghast": 14,
         "Pidgey": 72,
-        "Rhyhorn": 50,
+        "Rhyhorn": 51,
         "Sentret": 16,
         "Yungoos": 10,
         "Diglett": 22,
@@ -276,7 +276,7 @@
         "Bagon": 23,
         "Sudowoodo": 4,
         "Stoutland": 2,
-        "Rowlet": 20,
+        "Rowlet": 21,
         "Galarian slowpoke": 2,
         "Poliwhirl": 10,
         "Crocalor": 21,
@@ -456,7 +456,7 @@
         "Sunflora": 4,
         "Passimian": 4,
         "Iron moth": 1,
-        "Cherubi": 11,
+        "Cherubi": 12,
         "Cradily": 4,
         "Vulpix": 13,
         "Paras": 15,
@@ -997,8 +997,8 @@
         "Blade aegislash": 1,
         "Miltank": 1
       },
-      "total_spawns": 12056,
-      "last_spawn": "2026-06-24T17:02:31.764436"
+      "total_spawns": 12061,
+      "last_spawn": "2026-06-24T17:03:07.335409"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1107,7 +1107,7 @@
     }
   },
   "global": {
-    "total_spawns": 16461,
+    "total_spawns": 16466,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
