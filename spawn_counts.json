@@ -57,13 +57,13 @@
         "Magnemite": 59,
         "Whismur": 44,
         "Monferno": 17,
-        "Skwovet": 11,
+        "Skwovet": 12,
         "Bramblin": 59,
         "Yanma": 11,
         "Larvesta": 24,
         "Beldum": 43,
         "Ducklett": 10,
-        "Lokix": 14,
+        "Lokix": 15,
         "Glimmora": 16,
         "Starly": 62,
         "Tandemaus": 46,
@@ -84,7 +84,7 @@
         "Mareep": 48,
         "Garbodor": 3,
         "Slakoth": 62,
-        "Togepi": 45,
+        "Togepi": 46,
         "Falinks": 5,
         "Tropius": 2,
         "Poliwag": 51,
@@ -169,7 +169,7 @@
         "Vanillite": 43,
         "Flareon": 6,
         "Gastly": 44,
-        "Taillow": 16,
+        "Taillow": 17,
         "Swinub": 48,
         "Inkay": 18,
         "Gible": 34,
@@ -249,7 +249,7 @@
         "Dachsbun": 15,
         "Turtwig": 11,
         "Prinplup": 11,
-        "Tinkatink": 59,
+        "Tinkatink": 60,
         "Lechonk": 49,
         "Kommo-o": 1,
         "Dewott": 15,
@@ -363,7 +363,7 @@
         "Mankey": 14,
         "Bidoof": 13,
         "Quilava": 20,
-        "Finizen": 56,
+        "Finizen": 57,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 37,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11413,
-      "last_spawn": "2026-06-24T15:50:07.754465"
+      "total_spawns": 11419,
+      "last_spawn": "2026-06-24T15:50:47.007312"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1097,7 +1097,7 @@
     }
   },
   "global": {
-    "total_spawns": 15809,
+    "total_spawns": 15815,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
