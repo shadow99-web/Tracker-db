@@ -115,7 +115,7 @@
         "Frigibax": 43,
         "Spheal": 63,
         "Swadloon": 10,
-        "Flittle": 42,
+        "Flittle": 43,
         "Unfezant": 3,
         "Yamask": 8,
         "Ralts": 40,
@@ -160,7 +160,7 @@
         "Delcatty": 4,
         "Spiritomb": 4,
         "Yamper": 10,
-        "Tepig": 27,
+        "Tepig": 28,
         "Kirlia": 11,
         "Piplup": 7,
         "Kakuna": 16,
@@ -269,7 +269,7 @@
         "Ceruledge": 23,
         "Houndour": 13,
         "Glimmet": 50,
-        "Goomy": 24,
+        "Goomy": 25,
         "Zapdos": 1,
         "Natu": 14,
         "Dhelmise": 2,
@@ -334,7 +334,7 @@
         "Blitzle": 13,
         "Musharna": 2,
         "Bisharp": 3,
-        "Chespin": 12,
+        "Chespin": 13,
         "Sealeo": 13,
         "Staryu": 8,
         "Samurott": 2,
@@ -536,7 +536,7 @@
         "Trubbish": 4,
         "Zorua": 8,
         "Archen": 18,
-        "Oinkologne": 13,
+        "Oinkologne": 14,
         "Onix": 9,
         "Vanilluxe": 2,
         "Jolteon": 5,
@@ -973,8 +973,8 @@
         "Minun": 1,
         "Wo-chien": 1
       },
-      "total_spawns": 10157,
-      "last_spawn": "2026-06-24T11:13:37.326545"
+      "total_spawns": 10162,
+      "last_spawn": "2026-06-24T11:14:11.703473"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14542,
+    "total_spawns": 14547,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
