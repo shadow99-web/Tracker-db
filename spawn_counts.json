@@ -12,7 +12,7 @@
         "Rellor": 49,
         "Sandy burmy": 9,
         "Wiglett": 63,
-        "Bombirdier": 50,
+        "Bombirdier": 51,
         "Litleo": 15,
         "Purrloin": 10,
         "Tranquill": 15,
@@ -25,7 +25,7 @@
         "Machop": 43,
         "Dudunsparce": 11,
         "Gothita": 49,
-        "Impidimp": 44,
+        "Impidimp": 45,
         "Charmander": 23,
         "Morelull": 11,
         "Abra": 60,
@@ -512,7 +512,7 @@
         "Starmie": 6,
         "Simipour": 1,
         "Goldeen": 16,
-        "Nickit": 17,
+        "Nickit": 18,
         "Ivysaur": 12,
         "Milcery": 14,
         "Gabite": 4,
@@ -522,7 +522,7 @@
         "Foongus": 15,
         "Pansage": 9,
         "Cranidos": 16,
-        "Spewpa": 13,
+        "Spewpa": 14,
         "Tyrunt": 11,
         "Garganacl": 1,
         "Chinchou": 10,
@@ -549,7 +549,7 @@
         "Dragonair": 9,
         "Zweilous": 8,
         "Karrablast": 9,
-        "Shroomish": 18,
+        "Shroomish": 19,
         "Snover": 12,
         "Drednaw": 4,
         "Skarmory": 5,
@@ -739,7 +739,7 @@
         "Thievul": 3,
         "Greedent": 5,
         "Ekans": 14,
-        "Venonat": 13,
+        "Venonat": 14,
         "Pelipper": 4,
         "Metapod": 13,
         "Kricketune": 5,
@@ -1000,8 +1000,8 @@
         "Inteleon": 1,
         "Rotom drone": 1
       },
-      "total_spawns": 12270,
-      "last_spawn": "2026-06-24T17:26:27.226594"
+      "total_spawns": 12276,
+      "last_spawn": "2026-06-24T17:27:07.100462"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1113,7 +1113,7 @@
     }
   },
   "global": {
-    "total_spawns": 16678,
+    "total_spawns": 16684,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
