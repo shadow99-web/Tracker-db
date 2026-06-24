@@ -41,7 +41,7 @@
         "Trapinch": 58,
         "Toedscool": 42,
         "Fletchling": 36,
-        "Skiploom": 12,
+        "Skiploom": 13,
         "Timburr": 50,
         "Dj rotom": 43,
         "Surskit": 22,
@@ -118,7 +118,7 @@
         "Flittle": 45,
         "Unfezant": 3,
         "Yamask": 8,
-        "Ralts": 42,
+        "Ralts": 43,
         "Solosis": 47,
         "Battle cyclizar": 20,
         "Togetic": 10,
@@ -175,7 +175,7 @@
         "Gible": 32,
         "Rookidee": 30,
         "Minccino": 15,
-        "Wurmple": 39,
+        "Wurmple": 40,
         "Binacle": 16,
         "Grafaiai": 9,
         "Quilladin": 6,
@@ -423,7 +423,7 @@
         "Gothorita": 11,
         "Varoom": 40,
         "Yellow plumage squawkabilly": 15,
-        "Centiskorch": 4,
+        "Centiskorch": 5,
         "Low key toxtricity": 1,
         "Grapploct": 2,
         "Gurdurr": 9,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 5,
         "Scyther": 14,
-        "Anorith": 16,
+        "Anorith": 17,
         "Meowth": 8,
         "Combee": 9,
         "Fletchinder": 16,
@@ -981,8 +981,8 @@
         "Slaking": 1,
         "Munkidori": 1
       },
-      "total_spawns": 10764,
-      "last_spawn": "2026-06-24T13:38:07.179975"
+      "total_spawns": 10769,
+      "last_spawn": "2026-06-24T13:38:37.309661"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1077,7 +1077,7 @@
     }
   },
   "global": {
-    "total_spawns": 15151,
+    "total_spawns": 15156,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
