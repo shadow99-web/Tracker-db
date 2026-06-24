@@ -9,7 +9,7 @@
         "Drilbur": 12,
         "Pawmi": 45,
         "Electabuzz": 8,
-        "Rellor": 39,
+        "Rellor": 40,
         "Sandy burmy": 9,
         "Wiglett": 53,
         "Bombirdier": 36,
@@ -66,7 +66,7 @@
         "Lokix": 12,
         "Glimmora": 16,
         "Starly": 51,
-        "Tandemaus": 40,
+        "Tandemaus": 41,
         "Smoliv": 59,
         "Gloom": 12,
         "Clefairy": 11,
@@ -84,7 +84,7 @@
         "Mareep": 42,
         "Garbodor": 2,
         "Slakoth": 55,
-        "Togepi": 35,
+        "Togepi": 36,
         "Falinks": 5,
         "Tropius": 1,
         "Poliwag": 40,
@@ -117,7 +117,7 @@
         "Swadloon": 9,
         "Flittle": 42,
         "Unfezant": 3,
-        "Yamask": 5,
+        "Yamask": 6,
         "Ralts": 39,
         "Solosis": 46,
         "Battle cyclizar": 17,
@@ -375,7 +375,7 @@
         "Hippopotas": 7,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
-        "Mabosstiff": 11,
+        "Mabosstiff": 12,
         "Squirtle": 19,
         "Remoraid": 6,
         "Torracat": 12,
@@ -967,10 +967,11 @@
         "Komala": 1,
         "Reshiram": 1,
         "Azumarill": 1,
-        "Galarian farfetch'd": 1
+        "Galarian farfetch'd": 1,
+        "Alolan raichu": 1
       },
-      "total_spawns": 9833,
-      "last_spawn": "2026-06-24T10:37:27.160264"
+      "total_spawns": 9839,
+      "last_spawn": "2026-06-24T10:38:07.091926"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1063,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14218,
+    "total_spawns": 14224,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
