@@ -7,7 +7,7 @@
         "Patrat": 12,
         "Mosslax": 29,
         "Drilbur": 12,
-        "Pawmi": 49,
+        "Pawmi": 50,
         "Electabuzz": 8,
         "Rellor": 42,
         "Sandy burmy": 9,
@@ -43,7 +43,7 @@
         "Fletchling": 36,
         "Skiploom": 12,
         "Timburr": 48,
-        "Dj rotom": 41,
+        "Dj rotom": 42,
         "Surskit": 21,
         "Seedot": 37,
         "Skitty": 10,
@@ -107,7 +107,7 @@
         "Wingull": 18,
         "Salamence": 2,
         "Drakloak": 13,
-        "Chewtle": 10,
+        "Chewtle": 11,
         "Scizor": 2,
         "Sneasel": 17,
         "Bonsly": 2,
@@ -593,7 +593,7 @@
         "Rainy castform": 1,
         "Galarian darumaka": 1,
         "Mienfoo": 12,
-        "Dewgong": 4,
+        "Dewgong": 5,
         "Wartortle": 13,
         "Cetoddle": 38,
         "Kricketot": 13,
@@ -649,7 +649,7 @@
         "Shiftry": 1,
         "Arbok": 2,
         "Stretchy tatsugiri": 16,
-        "Mareanie": 9,
+        "Mareanie": 11,
         "Seadra": 7,
         "Beheeyem": 4,
         "Pinsir": 4,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10479,
-      "last_spawn": "2026-06-24T13:05:47.434483"
+      "total_spawns": 10485,
+      "last_spawn": "2026-06-24T13:06:27.190938"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14865,
+    "total_spawns": 14871,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
