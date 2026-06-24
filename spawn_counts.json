@@ -381,7 +381,7 @@
         "Torracat": 17,
         "Hisuian zorua": 1,
         "Wooloo": 12,
-        "Drifloon": 9,
+        "Drifloon": 10,
         "Golbat": 16,
         "Swablu": 14,
         "Shellder": 15,
@@ -611,7 +611,7 @@
         "Sandy wormadam": 2,
         "Stunky": 12,
         "Pupitar": 11,
-        "Avalugg": 4,
+        "Avalugg": 5,
         "Magby": 6,
         "Wigglytuff": 3,
         "Venusaur": 7,
@@ -625,7 +625,7 @@
         "Gardevoir": 2,
         "Malamar": 3,
         "Frost rotom": 2,
-        "Tatsugiri": 17,
+        "Tatsugiri": 18,
         "Nidorino": 10,
         "Wailmer": 16,
         "Krabby": 17,
@@ -649,7 +649,7 @@
         "Shiftry": 1,
         "Arbok": 4,
         "Stretchy tatsugiri": 18,
-        "Mareanie": 15,
+        "Mareanie": 16,
         "Seadra": 7,
         "Beheeyem": 4,
         "Pinsir": 6,
@@ -836,7 +836,7 @@
         "Arctovish": 6,
         "Ribombee": 2,
         "Alolan meowth": 1,
-        "Klang": 5,
+        "Klang": 6,
         "Manectric": 2,
         "Gallade": 3,
         "Family of three maushold": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12503,
-      "last_spawn": "2026-06-24T18:36:57.589366"
+      "total_spawns": 12508,
+      "last_spawn": "2026-06-24T18:37:31.733688"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16921,
+    "total_spawns": 16926,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
