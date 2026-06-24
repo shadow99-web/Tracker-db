@@ -18,7 +18,7 @@
         "Tranquill": 15,
         "Psyduck": 7,
         "Rockruff": 12,
-        "Haunter": 11,
+        "Haunter": 12,
         "Tangela": 15,
         "Orbeetle": 4,
         "Dedenne": 6,
@@ -119,7 +119,7 @@
         "Unfezant": 6,
         "Yamask": 9,
         "Ralts": 49,
-        "Solosis": 53,
+        "Solosis": 54,
         "Battle cyclizar": 23,
         "Togetic": 12,
         "Palpitoad": 12,
@@ -127,14 +127,14 @@
         "Teddiursa": 50,
         "Clamperl": 17,
         "Zigzagoon": 21,
-        "Weedle": 81,
+        "Weedle": 82,
         "Flamigo": 52,
         "Lillipup": 57,
         "Shinx": 63,
         "Bounsweet": 42,
         "Noibat": 19,
         "Toxicroak": 5,
-        "Charcadet": 68,
+        "Charcadet": 69,
         "Croconaw": 14,
         "Phanpy": 9,
         "Brambleghast": 14,
@@ -314,7 +314,7 @@
         "Jigglypuff": 19,
         "Nacli": 35,
         "Munna": 12,
-        "Pawniard": 11,
+        "Pawniard": 12,
         "Prof tangrowth": 35,
         "Jangmo-o": 27,
         "Trash wormadam": 4,
@@ -369,7 +369,7 @@
         "Caterpie": 40,
         "Carvanha": 16,
         "Luxio": 12,
-        "Treecko": 25,
+        "Treecko": 26,
         "Sinistea": 8,
         "Cubchoo": 7,
         "Hippopotas": 8,
@@ -997,8 +997,8 @@
         "Blade aegislash": 1,
         "Miltank": 1
       },
-      "total_spawns": 12082,
-      "last_spawn": "2026-06-24T17:05:27.142285"
+      "total_spawns": 12088,
+      "last_spawn": "2026-06-24T17:06:07.287397"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1107,7 +1107,7 @@
     }
   },
   "global": {
-    "total_spawns": 16487,
+    "total_spawns": 16493,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
