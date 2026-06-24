@@ -134,7 +134,7 @@
         "Bounsweet": 34,
         "Noibat": 15,
         "Toxicroak": 5,
-        "Charcadet": 51,
+        "Charcadet": 52,
         "Croconaw": 13,
         "Phanpy": 7,
         "Brambleghast": 11,
@@ -226,7 +226,7 @@
         "Ninetales": 2,
         "Wattrel": 53,
         "Snubbull": 12,
-        "Spidops": 12,
+        "Spidops": 13,
         "Braixen": 14,
         "Drowzee": 13,
         "Blipbug": 45,
@@ -405,7 +405,7 @@
         "Electrike": 13,
         "Drampa": 2,
         "Maschiff": 31,
-        "Rufflet": 15,
+        "Rufflet": 16,
         "Kabutops": 4,
         "Dondozo": 34,
         "Pansear": 11,
@@ -525,7 +525,7 @@
         "Spewpa": 8,
         "Tyrunt": 9,
         "Garganacl": 1,
-        "Chinchou": 4,
+        "Chinchou": 5,
         "Maushold": 14,
         "Bastiodon": 1,
         "Floatzel": 2,
@@ -670,7 +670,7 @@
         "Appletun": 1,
         "Krookodile": 5,
         "Primeape": 4,
-        "Grimer": 6,
+        "Grimer": 7,
         "Crabominable": 3,
         "Quaquaval": 2,
         "Sprigatito": 16,
@@ -966,8 +966,8 @@
         "Seismitoad": 1,
         "Komala": 1
       },
-      "total_spawns": 9543,
-      "last_spawn": "2026-06-24T10:04:27.272442"
+      "total_spawns": 9548,
+      "last_spawn": "2026-06-24T10:04:57.444680"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1059,7 +1059,7 @@
     }
   },
   "global": {
-    "total_spawns": 13927,
+    "total_spawns": 13932,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
