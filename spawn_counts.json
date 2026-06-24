@@ -23,7 +23,7 @@
         "Orbeetle": 3,
         "Dedenne": 4,
         "Machop": 35,
-        "Dudunsparce": 8,
+        "Dudunsparce": 9,
         "Gothita": 41,
         "Impidimp": 39,
         "Charmander": 20,
@@ -53,7 +53,7 @@
         "Porygon": 46,
         "Zubat": 57,
         "Vanillish": 12,
-        "Tadbulb": 46,
+        "Tadbulb": 47,
         "Magnemite": 54,
         "Whismur": 40,
         "Monferno": 16,
@@ -84,7 +84,7 @@
         "Mareep": 43,
         "Garbodor": 2,
         "Slakoth": 55,
-        "Togepi": 37,
+        "Togepi": 38,
         "Falinks": 5,
         "Tropius": 1,
         "Poliwag": 40,
@@ -172,7 +172,7 @@
         "Taillow": 13,
         "Swinub": 44,
         "Inkay": 18,
-        "Gible": 30,
+        "Gible": 31,
         "Rookidee": 29,
         "Minccino": 14,
         "Wurmple": 38,
@@ -969,10 +969,11 @@
         "Azumarill": 1,
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1,
-        "Tapu fini": 1
+        "Tapu fini": 1,
+        "Minun": 1
       },
-      "total_spawns": 9988,
-      "last_spawn": "2026-06-24T10:54:47.012024"
+      "total_spawns": 9993,
+      "last_spawn": "2026-06-24T10:55:17.427486"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1065,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14373,
+    "total_spawns": 14378,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
