@@ -92,7 +92,7 @@
         "Riolu": 9,
         "Exeggcute": 12,
         "Corphish": 7,
-        "Hoppip": 40,
+        "Hoppip": 41,
         "Sandslash": 1,
         "Kabuto": 13,
         "Scatterbug": 45,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 51,
-        "Pidove": 46,
+        "Pidove": 47,
         "Dragapult": 6,
         "Rattata": 28,
         "Flapple": 8,
@@ -367,7 +367,7 @@
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 35,
-        "Carvanha": 13,
+        "Carvanha": 14,
         "Luxio": 12,
         "Treecko": 19,
         "Sinistea": 6,
@@ -746,7 +746,7 @@
         "Nidoqueen": 3,
         "Hitmonchan": 1,
         "Relicanth": 1,
-        "Klefki": 3,
+        "Klefki": 4,
         "Frogadier": 13,
         "Dewpider": 7,
         "Poltchageist": 2,
@@ -976,8 +976,8 @@
         "Coalossal": 1,
         "Sandy shocks": 1
       },
-      "total_spawns": 10496,
-      "last_spawn": "2026-06-24T13:07:37.535827"
+      "total_spawns": 10500,
+      "last_spawn": "2026-06-24T13:08:12.004972"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1071,7 +1071,7 @@
     }
   },
   "global": {
-    "total_spawns": 14882,
+    "total_spawns": 14886,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
