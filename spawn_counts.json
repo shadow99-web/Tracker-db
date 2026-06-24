@@ -162,7 +162,7 @@
         "Yamper": 14,
         "Tepig": 31,
         "Kirlia": 14,
-        "Piplup": 11,
+        "Piplup": 12,
         "Kakuna": 18,
         "Weepinbell": 10,
         "Klawf": 56,
@@ -172,7 +172,7 @@
         "Taillow": 18,
         "Swinub": 56,
         "Inkay": 20,
-        "Gible": 36,
+        "Gible": 37,
         "Rookidee": 34,
         "Minccino": 18,
         "Wurmple": 47,
@@ -296,7 +296,7 @@
         "Ferroseed": 18,
         "Brionne": 9,
         "Pancham": 14,
-        "Venipede": 69,
+        "Venipede": 70,
         "Cacturne": 4,
         "Oddish": 52,
         "Dragalge": 4,
@@ -411,7 +411,7 @@
         "Pansear": 16,
         "Cutiefly": 10,
         "Peakychu": 38,
-        "Armarouge": 15,
+        "Armarouge": 16,
         "Tyrantrum": 1,
         "Larvitar": 27,
         "Tentacool": 9,
@@ -456,7 +456,7 @@
         "Sunflora": 4,
         "Passimian": 4,
         "Iron moth": 1,
-        "Cherubi": 12,
+        "Cherubi": 13,
         "Cradily": 4,
         "Vulpix": 13,
         "Paras": 16,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12410,
-      "last_spawn": "2026-06-24T18:26:37.178299"
+      "total_spawns": 12415,
+      "last_spawn": "2026-06-24T18:27:11.741538"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16827,
+    "total_spawns": 16832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
