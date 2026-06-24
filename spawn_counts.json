@@ -79,7 +79,7 @@
         "Phantump": 18,
         "Duosion": 12,
         "Amaura": 11,
-        "Gimmighoul": 40,
+        "Gimmighoul": 41,
         "Baltoy": 18,
         "Mareep": 41,
         "Garbodor": 2,
@@ -362,7 +362,7 @@
         "Fearow": 3,
         "Mankey": 10,
         "Bidoof": 12,
-        "Quilava": 18,
+        "Quilava": 19,
         "Finizen": 46,
         "Unown y": 1,
         "Toucannon": 3,
@@ -483,7 +483,7 @@
         "Magikarp": 9,
         "Tyrogue": 10,
         "Vikavolt": 1,
-        "Trash burmy": 2,
+        "Trash burmy": 3,
         "Staravia": 10,
         "Chatot": 3,
         "Houndoom": 5,
@@ -624,7 +624,7 @@
         "Manaphy": 1,
         "Gardevoir": 1,
         "Malamar": 2,
-        "Frost rotom": 1,
+        "Frost rotom": 2,
         "Tatsugiri": 15,
         "Nidorino": 8,
         "Wailmer": 10,
@@ -638,7 +638,7 @@
         "Glalie": 2,
         "Latios": 1,
         "Silicobra": 10,
-        "Snom": 5,
+        "Snom": 6,
         "East sea shellos": 6,
         "Corsola": 8,
         "Venomoth": 5,
@@ -651,7 +651,7 @@
         "Stretchy tatsugiri": 16,
         "Mareanie": 8,
         "Seadra": 7,
-        "Beheeyem": 3,
+        "Beheeyem": 4,
         "Pinsir": 4,
         "Mothim": 3,
         "Whirlipede": 12,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9283,
-      "last_spawn": "2026-06-24T09:03:47.536460"
+      "total_spawns": 9289,
+      "last_spawn": "2026-06-24T09:04:27.283704"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13659,
+    "total_spawns": 13665,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
