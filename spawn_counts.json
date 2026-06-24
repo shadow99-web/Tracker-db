@@ -100,7 +100,7 @@
         "Numel": 22,
         "Carracosta": 4,
         "Smearguru": 40,
-        "Veluza": 64,
+        "Veluza": 65,
         "Barboach": 20,
         "Klink": 45,
         "Honedge": 73,
@@ -133,7 +133,7 @@
         "Shinx": 66,
         "Bounsweet": 43,
         "Noibat": 19,
-        "Toxicroak": 5,
+        "Toxicroak": 6,
         "Charcadet": 69,
         "Croconaw": 14,
         "Phanpy": 9,
@@ -174,7 +174,7 @@
         "Inkay": 20,
         "Gible": 40,
         "Rookidee": 34,
-        "Minccino": 18,
+        "Minccino": 19,
         "Wurmple": 47,
         "Binacle": 19,
         "Grafaiai": 10,
@@ -200,7 +200,7 @@
         "Toedscruel": 18,
         "Probopass": 5,
         "Scraggy": 20,
-        "Rhydon": 16,
+        "Rhydon": 17,
         "Silcoon": 14,
         "Totodile": 11,
         "Dodrio": 6,
@@ -338,7 +338,7 @@
         "Sealeo": 16,
         "Staryu": 9,
         "Samurott": 3,
-        "Torchic": 23,
+        "Torchic": 24,
         "Sobble": 24,
         "Mudkip": 15,
         "Charjabug": 12,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12538,
-      "last_spawn": "2026-06-24T18:40:52.023016"
+      "total_spawns": 12543,
+      "last_spawn": "2026-06-24T18:41:27.053465"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16956,
+    "total_spawns": 16961,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
