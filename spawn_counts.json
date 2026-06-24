@@ -106,13 +106,13 @@
         "Honedge": 61,
         "Wingull": 17,
         "Salamence": 1,
-        "Drakloak": 11,
+        "Drakloak": 12,
         "Chewtle": 9,
         "Scizor": 2,
         "Sneasel": 17,
         "Bonsly": 2,
         "Horsea": 44,
-        "Frigibax": 43,
+        "Frigibax": 44,
         "Spheal": 63,
         "Swadloon": 10,
         "Flittle": 43,
@@ -134,7 +134,7 @@
         "Bounsweet": 35,
         "Noibat": 15,
         "Toxicroak": 5,
-        "Charcadet": 57,
+        "Charcadet": 58,
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 13,
@@ -174,7 +174,7 @@
         "Inkay": 18,
         "Gible": 31,
         "Rookidee": 29,
-        "Minccino": 14,
+        "Minccino": 15,
         "Wurmple": 39,
         "Binacle": 16,
         "Grafaiai": 9,
@@ -353,7 +353,7 @@
         "Arboliva": 4,
         "Ledyba": 13,
         "Spritzee": 8,
-        "Swirlix": 6,
+        "Swirlix": 7,
         "Aromatisse": 3,
         "Muk": 4,
         "Toxel": 11,
@@ -765,7 +765,7 @@
         "Gorebyss": 1,
         "Yanmega": 2,
         "Pawmo": 5,
-        "Finneon": 6,
+        "Finneon": 7,
         "Mamoswine": 3,
         "Drifblim": 2,
         "Meowscarada": 3,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10198,
-      "last_spawn": "2026-06-24T11:18:27.187200"
+      "total_spawns": 10204,
+      "last_spawn": "2026-06-24T11:19:07.018284"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14583,
+    "total_spawns": 14589,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
