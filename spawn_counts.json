@@ -24,7 +24,7 @@
         "Dedenne": 4,
         "Machop": 35,
         "Dudunsparce": 9,
-        "Gothita": 41,
+        "Gothita": 42,
         "Impidimp": 39,
         "Charmander": 20,
         "Morelull": 7,
@@ -240,7 +240,7 @@
         "Omanyte": 9,
         "Galvantula": 3,
         "Chansey": 7,
-        "Shroodle": 49,
+        "Shroodle": 50,
         "Duskull": 54,
         "Bergmite": 11,
         "Pignite": 14,
@@ -264,7 +264,7 @@
         "Nincada": 19,
         "Fennekin": 20,
         "Quaxwell": 9,
-        "Vibrava": 12,
+        "Vibrava": 13,
         "Loudred": 8,
         "Ceruledge": 23,
         "Houndour": 12,
@@ -353,7 +353,7 @@
         "Arboliva": 4,
         "Ledyba": 13,
         "Spritzee": 8,
-        "Swirlix": 5,
+        "Swirlix": 6,
         "Aromatisse": 3,
         "Muk": 4,
         "Toxel": 11,
@@ -512,7 +512,7 @@
         "Starmie": 6,
         "Simipour": 1,
         "Goldeen": 14,
-        "Nickit": 15,
+        "Nickit": 16,
         "Ivysaur": 9,
         "Milcery": 10,
         "Gabite": 4,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 10040,
-      "last_spawn": "2026-06-24T11:00:31.964963"
+      "total_spawns": 10045,
+      "last_spawn": "2026-06-24T11:01:07.163838"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14425,
+    "total_spawns": 14430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
