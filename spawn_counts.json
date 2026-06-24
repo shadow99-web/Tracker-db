@@ -33,7 +33,7 @@
         "Sandygast": 18,
         "Litwick": 82,
         "Grubbin": 49,
-        "Escavalier": 8,
+        "Escavalier": 9,
         "Dratini": 41,
         "Kilowattrel": 15,
         "Lotad": 79,
@@ -421,7 +421,7 @@
         "Delibird": 3,
         "Ride cyclizar": 20,
         "Gothorita": 13,
-        "Varoom": 48,
+        "Varoom": 49,
         "Yellow plumage squawkabilly": 18,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -573,7 +573,7 @@
         "Noice face eiscue": 3,
         "Electivire": 4,
         "Cascoon": 9,
-        "Tentacruel": 6,
+        "Tentacruel": 7,
         "Nuzleaf": 10,
         "Scorbunny": 19,
         "Huntail": 6,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 3,
         "Medicham": 3,
         "Doublade": 13,
-        "Naclstack": 10,
+        "Naclstack": 11,
         "Claydol": 3,
         "Turtonator": 3,
         "Hitmonlee": 2,
@@ -697,7 +697,7 @@
         "Bruxish": 3,
         "Corvisquire": 7,
         "Mantine": 6,
-        "Electrode": 3,
+        "Electrode": 4,
         "Celebi": 1,
         "Hero palafin": 3,
         "Litten": 17,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12405,
-      "last_spawn": "2026-06-24T18:26:07.088474"
+      "total_spawns": 12410,
+      "last_spawn": "2026-06-24T18:26:37.178299"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16822,
+    "total_spawns": 16827,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
