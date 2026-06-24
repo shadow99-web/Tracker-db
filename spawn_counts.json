@@ -129,7 +129,7 @@
         "Zigzagoon": 21,
         "Weedle": 82,
         "Flamigo": 53,
-        "Lillipup": 59,
+        "Lillipup": 60,
         "Shinx": 67,
         "Bounsweet": 44,
         "Noibat": 19,
@@ -240,7 +240,7 @@
         "Omanyte": 12,
         "Galvantula": 3,
         "Chansey": 8,
-        "Shroodle": 59,
+        "Shroodle": 60,
         "Duskull": 68,
         "Bergmite": 15,
         "Pignite": 16,
@@ -375,7 +375,7 @@
         "Hippopotas": 10,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
-        "Mabosstiff": 14,
+        "Mabosstiff": 15,
         "Squirtle": 26,
         "Remoraid": 8,
         "Torracat": 17,
@@ -550,7 +550,7 @@
         "Zweilous": 9,
         "Karrablast": 11,
         "Shroomish": 19,
-        "Snover": 12,
+        "Snover": 13,
         "Drednaw": 4,
         "Skarmory": 5,
         "Midnight lycanroc": 4,
@@ -579,7 +579,7 @@
         "Huntail": 6,
         "Galarian meowth": 1,
         "Spoink": 6,
-        "Scyther": 18,
+        "Scyther": 19,
         "Anorith": 20,
         "Meowth": 11,
         "Combee": 10,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12728,
-      "last_spawn": "2026-06-24T19:02:47.148394"
+      "total_spawns": 12733,
+      "last_spawn": "2026-06-24T19:03:17.258332"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17146,
+    "total_spawns": 17151,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
