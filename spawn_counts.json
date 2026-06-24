@@ -31,7 +31,7 @@
         "Abra": 46,
         "Sandile": 49,
         "Sandygast": 15,
-        "Litwick": 69,
+        "Litwick": 70,
         "Grubbin": 40,
         "Escavalier": 6,
         "Dratini": 33,
@@ -119,7 +119,7 @@
         "Unfezant": 3,
         "Yamask": 5,
         "Ralts": 38,
-        "Solosis": 45,
+        "Solosis": 46,
         "Battle cyclizar": 16,
         "Togetic": 9,
         "Palpitoad": 6,
@@ -340,7 +340,7 @@
         "Samurott": 2,
         "Torchic": 19,
         "Sobble": 18,
-        "Mudkip": 10,
+        "Mudkip": 11,
         "Charjabug": 10,
         "Capsakid": 35,
         "Revavroom": 15,
@@ -458,7 +458,7 @@
         "Iron moth": 1,
         "Cherubi": 8,
         "Cradily": 3,
-        "Vulpix": 11,
+        "Vulpix": 12,
         "Paras": 12,
         "Herdier": 13,
         "Pineco": 11,
@@ -552,7 +552,7 @@
         "Shroomish": 16,
         "Snover": 10,
         "Drednaw": 4,
-        "Skarmory": 4,
+        "Skarmory": 5,
         "Midnight lycanroc": 4,
         "Eelektross": 2,
         "Araquanid": 4,
@@ -595,7 +595,7 @@
         "Mienfoo": 12,
         "Dewgong": 4,
         "Wartortle": 12,
-        "Cetoddle": 32,
+        "Cetoddle": 33,
         "Kricketot": 12,
         "Porygon-z": 2,
         "Conkeldurr": 4,
@@ -968,8 +968,8 @@
         "Reshiram": 1,
         "Azumarill": 1
       },
-      "total_spawns": 9702,
-      "last_spawn": "2026-06-24T10:22:27.147182"
+      "total_spawns": 9708,
+      "last_spawn": "2026-06-24T10:23:07.128462"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1061,7 +1061,7 @@
     }
   },
   "global": {
-    "total_spawns": 14086,
+    "total_spawns": 14092,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
