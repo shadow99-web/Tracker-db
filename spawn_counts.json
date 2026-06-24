@@ -22,7 +22,7 @@
         "Tangela": 17,
         "Orbeetle": 4,
         "Dedenne": 6,
-        "Machop": 44,
+        "Machop": 45,
         "Dudunsparce": 12,
         "Gothita": 49,
         "Impidimp": 47,
@@ -135,7 +135,7 @@
         "Noibat": 19,
         "Toxicroak": 6,
         "Charcadet": 70,
-        "Croconaw": 15,
+        "Croconaw": 16,
         "Phanpy": 9,
         "Brambleghast": 16,
         "Pidgey": 75,
@@ -457,7 +457,7 @@
         "Passimian": 4,
         "Iron moth": 1,
         "Cherubi": 13,
-        "Cradily": 4,
+        "Cradily": 5,
         "Vulpix": 13,
         "Paras": 16,
         "Herdier": 21,
@@ -473,7 +473,7 @@
         "Bunnelby": 15,
         "Gulping cramorant": 2,
         "Simisear": 2,
-        "White plumage squawkabilly": 16,
+        "White plumage squawkabilly": 17,
         "Shelmet": 16,
         "Solrock": 3,
         "Slowpoke": 16,
@@ -738,7 +738,7 @@
         "Lumineon": 6,
         "Thievul": 3,
         "Greedent": 5,
-        "Ekans": 14,
+        "Ekans": 15,
         "Venonat": 14,
         "Pelipper": 4,
         "Metapod": 13,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12583,
-      "last_spawn": "2026-06-24T18:45:57.210449"
+      "total_spawns": 12588,
+      "last_spawn": "2026-06-24T18:46:31.862247"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17001,
+    "total_spawns": 17006,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
