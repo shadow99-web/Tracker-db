@@ -129,7 +129,7 @@
         "Zigzagoon": 18,
         "Weedle": 70,
         "Flamigo": 48,
-        "Lillipup": 53,
+        "Lillipup": 54,
         "Shinx": 54,
         "Bounsweet": 37,
         "Noibat": 15,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 12,
         "Roggenrola": 51,
-        "Pidove": 47,
+        "Pidove": 48,
         "Dragapult": 6,
         "Rattata": 28,
         "Flapple": 8,
@@ -168,7 +168,7 @@
         "Klawf": 47,
         "Vanillite": 40,
         "Flareon": 6,
-        "Gastly": 41,
+        "Gastly": 42,
         "Taillow": 14,
         "Swinub": 48,
         "Inkay": 18,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 2,
         "Toxapex": 3,
         "Lileep": 9,
-        "Rolycoly": 36,
+        "Rolycoly": 37,
         "Bronzor": 20,
         "Dartrix": 10,
         "Yellow flower florges": 3,
@@ -979,10 +979,11 @@
         "Vanilla cream love sweet alcremie": 1,
         "Mudsdale": 1,
         "Slaking": 1,
-        "Munkidori": 1
+        "Munkidori": 1,
+        "Wash rotom": 1
       },
-      "total_spawns": 10769,
-      "last_spawn": "2026-06-24T13:38:37.309661"
+      "total_spawns": 10774,
+      "last_spawn": "2026-06-24T13:39:11.709792"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1077,7 +1078,7 @@
     }
   },
   "global": {
-    "total_spawns": 15156,
+    "total_spawns": 15161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
