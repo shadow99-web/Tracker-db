@@ -34,7 +34,7 @@
         "Litwick": 76,
         "Grubbin": 45,
         "Escavalier": 6,
-        "Dratini": 37,
+        "Dratini": 38,
         "Kilowattrel": 11,
         "Lotad": 68,
         "Qwilfish": 5,
@@ -117,7 +117,7 @@
         "Swadloon": 14,
         "Flittle": 49,
         "Unfezant": 4,
-        "Yamask": 8,
+        "Yamask": 9,
         "Ralts": 45,
         "Solosis": 48,
         "Battle cyclizar": 22,
@@ -126,7 +126,7 @@
         "Pikipek": 64,
         "Teddiursa": 47,
         "Clamperl": 16,
-        "Zigzagoon": 18,
+        "Zigzagoon": 19,
         "Weedle": 73,
         "Flamigo": 51,
         "Lillipup": 55,
@@ -690,7 +690,7 @@
         "Shiinotic": 4,
         "Gumshoos": 3,
         "Pyroar": 5,
-        "Marshadow": 1,
+        "Marshadow": 2,
         "Sliggoo": 6,
         "Panpour": 10,
         "Tinkatuff": 10,
@@ -778,7 +778,7 @@
         "Chingling": 2,
         "Beedrill": 5,
         "Whimsicott": 4,
-        "Wishiwashi": 4,
+        "Wishiwashi": 5,
         "Cofagrigus": 3,
         "Camerupt": 2,
         "Castform": 8,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11209,
-      "last_spawn": "2026-06-24T14:27:51.800500"
+      "total_spawns": 11214,
+      "last_spawn": "2026-06-24T14:28:27.190963"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15596,
+    "total_spawns": 15601,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
