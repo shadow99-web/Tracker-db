@@ -55,7 +55,7 @@
         "Vanillish": 18,
         "Tadbulb": 56,
         "Magnemite": 63,
-        "Whismur": 50,
+        "Whismur": 51,
         "Monferno": 18,
         "Skwovet": 14,
         "Bramblin": 62,
@@ -345,7 +345,7 @@
         "Capsakid": 48,
         "Revavroom": 17,
         "Exploud": 5,
-        "Deino": 32,
+        "Deino": 33,
         "Wooper": 24,
         "Dwebble": 14,
         "Steenee": 16,
@@ -475,7 +475,7 @@
         "Simisear": 2,
         "White plumage squawkabilly": 17,
         "Shelmet": 17,
-        "Solrock": 3,
+        "Solrock": 4,
         "Slowpoke": 16,
         "Dolliv": 12,
         "Infernape": 2,
@@ -560,7 +560,7 @@
         "Chandelure": 6,
         "Ponyta": 20,
         "Togekiss": 5,
-        "Braviary": 4,
+        "Braviary": 5,
         "Raboot": 15,
         "Golem": 3,
         "Slowking": 8,
@@ -585,7 +585,7 @@
         "Combee": 10,
         "Fletchinder": 19,
         "Kingambit": 3,
-        "Clodsire": 19,
+        "Clodsire": 20,
         "Blaze breed tauros": 1,
         "Wimpod": 13,
         "Torterra": 3,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12743,
-      "last_spawn": "2026-06-24T19:04:27.270540"
+      "total_spawns": 12748,
+      "last_spawn": "2026-06-24T19:04:57.286445"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17161,
+    "total_spawns": 17166,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
