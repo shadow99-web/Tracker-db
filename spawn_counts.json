@@ -11,7 +11,7 @@
         "Electabuzz": 8,
         "Rellor": 40,
         "Sandy burmy": 9,
-        "Wiglett": 53,
+        "Wiglett": 54,
         "Bombirdier": 37,
         "Litleo": 12,
         "Purrloin": 8,
@@ -26,7 +26,7 @@
         "Dudunsparce": 8,
         "Gothita": 41,
         "Impidimp": 38,
-        "Charmander": 19,
+        "Charmander": 20,
         "Morelull": 7,
         "Abra": 47,
         "Sandile": 49,
@@ -66,7 +66,7 @@
         "Lokix": 12,
         "Glimmora": 16,
         "Starly": 51,
-        "Tandemaus": 41,
+        "Tandemaus": 42,
         "Smoliv": 59,
         "Gloom": 12,
         "Clefairy": 11,
@@ -247,7 +247,7 @@
         "Lurantis": 1,
         "Swampert": 3,
         "Dachsbun": 14,
-        "Turtwig": 10,
+        "Turtwig": 11,
         "Prinplup": 9,
         "Tinkatink": 50,
         "Lechonk": 41,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 4,
         "Scyther": 11,
-        "Anorith": 13,
+        "Anorith": 14,
         "Meowth": 8,
         "Combee": 9,
         "Fletchinder": 14,
@@ -673,7 +673,7 @@
         "Grimer": 7,
         "Crabominable": 3,
         "Quaquaval": 2,
-        "Sprigatito": 16,
+        "Sprigatito": 17,
         "Metagross": 4,
         "Eelektrik": 7,
         "Gastrodon": 4,
@@ -970,8 +970,8 @@
         "Galarian farfetch'd": 1,
         "Alolan raichu": 1
       },
-      "total_spawns": 9866,
-      "last_spawn": "2026-06-24T10:41:07.200186"
+      "total_spawns": 9872,
+      "last_spawn": "2026-06-24T10:41:47.208444"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1064,7 +1064,7 @@
     }
   },
   "global": {
-    "total_spawns": 14251,
+    "total_spawns": 14257,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
