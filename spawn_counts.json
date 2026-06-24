@@ -51,7 +51,7 @@
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 56,
-        "Zubat": 59,
+        "Zubat": 60,
         "Vanillish": 14,
         "Tadbulb": 51,
         "Magnemite": 58,
@@ -264,7 +264,7 @@
         "Nincada": 20,
         "Fennekin": 20,
         "Quaxwell": 9,
-        "Vibrava": 15,
+        "Vibrava": 16,
         "Loudred": 9,
         "Ceruledge": 24,
         "Houndour": 16,
@@ -286,7 +286,7 @@
         "Charmeleon": 8,
         "Dipplin": 1,
         "Cramorant": 5,
-        "Chef dente": 35,
+        "Chef dente": 36,
         "Volcarona": 2,
         "Bewear": 3,
         "Piloswine": 12,
@@ -448,7 +448,7 @@
         "Wugtrio": 12,
         "Bellibolt": 8,
         "Morgrem": 8,
-        "Misdreavus": 8,
+        "Misdreavus": 9,
         "Seviper": 2,
         "Scovillain": 11,
         "Sunkern": 9,
@@ -587,7 +587,7 @@
         "Kingambit": 2,
         "Clodsire": 14,
         "Blaze breed tauros": 1,
-        "Wimpod": 10,
+        "Wimpod": 11,
         "Torterra": 2,
         "Darmanitan": 2,
         "Rainy castform": 1,
@@ -700,7 +700,7 @@
         "Electrode": 3,
         "Celebi": 1,
         "Hero palafin": 3,
-        "Litten": 14,
+        "Litten": 15,
         "Abomasnow": 3,
         "Espeon": 3,
         "Hatenna": 40,
@@ -985,8 +985,8 @@
         "Naganadel": 1,
         "Unown v": 1
       },
-      "total_spawns": 10910,
-      "last_spawn": "2026-06-24T13:54:27.296286"
+      "total_spawns": 10916,
+      "last_spawn": "2026-06-24T13:55:07.095262"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1081,7 +1081,7 @@
     }
   },
   "global": {
-    "total_spawns": 15297,
+    "total_spawns": 15303,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
