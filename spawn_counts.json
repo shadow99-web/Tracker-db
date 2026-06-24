@@ -28,7 +28,7 @@
         "Impidimp": 43,
         "Charmander": 23,
         "Morelull": 11,
-        "Abra": 57,
+        "Abra": 58,
         "Sandile": 56,
         "Sandygast": 16,
         "Litwick": 78,
@@ -88,7 +88,7 @@
         "Falinks": 5,
         "Tropius": 2,
         "Poliwag": 52,
-        "Metang": 8,
+        "Metang": 9,
         "Riolu": 13,
         "Exeggcute": 14,
         "Corphish": 10,
@@ -142,7 +142,7 @@
         "Rhyhorn": 50,
         "Sentret": 16,
         "Yungoos": 9,
-        "Diglett": 20,
+        "Diglett": 21,
         "Doduo": 12,
         "Lairon": 18,
         "Emboar": 5,
@@ -250,7 +250,7 @@
         "Turtwig": 11,
         "Prinplup": 12,
         "Tinkatink": 60,
-        "Lechonk": 52,
+        "Lechonk": 53,
         "Kommo-o": 1,
         "Dewott": 15,
         "Arrokuda": 16,
@@ -456,7 +456,7 @@
         "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
-        "Cherubi": 10,
+        "Cherubi": 11,
         "Cradily": 4,
         "Vulpix": 13,
         "Paras": 13,
@@ -741,7 +741,7 @@
         "Ekans": 13,
         "Venonat": 11,
         "Pelipper": 4,
-        "Metapod": 12,
+        "Metapod": 13,
         "Kricketune": 5,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11812,
-      "last_spawn": "2026-06-24T16:35:07.646264"
+      "total_spawns": 11818,
+      "last_spawn": "2026-06-24T16:35:47.285139"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16215,
+    "total_spawns": 16221,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
