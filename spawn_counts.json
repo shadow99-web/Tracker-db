@@ -43,7 +43,7 @@
         "Fletchling": 41,
         "Skiploom": 15,
         "Timburr": 54,
-        "Dj rotom": 44,
+        "Dj rotom": 45,
         "Surskit": 24,
         "Seedot": 41,
         "Skitty": 10,
@@ -115,7 +115,7 @@
         "Frigibax": 52,
         "Spheal": 68,
         "Swadloon": 14,
-        "Flittle": 50,
+        "Flittle": 51,
         "Unfezant": 5,
         "Yamask": 9,
         "Ralts": 46,
@@ -192,14 +192,14 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 16,
-        "Spearow": 17,
+        "Spearow": 18,
         "Helioptile": 10,
         "Hoothoot": 12,
         "Grookey": 17,
         "Meditite": 8,
         "Toedscruel": 17,
         "Probopass": 4,
-        "Scraggy": 19,
+        "Scraggy": 20,
         "Rhydon": 16,
         "Silcoon": 12,
         "Totodile": 11,
@@ -627,7 +627,7 @@
         "Frost rotom": 2,
         "Tatsugiri": 17,
         "Nidorino": 9,
-        "Wailmer": 14,
+        "Wailmer": 15,
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
@@ -959,7 +959,7 @@
         "Dandy trim furfrou": 1,
         "Rapidash": 1,
         "Mawile": 2,
-        "Dusknoir": 1,
+        "Dusknoir": 2,
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1,
         "Thundurus": 1,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11506,
-      "last_spawn": "2026-06-24T16:00:27.665942"
+      "total_spawns": 11512,
+      "last_spawn": "2026-06-24T16:01:08.053526"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1098,7 +1098,7 @@
     }
   },
   "global": {
-    "total_spawns": 15904,
+    "total_spawns": 15910,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
