@@ -34,7 +34,7 @@
         "Litwick": 82,
         "Grubbin": 51,
         "Escavalier": 9,
-        "Dratini": 45,
+        "Dratini": 46,
         "Kilowattrel": 15,
         "Lotad": 82,
         "Qwilfish": 5,
@@ -65,7 +65,7 @@
         "Ducklett": 12,
         "Lokix": 15,
         "Glimmora": 18,
-        "Starly": 66,
+        "Starly": 67,
         "Tandemaus": 53,
         "Smoliv": 71,
         "Gloom": 19,
@@ -79,7 +79,7 @@
         "Phantump": 20,
         "Duosion": 18,
         "Amaura": 13,
-        "Gimmighoul": 57,
+        "Gimmighoul": 58,
         "Baltoy": 27,
         "Mareep": 56,
         "Garbodor": 3,
@@ -474,7 +474,7 @@
         "Gulping cramorant": 2,
         "Simisear": 3,
         "White plumage squawkabilly": 18,
-        "Shelmet": 17,
+        "Shelmet": 18,
         "Solrock": 4,
         "Slowpoke": 16,
         "Dolliv": 13,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12989,
-      "last_spawn": "2026-06-24T19:32:27.195782"
+      "total_spawns": 12993,
+      "last_spawn": "2026-06-24T19:32:53.329045"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1111,10 +1111,11 @@
         "Floragato": 1,
         "Watchog": 1,
         "Boltund": 1,
-        "Lillipup": 1
+        "Lillipup": 1,
+        "Ducklett": 1
       },
-      "total_spawns": 131,
-      "last_spawn": "2026-06-24T18:31:17.566948"
+      "total_spawns": 132,
+      "last_spawn": "2026-06-24T23:54:53.621397"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1124,7 +1125,7 @@
     }
   },
   "global": {
-    "total_spawns": 17407,
+    "total_spawns": 17412,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
