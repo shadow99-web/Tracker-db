@@ -114,13 +114,13 @@
         "Horsea": 47,
         "Frigibax": 44,
         "Spheal": 64,
-        "Swadloon": 10,
+        "Swadloon": 11,
         "Flittle": 43,
         "Unfezant": 3,
         "Yamask": 8,
         "Ralts": 41,
         "Solosis": 46,
-        "Battle cyclizar": 18,
+        "Battle cyclizar": 19,
         "Togetic": 9,
         "Palpitoad": 6,
         "Pikipek": 60,
@@ -154,7 +154,7 @@
         "Dragapult": 6,
         "Rattata": 28,
         "Flapple": 8,
-        "Aron": 43,
+        "Aron": 44,
         "Boldore": 13,
         "Spinarak": 19,
         "Delcatty": 4,
@@ -269,7 +269,7 @@
         "Ceruledge": 23,
         "Houndour": 14,
         "Glimmet": 51,
-        "Goomy": 25,
+        "Goomy": 26,
         "Zapdos": 1,
         "Natu": 14,
         "Dhelmise": 2,
@@ -363,7 +363,7 @@
         "Mankey": 13,
         "Bidoof": 12,
         "Quilava": 19,
-        "Finizen": 51,
+        "Finizen": 52,
         "Unown y": 1,
         "Toucannon": 3,
         "Caterpie": 34,
@@ -573,7 +573,7 @@
         "Noice face eiscue": 2,
         "Electivire": 4,
         "Cascoon": 8,
-        "Tentacruel": 5,
+        "Tentacruel": 6,
         "Nuzleaf": 9,
         "Scorbunny": 14,
         "Huntail": 4,
@@ -664,7 +664,7 @@
         "Vileplume": 3,
         "Kecleon": 2,
         "Sizzlipede": 7,
-        "White flower floette": 2,
+        "White flower floette": 3,
         "Skeledirge": 5,
         "Amoonguss": 6,
         "Appletun": 1,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10319,
-      "last_spawn": "2026-06-24T11:32:17.245401"
+      "total_spawns": 10326,
+      "last_spawn": "2026-06-24T11:32:51.936870"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14704,
+    "total_spawns": 14711,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
