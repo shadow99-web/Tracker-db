@@ -83,7 +83,7 @@
         "Baltoy": 24,
         "Mareep": 49,
         "Garbodor": 3,
-        "Slakoth": 63,
+        "Slakoth": 64,
         "Togepi": 46,
         "Falinks": 5,
         "Tropius": 2,
@@ -103,7 +103,7 @@
         "Veluza": 64,
         "Barboach": 19,
         "Klink": 39,
-        "Honedge": 65,
+        "Honedge": 66,
         "Wingull": 19,
         "Salamence": 2,
         "Drakloak": 13,
@@ -118,8 +118,8 @@
         "Flittle": 50,
         "Unfezant": 5,
         "Yamask": 9,
-        "Ralts": 45,
-        "Solosis": 49,
+        "Ralts": 46,
+        "Solosis": 50,
         "Battle cyclizar": 23,
         "Togetic": 10,
         "Palpitoad": 10,
@@ -165,7 +165,7 @@
         "Piplup": 9,
         "Kakuna": 16,
         "Weepinbell": 10,
-        "Klawf": 53,
+        "Klawf": 54,
         "Vanillite": 44,
         "Flareon": 6,
         "Gastly": 45,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11501,
-      "last_spawn": "2026-06-24T15:59:51.785637"
+      "total_spawns": 11506,
+      "last_spawn": "2026-06-24T16:00:27.665942"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1098,7 +1098,7 @@
     }
   },
   "global": {
-    "total_spawns": 15899,
+    "total_spawns": 15904,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
