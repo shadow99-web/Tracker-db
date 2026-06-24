@@ -34,7 +34,7 @@
         "Litwick": 78,
         "Grubbin": 47,
         "Escavalier": 7,
-        "Dratini": 39,
+        "Dratini": 40,
         "Kilowattrel": 13,
         "Lotad": 72,
         "Qwilfish": 5,
@@ -113,7 +113,7 @@
         "Bonsly": 2,
         "Horsea": 50,
         "Frigibax": 55,
-        "Spheal": 68,
+        "Spheal": 69,
         "Swadloon": 14,
         "Flittle": 51,
         "Unfezant": 5,
@@ -209,7 +209,7 @@
         "Swellow": 4,
         "Aipom": 10,
         "Growlithe": 12,
-        "Sewaddle": 45,
+        "Sewaddle": 46,
         "Fidough": 32,
         "Noivern": 2,
         "Feraligatr": 4,
@@ -349,7 +349,7 @@
         "Wooper": 23,
         "Dwebble": 13,
         "Steenee": 13,
-        "Darumaka": 20,
+        "Darumaka": 21,
         "Arboliva": 5,
         "Ledyba": 13,
         "Spritzee": 11,
@@ -558,7 +558,7 @@
         "Araquanid": 4,
         "Kadabra": 13,
         "Chandelure": 6,
-        "Ponyta": 18,
+        "Ponyta": 19,
         "Togekiss": 5,
         "Braviary": 4,
         "Raboot": 14,
@@ -569,7 +569,7 @@
         "Gulpin": 20,
         "Crawdaunt": 5,
         "Magmortar": 1,
-        "Palossand": 2,
+        "Palossand": 3,
         "Noice face eiscue": 2,
         "Electivire": 4,
         "Cascoon": 9,
@@ -995,8 +995,8 @@
         "Ledian": 2,
         "Cherrim": 1
       },
-      "total_spawns": 11714,
-      "last_spawn": "2026-06-24T16:24:07.996337"
+      "total_spawns": 11720,
+      "last_spawn": "2026-06-24T16:24:47.395706"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1103,7 +1103,7 @@
     }
   },
   "global": {
-    "total_spawns": 16117,
+    "total_spawns": 16123,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
