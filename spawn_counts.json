@@ -6,12 +6,12 @@
         "Chimchar": 22,
         "Patrat": 12,
         "Mosslax": 26,
-        "Drilbur": 11,
+        "Drilbur": 12,
         "Pawmi": 45,
         "Electabuzz": 8,
         "Rellor": 39,
         "Sandy burmy": 9,
-        "Wiglett": 51,
+        "Wiglett": 52,
         "Bombirdier": 36,
         "Litleo": 12,
         "Purrloin": 8,
@@ -175,7 +175,7 @@
         "Gible": 28,
         "Rookidee": 28,
         "Minccino": 14,
-        "Wurmple": 37,
+        "Wurmple": 38,
         "Binacle": 15,
         "Grafaiai": 9,
         "Quilladin": 6,
@@ -637,7 +637,7 @@
         "Ursaring": 7,
         "Glalie": 2,
         "Latios": 1,
-        "Silicobra": 10,
+        "Silicobra": 11,
         "Snom": 7,
         "East sea shellos": 6,
         "Corsola": 8,
@@ -969,8 +969,8 @@
         "Azumarill": 1,
         "Galarian farfetch'd": 1
       },
-      "total_spawns": 9800,
-      "last_spawn": "2026-06-24T10:33:27.132624"
+      "total_spawns": 9804,
+      "last_spawn": "2026-06-24T10:34:07.010000"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1063,7 +1063,7 @@
     }
   },
   "global": {
-    "total_spawns": 14185,
+    "total_spawns": 14189,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
