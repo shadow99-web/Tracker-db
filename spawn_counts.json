@@ -28,7 +28,7 @@
         "Impidimp": 41,
         "Charmander": 22,
         "Morelull": 9,
-        "Abra": 53,
+        "Abra": 54,
         "Sandile": 54,
         "Sandygast": 16,
         "Litwick": 76,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 54,
+        "Roggenrola": 55,
         "Pidove": 50,
         "Dragapult": 6,
         "Rattata": 28,
@@ -447,7 +447,7 @@
         "Raticate": 9,
         "Wugtrio": 12,
         "Bellibolt": 8,
-        "Morgrem": 8,
+        "Morgrem": 9,
         "Misdreavus": 9,
         "Seviper": 2,
         "Scovillain": 12,
@@ -463,7 +463,7 @@
         "Herdier": 18,
         "Pineco": 11,
         "Chikorita": 12,
-        "Woobat": 13,
+        "Woobat": 14,
         "Wobbuffet": 3,
         "Roselia": 6,
         "Shelgon": 12,
@@ -541,7 +541,7 @@
         "Vanilluxe": 2,
         "Jolteon": 5,
         "Pawmot": 5,
-        "Skiddo": 9,
+        "Skiddo": 10,
         "Slowbro": 6,
         "Oricorio": 3,
         "Kangaskhan": 3,
@@ -989,8 +989,8 @@
         "Slither wing": 1,
         "Diggersby": 1
       },
-      "total_spawns": 11076,
-      "last_spawn": "2026-06-24T14:13:07.114355"
+      "total_spawns": 11081,
+      "last_spawn": "2026-06-24T14:13:37.202375"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1085,7 +1085,7 @@
     }
   },
   "global": {
-    "total_spawns": 15463,
+    "total_spawns": 15468,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
