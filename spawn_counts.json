@@ -67,7 +67,7 @@
         "Glimmora": 16,
         "Starly": 53,
         "Tandemaus": 42,
-        "Smoliv": 61,
+        "Smoliv": 62,
         "Gloom": 12,
         "Clefairy": 11,
         "Spinda": 2,
@@ -80,7 +80,7 @@
         "Duosion": 13,
         "Amaura": 11,
         "Gimmighoul": 46,
-        "Baltoy": 19,
+        "Baltoy": 20,
         "Mareep": 45,
         "Garbodor": 2,
         "Slakoth": 55,
@@ -328,7 +328,7 @@
         "Tinkaton": 3,
         "Corviknight": 4,
         "Froakie": 14,
-        "Nymble": 50,
+        "Nymble": 51,
         "Ferrothorn": 2,
         "Servine": 8,
         "Blitzle": 13,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 12,
         "Squirtle": 20,
-        "Remoraid": 6,
+        "Remoraid": 7,
         "Torracat": 12,
         "Hisuian zorua": 1,
         "Wooloo": 10,
@@ -707,7 +707,7 @@
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
-        "Combusken": 14,
+        "Combusken": 15,
         "Gourgeist": 6,
         "Durant": 2,
         "Grovyle": 9,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10243,
-      "last_spawn": "2026-06-24T11:23:31.630404"
+      "total_spawns": 10248,
+      "last_spawn": "2026-06-24T11:24:07.057481"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14628,
+    "total_spawns": 14633,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
