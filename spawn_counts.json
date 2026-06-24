@@ -47,7 +47,7 @@
         "Surskit": 21,
         "Seedot": 34,
         "Skitty": 10,
-        "Greavard": 48,
+        "Greavard": 49,
         "Slugma": 13,
         "Grotle": 9,
         "Porygon": 46,
@@ -176,7 +176,7 @@
         "Rookidee": 29,
         "Minccino": 14,
         "Wurmple": 38,
-        "Binacle": 15,
+        "Binacle": 16,
         "Grafaiai": 9,
         "Quilladin": 6,
         "Geodude": 52,
@@ -213,7 +213,7 @@
         "Fidough": 29,
         "Noivern": 2,
         "Feraligatr": 4,
-        "Tynamo": 50,
+        "Tynamo": 51,
         "Orthworm": 47,
         "Marill": 13,
         "Joltik": 21,
@@ -451,7 +451,7 @@
         "Misdreavus": 6,
         "Seviper": 2,
         "Scovillain": 11,
-        "Sunkern": 8,
+        "Sunkern": 9,
         "Drizzile": 5,
         "Sunflora": 4,
         "Passimian": 3,
@@ -727,7 +727,7 @@
         "Ariados": 2,
         "Volbeat": 4,
         "Burmy": 2,
-        "Popplio": 10,
+        "Popplio": 11,
         "Mandibuzz": 4,
         "Walrein": 2,
         "Cinccino": 4,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 9993,
-      "last_spawn": "2026-06-24T10:55:17.427486"
+      "total_spawns": 9998,
+      "last_spawn": "2026-06-24T10:55:51.847858"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14378,
+    "total_spawns": 14383,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
