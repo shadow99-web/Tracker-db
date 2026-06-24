@@ -55,7 +55,7 @@
         "Vanillish": 10,
         "Tadbulb": 43,
         "Magnemite": 53,
-        "Whismur": 38,
+        "Whismur": 39,
         "Monferno": 16,
         "Skwovet": 7,
         "Bramblin": 50,
@@ -149,12 +149,12 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 12,
-        "Roggenrola": 42,
+        "Roggenrola": 43,
         "Pidove": 45,
         "Dragapult": 6,
         "Rattata": 26,
         "Flapple": 6,
-        "Aron": 39,
+        "Aron": 40,
         "Boldore": 10,
         "Spinarak": 19,
         "Delcatty": 4,
@@ -207,7 +207,7 @@
         "Cufant": 11,
         "Tympole": 31,
         "Swellow": 3,
-        "Aipom": 7,
+        "Aipom": 8,
         "Growlithe": 11,
         "Sewaddle": 42,
         "Fidough": 28,
@@ -298,7 +298,7 @@
         "Pancham": 12,
         "Venipede": 54,
         "Cacturne": 4,
-        "Oddish": 47,
+        "Oddish": 48,
         "Dragalge": 4,
         "Iron thorns": 1,
         "Alolan exeggutor": 1,
@@ -654,7 +654,7 @@
         "Beheeyem": 4,
         "Pinsir": 4,
         "Mothim": 3,
-        "Whirlipede": 12,
+        "Whirlipede": 13,
         "Absol": 3,
         "Annihilape": 5,
         "Bouffalant": 4,
@@ -968,8 +968,8 @@
         "Reshiram": 1,
         "Azumarill": 1
       },
-      "total_spawns": 9708,
-      "last_spawn": "2026-06-24T10:23:07.128462"
+      "total_spawns": 9714,
+      "last_spawn": "2026-06-24T10:23:47.102421"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1061,7 +1061,7 @@
     }
   },
   "global": {
-    "total_spawns": 14092,
+    "total_spawns": 14098,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
