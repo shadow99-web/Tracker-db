@@ -50,7 +50,7 @@
         "Greavard": 49,
         "Slugma": 13,
         "Grotle": 9,
-        "Porygon": 46,
+        "Porygon": 47,
         "Zubat": 57,
         "Vanillish": 12,
         "Tadbulb": 47,
@@ -102,7 +102,7 @@
         "Smearguru": 37,
         "Veluza": 56,
         "Barboach": 18,
-        "Klink": 36,
+        "Klink": 37,
         "Honedge": 61,
         "Wingull": 17,
         "Salamence": 1,
@@ -170,7 +170,7 @@
         "Flareon": 6,
         "Gastly": 39,
         "Taillow": 13,
-        "Swinub": 44,
+        "Swinub": 45,
         "Inkay": 18,
         "Gible": 31,
         "Rookidee": 29,
@@ -366,7 +366,7 @@
         "Finizen": 48,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 31,
+        "Caterpie": 32,
         "Carvanha": 12,
         "Luxio": 11,
         "Treecko": 19,
@@ -490,7 +490,7 @@
         "Dottler": 11,
         "Eevee": 11,
         "Copperajah": 4,
-        "Magneton": 11,
+        "Magneton": 12,
         "Alakazam": 4,
         "Bayleef": 7,
         "Poochyena": 11,
@@ -609,7 +609,7 @@
         "Hitmonlee": 2,
         "Houndstone": 5,
         "Sandy wormadam": 2,
-        "Stunky": 8,
+        "Stunky": 9,
         "Pupitar": 9,
         "Avalugg": 4,
         "Magby": 5,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 10024,
-      "last_spawn": "2026-06-24T10:58:50.416027"
+      "total_spawns": 10030,
+      "last_spawn": "2026-06-24T10:59:27.192930"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14409,
+    "total_spawns": 14415,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
