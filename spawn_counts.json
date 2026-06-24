@@ -91,7 +91,7 @@
         "Metang": 8,
         "Riolu": 9,
         "Exeggcute": 11,
-        "Corphish": 5,
+        "Corphish": 6,
         "Hoppip": 39,
         "Sandslash": 1,
         "Kabuto": 13,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 12,
         "Numel": 22,
         "Carracosta": 3,
-        "Smearguru": 37,
+        "Smearguru": 38,
         "Veluza": 56,
         "Barboach": 18,
         "Klink": 37,
@@ -327,7 +327,7 @@
         "Dreepy": 40,
         "Tinkaton": 3,
         "Corviknight": 4,
-        "Froakie": 13,
+        "Froakie": 14,
         "Nymble": 50,
         "Ferrothorn": 2,
         "Servine": 8,
@@ -622,8 +622,8 @@
         "East sea gastrodon": 3,
         "Frillish": 11,
         "Manaphy": 1,
-        "Gardevoir": 1,
-        "Malamar": 2,
+        "Gardevoir": 2,
+        "Malamar": 3,
         "Frost rotom": 2,
         "Tatsugiri": 16,
         "Nidorino": 8,
@@ -972,8 +972,8 @@
         "Tapu fini": 1,
         "Minun": 1
       },
-      "total_spawns": 10030,
-      "last_spawn": "2026-06-24T10:59:27.192930"
+      "total_spawns": 10035,
+      "last_spawn": "2026-06-24T10:59:58.857642"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1066,7 +1066,7 @@
     }
   },
   "global": {
-    "total_spawns": 14415,
+    "total_spawns": 14420,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
