@@ -53,7 +53,7 @@
         "Porygon": 42,
         "Zubat": 56,
         "Vanillish": 10,
-        "Tadbulb": 42,
+        "Tadbulb": 43,
         "Magnemite": 52,
         "Whismur": 37,
         "Monferno": 15,
@@ -142,7 +142,7 @@
         "Rhyhorn": 39,
         "Sentret": 13,
         "Yungoos": 5,
-        "Diglett": 17,
+        "Diglett": 18,
         "Doduo": 10,
         "Lairon": 12,
         "Emboar": 4,
@@ -368,7 +368,7 @@
         "Toucannon": 3,
         "Caterpie": 28,
         "Carvanha": 11,
-        "Luxio": 9,
+        "Luxio": 10,
         "Treecko": 19,
         "Sinistea": 4,
         "Cubchoo": 6,
@@ -598,7 +598,7 @@
         "Cetoddle": 28,
         "Kricketot": 10,
         "Porygon-z": 2,
-        "Conkeldurr": 3,
+        "Conkeldurr": 4,
         "Walking wake": 1,
         "Yellow flower floette": 2,
         "Medicham": 3,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 2,
+        "Typhlosion": 3,
         "Ariados": 2,
         "Volbeat": 4,
         "Burmy": 2,
@@ -963,8 +963,8 @@
         "Sirfetch'd": 1,
         "Galarian darmanitan": 1
       },
-      "total_spawns": 9095,
-      "last_spawn": "2026-06-24T08:42:07.140965"
+      "total_spawns": 9100,
+      "last_spawn": "2026-06-24T08:42:37.417327"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1048,7 +1048,7 @@
     }
   },
   "global": {
-    "total_spawns": 13471,
+    "total_spawns": 13476,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
