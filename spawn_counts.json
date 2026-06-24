@@ -138,7 +138,7 @@
         "Croconaw": 13,
         "Phanpy": 8,
         "Brambleghast": 13,
-        "Pidgey": 69,
+        "Pidgey": 70,
         "Rhyhorn": 48,
         "Sentret": 16,
         "Yungoos": 7,
@@ -179,7 +179,7 @@
         "Binacle": 17,
         "Grafaiai": 9,
         "Quilladin": 7,
-        "Geodude": 59,
+        "Geodude": 60,
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
@@ -585,7 +585,7 @@
         "Combee": 10,
         "Fletchinder": 17,
         "Kingambit": 2,
-        "Clodsire": 14,
+        "Clodsire": 15,
         "Blaze breed tauros": 1,
         "Wimpod": 11,
         "Torterra": 2,
@@ -703,7 +703,7 @@
         "Litten": 17,
         "Abomasnow": 3,
         "Espeon": 3,
-        "Hatenna": 45,
+        "Hatenna": 46,
         "Zoroark": 3,
         "Lucario": 1,
         "Crustle": 4,
@@ -990,10 +990,11 @@
         "Diggersby": 1,
         "Hisuian voltorb": 1,
         "Pachirisu": 1,
-        "Unown p": 1
+        "Unown p": 1,
+        "Hisuian samurott": 1
       },
-      "total_spawns": 11314,
-      "last_spawn": "2026-06-24T14:39:52.234383"
+      "total_spawns": 11319,
+      "last_spawn": "2026-06-24T14:40:27.142332"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1089,7 @@
     }
   },
   "global": {
-    "total_spawns": 15701,
+    "total_spawns": 15706,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
