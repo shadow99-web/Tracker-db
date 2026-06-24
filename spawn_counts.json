@@ -22,7 +22,7 @@
         "Tangela": 13,
         "Orbeetle": 3,
         "Dedenne": 6,
-        "Machop": 39,
+        "Machop": 40,
         "Dudunsparce": 9,
         "Gothita": 48,
         "Impidimp": 42,
@@ -324,7 +324,7 @@
         "Murkrow": 13,
         "Bellsprout": 64,
         "Mudbray": 14,
-        "Dreepy": 46,
+        "Dreepy": 47,
         "Tinkaton": 4,
         "Corviknight": 5,
         "Froakie": 17,
@@ -353,7 +353,7 @@
         "Arboliva": 4,
         "Ledyba": 13,
         "Spritzee": 10,
-        "Swirlix": 9,
+        "Swirlix": 10,
         "Aromatisse": 3,
         "Muk": 4,
         "Toxel": 13,
@@ -421,7 +421,7 @@
         "Delibird": 3,
         "Ride cyclizar": 20,
         "Gothorita": 11,
-        "Varoom": 44,
+        "Varoom": 45,
         "Yellow plumage squawkabilly": 16,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -778,7 +778,7 @@
         "Chingling": 2,
         "Beedrill": 5,
         "Whimsicott": 4,
-        "Wishiwashi": 5,
+        "Wishiwashi": 6,
         "Cofagrigus": 3,
         "Camerupt": 2,
         "Castform": 8,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11309,
-      "last_spawn": "2026-06-24T14:39:17.198116"
+      "total_spawns": 11314,
+      "last_spawn": "2026-06-24T14:39:52.234383"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15696,
+    "total_spawns": 15701,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
