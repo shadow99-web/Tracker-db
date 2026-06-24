@@ -250,7 +250,7 @@
         "Turtwig": 11,
         "Prinplup": 12,
         "Tinkatink": 60,
-        "Lechonk": 51,
+        "Lechonk": 52,
         "Kommo-o": 1,
         "Dewott": 15,
         "Arrokuda": 16,
@@ -262,7 +262,7 @@
         "Tirtouga": 16,
         "Furret": 3,
         "Nincada": 23,
-        "Fennekin": 23,
+        "Fennekin": 24,
         "Quaxwell": 9,
         "Vibrava": 18,
         "Loudred": 11,
@@ -490,7 +490,7 @@
         "Dottler": 11,
         "Eevee": 11,
         "Copperajah": 4,
-        "Magneton": 12,
+        "Magneton": 13,
         "Alakazam": 4,
         "Bayleef": 10,
         "Poochyena": 11,
@@ -729,7 +729,7 @@
         "Burmy": 3,
         "Popplio": 13,
         "Mandibuzz": 5,
-        "Walrein": 2,
+        "Walrein": 3,
         "Cinccino": 5,
         "Alolan sandshrew": 2,
         "Azurill": 1,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11808,
-      "last_spawn": "2026-06-24T16:34:37.240625"
+      "total_spawns": 11812,
+      "last_spawn": "2026-06-24T16:35:07.646264"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16211,
+    "total_spawns": 16215,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
