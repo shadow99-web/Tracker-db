@@ -35,7 +35,7 @@
         "Grubbin": 47,
         "Escavalier": 8,
         "Dratini": 40,
-        "Kilowattrel": 13,
+        "Kilowattrel": 14,
         "Lotad": 74,
         "Qwilfish": 5,
         "Trapinch": 61,
@@ -60,7 +60,7 @@
         "Skwovet": 12,
         "Bramblin": 60,
         "Yanma": 12,
-        "Larvesta": 24,
+        "Larvesta": 26,
         "Beldum": 45,
         "Ducklett": 10,
         "Lokix": 15,
@@ -268,7 +268,7 @@
         "Loudred": 11,
         "Ceruledge": 24,
         "Houndour": 16,
-        "Glimmet": 56,
+        "Glimmet": 57,
         "Goomy": 35,
         "Zapdos": 1,
         "Natu": 15,
@@ -319,7 +319,7 @@
         "Jangmo-o": 27,
         "Trash wormadam": 4,
         "Quaxly": 15,
-        "Gossifleur": 15,
+        "Gossifleur": 16,
         "Oshawott": 14,
         "Murkrow": 14,
         "Bellsprout": 66,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11960,
-      "last_spawn": "2026-06-24T16:51:47.167112"
+      "total_spawns": 11965,
+      "last_spawn": "2026-06-24T16:52:17.413346"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1105,7 +1105,7 @@
     }
   },
   "global": {
-    "total_spawns": 16364,
+    "total_spawns": 16369,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
