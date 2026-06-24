@@ -9,7 +9,7 @@
         "Drilbur": 13,
         "Pawmi": 56,
         "Electabuzz": 8,
-        "Rellor": 44,
+        "Rellor": 45,
         "Sandy burmy": 9,
         "Wiglett": 59,
         "Bombirdier": 44,
@@ -53,7 +53,7 @@
         "Porygon": 56,
         "Zubat": 61,
         "Vanillish": 14,
-        "Tadbulb": 52,
+        "Tadbulb": 53,
         "Magnemite": 59,
         "Whismur": 44,
         "Monferno": 17,
@@ -183,7 +183,7 @@
         "Espurr": 11,
         "Cottonee": 7,
         "Elgyem": 12,
-        "Luvdisc": 4,
+        "Luvdisc": 5,
         "Vigoroth": 20,
         "Skorupi": 12,
         "Pikachu": 14,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 16,
         "Brionne": 8,
-        "Pancham": 12,
+        "Pancham": 13,
         "Venipede": 64,
         "Cacturne": 4,
         "Oddish": 52,
@@ -456,7 +456,7 @@
         "Sunflora": 4,
         "Passimian": 3,
         "Iron moth": 1,
-        "Cherubi": 9,
+        "Cherubi": 10,
         "Cradily": 3,
         "Vulpix": 13,
         "Paras": 12,
@@ -992,8 +992,8 @@
         "Pachirisu": 1,
         "Unown p": 1
       },
-      "total_spawns": 11300,
-      "last_spawn": "2026-06-24T14:38:11.995397"
+      "total_spawns": 11305,
+      "last_spawn": "2026-06-24T14:38:47.064870"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1088,7 +1088,7 @@
     }
   },
   "global": {
-    "total_spawns": 15687,
+    "total_spawns": 15692,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
