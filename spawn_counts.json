@@ -94,7 +94,7 @@
         "Corphish": 10,
         "Hoppip": 42,
         "Sandslash": 2,
-        "Kabuto": 13,
+        "Kabuto": 14,
         "Scatterbug": 48,
         "Pumpkaboo": 13,
         "Numel": 22,
@@ -103,7 +103,7 @@
         "Veluza": 62,
         "Barboach": 19,
         "Klink": 39,
-        "Honedge": 64,
+        "Honedge": 65,
         "Wingull": 18,
         "Salamence": 2,
         "Drakloak": 13,
@@ -166,7 +166,7 @@
         "Kakuna": 16,
         "Weepinbell": 10,
         "Klawf": 53,
-        "Vanillite": 42,
+        "Vanillite": 43,
         "Flareon": 6,
         "Gastly": 44,
         "Taillow": 16,
@@ -204,7 +204,7 @@
         "Silcoon": 12,
         "Totodile": 11,
         "Dodrio": 6,
-        "Cufant": 13,
+        "Cufant": 14,
         "Tympole": 42,
         "Swellow": 4,
         "Aipom": 9,
@@ -311,7 +311,7 @@
         "Zangoose": 6,
         "Flygon": 3,
         "Shellos": 9,
-        "Jigglypuff": 17,
+        "Jigglypuff": 18,
         "Nacli": 33,
         "Munna": 10,
         "Pawniard": 11,
@@ -479,7 +479,7 @@
         "Slowpoke": 15,
         "Dolliv": 12,
         "Infernape": 2,
-        "Carkol": 11,
+        "Carkol": 12,
         "Magikarp": 11,
         "Tyrogue": 16,
         "Vikavolt": 2,
@@ -993,8 +993,8 @@
         "Unown p": 1,
         "Hisuian samurott": 1
       },
-      "total_spawns": 11378,
-      "last_spawn": "2026-06-24T15:46:07.339355"
+      "total_spawns": 11384,
+      "last_spawn": "2026-06-24T15:46:47.249897"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1096,7 +1096,7 @@
     }
   },
   "global": {
-    "total_spawns": 15774,
+    "total_spawns": 15780,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
