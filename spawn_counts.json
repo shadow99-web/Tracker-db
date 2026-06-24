@@ -30,7 +30,7 @@
         "Morelull": 11,
         "Abra": 60,
         "Sandile": 61,
-        "Sandygast": 18,
+        "Sandygast": 19,
         "Litwick": 82,
         "Grubbin": 49,
         "Escavalier": 9,
@@ -120,7 +120,7 @@
         "Yamask": 9,
         "Ralts": 51,
         "Solosis": 55,
-        "Battle cyclizar": 24,
+        "Battle cyclizar": 25,
         "Togetic": 12,
         "Palpitoad": 12,
         "Pikipek": 69,
@@ -151,7 +151,7 @@
         "Bulbasaur": 14,
         "Roggenrola": 58,
         "Pidove": 59,
-        "Dragapult": 6,
+        "Dragapult": 7,
         "Rattata": 29,
         "Flapple": 8,
         "Aron": 60,
@@ -316,7 +316,7 @@
         "Munna": 13,
         "Pawniard": 13,
         "Prof tangrowth": 38,
-        "Jangmo-o": 28,
+        "Jangmo-o": 29,
         "Trash wormadam": 4,
         "Quaxly": 15,
         "Gossifleur": 17,
@@ -386,7 +386,7 @@
         "Swablu": 14,
         "Shellder": 15,
         "Crobat": 10,
-        "Sandshrew": 14,
+        "Sandshrew": 15,
         "Palafin": 10,
         "Maractus": 3,
         "Sigilyph": 4,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12483,
-      "last_spawn": "2026-06-24T18:34:47.169473"
+      "total_spawns": 12488,
+      "last_spawn": "2026-06-24T18:35:17.354766"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 16901,
+    "total_spawns": 16906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
