@@ -50,7 +50,7 @@
         "Greavard": 56,
         "Slugma": 13,
         "Grotle": 12,
-        "Porygon": 60,
+        "Porygon": 61,
         "Zubat": 68,
         "Vanillish": 17,
         "Tadbulb": 55,
@@ -119,7 +119,7 @@
         "Unfezant": 6,
         "Yamask": 9,
         "Ralts": 50,
-        "Solosis": 54,
+        "Solosis": 55,
         "Battle cyclizar": 23,
         "Togetic": 12,
         "Palpitoad": 12,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 11,
         "Drifloon": 9,
-        "Golbat": 15,
+        "Golbat": 16,
         "Swablu": 13,
         "Shellder": 15,
         "Crobat": 9,
@@ -430,7 +430,7 @@
         "Girafarig": 7,
         "Flaaffy": 8,
         "Pecharunt": 1,
-        "Feebas": 11,
+        "Feebas": 12,
         "Buneary": 15,
         "Zebstrika": 2,
         "Shuppet": 12,
@@ -664,7 +664,7 @@
         "Vileplume": 3,
         "Kecleon": 3,
         "Sizzlipede": 9,
-        "White flower floette": 3,
+        "White flower floette": 4,
         "Skeledirge": 6,
         "Amoonguss": 6,
         "Appletun": 2,
@@ -999,8 +999,8 @@
         "Tyranitar": 1,
         "Inteleon": 1
       },
-      "total_spawns": 12173,
-      "last_spawn": "2026-06-24T17:15:32.013814"
+      "total_spawns": 12178,
+      "last_spawn": "2026-06-24T17:16:07.179305"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1111,7 +1111,7 @@
     }
   },
   "global": {
-    "total_spawns": 16580,
+    "total_spawns": 16585,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
