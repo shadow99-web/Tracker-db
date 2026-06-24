@@ -100,7 +100,7 @@
         "Numel": 23,
         "Carracosta": 4,
         "Smearguru": 40,
-        "Veluza": 65,
+        "Veluza": 66,
         "Barboach": 20,
         "Klink": 45,
         "Honedge": 73,
@@ -536,7 +536,7 @@
         "Trubbish": 7,
         "Zorua": 9,
         "Archen": 22,
-        "Oinkologne": 14,
+        "Oinkologne": 15,
         "Onix": 12,
         "Vanilluxe": 2,
         "Jolteon": 6,
@@ -554,7 +554,7 @@
         "Drednaw": 4,
         "Skarmory": 5,
         "Midnight lycanroc": 4,
-        "Eelektross": 3,
+        "Eelektross": 4,
         "Araquanid": 4,
         "Kadabra": 13,
         "Chandelure": 6,
@@ -742,7 +742,7 @@
         "Venonat": 14,
         "Pelipper": 4,
         "Metapod": 13,
-        "Kricketune": 5,
+        "Kricketune": 6,
         "Nidoqueen": 3,
         "Hitmonchan": 1,
         "Relicanth": 1,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12588,
-      "last_spawn": "2026-06-24T18:46:31.862247"
+      "total_spawns": 12592,
+      "last_spawn": "2026-06-24T18:47:06.951542"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17006,
+    "total_spawns": 17010,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
