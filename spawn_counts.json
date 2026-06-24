@@ -19,7 +19,7 @@
         "Psyduck": 7,
         "Rockruff": 14,
         "Haunter": 13,
-        "Tangela": 17,
+        "Tangela": 18,
         "Orbeetle": 4,
         "Dedenne": 6,
         "Machop": 45,
@@ -92,7 +92,7 @@
         "Riolu": 15,
         "Exeggcute": 14,
         "Corphish": 10,
-        "Hoppip": 45,
+        "Hoppip": 46,
         "Sandslash": 2,
         "Kabuto": 16,
         "Scatterbug": 56,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 14,
         "Roggenrola": 58,
-        "Pidove": 63,
+        "Pidove": 64,
         "Dragapult": 7,
         "Rattata": 29,
         "Flapple": 8,
@@ -323,7 +323,7 @@
         "Oshawott": 15,
         "Murkrow": 14,
         "Bellsprout": 67,
-        "Mudbray": 15,
+        "Mudbray": 16,
         "Dreepy": 50,
         "Tinkaton": 4,
         "Corviknight": 6,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 3,
         "Medicham": 3,
         "Doublade": 14,
-        "Naclstack": 11,
+        "Naclstack": 12,
         "Claydol": 4,
         "Turtonator": 3,
         "Hitmonlee": 2,
@@ -1003,8 +1003,8 @@
         "Iron valiant": 1,
         "Beartic": 1
       },
-      "total_spawns": 12738,
-      "last_spawn": "2026-06-24T19:03:51.818906"
+      "total_spawns": 12743,
+      "last_spawn": "2026-06-24T19:04:27.270540"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1124,7 +1124,7 @@
     }
   },
   "global": {
-    "total_spawns": 17156,
+    "total_spawns": 17161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
