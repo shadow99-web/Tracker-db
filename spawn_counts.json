@@ -17,7 +17,7 @@
         "Purrloin": 9,
         "Tranquill": 13,
         "Psyduck": 5,
-        "Rockruff": 11,
+        "Rockruff": 12,
         "Haunter": 11,
         "Tangela": 11,
         "Orbeetle": 3,
@@ -120,7 +120,7 @@
         "Yamask": 8,
         "Ralts": 45,
         "Solosis": 48,
-        "Battle cyclizar": 21,
+        "Battle cyclizar": 22,
         "Togetic": 10,
         "Palpitoad": 10,
         "Pikipek": 63,
@@ -132,7 +132,7 @@
         "Lillipup": 55,
         "Shinx": 56,
         "Bounsweet": 38,
-        "Noibat": 16,
+        "Noibat": 17,
         "Toxicroak": 5,
         "Charcadet": 61,
         "Croconaw": 13,
@@ -328,7 +328,7 @@
         "Tinkaton": 4,
         "Corviknight": 5,
         "Froakie": 17,
-        "Nymble": 52,
+        "Nymble": 54,
         "Ferrothorn": 2,
         "Servine": 11,
         "Blitzle": 14,
@@ -990,8 +990,8 @@
         "Diggersby": 1,
         "Hisuian voltorb": 1
       },
-      "total_spawns": 11184,
-      "last_spawn": "2026-06-24T14:25:07.093303"
+      "total_spawns": 11189,
+      "last_spawn": "2026-06-24T14:25:37.672879"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1086,7 +1086,7 @@
     }
   },
   "global": {
-    "total_spawns": 15571,
+    "total_spawns": 15576,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
