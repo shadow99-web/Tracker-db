@@ -51,7 +51,7 @@
         "Slugma": 13,
         "Grotle": 11,
         "Porygon": 57,
-        "Zubat": 65,
+        "Zubat": 66,
         "Vanillish": 15,
         "Tadbulb": 54,
         "Magnemite": 59,
@@ -295,7 +295,7 @@
         "Torkoal": 2,
         "Ferroseed": 17,
         "Brionne": 8,
-        "Pancham": 13,
+        "Pancham": 14,
         "Venipede": 64,
         "Cacturne": 4,
         "Oddish": 52,
@@ -398,7 +398,7 @@
         "Ursaluna": 4,
         "Furfrou": 2,
         "Sylveon": 1,
-        "Nosepass": 10,
+        "Nosepass": 11,
         "Persian": 2,
         "Lopunny": 3,
         "Squawkabilly": 17,
@@ -451,7 +451,7 @@
         "Misdreavus": 11,
         "Seviper": 3,
         "Scovillain": 12,
-        "Sunkern": 10,
+        "Sunkern": 11,
         "Drizzile": 8,
         "Sunflora": 4,
         "Passimian": 3,
@@ -830,7 +830,7 @@
         "Omastar": 2,
         "Boltund": 4,
         "Lickilicky": 3,
-        "Dragonite": 1,
+        "Dragonite": 2,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 2,
         "Arctovish": 6,
@@ -994,8 +994,8 @@
         "Hisuian samurott": 1,
         "Ledian": 1
       },
-      "total_spawns": 11486,
-      "last_spawn": "2026-06-24T15:58:11.718181"
+      "total_spawns": 11491,
+      "last_spawn": "2026-06-24T15:58:47.106306"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1098,7 +1098,7 @@
     }
   },
   "global": {
-    "total_spawns": 15884,
+    "total_spawns": 15889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
