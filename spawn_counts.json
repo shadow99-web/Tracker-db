@@ -62,7 +62,7 @@
         "Yanma": 12,
         "Larvesta": 26,
         "Beldum": 46,
-        "Ducklett": 10,
+        "Ducklett": 11,
         "Lokix": 15,
         "Glimmora": 17,
         "Starly": 65,
@@ -101,7 +101,7 @@
         "Carracosta": 3,
         "Smearguru": 40,
         "Veluza": 64,
-        "Barboach": 19,
+        "Barboach": 20,
         "Klink": 45,
         "Honedge": 72,
         "Wingull": 20,
@@ -224,7 +224,7 @@
         "Magmar": 15,
         "Rillaboom": 6,
         "Ninetales": 4,
-        "Wattrel": 66,
+        "Wattrel": 67,
         "Snubbull": 13,
         "Spidops": 14,
         "Braixen": 16,
@@ -421,7 +421,7 @@
         "Delibird": 3,
         "Ride cyclizar": 20,
         "Gothorita": 13,
-        "Varoom": 47,
+        "Varoom": 48,
         "Yellow plumage squawkabilly": 18,
         "Centiskorch": 5,
         "Low key toxtricity": 1,
@@ -657,7 +657,7 @@
         "Whirlipede": 13,
         "Absol": 3,
         "Annihilape": 7,
-        "Bouffalant": 5,
+        "Bouffalant": 6,
         "Crabrawler": 13,
         "Budew": 4,
         "Espathra": 12,
@@ -997,10 +997,11 @@
         "Blade aegislash": 1,
         "Miltank": 1,
         "Tyranitar": 1,
-        "Inteleon": 1
+        "Inteleon": 1,
+        "Rotom drone": 1
       },
-      "total_spawns": 12184,
-      "last_spawn": "2026-06-24T17:16:47.278678"
+      "total_spawns": 12190,
+      "last_spawn": "2026-06-24T17:17:27.629691"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1111,7 +1112,7 @@
     }
   },
   "global": {
-    "total_spawns": 16591,
+    "total_spawns": 16597,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
