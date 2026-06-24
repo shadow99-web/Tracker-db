@@ -268,7 +268,7 @@
         "Loudred": 11,
         "Ceruledge": 24,
         "Houndour": 16,
-        "Glimmet": 53,
+        "Glimmet": 54,
         "Goomy": 33,
         "Zapdos": 1,
         "Natu": 15,
@@ -380,7 +380,7 @@
         "Remoraid": 8,
         "Torracat": 16,
         "Hisuian zorua": 1,
-        "Wooloo": 10,
+        "Wooloo": 11,
         "Drifloon": 9,
         "Golbat": 15,
         "Swablu": 13,
@@ -616,7 +616,7 @@
         "Wigglytuff": 3,
         "Venusaur": 6,
         "Mismagius": 3,
-        "Fraxure": 12,
+        "Fraxure": 13,
         "Talonflame": 3,
         "Kleavor": 5,
         "East sea gastrodon": 4,
@@ -639,7 +639,7 @@
         "Latios": 1,
         "Silicobra": 11,
         "Snom": 7,
-        "East sea shellos": 7,
+        "East sea shellos": 8,
         "Corsola": 8,
         "Venomoth": 7,
         "Trumbeak": 15,
@@ -770,7 +770,7 @@
         "Drifblim": 2,
         "Meowscarada": 4,
         "Roserade": 5,
-        "Nidorina": 9,
+        "Nidorina": 10,
         "Archaludon": 1,
         "Golduck": 2,
         "Scolipede": 3,
@@ -996,8 +996,8 @@
         "Cherrim": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 11738,
-      "last_spawn": "2026-06-24T16:26:47.201777"
+      "total_spawns": 11743,
+      "last_spawn": "2026-06-24T16:27:17.607458"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1104,7 +1104,7 @@
     }
   },
   "global": {
-    "total_spawns": 16141,
+    "total_spawns": 16146,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
