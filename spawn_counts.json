@@ -170,7 +170,7 @@
         "Flareon": 6,
         "Gastly": 46,
         "Taillow": 18,
-        "Swinub": 55,
+        "Swinub": 56,
         "Inkay": 20,
         "Gible": 36,
         "Rookidee": 34,
@@ -1002,8 +1002,8 @@
         "Aegislash": 1,
         "Iron valiant": 1
       },
-      "total_spawns": 12306,
-      "last_spawn": "2026-06-24T17:30:27.841371"
+      "total_spawns": 12307,
+      "last_spawn": "2026-06-24T17:30:31.760180"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1102,10 +1102,11 @@
         "Trapinch": 1,
         "Smoliv": 1,
         "Pawniard": 1,
-        "Frogadier": 1
+        "Frogadier": 1,
+        "Gimmighoul": 1
       },
-      "total_spawns": 121,
-      "last_spawn": "2026-06-24T17:18:47.827978"
+      "total_spawns": 122,
+      "last_spawn": "2026-06-24T17:35:51.452648"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1115,7 +1116,7 @@
     }
   },
   "global": {
-    "total_spawns": 16714,
+    "total_spawns": 16716,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
