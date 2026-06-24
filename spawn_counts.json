@@ -161,7 +161,7 @@
         "Spiritomb": 4,
         "Yamper": 8,
         "Tepig": 27,
-        "Kirlia": 10,
+        "Kirlia": 11,
         "Piplup": 6,
         "Kakuna": 15,
         "Weepinbell": 9,
@@ -172,7 +172,7 @@
         "Taillow": 13,
         "Swinub": 39,
         "Inkay": 16,
-        "Gible": 25,
+        "Gible": 26,
         "Rookidee": 26,
         "Minccino": 14,
         "Wurmple": 36,
@@ -322,7 +322,7 @@
         "Gossifleur": 12,
         "Oshawott": 10,
         "Murkrow": 11,
-        "Bellsprout": 52,
+        "Bellsprout": 53,
         "Mudbray": 11,
         "Dreepy": 40,
         "Tinkaton": 3,
@@ -381,7 +381,7 @@
         "Torracat": 12,
         "Hisuian zorua": 1,
         "Wooloo": 8,
-        "Drifloon": 8,
+        "Drifloon": 9,
         "Golbat": 14,
         "Swablu": 12,
         "Shellder": 12,
@@ -964,8 +964,8 @@
         "Galarian darmanitan": 1,
         "Thundurus": 1
       },
-      "total_spawns": 9360,
-      "last_spawn": "2026-06-24T09:12:31.894222"
+      "total_spawns": 9364,
+      "last_spawn": "2026-06-24T09:13:07.023817"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1049,7 +1049,7 @@
     }
   },
   "global": {
-    "total_spawns": 13736,
+    "total_spawns": 13740,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
