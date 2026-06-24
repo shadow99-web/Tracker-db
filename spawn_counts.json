@@ -22,7 +22,7 @@
         "Tangela": 11,
         "Orbeetle": 3,
         "Dedenne": 5,
-        "Machop": 37,
+        "Machop": 38,
         "Dudunsparce": 9,
         "Gothita": 44,
         "Impidimp": 39,
@@ -39,7 +39,7 @@
         "Lotad": 63,
         "Qwilfish": 5,
         "Trapinch": 55,
-        "Toedscool": 39,
+        "Toedscool": 40,
         "Fletchling": 35,
         "Skiploom": 12,
         "Timburr": 46,
@@ -460,7 +460,7 @@
         "Cradily": 3,
         "Vulpix": 13,
         "Paras": 12,
-        "Herdier": 14,
+        "Herdier": 15,
         "Pineco": 11,
         "Chikorita": 11,
         "Woobat": 12,
@@ -768,7 +768,7 @@
         "Finneon": 7,
         "Mamoswine": 3,
         "Drifblim": 2,
-        "Meowscarada": 3,
+        "Meowscarada": 4,
         "Roserade": 4,
         "Nidorina": 8,
         "Archaludon": 1,
@@ -973,8 +973,8 @@
         "Minun": 2,
         "Wo-chien": 1
       },
-      "total_spawns": 10224,
-      "last_spawn": "2026-06-24T11:21:19.141176"
+      "total_spawns": 10228,
+      "last_spawn": "2026-06-24T11:21:50.162561"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1067,7 +1067,7 @@
     }
   },
   "global": {
-    "total_spawns": 14609,
+    "total_spawns": 14613,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
