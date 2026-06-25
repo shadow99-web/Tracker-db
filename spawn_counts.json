@@ -58,7 +58,7 @@
         "Whismur": 88,
         "Monferno": 23,
         "Skwovet": 25,
-        "Bramblin": 100,
+        "Bramblin": 101,
         "Yanma": 19,
         "Larvesta": 36,
         "Beldum": 72,
@@ -134,7 +134,7 @@
         "Bounsweet": 73,
         "Noibat": 27,
         "Toxicroak": 8,
-        "Charcadet": 103,
+        "Charcadet": 104,
         "Croconaw": 22,
         "Phanpy": 13,
         "Brambleghast": 30,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 18,
-        "Rolycoly": 73,
+        "Rolycoly": 74,
         "Bronzor": 27,
         "Dartrix": 24,
         "Yellow flower florges": 3,
@@ -548,7 +548,7 @@
         "Krokorok": 24,
         "Dragonair": 16,
         "Zweilous": 18,
-        "Karrablast": 16,
+        "Karrablast": 17,
         "Shroomish": 23,
         "Snover": 19,
         "Drednaw": 5,
@@ -838,7 +838,7 @@
         "Alolan meowth": 1,
         "Klang": 19,
         "Manectric": 4,
-        "Gallade": 6,
+        "Gallade": 7,
         "Family of three maushold": 2,
         "Lunatone": 6,
         "Exeggutor": 2,
@@ -1052,8 +1052,8 @@
         "Alolan grimer": 1,
         "Kubfu": 1
       },
-      "total_spawns": 19820,
-      "last_spawn": "2026-06-25T16:11:07.567631"
+      "total_spawns": 19825,
+      "last_spawn": "2026-06-25T16:11:47.240794"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1235,7 +1235,7 @@
     }
   },
   "global": {
-    "total_spawns": 24366,
+    "total_spawns": 24371,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
