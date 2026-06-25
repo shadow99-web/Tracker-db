@@ -9,7 +9,7 @@
         "Drilbur": 23,
         "Pawmi": 85,
         "Electabuzz": 16,
-        "Rellor": 83,
+        "Rellor": 84,
         "Sandy burmy": 13,
         "Wiglett": 91,
         "Bombirdier": 82,
@@ -18,7 +18,7 @@
         "Tranquill": 22,
         "Psyduck": 13,
         "Rockruff": 22,
-        "Haunter": 21,
+        "Haunter": 22,
         "Tangela": 27,
         "Orbeetle": 4,
         "Dedenne": 8,
@@ -87,7 +87,7 @@
         "Togepi": 78,
         "Falinks": 7,
         "Tropius": 5,
-        "Poliwag": 90,
+        "Poliwag": 91,
         "Metang": 12,
         "Riolu": 24,
         "Exeggcute": 22,
@@ -179,7 +179,7 @@
         "Binacle": 28,
         "Grafaiai": 16,
         "Quilladin": 15,
-        "Geodude": 102,
+        "Geodude": 103,
         "Espurr": 23,
         "Cottonee": 18,
         "Elgyem": 18,
@@ -210,7 +210,7 @@
         "Aipom": 27,
         "Growlithe": 15,
         "Sewaddle": 93,
-        "Fidough": 56,
+        "Fidough": 57,
         "Noivern": 2,
         "Feraligatr": 5,
         "Tynamo": 103,
@@ -792,7 +792,7 @@
         "Happiny": 3,
         "Matron trim furfrou": 1,
         "Gothitelle": 5,
-        "Dusclops": 13,
+        "Dusclops": 14,
         "Galarian yamask": 2,
         "Alolan golem": 1,
         "Dustox": 4,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20082,
-      "last_spawn": "2026-06-25T16:41:27.319612"
+      "total_spawns": 20088,
+      "last_spawn": "2026-06-25T16:42:07.221669"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24630,
+    "total_spawns": 24636,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
