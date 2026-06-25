@@ -1023,7 +1023,7 @@
         "Wurmple": 2,
         "Gothita": 3,
         "Gible": 3,
-        "Larvesta": 1,
+        "Larvesta": 2,
         "Starly": 3,
         "Varoom": 2,
         "Weedle": 2,
@@ -1144,10 +1144,11 @@
         "Mr. mime": 1,
         "Galarian linoone": 1,
         "Vikavolt": 1,
-        "Peakychu": 1
+        "Peakychu": 1,
+        "Absol": 1
       },
-      "total_spawns": 183,
-      "last_spawn": "2026-06-25T07:47:47.765960"
+      "total_spawns": 185,
+      "last_spawn": "2026-06-25T07:48:47.436381"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1157,7 +1158,7 @@
     }
   },
   "global": {
-    "total_spawns": 17463,
+    "total_spawns": 17465,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
