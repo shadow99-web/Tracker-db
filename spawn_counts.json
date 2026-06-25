@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 38,
         "Patrat": 27,
-        "Mosslax": 61,
+        "Mosslax": 62,
         "Drilbur": 24,
         "Pawmi": 89,
         "Electabuzz": 17,
@@ -51,7 +51,7 @@
         "Slugma": 34,
         "Grotle": 20,
         "Porygon": 113,
-        "Zubat": 115,
+        "Zubat": 116,
         "Vanillish": 28,
         "Tadbulb": 108,
         "Magnemite": 100,
@@ -139,11 +139,11 @@
         "Phanpy": 15,
         "Brambleghast": 32,
         "Pidgey": 121,
-        "Rhyhorn": 99,
+        "Rhyhorn": 100,
         "Sentret": 26,
         "Yungoos": 21,
         "Diglett": 35,
-        "Doduo": 27,
+        "Doduo": 28,
         "Lairon": 24,
         "Emboar": 6,
         "Deoxys": 2,
@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 55,
         "Flapple": 11,
-        "Aron": 103,
+        "Aron": 104,
         "Boldore": 24,
         "Spinarak": 30,
         "Delcatty": 6,
@@ -191,7 +191,7 @@
         "Thwackey": 22,
         "Dusk lycanroc": 5,
         "Sunny castform": 7,
-        "Pidgeotto": 29,
+        "Pidgeotto": 30,
         "Spearow": 35,
         "Helioptile": 21,
         "Hoothoot": 32,
@@ -213,7 +213,7 @@
         "Fidough": 60,
         "Noivern": 2,
         "Feraligatr": 5,
-        "Tynamo": 105,
+        "Tynamo": 106,
         "Orthworm": 96,
         "Marill": 27,
         "Joltik": 31,
@@ -268,7 +268,7 @@
         "Loudred": 27,
         "Ceruledge": 29,
         "Houndour": 25,
-        "Glimmet": 100,
+        "Glimmet": 101,
         "Goomy": 62,
         "Zapdos": 1,
         "Natu": 20,
@@ -492,7 +492,7 @@
         "Copperajah": 5,
         "Magneton": 19,
         "Alakazam": 6,
-        "Bayleef": 22,
+        "Bayleef": 23,
         "Poochyena": 23,
         "Klinklang": 5,
         "Basculin": 5,
@@ -518,7 +518,7 @@
         "Gabite": 14,
         "Hariyama": 3,
         "Victreebel": 6,
-        "Arctibax": 23,
+        "Arctibax": 24,
         "Foongus": 30,
         "Pansage": 18,
         "Cranidos": 27,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21394,
-      "last_spawn": "2026-06-25T17:56:33.165550"
+      "total_spawns": 21404,
+      "last_spawn": "2026-06-25T17:57:03.324169"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1248,7 +1248,7 @@
     }
   },
   "global": {
-    "total_spawns": 25943,
+    "total_spawns": 25953,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
