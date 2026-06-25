@@ -55,7 +55,7 @@
         "Vanillish": 28,
         "Tadbulb": 99,
         "Magnemite": 98,
-        "Whismur": 88,
+        "Whismur": 89,
         "Monferno": 23,
         "Skwovet": 25,
         "Bramblin": 103,
@@ -64,10 +64,10 @@
         "Beldum": 72,
         "Ducklett": 20,
         "Lokix": 24,
-        "Glimmora": 28,
+        "Glimmora": 29,
         "Starly": 98,
         "Tandemaus": 75,
-        "Smoliv": 93,
+        "Smoliv": 94,
         "Gloom": 25,
         "Clefairy": 22,
         "Spinda": 6,
@@ -152,7 +152,7 @@
         "Roggenrola": 91,
         "Pidove": 94,
         "Dragapult": 10,
-        "Rattata": 49,
+        "Rattata": 50,
         "Flapple": 11,
         "Aron": 90,
         "Boldore": 24,
@@ -368,7 +368,7 @@
         "Toucannon": 4,
         "Caterpie": 73,
         "Carvanha": 17,
-        "Luxio": 23,
+        "Luxio": 24,
         "Treecko": 36,
         "Sinistea": 18,
         "Cubchoo": 16,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19932,
-      "last_spawn": "2026-06-25T16:23:59.314686"
+      "total_spawns": 19937,
+      "last_spawn": "2026-06-25T16:24:31.891153"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24480,
+    "total_spawns": 24485,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
