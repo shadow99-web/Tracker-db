@@ -40,7 +40,7 @@
         "Qwilfish": 5,
         "Trapinch": 65,
         "Toedscool": 52,
-        "Fletchling": 54,
+        "Fletchling": 55,
         "Skiploom": 17,
         "Timburr": 62,
         "Dj rotom": 54,
@@ -56,7 +56,7 @@
         "Tadbulb": 60,
         "Magnemite": 68,
         "Whismur": 52,
-        "Monferno": 19,
+        "Monferno": 20,
         "Skwovet": 14,
         "Bramblin": 66,
         "Yanma": 13,
@@ -126,7 +126,7 @@
         "Pikipek": 71,
         "Teddiursa": 58,
         "Clamperl": 18,
-        "Zigzagoon": 23,
+        "Zigzagoon": 24,
         "Weedle": 84,
         "Flamigo": 53,
         "Lillipup": 61,
@@ -150,7 +150,7 @@
         "Dracovish": 3,
         "Bulbasaur": 15,
         "Roggenrola": 60,
-        "Pidove": 65,
+        "Pidove": 66,
         "Dragapult": 7,
         "Rattata": 30,
         "Flapple": 8,
@@ -462,7 +462,7 @@
         "Paras": 16,
         "Herdier": 22,
         "Pineco": 11,
-        "Chikorita": 16,
+        "Chikorita": 17,
         "Woobat": 16,
         "Wobbuffet": 3,
         "Roselia": 6,
@@ -558,7 +558,7 @@
         "Araquanid": 4,
         "Kadabra": 15,
         "Chandelure": 6,
-        "Ponyta": 20,
+        "Ponyta": 21,
         "Togekiss": 5,
         "Braviary": 5,
         "Raboot": 15,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13173,
-      "last_spawn": "2026-06-25T12:08:07.189359"
+      "total_spawns": 13179,
+      "last_spawn": "2026-06-25T12:08:49.046789"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17669,
+    "total_spawns": 17675,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
