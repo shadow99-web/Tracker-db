@@ -11,7 +11,7 @@
         "Electabuzz": 16,
         "Rellor": 83,
         "Sandy burmy": 13,
-        "Wiglett": 90,
+        "Wiglett": 91,
         "Bombirdier": 82,
         "Litleo": 21,
         "Purrloin": 15,
@@ -143,7 +143,7 @@
         "Sentret": 25,
         "Yungoos": 19,
         "Diglett": 34,
-        "Doduo": 24,
+        "Doduo": 25,
         "Lairon": 23,
         "Emboar": 6,
         "Deoxys": 2,
@@ -229,7 +229,7 @@
         "Spidops": 23,
         "Braixen": 24,
         "Drowzee": 21,
-        "Blipbug": 88,
+        "Blipbug": 89,
         "Lampent": 29,
         "Petilil": 23,
         "Marshtomp": 22,
@@ -523,7 +523,7 @@
         "Pansage": 15,
         "Cranidos": 26,
         "Spewpa": 23,
-        "Tyrunt": 18,
+        "Tyrunt": 19,
         "Garganacl": 2,
         "Chinchou": 17,
         "Maushold": 25,
@@ -578,7 +578,7 @@
         "Scorbunny": 26,
         "Huntail": 9,
         "Galarian meowth": 1,
-        "Spoink": 14,
+        "Spoink": 15,
         "Scyther": 26,
         "Anorith": 26,
         "Meowth": 15,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20053,
-      "last_spawn": "2026-06-25T16:37:57.395454"
+      "total_spawns": 20058,
+      "last_spawn": "2026-06-25T16:38:32.941988"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24601,
+    "total_spawns": 24606,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
