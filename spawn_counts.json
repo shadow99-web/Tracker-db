@@ -16,9 +16,9 @@
         "Litleo": 15,
         "Purrloin": 11,
         "Tranquill": 16,
-        "Psyduck": 7,
+        "Psyduck": 8,
         "Rockruff": 15,
-        "Haunter": 13,
+        "Haunter": 14,
         "Tangela": 18,
         "Orbeetle": 4,
         "Dedenne": 6,
@@ -54,7 +54,7 @@
         "Zubat": 72,
         "Vanillish": 19,
         "Tadbulb": 59,
-        "Magnemite": 67,
+        "Magnemite": 68,
         "Whismur": 52,
         "Monferno": 19,
         "Skwovet": 14,
@@ -1002,10 +1002,11 @@
         "Aegislash": 1,
         "Iron valiant": 1,
         "Beartic": 1,
-        "Weezing": 1
+        "Weezing": 1,
+        "Pangoro": 1
       },
-      "total_spawns": 13095,
-      "last_spawn": "2026-06-25T11:58:57.242526"
+      "total_spawns": 13099,
+      "last_spawn": "2026-06-25T11:59:27.507757"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1171,7 +1172,7 @@
     }
   },
   "global": {
-    "total_spawns": 17590,
+    "total_spawns": 17594,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
