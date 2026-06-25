@@ -11,7 +11,7 @@
         "Electabuzz": 9,
         "Rellor": 52,
         "Sandy burmy": 9,
-        "Wiglett": 65,
+        "Wiglett": 66,
         "Bombirdier": 53,
         "Litleo": 15,
         "Purrloin": 11,
@@ -134,7 +134,7 @@
         "Bounsweet": 46,
         "Noibat": 19,
         "Toxicroak": 6,
-        "Charcadet": 76,
+        "Charcadet": 77,
         "Croconaw": 17,
         "Phanpy": 9,
         "Brambleghast": 17,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 15,
-        "Roggenrola": 60,
+        "Roggenrola": 61,
         "Pidove": 66,
         "Dragapult": 7,
         "Rattata": 31,
@@ -318,7 +318,7 @@
         "Prof tangrowth": 43,
         "Jangmo-o": 30,
         "Trash wormadam": 4,
-        "Quaxly": 15,
+        "Quaxly": 16,
         "Gossifleur": 18,
         "Oshawott": 16,
         "Murkrow": 14,
@@ -795,7 +795,7 @@
         "Dusclops": 6,
         "Galarian yamask": 1,
         "Alolan golem": 1,
-        "Dustox": 2,
+        "Dustox": 3,
         "Gliscor": 3,
         "Mesprit": 2,
         "Vaporeon": 7,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13274,
-      "last_spawn": "2026-06-25T12:22:27.053546"
+      "total_spawns": 13279,
+      "last_spawn": "2026-06-25T12:22:57.227358"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17770,
+    "total_spawns": 17775,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
