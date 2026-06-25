@@ -69,7 +69,7 @@
         "Tandemaus": 75,
         "Smoliv": 94,
         "Gloom": 25,
-        "Clefairy": 22,
+        "Clefairy": 23,
         "Spinda": 6,
         "Fomantis": 13,
         "Droopy tatsugiri": 38,
@@ -89,7 +89,7 @@
         "Tropius": 5,
         "Poliwag": 90,
         "Metang": 11,
-        "Riolu": 23,
+        "Riolu": 24,
         "Exeggcute": 22,
         "Corphish": 16,
         "Hoppip": 84,
@@ -109,7 +109,7 @@
         "Drakloak": 21,
         "Chewtle": 21,
         "Scizor": 3,
-        "Sneasel": 22,
+        "Sneasel": 23,
         "Bonsly": 4,
         "Horsea": 89,
         "Frigibax": 85,
@@ -369,7 +369,7 @@
         "Caterpie": 73,
         "Carvanha": 17,
         "Luxio": 24,
-        "Treecko": 36,
+        "Treecko": 37,
         "Sinistea": 18,
         "Cubchoo": 16,
         "Hippopotas": 13,
@@ -514,12 +514,12 @@
         "Goldeen": 25,
         "Nickit": 33,
         "Ivysaur": 17,
-        "Milcery": 20,
+        "Milcery": 21,
         "Gabite": 13,
         "Hariyama": 3,
         "Victreebel": 5,
         "Arctibax": 22,
-        "Foongus": 26,
+        "Foongus": 27,
         "Pansage": 15,
         "Cranidos": 26,
         "Spewpa": 22,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19962,
-      "last_spawn": "2026-06-25T16:27:27.441402"
+      "total_spawns": 19968,
+      "last_spawn": "2026-06-25T16:28:09.105886"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24510,
+    "total_spawns": 24516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
