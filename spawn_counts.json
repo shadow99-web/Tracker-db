@@ -232,7 +232,7 @@
         "Blipbug": 87,
         "Lampent": 29,
         "Petilil": 22,
-        "Marshtomp": 21,
+        "Marshtomp": 22,
         "Eiscue": 8,
         "Summer deerling": 23,
         "Clauncher": 25,
@@ -280,7 +280,7 @@
         "Galarian slowpoke": 2,
         "Poliwhirl": 23,
         "Crocalor": 27,
-        "Cryogonal": 8,
+        "Cryogonal": 9,
         "Eternatus": 1,
         "Gholdengo": 22,
         "Charmeleon": 11,
@@ -356,7 +356,7 @@
         "Swirlix": 18,
         "Aromatisse": 6,
         "Muk": 7,
-        "Toxel": 19,
+        "Toxel": 20,
         "Banette": 6,
         "Three-segment dudunsparce": 4,
         "Fearow": 7,
@@ -687,7 +687,7 @@
         "Koffing": 26,
         "Floragato": 11,
         "Seel": 22,
-        "Shiinotic": 4,
+        "Shiinotic": 5,
         "Gumshoos": 4,
         "Pyroar": 8,
         "Marshadow": 2,
@@ -1052,8 +1052,8 @@
         "Alolan grimer": 1,
         "Kubfu": 1
       },
-      "total_spawns": 19861,
-      "last_spawn": "2026-06-25T16:15:57.127033"
+      "total_spawns": 19865,
+      "last_spawn": "2026-06-25T16:16:27.314974"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1235,7 +1235,7 @@
     }
   },
   "global": {
-    "total_spawns": 24407,
+    "total_spawns": 24411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
