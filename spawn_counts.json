@@ -115,7 +115,7 @@
         "Frigibax": 58,
         "Spheal": 78,
         "Swadloon": 18,
-        "Flittle": 52,
+        "Flittle": 53,
         "Unfezant": 6,
         "Yamask": 12,
         "Ralts": 53,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 14,
-        "Roggenrola": 58,
+        "Roggenrola": 59,
         "Pidove": 65,
         "Dragapult": 7,
         "Rattata": 30,
@@ -205,7 +205,7 @@
         "Totodile": 11,
         "Dodrio": 6,
         "Cufant": 17,
-        "Tympole": 52,
+        "Tympole": 53,
         "Swellow": 4,
         "Aipom": 12,
         "Growlithe": 13,
@@ -525,7 +525,7 @@
         "Spewpa": 14,
         "Tyrunt": 12,
         "Garganacl": 1,
-        "Chinchou": 10,
+        "Chinchou": 11,
         "Maushold": 17,
         "Bastiodon": 1,
         "Floatzel": 2,
@@ -663,7 +663,7 @@
         "Espathra": 12,
         "Vileplume": 3,
         "Kecleon": 3,
-        "Sizzlipede": 9,
+        "Sizzlipede": 10,
         "White flower floette": 4,
         "Skeledirge": 6,
         "Amoonguss": 6,
@@ -1004,8 +1004,8 @@
         "Beartic": 1,
         "Weezing": 1
       },
-      "total_spawns": 13085,
-      "last_spawn": "2026-06-25T11:57:51.887719"
+      "total_spawns": 13090,
+      "last_spawn": "2026-06-25T11:58:27.034383"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1171,7 +1171,7 @@
     }
   },
   "global": {
-    "total_spawns": 17580,
+    "total_spawns": 17585,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
