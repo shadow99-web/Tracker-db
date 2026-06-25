@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 40,
         "Patrat": 27,
-        "Mosslax": 63,
+        "Mosslax": 64,
         "Drilbur": 24,
         "Pawmi": 89,
         "Electabuzz": 18,
@@ -81,7 +81,7 @@
         "Amaura": 21,
         "Gimmighoul": 96,
         "Baltoy": 33,
-        "Mareep": 105,
+        "Mareep": 106,
         "Garbodor": 6,
         "Slakoth": 107,
         "Togepi": 89,
@@ -170,7 +170,7 @@
         "Flareon": 9,
         "Gastly": 84,
         "Taillow": 23,
-        "Swinub": 104,
+        "Swinub": 105,
         "Inkay": 29,
         "Gible": 70,
         "Rookidee": 67,
@@ -180,7 +180,7 @@
         "Grafaiai": 19,
         "Quilladin": 19,
         "Geodude": 111,
-        "Espurr": 25,
+        "Espurr": 26,
         "Cottonee": 19,
         "Elgyem": 18,
         "Luvdisc": 8,
@@ -229,7 +229,7 @@
         "Spidops": 23,
         "Braixen": 25,
         "Drowzee": 21,
-        "Blipbug": 94,
+        "Blipbug": 95,
         "Lampent": 29,
         "Petilil": 25,
         "Marshtomp": 26,
@@ -315,7 +315,7 @@
         "Nacli": 74,
         "Munna": 22,
         "Pawniard": 22,
-        "Prof tangrowth": 73,
+        "Prof tangrowth": 74,
         "Jangmo-o": 47,
         "Trash wormadam": 9,
         "Quaxly": 37,
@@ -363,7 +363,7 @@
         "Mankey": 27,
         "Bidoof": 21,
         "Quilava": 31,
-        "Finizen": 94,
+        "Finizen": 95,
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 81,
@@ -416,7 +416,7 @@
         "Larvitar": 51,
         "Tentacool": 16,
         "Volcanion": 1,
-        "Roaming gimmighoul": 71,
+        "Roaming gimmighoul": 72,
         "Summer sawsbuck": 10,
         "Delibird": 10,
         "Ride cyclizar": 34,
@@ -447,7 +447,7 @@
         "Raticate": 19,
         "Wugtrio": 21,
         "Bellibolt": 23,
-        "Morgrem": 16,
+        "Morgrem": 17,
         "Misdreavus": 23,
         "Seviper": 7,
         "Scovillain": 27,
@@ -496,7 +496,7 @@
         "Poochyena": 26,
         "Klinklang": 5,
         "Basculin": 5,
-        "Throh": 9,
+        "Throh": 10,
         "Comfey": 6,
         "Applin": 26,
         "Staraptor": 9,
@@ -1008,7 +1008,7 @@
         "Hangry morpeko": 1,
         "Mow rotom": 2,
         "Partner eevee": 1,
-        "Noctowl": 5,
+        "Noctowl": 6,
         "Vespiquen": 2,
         "Sandaconda": 3,
         "Blue flower florges": 1,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21758,
-      "last_spawn": "2026-06-25T18:14:12.060885"
+      "total_spawns": 21769,
+      "last_spawn": "2026-06-25T18:14:43.320368"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1251,7 +1251,7 @@
     }
   },
   "global": {
-    "total_spawns": 26317,
+    "total_spawns": 26328,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
