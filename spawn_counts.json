@@ -32,7 +32,7 @@
         "Sandile": 95,
         "Sandygast": 25,
         "Litwick": 118,
-        "Grubbin": 80,
+        "Grubbin": 81,
         "Escavalier": 9,
         "Dratini": 65,
         "Kilowattrel": 23,
@@ -84,7 +84,7 @@
         "Mareep": 98,
         "Garbodor": 4,
         "Slakoth": 101,
-        "Togepi": 77,
+        "Togepi": 78,
         "Falinks": 7,
         "Tropius": 5,
         "Poliwag": 90,
@@ -330,7 +330,7 @@
         "Froakie": 27,
         "Nymble": 86,
         "Ferrothorn": 3,
-        "Servine": 19,
+        "Servine": 20,
         "Blitzle": 24,
         "Musharna": 3,
         "Bisharp": 9,
@@ -413,7 +413,7 @@
         "Peakychu": 62,
         "Armarouge": 29,
         "Tyrantrum": 1,
-        "Larvitar": 48,
+        "Larvitar": 49,
         "Tentacool": 16,
         "Volcanion": 1,
         "Roaming gimmighoul": 65,
@@ -739,7 +739,7 @@
         "Thievul": 4,
         "Greedent": 7,
         "Ekans": 23,
-        "Venonat": 14,
+        "Venonat": 15,
         "Pelipper": 7,
         "Metapod": 16,
         "Kricketune": 11,
@@ -919,7 +919,7 @@
         "Bellossom": 6,
         "Pirouette meloetta": 2,
         "Sableye": 3,
-        "Wynaut": 5,
+        "Wynaut": 6,
         "Hattrem": 11,
         "Clefable": 4,
         "Serperior": 6,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20063,
-      "last_spawn": "2026-06-25T16:39:07.084982"
+      "total_spawns": 20069,
+      "last_spawn": "2026-06-25T16:39:47.207216"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24611,
+    "total_spawns": 24617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
