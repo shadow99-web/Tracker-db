@@ -118,7 +118,7 @@
         "Flittle": 76,
         "Unfezant": 10,
         "Yamask": 19,
-        "Ralts": 73,
+        "Ralts": 74,
         "Solosis": 78,
         "Battle cyclizar": 42,
         "Togetic": 26,
@@ -165,7 +165,7 @@
         "Piplup": 24,
         "Kakuna": 26,
         "Weepinbell": 21,
-        "Klawf": 102,
+        "Klawf": 103,
         "Vanillite": 76,
         "Flareon": 9,
         "Gastly": 77,
@@ -278,7 +278,7 @@
         "Stoutland": 4,
         "Rowlet": 31,
         "Galarian slowpoke": 2,
-        "Poliwhirl": 23,
+        "Poliwhirl": 24,
         "Crocalor": 27,
         "Cryogonal": 9,
         "Eternatus": 1,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 18,
         "Drifloon": 20,
-        "Golbat": 21,
+        "Golbat": 22,
         "Swablu": 21,
         "Shellder": 24,
         "Crobat": 11,
@@ -575,7 +575,7 @@
         "Cascoon": 16,
         "Tentacruel": 7,
         "Nuzleaf": 20,
-        "Scorbunny": 25,
+        "Scorbunny": 26,
         "Huntail": 9,
         "Galarian meowth": 1,
         "Spoink": 14,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20048,
-      "last_spawn": "2026-06-25T16:37:27.155179"
+      "total_spawns": 20053,
+      "last_spawn": "2026-06-25T16:37:57.395454"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24596,
+    "total_spawns": 24601,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
