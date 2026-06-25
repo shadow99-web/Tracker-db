@@ -254,7 +254,7 @@
         "Kommo-o": 2,
         "Dewott": 22,
         "Arrokuda": 21,
-        "Golett": 21,
+        "Golett": 22,
         "Vullaby": 14,
         "Cetitan": 24,
         "Cubone": 23,
@@ -421,7 +421,7 @@
         "Delibird": 7,
         "Ride cyclizar": 32,
         "Gothorita": 24,
-        "Varoom": 88,
+        "Varoom": 89,
         "Yellow plumage squawkabilly": 22,
         "Centiskorch": 9,
         "Low key toxtricity": 4,
@@ -535,7 +535,7 @@
         "Trevenant": 9,
         "Trubbish": 14,
         "Zorua": 14,
-        "Archen": 31,
+        "Archen": 32,
         "Oinkologne": 32,
         "Onix": 20,
         "Vanilluxe": 5,
@@ -966,7 +966,7 @@
         "Seismitoad": 4,
         "Komala": 3,
         "Reshiram": 1,
-        "Azumarill": 3,
+        "Azumarill": 4,
         "Galarian farfetch'd": 2,
         "Alolan raichu": 1,
         "Tapu fini": 1,
@@ -1052,8 +1052,8 @@
         "Alolan grimer": 1,
         "Kubfu": 1
       },
-      "total_spawns": 19852,
-      "last_spawn": "2026-06-25T16:14:51.968300"
+      "total_spawns": 19856,
+      "last_spawn": "2026-06-25T16:15:27.067460"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1235,7 +1235,7 @@
     }
   },
   "global": {
-    "total_spawns": 24398,
+    "total_spawns": 24402,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
