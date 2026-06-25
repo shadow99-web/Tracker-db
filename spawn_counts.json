@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 35,
-        "Patrat": 25,
+        "Patrat": 26,
         "Mosslax": 58,
         "Drilbur": 23,
         "Pawmi": 85,
@@ -47,7 +47,7 @@
         "Surskit": 30,
         "Seedot": 76,
         "Skitty": 23,
-        "Greavard": 93,
+        "Greavard": 94,
         "Slugma": 32,
         "Grotle": 17,
         "Porygon": 106,
@@ -151,7 +151,7 @@
         "Bulbasaur": 22,
         "Roggenrola": 91,
         "Pidove": 94,
-        "Dragapult": 10,
+        "Dragapult": 11,
         "Rattata": 50,
         "Flapple": 11,
         "Aron": 91,
@@ -240,7 +240,7 @@
         "Omanyte": 17,
         "Galvantula": 5,
         "Chansey": 15,
-        "Shroodle": 94,
+        "Shroodle": 95,
         "Duskull": 105,
         "Bergmite": 21,
         "Pignite": 22,
@@ -342,7 +342,7 @@
         "Sobble": 30,
         "Mudkip": 29,
         "Charjabug": 20,
-        "Capsakid": 70,
+        "Capsakid": 71,
         "Revavroom": 23,
         "Exploud": 10,
         "Deino": 55,
@@ -648,7 +648,7 @@
         "Archeops": 6,
         "Shiftry": 3,
         "Arbok": 5,
-        "Stretchy tatsugiri": 29,
+        "Stretchy tatsugiri": 30,
         "Mareanie": 21,
         "Seadra": 13,
         "Beheeyem": 5,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20042,
-      "last_spawn": "2026-06-25T16:36:47.267531"
+      "total_spawns": 20048,
+      "last_spawn": "2026-06-25T16:37:27.155179"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24590,
+    "total_spawns": 24596,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
