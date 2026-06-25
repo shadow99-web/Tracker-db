@@ -58,7 +58,7 @@
         "Whismur": 52,
         "Monferno": 19,
         "Skwovet": 14,
-        "Bramblin": 65,
+        "Bramblin": 66,
         "Yanma": 13,
         "Larvesta": 26,
         "Beldum": 46,
@@ -126,7 +126,7 @@
         "Pikipek": 71,
         "Teddiursa": 58,
         "Clamperl": 18,
-        "Zigzagoon": 22,
+        "Zigzagoon": 23,
         "Weedle": 83,
         "Flamigo": 53,
         "Lillipup": 61,
@@ -420,7 +420,7 @@
         "Summer sawsbuck": 6,
         "Delibird": 4,
         "Ride cyclizar": 20,
-        "Gothorita": 15,
+        "Gothorita": 16,
         "Varoom": 53,
         "Yellow plumage squawkabilly": 21,
         "Centiskorch": 5,
@@ -451,7 +451,7 @@
         "Misdreavus": 13,
         "Seviper": 4,
         "Scovillain": 16,
-        "Sunkern": 12,
+        "Sunkern": 13,
         "Drizzile": 11,
         "Sunflora": 4,
         "Passimian": 4,
@@ -695,7 +695,7 @@
         "Panpour": 13,
         "Tinkatuff": 11,
         "Bruxish": 3,
-        "Corvisquire": 8,
+        "Corvisquire": 9,
         "Mantine": 7,
         "Electrode": 5,
         "Celebi": 1,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13109,
-      "last_spawn": "2026-06-25T12:00:32.296286"
+      "total_spawns": 13114,
+      "last_spawn": "2026-06-25T12:01:07.122597"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1172,7 +1172,7 @@
     }
   },
   "global": {
-    "total_spawns": 17604,
+    "total_spawns": 17609,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
