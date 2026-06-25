@@ -144,7 +144,7 @@
         "Yungoos": 19,
         "Diglett": 34,
         "Doduo": 24,
-        "Lairon": 22,
+        "Lairon": 23,
         "Emboar": 6,
         "Deoxys": 2,
         "Dracovish": 5,
@@ -154,7 +154,7 @@
         "Dragapult": 10,
         "Rattata": 50,
         "Flapple": 11,
-        "Aron": 90,
+        "Aron": 91,
         "Boldore": 24,
         "Spinarak": 30,
         "Delcatty": 5,
@@ -296,7 +296,7 @@
         "Ferroseed": 25,
         "Brionne": 16,
         "Pancham": 23,
-        "Venipede": 107,
+        "Venipede": 108,
         "Cacturne": 6,
         "Oddish": 90,
         "Dragalge": 6,
@@ -395,7 +395,7 @@
         "Wailord": 5,
         "Makuhita": 26,
         "Lombre": 23,
-        "Ursaluna": 7,
+        "Ursaluna": 8,
         "Furfrou": 6,
         "Sylveon": 5,
         "Nosepass": 22,
@@ -715,7 +715,7 @@
         "Gengar": 8,
         "Forretress": 4,
         "Hydrapple": 2,
-        "Emolga": 5,
+        "Emolga": 6,
         "Tsareena": 7,
         "Blissey": 8,
         "Blastoise": 4,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19984,
-      "last_spawn": "2026-06-25T16:30:00.051242"
+      "total_spawns": 19989,
+      "last_spawn": "2026-06-25T16:30:31.768406"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24532,
+    "total_spawns": 24537,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
