@@ -12,7 +12,7 @@
         "Rellor": 79,
         "Sandy burmy": 13,
         "Wiglett": 89,
-        "Bombirdier": 81,
+        "Bombirdier": 82,
         "Litleo": 21,
         "Purrloin": 15,
         "Tranquill": 22,
@@ -140,7 +140,7 @@
         "Brambleghast": 30,
         "Pidgey": 113,
         "Rhyhorn": 91,
-        "Sentret": 24,
+        "Sentret": 25,
         "Yungoos": 19,
         "Diglett": 34,
         "Doduo": 24,
@@ -154,7 +154,7 @@
         "Dragapult": 10,
         "Rattata": 49,
         "Flapple": 11,
-        "Aron": 89,
+        "Aron": 90,
         "Boldore": 24,
         "Spinarak": 30,
         "Delcatty": 5,
@@ -229,12 +229,12 @@
         "Spidops": 23,
         "Braixen": 24,
         "Drowzee": 21,
-        "Blipbug": 86,
+        "Blipbug": 87,
         "Lampent": 29,
         "Petilil": 22,
         "Marshtomp": 21,
         "Eiscue": 8,
-        "Summer deerling": 22,
+        "Summer deerling": 23,
         "Clauncher": 25,
         "Clobbopus": 17,
         "Omanyte": 17,
@@ -366,7 +366,7 @@
         "Finizen": 86,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 71,
+        "Caterpie": 72,
         "Carvanha": 17,
         "Luxio": 23,
         "Treecko": 36,
@@ -1052,8 +1052,8 @@
         "Alolan grimer": 1,
         "Kubfu": 1
       },
-      "total_spawns": 19825,
-      "last_spawn": "2026-06-25T16:11:47.240794"
+      "total_spawns": 19831,
+      "last_spawn": "2026-06-25T16:12:27.205915"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1235,7 +1235,7 @@
     }
   },
   "global": {
-    "total_spawns": 24371,
+    "total_spawns": 24377,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
