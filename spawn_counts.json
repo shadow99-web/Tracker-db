@@ -10,7 +10,7 @@
         "Pawmi": 60,
         "Electabuzz": 9,
         "Rellor": 52,
-        "Sandy burmy": 9,
+        "Sandy burmy": 10,
         "Wiglett": 66,
         "Bombirdier": 53,
         "Litleo": 15,
@@ -79,7 +79,7 @@
         "Phantump": 22,
         "Duosion": 18,
         "Amaura": 14,
-        "Gimmighoul": 60,
+        "Gimmighoul": 61,
         "Baltoy": 27,
         "Mareep": 58,
         "Garbodor": 3,
@@ -131,7 +131,7 @@
         "Flamigo": 53,
         "Lillipup": 61,
         "Shinx": 71,
-        "Bounsweet": 46,
+        "Bounsweet": 47,
         "Noibat": 19,
         "Toxicroak": 6,
         "Charcadet": 77,
@@ -154,7 +154,7 @@
         "Dragapult": 7,
         "Rattata": 31,
         "Flapple": 8,
-        "Aron": 63,
+        "Aron": 64,
         "Boldore": 16,
         "Spinarak": 24,
         "Delcatty": 4,
@@ -1003,10 +1003,11 @@
         "Iron valiant": 1,
         "Beartic": 1,
         "Weezing": 1,
-        "Pangoro": 1
+        "Pangoro": 1,
+        "Garchomp": 1
       },
-      "total_spawns": 13283,
-      "last_spawn": "2026-06-25T12:23:31.889514"
+      "total_spawns": 13288,
+      "last_spawn": "2026-06-25T12:24:07.144280"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1174,7 @@
     }
   },
   "global": {
-    "total_spawns": 17779,
+    "total_spawns": 17784,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
