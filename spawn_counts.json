@@ -93,7 +93,7 @@
         "Exeggcute": 22,
         "Corphish": 16,
         "Hoppip": 87,
-        "Sandslash": 6,
+        "Sandslash": 7,
         "Kabuto": 25,
         "Scatterbug": 110,
         "Pumpkaboo": 24,
@@ -121,7 +121,7 @@
         "Ralts": 81,
         "Solosis": 83,
         "Battle cyclizar": 46,
-        "Togetic": 27,
+        "Togetic": 28,
         "Palpitoad": 18,
         "Pikipek": 110,
         "Teddiursa": 90,
@@ -139,7 +139,7 @@
         "Phanpy": 14,
         "Brambleghast": 32,
         "Pidgey": 121,
-        "Rhyhorn": 98,
+        "Rhyhorn": 99,
         "Sentret": 26,
         "Yungoos": 20,
         "Diglett": 35,
@@ -166,7 +166,7 @@
         "Kakuna": 27,
         "Weepinbell": 24,
         "Klawf": 108,
-        "Vanillite": 84,
+        "Vanillite": 85,
         "Flareon": 9,
         "Gastly": 79,
         "Taillow": 23,
@@ -241,7 +241,7 @@
         "Galvantula": 6,
         "Chansey": 15,
         "Shroodle": 97,
-        "Duskull": 110,
+        "Duskull": 111,
         "Bergmite": 24,
         "Pignite": 23,
         "Lurantis": 2,
@@ -312,7 +312,7 @@
         "Flygon": 5,
         "Shellos": 15,
         "Jigglypuff": 25,
-        "Nacli": 71,
+        "Nacli": 72,
         "Munna": 21,
         "Pawniard": 22,
         "Prof tangrowth": 71,
@@ -332,7 +332,7 @@
         "Ferrothorn": 3,
         "Servine": 23,
         "Blitzle": 24,
-        "Musharna": 3,
+        "Musharna": 4,
         "Bisharp": 9,
         "Chespin": 28,
         "Sealeo": 23,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 33,
         "Gothorita": 25,
         "Varoom": 93,
-        "Yellow plumage squawkabilly": 23,
+        "Yellow plumage squawkabilly": 24,
         "Centiskorch": 9,
         "Low key toxtricity": 4,
         "Grapploct": 3,
@@ -520,7 +520,7 @@
         "Victreebel": 5,
         "Arctibax": 22,
         "Foongus": 30,
-        "Pansage": 17,
+        "Pansage": 18,
         "Cranidos": 27,
         "Spewpa": 24,
         "Tyrunt": 19,
@@ -792,7 +792,7 @@
         "Happiny": 3,
         "Matron trim furfrou": 1,
         "Gothitelle": 5,
-        "Dusclops": 15,
+        "Dusclops": 16,
         "Galarian yamask": 2,
         "Alolan golem": 1,
         "Dustox": 4,
@@ -1060,10 +1060,11 @@
         "Hisuian qwilfish": 1,
         "Obstagoon": 1,
         "Hisuian sneasel": 1,
-        "Unown b": 1
+        "Unown b": 1,
+        "Regigigas": 1
       },
-      "total_spawns": 21127,
-      "last_spawn": "2026-06-25T17:43:43.304871"
+      "total_spawns": 21138,
+      "last_spawn": "2026-06-25T17:44:13.345066"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1247,7 +1248,7 @@
     }
   },
   "global": {
-    "total_spawns": 25676,
+    "total_spawns": 25687,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
