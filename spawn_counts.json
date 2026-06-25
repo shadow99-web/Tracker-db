@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 41,
         "Patrat": 29,
-        "Mosslax": 65,
+        "Mosslax": 66,
         "Drilbur": 26,
         "Pawmi": 93,
         "Electabuzz": 21,
@@ -220,7 +220,7 @@
         "Politoed": 5,
         "Cyndaquil": 35,
         "Fuecoco": 29,
-        "Cyclizar": 39,
+        "Cyclizar": 40,
         "Magmar": 23,
         "Rillaboom": 11,
         "Ninetales": 9,
@@ -266,7 +266,7 @@
         "Quaxwell": 18,
         "Vibrava": 32,
         "Loudred": 32,
-        "Ceruledge": 29,
+        "Ceruledge": 30,
         "Houndour": 25,
         "Glimmet": 106,
         "Goomy": 64,
@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
         "Toxapex": 4,
-        "Lileep": 21,
+        "Lileep": 22,
         "Rolycoly": 91,
         "Bronzor": 30,
         "Dartrix": 27,
@@ -346,7 +346,7 @@
         "Revavroom": 30,
         "Exploud": 10,
         "Deino": 59,
-        "Wooper": 34,
+        "Wooper": 35,
         "Dwebble": 29,
         "Steenee": 29,
         "Darumaka": 30,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22311,
-      "last_spawn": "2026-06-25T18:59:07.297555"
+      "total_spawns": 22316,
+      "last_spawn": "2026-06-25T18:59:38.514514"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26897,
+    "total_spawns": 26902,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
