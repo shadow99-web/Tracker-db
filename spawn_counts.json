@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 39,
         "Patrat": 27,
-        "Mosslax": 62,
+        "Mosslax": 63,
         "Drilbur": 24,
         "Pawmi": 89,
         "Electabuzz": 17,
@@ -53,7 +53,7 @@
         "Porygon": 113,
         "Zubat": 118,
         "Vanillish": 29,
-        "Tadbulb": 109,
+        "Tadbulb": 110,
         "Magnemite": 101,
         "Whismur": 95,
         "Monferno": 25,
@@ -67,7 +67,7 @@
         "Glimmora": 31,
         "Starly": 102,
         "Tandemaus": 78,
-        "Smoliv": 100,
+        "Smoliv": 101,
         "Gloom": 25,
         "Clefairy": 24,
         "Spinda": 7,
@@ -114,8 +114,8 @@
         "Horsea": 97,
         "Frigibax": 92,
         "Spheal": 122,
-        "Swadloon": 26,
-        "Flittle": 86,
+        "Swadloon": 27,
+        "Flittle": 87,
         "Unfezant": 10,
         "Yamask": 21,
         "Ralts": 82,
@@ -127,7 +127,7 @@
         "Teddiursa": 91,
         "Clamperl": 27,
         "Zigzagoon": 34,
-        "Weedle": 121,
+        "Weedle": 122,
         "Flamigo": 94,
         "Lillipup": 87,
         "Shinx": 110,
@@ -237,7 +237,7 @@
         "Summer deerling": 23,
         "Clauncher": 27,
         "Clobbopus": 20,
-        "Omanyte": 19,
+        "Omanyte": 20,
         "Galvantula": 6,
         "Chansey": 15,
         "Shroodle": 100,
@@ -352,7 +352,7 @@
         "Darumaka": 29,
         "Arboliva": 7,
         "Ledyba": 26,
-        "Spritzee": 24,
+        "Spritzee": 25,
         "Swirlix": 19,
         "Aromatisse": 6,
         "Muk": 7,
@@ -519,7 +519,7 @@
         "Hariyama": 3,
         "Victreebel": 7,
         "Arctibax": 24,
-        "Foongus": 30,
+        "Foongus": 31,
         "Pansage": 18,
         "Cranidos": 27,
         "Spewpa": 24,
@@ -578,7 +578,7 @@
         "Scorbunny": 29,
         "Huntail": 9,
         "Galarian meowth": 1,
-        "Spoink": 18,
+        "Spoink": 19,
         "Scyther": 29,
         "Anorith": 30,
         "Meowth": 15,
@@ -747,7 +747,7 @@
         "Hitmonchan": 2,
         "Relicanth": 7,
         "Klefki": 7,
-        "Frogadier": 27,
+        "Frogadier": 28,
         "Dewpider": 17,
         "Poltchageist": 9,
         "Incineroar": 7,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21515,
-      "last_spawn": "2026-06-25T18:02:23.283269"
+      "total_spawns": 21526,
+      "last_spawn": "2026-06-25T18:02:54.132396"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1248,7 +1248,7 @@
     }
   },
   "global": {
-    "total_spawns": 26064,
+    "total_spawns": 26075,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
