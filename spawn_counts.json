@@ -53,7 +53,7 @@
         "Porygon": 106,
         "Zubat": 106,
         "Vanillish": 28,
-        "Tadbulb": 99,
+        "Tadbulb": 100,
         "Magnemite": 98,
         "Whismur": 89,
         "Monferno": 23,
@@ -66,7 +66,7 @@
         "Lokix": 24,
         "Glimmora": 29,
         "Starly": 99,
-        "Tandemaus": 75,
+        "Tandemaus": 76,
         "Smoliv": 94,
         "Gloom": 25,
         "Clefairy": 23,
@@ -168,7 +168,7 @@
         "Klawf": 102,
         "Vanillite": 75,
         "Flareon": 9,
-        "Gastly": 76,
+        "Gastly": 77,
         "Taillow": 23,
         "Swinub": 98,
         "Inkay": 28,
@@ -185,7 +185,7 @@
         "Elgyem": 18,
         "Luvdisc": 8,
         "Vigoroth": 26,
-        "Skorupi": 24,
+        "Skorupi": 25,
         "Pikachu": 25,
         "Blue plumage squawkabilly": 16,
         "Thwackey": 22,
@@ -240,7 +240,7 @@
         "Omanyte": 17,
         "Galvantula": 5,
         "Chansey": 15,
-        "Shroodle": 93,
+        "Shroodle": 94,
         "Duskull": 105,
         "Bergmite": 21,
         "Pignite": 22,
@@ -586,7 +586,7 @@
         "Fletchinder": 29,
         "Kingambit": 5,
         "Clodsire": 31,
-        "Blaze breed tauros": 1,
+        "Blaze breed tauros": 2,
         "Wimpod": 16,
         "Torterra": 6,
         "Darmanitan": 7,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 20003,
-      "last_spawn": "2026-06-25T16:32:07.234413"
+      "total_spawns": 20009,
+      "last_spawn": "2026-06-25T16:32:47.106337"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24551,
+    "total_spawns": 24557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
