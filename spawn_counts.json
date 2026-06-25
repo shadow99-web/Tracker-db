@@ -11,7 +11,7 @@
         "Electabuzz": 16,
         "Rellor": 83,
         "Sandy burmy": 13,
-        "Wiglett": 89,
+        "Wiglett": 90,
         "Bombirdier": 82,
         "Litleo": 21,
         "Purrloin": 15,
@@ -111,7 +111,7 @@
         "Scizor": 3,
         "Sneasel": 23,
         "Bonsly": 4,
-        "Horsea": 90,
+        "Horsea": 91,
         "Frigibax": 86,
         "Spheal": 114,
         "Swadloon": 26,
@@ -184,7 +184,7 @@
         "Cottonee": 18,
         "Elgyem": 18,
         "Luvdisc": 8,
-        "Vigoroth": 26,
+        "Vigoroth": 27,
         "Skorupi": 25,
         "Pikachu": 25,
         "Blue plumage squawkabilly": 16,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 5,
         "Sunny castform": 6,
         "Pidgeotto": 28,
-        "Spearow": 32,
+        "Spearow": 33,
         "Helioptile": 19,
         "Hoothoot": 32,
         "Grookey": 30,
@@ -324,7 +324,7 @@
         "Murkrow": 26,
         "Bellsprout": 110,
         "Mudbray": 25,
-        "Dreepy": 86,
+        "Dreepy": 87,
         "Tinkaton": 6,
         "Corviknight": 10,
         "Froakie": 27,
@@ -407,7 +407,7 @@
         "Maschiff": 81,
         "Rufflet": 27,
         "Kabutops": 6,
-        "Dondozo": 77,
+        "Dondozo": 78,
         "Pansear": 25,
         "Cutiefly": 20,
         "Peakychu": 61,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20023,
-      "last_spawn": "2026-06-25T16:34:27.351904"
+      "total_spawns": 20029,
+      "last_spawn": "2026-06-25T16:35:07.123176"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24571,
+    "total_spawns": 24577,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
