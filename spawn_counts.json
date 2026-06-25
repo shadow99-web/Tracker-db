@@ -28,7 +28,7 @@
         "Impidimp": 79,
         "Charmander": 43,
         "Morelull": 16,
-        "Abra": 88,
+        "Abra": 89,
         "Sandile": 95,
         "Sandygast": 25,
         "Litwick": 118,
@@ -40,7 +40,7 @@
         "Qwilfish": 8,
         "Trapinch": 96,
         "Toedscool": 79,
-        "Fletchling": 84,
+        "Fletchling": 85,
         "Skiploom": 25,
         "Timburr": 99,
         "Dj rotom": 86,
@@ -166,7 +166,7 @@
         "Kakuna": 26,
         "Weepinbell": 21,
         "Klawf": 101,
-        "Vanillite": 72,
+        "Vanillite": 73,
         "Flareon": 9,
         "Gastly": 76,
         "Taillow": 23,
@@ -383,7 +383,7 @@
         "Wooloo": 18,
         "Drifloon": 20,
         "Golbat": 20,
-        "Swablu": 20,
+        "Swablu": 21,
         "Shellder": 24,
         "Crobat": 11,
         "Sandshrew": 25,
@@ -625,7 +625,7 @@
         "Gardevoir": 5,
         "Malamar": 7,
         "Frost rotom": 2,
-        "Tatsugiri": 29,
+        "Tatsugiri": 30,
         "Nidorino": 21,
         "Wailmer": 24,
         "Krabby": 24,
@@ -1052,8 +1052,8 @@
         "Alolan grimer": 1,
         "Kubfu": 1
       },
-      "total_spawns": 19871,
-      "last_spawn": "2026-06-25T16:17:07.177603"
+      "total_spawns": 19876,
+      "last_spawn": "2026-06-25T16:17:37.340317"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1235,7 +1235,7 @@
     }
   },
   "global": {
-    "total_spawns": 24417,
+    "total_spawns": 24422,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
