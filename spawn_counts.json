@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 37,
         "Patrat": 27,
-        "Mosslax": 59,
+        "Mosslax": 60,
         "Drilbur": 24,
         "Pawmi": 88,
         "Electabuzz": 17,
@@ -42,7 +42,7 @@
         "Toedscool": 83,
         "Fletchling": 91,
         "Skiploom": 28,
-        "Timburr": 109,
+        "Timburr": 110,
         "Dj rotom": 93,
         "Surskit": 30,
         "Seedot": 83,
@@ -50,7 +50,7 @@
         "Greavard": 99,
         "Slugma": 34,
         "Grotle": 19,
-        "Porygon": 110,
+        "Porygon": 111,
         "Zubat": 114,
         "Vanillish": 28,
         "Tadbulb": 106,
@@ -139,7 +139,7 @@
         "Phanpy": 14,
         "Brambleghast": 32,
         "Pidgey": 121,
-        "Rhyhorn": 97,
+        "Rhyhorn": 98,
         "Sentret": 26,
         "Yungoos": 20,
         "Diglett": 34,
@@ -174,7 +174,7 @@
         "Inkay": 29,
         "Gible": 69,
         "Rookidee": 66,
-        "Minccino": 34,
+        "Minccino": 35,
         "Wurmple": 86,
         "Binacle": 29,
         "Grafaiai": 18,
@@ -200,8 +200,8 @@
         "Toedscruel": 28,
         "Probopass": 8,
         "Scraggy": 28,
-        "Rhydon": 29,
-        "Silcoon": 21,
+        "Rhydon": 30,
+        "Silcoon": 22,
         "Totodile": 30,
         "Dodrio": 8,
         "Cufant": 32,
@@ -401,7 +401,7 @@
         "Nosepass": 23,
         "Persian": 2,
         "Lopunny": 6,
-        "Squawkabilly": 23,
+        "Squawkabilly": 24,
         "Electrike": 23,
         "Drampa": 6,
         "Maschiff": 86,
@@ -492,7 +492,7 @@
         "Copperajah": 5,
         "Magneton": 19,
         "Alakazam": 6,
-        "Bayleef": 21,
+        "Bayleef": 22,
         "Poochyena": 21,
         "Klinklang": 5,
         "Basculin": 5,
@@ -575,7 +575,7 @@
         "Cascoon": 18,
         "Tentacruel": 7,
         "Nuzleaf": 20,
-        "Scorbunny": 28,
+        "Scorbunny": 29,
         "Huntail": 9,
         "Galarian meowth": 1,
         "Spoink": 18,
@@ -639,7 +639,7 @@
         "Latios": 1,
         "Silicobra": 20,
         "Snom": 15,
-        "East sea shellos": 12,
+        "East sea shellos": 13,
         "Corsola": 12,
         "Venomoth": 11,
         "Trumbeak": 25,
@@ -1062,8 +1062,8 @@
         "Hisuian sneasel": 1,
         "Unown b": 1
       },
-      "total_spawns": 21093,
-      "last_spawn": "2026-06-25T17:42:07.399350"
+      "total_spawns": 21104,
+      "last_spawn": "2026-06-25T17:42:37.439956"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1247,7 +1247,7 @@
     }
   },
   "global": {
-    "total_spawns": 25642,
+    "total_spawns": 25653,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
