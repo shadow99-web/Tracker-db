@@ -123,7 +123,7 @@
         "Battle cyclizar": 25,
         "Togetic": 13,
         "Palpitoad": 13,
-        "Pikipek": 70,
+        "Pikipek": 71,
         "Teddiursa": 58,
         "Clamperl": 18,
         "Zigzagoon": 22,
@@ -148,7 +148,7 @@
         "Emboar": 5,
         "Deoxys": 2,
         "Dracovish": 3,
-        "Bulbasaur": 14,
+        "Bulbasaur": 15,
         "Roggenrola": 59,
         "Pidove": 65,
         "Dragapult": 7,
@@ -253,7 +253,7 @@
         "Lechonk": 58,
         "Kommo-o": 1,
         "Dewott": 19,
-        "Arrokuda": 16,
+        "Arrokuda": 17,
         "Golett": 15,
         "Vullaby": 11,
         "Cetitan": 16,
@@ -526,7 +526,7 @@
         "Tyrunt": 12,
         "Garganacl": 1,
         "Chinchou": 11,
-        "Maushold": 17,
+        "Maushold": 18,
         "Bastiodon": 1,
         "Floatzel": 2,
         "Accelgor": 3,
@@ -648,7 +648,7 @@
         "Archeops": 4,
         "Shiftry": 1,
         "Arbok": 4,
-        "Stretchy tatsugiri": 18,
+        "Stretchy tatsugiri": 19,
         "Mareanie": 17,
         "Seadra": 7,
         "Beheeyem": 4,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13099,
-      "last_spawn": "2026-06-25T11:59:27.507757"
+      "total_spawns": 13104,
+      "last_spawn": "2026-06-25T11:59:58.527030"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1172,7 +1172,7 @@
     }
   },
   "global": {
-    "total_spawns": 17594,
+    "total_spawns": 17599,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
