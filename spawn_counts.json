@@ -29,7 +29,7 @@
         "Charmander": 46,
         "Morelull": 18,
         "Abra": 97,
-        "Sandile": 103,
+        "Sandile": 104,
         "Sandygast": 30,
         "Litwick": 128,
         "Grubbin": 89,
@@ -131,7 +131,7 @@
         "Flamigo": 95,
         "Lillipup": 87,
         "Shinx": 111,
-        "Bounsweet": 85,
+        "Bounsweet": 86,
         "Noibat": 27,
         "Toxicroak": 8,
         "Charcadet": 114,
@@ -181,7 +181,7 @@
         "Quilladin": 19,
         "Geodude": 109,
         "Espurr": 25,
-        "Cottonee": 18,
+        "Cottonee": 19,
         "Elgyem": 18,
         "Luvdisc": 8,
         "Vigoroth": 29,
@@ -216,7 +216,7 @@
         "Tynamo": 107,
         "Orthworm": 97,
         "Marill": 27,
-        "Joltik": 31,
+        "Joltik": 32,
         "Politoed": 5,
         "Cyndaquil": 35,
         "Fuecoco": 28,
@@ -248,7 +248,7 @@
         "Swampert": 8,
         "Dachsbun": 25,
         "Turtwig": 27,
-        "Prinplup": 23,
+        "Prinplup": 24,
         "Tinkatink": 98,
         "Lechonk": 108,
         "Kommo-o": 2,
@@ -257,7 +257,7 @@
         "Golett": 25,
         "Vullaby": 17,
         "Cetitan": 25,
-        "Cubone": 25,
+        "Cubone": 26,
         "Gligar": 31,
         "Tirtouga": 29,
         "Furret": 5,
@@ -295,7 +295,7 @@
         "Torkoal": 6,
         "Ferroseed": 26,
         "Brionne": 16,
-        "Pancham": 24,
+        "Pancham": 25,
         "Venipede": 118,
         "Cacturne": 6,
         "Oddish": 101,
@@ -657,7 +657,7 @@
         "Whirlipede": 21,
         "Absol": 4,
         "Annihilape": 10,
-        "Bouffalant": 8,
+        "Bouffalant": 9,
         "Crabrawler": 24,
         "Budew": 5,
         "Espathra": 20,
@@ -675,7 +675,7 @@
         "Quaquaval": 8,
         "Sprigatito": 29,
         "Metagross": 5,
-        "Eelektrik": 18,
+        "Eelektrik": 19,
         "Gastrodon": 9,
         "Golurk": 5,
         "Arcanine": 5,
@@ -687,7 +687,7 @@
         "Koffing": 28,
         "Floragato": 11,
         "Seel": 25,
-        "Shiinotic": 5,
+        "Shiinotic": 6,
         "Gumshoos": 4,
         "Pyroar": 8,
         "Marshadow": 2,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21725,
-      "last_spawn": "2026-06-25T18:12:37.206481"
+      "total_spawns": 21735,
+      "last_spawn": "2026-06-25T18:13:07.598892"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1119,7 +1119,7 @@
         "Meowth": 1,
         "Dj rotom": 2,
         "Prof tangrowth": 2,
-        "Charcadet": 2,
+        "Charcadet": 3,
         "Furfrou": 1,
         "Slaking": 1,
         "Flittle": 5,
@@ -1240,8 +1240,8 @@
         "Politoed": 1,
         "Fraxure": 1
       },
-      "total_spawns": 270,
-      "last_spawn": "2026-06-25T18:12:17.486156"
+      "total_spawns": 271,
+      "last_spawn": "2026-06-25T18:12:37.897624"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1251,7 +1251,7 @@
     }
   },
   "global": {
-    "total_spawns": 26282,
+    "total_spawns": 26293,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
