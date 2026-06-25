@@ -64,7 +64,7 @@
         "Beldum": 80,
         "Ducklett": 23,
         "Lokix": 28,
-        "Glimmora": 31,
+        "Glimmora": 32,
         "Starly": 103,
         "Tandemaus": 80,
         "Smoliv": 107,
@@ -114,7 +114,7 @@
         "Horsea": 101,
         "Frigibax": 94,
         "Spheal": 122,
-        "Swadloon": 27,
+        "Swadloon": 28,
         "Flittle": 88,
         "Unfezant": 11,
         "Yamask": 22,
@@ -182,7 +182,7 @@
         "Geodude": 114,
         "Espurr": 27,
         "Cottonee": 19,
-        "Elgyem": 18,
+        "Elgyem": 19,
         "Luvdisc": 8,
         "Vigoroth": 30,
         "Skorupi": 28,
@@ -414,7 +414,7 @@
         "Armarouge": 32,
         "Tyrantrum": 1,
         "Larvitar": 51,
-        "Tentacool": 16,
+        "Tentacool": 17,
         "Volcanion": 1,
         "Roaming gimmighoul": 75,
         "Summer sawsbuck": 10,
@@ -909,7 +909,7 @@
         "Unown x": 1,
         "Aggron": 5,
         "Clawitzer": 6,
-        "Leafeon": 8,
+        "Leafeon": 9,
         "Ludicolo": 9,
         "Eldegoss": 5,
         "Dracozolt": 4,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22369,
-      "last_spawn": "2026-06-25T19:05:47.322065"
+      "total_spawns": 22374,
+      "last_spawn": "2026-06-25T19:06:17.352321"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26955,
+    "total_spawns": 26960,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
