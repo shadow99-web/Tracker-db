@@ -67,7 +67,7 @@
         "Glimmora": 31,
         "Starly": 103,
         "Tandemaus": 80,
-        "Smoliv": 106,
+        "Smoliv": 107,
         "Gloom": 25,
         "Clefairy": 24,
         "Spinda": 7,
@@ -81,7 +81,7 @@
         "Amaura": 21,
         "Gimmighoul": 99,
         "Baltoy": 34,
-        "Mareep": 111,
+        "Mareep": 112,
         "Garbodor": 6,
         "Slakoth": 109,
         "Togepi": 92,
@@ -404,7 +404,7 @@
         "Squawkabilly": 24,
         "Electrike": 25,
         "Drampa": 6,
-        "Maschiff": 90,
+        "Maschiff": 91,
         "Rufflet": 28,
         "Kabutops": 7,
         "Dondozo": 87,
@@ -612,7 +612,7 @@
         "Stunky": 24,
         "Pupitar": 21,
         "Avalugg": 10,
-        "Magby": 7,
+        "Magby": 8,
         "Wigglytuff": 4,
         "Venusaur": 10,
         "Mismagius": 7,
@@ -646,7 +646,7 @@
         "Aerodactyl": 5,
         "Igglybuff": 7,
         "Archeops": 7,
-        "Shiftry": 3,
+        "Shiftry": 4,
         "Arbok": 5,
         "Stretchy tatsugiri": 32,
         "Mareanie": 25,
@@ -792,7 +792,7 @@
         "Happiny": 3,
         "Matron trim furfrou": 1,
         "Gothitelle": 5,
-        "Dusclops": 16,
+        "Dusclops": 17,
         "Galarian yamask": 2,
         "Alolan golem": 1,
         "Dustox": 4,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22352,
-      "last_spawn": "2026-06-25T19:03:47.352935"
+      "total_spawns": 22358,
+      "last_spawn": "2026-06-25T19:04:27.277185"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26938,
+    "total_spawns": 26944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
