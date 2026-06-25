@@ -52,10 +52,10 @@
         "Grotle": 20,
         "Porygon": 113,
         "Zubat": 118,
-        "Vanillish": 29,
+        "Vanillish": 30,
         "Tadbulb": 113,
         "Magnemite": 102,
-        "Whismur": 96,
+        "Whismur": 97,
         "Monferno": 25,
         "Skwovet": 28,
         "Bramblin": 109,
@@ -124,7 +124,7 @@
         "Togetic": 32,
         "Palpitoad": 18,
         "Pikipek": 111,
-        "Teddiursa": 92,
+        "Teddiursa": 93,
         "Clamperl": 27,
         "Zigzagoon": 34,
         "Weedle": 123,
@@ -179,7 +179,7 @@
         "Binacle": 29,
         "Grafaiai": 19,
         "Quilladin": 19,
-        "Geodude": 110,
+        "Geodude": 111,
         "Espurr": 25,
         "Cottonee": 19,
         "Elgyem": 18,
@@ -363,10 +363,10 @@
         "Mankey": 27,
         "Bidoof": 21,
         "Quilava": 31,
-        "Finizen": 93,
+        "Finizen": 94,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 80,
+        "Caterpie": 81,
         "Carvanha": 18,
         "Luxio": 24,
         "Treecko": 40,
@@ -435,7 +435,7 @@
         "Zebstrika": 9,
         "Shuppet": 27,
         "Paldean wooper": 6,
-        "Salandit": 22,
+        "Salandit": 23,
         "School wishiwashi": 5,
         "Snivy": 31,
         "Wyrdeer": 6,
@@ -493,7 +493,7 @@
         "Magneton": 19,
         "Alakazam": 6,
         "Bayleef": 23,
-        "Poochyena": 25,
+        "Poochyena": 26,
         "Klinklang": 5,
         "Basculin": 5,
         "Throh": 9,
@@ -516,7 +516,7 @@
         "Ivysaur": 18,
         "Milcery": 25,
         "Gabite": 15,
-        "Hariyama": 3,
+        "Hariyama": 4,
         "Victreebel": 7,
         "Arctibax": 25,
         "Foongus": 31,
@@ -740,7 +740,7 @@
         "Greedent": 7,
         "Ekans": 24,
         "Venonat": 18,
-        "Pelipper": 7,
+        "Pelipper": 8,
         "Metapod": 17,
         "Kricketune": 11,
         "Nidoqueen": 4,
@@ -867,7 +867,7 @@
         "Pincurchin": 5,
         "Dunsparce": 2,
         "Lapras": 5,
-        "Illumise": 8,
+        "Illumise": 9,
         "Scrafty": 2,
         "Swanna": 6,
         "Grumpig": 8,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21747,
-      "last_spawn": "2026-06-25T18:13:41.811374"
+      "total_spawns": 21758,
+      "last_spawn": "2026-06-25T18:14:12.060885"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1153,7 +1153,7 @@
         "Fidough": 1,
         "Spritzee": 1,
         "Squawkabilly": 2,
-        "Beldum": 2,
+        "Beldum": 3,
         "Whismur": 1,
         "Crabrawler": 1,
         "Mudkip": 1,
@@ -1240,8 +1240,8 @@
         "Politoed": 1,
         "Fraxure": 1
       },
-      "total_spawns": 271,
-      "last_spawn": "2026-06-25T18:12:37.897624"
+      "total_spawns": 272,
+      "last_spawn": "2026-06-25T18:13:57.498636"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1251,7 +1251,7 @@
     }
   },
   "global": {
-    "total_spawns": 26305,
+    "total_spawns": 26317,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
