@@ -58,7 +58,7 @@
         "Whismur": 52,
         "Monferno": 19,
         "Skwovet": 14,
-        "Bramblin": 64,
+        "Bramblin": 65,
         "Yanma": 13,
         "Larvesta": 26,
         "Beldum": 46,
@@ -74,7 +74,7 @@
         "Fomantis": 7,
         "Droopy tatsugiri": 29,
         "Froslass": 7,
-        "Tarountula": 49,
+        "Tarountula": 50,
         "Hatterene": 4,
         "Phantump": 20,
         "Duosion": 18,
@@ -84,7 +84,7 @@
         "Mareep": 57,
         "Garbodor": 3,
         "Slakoth": 70,
-        "Togepi": 51,
+        "Togepi": 52,
         "Falinks": 6,
         "Tropius": 3,
         "Poliwag": 58,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 12,
         "Wailord": 3,
-        "Makuhita": 18,
+        "Makuhita": 19,
         "Lombre": 16,
         "Ursaluna": 5,
         "Furfrou": 2,
@@ -827,7 +827,7 @@
         "Sensu oricorio": 7,
         "Rhyperior": 3,
         "Linoone": 4,
-        "Omastar": 2,
+        "Omastar": 3,
         "Boltund": 4,
         "Lickilicky": 6,
         "Dragonite": 2,
@@ -1004,8 +1004,8 @@
         "Beartic": 1,
         "Weezing": 1
       },
-      "total_spawns": 13065,
-      "last_spawn": "2026-06-25T11:55:38.935758"
+      "total_spawns": 13070,
+      "last_spawn": "2026-06-25T11:56:11.756631"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1157,10 +1157,11 @@
         "Cetoddle": 1,
         "Chespin": 1,
         "Naclstack": 1,
-        "Ferrothorn": 1
+        "Ferrothorn": 1,
+        "Karrablast": 1
       },
-      "total_spawns": 207,
-      "last_spawn": "2026-06-25T11:43:53.789034"
+      "total_spawns": 208,
+      "last_spawn": "2026-06-25T11:56:00.396068"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1170,7 +1171,7 @@
     }
   },
   "global": {
-    "total_spawns": 17559,
+    "total_spawns": 17565,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
