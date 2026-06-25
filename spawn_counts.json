@@ -15,7 +15,7 @@
         "Bombirdier": 53,
         "Litleo": 15,
         "Purrloin": 11,
-        "Tranquill": 15,
+        "Tranquill": 16,
         "Psyduck": 7,
         "Rockruff": 15,
         "Haunter": 13,
@@ -173,7 +173,7 @@
         "Swinub": 61,
         "Inkay": 20,
         "Gible": 42,
-        "Rookidee": 37,
+        "Rookidee": 38,
         "Minccino": 20,
         "Wurmple": 47,
         "Binacle": 19,
@@ -237,10 +237,10 @@
         "Summer deerling": 17,
         "Clauncher": 17,
         "Clobbopus": 7,
-        "Omanyte": 13,
+        "Omanyte": 14,
         "Galvantula": 3,
         "Chansey": 8,
-        "Shroodle": 60,
+        "Shroodle": 61,
         "Duskull": 68,
         "Bergmite": 15,
         "Pignite": 16,
@@ -748,7 +748,7 @@
         "Relicanth": 1,
         "Klefki": 5,
         "Frogadier": 15,
-        "Dewpider": 9,
+        "Dewpider": 10,
         "Poltchageist": 4,
         "Incineroar": 4,
         "Morpeko": 9,
@@ -1004,8 +1004,8 @@
         "Beartic": 1,
         "Weezing": 1
       },
-      "total_spawns": 13019,
-      "last_spawn": "2026-06-25T11:50:27.096447"
+      "total_spawns": 13024,
+      "last_spawn": "2026-06-25T11:50:59.030065"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1170,7 +1170,7 @@
     }
   },
   "global": {
-    "total_spawns": 17513,
+    "total_spawns": 17518,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
