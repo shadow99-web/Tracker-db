@@ -533,7 +533,7 @@
         "Wormadam": 4,
         "Axew": 72,
         "Trevenant": 9,
-        "Trubbish": 14,
+        "Trubbish": 15,
         "Zorua": 14,
         "Archen": 32,
         "Oinkologne": 32,
@@ -625,13 +625,13 @@
         "Gardevoir": 5,
         "Malamar": 7,
         "Frost rotom": 2,
-        "Tatsugiri": 30,
+        "Tatsugiri": 31,
         "Nidorino": 21,
         "Wailmer": 24,
         "Krabby": 24,
         "Bronzong": 7,
         "Lanturn": 4,
-        "Cacnea": 13,
+        "Cacnea": 14,
         "Pom-pom oricorio": 5,
         "Hawlucha": 8,
         "Ursaring": 18,
@@ -818,7 +818,7 @@
         "Galarian weezing": 1,
         "Gigalith": 4,
         "Indeedee": 5,
-        "Amped toxtricity": 5,
+        "Amped toxtricity": 6,
         "Galarian linoone": 3,
         "Xatu": 5,
         "Galarian corsola": 1,
@@ -1052,8 +1052,8 @@
         "Alolan grimer": 1,
         "Kubfu": 1
       },
-      "total_spawns": 19892,
-      "last_spawn": "2026-06-25T16:19:27.369236"
+      "total_spawns": 19896,
+      "last_spawn": "2026-06-25T16:19:59.685478"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1235,7 +1235,7 @@
     }
   },
   "global": {
-    "total_spawns": 24438,
+    "total_spawns": 24442,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
