@@ -27,7 +27,7 @@
         "Gothita": 91,
         "Impidimp": 83,
         "Charmander": 46,
-        "Morelull": 18,
+        "Morelull": 19,
         "Abra": 97,
         "Sandile": 104,
         "Sandygast": 30,
@@ -209,7 +209,7 @@
         "Swellow": 8,
         "Aipom": 28,
         "Growlithe": 17,
-        "Sewaddle": 104,
+        "Sewaddle": 105,
         "Fidough": 63,
         "Noivern": 2,
         "Feraligatr": 6,
@@ -237,7 +237,7 @@
         "Summer deerling": 23,
         "Clauncher": 27,
         "Clobbopus": 21,
-        "Omanyte": 20,
+        "Omanyte": 21,
         "Galvantula": 6,
         "Chansey": 15,
         "Shroodle": 100,
@@ -279,7 +279,7 @@
         "Rowlet": 33,
         "Galarian slowpoke": 2,
         "Poliwhirl": 26,
-        "Crocalor": 28,
+        "Crocalor": 29,
         "Cryogonal": 9,
         "Eternatus": 1,
         "Gholdengo": 25,
@@ -304,8 +304,8 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 20,
-        "Rolycoly": 86,
-        "Bronzor": 29,
+        "Rolycoly": 87,
+        "Bronzor": 30,
         "Dartrix": 26,
         "Yellow flower florges": 3,
         "Zangoose": 7,
@@ -342,7 +342,7 @@
         "Sobble": 32,
         "Mudkip": 30,
         "Charjabug": 22,
-        "Capsakid": 80,
+        "Capsakid": 81,
         "Revavroom": 28,
         "Exploud": 10,
         "Deino": 58,
@@ -372,7 +372,7 @@
         "Treecko": 40,
         "Sinistea": 20,
         "Cubchoo": 17,
-        "Hippopotas": 14,
+        "Hippopotas": 15,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
         "Mabosstiff": 25,
@@ -404,7 +404,7 @@
         "Squawkabilly": 24,
         "Electrike": 24,
         "Drampa": 6,
-        "Maschiff": 88,
+        "Maschiff": 89,
         "Rufflet": 28,
         "Kabutops": 6,
         "Dondozo": 84,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21780,
-      "last_spawn": "2026-06-25T18:15:17.130632"
+      "total_spawns": 21789,
+      "last_spawn": "2026-06-25T18:15:49.043389"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,10 +1239,11 @@
         "Iron treads": 1,
         "Politoed": 1,
         "Fraxure": 1,
-        "Oranguru": 1
+        "Oranguru": 1,
+        "Golisopod": 1
       },
-      "total_spawns": 273,
-      "last_spawn": "2026-06-25T18:14:47.715293"
+      "total_spawns": 274,
+      "last_spawn": "2026-06-25T18:15:17.479463"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1252,7 +1253,7 @@
     }
   },
   "global": {
-    "total_spawns": 26340,
+    "total_spawns": 26350,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
