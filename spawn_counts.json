@@ -166,7 +166,7 @@
         "Kakuna": 26,
         "Weepinbell": 21,
         "Klawf": 102,
-        "Vanillite": 75,
+        "Vanillite": 76,
         "Flareon": 9,
         "Gastly": 77,
         "Taillow": 23,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 18,
         "Drifloon": 20,
-        "Golbat": 20,
+        "Golbat": 21,
         "Swablu": 21,
         "Shellder": 24,
         "Crobat": 11,
@@ -522,7 +522,7 @@
         "Foongus": 27,
         "Pansage": 15,
         "Cranidos": 26,
-        "Spewpa": 22,
+        "Spewpa": 23,
         "Tyrunt": 18,
         "Garganacl": 2,
         "Chinchou": 17,
@@ -706,7 +706,7 @@
         "Hatenna": 82,
         "Zoroark": 7,
         "Lucario": 1,
-        "Crustle": 7,
+        "Crustle": 8,
         "Combusken": 24,
         "Gourgeist": 9,
         "Durant": 3,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20019,
-      "last_spawn": "2026-06-25T16:33:51.999351"
+      "total_spawns": 20023,
+      "last_spawn": "2026-06-25T16:34:27.351904"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24567,
+    "total_spawns": 24571,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
