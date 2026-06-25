@@ -1046,7 +1046,7 @@
         "Tandemaus": 1,
         "Smearguru": 2,
         "Magnemite": 2,
-        "Teddiursa": 2,
+        "Teddiursa": 3,
         "Houndoom": 1,
         "Torracat": 1,
         "Donphan": 2,
@@ -1157,8 +1157,8 @@
         "Chespin": 1,
         "Naclstack": 1
       },
-      "total_spawns": 204,
-      "last_spawn": "2026-06-25T10:41:58.127255"
+      "total_spawns": 205,
+      "last_spawn": "2026-06-25T11:01:10.970314"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1168,7 +1168,7 @@
     }
   },
   "global": {
-    "total_spawns": 17484,
+    "total_spawns": 17485,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
