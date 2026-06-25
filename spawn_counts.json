@@ -11,7 +11,7 @@
         "Electabuzz": 19,
         "Rellor": 89,
         "Sandy burmy": 16,
-        "Wiglett": 95,
+        "Wiglett": 96,
         "Bombirdier": 89,
         "Litleo": 25,
         "Purrloin": 17,
@@ -202,7 +202,7 @@
         "Scraggy": 29,
         "Rhydon": 30,
         "Silcoon": 27,
-        "Totodile": 31,
+        "Totodile": 32,
         "Dodrio": 8,
         "Cufant": 33,
         "Tympole": 101,
@@ -587,7 +587,7 @@
         "Kingambit": 6,
         "Clodsire": 34,
         "Blaze breed tauros": 2,
-        "Wimpod": 17,
+        "Wimpod": 18,
         "Torterra": 6,
         "Darmanitan": 7,
         "Rainy castform": 4,
@@ -650,7 +650,7 @@
         "Arbok": 5,
         "Stretchy tatsugiri": 32,
         "Mareanie": 25,
-        "Seadra": 15,
+        "Seadra": 16,
         "Beheeyem": 6,
         "Pinsir": 11,
         "Mothim": 8,
@@ -759,7 +759,7 @@
         "Jynx": 10,
         "Golisopod": 7,
         "Greninja": 6,
-        "Smoochum": 4,
+        "Smoochum": 5,
         "Reuniclus": 7,
         "Smeargle": 8,
         "Gorebyss": 4,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 22102,
-      "last_spawn": "2026-06-25T18:35:31.800660"
+      "total_spawns": 22107,
+      "last_spawn": "2026-06-25T18:36:07.031160"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1264,7 +1264,7 @@
     }
   },
   "global": {
-    "total_spawns": 26686,
+    "total_spawns": 26691,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
