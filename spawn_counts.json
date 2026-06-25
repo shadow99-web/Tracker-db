@@ -6,7 +6,7 @@
         "Chimchar": 40,
         "Patrat": 29,
         "Mosslax": 64,
-        "Drilbur": 25,
+        "Drilbur": 26,
         "Pawmi": 91,
         "Electabuzz": 18,
         "Rellor": 89,
@@ -31,7 +31,7 @@
         "Abra": 98,
         "Sandile": 105,
         "Sandygast": 31,
-        "Litwick": 129,
+        "Litwick": 130,
         "Grubbin": 91,
         "Escavalier": 10,
         "Dratini": 68,
@@ -44,7 +44,7 @@
         "Skiploom": 28,
         "Timburr": 114,
         "Dj rotom": 93,
-        "Surskit": 32,
+        "Surskit": 33,
         "Seedot": 86,
         "Skitty": 25,
         "Greavard": 103,
@@ -52,7 +52,7 @@
         "Grotle": 20,
         "Porygon": 114,
         "Zubat": 119,
-        "Vanillish": 31,
+        "Vanillish": 32,
         "Tadbulb": 115,
         "Magnemite": 102,
         "Whismur": 97,
@@ -100,7 +100,7 @@
         "Numel": 30,
         "Carracosta": 6,
         "Smearguru": 76,
-        "Veluza": 104,
+        "Veluza": 105,
         "Barboach": 39,
         "Klink": 80,
         "Honedge": 106,
@@ -109,7 +109,7 @@
         "Drakloak": 23,
         "Chewtle": 23,
         "Scizor": 4,
-        "Sneasel": 24,
+        "Sneasel": 25,
         "Bonsly": 5,
         "Horsea": 101,
         "Frigibax": 93,
@@ -165,7 +165,7 @@
         "Piplup": 28,
         "Kakuna": 27,
         "Weepinbell": 25,
-        "Klawf": 111,
+        "Klawf": 112,
         "Vanillite": 90,
         "Flareon": 9,
         "Gastly": 84,
@@ -294,7 +294,7 @@
         "Jellicent": 5,
         "Torkoal": 6,
         "Ferroseed": 26,
-        "Brionne": 16,
+        "Brionne": 17,
         "Pancham": 25,
         "Venipede": 119,
         "Cacturne": 6,
@@ -324,7 +324,7 @@
         "Murkrow": 27,
         "Bellsprout": 119,
         "Mudbray": 27,
-        "Dreepy": 92,
+        "Dreepy": 93,
         "Tinkaton": 7,
         "Corviknight": 10,
         "Froakie": 30,
@@ -366,7 +366,7 @@
         "Finizen": 95,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 82,
+        "Caterpie": 83,
         "Carvanha": 18,
         "Luxio": 24,
         "Treecko": 40,
@@ -549,7 +549,7 @@
         "Dragonair": 18,
         "Zweilous": 19,
         "Karrablast": 19,
-        "Shroomish": 25,
+        "Shroomish": 26,
         "Snover": 19,
         "Drednaw": 5,
         "Skarmory": 7,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 21952,
-      "last_spawn": "2026-06-25T18:23:37.410195"
+      "total_spawns": 21963,
+      "last_spawn": "2026-06-25T18:24:12.044372"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1077,7 +1077,7 @@
         "Clauncher": 1,
         "Barbaracle": 1,
         "Amoonguss": 1,
-        "Mosslax": 4,
+        "Mosslax": 5,
         "Rookidee": 8,
         "Roggenrola": 4,
         "Armarouge": 2,
@@ -1244,10 +1244,11 @@
         "Fraxure": 1,
         "Oranguru": 1,
         "Golisopod": 1,
-        "Beheeyem": 1
+        "Beheeyem": 1,
+        "Charizard": 1
       },
-      "total_spawns": 279,
-      "last_spawn": "2026-06-25T18:22:57.467676"
+      "total_spawns": 281,
+      "last_spawn": "2026-06-25T18:23:57.637029"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1257,7 +1258,7 @@
     }
   },
   "global": {
-    "total_spawns": 26518,
+    "total_spawns": 26531,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
