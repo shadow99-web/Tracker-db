@@ -81,7 +81,7 @@
         "Amaura": 21,
         "Gimmighoul": 98,
         "Baltoy": 33,
-        "Mareep": 107,
+        "Mareep": 108,
         "Garbodor": 6,
         "Slakoth": 108,
         "Togepi": 89,
@@ -127,11 +127,11 @@
         "Teddiursa": 94,
         "Clamperl": 27,
         "Zigzagoon": 34,
-        "Weedle": 124,
+        "Weedle": 125,
         "Flamigo": 96,
         "Lillipup": 89,
         "Shinx": 112,
-        "Bounsweet": 86,
+        "Bounsweet": 87,
         "Noibat": 27,
         "Toxicroak": 8,
         "Charcadet": 115,
@@ -213,7 +213,7 @@
         "Fidough": 64,
         "Noivern": 3,
         "Feraligatr": 6,
-        "Tynamo": 109,
+        "Tynamo": 110,
         "Orthworm": 100,
         "Marill": 27,
         "Joltik": 32,
@@ -241,7 +241,7 @@
         "Galvantula": 6,
         "Chansey": 15,
         "Shroodle": 101,
-        "Duskull": 114,
+        "Duskull": 115,
         "Bergmite": 25,
         "Pignite": 23,
         "Lurantis": 2,
@@ -338,7 +338,7 @@
         "Sealeo": 23,
         "Staryu": 18,
         "Samurott": 5,
-        "Torchic": 41,
+        "Torchic": 42,
         "Sobble": 32,
         "Mudkip": 31,
         "Charjabug": 22,
@@ -447,7 +447,7 @@
         "Raticate": 19,
         "Wugtrio": 21,
         "Bellibolt": 23,
-        "Morgrem": 18,
+        "Morgrem": 19,
         "Misdreavus": 23,
         "Seviper": 7,
         "Scovillain": 27,
@@ -462,7 +462,7 @@
         "Paras": 29,
         "Herdier": 39,
         "Pineco": 22,
-        "Chikorita": 32,
+        "Chikorita": 33,
         "Woobat": 25,
         "Wobbuffet": 5,
         "Roselia": 13,
@@ -477,7 +477,7 @@
         "Shelmet": 27,
         "Solrock": 7,
         "Slowpoke": 27,
-        "Dolliv": 27,
+        "Dolliv": 28,
         "Infernape": 5,
         "Carkol": 22,
         "Magikarp": 18,
@@ -498,7 +498,7 @@
         "Basculin": 5,
         "Throh": 11,
         "Comfey": 6,
-        "Applin": 26,
+        "Applin": 27,
         "Staraptor": 9,
         "Mimikyu": 5,
         "Alolan sandslash": 1,
@@ -580,7 +580,7 @@
         "Galarian meowth": 1,
         "Spoink": 19,
         "Scyther": 30,
-        "Anorith": 30,
+        "Anorith": 31,
         "Meowth": 15,
         "Combee": 16,
         "Fletchinder": 30,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 22007,
-      "last_spawn": "2026-06-25T18:26:17.273944"
+      "total_spawns": 22018,
+      "last_spawn": "2026-06-25T18:26:51.449725"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1245,10 +1245,11 @@
         "Oranguru": 1,
         "Golisopod": 1,
         "Beheeyem": 1,
-        "Charizard": 1
+        "Charizard": 1,
+        "Kirlia": 1
       },
-      "total_spawns": 284,
-      "last_spawn": "2026-06-25T18:26:17.578361"
+      "total_spawns": 285,
+      "last_spawn": "2026-06-25T18:26:47.420527"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1258,7 +1259,7 @@
     }
   },
   "global": {
-    "total_spawns": 26578,
+    "total_spawns": 26590,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
