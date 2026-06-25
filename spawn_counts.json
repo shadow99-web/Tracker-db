@@ -180,7 +180,7 @@
         "Grafaiai": 10,
         "Quilladin": 9,
         "Geodude": 71,
-        "Espurr": 14,
+        "Espurr": 15,
         "Cottonee": 9,
         "Elgyem": 14,
         "Luvdisc": 6,
@@ -296,7 +296,7 @@
         "Ferroseed": 20,
         "Brionne": 9,
         "Pancham": 16,
-        "Venipede": 74,
+        "Venipede": 75,
         "Cacturne": 4,
         "Oddish": 55,
         "Dragalge": 4,
@@ -320,7 +320,7 @@
         "Trash wormadam": 4,
         "Quaxly": 15,
         "Gossifleur": 17,
-        "Oshawott": 15,
+        "Oshawott": 16,
         "Murkrow": 14,
         "Bellsprout": 71,
         "Mudbray": 16,
@@ -641,7 +641,7 @@
         "Snom": 7,
         "East sea shellos": 9,
         "Corsola": 8,
-        "Venomoth": 8,
+        "Venomoth": 9,
         "Trumbeak": 16,
         "Aerodactyl": 5,
         "Igglybuff": 6,
@@ -696,7 +696,7 @@
         "Tinkatuff": 11,
         "Bruxish": 3,
         "Corvisquire": 8,
-        "Mantine": 6,
+        "Mantine": 7,
         "Electrode": 5,
         "Celebi": 1,
         "Hero palafin": 3,
@@ -1004,8 +1004,8 @@
         "Beartic": 1,
         "Weezing": 1
       },
-      "total_spawns": 13070,
-      "last_spawn": "2026-06-25T11:56:11.756631"
+      "total_spawns": 13075,
+      "last_spawn": "2026-06-25T11:56:47.084902"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1171,7 +1171,7 @@
     }
   },
   "global": {
-    "total_spawns": 17565,
+    "total_spawns": 17570,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
