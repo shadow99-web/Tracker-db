@@ -51,7 +51,7 @@
         "Slugma": 35,
         "Grotle": 20,
         "Porygon": 119,
-        "Zubat": 119,
+        "Zubat": 120,
         "Vanillish": 33,
         "Tadbulb": 118,
         "Magnemite": 104,
@@ -216,7 +216,7 @@
         "Tynamo": 113,
         "Orthworm": 100,
         "Marill": 27,
-        "Joltik": 32,
+        "Joltik": 33,
         "Politoed": 6,
         "Cyndaquil": 35,
         "Fuecoco": 30,
@@ -286,7 +286,7 @@
         "Charmeleon": 11,
         "Dipplin": 2,
         "Cramorant": 7,
-        "Chef dente": 71,
+        "Chef dente": 72,
         "Volcarona": 2,
         "Bewear": 7,
         "Piloswine": 23,
@@ -345,7 +345,7 @@
         "Capsakid": 85,
         "Revavroom": 30,
         "Exploud": 10,
-        "Deino": 59,
+        "Deino": 60,
         "Wooper": 35,
         "Dwebble": 29,
         "Steenee": 29,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22374,
-      "last_spawn": "2026-06-25T19:06:17.352321"
+      "total_spawns": 22378,
+      "last_spawn": "2026-06-25T19:06:47.419354"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26960,
+    "total_spawns": 26964,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
