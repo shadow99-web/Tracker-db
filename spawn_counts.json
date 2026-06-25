@@ -50,7 +50,7 @@
         "Greavard": 93,
         "Slugma": 31,
         "Grotle": 17,
-        "Porygon": 105,
+        "Porygon": 106,
         "Zubat": 105,
         "Vanillish": 28,
         "Tadbulb": 99,
@@ -112,7 +112,7 @@
         "Sneasel": 22,
         "Bonsly": 4,
         "Horsea": 89,
-        "Frigibax": 84,
+        "Frigibax": 85,
         "Spheal": 113,
         "Swadloon": 26,
         "Flittle": 75,
@@ -413,7 +413,7 @@
         "Peakychu": 61,
         "Armarouge": 29,
         "Tyrantrum": 1,
-        "Larvitar": 47,
+        "Larvitar": 48,
         "Tentacool": 16,
         "Volcanion": 1,
         "Roaming gimmighoul": 65,
@@ -446,7 +446,7 @@
         "Skrelp": 18,
         "Raticate": 19,
         "Wugtrio": 21,
-        "Bellibolt": 22,
+        "Bellibolt": 23,
         "Morgrem": 15,
         "Misdreavus": 22,
         "Seviper": 6,
@@ -850,7 +850,7 @@
         "Quagsire": 4,
         "Darkrai": 1,
         "Togedemaru": 6,
-        "Minior": 5,
+        "Minior": 6,
         "Mr. mime": 4,
         "Chesnaught": 4,
         "Jumpluff": 4,
@@ -1053,8 +1053,8 @@
         "Kubfu": 1,
         "Alolan persian": 1
       },
-      "total_spawns": 19901,
-      "last_spawn": "2026-06-25T16:20:31.797410"
+      "total_spawns": 19906,
+      "last_spawn": "2026-06-25T16:21:07.365922"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1237,7 +1237,7 @@
     }
   },
   "global": {
-    "total_spawns": 24448,
+    "total_spawns": 24453,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
