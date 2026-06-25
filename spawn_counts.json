@@ -74,7 +74,7 @@
         "Fomantis": 14,
         "Droopy tatsugiri": 43,
         "Froslass": 10,
-        "Tarountula": 99,
+        "Tarountula": 100,
         "Hatterene": 8,
         "Phantump": 30,
         "Duosion": 26,
@@ -152,7 +152,7 @@
         "Roggenrola": 103,
         "Pidove": 97,
         "Dragapult": 11,
-        "Rattata": 60,
+        "Rattata": 61,
         "Flapple": 11,
         "Aron": 105,
         "Boldore": 24,
@@ -213,7 +213,7 @@
         "Fidough": 65,
         "Noivern": 3,
         "Feraligatr": 6,
-        "Tynamo": 111,
+        "Tynamo": 112,
         "Orthworm": 100,
         "Marill": 27,
         "Joltik": 32,
@@ -461,7 +461,7 @@
         "Vulpix": 23,
         "Paras": 29,
         "Herdier": 41,
-        "Pineco": 22,
+        "Pineco": 23,
         "Chikorita": 33,
         "Woobat": 25,
         "Wobbuffet": 5,
@@ -531,7 +531,7 @@
         "Floatzel": 5,
         "Accelgor": 3,
         "Wormadam": 5,
-        "Axew": 84,
+        "Axew": 85,
         "Trevenant": 9,
         "Trubbish": 16,
         "Zorua": 17,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22295,
-      "last_spawn": "2026-06-25T18:57:12.106128"
+      "total_spawns": 22300,
+      "last_spawn": "2026-06-25T18:57:47.227707"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26881,
+    "total_spawns": 26886,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
