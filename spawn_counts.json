@@ -45,17 +45,17 @@
         "Timburr": 64,
         "Dj rotom": 55,
         "Surskit": 25,
-        "Seedot": 52,
+        "Seedot": 53,
         "Skitty": 13,
         "Greavard": 59,
         "Slugma": 15,
         "Grotle": 13,
-        "Porygon": 68,
+        "Porygon": 69,
         "Zubat": 75,
         "Vanillish": 19,
         "Tadbulb": 62,
         "Magnemite": 68,
-        "Whismur": 52,
+        "Whismur": 53,
         "Monferno": 20,
         "Skwovet": 14,
         "Bramblin": 68,
@@ -130,7 +130,7 @@
         "Weedle": 86,
         "Flamigo": 55,
         "Lillipup": 61,
-        "Shinx": 71,
+        "Shinx": 72,
         "Bounsweet": 48,
         "Noibat": 19,
         "Toxicroak": 6,
@@ -184,7 +184,7 @@
         "Cottonee": 9,
         "Elgyem": 15,
         "Luvdisc": 6,
-        "Vigoroth": 20,
+        "Vigoroth": 21,
         "Skorupi": 16,
         "Pikachu": 18,
         "Blue plumage squawkabilly": 10,
@@ -192,7 +192,7 @@
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
         "Pidgeotto": 17,
-        "Spearow": 23,
+        "Spearow": 24,
         "Helioptile": 16,
         "Hoothoot": 14,
         "Grookey": 19,
@@ -459,7 +459,7 @@
         "Cherubi": 15,
         "Cradily": 5,
         "Vulpix": 14,
-        "Paras": 17,
+        "Paras": 18,
         "Herdier": 23,
         "Pineco": 12,
         "Chikorita": 18,
@@ -564,8 +564,8 @@
         "Raboot": 15,
         "Golem": 3,
         "Slowking": 8,
-        "Lilligant": 6,
-        "Rabsca": 10,
+        "Lilligant": 7,
+        "Rabsca": 11,
         "Gulpin": 23,
         "Crawdaunt": 6,
         "Magmortar": 2,
@@ -764,7 +764,7 @@
         "Smeargle": 3,
         "Gorebyss": 1,
         "Yanmega": 4,
-        "Pawmo": 8,
+        "Pawmo": 9,
         "Finneon": 9,
         "Mamoswine": 6,
         "Drifblim": 2,
@@ -934,7 +934,7 @@
         "Druddigon": 4,
         "Honchkrow": 3,
         "Pyukumuku": 2,
-        "Machoke": 11,
+        "Machoke": 12,
         "Sunshine cherrim": 1,
         "Beautifly": 2,
         "Ting-lu": 1,
@@ -1007,8 +1007,8 @@
         "Garchomp": 1,
         "Hangry morpeko": 1
       },
-      "total_spawns": 13417,
-      "last_spawn": "2026-06-25T12:31:07.317515"
+      "total_spawns": 13428,
+      "last_spawn": "2026-06-25T12:31:37.524226"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1163,10 +1163,11 @@
         "Ferrothorn": 1,
         "Karrablast": 1,
         "Sinistea": 1,
-        "Lurantis": 1
+        "Lurantis": 1,
+        "Machamp": 1
       },
-      "total_spawns": 211,
-      "last_spawn": "2026-06-25T12:30:47.365091"
+      "total_spawns": 212,
+      "last_spawn": "2026-06-25T12:31:27.488371"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1176,7 +1177,7 @@
     }
   },
   "global": {
-    "total_spawns": 17915,
+    "total_spawns": 17927,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
