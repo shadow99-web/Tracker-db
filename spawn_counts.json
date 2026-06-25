@@ -28,8 +28,8 @@
         "Impidimp": 51,
         "Charmander": 27,
         "Morelull": 12,
-        "Abra": 61,
-        "Sandile": 62,
+        "Abra": 62,
+        "Sandile": 63,
         "Sandygast": 20,
         "Litwick": 84,
         "Grubbin": 51,
@@ -102,7 +102,7 @@
         "Smearguru": 41,
         "Veluza": 67,
         "Barboach": 24,
-        "Klink": 48,
+        "Klink": 49,
         "Honedge": 73,
         "Wingull": 20,
         "Salamence": 2,
@@ -366,7 +366,7 @@
         "Finizen": 61,
         "Unown y": 1,
         "Toucannon": 3,
-        "Caterpie": 45,
+        "Caterpie": 46,
         "Carvanha": 17,
         "Luxio": 14,
         "Treecko": 27,
@@ -588,7 +588,7 @@
         "Clodsire": 20,
         "Blaze breed tauros": 1,
         "Wimpod": 13,
-        "Torterra": 3,
+        "Torterra": 4,
         "Darmanitan": 5,
         "Rainy castform": 1,
         "Galarian darumaka": 1,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13190,
-      "last_spawn": "2026-06-25T12:09:57.213537"
+      "total_spawns": 13195,
+      "last_spawn": "2026-06-25T12:10:31.732489"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17686,
+    "total_spawns": 17691,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
