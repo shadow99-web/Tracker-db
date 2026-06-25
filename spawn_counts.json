@@ -36,7 +36,7 @@
         "Escavalier": 9,
         "Dratini": 47,
         "Kilowattrel": 15,
-        "Lotad": 83,
+        "Lotad": 84,
         "Qwilfish": 5,
         "Trapinch": 65,
         "Toedscool": 52,
@@ -79,7 +79,7 @@
         "Phantump": 21,
         "Duosion": 18,
         "Amaura": 13,
-        "Gimmighoul": 59,
+        "Gimmighoul": 60,
         "Baltoy": 27,
         "Mareep": 57,
         "Garbodor": 3,
@@ -324,7 +324,7 @@
         "Murkrow": 14,
         "Bellsprout": 71,
         "Mudbray": 16,
-        "Dreepy": 52,
+        "Dreepy": 53,
         "Tinkaton": 4,
         "Corviknight": 6,
         "Froakie": 17,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 42,
         "Summer sawsbuck": 6,
         "Delibird": 4,
-        "Ride cyclizar": 21,
+        "Ride cyclizar": 22,
         "Gothorita": 16,
         "Varoom": 53,
         "Yellow plumage squawkabilly": 21,
@@ -526,7 +526,7 @@
         "Tyrunt": 12,
         "Garganacl": 1,
         "Chinchou": 11,
-        "Maushold": 18,
+        "Maushold": 19,
         "Bastiodon": 1,
         "Floatzel": 2,
         "Accelgor": 3,
@@ -924,7 +924,7 @@
         "Clefable": 3,
         "Serperior": 3,
         "Lycanroc": 9,
-        "Kingdra": 3,
+        "Kingdra": 4,
         "Farfetch'd": 3,
         "Unown l": 1,
         "Delphox": 3,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13179,
-      "last_spawn": "2026-06-25T12:08:49.046789"
+      "total_spawns": 13185,
+      "last_spawn": "2026-06-25T12:09:26.980767"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17675,
+    "total_spawns": 17681,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
