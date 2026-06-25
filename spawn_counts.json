@@ -298,8 +298,8 @@
         "Pancham": 23,
         "Venipede": 108,
         "Cacturne": 6,
-        "Oddish": 90,
-        "Dragalge": 6,
+        "Oddish": 91,
+        "Dragalge": 7,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
         "Toxapex": 4,
@@ -343,7 +343,7 @@
         "Mudkip": 29,
         "Charjabug": 20,
         "Capsakid": 71,
-        "Revavroom": 23,
+        "Revavroom": 24,
         "Exploud": 10,
         "Deino": 55,
         "Wooper": 33,
@@ -703,7 +703,7 @@
         "Litten": 31,
         "Abomasnow": 5,
         "Espeon": 3,
-        "Hatenna": 82,
+        "Hatenna": 84,
         "Zoroark": 7,
         "Lucario": 1,
         "Crustle": 8,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20073,
-      "last_spawn": "2026-06-25T16:40:27.062663"
+      "total_spawns": 20078,
+      "last_spawn": "2026-06-25T16:40:57.205778"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24621,
+    "total_spawns": 24626,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
