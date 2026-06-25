@@ -67,7 +67,7 @@
         "Glimmora": 18,
         "Starly": 68,
         "Tandemaus": 53,
-        "Smoliv": 72,
+        "Smoliv": 73,
         "Gloom": 19,
         "Clefairy": 13,
         "Spinda": 3,
@@ -127,7 +127,7 @@
         "Teddiursa": 58,
         "Clamperl": 18,
         "Zigzagoon": 23,
-        "Weedle": 83,
+        "Weedle": 84,
         "Flamigo": 53,
         "Lillipup": 61,
         "Shinx": 70,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 3,
         "Bulbasaur": 15,
-        "Roggenrola": 59,
+        "Roggenrola": 60,
         "Pidove": 65,
         "Dragapult": 7,
         "Rattata": 30,
@@ -290,7 +290,7 @@
         "Volcarona": 2,
         "Bewear": 4,
         "Piloswine": 14,
-        "Simisage": 3,
+        "Simisage": 4,
         "Jellicent": 4,
         "Torkoal": 3,
         "Ferroseed": 20,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 3,
         "Magearna": 1,
         "Mabosstiff": 17,
-        "Squirtle": 26,
+        "Squirtle": 27,
         "Remoraid": 9,
         "Torracat": 17,
         "Hisuian zorua": 1,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13140,
-      "last_spawn": "2026-06-25T12:04:07.249978"
+      "total_spawns": 13145,
+      "last_spawn": "2026-06-25T12:04:37.947292"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17636,
+    "total_spawns": 17641,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
