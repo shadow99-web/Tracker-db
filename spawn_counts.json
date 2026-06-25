@@ -114,7 +114,7 @@
         "Horsea": 101,
         "Frigibax": 94,
         "Spheal": 122,
-        "Swadloon": 28,
+        "Swadloon": 29,
         "Flittle": 88,
         "Unfezant": 11,
         "Yamask": 22,
@@ -421,14 +421,14 @@
         "Delibird": 10,
         "Ride cyclizar": 34,
         "Gothorita": 27,
-        "Varoom": 97,
+        "Varoom": 98,
         "Yellow plumage squawkabilly": 26,
         "Centiskorch": 9,
         "Low key toxtricity": 5,
         "Grapploct": 3,
         "Gurdurr": 22,
         "Girafarig": 9,
-        "Flaaffy": 23,
+        "Flaaffy": 24,
         "Pecharunt": 2,
         "Feebas": 22,
         "Buneary": 26,
@@ -535,7 +535,7 @@
         "Trevenant": 9,
         "Trubbish": 16,
         "Zorua": 17,
-        "Archen": 33,
+        "Archen": 34,
         "Oinkologne": 38,
         "Onix": 23,
         "Vanilluxe": 5,
@@ -581,7 +581,7 @@
         "Spoink": 19,
         "Scyther": 31,
         "Anorith": 31,
-        "Meowth": 16,
+        "Meowth": 17,
         "Combee": 16,
         "Fletchinder": 31,
         "Kingambit": 6,
@@ -595,7 +595,7 @@
         "Mienfoo": 20,
         "Dewgong": 8,
         "Wartortle": 21,
-        "Cetoddle": 94,
+        "Cetoddle": 95,
         "Kricketot": 22,
         "Porygon-z": 4,
         "Conkeldurr": 7,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22378,
-      "last_spawn": "2026-06-25T19:06:47.419354"
+      "total_spawns": 22384,
+      "last_spawn": "2026-06-25T19:07:27.109548"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26964,
+    "total_spawns": 26970,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
