@@ -34,7 +34,7 @@
         "Litwick": 118,
         "Grubbin": 79,
         "Escavalier": 9,
-        "Dratini": 63,
+        "Dratini": 65,
         "Kilowattrel": 23,
         "Lotad": 116,
         "Qwilfish": 8,
@@ -88,7 +88,7 @@
         "Falinks": 7,
         "Tropius": 5,
         "Poliwag": 90,
-        "Metang": 11,
+        "Metang": 12,
         "Riolu": 24,
         "Exeggcute": 22,
         "Corphish": 16,
@@ -111,7 +111,7 @@
         "Scizor": 3,
         "Sneasel": 23,
         "Bonsly": 4,
-        "Horsea": 89,
+        "Horsea": 90,
         "Frigibax": 86,
         "Spheal": 114,
         "Swadloon": 26,
@@ -1052,10 +1052,11 @@
         "Alolan grimer": 1,
         "Kubfu": 1,
         "Alolan persian": 1,
-        "Attack deoxys": 1
+        "Attack deoxys": 1,
+        "Alolan geodude": 1
       },
-      "total_spawns": 20014,
-      "last_spawn": "2026-06-25T16:33:17.153920"
+      "total_spawns": 20019,
+      "last_spawn": "2026-06-25T16:33:51.999351"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24562,
+    "total_spawns": 24567,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
