@@ -5,9 +5,9 @@
       "counts": {
         "Chimchar": 40,
         "Patrat": 29,
-        "Mosslax": 64,
+        "Mosslax": 65,
         "Drilbur": 26,
-        "Pawmi": 91,
+        "Pawmi": 92,
         "Electabuzz": 18,
         "Rellor": 89,
         "Sandy burmy": 16,
@@ -55,7 +55,7 @@
         "Vanillish": 32,
         "Tadbulb": 115,
         "Magnemite": 102,
-        "Whismur": 97,
+        "Whismur": 98,
         "Monferno": 25,
         "Skwovet": 28,
         "Bramblin": 110,
@@ -74,7 +74,7 @@
         "Fomantis": 13,
         "Droopy tatsugiri": 42,
         "Froslass": 10,
-        "Tarountula": 97,
+        "Tarountula": 98,
         "Hatterene": 8,
         "Phantump": 30,
         "Duosion": 26,
@@ -168,7 +168,7 @@
         "Klawf": 112,
         "Vanillite": 90,
         "Flareon": 9,
-        "Gastly": 84,
+        "Gastly": 85,
         "Taillow": 24,
         "Swinub": 105,
         "Inkay": 29,
@@ -256,7 +256,7 @@
         "Arrokuda": 22,
         "Golett": 25,
         "Vullaby": 17,
-        "Cetitan": 25,
+        "Cetitan": 26,
         "Cubone": 26,
         "Gligar": 31,
         "Tirtouga": 29,
@@ -269,7 +269,7 @@
         "Ceruledge": 29,
         "Houndour": 25,
         "Glimmet": 103,
-        "Goomy": 63,
+        "Goomy": 64,
         "Zapdos": 1,
         "Natu": 20,
         "Dhelmise": 5,
@@ -366,7 +366,7 @@
         "Finizen": 95,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 83,
+        "Caterpie": 84,
         "Carvanha": 18,
         "Luxio": 24,
         "Treecko": 40,
@@ -375,7 +375,7 @@
         "Hippopotas": 15,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
-        "Mabosstiff": 25,
+        "Mabosstiff": 26,
         "Squirtle": 39,
         "Remoraid": 22,
         "Torracat": 22,
@@ -447,7 +447,7 @@
         "Raticate": 19,
         "Wugtrio": 21,
         "Bellibolt": 23,
-        "Morgrem": 17,
+        "Morgrem": 18,
         "Misdreavus": 23,
         "Seviper": 7,
         "Scovillain": 27,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 21975,
-      "last_spawn": "2026-06-25T18:24:43.311694"
+      "total_spawns": 21985,
+      "last_spawn": "2026-06-25T18:25:13.527549"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1258,7 +1258,7 @@
     }
   },
   "global": {
-    "total_spawns": 26544,
+    "total_spawns": 26554,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
