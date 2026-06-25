@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 40,
-        "Patrat": 28,
+        "Patrat": 29,
         "Mosslax": 64,
         "Drilbur": 25,
         "Pawmi": 90,
@@ -32,7 +32,7 @@
         "Sandile": 104,
         "Sandygast": 31,
         "Litwick": 128,
-        "Grubbin": 89,
+        "Grubbin": 90,
         "Escavalier": 10,
         "Dratini": 68,
         "Kilowattrel": 25,
@@ -46,7 +46,7 @@
         "Dj rotom": 93,
         "Surskit": 31,
         "Seedot": 86,
-        "Skitty": 24,
+        "Skitty": 25,
         "Greavard": 102,
         "Slugma": 34,
         "Grotle": 20,
@@ -205,7 +205,7 @@
         "Totodile": 31,
         "Dodrio": 8,
         "Cufant": 33,
-        "Tympole": 98,
+        "Tympole": 99,
         "Swellow": 8,
         "Aipom": 28,
         "Growlithe": 17,
@@ -250,7 +250,7 @@
         "Turtwig": 27,
         "Prinplup": 24,
         "Tinkatink": 98,
-        "Lechonk": 108,
+        "Lechonk": 109,
         "Kommo-o": 2,
         "Dewott": 26,
         "Arrokuda": 22,
@@ -330,7 +330,7 @@
         "Froakie": 30,
         "Nymble": 91,
         "Ferrothorn": 4,
-        "Servine": 24,
+        "Servine": 25,
         "Blitzle": 24,
         "Musharna": 4,
         "Bisharp": 10,
@@ -366,11 +366,11 @@
         "Finizen": 95,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 81,
+        "Caterpie": 82,
         "Carvanha": 18,
         "Luxio": 24,
         "Treecko": 40,
-        "Sinistea": 20,
+        "Sinistea": 21,
         "Cubchoo": 17,
         "Hippopotas": 15,
         "Spiky-eared pichu": 3,
@@ -421,7 +421,7 @@
         "Delibird": 10,
         "Ride cyclizar": 34,
         "Gothorita": 26,
-        "Varoom": 95,
+        "Varoom": 96,
         "Yellow plumage squawkabilly": 26,
         "Centiskorch": 9,
         "Low key toxtricity": 5,
@@ -531,7 +531,7 @@
         "Floatzel": 5,
         "Accelgor": 3,
         "Wormadam": 5,
-        "Axew": 80,
+        "Axew": 81,
         "Trevenant": 9,
         "Trubbish": 16,
         "Zorua": 15,
@@ -1061,10 +1061,11 @@
         "Obstagoon": 1,
         "Hisuian sneasel": 1,
         "Unown b": 1,
-        "Regigigas": 1
+        "Regigigas": 1,
+        "Dialga": 1
       },
-      "total_spawns": 21865,
-      "last_spawn": "2026-06-25T18:19:27.286517"
+      "total_spawns": 21876,
+      "last_spawn": "2026-06-25T18:19:57.941122"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1240,10 +1241,11 @@
         "Politoed": 1,
         "Fraxure": 1,
         "Oranguru": 1,
-        "Golisopod": 1
+        "Golisopod": 1,
+        "Beheeyem": 1
       },
-      "total_spawns": 276,
-      "last_spawn": "2026-06-25T18:17:27.499961"
+      "total_spawns": 277,
+      "last_spawn": "2026-06-25T18:19:39.620129"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1253,7 +1255,7 @@
     }
   },
   "global": {
-    "total_spawns": 26428,
+    "total_spawns": 26440,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
