@@ -22,7 +22,7 @@
         "Tangela": 18,
         "Orbeetle": 4,
         "Dedenne": 6,
-        "Machop": 45,
+        "Machop": 46,
         "Dudunsparce": 12,
         "Gothita": 49,
         "Impidimp": 50,
@@ -210,7 +210,7 @@
         "Aipom": 12,
         "Growlithe": 13,
         "Sewaddle": 53,
-        "Fidough": 36,
+        "Fidough": 37,
         "Noivern": 2,
         "Feraligatr": 5,
         "Tynamo": 64,
@@ -437,7 +437,7 @@
         "Paldean wooper": 4,
         "Salandit": 13,
         "School wishiwashi": 4,
-        "Snivy": 17,
+        "Snivy": 18,
         "Wyrdeer": 2,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -564,7 +564,7 @@
         "Raboot": 15,
         "Golem": 3,
         "Slowking": 8,
-        "Lilligant": 5,
+        "Lilligant": 6,
         "Rabsca": 10,
         "Gulpin": 22,
         "Crawdaunt": 5,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 5,
+        "Typhlosion": 6,
         "Ariados": 2,
         "Volbeat": 6,
         "Burmy": 4,
@@ -1004,8 +1004,8 @@
         "Beartic": 1,
         "Weezing": 1
       },
-      "total_spawns": 13008,
-      "last_spawn": "2026-06-25T11:49:11.782881"
+      "total_spawns": 13013,
+      "last_spawn": "2026-06-25T11:49:47.108586"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1170,7 +1170,7 @@
     }
   },
   "global": {
-    "total_spawns": 17502,
+    "total_spawns": 17507,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
