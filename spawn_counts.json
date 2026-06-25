@@ -1039,7 +1039,7 @@
         "Dreepy": 3,
         "Bagon": 1,
         "Archen": 1,
-        "Shinx": 2,
+        "Shinx": 3,
         "Pikachu": 1,
         "Rhyhorn": 1,
         "Tynamo": 1,
@@ -1136,11 +1136,12 @@
         "Pelipper": 1,
         "Hattrem": 1,
         "Machoke": 1,
-        "Litwick": 1,
-        "Frost rotom": 1
+        "Litwick": 2,
+        "Frost rotom": 1,
+        "Cubchoo": 1
       },
-      "total_spawns": 167,
-      "last_spawn": "2026-06-25T07:39:07.443741"
+      "total_spawns": 170,
+      "last_spawn": "2026-06-25T07:39:47.499336"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1150,7 +1151,7 @@
     }
   },
   "global": {
-    "total_spawns": 17447,
+    "total_spawns": 17450,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
