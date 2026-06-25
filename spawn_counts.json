@@ -32,7 +32,7 @@
         "Sandile": 95,
         "Sandygast": 25,
         "Litwick": 118,
-        "Grubbin": 79,
+        "Grubbin": 80,
         "Escavalier": 9,
         "Dratini": 65,
         "Kilowattrel": 23,
@@ -179,7 +179,7 @@
         "Binacle": 27,
         "Grafaiai": 16,
         "Quilladin": 15,
-        "Geodude": 101,
+        "Geodude": 102,
         "Espurr": 23,
         "Cottonee": 18,
         "Elgyem": 18,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 5,
         "Tynamo": 103,
-        "Orthworm": 88,
+        "Orthworm": 89,
         "Marill": 26,
         "Joltik": 29,
         "Politoed": 5,
@@ -250,7 +250,7 @@
         "Turtwig": 25,
         "Prinplup": 21,
         "Tinkatink": 94,
-        "Lechonk": 96,
+        "Lechonk": 97,
         "Kommo-o": 2,
         "Dewott": 22,
         "Arrokuda": 21,
@@ -648,7 +648,7 @@
         "Archeops": 6,
         "Shiftry": 3,
         "Arbok": 5,
-        "Stretchy tatsugiri": 28,
+        "Stretchy tatsugiri": 29,
         "Mareanie": 21,
         "Seadra": 13,
         "Beheeyem": 5,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20029,
-      "last_spawn": "2026-06-25T16:35:07.123176"
+      "total_spawns": 20034,
+      "last_spawn": "2026-06-25T16:35:37.154491"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24577,
+    "total_spawns": 24582,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
