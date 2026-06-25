@@ -36,7 +36,7 @@
         "Escavalier": 9,
         "Dratini": 46,
         "Kilowattrel": 15,
-        "Lotad": 82,
+        "Lotad": 83,
         "Qwilfish": 5,
         "Trapinch": 65,
         "Toedscool": 52,
@@ -154,8 +154,8 @@
         "Dragapult": 7,
         "Rattata": 30,
         "Flapple": 8,
-        "Aron": 62,
-        "Boldore": 15,
+        "Aron": 63,
+        "Boldore": 16,
         "Spinarak": 24,
         "Delcatty": 4,
         "Spiritomb": 4,
@@ -173,7 +173,7 @@
         "Swinub": 61,
         "Inkay": 20,
         "Gible": 42,
-        "Rookidee": 39,
+        "Rookidee": 40,
         "Minccino": 21,
         "Wurmple": 49,
         "Binacle": 19,
@@ -704,7 +704,7 @@
         "Abomasnow": 3,
         "Espeon": 3,
         "Hatenna": 54,
-        "Zoroark": 5,
+        "Zoroark": 6,
         "Lucario": 1,
         "Crustle": 5,
         "Combusken": 16,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13126,
-      "last_spawn": "2026-06-25T12:02:27.234689"
+      "total_spawns": 13131,
+      "last_spawn": "2026-06-25T12:02:57.691998"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1172,7 +1172,7 @@
     }
   },
   "global": {
-    "total_spawns": 17621,
+    "total_spawns": 17626,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
