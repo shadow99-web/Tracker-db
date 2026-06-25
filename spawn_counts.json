@@ -42,7 +42,7 @@
         "Toedscool": 52,
         "Fletchling": 55,
         "Skiploom": 17,
-        "Timburr": 62,
+        "Timburr": 63,
         "Dj rotom": 54,
         "Surskit": 25,
         "Seedot": 51,
@@ -51,7 +51,7 @@
         "Slugma": 15,
         "Grotle": 13,
         "Porygon": 67,
-        "Zubat": 73,
+        "Zubat": 74,
         "Vanillish": 19,
         "Tadbulb": 61,
         "Magnemite": 68,
@@ -72,7 +72,7 @@
         "Clefairy": 13,
         "Spinda": 3,
         "Fomantis": 7,
-        "Droopy tatsugiri": 29,
+        "Droopy tatsugiri": 30,
         "Froslass": 7,
         "Tarountula": 50,
         "Hatterene": 4,
@@ -120,7 +120,7 @@
         "Yamask": 12,
         "Ralts": 53,
         "Solosis": 57,
-        "Battle cyclizar": 25,
+        "Battle cyclizar": 26,
         "Togetic": 13,
         "Palpitoad": 14,
         "Pikipek": 71,
@@ -964,7 +964,7 @@
         "Galarian darmanitan": 2,
         "Thundurus": 1,
         "Seismitoad": 2,
-        "Komala": 1,
+        "Komala": 2,
         "Reshiram": 1,
         "Azumarill": 1,
         "Galarian farfetch'd": 1,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13232,
-      "last_spawn": "2026-06-25T12:14:47.257283"
+      "total_spawns": 13237,
+      "last_spawn": "2026-06-25T12:15:17.468655"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17728,
+    "total_spawns": 17733,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
