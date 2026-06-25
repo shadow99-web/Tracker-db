@@ -240,7 +240,7 @@
         "Omanyte": 21,
         "Galvantula": 6,
         "Chansey": 15,
-        "Shroodle": 101,
+        "Shroodle": 102,
         "Duskull": 115,
         "Bergmite": 25,
         "Pignite": 24,
@@ -460,7 +460,7 @@
         "Cradily": 10,
         "Vulpix": 23,
         "Paras": 29,
-        "Herdier": 39,
+        "Herdier": 40,
         "Pineco": 22,
         "Chikorita": 33,
         "Woobat": 25,
@@ -644,7 +644,7 @@
         "Venomoth": 11,
         "Trumbeak": 28,
         "Aerodactyl": 5,
-        "Igglybuff": 6,
+        "Igglybuff": 7,
         "Archeops": 6,
         "Shiftry": 3,
         "Arbok": 5,
@@ -779,7 +779,7 @@
         "Beedrill": 13,
         "Whimsicott": 7,
         "Wishiwashi": 10,
-        "Cofagrigus": 7,
+        "Cofagrigus": 8,
         "Camerupt": 9,
         "Castform": 12,
         "Weavile": 1,
@@ -899,7 +899,7 @@
         "Shedinja": 8,
         "Baxcalibur": 4,
         "Galarian articuno": 1,
-        "Audino": 8,
+        "Audino": 9,
         "Orange flower florges": 1,
         "Cursola": 1,
         "Snorlax": 9,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 22056,
-      "last_spawn": "2026-06-25T18:29:58.929446"
+      "total_spawns": 22061,
+      "last_spawn": "2026-06-25T18:30:31.764097"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1106,7 +1106,7 @@
         "Pikachu": 2,
         "Rhyhorn": 1,
         "Tynamo": 1,
-        "Tandemaus": 1,
+        "Tandemaus": 2,
         "Smearguru": 5,
         "Magnemite": 2,
         "Teddiursa": 4,
@@ -1249,8 +1249,8 @@
         "Kirlia": 1,
         "Treecko": 1
       },
-      "total_spawns": 290,
-      "last_spawn": "2026-06-25T18:29:47.435922"
+      "total_spawns": 291,
+      "last_spawn": "2026-06-25T18:30:28.291923"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1260,7 +1260,7 @@
     }
   },
   "global": {
-    "total_spawns": 26633,
+    "total_spawns": 26639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
