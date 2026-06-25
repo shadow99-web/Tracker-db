@@ -8,8 +8,8 @@
         "Mosslax": 65,
         "Drilbur": 26,
         "Pawmi": 92,
-        "Electabuzz": 20,
-        "Rellor": 90,
+        "Electabuzz": 21,
+        "Rellor": 91,
         "Sandy burmy": 16,
         "Wiglett": 96,
         "Bombirdier": 89,
@@ -268,7 +268,7 @@
         "Loudred": 32,
         "Ceruledge": 29,
         "Houndour": 25,
-        "Glimmet": 105,
+        "Glimmet": 106,
         "Goomy": 64,
         "Zapdos": 1,
         "Natu": 20,
@@ -342,7 +342,7 @@
         "Sobble": 32,
         "Mudkip": 31,
         "Charjabug": 22,
-        "Capsakid": 84,
+        "Capsakid": 85,
         "Revavroom": 30,
         "Exploud": 10,
         "Deino": 58,
@@ -416,7 +416,7 @@
         "Larvitar": 51,
         "Tentacool": 16,
         "Volcanion": 1,
-        "Roaming gimmighoul": 74,
+        "Roaming gimmighoul": 75,
         "Summer sawsbuck": 10,
         "Delibird": 10,
         "Ride cyclizar": 34,
@@ -1064,10 +1064,11 @@
         "Regigigas": 1,
         "Dialga": 1,
         "Heart trim furfrou": 1,
-        "Iron hands": 1
+        "Iron hands": 1,
+        "Debutante trim furfrou": 1
       },
-      "total_spawns": 22259,
-      "last_spawn": "2026-06-25T18:53:07.230869"
+      "total_spawns": 22265,
+      "last_spawn": "2026-06-25T18:53:47.113403"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1264,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26845,
+    "total_spawns": 26851,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
