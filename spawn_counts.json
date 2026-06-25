@@ -65,7 +65,7 @@
         "Ducklett": 12,
         "Lokix": 15,
         "Glimmora": 18,
-        "Starly": 68,
+        "Starly": 69,
         "Tandemaus": 54,
         "Smoliv": 73,
         "Gloom": 19,
@@ -239,7 +239,7 @@
         "Clobbopus": 7,
         "Omanyte": 14,
         "Galvantula": 3,
-        "Chansey": 8,
+        "Chansey": 9,
         "Shroodle": 61,
         "Duskull": 69,
         "Bergmite": 15,
@@ -537,7 +537,7 @@
         "Zorua": 10,
         "Archen": 23,
         "Oinkologne": 15,
-        "Onix": 12,
+        "Onix": 13,
         "Vanilluxe": 2,
         "Jolteon": 6,
         "Pawmot": 7,
@@ -567,7 +567,7 @@
         "Lilligant": 6,
         "Rabsca": 10,
         "Gulpin": 23,
-        "Crawdaunt": 5,
+        "Crawdaunt": 6,
         "Magmortar": 2,
         "Palossand": 4,
         "Noice face eiscue": 3,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 3,
         "Medicham": 3,
         "Doublade": 14,
-        "Naclstack": 12,
+        "Naclstack": 13,
         "Claydol": 4,
         "Turtonator": 3,
         "Hitmonlee": 3,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13185,
-      "last_spawn": "2026-06-25T12:09:26.980767"
+      "total_spawns": 13190,
+      "last_spawn": "2026-06-25T12:09:57.213537"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17681,
+    "total_spawns": 17686,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
