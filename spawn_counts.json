@@ -76,7 +76,7 @@
         "Froslass": 7,
         "Tarountula": 50,
         "Hatterene": 4,
-        "Phantump": 20,
+        "Phantump": 21,
         "Duosion": 18,
         "Amaura": 13,
         "Gimmighoul": 59,
@@ -130,7 +130,7 @@
         "Weedle": 83,
         "Flamigo": 53,
         "Lillipup": 61,
-        "Shinx": 69,
+        "Shinx": 70,
         "Bounsweet": 44,
         "Noibat": 19,
         "Toxicroak": 6,
@@ -174,7 +174,7 @@
         "Inkay": 20,
         "Gible": 42,
         "Rookidee": 39,
-        "Minccino": 20,
+        "Minccino": 21,
         "Wurmple": 49,
         "Binacle": 19,
         "Grafaiai": 10,
@@ -223,7 +223,7 @@
         "Cyclizar": 25,
         "Magmar": 17,
         "Rillaboom": 8,
-        "Ninetales": 5,
+        "Ninetales": 6,
         "Wattrel": 69,
         "Snubbull": 15,
         "Spidops": 15,
@@ -875,7 +875,7 @@
         "Magnezone": 3,
         "Alolan graveler": 1,
         "Cleffa": 5,
-        "Machamp": 6,
+        "Machamp": 7,
         "Altaria": 5,
         "Purugly": 5,
         "Seaking": 2,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13104,
-      "last_spawn": "2026-06-25T11:59:58.527030"
+      "total_spawns": 13109,
+      "last_spawn": "2026-06-25T12:00:32.296286"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1172,7 +1172,7 @@
     }
   },
   "global": {
-    "total_spawns": 17599,
+    "total_spawns": 17604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
