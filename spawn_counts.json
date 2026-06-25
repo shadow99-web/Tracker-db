@@ -39,9 +39,9 @@
         "Lotad": 116,
         "Qwilfish": 8,
         "Trapinch": 98,
-        "Toedscool": 79,
+        "Toedscool": 81,
         "Fletchling": 85,
-        "Skiploom": 25,
+        "Skiploom": 26,
         "Timburr": 99,
         "Dj rotom": 86,
         "Surskit": 30,
@@ -77,7 +77,7 @@
         "Tarountula": 92,
         "Hatterene": 8,
         "Phantump": 29,
-        "Duosion": 23,
+        "Duosion": 24,
         "Amaura": 20,
         "Gimmighoul": 86,
         "Baltoy": 32,
@@ -269,7 +269,7 @@
         "Ceruledge": 27,
         "Houndour": 24,
         "Glimmet": 93,
-        "Goomy": 59,
+        "Goomy": 60,
         "Zapdos": 1,
         "Natu": 18,
         "Dhelmise": 4,
@@ -325,7 +325,7 @@
         "Bellsprout": 110,
         "Mudbray": 25,
         "Dreepy": 87,
-        "Tinkaton": 6,
+        "Tinkaton": 7,
         "Corviknight": 10,
         "Froakie": 27,
         "Nymble": 86,
@@ -458,7 +458,7 @@
         "Iron moth": 2,
         "Cherubi": 20,
         "Cradily": 8,
-        "Vulpix": 19,
+        "Vulpix": 20,
         "Paras": 26,
         "Herdier": 35,
         "Pineco": 19,
@@ -554,7 +554,7 @@
         "Drednaw": 5,
         "Skarmory": 7,
         "Midnight lycanroc": 6,
-        "Eelektross": 5,
+        "Eelektross": 6,
         "Araquanid": 7,
         "Kadabra": 20,
         "Chandelure": 8,
@@ -741,7 +741,7 @@
         "Ekans": 23,
         "Venonat": 15,
         "Pelipper": 7,
-        "Metapod": 16,
+        "Metapod": 17,
         "Kricketune": 11,
         "Nidoqueen": 3,
         "Hitmonchan": 2,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20099,
-      "last_spawn": "2026-06-25T16:43:12.135772"
+      "total_spawns": 20108,
+      "last_spawn": "2026-06-25T16:43:44.870071"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24647,
+    "total_spawns": 24656,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
