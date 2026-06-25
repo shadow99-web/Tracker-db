@@ -10,7 +10,7 @@
         "Pawmi": 88,
         "Electabuzz": 17,
         "Rellor": 88,
-        "Sandy burmy": 13,
+        "Sandy burmy": 14,
         "Wiglett": 95,
         "Bombirdier": 86,
         "Litleo": 22,
@@ -55,7 +55,7 @@
         "Vanillish": 28,
         "Tadbulb": 106,
         "Magnemite": 100,
-        "Whismur": 93,
+        "Whismur": 94,
         "Monferno": 25,
         "Skwovet": 28,
         "Bramblin": 108,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 24,
         "Numel": 29,
         "Carracosta": 6,
-        "Smearguru": 71,
+        "Smearguru": 72,
         "Veluza": 101,
         "Barboach": 37,
         "Klink": 79,
@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 53,
         "Flapple": 11,
-        "Aron": 98,
+        "Aron": 99,
         "Boldore": 24,
         "Spinarak": 30,
         "Delcatty": 6,
@@ -298,7 +298,7 @@
         "Pancham": 23,
         "Venipede": 114,
         "Cacturne": 6,
-        "Oddish": 98,
+        "Oddish": 99,
         "Dragalge": 7,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -318,7 +318,7 @@
         "Prof tangrowth": 71,
         "Jangmo-o": 47,
         "Trash wormadam": 7,
-        "Quaxly": 35,
+        "Quaxly": 36,
         "Gossifleur": 27,
         "Oshawott": 31,
         "Murkrow": 26,
@@ -534,9 +534,9 @@
         "Axew": 76,
         "Trevenant": 9,
         "Trubbish": 15,
-        "Zorua": 14,
+        "Zorua": 15,
         "Archen": 33,
-        "Oinkologne": 35,
+        "Oinkologne": 36,
         "Onix": 22,
         "Vanilluxe": 5,
         "Jolteon": 8,
@@ -609,7 +609,7 @@
         "Hitmonlee": 4,
         "Houndstone": 9,
         "Sandy wormadam": 4,
-        "Stunky": 21,
+        "Stunky": 22,
         "Pupitar": 21,
         "Avalugg": 10,
         "Magby": 7,
@@ -851,7 +851,7 @@
         "Darkrai": 1,
         "Togedemaru": 6,
         "Minior": 6,
-        "Mr. mime": 4,
+        "Mr. mime": 5,
         "Chesnaught": 5,
         "Jumpluff": 4,
         "Heatmor": 4,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21138,
-      "last_spawn": "2026-06-25T17:44:13.345066"
+      "total_spawns": 21148,
+      "last_spawn": "2026-06-25T17:44:47.112717"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1248,7 +1248,7 @@
     }
   },
   "global": {
-    "total_spawns": 25687,
+    "total_spawns": 25697,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
