@@ -159,7 +159,7 @@
         "Spinarak": 24,
         "Delcatty": 4,
         "Spiritomb": 4,
-        "Yamper": 14,
+        "Yamper": 15,
         "Tepig": 32,
         "Kirlia": 17,
         "Piplup": 13,
@@ -182,12 +182,12 @@
         "Geodude": 71,
         "Espurr": 16,
         "Cottonee": 9,
-        "Elgyem": 14,
+        "Elgyem": 15,
         "Luvdisc": 6,
         "Vigoroth": 20,
         "Skorupi": 16,
         "Pikachu": 17,
-        "Blue plumage squawkabilly": 8,
+        "Blue plumage squawkabilly": 9,
         "Thwackey": 16,
         "Dusk lycanroc": 3,
         "Sunny castform": 4,
@@ -531,7 +531,7 @@
         "Floatzel": 2,
         "Accelgor": 3,
         "Wormadam": 3,
-        "Axew": 43,
+        "Axew": 44,
         "Trevenant": 7,
         "Trubbish": 7,
         "Zorua": 10,
@@ -770,7 +770,7 @@
         "Drifblim": 2,
         "Meowscarada": 4,
         "Roserade": 6,
-        "Nidorina": 10,
+        "Nidorina": 11,
         "Archaludon": 1,
         "Golduck": 3,
         "Scolipede": 4,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13159,
-      "last_spawn": "2026-06-25T12:06:17.292775"
+      "total_spawns": 13164,
+      "last_spawn": "2026-06-25T12:06:51.735359"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17655,
+    "total_spawns": 17660,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
