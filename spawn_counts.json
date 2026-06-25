@@ -76,7 +76,7 @@
         "Froslass": 7,
         "Tarountula": 50,
         "Hatterene": 4,
-        "Phantump": 21,
+        "Phantump": 22,
         "Duosion": 18,
         "Amaura": 13,
         "Gimmighoul": 60,
@@ -175,7 +175,7 @@
         "Gible": 42,
         "Rookidee": 40,
         "Minccino": 21,
-        "Wurmple": 49,
+        "Wurmple": 50,
         "Binacle": 19,
         "Grafaiai": 10,
         "Quilladin": 9,
@@ -312,7 +312,7 @@
         "Flygon": 4,
         "Shellos": 10,
         "Jigglypuff": 19,
-        "Nacli": 38,
+        "Nacli": 39,
         "Munna": 14,
         "Pawniard": 14,
         "Prof tangrowth": 43,
@@ -432,7 +432,7 @@
         "Pecharunt": 1,
         "Feebas": 13,
         "Buneary": 17,
-        "Zebstrika": 3,
+        "Zebstrika": 4,
         "Shuppet": 12,
         "Paldean wooper": 4,
         "Salandit": 13,
@@ -535,7 +535,7 @@
         "Trevenant": 7,
         "Trubbish": 7,
         "Zorua": 10,
-        "Archen": 23,
+        "Archen": 24,
         "Oinkologne": 15,
         "Onix": 13,
         "Vanilluxe": 2,
@@ -631,7 +631,7 @@
         "Krabby": 17,
         "Bronzong": 5,
         "Lanturn": 3,
-        "Cacnea": 7,
+        "Cacnea": 8,
         "Pom-pom oricorio": 4,
         "Hawlucha": 6,
         "Ursaring": 10,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13200,
-      "last_spawn": "2026-06-25T12:11:07.608376"
+      "total_spawns": 13206,
+      "last_spawn": "2026-06-25T12:11:47.202828"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17696,
+    "total_spawns": 17702,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
