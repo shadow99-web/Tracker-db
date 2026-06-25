@@ -24,7 +24,7 @@
         "Dedenne": 6,
         "Machop": 47,
         "Dudunsparce": 12,
-        "Gothita": 49,
+        "Gothita": 50,
         "Impidimp": 52,
         "Charmander": 27,
         "Morelull": 12,
@@ -103,7 +103,7 @@
         "Veluza": 67,
         "Barboach": 25,
         "Klink": 49,
-        "Honedge": 73,
+        "Honedge": 74,
         "Wingull": 20,
         "Salamence": 2,
         "Drakloak": 14,
@@ -224,7 +224,7 @@
         "Magmar": 17,
         "Rillaboom": 9,
         "Ninetales": 6,
-        "Wattrel": 70,
+        "Wattrel": 71,
         "Snubbull": 15,
         "Spidops": 15,
         "Braixen": 16,
@@ -380,7 +380,7 @@
         "Remoraid": 9,
         "Torracat": 17,
         "Hisuian zorua": 1,
-        "Wooloo": 12,
+        "Wooloo": 13,
         "Drifloon": 10,
         "Golbat": 18,
         "Swablu": 15,
@@ -665,7 +665,7 @@
         "Kecleon": 3,
         "Sizzlipede": 10,
         "White flower floette": 4,
-        "Skeledirge": 6,
+        "Skeledirge": 7,
         "Amoonguss": 6,
         "Appletun": 2,
         "Krookodile": 8,
@@ -740,7 +740,7 @@
         "Greedent": 5,
         "Ekans": 16,
         "Venonat": 14,
-        "Pelipper": 4,
+        "Pelipper": 5,
         "Metapod": 13,
         "Kricketune": 6,
         "Nidoqueen": 3,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13268,
-      "last_spawn": "2026-06-25T12:21:47.337055"
+      "total_spawns": 13274,
+      "last_spawn": "2026-06-25T12:22:27.053546"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17764,
+    "total_spawns": 17770,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
