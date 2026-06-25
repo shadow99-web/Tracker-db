@@ -24,7 +24,7 @@
         "Dedenne": 8,
         "Machop": 71,
         "Dudunsparce": 21,
-        "Gothita": 77,
+        "Gothita": 78,
         "Impidimp": 80,
         "Charmander": 43,
         "Morelull": 16,
@@ -51,7 +51,7 @@
         "Slugma": 32,
         "Grotle": 17,
         "Porygon": 106,
-        "Zubat": 106,
+        "Zubat": 107,
         "Vanillish": 28,
         "Tadbulb": 100,
         "Magnemite": 98,
@@ -115,7 +115,7 @@
         "Frigibax": 86,
         "Spheal": 114,
         "Swadloon": 26,
-        "Flittle": 75,
+        "Flittle": 76,
         "Unfezant": 10,
         "Yamask": 19,
         "Ralts": 73,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 42,
         "Togetic": 26,
         "Palpitoad": 17,
-        "Pikipek": 105,
+        "Pikipek": 106,
         "Teddiursa": 87,
         "Clamperl": 27,
         "Zigzagoon": 33,
@@ -914,7 +914,7 @@
         "Eldegoss": 5,
         "Dracozolt": 4,
         "Galarian rapidash": 2,
-        "Skuntank": 2,
+        "Skuntank": 3,
         "Gogoat": 2,
         "Bellossom": 6,
         "Pirouette meloetta": 2,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20034,
-      "last_spawn": "2026-06-25T16:35:37.154491"
+      "total_spawns": 20039,
+      "last_spawn": "2026-06-25T16:36:11.725986"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24582,
+    "total_spawns": 24587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
