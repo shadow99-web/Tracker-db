@@ -128,9 +128,9 @@
         "Clamperl": 27,
         "Zigzagoon": 33,
         "Weedle": 116,
-        "Flamigo": 84,
+        "Flamigo": 85,
         "Lillipup": 82,
-        "Shinx": 103,
+        "Shinx": 104,
         "Bounsweet": 74,
         "Noibat": 27,
         "Toxicroak": 8,
@@ -510,7 +510,7 @@
         "Duraludon": 8,
         "Sawk": 6,
         "Starmie": 11,
-        "Simipour": 2,
+        "Simipour": 3,
         "Goldeen": 25,
         "Nickit": 33,
         "Ivysaur": 17,
@@ -565,7 +565,7 @@
         "Golem": 5,
         "Slowking": 9,
         "Lilligant": 11,
-        "Rabsca": 18,
+        "Rabsca": 19,
         "Gulpin": 27,
         "Crawdaunt": 6,
         "Magmortar": 5,
@@ -1051,10 +1051,11 @@
         "Meloetta": 1,
         "Alolan grimer": 1,
         "Kubfu": 1,
-        "Alolan persian": 1
+        "Alolan persian": 1,
+        "Attack deoxys": 1
       },
-      "total_spawns": 19911,
-      "last_spawn": "2026-06-25T16:21:37.765718"
+      "total_spawns": 19916,
+      "last_spawn": "2026-06-25T16:22:11.966776"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1237,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24458,
+    "total_spawns": 24463,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
