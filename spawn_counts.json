@@ -55,9 +55,9 @@
         "Vanillish": 28,
         "Tadbulb": 106,
         "Magnemite": 100,
-        "Whismur": 91,
+        "Whismur": 92,
         "Monferno": 25,
-        "Skwovet": 25,
+        "Skwovet": 26,
         "Bramblin": 107,
         "Yanma": 20,
         "Larvesta": 38,
@@ -66,7 +66,7 @@
         "Lokix": 27,
         "Glimmora": 30,
         "Starly": 99,
-        "Tandemaus": 77,
+        "Tandemaus": 78,
         "Smoliv": 98,
         "Gloom": 25,
         "Clefairy": 24,
@@ -113,7 +113,7 @@
         "Bonsly": 4,
         "Horsea": 95,
         "Frigibax": 89,
-        "Spheal": 119,
+        "Spheal": 120,
         "Swadloon": 26,
         "Flittle": 81,
         "Unfezant": 10,
@@ -143,7 +143,7 @@
         "Sentret": 25,
         "Yungoos": 20,
         "Diglett": 34,
-        "Doduo": 26,
+        "Doduo": 27,
         "Lairon": 24,
         "Emboar": 6,
         "Deoxys": 2,
@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 53,
         "Flapple": 11,
-        "Aron": 95,
+        "Aron": 96,
         "Boldore": 24,
         "Spinarak": 30,
         "Delcatty": 6,
@@ -179,7 +179,7 @@
         "Binacle": 29,
         "Grafaiai": 18,
         "Quilladin": 18,
-        "Geodude": 106,
+        "Geodude": 107,
         "Espurr": 24,
         "Cottonee": 18,
         "Elgyem": 18,
@@ -380,7 +380,7 @@
         "Remoraid": 19,
         "Torracat": 22,
         "Hisuian zorua": 1,
-        "Wooloo": 18,
+        "Wooloo": 19,
         "Drifloon": 20,
         "Golbat": 24,
         "Swablu": 22,
@@ -461,7 +461,7 @@
         "Vulpix": 21,
         "Paras": 29,
         "Herdier": 38,
-        "Pineco": 21,
+        "Pineco": 22,
         "Chikorita": 29,
         "Woobat": 23,
         "Wobbuffet": 5,
@@ -640,7 +640,7 @@
         "Silicobra": 19,
         "Snom": 15,
         "East sea shellos": 12,
-        "Corsola": 11,
+        "Corsola": 12,
         "Venomoth": 11,
         "Trumbeak": 25,
         "Aerodactyl": 5,
@@ -1059,10 +1059,11 @@
         "Heliolisk": 1,
         "Hisuian qwilfish": 1,
         "Obstagoon": 1,
-        "Hisuian sneasel": 1
+        "Hisuian sneasel": 1,
+        "Unown b": 1
       },
-      "total_spawns": 20899,
-      "last_spawn": "2026-06-25T17:32:41.704681"
+      "total_spawns": 20910,
+      "last_spawn": "2026-06-25T17:33:11.773237"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1245,7 +1246,7 @@
     }
   },
   "global": {
-    "total_spawns": 25447,
+    "total_spawns": 25458,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
