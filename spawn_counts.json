@@ -229,7 +229,7 @@
         "Spidops": 15,
         "Braixen": 16,
         "Drowzee": 18,
-        "Blipbug": 63,
+        "Blipbug": 64,
         "Lampent": 23,
         "Petilil": 17,
         "Marshtomp": 16,
@@ -467,7 +467,7 @@
         "Wobbuffet": 3,
         "Roselia": 6,
         "Shelgon": 13,
-        "Buizel": 13,
+        "Buizel": 14,
         "Arctozolt": 6,
         "Snorunt": 10,
         "Bunnelby": 15,
@@ -803,7 +803,7 @@
         "Raichu": 3,
         "Mime jr.": 3,
         "Voltorb": 4,
-        "Lickitung": 8,
+        "Lickitung": 9,
         "Blue-striped basculin": 3,
         "Barraskewda": 3,
         "Salazzle": 4,
@@ -923,7 +923,7 @@
         "Hattrem": 6,
         "Clefable": 3,
         "Serperior": 3,
-        "Lycanroc": 8,
+        "Lycanroc": 9,
         "Kingdra": 3,
         "Farfetch'd": 3,
         "Unown l": 1,
@@ -1001,10 +1001,11 @@
         "Rotom drone": 1,
         "Aegislash": 1,
         "Iron valiant": 1,
-        "Beartic": 1
+        "Beartic": 1,
+        "Weezing": 1
       },
-      "total_spawns": 12998,
-      "last_spawn": "2026-06-25T11:48:07.076198"
+      "total_spawns": 13003,
+      "last_spawn": "2026-06-25T11:48:37.118937"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1169,7 +1170,7 @@
     }
   },
   "global": {
-    "total_spawns": 17492,
+    "total_spawns": 17497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
