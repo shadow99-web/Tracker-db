@@ -43,7 +43,7 @@
         "Fletchling": 54,
         "Skiploom": 17,
         "Timburr": 62,
-        "Dj rotom": 53,
+        "Dj rotom": 54,
         "Surskit": 25,
         "Seedot": 51,
         "Skitty": 13,
@@ -229,8 +229,8 @@
         "Spidops": 15,
         "Braixen": 16,
         "Drowzee": 18,
-        "Blipbug": 64,
-        "Lampent": 23,
+        "Blipbug": 65,
+        "Lampent": 24,
         "Petilil": 17,
         "Marshtomp": 16,
         "Eiscue": 6,
@@ -428,7 +428,7 @@
         "Grapploct": 2,
         "Gurdurr": 11,
         "Girafarig": 7,
-        "Flaaffy": 9,
+        "Flaaffy": 10,
         "Pecharunt": 1,
         "Feebas": 13,
         "Buneary": 17,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13136,
-      "last_spawn": "2026-06-25T12:03:32.084285"
+      "total_spawns": 13140,
+      "last_spawn": "2026-06-25T12:04:07.249978"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1159,10 +1159,11 @@
         "Chespin": 1,
         "Naclstack": 1,
         "Ferrothorn": 1,
-        "Karrablast": 1
+        "Karrablast": 1,
+        "Sinistea": 1
       },
-      "total_spawns": 208,
-      "last_spawn": "2026-06-25T11:56:00.396068"
+      "total_spawns": 209,
+      "last_spawn": "2026-06-25T12:03:34.054527"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1172,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17631,
+    "total_spawns": 17636,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
