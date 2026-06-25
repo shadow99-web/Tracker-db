@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 37,
         "Patrat": 27,
-        "Mosslax": 60,
+        "Mosslax": 61,
         "Drilbur": 24,
         "Pawmi": 88,
         "Electabuzz": 17,
@@ -175,7 +175,7 @@
         "Gible": 69,
         "Rookidee": 67,
         "Minccino": 35,
-        "Wurmple": 86,
+        "Wurmple": 87,
         "Binacle": 29,
         "Grafaiai": 18,
         "Quilladin": 18,
@@ -315,7 +315,7 @@
         "Nacli": 72,
         "Munna": 21,
         "Pawniard": 22,
-        "Prof tangrowth": 71,
+        "Prof tangrowth": 72,
         "Jangmo-o": 47,
         "Trash wormadam": 7,
         "Quaxly": 36,
@@ -485,7 +485,7 @@
         "Vikavolt": 3,
         "Trash burmy": 9,
         "Staravia": 30,
-        "Chatot": 7,
+        "Chatot": 8,
         "Houndoom": 12,
         "Dottler": 21,
         "Eevee": 23,
@@ -582,7 +582,7 @@
         "Scyther": 28,
         "Anorith": 30,
         "Meowth": 15,
-        "Combee": 15,
+        "Combee": 16,
         "Fletchinder": 29,
         "Kingambit": 6,
         "Clodsire": 32,
@@ -732,7 +732,7 @@
         "Walrein": 8,
         "Cinccino": 8,
         "Alolan sandshrew": 2,
-        "Azurill": 4,
+        "Azurill": 5,
         "Alolan rattata": 2,
         "Hippowdon": 5,
         "Lumineon": 8,
@@ -764,7 +764,7 @@
         "Smeargle": 7,
         "Gorebyss": 4,
         "Yanmega": 4,
-        "Pawmo": 14,
+        "Pawmo": 15,
         "Finneon": 13,
         "Mamoswine": 7,
         "Drifblim": 4,
@@ -985,7 +985,7 @@
         "Naganadel": 1,
         "Unown v": 1,
         "Koraidon": 1,
-        "Polteageist": 2,
+        "Polteageist": 3,
         "Slither wing": 1,
         "Diggersby": 7,
         "Hisuian voltorb": 3,
@@ -1056,15 +1056,15 @@
         "Alolan geodude": 1,
         "Iron bundle": 1,
         "Regieleki": 1,
-        "Heliolisk": 1,
+        "Heliolisk": 2,
         "Hisuian qwilfish": 1,
         "Obstagoon": 1,
         "Hisuian sneasel": 1,
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21159,
-      "last_spawn": "2026-06-25T17:45:17.217680"
+      "total_spawns": 21168,
+      "last_spawn": "2026-06-25T17:45:56.613123"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1248,7 +1248,7 @@
     }
   },
   "global": {
-    "total_spawns": 25708,
+    "total_spawns": 25717,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
