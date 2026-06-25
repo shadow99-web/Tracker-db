@@ -25,13 +25,13 @@
         "Machop": 47,
         "Dudunsparce": 12,
         "Gothita": 49,
-        "Impidimp": 50,
+        "Impidimp": 51,
         "Charmander": 26,
         "Morelull": 11,
         "Abra": 61,
         "Sandile": 61,
         "Sandygast": 20,
-        "Litwick": 83,
+        "Litwick": 84,
         "Grubbin": 51,
         "Escavalier": 9,
         "Dratini": 46,
@@ -261,7 +261,7 @@
         "Gligar": 21,
         "Tirtouga": 17,
         "Furret": 3,
-        "Nincada": 24,
+        "Nincada": 25,
         "Fennekin": 25,
         "Quaxwell": 9,
         "Vibrava": 19,
@@ -547,7 +547,7 @@
         "Kangaskhan": 4,
         "Krokorok": 17,
         "Dragonair": 11,
-        "Zweilous": 9,
+        "Zweilous": 10,
         "Karrablast": 12,
         "Shroomish": 19,
         "Snover": 13,
@@ -710,7 +710,7 @@
         "Combusken": 16,
         "Gourgeist": 6,
         "Durant": 2,
-        "Grovyle": 13,
+        "Grovyle": 14,
         "Snowy castform": 1,
         "Gengar": 6,
         "Forretress": 4,
@@ -747,7 +747,7 @@
         "Hitmonchan": 1,
         "Relicanth": 1,
         "Klefki": 5,
-        "Frogadier": 15,
+        "Frogadier": 16,
         "Dewpider": 10,
         "Poltchageist": 4,
         "Incineroar": 4,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13120,
-      "last_spawn": "2026-06-25T12:01:47.378081"
+      "total_spawns": 13126,
+      "last_spawn": "2026-06-25T12:02:27.234689"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1172,7 +1172,7 @@
     }
   },
   "global": {
-    "total_spawns": 17615,
+    "total_spawns": 17621,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
