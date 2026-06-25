@@ -25,7 +25,7 @@
         "Machop": 72,
         "Dudunsparce": 21,
         "Gothita": 81,
-        "Impidimp": 80,
+        "Impidimp": 81,
         "Charmander": 44,
         "Morelull": 17,
         "Abra": 92,
@@ -252,7 +252,7 @@
         "Tinkatink": 96,
         "Lechonk": 101,
         "Kommo-o": 2,
-        "Dewott": 22,
+        "Dewott": 23,
         "Arrokuda": 21,
         "Golett": 24,
         "Vullaby": 15,
@@ -549,7 +549,7 @@
         "Dragonair": 17,
         "Zweilous": 19,
         "Karrablast": 17,
-        "Shroomish": 23,
+        "Shroomish": 24,
         "Snover": 19,
         "Drednaw": 5,
         "Skarmory": 7,
@@ -1061,8 +1061,8 @@
         "Obstagoon": 1,
         "Hisuian sneasel": 1
       },
-      "total_spawns": 20799,
-      "last_spawn": "2026-06-25T17:24:22.114963"
+      "total_spawns": 20802,
+      "last_spawn": "2026-06-25T17:28:28.236965"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1245,7 +1245,7 @@
     }
   },
   "global": {
-    "total_spawns": 25347,
+    "total_spawns": 25350,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
