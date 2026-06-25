@@ -7,7 +7,7 @@
         "Patrat": 25,
         "Mosslax": 58,
         "Drilbur": 23,
-        "Pawmi": 84,
+        "Pawmi": 85,
         "Electabuzz": 16,
         "Rellor": 81,
         "Sandy burmy": 13,
@@ -348,7 +348,7 @@
         "Deino": 55,
         "Wooper": 32,
         "Dwebble": 25,
-        "Steenee": 24,
+        "Steenee": 25,
         "Darumaka": 27,
         "Arboliva": 6,
         "Ledyba": 24,
@@ -620,7 +620,7 @@
         "Talonflame": 4,
         "Kleavor": 9,
         "East sea gastrodon": 4,
-        "Frillish": 26,
+        "Frillish": 27,
         "Manaphy": 1,
         "Gardevoir": 5,
         "Malamar": 7,
@@ -979,7 +979,7 @@
         "Vanilla cream love sweet alcremie": 1,
         "Mudsdale": 5,
         "Slaking": 3,
-        "Munkidori": 1,
+        "Munkidori": 2,
         "Wash rotom": 1,
         "Great tusk": 1,
         "Naganadel": 1,
@@ -1050,10 +1050,11 @@
         "Cosmog": 1,
         "Meloetta": 1,
         "Alolan grimer": 1,
-        "Kubfu": 1
+        "Kubfu": 1,
+        "Alolan persian": 1
       },
-      "total_spawns": 19896,
-      "last_spawn": "2026-06-25T16:19:59.685478"
+      "total_spawns": 19901,
+      "last_spawn": "2026-06-25T16:20:31.797410"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1222,10 +1223,11 @@
         "Bramblin": 1,
         "Vulpix": 1,
         "Hippowdon": 1,
-        "Tinkatink": 1
+        "Tinkatink": 1,
+        "Jumpluff": 1
       },
-      "total_spawns": 259,
-      "last_spawn": "2026-06-25T15:54:52.165983"
+      "total_spawns": 260,
+      "last_spawn": "2026-06-25T16:20:21.020673"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1235,7 +1237,7 @@
     }
   },
   "global": {
-    "total_spawns": 24442,
+    "total_spawns": 24448,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
