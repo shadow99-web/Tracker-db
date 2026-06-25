@@ -38,7 +38,7 @@
         "Kilowattrel": 25,
         "Lotad": 125,
         "Qwilfish": 8,
-        "Trapinch": 103,
+        "Trapinch": 104,
         "Toedscool": 88,
         "Fletchling": 93,
         "Skiploom": 28,
@@ -90,7 +90,7 @@
         "Poliwag": 97,
         "Metang": 12,
         "Riolu": 24,
-        "Exeggcute": 22,
+        "Exeggcute": 23,
         "Corphish": 16,
         "Hoppip": 89,
         "Sandslash": 7,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 20,
-        "Rolycoly": 85,
+        "Rolycoly": 86,
         "Bronzor": 28,
         "Dartrix": 26,
         "Yellow flower florges": 3,
@@ -328,9 +328,9 @@
         "Tinkaton": 7,
         "Corviknight": 10,
         "Froakie": 30,
-        "Nymble": 89,
+        "Nymble": 90,
         "Ferrothorn": 4,
-        "Servine": 23,
+        "Servine": 24,
         "Blitzle": 24,
         "Musharna": 4,
         "Bisharp": 9,
@@ -347,7 +347,7 @@
         "Exploud": 10,
         "Deino": 57,
         "Wooper": 33,
-        "Dwebble": 28,
+        "Dwebble": 29,
         "Steenee": 28,
         "Darumaka": 29,
         "Arboliva": 7,
@@ -420,7 +420,7 @@
         "Summer sawsbuck": 10,
         "Delibird": 10,
         "Ride cyclizar": 33,
-        "Gothorita": 25,
+        "Gothorita": 26,
         "Varoom": 94,
         "Yellow plumage squawkabilly": 24,
         "Centiskorch": 9,
@@ -544,7 +544,7 @@
         "Skiddo": 18,
         "Slowbro": 7,
         "Oricorio": 8,
-        "Kangaskhan": 5,
+        "Kangaskhan": 6,
         "Krokorok": 24,
         "Dragonair": 18,
         "Zweilous": 19,
@@ -707,7 +707,7 @@
         "Zoroark": 8,
         "Lucario": 1,
         "Crustle": 8,
-        "Combusken": 25,
+        "Combusken": 26,
         "Gourgeist": 9,
         "Durant": 3,
         "Grovyle": 22,
@@ -896,7 +896,7 @@
         "Stonjourner": 6,
         "Elekid": 5,
         "Floette": 5,
-        "Shedinja": 7,
+        "Shedinja": 8,
         "Baxcalibur": 4,
         "Galarian articuno": 1,
         "Audino": 8,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21460,
-      "last_spawn": "2026-06-25T17:59:43.449266"
+      "total_spawns": 21470,
+      "last_spawn": "2026-06-25T18:00:13.814131"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1248,7 +1248,7 @@
     }
   },
   "global": {
-    "total_spawns": 26009,
+    "total_spawns": 26019,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
