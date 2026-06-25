@@ -40,7 +40,7 @@
         "Qwilfish": 5,
         "Trapinch": 65,
         "Toedscool": 51,
-        "Fletchling": 52,
+        "Fletchling": 53,
         "Skiploom": 17,
         "Timburr": 62,
         "Dj rotom": 53,
@@ -165,7 +165,7 @@
         "Piplup": 13,
         "Kakuna": 18,
         "Weepinbell": 11,
-        "Klawf": 57,
+        "Klawf": 58,
         "Vanillite": 49,
         "Flareon": 6,
         "Gastly": 48,
@@ -173,7 +173,7 @@
         "Swinub": 61,
         "Inkay": 20,
         "Gible": 42,
-        "Rookidee": 38,
+        "Rookidee": 39,
         "Minccino": 20,
         "Wurmple": 47,
         "Binacle": 19,
@@ -296,7 +296,7 @@
         "Ferroseed": 19,
         "Brionne": 9,
         "Pancham": 16,
-        "Venipede": 73,
+        "Venipede": 74,
         "Cacturne": 4,
         "Oddish": 54,
         "Dragalge": 4,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 17,
         "Squirtle": 26,
-        "Remoraid": 8,
+        "Remoraid": 9,
         "Torracat": 17,
         "Hisuian zorua": 1,
         "Wooloo": 12,
@@ -575,7 +575,7 @@
         "Cascoon": 11,
         "Tentacruel": 7,
         "Nuzleaf": 12,
-        "Scorbunny": 19,
+        "Scorbunny": 20,
         "Huntail": 6,
         "Galarian meowth": 1,
         "Spoink": 7,
@@ -1004,8 +1004,8 @@
         "Beartic": 1,
         "Weezing": 1
       },
-      "total_spawns": 13040,
-      "last_spawn": "2026-06-25T11:52:47.328592"
+      "total_spawns": 13046,
+      "last_spawn": "2026-06-25T11:53:27.027974"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1170,7 +1170,7 @@
     }
   },
   "global": {
-    "total_spawns": 17534,
+    "total_spawns": 17540,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
