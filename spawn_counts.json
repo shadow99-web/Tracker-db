@@ -6,7 +6,7 @@
         "Chimchar": 36,
         "Patrat": 27,
         "Mosslax": 59,
-        "Drilbur": 23,
+        "Drilbur": 24,
         "Pawmi": 88,
         "Electabuzz": 16,
         "Rellor": 84,
@@ -63,11 +63,11 @@
         "Larvesta": 38,
         "Beldum": 74,
         "Ducklett": 21,
-        "Lokix": 25,
+        "Lokix": 26,
         "Glimmora": 30,
         "Starly": 99,
         "Tandemaus": 77,
-        "Smoliv": 97,
+        "Smoliv": 98,
         "Gloom": 25,
         "Clefairy": 24,
         "Spinda": 7,
@@ -81,7 +81,7 @@
         "Amaura": 20,
         "Gimmighoul": 89,
         "Baltoy": 32,
-        "Mareep": 100,
+        "Mareep": 101,
         "Garbodor": 4,
         "Slakoth": 102,
         "Togepi": 83,
@@ -112,7 +112,7 @@
         "Sneasel": 23,
         "Bonsly": 4,
         "Horsea": 95,
-        "Frigibax": 88,
+        "Frigibax": 89,
         "Spheal": 119,
         "Swadloon": 26,
         "Flittle": 81,
@@ -298,7 +298,7 @@
         "Pancham": 23,
         "Venipede": 112,
         "Cacturne": 6,
-        "Oddish": 96,
+        "Oddish": 97,
         "Dragalge": 7,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -660,7 +660,7 @@
         "Bouffalant": 8,
         "Crabrawler": 24,
         "Budew": 5,
-        "Espathra": 19,
+        "Espathra": 20,
         "Vileplume": 6,
         "Kecleon": 5,
         "Sizzlipede": 16,
@@ -1061,8 +1061,8 @@
         "Obstagoon": 1,
         "Hisuian sneasel": 1
       },
-      "total_spawns": 20742,
-      "last_spawn": "2026-06-25T17:20:31.924084"
+      "total_spawns": 20749,
+      "last_spawn": "2026-06-25T17:21:07.001629"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1245,7 +1245,7 @@
     }
   },
   "global": {
-    "total_spawns": 25290,
+    "total_spawns": 25297,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
