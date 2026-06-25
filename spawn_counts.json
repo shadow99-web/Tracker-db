@@ -128,7 +128,7 @@
         "Clamperl": 18,
         "Zigzagoon": 24,
         "Weedle": 84,
-        "Flamigo": 53,
+        "Flamigo": 54,
         "Lillipup": 61,
         "Shinx": 71,
         "Bounsweet": 47,
@@ -224,8 +224,8 @@
         "Magmar": 17,
         "Rillaboom": 9,
         "Ninetales": 6,
-        "Wattrel": 71,
-        "Snubbull": 15,
+        "Wattrel": 72,
+        "Snubbull": 16,
         "Spidops": 15,
         "Braixen": 16,
         "Drowzee": 18,
@@ -444,7 +444,7 @@
         "Bibarel": 4,
         "Plusle": 4,
         "Skrelp": 9,
-        "Raticate": 11,
+        "Raticate": 12,
         "Wugtrio": 14,
         "Bellibolt": 12,
         "Morgrem": 11,
@@ -461,7 +461,7 @@
         "Vulpix": 14,
         "Paras": 17,
         "Herdier": 22,
-        "Pineco": 11,
+        "Pineco": 12,
         "Chikorita": 18,
         "Woobat": 16,
         "Wobbuffet": 3,
@@ -533,7 +533,7 @@
         "Wormadam": 3,
         "Axew": 44,
         "Trevenant": 7,
-        "Trubbish": 7,
+        "Trubbish": 8,
         "Zorua": 10,
         "Archen": 24,
         "Oinkologne": 15,
@@ -602,7 +602,7 @@
         "Walking wake": 1,
         "Yellow flower floette": 3,
         "Medicham": 3,
-        "Doublade": 14,
+        "Doublade": 15,
         "Naclstack": 13,
         "Claydol": 4,
         "Turtonator": 3,
@@ -931,7 +931,7 @@
         "Rampardos": 1,
         "Steelix": 1,
         "Excadrill": 3,
-        "Druddigon": 3,
+        "Druddigon": 4,
         "Honchkrow": 3,
         "Pyukumuku": 2,
         "Machoke": 11,
@@ -1006,8 +1006,8 @@
         "Pangoro": 1,
         "Garchomp": 1
       },
-      "total_spawns": 13299,
-      "last_spawn": "2026-06-25T12:25:11.645984"
+      "total_spawns": 13307,
+      "last_spawn": "2026-06-25T12:25:47.001990"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1174,7 +1174,7 @@
     }
   },
   "global": {
-    "total_spawns": 17795,
+    "total_spawns": 17803,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
