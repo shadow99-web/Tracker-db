@@ -42,7 +42,7 @@
         "Toedscool": 89,
         "Fletchling": 94,
         "Skiploom": 28,
-        "Timburr": 116,
+        "Timburr": 117,
         "Dj rotom": 93,
         "Surskit": 33,
         "Seedot": 88,
@@ -268,7 +268,7 @@
         "Loudred": 31,
         "Ceruledge": 29,
         "Houndour": 25,
-        "Glimmet": 103,
+        "Glimmet": 104,
         "Goomy": 64,
         "Zapdos": 1,
         "Natu": 20,
@@ -407,7 +407,7 @@
         "Maschiff": 89,
         "Rufflet": 28,
         "Kabutops": 6,
-        "Dondozo": 85,
+        "Dondozo": 86,
         "Pansear": 27,
         "Cutiefly": 21,
         "Peakychu": 68,
@@ -446,7 +446,7 @@
         "Skrelp": 22,
         "Raticate": 19,
         "Wugtrio": 21,
-        "Bellibolt": 23,
+        "Bellibolt": 24,
         "Morgrem": 19,
         "Misdreavus": 23,
         "Seviper": 7,
@@ -510,7 +510,7 @@
         "Duraludon": 9,
         "Sawk": 7,
         "Starmie": 11,
-        "Simipour": 3,
+        "Simipour": 4,
         "Goldeen": 26,
         "Nickit": 35,
         "Ivysaur": 18,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 22092,
-      "last_spawn": "2026-06-25T18:34:27.164438"
+      "total_spawns": 22097,
+      "last_spawn": "2026-06-25T18:34:57.330147"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1250,10 +1250,11 @@
         "Treecko": 1,
         "Veluza": 1,
         "Cyndaquil": 1,
-        "Zorua": 1
+        "Zorua": 1,
+        "Meganium": 1
       },
-      "total_spawns": 296,
-      "last_spawn": "2026-06-25T18:33:57.405223"
+      "total_spawns": 297,
+      "last_spawn": "2026-06-25T18:34:47.602349"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1263,7 +1264,7 @@
     }
   },
   "global": {
-    "total_spawns": 26675,
+    "total_spawns": 26681,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
