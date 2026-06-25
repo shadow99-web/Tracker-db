@@ -72,7 +72,7 @@
         "Clefairy": 24,
         "Spinda": 7,
         "Fomantis": 13,
-        "Droopy tatsugiri": 42,
+        "Droopy tatsugiri": 43,
         "Froslass": 10,
         "Tarountula": 98,
         "Hatterene": 8,
@@ -322,7 +322,7 @@
         "Gossifleur": 29,
         "Oshawott": 33,
         "Murkrow": 27,
-        "Bellsprout": 119,
+        "Bellsprout": 120,
         "Mudbray": 27,
         "Dreepy": 93,
         "Tinkaton": 7,
@@ -406,7 +406,7 @@
         "Drampa": 6,
         "Maschiff": 89,
         "Rufflet": 28,
-        "Kabutops": 6,
+        "Kabutops": 7,
         "Dondozo": 86,
         "Pansear": 27,
         "Cutiefly": 21,
@@ -755,7 +755,7 @@
         "Parasect": 5,
         "Alolan muk": 2,
         "Iron boulder": 2,
-        "Haxorus": 5,
+        "Haxorus": 6,
         "Jynx": 10,
         "Golisopod": 7,
         "Greninja": 6,
@@ -921,7 +921,7 @@
         "Sableye": 4,
         "Wynaut": 6,
         "Hattrem": 13,
-        "Clefable": 4,
+        "Clefable": 5,
         "Serperior": 6,
         "Lycanroc": 12,
         "Kingdra": 7,
@@ -1066,8 +1066,8 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1
       },
-      "total_spawns": 22121,
-      "last_spawn": "2026-06-25T18:37:37.399410"
+      "total_spawns": 22126,
+      "last_spawn": "2026-06-25T18:38:11.974220"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1264,7 +1264,7 @@
     }
   },
   "global": {
-    "total_spawns": 26705,
+    "total_spawns": 26710,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
