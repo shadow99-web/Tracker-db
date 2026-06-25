@@ -74,7 +74,7 @@
         "Fomantis": 10,
         "Droopy tatsugiri": 36,
         "Froslass": 9,
-        "Tarountula": 77,
+        "Tarountula": 78,
         "Hatterene": 6,
         "Phantump": 28,
         "Duosion": 19,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 4,
         "Bulbasaur": 20,
-        "Roggenrola": 81,
+        "Roggenrola": 82,
         "Pidove": 81,
         "Dragapult": 8,
         "Rattata": 41,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 16,
-        "Rolycoly": 63,
+        "Rolycoly": 64,
         "Bronzor": 26,
         "Dartrix": 20,
         "Yellow flower florges": 3,
@@ -349,7 +349,7 @@
         "Wooper": 26,
         "Dwebble": 24,
         "Steenee": 22,
-        "Darumaka": 25,
+        "Darumaka": 26,
         "Arboliva": 6,
         "Ledyba": 22,
         "Spritzee": 19,
@@ -633,7 +633,7 @@
         "Lanturn": 4,
         "Cacnea": 12,
         "Pom-pom oricorio": 5,
-        "Hawlucha": 6,
+        "Hawlucha": 7,
         "Ursaring": 16,
         "Glalie": 4,
         "Latios": 1,
@@ -1043,8 +1043,8 @@
         "Hisuian sliggoo": 1,
         "Dragon silvally": 1
       },
-      "total_spawns": 17478,
-      "last_spawn": "2026-06-25T14:56:06.605102"
+      "total_spawns": 17483,
+      "last_spawn": "2026-06-25T14:56:11.749976"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1208,10 +1208,11 @@
         "Gumshoos": 1,
         "Cherubi": 1,
         "Sizzlipede": 1,
-        "Chimchar": 1
+        "Chimchar": 1,
+        "Trash wormadam": 1
       },
-      "total_spawns": 242,
-      "last_spawn": "2026-06-25T14:39:39.994326"
+      "total_spawns": 243,
+      "last_spawn": "2026-06-25T15:00:20.745428"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1221,7 +1222,7 @@
     }
   },
   "global": {
-    "total_spawns": 22007,
+    "total_spawns": 22013,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
