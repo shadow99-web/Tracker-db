@@ -115,7 +115,7 @@
         "Frigibax": 94,
         "Spheal": 122,
         "Swadloon": 29,
-        "Flittle": 88,
+        "Flittle": 89,
         "Unfezant": 11,
         "Yamask": 22,
         "Ralts": 85,
@@ -467,7 +467,7 @@
         "Wobbuffet": 5,
         "Roselia": 13,
         "Shelgon": 18,
-        "Buizel": 21,
+        "Buizel": 22,
         "Arctozolt": 8,
         "Snorunt": 20,
         "Bunnelby": 25,
@@ -549,7 +549,7 @@
         "Dragonair": 18,
         "Zweilous": 19,
         "Karrablast": 19,
-        "Shroomish": 26,
+        "Shroomish": 27,
         "Snover": 19,
         "Drednaw": 5,
         "Skarmory": 7,
@@ -727,7 +727,7 @@
         "Ariados": 4,
         "Volbeat": 8,
         "Burmy": 8,
-        "Popplio": 25,
+        "Popplio": 26,
         "Mandibuzz": 8,
         "Walrein": 8,
         "Cinccino": 8,
@@ -930,7 +930,7 @@
         "Delphox": 4,
         "Rampardos": 3,
         "Steelix": 5,
-        "Excadrill": 6,
+        "Excadrill": 7,
         "Druddigon": 6,
         "Honchkrow": 5,
         "Pyukumuku": 6,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22399,
-      "last_spawn": "2026-06-25T19:09:11.932160"
+      "total_spawns": 22404,
+      "last_spawn": "2026-06-25T19:09:47.303286"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26985,
+    "total_spawns": 26990,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
