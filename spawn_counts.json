@@ -18,7 +18,7 @@
         "Tranquill": 16,
         "Psyduck": 8,
         "Rockruff": 15,
-        "Haunter": 14,
+        "Haunter": 15,
         "Tangela": 18,
         "Orbeetle": 4,
         "Dedenne": 6,
@@ -407,7 +407,7 @@
         "Maschiff": 49,
         "Rufflet": 22,
         "Kabutops": 6,
-        "Dondozo": 48,
+        "Dondozo": 49,
         "Pansear": 18,
         "Cutiefly": 11,
         "Peakychu": 42,
@@ -566,7 +566,7 @@
         "Slowking": 8,
         "Lilligant": 6,
         "Rabsca": 10,
-        "Gulpin": 22,
+        "Gulpin": 23,
         "Crawdaunt": 5,
         "Magmortar": 2,
         "Palossand": 4,
@@ -749,7 +749,7 @@
         "Klefki": 5,
         "Frogadier": 16,
         "Dewpider": 10,
-        "Poltchageist": 4,
+        "Poltchageist": 5,
         "Incineroar": 4,
         "Morpeko": 9,
         "Parasect": 5,
@@ -977,7 +977,7 @@
         "Sandy shocks": 1,
         "Hoopa": 1,
         "Vanilla cream love sweet alcremie": 1,
-        "Mudsdale": 3,
+        "Mudsdale": 4,
         "Slaking": 1,
         "Munkidori": 1,
         "Wash rotom": 1,
@@ -1005,8 +1005,8 @@
         "Weezing": 1,
         "Pangoro": 1
       },
-      "total_spawns": 13168,
-      "last_spawn": "2026-06-25T12:07:27.188147"
+      "total_spawns": 13173,
+      "last_spawn": "2026-06-25T12:08:07.189359"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1173,7 +1173,7 @@
     }
   },
   "global": {
-    "total_spawns": 17664,
+    "total_spawns": 17669,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
