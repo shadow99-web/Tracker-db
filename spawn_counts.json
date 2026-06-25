@@ -24,11 +24,11 @@
         "Dedenne": 8,
         "Machop": 75,
         "Dudunsparce": 21,
-        "Gothita": 89,
+        "Gothita": 90,
         "Impidimp": 83,
         "Charmander": 46,
         "Morelull": 18,
-        "Abra": 96,
+        "Abra": 97,
         "Sandile": 103,
         "Sandygast": 30,
         "Litwick": 128,
@@ -62,7 +62,7 @@
         "Yanma": 22,
         "Larvesta": 39,
         "Beldum": 78,
-        "Ducklett": 22,
+        "Ducklett": 23,
         "Lokix": 28,
         "Glimmora": 31,
         "Starly": 102,
@@ -79,7 +79,7 @@
         "Phantump": 30,
         "Duosion": 26,
         "Amaura": 21,
-        "Gimmighoul": 95,
+        "Gimmighoul": 96,
         "Baltoy": 33,
         "Mareep": 105,
         "Garbodor": 5,
@@ -97,7 +97,7 @@
         "Kabuto": 27,
         "Scatterbug": 111,
         "Pumpkaboo": 24,
-        "Numel": 29,
+        "Numel": 30,
         "Carracosta": 6,
         "Smearguru": 75,
         "Veluza": 103,
@@ -162,7 +162,7 @@
         "Yamper": 25,
         "Tepig": 40,
         "Kirlia": 26,
-        "Piplup": 26,
+        "Piplup": 27,
         "Kakuna": 27,
         "Weepinbell": 24,
         "Klawf": 108,
@@ -282,7 +282,7 @@
         "Crocalor": 28,
         "Cryogonal": 9,
         "Eternatus": 1,
-        "Gholdengo": 24,
+        "Gholdengo": 25,
         "Charmeleon": 11,
         "Dipplin": 2,
         "Cramorant": 7,
@@ -296,7 +296,7 @@
         "Ferroseed": 26,
         "Brionne": 16,
         "Pancham": 24,
-        "Venipede": 117,
+        "Venipede": 118,
         "Cacturne": 6,
         "Oddish": 100,
         "Dragalge": 8,
@@ -305,7 +305,7 @@
         "Toxapex": 4,
         "Lileep": 20,
         "Rolycoly": 86,
-        "Bronzor": 28,
+        "Bronzor": 29,
         "Dartrix": 26,
         "Yellow flower florges": 3,
         "Zangoose": 7,
@@ -447,7 +447,7 @@
         "Raticate": 19,
         "Wugtrio": 21,
         "Bellibolt": 23,
-        "Morgrem": 15,
+        "Morgrem": 16,
         "Misdreavus": 23,
         "Seviper": 7,
         "Scovillain": 27,
@@ -651,7 +651,7 @@
         "Stretchy tatsugiri": 32,
         "Mareanie": 25,
         "Seadra": 15,
-        "Beheeyem": 5,
+        "Beheeyem": 6,
         "Pinsir": 11,
         "Mothim": 8,
         "Whirlipede": 21,
@@ -1063,8 +1063,8 @@
         "Unown b": 1,
         "Regigigas": 1
       },
-      "total_spawns": 21690,
-      "last_spawn": "2026-06-25T18:10:57.393518"
+      "total_spawns": 21701,
+      "last_spawn": "2026-06-25T18:11:31.428098"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1237,10 +1237,11 @@
         "Jumpluff": 1,
         "Rolycoly": 1,
         "Iron treads": 1,
-        "Politoed": 1
+        "Politoed": 1,
+        "Fraxure": 1
       },
-      "total_spawns": 266,
-      "last_spawn": "2026-06-25T18:09:37.807170"
+      "total_spawns": 267,
+      "last_spawn": "2026-06-25T18:11:08.107885"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1250,7 +1251,7 @@
     }
   },
   "global": {
-    "total_spawns": 26243,
+    "total_spawns": 26255,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
