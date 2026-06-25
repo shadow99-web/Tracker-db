@@ -95,7 +95,7 @@
         "Hoppip": 84,
         "Sandslash": 6,
         "Kabuto": 25,
-        "Scatterbug": 103,
+        "Scatterbug": 104,
         "Pumpkaboo": 22,
         "Numel": 29,
         "Carracosta": 5,
@@ -128,10 +128,10 @@
         "Clamperl": 27,
         "Zigzagoon": 33,
         "Weedle": 116,
-        "Flamigo": 85,
+        "Flamigo": 86,
         "Lillipup": 82,
         "Shinx": 104,
-        "Bounsweet": 74,
+        "Bounsweet": 75,
         "Noibat": 27,
         "Toxicroak": 8,
         "Charcadet": 104,
@@ -139,7 +139,7 @@
         "Phanpy": 13,
         "Brambleghast": 30,
         "Pidgey": 113,
-        "Rhyhorn": 91,
+        "Rhyhorn": 92,
         "Sentret": 25,
         "Yungoos": 19,
         "Diglett": 34,
@@ -243,7 +243,7 @@
         "Shroodle": 93,
         "Duskull": 105,
         "Bergmite": 21,
-        "Pignite": 21,
+        "Pignite": 22,
         "Lurantis": 2,
         "Swampert": 8,
         "Dachsbun": 23,
@@ -463,7 +463,7 @@
         "Herdier": 35,
         "Pineco": 19,
         "Chikorita": 28,
-        "Woobat": 20,
+        "Woobat": 21,
         "Wobbuffet": 4,
         "Roselia": 13,
         "Shelgon": 17,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19921,
-      "last_spawn": "2026-06-25T16:22:47.505969"
+      "total_spawns": 19927,
+      "last_spawn": "2026-06-25T16:23:27.300584"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24468,
+    "total_spawns": 24474,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
