@@ -19,7 +19,7 @@
         "Psyduck": 13,
         "Rockruff": 22,
         "Haunter": 21,
-        "Tangela": 26,
+        "Tangela": 27,
         "Orbeetle": 4,
         "Dedenne": 8,
         "Machop": 71,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 42,
         "Togetic": 26,
         "Palpitoad": 17,
-        "Pikipek": 104,
+        "Pikipek": 105,
         "Teddiursa": 87,
         "Clamperl": 27,
         "Zigzagoon": 33,
@@ -134,12 +134,12 @@
         "Bounsweet": 75,
         "Noibat": 27,
         "Toxicroak": 8,
-        "Charcadet": 104,
+        "Charcadet": 105,
         "Croconaw": 22,
         "Phanpy": 13,
         "Brambleghast": 30,
         "Pidgey": 113,
-        "Rhyhorn": 92,
+        "Rhyhorn": 93,
         "Sentret": 25,
         "Yungoos": 19,
         "Diglett": 34,
@@ -328,7 +328,7 @@
         "Tinkaton": 6,
         "Corviknight": 10,
         "Froakie": 27,
-        "Nymble": 85,
+        "Nymble": 86,
         "Ferrothorn": 3,
         "Servine": 19,
         "Blitzle": 24,
@@ -780,7 +780,7 @@
         "Whimsicott": 6,
         "Wishiwashi": 9,
         "Cofagrigus": 5,
-        "Camerupt": 8,
+        "Camerupt": 9,
         "Castform": 11,
         "Weavile": 1,
         "Gorging cramorant": 1,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19941,
-      "last_spawn": "2026-06-25T16:25:07.870510"
+      "total_spawns": 19947,
+      "last_spawn": "2026-06-25T16:25:47.452730"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24489,
+    "total_spawns": 24495,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
