@@ -1062,7 +1062,7 @@
         "Charcadet": 1,
         "Furfrou": 1,
         "Slaking": 1,
-        "Flittle": 2,
+        "Flittle": 3,
         "Salazzle": 1,
         "Skitty": 1,
         "Fletchling": 1,
@@ -1121,10 +1121,11 @@
         "Doublade": 1,
         "Quilava": 1,
         "Tarountula": 1,
-        "Dottler": 1
+        "Dottler": 1,
+        "Paras": 1
       },
-      "total_spawns": 143,
-      "last_spawn": "2026-06-25T04:25:00.332110"
+      "total_spawns": 145,
+      "last_spawn": "2026-06-25T04:30:51.012133"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1134,7 +1135,7 @@
     }
   },
   "global": {
-    "total_spawns": 17423,
+    "total_spawns": 17425,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
