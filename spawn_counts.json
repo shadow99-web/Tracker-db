@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 35,
+        "Chimchar": 36,
         "Patrat": 27,
         "Mosslax": 58,
         "Drilbur": 23,
@@ -11,7 +11,7 @@
         "Electabuzz": 16,
         "Rellor": 84,
         "Sandy burmy": 13,
-        "Wiglett": 92,
+        "Wiglett": 93,
         "Bombirdier": 85,
         "Litleo": 21,
         "Purrloin": 15,
@@ -39,7 +39,7 @@
         "Lotad": 119,
         "Qwilfish": 8,
         "Trapinch": 98,
-        "Toedscool": 81,
+        "Toedscool": 82,
         "Fletchling": 89,
         "Skiploom": 26,
         "Timburr": 104,
@@ -81,13 +81,13 @@
         "Amaura": 20,
         "Gimmighoul": 89,
         "Baltoy": 32,
-        "Mareep": 98,
+        "Mareep": 99,
         "Garbodor": 4,
         "Slakoth": 102,
         "Togepi": 83,
         "Falinks": 7,
         "Tropius": 5,
-        "Poliwag": 93,
+        "Poliwag": 94,
         "Metang": 12,
         "Riolu": 24,
         "Exeggcute": 22,
@@ -113,9 +113,9 @@
         "Bonsly": 4,
         "Horsea": 93,
         "Frigibax": 88,
-        "Spheal": 118,
+        "Spheal": 119,
         "Swadloon": 26,
-        "Flittle": 80,
+        "Flittle": 81,
         "Unfezant": 10,
         "Yamask": 20,
         "Ralts": 79,
@@ -165,7 +165,7 @@
         "Piplup": 25,
         "Kakuna": 27,
         "Weepinbell": 23,
-        "Klawf": 106,
+        "Klawf": 107,
         "Vanillite": 82,
         "Flareon": 9,
         "Gastly": 77,
@@ -214,7 +214,7 @@
         "Noivern": 2,
         "Feraligatr": 5,
         "Tynamo": 104,
-        "Orthworm": 89,
+        "Orthworm": 90,
         "Marill": 27,
         "Joltik": 29,
         "Politoed": 5,
@@ -224,7 +224,7 @@
         "Magmar": 22,
         "Rillaboom": 11,
         "Ninetales": 9,
-        "Wattrel": 97,
+        "Wattrel": 98,
         "Snubbull": 21,
         "Spidops": 23,
         "Braixen": 25,
@@ -339,7 +339,7 @@
         "Staryu": 16,
         "Samurott": 4,
         "Torchic": 41,
-        "Sobble": 31,
+        "Sobble": 32,
         "Mudkip": 30,
         "Charjabug": 21,
         "Capsakid": 73,
@@ -578,7 +578,7 @@
         "Scorbunny": 26,
         "Huntail": 9,
         "Galarian meowth": 1,
-        "Spoink": 16,
+        "Spoink": 17,
         "Scyther": 26,
         "Anorith": 28,
         "Meowth": 15,
@@ -1057,10 +1057,11 @@
         "Iron bundle": 1,
         "Regieleki": 1,
         "Heliolisk": 1,
-        "Hisuian qwilfish": 1
+        "Hisuian qwilfish": 1,
+        "Obstagoon": 1
       },
-      "total_spawns": 20574,
-      "last_spawn": "2026-06-25T16:57:55.874691"
+      "total_spawns": 20587,
+      "last_spawn": "2026-06-25T16:58:27.554851"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1243,7 +1244,7 @@
     }
   },
   "global": {
-    "total_spawns": 25122,
+    "total_spawns": 25135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
