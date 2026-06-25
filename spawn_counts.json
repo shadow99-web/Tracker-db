@@ -46,7 +46,7 @@
         "Dj rotom": 86,
         "Surskit": 30,
         "Seedot": 76,
-        "Skitty": 22,
+        "Skitty": 23,
         "Greavard": 93,
         "Slugma": 32,
         "Grotle": 17,
@@ -65,7 +65,7 @@
         "Ducklett": 20,
         "Lokix": 24,
         "Glimmora": 29,
-        "Starly": 98,
+        "Starly": 99,
         "Tandemaus": 75,
         "Smoliv": 94,
         "Gloom": 25,
@@ -95,7 +95,7 @@
         "Hoppip": 84,
         "Sandslash": 6,
         "Kabuto": 25,
-        "Scatterbug": 104,
+        "Scatterbug": 105,
         "Pumpkaboo": 22,
         "Numel": 29,
         "Carracosta": 5,
@@ -130,7 +130,7 @@
         "Weedle": 116,
         "Flamigo": 88,
         "Lillipup": 83,
-        "Shinx": 104,
+        "Shinx": 105,
         "Bounsweet": 75,
         "Noibat": 27,
         "Toxicroak": 8,
@@ -751,7 +751,7 @@
         "Dewpider": 17,
         "Poltchageist": 8,
         "Incineroar": 7,
-        "Morpeko": 11,
+        "Morpeko": 12,
         "Parasect": 5,
         "Alolan muk": 2,
         "Iron boulder": 2,
@@ -995,7 +995,7 @@
         "Ledian": 5,
         "Cherrim": 3,
         "Blade aegislash": 2,
-        "Miltank": 1,
+        "Miltank": 2,
         "Tyranitar": 3,
         "Inteleon": 4,
         "Rotom drone": 2,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19974,
-      "last_spawn": "2026-06-25T16:28:47.301869"
+      "total_spawns": 19980,
+      "last_spawn": "2026-06-25T16:29:27.059249"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24522,
+    "total_spawns": 24528,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
