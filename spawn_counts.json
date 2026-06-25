@@ -29,14 +29,14 @@
         "Charmander": 44,
         "Morelull": 17,
         "Abra": 92,
-        "Sandile": 97,
+        "Sandile": 98,
         "Sandygast": 26,
         "Litwick": 122,
         "Grubbin": 81,
         "Escavalier": 9,
         "Dratini": 66,
         "Kilowattrel": 25,
-        "Lotad": 120,
+        "Lotad": 121,
         "Qwilfish": 8,
         "Trapinch": 99,
         "Toedscool": 83,
@@ -45,7 +45,7 @@
         "Timburr": 105,
         "Dj rotom": 91,
         "Surskit": 30,
-        "Seedot": 80,
+        "Seedot": 81,
         "Skitty": 24,
         "Greavard": 98,
         "Slugma": 33,
@@ -323,7 +323,7 @@
         "Oshawott": 30,
         "Murkrow": 26,
         "Bellsprout": 113,
-        "Mudbray": 25,
+        "Mudbray": 26,
         "Dreepy": 87,
         "Tinkaton": 7,
         "Corviknight": 10,
@@ -464,7 +464,7 @@
         "Pineco": 20,
         "Chikorita": 28,
         "Woobat": 22,
-        "Wobbuffet": 4,
+        "Wobbuffet": 5,
         "Roselia": 13,
         "Shelgon": 18,
         "Buizel": 21,
@@ -839,7 +839,7 @@
         "Klang": 20,
         "Manectric": 4,
         "Gallade": 7,
-        "Family of three maushold": 2,
+        "Family of three maushold": 3,
         "Lunatone": 6,
         "Exeggutor": 2,
         "Granbull": 4,
@@ -954,7 +954,7 @@
         "Pichu": 2,
         "Carnivine": 7,
         "Goodra": 4,
-        "Aurorus": 3,
+        "Aurorus": 4,
         "Florges": 1,
         "Dandy trim furfrou": 2,
         "Rapidash": 4,
@@ -1061,8 +1061,8 @@
         "Obstagoon": 1,
         "Hisuian sneasel": 1
       },
-      "total_spawns": 20755,
-      "last_spawn": "2026-06-25T17:21:37.201905"
+      "total_spawns": 20762,
+      "last_spawn": "2026-06-25T17:22:11.996839"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1245,7 +1245,7 @@
     }
   },
   "global": {
-    "total_spawns": 25303,
+    "total_spawns": 25310,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
