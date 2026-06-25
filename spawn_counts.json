@@ -58,7 +58,7 @@
         "Whismur": 89,
         "Monferno": 23,
         "Skwovet": 25,
-        "Bramblin": 103,
+        "Bramblin": 104,
         "Yanma": 19,
         "Larvesta": 36,
         "Beldum": 72,
@@ -224,7 +224,7 @@
         "Magmar": 22,
         "Rillaboom": 11,
         "Ninetales": 9,
-        "Wattrel": 94,
+        "Wattrel": 96,
         "Snubbull": 21,
         "Spidops": 23,
         "Braixen": 24,
@@ -467,7 +467,7 @@
         "Wobbuffet": 4,
         "Roselia": 13,
         "Shelgon": 17,
-        "Buizel": 20,
+        "Buizel": 21,
         "Arctozolt": 8,
         "Snorunt": 19,
         "Bunnelby": 22,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19980,
-      "last_spawn": "2026-06-25T16:29:27.059249"
+      "total_spawns": 19984,
+      "last_spawn": "2026-06-25T16:30:00.051242"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24528,
+    "total_spawns": 24532,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
