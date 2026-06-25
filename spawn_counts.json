@@ -9,7 +9,7 @@
         "Drilbur": 23,
         "Pawmi": 85,
         "Electabuzz": 16,
-        "Rellor": 82,
+        "Rellor": 83,
         "Sandy burmy": 13,
         "Wiglett": 89,
         "Bombirdier": 82,
@@ -112,7 +112,7 @@
         "Sneasel": 23,
         "Bonsly": 4,
         "Horsea": 89,
-        "Frigibax": 85,
+        "Frigibax": 86,
         "Spheal": 114,
         "Swadloon": 26,
         "Flittle": 75,
@@ -405,7 +405,7 @@
         "Electrike": 22,
         "Drampa": 5,
         "Maschiff": 81,
-        "Rufflet": 26,
+        "Rufflet": 27,
         "Kabutops": 6,
         "Dondozo": 77,
         "Pansear": 25,
@@ -658,7 +658,7 @@
         "Absol": 4,
         "Annihilape": 9,
         "Bouffalant": 8,
-        "Crabrawler": 21,
+        "Crabrawler": 22,
         "Budew": 5,
         "Espathra": 19,
         "Vileplume": 6,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19999,
-      "last_spawn": "2026-06-25T16:31:37.111538"
+      "total_spawns": 20003,
+      "last_spawn": "2026-06-25T16:32:07.234413"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24547,
+    "total_spawns": 24551,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
