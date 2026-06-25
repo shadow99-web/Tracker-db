@@ -113,7 +113,7 @@
         "Bonsly": 4,
         "Horsea": 89,
         "Frigibax": 85,
-        "Spheal": 113,
+        "Spheal": 114,
         "Swadloon": 26,
         "Flittle": 75,
         "Unfezant": 10,
@@ -129,7 +129,7 @@
         "Zigzagoon": 33,
         "Weedle": 116,
         "Flamigo": 88,
-        "Lillipup": 82,
+        "Lillipup": 83,
         "Shinx": 104,
         "Bounsweet": 75,
         "Noibat": 27,
@@ -205,7 +205,7 @@
         "Totodile": 30,
         "Dodrio": 8,
         "Cufant": 28,
-        "Tympole": 87,
+        "Tympole": 88,
         "Swellow": 7,
         "Aipom": 27,
         "Growlithe": 15,
@@ -437,7 +437,7 @@
         "Paldean wooper": 6,
         "Salandit": 20,
         "School wishiwashi": 5,
-        "Snivy": 27,
+        "Snivy": 28,
         "Wyrdeer": 6,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -467,7 +467,7 @@
         "Wobbuffet": 4,
         "Roselia": 13,
         "Shelgon": 17,
-        "Buizel": 19,
+        "Buizel": 20,
         "Arctozolt": 8,
         "Snorunt": 19,
         "Bunnelby": 22,
@@ -1054,8 +1054,8 @@
         "Alolan persian": 1,
         "Attack deoxys": 1
       },
-      "total_spawns": 19957,
-      "last_spawn": "2026-06-25T16:26:51.850122"
+      "total_spawns": 19962,
+      "last_spawn": "2026-06-25T16:27:27.441402"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1238,7 +1238,7 @@
     }
   },
   "global": {
-    "total_spawns": 24505,
+    "total_spawns": 24510,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
