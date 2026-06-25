@@ -1046,7 +1046,7 @@
         "Tandemaus": 1,
         "Smearguru": 2,
         "Magnemite": 2,
-        "Teddiursa": 1,
+        "Teddiursa": 2,
         "Houndoom": 1,
         "Torracat": 1,
         "Donphan": 2,
@@ -1074,7 +1074,7 @@
         "Blue plumage squawkabilly": 1,
         "Bergmite": 1,
         "Lairon": 1,
-        "Impidimp": 1,
+        "Impidimp": 2,
         "Solosis": 1,
         "Brambleghast": 1,
         "Rellor": 1,
@@ -1140,10 +1140,11 @@
         "Frost rotom": 1,
         "Cubchoo": 1,
         "Abra": 1,
-        "Banette": 1
+        "Banette": 1,
+        "Mr. mime": 1
       },
-      "total_spawns": 177,
-      "last_spawn": "2026-06-25T07:45:17.751366"
+      "total_spawns": 180,
+      "last_spawn": "2026-06-25T07:46:07.659142"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1153,7 +1154,7 @@
     }
   },
   "global": {
-    "total_spawns": 17457,
+    "total_spawns": 17460,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
