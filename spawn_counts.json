@@ -44,7 +44,7 @@
         "Skiploom": 28,
         "Timburr": 114,
         "Dj rotom": 93,
-        "Surskit": 31,
+        "Surskit": 32,
         "Seedot": 86,
         "Skitty": 25,
         "Greavard": 102,
@@ -152,7 +152,7 @@
         "Roggenrola": 101,
         "Pidove": 96,
         "Dragapult": 11,
-        "Rattata": 57,
+        "Rattata": 58,
         "Flapple": 11,
         "Aron": 105,
         "Boldore": 24,
@@ -261,7 +261,7 @@
         "Gligar": 31,
         "Tirtouga": 29,
         "Furret": 5,
-        "Nincada": 40,
+        "Nincada": 41,
         "Fennekin": 39,
         "Quaxwell": 17,
         "Vibrava": 31,
@@ -298,7 +298,7 @@
         "Pancham": 25,
         "Venipede": 118,
         "Cacturne": 6,
-        "Oddish": 103,
+        "Oddish": 104,
         "Dragalge": 8,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -331,7 +331,7 @@
         "Nymble": 91,
         "Ferrothorn": 4,
         "Servine": 25,
-        "Blitzle": 24,
+        "Blitzle": 25,
         "Musharna": 4,
         "Bisharp": 10,
         "Chespin": 29,
@@ -380,7 +380,7 @@
         "Remoraid": 22,
         "Torracat": 22,
         "Hisuian zorua": 1,
-        "Wooloo": 20,
+        "Wooloo": 21,
         "Drifloon": 21,
         "Golbat": 24,
         "Swablu": 22,
@@ -598,7 +598,7 @@
         "Cetoddle": 94,
         "Kricketot": 22,
         "Porygon-z": 4,
-        "Conkeldurr": 6,
+        "Conkeldurr": 7,
         "Walking wake": 2,
         "Yellow flower floette": 6,
         "Medicham": 5,
@@ -663,7 +663,7 @@
         "Espathra": 20,
         "Vileplume": 6,
         "Kecleon": 5,
-        "Sizzlipede": 17,
+        "Sizzlipede": 18,
         "White flower floette": 6,
         "Skeledirge": 12,
         "Amoonguss": 7,
@@ -755,7 +755,7 @@
         "Parasect": 5,
         "Alolan muk": 2,
         "Iron boulder": 2,
-        "Haxorus": 4,
+        "Haxorus": 5,
         "Jynx": 10,
         "Golisopod": 7,
         "Greninja": 6,
@@ -878,7 +878,7 @@
         "Machamp": 8,
         "Altaria": 7,
         "Purugly": 6,
-        "Seaking": 5,
+        "Seaking": 6,
         "High plain vivillon": 1,
         "Urshifu": 1,
         "Swalot": 4,
@@ -987,7 +987,7 @@
         "Koraidon": 1,
         "Polteageist": 3,
         "Slither wing": 1,
-        "Diggersby": 7,
+        "Diggersby": 8,
         "Hisuian voltorb": 3,
         "Pachirisu": 4,
         "Unown p": 1,
@@ -1064,8 +1064,8 @@
         "Regigigas": 1,
         "Dialga": 1
       },
-      "total_spawns": 21876,
-      "last_spawn": "2026-06-25T18:19:57.941122"
+      "total_spawns": 21887,
+      "last_spawn": "2026-06-25T18:20:31.596045"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1118,7 +1118,7 @@
         "Seismitoad": 1,
         "Frigibax": 2,
         "Meowth": 1,
-        "Dj rotom": 2,
+        "Dj rotom": 3,
         "Prof tangrowth": 2,
         "Charcadet": 3,
         "Furfrou": 1,
@@ -1244,8 +1244,8 @@
         "Golisopod": 1,
         "Beheeyem": 1
       },
-      "total_spawns": 277,
-      "last_spawn": "2026-06-25T18:19:39.620129"
+      "total_spawns": 278,
+      "last_spawn": "2026-06-25T18:20:08.069559"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1255,7 +1255,7 @@
     }
   },
   "global": {
-    "total_spawns": 26440,
+    "total_spawns": 26452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
