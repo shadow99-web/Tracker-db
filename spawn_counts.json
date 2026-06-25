@@ -118,7 +118,7 @@
         "Flittle": 88,
         "Unfezant": 11,
         "Yamask": 22,
-        "Ralts": 84,
+        "Ralts": 85,
         "Solosis": 89,
         "Battle cyclizar": 47,
         "Togetic": 35,
@@ -280,7 +280,7 @@
         "Galarian slowpoke": 2,
         "Poliwhirl": 26,
         "Crocalor": 29,
-        "Cryogonal": 9,
+        "Cryogonal": 10,
         "Eternatus": 1,
         "Gholdengo": 25,
         "Charmeleon": 11,
@@ -296,14 +296,14 @@
         "Ferroseed": 26,
         "Brionne": 17,
         "Pancham": 25,
-        "Venipede": 119,
+        "Venipede": 120,
         "Cacturne": 6,
         "Oddish": 105,
         "Dragalge": 8,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
         "Toxapex": 4,
-        "Lileep": 22,
+        "Lileep": 23,
         "Rolycoly": 91,
         "Bronzor": 30,
         "Dartrix": 27,
@@ -339,7 +339,7 @@
         "Staryu": 18,
         "Samurott": 5,
         "Torchic": 43,
-        "Sobble": 32,
+        "Sobble": 33,
         "Mudkip": 31,
         "Charjabug": 22,
         "Capsakid": 85,
@@ -1067,8 +1067,8 @@
         "Iron hands": 1,
         "Debutante trim furfrou": 1
       },
-      "total_spawns": 22337,
-      "last_spawn": "2026-06-25T19:02:07.116522"
+      "total_spawns": 22342,
+      "last_spawn": "2026-06-25T19:02:37.745575"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1265,7 +1265,7 @@
     }
   },
   "global": {
-    "total_spawns": 26923,
+    "total_spawns": 26928,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
