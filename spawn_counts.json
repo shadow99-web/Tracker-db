@@ -47,7 +47,7 @@
         "Surskit": 30,
         "Seedot": 76,
         "Skitty": 23,
-        "Greavard": 94,
+        "Greavard": 95,
         "Slugma": 32,
         "Grotle": 17,
         "Porygon": 106,
@@ -176,7 +176,7 @@
         "Rookidee": 61,
         "Minccino": 33,
         "Wurmple": 83,
-        "Binacle": 27,
+        "Binacle": 28,
         "Grafaiai": 16,
         "Quilladin": 15,
         "Geodude": 102,
@@ -477,7 +477,7 @@
         "Shelmet": 27,
         "Solrock": 7,
         "Slowpoke": 26,
-        "Dolliv": 21,
+        "Dolliv": 22,
         "Infernape": 5,
         "Carkol": 17,
         "Magikarp": 16,
@@ -628,7 +628,7 @@
         "Tatsugiri": 31,
         "Nidorino": 21,
         "Wailmer": 24,
-        "Krabby": 24,
+        "Krabby": 25,
         "Bronzong": 7,
         "Lanturn": 4,
         "Cacnea": 14,
@@ -1055,8 +1055,8 @@
         "Attack deoxys": 1,
         "Alolan geodude": 1
       },
-      "total_spawns": 20069,
-      "last_spawn": "2026-06-25T16:39:47.207216"
+      "total_spawns": 20073,
+      "last_spawn": "2026-06-25T16:40:27.062663"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1239,7 +1239,7 @@
     }
   },
   "global": {
-    "total_spawns": 24617,
+    "total_spawns": 24621,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
