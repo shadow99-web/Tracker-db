@@ -49,9 +49,9 @@
         "Skitty": 24,
         "Greavard": 99,
         "Slugma": 34,
-        "Grotle": 18,
+        "Grotle": 19,
         "Porygon": 110,
-        "Zubat": 113,
+        "Zubat": 114,
         "Vanillish": 28,
         "Tadbulb": 106,
         "Magnemite": 100,
@@ -115,7 +115,7 @@
         "Frigibax": 89,
         "Spheal": 121,
         "Swadloon": 26,
-        "Flittle": 82,
+        "Flittle": 83,
         "Unfezant": 10,
         "Yamask": 20,
         "Ralts": 81,
@@ -140,7 +140,7 @@
         "Brambleghast": 32,
         "Pidgey": 121,
         "Rhyhorn": 97,
-        "Sentret": 25,
+        "Sentret": 26,
         "Yungoos": 20,
         "Diglett": 34,
         "Doduo": 27,
@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 53,
         "Flapple": 11,
-        "Aron": 96,
+        "Aron": 97,
         "Boldore": 24,
         "Spinarak": 30,
         "Delcatty": 6,
@@ -232,7 +232,7 @@
         "Blipbug": 91,
         "Lampent": 29,
         "Petilil": 25,
-        "Marshtomp": 23,
+        "Marshtomp": 24,
         "Eiscue": 8,
         "Summer deerling": 23,
         "Clauncher": 27,
@@ -316,7 +316,7 @@
         "Munna": 21,
         "Pawniard": 22,
         "Prof tangrowth": 71,
-        "Jangmo-o": 46,
+        "Jangmo-o": 47,
         "Trash wormadam": 7,
         "Quaxly": 35,
         "Gossifleur": 27,
@@ -433,7 +433,7 @@
         "Feebas": 19,
         "Buneary": 25,
         "Zebstrika": 9,
-        "Shuppet": 25,
+        "Shuppet": 26,
         "Paldean wooper": 6,
         "Salandit": 21,
         "School wishiwashi": 5,
@@ -649,7 +649,7 @@
         "Shiftry": 3,
         "Arbok": 5,
         "Stretchy tatsugiri": 30,
-        "Mareanie": 22,
+        "Mareanie": 23,
         "Seadra": 14,
         "Beheeyem": 5,
         "Pinsir": 11,
@@ -686,7 +686,7 @@
         "Butterfree": 4,
         "Koffing": 27,
         "Floragato": 11,
-        "Seel": 24,
+        "Seel": 25,
         "Shiinotic": 5,
         "Gumshoos": 4,
         "Pyroar": 8,
@@ -1062,8 +1062,8 @@
         "Hisuian sneasel": 1,
         "Unown b": 1
       },
-      "total_spawns": 21038,
-      "last_spawn": "2026-06-25T17:39:31.732019"
+      "total_spawns": 21048,
+      "last_spawn": "2026-06-25T17:40:02.568678"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1246,7 +1246,7 @@
     }
   },
   "global": {
-    "total_spawns": 25586,
+    "total_spawns": 25596,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
