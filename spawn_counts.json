@@ -22,7 +22,7 @@
         "Tangela": 30,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 84,
+        "Machop": 85,
         "Dudunsparce": 21,
         "Gothita": 101,
         "Impidimp": 94,
@@ -268,7 +268,7 @@
         "Loudred": 35,
         "Ceruledge": 31,
         "Houndour": 27,
-        "Glimmet": 113,
+        "Glimmet": 114,
         "Goomy": 67,
         "Zapdos": 1,
         "Natu": 22,
@@ -405,7 +405,7 @@
         "Electrike": 27,
         "Drampa": 6,
         "Maschiff": 96,
-        "Rufflet": 29,
+        "Rufflet": 30,
         "Kabutops": 7,
         "Dondozo": 98,
         "Pansear": 28,
@@ -592,7 +592,7 @@
         "Darmanitan": 8,
         "Rainy castform": 6,
         "Galarian darumaka": 1,
-        "Mienfoo": 23,
+        "Mienfoo": 24,
         "Dewgong": 8,
         "Wartortle": 22,
         "Cetoddle": 102,
@@ -1003,7 +1003,7 @@
         "Iron valiant": 1,
         "Beartic": 4,
         "Weezing": 2,
-        "Pangoro": 1,
+        "Pangoro": 2,
         "Garchomp": 3,
         "Hangry morpeko": 1,
         "Mow rotom": 2,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23791,
-      "last_spawn": "2026-06-26T16:11:51.807066"
+      "total_spawns": 23796,
+      "last_spawn": "2026-06-26T16:12:27.423079"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28404,
+    "total_spawns": 28409,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
