@@ -112,8 +112,8 @@
         "Sneasel": 26,
         "Bonsly": 5,
         "Horsea": 104,
-        "Frigibax": 99,
-        "Spheal": 123,
+        "Frigibax": 100,
+        "Spheal": 124,
         "Swadloon": 32,
         "Flittle": 91,
         "Unfezant": 11,
@@ -134,7 +134,7 @@
         "Bounsweet": 92,
         "Noibat": 27,
         "Toxicroak": 8,
-        "Charcadet": 122,
+        "Charcadet": 123,
         "Croconaw": 26,
         "Phanpy": 16,
         "Brambleghast": 35,
@@ -241,7 +241,7 @@
         "Galvantula": 7,
         "Chansey": 17,
         "Shroodle": 112,
-        "Duskull": 121,
+        "Duskull": 122,
         "Bergmite": 25,
         "Pignite": 26,
         "Lurantis": 3,
@@ -315,7 +315,7 @@
         "Nacli": 84,
         "Munna": 23,
         "Pawniard": 22,
-        "Prof tangrowth": 80,
+        "Prof tangrowth": 81,
         "Jangmo-o": 51,
         "Trash wormadam": 9,
         "Quaxly": 40,
@@ -1014,7 +1014,7 @@
         "Blue flower florges": 1,
         "Zygarde": 1,
         "Galarian slowking": 1,
-        "Sceptile": 2,
+        "Sceptile": 3,
         "Vanilla cream berry sweet alcremie": 1,
         "Gyarados": 5,
         "Mightyena": 1,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23535,
-      "last_spawn": "2026-06-26T15:43:27.397226"
+      "total_spawns": 23541,
+      "last_spawn": "2026-06-26T15:44:07.196187"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28145,
+    "total_spawns": 28151,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
