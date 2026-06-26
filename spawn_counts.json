@@ -103,7 +103,7 @@
         "Veluza": 116,
         "Barboach": 41,
         "Klink": 83,
-        "Honedge": 110,
+        "Honedge": 111,
         "Wingull": 32,
         "Salamence": 3,
         "Drakloak": 23,
@@ -259,7 +259,7 @@
         "Cetitan": 26,
         "Cubone": 27,
         "Gligar": 35,
-        "Tirtouga": 30,
+        "Tirtouga": 31,
         "Furret": 6,
         "Nincada": 42,
         "Fennekin": 40,
@@ -383,7 +383,7 @@
         "Wooloo": 22,
         "Drifloon": 24,
         "Golbat": 27,
-        "Swablu": 25,
+        "Swablu": 26,
         "Shellder": 27,
         "Crobat": 11,
         "Sandshrew": 28,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 36,
         "Gothorita": 27,
         "Varoom": 110,
-        "Yellow plumage squawkabilly": 27,
+        "Yellow plumage squawkabilly": 28,
         "Centiskorch": 9,
         "Low key toxtricity": 5,
         "Grapploct": 4,
@@ -635,7 +635,7 @@
         "Pom-pom oricorio": 7,
         "Hawlucha": 8,
         "Ursaring": 23,
-        "Glalie": 5,
+        "Glalie": 6,
         "Latios": 1,
         "Silicobra": 23,
         "Snom": 17,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23817,
-      "last_spawn": "2026-06-26T16:14:47.403254"
+      "total_spawns": 23822,
+      "last_spawn": "2026-06-26T16:15:27.101588"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28430,
+    "total_spawns": 28435,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
