@@ -38,7 +38,7 @@
         "Kilowattrel": 25,
         "Lotad": 133,
         "Qwilfish": 8,
-        "Trapinch": 116,
+        "Trapinch": 117,
         "Toedscool": 93,
         "Fletchling": 95,
         "Skiploom": 29,
@@ -61,7 +61,7 @@
         "Bramblin": 116,
         "Yanma": 22,
         "Larvesta": 40,
-        "Beldum": 80,
+        "Beldum": 81,
         "Ducklett": 24,
         "Lokix": 28,
         "Glimmora": 33,
@@ -84,7 +84,7 @@
         "Mareep": 112,
         "Garbodor": 6,
         "Slakoth": 111,
-        "Togepi": 92,
+        "Togepi": 93,
         "Falinks": 7,
         "Tropius": 5,
         "Poliwag": 101,
@@ -376,7 +376,7 @@
         "Spiky-eared pichu": 3,
         "Magearna": 1,
         "Mabosstiff": 26,
-        "Squirtle": 39,
+        "Squirtle": 40,
         "Remoraid": 22,
         "Torracat": 23,
         "Hisuian zorua": 1,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 22,
         "Wailord": 6,
-        "Makuhita": 29,
+        "Makuhita": 30,
         "Lombre": 25,
         "Ursaluna": 9,
         "Furfrou": 7,
@@ -832,7 +832,7 @@
         "Lickilicky": 8,
         "Dragonite": 3,
         "High-speed flight configuration genesect": 1,
-        "Mantyke": 5,
+        "Mantyke": 6,
         "Arctovish": 9,
         "Ribombee": 4,
         "Alolan meowth": 1,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 1
       },
-      "total_spawns": 22728,
-      "last_spawn": "2026-06-26T11:32:41.804581"
+      "total_spawns": 22734,
+      "last_spawn": "2026-06-26T11:33:11.974891"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27335,
+    "total_spawns": 27341,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
