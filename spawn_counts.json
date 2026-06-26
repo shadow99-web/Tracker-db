@@ -112,7 +112,7 @@
         "Sneasel": 26,
         "Bonsly": 5,
         "Horsea": 103,
-        "Frigibax": 97,
+        "Frigibax": 98,
         "Spheal": 123,
         "Swadloon": 30,
         "Flittle": 90,
@@ -194,7 +194,7 @@
         "Pidgeotto": 33,
         "Spearow": 36,
         "Helioptile": 23,
-        "Hoothoot": 33,
+        "Hoothoot": 34,
         "Grookey": 31,
         "Meditite": 18,
         "Toedscruel": 32,
@@ -205,7 +205,7 @@
         "Totodile": 37,
         "Dodrio": 8,
         "Cufant": 33,
-        "Tympole": 105,
+        "Tympole": 106,
         "Swellow": 8,
         "Aipom": 29,
         "Growlithe": 18,
@@ -213,7 +213,7 @@
         "Fidough": 68,
         "Noivern": 4,
         "Feraligatr": 6,
-        "Tynamo": 114,
+        "Tynamo": 115,
         "Orthworm": 101,
         "Marill": 27,
         "Joltik": 33,
@@ -421,7 +421,7 @@
         "Delibird": 10,
         "Ride cyclizar": 36,
         "Gothorita": 27,
-        "Varoom": 103,
+        "Varoom": 104,
         "Yellow plumage squawkabilly": 27,
         "Centiskorch": 9,
         "Low key toxtricity": 5,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23063,
-      "last_spawn": "2026-06-26T12:10:32.179295"
+      "total_spawns": 23068,
+      "last_spawn": "2026-06-26T12:11:07.407284"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27671,
+    "total_spawns": 27676,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
