@@ -71,7 +71,7 @@
         "Gloom": 26,
         "Clefairy": 25,
         "Spinda": 7,
-        "Fomantis": 14,
+        "Fomantis": 15,
         "Droopy tatsugiri": 44,
         "Froslass": 10,
         "Tarountula": 105,
@@ -166,7 +166,7 @@
         "Kakuna": 30,
         "Weepinbell": 26,
         "Klawf": 121,
-        "Vanillite": 96,
+        "Vanillite": 97,
         "Flareon": 9,
         "Gastly": 91,
         "Taillow": 25,
@@ -249,7 +249,7 @@
         "Dachsbun": 26,
         "Turtwig": 27,
         "Prinplup": 24,
-        "Tinkatink": 109,
+        "Tinkatink": 110,
         "Lechonk": 110,
         "Kommo-o": 2,
         "Dewott": 26,
@@ -459,7 +459,7 @@
         "Cherubi": 24,
         "Cradily": 10,
         "Vulpix": 24,
-        "Paras": 29,
+        "Paras": 30,
         "Herdier": 42,
         "Pineco": 24,
         "Chikorita": 33,
@@ -555,7 +555,7 @@
         "Skarmory": 7,
         "Midnight lycanroc": 7,
         "Eelektross": 9,
-        "Araquanid": 7,
+        "Araquanid": 8,
         "Kadabra": 22,
         "Chandelure": 8,
         "Ponyta": 25,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23437,
-      "last_spawn": "2026-06-26T15:32:31.809215"
+      "total_spawns": 23442,
+      "last_spawn": "2026-06-26T15:33:07.430586"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28047,
+    "total_spawns": 28052,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
