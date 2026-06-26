@@ -101,7 +101,7 @@
         "Carracosta": 7,
         "Smearguru": 81,
         "Veluza": 113,
-        "Barboach": 40,
+        "Barboach": 41,
         "Klink": 82,
         "Honedge": 109,
         "Wingull": 32,
@@ -129,7 +129,7 @@
         "Zigzagoon": 35,
         "Weedle": 130,
         "Flamigo": 104,
-        "Lillipup": 97,
+        "Lillipup": 98,
         "Shinx": 120,
         "Bounsweet": 90,
         "Noibat": 27,
@@ -348,7 +348,7 @@
         "Deino": 64,
         "Wooper": 35,
         "Dwebble": 29,
-        "Steenee": 29,
+        "Steenee": 30,
         "Darumaka": 31,
         "Arboliva": 7,
         "Ledyba": 29,
@@ -362,7 +362,7 @@
         "Fearow": 8,
         "Mankey": 27,
         "Bidoof": 23,
-        "Quilava": 32,
+        "Quilava": 33,
         "Finizen": 98,
         "Unown y": 1,
         "Toucannon": 4,
@@ -421,7 +421,7 @@
         "Delibird": 10,
         "Ride cyclizar": 36,
         "Gothorita": 27,
-        "Varoom": 104,
+        "Varoom": 105,
         "Yellow plumage squawkabilly": 27,
         "Centiskorch": 9,
         "Low key toxtricity": 5,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23115,
-      "last_spawn": "2026-06-26T12:16:27.105648"
+      "total_spawns": 23120,
+      "last_spawn": "2026-06-26T12:16:57.105667"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27723,
+    "total_spawns": 27728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
