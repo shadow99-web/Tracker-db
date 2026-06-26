@@ -19,10 +19,10 @@
         "Psyduck": 17,
         "Rockruff": 25,
         "Haunter": 27,
-        "Tangela": 28,
+        "Tangela": 29,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 80,
+        "Machop": 81,
         "Dudunsparce": 21,
         "Gothita": 98,
         "Impidimp": 93,
@@ -221,7 +221,7 @@
         "Cyndaquil": 35,
         "Fuecoco": 32,
         "Cyclizar": 43,
-        "Magmar": 25,
+        "Magmar": 26,
         "Rillaboom": 11,
         "Ninetales": 9,
         "Wattrel": 111,
@@ -574,7 +574,7 @@
         "Electivire": 8,
         "Cascoon": 19,
         "Tentacruel": 7,
-        "Nuzleaf": 22,
+        "Nuzleaf": 23,
         "Scorbunny": 35,
         "Huntail": 9,
         "Galarian meowth": 1,
@@ -654,7 +654,7 @@
         "Beheeyem": 6,
         "Pinsir": 11,
         "Mothim": 8,
-        "Whirlipede": 22,
+        "Whirlipede": 23,
         "Absol": 4,
         "Annihilape": 10,
         "Bouffalant": 10,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23322,
-      "last_spawn": "2026-06-26T12:39:47.168838"
+      "total_spawns": 23327,
+      "last_spawn": "2026-06-26T12:40:17.409820"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27930,
+    "total_spawns": 27935,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
