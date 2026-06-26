@@ -36,7 +36,7 @@
         "Escavalier": 10,
         "Dratini": 72,
         "Kilowattrel": 25,
-        "Lotad": 139,
+        "Lotad": 140,
         "Qwilfish": 8,
         "Trapinch": 121,
         "Toedscool": 95,
@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 66,
         "Flapple": 11,
-        "Aron": 110,
+        "Aron": 111,
         "Boldore": 25,
         "Spinarak": 31,
         "Delcatty": 6,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 22,
         "Dhelmise": 5,
-        "Bagon": 64,
+        "Bagon": 65,
         "Sudowoodo": 6,
         "Stoutland": 5,
         "Rowlet": 37,
@@ -717,7 +717,7 @@
         "Hydrapple": 2,
         "Emolga": 7,
         "Tsareena": 7,
-        "Blissey": 8,
+        "Blissey": 9,
         "Blastoise": 4,
         "Breloom": 7,
         "Zamazenta": 1,
@@ -924,11 +924,11 @@
         "Clefable": 5,
         "Serperior": 8,
         "Lycanroc": 12,
-        "Kingdra": 7,
+        "Kingdra": 8,
         "Farfetch'd": 10,
         "Unown l": 1,
         "Delphox": 5,
-        "Rampardos": 3,
+        "Rampardos": 4,
         "Steelix": 5,
         "Excadrill": 7,
         "Druddigon": 6,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23442,
-      "last_spawn": "2026-06-26T15:33:07.430586"
+      "total_spawns": 23448,
+      "last_spawn": "2026-06-26T15:33:47.330148"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28052,
+    "total_spawns": 28058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
