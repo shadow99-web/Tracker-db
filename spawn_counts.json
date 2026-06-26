@@ -66,7 +66,7 @@
         "Lokix": 28,
         "Glimmora": 36,
         "Starly": 109,
-        "Tandemaus": 82,
+        "Tandemaus": 83,
         "Smoliv": 113,
         "Gloom": 26,
         "Clefairy": 25,
@@ -87,7 +87,7 @@
         "Togepi": 94,
         "Falinks": 7,
         "Tropius": 5,
-        "Poliwag": 102,
+        "Poliwag": 103,
         "Metang": 13,
         "Riolu": 26,
         "Exeggcute": 26,
@@ -95,7 +95,7 @@
         "Hoppip": 98,
         "Sandslash": 7,
         "Kabuto": 28,
-        "Scatterbug": 116,
+        "Scatterbug": 117,
         "Pumpkaboo": 27,
         "Numel": 32,
         "Carracosta": 7,
@@ -218,7 +218,7 @@
         "Marill": 27,
         "Joltik": 33,
         "Politoed": 7,
-        "Cyndaquil": 35,
+        "Cyndaquil": 36,
         "Fuecoco": 33,
         "Cyclizar": 44,
         "Magmar": 26,
@@ -703,7 +703,7 @@
         "Litten": 38,
         "Abomasnow": 7,
         "Espeon": 4,
-        "Hatenna": 97,
+        "Hatenna": 98,
         "Zoroark": 9,
         "Lucario": 2,
         "Crustle": 10,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23427,
-      "last_spawn": "2026-06-26T15:31:27.401021"
+      "total_spawns": 23432,
+      "last_spawn": "2026-06-26T15:31:57.498728"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28037,
+    "total_spawns": 28042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
