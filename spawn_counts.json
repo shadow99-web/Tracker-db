@@ -166,7 +166,7 @@
         "Kakuna": 29,
         "Weepinbell": 25,
         "Klawf": 118,
-        "Vanillite": 95,
+        "Vanillite": 96,
         "Flareon": 9,
         "Gastly": 90,
         "Taillow": 25,
@@ -266,7 +266,7 @@
         "Quaxwell": 18,
         "Vibrava": 33,
         "Loudred": 35,
-        "Ceruledge": 30,
+        "Ceruledge": 31,
         "Houndour": 26,
         "Glimmet": 110,
         "Goomy": 66,
@@ -276,7 +276,7 @@
         "Bagon": 63,
         "Sudowoodo": 6,
         "Stoutland": 5,
-        "Rowlet": 35,
+        "Rowlet": 36,
         "Galarian slowpoke": 2,
         "Poliwhirl": 26,
         "Crocalor": 30,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 80,
         "Summer sawsbuck": 10,
         "Delibird": 10,
-        "Ride cyclizar": 35,
+        "Ride cyclizar": 36,
         "Gothorita": 27,
         "Varoom": 103,
         "Yellow plumage squawkabilly": 27,
@@ -428,7 +428,7 @@
         "Grapploct": 3,
         "Gurdurr": 23,
         "Girafarig": 9,
-        "Flaaffy": 24,
+        "Flaaffy": 25,
         "Pecharunt": 2,
         "Feebas": 24,
         "Buneary": 27,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23003,
-      "last_spawn": "2026-06-26T12:03:46.998344"
+      "total_spawns": 23008,
+      "last_spawn": "2026-06-26T12:04:17.680698"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27611,
+    "total_spawns": 27616,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
