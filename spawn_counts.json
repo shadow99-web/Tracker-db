@@ -34,7 +34,7 @@
         "Litwick": 131,
         "Grubbin": 92,
         "Escavalier": 10,
-        "Dratini": 69,
+        "Dratini": 70,
         "Kilowattrel": 25,
         "Lotad": 132,
         "Qwilfish": 8,
@@ -75,7 +75,7 @@
         "Droopy tatsugiri": 43,
         "Froslass": 10,
         "Tarountula": 101,
-        "Hatterene": 8,
+        "Hatterene": 9,
         "Phantump": 30,
         "Duosion": 26,
         "Amaura": 21,
@@ -104,7 +104,7 @@
         "Barboach": 39,
         "Klink": 82,
         "Honedge": 106,
-        "Wingull": 31,
+        "Wingull": 32,
         "Salamence": 3,
         "Drakloak": 23,
         "Chewtle": 24,
@@ -366,7 +366,7 @@
         "Finizen": 96,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 87,
+        "Caterpie": 88,
         "Carvanha": 18,
         "Luxio": 24,
         "Treecko": 40,
@@ -488,7 +488,7 @@
         "Chatot": 8,
         "Houndoom": 12,
         "Dottler": 23,
-        "Eevee": 24,
+        "Eevee": 25,
         "Copperajah": 5,
         "Magneton": 19,
         "Alakazam": 6,
@@ -561,7 +561,7 @@
         "Ponyta": 25,
         "Togekiss": 6,
         "Braviary": 7,
-        "Raboot": 30,
+        "Raboot": 31,
         "Golem": 5,
         "Slowking": 9,
         "Lilligant": 12,
@@ -1068,8 +1068,8 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1
       },
-      "total_spawns": 22429,
-      "last_spawn": "2026-06-26T10:58:47.304948"
+      "total_spawns": 22435,
+      "last_spawn": "2026-06-26T10:59:27.055535"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1280,7 +1280,7 @@
     }
   },
   "global": {
-    "total_spawns": 27035,
+    "total_spawns": 27041,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
