@@ -324,7 +324,7 @@
         "Murkrow": 27,
         "Bellsprout": 123,
         "Mudbray": 29,
-        "Dreepy": 99,
+        "Dreepy": 100,
         "Tinkaton": 7,
         "Corviknight": 10,
         "Froakie": 31,
@@ -404,7 +404,7 @@
         "Squawkabilly": 25,
         "Electrike": 27,
         "Drampa": 6,
-        "Maschiff": 95,
+        "Maschiff": 96,
         "Rufflet": 29,
         "Kabutops": 7,
         "Dondozo": 96,
@@ -526,7 +526,7 @@
         "Tyrunt": 21,
         "Garganacl": 3,
         "Chinchou": 21,
-        "Maushold": 28,
+        "Maushold": 29,
         "Bastiodon": 4,
         "Floatzel": 5,
         "Accelgor": 3,
@@ -625,7 +625,7 @@
         "Gardevoir": 6,
         "Malamar": 7,
         "Frost rotom": 4,
-        "Tatsugiri": 36,
+        "Tatsugiri": 37,
         "Nidorino": 22,
         "Wailmer": 30,
         "Krabby": 27,
@@ -818,7 +818,7 @@
         "Galarian weezing": 1,
         "Gigalith": 5,
         "Indeedee": 5,
-        "Amped toxtricity": 7,
+        "Amped toxtricity": 8,
         "Galarian linoone": 4,
         "Xatu": 5,
         "Galarian corsola": 2,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23648,
-      "last_spawn": "2026-06-26T15:55:57.297536"
+      "total_spawns": 23653,
+      "last_spawn": "2026-06-26T15:56:31.762155"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28259,
+    "total_spawns": 28264,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
