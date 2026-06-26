@@ -205,7 +205,7 @@
         "Totodile": 39,
         "Dodrio": 8,
         "Cufant": 33,
-        "Tympole": 111,
+        "Tympole": 112,
         "Swellow": 8,
         "Aipom": 30,
         "Growlithe": 22,
@@ -243,7 +243,7 @@
         "Shroodle": 114,
         "Duskull": 125,
         "Bergmite": 25,
-        "Pignite": 26,
+        "Pignite": 27,
         "Lurantis": 3,
         "Swampert": 8,
         "Dachsbun": 26,
@@ -261,7 +261,7 @@
         "Gligar": 35,
         "Tirtouga": 30,
         "Furret": 6,
-        "Nincada": 41,
+        "Nincada": 42,
         "Fennekin": 40,
         "Quaxwell": 18,
         "Vibrava": 34,
@@ -515,7 +515,7 @@
         "Nickit": 38,
         "Ivysaur": 19,
         "Milcery": 32,
-        "Gabite": 16,
+        "Gabite": 17,
         "Hariyama": 5,
         "Victreebel": 7,
         "Arctibax": 26,
@@ -625,7 +625,7 @@
         "Gardevoir": 6,
         "Malamar": 7,
         "Frost rotom": 4,
-        "Tatsugiri": 37,
+        "Tatsugiri": 38,
         "Nidorino": 22,
         "Wailmer": 31,
         "Krabby": 27,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23786,
-      "last_spawn": "2026-06-26T16:11:17.802543"
+      "total_spawns": 23791,
+      "last_spawn": "2026-06-26T16:11:51.807066"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28399,
+    "total_spawns": 28404,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
