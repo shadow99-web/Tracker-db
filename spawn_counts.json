@@ -7,7 +7,7 @@
         "Patrat": 30,
         "Mosslax": 66,
         "Drilbur": 26,
-        "Pawmi": 93,
+        "Pawmi": 94,
         "Electabuzz": 21,
         "Rellor": 92,
         "Sandy burmy": 16,
@@ -39,7 +39,7 @@
         "Lotad": 132,
         "Qwilfish": 8,
         "Trapinch": 115,
-        "Toedscool": 90,
+        "Toedscool": 91,
         "Fletchling": 94,
         "Skiploom": 28,
         "Timburr": 118,
@@ -139,7 +139,7 @@
         "Phanpy": 15,
         "Brambleghast": 33,
         "Pidgey": 127,
-        "Rhyhorn": 102,
+        "Rhyhorn": 103,
         "Sentret": 30,
         "Yungoos": 22,
         "Diglett": 36,
@@ -269,7 +269,7 @@
         "Ceruledge": 30,
         "Houndour": 25,
         "Glimmet": 106,
-        "Goomy": 64,
+        "Goomy": 65,
         "Zapdos": 1,
         "Natu": 20,
         "Dhelmise": 5,
@@ -703,7 +703,7 @@
         "Litten": 35,
         "Abomasnow": 6,
         "Espeon": 3,
-        "Hatenna": 95,
+        "Hatenna": 96,
         "Zoroark": 9,
         "Lucario": 1,
         "Crustle": 10,
@@ -751,7 +751,7 @@
         "Dewpider": 17,
         "Poltchageist": 9,
         "Incineroar": 7,
-        "Morpeko": 12,
+        "Morpeko": 13,
         "Parasect": 5,
         "Alolan muk": 2,
         "Iron boulder": 2,
@@ -1068,8 +1068,8 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1
       },
-      "total_spawns": 22423,
-      "last_spawn": "2026-06-26T10:58:07.500903"
+      "total_spawns": 22429,
+      "last_spawn": "2026-06-26T10:58:47.304948"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1266,10 +1266,11 @@
         "Krabby": 1,
         "Clefable": 1,
         "Durant": 1,
-        "Pidgeotto": 1
+        "Pidgeotto": 1,
+        "Maushold": 1
       },
-      "total_spawns": 318,
-      "last_spawn": "2026-06-26T10:54:32.732009"
+      "total_spawns": 319,
+      "last_spawn": "2026-06-26T10:58:34.071300"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1279,7 +1280,7 @@
     }
   },
   "global": {
-    "total_spawns": 27028,
+    "total_spawns": 27035,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
