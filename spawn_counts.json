@@ -176,7 +176,7 @@
         "Rookidee": 72,
         "Minccino": 39,
         "Wurmple": 96,
-        "Binacle": 31,
+        "Binacle": 32,
         "Grafaiai": 19,
         "Quilladin": 21,
         "Geodude": 117,
@@ -220,7 +220,7 @@
         "Politoed": 7,
         "Cyndaquil": 36,
         "Fuecoco": 33,
-        "Cyclizar": 44,
+        "Cyclizar": 45,
         "Magmar": 26,
         "Rillaboom": 11,
         "Ninetales": 9,
@@ -241,7 +241,7 @@
         "Galvantula": 7,
         "Chansey": 17,
         "Shroodle": 112,
-        "Duskull": 122,
+        "Duskull": 123,
         "Bergmite": 25,
         "Pignite": 26,
         "Lurantis": 3,
@@ -618,13 +618,13 @@
         "Mismagius": 7,
         "Fraxure": 26,
         "Talonflame": 5,
-        "Kleavor": 9,
+        "Kleavor": 10,
         "East sea gastrodon": 4,
         "Frillish": 32,
         "Manaphy": 2,
         "Gardevoir": 6,
         "Malamar": 7,
-        "Frost rotom": 3,
+        "Frost rotom": 4,
         "Tatsugiri": 36,
         "Nidorino": 22,
         "Wailmer": 28,
@@ -859,7 +859,7 @@
         "Shuckle": 5,
         "Hydreigon": 3,
         "Alolan vulpix": 3,
-        "Liepard": 6,
+        "Liepard": 7,
         "Leavanny": 4,
         "Pa'u oricorio": 7,
         "Donphan": 2,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23541,
-      "last_spawn": "2026-06-26T15:44:07.196187"
+      "total_spawns": 23547,
+      "last_spawn": "2026-06-26T15:44:47.203709"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28151,
+    "total_spawns": 28157,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
