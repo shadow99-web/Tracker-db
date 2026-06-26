@@ -87,7 +87,7 @@
         "Togepi": 94,
         "Falinks": 7,
         "Tropius": 5,
-        "Poliwag": 101,
+        "Poliwag": 102,
         "Metang": 13,
         "Riolu": 26,
         "Exeggcute": 26,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 26,
         "Numel": 30,
         "Carracosta": 7,
-        "Smearguru": 81,
+        "Smearguru": 82,
         "Veluza": 113,
         "Barboach": 41,
         "Klink": 82,
@@ -205,7 +205,7 @@
         "Totodile": 37,
         "Dodrio": 8,
         "Cufant": 33,
-        "Tympole": 106,
+        "Tympole": 107,
         "Swellow": 8,
         "Aipom": 29,
         "Growlithe": 18,
@@ -416,7 +416,7 @@
         "Larvitar": 53,
         "Tentacool": 17,
         "Volcanion": 1,
-        "Roaming gimmighoul": 80,
+        "Roaming gimmighoul": 81,
         "Summer sawsbuck": 10,
         "Delibird": 10,
         "Ride cyclizar": 36,
@@ -567,7 +567,7 @@
         "Lilligant": 12,
         "Rabsca": 22,
         "Gulpin": 31,
-        "Crawdaunt": 6,
+        "Crawdaunt": 7,
         "Magmortar": 8,
         "Palossand": 9,
         "Noice face eiscue": 3,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23135,
-      "last_spawn": "2026-06-26T12:18:38.700744"
+      "total_spawns": 23140,
+      "last_spawn": "2026-06-26T12:19:11.972543"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27743,
+    "total_spawns": 27748,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
