@@ -296,7 +296,7 @@
         "Ferroseed": 30,
         "Brionne": 17,
         "Pancham": 28,
-        "Venipede": 124,
+        "Venipede": 125,
         "Cacturne": 6,
         "Oddish": 110,
         "Dragalge": 8,
@@ -421,7 +421,7 @@
         "Delibird": 10,
         "Ride cyclizar": 36,
         "Gothorita": 27,
-        "Varoom": 106,
+        "Varoom": 107,
         "Yellow plumage squawkabilly": 27,
         "Centiskorch": 9,
         "Low key toxtricity": 5,
@@ -592,7 +592,7 @@
         "Darmanitan": 8,
         "Rainy castform": 5,
         "Galarian darumaka": 1,
-        "Mienfoo": 22,
+        "Mienfoo": 23,
         "Dewgong": 8,
         "Wartortle": 21,
         "Cetoddle": 100,
@@ -694,7 +694,7 @@
         "Sliggoo": 13,
         "Panpour": 24,
         "Tinkatuff": 25,
-        "Bruxish": 3,
+        "Bruxish": 4,
         "Corvisquire": 18,
         "Mantine": 10,
         "Electrode": 6,
@@ -909,7 +909,7 @@
         "Unown x": 1,
         "Aggron": 5,
         "Clawitzer": 6,
-        "Leafeon": 9,
+        "Leafeon": 10,
         "Ludicolo": 10,
         "Eldegoss": 5,
         "Dracozolt": 4,
@@ -1072,8 +1072,8 @@
         "Hisuian lilligant": 1,
         "Fezandipiti": 1
       },
-      "total_spawns": 23371,
-      "last_spawn": "2026-06-26T12:45:26.995181"
+      "total_spawns": 23376,
+      "last_spawn": "2026-06-26T12:45:57.106848"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1284,7 +1284,7 @@
     }
   },
   "global": {
-    "total_spawns": 27979,
+    "total_spawns": 27984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
