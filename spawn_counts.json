@@ -49,7 +49,7 @@
         "Skitty": 26,
         "Greavard": 112,
         "Slugma": 36,
-        "Grotle": 20,
+        "Grotle": 21,
         "Porygon": 123,
         "Zubat": 121,
         "Vanillish": 34,
@@ -103,7 +103,7 @@
         "Veluza": 113,
         "Barboach": 41,
         "Klink": 82,
-        "Honedge": 109,
+        "Honedge": 110,
         "Wingull": 32,
         "Salamence": 3,
         "Drakloak": 23,
@@ -235,7 +235,7 @@
         "Marshtomp": 29,
         "Eiscue": 10,
         "Summer deerling": 23,
-        "Clauncher": 27,
+        "Clauncher": 28,
         "Clobbopus": 22,
         "Omanyte": 22,
         "Galvantula": 7,
@@ -597,13 +597,13 @@
         "Wartortle": 21,
         "Cetoddle": 99,
         "Kricketot": 24,
-        "Porygon-z": 4,
+        "Porygon-z": 5,
         "Conkeldurr": 7,
         "Walking wake": 2,
         "Yellow flower floette": 6,
         "Medicham": 5,
         "Doublade": 21,
-        "Naclstack": 21,
+        "Naclstack": 22,
         "Claydol": 5,
         "Turtonator": 7,
         "Hitmonlee": 6,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23281,
-      "last_spawn": "2026-06-26T12:35:00.111264"
+      "total_spawns": 23286,
+      "last_spawn": "2026-06-26T12:35:31.853360"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27889,
+    "total_spawns": 27894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
