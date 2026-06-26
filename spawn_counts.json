@@ -22,7 +22,7 @@
         "Tangela": 30,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 85,
+        "Machop": 86,
         "Dudunsparce": 21,
         "Gothita": 101,
         "Impidimp": 94,
@@ -50,7 +50,7 @@
         "Greavard": 116,
         "Slugma": 36,
         "Grotle": 21,
-        "Porygon": 126,
+        "Porygon": 127,
         "Zubat": 124,
         "Vanillish": 34,
         "Tadbulb": 131,
@@ -378,7 +378,7 @@
         "Mabosstiff": 27,
         "Squirtle": 43,
         "Remoraid": 26,
-        "Torracat": 24,
+        "Torracat": 25,
         "Hisuian zorua": 1,
         "Wooloo": 22,
         "Drifloon": 24,
@@ -418,7 +418,7 @@
         "Volcanion": 1,
         "Roaming gimmighoul": 83,
         "Summer sawsbuck": 11,
-        "Delibird": 10,
+        "Delibird": 11,
         "Ride cyclizar": 36,
         "Gothorita": 27,
         "Varoom": 110,
@@ -889,7 +889,7 @@
         "Ampharos": 4,
         "Whiscash": 3,
         "Heracross": 3,
-        "Orange flower floette": 5,
+        "Orange flower floette": 6,
         "Ambipom": 9,
         "Aqua breed tauros": 1,
         "Fan rotom": 2,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23846,
-      "last_spawn": "2026-06-26T16:18:18.915063"
+      "total_spawns": 23851,
+      "last_spawn": "2026-06-26T16:18:51.699457"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28459,
+    "total_spawns": 28464,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
