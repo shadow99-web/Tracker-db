@@ -9,7 +9,7 @@
         "Drilbur": 29,
         "Pawmi": 98,
         "Electabuzz": 23,
-        "Rellor": 95,
+        "Rellor": 96,
         "Sandy burmy": 17,
         "Wiglett": 98,
         "Bombirdier": 93,
@@ -176,7 +176,7 @@
         "Rookidee": 75,
         "Minccino": 39,
         "Wurmple": 98,
-        "Binacle": 32,
+        "Binacle": 33,
         "Grafaiai": 20,
         "Quilladin": 21,
         "Geodude": 118,
@@ -209,7 +209,7 @@
         "Swellow": 8,
         "Aipom": 30,
         "Growlithe": 22,
-        "Sewaddle": 115,
+        "Sewaddle": 116,
         "Fidough": 70,
         "Noivern": 4,
         "Feraligatr": 6,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 6,
         "Medicham": 5,
         "Doublade": 23,
-        "Naclstack": 22,
+        "Naclstack": 23,
         "Claydol": 5,
         "Turtonator": 7,
         "Hitmonlee": 7,
@@ -774,7 +774,7 @@
         "Archaludon": 2,
         "Golduck": 5,
         "Scolipede": 7,
-        "Marowak": 1,
+        "Marowak": 2,
         "Chingling": 4,
         "Beedrill": 15,
         "Whimsicott": 7,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23871,
-      "last_spawn": "2026-06-26T16:21:07.035384"
+      "total_spawns": 23876,
+      "last_spawn": "2026-06-26T16:21:37.122386"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28484,
+    "total_spawns": 28489,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
