@@ -47,7 +47,7 @@
         "Surskit": 33,
         "Seedot": 100,
         "Skitty": 28,
-        "Greavard": 116,
+        "Greavard": 117,
         "Slugma": 36,
         "Grotle": 21,
         "Porygon": 127,
@@ -139,7 +139,7 @@
         "Phanpy": 16,
         "Brambleghast": 36,
         "Pidgey": 130,
-        "Rhyhorn": 107,
+        "Rhyhorn": 108,
         "Sentret": 30,
         "Yungoos": 24,
         "Diglett": 37,
@@ -355,7 +355,7 @@
         "Spritzee": 28,
         "Swirlix": 21,
         "Aromatisse": 6,
-        "Muk": 7,
+        "Muk": 8,
         "Toxel": 26,
         "Banette": 9,
         "Three-segment dudunsparce": 7,
@@ -416,7 +416,7 @@
         "Larvitar": 54,
         "Tentacool": 17,
         "Volcanion": 1,
-        "Roaming gimmighoul": 83,
+        "Roaming gimmighoul": 84,
         "Summer sawsbuck": 11,
         "Delibird": 11,
         "Ride cyclizar": 36,
@@ -613,7 +613,7 @@
         "Pupitar": 21,
         "Avalugg": 10,
         "Magby": 11,
-        "Wigglytuff": 4,
+        "Wigglytuff": 5,
         "Venusaur": 10,
         "Mismagius": 7,
         "Fraxure": 26,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23926,
-      "last_spawn": "2026-06-26T16:27:11.799073"
+      "total_spawns": 23931,
+      "last_spawn": "2026-06-26T16:27:47.920865"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28539,
+    "total_spawns": 28544,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
