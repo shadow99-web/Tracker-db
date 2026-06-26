@@ -25,7 +25,7 @@
         "Machop": 78,
         "Dudunsparce": 21,
         "Gothita": 95,
-        "Impidimp": 90,
+        "Impidimp": 91,
         "Charmander": 48,
         "Morelull": 22,
         "Abra": 103,
@@ -118,7 +118,7 @@
         "Flittle": 89,
         "Unfezant": 11,
         "Yamask": 22,
-        "Ralts": 87,
+        "Ralts": 88,
         "Solosis": 92,
         "Battle cyclizar": 47,
         "Togetic": 36,
@@ -407,7 +407,7 @@
         "Maschiff": 92,
         "Rufflet": 28,
         "Kabutops": 7,
-        "Dondozo": 93,
+        "Dondozo": 94,
         "Pansear": 28,
         "Cutiefly": 21,
         "Peakychu": 72,
@@ -810,7 +810,7 @@
         "Pidgeot": 7,
         "Drapion": 7,
         "Barbaracle": 4,
-        "Okidogi": 2,
+        "Okidogi": 3,
         "Tauros": 7,
         "Slurpuff": 6,
         "Umbreon": 2,
@@ -1028,7 +1028,7 @@
         "Mr. rime": 1,
         "Meganium": 2,
         "Raikou": 1,
-        "Milotic": 3,
+        "Milotic": 4,
         "Victini": 1,
         "Unown": 1,
         "Unown h": 1,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 22841,
-      "last_spawn": "2026-06-26T11:45:31.774798"
+      "total_spawns": 22846,
+      "last_spawn": "2026-06-26T11:46:07.143413"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27448,
+    "total_spawns": 27453,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
