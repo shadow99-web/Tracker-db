@@ -29,7 +29,7 @@
         "Charmander": 53,
         "Morelull": 22,
         "Abra": 110,
-        "Sandile": 114,
+        "Sandile": 115,
         "Sandygast": 33,
         "Litwick": 138,
         "Grubbin": 99,
@@ -90,7 +90,7 @@
         "Poliwag": 105,
         "Metang": 13,
         "Riolu": 27,
-        "Exeggcute": 26,
+        "Exeggcute": 27,
         "Corphish": 22,
         "Hoppip": 101,
         "Sandslash": 7,
@@ -148,7 +148,7 @@
         "Emboar": 6,
         "Deoxys": 2,
         "Dracovish": 7,
-        "Bulbasaur": 23,
+        "Bulbasaur": 24,
         "Roggenrola": 113,
         "Pidove": 105,
         "Dragapult": 11,
@@ -297,8 +297,8 @@
         "Brionne": 17,
         "Pancham": 28,
         "Venipede": 125,
-        "Cacturne": 7,
-        "Oddish": 114,
+        "Cacturne": 8,
+        "Oddish": 115,
         "Dragalge": 8,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23891,
-      "last_spawn": "2026-06-26T16:23:17.199635"
+      "total_spawns": 23896,
+      "last_spawn": "2026-06-26T16:23:51.728408"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28504,
+    "total_spawns": 28509,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
