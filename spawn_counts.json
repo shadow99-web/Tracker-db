@@ -18,7 +18,7 @@
         "Tranquill": 26,
         "Psyduck": 17,
         "Rockruff": 25,
-        "Haunter": 27,
+        "Haunter": 28,
         "Tangela": 30,
         "Orbeetle": 7,
         "Dedenne": 8,
@@ -58,8 +58,8 @@
         "Whismur": 102,
         "Monferno": 25,
         "Skwovet": 30,
-        "Bramblin": 118,
-        "Yanma": 23,
+        "Bramblin": 119,
+        "Yanma": 24,
         "Larvesta": 41,
         "Beldum": 82,
         "Ducklett": 26,
@@ -176,7 +176,7 @@
         "Rookidee": 72,
         "Minccino": 39,
         "Wurmple": 95,
-        "Binacle": 30,
+        "Binacle": 31,
         "Grafaiai": 19,
         "Quilladin": 20,
         "Geodude": 117,
@@ -241,7 +241,7 @@
         "Galvantula": 7,
         "Chansey": 17,
         "Shroodle": 112,
-        "Duskull": 120,
+        "Duskull": 121,
         "Bergmite": 25,
         "Pignite": 26,
         "Lurantis": 3,
@@ -673,7 +673,7 @@
         "Grimer": 21,
         "Crabominable": 5,
         "Quaquaval": 8,
-        "Sprigatito": 31,
+        "Sprigatito": 32,
         "Metagross": 5,
         "Eelektrik": 20,
         "Gastrodon": 10,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23401,
-      "last_spawn": "2026-06-26T15:28:27.223437"
+      "total_spawns": 23407,
+      "last_spawn": "2026-06-26T15:29:07.149178"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28011,
+    "total_spawns": 28017,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
