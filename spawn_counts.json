@@ -66,7 +66,7 @@
         "Lokix": 28,
         "Glimmora": 34,
         "Starly": 107,
-        "Tandemaus": 81,
+        "Tandemaus": 82,
         "Smoliv": 112,
         "Gloom": 26,
         "Clefairy": 24,
@@ -79,7 +79,7 @@
         "Phantump": 32,
         "Duosion": 26,
         "Amaura": 22,
-        "Gimmighoul": 101,
+        "Gimmighoul": 102,
         "Baltoy": 34,
         "Mareep": 113,
         "Garbodor": 6,
@@ -240,10 +240,10 @@
         "Omanyte": 22,
         "Galvantula": 7,
         "Chansey": 16,
-        "Shroodle": 111,
+        "Shroodle": 112,
         "Duskull": 120,
         "Bergmite": 25,
-        "Pignite": 25,
+        "Pignite": 26,
         "Lurantis": 3,
         "Swampert": 8,
         "Dachsbun": 26,
@@ -316,7 +316,7 @@
         "Munna": 23,
         "Pawniard": 22,
         "Prof tangrowth": 78,
-        "Jangmo-o": 50,
+        "Jangmo-o": 51,
         "Trash wormadam": 9,
         "Quaxly": 39,
         "Gossifleur": 32,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23256,
-      "last_spawn": "2026-06-26T12:32:12.705026"
+      "total_spawns": 23261,
+      "last_spawn": "2026-06-26T12:32:47.109620"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27864,
+    "total_spawns": 27869,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
