@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 65,
         "Flapple": 11,
-        "Aron": 109,
+        "Aron": 110,
         "Boldore": 25,
         "Spinarak": 31,
         "Delcatty": 6,
@@ -196,7 +196,7 @@
         "Helioptile": 23,
         "Hoothoot": 34,
         "Grookey": 31,
-        "Meditite": 18,
+        "Meditite": 19,
         "Toedscruel": 32,
         "Probopass": 8,
         "Scraggy": 29,
@@ -404,7 +404,7 @@
         "Squawkabilly": 25,
         "Electrike": 27,
         "Drampa": 6,
-        "Maschiff": 94,
+        "Maschiff": 95,
         "Rufflet": 28,
         "Kabutops": 7,
         "Dondozo": 96,
@@ -521,7 +521,7 @@
         "Arctibax": 25,
         "Foongus": 32,
         "Pansage": 18,
-        "Cranidos": 29,
+        "Cranidos": 30,
         "Spewpa": 26,
         "Tyrunt": 21,
         "Garganacl": 3,
@@ -640,7 +640,7 @@
         "Silicobra": 22,
         "Snom": 17,
         "East sea shellos": 13,
-        "Corsola": 12,
+        "Corsola": 13,
         "Venomoth": 11,
         "Trumbeak": 28,
         "Aerodactyl": 5,
@@ -1072,8 +1072,8 @@
         "Hisuian lilligant": 1,
         "Fezandipiti": 1
       },
-      "total_spawns": 23391,
-      "last_spawn": "2026-06-26T12:47:37.195295"
+      "total_spawns": 23396,
+      "last_spawn": "2026-06-26T12:48:11.897051"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1284,7 +1284,7 @@
     }
   },
   "global": {
-    "total_spawns": 27999,
+    "total_spawns": 28004,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
