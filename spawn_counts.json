@@ -24,7 +24,7 @@
         "Dedenne": 8,
         "Machop": 78,
         "Dudunsparce": 21,
-        "Gothita": 92,
+        "Gothita": 93,
         "Impidimp": 86,
         "Charmander": 47,
         "Morelull": 20,
@@ -54,7 +54,7 @@
         "Zubat": 120,
         "Vanillish": 33,
         "Tadbulb": 118,
-        "Magnemite": 105,
+        "Magnemite": 106,
         "Whismur": 99,
         "Monferno": 25,
         "Skwovet": 28,
@@ -240,7 +240,7 @@
         "Omanyte": 21,
         "Galvantula": 7,
         "Chansey": 15,
-        "Shroodle": 103,
+        "Shroodle": 104,
         "Duskull": 116,
         "Bergmite": 25,
         "Pignite": 24,
@@ -367,7 +367,7 @@
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 88,
-        "Carvanha": 18,
+        "Carvanha": 19,
         "Luxio": 24,
         "Treecko": 40,
         "Sinistea": 22,
@@ -737,7 +737,7 @@
         "Hippowdon": 6,
         "Lumineon": 8,
         "Thievul": 5,
-        "Greedent": 7,
+        "Greedent": 8,
         "Ekans": 24,
         "Venonat": 19,
         "Pelipper": 8,
@@ -1066,10 +1066,11 @@
         "Heart trim furfrou": 1,
         "Iron hands": 1,
         "Debutante trim furfrou": 1,
-        "Rayquaza": 1
+        "Rayquaza": 1,
+        "Heat rotom": 1
       },
-      "total_spawns": 22504,
-      "last_spawn": "2026-06-26T11:07:07.381606"
+      "total_spawns": 22510,
+      "last_spawn": "2026-06-26T11:07:47.080252"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1280,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27110,
+    "total_spawns": 27116,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
