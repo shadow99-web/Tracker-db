@@ -64,7 +64,7 @@
         "Beldum": 80,
         "Ducklett": 24,
         "Lokix": 28,
-        "Glimmora": 32,
+        "Glimmora": 33,
         "Starly": 106,
         "Tandemaus": 80,
         "Smoliv": 107,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 25,
         "Numel": 30,
         "Carracosta": 6,
-        "Smearguru": 78,
+        "Smearguru": 79,
         "Veluza": 109,
         "Barboach": 39,
         "Klink": 82,
@@ -686,7 +686,7 @@
         "Butterfree": 4,
         "Koffing": 30,
         "Floragato": 12,
-        "Seel": 25,
+        "Seel": 26,
         "Shiinotic": 6,
         "Gumshoos": 4,
         "Pyroar": 8,
@@ -960,7 +960,7 @@
         "Rapidash": 4,
         "Mawile": 7,
         "Dusknoir": 7,
-        "Sirfetch'd": 1,
+        "Sirfetch'd": 2,
         "Galarian darmanitan": 2,
         "Thundurus": 1,
         "Seismitoad": 6,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 1
       },
-      "total_spawns": 22724,
-      "last_spawn": "2026-06-26T11:32:07.203770"
+      "total_spawns": 22728,
+      "last_spawn": "2026-06-26T11:32:41.804581"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27331,
+    "total_spawns": 27335,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
