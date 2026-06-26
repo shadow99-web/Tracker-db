@@ -62,7 +62,7 @@
         "Yanma": 22,
         "Larvesta": 40,
         "Beldum": 80,
-        "Ducklett": 23,
+        "Ducklett": 24,
         "Lokix": 28,
         "Glimmora": 32,
         "Starly": 103,
@@ -291,7 +291,7 @@
         "Bewear": 7,
         "Piloswine": 23,
         "Simisage": 4,
-        "Jellicent": 5,
+        "Jellicent": 6,
         "Torkoal": 6,
         "Ferroseed": 27,
         "Brionne": 17,
@@ -315,7 +315,7 @@
         "Nacli": 78,
         "Munna": 23,
         "Pawniard": 22,
-        "Prof tangrowth": 76,
+        "Prof tangrowth": 77,
         "Jangmo-o": 47,
         "Trash wormadam": 9,
         "Quaxly": 37,
@@ -649,7 +649,7 @@
         "Shiftry": 4,
         "Arbok": 5,
         "Stretchy tatsugiri": 32,
-        "Mareanie": 25,
+        "Mareanie": 26,
         "Seadra": 16,
         "Beheeyem": 6,
         "Pinsir": 11,
@@ -1065,10 +1065,11 @@
         "Dialga": 1,
         "Heart trim furfrou": 1,
         "Iron hands": 1,
-        "Debutante trim furfrou": 1
+        "Debutante trim furfrou": 1,
+        "Rayquaza": 1
       },
-      "total_spawns": 22414,
-      "last_spawn": "2026-06-26T10:56:47.607953"
+      "total_spawns": 22419,
+      "last_spawn": "2026-06-26T10:57:27.276066"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1278,7 +1279,7 @@
     }
   },
   "global": {
-    "total_spawns": 27019,
+    "total_spawns": 27024,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
