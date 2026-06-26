@@ -99,7 +99,7 @@
         "Pumpkaboo": 27,
         "Numel": 33,
         "Carracosta": 7,
-        "Smearguru": 83,
+        "Smearguru": 84,
         "Veluza": 115,
         "Barboach": 41,
         "Klink": 83,
@@ -172,7 +172,7 @@
         "Taillow": 25,
         "Swinub": 113,
         "Inkay": 33,
-        "Gible": 72,
+        "Gible": 73,
         "Rookidee": 72,
         "Minccino": 39,
         "Wurmple": 96,
@@ -185,7 +185,7 @@
         "Elgyem": 19,
         "Luvdisc": 8,
         "Vigoroth": 31,
-        "Skorupi": 30,
+        "Skorupi": 31,
         "Pikachu": 26,
         "Blue plumage squawkabilly": 17,
         "Thwackey": 25,
@@ -640,7 +640,7 @@
         "Silicobra": 23,
         "Snom": 17,
         "East sea shellos": 13,
-        "Corsola": 13,
+        "Corsola": 14,
         "Venomoth": 11,
         "Trumbeak": 28,
         "Aerodactyl": 5,
@@ -703,7 +703,7 @@
         "Litten": 38,
         "Abomasnow": 7,
         "Espeon": 4,
-        "Hatenna": 100,
+        "Hatenna": 101,
         "Zoroark": 9,
         "Lucario": 2,
         "Crustle": 10,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23643,
-      "last_spawn": "2026-06-26T15:55:27.198330"
+      "total_spawns": 23648,
+      "last_spawn": "2026-06-26T15:55:57.297536"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28254,
+    "total_spawns": 28259,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
