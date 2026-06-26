@@ -9,7 +9,7 @@
         "Drilbur": 29,
         "Pawmi": 98,
         "Electabuzz": 23,
-        "Rellor": 94,
+        "Rellor": 95,
         "Sandy burmy": 17,
         "Wiglett": 98,
         "Bombirdier": 93,
@@ -95,7 +95,7 @@
         "Hoppip": 101,
         "Sandslash": 7,
         "Kabuto": 28,
-        "Scatterbug": 119,
+        "Scatterbug": 120,
         "Pumpkaboo": 27,
         "Numel": 33,
         "Carracosta": 7,
@@ -143,7 +143,7 @@
         "Sentret": 30,
         "Yungoos": 24,
         "Diglett": 37,
-        "Doduo": 30,
+        "Doduo": 31,
         "Lairon": 28,
         "Emboar": 6,
         "Deoxys": 2,
@@ -696,7 +696,7 @@
         "Tinkatuff": 26,
         "Bruxish": 4,
         "Corvisquire": 19,
-        "Mantine": 10,
+        "Mantine": 11,
         "Electrode": 6,
         "Celebi": 2,
         "Hero palafin": 6,
@@ -767,7 +767,7 @@
         "Pawmo": 16,
         "Finneon": 15,
         "Mamoswine": 10,
-        "Drifblim": 4,
+        "Drifblim": 5,
         "Meowscarada": 7,
         "Roserade": 7,
         "Nidorina": 17,
@@ -900,7 +900,7 @@
         "Baxcalibur": 4,
         "Galarian articuno": 1,
         "Audino": 9,
-        "Orange flower florges": 1,
+        "Orange flower florges": 2,
         "Cursola": 1,
         "Snorlax": 10,
         "Mienshao": 5,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23811,
-      "last_spawn": "2026-06-26T16:14:07.797459"
+      "total_spawns": 23817,
+      "last_spawn": "2026-06-26T16:14:47.403254"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28424,
+    "total_spawns": 28430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
