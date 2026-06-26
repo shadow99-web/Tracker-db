@@ -219,7 +219,7 @@
         "Joltik": 33,
         "Politoed": 7,
         "Cyndaquil": 37,
-        "Fuecoco": 36,
+        "Fuecoco": 37,
         "Cyclizar": 46,
         "Magmar": 26,
         "Rillaboom": 11,
@@ -679,7 +679,7 @@
         "Gastrodon": 10,
         "Golurk": 5,
         "Arcanine": 5,
-        "Oranguru": 8,
+        "Oranguru": 9,
         "Poliwrath": 9,
         "Blaziken": 5,
         "Stantler": 26,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23963,
-      "last_spawn": "2026-06-26T17:46:28.431608"
+      "total_spawns": 23965,
+      "last_spawn": "2026-06-26T17:47:46.996038"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28579,
+    "total_spawns": 28581,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
