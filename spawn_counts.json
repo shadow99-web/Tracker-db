@@ -129,7 +129,7 @@
         "Zigzagoon": 35,
         "Weedle": 128,
         "Flamigo": 101,
-        "Lillipup": 91,
+        "Lillipup": 92,
         "Shinx": 115,
         "Bounsweet": 88,
         "Noibat": 27,
@@ -370,7 +370,7 @@
         "Carvanha": 18,
         "Luxio": 24,
         "Treecko": 40,
-        "Sinistea": 21,
+        "Sinistea": 22,
         "Cubchoo": 17,
         "Hippopotas": 16,
         "Spiky-eared pichu": 3,
@@ -386,7 +386,7 @@
         "Swablu": 24,
         "Shellder": 26,
         "Crobat": 11,
-        "Sandshrew": 26,
+        "Sandshrew": 27,
         "Palafin": 23,
         "Maractus": 6,
         "Sigilyph": 11,
@@ -416,7 +416,7 @@
         "Larvitar": 51,
         "Tentacool": 17,
         "Volcanion": 1,
-        "Roaming gimmighoul": 75,
+        "Roaming gimmighoul": 76,
         "Summer sawsbuck": 10,
         "Delibird": 10,
         "Ride cyclizar": 35,
@@ -883,7 +883,7 @@
         "Urshifu": 1,
         "Swalot": 4,
         "Cloyster": 4,
-        "Kingler": 11,
+        "Kingler": 12,
         "Alomomola": 3,
         "White-striped basculin": 3,
         "Ampharos": 4,
@@ -1068,8 +1068,8 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1
       },
-      "total_spawns": 22494,
-      "last_spawn": "2026-06-26T11:05:57.276261"
+      "total_spawns": 22499,
+      "last_spawn": "2026-06-26T11:06:31.825571"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1280,7 +1280,7 @@
     }
   },
   "global": {
-    "total_spawns": 27100,
+    "total_spawns": 27105,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
