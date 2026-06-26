@@ -53,7 +53,7 @@
         "Porygon": 122,
         "Zubat": 121,
         "Vanillish": 34,
-        "Tadbulb": 126,
+        "Tadbulb": 127,
         "Magnemite": 106,
         "Whismur": 100,
         "Monferno": 25,
@@ -129,7 +129,7 @@
         "Zigzagoon": 35,
         "Weedle": 130,
         "Flamigo": 104,
-        "Lillipup": 98,
+        "Lillipup": 99,
         "Shinx": 120,
         "Bounsweet": 90,
         "Noibat": 27,
@@ -240,7 +240,7 @@
         "Omanyte": 22,
         "Galvantula": 7,
         "Chansey": 16,
-        "Shroodle": 110,
+        "Shroodle": 111,
         "Duskull": 120,
         "Bergmite": 25,
         "Pignite": 25,
@@ -360,7 +360,7 @@
         "Banette": 8,
         "Three-segment dudunsparce": 6,
         "Fearow": 8,
-        "Mankey": 27,
+        "Mankey": 29,
         "Bidoof": 23,
         "Quilava": 33,
         "Finizen": 99,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23175,
-      "last_spawn": "2026-06-26T12:23:11.732257"
+      "total_spawns": 23180,
+      "last_spawn": "2026-06-26T12:23:47.105958"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27783,
+    "total_spawns": 27788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
