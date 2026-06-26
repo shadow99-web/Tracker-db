@@ -108,7 +108,7 @@
         "Salamence": 3,
         "Drakloak": 23,
         "Chewtle": 24,
-        "Scizor": 4,
+        "Scizor": 5,
         "Sneasel": 25,
         "Bonsly": 5,
         "Horsea": 101,
@@ -166,7 +166,7 @@
         "Kakuna": 28,
         "Weepinbell": 25,
         "Klawf": 117,
-        "Vanillite": 92,
+        "Vanillite": 93,
         "Flareon": 9,
         "Gastly": 88,
         "Taillow": 24,
@@ -296,7 +296,7 @@
         "Ferroseed": 27,
         "Brionne": 17,
         "Pancham": 25,
-        "Venipede": 122,
+        "Venipede": 123,
         "Cacturne": 6,
         "Oddish": 106,
         "Dragalge": 8,
@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 75,
         "Summer sawsbuck": 10,
         "Delibird": 10,
-        "Ride cyclizar": 34,
+        "Ride cyclizar": 35,
         "Gothorita": 27,
         "Varoom": 99,
         "Yellow plumage squawkabilly": 26,
@@ -925,7 +925,7 @@
         "Serperior": 7,
         "Lycanroc": 12,
         "Kingdra": 7,
-        "Farfetch'd": 9,
+        "Farfetch'd": 10,
         "Unown l": 1,
         "Delphox": 5,
         "Rampardos": 3,
@@ -1068,8 +1068,8 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1
       },
-      "total_spawns": 22465,
-      "last_spawn": "2026-06-26T11:02:47.077042"
+      "total_spawns": 22470,
+      "last_spawn": "2026-06-26T11:03:17.099096"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1280,7 +1280,7 @@
     }
   },
   "global": {
-    "total_spawns": 27071,
+    "total_spawns": 27076,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
