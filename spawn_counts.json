@@ -50,7 +50,7 @@
         "Greavard": 106,
         "Slugma": 35,
         "Grotle": 20,
-        "Porygon": 120,
+        "Porygon": 121,
         "Zubat": 120,
         "Vanillish": 33,
         "Tadbulb": 118,
@@ -363,7 +363,7 @@
         "Mankey": 27,
         "Bidoof": 23,
         "Quilava": 31,
-        "Finizen": 97,
+        "Finizen": 98,
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 88,
@@ -437,7 +437,7 @@
         "Paldean wooper": 6,
         "Salandit": 24,
         "School wishiwashi": 5,
-        "Snivy": 32,
+        "Snivy": 33,
         "Wyrdeer": 6,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -595,7 +595,7 @@
         "Mienfoo": 20,
         "Dewgong": 8,
         "Wartortle": 21,
-        "Cetoddle": 95,
+        "Cetoddle": 96,
         "Kricketot": 22,
         "Porygon-z": 4,
         "Conkeldurr": 7,
@@ -727,7 +727,7 @@
         "Ariados": 4,
         "Volbeat": 8,
         "Burmy": 8,
-        "Popplio": 26,
+        "Popplio": 27,
         "Mandibuzz": 8,
         "Walrein": 9,
         "Cinccino": 8,
@@ -1068,8 +1068,8 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1
       },
-      "total_spawns": 22479,
-      "last_spawn": "2026-06-26T11:04:17.146715"
+      "total_spawns": 22484,
+      "last_spawn": "2026-06-26T11:04:54.013311"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1280,7 +1280,7 @@
     }
   },
   "global": {
-    "total_spawns": 27085,
+    "total_spawns": 27090,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
