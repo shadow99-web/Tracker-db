@@ -1282,10 +1282,12 @@
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
-        "Horsea": 1
+        "Horsea": 1,
+        "Doduo": 1,
+        "Ivysaur": 1
       },
-      "total_spawns": 345,
-      "last_spawn": "2026-06-26T18:05:28.500261"
+      "total_spawns": 347,
+      "last_spawn": "2026-06-26T18:10:41.865792"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1295,7 +1297,7 @@
     }
   },
   "global": {
-    "total_spawns": 28610,
+    "total_spawns": 28612,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
