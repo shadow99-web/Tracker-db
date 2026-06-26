@@ -38,7 +38,7 @@
         "Kilowattrel": 25,
         "Lotad": 138,
         "Qwilfish": 8,
-        "Trapinch": 120,
+        "Trapinch": 121,
         "Toedscool": 95,
         "Fletchling": 97,
         "Skiploom": 30,
@@ -179,7 +179,7 @@
         "Binacle": 30,
         "Grafaiai": 19,
         "Quilladin": 20,
-        "Geodude": 116,
+        "Geodude": 117,
         "Espurr": 29,
         "Cottonee": 19,
         "Elgyem": 19,
@@ -205,7 +205,7 @@
         "Totodile": 39,
         "Dodrio": 8,
         "Cufant": 33,
-        "Tympole": 107,
+        "Tympole": 108,
         "Swellow": 8,
         "Aipom": 30,
         "Growlithe": 20,
@@ -276,7 +276,7 @@
         "Bagon": 63,
         "Sudowoodo": 6,
         "Stoutland": 5,
-        "Rowlet": 36,
+        "Rowlet": 37,
         "Galarian slowpoke": 2,
         "Poliwhirl": 26,
         "Crocalor": 30,
@@ -366,7 +366,7 @@
         "Finizen": 99,
         "Unown y": 1,
         "Toucannon": 4,
-        "Caterpie": 90,
+        "Caterpie": 91,
         "Carvanha": 19,
         "Luxio": 27,
         "Treecko": 41,
@@ -1069,10 +1069,11 @@
         "Rayquaza": 1,
         "Heat rotom": 1,
         "Blue flower floette": 2,
-        "Hisuian lilligant": 1
+        "Hisuian lilligant": 1,
+        "Fezandipiti": 1
       },
-      "total_spawns": 23360,
-      "last_spawn": "2026-06-26T12:44:07.328858"
+      "total_spawns": 23366,
+      "last_spawn": "2026-06-26T12:44:47.281420"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1284,7 @@
     }
   },
   "global": {
-    "total_spawns": 27968,
+    "total_spawns": 27974,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
