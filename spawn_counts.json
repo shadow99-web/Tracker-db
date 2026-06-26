@@ -320,7 +320,7 @@
         "Trash wormadam": 9,
         "Quaxly": 38,
         "Gossifleur": 30,
-        "Oshawott": 34,
+        "Oshawott": 35,
         "Murkrow": 27,
         "Bellsprout": 121,
         "Mudbray": 28,
@@ -726,7 +726,7 @@
         "Typhlosion": 11,
         "Ariados": 4,
         "Volbeat": 8,
-        "Burmy": 8,
+        "Burmy": 9,
         "Popplio": 27,
         "Mandibuzz": 8,
         "Walrein": 9,
@@ -785,7 +785,7 @@
         "Weavile": 1,
         "Gorging cramorant": 1,
         "Shieldon": 16,
-        "Masquerain": 9,
+        "Masquerain": 10,
         "Watchog": 6,
         "Ditto": 6,
         "Dada zarude": 1,
@@ -861,7 +861,7 @@
         "Alolan vulpix": 3,
         "Liepard": 6,
         "Leavanny": 4,
-        "Pa'u oricorio": 6,
+        "Pa'u oricorio": 7,
         "Donphan": 2,
         "Charizard": 7,
         "Pincurchin": 5,
@@ -922,7 +922,7 @@
         "Wynaut": 6,
         "Hattrem": 13,
         "Clefable": 5,
-        "Serperior": 7,
+        "Serperior": 8,
         "Lycanroc": 12,
         "Kingdra": 7,
         "Farfetch'd": 10,
@@ -1069,8 +1069,8 @@
         "Rayquaza": 1,
         "Heat rotom": 1
       },
-      "total_spawns": 22590,
-      "last_spawn": "2026-06-26T11:16:37.198998"
+      "total_spawns": 22595,
+      "last_spawn": "2026-06-26T11:17:11.896807"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1281,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27196,
+    "total_spawns": 27201,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
