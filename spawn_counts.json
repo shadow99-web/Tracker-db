@@ -58,7 +58,7 @@
         "Whismur": 99,
         "Monferno": 25,
         "Skwovet": 28,
-        "Bramblin": 116,
+        "Bramblin": 117,
         "Yanma": 22,
         "Larvesta": 40,
         "Beldum": 81,
@@ -98,7 +98,7 @@
         "Scatterbug": 114,
         "Pumpkaboo": 25,
         "Numel": 30,
-        "Carracosta": 6,
+        "Carracosta": 7,
         "Smearguru": 79,
         "Veluza": 109,
         "Barboach": 39,
@@ -231,7 +231,7 @@
         "Drowzee": 21,
         "Blipbug": 102,
         "Lampent": 29,
-        "Petilil": 25,
+        "Petilil": 26,
         "Marshtomp": 27,
         "Eiscue": 9,
         "Summer deerling": 23,
@@ -410,7 +410,7 @@
         "Dondozo": 91,
         "Pansear": 28,
         "Cutiefly": 21,
-        "Peakychu": 71,
+        "Peakychu": 72,
         "Armarouge": 32,
         "Tyrantrum": 1,
         "Larvitar": 52,
@@ -487,7 +487,7 @@
         "Staravia": 31,
         "Chatot": 8,
         "Houndoom": 12,
-        "Dottler": 23,
+        "Dottler": 24,
         "Eevee": 25,
         "Copperajah": 5,
         "Magneton": 19,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 1
       },
-      "total_spawns": 22734,
-      "last_spawn": "2026-06-26T11:33:11.974891"
+      "total_spawns": 22739,
+      "last_spawn": "2026-06-26T11:33:47.197232"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27341,
+    "total_spawns": 27346,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
