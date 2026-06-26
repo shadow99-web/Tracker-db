@@ -154,7 +154,7 @@
         "Dragapult": 11,
         "Rattata": 64,
         "Flapple": 11,
-        "Aron": 106,
+        "Aron": 107,
         "Boldore": 24,
         "Spinarak": 31,
         "Delcatty": 6,
@@ -175,7 +175,7 @@
         "Gible": 71,
         "Rookidee": 68,
         "Minccino": 36,
-        "Wurmple": 93,
+        "Wurmple": 94,
         "Binacle": 29,
         "Grafaiai": 19,
         "Quilladin": 19,
@@ -265,7 +265,7 @@
         "Fennekin": 39,
         "Quaxwell": 18,
         "Vibrava": 32,
-        "Loudred": 33,
+        "Loudred": 34,
         "Ceruledge": 30,
         "Houndour": 26,
         "Glimmet": 107,
@@ -293,7 +293,7 @@
         "Simisage": 4,
         "Jellicent": 6,
         "Torkoal": 6,
-        "Ferroseed": 27,
+        "Ferroseed": 28,
         "Brionne": 17,
         "Pancham": 26,
         "Venipede": 123,
@@ -824,7 +824,7 @@
         "Galarian corsola": 2,
         "Cinderace": 7,
         "Magcargo": 4,
-        "Sensu oricorio": 10,
+        "Sensu oricorio": 11,
         "Rhyperior": 5,
         "Linoone": 6,
         "Omastar": 7,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 1
       },
-      "total_spawns": 22750,
-      "last_spawn": "2026-06-26T11:34:57.650034"
+      "total_spawns": 22755,
+      "last_spawn": "2026-06-26T11:35:31.776099"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27357,
+    "total_spawns": 27362,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
