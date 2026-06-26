@@ -65,7 +65,7 @@
         "Ducklett": 26,
         "Lokix": 28,
         "Glimmora": 36,
-        "Starly": 112,
+        "Starly": 113,
         "Tandemaus": 84,
         "Smoliv": 115,
         "Gloom": 26,
@@ -137,7 +137,7 @@
         "Charcadet": 125,
         "Croconaw": 26,
         "Phanpy": 16,
-        "Brambleghast": 35,
+        "Brambleghast": 36,
         "Pidgey": 129,
         "Rhyhorn": 106,
         "Sentret": 30,
@@ -225,7 +225,7 @@
         "Rillaboom": 11,
         "Ninetales": 9,
         "Wattrel": 112,
-        "Snubbull": 24,
+        "Snubbull": 25,
         "Spidops": 24,
         "Braixen": 25,
         "Drowzee": 22,
@@ -282,7 +282,7 @@
         "Crocalor": 31,
         "Cryogonal": 10,
         "Eternatus": 1,
-        "Gholdengo": 27,
+        "Gholdengo": 28,
         "Charmeleon": 12,
         "Dipplin": 2,
         "Cramorant": 7,
@@ -456,7 +456,7 @@
         "Sunflora": 6,
         "Passimian": 11,
         "Iron moth": 2,
-        "Cherubi": 25,
+        "Cherubi": 26,
         "Cradily": 10,
         "Vulpix": 24,
         "Paras": 30,
@@ -520,7 +520,7 @@
         "Victreebel": 7,
         "Arctibax": 26,
         "Foongus": 33,
-        "Pansage": 18,
+        "Pansage": 19,
         "Cranidos": 30,
         "Spewpa": 26,
         "Tyrunt": 21,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23754,
-      "last_spawn": "2026-06-26T16:07:47.912052"
+      "total_spawns": 23760,
+      "last_spawn": "2026-06-26T16:08:27.157002"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28367,
+    "total_spawns": 28373,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
