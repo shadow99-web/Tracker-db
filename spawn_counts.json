@@ -64,8 +64,8 @@
         "Beldum": 82,
         "Ducklett": 26,
         "Lokix": 28,
-        "Glimmora": 35,
-        "Starly": 108,
+        "Glimmora": 36,
+        "Starly": 109,
         "Tandemaus": 82,
         "Smoliv": 113,
         "Gloom": 26,
@@ -96,7 +96,7 @@
         "Sandslash": 7,
         "Kabuto": 28,
         "Scatterbug": 116,
-        "Pumpkaboo": 26,
+        "Pumpkaboo": 27,
         "Numel": 32,
         "Carracosta": 7,
         "Smearguru": 83,
@@ -416,7 +416,7 @@
         "Larvitar": 53,
         "Tentacool": 17,
         "Volcanion": 1,
-        "Roaming gimmighoul": 82,
+        "Roaming gimmighoul": 83,
         "Summer sawsbuck": 11,
         "Delibird": 10,
         "Ride cyclizar": 36,
@@ -606,7 +606,7 @@
         "Naclstack": 22,
         "Claydol": 5,
         "Turtonator": 7,
-        "Hitmonlee": 6,
+        "Hitmonlee": 7,
         "Houndstone": 12,
         "Sandy wormadam": 5,
         "Stunky": 25,
@@ -1072,8 +1072,8 @@
         "Hisuian lilligant": 1,
         "Fezandipiti": 1
       },
-      "total_spawns": 23381,
-      "last_spawn": "2026-06-26T12:46:31.730840"
+      "total_spawns": 23386,
+      "last_spawn": "2026-06-26T12:47:07.162091"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1284,7 +1284,7 @@
     }
   },
   "global": {
-    "total_spawns": 27989,
+    "total_spawns": 27994,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
