@@ -32,7 +32,7 @@
         "Sandile": 107,
         "Sandygast": 33,
         "Litwick": 131,
-        "Grubbin": 92,
+        "Grubbin": 93,
         "Escavalier": 10,
         "Dratini": 70,
         "Kilowattrel": 25,
@@ -43,7 +43,7 @@
         "Fletchling": 95,
         "Skiploom": 28,
         "Timburr": 120,
-        "Dj rotom": 95,
+        "Dj rotom": 96,
         "Surskit": 33,
         "Seedot": 93,
         "Skitty": 25,
@@ -152,7 +152,7 @@
         "Roggenrola": 105,
         "Pidove": 99,
         "Dragapult": 11,
-        "Rattata": 62,
+        "Rattata": 63,
         "Flapple": 11,
         "Aron": 105,
         "Boldore": 24,
@@ -738,7 +738,7 @@
         "Lumineon": 8,
         "Thievul": 5,
         "Greedent": 8,
-        "Ekans": 24,
+        "Ekans": 25,
         "Venonat": 19,
         "Pelipper": 8,
         "Metapod": 18,
@@ -995,7 +995,7 @@
         "Ledian": 5,
         "Cherrim": 3,
         "Blade aegislash": 2,
-        "Miltank": 2,
+        "Miltank": 3,
         "Tyranitar": 3,
         "Inteleon": 5,
         "Rotom drone": 2,
@@ -1069,8 +1069,8 @@
         "Rayquaza": 1,
         "Heat rotom": 1
       },
-      "total_spawns": 22600,
-      "last_spawn": "2026-06-26T11:17:47.149061"
+      "total_spawns": 22605,
+      "last_spawn": "2026-06-26T11:18:17.199295"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1281,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27206,
+    "total_spawns": 27211,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
