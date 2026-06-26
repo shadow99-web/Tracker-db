@@ -54,7 +54,7 @@
         "Zubat": 123,
         "Vanillish": 34,
         "Tadbulb": 130,
-        "Magnemite": 108,
+        "Magnemite": 109,
         "Whismur": 104,
         "Monferno": 25,
         "Skwovet": 31,
@@ -113,7 +113,7 @@
         "Bonsly": 5,
         "Horsea": 104,
         "Frigibax": 100,
-        "Spheal": 125,
+        "Spheal": 126,
         "Swadloon": 32,
         "Flittle": 92,
         "Unfezant": 11,
@@ -467,7 +467,7 @@
         "Wobbuffet": 5,
         "Roselia": 14,
         "Shelgon": 18,
-        "Buizel": 22,
+        "Buizel": 23,
         "Arctozolt": 8,
         "Snorunt": 20,
         "Bunnelby": 26,
@@ -543,7 +543,7 @@
         "Pawmot": 7,
         "Skiddo": 20,
         "Slowbro": 8,
-        "Oricorio": 8,
+        "Oricorio": 9,
         "Kangaskhan": 7,
         "Krokorok": 26,
         "Dragonair": 19,
@@ -620,7 +620,7 @@
         "Talonflame": 5,
         "Kleavor": 10,
         "East sea gastrodon": 4,
-        "Frillish": 34,
+        "Frillish": 35,
         "Manaphy": 2,
         "Gardevoir": 6,
         "Malamar": 7,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23684,
-      "last_spawn": "2026-06-26T15:59:59.196808"
+      "total_spawns": 23689,
+      "last_spawn": "2026-06-26T16:00:31.939777"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1287,7 +1287,7 @@
     }
   },
   "global": {
-    "total_spawns": 28296,
+    "total_spawns": 28301,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
