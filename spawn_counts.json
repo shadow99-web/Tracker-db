@@ -19,13 +19,13 @@
         "Psyduck": 16,
         "Rockruff": 25,
         "Haunter": 26,
-        "Tangela": 27,
+        "Tangela": 28,
         "Orbeetle": 6,
         "Dedenne": 8,
         "Machop": 78,
         "Dudunsparce": 21,
         "Gothita": 93,
-        "Impidimp": 86,
+        "Impidimp": 87,
         "Charmander": 47,
         "Morelull": 20,
         "Abra": 102,
@@ -139,7 +139,7 @@
         "Phanpy": 16,
         "Brambleghast": 33,
         "Pidgey": 127,
-        "Rhyhorn": 103,
+        "Rhyhorn": 104,
         "Sentret": 30,
         "Yungoos": 22,
         "Diglett": 36,
@@ -150,7 +150,7 @@
         "Dracovish": 5,
         "Bulbasaur": 22,
         "Roggenrola": 105,
-        "Pidove": 98,
+        "Pidove": 99,
         "Dragapult": 11,
         "Rattata": 62,
         "Flapple": 11,
@@ -240,7 +240,7 @@
         "Omanyte": 21,
         "Galvantula": 7,
         "Chansey": 15,
-        "Shroodle": 104,
+        "Shroodle": 105,
         "Duskull": 116,
         "Bergmite": 25,
         "Pignite": 24,
@@ -393,7 +393,7 @@
         "Unown m": 1,
         "Stufful": 22,
         "Wailord": 6,
-        "Makuhita": 28,
+        "Makuhita": 29,
         "Lombre": 25,
         "Ursaluna": 9,
         "Furfrou": 7,
@@ -1069,8 +1069,8 @@
         "Rayquaza": 1,
         "Heat rotom": 1
       },
-      "total_spawns": 22579,
-      "last_spawn": "2026-06-26T11:15:27.426933"
+      "total_spawns": 22585,
+      "last_spawn": "2026-06-26T11:16:07.137474"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1281,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27185,
+    "total_spawns": 27191,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
