@@ -95,7 +95,7 @@
         "Hoppip": 97,
         "Sandslash": 7,
         "Kabuto": 28,
-        "Scatterbug": 115,
+        "Scatterbug": 116,
         "Pumpkaboo": 26,
         "Numel": 30,
         "Carracosta": 7,
@@ -111,7 +111,7 @@
         "Scizor": 5,
         "Sneasel": 26,
         "Bonsly": 5,
-        "Horsea": 102,
+        "Horsea": 103,
         "Frigibax": 97,
         "Spheal": 123,
         "Swadloon": 30,
@@ -180,12 +180,12 @@
         "Grafaiai": 19,
         "Quilladin": 19,
         "Geodude": 115,
-        "Espurr": 27,
+        "Espurr": 28,
         "Cottonee": 19,
         "Elgyem": 19,
         "Luvdisc": 8,
         "Vigoroth": 30,
-        "Skorupi": 28,
+        "Skorupi": 29,
         "Pikachu": 26,
         "Blue plumage squawkabilly": 17,
         "Thwackey": 24,
@@ -249,7 +249,7 @@
         "Dachsbun": 26,
         "Turtwig": 27,
         "Prinplup": 24,
-        "Tinkatink": 107,
+        "Tinkatink": 108,
         "Lechonk": 109,
         "Kommo-o": 2,
         "Dewott": 26,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 22,
         "Drifloon": 22,
-        "Golbat": 24,
+        "Golbat": 25,
         "Swablu": 25,
         "Shellder": 26,
         "Crobat": 11,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 22997,
-      "last_spawn": "2026-06-26T12:03:09.387830"
+      "total_spawns": 23003,
+      "last_spawn": "2026-06-26T12:03:46.998344"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27605,
+    "total_spawns": 27611,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
