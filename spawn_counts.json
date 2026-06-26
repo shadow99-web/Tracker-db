@@ -123,7 +123,7 @@
         "Battle cyclizar": 47,
         "Togetic": 37,
         "Palpitoad": 18,
-        "Pikipek": 123,
+        "Pikipek": 124,
         "Teddiursa": 101,
         "Clamperl": 32,
         "Zigzagoon": 36,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23984,
-      "last_spawn": "2026-06-26T18:57:51.434916"
+      "total_spawns": 23985,
+      "last_spawn": "2026-06-26T18:58:28.819629"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1291,10 +1291,11 @@
         "Machop": 1,
         "Onix": 1,
         "Lampent": 1,
-        "East sea gastrodon": 1
+        "East sea gastrodon": 1,
+        "Magcargo": 1
       },
-      "total_spawns": 359,
-      "last_spawn": "2026-06-26T18:52:59.797481"
+      "total_spawns": 360,
+      "last_spawn": "2026-06-26T18:58:14.776588"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1304,7 +1305,7 @@
     }
   },
   "global": {
-    "total_spawns": 28630,
+    "total_spawns": 28632,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
