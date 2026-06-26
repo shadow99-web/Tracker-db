@@ -24,7 +24,7 @@
         "Dedenne": 8,
         "Machop": 87,
         "Dudunsparce": 21,
-        "Gothita": 101,
+        "Gothita": 102,
         "Impidimp": 94,
         "Charmander": 53,
         "Morelull": 22,
@@ -69,7 +69,7 @@
         "Tandemaus": 86,
         "Smoliv": 115,
         "Gloom": 26,
-        "Clefairy": 25,
+        "Clefairy": 26,
         "Spinda": 7,
         "Fomantis": 16,
         "Droopy tatsugiri": 45,
@@ -139,7 +139,7 @@
         "Phanpy": 16,
         "Brambleghast": 36,
         "Pidgey": 130,
-        "Rhyhorn": 106,
+        "Rhyhorn": 107,
         "Sentret": 30,
         "Yungoos": 24,
         "Diglett": 37,
@@ -288,7 +288,7 @@
         "Cramorant": 7,
         "Chef dente": 80,
         "Volcarona": 3,
-        "Bewear": 7,
+        "Bewear": 8,
         "Piloswine": 24,
         "Simisage": 4,
         "Jellicent": 6,
@@ -838,7 +838,7 @@
         "Alolan meowth": 1,
         "Klang": 23,
         "Manectric": 5,
-        "Gallade": 8,
+        "Gallade": 9,
         "Family of three maushold": 4,
         "Lunatone": 7,
         "Exeggutor": 3,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23901,
-      "last_spawn": "2026-06-26T16:24:27.096349"
+      "total_spawns": 23906,
+      "last_spawn": "2026-06-26T16:24:57.998547"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28514,
+    "total_spawns": 28519,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
