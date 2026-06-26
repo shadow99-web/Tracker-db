@@ -240,8 +240,8 @@
         "Omanyte": 22,
         "Galvantula": 7,
         "Chansey": 16,
-        "Shroodle": 108,
-        "Duskull": 119,
+        "Shroodle": 109,
+        "Duskull": 120,
         "Bergmite": 25,
         "Pignite": 25,
         "Lurantis": 3,
@@ -387,7 +387,7 @@
         "Shellder": 26,
         "Crobat": 11,
         "Sandshrew": 27,
-        "Palafin": 23,
+        "Palafin": 24,
         "Maractus": 6,
         "Sigilyph": 11,
         "Unown m": 1,
@@ -701,7 +701,7 @@
         "Celebi": 2,
         "Hero palafin": 5,
         "Litten": 36,
-        "Abomasnow": 6,
+        "Abomasnow": 7,
         "Espeon": 4,
         "Hatenna": 97,
         "Zoroark": 9,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23091,
-      "last_spawn": "2026-06-26T12:13:37.164774"
+      "total_spawns": 23095,
+      "last_spawn": "2026-06-26T12:14:07.381772"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27699,
+    "total_spawns": 27703,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
