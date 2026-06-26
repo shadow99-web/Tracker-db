@@ -128,7 +128,7 @@
         "Clamperl": 30,
         "Zigzagoon": 36,
         "Weedle": 130,
-        "Flamigo": 106,
+        "Flamigo": 107,
         "Lillipup": 99,
         "Shinx": 120,
         "Bounsweet": 91,
@@ -298,7 +298,7 @@
         "Pancham": 28,
         "Venipede": 124,
         "Cacturne": 6,
-        "Oddish": 109,
+        "Oddish": 110,
         "Dragalge": 8,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -322,7 +322,7 @@
         "Gossifleur": 32,
         "Oshawott": 37,
         "Murkrow": 27,
-        "Bellsprout": 122,
+        "Bellsprout": 123,
         "Mudbray": 29,
         "Dreepy": 97,
         "Tinkaton": 7,
@@ -697,7 +697,7 @@
         "Bruxish": 3,
         "Corvisquire": 18,
         "Mantine": 10,
-        "Electrode": 5,
+        "Electrode": 6,
         "Celebi": 2,
         "Hero palafin": 5,
         "Litten": 37,
@@ -934,7 +934,7 @@
         "Druddigon": 6,
         "Honchkrow": 5,
         "Pyukumuku": 6,
-        "Machoke": 24,
+        "Machoke": 25,
         "Sunshine cherrim": 4,
         "Beautifly": 6,
         "Ting-lu": 1,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23332,
-      "last_spawn": "2026-06-26T12:40:52.114125"
+      "total_spawns": 23337,
+      "last_spawn": "2026-06-26T12:41:27.175947"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27940,
+    "total_spawns": 27945,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
