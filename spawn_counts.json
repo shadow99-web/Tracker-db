@@ -51,7 +51,7 @@
         "Slugma": 36,
         "Grotle": 21,
         "Porygon": 126,
-        "Zubat": 123,
+        "Zubat": 124,
         "Vanillish": 34,
         "Tadbulb": 130,
         "Magnemite": 109,
@@ -113,7 +113,7 @@
         "Bonsly": 5,
         "Horsea": 104,
         "Frigibax": 100,
-        "Spheal": 126,
+        "Spheal": 127,
         "Swadloon": 32,
         "Flittle": 92,
         "Unfezant": 11,
@@ -194,7 +194,7 @@
         "Pidgeotto": 33,
         "Spearow": 36,
         "Helioptile": 23,
-        "Hoothoot": 34,
+        "Hoothoot": 35,
         "Grookey": 32,
         "Meditite": 19,
         "Toedscruel": 32,
@@ -214,7 +214,7 @@
         "Noivern": 4,
         "Feraligatr": 6,
         "Tynamo": 116,
-        "Orthworm": 103,
+        "Orthworm": 104,
         "Marill": 28,
         "Joltik": 33,
         "Politoed": 7,
@@ -282,7 +282,7 @@
         "Crocalor": 31,
         "Cryogonal": 10,
         "Eternatus": 1,
-        "Gholdengo": 28,
+        "Gholdengo": 29,
         "Charmeleon": 12,
         "Dipplin": 2,
         "Cramorant": 7,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23760,
-      "last_spawn": "2026-06-26T16:08:27.157002"
+      "total_spawns": 23765,
+      "last_spawn": "2026-06-26T16:08:57.167598"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28373,
+    "total_spawns": 28378,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
