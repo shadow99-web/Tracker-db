@@ -178,7 +178,7 @@
         "Wurmple": 95,
         "Binacle": 31,
         "Grafaiai": 19,
-        "Quilladin": 20,
+        "Quilladin": 21,
         "Geodude": 117,
         "Espurr": 29,
         "Cottonee": 19,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 22,
         "Dhelmise": 5,
-        "Bagon": 63,
+        "Bagon": 64,
         "Sudowoodo": 6,
         "Stoutland": 5,
         "Rowlet": 37,
@@ -363,7 +363,7 @@
         "Mankey": 29,
         "Bidoof": 23,
         "Quilava": 33,
-        "Finizen": 99,
+        "Finizen": 100,
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 91,
@@ -391,7 +391,7 @@
         "Maractus": 7,
         "Sigilyph": 11,
         "Unown m": 1,
-        "Stufful": 23,
+        "Stufful": 24,
         "Wailord": 6,
         "Makuhita": 31,
         "Lombre": 25,
@@ -673,7 +673,7 @@
         "Grimer": 21,
         "Crabominable": 5,
         "Quaquaval": 8,
-        "Sprigatito": 32,
+        "Sprigatito": 33,
         "Metagross": 5,
         "Eelektrik": 20,
         "Gastrodon": 10,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23416,
-      "last_spawn": "2026-06-26T15:30:09.962742"
+      "total_spawns": 23421,
+      "last_spawn": "2026-06-26T15:30:47.403961"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28026,
+    "total_spawns": 28031,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
