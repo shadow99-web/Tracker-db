@@ -53,7 +53,7 @@
         "Porygon": 122,
         "Zubat": 121,
         "Vanillish": 34,
-        "Tadbulb": 128,
+        "Tadbulb": 129,
         "Magnemite": 106,
         "Whismur": 100,
         "Monferno": 25,
@@ -107,7 +107,7 @@
         "Wingull": 32,
         "Salamence": 3,
         "Drakloak": 23,
-        "Chewtle": 24,
+        "Chewtle": 25,
         "Scizor": 5,
         "Sneasel": 26,
         "Bonsly": 5,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 47,
         "Togetic": 36,
         "Palpitoad": 18,
-        "Pikipek": 120,
+        "Pikipek": 121,
         "Teddiursa": 101,
         "Clamperl": 30,
         "Zigzagoon": 35,
@@ -589,7 +589,7 @@
         "Blaze breed tauros": 2,
         "Wimpod": 20,
         "Torterra": 6,
-        "Darmanitan": 7,
+        "Darmanitan": 8,
         "Rainy castform": 4,
         "Galarian darumaka": 1,
         "Mienfoo": 21,
@@ -667,7 +667,7 @@
         "White flower floette": 6,
         "Skeledirge": 12,
         "Amoonguss": 8,
-        "Appletun": 3,
+        "Appletun": 4,
         "Krookodile": 12,
         "Primeape": 8,
         "Grimer": 21,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23236,
-      "last_spawn": "2026-06-26T12:30:01.500544"
+      "total_spawns": 23241,
+      "last_spawn": "2026-06-26T12:30:31.637280"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27844,
+    "total_spawns": 27849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
