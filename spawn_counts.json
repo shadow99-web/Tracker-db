@@ -175,7 +175,7 @@
         "Gible": 73,
         "Rookidee": 73,
         "Minccino": 39,
-        "Wurmple": 96,
+        "Wurmple": 97,
         "Binacle": 32,
         "Grafaiai": 19,
         "Quilladin": 21,
@@ -435,7 +435,7 @@
         "Zebstrika": 9,
         "Shuppet": 30,
         "Paldean wooper": 6,
-        "Salandit": 24,
+        "Salandit": 25,
         "School wishiwashi": 6,
         "Snivy": 35,
         "Wyrdeer": 6,
@@ -474,7 +474,7 @@
         "Gulping cramorant": 3,
         "Simisear": 4,
         "White plumage squawkabilly": 32,
-        "Shelmet": 29,
+        "Shelmet": 30,
         "Solrock": 7,
         "Slowpoke": 32,
         "Dolliv": 28,
@@ -699,7 +699,7 @@
         "Mantine": 10,
         "Electrode": 6,
         "Celebi": 2,
-        "Hero palafin": 5,
+        "Hero palafin": 6,
         "Litten": 38,
         "Abomasnow": 7,
         "Espeon": 4,
@@ -881,7 +881,7 @@
         "Seaking": 6,
         "High plain vivillon": 1,
         "Urshifu": 1,
-        "Swalot": 4,
+        "Swalot": 5,
         "Cloyster": 4,
         "Kingler": 12,
         "Alomomola": 3,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23694,
-      "last_spawn": "2026-06-26T16:01:07.085213"
+      "total_spawns": 23699,
+      "last_spawn": "2026-06-26T16:01:37.218500"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1287,7 +1287,7 @@
     }
   },
   "global": {
-    "total_spawns": 28306,
+    "total_spawns": 28311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
