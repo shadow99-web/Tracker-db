@@ -178,7 +178,7 @@
         "Wurmple": 95,
         "Binacle": 30,
         "Grafaiai": 19,
-        "Quilladin": 19,
+        "Quilladin": 20,
         "Geodude": 116,
         "Espurr": 29,
         "Cottonee": 19,
@@ -214,7 +214,7 @@
         "Noivern": 4,
         "Feraligatr": 6,
         "Tynamo": 115,
-        "Orthworm": 102,
+        "Orthworm": 103,
         "Marill": 27,
         "Joltik": 33,
         "Politoed": 7,
@@ -766,7 +766,7 @@
         "Yanmega": 4,
         "Pawmo": 15,
         "Finneon": 15,
-        "Mamoswine": 9,
+        "Mamoswine": 10,
         "Drifblim": 4,
         "Meowscarada": 7,
         "Roserade": 7,
@@ -834,7 +834,7 @@
         "High-speed flight configuration genesect": 1,
         "Mantyke": 7,
         "Arctovish": 9,
-        "Ribombee": 4,
+        "Ribombee": 5,
         "Alolan meowth": 1,
         "Klang": 22,
         "Manectric": 5,
@@ -896,7 +896,7 @@
         "Stonjourner": 6,
         "Elekid": 5,
         "Floette": 5,
-        "Shedinja": 8,
+        "Shedinja": 9,
         "Baxcalibur": 4,
         "Galarian articuno": 1,
         "Audino": 9,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23221,
-      "last_spawn": "2026-06-26T12:28:17.206745"
+      "total_spawns": 23226,
+      "last_spawn": "2026-06-26T12:28:52.399581"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27829,
+    "total_spawns": 27834,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
