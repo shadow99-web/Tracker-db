@@ -51,7 +51,7 @@
         "Slugma": 36,
         "Grotle": 21,
         "Porygon": 127,
-        "Zubat": 124,
+        "Zubat": 125,
         "Vanillish": 34,
         "Tadbulb": 132,
         "Magnemite": 109,
@@ -853,7 +853,7 @@
         "Minior": 6,
         "Mr. mime": 6,
         "Chesnaught": 5,
-        "Jumpluff": 4,
+        "Jumpluff": 5,
         "Heatmor": 4,
         "Dubwool": 6,
         "Shuckle": 5,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23951,
-      "last_spawn": "2026-06-26T16:31:51.901375"
+      "total_spawns": 23953,
+      "last_spawn": "2026-06-26T16:32:31.795657"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28565,
+    "total_spawns": 28567,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
