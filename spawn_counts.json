@@ -97,7 +97,7 @@
         "Kabuto": 28,
         "Scatterbug": 116,
         "Pumpkaboo": 26,
-        "Numel": 30,
+        "Numel": 31,
         "Carracosta": 7,
         "Smearguru": 82,
         "Veluza": 113,
@@ -128,7 +128,7 @@
         "Clamperl": 30,
         "Zigzagoon": 35,
         "Weedle": 130,
-        "Flamigo": 105,
+        "Flamigo": 106,
         "Lillipup": 99,
         "Shinx": 120,
         "Bounsweet": 91,
@@ -173,7 +173,7 @@
         "Swinub": 111,
         "Inkay": 31,
         "Gible": 72,
-        "Rookidee": 71,
+        "Rookidee": 72,
         "Minccino": 39,
         "Wurmple": 95,
         "Binacle": 30,
@@ -324,7 +324,7 @@
         "Murkrow": 27,
         "Bellsprout": 122,
         "Mudbray": 29,
-        "Dreepy": 96,
+        "Dreepy": 97,
         "Tinkaton": 7,
         "Corviknight": 10,
         "Froakie": 31,
@@ -1022,7 +1022,7 @@
         "Sharpedo": 3,
         "Vanilla cream star sweet alcremie": 1,
         "Jirachi": 3,
-        "Decidueye": 2,
+        "Decidueye": 3,
         "Combat breed tauros": 1,
         "Swoobat": 3,
         "Mr. rime": 1,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23276,
-      "last_spawn": "2026-06-26T12:34:27.211042"
+      "total_spawns": 23281,
+      "last_spawn": "2026-06-26T12:35:00.111264"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27884,
+    "total_spawns": 27889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
