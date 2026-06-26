@@ -83,7 +83,7 @@
         "Baltoy": 34,
         "Mareep": 113,
         "Garbodor": 6,
-        "Slakoth": 114,
+        "Slakoth": 115,
         "Togepi": 94,
         "Falinks": 7,
         "Tropius": 5,
@@ -117,7 +117,7 @@
         "Swadloon": 32,
         "Flittle": 92,
         "Unfezant": 11,
-        "Yamask": 22,
+        "Yamask": 23,
         "Ralts": 92,
         "Solosis": 96,
         "Battle cyclizar": 47,
@@ -219,7 +219,7 @@
         "Joltik": 33,
         "Politoed": 7,
         "Cyndaquil": 37,
-        "Fuecoco": 33,
+        "Fuecoco": 34,
         "Cyclizar": 45,
         "Magmar": 26,
         "Rillaboom": 11,
@@ -240,7 +240,7 @@
         "Omanyte": 22,
         "Galvantula": 7,
         "Chansey": 17,
-        "Shroodle": 113,
+        "Shroodle": 114,
         "Duskull": 124,
         "Bergmite": 25,
         "Pignite": 26,
@@ -627,7 +627,7 @@
         "Frost rotom": 4,
         "Tatsugiri": 36,
         "Nidorino": 22,
-        "Wailmer": 29,
+        "Wailmer": 30,
         "Krabby": 27,
         "Bronzong": 7,
         "Lanturn": 6,
@@ -741,7 +741,7 @@
         "Ekans": 25,
         "Venonat": 19,
         "Pelipper": 8,
-        "Metapod": 18,
+        "Metapod": 19,
         "Kricketune": 12,
         "Nidoqueen": 4,
         "Hitmonchan": 2,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23622,
-      "last_spawn": "2026-06-26T15:53:07.316920"
+      "total_spawns": 23628,
+      "last_spawn": "2026-06-26T15:53:47.073771"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28232,
+    "total_spawns": 28238,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
