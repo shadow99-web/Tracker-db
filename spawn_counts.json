@@ -6,7 +6,7 @@
         "Chimchar": 43,
         "Patrat": 31,
         "Mosslax": 67,
-        "Drilbur": 28,
+        "Drilbur": 29,
         "Pawmi": 98,
         "Electabuzz": 23,
         "Rellor": 94,
@@ -51,13 +51,13 @@
         "Slugma": 36,
         "Grotle": 21,
         "Porygon": 123,
-        "Zubat": 121,
+        "Zubat": 122,
         "Vanillish": 34,
         "Tadbulb": 129,
         "Magnemite": 108,
         "Whismur": 102,
         "Monferno": 25,
-        "Skwovet": 30,
+        "Skwovet": 31,
         "Bramblin": 119,
         "Yanma": 24,
         "Larvesta": 41,
@@ -141,7 +141,7 @@
         "Pidgey": 129,
         "Rhyhorn": 106,
         "Sentret": 30,
-        "Yungoos": 23,
+        "Yungoos": 24,
         "Diglett": 37,
         "Doduo": 30,
         "Lairon": 28,
@@ -328,7 +328,7 @@
         "Tinkaton": 7,
         "Corviknight": 10,
         "Froakie": 31,
-        "Nymble": 95,
+        "Nymble": 96,
         "Ferrothorn": 5,
         "Servine": 28,
         "Blitzle": 28,
@@ -433,7 +433,7 @@
         "Feebas": 24,
         "Buneary": 28,
         "Zebstrika": 9,
-        "Shuppet": 29,
+        "Shuppet": 30,
         "Paldean wooper": 6,
         "Salandit": 24,
         "School wishiwashi": 6,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23475,
-      "last_spawn": "2026-06-26T15:36:47.296577"
+      "total_spawns": 23481,
+      "last_spawn": "2026-06-26T15:37:27.299621"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28085,
+    "total_spawns": 28091,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
