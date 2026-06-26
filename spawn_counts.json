@@ -36,7 +36,7 @@
         "Escavalier": 10,
         "Dratini": 71,
         "Kilowattrel": 25,
-        "Lotad": 136,
+        "Lotad": 137,
         "Qwilfish": 8,
         "Trapinch": 118,
         "Toedscool": 94,
@@ -137,7 +137,7 @@
         "Charcadet": 119,
         "Croconaw": 26,
         "Phanpy": 16,
-        "Brambleghast": 34,
+        "Brambleghast": 35,
         "Pidgey": 127,
         "Rhyhorn": 105,
         "Sentret": 30,
@@ -492,7 +492,7 @@
         "Copperajah": 5,
         "Magneton": 19,
         "Alakazam": 6,
-        "Bayleef": 27,
+        "Bayleef": 28,
         "Poochyena": 29,
         "Klinklang": 5,
         "Basculin": 7,
@@ -876,7 +876,7 @@
         "Alolan graveler": 1,
         "Cleffa": 10,
         "Machamp": 9,
-        "Altaria": 7,
+        "Altaria": 8,
         "Purugly": 6,
         "Seaking": 6,
         "High plain vivillon": 1,
@@ -992,7 +992,7 @@
         "Pachirisu": 5,
         "Unown p": 1,
         "Hisuian samurott": 1,
-        "Ledian": 5,
+        "Ledian": 6,
         "Cherrim": 3,
         "Blade aegislash": 2,
         "Miltank": 3,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23100,
-      "last_spawn": "2026-06-26T12:14:47.264725"
+      "total_spawns": 23105,
+      "last_spawn": "2026-06-26T12:15:17.416429"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27708,
+    "total_spawns": 27713,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
