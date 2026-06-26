@@ -47,7 +47,7 @@
         "Surskit": 33,
         "Seedot": 96,
         "Skitty": 26,
-        "Greavard": 112,
+        "Greavard": 113,
         "Slugma": 36,
         "Grotle": 21,
         "Porygon": 123,
@@ -57,7 +57,7 @@
         "Magnemite": 107,
         "Whismur": 101,
         "Monferno": 25,
-        "Skwovet": 29,
+        "Skwovet": 30,
         "Bramblin": 118,
         "Yanma": 23,
         "Larvesta": 41,
@@ -395,7 +395,7 @@
         "Wailord": 6,
         "Makuhita": 31,
         "Lombre": 25,
-        "Ursaluna": 9,
+        "Ursaluna": 10,
         "Furfrou": 7,
         "Sylveon": 5,
         "Nosepass": 24,
@@ -541,7 +541,7 @@
         "Vanilluxe": 6,
         "Jolteon": 8,
         "Pawmot": 7,
-        "Skiddo": 19,
+        "Skiddo": 20,
         "Slowbro": 7,
         "Oricorio": 8,
         "Kangaskhan": 7,
@@ -590,7 +590,7 @@
         "Wimpod": 20,
         "Torterra": 6,
         "Darmanitan": 8,
-        "Rainy castform": 4,
+        "Rainy castform": 5,
         "Galarian darumaka": 1,
         "Mienfoo": 22,
         "Dewgong": 8,
@@ -840,7 +840,7 @@
         "Manectric": 5,
         "Gallade": 8,
         "Family of three maushold": 4,
-        "Lunatone": 6,
+        "Lunatone": 7,
         "Exeggutor": 3,
         "Granbull": 4,
         "Graveler": 27,
@@ -1071,8 +1071,8 @@
         "Blue flower floette": 2,
         "Hisuian lilligant": 1
       },
-      "total_spawns": 23345,
-      "last_spawn": "2026-06-26T12:42:27.204557"
+      "total_spawns": 23351,
+      "last_spawn": "2026-06-26T12:43:07.160893"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1283,7 +1283,7 @@
     }
   },
   "global": {
-    "total_spawns": 27953,
+    "total_spawns": 27959,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
