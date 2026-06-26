@@ -99,7 +99,7 @@
         "Pumpkaboo": 26,
         "Numel": 30,
         "Carracosta": 7,
-        "Smearguru": 80,
+        "Smearguru": 81,
         "Veluza": 113,
         "Barboach": 39,
         "Klink": 82,
@@ -293,7 +293,7 @@
         "Simisage": 4,
         "Jellicent": 6,
         "Torkoal": 6,
-        "Ferroseed": 29,
+        "Ferroseed": 30,
         "Brionne": 17,
         "Pancham": 28,
         "Venipede": 124,
@@ -493,7 +493,7 @@
         "Magneton": 19,
         "Alakazam": 6,
         "Bayleef": 27,
-        "Poochyena": 28,
+        "Poochyena": 29,
         "Klinklang": 5,
         "Basculin": 7,
         "Throh": 11,
@@ -620,7 +620,7 @@
         "Talonflame": 5,
         "Kleavor": 9,
         "East sea gastrodon": 4,
-        "Frillish": 31,
+        "Frillish": 32,
         "Manaphy": 2,
         "Gardevoir": 6,
         "Malamar": 7,
@@ -648,7 +648,7 @@
         "Archeops": 7,
         "Shiftry": 4,
         "Arbok": 5,
-        "Stretchy tatsugiri": 35,
+        "Stretchy tatsugiri": 36,
         "Mareanie": 27,
         "Seadra": 17,
         "Beheeyem": 6,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23095,
-      "last_spawn": "2026-06-26T12:14:07.381772"
+      "total_spawns": 23100,
+      "last_spawn": "2026-06-26T12:14:47.264725"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27703,
+    "total_spawns": 27708,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
