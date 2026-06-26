@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 41,
+        "Chimchar": 42,
         "Patrat": 30,
         "Mosslax": 66,
         "Drilbur": 26,
@@ -18,7 +18,7 @@
         "Tranquill": 24,
         "Psyduck": 16,
         "Rockruff": 25,
-        "Haunter": 25,
+        "Haunter": 26,
         "Tangela": 27,
         "Orbeetle": 6,
         "Dedenne": 8,
@@ -323,7 +323,7 @@
         "Oshawott": 34,
         "Murkrow": 27,
         "Bellsprout": 121,
-        "Mudbray": 27,
+        "Mudbray": 28,
         "Dreepy": 94,
         "Tinkaton": 7,
         "Corviknight": 10,
@@ -521,7 +521,7 @@
         "Arctibax": 25,
         "Foongus": 32,
         "Pansage": 18,
-        "Cranidos": 28,
+        "Cranidos": 29,
         "Spewpa": 25,
         "Tyrunt": 20,
         "Garganacl": 3,
@@ -648,7 +648,7 @@
         "Archeops": 7,
         "Shiftry": 4,
         "Arbok": 5,
-        "Stretchy tatsugiri": 33,
+        "Stretchy tatsugiri": 34,
         "Mareanie": 27,
         "Seadra": 17,
         "Beheeyem": 6,
@@ -1069,8 +1069,8 @@
         "Rayquaza": 1,
         "Heat rotom": 1
       },
-      "total_spawns": 22563,
-      "last_spawn": "2026-06-26T11:13:37.116824"
+      "total_spawns": 22568,
+      "last_spawn": "2026-06-26T11:14:11.869195"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1281,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27169,
+    "total_spawns": 27174,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
