@@ -1134,7 +1134,7 @@
         "Slaking": 1,
         "Flittle": 6,
         "Salazzle": 1,
-        "Skitty": 1,
+        "Skitty": 2,
         "Fletchling": 1,
         "Orthworm": 3,
         "Woobat": 2,
@@ -1288,8 +1288,8 @@
         "Crustle": 1,
         "Wooper": 1
       },
-      "total_spawns": 350,
-      "last_spawn": "2026-06-26T18:20:33.413248"
+      "total_spawns": 351,
+      "last_spawn": "2026-06-26T18:24:14.399871"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1299,7 +1299,7 @@
     }
   },
   "global": {
-    "total_spawns": 28616,
+    "total_spawns": 28617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
