@@ -100,7 +100,7 @@
         "Numel": 30,
         "Carracosta": 7,
         "Smearguru": 80,
-        "Veluza": 110,
+        "Veluza": 111,
         "Barboach": 39,
         "Klink": 82,
         "Honedge": 108,
@@ -193,7 +193,7 @@
         "Sunny castform": 8,
         "Pidgeotto": 32,
         "Spearow": 35,
-        "Helioptile": 22,
+        "Helioptile": 23,
         "Hoothoot": 33,
         "Grookey": 31,
         "Meditite": 17,
@@ -319,7 +319,7 @@
         "Jangmo-o": 49,
         "Trash wormadam": 9,
         "Quaxly": 39,
-        "Gossifleur": 31,
+        "Gossifleur": 32,
         "Oshawott": 36,
         "Murkrow": 27,
         "Bellsprout": 122,
@@ -342,7 +342,7 @@
         "Sobble": 33,
         "Mudkip": 31,
         "Charjabug": 23,
-        "Capsakid": 88,
+        "Capsakid": 89,
         "Revavroom": 31,
         "Exploud": 10,
         "Deino": 61,
@@ -837,7 +837,7 @@
         "Ribombee": 4,
         "Alolan meowth": 1,
         "Klang": 21,
-        "Manectric": 4,
+        "Manectric": 5,
         "Gallade": 7,
         "Family of three maushold": 4,
         "Lunatone": 6,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 22920,
-      "last_spawn": "2026-06-26T11:54:27.896228"
+      "total_spawns": 22925,
+      "last_spawn": "2026-06-26T11:55:01.677232"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27527,
+    "total_spawns": 27532,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
