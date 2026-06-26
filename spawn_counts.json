@@ -99,7 +99,7 @@
         "Pumpkaboo": 27,
         "Numel": 33,
         "Carracosta": 7,
-        "Smearguru": 84,
+        "Smearguru": 85,
         "Veluza": 116,
         "Barboach": 41,
         "Klink": 83,
@@ -173,7 +173,7 @@
         "Swinub": 113,
         "Inkay": 33,
         "Gible": 73,
-        "Rookidee": 73,
+        "Rookidee": 74,
         "Minccino": 39,
         "Wurmple": 98,
         "Binacle": 32,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 27,
         "Squirtle": 43,
-        "Remoraid": 24,
+        "Remoraid": 25,
         "Torracat": 24,
         "Hisuian zorua": 1,
         "Wooloo": 22,
@@ -407,7 +407,7 @@
         "Maschiff": 96,
         "Rufflet": 29,
         "Kabutops": 7,
-        "Dondozo": 96,
+        "Dondozo": 97,
         "Pansear": 28,
         "Cutiefly": 23,
         "Peakychu": 74,
@@ -786,7 +786,7 @@
         "Gorging cramorant": 1,
         "Shieldon": 17,
         "Masquerain": 10,
-        "Watchog": 6,
+        "Watchog": 7,
         "Ditto": 6,
         "Dada zarude": 1,
         "Happiny": 3,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23765,
-      "last_spawn": "2026-06-26T16:08:57.167598"
+      "total_spawns": 23770,
+      "last_spawn": "2026-06-26T16:09:31.917395"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28378,
+    "total_spawns": 28383,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
