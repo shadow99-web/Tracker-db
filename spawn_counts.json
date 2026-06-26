@@ -253,7 +253,7 @@
         "Lechonk": 110,
         "Kommo-o": 2,
         "Dewott": 27,
-        "Arrokuda": 22,
+        "Arrokuda": 23,
         "Golett": 27,
         "Vullaby": 17,
         "Cetitan": 26,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23990,
-      "last_spawn": "2026-06-26T19:01:43.227548"
+      "total_spawns": 23991,
+      "last_spawn": "2026-06-26T19:02:21.706857"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1292,10 +1292,11 @@
         "Onix": 1,
         "Lampent": 1,
         "East sea gastrodon": 1,
-        "Magcargo": 1
+        "Magcargo": 1,
+        "Electabuzz": 1
       },
-      "total_spawns": 360,
-      "last_spawn": "2026-06-26T18:58:14.776588"
+      "total_spawns": 361,
+      "last_spawn": "2026-06-26T19:02:06.600985"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1305,7 +1306,7 @@
     }
   },
   "global": {
-    "total_spawns": 28637,
+    "total_spawns": 28639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
