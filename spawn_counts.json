@@ -50,7 +50,7 @@
         "Greavard": 113,
         "Slugma": 36,
         "Grotle": 21,
-        "Porygon": 123,
+        "Porygon": 124,
         "Zubat": 122,
         "Vanillish": 34,
         "Tadbulb": 129,
@@ -65,7 +65,7 @@
         "Ducklett": 26,
         "Lokix": 28,
         "Glimmora": 36,
-        "Starly": 109,
+        "Starly": 110,
         "Tandemaus": 83,
         "Smoliv": 113,
         "Gloom": 26,
@@ -367,7 +367,7 @@
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 92,
-        "Carvanha": 19,
+        "Carvanha": 20,
         "Luxio": 27,
         "Treecko": 41,
         "Sinistea": 22,
@@ -583,7 +583,7 @@
         "Anorith": 32,
         "Meowth": 18,
         "Combee": 17,
-        "Fletchinder": 31,
+        "Fletchinder": 32,
         "Kingambit": 6,
         "Clodsire": 36,
         "Blaze breed tauros": 2,
@@ -864,7 +864,7 @@
         "Pa'u oricorio": 7,
         "Donphan": 2,
         "Charizard": 7,
-        "Pincurchin": 7,
+        "Pincurchin": 8,
         "Dunsparce": 2,
         "Lapras": 6,
         "Illumise": 9,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23512,
-      "last_spawn": "2026-06-26T15:40:52.001409"
+      "total_spawns": 23517,
+      "last_spawn": "2026-06-26T15:41:27.197020"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28122,
+    "total_spawns": 28127,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
