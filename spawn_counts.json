@@ -118,7 +118,7 @@
         "Flittle": 89,
         "Unfezant": 11,
         "Yamask": 22,
-        "Ralts": 86,
+        "Ralts": 87,
         "Solosis": 89,
         "Battle cyclizar": 47,
         "Togetic": 35,
@@ -163,7 +163,7 @@
         "Tepig": 41,
         "Kirlia": 27,
         "Piplup": 28,
-        "Kakuna": 28,
+        "Kakuna": 29,
         "Weepinbell": 25,
         "Klawf": 118,
         "Vanillite": 94,
@@ -205,7 +205,7 @@
         "Totodile": 33,
         "Dodrio": 8,
         "Cufant": 33,
-        "Tympole": 103,
+        "Tympole": 104,
         "Swellow": 8,
         "Aipom": 28,
         "Growlithe": 18,
@@ -336,7 +336,7 @@
         "Bisharp": 10,
         "Chespin": 29,
         "Sealeo": 23,
-        "Staryu": 18,
+        "Staryu": 19,
         "Samurott": 5,
         "Torchic": 44,
         "Sobble": 33,
@@ -773,7 +773,7 @@
         "Nidorina": 16,
         "Archaludon": 2,
         "Golduck": 5,
-        "Scolipede": 5,
+        "Scolipede": 6,
         "Marowak": 1,
         "Chingling": 4,
         "Beedrill": 14,
@@ -1069,8 +1069,8 @@
         "Rayquaza": 1,
         "Heat rotom": 1
       },
-      "total_spawns": 22595,
-      "last_spawn": "2026-06-26T11:17:11.896807"
+      "total_spawns": 22600,
+      "last_spawn": "2026-06-26T11:17:47.149061"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1281,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27201,
+    "total_spawns": 27206,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
