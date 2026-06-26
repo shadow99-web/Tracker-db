@@ -45,7 +45,7 @@
         "Timburr": 120,
         "Dj rotom": 95,
         "Surskit": 33,
-        "Seedot": 92,
+        "Seedot": 93,
         "Skitty": 25,
         "Greavard": 107,
         "Slugma": 35,
@@ -65,7 +65,7 @@
         "Ducklett": 24,
         "Lokix": 28,
         "Glimmora": 32,
-        "Starly": 104,
+        "Starly": 105,
         "Tandemaus": 80,
         "Smoliv": 107,
         "Gloom": 25,
@@ -136,7 +136,7 @@
         "Toxicroak": 8,
         "Charcadet": 117,
         "Croconaw": 24,
-        "Phanpy": 15,
+        "Phanpy": 16,
         "Brambleghast": 33,
         "Pidgey": 127,
         "Rhyhorn": 103,
@@ -407,7 +407,7 @@
         "Maschiff": 91,
         "Rufflet": 28,
         "Kabutops": 7,
-        "Dondozo": 89,
+        "Dondozo": 90,
         "Pansear": 28,
         "Cutiefly": 21,
         "Peakychu": 70,
@@ -673,7 +673,7 @@
         "Grimer": 21,
         "Crabominable": 5,
         "Quaquaval": 8,
-        "Sprigatito": 29,
+        "Sprigatito": 30,
         "Metagross": 5,
         "Eelektrik": 20,
         "Gastrodon": 9,
@@ -1069,8 +1069,8 @@
         "Rayquaza": 1,
         "Heat rotom": 1
       },
-      "total_spawns": 22568,
-      "last_spawn": "2026-06-26T11:14:11.869195"
+      "total_spawns": 22573,
+      "last_spawn": "2026-06-26T11:14:47.205927"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1281,7 +1281,7 @@
     }
   },
   "global": {
-    "total_spawns": 27174,
+    "total_spawns": 27179,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
