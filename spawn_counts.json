@@ -164,7 +164,7 @@
         "Kirlia": 27,
         "Piplup": 28,
         "Kakuna": 30,
-        "Weepinbell": 25,
+        "Weepinbell": 26,
         "Klawf": 118,
         "Vanillite": 96,
         "Flareon": 9,
@@ -202,7 +202,7 @@
         "Scraggy": 29,
         "Rhydon": 31,
         "Silcoon": 30,
-        "Totodile": 35,
+        "Totodile": 36,
         "Dodrio": 8,
         "Cufant": 33,
         "Tympole": 105,
@@ -345,7 +345,7 @@
         "Capsakid": 90,
         "Revavroom": 31,
         "Exploud": 10,
-        "Deino": 63,
+        "Deino": 64,
         "Wooper": 35,
         "Dwebble": 29,
         "Steenee": 29,
@@ -375,7 +375,7 @@
         "Hippopotas": 16,
         "Spiky-eared pichu": 3,
         "Magearna": 1,
-        "Mabosstiff": 26,
+        "Mabosstiff": 27,
         "Squirtle": 42,
         "Remoraid": 24,
         "Torracat": 23,
@@ -391,7 +391,7 @@
         "Maractus": 6,
         "Sigilyph": 11,
         "Unown m": 1,
-        "Stufful": 22,
+        "Stufful": 23,
         "Wailord": 6,
         "Makuhita": 31,
         "Lombre": 25,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23039,
-      "last_spawn": "2026-06-26T12:07:47.207906"
+      "total_spawns": 23044,
+      "last_spawn": "2026-06-26T12:08:27.178784"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27647,
+    "total_spawns": 27652,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
