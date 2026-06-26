@@ -1128,7 +1128,7 @@
         "Frigibax": 2,
         "Meowth": 1,
         "Dj rotom": 3,
-        "Prof tangrowth": 2,
+        "Prof tangrowth": 3,
         "Charcadet": 4,
         "Furfrou": 1,
         "Slaking": 1,
@@ -1278,10 +1278,11 @@
         "Darkrai": 1,
         "Growlithe": 1,
         "Nihilego": 1,
-        "Slakoth": 1
+        "Slakoth": 1,
+        "Marowak": 1
       },
-      "total_spawns": 339,
-      "last_spawn": "2026-06-26T17:57:55.117048"
+      "total_spawns": 341,
+      "last_spawn": "2026-06-26T17:58:42.611086"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1291,7 +1292,7 @@
     }
   },
   "global": {
-    "total_spawns": 28603,
+    "total_spawns": 28605,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
