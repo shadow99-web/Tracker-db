@@ -30,7 +30,7 @@
         "Morelull": 20,
         "Abra": 101,
         "Sandile": 107,
-        "Sandygast": 32,
+        "Sandygast": 33,
         "Litwick": 131,
         "Grubbin": 92,
         "Escavalier": 10,
@@ -363,7 +363,7 @@
         "Mankey": 27,
         "Bidoof": 23,
         "Quilava": 31,
-        "Finizen": 96,
+        "Finizen": 97,
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 88,
@@ -582,7 +582,7 @@
         "Scyther": 32,
         "Anorith": 32,
         "Meowth": 17,
-        "Combee": 16,
+        "Combee": 17,
         "Fletchinder": 31,
         "Kingambit": 6,
         "Clodsire": 34,
@@ -702,7 +702,7 @@
         "Hero palafin": 5,
         "Litten": 35,
         "Abomasnow": 6,
-        "Espeon": 3,
+        "Espeon": 4,
         "Hatenna": 96,
         "Zoroark": 9,
         "Lucario": 1,
@@ -729,7 +729,7 @@
         "Burmy": 8,
         "Popplio": 26,
         "Mandibuzz": 8,
-        "Walrein": 8,
+        "Walrein": 9,
         "Cinccino": 8,
         "Alolan sandshrew": 2,
         "Azurill": 5,
@@ -1068,8 +1068,8 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1
       },
-      "total_spawns": 22474,
-      "last_spawn": "2026-06-26T11:03:47.118579"
+      "total_spawns": 22479,
+      "last_spawn": "2026-06-26T11:04:17.146715"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1280,7 +1280,7 @@
     }
   },
   "global": {
-    "total_spawns": 27080,
+    "total_spawns": 27085,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
