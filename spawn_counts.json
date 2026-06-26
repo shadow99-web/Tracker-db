@@ -22,7 +22,7 @@
         "Tangela": 28,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 78,
+        "Machop": 79,
         "Dudunsparce": 21,
         "Gothita": 95,
         "Impidimp": 92,
@@ -53,7 +53,7 @@
         "Porygon": 122,
         "Zubat": 121,
         "Vanillish": 34,
-        "Tadbulb": 127,
+        "Tadbulb": 128,
         "Magnemite": 106,
         "Whismur": 100,
         "Monferno": 25,
@@ -530,7 +530,7 @@
         "Bastiodon": 4,
         "Floatzel": 5,
         "Accelgor": 3,
-        "Wormadam": 6,
+        "Wormadam": 7,
         "Axew": 91,
         "Trevenant": 9,
         "Trubbish": 16,
@@ -596,7 +596,7 @@
         "Dewgong": 8,
         "Wartortle": 21,
         "Cetoddle": 99,
-        "Kricketot": 23,
+        "Kricketot": 24,
         "Porygon-z": 4,
         "Conkeldurr": 7,
         "Walking wake": 2,
@@ -606,7 +606,7 @@
         "Naclstack": 21,
         "Claydol": 5,
         "Turtonator": 7,
-        "Hitmonlee": 5,
+        "Hitmonlee": 6,
         "Houndstone": 12,
         "Sandy wormadam": 5,
         "Stunky": 24,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23201,
-      "last_spawn": "2026-06-26T12:26:07.125274"
+      "total_spawns": 23206,
+      "last_spawn": "2026-06-26T12:26:37.196294"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27809,
+    "total_spawns": 27814,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
