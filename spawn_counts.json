@@ -50,7 +50,7 @@
         "Greavard": 109,
         "Slugma": 35,
         "Grotle": 20,
-        "Porygon": 121,
+        "Porygon": 122,
         "Zubat": 121,
         "Vanillish": 34,
         "Tadbulb": 122,
@@ -128,7 +128,7 @@
         "Clamperl": 29,
         "Zigzagoon": 35,
         "Weedle": 129,
-        "Flamigo": 103,
+        "Flamigo": 104,
         "Lillipup": 97,
         "Shinx": 118,
         "Bounsweet": 90,
@@ -141,7 +141,7 @@
         "Pidgey": 127,
         "Rhyhorn": 105,
         "Sentret": 30,
-        "Yungoos": 22,
+        "Yungoos": 23,
         "Diglett": 37,
         "Doduo": 30,
         "Lairon": 27,
@@ -298,7 +298,7 @@
         "Pancham": 27,
         "Venipede": 124,
         "Cacturne": 6,
-        "Oddish": 107,
+        "Oddish": 108,
         "Dragalge": 8,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -339,7 +339,7 @@
         "Staryu": 20,
         "Samurott": 6,
         "Torchic": 44,
-        "Sobble": 33,
+        "Sobble": 34,
         "Mudkip": 31,
         "Charjabug": 23,
         "Capsakid": 90,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 22986,
-      "last_spawn": "2026-06-26T12:01:51.801342"
+      "total_spawns": 22991,
+      "last_spawn": "2026-06-26T12:02:27.198961"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27593,
+    "total_spawns": 27598,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
