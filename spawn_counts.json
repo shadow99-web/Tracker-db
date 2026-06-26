@@ -170,7 +170,7 @@
         "Flareon": 9,
         "Gastly": 89,
         "Taillow": 25,
-        "Swinub": 110,
+        "Swinub": 111,
         "Inkay": 31,
         "Gible": 71,
         "Rookidee": 68,
@@ -224,7 +224,7 @@
         "Magmar": 23,
         "Rillaboom": 11,
         "Ninetales": 9,
-        "Wattrel": 107,
+        "Wattrel": 108,
         "Snubbull": 23,
         "Spidops": 24,
         "Braixen": 25,
@@ -407,7 +407,7 @@
         "Maschiff": 92,
         "Rufflet": 28,
         "Kabutops": 7,
-        "Dondozo": 92,
+        "Dondozo": 93,
         "Pansear": 28,
         "Cutiefly": 21,
         "Peakychu": 72,
@@ -803,7 +803,7 @@
         "Raichu": 4,
         "Mime jr.": 7,
         "Voltorb": 15,
-        "Lickitung": 17,
+        "Lickitung": 18,
         "Blue-striped basculin": 6,
         "Barraskewda": 3,
         "Salazzle": 9,
@@ -948,7 +948,7 @@
         "Luxray": 5,
         "Latias": 1,
         "Unown n": 1,
-        "Unown exclamation": 1,
+        "Unown exclamation": 2,
         "Ninjask": 6,
         "Nidoking": 4,
         "Pichu": 2,
@@ -964,7 +964,7 @@
         "Galarian darmanitan": 2,
         "Thundurus": 1,
         "Seismitoad": 6,
-        "Komala": 3,
+        "Komala": 4,
         "Reshiram": 1,
         "Azumarill": 4,
         "Galarian farfetch'd": 2,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 22795,
-      "last_spawn": "2026-06-26T11:40:07.304779"
+      "total_spawns": 22801,
+      "last_spawn": "2026-06-26T11:40:47.126702"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27402,
+    "total_spawns": 27408,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
