@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 5,
         "Bulbasaur": 22,
-        "Roggenrola": 107,
+        "Roggenrola": 108,
         "Pidove": 101,
         "Dragapult": 11,
         "Rattata": 64,
@@ -201,7 +201,7 @@
         "Probopass": 8,
         "Scraggy": 29,
         "Rhydon": 31,
-        "Silcoon": 28,
+        "Silcoon": 29,
         "Totodile": 33,
         "Dodrio": 8,
         "Cufant": 33,
@@ -233,7 +233,7 @@
         "Lampent": 29,
         "Petilil": 26,
         "Marshtomp": 27,
-        "Eiscue": 9,
+        "Eiscue": 10,
         "Summer deerling": 23,
         "Clauncher": 27,
         "Clobbopus": 22,
@@ -268,7 +268,7 @@
         "Loudred": 34,
         "Ceruledge": 30,
         "Houndour": 26,
-        "Glimmet": 107,
+        "Glimmet": 108,
         "Goomy": 66,
         "Zapdos": 1,
         "Natu": 21,
@@ -724,7 +724,7 @@
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
         "Typhlosion": 11,
-        "Ariados": 4,
+        "Ariados": 5,
         "Volbeat": 8,
         "Burmy": 9,
         "Popplio": 27,
@@ -1068,10 +1068,10 @@
         "Debutante trim furfrou": 1,
         "Rayquaza": 1,
         "Heat rotom": 1,
-        "Blue flower floette": 1
+        "Blue flower floette": 2
       },
-      "total_spawns": 22766,
-      "last_spawn": "2026-06-26T11:36:47.299629"
+      "total_spawns": 22772,
+      "last_spawn": "2026-06-26T11:37:27.096385"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27373,
+    "total_spawns": 27379,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
