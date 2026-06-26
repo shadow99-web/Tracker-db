@@ -61,7 +61,7 @@
         "Bramblin": 117,
         "Yanma": 23,
         "Larvesta": 41,
-        "Beldum": 81,
+        "Beldum": 82,
         "Ducklett": 25,
         "Lokix": 28,
         "Glimmora": 34,
@@ -351,7 +351,7 @@
         "Steenee": 29,
         "Darumaka": 31,
         "Arboliva": 7,
-        "Ledyba": 28,
+        "Ledyba": 29,
         "Spritzee": 26,
         "Swirlix": 21,
         "Aromatisse": 6,
@@ -444,7 +444,7 @@
         "Bibarel": 10,
         "Plusle": 6,
         "Skrelp": 25,
-        "Raticate": 19,
+        "Raticate": 20,
         "Wugtrio": 21,
         "Bellibolt": 26,
         "Morgrem": 19,
@@ -830,7 +830,7 @@
         "Omastar": 7,
         "Boltund": 9,
         "Lickilicky": 9,
-        "Dragonite": 3,
+        "Dragonite": 4,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 7,
         "Arctovish": 9,
@@ -915,7 +915,7 @@
         "Dracozolt": 4,
         "Galarian rapidash": 3,
         "Skuntank": 3,
-        "Gogoat": 2,
+        "Gogoat": 3,
         "Bellossom": 7,
         "Pirouette meloetta": 2,
         "Sableye": 5,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 23105,
-      "last_spawn": "2026-06-26T12:15:17.416429"
+      "total_spawns": 23110,
+      "last_spawn": "2026-06-26T12:15:52.203767"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27713,
+    "total_spawns": 27718,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
