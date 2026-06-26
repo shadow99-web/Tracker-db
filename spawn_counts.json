@@ -152,7 +152,7 @@
         "Roggenrola": 112,
         "Pidove": 102,
         "Dragapult": 11,
-        "Rattata": 65,
+        "Rattata": 66,
         "Flapple": 11,
         "Aron": 110,
         "Boldore": 25,
@@ -213,7 +213,7 @@
         "Fidough": 68,
         "Noivern": 4,
         "Feraligatr": 6,
-        "Tynamo": 115,
+        "Tynamo": 116,
         "Orthworm": 103,
         "Marill": 27,
         "Joltik": 33,
@@ -585,7 +585,7 @@
         "Combee": 17,
         "Fletchinder": 31,
         "Kingambit": 6,
-        "Clodsire": 35,
+        "Clodsire": 36,
         "Blaze breed tauros": 2,
         "Wimpod": 20,
         "Torterra": 6,
@@ -1070,10 +1070,11 @@
         "Heat rotom": 1,
         "Blue flower floette": 2,
         "Hisuian lilligant": 1,
-        "Fezandipiti": 1
+        "Fezandipiti": 1,
+        "Hisuian braviary": 1
       },
-      "total_spawns": 23396,
-      "last_spawn": "2026-06-26T12:48:11.897051"
+      "total_spawns": 23400,
+      "last_spawn": "2026-06-26T12:48:37.028308"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1128,7 +1129,7 @@
         "Meowth": 1,
         "Dj rotom": 3,
         "Prof tangrowth": 2,
-        "Charcadet": 3,
+        "Charcadet": 4,
         "Furfrou": 1,
         "Slaking": 1,
         "Flittle": 6,
@@ -1271,10 +1272,11 @@
         "Clefable": 1,
         "Durant": 1,
         "Pidgeotto": 1,
-        "Maushold": 1
+        "Maushold": 1,
+        "Dewpider": 1
       },
-      "total_spawns": 321,
-      "last_spawn": "2026-06-26T12:02:31.103148"
+      "total_spawns": 323,
+      "last_spawn": "2026-06-26T14:50:39.121288"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1284,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28004,
+    "total_spawns": 28010,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
