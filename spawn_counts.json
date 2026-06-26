@@ -78,7 +78,7 @@
         "Hatterene": 10,
         "Phantump": 33,
         "Duosion": 26,
-        "Amaura": 23,
+        "Amaura": 24,
         "Gimmighoul": 103,
         "Baltoy": 34,
         "Mareep": 113,
@@ -156,7 +156,7 @@
         "Flapple": 11,
         "Aron": 111,
         "Boldore": 25,
-        "Spinarak": 32,
+        "Spinarak": 33,
         "Delcatty": 6,
         "Spiritomb": 5,
         "Yamper": 27,
@@ -240,8 +240,8 @@
         "Omanyte": 22,
         "Galvantula": 7,
         "Chansey": 17,
-        "Shroodle": 112,
-        "Duskull": 123,
+        "Shroodle": 113,
+        "Duskull": 124,
         "Bergmite": 25,
         "Pignite": 26,
         "Lurantis": 3,
@@ -598,7 +598,7 @@
         "Cetoddle": 102,
         "Kricketot": 24,
         "Porygon-z": 5,
-        "Conkeldurr": 7,
+        "Conkeldurr": 8,
         "Walking wake": 2,
         "Yellow flower floette": 6,
         "Medicham": 5,
@@ -714,7 +714,7 @@
         "Snowy castform": 2,
         "Gengar": 10,
         "Forretress": 6,
-        "Hydrapple": 2,
+        "Hydrapple": 3,
         "Emolga": 7,
         "Tsareena": 7,
         "Blissey": 9,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23610,
-      "last_spawn": "2026-06-26T15:51:47.473736"
+      "total_spawns": 23616,
+      "last_spawn": "2026-06-26T15:52:27.405876"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1286,7 +1286,7 @@
     }
   },
   "global": {
-    "total_spawns": 28220,
+    "total_spawns": 28226,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
