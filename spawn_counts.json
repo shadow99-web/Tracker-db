@@ -103,7 +103,7 @@
         "Veluza": 108,
         "Barboach": 39,
         "Klink": 82,
-        "Honedge": 106,
+        "Honedge": 107,
         "Wingull": 32,
         "Salamence": 3,
         "Drakloak": 23,
@@ -149,7 +149,7 @@
         "Deoxys": 2,
         "Dracovish": 5,
         "Bulbasaur": 22,
-        "Roggenrola": 105,
+        "Roggenrola": 106,
         "Pidove": 100,
         "Dragapult": 11,
         "Rattata": 64,
@@ -214,7 +214,7 @@
         "Noivern": 4,
         "Feraligatr": 6,
         "Tynamo": 113,
-        "Orthworm": 100,
+        "Orthworm": 101,
         "Marill": 27,
         "Joltik": 33,
         "Politoed": 6,
@@ -398,7 +398,7 @@
         "Ursaluna": 9,
         "Furfrou": 7,
         "Sylveon": 5,
-        "Nosepass": 23,
+        "Nosepass": 24,
         "Persian": 3,
         "Lopunny": 8,
         "Squawkabilly": 24,
@@ -504,7 +504,7 @@
         "Alolan sandslash": 1,
         "Empoleon": 4,
         "Farigiraf": 25,
-        "Hakamo-o": 17,
+        "Hakamo-o": 18,
         "Glameow": 26,
         "Croagunk": 23,
         "Duraludon": 9,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 1
       },
-      "total_spawns": 22685,
-      "last_spawn": "2026-06-26T11:27:27.128221"
+      "total_spawns": 22690,
+      "last_spawn": "2026-06-26T11:27:57.223319"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27291,
+    "total_spawns": 27296,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
