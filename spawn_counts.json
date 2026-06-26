@@ -142,13 +142,13 @@
         "Rhyhorn": 104,
         "Sentret": 30,
         "Yungoos": 22,
-        "Diglett": 36,
+        "Diglett": 37,
         "Doduo": 30,
         "Lairon": 27,
         "Emboar": 6,
         "Deoxys": 2,
         "Dracovish": 5,
-        "Bulbasaur": 22,
+        "Bulbasaur": 23,
         "Roggenrola": 108,
         "Pidove": 101,
         "Dragapult": 11,
@@ -304,9 +304,9 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 24,
-        "Rolycoly": 94,
+        "Rolycoly": 95,
         "Bronzor": 30,
-        "Dartrix": 28,
+        "Dartrix": 29,
         "Yellow flower florges": 3,
         "Zangoose": 7,
         "Flygon": 5,
@@ -1070,8 +1070,8 @@
         "Heat rotom": 1,
         "Blue flower floette": 2
       },
-      "total_spawns": 22791,
-      "last_spawn": "2026-06-26T11:39:37.217643"
+      "total_spawns": 22795,
+      "last_spawn": "2026-06-26T11:40:07.304779"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1282,7 +1282,7 @@
     }
   },
   "global": {
-    "total_spawns": 27398,
+    "total_spawns": 27402,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
