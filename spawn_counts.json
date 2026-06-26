@@ -118,7 +118,7 @@
         "Flittle": 92,
         "Unfezant": 11,
         "Yamask": 25,
-        "Ralts": 93,
+        "Ralts": 94,
         "Solosis": 96,
         "Battle cyclizar": 47,
         "Togetic": 37,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 26,
-        "Rolycoly": 102,
+        "Rolycoly": 103,
         "Bronzor": 30,
         "Dartrix": 31,
         "Yellow flower florges": 4,
@@ -345,9 +345,9 @@
         "Capsakid": 92,
         "Revavroom": 31,
         "Exploud": 11,
-        "Deino": 64,
+        "Deino": 65,
         "Wooper": 35,
-        "Dwebble": 30,
+        "Dwebble": 31,
         "Steenee": 30,
         "Darumaka": 32,
         "Arboliva": 7,
@@ -407,7 +407,7 @@
         "Maschiff": 96,
         "Rufflet": 29,
         "Kabutops": 7,
-        "Dondozo": 97,
+        "Dondozo": 98,
         "Pansear": 28,
         "Cutiefly": 23,
         "Peakychu": 74,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 23781,
-      "last_spawn": "2026-06-26T16:10:47.119827"
+      "total_spawns": 23786,
+      "last_spawn": "2026-06-26T16:11:17.802543"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1288,7 +1288,7 @@
     }
   },
   "global": {
-    "total_spawns": 28394,
+    "total_spawns": 28399,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
