@@ -254,7 +254,7 @@
         "Kommo-o": 2,
         "Dewott": 29,
         "Arrokuda": 25,
-        "Golett": 31,
+        "Golett": 32,
         "Vullaby": 20,
         "Cetitan": 29,
         "Cubone": 29,
@@ -1083,8 +1083,8 @@
         "Gouging fire": 1,
         "White flower florges": 1
       },
-      "total_spawns": 26206,
-      "last_spawn": "2026-06-27T11:10:11.897982"
+      "total_spawns": 26207,
+      "last_spawn": "2026-06-27T16:59:06.825623"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1561,10 +1561,11 @@
         "Drizzile": 1,
         "Orange flower florges": 1,
         "Simisear": 1,
-        "Milcery": 1
+        "Milcery": 1,
+        "Petilil": 1
       },
-      "total_spawns": 1081,
-      "last_spawn": "2026-06-27T16:48:25.206741"
+      "total_spawns": 1082,
+      "last_spawn": "2026-06-27T16:48:45.118317"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1574,7 +1575,7 @@
     }
   },
   "global": {
-    "total_spawns": 31574,
+    "total_spawns": 31576,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
