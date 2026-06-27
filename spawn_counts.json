@@ -1219,7 +1219,7 @@
         "Litwick": 6,
         "Frost rotom": 1,
         "Cubchoo": 4,
-        "Abra": 4,
+        "Abra": 5,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1381,10 +1381,13 @@
         "Caterpie": 1,
         "Dondozo": 1,
         "Tranquill": 1,
-        "Porygon": 1
+        "Porygon": 1,
+        "Wooloo": 1,
+        "Oddish": 1,
+        "Barraskewda": 1
       },
-      "total_spawns": 547,
-      "last_spawn": "2026-06-27T14:13:37.540961"
+      "total_spawns": 551,
+      "last_spawn": "2026-06-27T14:14:17.507070"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1394,7 +1397,7 @@
     }
   },
   "global": {
-    "total_spawns": 31040,
+    "total_spawns": 31044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
