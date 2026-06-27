@@ -1095,7 +1095,7 @@
         "Barbaracle": 1,
         "Amoonguss": 1,
         "Mosslax": 9,
-        "Rookidee": 9,
+        "Rookidee": 10,
         "Roggenrola": 5,
         "Armarouge": 2,
         "Gastly": 5,
@@ -1363,10 +1363,13 @@
         "Charmander": 1,
         "Shroomish": 1,
         "Finizen": 1,
-        "Croconaw": 1
+        "Croconaw": 1,
+        "Bronzor": 1,
+        "Eelektrik": 1,
+        "Ledyba": 1
       },
-      "total_spawns": 501,
-      "last_spawn": "2026-06-27T14:06:18.095375"
+      "total_spawns": 505,
+      "last_spawn": "2026-06-27T14:06:57.599102"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1376,7 +1379,7 @@
     }
   },
   "global": {
-    "total_spawns": 30994,
+    "total_spawns": 30998,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
