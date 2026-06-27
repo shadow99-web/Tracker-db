@@ -1206,7 +1206,7 @@
         "Swablu": 4,
         "Darumaka": 1,
         "Wailmer": 1,
-        "Jangmo-o": 2,
+        "Jangmo-o": 3,
         "Aron": 5,
         "Kabuto": 2,
         "Togetic": 2,
@@ -1341,7 +1341,7 @@
         "Venipede": 2,
         "Maschiff": 5,
         "Sprigatito": 2,
-        "Toedscool": 2,
+        "Toedscool": 3,
         "Luxio": 1,
         "Fuecoco": 1,
         "Electrode": 1,
@@ -1504,10 +1504,11 @@
         "Herdier": 1,
         "Zangoose": 1,
         "Steelix": 1,
-        "Avalugg": 1
+        "Avalugg": 1,
+        "Yanmega": 1
       },
-      "total_spawns": 875,
-      "last_spawn": "2026-06-27T15:12:27.608057"
+      "total_spawns": 878,
+      "last_spawn": "2026-06-27T15:12:57.997612"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1517,7 +1518,7 @@
     }
   },
   "global": {
-    "total_spawns": 31368,
+    "total_spawns": 31371,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
