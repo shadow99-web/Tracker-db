@@ -45,7 +45,7 @@
         "Timburr": 128,
         "Dj rotom": 112,
         "Surskit": 39,
-        "Seedot": 108,
+        "Seedot": 109,
         "Skitty": 32,
         "Greavard": 126,
         "Slugma": 40,
@@ -95,7 +95,7 @@
         "Hoppip": 114,
         "Sandslash": 8,
         "Kabuto": 36,
-        "Scatterbug": 131,
+        "Scatterbug": 132,
         "Pumpkaboo": 32,
         "Numel": 34,
         "Carracosta": 7,
@@ -134,7 +134,7 @@
         "Bounsweet": 112,
         "Noibat": 32,
         "Toxicroak": 8,
-        "Charcadet": 145,
+        "Charcadet": 146,
         "Croconaw": 27,
         "Phanpy": 16,
         "Brambleghast": 36,
@@ -148,9 +148,9 @@
         "Emboar": 6,
         "Deoxys": 2,
         "Dracovish": 9,
-        "Bulbasaur": 29,
+        "Bulbasaur": 30,
         "Roggenrola": 130,
-        "Pidove": 117,
+        "Pidove": 118,
         "Dragapult": 11,
         "Rattata": 76,
         "Flapple": 12,
@@ -265,7 +265,7 @@
         "Fennekin": 43,
         "Quaxwell": 20,
         "Vibrava": 40,
-        "Loudred": 42,
+        "Loudred": 43,
         "Ceruledge": 35,
         "Houndour": 28,
         "Glimmet": 127,
@@ -338,7 +338,7 @@
         "Sealeo": 26,
         "Staryu": 23,
         "Samurott": 8,
-        "Torchic": 48,
+        "Torchic": 49,
         "Sobble": 37,
         "Mudkip": 37,
         "Charjabug": 26,
@@ -782,7 +782,7 @@
         "Cofagrigus": 9,
         "Camerupt": 12,
         "Castform": 13,
-        "Weavile": 1,
+        "Weavile": 2,
         "Gorging cramorant": 1,
         "Shieldon": 22,
         "Masquerain": 10,
@@ -1085,8 +1085,8 @@
         "Zygarde core": 1,
         "Rapid strike urshifu": 1
       },
-      "total_spawns": 26822,
-      "last_spawn": "2026-06-27T17:13:00.696123"
+      "total_spawns": 26830,
+      "last_spawn": "2026-06-27T17:13:37.161031"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1149,7 +1149,7 @@
         "Skitty": 2,
         "Fletchling": 3,
         "Orthworm": 6,
-        "Woobat": 4,
+        "Woobat": 5,
         "Happiny": 1,
         "Squirtle": 1,
         "Spinarak": 1,
@@ -1288,7 +1288,7 @@
         "Dewpider": 1,
         "Sobble": 1,
         "Darkrai": 1,
-        "Growlithe": 2,
+        "Growlithe": 3,
         "Nihilego": 1,
         "Slakoth": 6,
         "Marowak": 1,
@@ -1566,10 +1566,11 @@
         "Milcery": 1,
         "Petilil": 1,
         "Alomomola": 1,
-        "Skorupi": 1
+        "Skorupi": 1,
+        "Arrokuda": 1
       },
-      "total_spawns": 1097,
-      "last_spawn": "2026-06-27T17:12:57.497496"
+      "total_spawns": 1100,
+      "last_spawn": "2026-06-27T17:13:27.595775"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1579,7 +1580,7 @@
     }
   },
   "global": {
-    "total_spawns": 32206,
+    "total_spawns": 32217,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
