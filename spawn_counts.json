@@ -1212,7 +1212,7 @@
         "Togetic": 2,
         "Sewaddle": 1,
         "Eevee": 1,
-        "Taillow": 1,
+        "Taillow": 2,
         "Pelipper": 1,
         "Hattrem": 2,
         "Machoke": 1,
@@ -1238,7 +1238,7 @@
         "Naclstack": 1,
         "Ferrothorn": 1,
         "Karrablast": 1,
-        "Sinistea": 2,
+        "Sinistea": 3,
         "Lurantis": 1,
         "Machamp": 1,
         "Sceptile": 1,
@@ -1344,8 +1344,8 @@
         "Toedscool": 1,
         "Luxio": 1
       },
-      "total_spawns": 449,
-      "last_spawn": "2026-06-27T11:48:45.182994"
+      "total_spawns": 451,
+      "last_spawn": "2026-06-27T11:52:00.306707"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1355,7 +1355,7 @@
     }
   },
   "global": {
-    "total_spawns": 30942,
+    "total_spawns": 30944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
