@@ -1119,7 +1119,7 @@
         "Dreepy": 6,
         "Bagon": 4,
         "Archen": 2,
-        "Shinx": 7,
+        "Shinx": 8,
         "Pikachu": 3,
         "Rhyhorn": 2,
         "Tynamo": 6,
@@ -1414,7 +1414,7 @@
         "Emboar": 1,
         "Blue flower floette": 1,
         "Leafeon": 1,
-        "Shellder": 1,
+        "Shellder": 2,
         "Graveler": 1,
         "Drifloon": 1,
         "Makuhita": 1,
@@ -1521,10 +1521,11 @@
         "Gloom": 1,
         "Grimer": 1,
         "Drednaw": 1,
-        "Cacturne": 1
+        "Cacturne": 1,
+        "Metapod": 1
       },
-      "total_spawns": 929,
-      "last_spawn": "2026-06-27T15:21:07.594874"
+      "total_spawns": 932,
+      "last_spawn": "2026-06-27T15:21:37.729529"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1534,7 +1535,7 @@
     }
   },
   "global": {
-    "total_spawns": 31422,
+    "total_spawns": 31425,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
