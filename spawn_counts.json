@@ -1324,7 +1324,7 @@
         "Torterra": 1,
         "Blipbug": 3,
         "Zen darmanitan": 1,
-        "Duskull": 3,
+        "Duskull": 4,
         "Vigoroth": 1,
         "Seviper": 2,
         "Goomy": 2,
@@ -1381,7 +1381,7 @@
         "Caterpie": 4,
         "Dondozo": 2,
         "Tranquill": 2,
-        "Porygon": 3,
+        "Porygon": 4,
         "Wooloo": 1,
         "Oddish": 1,
         "Barraskewda": 1,
@@ -1497,9 +1497,9 @@
         "Wugtrio": 1,
         "Magneton": 1,
         "Toxel": 2,
-        "Dachsbun": 1,
+        "Dachsbun": 2,
         "Cascoon": 1,
-        "Larvitar": 2,
+        "Larvitar": 3,
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
@@ -1546,8 +1546,8 @@
         "Porygon-z": 1,
         "Chewtle": 1
       },
-      "total_spawns": 1003,
-      "last_spawn": "2026-06-27T15:33:07.695297"
+      "total_spawns": 1007,
+      "last_spawn": "2026-06-27T15:33:47.504349"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 31496,
+    "total_spawns": 31500,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
