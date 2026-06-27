@@ -1145,7 +1145,7 @@
         "Flittle": 9,
         "Salazzle": 1,
         "Skitty": 2,
-        "Fletchling": 1,
+        "Fletchling": 2,
         "Orthworm": 5,
         "Woobat": 4,
         "Happiny": 1,
@@ -1298,7 +1298,7 @@
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
-        "Machop": 3,
+        "Machop": 4,
         "Onix": 1,
         "Lampent": 1,
         "East sea gastrodon": 1,
@@ -1347,7 +1347,7 @@
         "Electrode": 1,
         "Chandelure": 1,
         "Wiglett": 5,
-        "Farigiraf": 1,
+        "Farigiraf": 2,
         "Zubat": 2,
         "Lotad": 2,
         "Sylveon": 1,
@@ -1398,7 +1398,7 @@
         "Spiritomb": 1,
         "Seadra": 1,
         "Seedot": 2,
-        "Snivy": 1,
+        "Snivy": 2,
         "Roselia": 2,
         "Totodile": 1,
         "Lunatone": 1,
@@ -1486,10 +1486,11 @@
         "Lycanroc": 1,
         "Illumise": 1,
         "Nidoqueen": 1,
-        "Kingler": 1
+        "Kingler": 1,
+        "Yamper": 1
       },
-      "total_spawns": 814,
-      "last_spawn": "2026-06-27T14:59:17.709002"
+      "total_spawns": 819,
+      "last_spawn": "2026-06-27T14:59:59.625871"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1499,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 31307,
+    "total_spawns": 31312,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
