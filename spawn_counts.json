@@ -1514,7 +1514,7 @@
         "Trevenant": 1,
         "Pignite": 1,
         "Ferroseed": 1,
-        "Grafaiai": 1,
+        "Grafaiai": 2,
         "Tangela": 1,
         "Palpitoad": 1,
         "Tyrogue": 1,
@@ -1559,8 +1559,8 @@
         "Phanpy": 1,
         "Scyther": 1
       },
-      "total_spawns": 1067,
-      "last_spawn": "2026-06-27T16:00:42.636262"
+      "total_spawns": 1068,
+      "last_spawn": "2026-06-27T16:05:31.628744"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1570,7 +1570,7 @@
     }
   },
   "global": {
-    "total_spawns": 31560,
+    "total_spawns": 31561,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
