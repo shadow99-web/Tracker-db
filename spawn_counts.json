@@ -1339,7 +1339,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 1,
-        "Maschiff": 3,
+        "Maschiff": 4,
         "Sprigatito": 2,
         "Toedscool": 2,
         "Luxio": 1,
@@ -1348,7 +1348,7 @@
         "Chandelure": 1,
         "Wiglett": 4,
         "Farigiraf": 1,
-        "Zubat": 1,
+        "Zubat": 2,
         "Lotad": 2,
         "Sylveon": 1,
         "Omastar": 1,
@@ -1450,10 +1450,11 @@
         "Marshtomp": 2,
         "Lechonk": 1,
         "Roaming gimmighoul": 1,
-        "Breloom": 1
+        "Breloom": 1,
+        "Ninjask": 1
       },
-      "total_spawns": 688,
-      "last_spawn": "2026-06-27T14:35:37.501948"
+      "total_spawns": 691,
+      "last_spawn": "2026-06-27T14:36:07.599832"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1463,7 +1464,7 @@
     }
   },
   "global": {
-    "total_spawns": 31181,
+    "total_spawns": 31184,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
