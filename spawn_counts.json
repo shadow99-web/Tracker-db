@@ -1092,14 +1092,14 @@
         "Brionne": 2,
         "Sandygast": 3,
         "Clauncher": 1,
-        "Barbaracle": 1,
+        "Barbaracle": 2,
         "Amoonguss": 1,
         "Mosslax": 9,
         "Rookidee": 12,
         "Roggenrola": 5,
         "Armarouge": 2,
         "Gastly": 7,
-        "Scatterbug": 7,
+        "Scatterbug": 8,
         "Wurmple": 4,
         "Gothita": 12,
         "Gible": 6,
@@ -1346,7 +1346,7 @@
         "Fuecoco": 1,
         "Electrode": 1,
         "Chandelure": 1,
-        "Wiglett": 4,
+        "Wiglett": 5,
         "Farigiraf": 1,
         "Zubat": 2,
         "Lotad": 2,
@@ -1487,8 +1487,8 @@
         "Illumise": 1,
         "Nidoqueen": 1
       },
-      "total_spawns": 804,
-      "last_spawn": "2026-06-27T14:57:37.694717"
+      "total_spawns": 807,
+      "last_spawn": "2026-06-27T14:58:08.231816"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1498,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 31297,
+    "total_spawns": 31300,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
