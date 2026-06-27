@@ -1300,7 +1300,7 @@
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
-        "Machop": 6,
+        "Machop": 7,
         "Onix": 3,
         "Lampent": 1,
         "East sea gastrodon": 1,
@@ -1458,7 +1458,7 @@
         "Pansear": 1,
         "Spheal": 3,
         "Espurr": 1,
-        "Poliwag": 4,
+        "Poliwag": 5,
         "Finneon": 2,
         "Starmie": 2,
         "Cufant": 2,
@@ -1590,10 +1590,11 @@
         "Pupitar": 1,
         "Dusclops": 1,
         "Kleavor": 1,
-        "Trumbeak": 1
+        "Trumbeak": 1,
+        "Pansage": 1
       },
-      "total_spawns": 1199,
-      "last_spawn": "2026-06-27T17:57:27.497141"
+      "total_spawns": 1202,
+      "last_spawn": "2026-06-27T17:57:57.521971"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1603,7 +1604,7 @@
     }
   },
   "global": {
-    "total_spawns": 32330,
+    "total_spawns": 32333,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
