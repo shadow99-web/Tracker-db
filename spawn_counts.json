@@ -1276,7 +1276,7 @@
         "Joltik": 1,
         "Summer deerling": 1,
         "Heliolisk": 1,
-        "Raboot": 1,
+        "Raboot": 2,
         "Vanillite": 2,
         "Krabby": 1,
         "Clefable": 1,
@@ -1422,10 +1422,12 @@
         "Nidoking": 1,
         "Tentacool": 1,
         "Servine": 1,
-        "Grubbin": 1
+        "Grubbin": 1,
+        "Clobbopus": 1,
+        "Bounsweet": 1
       },
-      "total_spawns": 636,
-      "last_spawn": "2026-06-27T14:27:27.517570"
+      "total_spawns": 639,
+      "last_spawn": "2026-06-27T14:27:57.611601"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1435,7 +1437,7 @@
     }
   },
   "global": {
-    "total_spawns": 31129,
+    "total_spawns": 31132,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
