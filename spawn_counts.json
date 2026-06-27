@@ -1180,12 +1180,12 @@
         "Crabrawler": 3,
         "Mudkip": 2,
         "Greavard": 12,
-        "Axew": 8,
+        "Axew": 9,
         "Ride cyclizar": 3,
         "Trapinch": 3,
         "Smoliv": 5,
         "Pawniard": 1,
-        "Frogadier": 2,
+        "Frogadier": 3,
         "Gimmighoul": 5,
         "Mienshao": 1,
         "Swinub": 6,
@@ -1418,7 +1418,7 @@
         "Leafeon": 1,
         "Shellder": 2,
         "Graveler": 2,
-        "Drifloon": 1,
+        "Drifloon": 2,
         "Makuhita": 1,
         "Baltoy": 2,
         "Nidoking": 1,
@@ -1525,7 +1525,7 @@
         "Drednaw": 1,
         "Cacturne": 1,
         "Metapod": 3,
-        "Sealeo": 2,
+        "Sealeo": 3,
         "Wynaut": 1,
         "Staravia": 1,
         "Spidops": 2,
@@ -1572,7 +1572,7 @@
         "Solrock": 1,
         "Nosepass": 1,
         "Exploud": 1,
-        "Stretchy tatsugiri": 1,
+        "Stretchy tatsugiri": 2,
         "Elgyem": 2,
         "Yanma": 1,
         "Gabite": 1,
@@ -1636,10 +1636,11 @@
         "Smeargle": 1,
         "Espathra": 1,
         "Yellow plumage squawkabilly": 1,
-        "Roserade": 1
+        "Roserade": 1,
+        "Scovillain": 1
       },
-      "total_spawns": 1389,
-      "last_spawn": "2026-06-27T18:55:27.968338"
+      "total_spawns": 1395,
+      "last_spawn": "2026-06-27T18:56:05.300568"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1649,7 +1650,7 @@
     }
   },
   "global": {
-    "total_spawns": 32520,
+    "total_spawns": 32526,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
