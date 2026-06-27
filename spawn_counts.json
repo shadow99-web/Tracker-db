@@ -1108,7 +1108,7 @@
         "Larvesta": 2,
         "Starly": 7,
         "Varoom": 9,
-        "Weedle": 11,
+        "Weedle": 12,
         "Chef dente": 8,
         "Hatenna": 10,
         "Dugtrio": 1,
@@ -1127,12 +1127,12 @@
         "Tynamo": 6,
         "Tandemaus": 5,
         "Smearguru": 6,
-        "Magnemite": 8,
+        "Magnemite": 9,
         "Teddiursa": 7,
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 4,
-        "Froakie": 4,
+        "Froakie": 5,
         "Hawlucha": 1,
         "Feebas": 1,
         "Lapras": 1,
@@ -1324,7 +1324,7 @@
         "Honedge": 5,
         "Hisuian qwilfish": 1,
         "Torterra": 1,
-        "Blipbug": 3,
+        "Blipbug": 4,
         "Zen darmanitan": 1,
         "Duskull": 5,
         "Vigoroth": 1,
@@ -1568,10 +1568,12 @@
         "Alomomola": 1,
         "Skorupi": 1,
         "Arrokuda": 1,
-        "Palafin": 1
+        "Palafin": 1,
+        "Solrock": 1,
+        "Nosepass": 1
       },
-      "total_spawns": 1113,
-      "last_spawn": "2026-06-27T17:15:24.395762"
+      "total_spawns": 1119,
+      "last_spawn": "2026-06-27T17:15:57.437392"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1581,7 +1583,7 @@
     }
   },
   "global": {
-    "total_spawns": 32244,
+    "total_spawns": 32250,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
