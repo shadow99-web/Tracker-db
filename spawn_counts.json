@@ -31,7 +31,7 @@
         "Abra": 123,
         "Sandile": 132,
         "Sandygast": 36,
-        "Litwick": 155,
+        "Litwick": 156,
         "Grubbin": 113,
         "Escavalier": 12,
         "Dratini": 84,
@@ -47,10 +47,10 @@
         "Surskit": 39,
         "Seedot": 109,
         "Skitty": 32,
-        "Greavard": 126,
+        "Greavard": 127,
         "Slugma": 40,
         "Grotle": 25,
-        "Porygon": 135,
+        "Porygon": 136,
         "Zubat": 136,
         "Vanillish": 37,
         "Tadbulb": 149,
@@ -66,7 +66,7 @@
         "Lokix": 29,
         "Glimmora": 41,
         "Starly": 125,
-        "Tandemaus": 102,
+        "Tandemaus": 103,
         "Smoliv": 132,
         "Gloom": 28,
         "Clefairy": 29,
@@ -77,7 +77,7 @@
         "Tarountula": 120,
         "Hatterene": 11,
         "Phantump": 35,
-        "Duosion": 29,
+        "Duosion": 30,
         "Amaura": 28,
         "Gimmighoul": 114,
         "Baltoy": 38,
@@ -223,7 +223,7 @@
         "Cyclizar": 49,
         "Magmar": 30,
         "Rillaboom": 11,
-        "Ninetales": 9,
+        "Ninetales": 10,
         "Wattrel": 127,
         "Snubbull": 29,
         "Spidops": 26,
@@ -1085,8 +1085,8 @@
         "Zygarde core": 1,
         "Rapid strike urshifu": 1
       },
-      "total_spawns": 26836,
-      "last_spawn": "2026-06-27T17:14:00.405052"
+      "total_spawns": 26842,
+      "last_spawn": "2026-06-27T17:14:37.596132"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1180,7 +1180,7 @@
         "Crabrawler": 3,
         "Mudkip": 2,
         "Greavard": 11,
-        "Axew": 6,
+        "Axew": 7,
         "Ride cyclizar": 3,
         "Trapinch": 2,
         "Smoliv": 4,
@@ -1383,7 +1383,7 @@
         "Caterpie": 4,
         "Dondozo": 3,
         "Tranquill": 4,
-        "Porygon": 4,
+        "Porygon": 5,
         "Wooloo": 1,
         "Oddish": 1,
         "Barraskewda": 1,
@@ -1524,7 +1524,7 @@
         "Grimer": 1,
         "Drednaw": 1,
         "Cacturne": 1,
-        "Metapod": 2,
+        "Metapod": 3,
         "Sealeo": 1,
         "Wynaut": 1,
         "Staravia": 1,
@@ -1567,10 +1567,11 @@
         "Petilil": 1,
         "Alomomola": 1,
         "Skorupi": 1,
-        "Arrokuda": 1
+        "Arrokuda": 1,
+        "Palafin": 1
       },
-      "total_spawns": 1104,
-      "last_spawn": "2026-06-27T17:14:07.635224"
+      "total_spawns": 1108,
+      "last_spawn": "2026-06-27T17:14:47.699885"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1580,7 +1581,7 @@
     }
   },
   "global": {
-    "total_spawns": 32227,
+    "total_spawns": 32237,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
