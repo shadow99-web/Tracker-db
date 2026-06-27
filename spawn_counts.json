@@ -1516,10 +1516,13 @@
         "Ferroseed": 1,
         "Grafaiai": 1,
         "Tangela": 1,
-        "Palpitoad": 1
+        "Palpitoad": 1,
+        "Tyrogue": 1,
+        "Gloom": 1,
+        "Grimer": 1
       },
-      "total_spawns": 907,
-      "last_spawn": "2026-06-27T15:17:37.615945"
+      "total_spawns": 910,
+      "last_spawn": "2026-06-27T15:18:08.132181"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1529,7 +1532,7 @@
     }
   },
   "global": {
-    "total_spawns": 31400,
+    "total_spawns": 31403,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
