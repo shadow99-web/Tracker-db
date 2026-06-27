@@ -1251,7 +1251,7 @@
         "Chimchar": 1,
         "Trash wormadam": 2,
         "Bramblin": 4,
-        "Vulpix": 4,
+        "Vulpix": 5,
         "Hippowdon": 3,
         "Tinkatink": 2,
         "Jumpluff": 1,
@@ -1483,7 +1483,7 @@
         "Vanillish": 1,
         "Kilowattrel": 1,
         "Stunfisk": 1,
-        "Lycanroc": 2,
+        "Lycanroc": 3,
         "Illumise": 1,
         "Nidoqueen": 2,
         "Kingler": 1,
@@ -1511,10 +1511,11 @@
         "Araquanid": 1,
         "Elekid": 1,
         "Panpour": 1,
-        "Trevenant": 1
+        "Trevenant": 1,
+        "Pignite": 1
       },
-      "total_spawns": 896,
-      "last_spawn": "2026-06-27T15:15:47.596047"
+      "total_spawns": 899,
+      "last_spawn": "2026-06-27T15:16:17.828884"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1524,7 +1525,7 @@
     }
   },
   "global": {
-    "total_spawns": 31389,
+    "total_spawns": 31392,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
