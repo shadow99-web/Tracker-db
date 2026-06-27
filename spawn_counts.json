@@ -1090,7 +1090,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Brionne": 2,
-        "Sandygast": 2,
+        "Sandygast": 3,
         "Clauncher": 1,
         "Barbaracle": 1,
         "Amoonguss": 1,
@@ -1170,7 +1170,7 @@
         "Flamigo": 3,
         "Aegislash": 1,
         "Inkay": 1,
-        "Fidough": 2,
+        "Fidough": 3,
         "Spritzee": 2,
         "Squawkabilly": 2,
         "Beldum": 7,
@@ -1186,7 +1186,7 @@
         "Frogadier": 1,
         "Gimmighoul": 3,
         "Mienshao": 1,
-        "Swinub": 2,
+        "Swinub": 3,
         "Rabsca": 2,
         "Floragato": 1,
         "Watchog": 1,
@@ -1431,7 +1431,7 @@
         "Fomantis": 2,
         "Slowpoke": 1,
         "Shiinotic": 1,
-        "Lokix": 1,
+        "Lokix": 2,
         "Tentacruel": 1,
         "Exeggcute": 1,
         "Diglett": 2,
@@ -1473,10 +1473,12 @@
         "Marill": 1,
         "Oshawott": 1,
         "Cyclizar": 1,
-        "Castform": 1
+        "Castform": 1,
+        "Shelmet": 1,
+        "Pyroar": 1
       },
-      "total_spawns": 775,
-      "last_spawn": "2026-06-27T14:53:37.708696"
+      "total_spawns": 781,
+      "last_spawn": "2026-06-27T14:54:17.545979"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1486,7 +1488,7 @@
     }
   },
   "global": {
-    "total_spawns": 31268,
+    "total_spawns": 31274,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
