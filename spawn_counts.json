@@ -1142,7 +1142,7 @@
         "Charcadet": 9,
         "Furfrou": 1,
         "Slaking": 2,
-        "Flittle": 9,
+        "Flittle": 10,
         "Salazzle": 1,
         "Skitty": 2,
         "Fletchling": 3,
@@ -1560,8 +1560,8 @@
         "Scyther": 1,
         "Drizzile": 1
       },
-      "total_spawns": 1072,
-      "last_spawn": "2026-06-27T16:16:56.595955"
+      "total_spawns": 1073,
+      "last_spawn": "2026-06-27T16:22:48.900288"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 31565,
+    "total_spawns": 31566,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
