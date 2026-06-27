@@ -1126,7 +1126,7 @@
         "Rhyhorn": 3,
         "Tynamo": 6,
         "Tandemaus": 6,
-        "Smearguru": 6,
+        "Smearguru": 7,
         "Magnemite": 9,
         "Teddiursa": 7,
         "Houndoom": 1,
@@ -1272,7 +1272,7 @@
         "Zorua": 2,
         "Meganium": 1,
         "Toedscruel": 1,
-        "Klawf": 2,
+        "Klawf": 3,
         "Grookey": 2,
         "Gossifleur": 2,
         "Joltik": 1,
@@ -1589,10 +1589,11 @@
         "Corvisquire": 1,
         "Pupitar": 1,
         "Dusclops": 1,
-        "Kleavor": 1
+        "Kleavor": 1,
+        "Trumbeak": 1
       },
-      "total_spawns": 1192,
-      "last_spawn": "2026-06-27T17:56:17.474306"
+      "total_spawns": 1195,
+      "last_spawn": "2026-06-27T17:56:47.773698"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1602,7 +1603,7 @@
     }
   },
   "global": {
-    "total_spawns": 32323,
+    "total_spawns": 32326,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
