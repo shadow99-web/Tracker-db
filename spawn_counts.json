@@ -1346,7 +1346,7 @@
         "Fuecoco": 1,
         "Electrode": 1,
         "Chandelure": 1,
-        "Wiglett": 3,
+        "Wiglett": 4,
         "Farigiraf": 1,
         "Zubat": 1,
         "Lotad": 2,
@@ -1375,7 +1375,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 1,
+        "Tympole": 2,
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 1,
@@ -1398,10 +1398,11 @@
         "Spiritomb": 1,
         "Seadra": 1,
         "Seedot": 1,
-        "Snivy": 1
+        "Snivy": 1,
+        "Roselia": 1
       },
-      "total_spawns": 583,
-      "last_spawn": "2026-06-27T14:19:07.608168"
+      "total_spawns": 586,
+      "last_spawn": "2026-06-27T14:19:37.803670"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1411,7 +1412,7 @@
     }
   },
   "global": {
-    "total_spawns": 31076,
+    "total_spawns": 31079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
