@@ -1139,7 +1139,7 @@
         "Meowth": 2,
         "Dj rotom": 4,
         "Prof tangrowth": 8,
-        "Charcadet": 8,
+        "Charcadet": 9,
         "Furfrou": 1,
         "Slaking": 2,
         "Flittle": 9,
@@ -1195,7 +1195,7 @@
         "Ducklett": 2,
         "Mareep": 6,
         "Tadbulb": 5,
-        "Helioptile": 1,
+        "Helioptile": 2,
         "Blitzle": 2,
         "Pidove": 3,
         "Doublade": 1,
@@ -1207,7 +1207,7 @@
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 3,
-        "Aron": 5,
+        "Aron": 6,
         "Kabuto": 2,
         "Togetic": 2,
         "Sewaddle": 2,
@@ -1519,10 +1519,11 @@
         "Palpitoad": 1,
         "Tyrogue": 1,
         "Gloom": 1,
-        "Grimer": 1
+        "Grimer": 1,
+        "Drednaw": 1
       },
-      "total_spawns": 918,
-      "last_spawn": "2026-06-27T15:19:26.695181"
+      "total_spawns": 922,
+      "last_spawn": "2026-06-27T15:19:57.595360"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1532,7 +1533,7 @@
     }
   },
   "global": {
-    "total_spawns": 31411,
+    "total_spawns": 31415,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
