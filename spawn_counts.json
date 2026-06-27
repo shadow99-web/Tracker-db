@@ -1159,7 +1159,7 @@
         "Brambleghast": 1,
         "Rellor": 3,
         "Nincada": 1,
-        "Wattrel": 3,
+        "Wattrel": 4,
         "Entei": 1,
         "Flaaffy": 1,
         "Pikipek": 3,
@@ -1426,7 +1426,7 @@
         "Clobbopus": 1,
         "Bounsweet": 2,
         "Crawdaunt": 2,
-        "Hoppip": 1,
+        "Hoppip": 2,
         "Shroodle": 1,
         "Fomantis": 2,
         "Slowpoke": 1,
@@ -1484,10 +1484,11 @@
         "Kilowattrel": 1,
         "Stunfisk": 1,
         "Lycanroc": 1,
-        "Illumise": 1
+        "Illumise": 1,
+        "Nidoqueen": 1
       },
-      "total_spawns": 801,
-      "last_spawn": "2026-06-27T14:57:07.538522"
+      "total_spawns": 804,
+      "last_spawn": "2026-06-27T14:57:37.694717"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1497,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 31294,
+    "total_spawns": 31297,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
