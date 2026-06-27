@@ -1125,7 +1125,7 @@
         "Feebas": 1,
         "Lapras": 1,
         "Seismitoad": 1,
-        "Frigibax": 3,
+        "Frigibax": 4,
         "Meowth": 1,
         "Dj rotom": 3,
         "Prof tangrowth": 3,
@@ -1309,10 +1309,11 @@
         "Galarian corsola": 1,
         "Cryogonal": 1,
         "Typhlosion": 1,
-        "Honedge": 1
+        "Honedge": 1,
+        "Hisuian qwilfish": 1
       },
-      "total_spawns": 399,
-      "last_spawn": "2026-06-27T02:42:17.496050"
+      "total_spawns": 401,
+      "last_spawn": "2026-06-27T02:42:57.994577"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1322,7 +1323,7 @@
     }
   },
   "global": {
-    "total_spawns": 28689,
+    "total_spawns": 28691,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
