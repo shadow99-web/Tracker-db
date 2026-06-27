@@ -1117,7 +1117,7 @@
         "Lickilicky": 3,
         "Hisuian voltorb": 1,
         "Dreepy": 5,
-        "Bagon": 2,
+        "Bagon": 3,
         "Archen": 2,
         "Shinx": 6,
         "Pikachu": 3,
@@ -1427,10 +1427,12 @@
         "Bounsweet": 1,
         "Crawdaunt": 1,
         "Hoppip": 1,
-        "Shroodle": 1
+        "Shroodle": 1,
+        "Fomantis": 1,
+        "Slowpoke": 1
       },
-      "total_spawns": 647,
-      "last_spawn": "2026-06-27T14:29:17.497894"
+      "total_spawns": 650,
+      "last_spawn": "2026-06-27T14:29:48.019551"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1440,7 +1442,7 @@
     }
   },
   "global": {
-    "total_spawns": 31140,
+    "total_spawns": 31143,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
