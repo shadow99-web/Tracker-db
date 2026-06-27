@@ -1206,7 +1206,7 @@
         "Swablu": 4,
         "Darumaka": 1,
         "Wailmer": 1,
-        "Jangmo-o": 3,
+        "Jangmo-o": 4,
         "Aron": 7,
         "Kabuto": 2,
         "Togetic": 2,
@@ -1319,7 +1319,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 1,
         "Typhlosion": 1,
-        "Honedge": 3,
+        "Honedge": 4,
         "Hisuian qwilfish": 1,
         "Torterra": 1,
         "Blipbug": 3,
@@ -1524,10 +1524,11 @@
         "Cacturne": 1,
         "Metapod": 1,
         "Sealeo": 1,
-        "Wynaut": 1
+        "Wynaut": 1,
+        "Staravia": 1
       },
-      "total_spawns": 943,
-      "last_spawn": "2026-06-27T15:23:27.499389"
+      "total_spawns": 946,
+      "last_spawn": "2026-06-27T15:23:57.705291"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1537,7 +1538,7 @@
     }
   },
   "global": {
-    "total_spawns": 31436,
+    "total_spawns": 31439,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
