@@ -1101,7 +1101,7 @@
         "Gastly": 5,
         "Scatterbug": 6,
         "Wurmple": 2,
-        "Gothita": 10,
+        "Gothita": 11,
         "Gible": 5,
         "Larvesta": 2,
         "Starly": 6,
@@ -1207,7 +1207,7 @@
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 1,
-        "Aron": 2,
+        "Aron": 3,
         "Kabuto": 1,
         "Togetic": 2,
         "Sewaddle": 1,
@@ -1358,10 +1358,12 @@
         "Tinkatuff": 1,
         "Ampharos": 1,
         "Goodra": 1,
-        "Klink": 1
+        "Klink": 1,
+        "Mankey": 1,
+        "Charmander": 1
       },
-      "total_spawns": 491,
-      "last_spawn": "2026-06-27T14:03:07.778167"
+      "total_spawns": 495,
+      "last_spawn": "2026-06-27T14:03:48.112658"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1371,7 +1373,7 @@
     }
   },
   "global": {
-    "total_spawns": 30984,
+    "total_spawns": 30988,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
