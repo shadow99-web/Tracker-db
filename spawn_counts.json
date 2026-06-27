@@ -1125,7 +1125,7 @@
         "Tynamo": 5,
         "Tandemaus": 4,
         "Smearguru": 6,
-        "Magnemite": 6,
+        "Magnemite": 7,
         "Teddiursa": 5,
         "Houndoom": 1,
         "Torracat": 2,
@@ -1171,7 +1171,7 @@
         "Aegislash": 1,
         "Inkay": 1,
         "Fidough": 3,
-        "Spritzee": 2,
+        "Spritzee": 3,
         "Squawkabilly": 2,
         "Beldum": 7,
         "Whismur": 3,
@@ -1457,7 +1457,7 @@
         "Spheal": 1,
         "Espurr": 1,
         "Poliwag": 2,
-        "Finneon": 1,
+        "Finneon": 2,
         "Starmie": 1,
         "Cufant": 1,
         "Bellibolt": 2,
@@ -1491,10 +1491,11 @@
         "Swirlix": 1,
         "Steenee": 1,
         "Misdreavus": 1,
-        "Chikorita": 1
+        "Chikorita": 1,
+        "Armaldo": 1
       },
-      "total_spawns": 833,
-      "last_spawn": "2026-06-27T15:02:47.800257"
+      "total_spawns": 837,
+      "last_spawn": "2026-06-27T15:03:28.167316"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1504,7 +1505,7 @@
     }
   },
   "global": {
-    "total_spawns": 31326,
+    "total_spawns": 31330,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
