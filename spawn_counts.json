@@ -1125,7 +1125,7 @@
         "Tynamo": 3,
         "Tandemaus": 3,
         "Smearguru": 6,
-        "Magnemite": 5,
+        "Magnemite": 6,
         "Teddiursa": 5,
         "Houndoom": 1,
         "Torracat": 2,
@@ -1338,7 +1338,7 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 1,
+        "Venipede": 2,
         "Maschiff": 4,
         "Sprigatito": 2,
         "Toedscool": 2,
@@ -1390,7 +1390,7 @@
         "Archeops": 1,
         "Gigalith": 2,
         "Nuzleaf": 1,
-        "Geodude": 1,
+        "Geodude": 2,
         "Gholdengo": 1,
         "Dudunsparce": 1,
         "Whirlipede": 1,
@@ -1460,15 +1460,17 @@
         "Finneon": 1,
         "Starmie": 1,
         "Cufant": 1,
-        "Bellibolt": 1,
+        "Bellibolt": 2,
         "Hero palafin": 1,
         "Quilladin": 1,
         "Delibird": 1,
         "Noibat": 1,
-        "Darmanitan": 1
+        "Darmanitan": 1,
+        "Mantine": 1,
+        "Grumpig": 1
       },
-      "total_spawns": 741,
-      "last_spawn": "2026-06-27T14:50:02.254571"
+      "total_spawns": 747,
+      "last_spawn": "2026-06-27T14:50:39.198505"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1478,7 +1480,7 @@
     }
   },
   "global": {
-    "total_spawns": 31234,
+    "total_spawns": 31240,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
