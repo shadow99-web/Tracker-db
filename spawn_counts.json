@@ -1375,7 +1375,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 3,
+        "Tympole": 4,
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 4,
@@ -1496,7 +1496,7 @@
         "Pawmi": 1,
         "Wugtrio": 1,
         "Magneton": 1,
-        "Toxel": 1,
+        "Toxel": 2,
         "Dachsbun": 1,
         "Cascoon": 1,
         "Larvitar": 2,
@@ -1528,10 +1528,11 @@
         "Staravia": 1,
         "Spidops": 1,
         "Appletun": 1,
-        "Anorith": 1
+        "Anorith": 1,
+        "Carkol": 1
       },
-      "total_spawns": 949,
-      "last_spawn": "2026-06-27T15:24:27.894852"
+      "total_spawns": 952,
+      "last_spawn": "2026-06-27T15:25:01.189302"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1541,7 +1542,7 @@
     }
   },
   "global": {
-    "total_spawns": 31442,
+    "total_spawns": 31445,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
