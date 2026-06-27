@@ -1169,7 +1169,7 @@
         "Amped toxtricity": 1,
         "Flamigo": 3,
         "Aegislash": 1,
-        "Inkay": 1,
+        "Inkay": 2,
         "Fidough": 3,
         "Spritzee": 3,
         "Squawkabilly": 2,
@@ -1498,10 +1498,11 @@
         "Magneton": 1,
         "Toxel": 1,
         "Dachsbun": 1,
-        "Cascoon": 1
+        "Cascoon": 1,
+        "Larvitar": 1
       },
-      "total_spawns": 859,
-      "last_spawn": "2026-06-27T15:06:57.895511"
+      "total_spawns": 861,
+      "last_spawn": "2026-06-27T15:09:27.696724"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1511,7 +1512,7 @@
     }
   },
   "global": {
-    "total_spawns": 31352,
+    "total_spawns": 31354,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
