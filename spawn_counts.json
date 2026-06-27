@@ -1103,10 +1103,10 @@
         "Gastly": 8,
         "Scatterbug": 8,
         "Wurmple": 4,
-        "Gothita": 14,
+        "Gothita": 15,
         "Gible": 7,
         "Larvesta": 2,
-        "Starly": 7,
+        "Starly": 8,
         "Varoom": 10,
         "Weedle": 12,
         "Chef dente": 8,
@@ -1221,7 +1221,7 @@
         "Litwick": 10,
         "Frost rotom": 1,
         "Cubchoo": 4,
-        "Abra": 7,
+        "Abra": 8,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1584,10 +1584,11 @@
         "Loudred": 1,
         "Cutiefly": 1,
         "Wishiwashi": 1,
-        "Litleo": 1
+        "Litleo": 1,
+        "Pancham": 1
       },
-      "total_spawns": 1162,
-      "last_spawn": "2026-06-27T17:51:17.600810"
+      "total_spawns": 1166,
+      "last_spawn": "2026-06-27T17:51:57.497359"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1597,7 +1598,7 @@
     }
   },
   "global": {
-    "total_spawns": 32293,
+    "total_spawns": 32297,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
