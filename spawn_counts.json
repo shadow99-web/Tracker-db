@@ -1266,7 +1266,7 @@
         "Kirlia": 2,
         "Treecko": 4,
         "Veluza": 5,
-        "Cyndaquil": 3,
+        "Cyndaquil": 4,
         "Zorua": 1,
         "Meganium": 1,
         "Toedscruel": 1,
@@ -1535,10 +1535,13 @@
         "Golbat": 1,
         "Beautifly": 1,
         "Houndstone": 1,
-        "Braviary": 1
+        "Braviary": 1,
+        "Cubone": 1,
+        "Stantler": 1,
+        "Rufflet": 1
       },
-      "total_spawns": 978,
-      "last_spawn": "2026-06-27T15:29:07.694770"
+      "total_spawns": 982,
+      "last_spawn": "2026-06-27T15:29:47.597137"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1548,7 +1551,7 @@
     }
   },
   "global": {
-    "total_spawns": 31471,
+    "total_spawns": 31475,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
