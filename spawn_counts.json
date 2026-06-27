@@ -1193,7 +1193,7 @@
         "Boltund": 1,
         "Lillipup": 4,
         "Ducklett": 1,
-        "Mareep": 3,
+        "Mareep": 4,
         "Tadbulb": 4,
         "Helioptile": 1,
         "Blitzle": 2,
@@ -1378,7 +1378,7 @@
         "Tympole": 3,
         "Barboach": 1,
         "Carvanha": 1,
-        "Caterpie": 1,
+        "Caterpie": 2,
         "Dondozo": 2,
         "Tranquill": 1,
         "Porygon": 1,
@@ -1452,15 +1452,16 @@
         "Roaming gimmighoul": 1,
         "Breloom": 1,
         "Ninjask": 1,
-        "Remoraid": 1,
+        "Remoraid": 2,
         "Pansear": 1,
         "Spheal": 1,
         "Espurr": 1,
         "Poliwag": 1,
-        "Finneon": 1
+        "Finneon": 1,
+        "Starmie": 1
       },
-      "total_spawns": 717,
-      "last_spawn": "2026-06-27T14:43:37.810373"
+      "total_spawns": 721,
+      "last_spawn": "2026-06-27T14:44:18.333722"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1470,7 +1471,7 @@
     }
   },
   "global": {
-    "total_spawns": 31210,
+    "total_spawns": 31214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
