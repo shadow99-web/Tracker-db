@@ -1163,7 +1163,7 @@
         "Entei": 1,
         "Flaaffy": 1,
         "Pikipek": 3,
-        "Nacli": 3,
+        "Nacli": 4,
         "Grovyle": 1,
         "Wartortle": 1,
         "Amped toxtricity": 1,
@@ -1175,7 +1175,7 @@
         "Squawkabilly": 2,
         "Beldum": 6,
         "Whismur": 2,
-        "Crabrawler": 1,
+        "Crabrawler": 2,
         "Mudkip": 1,
         "Greavard": 11,
         "Axew": 4,
@@ -1417,10 +1417,12 @@
         "Shellder": 1,
         "Graveler": 1,
         "Drifloon": 1,
-        "Makuhita": 1
+        "Makuhita": 1,
+        "Baltoy": 1,
+        "Nidoking": 1
       },
-      "total_spawns": 624,
-      "last_spawn": "2026-06-27T14:25:37.596154"
+      "total_spawns": 628,
+      "last_spawn": "2026-06-27T14:26:17.429642"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1430,7 +1432,7 @@
     }
   },
   "global": {
-    "total_spawns": 31117,
+    "total_spawns": 31121,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
