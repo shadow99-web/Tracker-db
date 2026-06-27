@@ -1171,7 +1171,7 @@
         "Aegislash": 1,
         "Inkay": 1,
         "Fidough": 2,
-        "Spritzee": 1,
+        "Spritzee": 2,
         "Squawkabilly": 2,
         "Beldum": 6,
         "Whismur": 2,
@@ -1235,7 +1235,7 @@
         "Lileep": 1,
         "Cetoddle": 3,
         "Chespin": 2,
-        "Naclstack": 1,
+        "Naclstack": 2,
         "Ferrothorn": 1,
         "Karrablast": 1,
         "Sinistea": 5,
@@ -1413,10 +1413,11 @@
         "Boldore": 1,
         "Emboar": 1,
         "Blue flower floette": 1,
-        "Leafeon": 1
+        "Leafeon": 1,
+        "Shellder": 1
       },
-      "total_spawns": 613,
-      "last_spawn": "2026-06-27T14:23:57.502457"
+      "total_spawns": 616,
+      "last_spawn": "2026-06-27T14:24:27.797473"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1426,7 +1427,7 @@
     }
   },
   "global": {
-    "total_spawns": 31106,
+    "total_spawns": 31109,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
