@@ -1375,7 +1375,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 2,
+        "Tympole": 3,
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 1,
@@ -1445,10 +1445,12 @@
         "Surskit": 1,
         "Combee": 1,
         "Flareon": 1,
-        "Bunnelby": 1
+        "Bunnelby": 1,
+        "Skiploom": 1,
+        "Marshtomp": 2
       },
-      "total_spawns": 679,
-      "last_spawn": "2026-06-27T14:34:27.795473"
+      "total_spawns": 683,
+      "last_spawn": "2026-06-27T14:35:03.396284"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1458,7 +1460,7 @@
     }
   },
   "global": {
-    "total_spawns": 31172,
+    "total_spawns": 31176,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
