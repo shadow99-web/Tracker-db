@@ -1282,7 +1282,7 @@
         "Clefable": 1,
         "Durant": 1,
         "Pidgeotto": 2,
-        "Maushold": 1,
+        "Maushold": 2,
         "Dewpider": 1,
         "Sobble": 1,
         "Darkrai": 1,
@@ -1477,7 +1477,7 @@
         "Shelmet": 1,
         "Pyroar": 1,
         "Tatsugiri": 1,
-        "Skwovet": 1,
+        "Skwovet": 2,
         "Stufful": 1,
         "Roaring moon": 1,
         "Vanillish": 1,
@@ -1485,10 +1485,11 @@
         "Stunfisk": 1,
         "Lycanroc": 1,
         "Illumise": 1,
-        "Nidoqueen": 1
+        "Nidoqueen": 1,
+        "Kingler": 1
       },
-      "total_spawns": 811,
-      "last_spawn": "2026-06-27T14:58:47.695010"
+      "total_spawns": 814,
+      "last_spawn": "2026-06-27T14:59:17.709002"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1498,7 +1499,7 @@
     }
   },
   "global": {
-    "total_spawns": 31304,
+    "total_spawns": 31307,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
