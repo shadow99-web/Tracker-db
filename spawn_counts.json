@@ -1123,7 +1123,7 @@
         "Pikachu": 2,
         "Rhyhorn": 2,
         "Tynamo": 3,
-        "Tandemaus": 2,
+        "Tandemaus": 3,
         "Smearguru": 5,
         "Magnemite": 4,
         "Teddiursa": 5,
@@ -1197,7 +1197,7 @@
         "Tadbulb": 3,
         "Helioptile": 1,
         "Blitzle": 2,
-        "Pidove": 1,
+        "Pidove": 2,
         "Doublade": 1,
         "Quilava": 1,
         "Tarountula": 1,
@@ -1264,7 +1264,7 @@
         "Beheeyem": 1,
         "Charizard": 1,
         "Kirlia": 2,
-        "Treecko": 2,
+        "Treecko": 3,
         "Veluza": 4,
         "Cyndaquil": 2,
         "Zorua": 1,
@@ -1380,10 +1380,11 @@
         "Carvanha": 1,
         "Caterpie": 1,
         "Dondozo": 1,
-        "Tranquill": 1
+        "Tranquill": 1,
+        "Porygon": 1
       },
-      "total_spawns": 543,
-      "last_spawn": "2026-06-27T14:13:00.139481"
+      "total_spawns": 547,
+      "last_spawn": "2026-06-27T14:13:37.540961"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1393,7 +1394,7 @@
     }
   },
   "global": {
-    "total_spawns": 31036,
+    "total_spawns": 31040,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
