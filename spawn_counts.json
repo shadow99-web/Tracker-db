@@ -1294,7 +1294,7 @@
         "Cottonee": 1,
         "Horsea": 3,
         "Doduo": 1,
-        "Ivysaur": 2,
+        "Ivysaur": 3,
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
@@ -1422,7 +1422,7 @@
         "Nidoking": 1,
         "Tentacool": 1,
         "Servine": 2,
-        "Grubbin": 1,
+        "Grubbin": 2,
         "Clobbopus": 1,
         "Bounsweet": 1,
         "Crawdaunt": 2,
@@ -1462,10 +1462,11 @@
         "Cufant": 1,
         "Bellibolt": 1,
         "Hero palafin": 1,
-        "Quilladin": 1
+        "Quilladin": 1,
+        "Delibird": 1
       },
-      "total_spawns": 732,
-      "last_spawn": "2026-06-27T14:46:07.798016"
+      "total_spawns": 735,
+      "last_spawn": "2026-06-27T14:46:37.803918"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1475,7 +1476,7 @@
     }
   },
   "global": {
-    "total_spawns": 31225,
+    "total_spawns": 31228,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
