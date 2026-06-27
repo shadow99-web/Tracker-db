@@ -1091,7 +1091,7 @@
       "counts": {
         "Brionne": 2,
         "Sandygast": 3,
-        "Clauncher": 1,
+        "Clauncher": 2,
         "Barbaracle": 2,
         "Amoonguss": 1,
         "Mosslax": 9,
@@ -1474,7 +1474,7 @@
         "Oshawott": 1,
         "Cyclizar": 2,
         "Castform": 1,
-        "Shelmet": 1,
+        "Shelmet": 2,
         "Pyroar": 1,
         "Tatsugiri": 1,
         "Skwovet": 2,
@@ -1499,10 +1499,11 @@
         "Toxel": 1,
         "Dachsbun": 1,
         "Cascoon": 1,
-        "Larvitar": 1
+        "Larvitar": 1,
+        "Arctovish": 1
       },
-      "total_spawns": 861,
-      "last_spawn": "2026-06-27T15:09:27.696724"
+      "total_spawns": 864,
+      "last_spawn": "2026-06-27T15:09:58.963664"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1512,7 +1513,7 @@
     }
   },
   "global": {
-    "total_spawns": 31354,
+    "total_spawns": 31357,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
