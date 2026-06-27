@@ -1122,7 +1122,7 @@
         "Shinx": 6,
         "Pikachu": 3,
         "Rhyhorn": 2,
-        "Tynamo": 3,
+        "Tynamo": 4,
         "Tandemaus": 3,
         "Smearguru": 6,
         "Magnemite": 6,
@@ -1154,7 +1154,7 @@
         "Blue plumage squawkabilly": 1,
         "Bergmite": 2,
         "Lairon": 1,
-        "Impidimp": 8,
+        "Impidimp": 9,
         "Solosis": 3,
         "Brambleghast": 1,
         "Rellor": 2,
@@ -1193,7 +1193,7 @@
         "Boltund": 1,
         "Lillipup": 4,
         "Ducklett": 1,
-        "Mareep": 4,
+        "Mareep": 5,
         "Tadbulb": 4,
         "Helioptile": 1,
         "Blitzle": 2,
@@ -1332,7 +1332,7 @@
         "Sandshrew": 2,
         "Tirtouga": 1,
         "Turtwig": 1,
-        "Glimmet": 3,
+        "Glimmet": 4,
         "Swadloon": 1,
         "Purrloin": 2,
         "Golem": 1,
@@ -1397,7 +1397,7 @@
         "Skiddo": 1,
         "Spiritomb": 1,
         "Seadra": 1,
-        "Seedot": 1,
+        "Seedot": 2,
         "Snivy": 1,
         "Roselia": 2,
         "Totodile": 1,
@@ -1456,7 +1456,7 @@
         "Pansear": 1,
         "Spheal": 1,
         "Espurr": 1,
-        "Poliwag": 1,
+        "Poliwag": 2,
         "Finneon": 1,
         "Starmie": 1,
         "Cufant": 1,
@@ -1470,8 +1470,8 @@
         "Grumpig": 1,
         "Ekans": 1
       },
-      "total_spawns": 753,
-      "last_spawn": "2026-06-27T14:51:17.698558"
+      "total_spawns": 759,
+      "last_spawn": "2026-06-27T14:51:57.514694"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1481,7 +1481,7 @@
     }
   },
   "global": {
-    "total_spawns": 31246,
+    "total_spawns": 31252,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
