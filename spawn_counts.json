@@ -1096,7 +1096,7 @@
         "Amoonguss": 1,
         "Mosslax": 10,
         "Rookidee": 12,
-        "Roggenrola": 5,
+        "Roggenrola": 6,
         "Armarouge": 2,
         "Gastly": 7,
         "Scatterbug": 8,
@@ -1522,7 +1522,7 @@
         "Grimer": 1,
         "Drednaw": 1,
         "Cacturne": 1,
-        "Metapod": 1,
+        "Metapod": 2,
         "Sealeo": 1,
         "Wynaut": 1,
         "Staravia": 1,
@@ -1543,10 +1543,11 @@
         "Drilbur": 1,
         "Mismagius": 1,
         "Bonsly": 1,
-        "Porygon-z": 1
+        "Porygon-z": 1,
+        "Chewtle": 1
       },
-      "total_spawns": 996,
-      "last_spawn": "2026-06-27T15:31:57.596018"
+      "total_spawns": 999,
+      "last_spawn": "2026-06-27T15:32:27.616291"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1556,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 31489,
+    "total_spawns": 31492,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
