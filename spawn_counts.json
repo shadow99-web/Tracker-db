@@ -1107,7 +1107,7 @@
         "Starly": 6,
         "Varoom": 9,
         "Weedle": 9,
-        "Chef dente": 6,
+        "Chef dente": 7,
         "Hatenna": 9,
         "Dugtrio": 1,
         "Kadabra": 3,
@@ -1271,7 +1271,7 @@
         "Meganium": 1,
         "Toedscruel": 1,
         "Klawf": 2,
-        "Grookey": 1,
+        "Grookey": 2,
         "Gossifleur": 2,
         "Joltik": 1,
         "Summer deerling": 1,
@@ -1334,7 +1334,7 @@
         "Turtwig": 1,
         "Glimmet": 4,
         "Swadloon": 1,
-        "Purrloin": 2,
+        "Purrloin": 3,
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
@@ -1378,7 +1378,7 @@
         "Tympole": 3,
         "Barboach": 1,
         "Carvanha": 1,
-        "Caterpie": 2,
+        "Caterpie": 3,
         "Dondozo": 2,
         "Tranquill": 2,
         "Porygon": 2,
@@ -1521,8 +1521,8 @@
         "Gloom": 1,
         "Grimer": 1
       },
-      "total_spawns": 910,
-      "last_spawn": "2026-06-27T15:18:08.132181"
+      "total_spawns": 914,
+      "last_spawn": "2026-06-27T15:18:47.697273"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1532,7 +1532,7 @@
     }
   },
   "global": {
-    "total_spawns": 31403,
+    "total_spawns": 31407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
