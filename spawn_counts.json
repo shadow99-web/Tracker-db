@@ -1108,7 +1108,7 @@
         "Larvesta": 2,
         "Starly": 8,
         "Varoom": 10,
-        "Weedle": 12,
+        "Weedle": 13,
         "Chef dente": 8,
         "Hatenna": 10,
         "Dugtrio": 1,
@@ -1212,7 +1212,7 @@
         "Aron": 7,
         "Kabuto": 2,
         "Togetic": 3,
-        "Sewaddle": 4,
+        "Sewaddle": 5,
         "Eevee": 1,
         "Taillow": 2,
         "Pelipper": 1,
@@ -1268,7 +1268,7 @@
         "Kirlia": 2,
         "Treecko": 5,
         "Veluza": 6,
-        "Cyndaquil": 4,
+        "Cyndaquil": 5,
         "Zorua": 2,
         "Meganium": 1,
         "Toedscruel": 1,
@@ -1329,7 +1329,7 @@
         "Duskull": 5,
         "Vigoroth": 2,
         "Seviper": 2,
-        "Goomy": 2,
+        "Goomy": 3,
         "Nickit": 1,
         "Sandshrew": 2,
         "Tirtouga": 1,
@@ -1587,8 +1587,8 @@
         "Litleo": 1,
         "Pancham": 1
       },
-      "total_spawns": 1172,
-      "last_spawn": "2026-06-27T17:52:57.924241"
+      "total_spawns": 1176,
+      "last_spawn": "2026-06-27T17:53:37.773245"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1598,7 +1598,7 @@
     }
   },
   "global": {
-    "total_spawns": 32303,
+    "total_spawns": 32307,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
