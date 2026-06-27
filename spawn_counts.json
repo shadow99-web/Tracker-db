@@ -1095,7 +1095,7 @@
         "Barbaracle": 1,
         "Amoonguss": 1,
         "Mosslax": 9,
-        "Rookidee": 10,
+        "Rookidee": 11,
         "Roggenrola": 5,
         "Armarouge": 2,
         "Gastly": 5,
@@ -1326,7 +1326,7 @@
         "Zen darmanitan": 1,
         "Duskull": 1,
         "Vigoroth": 1,
-        "Seviper": 1,
+        "Seviper": 2,
         "Goomy": 1,
         "Nickit": 1,
         "Sandshrew": 1,
@@ -1379,10 +1379,11 @@
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 1,
-        "Dondozo": 1
+        "Dondozo": 1,
+        "Tranquill": 1
       },
-      "total_spawns": 540,
-      "last_spawn": "2026-06-27T14:12:27.597437"
+      "total_spawns": 543,
+      "last_spawn": "2026-06-27T14:13:00.139481"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1392,7 +1393,7 @@
     }
   },
   "global": {
-    "total_spawns": 31033,
+    "total_spawns": 31036,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
