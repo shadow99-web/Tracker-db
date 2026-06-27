@@ -1126,7 +1126,7 @@
         "Tandemaus": 5,
         "Smearguru": 6,
         "Magnemite": 7,
-        "Teddiursa": 6,
+        "Teddiursa": 7,
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 4,
@@ -1200,7 +1200,7 @@
         "Pidove": 7,
         "Doublade": 1,
         "Quilava": 3,
-        "Tarountula": 3,
+        "Tarountula": 4,
         "Dottler": 1,
         "Paras": 1,
         "Swablu": 4,
@@ -1292,7 +1292,7 @@
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
-        "Horsea": 5,
+        "Horsea": 6,
         "Doduo": 1,
         "Ivysaur": 3,
         "Crustle": 1,
@@ -1550,10 +1550,11 @@
         "White plumage squawkabilly": 1,
         "Salandit": 1,
         "Qwilfish": 1,
-        "Indeedee": 1
+        "Indeedee": 1,
+        "Skrelp": 1
       },
-      "total_spawns": 1043,
-      "last_spawn": "2026-06-27T15:40:07.998360"
+      "total_spawns": 1047,
+      "last_spawn": "2026-06-27T15:40:47.408889"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1563,7 +1564,7 @@
     }
   },
   "global": {
-    "total_spawns": 31536,
+    "total_spawns": 31540,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
