@@ -1106,7 +1106,7 @@
         "Larvesta": 2,
         "Starly": 6,
         "Varoom": 8,
-        "Weedle": 7,
+        "Weedle": 8,
         "Chef dente": 4,
         "Hatenna": 6,
         "Dugtrio": 1,
@@ -1332,7 +1332,7 @@
         "Sandshrew": 1,
         "Tirtouga": 1,
         "Turtwig": 1,
-        "Glimmet": 2,
+        "Glimmet": 3,
         "Swadloon": 1,
         "Purrloin": 2,
         "Golem": 1,
@@ -1425,7 +1425,7 @@
         "Grubbin": 1,
         "Clobbopus": 1,
         "Bounsweet": 1,
-        "Crawdaunt": 1,
+        "Crawdaunt": 2,
         "Hoppip": 1,
         "Shroodle": 1,
         "Fomantis": 1,
@@ -1456,10 +1456,11 @@
         "Pansear": 1,
         "Spheal": 1,
         "Espurr": 1,
-        "Poliwag": 1
+        "Poliwag": 1,
+        "Finneon": 1
       },
-      "total_spawns": 709,
-      "last_spawn": "2026-06-27T14:42:27.500598"
+      "total_spawns": 713,
+      "last_spawn": "2026-06-27T14:42:57.895824"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1469,7 +1470,7 @@
     }
   },
   "global": {
-    "total_spawns": 31202,
+    "total_spawns": 31206,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
