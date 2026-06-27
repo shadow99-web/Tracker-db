@@ -1124,7 +1124,7 @@
         "Rhyhorn": 2,
         "Tynamo": 3,
         "Tandemaus": 3,
-        "Smearguru": 5,
+        "Smearguru": 6,
         "Magnemite": 4,
         "Teddiursa": 5,
         "Houndoom": 1,
@@ -1203,7 +1203,7 @@
         "Tarountula": 1,
         "Dottler": 1,
         "Paras": 1,
-        "Swablu": 1,
+        "Swablu": 2,
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 1,
@@ -1367,7 +1367,7 @@
         "Bronzor": 1,
         "Eelektrik": 1,
         "Ledyba": 1,
-        "Tyrunt": 1,
+        "Tyrunt": 2,
         "Braixen": 1,
         "Revavroom": 1,
         "Drowzee": 2,
@@ -1410,10 +1410,11 @@
         "Venonat": 1,
         "Popplio": 1,
         "Glameow": 1,
-        "Boldore": 1
+        "Boldore": 1,
+        "Emboar": 1
       },
-      "total_spawns": 604,
-      "last_spawn": "2026-06-27T14:22:37.595544"
+      "total_spawns": 608,
+      "last_spawn": "2026-06-27T14:23:17.604161"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1423,7 +1424,7 @@
     }
   },
   "global": {
-    "total_spawns": 31097,
+    "total_spawns": 31101,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
