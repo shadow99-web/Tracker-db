@@ -1098,7 +1098,7 @@
         "Rookidee": 11,
         "Roggenrola": 5,
         "Armarouge": 2,
-        "Gastly": 5,
+        "Gastly": 6,
         "Scatterbug": 6,
         "Wurmple": 2,
         "Gothita": 11,
@@ -1174,7 +1174,7 @@
         "Spritzee": 1,
         "Squawkabilly": 2,
         "Beldum": 6,
-        "Whismur": 1,
+        "Whismur": 2,
         "Crabrawler": 1,
         "Mudkip": 1,
         "Greavard": 10,
@@ -1391,10 +1391,11 @@
         "Gigalith": 2,
         "Nuzleaf": 1,
         "Geodude": 1,
-        "Gholdengo": 1
+        "Gholdengo": 1,
+        "Dudunsparce": 1
       },
-      "total_spawns": 568,
-      "last_spawn": "2026-06-27T14:16:47.506533"
+      "total_spawns": 571,
+      "last_spawn": "2026-06-27T14:17:17.715582"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1404,7 +1405,7 @@
     }
   },
   "global": {
-    "total_spawns": 31061,
+    "total_spawns": 31064,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
