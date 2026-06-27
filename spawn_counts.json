@@ -1126,7 +1126,7 @@
         "Lapras": 1,
         "Seismitoad": 1,
         "Frigibax": 4,
-        "Meowth": 1,
+        "Meowth": 2,
         "Dj rotom": 3,
         "Prof tangrowth": 3,
         "Charcadet": 6,
@@ -1311,10 +1311,11 @@
         "Typhlosion": 1,
         "Honedge": 1,
         "Hisuian qwilfish": 1,
-        "Torterra": 1
+        "Torterra": 1,
+        "Blipbug": 1
       },
-      "total_spawns": 403,
-      "last_spawn": "2026-06-27T02:44:17.396153"
+      "total_spawns": 405,
+      "last_spawn": "2026-06-27T02:45:27.697994"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1324,7 +1325,7 @@
     }
   },
   "global": {
-    "total_spawns": 28693,
+    "total_spawns": 28695,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
