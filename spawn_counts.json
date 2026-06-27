@@ -1117,7 +1117,7 @@
         "Lickilicky": 3,
         "Hisuian voltorb": 1,
         "Dreepy": 6,
-        "Bagon": 3,
+        "Bagon": 4,
         "Archen": 2,
         "Shinx": 7,
         "Pikachu": 3,
@@ -1237,7 +1237,7 @@
         "Chespin": 2,
         "Naclstack": 2,
         "Ferrothorn": 1,
-        "Karrablast": 1,
+        "Karrablast": 2,
         "Sinistea": 5,
         "Lurantis": 2,
         "Machamp": 1,
@@ -1348,7 +1348,7 @@
         "Chandelure": 1,
         "Wiglett": 6,
         "Farigiraf": 2,
-        "Zubat": 2,
+        "Zubat": 3,
         "Lotad": 2,
         "Sylveon": 1,
         "Omastar": 1,
@@ -1520,10 +1520,11 @@
         "Tyrogue": 1,
         "Gloom": 1,
         "Grimer": 1,
-        "Drednaw": 1
+        "Drednaw": 1,
+        "Cacturne": 1
       },
-      "total_spawns": 922,
-      "last_spawn": "2026-06-27T15:19:57.595360"
+      "total_spawns": 926,
+      "last_spawn": "2026-06-27T15:20:37.402971"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1533,7 +1534,7 @@
     }
   },
   "global": {
-    "total_spawns": 31415,
+    "total_spawns": 31419,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
