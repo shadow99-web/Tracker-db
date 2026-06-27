@@ -1302,7 +1302,7 @@
         "Rattata": 1,
         "Bellsprout": 1,
         "Lickitung": 1,
-        "Minccino": 1,
+        "Minccino": 2,
         "Togepi": 1,
         "Milotic": 1,
         "Plusle": 1,
@@ -1310,10 +1310,11 @@
         "Cryogonal": 1,
         "Typhlosion": 1,
         "Honedge": 1,
-        "Hisuian qwilfish": 1
+        "Hisuian qwilfish": 1,
+        "Torterra": 1
       },
-      "total_spawns": 401,
-      "last_spawn": "2026-06-27T02:42:57.994577"
+      "total_spawns": 403,
+      "last_spawn": "2026-06-27T02:44:17.396153"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1323,7 +1324,7 @@
     }
   },
   "global": {
-    "total_spawns": 28691,
+    "total_spawns": 28693,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
