@@ -1104,7 +1104,7 @@
         "Gothita": 10,
         "Gible": 5,
         "Larvesta": 2,
-        "Starly": 5,
+        "Starly": 6,
         "Varoom": 6,
         "Weedle": 6,
         "Chef dente": 4,
@@ -1339,10 +1339,11 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 1,
-        "Maschiff": 1
+        "Maschiff": 1,
+        "Sprigatito": 1
       },
-      "total_spawns": 440,
-      "last_spawn": "2026-06-27T11:42:25.399432"
+      "total_spawns": 442,
+      "last_spawn": "2026-06-27T11:45:25.099206"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1352,7 +1353,7 @@
     }
   },
   "global": {
-    "total_spawns": 30933,
+    "total_spawns": 30935,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
