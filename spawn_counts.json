@@ -1197,7 +1197,7 @@
         "Tadbulb": 6,
         "Helioptile": 2,
         "Blitzle": 2,
-        "Pidove": 3,
+        "Pidove": 4,
         "Doublade": 1,
         "Quilava": 3,
         "Tarountula": 2,
@@ -1243,7 +1243,7 @@
         "Machamp": 1,
         "Sceptile": 1,
         "Shelgon": 1,
-        "Dratini": 4,
+        "Dratini": 5,
         "Coalossal": 1,
         "Gumshoos": 1,
         "Cherubi": 1,
@@ -1534,10 +1534,11 @@
         "Quaxly": 1,
         "Golbat": 1,
         "Beautifly": 1,
-        "Houndstone": 1
+        "Houndstone": 1,
+        "Braviary": 1
       },
-      "total_spawns": 975,
-      "last_spawn": "2026-06-27T15:28:37.494678"
+      "total_spawns": 978,
+      "last_spawn": "2026-06-27T15:29:07.694770"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1547,7 +1548,7 @@
     }
   },
   "global": {
-    "total_spawns": 31468,
+    "total_spawns": 31471,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
