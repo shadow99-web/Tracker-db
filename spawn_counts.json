@@ -1138,7 +1138,7 @@
         "Frigibax": 8,
         "Meowth": 2,
         "Dj rotom": 4,
-        "Prof tangrowth": 5,
+        "Prof tangrowth": 6,
         "Charcadet": 8,
         "Furfrou": 1,
         "Slaking": 2,
@@ -1146,7 +1146,7 @@
         "Salazzle": 1,
         "Skitty": 2,
         "Fletchling": 1,
-        "Orthworm": 4,
+        "Orthworm": 5,
         "Woobat": 4,
         "Happiny": 1,
         "Squirtle": 1,
@@ -1174,7 +1174,7 @@
         "Spritzee": 2,
         "Squawkabilly": 2,
         "Beldum": 7,
-        "Whismur": 2,
+        "Whismur": 3,
         "Crabrawler": 2,
         "Mudkip": 1,
         "Greavard": 11,
@@ -1193,7 +1193,7 @@
         "Boltund": 1,
         "Lillipup": 4,
         "Ducklett": 1,
-        "Mareep": 5,
+        "Mareep": 6,
         "Tadbulb": 4,
         "Helioptile": 1,
         "Blitzle": 2,
@@ -1468,10 +1468,12 @@
         "Darmanitan": 1,
         "Mantine": 1,
         "Grumpig": 1,
-        "Ekans": 1
+        "Ekans": 1,
+        "Swanna": 1,
+        "Marill": 1
       },
-      "total_spawns": 759,
-      "last_spawn": "2026-06-27T14:51:57.514694"
+      "total_spawns": 765,
+      "last_spawn": "2026-06-27T14:52:27.600479"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1481,7 +1483,7 @@
     }
   },
   "global": {
-    "total_spawns": 31252,
+    "total_spawns": 31258,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
