@@ -1212,7 +1212,7 @@
         "Aron": 9,
         "Kabuto": 2,
         "Togetic": 3,
-        "Sewaddle": 5,
+        "Sewaddle": 6,
         "Eevee": 1,
         "Taillow": 2,
         "Pelipper": 1,
@@ -1424,7 +1424,7 @@
         "Nidoking": 1,
         "Tentacool": 2,
         "Servine": 4,
-        "Grubbin": 4,
+        "Grubbin": 5,
         "Clobbopus": 1,
         "Bounsweet": 6,
         "Crawdaunt": 2,
@@ -1501,7 +1501,7 @@
         "Toxel": 3,
         "Dachsbun": 2,
         "Cascoon": 2,
-        "Larvitar": 4,
+        "Larvitar": 5,
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
@@ -1632,10 +1632,14 @@
         "Poliwhirl": 1,
         "Patrat": 1,
         "Samurott": 1,
-        "Ditto": 1
+        "Ditto": 1,
+        "Smeargle": 1,
+        "Espathra": 1,
+        "Yellow plumage squawkabilly": 1,
+        "Roserade": 1
       },
-      "total_spawns": 1382,
-      "last_spawn": "2026-06-27T18:54:57.498261"
+      "total_spawns": 1389,
+      "last_spawn": "2026-06-27T18:55:27.968338"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1645,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 32513,
+    "total_spawns": 32520,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
