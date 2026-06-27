@@ -1193,7 +1193,7 @@
         "Boltund": 1,
         "Lillipup": 4,
         "Ducklett": 1,
-        "Mareep": 2,
+        "Mareep": 3,
         "Tadbulb": 2,
         "Helioptile": 1,
         "Blitzle": 2,
@@ -1238,7 +1238,7 @@
         "Naclstack": 1,
         "Ferrothorn": 1,
         "Karrablast": 1,
-        "Sinistea": 4,
+        "Sinistea": 5,
         "Lurantis": 1,
         "Machamp": 1,
         "Sceptile": 1,
@@ -1360,10 +1360,12 @@
         "Goodra": 1,
         "Klink": 1,
         "Mankey": 1,
-        "Charmander": 1
+        "Charmander": 1,
+        "Shroomish": 1,
+        "Finizen": 1
       },
-      "total_spawns": 495,
-      "last_spawn": "2026-06-27T14:03:48.112658"
+      "total_spawns": 499,
+      "last_spawn": "2026-06-27T14:04:27.976378"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1373,7 +1375,7 @@
     }
   },
   "global": {
-    "total_spawns": 30988,
+    "total_spawns": 30992,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
