@@ -1110,7 +1110,7 @@
         "Chef dente": 5,
         "Hatenna": 9,
         "Dugtrio": 1,
-        "Kadabra": 2,
+        "Kadabra": 3,
         "Sandile": 9,
         "Riolu": 3,
         "Hisuian avalugg": 1,
@@ -1192,7 +1192,7 @@
         "Watchog": 1,
         "Boltund": 1,
         "Lillipup": 4,
-        "Ducklett": 1,
+        "Ducklett": 2,
         "Mareep": 6,
         "Tadbulb": 4,
         "Helioptile": 1,
@@ -1207,7 +1207,7 @@
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 2,
-        "Aron": 4,
+        "Aron": 5,
         "Kabuto": 2,
         "Togetic": 2,
         "Sewaddle": 2,
@@ -1288,7 +1288,7 @@
         "Darkrai": 1,
         "Growlithe": 1,
         "Nihilego": 1,
-        "Slakoth": 5,
+        "Slakoth": 6,
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
@@ -1499,8 +1499,8 @@
         "Toxel": 1,
         "Dachsbun": 1
       },
-      "total_spawns": 852,
-      "last_spawn": "2026-06-27T15:05:47.803818"
+      "total_spawns": 856,
+      "last_spawn": "2026-06-27T15:06:27.799893"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1510,7 +1510,7 @@
     }
   },
   "global": {
-    "total_spawns": 31345,
+    "total_spawns": 31349,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
