@@ -1107,7 +1107,7 @@
         "Gible": 8,
         "Larvesta": 3,
         "Starly": 9,
-        "Varoom": 10,
+        "Varoom": 11,
         "Weedle": 14,
         "Chef dente": 8,
         "Hatenna": 11,
@@ -1151,7 +1151,7 @@
         "Orthworm": 6,
         "Woobat": 5,
         "Happiny": 1,
-        "Squirtle": 2,
+        "Squirtle": 3,
         "Spinarak": 1,
         "Blue plumage squawkabilly": 1,
         "Bergmite": 3,
@@ -1218,7 +1218,7 @@
         "Pelipper": 1,
         "Hattrem": 2,
         "Machoke": 2,
-        "Litwick": 10,
+        "Litwick": 11,
         "Frost rotom": 1,
         "Cubchoo": 5,
         "Abra": 11,
@@ -1265,7 +1265,7 @@
         "Golisopod": 3,
         "Beheeyem": 1,
         "Charizard": 1,
-        "Kirlia": 2,
+        "Kirlia": 3,
         "Treecko": 5,
         "Veluza": 7,
         "Cyndaquil": 5,
@@ -1354,7 +1354,7 @@
         "Lotad": 2,
         "Sylveon": 1,
         "Omastar": 1,
-        "Ralts": 2,
+        "Ralts": 3,
         "Clamperl": 2,
         "Falinks": 1,
         "Tinkatuff": 2,
@@ -1626,10 +1626,13 @@
         "Battle cyclizar": 1,
         "Lombre": 1,
         "Cetitan": 1,
-        "Bewear": 1
+        "Bewear": 1,
+        "Cloyster": 1,
+        "Centiskorch": 1,
+        "Poliwhirl": 1
       },
-      "total_spawns": 1355,
-      "last_spawn": "2026-06-27T18:52:37.767488"
+      "total_spawns": 1363,
+      "last_spawn": "2026-06-27T18:53:17.415238"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1639,7 +1642,7 @@
     }
   },
   "global": {
-    "total_spawns": 32486,
+    "total_spawns": 32494,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
