@@ -1270,7 +1270,7 @@
         "Zorua": 1,
         "Meganium": 1,
         "Toedscruel": 1,
-        "Klawf": 1,
+        "Klawf": 2,
         "Grookey": 1,
         "Gossifleur": 1,
         "Joltik": 1,
@@ -1377,10 +1377,12 @@
         "Yamask": 1,
         "Tympole": 1,
         "Barboach": 1,
-        "Carvanha": 1
+        "Carvanha": 1,
+        "Caterpie": 1,
+        "Dondozo": 1
       },
-      "total_spawns": 537,
-      "last_spawn": "2026-06-27T14:11:57.514888"
+      "total_spawns": 540,
+      "last_spawn": "2026-06-27T14:12:27.597437"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1390,7 +1392,7 @@
     }
   },
   "global": {
-    "total_spawns": 31030,
+    "total_spawns": 31033,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
