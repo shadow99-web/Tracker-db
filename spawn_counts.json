@@ -43,7 +43,7 @@
         "Fletchling": 111,
         "Skiploom": 35,
         "Timburr": 128,
-        "Dj rotom": 112,
+        "Dj rotom": 113,
         "Surskit": 39,
         "Seedot": 109,
         "Skitty": 32,
@@ -69,7 +69,7 @@
         "Tandemaus": 102,
         "Smoliv": 132,
         "Gloom": 28,
-        "Clefairy": 28,
+        "Clefairy": 29,
         "Spinda": 8,
         "Fomantis": 21,
         "Droopy tatsugiri": 52,
@@ -166,7 +166,7 @@
         "Kakuna": 32,
         "Weepinbell": 27,
         "Klawf": 136,
-        "Vanillite": 112,
+        "Vanillite": 113,
         "Flareon": 10,
         "Gastly": 106,
         "Taillow": 27,
@@ -386,7 +386,7 @@
         "Swablu": 27,
         "Shellder": 30,
         "Crobat": 11,
-        "Sandshrew": 34,
+        "Sandshrew": 35,
         "Palafin": 25,
         "Maractus": 8,
         "Sigilyph": 11,
@@ -448,7 +448,7 @@
         "Wugtrio": 25,
         "Bellibolt": 30,
         "Morgrem": 23,
-        "Misdreavus": 27,
+        "Misdreavus": 28,
         "Seviper": 8,
         "Scovillain": 31,
         "Sunkern": 26,
@@ -533,7 +533,7 @@
         "Wormadam": 7,
         "Axew": 108,
         "Trevenant": 9,
-        "Trubbish": 20,
+        "Trubbish": 21,
         "Zorua": 22,
         "Archen": 36,
         "Oinkologne": 41,
@@ -1085,8 +1085,8 @@
         "Zygarde core": 1,
         "Rapid strike urshifu": 1
       },
-      "total_spawns": 26830,
-      "last_spawn": "2026-06-27T17:13:37.161031"
+      "total_spawns": 26836,
+      "last_spawn": "2026-06-27T17:14:00.405052"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1116,7 +1116,7 @@
         "Sandile": 9,
         "Riolu": 3,
         "Hisuian avalugg": 1,
-        "Lickilicky": 3,
+        "Lickilicky": 4,
         "Hisuian voltorb": 1,
         "Dreepy": 8,
         "Bagon": 4,
@@ -1163,7 +1163,7 @@
         "Nincada": 1,
         "Wattrel": 5,
         "Entei": 1,
-        "Flaaffy": 1,
+        "Flaaffy": 2,
         "Pikipek": 3,
         "Nacli": 4,
         "Grovyle": 1,
@@ -1472,7 +1472,7 @@
         "Grumpig": 1,
         "Ekans": 1,
         "Swanna": 1,
-        "Marill": 1,
+        "Marill": 2,
         "Oshawott": 1,
         "Cyclizar": 2,
         "Castform": 1,
@@ -1516,7 +1516,7 @@
         "Trevenant": 1,
         "Pignite": 1,
         "Ferroseed": 1,
-        "Grafaiai": 2,
+        "Grafaiai": 3,
         "Tangela": 1,
         "Palpitoad": 1,
         "Tyrogue": 1,
@@ -1569,8 +1569,8 @@
         "Skorupi": 1,
         "Arrokuda": 1
       },
-      "total_spawns": 1100,
-      "last_spawn": "2026-06-27T17:13:27.595775"
+      "total_spawns": 1104,
+      "last_spawn": "2026-06-27T17:14:07.635224"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1580,7 +1580,7 @@
     }
   },
   "global": {
-    "total_spawns": 32217,
+    "total_spawns": 32227,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
