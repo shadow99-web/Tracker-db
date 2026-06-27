@@ -1116,7 +1116,7 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 3,
         "Hisuian voltorb": 1,
-        "Dreepy": 6,
+        "Dreepy": 7,
         "Bagon": 4,
         "Archen": 2,
         "Shinx": 8,
@@ -1178,7 +1178,7 @@
         "Crabrawler": 2,
         "Mudkip": 1,
         "Greavard": 11,
-        "Axew": 5,
+        "Axew": 6,
         "Ride cyclizar": 2,
         "Trapinch": 1,
         "Smoliv": 4,
@@ -1518,7 +1518,7 @@
         "Tangela": 1,
         "Palpitoad": 1,
         "Tyrogue": 1,
-        "Gloom": 1,
+        "Gloom": 2,
         "Grimer": 1,
         "Drednaw": 1,
         "Cacturne": 1,
@@ -1529,10 +1529,11 @@
         "Spidops": 1,
         "Appletun": 1,
         "Anorith": 1,
-        "Carkol": 1
+        "Carkol": 1,
+        "Seaking": 1
       },
-      "total_spawns": 952,
-      "last_spawn": "2026-06-27T15:25:01.189302"
+      "total_spawns": 956,
+      "last_spawn": "2026-06-27T15:25:37.485722"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1542,7 +1543,7 @@
     }
   },
   "global": {
-    "total_spawns": 31445,
+    "total_spawns": 31449,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
