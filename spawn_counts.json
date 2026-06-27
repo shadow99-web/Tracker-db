@@ -1106,7 +1106,7 @@
         "Larvesta": 2,
         "Starly": 6,
         "Varoom": 9,
-        "Weedle": 10,
+        "Weedle": 11,
         "Chef dente": 7,
         "Hatenna": 10,
         "Dugtrio": 1,
@@ -1364,7 +1364,7 @@
         "Shroomish": 1,
         "Finizen": 2,
         "Croconaw": 1,
-        "Bronzor": 1,
+        "Bronzor": 2,
         "Eelektrik": 1,
         "Ledyba": 1,
         "Tyrunt": 3,
@@ -1381,7 +1381,7 @@
         "Caterpie": 4,
         "Dondozo": 2,
         "Tranquill": 2,
-        "Porygon": 2,
+        "Porygon": 3,
         "Wooloo": 1,
         "Oddish": 1,
         "Barraskewda": 1,
@@ -1539,10 +1539,11 @@
         "Cubone": 1,
         "Stantler": 1,
         "Rufflet": 1,
-        "Klang": 1
+        "Klang": 1,
+        "Drilbur": 1
       },
-      "total_spawns": 985,
-      "last_spawn": "2026-06-27T15:30:17.602405"
+      "total_spawns": 989,
+      "last_spawn": "2026-06-27T15:30:48.095221"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1552,7 +1553,7 @@
     }
   },
   "global": {
-    "total_spawns": 31478,
+    "total_spawns": 31482,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
