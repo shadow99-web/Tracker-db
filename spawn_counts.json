@@ -1091,7 +1091,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Brionne": 2,
+        "Brionne": 3,
         "Sandygast": 3,
         "Clauncher": 2,
         "Barbaracle": 2,
@@ -1108,7 +1108,7 @@
         "Larvesta": 2,
         "Starly": 9,
         "Varoom": 10,
-        "Weedle": 13,
+        "Weedle": 14,
         "Chef dente": 8,
         "Hatenna": 10,
         "Dugtrio": 1,
@@ -1119,7 +1119,7 @@
         "Lickilicky": 4,
         "Hisuian voltorb": 1,
         "Dreepy": 10,
-        "Bagon": 4,
+        "Bagon": 5,
         "Archen": 2,
         "Shinx": 10,
         "Pikachu": 4,
@@ -1188,7 +1188,7 @@
         "Frogadier": 2,
         "Gimmighoul": 4,
         "Mienshao": 1,
-        "Swinub": 5,
+        "Swinub": 6,
         "Rabsca": 3,
         "Floragato": 1,
         "Watchog": 1,
@@ -1392,7 +1392,7 @@
         "Archeops": 1,
         "Gigalith": 2,
         "Nuzleaf": 2,
-        "Geodude": 6,
+        "Geodude": 7,
         "Gholdengo": 1,
         "Dudunsparce": 1,
         "Whirlipede": 2,
@@ -1501,7 +1501,7 @@
         "Toxel": 3,
         "Dachsbun": 2,
         "Cascoon": 2,
-        "Larvitar": 3,
+        "Larvitar": 4,
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
@@ -1617,10 +1617,11 @@
         "Girafarig": 1,
         "Duosion": 1,
         "Mudbray": 1,
-        "Bombirdier": 1
+        "Bombirdier": 1,
+        "Haunter": 1
       },
-      "total_spawns": 1294,
-      "last_spawn": "2026-06-27T18:47:22.767532"
+      "total_spawns": 1301,
+      "last_spawn": "2026-06-27T18:47:57.599269"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1630,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 32425,
+    "total_spawns": 32432,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
