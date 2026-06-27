@@ -1105,7 +1105,7 @@
         "Gible": 6,
         "Larvesta": 2,
         "Starly": 6,
-        "Varoom": 8,
+        "Varoom": 9,
         "Weedle": 9,
         "Chef dente": 5,
         "Hatenna": 9,
@@ -1346,7 +1346,7 @@
         "Fuecoco": 1,
         "Electrode": 1,
         "Chandelure": 1,
-        "Wiglett": 5,
+        "Wiglett": 6,
         "Farigiraf": 2,
         "Zubat": 2,
         "Lotad": 2,
@@ -1497,10 +1497,11 @@
         "Wugtrio": 1,
         "Magneton": 1,
         "Toxel": 1,
-        "Dachsbun": 1
+        "Dachsbun": 1,
+        "Cascoon": 1
       },
-      "total_spawns": 856,
-      "last_spawn": "2026-06-27T15:06:27.799893"
+      "total_spawns": 859,
+      "last_spawn": "2026-06-27T15:06:57.895511"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1510,7 +1511,7 @@
     }
   },
   "global": {
-    "total_spawns": 31349,
+    "total_spawns": 31352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
