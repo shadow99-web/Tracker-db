@@ -1200,7 +1200,7 @@
         "Pidove": 2,
         "Doublade": 1,
         "Quilava": 1,
-        "Tarountula": 1,
+        "Tarountula": 2,
         "Dottler": 1,
         "Paras": 1,
         "Swablu": 3,
@@ -1302,7 +1302,7 @@
         "Onix": 1,
         "Lampent": 1,
         "East sea gastrodon": 1,
-        "Magcargo": 1,
+        "Magcargo": 2,
         "Electabuzz": 1,
         "Sensu oricorio": 1,
         "Whiscash": 1,
@@ -1339,7 +1339,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 1,
-        "Maschiff": 2,
+        "Maschiff": 3,
         "Sprigatito": 2,
         "Toedscool": 2,
         "Luxio": 1,
@@ -1429,10 +1429,11 @@
         "Hoppip": 1,
         "Shroodle": 1,
         "Fomantis": 1,
-        "Slowpoke": 1
+        "Slowpoke": 1,
+        "Shiinotic": 1
       },
-      "total_spawns": 650,
-      "last_spawn": "2026-06-27T14:29:48.019551"
+      "total_spawns": 654,
+      "last_spawn": "2026-06-27T14:30:27.902934"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1442,7 +1443,7 @@
     }
   },
   "global": {
-    "total_spawns": 31143,
+    "total_spawns": 31147,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
