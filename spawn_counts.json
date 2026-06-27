@@ -1107,7 +1107,7 @@
         "Starly": 6,
         "Varoom": 9,
         "Weedle": 11,
-        "Chef dente": 7,
+        "Chef dente": 8,
         "Hatenna": 10,
         "Dugtrio": 1,
         "Kadabra": 3,
@@ -1183,7 +1183,7 @@
         "Trapinch": 1,
         "Smoliv": 4,
         "Pawniard": 1,
-        "Frogadier": 1,
+        "Frogadier": 2,
         "Gimmighoul": 3,
         "Mienshao": 1,
         "Swinub": 4,
@@ -1532,7 +1532,7 @@
         "Carkol": 1,
         "Seaking": 1,
         "Quaxly": 1,
-        "Golbat": 1,
+        "Golbat": 2,
         "Beautifly": 1,
         "Houndstone": 2,
         "Braviary": 1,
@@ -1550,8 +1550,8 @@
         "White plumage squawkabilly": 1,
         "Salandit": 1
       },
-      "total_spawns": 1025,
-      "last_spawn": "2026-06-27T15:36:57.495548"
+      "total_spawns": 1028,
+      "last_spawn": "2026-06-27T15:37:27.818192"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1561,7 +1561,7 @@
     }
   },
   "global": {
-    "total_spawns": 31518,
+    "total_spawns": 31521,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
