@@ -1368,7 +1368,7 @@
         "Croconaw": 1,
         "Bronzor": 2,
         "Eelektrik": 1,
-        "Ledyba": 2,
+        "Ledyba": 3,
         "Tyrunt": 3,
         "Braixen": 1,
         "Revavroom": 2,
@@ -1514,7 +1514,7 @@
         "Elekid": 1,
         "Panpour": 1,
         "Trevenant": 1,
-        "Pignite": 1,
+        "Pignite": 2,
         "Ferroseed": 1,
         "Grafaiai": 3,
         "Tangela": 1,
@@ -1581,10 +1581,11 @@
         "Eelektross": 1,
         "Rhydon": 1,
         "Low key toxtricity": 1,
-        "Loudred": 1
+        "Loudred": 1,
+        "Cutiefly": 1
       },
-      "total_spawns": 1151,
-      "last_spawn": "2026-06-27T17:49:27.526871"
+      "total_spawns": 1154,
+      "last_spawn": "2026-06-27T17:50:04.298134"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1594,7 +1595,7 @@
     }
   },
   "global": {
-    "total_spawns": 32282,
+    "total_spawns": 32285,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
