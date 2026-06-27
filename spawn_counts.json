@@ -1288,11 +1288,11 @@
         "Darkrai": 1,
         "Growlithe": 1,
         "Nihilego": 1,
-        "Slakoth": 4,
+        "Slakoth": 5,
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
-        "Horsea": 1,
+        "Horsea": 2,
         "Doduo": 1,
         "Ivysaur": 1,
         "Crustle": 1,
@@ -1322,7 +1322,7 @@
         "Honedge": 2,
         "Hisuian qwilfish": 1,
         "Torterra": 1,
-        "Blipbug": 2,
+        "Blipbug": 3,
         "Zen darmanitan": 1,
         "Duskull": 1,
         "Vigoroth": 1,
@@ -1451,10 +1451,11 @@
         "Lechonk": 1,
         "Roaming gimmighoul": 1,
         "Breloom": 1,
-        "Ninjask": 1
+        "Ninjask": 1,
+        "Remoraid": 1
       },
-      "total_spawns": 691,
-      "last_spawn": "2026-06-27T14:36:07.599832"
+      "total_spawns": 695,
+      "last_spawn": "2026-06-27T14:36:47.596727"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1464,7 +1465,7 @@
     }
   },
   "global": {
-    "total_spawns": 31184,
+    "total_spawns": 31188,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
