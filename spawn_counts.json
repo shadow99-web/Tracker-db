@@ -1108,7 +1108,7 @@
         "Varoom": 7,
         "Weedle": 7,
         "Chef dente": 4,
-        "Hatenna": 5,
+        "Hatenna": 6,
         "Dugtrio": 1,
         "Kadabra": 1,
         "Sandile": 8,
@@ -1177,7 +1177,7 @@
         "Whismur": 1,
         "Crabrawler": 1,
         "Mudkip": 1,
-        "Greavard": 9,
+        "Greavard": 10,
         "Axew": 4,
         "Ride cyclizar": 2,
         "Trapinch": 1,
@@ -1384,10 +1384,12 @@
         "Porygon": 1,
         "Wooloo": 1,
         "Oddish": 1,
-        "Barraskewda": 1
+        "Barraskewda": 1,
+        "Shieldon": 1,
+        "Piloswine": 1
       },
-      "total_spawns": 551,
-      "last_spawn": "2026-06-27T14:14:17.507070"
+      "total_spawns": 555,
+      "last_spawn": "2026-06-27T14:14:58.805102"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1397,7 +1399,7 @@
     }
   },
   "global": {
-    "total_spawns": 31044,
+    "total_spawns": 31048,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
