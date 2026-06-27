@@ -1123,7 +1123,7 @@
         "Pikachu": 3,
         "Rhyhorn": 2,
         "Tynamo": 6,
-        "Tandemaus": 4,
+        "Tandemaus": 5,
         "Smearguru": 6,
         "Magnemite": 7,
         "Teddiursa": 5,
@@ -1216,7 +1216,7 @@
         "Pelipper": 1,
         "Hattrem": 2,
         "Machoke": 1,
-        "Litwick": 7,
+        "Litwick": 8,
         "Frost rotom": 1,
         "Cubchoo": 4,
         "Abra": 7,
@@ -1248,7 +1248,7 @@
         "Gumshoos": 1,
         "Cherubi": 1,
         "Sizzlipede": 1,
-        "Chimchar": 1,
+        "Chimchar": 2,
         "Trash wormadam": 2,
         "Bramblin": 5,
         "Vulpix": 5,
@@ -1426,7 +1426,7 @@
         "Clobbopus": 1,
         "Bounsweet": 3,
         "Crawdaunt": 2,
-        "Hoppip": 4,
+        "Hoppip": 5,
         "Shroodle": 1,
         "Fomantis": 2,
         "Slowpoke": 1,
@@ -1435,7 +1435,7 @@
         "Tentacruel": 1,
         "Exeggcute": 1,
         "Diglett": 2,
-        "Pidgey": 4,
+        "Pidgey": 5,
         "Gligar": 1,
         "Deino": 3,
         "Dolliv": 1,
@@ -1536,8 +1536,8 @@
         "Beautifly": 1,
         "Houndstone": 1
       },
-      "total_spawns": 963,
-      "last_spawn": "2026-06-27T15:26:47.696907"
+      "total_spawns": 968,
+      "last_spawn": "2026-06-27T15:27:27.600827"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1547,7 +1547,7 @@
     }
   },
   "global": {
-    "total_spawns": 31456,
+    "total_spawns": 31461,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
