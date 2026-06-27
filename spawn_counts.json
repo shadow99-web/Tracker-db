@@ -16,13 +16,13 @@
         "Litleo": 26,
         "Purrloin": 19,
         "Tranquill": 27,
-        "Psyduck": 17,
+        "Psyduck": 18,
         "Rockruff": 25,
         "Haunter": 28,
         "Tangela": 30,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 87,
+        "Machop": 88,
         "Dudunsparce": 21,
         "Gothita": 102,
         "Impidimp": 94,
@@ -41,7 +41,7 @@
         "Trapinch": 127,
         "Toedscool": 97,
         "Fletchling": 99,
-        "Skiploom": 32,
+        "Skiploom": 33,
         "Timburr": 125,
         "Dj rotom": 99,
         "Surskit": 33,
@@ -57,7 +57,7 @@
         "Magnemite": 109,
         "Whismur": 104,
         "Monferno": 26,
-        "Skwovet": 31,
+        "Skwovet": 32,
         "Bramblin": 119,
         "Yanma": 25,
         "Larvesta": 41,
@@ -312,7 +312,7 @@
         "Flygon": 5,
         "Shellos": 15,
         "Jigglypuff": 29,
-        "Nacli": 84,
+        "Nacli": 85,
         "Munna": 23,
         "Pawniard": 22,
         "Prof tangrowth": 82,
@@ -491,7 +491,7 @@
         "Eevee": 25,
         "Copperajah": 6,
         "Magneton": 19,
-        "Alakazam": 6,
+        "Alakazam": 7,
         "Bayleef": 28,
         "Poochyena": 29,
         "Klinklang": 5,
@@ -560,7 +560,7 @@
         "Chandelure": 8,
         "Ponyta": 27,
         "Togekiss": 6,
-        "Braviary": 7,
+        "Braviary": 8,
         "Raboot": 32,
         "Golem": 5,
         "Slowking": 10,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 24029,
-      "last_spawn": "2026-06-27T10:23:22.305294"
+      "total_spawns": 24036,
+      "last_spawn": "2026-06-27T10:23:52.488240"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1337,7 +1337,7 @@
     }
   },
   "global": {
-    "total_spawns": 28743,
+    "total_spawns": 28750,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
