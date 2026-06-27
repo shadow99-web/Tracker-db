@@ -1130,7 +1130,7 @@
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 4,
-        "Froakie": 3,
+        "Froakie": 4,
         "Hawlucha": 1,
         "Feebas": 1,
         "Lapras": 1,
@@ -1251,7 +1251,7 @@
         "Chimchar": 1,
         "Trash wormadam": 2,
         "Bramblin": 4,
-        "Vulpix": 3,
+        "Vulpix": 4,
         "Hippowdon": 3,
         "Tinkatink": 2,
         "Jumpluff": 1,
@@ -1509,10 +1509,11 @@
         "Arcanine": 1,
         "Vaporeon": 1,
         "Araquanid": 1,
-        "Elekid": 1
+        "Elekid": 1,
+        "Panpour": 1
       },
-      "total_spawns": 890,
-      "last_spawn": "2026-06-27T15:14:47.510560"
+      "total_spawns": 893,
+      "last_spawn": "2026-06-27T15:15:17.595042"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1522,7 +1523,7 @@
     }
   },
   "global": {
-    "total_spawns": 31383,
+    "total_spawns": 31386,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
