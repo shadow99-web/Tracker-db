@@ -1299,7 +1299,7 @@
         "Wooper": 1,
         "Crabominable": 1,
         "Machop": 5,
-        "Onix": 2,
+        "Onix": 3,
         "Lampent": 1,
         "East sea gastrodon": 1,
         "Magcargo": 2,
@@ -1327,7 +1327,7 @@
         "Duskull": 3,
         "Vigoroth": 1,
         "Seviper": 2,
-        "Goomy": 1,
+        "Goomy": 2,
         "Nickit": 1,
         "Sandshrew": 2,
         "Tirtouga": 1,
@@ -1341,7 +1341,7 @@
         "Venipede": 3,
         "Maschiff": 7,
         "Sprigatito": 3,
-        "Toedscool": 4,
+        "Toedscool": 5,
         "Luxio": 1,
         "Fuecoco": 1,
         "Electrode": 1,
@@ -1534,7 +1534,7 @@
         "Quaxly": 1,
         "Golbat": 1,
         "Beautifly": 1,
-        "Houndstone": 1,
+        "Houndstone": 2,
         "Braviary": 1,
         "Cubone": 1,
         "Stantler": 1,
@@ -1546,8 +1546,8 @@
         "Porygon-z": 1,
         "Chewtle": 1
       },
-      "total_spawns": 999,
-      "last_spawn": "2026-06-27T15:32:27.616291"
+      "total_spawns": 1003,
+      "last_spawn": "2026-06-27T15:33:07.695297"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 31492,
+    "total_spawns": 31496,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
