@@ -124,7 +124,7 @@
         "Togetic": 38,
         "Palpitoad": 18,
         "Pikipek": 124,
-        "Teddiursa": 101,
+        "Teddiursa": 102,
         "Clamperl": 32,
         "Zigzagoon": 36,
         "Weedle": 131,
@@ -144,7 +144,7 @@
         "Yungoos": 24,
         "Diglett": 37,
         "Doduo": 31,
-        "Lairon": 28,
+        "Lairon": 29,
         "Emboar": 6,
         "Deoxys": 2,
         "Dracovish": 7,
@@ -363,7 +363,7 @@
         "Mankey": 30,
         "Bidoof": 24,
         "Quilava": 33,
-        "Finizen": 101,
+        "Finizen": 102,
         "Unown y": 1,
         "Toucannon": 4,
         "Caterpie": 95,
@@ -548,7 +548,7 @@
         "Krokorok": 27,
         "Dragonair": 20,
         "Zweilous": 19,
-        "Karrablast": 19,
+        "Karrablast": 20,
         "Shroomish": 29,
         "Snover": 20,
         "Drednaw": 5,
@@ -909,7 +909,7 @@
         "Unown x": 1,
         "Aggron": 5,
         "Clawitzer": 6,
-        "Leafeon": 10,
+        "Leafeon": 11,
         "Ludicolo": 10,
         "Eldegoss": 5,
         "Dracozolt": 5,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 24024,
-      "last_spawn": "2026-06-27T10:22:48.207975"
+      "total_spawns": 24029,
+      "last_spawn": "2026-06-27T10:23:22.305294"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1337,7 +1337,7 @@
     }
   },
   "global": {
-    "total_spawns": 28738,
+    "total_spawns": 28743,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
