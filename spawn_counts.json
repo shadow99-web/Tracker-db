@@ -1263,9 +1263,9 @@
         "Golisopod": 2,
         "Beheeyem": 1,
         "Charizard": 1,
-        "Kirlia": 1,
+        "Kirlia": 2,
         "Treecko": 2,
-        "Veluza": 3,
+        "Veluza": 4,
         "Cyndaquil": 1,
         "Zorua": 1,
         "Meganium": 1,
@@ -1343,10 +1343,11 @@
         "Sprigatito": 1,
         "Toedscool": 1,
         "Luxio": 1,
-        "Fuecoco": 1
+        "Fuecoco": 1,
+        "Electrode": 1
       },
-      "total_spawns": 453,
-      "last_spawn": "2026-06-27T12:03:05.326630"
+      "total_spawns": 456,
+      "last_spawn": "2026-06-27T12:03:45.398059"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1356,7 +1357,7 @@
     }
   },
   "global": {
-    "total_spawns": 30946,
+    "total_spawns": 30949,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
