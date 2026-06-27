@@ -1426,7 +1426,7 @@
         "Servine": 3,
         "Grubbin": 4,
         "Clobbopus": 1,
-        "Bounsweet": 5,
+        "Bounsweet": 6,
         "Crawdaunt": 2,
         "Hoppip": 5,
         "Shroodle": 1,
@@ -1500,7 +1500,7 @@
         "Magneton": 1,
         "Toxel": 2,
         "Dachsbun": 2,
-        "Cascoon": 1,
+        "Cascoon": 2,
         "Larvitar": 3,
         "Arctovish": 1,
         "Herdier": 1,
@@ -1581,7 +1581,7 @@
         "Eelektross": 1,
         "Rhydon": 1,
         "Low key toxtricity": 1,
-        "Loudred": 1,
+        "Loudred": 2,
         "Cutiefly": 1,
         "Wishiwashi": 1,
         "Litleo": 1,
@@ -1593,10 +1593,11 @@
         "Trumbeak": 1,
         "Pansage": 1,
         "Glimmora": 1,
-        "Cleffa": 1
+        "Cleffa": 1,
+        "Cradily": 1
       },
-      "total_spawns": 1210,
-      "last_spawn": "2026-06-27T17:59:07.496588"
+      "total_spawns": 1214,
+      "last_spawn": "2026-06-27T17:59:47.697021"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1606,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 32341,
+    "total_spawns": 32345,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
