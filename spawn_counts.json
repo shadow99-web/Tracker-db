@@ -1181,7 +1181,7 @@
         "Axew": 5,
         "Ride cyclizar": 2,
         "Trapinch": 1,
-        "Smoliv": 2,
+        "Smoliv": 3,
         "Pawniard": 1,
         "Frogadier": 1,
         "Gimmighoul": 3,
@@ -1250,7 +1250,7 @@
         "Sizzlipede": 1,
         "Chimchar": 1,
         "Trash wormadam": 2,
-        "Bramblin": 3,
+        "Bramblin": 4,
         "Vulpix": 2,
         "Hippowdon": 3,
         "Tinkatink": 2,
@@ -1496,10 +1496,11 @@
         "Pawmi": 1,
         "Wugtrio": 1,
         "Magneton": 1,
-        "Toxel": 1
+        "Toxel": 1,
+        "Dachsbun": 1
       },
-      "total_spawns": 849,
-      "last_spawn": "2026-06-27T15:05:17.795351"
+      "total_spawns": 852,
+      "last_spawn": "2026-06-27T15:05:47.803818"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1509,7 +1510,7 @@
     }
   },
   "global": {
-    "total_spawns": 31342,
+    "total_spawns": 31345,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
