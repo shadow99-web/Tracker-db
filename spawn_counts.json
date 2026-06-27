@@ -1104,7 +1104,7 @@
         "Scatterbug": 8,
         "Wurmple": 4,
         "Gothita": 15,
-        "Gible": 7,
+        "Gible": 8,
         "Larvesta": 2,
         "Starly": 9,
         "Varoom": 10,
@@ -1128,7 +1128,7 @@
         "Tandemaus": 6,
         "Smearguru": 7,
         "Magnemite": 10,
-        "Teddiursa": 7,
+        "Teddiursa": 8,
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 4,
@@ -1237,7 +1237,7 @@
         "Lileep": 2,
         "Cetoddle": 5,
         "Chespin": 2,
-        "Naclstack": 3,
+        "Naclstack": 4,
         "Ferrothorn": 1,
         "Karrablast": 3,
         "Sinistea": 6,
@@ -1483,7 +1483,7 @@
         "Stufful": 2,
         "Roaring moon": 1,
         "Vanillish": 1,
-        "Kilowattrel": 1,
+        "Kilowattrel": 2,
         "Stunfisk": 1,
         "Lycanroc": 3,
         "Illumise": 1,
@@ -1573,7 +1573,7 @@
         "Nosepass": 1,
         "Exploud": 1,
         "Stretchy tatsugiri": 1,
-        "Elgyem": 1,
+        "Elgyem": 2,
         "Yanma": 1,
         "Gabite": 1,
         "Meowscarada": 1,
@@ -1606,10 +1606,11 @@
         "Feraligatr": 1,
         "Galarian zen darmanitan": 1,
         "Rillaboom": 1,
-        "Ursaluna": 1
+        "Ursaluna": 1,
+        "Cranidos": 1
       },
-      "total_spawns": 1253,
-      "last_spawn": "2026-06-27T18:43:27.496418"
+      "total_spawns": 1259,
+      "last_spawn": "2026-06-27T18:44:07.716497"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1619,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 32384,
+    "total_spawns": 32390,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
