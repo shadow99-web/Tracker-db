@@ -1341,7 +1341,7 @@
         "Venipede": 1,
         "Maschiff": 2,
         "Sprigatito": 1,
-        "Toedscool": 1,
+        "Toedscool": 2,
         "Luxio": 1,
         "Fuecoco": 1,
         "Electrode": 1,
@@ -1405,10 +1405,12 @@
         "Zigzagoon": 1,
         "Timburr": 1,
         "Glalie": 1,
-        "Magikarp": 1
+        "Magikarp": 1,
+        "Capsakid": 1,
+        "Venonat": 1
       },
-      "total_spawns": 594,
-      "last_spawn": "2026-06-27T14:20:57.574252"
+      "total_spawns": 597,
+      "last_spawn": "2026-06-27T14:21:29.141876"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1418,7 +1420,7 @@
     }
   },
   "global": {
-    "total_spawns": 31087,
+    "total_spawns": 31090,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
