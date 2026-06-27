@@ -1152,7 +1152,7 @@
         "Squirtle": 1,
         "Spinarak": 1,
         "Blue plumage squawkabilly": 1,
-        "Bergmite": 2,
+        "Bergmite": 3,
         "Lairon": 2,
         "Impidimp": 10,
         "Solosis": 4,
@@ -1339,7 +1339,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 3,
-        "Maschiff": 6,
+        "Maschiff": 7,
         "Sprigatito": 3,
         "Toedscool": 4,
         "Luxio": 1,
@@ -1449,7 +1449,7 @@
         "Skiploom": 1,
         "Marshtomp": 2,
         "Lechonk": 1,
-        "Roaming gimmighoul": 2,
+        "Roaming gimmighoul": 3,
         "Breloom": 1,
         "Ninjask": 1,
         "Remoraid": 2,
@@ -1522,10 +1522,11 @@
         "Grimer": 1,
         "Drednaw": 1,
         "Cacturne": 1,
-        "Metapod": 1
+        "Metapod": 1,
+        "Sealeo": 1
       },
-      "total_spawns": 932,
-      "last_spawn": "2026-06-27T15:21:37.729529"
+      "total_spawns": 936,
+      "last_spawn": "2026-06-27T15:22:17.598011"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1535,7 +1536,7 @@
     }
   },
   "global": {
-    "total_spawns": 31425,
+    "total_spawns": 31429,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
