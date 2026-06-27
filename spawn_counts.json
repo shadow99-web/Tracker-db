@@ -1151,7 +1151,7 @@
         "Orthworm": 6,
         "Woobat": 5,
         "Happiny": 1,
-        "Squirtle": 1,
+        "Squirtle": 2,
         "Spinarak": 1,
         "Blue plumage squawkabilly": 1,
         "Bergmite": 3,
@@ -1381,11 +1381,11 @@
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 4,
-        "Dondozo": 4,
+        "Dondozo": 5,
         "Tranquill": 4,
         "Porygon": 6,
         "Wooloo": 2,
-        "Oddish": 1,
+        "Oddish": 2,
         "Barraskewda": 1,
         "Shieldon": 1,
         "Piloswine": 2,
@@ -1585,10 +1585,11 @@
         "Cutiefly": 1,
         "Wishiwashi": 1,
         "Litleo": 1,
-        "Pancham": 1
+        "Pancham": 1,
+        "Corvisquire": 1
       },
-      "total_spawns": 1176,
-      "last_spawn": "2026-06-27T17:53:37.773245"
+      "total_spawns": 1180,
+      "last_spawn": "2026-06-27T17:54:17.606170"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1598,7 +1599,7 @@
     }
   },
   "global": {
-    "total_spawns": 32307,
+    "total_spawns": 32311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
