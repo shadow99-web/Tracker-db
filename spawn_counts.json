@@ -1107,7 +1107,7 @@
         "Starly": 6,
         "Varoom": 8,
         "Weedle": 9,
-        "Chef dente": 4,
+        "Chef dente": 5,
         "Hatenna": 6,
         "Dugtrio": 1,
         "Kadabra": 2,
@@ -1159,7 +1159,7 @@
         "Brambleghast": 1,
         "Rellor": 3,
         "Nincada": 1,
-        "Wattrel": 2,
+        "Wattrel": 3,
         "Entei": 1,
         "Flaaffy": 1,
         "Pikipek": 3,
@@ -1437,7 +1437,7 @@
         "Diglett": 2,
         "Pidgey": 4,
         "Gligar": 1,
-        "Deino": 2,
+        "Deino": 3,
         "Dolliv": 1,
         "Passimian": 1,
         "Shellos": 1,
@@ -1479,10 +1479,12 @@
         "Tatsugiri": 1,
         "Skwovet": 1,
         "Stufful": 1,
-        "Roaring moon": 1
+        "Roaring moon": 1,
+        "Vanillish": 1,
+        "Kilowattrel": 1
       },
-      "total_spawns": 790,
-      "last_spawn": "2026-06-27T14:55:18.297189"
+      "total_spawns": 795,
+      "last_spawn": "2026-06-27T14:55:59.896742"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1492,7 +1494,7 @@
     }
   },
   "global": {
-    "total_spawns": 31283,
+    "total_spawns": 31288,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
