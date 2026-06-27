@@ -1116,7 +1116,7 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 3,
         "Hisuian voltorb": 1,
-        "Dreepy": 7,
+        "Dreepy": 8,
         "Bagon": 4,
         "Archen": 2,
         "Shinx": 9,
@@ -1247,7 +1247,7 @@
         "Coalossal": 1,
         "Gumshoos": 1,
         "Cherubi": 1,
-        "Sizzlipede": 1,
+        "Sizzlipede": 2,
         "Chimchar": 2,
         "Trash wormadam": 2,
         "Bramblin": 5,
@@ -1551,10 +1551,12 @@
         "Salandit": 1,
         "Qwilfish": 1,
         "Indeedee": 1,
-        "Skrelp": 1
+        "Skrelp": 1,
+        "Oinkologne": 1,
+        "Dragonair": 1
       },
-      "total_spawns": 1047,
-      "last_spawn": "2026-06-27T15:40:47.408889"
+      "total_spawns": 1051,
+      "last_spawn": "2026-06-27T15:41:17.495529"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1564,7 +1566,7 @@
     }
   },
   "global": {
-    "total_spawns": 31540,
+    "total_spawns": 31544,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
