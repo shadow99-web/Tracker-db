@@ -1147,7 +1147,7 @@
         "Skitty": 2,
         "Fletchling": 1,
         "Orthworm": 3,
-        "Woobat": 3,
+        "Woobat": 4,
         "Happiny": 1,
         "Squirtle": 1,
         "Spinarak": 1,
@@ -1224,7 +1224,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 1,
         "Vikavolt": 1,
-        "Peakychu": 4,
+        "Peakychu": 5,
         "Absol": 2,
         "Inteleon": 2,
         "Mimikyu": 1,
@@ -1437,10 +1437,12 @@
         "Diglett": 1,
         "Pidgey": 1,
         "Gligar": 1,
-        "Deino": 1
+        "Deino": 1,
+        "Dolliv": 1,
+        "Passimian": 1
       },
-      "total_spawns": 664,
-      "last_spawn": "2026-06-27T14:32:08.023214"
+      "total_spawns": 668,
+      "last_spawn": "2026-06-27T14:32:47.705810"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1450,7 +1452,7 @@
     }
   },
   "global": {
-    "total_spawns": 31157,
+    "total_spawns": 31161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
