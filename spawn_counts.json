@@ -1207,7 +1207,7 @@
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 1,
-        "Aron": 1,
+        "Aron": 2,
         "Kabuto": 1,
         "Togetic": 2,
         "Sewaddle": 1,
@@ -1338,10 +1338,11 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 1
+        "Venipede": 1,
+        "Maschiff": 1
       },
-      "total_spawns": 437,
-      "last_spawn": "2026-06-27T11:27:45.208591"
+      "total_spawns": 439,
+      "last_spawn": "2026-06-27T11:38:37.116641"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1351,7 +1352,7 @@
     }
   },
   "global": {
-    "total_spawns": 30930,
+    "total_spawns": 30932,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
