@@ -1307,7 +1307,7 @@
         "Sensu oricorio": 1,
         "Whiscash": 1,
         "Ursaring": 1,
-        "Staryu": 3,
+        "Staryu": 4,
         "Gallade": 1,
         "Rattata": 2,
         "Bellsprout": 1,
@@ -1553,10 +1553,12 @@
         "Indeedee": 1,
         "Skrelp": 1,
         "Oinkologne": 1,
-        "Dragonair": 1
+        "Dragonair": 1,
+        "Hippopotas": 1,
+        "Nymble": 1
       },
-      "total_spawns": 1051,
-      "last_spawn": "2026-06-27T15:41:17.495529"
+      "total_spawns": 1054,
+      "last_spawn": "2026-06-27T15:41:51.503904"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1566,7 +1568,7 @@
     }
   },
   "global": {
-    "total_spawns": 31544,
+    "total_spawns": 31547,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
