@@ -1163,7 +1163,7 @@
         "Nincada": 1,
         "Wattrel": 5,
         "Entei": 1,
-        "Flaaffy": 2,
+        "Flaaffy": 3,
         "Pikipek": 7,
         "Nacli": 4,
         "Grovyle": 1,
@@ -1208,7 +1208,7 @@
         "Swablu": 4,
         "Darumaka": 2,
         "Wailmer": 1,
-        "Jangmo-o": 5,
+        "Jangmo-o": 6,
         "Aron": 9,
         "Kabuto": 2,
         "Togetic": 3,
@@ -1235,7 +1235,7 @@
         "Scraggy": 2,
         "Mabosstiff": 3,
         "Lileep": 2,
-        "Cetoddle": 6,
+        "Cetoddle": 7,
         "Chespin": 2,
         "Naclstack": 5,
         "Ferrothorn": 1,
@@ -1269,7 +1269,7 @@
         "Treecko": 5,
         "Veluza": 7,
         "Cyndaquil": 5,
-        "Zorua": 2,
+        "Zorua": 3,
         "Meganium": 1,
         "Toedscruel": 1,
         "Klawf": 4,
@@ -1409,7 +1409,7 @@
         "Glalie": 1,
         "Magikarp": 1,
         "Capsakid": 2,
-        "Venonat": 1,
+        "Venonat": 2,
         "Popplio": 1,
         "Glameow": 2,
         "Boldore": 1,
@@ -1417,7 +1417,7 @@
         "Blue flower floette": 1,
         "Leafeon": 1,
         "Shellder": 2,
-        "Graveler": 1,
+        "Graveler": 2,
         "Drifloon": 1,
         "Makuhita": 1,
         "Baltoy": 2,
@@ -1631,10 +1631,11 @@
         "Centiskorch": 1,
         "Poliwhirl": 1,
         "Patrat": 1,
-        "Samurott": 1
+        "Samurott": 1,
+        "Ditto": 1
       },
-      "total_spawns": 1375,
-      "last_spawn": "2026-06-27T18:54:17.797506"
+      "total_spawns": 1382,
+      "last_spawn": "2026-06-27T18:54:57.498261"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1644,7 +1645,7 @@
     }
   },
   "global": {
-    "total_spawns": 32506,
+    "total_spawns": 32513,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
