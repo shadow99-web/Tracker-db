@@ -1229,7 +1229,7 @@
         "Inteleon": 2,
         "Mimikyu": 1,
         "Silicobra": 2,
-        "Dartrix": 1,
+        "Dartrix": 2,
         "Scraggy": 1,
         "Mabosstiff": 1,
         "Lileep": 1,
@@ -1340,10 +1340,11 @@
         "Zeraora": 1,
         "Venipede": 1,
         "Maschiff": 1,
-        "Sprigatito": 1
+        "Sprigatito": 1,
+        "Toedscool": 1
       },
-      "total_spawns": 443,
-      "last_spawn": "2026-06-27T11:46:45.477062"
+      "total_spawns": 445,
+      "last_spawn": "2026-06-27T11:47:25.108059"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1353,7 +1354,7 @@
     }
   },
   "global": {
-    "total_spawns": 30936,
+    "total_spawns": 30938,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
