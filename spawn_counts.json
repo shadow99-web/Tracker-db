@@ -1214,7 +1214,7 @@
         "Eevee": 1,
         "Taillow": 1,
         "Pelipper": 1,
-        "Hattrem": 1,
+        "Hattrem": 2,
         "Machoke": 1,
         "Litwick": 6,
         "Frost rotom": 1,
@@ -1341,10 +1341,11 @@
         "Venipede": 1,
         "Maschiff": 1,
         "Sprigatito": 1,
-        "Toedscool": 1
+        "Toedscool": 1,
+        "Luxio": 1
       },
-      "total_spawns": 447,
-      "last_spawn": "2026-06-27T11:48:05.216009"
+      "total_spawns": 449,
+      "last_spawn": "2026-06-27T11:48:45.182994"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1354,7 +1355,7 @@
     }
   },
   "global": {
-    "total_spawns": 30940,
+    "total_spawns": 30942,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
