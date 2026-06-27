@@ -1098,7 +1098,7 @@
         "Rookidee": 12,
         "Roggenrola": 5,
         "Armarouge": 2,
-        "Gastly": 6,
+        "Gastly": 7,
         "Scatterbug": 7,
         "Wurmple": 4,
         "Gothita": 12,
@@ -1138,7 +1138,7 @@
         "Frigibax": 8,
         "Meowth": 2,
         "Dj rotom": 4,
-        "Prof tangrowth": 4,
+        "Prof tangrowth": 5,
         "Charcadet": 8,
         "Furfrou": 1,
         "Slaking": 2,
@@ -1206,7 +1206,7 @@
         "Swablu": 3,
         "Darumaka": 1,
         "Wailmer": 1,
-        "Jangmo-o": 1,
+        "Jangmo-o": 2,
         "Aron": 4,
         "Kabuto": 2,
         "Togetic": 2,
@@ -1313,7 +1313,7 @@
         "Bellsprout": 1,
         "Lickitung": 1,
         "Minccino": 2,
-        "Togepi": 1,
+        "Togepi": 2,
         "Milotic": 1,
         "Plusle": 1,
         "Galarian corsola": 1,
@@ -1381,7 +1381,7 @@
         "Caterpie": 2,
         "Dondozo": 2,
         "Tranquill": 1,
-        "Porygon": 1,
+        "Porygon": 2,
         "Wooloo": 1,
         "Oddish": 1,
         "Barraskewda": 1,
@@ -1467,10 +1467,11 @@
         "Noibat": 1,
         "Darmanitan": 1,
         "Mantine": 1,
-        "Grumpig": 1
+        "Grumpig": 1,
+        "Ekans": 1
       },
-      "total_spawns": 747,
-      "last_spawn": "2026-06-27T14:50:39.198505"
+      "total_spawns": 753,
+      "last_spawn": "2026-06-27T14:51:17.698558"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1480,7 +1481,7 @@
     }
   },
   "global": {
-    "total_spawns": 31240,
+    "total_spawns": 31246,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
