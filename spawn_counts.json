@@ -1194,7 +1194,7 @@
         "Lillipup": 4,
         "Ducklett": 1,
         "Mareep": 3,
-        "Tadbulb": 2,
+        "Tadbulb": 3,
         "Helioptile": 1,
         "Blitzle": 2,
         "Pidove": 1,
@@ -1208,7 +1208,7 @@
         "Wailmer": 1,
         "Jangmo-o": 1,
         "Aron": 3,
-        "Kabuto": 1,
+        "Kabuto": 2,
         "Togetic": 2,
         "Sewaddle": 2,
         "Eevee": 1,
@@ -1224,7 +1224,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 1,
         "Vikavolt": 1,
-        "Peakychu": 3,
+        "Peakychu": 4,
         "Absol": 2,
         "Inteleon": 2,
         "Mimikyu": 1,
@@ -1367,10 +1367,11 @@
         "Bronzor": 1,
         "Eelektrik": 1,
         "Ledyba": 1,
-        "Tyrunt": 1
+        "Tyrunt": 1,
+        "Braixen": 1
       },
-      "total_spawns": 508,
-      "last_spawn": "2026-06-27T14:07:27.705976"
+      "total_spawns": 512,
+      "last_spawn": "2026-06-27T14:08:07.685569"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1380,7 +1381,7 @@
     }
   },
   "global": {
-    "total_spawns": 31001,
+    "total_spawns": 31005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
