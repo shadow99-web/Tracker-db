@@ -1302,7 +1302,7 @@
         "Crabominable": 1,
         "Machop": 7,
         "Onix": 3,
-        "Lampent": 1,
+        "Lampent": 2,
         "East sea gastrodon": 1,
         "Magcargo": 3,
         "Electabuzz": 1,
@@ -1350,7 +1350,7 @@
         "Chandelure": 1,
         "Wiglett": 7,
         "Farigiraf": 2,
-        "Zubat": 4,
+        "Zubat": 5,
         "Lotad": 2,
         "Sylveon": 1,
         "Omastar": 1,
@@ -1441,7 +1441,7 @@
         "Gligar": 1,
         "Deino": 3,
         "Dolliv": 1,
-        "Passimian": 1,
+        "Passimian": 2,
         "Shellos": 1,
         "Articuno": 1,
         "Surskit": 2,
@@ -1609,10 +1609,14 @@
         "Ursaluna": 1,
         "Cranidos": 1,
         "Sandy burmy": 1,
-        "Dragalge": 1
+        "Dragalge": 1,
+        "Three-segment dudunsparce": 1,
+        "Corviknight": 1,
+        "Mareanie": 1,
+        "Phantump": 1
       },
-      "total_spawns": 1267,
-      "last_spawn": "2026-06-27T18:44:42.867632"
+      "total_spawns": 1274,
+      "last_spawn": "2026-06-27T18:45:17.496881"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1622,7 +1626,7 @@
     }
   },
   "global": {
-    "total_spawns": 32398,
+    "total_spawns": 32405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
