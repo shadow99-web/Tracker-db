@@ -114,11 +114,11 @@
         "Horsea": 106,
         "Frigibax": 102,
         "Spheal": 128,
-        "Swadloon": 32,
+        "Swadloon": 33,
         "Flittle": 94,
         "Unfezant": 11,
         "Yamask": 25,
-        "Ralts": 94,
+        "Ralts": 95,
         "Solosis": 98,
         "Battle cyclizar": 48,
         "Togetic": 38,
@@ -558,7 +558,7 @@
         "Araquanid": 8,
         "Kadabra": 25,
         "Chandelure": 8,
-        "Ponyta": 26,
+        "Ponyta": 27,
         "Togekiss": 6,
         "Braviary": 7,
         "Raboot": 32,
@@ -686,7 +686,7 @@
         "Butterfree": 4,
         "Koffing": 31,
         "Floragato": 15,
-        "Seel": 27,
+        "Seel": 28,
         "Shiinotic": 6,
         "Gumshoos": 4,
         "Pyroar": 8,
@@ -707,7 +707,7 @@
         "Zoroark": 9,
         "Lucario": 2,
         "Crustle": 10,
-        "Combusken": 26,
+        "Combusken": 27,
         "Gourgeist": 11,
         "Durant": 3,
         "Grovyle": 27,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 24019,
-      "last_spawn": "2026-06-27T10:22:12.700060"
+      "total_spawns": 24024,
+      "last_spawn": "2026-06-27T10:22:48.207975"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1337,7 +1337,7 @@
     }
   },
   "global": {
-    "total_spawns": 28733,
+    "total_spawns": 28738,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
