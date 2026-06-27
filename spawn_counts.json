@@ -1298,7 +1298,7 @@
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
-        "Machop": 2,
+        "Machop": 3,
         "Onix": 1,
         "Lampent": 1,
         "East sea gastrodon": 1,
@@ -1435,17 +1435,18 @@
         "Tentacruel": 1,
         "Exeggcute": 1,
         "Diglett": 1,
-        "Pidgey": 1,
+        "Pidgey": 2,
         "Gligar": 1,
         "Deino": 1,
         "Dolliv": 1,
         "Passimian": 1,
         "Shellos": 1,
         "Articuno": 1,
-        "Surskit": 1
+        "Surskit": 1,
+        "Combee": 1
       },
-      "total_spawns": 672,
-      "last_spawn": "2026-06-27T14:33:17.775365"
+      "total_spawns": 675,
+      "last_spawn": "2026-06-27T14:33:50.296805"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1455,7 +1456,7 @@
     }
   },
   "global": {
-    "total_spawns": 31165,
+    "total_spawns": 31168,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
