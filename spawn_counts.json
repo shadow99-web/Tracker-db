@@ -1186,7 +1186,7 @@
         "Smoliv": 5,
         "Pawniard": 1,
         "Frogadier": 2,
-        "Gimmighoul": 3,
+        "Gimmighoul": 4,
         "Mienshao": 1,
         "Swinub": 4,
         "Rabsca": 3,
@@ -1396,7 +1396,7 @@
         "Gholdengo": 1,
         "Dudunsparce": 1,
         "Whirlipede": 2,
-        "Skiddo": 1,
+        "Skiddo": 2,
         "Spiritomb": 2,
         "Seadra": 1,
         "Seedot": 3,
@@ -1591,10 +1591,12 @@
         "Dusclops": 1,
         "Kleavor": 1,
         "Trumbeak": 1,
-        "Pansage": 1
+        "Pansage": 1,
+        "Glimmora": 1,
+        "Cleffa": 1
       },
-      "total_spawns": 1206,
-      "last_spawn": "2026-06-27T17:58:33.061445"
+      "total_spawns": 1210,
+      "last_spawn": "2026-06-27T17:59:07.496588"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1604,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 32337,
+    "total_spawns": 32341,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
