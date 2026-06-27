@@ -1102,7 +1102,7 @@
         "Scatterbug": 8,
         "Wurmple": 4,
         "Gothita": 12,
-        "Gible": 6,
+        "Gible": 7,
         "Larvesta": 2,
         "Starly": 6,
         "Varoom": 9,
@@ -1340,7 +1340,7 @@
         "Zeraora": 1,
         "Venipede": 2,
         "Maschiff": 5,
-        "Sprigatito": 2,
+        "Sprigatito": 3,
         "Toedscool": 3,
         "Luxio": 1,
         "Fuecoco": 1,
@@ -1507,10 +1507,11 @@
         "Avalugg": 1,
         "Yanmega": 1,
         "Arcanine": 1,
-        "Vaporeon": 1
+        "Vaporeon": 1,
+        "Araquanid": 1
       },
-      "total_spawns": 883,
-      "last_spawn": "2026-06-27T15:13:37.601405"
+      "total_spawns": 886,
+      "last_spawn": "2026-06-27T15:14:07.511445"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1520,7 +1521,7 @@
     }
   },
   "global": {
-    "total_spawns": 31376,
+    "total_spawns": 31379,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
