@@ -1100,12 +1100,12 @@
         "Rookidee": 14,
         "Roggenrola": 8,
         "Armarouge": 3,
-        "Gastly": 9,
+        "Gastly": 10,
         "Scatterbug": 8,
         "Wurmple": 5,
         "Gothita": 15,
         "Gible": 8,
-        "Larvesta": 2,
+        "Larvesta": 3,
         "Starly": 9,
         "Varoom": 10,
         "Weedle": 14,
@@ -1179,7 +1179,7 @@
         "Whismur": 4,
         "Crabrawler": 3,
         "Mudkip": 2,
-        "Greavard": 11,
+        "Greavard": 12,
         "Axew": 8,
         "Ride cyclizar": 3,
         "Trapinch": 3,
@@ -1279,7 +1279,7 @@
         "Summer deerling": 1,
         "Heliolisk": 1,
         "Raboot": 2,
-        "Vanillite": 2,
+        "Vanillite": 3,
         "Krabby": 1,
         "Clefable": 1,
         "Durant": 1,
@@ -1314,7 +1314,7 @@
         "Rattata": 2,
         "Bellsprout": 1,
         "Lickitung": 3,
-        "Minccino": 2,
+        "Minccino": 3,
         "Togepi": 3,
         "Milotic": 1,
         "Plusle": 2,
@@ -1336,7 +1336,7 @@
         "Turtwig": 2,
         "Glimmet": 4,
         "Swadloon": 1,
-        "Purrloin": 4,
+        "Purrloin": 5,
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
@@ -1361,7 +1361,7 @@
         "Ampharos": 1,
         "Goodra": 1,
         "Klink": 2,
-        "Mankey": 2,
+        "Mankey": 3,
         "Charmander": 1,
         "Shroomish": 1,
         "Finizen": 3,
@@ -1428,7 +1428,7 @@
         "Clobbopus": 1,
         "Bounsweet": 6,
         "Crawdaunt": 2,
-        "Hoppip": 7,
+        "Hoppip": 8,
         "Shroodle": 1,
         "Fomantis": 2,
         "Slowpoke": 1,
@@ -1627,8 +1627,8 @@
         "Lombre": 1,
         "Cetitan": 1
       },
-      "total_spawns": 1334,
-      "last_spawn": "2026-06-27T18:50:37.984812"
+      "total_spawns": 1342,
+      "last_spawn": "2026-06-27T18:51:17.496263"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1638,7 +1638,7 @@
     }
   },
   "global": {
-    "total_spawns": 32465,
+    "total_spawns": 32473,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
