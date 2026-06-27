@@ -1098,7 +1098,7 @@
         "Varoom": 5,
         "Weedle": 6,
         "Chef dente": 2,
-        "Hatenna": 2,
+        "Hatenna": 3,
         "Dugtrio": 1,
         "Kadabra": 1,
         "Sandile": 7,
@@ -1304,10 +1304,11 @@
         "Lickitung": 1,
         "Minccino": 1,
         "Togepi": 1,
-        "Milotic": 1
+        "Milotic": 1,
+        "Plusle": 1
       },
-      "total_spawns": 387,
-      "last_spawn": "2026-06-27T02:31:25.697259"
+      "total_spawns": 389,
+      "last_spawn": "2026-06-27T02:32:05.109015"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1317,7 +1318,7 @@
     }
   },
   "global": {
-    "total_spawns": 28677,
+    "total_spawns": 28679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
