@@ -1098,7 +1098,7 @@
         "Amoonguss": 1,
         "Mosslax": 11,
         "Rookidee": 13,
-        "Roggenrola": 7,
+        "Roggenrola": 8,
         "Armarouge": 2,
         "Gastly": 9,
         "Scatterbug": 8,
@@ -1113,7 +1113,7 @@
         "Hatenna": 10,
         "Dugtrio": 1,
         "Kadabra": 3,
-        "Sandile": 9,
+        "Sandile": 10,
         "Riolu": 3,
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
@@ -1125,7 +1125,7 @@
         "Pikachu": 4,
         "Rhyhorn": 3,
         "Tynamo": 6,
-        "Tandemaus": 6,
+        "Tandemaus": 7,
         "Smearguru": 7,
         "Magnemite": 10,
         "Teddiursa": 8,
@@ -1180,7 +1180,7 @@
         "Crabrawler": 3,
         "Mudkip": 2,
         "Greavard": 11,
-        "Axew": 7,
+        "Axew": 8,
         "Ride cyclizar": 3,
         "Trapinch": 3,
         "Smoliv": 5,
@@ -1237,7 +1237,7 @@
         "Lileep": 2,
         "Cetoddle": 5,
         "Chespin": 2,
-        "Naclstack": 4,
+        "Naclstack": 5,
         "Ferrothorn": 1,
         "Karrablast": 3,
         "Sinistea": 6,
@@ -1498,7 +1498,7 @@
         "Pawmi": 2,
         "Wugtrio": 1,
         "Magneton": 1,
-        "Toxel": 2,
+        "Toxel": 3,
         "Dachsbun": 2,
         "Cascoon": 2,
         "Larvitar": 3,
@@ -1607,10 +1607,12 @@
         "Galarian zen darmanitan": 1,
         "Rillaboom": 1,
         "Ursaluna": 1,
-        "Cranidos": 1
+        "Cranidos": 1,
+        "Sandy burmy": 1,
+        "Dragalge": 1
       },
-      "total_spawns": 1259,
-      "last_spawn": "2026-06-27T18:44:07.716497"
+      "total_spawns": 1267,
+      "last_spawn": "2026-06-27T18:44:42.867632"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1620,7 +1622,7 @@
     }
   },
   "global": {
-    "total_spawns": 32390,
+    "total_spawns": 32398,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
