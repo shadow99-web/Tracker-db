@@ -1153,7 +1153,7 @@
         "Spinarak": 1,
         "Blue plumage squawkabilly": 1,
         "Bergmite": 2,
-        "Lairon": 1,
+        "Lairon": 2,
         "Impidimp": 10,
         "Solosis": 4,
         "Brambleghast": 1,
@@ -1442,7 +1442,7 @@
         "Passimian": 1,
         "Shellos": 1,
         "Articuno": 1,
-        "Surskit": 1,
+        "Surskit": 2,
         "Combee": 1,
         "Flareon": 1,
         "Bunnelby": 1,
@@ -1472,7 +1472,7 @@
         "Swanna": 1,
         "Marill": 1,
         "Oshawott": 1,
-        "Cyclizar": 1,
+        "Cyclizar": 2,
         "Castform": 1,
         "Shelmet": 1,
         "Pyroar": 1,
@@ -1492,10 +1492,11 @@
         "Steenee": 1,
         "Misdreavus": 1,
         "Chikorita": 1,
-        "Armaldo": 1
+        "Armaldo": 1,
+        "Pawmi": 1
       },
-      "total_spawns": 841,
-      "last_spawn": "2026-06-27T15:04:07.531263"
+      "total_spawns": 845,
+      "last_spawn": "2026-06-27T15:04:37.605026"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1505,7 +1506,7 @@
     }
   },
   "global": {
-    "total_spawns": 31334,
+    "total_spawns": 31338,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
