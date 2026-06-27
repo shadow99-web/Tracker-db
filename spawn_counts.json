@@ -1199,7 +1199,7 @@
         "Blitzle": 2,
         "Pidove": 2,
         "Doublade": 1,
-        "Quilava": 1,
+        "Quilava": 2,
         "Tarountula": 2,
         "Dottler": 1,
         "Paras": 1,
@@ -1207,7 +1207,7 @@
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 1,
-        "Aron": 3,
+        "Aron": 4,
         "Kabuto": 2,
         "Togetic": 2,
         "Sewaddle": 2,
@@ -1430,10 +1430,12 @@
         "Shroodle": 1,
         "Fomantis": 1,
         "Slowpoke": 1,
-        "Shiinotic": 1
+        "Shiinotic": 1,
+        "Lokix": 1,
+        "Tentacruel": 1
       },
-      "total_spawns": 654,
-      "last_spawn": "2026-06-27T14:30:27.902934"
+      "total_spawns": 658,
+      "last_spawn": "2026-06-27T14:31:07.532558"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1443,7 +1445,7 @@
     }
   },
   "global": {
-    "total_spawns": 31147,
+    "total_spawns": 31151,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
