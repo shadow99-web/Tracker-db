@@ -1197,7 +1197,7 @@
         "Tadbulb": 6,
         "Helioptile": 2,
         "Blitzle": 2,
-        "Pidove": 4,
+        "Pidove": 5,
         "Doublade": 1,
         "Quilava": 3,
         "Tarountula": 2,
@@ -1390,7 +1390,7 @@
         "Archeops": 1,
         "Gigalith": 2,
         "Nuzleaf": 1,
-        "Geodude": 3,
+        "Geodude": 4,
         "Gholdengo": 1,
         "Dudunsparce": 1,
         "Whirlipede": 2,
@@ -1542,10 +1542,11 @@
         "Klang": 1,
         "Drilbur": 1,
         "Mismagius": 1,
-        "Bonsly": 1
+        "Bonsly": 1,
+        "Porygon-z": 1
       },
-      "total_spawns": 993,
-      "last_spawn": "2026-06-27T15:31:27.531767"
+      "total_spawns": 996,
+      "last_spawn": "2026-06-27T15:31:57.596018"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1555,7 +1556,7 @@
     }
   },
   "global": {
-    "total_spawns": 31486,
+    "total_spawns": 31489,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
