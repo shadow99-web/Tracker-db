@@ -1198,7 +1198,7 @@
         "Mareep": 6,
         "Tadbulb": 6,
         "Helioptile": 2,
-        "Blitzle": 2,
+        "Blitzle": 3,
         "Pidove": 7,
         "Doublade": 1,
         "Quilava": 3,
@@ -1220,7 +1220,7 @@
         "Machoke": 2,
         "Litwick": 10,
         "Frost rotom": 1,
-        "Cubchoo": 4,
+        "Cubchoo": 5,
         "Abra": 11,
         "Banette": 1,
         "Mr. mime": 1,
@@ -1235,7 +1235,7 @@
         "Scraggy": 2,
         "Mabosstiff": 3,
         "Lileep": 2,
-        "Cetoddle": 5,
+        "Cetoddle": 6,
         "Chespin": 2,
         "Naclstack": 5,
         "Ferrothorn": 1,
@@ -1377,9 +1377,9 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 7,
+        "Tympole": 9,
         "Barboach": 1,
-        "Carvanha": 1,
+        "Carvanha": 2,
         "Caterpie": 5,
         "Dondozo": 5,
         "Tranquill": 4,
@@ -1564,7 +1564,7 @@
         "Orange flower florges": 1,
         "Simisear": 1,
         "Milcery": 1,
-        "Petilil": 1,
+        "Petilil": 2,
         "Alomomola": 1,
         "Skorupi": 1,
         "Arrokuda": 1,
@@ -1625,10 +1625,11 @@
         "Greninja": 2,
         "Battle cyclizar": 1,
         "Lombre": 1,
-        "Cetitan": 1
+        "Cetitan": 1,
+        "Bewear": 1
       },
-      "total_spawns": 1347,
-      "last_spawn": "2026-06-27T18:51:57.763354"
+      "total_spawns": 1355,
+      "last_spawn": "2026-06-27T18:52:37.767488"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1638,7 +1639,7 @@
     }
   },
   "global": {
-    "total_spawns": 32478,
+    "total_spawns": 32486,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
