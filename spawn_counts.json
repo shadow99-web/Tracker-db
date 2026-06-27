@@ -1112,7 +1112,7 @@
         "Dugtrio": 1,
         "Kadabra": 2,
         "Sandile": 9,
-        "Riolu": 2,
+        "Riolu": 3,
         "Hisuian avalugg": 1,
         "Lickilicky": 3,
         "Hisuian voltorb": 1,
@@ -1199,7 +1199,7 @@
         "Blitzle": 2,
         "Pidove": 2,
         "Doublade": 1,
-        "Quilava": 2,
+        "Quilava": 3,
         "Tarountula": 2,
         "Dottler": 1,
         "Paras": 1,
@@ -1461,10 +1461,11 @@
         "Starmie": 1,
         "Cufant": 1,
         "Bellibolt": 1,
-        "Hero palafin": 1
+        "Hero palafin": 1,
+        "Quilladin": 1
       },
-      "total_spawns": 729,
-      "last_spawn": "2026-06-27T14:45:37.594569"
+      "total_spawns": 732,
+      "last_spawn": "2026-06-27T14:46:07.798016"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1474,7 +1475,7 @@
     }
   },
   "global": {
-    "total_spawns": 31222,
+    "total_spawns": 31225,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
