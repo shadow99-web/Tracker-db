@@ -1334,7 +1334,7 @@
         "Turtwig": 1,
         "Glimmet": 1,
         "Swadloon": 1,
-        "Purrloin": 1,
+        "Purrloin": 2,
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
@@ -1362,7 +1362,7 @@
         "Mankey": 1,
         "Charmander": 1,
         "Shroomish": 1,
-        "Finizen": 1,
+        "Finizen": 2,
         "Croconaw": 1,
         "Bronzor": 1,
         "Eelektrik": 1,
@@ -1407,10 +1407,12 @@
         "Glalie": 1,
         "Magikarp": 1,
         "Capsakid": 1,
-        "Venonat": 1
+        "Venonat": 1,
+        "Popplio": 1,
+        "Glameow": 1
       },
-      "total_spawns": 597,
-      "last_spawn": "2026-06-27T14:21:29.141876"
+      "total_spawns": 601,
+      "last_spawn": "2026-06-27T14:22:07.560190"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1420,7 +1422,7 @@
     }
   },
   "global": {
-    "total_spawns": 31090,
+    "total_spawns": 31094,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
