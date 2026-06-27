@@ -1288,7 +1288,7 @@
         "Darkrai": 1,
         "Growlithe": 1,
         "Nihilego": 1,
-        "Slakoth": 3,
+        "Slakoth": 4,
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
@@ -1392,10 +1392,14 @@
         "Nuzleaf": 1,
         "Geodude": 1,
         "Gholdengo": 1,
-        "Dudunsparce": 1
+        "Dudunsparce": 1,
+        "Whirlipede": 1,
+        "Skiddo": 1,
+        "Spiritomb": 1,
+        "Seadra": 1
       },
-      "total_spawns": 571,
-      "last_spawn": "2026-06-27T14:17:17.715582"
+      "total_spawns": 576,
+      "last_spawn": "2026-06-27T14:17:57.497173"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1405,7 +1409,7 @@
     }
   },
   "global": {
-    "total_spawns": 31064,
+    "total_spawns": 31069,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
