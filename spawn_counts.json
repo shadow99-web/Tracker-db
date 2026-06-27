@@ -1207,7 +1207,7 @@
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 3,
-        "Aron": 6,
+        "Aron": 7,
         "Kabuto": 2,
         "Togetic": 2,
         "Sewaddle": 2,
@@ -1378,7 +1378,7 @@
         "Tympole": 3,
         "Barboach": 1,
         "Carvanha": 1,
-        "Caterpie": 3,
+        "Caterpie": 4,
         "Dondozo": 2,
         "Tranquill": 2,
         "Porygon": 2,
@@ -1397,7 +1397,7 @@
         "Skiddo": 1,
         "Spiritomb": 1,
         "Seadra": 1,
-        "Seedot": 2,
+        "Seedot": 3,
         "Snivy": 2,
         "Roselia": 2,
         "Totodile": 1,
@@ -1523,10 +1523,11 @@
         "Drednaw": 1,
         "Cacturne": 1,
         "Metapod": 1,
-        "Sealeo": 1
+        "Sealeo": 1,
+        "Wynaut": 1
       },
-      "total_spawns": 939,
-      "last_spawn": "2026-06-27T15:22:47.807655"
+      "total_spawns": 943,
+      "last_spawn": "2026-06-27T15:23:27.499389"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1536,7 +1537,7 @@
     }
   },
   "global": {
-    "total_spawns": 31432,
+    "total_spawns": 31436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
