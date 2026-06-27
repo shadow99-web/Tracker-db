@@ -1216,7 +1216,7 @@
         "Pelipper": 1,
         "Hattrem": 2,
         "Machoke": 1,
-        "Litwick": 6,
+        "Litwick": 7,
         "Frost rotom": 1,
         "Cubchoo": 4,
         "Abra": 6,
@@ -1277,7 +1277,7 @@
         "Summer deerling": 1,
         "Heliolisk": 1,
         "Raboot": 1,
-        "Vanillite": 1,
+        "Vanillite": 2,
         "Krabby": 1,
         "Clefable": 1,
         "Durant": 1,
@@ -1420,10 +1420,12 @@
         "Makuhita": 1,
         "Baltoy": 1,
         "Nidoking": 1,
-        "Tentacool": 1
+        "Tentacool": 1,
+        "Servine": 1,
+        "Grubbin": 1
       },
-      "total_spawns": 632,
-      "last_spawn": "2026-06-27T14:26:47.605355"
+      "total_spawns": 636,
+      "last_spawn": "2026-06-27T14:27:27.517570"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1433,7 +1435,7 @@
     }
   },
   "global": {
-    "total_spawns": 31125,
+    "total_spawns": 31129,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
