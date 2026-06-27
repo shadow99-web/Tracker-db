@@ -1266,7 +1266,7 @@
         "Beheeyem": 1,
         "Charizard": 1,
         "Kirlia": 2,
-        "Treecko": 4,
+        "Treecko": 5,
         "Veluza": 6,
         "Cyndaquil": 4,
         "Zorua": 2,
@@ -1368,7 +1368,7 @@
         "Croconaw": 1,
         "Bronzor": 2,
         "Eelektrik": 1,
-        "Ledyba": 1,
+        "Ledyba": 2,
         "Tyrunt": 3,
         "Braixen": 1,
         "Revavroom": 2,
@@ -1574,10 +1574,12 @@
         "Exploud": 1,
         "Stretchy tatsugiri": 1,
         "Elgyem": 1,
-        "Yanma": 1
+        "Yanma": 1,
+        "Gabite": 1,
+        "Meowscarada": 1
       },
-      "total_spawns": 1124,
-      "last_spawn": "2026-06-27T17:16:27.504595"
+      "total_spawns": 1128,
+      "last_spawn": "2026-06-27T17:16:57.506042"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1587,7 +1589,7 @@
     }
   },
   "global": {
-    "total_spawns": 32255,
+    "total_spawns": 32259,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
