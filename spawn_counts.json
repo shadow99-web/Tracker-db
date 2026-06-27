@@ -1181,7 +1181,7 @@
         "Axew": 5,
         "Ride cyclizar": 2,
         "Trapinch": 1,
-        "Smoliv": 3,
+        "Smoliv": 4,
         "Pawniard": 1,
         "Frogadier": 1,
         "Gimmighoul": 3,
@@ -1390,7 +1390,7 @@
         "Archeops": 1,
         "Gigalith": 2,
         "Nuzleaf": 1,
-        "Geodude": 2,
+        "Geodude": 3,
         "Gholdengo": 1,
         "Dudunsparce": 1,
         "Whirlipede": 2,
@@ -1510,10 +1510,11 @@
         "Vaporeon": 1,
         "Araquanid": 1,
         "Elekid": 1,
-        "Panpour": 1
+        "Panpour": 1,
+        "Trevenant": 1
       },
-      "total_spawns": 893,
-      "last_spawn": "2026-06-27T15:15:17.595042"
+      "total_spawns": 896,
+      "last_spawn": "2026-06-27T15:15:47.596047"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1523,7 +1524,7 @@
     }
   },
   "global": {
-    "total_spawns": 31386,
+    "total_spawns": 31389,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
