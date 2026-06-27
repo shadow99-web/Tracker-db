@@ -1468,7 +1468,7 @@
         "Delibird": 1,
         "Noibat": 1,
         "Darmanitan": 1,
-        "Mantine": 1,
+        "Mantine": 2,
         "Grumpig": 1,
         "Ekans": 2,
         "Swanna": 1,
@@ -1600,10 +1600,11 @@
         "Grimmsnarl": 1,
         "Frosmoth": 1,
         "Dunsparce": 1,
-        "Sigilyph": 1
+        "Sigilyph": 1,
+        "Chinchou": 1
       },
-      "total_spawns": 1229,
-      "last_spawn": "2026-06-27T18:02:17.596441"
+      "total_spawns": 1231,
+      "last_spawn": "2026-06-27T18:36:01.978502"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1613,7 +1614,7 @@
     }
   },
   "global": {
-    "total_spawns": 32360,
+    "total_spawns": 32362,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
