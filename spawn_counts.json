@@ -1155,7 +1155,7 @@
         "Bergmite": 2,
         "Lairon": 1,
         "Impidimp": 9,
-        "Solosis": 3,
+        "Solosis": 4,
         "Brambleghast": 1,
         "Rellor": 3,
         "Nincada": 1,
@@ -1250,7 +1250,7 @@
         "Sizzlipede": 1,
         "Chimchar": 1,
         "Trash wormadam": 2,
-        "Bramblin": 2,
+        "Bramblin": 3,
         "Vulpix": 2,
         "Hippowdon": 3,
         "Tinkatink": 2,
@@ -1481,10 +1481,11 @@
         "Stufful": 1,
         "Roaring moon": 1,
         "Vanillish": 1,
-        "Kilowattrel": 1
+        "Kilowattrel": 1,
+        "Stunfisk": 1
       },
-      "total_spawns": 795,
-      "last_spawn": "2026-06-27T14:55:59.896742"
+      "total_spawns": 798,
+      "last_spawn": "2026-06-27T14:56:37.497693"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1494,7 +1495,7 @@
     }
   },
   "global": {
-    "total_spawns": 31288,
+    "total_spawns": 31291,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
