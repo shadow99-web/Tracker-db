@@ -1194,7 +1194,7 @@
         "Lillipup": 4,
         "Ducklett": 2,
         "Mareep": 6,
-        "Tadbulb": 5,
+        "Tadbulb": 6,
         "Helioptile": 2,
         "Blitzle": 2,
         "Pidove": 3,
@@ -1206,7 +1206,7 @@
         "Swablu": 4,
         "Darumaka": 1,
         "Wailmer": 1,
-        "Jangmo-o": 4,
+        "Jangmo-o": 5,
         "Aron": 7,
         "Kabuto": 2,
         "Togetic": 2,
@@ -1526,17 +1526,18 @@
         "Sealeo": 1,
         "Wynaut": 1,
         "Staravia": 1,
-        "Spidops": 1,
+        "Spidops": 2,
         "Appletun": 1,
         "Anorith": 1,
         "Carkol": 1,
         "Seaking": 1,
         "Quaxly": 1,
         "Golbat": 1,
-        "Beautifly": 1
+        "Beautifly": 1,
+        "Houndstone": 1
       },
-      "total_spawns": 959,
-      "last_spawn": "2026-06-27T15:26:07.597395"
+      "total_spawns": 963,
+      "last_spawn": "2026-06-27T15:26:47.696907"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1546,7 +1547,7 @@
     }
   },
   "global": {
-    "total_spawns": 31452,
+    "total_spawns": 31456,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
