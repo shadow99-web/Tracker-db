@@ -1135,7 +1135,7 @@
         "Feebas": 1,
         "Lapras": 1,
         "Seismitoad": 2,
-        "Frigibax": 8,
+        "Frigibax": 9,
         "Meowth": 2,
         "Dj rotom": 4,
         "Prof tangrowth": 8,
@@ -1194,7 +1194,7 @@
         "Lillipup": 4,
         "Ducklett": 2,
         "Mareep": 6,
-        "Tadbulb": 4,
+        "Tadbulb": 5,
         "Helioptile": 1,
         "Blitzle": 2,
         "Pidove": 3,
@@ -1239,7 +1239,7 @@
         "Ferrothorn": 1,
         "Karrablast": 1,
         "Sinistea": 5,
-        "Lurantis": 1,
+        "Lurantis": 2,
         "Machamp": 1,
         "Sceptile": 1,
         "Shelgon": 1,
@@ -1508,10 +1508,11 @@
         "Yanmega": 1,
         "Arcanine": 1,
         "Vaporeon": 1,
-        "Araquanid": 1
+        "Araquanid": 1,
+        "Elekid": 1
       },
-      "total_spawns": 886,
-      "last_spawn": "2026-06-27T15:14:07.511445"
+      "total_spawns": 890,
+      "last_spawn": "2026-06-27T15:14:47.510560"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1521,7 +1522,7 @@
     }
   },
   "global": {
-    "total_spawns": 31379,
+    "total_spawns": 31383,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
