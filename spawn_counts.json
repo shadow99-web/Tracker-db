@@ -1099,7 +1099,7 @@
         "Roggenrola": 5,
         "Armarouge": 2,
         "Gastly": 6,
-        "Scatterbug": 6,
+        "Scatterbug": 7,
         "Wurmple": 4,
         "Gothita": 12,
         "Gible": 6,
@@ -1367,7 +1367,7 @@
         "Bronzor": 1,
         "Eelektrik": 1,
         "Ledyba": 1,
-        "Tyrunt": 2,
+        "Tyrunt": 3,
         "Braixen": 1,
         "Revavroom": 1,
         "Drowzee": 2,
@@ -1467,8 +1467,8 @@
         "Noibat": 1,
         "Darmanitan": 1
       },
-      "total_spawns": 739,
-      "last_spawn": "2026-06-27T14:49:25.095318"
+      "total_spawns": 741,
+      "last_spawn": "2026-06-27T14:50:02.254571"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1478,7 +1478,7 @@
     }
   },
   "global": {
-    "total_spawns": 31232,
+    "total_spawns": 31234,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
