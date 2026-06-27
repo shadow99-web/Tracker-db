@@ -1338,10 +1338,10 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 2,
+        "Venipede": 3,
         "Maschiff": 5,
         "Sprigatito": 3,
-        "Toedscool": 3,
+        "Toedscool": 4,
         "Luxio": 1,
         "Fuecoco": 1,
         "Electrode": 1,
@@ -1512,10 +1512,12 @@
         "Elekid": 1,
         "Panpour": 1,
         "Trevenant": 1,
-        "Pignite": 1
+        "Pignite": 1,
+        "Ferroseed": 1,
+        "Grafaiai": 1
       },
-      "total_spawns": 899,
-      "last_spawn": "2026-06-27T15:16:17.828884"
+      "total_spawns": 903,
+      "last_spawn": "2026-06-27T15:16:57.663418"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1525,7 +1527,7 @@
     }
   },
   "global": {
-    "total_spawns": 31392,
+    "total_spawns": 31396,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
