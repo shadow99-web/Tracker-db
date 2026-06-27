@@ -1195,7 +1195,7 @@
         "Boltund": 1,
         "Lillipup": 5,
         "Ducklett": 2,
-        "Mareep": 6,
+        "Mareep": 7,
         "Tadbulb": 6,
         "Helioptile": 2,
         "Blitzle": 3,
@@ -1581,7 +1581,7 @@
         "Eelektross": 1,
         "Rhydon": 1,
         "Low key toxtricity": 1,
-        "Loudred": 2,
+        "Loudred": 3,
         "Cutiefly": 1,
         "Wishiwashi": 1,
         "Litleo": 1,
@@ -1607,7 +1607,7 @@
         "Galarian zen darmanitan": 1,
         "Rillaboom": 1,
         "Ursaluna": 1,
-        "Cranidos": 1,
+        "Cranidos": 2,
         "Sandy burmy": 1,
         "Dragalge": 1,
         "Three-segment dudunsparce": 1,
@@ -1629,10 +1629,12 @@
         "Bewear": 1,
         "Cloyster": 1,
         "Centiskorch": 1,
-        "Poliwhirl": 1
+        "Poliwhirl": 1,
+        "Patrat": 1,
+        "Samurott": 1
       },
-      "total_spawns": 1370,
-      "last_spawn": "2026-06-27T18:53:47.596672"
+      "total_spawns": 1375,
+      "last_spawn": "2026-06-27T18:54:17.797506"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1642,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 32501,
+    "total_spawns": 32506,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
