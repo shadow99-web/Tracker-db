@@ -1233,7 +1233,7 @@
         "Scraggy": 1,
         "Mabosstiff": 1,
         "Lileep": 1,
-        "Cetoddle": 2,
+        "Cetoddle": 3,
         "Chespin": 2,
         "Naclstack": 1,
         "Ferrothorn": 1,
@@ -1402,10 +1402,13 @@
         "Roselia": 1,
         "Totodile": 1,
         "Lunatone": 1,
-        "Zigzagoon": 1
+        "Zigzagoon": 1,
+        "Timburr": 1,
+        "Glalie": 1,
+        "Magikarp": 1
       },
-      "total_spawns": 590,
-      "last_spawn": "2026-06-27T14:20:17.605413"
+      "total_spawns": 594,
+      "last_spawn": "2026-06-27T14:20:57.574252"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1415,7 +1418,7 @@
     }
   },
   "global": {
-    "total_spawns": 31083,
+    "total_spawns": 31087,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
