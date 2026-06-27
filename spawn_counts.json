@@ -1200,7 +1200,7 @@
         "Pidove": 7,
         "Doublade": 1,
         "Quilava": 3,
-        "Tarountula": 2,
+        "Tarountula": 3,
         "Dottler": 1,
         "Paras": 1,
         "Swablu": 4,
@@ -1210,7 +1210,7 @@
         "Aron": 7,
         "Kabuto": 2,
         "Togetic": 2,
-        "Sewaddle": 2,
+        "Sewaddle": 3,
         "Eevee": 1,
         "Taillow": 2,
         "Pelipper": 1,
@@ -1548,10 +1548,12 @@
         "Aurorus": 1,
         "Morelull": 1,
         "White plumage squawkabilly": 1,
-        "Salandit": 1
+        "Salandit": 1,
+        "Qwilfish": 1,
+        "Indeedee": 1
       },
-      "total_spawns": 1028,
-      "last_spawn": "2026-06-27T15:37:27.818192"
+      "total_spawns": 1032,
+      "last_spawn": "2026-06-27T15:38:17.807018"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1561,7 +1563,7 @@
     }
   },
   "global": {
-    "total_spawns": 31521,
+    "total_spawns": 31525,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
