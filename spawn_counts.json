@@ -1100,7 +1100,7 @@
         "Armarouge": 2,
         "Gastly": 6,
         "Scatterbug": 6,
-        "Wurmple": 3,
+        "Wurmple": 4,
         "Gothita": 11,
         "Gible": 5,
         "Larvesta": 2,
@@ -1142,7 +1142,7 @@
         "Charcadet": 8,
         "Furfrou": 1,
         "Slaking": 2,
-        "Flittle": 8,
+        "Flittle": 9,
         "Salazzle": 1,
         "Skitty": 2,
         "Fletchling": 1,
@@ -1332,7 +1332,7 @@
         "Sandshrew": 1,
         "Tirtouga": 1,
         "Turtwig": 1,
-        "Glimmet": 1,
+        "Glimmet": 2,
         "Swadloon": 1,
         "Purrloin": 2,
         "Golem": 1,
@@ -1414,10 +1414,11 @@
         "Emboar": 1,
         "Blue flower floette": 1,
         "Leafeon": 1,
-        "Shellder": 1
+        "Shellder": 1,
+        "Graveler": 1
       },
-      "total_spawns": 616,
-      "last_spawn": "2026-06-27T14:24:27.797473"
+      "total_spawns": 620,
+      "last_spawn": "2026-06-27T14:25:04.300908"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1427,7 +1428,7 @@
     }
   },
   "global": {
-    "total_spawns": 31109,
+    "total_spawns": 31113,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
