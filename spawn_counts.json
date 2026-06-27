@@ -1197,7 +1197,7 @@
         "Tadbulb": 6,
         "Helioptile": 2,
         "Blitzle": 2,
-        "Pidove": 6,
+        "Pidove": 7,
         "Doublade": 1,
         "Quilava": 3,
         "Tarountula": 2,
@@ -1420,7 +1420,7 @@
         "Makuhita": 1,
         "Baltoy": 2,
         "Nidoking": 1,
-        "Tentacool": 1,
+        "Tentacool": 2,
         "Servine": 2,
         "Grubbin": 4,
         "Clobbopus": 1,
@@ -1544,10 +1544,11 @@
         "Mismagius": 1,
         "Bonsly": 1,
         "Porygon-z": 1,
-        "Chewtle": 1
+        "Chewtle": 1,
+        "Aurorus": 1
       },
-      "total_spawns": 1010,
-      "last_spawn": "2026-06-27T15:34:17.667811"
+      "total_spawns": 1013,
+      "last_spawn": "2026-06-27T15:34:47.495501"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1557,7 +1558,7 @@
     }
   },
   "global": {
-    "total_spawns": 31503,
+    "total_spawns": 31506,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
