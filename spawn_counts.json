@@ -1375,7 +1375,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 4,
+        "Tympole": 5,
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 4,
@@ -1446,9 +1446,9 @@
         "Combee": 1,
         "Flareon": 1,
         "Bunnelby": 1,
-        "Skiploom": 1,
+        "Skiploom": 2,
         "Marshtomp": 2,
-        "Lechonk": 1,
+        "Lechonk": 2,
         "Roaming gimmighoul": 4,
         "Breloom": 1,
         "Ninjask": 1,
@@ -1555,10 +1555,11 @@
         "Oinkologne": 1,
         "Dragonair": 1,
         "Hippopotas": 1,
-        "Nymble": 1
+        "Nymble": 1,
+        "Phanpy": 1
       },
-      "total_spawns": 1054,
-      "last_spawn": "2026-06-27T15:41:51.503904"
+      "total_spawns": 1058,
+      "last_spawn": "2026-06-27T15:42:27.718339"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1568,7 +1569,7 @@
     }
   },
   "global": {
-    "total_spawns": 31547,
+    "total_spawns": 31551,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
