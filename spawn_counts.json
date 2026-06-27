@@ -1250,7 +1250,7 @@
         "Gumshoos": 1,
         "Cherubi": 1,
         "Sizzlipede": 2,
-        "Chimchar": 3,
+        "Chimchar": 4,
         "Trash wormadam": 2,
         "Bramblin": 6,
         "Vulpix": 5,
@@ -1377,7 +1377,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 6,
+        "Tympole": 7,
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 4,
@@ -1405,7 +1405,7 @@
         "Totodile": 1,
         "Lunatone": 1,
         "Zigzagoon": 1,
-        "Timburr": 3,
+        "Timburr": 5,
         "Glalie": 1,
         "Magikarp": 1,
         "Capsakid": 2,
@@ -1613,10 +1613,12 @@
         "Three-segment dudunsparce": 1,
         "Corviknight": 1,
         "Mareanie": 1,
-        "Phantump": 1
+        "Phantump": 1,
+        "Girafarig": 1,
+        "Duosion": 1
       },
-      "total_spawns": 1274,
-      "last_spawn": "2026-06-27T18:45:17.496881"
+      "total_spawns": 1280,
+      "last_spawn": "2026-06-27T18:45:47.499565"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1626,7 +1628,7 @@
     }
   },
   "global": {
-    "total_spawns": 32405,
+    "total_spawns": 32411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
