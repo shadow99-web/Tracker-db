@@ -1110,7 +1110,7 @@
         "Chef dente": 4,
         "Hatenna": 6,
         "Dugtrio": 1,
-        "Kadabra": 1,
+        "Kadabra": 2,
         "Sandile": 9,
         "Riolu": 2,
         "Hisuian avalugg": 1,
@@ -1173,7 +1173,7 @@
         "Fidough": 2,
         "Spritzee": 2,
         "Squawkabilly": 2,
-        "Beldum": 6,
+        "Beldum": 7,
         "Whismur": 2,
         "Crabrawler": 2,
         "Mudkip": 1,
@@ -1452,10 +1452,11 @@
         "Roaming gimmighoul": 1,
         "Breloom": 1,
         "Ninjask": 1,
-        "Remoraid": 1
+        "Remoraid": 1,
+        "Pansear": 1
       },
-      "total_spawns": 695,
-      "last_spawn": "2026-06-27T14:36:47.596727"
+      "total_spawns": 698,
+      "last_spawn": "2026-06-27T14:37:25.599777"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1465,7 +1466,7 @@
     }
   },
   "global": {
-    "total_spawns": 31188,
+    "total_spawns": 31191,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
