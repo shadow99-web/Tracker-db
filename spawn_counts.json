@@ -1123,7 +1123,7 @@
         "Pikachu": 3,
         "Rhyhorn": 2,
         "Tynamo": 4,
-        "Tandemaus": 3,
+        "Tandemaus": 4,
         "Smearguru": 6,
         "Magnemite": 6,
         "Teddiursa": 5,
@@ -1203,7 +1203,7 @@
         "Tarountula": 2,
         "Dottler": 1,
         "Paras": 1,
-        "Swablu": 3,
+        "Swablu": 4,
         "Darumaka": 1,
         "Wailmer": 1,
         "Jangmo-o": 2,
@@ -1380,7 +1380,7 @@
         "Carvanha": 1,
         "Caterpie": 2,
         "Dondozo": 2,
-        "Tranquill": 1,
+        "Tranquill": 2,
         "Porygon": 2,
         "Wooloo": 1,
         "Oddish": 1,
@@ -1478,10 +1478,11 @@
         "Pyroar": 1,
         "Tatsugiri": 1,
         "Skwovet": 1,
-        "Stufful": 1
+        "Stufful": 1,
+        "Roaring moon": 1
       },
-      "total_spawns": 786,
-      "last_spawn": "2026-06-27T14:54:47.596354"
+      "total_spawns": 790,
+      "last_spawn": "2026-06-27T14:55:18.297189"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1491,7 +1492,7 @@
     }
   },
   "global": {
-    "total_spawns": 31279,
+    "total_spawns": 31283,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
