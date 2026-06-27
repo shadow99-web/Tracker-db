@@ -1107,7 +1107,7 @@
         "Starly": 6,
         "Varoom": 9,
         "Weedle": 9,
-        "Chef dente": 5,
+        "Chef dente": 6,
         "Hatenna": 9,
         "Dugtrio": 1,
         "Kadabra": 3,
@@ -1292,7 +1292,7 @@
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
-        "Horsea": 3,
+        "Horsea": 4,
         "Doduo": 1,
         "Ivysaur": 3,
         "Crustle": 1,
@@ -1514,10 +1514,12 @@
         "Trevenant": 1,
         "Pignite": 1,
         "Ferroseed": 1,
-        "Grafaiai": 1
+        "Grafaiai": 1,
+        "Tangela": 1,
+        "Palpitoad": 1
       },
-      "total_spawns": 903,
-      "last_spawn": "2026-06-27T15:16:57.663418"
+      "total_spawns": 907,
+      "last_spawn": "2026-06-27T15:17:37.615945"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1527,7 +1529,7 @@
     }
   },
   "global": {
-    "total_spawns": 31396,
+    "total_spawns": 31400,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
