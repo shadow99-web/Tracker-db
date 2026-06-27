@@ -1409,7 +1409,7 @@
         "Capsakid": 1,
         "Venonat": 1,
         "Popplio": 1,
-        "Glameow": 1,
+        "Glameow": 2,
         "Boldore": 1,
         "Emboar": 1,
         "Blue flower floette": 1,
@@ -1421,7 +1421,7 @@
         "Baltoy": 1,
         "Nidoking": 1,
         "Tentacool": 1,
-        "Servine": 1,
+        "Servine": 2,
         "Grubbin": 1,
         "Clobbopus": 1,
         "Bounsweet": 1,
@@ -1453,10 +1453,11 @@
         "Breloom": 1,
         "Ninjask": 1,
         "Remoraid": 1,
-        "Pansear": 1
+        "Pansear": 1,
+        "Spheal": 1
       },
-      "total_spawns": 702,
-      "last_spawn": "2026-06-27T14:41:17.600904"
+      "total_spawns": 705,
+      "last_spawn": "2026-06-27T14:41:47.725844"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1466,7 +1467,7 @@
     }
   },
   "global": {
-    "total_spawns": 31195,
+    "total_spawns": 31198,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
