@@ -1113,7 +1113,7 @@
         "Hatenna": 11,
         "Dugtrio": 1,
         "Kadabra": 3,
-        "Sandile": 10,
+        "Sandile": 11,
         "Riolu": 3,
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
@@ -1147,7 +1147,7 @@
         "Flittle": 10,
         "Salazzle": 1,
         "Skitty": 3,
-        "Fletchling": 3,
+        "Fletchling": 4,
         "Orthworm": 6,
         "Woobat": 5,
         "Happiny": 1,
@@ -1199,7 +1199,7 @@
         "Tadbulb": 6,
         "Helioptile": 2,
         "Blitzle": 3,
-        "Pidove": 7,
+        "Pidove": 8,
         "Doublade": 1,
         "Quilava": 3,
         "Tarountula": 4,
@@ -1275,7 +1275,7 @@
         "Klawf": 4,
         "Grookey": 2,
         "Gossifleur": 3,
-        "Joltik": 1,
+        "Joltik": 2,
         "Summer deerling": 1,
         "Heliolisk": 1,
         "Raboot": 2,
@@ -1377,11 +1377,11 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 9,
+        "Tympole": 10,
         "Barboach": 1,
         "Carvanha": 2,
         "Caterpie": 5,
-        "Dondozo": 5,
+        "Dondozo": 6,
         "Tranquill": 4,
         "Porygon": 7,
         "Wooloo": 2,
@@ -1555,7 +1555,7 @@
         "Indeedee": 1,
         "Skrelp": 2,
         "Oinkologne": 1,
-        "Dragonair": 1,
+        "Dragonair": 2,
         "Hippopotas": 1,
         "Nymble": 2,
         "Phanpy": 1,
@@ -1631,8 +1631,8 @@
         "Centiskorch": 1,
         "Poliwhirl": 1
       },
-      "total_spawns": 1363,
-      "last_spawn": "2026-06-27T18:53:17.415238"
+      "total_spawns": 1370,
+      "last_spawn": "2026-06-27T18:53:47.596672"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1642,7 +1642,7 @@
     }
   },
   "global": {
-    "total_spawns": 32494,
+    "total_spawns": 32501,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
