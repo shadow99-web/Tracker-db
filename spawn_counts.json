@@ -1154,7 +1154,7 @@
         "Blue plumage squawkabilly": 1,
         "Bergmite": 1,
         "Lairon": 1,
-        "Impidimp": 7,
+        "Impidimp": 8,
         "Solosis": 1,
         "Brambleghast": 1,
         "Rellor": 2,
@@ -1355,10 +1355,13 @@
         "Ralts": 1,
         "Clamperl": 1,
         "Falinks": 1,
-        "Tinkatuff": 1
+        "Tinkatuff": 1,
+        "Ampharos": 1,
+        "Goodra": 1,
+        "Klink": 1
       },
-      "total_spawns": 487,
-      "last_spawn": "2026-06-27T14:02:37.497499"
+      "total_spawns": 491,
+      "last_spawn": "2026-06-27T14:03:07.778167"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1368,7 +1371,7 @@
     }
   },
   "global": {
-    "total_spawns": 30980,
+    "total_spawns": 30984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
