@@ -1128,7 +1128,7 @@
         "Tandemaus": 7,
         "Smearguru": 7,
         "Magnemite": 10,
-        "Teddiursa": 8,
+        "Teddiursa": 9,
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 4,
@@ -1209,7 +1209,7 @@
         "Darumaka": 2,
         "Wailmer": 1,
         "Jangmo-o": 5,
-        "Aron": 7,
+        "Aron": 9,
         "Kabuto": 2,
         "Togetic": 3,
         "Sewaddle": 5,
@@ -1301,7 +1301,7 @@
         "Wooper": 1,
         "Crabominable": 1,
         "Machop": 7,
-        "Onix": 3,
+        "Onix": 4,
         "Lampent": 2,
         "East sea gastrodon": 1,
         "Magcargo": 3,
@@ -1530,7 +1530,7 @@
         "Staravia": 1,
         "Spidops": 2,
         "Appletun": 1,
-        "Anorith": 2,
+        "Anorith": 3,
         "Carkol": 1,
         "Seaking": 1,
         "Quaxly": 1,
@@ -1618,10 +1618,11 @@
         "Duosion": 1,
         "Mudbray": 1,
         "Bombirdier": 1,
-        "Haunter": 1
+        "Haunter": 1,
+        "Pirouette meloetta": 1
       },
-      "total_spawns": 1308,
-      "last_spawn": "2026-06-27T18:48:27.786361"
+      "total_spawns": 1314,
+      "last_spawn": "2026-06-27T18:49:05.514292"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1631,7 +1632,7 @@
     }
   },
   "global": {
-    "total_spawns": 32439,
+    "total_spawns": 32445,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
