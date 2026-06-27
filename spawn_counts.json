@@ -1232,7 +1232,7 @@
         "Dartrix": 2,
         "Scraggy": 1,
         "Mabosstiff": 1,
-        "Lileep": 1,
+        "Lileep": 2,
         "Cetoddle": 3,
         "Chespin": 2,
         "Naclstack": 2,
@@ -1309,7 +1309,7 @@
         "Ursaring": 1,
         "Staryu": 2,
         "Gallade": 1,
-        "Rattata": 1,
+        "Rattata": 2,
         "Bellsprout": 1,
         "Lickitung": 1,
         "Minccino": 2,
@@ -1415,10 +1415,12 @@
         "Blue flower floette": 1,
         "Leafeon": 1,
         "Shellder": 1,
-        "Graveler": 1
+        "Graveler": 1,
+        "Drifloon": 1,
+        "Makuhita": 1
       },
-      "total_spawns": 620,
-      "last_spawn": "2026-06-27T14:25:04.300908"
+      "total_spawns": 624,
+      "last_spawn": "2026-06-27T14:25:37.596154"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1428,7 +1430,7 @@
     }
   },
   "global": {
-    "total_spawns": 31113,
+    "total_spawns": 31117,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
