@@ -1152,7 +1152,7 @@
         "Squirtle": 1,
         "Spinarak": 1,
         "Blue plumage squawkabilly": 1,
-        "Bergmite": 1,
+        "Bergmite": 2,
         "Lairon": 1,
         "Impidimp": 8,
         "Solosis": 1,
@@ -1219,7 +1219,7 @@
         "Litwick": 6,
         "Frost rotom": 1,
         "Cubchoo": 4,
-        "Abra": 5,
+        "Abra": 6,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1266,7 +1266,7 @@
         "Kirlia": 2,
         "Treecko": 3,
         "Veluza": 4,
-        "Cyndaquil": 2,
+        "Cyndaquil": 3,
         "Zorua": 1,
         "Meganium": 1,
         "Toedscruel": 1,
@@ -1387,10 +1387,11 @@
         "Barraskewda": 1,
         "Shieldon": 1,
         "Piloswine": 2,
-        "Archeops": 1
+        "Archeops": 1,
+        "Gigalith": 1
       },
-      "total_spawns": 560,
-      "last_spawn": "2026-06-27T14:15:29.095809"
+      "total_spawns": 564,
+      "last_spawn": "2026-06-27T14:16:07.803611"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1400,7 +1401,7 @@
     }
   },
   "global": {
-    "total_spawns": 31053,
+    "total_spawns": 31057,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
