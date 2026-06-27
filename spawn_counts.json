@@ -1110,7 +1110,7 @@
         "Varoom": 10,
         "Weedle": 14,
         "Chef dente": 8,
-        "Hatenna": 10,
+        "Hatenna": 11,
         "Dugtrio": 1,
         "Kadabra": 3,
         "Sandile": 10,
@@ -1127,7 +1127,7 @@
         "Tynamo": 6,
         "Tandemaus": 7,
         "Smearguru": 7,
-        "Magnemite": 10,
+        "Magnemite": 11,
         "Teddiursa": 9,
         "Houndoom": 1,
         "Torracat": 2,
@@ -1221,7 +1221,7 @@
         "Litwick": 10,
         "Frost rotom": 1,
         "Cubchoo": 4,
-        "Abra": 10,
+        "Abra": 11,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1244,7 +1244,7 @@
         "Lurantis": 2,
         "Machamp": 1,
         "Sceptile": 1,
-        "Shelgon": 1,
+        "Shelgon": 2,
         "Dratini": 6,
         "Coalossal": 1,
         "Gumshoos": 1,
@@ -1405,7 +1405,7 @@
         "Totodile": 1,
         "Lunatone": 1,
         "Zigzagoon": 1,
-        "Timburr": 5,
+        "Timburr": 6,
         "Glalie": 1,
         "Magikarp": 1,
         "Capsakid": 2,
@@ -1428,7 +1428,7 @@
         "Clobbopus": 1,
         "Bounsweet": 6,
         "Crawdaunt": 2,
-        "Hoppip": 6,
+        "Hoppip": 7,
         "Shroodle": 1,
         "Fomantis": 2,
         "Slowpoke": 1,
@@ -1621,10 +1621,11 @@
         "Haunter": 1,
         "Pirouette meloetta": 1,
         "Audino": 1,
-        "Infernape": 1
+        "Infernape": 1,
+        "Greninja": 2
       },
-      "total_spawns": 1321,
-      "last_spawn": "2026-06-27T18:49:37.505441"
+      "total_spawns": 1329,
+      "last_spawn": "2026-06-27T18:50:07.507705"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1634,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 32452,
+    "total_spawns": 32460,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
