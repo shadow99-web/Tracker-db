@@ -1308,7 +1308,7 @@
         "Electabuzz": 1,
         "Sensu oricorio": 1,
         "Whiscash": 1,
-        "Ursaring": 1,
+        "Ursaring": 2,
         "Staryu": 4,
         "Gallade": 1,
         "Rattata": 2,
@@ -1357,7 +1357,7 @@
         "Ralts": 2,
         "Clamperl": 2,
         "Falinks": 1,
-        "Tinkatuff": 1,
+        "Tinkatuff": 2,
         "Ampharos": 1,
         "Goodra": 1,
         "Klink": 2,
@@ -1578,10 +1578,13 @@
         "Gabite": 1,
         "Meowscarada": 1,
         "Ceruledge": 1,
-        "Eelektross": 1
+        "Eelektross": 1,
+        "Rhydon": 1,
+        "Low key toxtricity": 1,
+        "Loudred": 1
       },
-      "total_spawns": 1133,
-      "last_spawn": "2026-06-27T17:17:27.794843"
+      "total_spawns": 1138,
+      "last_spawn": "2026-06-27T17:18:07.996503"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1591,7 +1594,7 @@
     }
   },
   "global": {
-    "total_spawns": 32264,
+    "total_spawns": 32269,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
