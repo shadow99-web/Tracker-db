@@ -1403,7 +1403,7 @@
         "Totodile": 1,
         "Lunatone": 1,
         "Zigzagoon": 1,
-        "Timburr": 1,
+        "Timburr": 2,
         "Glalie": 1,
         "Magikarp": 1,
         "Capsakid": 2,
@@ -1482,10 +1482,12 @@
         "Roaring moon": 1,
         "Vanillish": 1,
         "Kilowattrel": 1,
-        "Stunfisk": 1
+        "Stunfisk": 1,
+        "Lycanroc": 1,
+        "Illumise": 1
       },
-      "total_spawns": 798,
-      "last_spawn": "2026-06-27T14:56:37.497693"
+      "total_spawns": 801,
+      "last_spawn": "2026-06-27T14:57:07.538522"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1495,7 +1497,7 @@
     }
   },
   "global": {
-    "total_spawns": 31291,
+    "total_spawns": 31294,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
