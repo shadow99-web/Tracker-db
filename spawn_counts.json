@@ -1313,7 +1313,7 @@
         "Gallade": 1,
         "Rattata": 2,
         "Bellsprout": 1,
-        "Lickitung": 2,
+        "Lickitung": 3,
         "Minccino": 2,
         "Togepi": 2,
         "Milotic": 1,
@@ -1329,7 +1329,7 @@
         "Duskull": 5,
         "Vigoroth": 2,
         "Seviper": 2,
-        "Goomy": 3,
+        "Goomy": 4,
         "Nickit": 1,
         "Sandshrew": 2,
         "Tirtouga": 1,
@@ -1342,7 +1342,7 @@
         "Zeraora": 1,
         "Venipede": 3,
         "Maschiff": 7,
-        "Sprigatito": 3,
+        "Sprigatito": 4,
         "Toedscool": 5,
         "Luxio": 1,
         "Fuecoco": 2,
@@ -1602,8 +1602,8 @@
         "Dunsparce": 1,
         "Sigilyph": 1
       },
-      "total_spawns": 1226,
-      "last_spawn": "2026-06-27T18:01:47.467553"
+      "total_spawns": 1229,
+      "last_spawn": "2026-06-27T18:02:17.596441"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 32357,
+    "total_spawns": 32360,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
