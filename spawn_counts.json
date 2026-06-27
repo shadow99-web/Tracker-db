@@ -1170,7 +1170,7 @@
         "Flamigo": 2,
         "Aegislash": 1,
         "Inkay": 1,
-        "Fidough": 1,
+        "Fidough": 2,
         "Spritzee": 1,
         "Squawkabilly": 2,
         "Beldum": 6,
@@ -1362,10 +1362,11 @@
         "Mankey": 1,
         "Charmander": 1,
         "Shroomish": 1,
-        "Finizen": 1
+        "Finizen": 1,
+        "Croconaw": 1
       },
-      "total_spawns": 499,
-      "last_spawn": "2026-06-27T14:04:27.976378"
+      "total_spawns": 501,
+      "last_spawn": "2026-06-27T14:06:18.095375"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1375,7 +1376,7 @@
     }
   },
   "global": {
-    "total_spawns": 30992,
+    "total_spawns": 30994,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
