@@ -1188,7 +1188,7 @@
         "Frogadier": 2,
         "Gimmighoul": 4,
         "Mienshao": 1,
-        "Swinub": 4,
+        "Swinub": 5,
         "Rabsca": 3,
         "Floragato": 1,
         "Watchog": 1,
@@ -1250,7 +1250,7 @@
         "Gumshoos": 1,
         "Cherubi": 1,
         "Sizzlipede": 2,
-        "Chimchar": 2,
+        "Chimchar": 3,
         "Trash wormadam": 2,
         "Bramblin": 6,
         "Vulpix": 5,
@@ -1495,7 +1495,7 @@
         "Misdreavus": 2,
         "Chikorita": 1,
         "Armaldo": 1,
-        "Pawmi": 1,
+        "Pawmi": 2,
         "Wugtrio": 1,
         "Magneton": 1,
         "Toxel": 2,
@@ -1594,10 +1594,11 @@
         "Pansage": 1,
         "Glimmora": 1,
         "Cleffa": 1,
-        "Cradily": 1
+        "Cradily": 1,
+        "Thwackey": 1
       },
-      "total_spawns": 1214,
-      "last_spawn": "2026-06-27T17:59:47.697021"
+      "total_spawns": 1218,
+      "last_spawn": "2026-06-27T18:00:28.398509"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1607,7 +1608,7 @@
     }
   },
   "global": {
-    "total_spawns": 32345,
+    "total_spawns": 32349,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
