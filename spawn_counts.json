@@ -1388,10 +1388,13 @@
         "Shieldon": 1,
         "Piloswine": 2,
         "Archeops": 1,
-        "Gigalith": 1
+        "Gigalith": 2,
+        "Nuzleaf": 1,
+        "Geodude": 1,
+        "Gholdengo": 1
       },
-      "total_spawns": 564,
-      "last_spawn": "2026-06-27T14:16:07.803611"
+      "total_spawns": 568,
+      "last_spawn": "2026-06-27T14:16:47.506533"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1401,7 +1404,7 @@
     }
   },
   "global": {
-    "total_spawns": 31057,
+    "total_spawns": 31061,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
