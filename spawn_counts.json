@@ -1155,7 +1155,7 @@
         "Bergmite": 2,
         "Lairon": 1,
         "Impidimp": 8,
-        "Solosis": 1,
+        "Solosis": 2,
         "Brambleghast": 1,
         "Rellor": 2,
         "Nincada": 1,
@@ -1243,7 +1243,7 @@
         "Machamp": 1,
         "Sceptile": 1,
         "Shelgon": 1,
-        "Dratini": 2,
+        "Dratini": 3,
         "Coalossal": 1,
         "Gumshoos": 1,
         "Cherubi": 1,
@@ -1399,7 +1399,7 @@
         "Seadra": 1,
         "Seedot": 1,
         "Snivy": 1,
-        "Roselia": 1,
+        "Roselia": 2,
         "Totodile": 1,
         "Lunatone": 1,
         "Zigzagoon": 1,
@@ -1419,10 +1419,11 @@
         "Drifloon": 1,
         "Makuhita": 1,
         "Baltoy": 1,
-        "Nidoking": 1
+        "Nidoking": 1,
+        "Tentacool": 1
       },
-      "total_spawns": 628,
-      "last_spawn": "2026-06-27T14:26:17.429642"
+      "total_spawns": 632,
+      "last_spawn": "2026-06-27T14:26:47.605355"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1432,7 +1433,7 @@
     }
   },
   "global": {
-    "total_spawns": 31121,
+    "total_spawns": 31125,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
