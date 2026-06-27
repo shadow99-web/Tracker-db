@@ -1106,7 +1106,7 @@
         "Larvesta": 2,
         "Starly": 6,
         "Varoom": 9,
-        "Weedle": 9,
+        "Weedle": 10,
         "Chef dente": 7,
         "Hatenna": 9,
         "Dugtrio": 1,
@@ -1324,7 +1324,7 @@
         "Torterra": 1,
         "Blipbug": 3,
         "Zen darmanitan": 1,
-        "Duskull": 1,
+        "Duskull": 2,
         "Vigoroth": 1,
         "Seviper": 2,
         "Goomy": 1,
@@ -1339,7 +1339,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 3,
-        "Maschiff": 5,
+        "Maschiff": 6,
         "Sprigatito": 3,
         "Toedscool": 4,
         "Luxio": 1,
@@ -1424,7 +1424,7 @@
         "Servine": 2,
         "Grubbin": 3,
         "Clobbopus": 1,
-        "Bounsweet": 2,
+        "Bounsweet": 3,
         "Crawdaunt": 2,
         "Hoppip": 4,
         "Shroodle": 1,
@@ -1521,8 +1521,8 @@
         "Gloom": 1,
         "Grimer": 1
       },
-      "total_spawns": 914,
-      "last_spawn": "2026-06-27T15:18:47.697273"
+      "total_spawns": 918,
+      "last_spawn": "2026-06-27T15:19:26.695181"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1532,7 +1532,7 @@
     }
   },
   "global": {
-    "total_spawns": 31407,
+    "total_spawns": 31411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
