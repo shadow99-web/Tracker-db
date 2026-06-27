@@ -1097,7 +1097,7 @@
         "Barbaracle": 2,
         "Amoonguss": 1,
         "Mosslax": 11,
-        "Rookidee": 13,
+        "Rookidee": 14,
         "Roggenrola": 8,
         "Armarouge": 3,
         "Gastly": 9,
@@ -1131,7 +1131,7 @@
         "Teddiursa": 9,
         "Houndoom": 1,
         "Torracat": 2,
-        "Donphan": 4,
+        "Donphan": 5,
         "Froakie": 5,
         "Hawlucha": 1,
         "Feebas": 1,
@@ -1345,7 +1345,7 @@
         "Sprigatito": 4,
         "Toedscool": 5,
         "Luxio": 2,
-        "Fuecoco": 2,
+        "Fuecoco": 3,
         "Electrode": 1,
         "Chandelure": 1,
         "Wiglett": 7,
@@ -1383,7 +1383,7 @@
         "Caterpie": 4,
         "Dondozo": 5,
         "Tranquill": 4,
-        "Porygon": 6,
+        "Porygon": 7,
         "Wooloo": 2,
         "Oddish": 3,
         "Barraskewda": 1,
@@ -1399,7 +1399,7 @@
         "Skiddo": 2,
         "Spiritomb": 2,
         "Seadra": 1,
-        "Seedot": 3,
+        "Seedot": 4,
         "Snivy": 2,
         "Roselia": 2,
         "Totodile": 1,
@@ -1619,10 +1619,12 @@
         "Mudbray": 1,
         "Bombirdier": 1,
         "Haunter": 1,
-        "Pirouette meloetta": 1
+        "Pirouette meloetta": 1,
+        "Audino": 1,
+        "Infernape": 1
       },
-      "total_spawns": 1314,
-      "last_spawn": "2026-06-27T18:49:05.514292"
+      "total_spawns": 1321,
+      "last_spawn": "2026-06-27T18:49:37.505441"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1632,7 +1634,7 @@
     }
   },
   "global": {
-    "total_spawns": 32445,
+    "total_spawns": 32452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
