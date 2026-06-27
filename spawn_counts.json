@@ -1121,7 +1121,7 @@
         "Archen": 2,
         "Shinx": 8,
         "Pikachu": 3,
-        "Rhyhorn": 2,
+        "Rhyhorn": 3,
         "Tynamo": 6,
         "Tandemaus": 5,
         "Smearguru": 6,
@@ -1267,7 +1267,7 @@
         "Treecko": 4,
         "Veluza": 5,
         "Cyndaquil": 4,
-        "Zorua": 1,
+        "Zorua": 2,
         "Meganium": 1,
         "Toedscruel": 1,
         "Klawf": 2,
@@ -1538,10 +1538,11 @@
         "Braviary": 1,
         "Cubone": 1,
         "Stantler": 1,
-        "Rufflet": 1
+        "Rufflet": 1,
+        "Klang": 1
       },
-      "total_spawns": 982,
-      "last_spawn": "2026-06-27T15:29:47.597137"
+      "total_spawns": 985,
+      "last_spawn": "2026-06-27T15:30:17.602405"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1551,7 +1552,7 @@
     }
   },
   "global": {
-    "total_spawns": 31475,
+    "total_spawns": 31478,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
