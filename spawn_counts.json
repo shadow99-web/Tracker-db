@@ -1139,7 +1139,7 @@
         "Meowth": 2,
         "Dj rotom": 3,
         "Prof tangrowth": 4,
-        "Charcadet": 6,
+        "Charcadet": 7,
         "Furfrou": 1,
         "Slaking": 2,
         "Flittle": 6,
@@ -1162,7 +1162,7 @@
         "Wattrel": 2,
         "Entei": 1,
         "Flaaffy": 1,
-        "Pikipek": 2,
+        "Pikipek": 3,
         "Nacli": 3,
         "Grovyle": 1,
         "Wartortle": 1,
@@ -1370,10 +1370,12 @@
         "Tyrunt": 1,
         "Braixen": 1,
         "Revavroom": 1,
-        "Drowzee": 1
+        "Drowzee": 1,
+        "Huntail": 1,
+        "Vibrava": 1
       },
-      "total_spawns": 517,
-      "last_spawn": "2026-06-27T14:08:47.605959"
+      "total_spawns": 521,
+      "last_spawn": "2026-06-27T14:09:27.597101"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1383,7 +1385,7 @@
     }
   },
   "global": {
-    "total_spawns": 31010,
+    "total_spawns": 31014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
