@@ -1176,7 +1176,7 @@
         "Beldum": 7,
         "Whismur": 3,
         "Crabrawler": 2,
-        "Mudkip": 1,
+        "Mudkip": 2,
         "Greavard": 11,
         "Axew": 6,
         "Ride cyclizar": 2,
@@ -1545,10 +1545,12 @@
         "Bonsly": 1,
         "Porygon-z": 1,
         "Chewtle": 1,
-        "Aurorus": 1
+        "Aurorus": 1,
+        "Morelull": 1,
+        "White plumage squawkabilly": 1
       },
-      "total_spawns": 1019,
-      "last_spawn": "2026-06-27T15:35:48.010577"
+      "total_spawns": 1022,
+      "last_spawn": "2026-06-27T15:36:27.485201"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1558,7 +1560,7 @@
     }
   },
   "global": {
-    "total_spawns": 31512,
+    "total_spawns": 31515,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
