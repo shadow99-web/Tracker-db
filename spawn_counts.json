@@ -1139,7 +1139,7 @@
         "Meowth": 2,
         "Dj rotom": 5,
         "Prof tangrowth": 8,
-        "Charcadet": 9,
+        "Charcadet": 10,
         "Furfrou": 1,
         "Slaking": 2,
         "Flittle": 10,
@@ -1560,10 +1560,11 @@
         "Scyther": 1,
         "Drizzile": 1,
         "Orange flower florges": 1,
-        "Simisear": 1
+        "Simisear": 1,
+        "Milcery": 1
       },
-      "total_spawns": 1079,
-      "last_spawn": "2026-06-27T16:47:46.298392"
+      "total_spawns": 1081,
+      "last_spawn": "2026-06-27T16:48:25.206741"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1573,7 +1574,7 @@
     }
   },
   "global": {
-    "total_spawns": 31572,
+    "total_spawns": 31574,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
