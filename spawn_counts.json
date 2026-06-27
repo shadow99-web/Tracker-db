@@ -1167,7 +1167,7 @@
         "Grovyle": 1,
         "Wartortle": 1,
         "Amped toxtricity": 1,
-        "Flamigo": 2,
+        "Flamigo": 3,
         "Aegislash": 1,
         "Inkay": 1,
         "Fidough": 2,
@@ -1210,7 +1210,7 @@
         "Aron": 3,
         "Kabuto": 1,
         "Togetic": 2,
-        "Sewaddle": 1,
+        "Sewaddle": 2,
         "Eevee": 1,
         "Taillow": 2,
         "Pelipper": 1,
@@ -1366,10 +1366,11 @@
         "Croconaw": 1,
         "Bronzor": 1,
         "Eelektrik": 1,
-        "Ledyba": 1
+        "Ledyba": 1,
+        "Tyrunt": 1
       },
-      "total_spawns": 505,
-      "last_spawn": "2026-06-27T14:06:57.599102"
+      "total_spawns": 508,
+      "last_spawn": "2026-06-27T14:07:27.705976"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1379,7 +1380,7 @@
     }
   },
   "global": {
-    "total_spawns": 30998,
+    "total_spawns": 31001,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
