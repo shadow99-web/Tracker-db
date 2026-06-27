@@ -1392,7 +1392,7 @@
         "Archeops": 1,
         "Gigalith": 2,
         "Nuzleaf": 2,
-        "Geodude": 5,
+        "Geodude": 6,
         "Gholdengo": 1,
         "Dudunsparce": 1,
         "Whirlipede": 2,
@@ -1570,10 +1570,14 @@
         "Arrokuda": 1,
         "Palafin": 1,
         "Solrock": 1,
-        "Nosepass": 1
+        "Nosepass": 1,
+        "Exploud": 1,
+        "Stretchy tatsugiri": 1,
+        "Elgyem": 1,
+        "Yanma": 1
       },
-      "total_spawns": 1119,
-      "last_spawn": "2026-06-27T17:15:57.437392"
+      "total_spawns": 1124,
+      "last_spawn": "2026-06-27T17:16:27.504595"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1583,7 +1587,7 @@
     }
   },
   "global": {
-    "total_spawns": 32250,
+    "total_spawns": 32255,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
