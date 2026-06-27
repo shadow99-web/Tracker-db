@@ -1137,7 +1137,7 @@
         "Feebas": 1,
         "Lapras": 1,
         "Seismitoad": 2,
-        "Frigibax": 11,
+        "Frigibax": 12,
         "Meowth": 2,
         "Dj rotom": 5,
         "Prof tangrowth": 8,
@@ -1169,7 +1169,7 @@
         "Grovyle": 1,
         "Wartortle": 3,
         "Amped toxtricity": 1,
-        "Flamigo": 5,
+        "Flamigo": 6,
         "Aegislash": 1,
         "Inkay": 2,
         "Fidough": 6,
@@ -1595,10 +1595,12 @@
         "Glimmora": 1,
         "Cleffa": 1,
         "Cradily": 1,
-        "Thwackey": 1
+        "Thwackey": 1,
+        "Claydol": 1,
+        "Grimmsnarl": 1
       },
-      "total_spawns": 1218,
-      "last_spawn": "2026-06-27T18:00:28.398509"
+      "total_spawns": 1222,
+      "last_spawn": "2026-06-27T18:01:07.696691"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1608,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 32349,
+    "total_spawns": 32353,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
