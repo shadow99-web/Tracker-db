@@ -95,14 +95,14 @@
         "Hoppip": 102,
         "Sandslash": 7,
         "Kabuto": 29,
-        "Scatterbug": 121,
+        "Scatterbug": 122,
         "Pumpkaboo": 28,
         "Numel": 33,
         "Carracosta": 7,
         "Smearguru": 85,
         "Veluza": 116,
         "Barboach": 41,
-        "Klink": 83,
+        "Klink": 84,
         "Honedge": 111,
         "Wingull": 32,
         "Salamence": 3,
@@ -282,7 +282,7 @@
         "Crocalor": 31,
         "Cryogonal": 10,
         "Eternatus": 1,
-        "Gholdengo": 29,
+        "Gholdengo": 30,
         "Charmeleon": 12,
         "Dipplin": 2,
         "Cramorant": 7,
@@ -528,7 +528,7 @@
         "Chinchou": 21,
         "Maushold": 31,
         "Bastiodon": 4,
-        "Floatzel": 5,
+        "Floatzel": 6,
         "Accelgor": 4,
         "Wormadam": 7,
         "Axew": 96,
@@ -1073,8 +1073,8 @@
         "Fezandipiti": 1,
         "Hisuian braviary": 1
       },
-      "total_spawns": 24010,
-      "last_spawn": "2026-06-27T10:21:08.233437"
+      "total_spawns": 24014,
+      "last_spawn": "2026-06-27T10:21:42.400811"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1337,7 +1337,7 @@
     }
   },
   "global": {
-    "total_spawns": 28724,
+    "total_spawns": 28728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
