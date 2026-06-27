@@ -1116,7 +1116,7 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 3,
         "Hisuian voltorb": 1,
-        "Dreepy": 5,
+        "Dreepy": 6,
         "Bagon": 3,
         "Archen": 2,
         "Shinx": 7,
@@ -1456,7 +1456,7 @@
         "Pansear": 1,
         "Spheal": 1,
         "Espurr": 1,
-        "Poliwag": 2,
+        "Poliwag": 3,
         "Finneon": 2,
         "Starmie": 1,
         "Cufant": 2,
@@ -1499,14 +1499,15 @@
         "Toxel": 1,
         "Dachsbun": 1,
         "Cascoon": 1,
-        "Larvitar": 1,
+        "Larvitar": 2,
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
-        "Steelix": 1
+        "Steelix": 1,
+        "Avalugg": 1
       },
-      "total_spawns": 871,
-      "last_spawn": "2026-06-27T15:11:47.801864"
+      "total_spawns": 875,
+      "last_spawn": "2026-06-27T15:12:27.608057"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1516,7 +1517,7 @@
     }
   },
   "global": {
-    "total_spawns": 31364,
+    "total_spawns": 31368,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
