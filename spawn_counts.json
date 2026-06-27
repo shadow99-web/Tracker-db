@@ -1266,7 +1266,7 @@
         "Kirlia": 2,
         "Treecko": 2,
         "Veluza": 4,
-        "Cyndaquil": 1,
+        "Cyndaquil": 2,
         "Zorua": 1,
         "Meganium": 1,
         "Toedscruel": 1,
@@ -1288,7 +1288,7 @@
         "Darkrai": 1,
         "Growlithe": 1,
         "Nihilego": 1,
-        "Slakoth": 2,
+        "Slakoth": 3,
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 1,
@@ -1374,10 +1374,13 @@
         "Huntail": 1,
         "Vibrava": 1,
         "Slowbro": 1,
-        "Yamask": 1
+        "Yamask": 1,
+        "Tympole": 1,
+        "Barboach": 1,
+        "Carvanha": 1
       },
-      "total_spawns": 528,
-      "last_spawn": "2026-06-27T14:10:37.634624"
+      "total_spawns": 533,
+      "last_spawn": "2026-06-27T14:11:17.789691"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1387,7 +1390,7 @@
     }
   },
   "global": {
-    "total_spawns": 31021,
+    "total_spawns": 31026,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
