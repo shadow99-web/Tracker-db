@@ -1096,7 +1096,7 @@
         "Larvesta": 2,
         "Starly": 4,
         "Varoom": 5,
-        "Weedle": 5,
+        "Weedle": 6,
         "Chef dente": 2,
         "Hatenna": 2,
         "Dugtrio": 1,
@@ -1125,7 +1125,7 @@
         "Feebas": 1,
         "Lapras": 1,
         "Seismitoad": 1,
-        "Frigibax": 2,
+        "Frigibax": 3,
         "Meowth": 1,
         "Dj rotom": 3,
         "Prof tangrowth": 3,
@@ -1305,8 +1305,8 @@
         "Minccino": 1,
         "Togepi": 1
       },
-      "total_spawns": 384,
-      "last_spawn": "2026-06-27T02:28:07.773933"
+      "total_spawns": 386,
+      "last_spawn": "2026-06-27T02:30:45.357057"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1316,7 +1316,7 @@
     }
   },
   "global": {
-    "total_spawns": 28674,
+    "total_spawns": 28676,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
