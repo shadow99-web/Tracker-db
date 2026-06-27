@@ -1100,7 +1100,7 @@
         "Rookidee": 13,
         "Roggenrola": 7,
         "Armarouge": 2,
-        "Gastly": 8,
+        "Gastly": 9,
         "Scatterbug": 8,
         "Wurmple": 4,
         "Gothita": 15,
@@ -1125,7 +1125,7 @@
         "Pikachu": 4,
         "Rhyhorn": 3,
         "Tynamo": 6,
-        "Tandemaus": 5,
+        "Tandemaus": 6,
         "Smearguru": 6,
         "Magnemite": 9,
         "Teddiursa": 7,
@@ -1587,10 +1587,12 @@
         "Litleo": 1,
         "Pancham": 1,
         "Corvisquire": 1,
-        "Pupitar": 1
+        "Pupitar": 1,
+        "Dusclops": 1,
+        "Kleavor": 1
       },
-      "total_spawns": 1184,
-      "last_spawn": "2026-06-27T17:55:02.155869"
+      "total_spawns": 1188,
+      "last_spawn": "2026-06-27T17:55:37.761208"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1600,7 +1602,7 @@
     }
   },
   "global": {
-    "total_spawns": 32315,
+    "total_spawns": 32319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
