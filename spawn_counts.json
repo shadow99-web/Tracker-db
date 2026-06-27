@@ -1102,7 +1102,7 @@
         "Armarouge": 2,
         "Gastly": 9,
         "Scatterbug": 8,
-        "Wurmple": 4,
+        "Wurmple": 5,
         "Gothita": 15,
         "Gible": 8,
         "Larvesta": 2,
@@ -1274,7 +1274,7 @@
         "Toedscruel": 1,
         "Klawf": 4,
         "Grookey": 2,
-        "Gossifleur": 2,
+        "Gossifleur": 3,
         "Joltik": 1,
         "Summer deerling": 1,
         "Heliolisk": 1,
@@ -1332,7 +1332,7 @@
         "Goomy": 4,
         "Nickit": 1,
         "Sandshrew": 2,
-        "Tirtouga": 1,
+        "Tirtouga": 2,
         "Turtwig": 2,
         "Glimmet": 4,
         "Swadloon": 1,
@@ -1385,10 +1385,10 @@
         "Tranquill": 4,
         "Porygon": 6,
         "Wooloo": 2,
-        "Oddish": 2,
+        "Oddish": 3,
         "Barraskewda": 1,
         "Shieldon": 1,
-        "Piloswine": 2,
+        "Piloswine": 3,
         "Archeops": 1,
         "Gigalith": 2,
         "Nuzleaf": 2,
@@ -1619,8 +1619,8 @@
         "Mudbray": 1,
         "Bombirdier": 1
       },
-      "total_spawns": 1289,
-      "last_spawn": "2026-06-27T18:46:47.672772"
+      "total_spawns": 1294,
+      "last_spawn": "2026-06-27T18:47:22.767532"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 32420,
+    "total_spawns": 32425,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
