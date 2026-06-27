@@ -1294,7 +1294,7 @@
         "Cottonee": 1,
         "Horsea": 2,
         "Doduo": 1,
-        "Ivysaur": 1,
+        "Ivysaur": 2,
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
@@ -1319,7 +1319,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 1,
         "Typhlosion": 1,
-        "Honedge": 2,
+        "Honedge": 3,
         "Hisuian qwilfish": 1,
         "Torterra": 1,
         "Blipbug": 3,
@@ -1454,10 +1454,12 @@
         "Ninjask": 1,
         "Remoraid": 1,
         "Pansear": 1,
-        "Spheal": 1
+        "Spheal": 1,
+        "Espurr": 1,
+        "Poliwag": 1
       },
-      "total_spawns": 705,
-      "last_spawn": "2026-06-27T14:41:47.725844"
+      "total_spawns": 709,
+      "last_spawn": "2026-06-27T14:42:27.500598"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1467,7 +1469,7 @@
     }
   },
   "global": {
-    "total_spawns": 31198,
+    "total_spawns": 31202,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
