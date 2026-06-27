@@ -1146,7 +1146,7 @@
         "Slaking": 2,
         "Flittle": 10,
         "Salazzle": 1,
-        "Skitty": 2,
+        "Skitty": 3,
         "Fletchling": 3,
         "Orthworm": 6,
         "Woobat": 5,
@@ -1164,7 +1164,7 @@
         "Wattrel": 5,
         "Entei": 1,
         "Flaaffy": 2,
-        "Pikipek": 6,
+        "Pikipek": 7,
         "Nacli": 4,
         "Grovyle": 1,
         "Wartortle": 3,
@@ -1341,7 +1341,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 3,
-        "Maschiff": 7,
+        "Maschiff": 8,
         "Sprigatito": 4,
         "Toedscool": 5,
         "Luxio": 1,
@@ -1452,7 +1452,7 @@
         "Marshtomp": 2,
         "Lechonk": 3,
         "Roaming gimmighoul": 4,
-        "Breloom": 1,
+        "Breloom": 2,
         "Ninjask": 1,
         "Remoraid": 2,
         "Pansear": 1,
@@ -1602,10 +1602,11 @@
         "Dunsparce": 1,
         "Sigilyph": 1,
         "Chinchou": 1,
-        "Droopy tatsugiri": 1
+        "Droopy tatsugiri": 1,
+        "Feraligatr": 1
       },
-      "total_spawns": 1234,
-      "last_spawn": "2026-06-27T18:41:47.598732"
+      "total_spawns": 1239,
+      "last_spawn": "2026-06-27T18:42:18.075948"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1615,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 32365,
+    "total_spawns": 32370,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
