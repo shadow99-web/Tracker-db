@@ -1103,7 +1103,7 @@
         "Gastly": 8,
         "Scatterbug": 8,
         "Wurmple": 4,
-        "Gothita": 13,
+        "Gothita": 14,
         "Gible": 7,
         "Larvesta": 2,
         "Starly": 7,
@@ -1164,7 +1164,7 @@
         "Wattrel": 5,
         "Entei": 1,
         "Flaaffy": 2,
-        "Pikipek": 3,
+        "Pikipek": 4,
         "Nacli": 4,
         "Grovyle": 1,
         "Wartortle": 3,
@@ -1182,7 +1182,7 @@
         "Greavard": 11,
         "Axew": 7,
         "Ride cyclizar": 3,
-        "Trapinch": 2,
+        "Trapinch": 3,
         "Smoliv": 4,
         "Pawniard": 1,
         "Frogadier": 2,
@@ -1576,10 +1576,12 @@
         "Elgyem": 1,
         "Yanma": 1,
         "Gabite": 1,
-        "Meowscarada": 1
+        "Meowscarada": 1,
+        "Ceruledge": 1,
+        "Eelektross": 1
       },
-      "total_spawns": 1128,
-      "last_spawn": "2026-06-27T17:16:57.506042"
+      "total_spawns": 1133,
+      "last_spawn": "2026-06-27T17:17:27.794843"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1589,7 +1591,7 @@
     }
   },
   "global": {
-    "total_spawns": 32259,
+    "total_spawns": 32264,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
