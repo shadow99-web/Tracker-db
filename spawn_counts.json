@@ -1265,7 +1265,7 @@
         "Charizard": 1,
         "Kirlia": 2,
         "Treecko": 3,
-        "Veluza": 4,
+        "Veluza": 5,
         "Cyndaquil": 3,
         "Zorua": 1,
         "Meganium": 1,
@@ -1370,7 +1370,7 @@
         "Tyrunt": 1,
         "Braixen": 1,
         "Revavroom": 1,
-        "Drowzee": 1,
+        "Drowzee": 2,
         "Huntail": 1,
         "Vibrava": 2,
         "Slowbro": 1,
@@ -1409,10 +1409,11 @@
         "Capsakid": 1,
         "Venonat": 1,
         "Popplio": 1,
-        "Glameow": 1
+        "Glameow": 1,
+        "Boldore": 1
       },
-      "total_spawns": 601,
-      "last_spawn": "2026-06-27T14:22:07.560190"
+      "total_spawns": 604,
+      "last_spawn": "2026-06-27T14:22:37.595544"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1422,7 +1423,7 @@
     }
   },
   "global": {
-    "total_spawns": 31094,
+    "total_spawns": 31097,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
