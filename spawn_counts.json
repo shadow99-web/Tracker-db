@@ -1119,7 +1119,7 @@
         "Dreepy": 5,
         "Bagon": 3,
         "Archen": 2,
-        "Shinx": 6,
+        "Shinx": 7,
         "Pikachu": 3,
         "Rhyhorn": 2,
         "Tynamo": 4,
@@ -1424,7 +1424,7 @@
         "Servine": 2,
         "Grubbin": 2,
         "Clobbopus": 1,
-        "Bounsweet": 1,
+        "Bounsweet": 2,
         "Crawdaunt": 2,
         "Hoppip": 1,
         "Shroodle": 1,
@@ -1475,10 +1475,13 @@
         "Cyclizar": 1,
         "Castform": 1,
         "Shelmet": 1,
-        "Pyroar": 1
+        "Pyroar": 1,
+        "Tatsugiri": 1,
+        "Skwovet": 1,
+        "Stufful": 1
       },
-      "total_spawns": 781,
-      "last_spawn": "2026-06-27T14:54:17.545979"
+      "total_spawns": 786,
+      "last_spawn": "2026-06-27T14:54:47.596354"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1488,7 +1491,7 @@
     }
   },
   "global": {
-    "total_spawns": 31274,
+    "total_spawns": 31279,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
