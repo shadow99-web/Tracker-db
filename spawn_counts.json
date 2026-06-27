@@ -1102,11 +1102,11 @@
         "Scatterbug": 6,
         "Wurmple": 4,
         "Gothita": 12,
-        "Gible": 5,
+        "Gible": 6,
         "Larvesta": 2,
         "Starly": 6,
         "Varoom": 8,
-        "Weedle": 8,
+        "Weedle": 9,
         "Chef dente": 4,
         "Hatenna": 6,
         "Dugtrio": 1,
@@ -1329,7 +1329,7 @@
         "Seviper": 2,
         "Goomy": 1,
         "Nickit": 1,
-        "Sandshrew": 1,
+        "Sandshrew": 2,
         "Tirtouga": 1,
         "Turtwig": 1,
         "Glimmet": 3,
@@ -1406,7 +1406,7 @@
         "Timburr": 1,
         "Glalie": 1,
         "Magikarp": 1,
-        "Capsakid": 1,
+        "Capsakid": 2,
         "Venonat": 1,
         "Popplio": 1,
         "Glameow": 2,
@@ -1463,8 +1463,8 @@
         "Bellibolt": 1,
         "Hero palafin": 1
       },
-      "total_spawns": 725,
-      "last_spawn": "2026-06-27T14:45:01.097094"
+      "total_spawns": 729,
+      "last_spawn": "2026-06-27T14:45:37.594569"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1474,7 +1474,7 @@
     }
   },
   "global": {
-    "total_spawns": 31218,
+    "total_spawns": 31222,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
