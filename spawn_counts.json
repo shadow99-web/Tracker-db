@@ -1139,7 +1139,7 @@
         "Meowth": 2,
         "Dj rotom": 4,
         "Prof tangrowth": 4,
-        "Charcadet": 7,
+        "Charcadet": 8,
         "Furfrou": 1,
         "Slaking": 2,
         "Flittle": 7,
@@ -1307,7 +1307,7 @@
         "Sensu oricorio": 1,
         "Whiscash": 1,
         "Ursaring": 1,
-        "Staryu": 1,
+        "Staryu": 2,
         "Gallade": 1,
         "Rattata": 1,
         "Bellsprout": 1,
@@ -1372,7 +1372,7 @@
         "Revavroom": 1,
         "Drowzee": 1,
         "Huntail": 1,
-        "Vibrava": 1,
+        "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
         "Tympole": 1,
@@ -1386,10 +1386,11 @@
         "Oddish": 1,
         "Barraskewda": 1,
         "Shieldon": 1,
-        "Piloswine": 1
+        "Piloswine": 2,
+        "Archeops": 1
       },
-      "total_spawns": 555,
-      "last_spawn": "2026-06-27T14:14:58.805102"
+      "total_spawns": 560,
+      "last_spawn": "2026-06-27T14:15:29.095809"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1399,7 +1400,7 @@
     }
   },
   "global": {
-    "total_spawns": 31048,
+    "total_spawns": 31053,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
