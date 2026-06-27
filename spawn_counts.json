@@ -1108,7 +1108,7 @@
         "Varoom": 8,
         "Weedle": 9,
         "Chef dente": 5,
-        "Hatenna": 7,
+        "Hatenna": 8,
         "Dugtrio": 1,
         "Kadabra": 2,
         "Sandile": 9,
@@ -1487,10 +1487,12 @@
         "Illumise": 1,
         "Nidoqueen": 1,
         "Kingler": 1,
-        "Yamper": 1
+        "Yamper": 1,
+        "Swirlix": 1,
+        "Steenee": 1
       },
-      "total_spawns": 819,
-      "last_spawn": "2026-06-27T14:59:59.625871"
+      "total_spawns": 822,
+      "last_spawn": "2026-06-27T15:01:07.778391"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1500,7 +1502,7 @@
     }
   },
   "global": {
-    "total_spawns": 31312,
+    "total_spawns": 31315,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
