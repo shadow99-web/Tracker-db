@@ -1379,7 +1379,7 @@
         "Barboach": 1,
         "Carvanha": 1,
         "Caterpie": 1,
-        "Dondozo": 1,
+        "Dondozo": 2,
         "Tranquill": 1,
         "Porygon": 1,
         "Wooloo": 1,
@@ -1439,10 +1439,13 @@
         "Gligar": 1,
         "Deino": 1,
         "Dolliv": 1,
-        "Passimian": 1
+        "Passimian": 1,
+        "Shellos": 1,
+        "Articuno": 1,
+        "Surskit": 1
       },
-      "total_spawns": 668,
-      "last_spawn": "2026-06-27T14:32:47.705810"
+      "total_spawns": 672,
+      "last_spawn": "2026-06-27T14:33:17.775365"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1452,7 +1455,7 @@
     }
   },
   "global": {
-    "total_spawns": 31161,
+    "total_spawns": 31165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
