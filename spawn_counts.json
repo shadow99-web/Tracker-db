@@ -1131,7 +1131,7 @@
         "Prof tangrowth": 3,
         "Charcadet": 6,
         "Furfrou": 1,
-        "Slaking": 1,
+        "Slaking": 2,
         "Flittle": 6,
         "Salazzle": 1,
         "Skitty": 2,
@@ -1301,10 +1301,12 @@
         "Gallade": 1,
         "Rattata": 1,
         "Bellsprout": 1,
-        "Lickitung": 1
+        "Lickitung": 1,
+        "Minccino": 1,
+        "Togepi": 1
       },
-      "total_spawns": 379,
-      "last_spawn": "2026-06-27T02:25:57.878787"
+      "total_spawns": 382,
+      "last_spawn": "2026-06-27T02:26:57.597040"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1314,7 +1316,7 @@
     }
   },
   "global": {
-    "total_spawns": 28669,
+    "total_spawns": 28672,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
