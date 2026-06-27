@@ -1165,12 +1165,12 @@
         "Pikipek": 3,
         "Nacli": 4,
         "Grovyle": 1,
-        "Wartortle": 2,
+        "Wartortle": 3,
         "Amped toxtricity": 1,
         "Flamigo": 3,
         "Aegislash": 1,
         "Inkay": 2,
-        "Fidough": 3,
+        "Fidough": 4,
         "Spritzee": 3,
         "Squawkabilly": 2,
         "Beldum": 7,
@@ -1483,7 +1483,7 @@
         "Vanillish": 1,
         "Kilowattrel": 1,
         "Stunfisk": 1,
-        "Lycanroc": 1,
+        "Lycanroc": 2,
         "Illumise": 1,
         "Nidoqueen": 2,
         "Kingler": 1,
@@ -1505,10 +1505,12 @@
         "Zangoose": 1,
         "Steelix": 1,
         "Avalugg": 1,
-        "Yanmega": 1
+        "Yanmega": 1,
+        "Arcanine": 1,
+        "Vaporeon": 1
       },
-      "total_spawns": 878,
-      "last_spawn": "2026-06-27T15:12:57.997612"
+      "total_spawns": 883,
+      "last_spawn": "2026-06-27T15:13:37.601405"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1518,7 +1520,7 @@
     }
   },
   "global": {
-    "total_spawns": 31371,
+    "total_spawns": 31376,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
