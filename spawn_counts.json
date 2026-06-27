@@ -1317,7 +1317,7 @@
         "Minccino": 2,
         "Togepi": 2,
         "Milotic": 1,
-        "Plusle": 1,
+        "Plusle": 2,
         "Galarian corsola": 1,
         "Cryogonal": 1,
         "Typhlosion": 1,
@@ -1597,10 +1597,13 @@
         "Cradily": 1,
         "Thwackey": 1,
         "Claydol": 1,
-        "Grimmsnarl": 1
+        "Grimmsnarl": 1,
+        "Frosmoth": 1,
+        "Dunsparce": 1,
+        "Sigilyph": 1
       },
-      "total_spawns": 1222,
-      "last_spawn": "2026-06-27T18:01:07.696691"
+      "total_spawns": 1226,
+      "last_spawn": "2026-06-27T18:01:47.467553"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1610,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 32353,
+    "total_spawns": 32357,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
