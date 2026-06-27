@@ -1088,7 +1088,7 @@
         "Rookidee": 9,
         "Roggenrola": 5,
         "Armarouge": 2,
-        "Gastly": 4,
+        "Gastly": 5,
         "Scatterbug": 6,
         "Wurmple": 2,
         "Gothita": 9,
@@ -1308,10 +1308,11 @@
         "Plusle": 1,
         "Galarian corsola": 1,
         "Cryogonal": 1,
-        "Typhlosion": 1
+        "Typhlosion": 1,
+        "Honedge": 1
       },
-      "total_spawns": 397,
-      "last_spawn": "2026-06-27T02:41:47.431556"
+      "total_spawns": 399,
+      "last_spawn": "2026-06-27T02:42:17.496050"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1321,7 +1322,7 @@
     }
   },
   "global": {
-    "total_spawns": 28687,
+    "total_spawns": 28689,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
