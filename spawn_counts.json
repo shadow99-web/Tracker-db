@@ -1165,7 +1165,7 @@
         "Charcadet": 15,
         "Furfrou": 2,
         "Slaking": 2,
-        "Flittle": 11,
+        "Flittle": 12,
         "Salazzle": 1,
         "Skitty": 6,
         "Fletchling": 6,
@@ -1226,7 +1226,7 @@
         "Tarountula": 6,
         "Dottler": 1,
         "Paras": 1,
-        "Swablu": 6,
+        "Swablu": 7,
         "Darumaka": 2,
         "Wailmer": 1,
         "Jangmo-o": 8,
@@ -1700,7 +1700,7 @@
         "Dracovish": 1,
         "Salamence": 1,
         "Pincurchin": 1,
-        "Murkrow": 1,
+        "Murkrow": 2,
         "Ledian": 1,
         "Fletchinder": 2,
         "Fennekin": 2,
@@ -1743,10 +1743,11 @@
         "Wailord": 1,
         "White-striped basculin": 1,
         "Pangoro": 1,
-        "Bronzong": 1
+        "Bronzong": 1,
+        "Bouffalant": 1
       },
-      "total_spawns": 1897,
-      "last_spawn": "2026-06-28T13:09:17.600676"
+      "total_spawns": 1901,
+      "last_spawn": "2026-06-28T13:10:06.812105"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1756,7 +1757,7 @@
     }
   },
   "global": {
-    "total_spawns": 37302,
+    "total_spawns": 37306,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
