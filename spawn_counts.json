@@ -1273,7 +1273,7 @@
         "Sizzlipede": 2,
         "Chimchar": 5,
         "Trash wormadam": 2,
-        "Bramblin": 7,
+        "Bramblin": 8,
         "Vulpix": 7,
         "Hippowdon": 3,
         "Tinkatink": 6,
@@ -1693,7 +1693,7 @@
         "Vullaby": 1,
         "Drifblim": 1,
         "Druddigon": 1,
-        "Spewpa": 2,
+        "Spewpa": 3,
         "Silcoon": 1,
         "Snorlax": 1,
         "Sunny castform": 1,
@@ -1735,10 +1735,11 @@
         "Rhyperior": 1,
         "Farfetch'd": 1,
         "Vespiquen": 1,
-        "Crobat": 1
+        "Crobat": 1,
+        "Croagunk": 1
       },
-      "total_spawns": 1838,
-      "last_spawn": "2026-06-28T12:54:07.581561"
+      "total_spawns": 1841,
+      "last_spawn": "2026-06-28T12:54:37.828222"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1748,7 +1749,7 @@
     }
   },
   "global": {
-    "total_spawns": 37243,
+    "total_spawns": 37246,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
