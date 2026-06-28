@@ -1207,7 +1207,7 @@
         "Smoliv": 10,
         "Pawniard": 1,
         "Frogadier": 3,
-        "Gimmighoul": 6,
+        "Gimmighoul": 7,
         "Mienshao": 2,
         "Swinub": 14,
         "Rabsca": 4,
@@ -1764,10 +1764,12 @@
         "Primarina": 1,
         "Probopass": 1,
         "Decidueye": 1,
-        "Golurk": 1
+        "Golurk": 1,
+        "Scorbunny": 1,
+        "Nidorino": 1
       },
-      "total_spawns": 2073,
-      "last_spawn": "2026-06-28T13:34:27.543041"
+      "total_spawns": 2076,
+      "last_spawn": "2026-06-28T13:35:05.999461"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1777,7 +1779,7 @@
     }
   },
   "global": {
-    "total_spawns": 37478,
+    "total_spawns": 37481,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
