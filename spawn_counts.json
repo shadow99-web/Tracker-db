@@ -29,7 +29,7 @@
         "Charmander": 63,
         "Morelull": 26,
         "Abra": 144,
-        "Sandile": 144,
+        "Sandile": 145,
         "Sandygast": 41,
         "Litwick": 171,
         "Grubbin": 125,
@@ -39,7 +39,7 @@
         "Lotad": 173,
         "Qwilfish": 9,
         "Trapinch": 155,
-        "Toedscool": 126,
+        "Toedscool": 127,
         "Fletchling": 119,
         "Skiploom": 39,
         "Timburr": 139,
@@ -58,7 +58,7 @@
         "Whismur": 122,
         "Monferno": 34,
         "Skwovet": 39,
-        "Bramblin": 153,
+        "Bramblin": 154,
         "Yanma": 29,
         "Larvesta": 47,
         "Beldum": 98,
@@ -81,7 +81,7 @@
         "Amaura": 33,
         "Gimmighoul": 131,
         "Baltoy": 39,
-        "Mareep": 141,
+        "Mareep": 142,
         "Garbodor": 7,
         "Slakoth": 142,
         "Togepi": 127,
@@ -226,7 +226,7 @@
         "Ninetales": 12,
         "Wattrel": 137,
         "Snubbull": 34,
-        "Spidops": 29,
+        "Spidops": 30,
         "Braixen": 31,
         "Drowzee": 26,
         "Blipbug": 130,
@@ -350,7 +350,7 @@
         "Dwebble": 41,
         "Steenee": 37,
         "Darumaka": 37,
-        "Arboliva": 7,
+        "Arboliva": 8,
         "Ledyba": 39,
         "Spritzee": 33,
         "Swirlix": 33,
@@ -550,7 +550,7 @@
         "Zweilous": 22,
         "Karrablast": 28,
         "Shroomish": 38,
-        "Snover": 24,
+        "Snover": 25,
         "Drednaw": 5,
         "Skarmory": 9,
         "Midnight lycanroc": 7,
@@ -608,7 +608,7 @@
         "Turtonator": 8,
         "Hitmonlee": 8,
         "Houndstone": 14,
-        "Sandy wormadam": 6,
+        "Sandy wormadam": 7,
         "Stunky": 31,
         "Pupitar": 28,
         "Avalugg": 10,
@@ -625,7 +625,7 @@
         "Gardevoir": 7,
         "Malamar": 10,
         "Frost rotom": 4,
-        "Tatsugiri": 46,
+        "Tatsugiri": 47,
         "Nidorino": 26,
         "Wailmer": 37,
         "Krabby": 32,
@@ -739,7 +739,7 @@
         "Thievul": 8,
         "Greedent": 9,
         "Ekans": 35,
-        "Venonat": 27,
+        "Venonat": 28,
         "Pelipper": 11,
         "Metapod": 26,
         "Kricketune": 14,
@@ -748,7 +748,7 @@
         "Relicanth": 10,
         "Klefki": 7,
         "Frogadier": 42,
-        "Dewpider": 24,
+        "Dewpider": 25,
         "Poltchageist": 10,
         "Incineroar": 8,
         "Morpeko": 17,
@@ -789,7 +789,7 @@
         "Watchog": 8,
         "Ditto": 7,
         "Dada zarude": 1,
-        "Happiny": 4,
+        "Happiny": 5,
         "Matron trim furfrou": 1,
         "Gothitelle": 11,
         "Dusclops": 25,
@@ -1103,8 +1103,8 @@
         "Perrserker": 1,
         "Cosmoem": 1
       },
-      "total_spawns": 30075,
-      "last_spawn": "2026-06-28T06:32:25.308547"
+      "total_spawns": 30087,
+      "last_spawn": "2026-06-28T06:32:55.400503"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1123,7 +1123,7 @@
         "Wurmple": 5,
         "Gothita": 16,
         "Gible": 9,
-        "Larvesta": 3,
+        "Larvesta": 4,
         "Starly": 9,
         "Varoom": 13,
         "Weedle": 14,
@@ -1683,10 +1683,12 @@
         "Snom": 1,
         "Skuntank": 1,
         "Galarian ponyta": 1,
-        "Escavalier": 1
+        "Escavalier": 1,
+        "Dusknoir": 1,
+        "Cacnea": 1
       },
-      "total_spawns": 1520,
-      "last_spawn": "2026-06-28T06:18:45.302323"
+      "total_spawns": 1523,
+      "last_spawn": "2026-06-28T06:32:47.695712"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1696,7 +1698,7 @@
     }
   },
   "global": {
-    "total_spawns": 35882,
+    "total_spawns": 35897,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
