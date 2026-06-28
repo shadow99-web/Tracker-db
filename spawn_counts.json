@@ -1145,7 +1145,7 @@
         "Shinx": 15,
         "Pikachu": 4,
         "Rhyhorn": 6,
-        "Tynamo": 11,
+        "Tynamo": 12,
         "Tandemaus": 9,
         "Smearguru": 10,
         "Magnemite": 14,
@@ -1421,7 +1421,7 @@
         "Spiritomb": 3,
         "Seadra": 1,
         "Seedot": 9,
-        "Snivy": 3,
+        "Snivy": 4,
         "Roselia": 4,
         "Totodile": 2,
         "Lunatone": 2,
@@ -1609,7 +1609,7 @@
         "Pancham": 1,
         "Corvisquire": 3,
         "Pupitar": 2,
-        "Dusclops": 2,
+        "Dusclops": 3,
         "Kleavor": 1,
         "Trumbeak": 1,
         "Pansage": 1,
@@ -1765,12 +1765,12 @@
         "Probopass": 1,
         "Decidueye": 1,
         "Golurk": 1,
-        "Scorbunny": 1,
+        "Scorbunny": 2,
         "Nidorino": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 2090,
-      "last_spawn": "2026-06-28T13:37:17.598814"
+      "total_spawns": 2094,
+      "last_spawn": "2026-06-28T13:37:57.627739"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1780,7 +1780,7 @@
     }
   },
   "global": {
-    "total_spawns": 37495,
+    "total_spawns": 37499,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
