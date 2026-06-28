@@ -1568,7 +1568,7 @@
         "Alomomola": 1,
         "Skorupi": 1,
         "Arrokuda": 1,
-        "Palafin": 1,
+        "Palafin": 2,
         "Solrock": 1,
         "Nosepass": 3,
         "Exploud": 1,
@@ -1644,10 +1644,11 @@
         "Tepig": 1,
         "Venomoth": 1,
         "Goldeen": 1,
-        "Pinsir": 1
+        "Pinsir": 1,
+        "Bisharp": 1
       },
-      "total_spawns": 1434,
-      "last_spawn": "2026-06-28T01:13:08.560835"
+      "total_spawns": 1436,
+      "last_spawn": "2026-06-28T01:20:05.800630"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1657,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 32565,
+    "total_spawns": 32567,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
