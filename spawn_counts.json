@@ -1497,7 +1497,7 @@
         "Armaldo": 1,
         "Pawmi": 2,
         "Wugtrio": 1,
-        "Magneton": 1,
+        "Magneton": 2,
         "Toxel": 3,
         "Dachsbun": 2,
         "Cascoon": 2,
@@ -1647,8 +1647,8 @@
         "Pinsir": 1,
         "Bisharp": 1
       },
-      "total_spawns": 1436,
-      "last_spawn": "2026-06-28T01:20:05.800630"
+      "total_spawns": 1437,
+      "last_spawn": "2026-06-28T01:29:49.281070"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1658,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 32567,
+    "total_spawns": 32568,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
