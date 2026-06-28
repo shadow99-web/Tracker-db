@@ -1385,7 +1385,7 @@
         "Mankey": 3,
         "Charmander": 2,
         "Shroomish": 2,
-        "Finizen": 6,
+        "Finizen": 7,
         "Croconaw": 1,
         "Bronzor": 3,
         "Eelektrik": 1,
@@ -1479,7 +1479,7 @@
         "Pansear": 1,
         "Spheal": 4,
         "Espurr": 1,
-        "Poliwag": 7,
+        "Poliwag": 8,
         "Finneon": 3,
         "Starmie": 3,
         "Cufant": 2,
@@ -1768,10 +1768,11 @@
         "Scorbunny": 2,
         "Nidorino": 1,
         "Ludicolo": 1,
-        "Orbeetle": 2
+        "Orbeetle": 2,
+        "Simipour": 1
       },
-      "total_spawns": 2113,
-      "last_spawn": "2026-06-28T13:40:57.429332"
+      "total_spawns": 2116,
+      "last_spawn": "2026-06-28T13:41:27.497597"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1781,7 +1782,7 @@
     }
   },
   "global": {
-    "total_spawns": 37518,
+    "total_spawns": 37521,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
