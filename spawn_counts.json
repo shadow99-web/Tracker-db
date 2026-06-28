@@ -1155,7 +1155,7 @@
         "Donphan": 5,
         "Froakie": 7,
         "Hawlucha": 1,
-        "Feebas": 1,
+        "Feebas": 2,
         "Lapras": 3,
         "Seismitoad": 2,
         "Frigibax": 14,
@@ -1168,7 +1168,7 @@
         "Flittle": 13,
         "Salazzle": 1,
         "Skitty": 6,
-        "Fletchling": 6,
+        "Fletchling": 7,
         "Orthworm": 10,
         "Woobat": 5,
         "Happiny": 1,
@@ -1177,12 +1177,12 @@
         "Blue plumage squawkabilly": 1,
         "Bergmite": 3,
         "Lairon": 2,
-        "Impidimp": 11,
+        "Impidimp": 12,
         "Solosis": 8,
         "Brambleghast": 1,
         "Rellor": 8,
         "Nincada": 3,
-        "Wattrel": 7,
+        "Wattrel": 8,
         "Entei": 1,
         "Flaaffy": 4,
         "Pikipek": 9,
@@ -1273,7 +1273,7 @@
         "Sizzlipede": 2,
         "Chimchar": 5,
         "Trash wormadam": 2,
-        "Bramblin": 8,
+        "Bramblin": 9,
         "Vulpix": 7,
         "Hippowdon": 3,
         "Tinkatink": 6,
@@ -1355,7 +1355,7 @@
         "Sandshrew": 4,
         "Tirtouga": 3,
         "Turtwig": 2,
-        "Glimmet": 8,
+        "Glimmet": 9,
         "Swadloon": 1,
         "Purrloin": 6,
         "Golem": 1,
@@ -1763,8 +1763,8 @@
         "Lucario": 1,
         "Primarina": 1
       },
-      "total_spawns": 1994,
-      "last_spawn": "2026-06-28T13:21:57.631748"
+      "total_spawns": 2000,
+      "last_spawn": "2026-06-28T13:22:37.414497"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1774,7 +1774,7 @@
     }
   },
   "global": {
-    "total_spawns": 37399,
+    "total_spawns": 37405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
