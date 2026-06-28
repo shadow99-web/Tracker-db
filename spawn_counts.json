@@ -1216,7 +1216,7 @@
         "Boltund": 1,
         "Lillipup": 10,
         "Ducklett": 4,
-        "Mareep": 8,
+        "Mareep": 9,
         "Tadbulb": 7,
         "Helioptile": 2,
         "Blitzle": 5,
@@ -1332,7 +1332,7 @@
         "Ursaring": 4,
         "Staryu": 4,
         "Gallade": 1,
-        "Rattata": 4,
+        "Rattata": 5,
         "Bellsprout": 4,
         "Lickitung": 4,
         "Minccino": 6,
@@ -1750,10 +1750,12 @@
         "Noctowl": 1,
         "Foongus": 1,
         "Klefki": 1,
-        "Haxorus": 1
+        "Haxorus": 1,
+        "Slurpuff": 1,
+        "Rockruff": 1
       },
-      "total_spawns": 1932,
-      "last_spawn": "2026-06-28T13:14:47.501037"
+      "total_spawns": 1936,
+      "last_spawn": "2026-06-28T13:15:18.196864"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1763,7 +1765,7 @@
     }
   },
   "global": {
-    "total_spawns": 37337,
+    "total_spawns": 37341,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
