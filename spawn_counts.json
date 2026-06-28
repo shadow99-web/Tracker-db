@@ -1148,7 +1148,7 @@
         "Tynamo": 11,
         "Tandemaus": 9,
         "Smearguru": 10,
-        "Magnemite": 13,
+        "Magnemite": 14,
         "Teddiursa": 11,
         "Houndoom": 1,
         "Torracat": 2,
@@ -1158,7 +1158,7 @@
         "Feebas": 2,
         "Lapras": 3,
         "Seismitoad": 2,
-        "Frigibax": 14,
+        "Frigibax": 15,
         "Meowth": 6,
         "Dj rotom": 9,
         "Prof tangrowth": 11,
@@ -1251,10 +1251,10 @@
         "Absol": 2,
         "Inteleon": 3,
         "Mimikyu": 1,
-        "Silicobra": 2,
+        "Silicobra": 3,
         "Dartrix": 2,
         "Scraggy": 3,
-        "Mabosstiff": 3,
+        "Mabosstiff": 4,
         "Lileep": 2,
         "Cetoddle": 12,
         "Chespin": 2,
@@ -1766,8 +1766,8 @@
         "Decidueye": 1,
         "Golurk": 1
       },
-      "total_spawns": 2048,
-      "last_spawn": "2026-06-28T13:30:26.803764"
+      "total_spawns": 2052,
+      "last_spawn": "2026-06-28T13:30:57.707939"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1777,7 +1777,7 @@
     }
   },
   "global": {
-    "total_spawns": 37453,
+    "total_spawns": 37457,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
