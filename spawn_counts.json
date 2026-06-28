@@ -1169,7 +1169,7 @@
         "Salazzle": 1,
         "Skitty": 4,
         "Fletchling": 5,
-        "Orthworm": 9,
+        "Orthworm": 10,
         "Woobat": 5,
         "Happiny": 1,
         "Squirtle": 5,
@@ -1411,7 +1411,7 @@
         "Shieldon": 1,
         "Piloswine": 3,
         "Archeops": 1,
-        "Gigalith": 2,
+        "Gigalith": 3,
         "Nuzleaf": 2,
         "Geodude": 11,
         "Gholdengo": 2,
@@ -1588,7 +1588,7 @@
         "Petilil": 2,
         "Alomomola": 2,
         "Skorupi": 1,
-        "Arrokuda": 1,
+        "Arrokuda": 2,
         "Palafin": 2,
         "Solrock": 1,
         "Nosepass": 3,
@@ -1720,8 +1720,8 @@
         "Drapion": 1,
         "Venusaur": 1
       },
-      "total_spawns": 1724,
-      "last_spawn": "2026-06-28T12:35:57.597264"
+      "total_spawns": 1727,
+      "last_spawn": "2026-06-28T12:36:27.634846"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1731,7 +1731,7 @@
     }
   },
   "global": {
-    "total_spawns": 37129,
+    "total_spawns": 37132,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
