@@ -1279,7 +1279,7 @@
         "Summer deerling": 1,
         "Heliolisk": 1,
         "Raboot": 2,
-        "Vanillite": 3,
+        "Vanillite": 4,
         "Krabby": 1,
         "Clefable": 1,
         "Durant": 1,
@@ -1557,7 +1557,7 @@
         "Oinkologne": 1,
         "Dragonair": 2,
         "Hippopotas": 1,
-        "Nymble": 2,
+        "Nymble": 3,
         "Phanpy": 1,
         "Scyther": 1,
         "Drizzile": 1,
@@ -1646,8 +1646,8 @@
         "Goldeen": 1,
         "Pinsir": 1
       },
-      "total_spawns": 1425,
-      "last_spawn": "2026-06-28T01:09:42.608272"
+      "total_spawns": 1427,
+      "last_spawn": "2026-06-28T01:10:22.704883"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1657,7 +1657,7 @@
     }
   },
   "global": {
-    "total_spawns": 32556,
+    "total_spawns": 32558,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
