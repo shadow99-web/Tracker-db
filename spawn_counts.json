@@ -120,7 +120,7 @@
         "Yamask": 35,
         "Ralts": 122,
         "Solosis": 127,
-        "Battle cyclizar": 55,
+        "Battle cyclizar": 56,
         "Togetic": 44,
         "Palpitoad": 26,
         "Pikipek": 155,
@@ -136,7 +136,7 @@
         "Toxicroak": 9,
         "Charcadet": 159,
         "Croconaw": 32,
-        "Phanpy": 22,
+        "Phanpy": 23,
         "Brambleghast": 43,
         "Pidgey": 160,
         "Rhyhorn": 144,
@@ -210,7 +210,7 @@
         "Aipom": 37,
         "Growlithe": 36,
         "Sewaddle": 150,
-        "Fidough": 94,
+        "Fidough": 95,
         "Noivern": 5,
         "Feraligatr": 8,
         "Tynamo": 144,
@@ -267,7 +267,7 @@
         "Vibrava": 44,
         "Loudred": 48,
         "Ceruledge": 38,
-        "Houndour": 31,
+        "Houndour": 32,
         "Glimmet": 144,
         "Goomy": 89,
         "Zapdos": 1,
@@ -548,7 +548,7 @@
         "Krokorok": 35,
         "Dragonair": 26,
         "Zweilous": 22,
-        "Karrablast": 30,
+        "Karrablast": 31,
         "Shroomish": 38,
         "Snover": 25,
         "Drednaw": 5,
@@ -746,7 +746,7 @@
         "Nidoqueen": 6,
         "Hitmonchan": 3,
         "Relicanth": 10,
-        "Klefki": 7,
+        "Klefki": 8,
         "Frogadier": 44,
         "Dewpider": 26,
         "Poltchageist": 10,
@@ -850,7 +850,7 @@
         "Quagsire": 5,
         "Darkrai": 2,
         "Togedemaru": 8,
-        "Minior": 7,
+        "Minior": 8,
         "Mr. mime": 7,
         "Chesnaught": 6,
         "Jumpluff": 7,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31064,
-      "last_spawn": "2026-06-28T09:46:15.195203"
+      "total_spawns": 31071,
+      "last_spawn": "2026-06-28T09:46:50.103125"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1714,7 +1714,7 @@
     }
   },
   "global": {
-    "total_spawns": 36951,
+    "total_spawns": 36958,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
