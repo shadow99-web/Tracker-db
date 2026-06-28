@@ -1223,7 +1223,7 @@
         "Pidove": 10,
         "Doublade": 1,
         "Quilava": 3,
-        "Tarountula": 6,
+        "Tarountula": 7,
         "Dottler": 1,
         "Paras": 1,
         "Swablu": 7,
@@ -1306,7 +1306,7 @@
         "Durant": 2,
         "Pidgeotto": 2,
         "Maushold": 2,
-        "Dewpider": 1,
+        "Dewpider": 2,
         "Sobble": 1,
         "Darkrai": 1,
         "Growlithe": 3,
@@ -1397,7 +1397,7 @@
         "Huntail": 1,
         "Vibrava": 2,
         "Slowbro": 1,
-        "Yamask": 2,
+        "Yamask": 3,
         "Tympole": 14,
         "Barboach": 2,
         "Carvanha": 2,
@@ -1420,7 +1420,7 @@
         "Skiddo": 2,
         "Spiritomb": 3,
         "Seadra": 1,
-        "Seedot": 8,
+        "Seedot": 9,
         "Snivy": 3,
         "Roselia": 3,
         "Totodile": 2,
@@ -1730,7 +1730,7 @@
         "Sunkern": 1,
         "Heracross": 1,
         "Munna": 1,
-        "Pineco": 1,
+        "Pineco": 2,
         "Spearow": 3,
         "Rhyperior": 1,
         "Farfetch'd": 1,
@@ -1758,10 +1758,11 @@
         "Binacle": 1,
         "Mudsdale": 1,
         "Aipom": 1,
-        "Dragapult": 1
+        "Dragapult": 1,
+        "Morgrem": 1
       },
-      "total_spawns": 1982,
-      "last_spawn": "2026-06-28T13:20:37.802503"
+      "total_spawns": 1988,
+      "last_spawn": "2026-06-28T13:21:17.709039"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1771,7 +1772,7 @@
     }
   },
   "global": {
-    "total_spawns": 37387,
+    "total_spawns": 37393,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
