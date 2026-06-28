@@ -1128,7 +1128,7 @@
         "Gible": 10,
         "Larvesta": 4,
         "Starly": 11,
-        "Varoom": 15,
+        "Varoom": 16,
         "Weedle": 15,
         "Chef dente": 9,
         "Hatenna": 14,
@@ -1149,7 +1149,7 @@
         "Tandemaus": 9,
         "Smearguru": 9,
         "Magnemite": 12,
-        "Teddiursa": 10,
+        "Teddiursa": 11,
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 5,
@@ -1162,7 +1162,7 @@
         "Meowth": 5,
         "Dj rotom": 8,
         "Prof tangrowth": 11,
-        "Charcadet": 13,
+        "Charcadet": 14,
         "Furfrou": 2,
         "Slaking": 2,
         "Flittle": 10,
@@ -1408,7 +1408,7 @@
         "Wooloo": 4,
         "Oddish": 6,
         "Barraskewda": 1,
-        "Shieldon": 1,
+        "Shieldon": 2,
         "Piloswine": 3,
         "Archeops": 1,
         "Gigalith": 3,
@@ -1737,8 +1737,8 @@
         "Vespiquen": 1,
         "Crobat": 1
       },
-      "total_spawns": 1819,
-      "last_spawn": "2026-06-28T12:51:10.408075"
+      "total_spawns": 1823,
+      "last_spawn": "2026-06-28T12:51:47.476297"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1748,7 +1748,7 @@
     }
   },
   "global": {
-    "total_spawns": 37224,
+    "total_spawns": 37228,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
