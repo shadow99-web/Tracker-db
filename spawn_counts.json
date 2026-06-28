@@ -1234,7 +1234,7 @@
         "Kabuto": 3,
         "Togetic": 3,
         "Sewaddle": 6,
-        "Eevee": 1,
+        "Eevee": 2,
         "Taillow": 2,
         "Pelipper": 1,
         "Hattrem": 2,
@@ -1293,7 +1293,7 @@
         "Zorua": 3,
         "Meganium": 1,
         "Toedscruel": 1,
-        "Klawf": 6,
+        "Klawf": 7,
         "Grookey": 2,
         "Gossifleur": 4,
         "Joltik": 4,
@@ -1353,7 +1353,7 @@
         "Goomy": 5,
         "Nickit": 1,
         "Sandshrew": 2,
-        "Tirtouga": 2,
+        "Tirtouga": 3,
         "Turtwig": 2,
         "Glimmet": 8,
         "Swadloon": 1,
@@ -1720,10 +1720,11 @@
         "Drapion": 1,
         "Venusaur": 1,
         "Poliwrath": 1,
-        "Pharaoh trim furfrou": 1
+        "Pharaoh trim furfrou": 1,
+        "Chansey": 1
       },
-      "total_spawns": 1734,
-      "last_spawn": "2026-06-28T12:37:37.716327"
+      "total_spawns": 1738,
+      "last_spawn": "2026-06-28T12:38:17.403027"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1733,7 +1734,7 @@
     }
   },
   "global": {
-    "total_spawns": 37139,
+    "total_spawns": 37143,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
