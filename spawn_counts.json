@@ -1177,7 +1177,7 @@
         "Blue plumage squawkabilly": 1,
         "Bergmite": 3,
         "Lairon": 2,
-        "Impidimp": 10,
+        "Impidimp": 11,
         "Solosis": 7,
         "Brambleghast": 1,
         "Rellor": 8,
@@ -1402,13 +1402,13 @@
         "Barboach": 1,
         "Carvanha": 2,
         "Caterpie": 6,
-        "Dondozo": 8,
+        "Dondozo": 9,
         "Tranquill": 4,
         "Porygon": 9,
         "Wooloo": 4,
         "Oddish": 6,
         "Barraskewda": 1,
-        "Shieldon": 2,
+        "Shieldon": 3,
         "Piloswine": 3,
         "Archeops": 1,
         "Gigalith": 3,
@@ -1554,7 +1554,7 @@
         "Anorith": 4,
         "Carkol": 2,
         "Seaking": 2,
-        "Quaxly": 3,
+        "Quaxly": 4,
         "Golbat": 4,
         "Beautifly": 1,
         "Houndstone": 3,
@@ -1608,7 +1608,7 @@
         "Litleo": 1,
         "Pancham": 1,
         "Corvisquire": 3,
-        "Pupitar": 1,
+        "Pupitar": 2,
         "Dusclops": 1,
         "Kleavor": 1,
         "Trumbeak": 1,
@@ -1741,8 +1741,8 @@
         "Wimpod": 1,
         "Drampa": 1
       },
-      "total_spawns": 1872,
-      "last_spawn": "2026-06-28T13:00:08.677479"
+      "total_spawns": 1877,
+      "last_spawn": "2026-06-28T13:00:47.445406"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1752,7 +1752,7 @@
     }
   },
   "global": {
-    "total_spawns": 37277,
+    "total_spawns": 37282,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
