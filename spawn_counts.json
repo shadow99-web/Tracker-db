@@ -1169,7 +1169,7 @@
         "Salazzle": 1,
         "Skitty": 4,
         "Fletchling": 5,
-        "Orthworm": 7,
+        "Orthworm": 8,
         "Woobat": 5,
         "Happiny": 1,
         "Squirtle": 5,
@@ -1276,7 +1276,7 @@
         "Bramblin": 7,
         "Vulpix": 7,
         "Hippowdon": 3,
-        "Tinkatink": 5,
+        "Tinkatink": 6,
         "Jumpluff": 1,
         "Rolycoly": 5,
         "Iron treads": 1,
@@ -1538,7 +1538,7 @@
         "Pignite": 2,
         "Ferroseed": 1,
         "Grafaiai": 4,
-        "Tangela": 2,
+        "Tangela": 3,
         "Palpitoad": 1,
         "Tyrogue": 1,
         "Gloom": 2,
@@ -1707,10 +1707,11 @@
         "Omanyte": 1,
         "Swampert": 1,
         "Snorunt": 1,
-        "Poochyena": 1
+        "Poochyena": 1,
+        "Gothitelle": 1
       },
-      "total_spawns": 1653,
-      "last_spawn": "2026-06-28T10:33:48.019661"
+      "total_spawns": 1657,
+      "last_spawn": "2026-06-28T10:34:27.437975"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1720,7 +1721,7 @@
     }
   },
   "global": {
-    "total_spawns": 37058,
+    "total_spawns": 37062,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
