@@ -1118,7 +1118,7 @@
         "Barbaracle": 2,
         "Amoonguss": 2,
         "Mosslax": 13,
-        "Rookidee": 17,
+        "Rookidee": 18,
         "Roggenrola": 12,
         "Armarouge": 4,
         "Gastly": 12,
@@ -1145,7 +1145,7 @@
         "Shinx": 16,
         "Pikachu": 4,
         "Rhyhorn": 6,
-        "Tynamo": 12,
+        "Tynamo": 13,
         "Tandemaus": 9,
         "Smearguru": 10,
         "Magnemite": 14,
@@ -1206,7 +1206,7 @@
         "Trapinch": 6,
         "Smoliv": 10,
         "Pawniard": 1,
-        "Frogadier": 3,
+        "Frogadier": 4,
         "Gimmighoul": 8,
         "Mienshao": 2,
         "Swinub": 14,
@@ -1770,10 +1770,11 @@
         "Ludicolo": 1,
         "Orbeetle": 2,
         "Simipour": 1,
-        "Natu": 1
+        "Natu": 1,
+        "Bastiodon": 1
       },
-      "total_spawns": 2169,
-      "last_spawn": "2026-06-28T15:45:01.455695"
+      "total_spawns": 2173,
+      "last_spawn": "2026-06-28T15:45:37.602691"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1783,7 +1784,7 @@
     }
   },
   "global": {
-    "total_spawns": 37574,
+    "total_spawns": 37578,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
