@@ -1270,7 +1270,7 @@
         "Coalossal": 1,
         "Gumshoos": 2,
         "Cherubi": 1,
-        "Sizzlipede": 2,
+        "Sizzlipede": 3,
         "Chimchar": 5,
         "Trash wormadam": 2,
         "Bramblin": 9,
@@ -1369,7 +1369,7 @@
         "Fuecoco": 6,
         "Electrode": 1,
         "Chandelure": 2,
-        "Wiglett": 9,
+        "Wiglett": 10,
         "Farigiraf": 2,
         "Zubat": 7,
         "Lotad": 4,
@@ -1578,7 +1578,7 @@
         "Oinkologne": 1,
         "Dragonair": 2,
         "Hippopotas": 1,
-        "Nymble": 6,
+        "Nymble": 7,
         "Phanpy": 1,
         "Scyther": 2,
         "Drizzile": 1,
@@ -1771,8 +1771,8 @@
         "Orbeetle": 2,
         "Simipour": 1
       },
-      "total_spawns": 2131,
-      "last_spawn": "2026-06-28T13:45:27.458893"
+      "total_spawns": 2134,
+      "last_spawn": "2026-06-28T13:45:57.750488"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1782,7 +1782,7 @@
     }
   },
   "global": {
-    "total_spawns": 37536,
+    "total_spawns": 37539,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
