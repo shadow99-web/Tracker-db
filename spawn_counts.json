@@ -12,7 +12,7 @@
         "Rellor": 129,
         "Sandy burmy": 18,
         "Wiglett": 121,
-        "Bombirdier": 123,
+        "Bombirdier": 124,
         "Litleo": 31,
         "Purrloin": 26,
         "Tranquill": 29,
@@ -166,7 +166,7 @@
         "Kakuna": 34,
         "Weepinbell": 28,
         "Klawf": 151,
-        "Vanillite": 126,
+        "Vanillite": 127,
         "Flareon": 11,
         "Gastly": 126,
         "Taillow": 30,
@@ -353,7 +353,7 @@
         "Arboliva": 7,
         "Ledyba": 39,
         "Spritzee": 33,
-        "Swirlix": 32,
+        "Swirlix": 33,
         "Aromatisse": 7,
         "Muk": 9,
         "Toxel": 33,
@@ -1103,8 +1103,8 @@
         "Perrserker": 1,
         "Cosmoem": 1
       },
-      "total_spawns": 29857,
-      "last_spawn": "2026-06-28T05:51:09.922987"
+      "total_spawns": 29860,
+      "last_spawn": "2026-06-28T05:51:15.403923"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1682,10 +1682,11 @@
         "Garbodor": 1,
         "Snom": 1,
         "Skuntank": 1,
-        "Galarian ponyta": 1
+        "Galarian ponyta": 1,
+        "Escavalier": 1
       },
-      "total_spawns": 1512,
-      "last_spawn": "2026-06-28T05:50:21.714321"
+      "total_spawns": 1513,
+      "last_spawn": "2026-06-28T05:55:21.977801"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1695,7 +1696,7 @@
     }
   },
   "global": {
-    "total_spawns": 35656,
+    "total_spawns": 35660,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
