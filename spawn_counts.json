@@ -1234,7 +1234,7 @@
         "Kabuto": 3,
         "Togetic": 4,
         "Sewaddle": 13,
-        "Eevee": 2,
+        "Eevee": 3,
         "Taillow": 2,
         "Pelipper": 1,
         "Hattrem": 2,
@@ -1402,7 +1402,7 @@
         "Barboach": 3,
         "Carvanha": 2,
         "Caterpie": 6,
-        "Dondozo": 11,
+        "Dondozo": 12,
         "Tranquill": 4,
         "Porygon": 11,
         "Wooloo": 4,
@@ -1776,10 +1776,11 @@
         "Electrike": 1,
         "Houndour": 1,
         "Gurdurr": 1,
-        "Bidoof": 1
+        "Bidoof": 1,
+        "Rowlet": 1
       },
-      "total_spawns": 2197,
-      "last_spawn": "2026-06-28T21:20:07.820669"
+      "total_spawns": 2200,
+      "last_spawn": "2026-06-28T21:20:47.647243"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1789,7 +1790,7 @@
     }
   },
   "global": {
-    "total_spawns": 37602,
+    "total_spawns": 37605,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
