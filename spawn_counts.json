@@ -1267,7 +1267,7 @@
         "Charizard": 1,
         "Kirlia": 3,
         "Treecko": 5,
-        "Veluza": 7,
+        "Veluza": 8,
         "Cyndaquil": 5,
         "Zorua": 3,
         "Meganium": 1,
@@ -1642,10 +1642,11 @@
         "Blue-striped basculin": 1,
         "Scream tail": 1,
         "Tepig": 1,
-        "Venomoth": 1
+        "Venomoth": 1,
+        "Goldeen": 1
       },
-      "total_spawns": 1411,
-      "last_spawn": "2026-06-28T01:03:45.501095"
+      "total_spawns": 1413,
+      "last_spawn": "2026-06-28T01:04:26.480730"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1655,7 +1656,7 @@
     }
   },
   "global": {
-    "total_spawns": 32542,
+    "total_spawns": 32544,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
