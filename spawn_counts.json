@@ -18,7 +18,7 @@
         "Tranquill": 29,
         "Psyduck": 19,
         "Rockruff": 30,
-        "Haunter": 31,
+        "Haunter": 32,
         "Tangela": 35,
         "Orbeetle": 7,
         "Dedenne": 9,
@@ -50,7 +50,7 @@
         "Greavard": 140,
         "Slugma": 43,
         "Grotle": 27,
-        "Porygon": 141,
+        "Porygon": 143,
         "Zubat": 144,
         "Vanillish": 39,
         "Tadbulb": 161,
@@ -61,7 +61,7 @@
         "Bramblin": 147,
         "Yanma": 29,
         "Larvesta": 44,
-        "Beldum": 96,
+        "Beldum": 97,
         "Ducklett": 33,
         "Lokix": 32,
         "Glimmora": 43,
@@ -205,7 +205,7 @@
         "Totodile": 41,
         "Dodrio": 10,
         "Cufant": 38,
-        "Tympole": 140,
+        "Tympole": 141,
         "Swellow": 8,
         "Aipom": 37,
         "Growlithe": 33,
@@ -323,12 +323,12 @@
         "Oshawott": 42,
         "Murkrow": 29,
         "Bellsprout": 142,
-        "Mudbray": 35,
+        "Mudbray": 36,
         "Dreepy": 121,
         "Tinkaton": 8,
         "Corviknight": 11,
         "Froakie": 42,
-        "Nymble": 112,
+        "Nymble": 113,
         "Ferrothorn": 7,
         "Servine": 36,
         "Blitzle": 30,
@@ -389,7 +389,7 @@
         "Sandshrew": 36,
         "Palafin": 29,
         "Maractus": 8,
-        "Sigilyph": 11,
+        "Sigilyph": 12,
         "Unown m": 1,
         "Stufful": 25,
         "Wailord": 7,
@@ -484,7 +484,7 @@
         "Tyrogue": 32,
         "Vikavolt": 3,
         "Trash burmy": 12,
-        "Staravia": 35,
+        "Staravia": 36,
         "Chatot": 9,
         "Houndoom": 15,
         "Dottler": 30,
@@ -561,7 +561,7 @@
         "Ponyta": 32,
         "Togekiss": 7,
         "Braviary": 9,
-        "Raboot": 37,
+        "Raboot": 38,
         "Golem": 8,
         "Slowking": 12,
         "Lilligant": 14,
@@ -784,7 +784,7 @@
         "Castform": 13,
         "Weavile": 2,
         "Gorging cramorant": 1,
-        "Shieldon": 23,
+        "Shieldon": 24,
         "Masquerain": 12,
         "Watchog": 8,
         "Ditto": 7,
@@ -877,7 +877,7 @@
         "Cleffa": 11,
         "Machamp": 10,
         "Altaria": 11,
-        "Purugly": 10,
+        "Purugly": 11,
         "Seaking": 6,
         "High plain vivillon": 1,
         "Urshifu": 1,
@@ -1092,14 +1092,14 @@
         "Mewtwo": 1,
         "Keldeo": 1,
         "Sneasler": 1,
-        "Mew": 1,
+        "Mew": 2,
         "Stunfisk": 1,
         "Overqwil": 1,
         "Meltan": 1,
         "Unown e": 1
       },
-      "total_spawns": 28832,
-      "last_spawn": "2026-06-28T04:08:13.599834"
+      "total_spawns": 28845,
+      "last_spawn": "2026-06-28T04:08:49.880626"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1670,10 +1670,11 @@
         "Quagsire": 1,
         "Yellow flower florges": 1,
         "Lanturn": 1,
-        "Lilligant": 1
+        "Lilligant": 1,
+        "Mantyke": 1
       },
-      "total_spawns": 1499,
-      "last_spawn": "2026-06-28T04:04:21.399464"
+      "total_spawns": 1500,
+      "last_spawn": "2026-06-28T04:08:37.710567"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1683,7 +1684,7 @@
     }
   },
   "global": {
-    "total_spawns": 34618,
+    "total_spawns": 34632,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
