@@ -63,7 +63,7 @@
         "Larvesta": 44,
         "Beldum": 96,
         "Ducklett": 32,
-        "Lokix": 31,
+        "Lokix": 32,
         "Glimmora": 43,
         "Starly": 129,
         "Tandemaus": 113,
@@ -83,7 +83,7 @@
         "Baltoy": 38,
         "Mareep": 137,
         "Garbodor": 6,
-        "Slakoth": 136,
+        "Slakoth": 137,
         "Togepi": 122,
         "Falinks": 9,
         "Tropius": 8,
@@ -100,13 +100,13 @@
         "Numel": 37,
         "Carracosta": 10,
         "Smearguru": 103,
-        "Veluza": 138,
+        "Veluza": 139,
         "Barboach": 47,
         "Klink": 105,
         "Honedge": 133,
         "Wingull": 38,
         "Salamence": 5,
-        "Drakloak": 30,
+        "Drakloak": 31,
         "Chewtle": 29,
         "Scizor": 7,
         "Sneasel": 27,
@@ -168,7 +168,7 @@
         "Klawf": 145,
         "Vanillite": 121,
         "Flareon": 11,
-        "Gastly": 115,
+        "Gastly": 117,
         "Taillow": 30,
         "Swinub": 133,
         "Inkay": 37,
@@ -295,8 +295,8 @@
         "Torkoal": 10,
         "Ferroseed": 33,
         "Brionne": 24,
-        "Pancham": 32,
-        "Venipede": 144,
+        "Pancham": 33,
+        "Venipede": 145,
         "Cacturne": 10,
         "Oddish": 138,
         "Dragalge": 10,
@@ -314,7 +314,7 @@
         "Jigglypuff": 36,
         "Nacli": 106,
         "Munna": 25,
-        "Pawniard": 25,
+        "Pawniard": 27,
         "Prof tangrowth": 97,
         "Jangmo-o": 64,
         "Trash wormadam": 11,
@@ -338,7 +338,7 @@
         "Sealeo": 29,
         "Staryu": 25,
         "Samurott": 8,
-        "Torchic": 52,
+        "Torchic": 53,
         "Sobble": 40,
         "Mudkip": 38,
         "Charjabug": 28,
@@ -819,7 +819,7 @@
         "Gigalith": 5,
         "Indeedee": 5,
         "Amped toxtricity": 11,
-        "Galarian linoone": 5,
+        "Galarian linoone": 6,
         "Xatu": 6,
         "Galarian corsola": 2,
         "Cinderace": 9,
@@ -1096,8 +1096,8 @@
         "Stunfisk": 1,
         "Overqwil": 1
       },
-      "total_spawns": 28573,
-      "last_spawn": "2026-06-28T03:57:19.795866"
+      "total_spawns": 28585,
+      "last_spawn": "2026-06-28T03:57:49.987574"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1205,7 +1205,7 @@
         "Watchog": 1,
         "Boltund": 1,
         "Lillipup": 7,
-        "Ducklett": 2,
+        "Ducklett": 3,
         "Mareep": 7,
         "Tadbulb": 6,
         "Helioptile": 2,
@@ -1410,7 +1410,7 @@
         "Skiddo": 2,
         "Spiritomb": 2,
         "Seadra": 1,
-        "Seedot": 4,
+        "Seedot": 5,
         "Snivy": 2,
         "Roselia": 2,
         "Totodile": 1,
@@ -1528,7 +1528,7 @@
         "Pignite": 2,
         "Ferroseed": 1,
         "Grafaiai": 3,
-        "Tangela": 1,
+        "Tangela": 2,
         "Palpitoad": 1,
         "Tyrogue": 1,
         "Gloom": 2,
@@ -1663,8 +1663,8 @@
         "Blastoise": 1,
         "Piplup": 1
       },
-      "total_spawns": 1464,
-      "last_spawn": "2026-06-28T03:57:17.501292"
+      "total_spawns": 1467,
+      "last_spawn": "2026-06-28T03:57:47.720583"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1674,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 34324,
+    "total_spawns": 34339,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
