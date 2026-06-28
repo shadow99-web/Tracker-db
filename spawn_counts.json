@@ -1172,7 +1172,7 @@
         "Orthworm": 7,
         "Woobat": 5,
         "Happiny": 1,
-        "Squirtle": 3,
+        "Squirtle": 4,
         "Spinarak": 1,
         "Blue plumage squawkabilly": 1,
         "Bergmite": 3,
@@ -1214,7 +1214,7 @@
         "Floragato": 1,
         "Watchog": 1,
         "Boltund": 1,
-        "Lillipup": 8,
+        "Lillipup": 9,
         "Ducklett": 3,
         "Mareep": 7,
         "Tadbulb": 7,
@@ -1261,7 +1261,7 @@
         "Naclstack": 5,
         "Ferrothorn": 1,
         "Karrablast": 3,
-        "Sinistea": 7,
+        "Sinistea": 8,
         "Lurantis": 2,
         "Machamp": 1,
         "Sceptile": 1,
@@ -1701,10 +1701,11 @@
         "Salamence": 1,
         "Pincurchin": 1,
         "Murkrow": 1,
-        "Ledian": 1
+        "Ledian": 1,
+        "Fletchinder": 1
       },
-      "total_spawns": 1603,
-      "last_spawn": "2026-06-28T10:25:17.634448"
+      "total_spawns": 1607,
+      "last_spawn": "2026-06-28T10:25:57.501474"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1714,7 +1715,7 @@
     }
   },
   "global": {
-    "total_spawns": 37008,
+    "total_spawns": 37012,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
