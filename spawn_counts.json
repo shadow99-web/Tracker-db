@@ -1142,9 +1142,9 @@
         "Dreepy": 13,
         "Bagon": 7,
         "Archen": 4,
-        "Shinx": 13,
+        "Shinx": 14,
         "Pikachu": 4,
-        "Rhyhorn": 5,
+        "Rhyhorn": 6,
         "Tynamo": 11,
         "Tandemaus": 9,
         "Smearguru": 9,
@@ -1334,7 +1334,7 @@
         "Gallade": 1,
         "Rattata": 5,
         "Bellsprout": 6,
-        "Lickitung": 4,
+        "Lickitung": 5,
         "Minccino": 6,
         "Togepi": 7,
         "Milotic": 1,
@@ -1716,7 +1716,7 @@
         "Krokorok": 1,
         "Litten": 1,
         "Hoothoot": 1,
-        "Pawmo": 1,
+        "Pawmo": 2,
         "Drapion": 1,
         "Venusaur": 1,
         "Poliwrath": 1,
@@ -1759,10 +1759,12 @@
         "Mudsdale": 1,
         "Aipom": 1,
         "Dragapult": 1,
-        "Morgrem": 1
+        "Morgrem": 1,
+        "Lucario": 1,
+        "Primarina": 1
       },
-      "total_spawns": 1988,
-      "last_spawn": "2026-06-28T13:21:17.709039"
+      "total_spawns": 1994,
+      "last_spawn": "2026-06-28T13:21:57.631748"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1772,7 +1774,7 @@
     }
   },
   "global": {
-    "total_spawns": 37393,
+    "total_spawns": 37399,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
