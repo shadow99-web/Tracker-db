@@ -24,8 +24,8 @@
         "Dedenne": 9,
         "Machop": 103,
         "Dudunsparce": 24,
-        "Gothita": 124,
-        "Impidimp": 115,
+        "Gothita": 125,
+        "Impidimp": 116,
         "Charmander": 60,
         "Morelull": 23,
         "Abra": 136,
@@ -34,7 +34,7 @@
         "Litwick": 165,
         "Grubbin": 119,
         "Escavalier": 13,
-        "Dratini": 91,
+        "Dratini": 92,
         "Kilowattrel": 33,
         "Lotad": 167,
         "Qwilfish": 9,
@@ -128,7 +128,7 @@
         "Clamperl": 34,
         "Zigzagoon": 40,
         "Weedle": 148,
-        "Flamigo": 125,
+        "Flamigo": 126,
         "Lillipup": 119,
         "Shinx": 148,
         "Bounsweet": 124,
@@ -150,7 +150,7 @@
         "Dracovish": 10,
         "Bulbasaur": 36,
         "Roggenrola": 141,
-        "Pidove": 126,
+        "Pidove": 127,
         "Dragapult": 14,
         "Rattata": 77,
         "Flapple": 13,
@@ -187,7 +187,7 @@
         "Vigoroth": 40,
         "Skorupi": 35,
         "Pikachu": 36,
-        "Blue plumage squawkabilly": 19,
+        "Blue plumage squawkabilly": 20,
         "Thwackey": 32,
         "Dusk lycanroc": 5,
         "Sunny castform": 10,
@@ -294,7 +294,7 @@
         "Jellicent": 8,
         "Torkoal": 10,
         "Ferroseed": 33,
-        "Brionne": 23,
+        "Brionne": 24,
         "Pancham": 32,
         "Venipede": 144,
         "Cacturne": 10,
@@ -366,7 +366,7 @@
         "Finizen": 124,
         "Unown y": 1,
         "Toucannon": 5,
-        "Caterpie": 116,
+        "Caterpie": 117,
         "Carvanha": 23,
         "Luxio": 30,
         "Treecko": 46,
@@ -402,7 +402,7 @@
         "Persian": 3,
         "Lopunny": 9,
         "Squawkabilly": 29,
-        "Electrike": 31,
+        "Electrike": 32,
         "Drampa": 6,
         "Maschiff": 117,
         "Rufflet": 35,
@@ -512,7 +512,7 @@
         "Starmie": 14,
         "Simipour": 7,
         "Goldeen": 30,
-        "Nickit": 43,
+        "Nickit": 44,
         "Ivysaur": 20,
         "Milcery": 36,
         "Gabite": 23,
@@ -703,7 +703,7 @@
         "Litten": 44,
         "Abomasnow": 8,
         "Espeon": 4,
-        "Hatenna": 116,
+        "Hatenna": 117,
         "Zoroark": 10,
         "Lucario": 4,
         "Crustle": 11,
@@ -936,7 +936,7 @@
         "Pyukumuku": 6,
         "Machoke": 28,
         "Sunshine cherrim": 5,
-        "Beautifly": 9,
+        "Beautifly": 10,
         "Ting-lu": 1,
         "Hitmontop": 7,
         "Munchlax": 8,
@@ -1093,10 +1093,11 @@
         "Keldeo": 1,
         "Sneasler": 1,
         "Mew": 1,
-        "Stunfisk": 1
+        "Stunfisk": 1,
+        "Overqwil": 1
       },
-      "total_spawns": 28560,
-      "last_spawn": "2026-06-28T03:56:45.302874"
+      "total_spawns": 28573,
+      "last_spawn": "2026-06-28T03:57:19.795866"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1454,7 +1455,7 @@
         "Passimian": 2,
         "Shellos": 1,
         "Articuno": 1,
-        "Surskit": 2,
+        "Surskit": 3,
         "Combee": 1,
         "Flareon": 1,
         "Bunnelby": 1,
@@ -1511,7 +1512,7 @@
         "Toxel": 3,
         "Dachsbun": 2,
         "Cascoon": 2,
-        "Larvitar": 5,
+        "Larvitar": 6,
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
@@ -1659,10 +1660,11 @@
         "Amaura": 1,
         "Weepinbell": 1,
         "Flutter mane": 1,
-        "Blastoise": 1
+        "Blastoise": 1,
+        "Piplup": 1
       },
-      "total_spawns": 1461,
-      "last_spawn": "2026-06-28T03:56:47.603928"
+      "total_spawns": 1464,
+      "last_spawn": "2026-06-28T03:57:17.501292"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1672,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 34308,
+    "total_spawns": 34324,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
