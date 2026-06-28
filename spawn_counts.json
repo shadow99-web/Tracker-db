@@ -1127,10 +1127,10 @@
         "Gothita": 17,
         "Gible": 10,
         "Larvesta": 4,
-        "Starly": 10,
+        "Starly": 11,
         "Varoom": 14,
         "Weedle": 15,
-        "Chef dente": 8,
+        "Chef dente": 9,
         "Hatenna": 14,
         "Dugtrio": 1,
         "Kadabra": 3,
@@ -1209,7 +1209,7 @@
         "Frogadier": 3,
         "Gimmighoul": 6,
         "Mienshao": 2,
-        "Swinub": 13,
+        "Swinub": 14,
         "Rabsca": 3,
         "Floragato": 1,
         "Watchog": 1,
@@ -1732,10 +1732,11 @@
         "Munna": 1,
         "Pineco": 1,
         "Spearow": 1,
-        "Rhyperior": 1
+        "Rhyperior": 1,
+        "Farfetch'd": 1
       },
-      "total_spawns": 1801,
-      "last_spawn": "2026-06-28T12:48:27.424930"
+      "total_spawns": 1805,
+      "last_spawn": "2026-06-28T12:48:57.601504"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1745,7 +1746,7 @@
     }
   },
   "global": {
-    "total_spawns": 37206,
+    "total_spawns": 37210,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
