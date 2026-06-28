@@ -1230,7 +1230,7 @@
         "Darumaka": 2,
         "Wailmer": 1,
         "Jangmo-o": 8,
-        "Aron": 10,
+        "Aron": 11,
         "Kabuto": 3,
         "Togetic": 3,
         "Sewaddle": 8,
@@ -1457,7 +1457,7 @@
         "Lokix": 2,
         "Tentacruel": 1,
         "Exeggcute": 3,
-        "Diglett": 3,
+        "Diglett": 4,
         "Pidgey": 9,
         "Gligar": 1,
         "Deino": 5,
@@ -1560,7 +1560,7 @@
         "Houndstone": 3,
         "Braviary": 2,
         "Cubone": 1,
-        "Stantler": 3,
+        "Stantler": 4,
         "Rufflet": 1,
         "Klang": 1,
         "Drilbur": 1,
@@ -1739,10 +1739,11 @@
         "Croagunk": 1,
         "Voltorb": 1,
         "Wimpod": 1,
-        "Drampa": 1
+        "Drampa": 1,
+        "Wailord": 1
       },
-      "total_spawns": 1883,
-      "last_spawn": "2026-06-28T13:01:47.727175"
+      "total_spawns": 1887,
+      "last_spawn": "2026-06-28T13:02:27.513302"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1752,7 +1753,7 @@
     }
   },
   "global": {
-    "total_spawns": 37288,
+    "total_spawns": 37292,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
