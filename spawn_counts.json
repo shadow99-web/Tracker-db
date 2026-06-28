@@ -58,7 +58,7 @@
         "Whismur": 111,
         "Monferno": 28,
         "Skwovet": 35,
-        "Bramblin": 133,
+        "Bramblin": 134,
         "Yanma": 27,
         "Larvesta": 44,
         "Beldum": 90,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 51,
         "Togetic": 40,
         "Palpitoad": 20,
-        "Pikipek": 135,
+        "Pikipek": 136,
         "Teddiursa": 119,
         "Clamperl": 33,
         "Zigzagoon": 38,
@@ -160,7 +160,7 @@
         "Delcatty": 7,
         "Spiritomb": 6,
         "Yamper": 30,
-        "Tepig": 44,
+        "Tepig": 45,
         "Kirlia": 32,
         "Piplup": 31,
         "Kakuna": 32,
@@ -213,7 +213,7 @@
         "Fidough": 82,
         "Noivern": 4,
         "Feraligatr": 7,
-        "Tynamo": 131,
+        "Tynamo": 132,
         "Orthworm": 118,
         "Marill": 31,
         "Joltik": 36,
@@ -264,7 +264,7 @@
         "Nincada": 43,
         "Fennekin": 43,
         "Quaxwell": 20,
-        "Vibrava": 40,
+        "Vibrava": 41,
         "Loudred": 43,
         "Ceruledge": 35,
         "Houndour": 28,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 4,
         "Lileep": 32,
-        "Rolycoly": 118,
+        "Rolycoly": 120,
         "Bronzor": 33,
         "Dartrix": 33,
         "Yellow flower florges": 4,
@@ -380,7 +380,7 @@
         "Remoraid": 32,
         "Torracat": 28,
         "Hisuian zorua": 1,
-        "Wooloo": 24,
+        "Wooloo": 25,
         "Drifloon": 28,
         "Golbat": 33,
         "Swablu": 27,
@@ -407,7 +407,7 @@
         "Maschiff": 110,
         "Rufflet": 35,
         "Kabutops": 7,
-        "Dondozo": 111,
+        "Dondozo": 112,
         "Pansear": 32,
         "Cutiefly": 29,
         "Peakychu": 96,
@@ -747,7 +747,7 @@
         "Hitmonchan": 2,
         "Relicanth": 9,
         "Klefki": 7,
-        "Frogadier": 35,
+        "Frogadier": 36,
         "Dewpider": 21,
         "Poltchageist": 9,
         "Incineroar": 8,
@@ -1085,8 +1085,8 @@
         "Zygarde core": 1,
         "Rapid strike urshifu": 1
       },
-      "total_spawns": 26850,
-      "last_spawn": "2026-06-28T02:42:35.204980"
+      "total_spawns": 26860,
+      "last_spawn": "2026-06-28T02:43:05.696351"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1658,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 32575,
+    "total_spawns": 32585,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
