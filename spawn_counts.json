@@ -1116,7 +1116,7 @@
         "Sandygast": 3,
         "Clauncher": 2,
         "Barbaracle": 2,
-        "Amoonguss": 1,
+        "Amoonguss": 2,
         "Mosslax": 13,
         "Rookidee": 15,
         "Roggenrola": 10,
@@ -1165,7 +1165,7 @@
         "Charcadet": 16,
         "Furfrou": 2,
         "Slaking": 2,
-        "Flittle": 12,
+        "Flittle": 13,
         "Salazzle": 1,
         "Skitty": 6,
         "Fletchling": 6,
@@ -1569,7 +1569,7 @@
         "Porygon-z": 2,
         "Chewtle": 1,
         "Aurorus": 1,
-        "Morelull": 1,
+        "Morelull": 2,
         "White plumage squawkabilly": 1,
         "Salandit": 1,
         "Qwilfish": 1,
@@ -1731,7 +1731,7 @@
         "Heracross": 1,
         "Munna": 1,
         "Pineco": 1,
-        "Spearow": 2,
+        "Spearow": 3,
         "Rhyperior": 1,
         "Farfetch'd": 1,
         "Vespiquen": 1,
@@ -1755,10 +1755,11 @@
         "Rockruff": 2,
         "Sliggoo": 1,
         "Spoink": 1,
-        "Binacle": 1
+        "Binacle": 1,
+        "Mudsdale": 1
       },
-      "total_spawns": 1967,
-      "last_spawn": "2026-06-28T13:18:57.512874"
+      "total_spawns": 1972,
+      "last_spawn": "2026-06-28T13:19:27.529490"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1768,7 +1769,7 @@
     }
   },
   "global": {
-    "total_spawns": 37372,
+    "total_spawns": 37377,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
