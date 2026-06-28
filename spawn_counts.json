@@ -51,7 +51,7 @@
         "Slugma": 44,
         "Grotle": 29,
         "Porygon": 153,
-        "Zubat": 152,
+        "Zubat": 153,
         "Vanillish": 39,
         "Tadbulb": 167,
         "Magnemite": 144,
@@ -84,7 +84,7 @@
         "Mareep": 142,
         "Garbodor": 7,
         "Slakoth": 142,
-        "Togepi": 127,
+        "Togepi": 128,
         "Falinks": 9,
         "Tropius": 8,
         "Poliwag": 129,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 41,
         "Numel": 40,
         "Carracosta": 11,
-        "Smearguru": 107,
+        "Smearguru": 108,
         "Veluza": 147,
         "Barboach": 48,
         "Klink": 109,
@@ -163,7 +163,7 @@
         "Tepig": 50,
         "Kirlia": 39,
         "Piplup": 34,
-        "Kakuna": 34,
+        "Kakuna": 35,
         "Weepinbell": 28,
         "Klawf": 151,
         "Vanillite": 130,
@@ -208,7 +208,7 @@
         "Tympole": 148,
         "Swellow": 8,
         "Aipom": 37,
-        "Growlithe": 35,
+        "Growlithe": 36,
         "Sewaddle": 144,
         "Fidough": 92,
         "Noivern": 4,
@@ -255,7 +255,7 @@
         "Dewott": 33,
         "Arrokuda": 28,
         "Golett": 35,
-        "Vullaby": 25,
+        "Vullaby": 26,
         "Cetitan": 34,
         "Cubone": 34,
         "Gligar": 40,
@@ -312,7 +312,7 @@
         "Flygon": 5,
         "Shellos": 22,
         "Jigglypuff": 38,
-        "Nacli": 109,
+        "Nacli": 110,
         "Munna": 28,
         "Pawniard": 31,
         "Prof tangrowth": 102,
@@ -666,7 +666,7 @@
         "Sizzlipede": 25,
         "White flower floette": 7,
         "Skeledirge": 13,
-        "Amoonguss": 9,
+        "Amoonguss": 10,
         "Appletun": 7,
         "Krookodile": 17,
         "Primeape": 10,
@@ -695,7 +695,7 @@
         "Panpour": 31,
         "Tinkatuff": 28,
         "Bruxish": 5,
-        "Corvisquire": 25,
+        "Corvisquire": 26,
         "Mantine": 12,
         "Electrode": 7,
         "Celebi": 2,
@@ -826,7 +826,7 @@
         "Magcargo": 9,
         "Sensu oricorio": 11,
         "Rhyperior": 6,
-        "Linoone": 6,
+        "Linoone": 7,
         "Omastar": 9,
         "Boltund": 10,
         "Lickilicky": 10,
@@ -1026,7 +1026,7 @@
         "Combat breed tauros": 1,
         "Swoobat": 6,
         "Mr. rime": 1,
-        "Meganium": 3,
+        "Meganium": 4,
         "Raikou": 1,
         "Milotic": 5,
         "Victini": 2,
@@ -1104,8 +1104,8 @@
         "Cosmoem": 1,
         "Hisuian growlithe": 1
       },
-      "total_spawns": 30161,
-      "last_spawn": "2026-06-28T06:35:59.855408"
+      "total_spawns": 30172,
+      "last_spawn": "2026-06-28T06:36:30.098549"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1212,7 +1212,7 @@
         "Floragato": 1,
         "Watchog": 1,
         "Boltund": 1,
-        "Lillipup": 7,
+        "Lillipup": 8,
         "Ducklett": 3,
         "Mareep": 7,
         "Tadbulb": 7,
@@ -1430,7 +1430,7 @@
         "Capsakid": 2,
         "Venonat": 3,
         "Popplio": 1,
-        "Glameow": 2,
+        "Glameow": 3,
         "Boldore": 1,
         "Emboar": 1,
         "Blue flower floette": 1,
@@ -1690,10 +1690,11 @@
         "Ponyta": 1,
         "Vullaby": 1,
         "Drifblim": 1,
-        "Druddigon": 1
+        "Druddigon": 1,
+        "Spewpa": 1
       },
-      "total_spawns": 1541,
-      "last_spawn": "2026-06-28T06:35:57.497074"
+      "total_spawns": 1544,
+      "last_spawn": "2026-06-28T06:36:27.896057"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1703,7 +1704,7 @@
     }
   },
   "global": {
-    "total_spawns": 35989,
+    "total_spawns": 36003,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
