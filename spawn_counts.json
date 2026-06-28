@@ -1260,7 +1260,7 @@
         "Chespin": 2,
         "Naclstack": 5,
         "Ferrothorn": 1,
-        "Karrablast": 3,
+        "Karrablast": 4,
         "Sinistea": 8,
         "Lurantis": 2,
         "Machamp": 1,
@@ -1274,7 +1274,7 @@
         "Chimchar": 5,
         "Trash wormadam": 2,
         "Bramblin": 7,
-        "Vulpix": 5,
+        "Vulpix": 6,
         "Hippowdon": 3,
         "Tinkatink": 5,
         "Jumpluff": 1,
@@ -1705,8 +1705,8 @@
         "Fletchinder": 1,
         "Fennekin": 1
       },
-      "total_spawns": 1610,
-      "last_spawn": "2026-06-28T10:26:27.558979"
+      "total_spawns": 1612,
+      "last_spawn": "2026-06-28T10:26:57.644080"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1716,7 +1716,7 @@
     }
   },
   "global": {
-    "total_spawns": 37015,
+    "total_spawns": 37017,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
