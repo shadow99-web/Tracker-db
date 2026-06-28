@@ -28,7 +28,7 @@
         "Impidimp": 118,
         "Charmander": 60,
         "Morelull": 23,
-        "Abra": 138,
+        "Abra": 139,
         "Sandile": 137,
         "Sandygast": 39,
         "Litwick": 167,
@@ -50,7 +50,7 @@
         "Greavard": 141,
         "Slugma": 43,
         "Grotle": 27,
-        "Porygon": 143,
+        "Porygon": 144,
         "Zubat": 144,
         "Vanillish": 39,
         "Tadbulb": 161,
@@ -74,7 +74,7 @@
         "Fomantis": 22,
         "Droopy tatsugiri": 55,
         "Froslass": 13,
-        "Tarountula": 127,
+        "Tarountula": 128,
         "Hatterene": 11,
         "Phantump": 38,
         "Duosion": 32,
@@ -208,7 +208,7 @@
         "Tympole": 142,
         "Swellow": 8,
         "Aipom": 37,
-        "Growlithe": 33,
+        "Growlithe": 34,
         "Sewaddle": 138,
         "Fidough": 87,
         "Noivern": 4,
@@ -375,7 +375,7 @@
         "Hippopotas": 19,
         "Spiky-eared pichu": 4,
         "Magearna": 1,
-        "Mabosstiff": 31,
+        "Mabosstiff": 32,
         "Squirtle": 47,
         "Remoraid": 36,
         "Torracat": 33,
@@ -426,7 +426,7 @@
         "Centiskorch": 10,
         "Low key toxtricity": 7,
         "Grapploct": 6,
-        "Gurdurr": 25,
+        "Gurdurr": 26,
         "Girafarig": 9,
         "Flaaffy": 27,
         "Pecharunt": 2,
@@ -627,7 +627,7 @@
         "Frost rotom": 4,
         "Tatsugiri": 45,
         "Nidorino": 24,
-        "Wailmer": 33,
+        "Wailmer": 34,
         "Krabby": 32,
         "Bronzong": 9,
         "Lanturn": 6,
@@ -770,7 +770,7 @@
         "Drifblim": 8,
         "Meowscarada": 9,
         "Roserade": 8,
-        "Nidorina": 21,
+        "Nidorina": 22,
         "Archaludon": 2,
         "Golduck": 6,
         "Scolipede": 8,
@@ -836,7 +836,7 @@
         "Arctovish": 9,
         "Ribombee": 5,
         "Alolan meowth": 1,
-        "Klang": 28,
+        "Klang": 29,
         "Manectric": 7,
         "Gallade": 11,
         "Family of three maushold": 4,
@@ -915,7 +915,7 @@
         "Dracozolt": 5,
         "Galarian rapidash": 3,
         "Skuntank": 5,
-        "Gogoat": 3,
+        "Gogoat": 4,
         "Bellossom": 9,
         "Pirouette meloetta": 2,
         "Sableye": 8,
@@ -1096,10 +1096,11 @@
         "Stunfisk": 1,
         "Overqwil": 1,
         "Meltan": 1,
-        "Unown e": 1
+        "Unown e": 1,
+        "Brute bonnet": 1
       },
-      "total_spawns": 28874,
-      "last_spawn": "2026-06-28T05:09:30.202863"
+      "total_spawns": 28885,
+      "last_spawn": "2026-06-28T05:10:01.657665"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1687,7 +1688,7 @@
     }
   },
   "global": {
-    "total_spawns": 34670,
+    "total_spawns": 34681,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
