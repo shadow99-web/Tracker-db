@@ -1232,7 +1232,7 @@
         "Jangmo-o": 8,
         "Aron": 11,
         "Kabuto": 3,
-        "Togetic": 3,
+        "Togetic": 4,
         "Sewaddle": 10,
         "Eevee": 2,
         "Taillow": 2,
@@ -1385,7 +1385,7 @@
         "Mankey": 3,
         "Charmander": 1,
         "Shroomish": 1,
-        "Finizen": 4,
+        "Finizen": 6,
         "Croconaw": 1,
         "Bronzor": 3,
         "Eelektrik": 1,
@@ -1416,7 +1416,7 @@
         "Geodude": 13,
         "Gholdengo": 2,
         "Dudunsparce": 1,
-        "Whirlipede": 2,
+        "Whirlipede": 3,
         "Skiddo": 2,
         "Spiritomb": 3,
         "Seadra": 1,
@@ -1754,10 +1754,11 @@
         "Slurpuff": 1,
         "Rockruff": 2,
         "Sliggoo": 1,
-        "Spoink": 1
+        "Spoink": 1,
+        "Binacle": 1
       },
-      "total_spawns": 1962,
-      "last_spawn": "2026-06-28T13:18:25.058772"
+      "total_spawns": 1967,
+      "last_spawn": "2026-06-28T13:18:57.512874"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1767,7 +1768,7 @@
     }
   },
   "global": {
-    "total_spawns": 37367,
+    "total_spawns": 37372,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
