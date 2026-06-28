@@ -1311,7 +1311,7 @@
         "Darkrai": 1,
         "Growlithe": 3,
         "Nihilego": 1,
-        "Slakoth": 8,
+        "Slakoth": 9,
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 3,
@@ -1731,7 +1731,7 @@
         "Heracross": 1,
         "Munna": 1,
         "Pineco": 1,
-        "Spearow": 1,
+        "Spearow": 2,
         "Rhyperior": 1,
         "Farfetch'd": 1,
         "Vespiquen": 1,
@@ -1745,10 +1745,11 @@
         "Pangoro": 1,
         "Bronzong": 1,
         "Bouffalant": 1,
-        "Persian": 1
+        "Persian": 1,
+        "Stunky": 1
       },
-      "total_spawns": 1914,
-      "last_spawn": "2026-06-28T13:11:57.444455"
+      "total_spawns": 1917,
+      "last_spawn": "2026-06-28T13:12:27.664492"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1758,7 +1759,7 @@
     }
   },
   "global": {
-    "total_spawns": 37319,
+    "total_spawns": 37322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
