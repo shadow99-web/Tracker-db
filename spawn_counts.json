@@ -22,7 +22,7 @@
         "Tangela": 32,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 99,
+        "Machop": 100,
         "Dudunsparce": 23,
         "Gothita": 115,
         "Impidimp": 106,
@@ -55,7 +55,7 @@
         "Vanillish": 37,
         "Tadbulb": 149,
         "Magnemite": 120,
-        "Whismur": 111,
+        "Whismur": 112,
         "Monferno": 28,
         "Skwovet": 35,
         "Bramblin": 134,
@@ -86,7 +86,7 @@
         "Slakoth": 132,
         "Togepi": 111,
         "Falinks": 9,
-        "Tropius": 7,
+        "Tropius": 8,
         "Poliwag": 113,
         "Metang": 14,
         "Riolu": 29,
@@ -120,7 +120,7 @@
         "Yamask": 29,
         "Ralts": 105,
         "Solosis": 114,
-        "Battle cyclizar": 51,
+        "Battle cyclizar": 52,
         "Togetic": 40,
         "Palpitoad": 20,
         "Pikipek": 136,
@@ -142,7 +142,7 @@
         "Rhyhorn": 126,
         "Sentret": 32,
         "Yungoos": 31,
-        "Diglett": 38,
+        "Diglett": 39,
         "Doduo": 33,
         "Lairon": 32,
         "Emboar": 6,
@@ -378,7 +378,7 @@
         "Mabosstiff": 31,
         "Squirtle": 45,
         "Remoraid": 32,
-        "Torracat": 28,
+        "Torracat": 29,
         "Hisuian zorua": 1,
         "Wooloo": 25,
         "Drifloon": 28,
@@ -642,7 +642,7 @@
         "East sea shellos": 14,
         "Corsola": 14,
         "Venomoth": 11,
-        "Trumbeak": 32,
+        "Trumbeak": 33,
         "Aerodactyl": 6,
         "Igglybuff": 7,
         "Archeops": 9,
@@ -714,7 +714,7 @@
         "Snowy castform": 4,
         "Gengar": 11,
         "Forretress": 6,
-        "Hydrapple": 3,
+        "Hydrapple": 4,
         "Emolga": 7,
         "Tsareena": 7,
         "Blissey": 9,
@@ -950,7 +950,7 @@
         "Unown n": 1,
         "Unown exclamation": 2,
         "Ninjask": 7,
-        "Nidoking": 4,
+        "Nidoking": 5,
         "Pichu": 4,
         "Carnivine": 12,
         "Goodra": 5,
@@ -1086,8 +1086,8 @@
         "Rapid strike urshifu": 1,
         "Galarian slowbro": 1
       },
-      "total_spawns": 26870,
-      "last_spawn": "2026-06-28T02:43:39.728224"
+      "total_spawns": 26879,
+      "last_spawn": "2026-06-28T02:44:09.967212"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1659,7 +1659,7 @@
     }
   },
   "global": {
-    "total_spawns": 32595,
+    "total_spawns": 32604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
