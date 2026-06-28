@@ -1340,7 +1340,7 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 3,
+        "Venipede": 4,
         "Maschiff": 9,
         "Sprigatito": 4,
         "Toedscool": 6,
@@ -1451,7 +1451,7 @@
         "Skiploom": 2,
         "Marshtomp": 2,
         "Lechonk": 6,
-        "Roaming gimmighoul": 4,
+        "Roaming gimmighoul": 5,
         "Breloom": 2,
         "Ninjask": 1,
         "Remoraid": 2,
@@ -1646,8 +1646,8 @@
         "Goldeen": 1,
         "Pinsir": 1
       },
-      "total_spawns": 1427,
-      "last_spawn": "2026-06-28T01:10:22.704883"
+      "total_spawns": 1429,
+      "last_spawn": "2026-06-28T01:11:02.802210"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1657,7 +1657,7 @@
     }
   },
   "global": {
-    "total_spawns": 32558,
+    "total_spawns": 32560,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
