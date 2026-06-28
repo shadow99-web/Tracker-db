@@ -1397,7 +1397,7 @@
         "Huntail": 1,
         "Vibrava": 2,
         "Slowbro": 1,
-        "Yamask": 1,
+        "Yamask": 2,
         "Tympole": 14,
         "Barboach": 2,
         "Carvanha": 2,
@@ -1413,7 +1413,7 @@
         "Archeops": 1,
         "Gigalith": 3,
         "Nuzleaf": 2,
-        "Geodude": 13,
+        "Geodude": 14,
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 3,
@@ -1461,7 +1461,7 @@
         "Pidgey": 10,
         "Gligar": 1,
         "Deino": 5,
-        "Dolliv": 1,
+        "Dolliv": 2,
         "Passimian": 2,
         "Shellos": 5,
         "Articuno": 1,
@@ -1471,7 +1471,7 @@
         "Bunnelby": 1,
         "Skiploom": 3,
         "Marshtomp": 2,
-        "Lechonk": 6,
+        "Lechonk": 7,
         "Roaming gimmighoul": 6,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1756,10 +1756,12 @@
         "Sliggoo": 1,
         "Spoink": 1,
         "Binacle": 1,
-        "Mudsdale": 1
+        "Mudsdale": 1,
+        "Aipom": 1,
+        "Dragapult": 1
       },
-      "total_spawns": 1976,
-      "last_spawn": "2026-06-28T13:20:06.065355"
+      "total_spawns": 1982,
+      "last_spawn": "2026-06-28T13:20:37.802503"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1769,7 +1771,7 @@
     }
   },
   "global": {
-    "total_spawns": 37381,
+    "total_spawns": 37387,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
