@@ -1129,7 +1129,7 @@
         "Larvesta": 4,
         "Starly": 10,
         "Varoom": 14,
-        "Weedle": 14,
+        "Weedle": 15,
         "Chef dente": 8,
         "Hatenna": 14,
         "Dugtrio": 1,
@@ -1147,7 +1147,7 @@
         "Rhyhorn": 4,
         "Tynamo": 11,
         "Tandemaus": 9,
-        "Smearguru": 8,
+        "Smearguru": 9,
         "Magnemite": 12,
         "Teddiursa": 10,
         "Houndoom": 1,
@@ -1368,7 +1368,7 @@
         "Luxio": 3,
         "Fuecoco": 3,
         "Electrode": 1,
-        "Chandelure": 1,
+        "Chandelure": 2,
         "Wiglett": 8,
         "Farigiraf": 2,
         "Zubat": 6,
@@ -1457,7 +1457,7 @@
         "Lokix": 2,
         "Tentacruel": 1,
         "Exeggcute": 2,
-        "Diglett": 2,
+        "Diglett": 3,
         "Pidgey": 9,
         "Gligar": 1,
         "Deino": 5,
@@ -1731,8 +1731,8 @@
         "Heracross": 1,
         "Munna": 1
       },
-      "total_spawns": 1772,
-      "last_spawn": "2026-06-28T12:43:44.652505"
+      "total_spawns": 1776,
+      "last_spawn": "2026-06-28T12:44:17.386725"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1742,7 +1742,7 @@
     }
   },
   "global": {
-    "total_spawns": 37177,
+    "total_spawns": 37181,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
