@@ -26,7 +26,7 @@
         "Dudunsparce": 23,
         "Gothita": 121,
         "Impidimp": 110,
-        "Charmander": 58,
+        "Charmander": 59,
         "Morelull": 23,
         "Abra": 133,
         "Sandile": 136,
@@ -34,7 +34,7 @@
         "Litwick": 163,
         "Grubbin": 117,
         "Escavalier": 13,
-        "Dratini": 88,
+        "Dratini": 89,
         "Kilowattrel": 33,
         "Lotad": 165,
         "Qwilfish": 8,
@@ -66,7 +66,7 @@
         "Lokix": 31,
         "Glimmora": 42,
         "Starly": 128,
-        "Tandemaus": 110,
+        "Tandemaus": 111,
         "Smoliv": 137,
         "Gloom": 30,
         "Clefairy": 30,
@@ -166,16 +166,16 @@
         "Kakuna": 34,
         "Weepinbell": 28,
         "Klawf": 143,
-        "Vanillite": 118,
-        "Flareon": 10,
-        "Gastly": 111,
+        "Vanillite": 119,
+        "Flareon": 11,
+        "Gastly": 112,
         "Taillow": 29,
         "Swinub": 133,
         "Inkay": 36,
         "Gible": 80,
         "Rookidee": 89,
         "Minccino": 47,
-        "Wurmple": 121,
+        "Wurmple": 122,
         "Binacle": 37,
         "Grafaiai": 24,
         "Quilladin": 28,
@@ -205,7 +205,7 @@
         "Totodile": 41,
         "Dodrio": 9,
         "Cufant": 38,
-        "Tympole": 133,
+        "Tympole": 134,
         "Swellow": 8,
         "Aipom": 36,
         "Growlithe": 30,
@@ -322,7 +322,7 @@
         "Gossifleur": 40,
         "Oshawott": 40,
         "Murkrow": 29,
-        "Bellsprout": 141,
+        "Bellsprout": 142,
         "Mudbray": 34,
         "Dreepy": 117,
         "Tinkaton": 8,
@@ -433,7 +433,7 @@
         "Feebas": 27,
         "Buneary": 35,
         "Zebstrika": 11,
-        "Shuppet": 34,
+        "Shuppet": 35,
         "Paldean wooper": 6,
         "Salandit": 27,
         "School wishiwashi": 6,
@@ -752,7 +752,7 @@
         "Poltchageist": 9,
         "Incineroar": 8,
         "Morpeko": 17,
-        "Parasect": 9,
+        "Parasect": 10,
         "Alolan muk": 4,
         "Iron boulder": 3,
         "Haxorus": 7,
@@ -860,7 +860,7 @@
         "Hydreigon": 4,
         "Alolan vulpix": 3,
         "Liepard": 8,
-        "Leavanny": 5,
+        "Leavanny": 6,
         "Pa'u oricorio": 9,
         "Donphan": 4,
         "Charizard": 9,
@@ -1092,8 +1092,8 @@
         "Mewtwo": 1,
         "Keldeo": 1
       },
-      "total_spawns": 27977,
-      "last_spawn": "2026-06-28T03:32:05.297122"
+      "total_spawns": 27989,
+      "last_spawn": "2026-06-28T03:32:35.332915"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1652,10 +1652,11 @@
         "Venomoth": 1,
         "Goldeen": 1,
         "Pinsir": 1,
-        "Bisharp": 1
+        "Bisharp": 1,
+        "Amaura": 1
       },
-      "total_spawns": 1438,
-      "last_spawn": "2026-06-28T02:22:07.900915"
+      "total_spawns": 1439,
+      "last_spawn": "2026-06-28T03:32:23.766488"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1665,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 33702,
+    "total_spawns": 33715,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
