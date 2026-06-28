@@ -1156,7 +1156,7 @@
         "Froakie": 7,
         "Hawlucha": 1,
         "Feebas": 1,
-        "Lapras": 2,
+        "Lapras": 3,
         "Seismitoad": 2,
         "Frigibax": 14,
         "Meowth": 5,
@@ -1165,7 +1165,7 @@
         "Charcadet": 15,
         "Furfrou": 2,
         "Slaking": 2,
-        "Flittle": 10,
+        "Flittle": 11,
         "Salazzle": 1,
         "Skitty": 6,
         "Fletchling": 6,
@@ -1204,7 +1204,7 @@
         "Axew": 9,
         "Ride cyclizar": 3,
         "Trapinch": 4,
-        "Smoliv": 7,
+        "Smoliv": 8,
         "Pawniard": 1,
         "Frogadier": 3,
         "Gimmighoul": 6,
@@ -1740,10 +1740,11 @@
         "Voltorb": 1,
         "Wimpod": 1,
         "Drampa": 1,
-        "Wailord": 1
+        "Wailord": 1,
+        "White-striped basculin": 1
       },
-      "total_spawns": 1887,
-      "last_spawn": "2026-06-28T13:02:27.513302"
+      "total_spawns": 1891,
+      "last_spawn": "2026-06-28T13:03:07.497398"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1753,7 +1754,7 @@
     }
   },
   "global": {
-    "total_spawns": 37292,
+    "total_spawns": 37296,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
