@@ -1249,7 +1249,7 @@
         "Vikavolt": 1,
         "Peakychu": 8,
         "Absol": 2,
-        "Inteleon": 2,
+        "Inteleon": 3,
         "Mimikyu": 1,
         "Silicobra": 2,
         "Dartrix": 2,
@@ -1347,7 +1347,7 @@
         "Torterra": 1,
         "Blipbug": 7,
         "Zen darmanitan": 1,
-        "Duskull": 5,
+        "Duskull": 6,
         "Vigoroth": 2,
         "Seviper": 2,
         "Goomy": 5,
@@ -1729,10 +1729,11 @@
         "Tinkaton": 1,
         "Sunkern": 1,
         "Heracross": 1,
-        "Munna": 1
+        "Munna": 1,
+        "Pineco": 1
       },
-      "total_spawns": 1776,
-      "last_spawn": "2026-06-28T12:44:17.386725"
+      "total_spawns": 1779,
+      "last_spawn": "2026-06-28T12:44:47.405407"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1742,7 +1743,7 @@
     }
   },
   "global": {
-    "total_spawns": 37181,
+    "total_spawns": 37184,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
