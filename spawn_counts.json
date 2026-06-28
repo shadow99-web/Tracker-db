@@ -1119,7 +1119,7 @@
         "Amoonguss": 1,
         "Mosslax": 12,
         "Rookidee": 14,
-        "Roggenrola": 9,
+        "Roggenrola": 10,
         "Armarouge": 4,
         "Gastly": 10,
         "Scatterbug": 8,
@@ -1131,7 +1131,7 @@
         "Varoom": 14,
         "Weedle": 14,
         "Chef dente": 8,
-        "Hatenna": 13,
+        "Hatenna": 14,
         "Dugtrio": 1,
         "Kadabra": 3,
         "Sandile": 11,
@@ -1311,7 +1311,7 @@
         "Darkrai": 1,
         "Growlithe": 3,
         "Nihilego": 1,
-        "Slakoth": 6,
+        "Slakoth": 7,
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 2,
@@ -1698,10 +1698,11 @@
         "Snorlax": 1,
         "Sunny castform": 1,
         "Dracovish": 1,
-        "Salamence": 1
+        "Salamence": 1,
+        "Pincurchin": 1
       },
-      "total_spawns": 1582,
-      "last_spawn": "2026-06-28T08:43:57.499610"
+      "total_spawns": 1586,
+      "last_spawn": "2026-06-28T08:44:37.499166"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1711,7 +1712,7 @@
     }
   },
   "global": {
-    "total_spawns": 36704,
+    "total_spawns": 36708,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
