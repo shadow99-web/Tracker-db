@@ -79,7 +79,7 @@
         "Phantump": 40,
         "Duosion": 33,
         "Amaura": 35,
-        "Gimmighoul": 134,
+        "Gimmighoul": 135,
         "Baltoy": 40,
         "Mareep": 144,
         "Garbodor": 8,
@@ -264,7 +264,7 @@
         "Nincada": 49,
         "Fennekin": 47,
         "Quaxwell": 21,
-        "Vibrava": 44,
+        "Vibrava": 45,
         "Loudred": 48,
         "Ceruledge": 38,
         "Houndour": 32,
@@ -479,7 +479,7 @@
         "Slowpoke": 45,
         "Dolliv": 36,
         "Infernape": 8,
-        "Carkol": 32,
+        "Carkol": 33,
         "Magikarp": 31,
         "Tyrogue": 32,
         "Vikavolt": 4,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31097,
-      "last_spawn": "2026-06-28T09:51:10.099884"
+      "total_spawns": 31100,
+      "last_spawn": "2026-06-28T09:51:40.133789"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1714,7 +1714,7 @@
     }
   },
   "global": {
-    "total_spawns": 36984,
+    "total_spawns": 36987,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
