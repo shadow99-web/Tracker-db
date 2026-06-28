@@ -1169,7 +1169,7 @@
         "Salazzle": 1,
         "Skitty": 4,
         "Fletchling": 5,
-        "Orthworm": 8,
+        "Orthworm": 9,
         "Woobat": 5,
         "Happiny": 1,
         "Squirtle": 5,
@@ -1226,7 +1226,7 @@
         "Tarountula": 6,
         "Dottler": 1,
         "Paras": 1,
-        "Swablu": 4,
+        "Swablu": 5,
         "Darumaka": 2,
         "Wailmer": 1,
         "Jangmo-o": 6,
@@ -1336,7 +1336,7 @@
         "Bellsprout": 2,
         "Lickitung": 3,
         "Minccino": 4,
-        "Togepi": 4,
+        "Togepi": 5,
         "Milotic": 1,
         "Plusle": 2,
         "Galarian corsola": 1,
@@ -1709,10 +1709,11 @@
         "Snorunt": 1,
         "Poochyena": 1,
         "Gothitelle": 1,
-        "Annihilape": 1
+        "Annihilape": 1,
+        "Dewott": 1
       },
-      "total_spawns": 1660,
-      "last_spawn": "2026-06-28T10:35:01.750046"
+      "total_spawns": 1664,
+      "last_spawn": "2026-06-28T10:35:37.489712"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1722,7 +1723,7 @@
     }
   },
   "global": {
-    "total_spawns": 37065,
+    "total_spawns": 37069,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
