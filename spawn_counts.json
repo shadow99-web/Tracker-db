@@ -1256,7 +1256,7 @@
         "Scraggy": 3,
         "Mabosstiff": 3,
         "Lileep": 2,
-        "Cetoddle": 8,
+        "Cetoddle": 9,
         "Chespin": 2,
         "Naclstack": 5,
         "Ferrothorn": 2,
@@ -1294,7 +1294,7 @@
         "Meganium": 1,
         "Toedscruel": 1,
         "Klawf": 7,
-        "Grookey": 2,
+        "Grookey": 3,
         "Gossifleur": 4,
         "Joltik": 4,
         "Summer deerling": 1,
@@ -1592,7 +1592,7 @@
         "Palafin": 2,
         "Solrock": 1,
         "Nosepass": 3,
-        "Exploud": 1,
+        "Exploud": 2,
         "Stretchy tatsugiri": 2,
         "Elgyem": 2,
         "Yanma": 1,
@@ -1728,10 +1728,11 @@
         "Quaxwell": 1,
         "Tinkaton": 1,
         "Sunkern": 1,
-        "Heracross": 1
+        "Heracross": 1,
+        "Munna": 1
       },
-      "total_spawns": 1764,
-      "last_spawn": "2026-06-28T12:42:36.517584"
+      "total_spawns": 1768,
+      "last_spawn": "2026-06-28T12:43:07.591415"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1741,7 +1742,7 @@
     }
   },
   "global": {
-    "total_spawns": 37169,
+    "total_spawns": 37173,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
