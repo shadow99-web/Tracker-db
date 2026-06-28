@@ -1229,7 +1229,7 @@
         "Swablu": 5,
         "Darumaka": 2,
         "Wailmer": 1,
-        "Jangmo-o": 6,
+        "Jangmo-o": 7,
         "Aron": 10,
         "Kabuto": 3,
         "Togetic": 3,
@@ -1362,7 +1362,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 5,
-        "Maschiff": 9,
+        "Maschiff": 10,
         "Sprigatito": 6,
         "Toedscool": 9,
         "Luxio": 3,
@@ -1499,7 +1499,7 @@
         "Castform": 1,
         "Shelmet": 4,
         "Pyroar": 1,
-        "Tatsugiri": 1,
+        "Tatsugiri": 2,
         "Skwovet": 2,
         "Stufful": 3,
         "Roaring moon": 1,
@@ -1713,10 +1713,11 @@
         "Dewott": 1,
         "Arctibax": 1,
         "Jigglypuff": 1,
-        "Krokorok": 1
+        "Krokorok": 1,
+        "Litten": 1
       },
-      "total_spawns": 1707,
-      "last_spawn": "2026-06-28T12:32:57.676573"
+      "total_spawns": 1711,
+      "last_spawn": "2026-06-28T12:33:37.498582"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1726,7 +1727,7 @@
     }
   },
   "global": {
-    "total_spawns": 37112,
+    "total_spawns": 37116,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
