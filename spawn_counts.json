@@ -1168,7 +1168,7 @@
         "Flittle": 13,
         "Salazzle": 1,
         "Skitty": 6,
-        "Fletchling": 7,
+        "Fletchling": 8,
         "Orthworm": 10,
         "Woobat": 6,
         "Happiny": 1,
@@ -1372,7 +1372,7 @@
         "Wiglett": 9,
         "Farigiraf": 2,
         "Zubat": 6,
-        "Lotad": 3,
+        "Lotad": 4,
         "Sylveon": 1,
         "Omastar": 1,
         "Ralts": 4,
@@ -1384,7 +1384,7 @@
         "Klink": 4,
         "Mankey": 3,
         "Charmander": 2,
-        "Shroomish": 1,
+        "Shroomish": 2,
         "Finizen": 6,
         "Croconaw": 1,
         "Bronzor": 3,
@@ -1704,7 +1704,7 @@
         "Ledian": 1,
         "Fletchinder": 2,
         "Fennekin": 2,
-        "Omanyte": 1,
+        "Omanyte": 2,
         "Swampert": 1,
         "Snorunt": 3,
         "Poochyena": 1,
@@ -1766,8 +1766,8 @@
         "Decidueye": 1,
         "Golurk": 1
       },
-      "total_spawns": 2040,
-      "last_spawn": "2026-06-28T13:29:07.673726"
+      "total_spawns": 2044,
+      "last_spawn": "2026-06-28T13:29:47.647287"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1777,7 +1777,7 @@
     }
   },
   "global": {
-    "total_spawns": 37445,
+    "total_spawns": 37449,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
