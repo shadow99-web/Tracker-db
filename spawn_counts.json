@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 51,
         "Patrat": 35,
-        "Mosslax": 88,
+        "Mosslax": 89,
         "Drilbur": 30,
         "Pawmi": 116,
         "Electabuzz": 27,
@@ -53,7 +53,7 @@
         "Porygon": 136,
         "Zubat": 136,
         "Vanillish": 37,
-        "Tadbulb": 149,
+        "Tadbulb": 150,
         "Magnemite": 120,
         "Whismur": 112,
         "Monferno": 28,
@@ -95,7 +95,7 @@
         "Hoppip": 114,
         "Sandslash": 8,
         "Kabuto": 36,
-        "Scatterbug": 132,
+        "Scatterbug": 133,
         "Pumpkaboo": 32,
         "Numel": 34,
         "Carracosta": 7,
@@ -511,7 +511,7 @@
         "Sawk": 7,
         "Starmie": 13,
         "Simipour": 7,
-        "Goldeen": 29,
+        "Goldeen": 30,
         "Nickit": 42,
         "Ivysaur": 20,
         "Milcery": 34,
@@ -610,7 +610,7 @@
         "Houndstone": 14,
         "Sandy wormadam": 5,
         "Stunky": 29,
-        "Pupitar": 26,
+        "Pupitar": 27,
         "Avalugg": 10,
         "Magby": 13,
         "Wigglytuff": 6,
@@ -686,7 +686,7 @@
         "Butterfree": 5,
         "Koffing": 32,
         "Floragato": 16,
-        "Seel": 30,
+        "Seel": 31,
         "Shiinotic": 6,
         "Gumshoos": 4,
         "Pyroar": 9,
@@ -705,7 +705,7 @@
         "Espeon": 4,
         "Hatenna": 110,
         "Zoroark": 10,
-        "Lucario": 2,
+        "Lucario": 3,
         "Crustle": 11,
         "Combusken": 31,
         "Gourgeist": 11,
@@ -938,7 +938,7 @@
         "Sunshine cherrim": 5,
         "Beautifly": 9,
         "Ting-lu": 1,
-        "Hitmontop": 6,
+        "Hitmontop": 7,
         "Munchlax": 8,
         "Galarian ponyta": 2,
         "Hisuian goodra": 1,
@@ -1086,8 +1086,8 @@
         "Rapid strike urshifu": 1,
         "Galarian slowbro": 1
       },
-      "total_spawns": 26907,
-      "last_spawn": "2026-06-28T02:45:43.508356"
+      "total_spawns": 26915,
+      "last_spawn": "2026-06-28T02:46:13.598117"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1659,7 +1659,7 @@
     }
   },
   "global": {
-    "total_spawns": 32632,
+    "total_spawns": 32640,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
