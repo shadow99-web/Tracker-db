@@ -1402,7 +1402,7 @@
         "Barboach": 1,
         "Carvanha": 2,
         "Caterpie": 5,
-        "Dondozo": 7,
+        "Dondozo": 8,
         "Tranquill": 4,
         "Porygon": 8,
         "Wooloo": 4,
@@ -1668,7 +1668,7 @@
         "Pinsir": 1,
         "Bisharp": 2,
         "Amaura": 1,
-        "Weepinbell": 1,
+        "Weepinbell": 2,
         "Flutter mane": 1,
         "Blastoise": 1,
         "Piplup": 1,
@@ -1718,10 +1718,11 @@
         "Hoothoot": 1,
         "Pawmo": 1,
         "Drapion": 1,
-        "Venusaur": 1
+        "Venusaur": 1,
+        "Poliwrath": 1
       },
-      "total_spawns": 1727,
-      "last_spawn": "2026-06-28T12:36:27.634846"
+      "total_spawns": 1730,
+      "last_spawn": "2026-06-28T12:36:57.707648"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1731,7 +1732,7 @@
     }
   },
   "global": {
-    "total_spawns": 37132,
+    "total_spawns": 37135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
