@@ -1134,7 +1134,7 @@
         "Hatenna": 15,
         "Dugtrio": 1,
         "Kadabra": 4,
-        "Sandile": 12,
+        "Sandile": 13,
         "Riolu": 3,
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
@@ -1182,7 +1182,7 @@
         "Brambleghast": 1,
         "Rellor": 8,
         "Nincada": 3,
-        "Wattrel": 6,
+        "Wattrel": 7,
         "Entei": 1,
         "Flaaffy": 4,
         "Pikipek": 9,
@@ -1233,7 +1233,7 @@
         "Aron": 11,
         "Kabuto": 3,
         "Togetic": 3,
-        "Sewaddle": 9,
+        "Sewaddle": 10,
         "Eevee": 2,
         "Taillow": 2,
         "Pelipper": 1,
@@ -1256,7 +1256,7 @@
         "Scraggy": 3,
         "Mabosstiff": 3,
         "Lileep": 2,
-        "Cetoddle": 11,
+        "Cetoddle": 12,
         "Chespin": 2,
         "Naclstack": 6,
         "Ferrothorn": 2,
@@ -1381,7 +1381,7 @@
         "Tinkatuff": 2,
         "Ampharos": 1,
         "Goodra": 1,
-        "Klink": 3,
+        "Klink": 4,
         "Mankey": 3,
         "Charmander": 1,
         "Shroomish": 1,
@@ -1675,7 +1675,7 @@
         "Eiscue": 1,
         "Volcarona": 1,
         "Tangrowth": 1,
-        "Quagsire": 1,
+        "Quagsire": 2,
         "Yellow flower florges": 1,
         "Lanturn": 1,
         "Lilligant": 1,
@@ -1754,8 +1754,8 @@
         "Slurpuff": 1,
         "Rockruff": 1
       },
-      "total_spawns": 1936,
-      "last_spawn": "2026-06-28T13:15:18.196864"
+      "total_spawns": 1942,
+      "last_spawn": "2026-06-28T13:15:57.597233"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1765,7 +1765,7 @@
     }
   },
   "global": {
-    "total_spawns": 37341,
+    "total_spawns": 37347,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
