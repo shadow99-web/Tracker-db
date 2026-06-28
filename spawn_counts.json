@@ -1371,7 +1371,7 @@
         "Chandelure": 2,
         "Wiglett": 9,
         "Farigiraf": 2,
-        "Zubat": 6,
+        "Zubat": 7,
         "Lotad": 4,
         "Sylveon": 1,
         "Omastar": 1,
@@ -1646,7 +1646,7 @@
         "Greninja": 2,
         "Battle cyclizar": 2,
         "Lombre": 1,
-        "Cetitan": 2,
+        "Cetitan": 3,
         "Bewear": 1,
         "Cloyster": 1,
         "Centiskorch": 1,
@@ -1766,10 +1766,11 @@
         "Decidueye": 1,
         "Golurk": 1,
         "Scorbunny": 1,
-        "Nidorino": 1
+        "Nidorino": 1,
+        "Ludicolo": 1
       },
-      "total_spawns": 2080,
-      "last_spawn": "2026-06-28T13:35:37.504727"
+      "total_spawns": 2083,
+      "last_spawn": "2026-06-28T13:36:07.654763"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1779,7 +1780,7 @@
     }
   },
   "global": {
-    "total_spawns": 37485,
+    "total_spawns": 37488,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
