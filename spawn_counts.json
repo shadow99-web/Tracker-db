@@ -1298,7 +1298,7 @@
         "Gossifleur": 4,
         "Joltik": 4,
         "Summer deerling": 1,
-        "Heliolisk": 1,
+        "Heliolisk": 2,
         "Raboot": 2,
         "Vanillite": 6,
         "Krabby": 1,
@@ -1315,7 +1315,7 @@
         "Marowak": 1,
         "Sentret": 1,
         "Cottonee": 2,
-        "Horsea": 7,
+        "Horsea": 8,
         "Doduo": 1,
         "Ivysaur": 3,
         "Crustle": 1,
@@ -1733,10 +1733,11 @@
         "Pineco": 1,
         "Spearow": 1,
         "Rhyperior": 1,
-        "Farfetch'd": 1
+        "Farfetch'd": 1,
+        "Vespiquen": 1
       },
-      "total_spawns": 1812,
-      "last_spawn": "2026-06-28T12:50:07.520593"
+      "total_spawns": 1815,
+      "last_spawn": "2026-06-28T12:50:38.000243"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1746,7 +1747,7 @@
     }
   },
   "global": {
-    "total_spawns": 37217,
+    "total_spawns": 37220,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
