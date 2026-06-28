@@ -1153,7 +1153,7 @@
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 5,
-        "Froakie": 6,
+        "Froakie": 7,
         "Hawlucha": 1,
         "Feebas": 1,
         "Lapras": 2,
@@ -1293,7 +1293,7 @@
         "Zorua": 3,
         "Meganium": 1,
         "Toedscruel": 1,
-        "Klawf": 5,
+        "Klawf": 6,
         "Grookey": 2,
         "Gossifleur": 4,
         "Joltik": 4,
@@ -1717,10 +1717,11 @@
         "Litten": 1,
         "Hoothoot": 1,
         "Pawmo": 1,
-        "Drapion": 1
+        "Drapion": 1,
+        "Venusaur": 1
       },
-      "total_spawns": 1721,
-      "last_spawn": "2026-06-28T12:35:27.496170"
+      "total_spawns": 1724,
+      "last_spawn": "2026-06-28T12:35:57.597264"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1730,7 +1731,7 @@
     }
   },
   "global": {
-    "total_spawns": 37126,
+    "total_spawns": 37129,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
