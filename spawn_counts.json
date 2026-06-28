@@ -1162,7 +1162,7 @@
         "Meowth": 5,
         "Dj rotom": 9,
         "Prof tangrowth": 11,
-        "Charcadet": 15,
+        "Charcadet": 16,
         "Furfrou": 2,
         "Slaking": 2,
         "Flittle": 12,
@@ -1210,7 +1210,7 @@
         "Gimmighoul": 6,
         "Mienshao": 2,
         "Swinub": 14,
-        "Rabsca": 3,
+        "Rabsca": 4,
         "Floragato": 1,
         "Watchog": 1,
         "Boltund": 1,
@@ -1458,7 +1458,7 @@
         "Tentacruel": 1,
         "Exeggcute": 3,
         "Diglett": 4,
-        "Pidgey": 9,
+        "Pidgey": 10,
         "Gligar": 1,
         "Deino": 5,
         "Dolliv": 1,
@@ -1744,10 +1744,11 @@
         "White-striped basculin": 1,
         "Pangoro": 1,
         "Bronzong": 1,
-        "Bouffalant": 1
+        "Bouffalant": 1,
+        "Persian": 1
       },
-      "total_spawns": 1910,
-      "last_spawn": "2026-06-28T13:11:17.697643"
+      "total_spawns": 1914,
+      "last_spawn": "2026-06-28T13:11:57.444455"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1757,7 +1758,7 @@
     }
   },
   "global": {
-    "total_spawns": 37315,
+    "total_spawns": 37319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
