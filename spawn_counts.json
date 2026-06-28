@@ -1288,7 +1288,7 @@
         "Charizard": 1,
         "Kirlia": 3,
         "Treecko": 5,
-        "Veluza": 8,
+        "Veluza": 10,
         "Cyndaquil": 5,
         "Zorua": 3,
         "Meganium": 1,
@@ -1375,7 +1375,7 @@
         "Lotad": 3,
         "Sylveon": 1,
         "Omastar": 1,
-        "Ralts": 3,
+        "Ralts": 4,
         "Clamperl": 2,
         "Falinks": 1,
         "Tinkatuff": 2,
@@ -1554,7 +1554,7 @@
         "Anorith": 4,
         "Carkol": 2,
         "Seaking": 2,
-        "Quaxly": 2,
+        "Quaxly": 3,
         "Golbat": 4,
         "Beautifly": 1,
         "Houndstone": 3,
@@ -1738,8 +1738,8 @@
         "Crobat": 1,
         "Croagunk": 1
       },
-      "total_spawns": 1841,
-      "last_spawn": "2026-06-28T12:54:37.828222"
+      "total_spawns": 1845,
+      "last_spawn": "2026-06-28T12:55:08.418760"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1749,7 +1749,7 @@
     }
   },
   "global": {
-    "total_spawns": 37246,
+    "total_spawns": 37250,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
