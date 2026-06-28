@@ -1128,13 +1128,13 @@
         "Gible": 10,
         "Larvesta": 4,
         "Starly": 11,
-        "Varoom": 14,
+        "Varoom": 15,
         "Weedle": 15,
         "Chef dente": 9,
         "Hatenna": 14,
         "Dugtrio": 1,
         "Kadabra": 3,
-        "Sandile": 11,
+        "Sandile": 12,
         "Riolu": 3,
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
@@ -1479,11 +1479,11 @@
         "Pansear": 1,
         "Spheal": 4,
         "Espurr": 1,
-        "Poliwag": 6,
+        "Poliwag": 7,
         "Finneon": 3,
         "Starmie": 2,
         "Cufant": 2,
-        "Bellibolt": 3,
+        "Bellibolt": 4,
         "Hero palafin": 1,
         "Quilladin": 1,
         "Delibird": 1,
@@ -1735,8 +1735,8 @@
         "Rhyperior": 1,
         "Farfetch'd": 1
       },
-      "total_spawns": 1805,
-      "last_spawn": "2026-06-28T12:48:57.601504"
+      "total_spawns": 1809,
+      "last_spawn": "2026-06-28T12:49:37.502100"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1746,7 +1746,7 @@
     }
   },
   "global": {
-    "total_spawns": 37210,
+    "total_spawns": 37214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
