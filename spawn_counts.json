@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 51,
         "Patrat": 35,
-        "Mosslax": 90,
+        "Mosslax": 91,
         "Drilbur": 31,
         "Pawmi": 122,
         "Electabuzz": 27,
@@ -118,7 +118,7 @@
         "Flittle": 107,
         "Unfezant": 11,
         "Yamask": 30,
-        "Ralts": 106,
+        "Ralts": 107,
         "Solosis": 114,
         "Battle cyclizar": 52,
         "Togetic": 40,
@@ -131,7 +131,7 @@
         "Flamigo": 121,
         "Lillipup": 113,
         "Shinx": 144,
-        "Bounsweet": 117,
+        "Bounsweet": 118,
         "Noibat": 32,
         "Toxicroak": 8,
         "Charcadet": 146,
@@ -150,7 +150,7 @@
         "Dracovish": 9,
         "Bulbasaur": 34,
         "Roggenrola": 135,
-        "Pidove": 119,
+        "Pidove": 121,
         "Dragapult": 12,
         "Rattata": 76,
         "Flapple": 13,
@@ -160,7 +160,7 @@
         "Delcatty": 7,
         "Spiritomb": 6,
         "Yamper": 31,
-        "Tepig": 45,
+        "Tepig": 46,
         "Kirlia": 32,
         "Piplup": 32,
         "Kakuna": 33,
@@ -241,7 +241,7 @@
         "Galvantula": 9,
         "Chansey": 17,
         "Shroodle": 128,
-        "Duskull": 145,
+        "Duskull": 146,
         "Bergmite": 31,
         "Pignite": 30,
         "Lurantis": 3,
@@ -437,7 +437,7 @@
         "Paldean wooper": 6,
         "Salandit": 27,
         "School wishiwashi": 6,
-        "Snivy": 47,
+        "Snivy": 48,
         "Wyrdeer": 7,
         "Tangrowth": 2,
         "Galarian zen darmanitan": 2,
@@ -456,7 +456,7 @@
         "Sunflora": 6,
         "Passimian": 11,
         "Iron moth": 2,
-        "Cherubi": 27,
+        "Cherubi": 28,
         "Cradily": 10,
         "Vulpix": 27,
         "Paras": 32,
@@ -563,7 +563,7 @@
         "Braviary": 9,
         "Raboot": 35,
         "Golem": 8,
-        "Slowking": 11,
+        "Slowking": 12,
         "Lilligant": 14,
         "Rabsca": 29,
         "Gulpin": 34,
@@ -631,7 +631,7 @@
         "Krabby": 31,
         "Bronzong": 9,
         "Lanturn": 6,
-        "Cacnea": 23,
+        "Cacnea": 24,
         "Pom-pom oricorio": 10,
         "Hawlucha": 11,
         "Ursaring": 28,
@@ -999,7 +999,7 @@
         "Tyranitar": 3,
         "Inteleon": 5,
         "Rotom drone": 2,
-        "Aegislash": 4,
+        "Aegislash": 5,
         "Iron valiant": 1,
         "Beartic": 8,
         "Weezing": 3,
@@ -1088,8 +1088,8 @@
         "Hisuian electrode": 1,
         "Shaymin": 1
       },
-      "total_spawns": 27203,
-      "last_spawn": "2026-06-28T02:59:23.581207"
+      "total_spawns": 27215,
+      "last_spawn": "2026-06-28T02:59:53.597809"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 32928,
+    "total_spawns": 32940,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
