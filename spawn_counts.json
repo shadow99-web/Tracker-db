@@ -1209,7 +1209,7 @@
         "Frogadier": 3,
         "Gimmighoul": 5,
         "Mienshao": 2,
-        "Swinub": 11,
+        "Swinub": 12,
         "Rabsca": 3,
         "Floragato": 1,
         "Watchog": 1,
@@ -1295,7 +1295,7 @@
         "Toedscruel": 1,
         "Klawf": 5,
         "Grookey": 2,
-        "Gossifleur": 3,
+        "Gossifleur": 4,
         "Joltik": 3,
         "Summer deerling": 1,
         "Heliolisk": 1,
@@ -1706,10 +1706,11 @@
         "Fennekin": 1,
         "Omanyte": 1,
         "Swampert": 1,
-        "Snorunt": 1
+        "Snorunt": 1,
+        "Poochyena": 1
       },
-      "total_spawns": 1643,
-      "last_spawn": "2026-06-28T10:32:07.695006"
+      "total_spawns": 1646,
+      "last_spawn": "2026-06-28T10:32:38.199931"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1719,7 +1720,7 @@
     }
   },
   "global": {
-    "total_spawns": 37048,
+    "total_spawns": 37051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
