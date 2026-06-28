@@ -1180,7 +1180,7 @@
         "Impidimp": 10,
         "Solosis": 7,
         "Brambleghast": 1,
-        "Rellor": 5,
+        "Rellor": 6,
         "Nincada": 1,
         "Wattrel": 5,
         "Entei": 1,
@@ -1190,7 +1190,7 @@
         "Grovyle": 1,
         "Wartortle": 3,
         "Amped toxtricity": 1,
-        "Flamigo": 7,
+        "Flamigo": 8,
         "Aegislash": 1,
         "Inkay": 2,
         "Fidough": 7,
@@ -1699,10 +1699,12 @@
         "Sunny castform": 1,
         "Dracovish": 1,
         "Salamence": 1,
-        "Pincurchin": 1
+        "Pincurchin": 1,
+        "Murkrow": 1,
+        "Ledian": 1
       },
-      "total_spawns": 1589,
-      "last_spawn": "2026-06-28T08:45:07.809351"
+      "total_spawns": 1593,
+      "last_spawn": "2026-06-28T08:45:47.797935"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1712,7 +1714,7 @@
     }
   },
   "global": {
-    "total_spawns": 36711,
+    "total_spawns": 36715,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
