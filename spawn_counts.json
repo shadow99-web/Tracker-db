@@ -1329,7 +1329,7 @@
         "Electabuzz": 2,
         "Sensu oricorio": 1,
         "Whiscash": 1,
-        "Ursaring": 4,
+        "Ursaring": 5,
         "Staryu": 4,
         "Gallade": 1,
         "Rattata": 5,
@@ -1383,7 +1383,7 @@
         "Goodra": 1,
         "Klink": 4,
         "Mankey": 3,
-        "Charmander": 1,
+        "Charmander": 2,
         "Shroomish": 1,
         "Finizen": 6,
         "Croconaw": 1,
@@ -1762,10 +1762,11 @@
         "Morgrem": 1,
         "Lucario": 1,
         "Primarina": 1,
-        "Probopass": 1
+        "Probopass": 1,
+        "Decidueye": 1
       },
-      "total_spawns": 2008,
-      "last_spawn": "2026-06-28T13:23:47.476895"
+      "total_spawns": 2011,
+      "last_spawn": "2026-06-28T13:24:17.698458"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1775,7 +1776,7 @@
     }
   },
   "global": {
-    "total_spawns": 37413,
+    "total_spawns": 37416,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
