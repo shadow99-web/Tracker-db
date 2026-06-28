@@ -1125,12 +1125,12 @@
         "Scatterbug": 10,
         "Wurmple": 6,
         "Gothita": 17,
-        "Gible": 11,
+        "Gible": 12,
         "Larvesta": 4,
         "Starly": 11,
         "Varoom": 17,
         "Weedle": 15,
-        "Chef dente": 9,
+        "Chef dente": 10,
         "Hatenna": 15,
         "Dugtrio": 1,
         "Kadabra": 4,
@@ -1706,7 +1706,7 @@
         "Fennekin": 2,
         "Omanyte": 1,
         "Swampert": 1,
-        "Snorunt": 2,
+        "Snorunt": 3,
         "Poochyena": 1,
         "Gothitelle": 1,
         "Annihilape": 1,
@@ -1766,8 +1766,8 @@
         "Decidueye": 1,
         "Golurk": 1
       },
-      "total_spawns": 2022,
-      "last_spawn": "2026-06-28T13:26:07.554775"
+      "total_spawns": 2025,
+      "last_spawn": "2026-06-28T13:26:37.569764"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1777,7 +1777,7 @@
     }
   },
   "global": {
-    "total_spawns": 37427,
+    "total_spawns": 37430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
