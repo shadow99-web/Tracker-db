@@ -1168,7 +1168,7 @@
         "Flittle": 13,
         "Salazzle": 1,
         "Skitty": 6,
-        "Fletchling": 8,
+        "Fletchling": 9,
         "Orthworm": 10,
         "Woobat": 6,
         "Happiny": 1,
@@ -1361,7 +1361,7 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 6,
+        "Venipede": 7,
         "Maschiff": 11,
         "Sprigatito": 6,
         "Toedscool": 11,
@@ -1424,7 +1424,7 @@
         "Snivy": 5,
         "Roselia": 4,
         "Totodile": 2,
-        "Lunatone": 2,
+        "Lunatone": 3,
         "Zigzagoon": 1,
         "Timburr": 10,
         "Glalie": 1,
@@ -1771,8 +1771,8 @@
         "Orbeetle": 2,
         "Simipour": 1
       },
-      "total_spawns": 2142,
-      "last_spawn": "2026-06-28T13:47:17.489776"
+      "total_spawns": 2145,
+      "last_spawn": "2026-06-28T13:47:47.649452"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1782,7 +1782,7 @@
     }
   },
   "global": {
-    "total_spawns": 37547,
+    "total_spawns": 37550,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
