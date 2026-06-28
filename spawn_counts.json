@@ -3,7 +3,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Chimchar": 54,
+        "Chimchar": 55,
         "Patrat": 36,
         "Mosslax": 101,
         "Drilbur": 35,
@@ -11,7 +11,7 @@
         "Electabuzz": 29,
         "Rellor": 128,
         "Sandy burmy": 18,
-        "Wiglett": 120,
+        "Wiglett": 121,
         "Bombirdier": 122,
         "Litleo": 31,
         "Purrloin": 26,
@@ -29,7 +29,7 @@
         "Charmander": 62,
         "Morelull": 25,
         "Abra": 141,
-        "Sandile": 142,
+        "Sandile": 143,
         "Sandygast": 40,
         "Litwick": 171,
         "Grubbin": 124,
@@ -65,7 +65,7 @@
         "Ducklett": 34,
         "Lokix": 32,
         "Glimmora": 43,
-        "Starly": 138,
+        "Starly": 139,
         "Tandemaus": 117,
         "Smoliv": 147,
         "Gloom": 31,
@@ -119,7 +119,7 @@
         "Unfezant": 14,
         "Yamask": 33,
         "Ralts": 119,
-        "Solosis": 121,
+        "Solosis": 122,
         "Battle cyclizar": 55,
         "Togetic": 42,
         "Palpitoad": 23,
@@ -131,7 +131,7 @@
         "Flamigo": 129,
         "Lillipup": 126,
         "Shinx": 150,
-        "Bounsweet": 131,
+        "Bounsweet": 132,
         "Noibat": 32,
         "Toxicroak": 8,
         "Charcadet": 154,
@@ -154,7 +154,7 @@
         "Dragapult": 14,
         "Rattata": 80,
         "Flapple": 14,
-        "Aron": 139,
+        "Aron": 140,
         "Boldore": 33,
         "Spinarak": 44,
         "Delcatty": 7,
@@ -166,7 +166,7 @@
         "Kakuna": 34,
         "Weepinbell": 28,
         "Klawf": 150,
-        "Vanillite": 123,
+        "Vanillite": 124,
         "Flareon": 11,
         "Gastly": 125,
         "Taillow": 30,
@@ -214,7 +214,7 @@
         "Noivern": 4,
         "Feraligatr": 7,
         "Tynamo": 142,
-        "Orthworm": 135,
+        "Orthworm": 136,
         "Marill": 33,
         "Joltik": 41,
         "Politoed": 10,
@@ -306,7 +306,7 @@
         "Lileep": 37,
         "Rolycoly": 136,
         "Bronzor": 36,
-        "Dartrix": 36,
+        "Dartrix": 37,
         "Yellow flower florges": 5,
         "Zangoose": 9,
         "Flygon": 5,
@@ -421,7 +421,7 @@
         "Delibird": 13,
         "Ride cyclizar": 45,
         "Gothorita": 35,
-        "Varoom": 137,
+        "Varoom": 138,
         "Yellow plumage squawkabilly": 35,
         "Centiskorch": 10,
         "Low key toxtricity": 7,
@@ -779,7 +779,7 @@
         "Beedrill": 19,
         "Whimsicott": 10,
         "Wishiwashi": 10,
-        "Cofagrigus": 9,
+        "Cofagrigus": 10,
         "Camerupt": 12,
         "Castform": 13,
         "Weavile": 2,
@@ -798,7 +798,7 @@
         "Dustox": 7,
         "Gliscor": 4,
         "Mesprit": 2,
-        "Vaporeon": 9,
+        "Vaporeon": 10,
         "Unown i": 2,
         "Raichu": 6,
         "Mime jr.": 8,
@@ -997,7 +997,7 @@
         "Blade aegislash": 2,
         "Miltank": 4,
         "Tyranitar": 4,
-        "Inteleon": 6,
+        "Inteleon": 7,
         "Rotom drone": 2,
         "Aegislash": 6,
         "Iron valiant": 1,
@@ -1102,8 +1102,8 @@
         "Iron crown": 1,
         "Perrserker": 1
       },
-      "total_spawns": 29711,
-      "last_spawn": "2026-06-28T05:44:50.507050"
+      "total_spawns": 29725,
+      "last_spawn": "2026-06-28T05:45:23.303079"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1679,10 +1679,11 @@
         "Poltchageist": 1,
         "Minun": 1,
         "Garbodor": 1,
-        "Snom": 1
+        "Snom": 1,
+        "Skuntank": 1
       },
-      "total_spawns": 1510,
-      "last_spawn": "2026-06-28T05:22:00.103663"
+      "total_spawns": 1511,
+      "last_spawn": "2026-06-28T05:44:56.680427"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1692,7 +1693,7 @@
     }
   },
   "global": {
-    "total_spawns": 35508,
+    "total_spawns": 35523,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
