@@ -1404,7 +1404,7 @@
         "Caterpie": 5,
         "Dondozo": 7,
         "Tranquill": 4,
-        "Porygon": 7,
+        "Porygon": 8,
         "Wooloo": 4,
         "Oddish": 6,
         "Barraskewda": 1,
@@ -1526,7 +1526,7 @@
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
-        "Steelix": 1,
+        "Steelix": 2,
         "Avalugg": 1,
         "Yanmega": 1,
         "Arcanine": 1,
@@ -1712,10 +1712,11 @@
         "Annihilape": 1,
         "Dewott": 1,
         "Arctibax": 1,
-        "Jigglypuff": 1
+        "Jigglypuff": 1,
+        "Krokorok": 1
       },
-      "total_spawns": 1697,
-      "last_spawn": "2026-06-28T12:31:07.680698"
+      "total_spawns": 1700,
+      "last_spawn": "2026-06-28T12:31:47.572970"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1725,7 +1726,7 @@
     }
   },
   "global": {
-    "total_spawns": 37102,
+    "total_spawns": 37105,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
