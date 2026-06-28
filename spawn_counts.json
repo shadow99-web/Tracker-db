@@ -1300,7 +1300,7 @@
         "Summer deerling": 1,
         "Heliolisk": 2,
         "Raboot": 2,
-        "Vanillite": 6,
+        "Vanillite": 7,
         "Krabby": 1,
         "Clefable": 1,
         "Durant": 2,
@@ -1444,7 +1444,7 @@
         "Baltoy": 2,
         "Nidoking": 1,
         "Tentacool": 3,
-        "Servine": 5,
+        "Servine": 6,
         "Grubbin": 7,
         "Clobbopus": 3,
         "Bounsweet": 10,
@@ -1646,12 +1646,12 @@
         "Greninja": 2,
         "Battle cyclizar": 1,
         "Lombre": 1,
-        "Cetitan": 1,
+        "Cetitan": 2,
         "Bewear": 1,
         "Cloyster": 1,
         "Centiskorch": 1,
         "Poliwhirl": 2,
-        "Patrat": 1,
+        "Patrat": 2,
         "Samurott": 1,
         "Ditto": 1,
         "Smeargle": 1,
@@ -1765,8 +1765,8 @@
         "Probopass": 1,
         "Decidueye": 1
       },
-      "total_spawns": 2011,
-      "last_spawn": "2026-06-28T13:24:17.698458"
+      "total_spawns": 2015,
+      "last_spawn": "2026-06-28T13:25:01.651458"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1776,7 +1776,7 @@
     }
   },
   "global": {
-    "total_spawns": 37416,
+    "total_spawns": 37420,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
