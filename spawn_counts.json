@@ -1361,7 +1361,7 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 4,
+        "Venipede": 5,
         "Maschiff": 9,
         "Sprigatito": 5,
         "Toedscool": 8,
@@ -1463,7 +1463,7 @@
         "Deino": 5,
         "Dolliv": 1,
         "Passimian": 2,
-        "Shellos": 1,
+        "Shellos": 2,
         "Articuno": 1,
         "Surskit": 3,
         "Combee": 1,
@@ -1639,7 +1639,7 @@
         "Duosion": 1,
         "Mudbray": 2,
         "Bombirdier": 1,
-        "Haunter": 1,
+        "Haunter": 2,
         "Pirouette meloetta": 1,
         "Audino": 1,
         "Infernape": 1,
@@ -1704,10 +1704,11 @@
         "Ledian": 1,
         "Fletchinder": 1,
         "Fennekin": 1,
-        "Omanyte": 1
+        "Omanyte": 1,
+        "Swampert": 1
       },
-      "total_spawns": 1622,
-      "last_spawn": "2026-06-28T10:28:37.566345"
+      "total_spawns": 1626,
+      "last_spawn": "2026-06-28T10:29:17.407992"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1717,7 +1718,7 @@
     }
   },
   "global": {
-    "total_spawns": 37027,
+    "total_spawns": 37031,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
