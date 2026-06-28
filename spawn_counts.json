@@ -9,7 +9,7 @@
         "Drilbur": 35,
         "Pawmi": 134,
         "Electabuzz": 29,
-        "Rellor": 133,
+        "Rellor": 134,
         "Sandy burmy": 18,
         "Wiglett": 124,
         "Bombirdier": 125,
@@ -29,7 +29,7 @@
         "Charmander": 63,
         "Morelull": 26,
         "Abra": 144,
-        "Sandile": 149,
+        "Sandile": 150,
         "Sandygast": 41,
         "Litwick": 171,
         "Grubbin": 125,
@@ -60,13 +60,13 @@
         "Skwovet": 39,
         "Bramblin": 154,
         "Yanma": 29,
-        "Larvesta": 47,
+        "Larvesta": 48,
         "Beldum": 98,
         "Ducklett": 34,
         "Lokix": 32,
         "Glimmora": 43,
         "Starly": 143,
-        "Tandemaus": 120,
+        "Tandemaus": 121,
         "Smoliv": 149,
         "Gloom": 31,
         "Clefairy": 32,
@@ -100,7 +100,7 @@
         "Numel": 40,
         "Carracosta": 11,
         "Smearguru": 108,
-        "Veluza": 147,
+        "Veluza": 148,
         "Barboach": 48,
         "Klink": 109,
         "Honedge": 136,
@@ -129,7 +129,7 @@
         "Zigzagoon": 41,
         "Weedle": 156,
         "Flamigo": 131,
-        "Lillipup": 129,
+        "Lillipup": 130,
         "Shinx": 154,
         "Bounsweet": 134,
         "Noibat": 35,
@@ -305,7 +305,7 @@
         "Toxapex": 5,
         "Lileep": 37,
         "Rolycoly": 138,
-        "Bronzor": 37,
+        "Bronzor": 38,
         "Dartrix": 37,
         "Yellow flower florges": 5,
         "Zangoose": 9,
@@ -414,7 +414,7 @@
         "Armarouge": 40,
         "Tyrantrum": 4,
         "Larvitar": 62,
-        "Tentacool": 26,
+        "Tentacool": 27,
         "Volcanion": 1,
         "Roaming gimmighoul": 102,
         "Summer sawsbuck": 12,
@@ -531,7 +531,7 @@
         "Floatzel": 7,
         "Accelgor": 7,
         "Wormadam": 7,
-        "Axew": 123,
+        "Axew": 124,
         "Trevenant": 9,
         "Trubbish": 25,
         "Zorua": 23,
@@ -757,7 +757,7 @@
         "Iron boulder": 3,
         "Haxorus": 9,
         "Jynx": 14,
-        "Golisopod": 13,
+        "Golisopod": 14,
         "Greninja": 8,
         "Smoochum": 9,
         "Reuniclus": 9,
@@ -958,7 +958,7 @@
         "Florges": 2,
         "Dandy trim furfrou": 4,
         "Rapidash": 6,
-        "Mawile": 9,
+        "Mawile": 10,
         "Dusknoir": 8,
         "Sirfetch'd": 3,
         "Galarian darmanitan": 2,
@@ -1019,7 +1019,7 @@
         "Gyarados": 6,
         "Mightyena": 5,
         "Alcremie": 2,
-        "Sharpedo": 6,
+        "Sharpedo": 7,
         "Vanilla cream star sweet alcremie": 2,
         "Jirachi": 4,
         "Decidueye": 7,
@@ -1102,10 +1102,11 @@
         "Iron crown": 1,
         "Perrserker": 1,
         "Cosmoem": 1,
-        "Hisuian growlithe": 1
+        "Hisuian growlithe": 1,
+        "Hisuian arcanine": 1
       },
-      "total_spawns": 30235,
-      "last_spawn": "2026-06-28T06:39:09.799649"
+      "total_spawns": 30248,
+      "last_spawn": "2026-06-28T06:39:39.997542"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1692,10 +1693,11 @@
         "Drifblim": 1,
         "Druddigon": 1,
         "Spewpa": 1,
-        "Silcoon": 1
+        "Silcoon": 1,
+        "Snorlax": 1
       },
-      "total_spawns": 1545,
-      "last_spawn": "2026-06-28T06:36:38.404936"
+      "total_spawns": 1546,
+      "last_spawn": "2026-06-28T06:39:34.197658"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1705,7 +1707,7 @@
     }
   },
   "global": {
-    "total_spawns": 36067,
+    "total_spawns": 36081,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
