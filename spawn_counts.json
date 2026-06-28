@@ -1162,7 +1162,7 @@
         "Meowth": 4,
         "Dj rotom": 7,
         "Prof tangrowth": 10,
-        "Charcadet": 11,
+        "Charcadet": 12,
         "Furfrou": 2,
         "Slaking": 2,
         "Flittle": 10,
@@ -1369,7 +1369,7 @@
         "Fuecoco": 3,
         "Electrode": 1,
         "Chandelure": 1,
-        "Wiglett": 7,
+        "Wiglett": 8,
         "Farigiraf": 2,
         "Zubat": 6,
         "Lotad": 2,
@@ -1445,8 +1445,8 @@
         "Nidoking": 1,
         "Tentacool": 3,
         "Servine": 5,
-        "Grubbin": 5,
-        "Clobbopus": 2,
+        "Grubbin": 6,
+        "Clobbopus": 3,
         "Bounsweet": 8,
         "Crawdaunt": 2,
         "Hoppip": 9,
@@ -1712,8 +1712,8 @@
         "Annihilape": 1,
         "Dewott": 1
       },
-      "total_spawns": 1671,
-      "last_spawn": "2026-06-28T10:36:47.609574"
+      "total_spawns": 1675,
+      "last_spawn": "2026-06-28T10:37:27.577644"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1723,7 +1723,7 @@
     }
   },
   "global": {
-    "total_spawns": 37076,
+    "total_spawns": 37080,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
