@@ -1118,7 +1118,7 @@
         "Barbaracle": 2,
         "Amoonguss": 1,
         "Mosslax": 13,
-        "Rookidee": 14,
+        "Rookidee": 15,
         "Roggenrola": 10,
         "Armarouge": 4,
         "Gastly": 11,
@@ -1139,7 +1139,7 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
         "Hisuian voltorb": 1,
-        "Dreepy": 12,
+        "Dreepy": 13,
         "Bagon": 7,
         "Archen": 4,
         "Shinx": 12,
@@ -1736,10 +1736,12 @@
         "Farfetch'd": 1,
         "Vespiquen": 1,
         "Crobat": 1,
-        "Croagunk": 1
+        "Croagunk": 1,
+        "Voltorb": 1,
+        "Wimpod": 1
       },
-      "total_spawns": 1845,
-      "last_spawn": "2026-06-28T12:55:08.418760"
+      "total_spawns": 1849,
+      "last_spawn": "2026-06-28T12:55:47.503649"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1749,7 +1751,7 @@
     }
   },
   "global": {
-    "total_spawns": 37250,
+    "total_spawns": 37254,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
