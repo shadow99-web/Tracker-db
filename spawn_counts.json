@@ -32,7 +32,7 @@
         "Sandile": 137,
         "Sandygast": 39,
         "Litwick": 164,
-        "Grubbin": 118,
+        "Grubbin": 119,
         "Escavalier": 13,
         "Dratini": 91,
         "Kilowattrel": 33,
@@ -50,7 +50,7 @@
         "Greavard": 138,
         "Slugma": 43,
         "Grotle": 27,
-        "Porygon": 140,
+        "Porygon": 141,
         "Zubat": 144,
         "Vanillish": 38,
         "Tadbulb": 159,
@@ -84,7 +84,7 @@
         "Mareep": 137,
         "Garbodor": 6,
         "Slakoth": 136,
-        "Togepi": 119,
+        "Togepi": 121,
         "Falinks": 9,
         "Tropius": 8,
         "Poliwag": 119,
@@ -103,7 +103,7 @@
         "Veluza": 138,
         "Barboach": 46,
         "Klink": 105,
-        "Honedge": 132,
+        "Honedge": 133,
         "Wingull": 38,
         "Salamence": 5,
         "Drakloak": 30,
@@ -209,7 +209,7 @@
         "Swellow": 8,
         "Aipom": 37,
         "Growlithe": 32,
-        "Sewaddle": 136,
+        "Sewaddle": 137,
         "Fidough": 87,
         "Noivern": 4,
         "Feraligatr": 7,
@@ -259,7 +259,7 @@
         "Cetitan": 33,
         "Cubone": 31,
         "Gligar": 38,
-        "Tirtouga": 37,
+        "Tirtouga": 38,
         "Furret": 7,
         "Nincada": 45,
         "Fennekin": 44,
@@ -295,7 +295,7 @@
         "Torkoal": 10,
         "Ferroseed": 32,
         "Brionne": 23,
-        "Pancham": 30,
+        "Pancham": 31,
         "Venipede": 143,
         "Cacturne": 10,
         "Oddish": 138,
@@ -383,7 +383,7 @@
         "Wooloo": 28,
         "Drifloon": 31,
         "Golbat": 35,
-        "Swablu": 29,
+        "Swablu": 30,
         "Shellder": 30,
         "Crobat": 11,
         "Sandshrew": 36,
@@ -503,7 +503,7 @@
         "Mimikyu": 8,
         "Alolan sandslash": 2,
         "Empoleon": 4,
-        "Farigiraf": 29,
+        "Farigiraf": 30,
         "Hakamo-o": 20,
         "Glameow": 31,
         "Croagunk": 33,
@@ -565,7 +565,7 @@
         "Golem": 8,
         "Slowking": 12,
         "Lilligant": 14,
-        "Rabsca": 32,
+        "Rabsca": 33,
         "Gulpin": 35,
         "Crawdaunt": 9,
         "Magmortar": 8,
@@ -703,7 +703,7 @@
         "Litten": 44,
         "Abomasnow": 8,
         "Espeon": 4,
-        "Hatenna": 115,
+        "Hatenna": 116,
         "Zoroark": 10,
         "Lucario": 4,
         "Crustle": 11,
@@ -735,7 +735,7 @@
         "Azurill": 5,
         "Alolan rattata": 3,
         "Hippowdon": 7,
-        "Lumineon": 9,
+        "Lumineon": 10,
         "Thievul": 5,
         "Greedent": 8,
         "Ekans": 32,
@@ -1095,8 +1095,8 @@
         "Mew": 1,
         "Stunfisk": 1
       },
-      "total_spawns": 28473,
-      "last_spawn": "2026-06-28T03:53:09.977838"
+      "total_spawns": 28486,
+      "last_spawn": "2026-06-28T03:53:40.117850"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1324,7 +1324,7 @@
         "Rattata": 2,
         "Bellsprout": 2,
         "Lickitung": 3,
-        "Minccino": 3,
+        "Minccino": 4,
         "Togepi": 3,
         "Milotic": 1,
         "Plusle": 2,
@@ -1658,8 +1658,8 @@
         "Bisharp": 1,
         "Amaura": 1
       },
-      "total_spawns": 1440,
-      "last_spawn": "2026-06-28T03:51:16.301436"
+      "total_spawns": 1441,
+      "last_spawn": "2026-06-28T03:53:37.503698"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1669,7 +1669,7 @@
     }
   },
   "global": {
-    "total_spawns": 34200,
+    "total_spawns": 34214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
