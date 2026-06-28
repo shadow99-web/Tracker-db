@@ -1472,7 +1472,7 @@
         "Skiploom": 3,
         "Marshtomp": 2,
         "Lechonk": 6,
-        "Roaming gimmighoul": 5,
+        "Roaming gimmighoul": 6,
         "Breloom": 2,
         "Ninjask": 1,
         "Remoraid": 4,
@@ -1715,10 +1715,12 @@
         "Jigglypuff": 1,
         "Krokorok": 1,
         "Litten": 1,
-        "Hoothoot": 1
+        "Hoothoot": 1,
+        "Pawmo": 1,
+        "Drapion": 1
       },
-      "total_spawns": 1714,
-      "last_spawn": "2026-06-28T12:34:17.474223"
+      "total_spawns": 1717,
+      "last_spawn": "2026-06-28T12:34:47.558247"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1728,7 +1730,7 @@
     }
   },
   "global": {
-    "total_spawns": 37119,
+    "total_spawns": 37122,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
