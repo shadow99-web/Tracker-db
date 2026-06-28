@@ -1121,7 +1121,7 @@
         "Rookidee": 15,
         "Roggenrola": 10,
         "Armarouge": 4,
-        "Gastly": 11,
+        "Gastly": 12,
         "Scatterbug": 10,
         "Wurmple": 6,
         "Gothita": 17,
@@ -1366,7 +1366,7 @@
         "Sprigatito": 6,
         "Toedscool": 9,
         "Luxio": 3,
-        "Fuecoco": 3,
+        "Fuecoco": 4,
         "Electrode": 1,
         "Chandelure": 2,
         "Wiglett": 9,
@@ -1406,7 +1406,7 @@
         "Tranquill": 4,
         "Porygon": 9,
         "Wooloo": 4,
-        "Oddish": 6,
+        "Oddish": 7,
         "Barraskewda": 1,
         "Shieldon": 3,
         "Piloswine": 3,
@@ -1594,7 +1594,7 @@
         "Nosepass": 3,
         "Exploud": 3,
         "Stretchy tatsugiri": 2,
-        "Elgyem": 2,
+        "Elgyem": 3,
         "Yanma": 1,
         "Gabite": 2,
         "Meowscarada": 1,
@@ -1747,10 +1747,11 @@
         "Bouffalant": 1,
         "Persian": 1,
         "Stunky": 1,
-        "Noctowl": 1
+        "Noctowl": 1,
+        "Foongus": 1
       },
-      "total_spawns": 1922,
-      "last_spawn": "2026-06-28T13:13:38.002239"
+      "total_spawns": 1927,
+      "last_spawn": "2026-06-28T13:14:17.451988"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1760,7 +1761,7 @@
     }
   },
   "global": {
-    "total_spawns": 37327,
+    "total_spawns": 37332,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
