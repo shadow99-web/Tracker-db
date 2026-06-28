@@ -22,7 +22,7 @@
         "Tangela": 32,
         "Orbeetle": 7,
         "Dedenne": 8,
-        "Machop": 100,
+        "Machop": 101,
         "Dudunsparce": 23,
         "Gothita": 117,
         "Impidimp": 106,
@@ -67,7 +67,7 @@
         "Glimmora": 41,
         "Starly": 125,
         "Tandemaus": 104,
-        "Smoliv": 132,
+        "Smoliv": 133,
         "Gloom": 28,
         "Clefairy": 29,
         "Spinda": 8,
@@ -102,7 +102,7 @@
         "Smearguru": 95,
         "Veluza": 132,
         "Barboach": 44,
-        "Klink": 96,
+        "Klink": 97,
         "Honedge": 121,
         "Wingull": 38,
         "Salamence": 5,
@@ -213,7 +213,7 @@
         "Fidough": 82,
         "Noivern": 4,
         "Feraligatr": 7,
-        "Tynamo": 132,
+        "Tynamo": 133,
         "Orthworm": 119,
         "Marill": 31,
         "Joltik": 36,
@@ -324,11 +324,11 @@
         "Murkrow": 28,
         "Bellsprout": 137,
         "Mudbray": 33,
-        "Dreepy": 113,
+        "Dreepy": 114,
         "Tinkaton": 8,
         "Corviknight": 11,
         "Froakie": 35,
-        "Nymble": 107,
+        "Nymble": 108,
         "Ferrothorn": 5,
         "Servine": 31,
         "Blitzle": 29,
@@ -743,7 +743,7 @@
         "Pelipper": 10,
         "Metapod": 22,
         "Kricketune": 13,
-        "Nidoqueen": 5,
+        "Nidoqueen": 6,
         "Hitmonchan": 3,
         "Relicanth": 9,
         "Klefki": 7,
@@ -1024,7 +1024,7 @@
         "Jirachi": 3,
         "Decidueye": 6,
         "Combat breed tauros": 1,
-        "Swoobat": 5,
+        "Swoobat": 6,
         "Mr. rime": 1,
         "Meganium": 3,
         "Raikou": 1,
@@ -1035,7 +1035,7 @@
         "Galarian stunfisk": 2,
         "Dugtrio": 4,
         "Jungle vivillon": 3,
-        "Chimecho": 1,
+        "Chimecho": 2,
         "River vivillon": 1,
         "Kartana": 1,
         "Poison silvally": 1,
@@ -1087,8 +1087,8 @@
         "Galarian slowbro": 1,
         "Hisuian electrode": 1
       },
-      "total_spawns": 26962,
-      "last_spawn": "2026-06-28T02:48:53.296525"
+      "total_spawns": 26971,
+      "last_spawn": "2026-06-28T02:49:23.301207"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1660,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 32687,
+    "total_spawns": 32696,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
