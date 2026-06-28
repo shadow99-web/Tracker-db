@@ -1274,7 +1274,7 @@
         "Chimchar": 5,
         "Trash wormadam": 2,
         "Bramblin": 7,
-        "Vulpix": 6,
+        "Vulpix": 7,
         "Hippowdon": 3,
         "Tinkatink": 5,
         "Jumpluff": 1,
@@ -1381,7 +1381,7 @@
         "Tinkatuff": 2,
         "Ampharos": 1,
         "Goodra": 1,
-        "Klink": 2,
+        "Klink": 3,
         "Mankey": 3,
         "Charmander": 1,
         "Shroomish": 1,
@@ -1703,10 +1703,11 @@
         "Murkrow": 1,
         "Ledian": 1,
         "Fletchinder": 1,
-        "Fennekin": 1
+        "Fennekin": 1,
+        "Omanyte": 1
       },
-      "total_spawns": 1619,
-      "last_spawn": "2026-06-28T10:28:07.476643"
+      "total_spawns": 1622,
+      "last_spawn": "2026-06-28T10:28:37.566345"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1716,7 +1717,7 @@
     }
   },
   "global": {
-    "total_spawns": 37024,
+    "total_spawns": 37027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
