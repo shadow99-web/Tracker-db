@@ -1124,7 +1124,7 @@
         "Gastly": 10,
         "Scatterbug": 8,
         "Wurmple": 5,
-        "Gothita": 16,
+        "Gothita": 17,
         "Gible": 10,
         "Larvesta": 4,
         "Starly": 9,
@@ -1145,7 +1145,7 @@
         "Shinx": 12,
         "Pikachu": 4,
         "Rhyhorn": 4,
-        "Tynamo": 9,
+        "Tynamo": 10,
         "Tandemaus": 7,
         "Smearguru": 8,
         "Magnemite": 12,
@@ -1520,7 +1520,7 @@
         "Wugtrio": 1,
         "Magneton": 2,
         "Toxel": 3,
-        "Dachsbun": 2,
+        "Dachsbun": 3,
         "Cascoon": 3,
         "Larvitar": 7,
         "Arctovish": 1,
@@ -1549,7 +1549,7 @@
         "Sealeo": 3,
         "Wynaut": 1,
         "Staravia": 1,
-        "Spidops": 2,
+        "Spidops": 3,
         "Appletun": 1,
         "Anorith": 3,
         "Carkol": 1,
@@ -1703,8 +1703,8 @@
         "Murkrow": 1,
         "Ledian": 1
       },
-      "total_spawns": 1593,
-      "last_spawn": "2026-06-28T08:45:47.797935"
+      "total_spawns": 1597,
+      "last_spawn": "2026-06-28T08:46:29.801547"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1714,7 +1714,7 @@
     }
   },
   "global": {
-    "total_spawns": 36715,
+    "total_spawns": 36719,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
