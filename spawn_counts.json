@@ -1123,7 +1123,7 @@
         "Armarouge": 4,
         "Gastly": 10,
         "Scatterbug": 10,
-        "Wurmple": 5,
+        "Wurmple": 6,
         "Gothita": 17,
         "Gible": 10,
         "Larvesta": 4,
@@ -1350,7 +1350,7 @@
         "Duskull": 5,
         "Vigoroth": 2,
         "Seviper": 2,
-        "Goomy": 4,
+        "Goomy": 5,
         "Nickit": 1,
         "Sandshrew": 2,
         "Tirtouga": 2,
@@ -1714,10 +1714,11 @@
         "Arctibax": 1,
         "Jigglypuff": 1,
         "Krokorok": 1,
-        "Litten": 1
+        "Litten": 1,
+        "Hoothoot": 1
       },
-      "total_spawns": 1711,
-      "last_spawn": "2026-06-28T12:33:37.498582"
+      "total_spawns": 1714,
+      "last_spawn": "2026-06-28T12:34:17.474223"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1727,7 +1728,7 @@
     }
   },
   "global": {
-    "total_spawns": 37116,
+    "total_spawns": 37119,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
