@@ -1181,7 +1181,7 @@
         "Solosis": 7,
         "Brambleghast": 1,
         "Rellor": 7,
-        "Nincada": 1,
+        "Nincada": 2,
         "Wattrel": 6,
         "Entei": 1,
         "Flaaffy": 3,
@@ -1258,7 +1258,7 @@
         "Lileep": 2,
         "Cetoddle": 9,
         "Chespin": 2,
-        "Naclstack": 5,
+        "Naclstack": 6,
         "Ferrothorn": 2,
         "Karrablast": 4,
         "Sinistea": 8,
@@ -1336,7 +1336,7 @@
         "Bellsprout": 3,
         "Lickitung": 4,
         "Minccino": 6,
-        "Togepi": 6,
+        "Togepi": 7,
         "Milotic": 1,
         "Plusle": 2,
         "Galarian corsola": 1,
@@ -1734,10 +1734,11 @@
         "Spearow": 1,
         "Rhyperior": 1,
         "Farfetch'd": 1,
-        "Vespiquen": 1
+        "Vespiquen": 1,
+        "Crobat": 1
       },
-      "total_spawns": 1815,
-      "last_spawn": "2026-06-28T12:50:38.000243"
+      "total_spawns": 1819,
+      "last_spawn": "2026-06-28T12:51:10.408075"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1747,7 +1748,7 @@
     }
   },
   "global": {
-    "total_spawns": 37220,
+    "total_spawns": 37224,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
