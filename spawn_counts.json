@@ -1122,7 +1122,7 @@
         "Roggenrola": 10,
         "Armarouge": 4,
         "Gastly": 10,
-        "Scatterbug": 8,
+        "Scatterbug": 10,
         "Wurmple": 5,
         "Gothita": 17,
         "Gible": 10,
@@ -1207,7 +1207,7 @@
         "Smoliv": 5,
         "Pawniard": 1,
         "Frogadier": 3,
-        "Gimmighoul": 5,
+        "Gimmighoul": 6,
         "Mienshao": 2,
         "Swinub": 12,
         "Rabsca": 3,
@@ -1303,7 +1303,7 @@
         "Vanillite": 5,
         "Krabby": 1,
         "Clefable": 1,
-        "Durant": 1,
+        "Durant": 2,
         "Pidgeotto": 2,
         "Maushold": 2,
         "Dewpider": 1,
@@ -1709,8 +1709,8 @@
         "Snorunt": 1,
         "Poochyena": 1
       },
-      "total_spawns": 1646,
-      "last_spawn": "2026-06-28T10:32:38.199931"
+      "total_spawns": 1650,
+      "last_spawn": "2026-06-28T10:33:17.626997"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1720,7 +1720,7 @@
     }
   },
   "global": {
-    "total_spawns": 37051,
+    "total_spawns": 37055,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
