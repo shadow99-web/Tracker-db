@@ -1399,7 +1399,7 @@
         "Slowbro": 1,
         "Yamask": 3,
         "Tympole": 14,
-        "Barboach": 2,
+        "Barboach": 3,
         "Carvanha": 2,
         "Caterpie": 6,
         "Dondozo": 11,
@@ -1689,7 +1689,7 @@
         "Escavalier": 1,
         "Dusknoir": 1,
         "Cacnea": 1,
-        "Ponyta": 2,
+        "Ponyta": 3,
         "Vullaby": 1,
         "Drifblim": 1,
         "Druddigon": 1,
@@ -1769,10 +1769,11 @@
         "Nidorino": 2,
         "Ludicolo": 1,
         "Orbeetle": 2,
-        "Simipour": 1
+        "Simipour": 1,
+        "Natu": 1
       },
-      "total_spawns": 2166,
-      "last_spawn": "2026-06-28T15:44:27.599735"
+      "total_spawns": 2169,
+      "last_spawn": "2026-06-28T15:45:01.455695"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1782,7 +1783,7 @@
     }
   },
   "global": {
-    "total_spawns": 37571,
+    "total_spawns": 37574,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
