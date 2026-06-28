@@ -1204,7 +1204,7 @@
         "Axew": 9,
         "Ride cyclizar": 3,
         "Trapinch": 4,
-        "Smoliv": 6,
+        "Smoliv": 7,
         "Pawniard": 1,
         "Frogadier": 3,
         "Gimmighoul": 6,
@@ -1216,7 +1216,7 @@
         "Boltund": 1,
         "Lillipup": 10,
         "Ducklett": 4,
-        "Mareep": 7,
+        "Mareep": 8,
         "Tadbulb": 7,
         "Helioptile": 2,
         "Blitzle": 5,
@@ -1566,7 +1566,7 @@
         "Drilbur": 1,
         "Mismagius": 1,
         "Bonsly": 1,
-        "Porygon-z": 1,
+        "Porygon-z": 2,
         "Chewtle": 1,
         "Aurorus": 1,
         "Morelull": 1,
@@ -1702,7 +1702,7 @@
         "Pincurchin": 1,
         "Murkrow": 1,
         "Ledian": 1,
-        "Fletchinder": 1,
+        "Fletchinder": 2,
         "Fennekin": 2,
         "Omanyte": 1,
         "Swampert": 1,
@@ -1737,8 +1737,8 @@
         "Vespiquen": 1,
         "Crobat": 1
       },
-      "total_spawns": 1826,
-      "last_spawn": "2026-06-28T12:52:17.612260"
+      "total_spawns": 1830,
+      "last_spawn": "2026-06-28T12:52:59.186284"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1748,7 +1748,7 @@
     }
   },
   "global": {
-    "total_spawns": 37231,
+    "total_spawns": 37235,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
