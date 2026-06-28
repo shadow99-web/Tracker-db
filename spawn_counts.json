@@ -1178,7 +1178,7 @@
         "Bergmite": 3,
         "Lairon": 2,
         "Impidimp": 11,
-        "Solosis": 7,
+        "Solosis": 8,
         "Brambleghast": 1,
         "Rellor": 8,
         "Nincada": 3,
@@ -1398,7 +1398,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 1,
-        "Tympole": 12,
+        "Tympole": 13,
         "Barboach": 1,
         "Carvanha": 2,
         "Caterpie": 6,
@@ -1447,7 +1447,7 @@
         "Servine": 5,
         "Grubbin": 7,
         "Clobbopus": 3,
-        "Bounsweet": 9,
+        "Bounsweet": 10,
         "Crawdaunt": 2,
         "Hoppip": 9,
         "Shroodle": 2,
@@ -1748,10 +1748,12 @@
         "Persian": 1,
         "Stunky": 1,
         "Noctowl": 1,
-        "Foongus": 1
+        "Foongus": 1,
+        "Klefki": 1,
+        "Haxorus": 1
       },
-      "total_spawns": 1927,
-      "last_spawn": "2026-06-28T13:14:17.451988"
+      "total_spawns": 1932,
+      "last_spawn": "2026-06-28T13:14:47.501037"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1761,7 +1763,7 @@
     }
   },
   "global": {
-    "total_spawns": 37332,
+    "total_spawns": 37337,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
