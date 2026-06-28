@@ -1141,7 +1141,7 @@
         "Hisuian voltorb": 1,
         "Dreepy": 12,
         "Bagon": 7,
-        "Archen": 3,
+        "Archen": 4,
         "Shinx": 12,
         "Pikachu": 4,
         "Rhyhorn": 4,
@@ -1196,7 +1196,7 @@
         "Fidough": 7,
         "Spritzee": 5,
         "Squawkabilly": 3,
-        "Beldum": 10,
+        "Beldum": 11,
         "Whismur": 4,
         "Crabrawler": 3,
         "Mudkip": 2,
@@ -1266,7 +1266,7 @@
         "Machamp": 1,
         "Sceptile": 1,
         "Shelgon": 2,
-        "Dratini": 6,
+        "Dratini": 7,
         "Coalossal": 1,
         "Gumshoos": 1,
         "Cherubi": 1,
@@ -1719,10 +1719,11 @@
         "Pawmo": 1,
         "Drapion": 1,
         "Venusaur": 1,
-        "Poliwrath": 1
+        "Poliwrath": 1,
+        "Pharaoh trim furfrou": 1
       },
-      "total_spawns": 1730,
-      "last_spawn": "2026-06-28T12:36:57.707648"
+      "total_spawns": 1734,
+      "last_spawn": "2026-06-28T12:37:37.716327"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1732,7 +1733,7 @@
     }
   },
   "global": {
-    "total_spawns": 37135,
+    "total_spawns": 37139,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
