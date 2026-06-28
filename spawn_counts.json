@@ -1121,7 +1121,7 @@
         "Rookidee": 14,
         "Roggenrola": 10,
         "Armarouge": 4,
-        "Gastly": 10,
+        "Gastly": 11,
         "Scatterbug": 10,
         "Wurmple": 6,
         "Gothita": 17,
@@ -1219,7 +1219,7 @@
         "Mareep": 7,
         "Tadbulb": 7,
         "Helioptile": 2,
-        "Blitzle": 4,
+        "Blitzle": 5,
         "Pidove": 10,
         "Doublade": 1,
         "Quilava": 3,
@@ -1247,7 +1247,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 1,
         "Vikavolt": 1,
-        "Peakychu": 7,
+        "Peakychu": 8,
         "Absol": 2,
         "Inteleon": 2,
         "Mimikyu": 1,
@@ -1723,10 +1723,12 @@
         "Pharaoh trim furfrou": 1,
         "Chansey": 1,
         "Accelgor": 1,
-        "Forretress": 1
+        "Forretress": 1,
+        "Orange flower floette": 1,
+        "Quaxwell": 1
       },
-      "total_spawns": 1751,
-      "last_spawn": "2026-06-28T12:40:45.094887"
+      "total_spawns": 1756,
+      "last_spawn": "2026-06-28T12:41:17.796291"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1736,7 +1738,7 @@
     }
   },
   "global": {
-    "total_spawns": 37156,
+    "total_spawns": 37161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
