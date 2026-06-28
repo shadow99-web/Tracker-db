@@ -1227,9 +1227,9 @@
         "Dottler": 1,
         "Paras": 1,
         "Swablu": 7,
-        "Darumaka": 2,
+        "Darumaka": 3,
         "Wailmer": 1,
-        "Jangmo-o": 8,
+        "Jangmo-o": 9,
         "Aron": 11,
         "Kabuto": 3,
         "Togetic": 4,
@@ -1630,7 +1630,7 @@
         "Ursaluna": 1,
         "Cranidos": 2,
         "Sandy burmy": 1,
-        "Dragalge": 1,
+        "Dragalge": 2,
         "Three-segment dudunsparce": 1,
         "Corviknight": 1,
         "Mareanie": 3,
@@ -1747,7 +1747,7 @@
         "Bouffalant": 1,
         "Persian": 1,
         "Stunky": 1,
-        "Noctowl": 1,
+        "Noctowl": 2,
         "Foongus": 1,
         "Klefki": 1,
         "Haxorus": 1,
@@ -1769,8 +1769,8 @@
         "Nidorino": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 2094,
-      "last_spawn": "2026-06-28T13:37:57.627739"
+      "total_spawns": 2098,
+      "last_spawn": "2026-06-28T13:38:37.407790"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1780,7 +1780,7 @@
     }
   },
   "global": {
-    "total_spawns": 37499,
+    "total_spawns": 37503,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
