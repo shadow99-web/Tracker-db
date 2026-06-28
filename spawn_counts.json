@@ -27,7 +27,7 @@
         "Gothita": 127,
         "Impidimp": 120,
         "Charmander": 60,
-        "Morelull": 23,
+        "Morelull": 24,
         "Abra": 140,
         "Sandile": 140,
         "Sandygast": 39,
@@ -67,7 +67,7 @@
         "Glimmora": 43,
         "Starly": 135,
         "Tandemaus": 115,
-        "Smoliv": 144,
+        "Smoliv": 145,
         "Gloom": 30,
         "Clefairy": 31,
         "Spinda": 8,
@@ -215,7 +215,7 @@
         "Feraligatr": 7,
         "Tynamo": 138,
         "Orthworm": 133,
-        "Marill": 31,
+        "Marill": 32,
         "Joltik": 40,
         "Politoed": 10,
         "Cyndaquil": 43,
@@ -225,7 +225,7 @@
         "Rillaboom": 12,
         "Ninetales": 12,
         "Wattrel": 132,
-        "Snubbull": 32,
+        "Snubbull": 33,
         "Spidops": 29,
         "Braixen": 28,
         "Drowzee": 26,
@@ -278,7 +278,7 @@
         "Stoutland": 9,
         "Rowlet": 46,
         "Galarian slowpoke": 3,
-        "Poliwhirl": 32,
+        "Poliwhirl": 33,
         "Crocalor": 35,
         "Cryogonal": 10,
         "Eternatus": 1,
@@ -416,11 +416,11 @@
         "Larvitar": 60,
         "Tentacool": 26,
         "Volcanion": 1,
-        "Roaming gimmighoul": 99,
+        "Roaming gimmighoul": 100,
         "Summer sawsbuck": 12,
         "Delibird": 13,
         "Ride cyclizar": 44,
-        "Gothorita": 34,
+        "Gothorita": 35,
         "Varoom": 135,
         "Yellow plumage squawkabilly": 34,
         "Centiskorch": 10,
@@ -486,7 +486,7 @@
         "Trash burmy": 13,
         "Staravia": 37,
         "Chatot": 9,
-        "Houndoom": 15,
+        "Houndoom": 16,
         "Dottler": 31,
         "Eevee": 34,
         "Copperajah": 7,
@@ -565,7 +565,7 @@
         "Golem": 8,
         "Slowking": 12,
         "Lilligant": 14,
-        "Rabsca": 33,
+        "Rabsca": 34,
         "Gulpin": 35,
         "Crawdaunt": 9,
         "Magmortar": 8,
@@ -675,7 +675,7 @@
         "Quaquaval": 10,
         "Sprigatito": 42,
         "Metagross": 5,
-        "Eelektrik": 30,
+        "Eelektrik": 31,
         "Gastrodon": 10,
         "Golurk": 6,
         "Arcanine": 6,
@@ -740,7 +740,7 @@
         "Greedent": 8,
         "Ekans": 34,
         "Venonat": 24,
-        "Pelipper": 10,
+        "Pelipper": 11,
         "Metapod": 25,
         "Kricketune": 14,
         "Nidoqueen": 6,
@@ -1101,8 +1101,8 @@
         "Alolan diglett": 1,
         "Iron crown": 1
       },
-      "total_spawns": 29162,
-      "last_spawn": "2026-06-28T05:21:39.798747"
+      "total_spawns": 29173,
+      "last_spawn": "2026-06-28T05:22:09.948044"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1677,10 +1677,11 @@
         "Mantyke": 1,
         "Poltchageist": 1,
         "Minun": 1,
-        "Garbodor": 1
+        "Garbodor": 1,
+        "Snom": 1
       },
-      "total_spawns": 1509,
-      "last_spawn": "2026-06-28T05:08:02.801050"
+      "total_spawns": 1510,
+      "last_spawn": "2026-06-28T05:22:00.103663"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1690,7 +1691,7 @@
     }
   },
   "global": {
-    "total_spawns": 34958,
+    "total_spawns": 34970,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
