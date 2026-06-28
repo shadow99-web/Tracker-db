@@ -7,7 +7,7 @@
         "Patrat": 35,
         "Mosslax": 89,
         "Drilbur": 30,
-        "Pawmi": 116,
+        "Pawmi": 117,
         "Electabuzz": 27,
         "Rellor": 108,
         "Sandy burmy": 18,
@@ -79,7 +79,7 @@
         "Phantump": 35,
         "Duosion": 30,
         "Amaura": 29,
-        "Gimmighoul": 115,
+        "Gimmighoul": 116,
         "Baltoy": 38,
         "Mareep": 127,
         "Garbodor": 6,
@@ -201,7 +201,7 @@
         "Probopass": 8,
         "Scraggy": 31,
         "Rhydon": 32,
-        "Silcoon": 37,
+        "Silcoon": 38,
         "Totodile": 39,
         "Dodrio": 9,
         "Cufant": 38,
@@ -264,7 +264,7 @@
         "Nincada": 43,
         "Fennekin": 43,
         "Quaxwell": 20,
-        "Vibrava": 41,
+        "Vibrava": 42,
         "Loudred": 43,
         "Ceruledge": 35,
         "Houndour": 28,
@@ -316,7 +316,7 @@
         "Munna": 25,
         "Pawniard": 24,
         "Prof tangrowth": 93,
-        "Jangmo-o": 58,
+        "Jangmo-o": 59,
         "Trash wormadam": 10,
         "Quaxly": 47,
         "Gossifleur": 39,
@@ -414,7 +414,7 @@
         "Armarouge": 37,
         "Tyrantrum": 1,
         "Larvitar": 58,
-        "Tentacool": 22,
+        "Tentacool": 23,
         "Volcanion": 1,
         "Roaming gimmighoul": 92,
         "Summer sawsbuck": 11,
@@ -424,7 +424,7 @@
         "Varoom": 124,
         "Yellow plumage squawkabilly": 32,
         "Centiskorch": 10,
-        "Low key toxtricity": 6,
+        "Low key toxtricity": 7,
         "Grapploct": 5,
         "Gurdurr": 25,
         "Girafarig": 9,
@@ -763,7 +763,7 @@
         "Reuniclus": 9,
         "Smeargle": 9,
         "Gorebyss": 6,
-        "Yanmega": 5,
+        "Yanmega": 6,
         "Pawmo": 20,
         "Finneon": 21,
         "Mamoswine": 11,
@@ -1084,10 +1084,11 @@
         "White flower florges": 1,
         "Zygarde core": 1,
         "Rapid strike urshifu": 1,
-        "Galarian slowbro": 1
+        "Galarian slowbro": 1,
+        "Hisuian electrode": 1
       },
-      "total_spawns": 26933,
-      "last_spawn": "2026-06-28T02:47:15.483082"
+      "total_spawns": 26942,
+      "last_spawn": "2026-06-28T02:47:45.518247"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1659,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 32658,
+    "total_spawns": 32667,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
