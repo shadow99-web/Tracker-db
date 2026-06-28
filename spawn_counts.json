@@ -1239,7 +1239,7 @@
         "Pelipper": 1,
         "Hattrem": 2,
         "Machoke": 2,
-        "Litwick": 16,
+        "Litwick": 17,
         "Frost rotom": 1,
         "Cubchoo": 5,
         "Abra": 15,
@@ -1418,7 +1418,7 @@
         "Dudunsparce": 1,
         "Whirlipede": 2,
         "Skiddo": 2,
-        "Spiritomb": 2,
+        "Spiritomb": 3,
         "Seadra": 1,
         "Seedot": 7,
         "Snivy": 3,
@@ -1712,7 +1712,7 @@
         "Annihilape": 1,
         "Dewott": 1,
         "Arctibax": 1,
-        "Jigglypuff": 1,
+        "Jigglypuff": 2,
         "Krokorok": 1,
         "Litten": 1,
         "Hoothoot": 1,
@@ -1730,10 +1730,11 @@
         "Sunkern": 1,
         "Heracross": 1,
         "Munna": 1,
-        "Pineco": 1
+        "Pineco": 1,
+        "Spearow": 1
       },
-      "total_spawns": 1783,
-      "last_spawn": "2026-06-28T12:45:17.487691"
+      "total_spawns": 1787,
+      "last_spawn": "2026-06-28T12:45:57.473941"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1743,7 +1744,7 @@
     }
   },
   "global": {
-    "total_spawns": 37188,
+    "total_spawns": 37192,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
