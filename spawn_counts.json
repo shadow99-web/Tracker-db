@@ -1122,7 +1122,7 @@
         "Roggenrola": 12,
         "Armarouge": 4,
         "Gastly": 12,
-        "Scatterbug": 10,
+        "Scatterbug": 11,
         "Wurmple": 7,
         "Gothita": 17,
         "Gible": 12,
@@ -1219,7 +1219,7 @@
         "Mareep": 9,
         "Tadbulb": 7,
         "Helioptile": 2,
-        "Blitzle": 5,
+        "Blitzle": 6,
         "Pidove": 10,
         "Doublade": 1,
         "Quilava": 3,
@@ -1445,7 +1445,7 @@
         "Nidoking": 1,
         "Tentacool": 3,
         "Servine": 7,
-        "Grubbin": 7,
+        "Grubbin": 8,
         "Clobbopus": 4,
         "Bounsweet": 10,
         "Crawdaunt": 2,
@@ -1646,7 +1646,7 @@
         "Greninja": 2,
         "Battle cyclizar": 2,
         "Lombre": 1,
-        "Cetitan": 3,
+        "Cetitan": 4,
         "Bewear": 1,
         "Cloyster": 1,
         "Centiskorch": 1,
@@ -1769,8 +1769,8 @@
         "Nidorino": 1,
         "Ludicolo": 1
       },
-      "total_spawns": 2086,
-      "last_spawn": "2026-06-28T13:36:37.697046"
+      "total_spawns": 2090,
+      "last_spawn": "2026-06-28T13:37:17.598814"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1780,7 +1780,7 @@
     }
   },
   "global": {
-    "total_spawns": 37491,
+    "total_spawns": 37495,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
