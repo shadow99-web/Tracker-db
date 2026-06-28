@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 51,
         "Patrat": 36,
-        "Mosslax": 94,
+        "Mosslax": 96,
         "Drilbur": 34,
         "Pawmi": 128,
         "Electabuzz": 29,
@@ -55,7 +55,7 @@
         "Vanillish": 37,
         "Tadbulb": 158,
         "Magnemite": 129,
-        "Whismur": 115,
+        "Whismur": 116,
         "Monferno": 29,
         "Skwovet": 38,
         "Bramblin": 140,
@@ -129,7 +129,7 @@
         "Zigzagoon": 40,
         "Weedle": 146,
         "Flamigo": 125,
-        "Lillipup": 115,
+        "Lillipup": 116,
         "Shinx": 148,
         "Bounsweet": 122,
         "Noibat": 32,
@@ -138,7 +138,7 @@
         "Croconaw": 28,
         "Phanpy": 18,
         "Brambleghast": 36,
-        "Pidgey": 149,
+        "Pidgey": 150,
         "Rhyhorn": 133,
         "Sentret": 34,
         "Yungoos": 31,
@@ -222,7 +222,7 @@
         "Fuecoco": 45,
         "Cyclizar": 50,
         "Magmar": 31,
-        "Rillaboom": 11,
+        "Rillaboom": 12,
         "Ninetales": 12,
         "Wattrel": 128,
         "Snubbull": 31,
@@ -311,10 +311,10 @@
         "Zangoose": 9,
         "Flygon": 5,
         "Shellos": 20,
-        "Jigglypuff": 33,
+        "Jigglypuff": 34,
         "Nacli": 104,
         "Munna": 25,
-        "Pawniard": 24,
+        "Pawniard": 25,
         "Prof tangrowth": 96,
         "Jangmo-o": 62,
         "Trash wormadam": 10,
@@ -342,7 +342,7 @@
         "Sobble": 40,
         "Mudkip": 37,
         "Charjabug": 28,
-        "Capsakid": 113,
+        "Capsakid": 114,
         "Revavroom": 33,
         "Exploud": 13,
         "Deino": 71,
@@ -459,7 +459,7 @@
         "Cherubi": 28,
         "Cradily": 10,
         "Vulpix": 28,
-        "Paras": 33,
+        "Paras": 34,
         "Herdier": 47,
         "Pineco": 27,
         "Chikorita": 38,
@@ -593,7 +593,7 @@
         "Rainy castform": 6,
         "Galarian darumaka": 1,
         "Mienfoo": 29,
-        "Dewgong": 9,
+        "Dewgong": 10,
         "Wartortle": 25,
         "Cetoddle": 121,
         "Kricketot": 30,
@@ -934,7 +934,7 @@
         "Druddigon": 7,
         "Honchkrow": 10,
         "Pyukumuku": 6,
-        "Machoke": 27,
+        "Machoke": 28,
         "Sunshine cherrim": 5,
         "Beautifly": 9,
         "Ting-lu": 1,
@@ -1091,10 +1091,11 @@
         "Scream tail": 1,
         "Mewtwo": 1,
         "Keldeo": 1,
-        "Sneasler": 1
+        "Sneasler": 1,
+        "Mew": 1
       },
-      "total_spawns": 28123,
-      "last_spawn": "2026-06-28T03:38:23.580738"
+      "total_spawns": 28136,
+      "last_spawn": "2026-06-28T03:38:55.398365"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1667,7 +1668,7 @@
     }
   },
   "global": {
-    "total_spawns": 33849,
+    "total_spawns": 33862,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
