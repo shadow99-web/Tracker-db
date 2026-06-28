@@ -1314,7 +1314,7 @@
         "Slakoth": 7,
         "Marowak": 1,
         "Sentret": 1,
-        "Cottonee": 2,
+        "Cottonee": 3,
         "Horsea": 8,
         "Doduo": 1,
         "Ivysaur": 3,
@@ -1413,7 +1413,7 @@
         "Archeops": 1,
         "Gigalith": 3,
         "Nuzleaf": 2,
-        "Geodude": 11,
+        "Geodude": 12,
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 2,
@@ -1517,7 +1517,7 @@
         "Chikorita": 1,
         "Armaldo": 2,
         "Pawmi": 4,
-        "Wugtrio": 1,
+        "Wugtrio": 2,
         "Magneton": 3,
         "Toxel": 3,
         "Dachsbun": 3,
@@ -1738,10 +1738,11 @@
         "Crobat": 1,
         "Croagunk": 1,
         "Voltorb": 1,
-        "Wimpod": 1
+        "Wimpod": 1,
+        "Drampa": 1
       },
-      "total_spawns": 1862,
-      "last_spawn": "2026-06-28T12:58:17.623534"
+      "total_spawns": 1866,
+      "last_spawn": "2026-06-28T12:58:57.497409"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1751,7 +1752,7 @@
     }
   },
   "global": {
-    "total_spawns": 37267,
+    "total_spawns": 37271,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
