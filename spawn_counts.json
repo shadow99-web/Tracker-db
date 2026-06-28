@@ -1124,7 +1124,7 @@
         "Gastly": 12,
         "Scatterbug": 11,
         "Wurmple": 7,
-        "Gothita": 17,
+        "Gothita": 18,
         "Gible": 12,
         "Larvesta": 4,
         "Starly": 11,
@@ -1573,7 +1573,7 @@
         "White plumage squawkabilly": 1,
         "Salandit": 1,
         "Qwilfish": 1,
-        "Indeedee": 1,
+        "Indeedee": 2,
         "Skrelp": 2,
         "Oinkologne": 1,
         "Dragonair": 2,
@@ -1767,10 +1767,11 @@
         "Golurk": 1,
         "Scorbunny": 2,
         "Nidorino": 1,
-        "Ludicolo": 1
+        "Ludicolo": 1,
+        "Orbeetle": 2
       },
-      "total_spawns": 2105,
-      "last_spawn": "2026-06-28T13:39:47.696921"
+      "total_spawns": 2109,
+      "last_spawn": "2026-06-28T13:40:18.639767"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1780,7 +1781,7 @@
     }
   },
   "global": {
-    "total_spawns": 37510,
+    "total_spawns": 37514,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
