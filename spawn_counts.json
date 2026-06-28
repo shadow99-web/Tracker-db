@@ -1127,7 +1127,7 @@
         "Gothita": 17,
         "Gible": 10,
         "Larvesta": 4,
-        "Starly": 9,
+        "Starly": 10,
         "Varoom": 14,
         "Weedle": 14,
         "Chef dente": 8,
@@ -1321,7 +1321,7 @@
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
-        "Machop": 9,
+        "Machop": 10,
         "Onix": 4,
         "Lampent": 2,
         "East sea gastrodon": 1,
@@ -1450,7 +1450,7 @@
         "Bounsweet": 9,
         "Crawdaunt": 2,
         "Hoppip": 9,
-        "Shroodle": 1,
+        "Shroodle": 2,
         "Fomantis": 2,
         "Slowpoke": 1,
         "Shiinotic": 1,
@@ -1516,7 +1516,7 @@
         "Misdreavus": 2,
         "Chikorita": 1,
         "Armaldo": 2,
-        "Pawmi": 3,
+        "Pawmi": 4,
         "Wugtrio": 1,
         "Magneton": 3,
         "Toxel": 3,
@@ -1623,7 +1623,7 @@
         "Dunsparce": 1,
         "Sigilyph": 1,
         "Chinchou": 1,
-        "Droopy tatsugiri": 1,
+        "Droopy tatsugiri": 2,
         "Feraligatr": 1,
         "Galarian zen darmanitan": 1,
         "Rillaboom": 1,
@@ -1722,10 +1722,11 @@
         "Poliwrath": 1,
         "Pharaoh trim furfrou": 1,
         "Chansey": 1,
-        "Accelgor": 1
+        "Accelgor": 1,
+        "Forretress": 1
       },
-      "total_spawns": 1745,
-      "last_spawn": "2026-06-28T12:40:07.997283"
+      "total_spawns": 1751,
+      "last_spawn": "2026-06-28T12:40:45.094887"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1735,7 +1736,7 @@
     }
   },
   "global": {
-    "total_spawns": 37150,
+    "total_spawns": 37156,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
