@@ -1277,7 +1277,7 @@
         "Vulpix": 7,
         "Hippowdon": 3,
         "Tinkatink": 6,
-        "Jumpluff": 1,
+        "Jumpluff": 2,
         "Rolycoly": 5,
         "Iron treads": 1,
         "Politoed": 1,
@@ -1333,7 +1333,7 @@
         "Staryu": 4,
         "Gallade": 1,
         "Rattata": 5,
-        "Bellsprout": 4,
+        "Bellsprout": 5,
         "Lickitung": 4,
         "Minccino": 6,
         "Togepi": 7,
@@ -1387,7 +1387,7 @@
         "Shroomish": 1,
         "Finizen": 4,
         "Croconaw": 1,
-        "Bronzor": 2,
+        "Bronzor": 3,
         "Eelektrik": 1,
         "Ledyba": 5,
         "Tyrunt": 5,
@@ -1512,7 +1512,7 @@
         "Kingler": 1,
         "Yamper": 1,
         "Swirlix": 1,
-        "Steenee": 3,
+        "Steenee": 4,
         "Misdreavus": 2,
         "Chikorita": 1,
         "Armaldo": 2,
@@ -1563,7 +1563,7 @@
         "Stantler": 4,
         "Rufflet": 1,
         "Klang": 1,
-        "Drilbur": 1,
+        "Drilbur": 2,
         "Mismagius": 1,
         "Bonsly": 1,
         "Porygon-z": 2,
@@ -1633,7 +1633,7 @@
         "Dragalge": 1,
         "Three-segment dudunsparce": 1,
         "Corviknight": 1,
-        "Mareanie": 2,
+        "Mareanie": 3,
         "Phantump": 3,
         "Girafarig": 1,
         "Duosion": 1,
@@ -1754,8 +1754,8 @@
         "Slurpuff": 1,
         "Rockruff": 1
       },
-      "total_spawns": 1942,
-      "last_spawn": "2026-06-28T13:15:57.597233"
+      "total_spawns": 1948,
+      "last_spawn": "2026-06-28T13:16:47.600015"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1765,7 +1765,7 @@
     }
   },
   "global": {
-    "total_spawns": 37347,
+    "total_spawns": 37353,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
