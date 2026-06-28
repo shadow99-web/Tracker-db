@@ -1133,7 +1133,7 @@
         "Chef dente": 9,
         "Hatenna": 15,
         "Dugtrio": 1,
-        "Kadabra": 3,
+        "Kadabra": 4,
         "Sandile": 12,
         "Riolu": 3,
         "Hisuian avalugg": 1,
@@ -1233,7 +1233,7 @@
         "Aron": 11,
         "Kabuto": 3,
         "Togetic": 3,
-        "Sewaddle": 8,
+        "Sewaddle": 9,
         "Eevee": 2,
         "Taillow": 2,
         "Pelipper": 1,
@@ -1633,7 +1633,7 @@
         "Dragalge": 1,
         "Three-segment dudunsparce": 1,
         "Corviknight": 1,
-        "Mareanie": 1,
+        "Mareanie": 2,
         "Phantump": 3,
         "Girafarig": 1,
         "Duosion": 1,
@@ -1746,10 +1746,11 @@
         "Bronzong": 1,
         "Bouffalant": 1,
         "Persian": 1,
-        "Stunky": 1
+        "Stunky": 1,
+        "Noctowl": 1
       },
-      "total_spawns": 1917,
-      "last_spawn": "2026-06-28T13:12:27.664492"
+      "total_spawns": 1921,
+      "last_spawn": "2026-06-28T13:13:07.528223"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1759,7 +1760,7 @@
     }
   },
   "global": {
-    "total_spawns": 37322,
+    "total_spawns": 37326,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
