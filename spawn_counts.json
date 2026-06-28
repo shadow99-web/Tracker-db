@@ -166,7 +166,7 @@
         "Kakuna": 34,
         "Weepinbell": 28,
         "Klawf": 145,
-        "Vanillite": 120,
+        "Vanillite": 121,
         "Flareon": 11,
         "Gastly": 115,
         "Taillow": 30,
@@ -241,7 +241,7 @@
         "Galvantula": 9,
         "Chansey": 18,
         "Shroodle": 137,
-        "Duskull": 154,
+        "Duskull": 155,
         "Bergmite": 31,
         "Pignite": 34,
         "Lurantis": 4,
@@ -249,8 +249,8 @@
         "Dachsbun": 27,
         "Turtwig": 37,
         "Prinplup": 27,
-        "Tinkatink": 130,
-        "Lechonk": 126,
+        "Tinkatink": 131,
+        "Lechonk": 127,
         "Kommo-o": 2,
         "Dewott": 30,
         "Arrokuda": 27,
@@ -286,7 +286,7 @@
         "Charmeleon": 19,
         "Dipplin": 3,
         "Cramorant": 7,
-        "Chef dente": 105,
+        "Chef dente": 106,
         "Volcarona": 6,
         "Bewear": 9,
         "Piloswine": 28,
@@ -295,7 +295,7 @@
         "Torkoal": 10,
         "Ferroseed": 33,
         "Brionne": 23,
-        "Pancham": 31,
+        "Pancham": 32,
         "Venipede": 144,
         "Cacturne": 10,
         "Oddish": 138,
@@ -458,7 +458,7 @@
         "Iron moth": 2,
         "Cherubi": 29,
         "Cradily": 10,
-        "Vulpix": 29,
+        "Vulpix": 30,
         "Paras": 35,
         "Herdier": 47,
         "Pineco": 27,
@@ -493,7 +493,7 @@
         "Magneton": 23,
         "Alakazam": 7,
         "Bayleef": 33,
-        "Poochyena": 30,
+        "Poochyena": 31,
         "Klinklang": 7,
         "Basculin": 7,
         "Throh": 11,
@@ -517,7 +517,7 @@
         "Milcery": 36,
         "Gabite": 23,
         "Hariyama": 5,
-        "Victreebel": 9,
+        "Victreebel": 10,
         "Arctibax": 31,
         "Foongus": 35,
         "Pansage": 21,
@@ -529,7 +529,7 @@
         "Maushold": 36,
         "Bastiodon": 4,
         "Floatzel": 6,
-        "Accelgor": 4,
+        "Accelgor": 5,
         "Wormadam": 7,
         "Axew": 117,
         "Trevenant": 9,
@@ -733,7 +733,7 @@
         "Cinccino": 9,
         "Alolan sandshrew": 2,
         "Azurill": 5,
-        "Alolan rattata": 3,
+        "Alolan rattata": 4,
         "Hippowdon": 7,
         "Lumineon": 10,
         "Thievul": 5,
@@ -799,7 +799,7 @@
         "Gliscor": 4,
         "Mesprit": 2,
         "Vaporeon": 9,
-        "Unown i": 1,
+        "Unown i": 2,
         "Raichu": 6,
         "Mime jr.": 7,
         "Voltorb": 18,
@@ -1095,8 +1095,8 @@
         "Mew": 1,
         "Stunfisk": 1
       },
-      "total_spawns": 28548,
-      "last_spawn": "2026-06-28T03:56:15.478421"
+      "total_spawns": 28560,
+      "last_spawn": "2026-06-28T03:56:45.302874"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1484,7 +1484,7 @@
         "Swanna": 1,
         "Marill": 3,
         "Oshawott": 1,
-        "Cyclizar": 2,
+        "Cyclizar": 3,
         "Castform": 1,
         "Shelmet": 4,
         "Pyroar": 1,
@@ -1567,7 +1567,7 @@
         "Oinkologne": 1,
         "Dragonair": 2,
         "Hippopotas": 1,
-        "Nymble": 3,
+        "Nymble": 4,
         "Phanpy": 1,
         "Scyther": 1,
         "Drizzile": 1,
@@ -1658,10 +1658,11 @@
         "Bisharp": 1,
         "Amaura": 1,
         "Weepinbell": 1,
-        "Flutter mane": 1
+        "Flutter mane": 1,
+        "Blastoise": 1
       },
-      "total_spawns": 1458,
-      "last_spawn": "2026-06-28T03:56:17.505954"
+      "total_spawns": 1461,
+      "last_spawn": "2026-06-28T03:56:47.603928"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1671,7 +1672,7 @@
     }
   },
   "global": {
-    "total_spawns": 34293,
+    "total_spawns": 34308,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
