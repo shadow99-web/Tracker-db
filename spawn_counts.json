@@ -1144,7 +1144,7 @@
         "Archen": 4,
         "Shinx": 12,
         "Pikachu": 4,
-        "Rhyhorn": 4,
+        "Rhyhorn": 5,
         "Tynamo": 11,
         "Tandemaus": 9,
         "Smearguru": 9,
@@ -1592,7 +1592,7 @@
         "Palafin": 2,
         "Solrock": 1,
         "Nosepass": 3,
-        "Exploud": 2,
+        "Exploud": 3,
         "Stretchy tatsugiri": 2,
         "Elgyem": 2,
         "Yanma": 1,
@@ -1607,7 +1607,7 @@
         "Wishiwashi": 1,
         "Litleo": 1,
         "Pancham": 1,
-        "Corvisquire": 2,
+        "Corvisquire": 3,
         "Pupitar": 1,
         "Dusclops": 1,
         "Kleavor": 1,
@@ -1624,7 +1624,7 @@
         "Sigilyph": 1,
         "Chinchou": 1,
         "Droopy tatsugiri": 2,
-        "Feraligatr": 1,
+        "Feraligatr": 2,
         "Galarian zen darmanitan": 1,
         "Rillaboom": 1,
         "Ursaluna": 1,
@@ -1740,8 +1740,8 @@
         "Voltorb": 1,
         "Wimpod": 1
       },
-      "total_spawns": 1849,
-      "last_spawn": "2026-06-28T12:55:47.503649"
+      "total_spawns": 1853,
+      "last_spawn": "2026-06-28T12:56:27.449423"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1751,7 +1751,7 @@
     }
   },
   "global": {
-    "total_spawns": 37254,
+    "total_spawns": 37258,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
