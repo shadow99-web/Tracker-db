@@ -1288,7 +1288,7 @@
         "Charizard": 1,
         "Kirlia": 3,
         "Treecko": 5,
-        "Veluza": 11,
+        "Veluza": 12,
         "Cyndaquil": 6,
         "Zorua": 3,
         "Meganium": 1,
@@ -1399,7 +1399,7 @@
         "Slowbro": 1,
         "Yamask": 1,
         "Tympole": 13,
-        "Barboach": 1,
+        "Barboach": 2,
         "Carvanha": 2,
         "Caterpie": 6,
         "Dondozo": 9,
@@ -1483,7 +1483,7 @@
         "Finneon": 3,
         "Starmie": 2,
         "Cufant": 2,
-        "Bellibolt": 4,
+        "Bellibolt": 5,
         "Hero palafin": 1,
         "Quilladin": 1,
         "Delibird": 1,
@@ -1752,10 +1752,11 @@
         "Klefki": 1,
         "Haxorus": 1,
         "Slurpuff": 1,
-        "Rockruff": 1
+        "Rockruff": 1,
+        "Sliggoo": 1
       },
-      "total_spawns": 1948,
-      "last_spawn": "2026-06-28T13:16:47.600015"
+      "total_spawns": 1952,
+      "last_spawn": "2026-06-28T13:17:17.706057"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1765,7 +1766,7 @@
     }
   },
   "global": {
-    "total_spawns": 37353,
+    "total_spawns": 37357,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
