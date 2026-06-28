@@ -1193,7 +1193,7 @@
         "Flamigo": 8,
         "Aegislash": 1,
         "Inkay": 2,
-        "Fidough": 8,
+        "Fidough": 9,
         "Spritzee": 5,
         "Squawkabilly": 3,
         "Beldum": 12,
@@ -1239,7 +1239,7 @@
         "Pelipper": 1,
         "Hattrem": 2,
         "Machoke": 3,
-        "Litwick": 17,
+        "Litwick": 18,
         "Frost rotom": 1,
         "Cubchoo": 6,
         "Abra": 17,
@@ -1413,7 +1413,7 @@
         "Archeops": 1,
         "Gigalith": 3,
         "Nuzleaf": 2,
-        "Geodude": 12,
+        "Geodude": 13,
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 2,
@@ -1741,10 +1741,11 @@
         "Wimpod": 1,
         "Drampa": 1,
         "Wailord": 1,
-        "White-striped basculin": 1
+        "White-striped basculin": 1,
+        "Pangoro": 1
       },
-      "total_spawns": 1891,
-      "last_spawn": "2026-06-28T13:03:07.497398"
+      "total_spawns": 1895,
+      "last_spawn": "2026-06-28T13:04:13.898048"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1754,7 +1755,7 @@
     }
   },
   "global": {
-    "total_spawns": 37296,
+    "total_spawns": 37300,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
