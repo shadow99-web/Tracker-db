@@ -1110,7 +1110,7 @@
         "Varoom": 11,
         "Weedle": 14,
         "Chef dente": 8,
-        "Hatenna": 11,
+        "Hatenna": 12,
         "Dugtrio": 1,
         "Kadabra": 3,
         "Sandile": 11,
@@ -1570,7 +1570,7 @@
         "Arrokuda": 1,
         "Palafin": 1,
         "Solrock": 1,
-        "Nosepass": 2,
+        "Nosepass": 3,
         "Exploud": 1,
         "Stretchy tatsugiri": 2,
         "Elgyem": 2,
@@ -1645,8 +1645,8 @@
         "Venomoth": 1,
         "Goldeen": 1
       },
-      "total_spawns": 1413,
-      "last_spawn": "2026-06-28T01:04:26.480730"
+      "total_spawns": 1415,
+      "last_spawn": "2026-06-28T01:05:22.763449"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1656,7 +1656,7 @@
     }
   },
   "global": {
-    "total_spawns": 32544,
+    "total_spawns": 32546,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
