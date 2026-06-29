@@ -82,7 +82,7 @@
         "Gimmighoul": 136,
         "Baltoy": 40,
         "Mareep": 145,
-        "Garbodor": 8,
+        "Garbodor": 9,
         "Slakoth": 148,
         "Togepi": 133,
         "Falinks": 9,
@@ -102,7 +102,7 @@
         "Smearguru": 111,
         "Veluza": 157,
         "Barboach": 50,
-        "Klink": 114,
+        "Klink": 115,
         "Honedge": 142,
         "Wingull": 40,
         "Salamence": 5,
@@ -213,7 +213,7 @@
         "Fidough": 95,
         "Noivern": 5,
         "Feraligatr": 8,
-        "Tynamo": 147,
+        "Tynamo": 148,
         "Orthworm": 142,
         "Marill": 35,
         "Joltik": 42,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31406,
-      "last_spawn": "2026-06-29T02:48:00.099315"
+      "total_spawns": 31409,
+      "last_spawn": "2026-06-29T02:48:30.103198"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37995,
+    "total_spawns": 37998,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
