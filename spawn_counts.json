@@ -29,7 +29,7 @@
         "Charmander": 66,
         "Morelull": 28,
         "Abra": 154,
-        "Sandile": 156,
+        "Sandile": 157,
         "Sandygast": 44,
         "Litwick": 178,
         "Grubbin": 137,
@@ -324,7 +324,7 @@
         "Murkrow": 34,
         "Bellsprout": 156,
         "Mudbray": 43,
-        "Dreepy": 133,
+        "Dreepy": 134,
         "Tinkaton": 10,
         "Corviknight": 12,
         "Froakie": 45,
@@ -349,7 +349,7 @@
         "Wooper": 47,
         "Dwebble": 44,
         "Steenee": 42,
-        "Darumaka": 39,
+        "Darumaka": 40,
         "Arboliva": 9,
         "Ledyba": 42,
         "Spritzee": 39,
@@ -741,7 +741,7 @@
         "Ekans": 39,
         "Venonat": 34,
         "Pelipper": 13,
-        "Metapod": 29,
+        "Metapod": 30,
         "Kricketune": 15,
         "Nidoqueen": 6,
         "Hitmonchan": 4,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32463,
-      "last_spawn": "2026-06-29T06:33:29.993330"
+      "total_spawns": 32467,
+      "last_spawn": "2026-06-29T06:34:10.029076"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39069,
+    "total_spawns": 39073,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
