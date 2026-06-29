@@ -1489,7 +1489,7 @@
         "Bunnelby": 1,
         "Skiploom": 6,
         "Marshtomp": 2,
-        "Lechonk": 11,
+        "Lechonk": 12,
         "Roaming gimmighoul": 8,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1612,7 +1612,7 @@
         "Nosepass": 3,
         "Exploud": 3,
         "Stretchy tatsugiri": 4,
-        "Elgyem": 5,
+        "Elgyem": 6,
         "Yanma": 1,
         "Gabite": 2,
         "Meowscarada": 2,
@@ -1686,7 +1686,7 @@
         "Pinsir": 1,
         "Bisharp": 2,
         "Amaura": 5,
-        "Weepinbell": 3,
+        "Weepinbell": 4,
         "Flutter mane": 1,
         "Blastoise": 1,
         "Piplup": 2,
@@ -1851,10 +1851,11 @@
         "Nidorina": 1,
         "Psyduck": 1,
         "Kingdra": 1,
-        "Mienfoo": 1
+        "Mienfoo": 1,
+        "Budew": 1
       },
-      "total_spawns": 2685,
-      "last_spawn": "2026-06-29T20:27:57.795670"
+      "total_spawns": 2689,
+      "last_spawn": "2026-06-29T20:28:37.634471"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1864,7 +1865,7 @@
     }
   },
   "global": {
-    "total_spawns": 45609,
+    "total_spawns": 45613,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
