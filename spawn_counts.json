@@ -20,7 +20,7 @@
         "Rockruff": 32,
         "Haunter": 36,
         "Tangela": 37,
-        "Orbeetle": 7,
+        "Orbeetle": 8,
         "Dedenne": 10,
         "Machop": 121,
         "Dudunsparce": 32,
@@ -89,7 +89,7 @@
         "Tropius": 8,
         "Poliwag": 137,
         "Metang": 18,
-        "Riolu": 33,
+        "Riolu": 34,
         "Exeggcute": 30,
         "Corphish": 31,
         "Hoppip": 127,
@@ -180,7 +180,7 @@
         "Grafaiai": 33,
         "Quilladin": 34,
         "Geodude": 155,
-        "Espurr": 38,
+        "Espurr": 39,
         "Cottonee": 32,
         "Elgyem": 31,
         "Luvdisc": 11,
@@ -249,7 +249,7 @@
         "Dachsbun": 32,
         "Turtwig": 40,
         "Prinplup": 32,
-        "Tinkatink": 143,
+        "Tinkatink": 144,
         "Lechonk": 144,
         "Kommo-o": 3,
         "Dewott": 35,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 31984,
-      "last_spawn": "2026-06-29T05:12:00.208508"
+      "total_spawns": 31988,
+      "last_spawn": "2026-06-29T05:12:40.231270"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38589,
+    "total_spawns": 38593,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
