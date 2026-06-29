@@ -130,7 +130,7 @@
         "Weedle": 169,
         "Flamigo": 139,
         "Lillipup": 144,
-        "Shinx": 163,
+        "Shinx": 164,
         "Bounsweet": 141,
         "Noibat": 35,
         "Toxicroak": 12,
@@ -180,7 +180,7 @@
         "Grafaiai": 34,
         "Quilladin": 34,
         "Geodude": 160,
-        "Espurr": 39,
+        "Espurr": 40,
         "Cottonee": 32,
         "Elgyem": 31,
         "Luvdisc": 11,
@@ -194,7 +194,7 @@
         "Pidgeotto": 46,
         "Spearow": 48,
         "Helioptile": 30,
-        "Hoothoot": 48,
+        "Hoothoot": 49,
         "Grookey": 49,
         "Meditite": 23,
         "Toedscruel": 45,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 7,
         "Lileep": 38,
-        "Rolycoly": 148,
+        "Rolycoly": 149,
         "Bronzor": 39,
         "Dartrix": 41,
         "Yellow flower florges": 5,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32502,
-      "last_spawn": "2026-06-29T06:40:03.700552"
+      "total_spawns": 32506,
+      "last_spawn": "2026-06-29T06:40:39.947564"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39108,
+    "total_spawns": 39112,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
