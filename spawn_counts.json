@@ -262,7 +262,7 @@
         "Tirtouga": 41,
         "Furret": 8,
         "Nincada": 49,
-        "Fennekin": 47,
+        "Fennekin": 48,
         "Quaxwell": 21,
         "Vibrava": 45,
         "Loudred": 49,
@@ -319,7 +319,7 @@
         "Jangmo-o": 68,
         "Trash wormadam": 12,
         "Quaxly": 49,
-        "Gossifleur": 47,
+        "Gossifleur": 48,
         "Oshawott": 47,
         "Murkrow": 31,
         "Bellsprout": 152,
@@ -383,7 +383,7 @@
         "Wooloo": 31,
         "Drifloon": 32,
         "Golbat": 36,
-        "Swablu": 31,
+        "Swablu": 32,
         "Shellder": 31,
         "Crobat": 13,
         "Sandshrew": 39,
@@ -414,7 +414,7 @@
         "Armarouge": 40,
         "Tyrantrum": 4,
         "Larvitar": 66,
-        "Tentacool": 28,
+        "Tentacool": 29,
         "Volcanion": 1,
         "Roaming gimmighoul": 106,
         "Summer sawsbuck": 12,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31506,
-      "last_spawn": "2026-06-29T03:05:01.559813"
+      "total_spawns": 31510,
+      "last_spawn": "2026-06-29T03:05:39.938570"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38095,
+    "total_spawns": 38099,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
