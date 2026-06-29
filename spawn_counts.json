@@ -363,7 +363,7 @@
         "Mankey": 41,
         "Bidoof": 32,
         "Quilava": 45,
-        "Finizen": 149,
+        "Finizen": 150,
         "Unown y": 1,
         "Toucannon": 5,
         "Caterpie": 130,
@@ -535,7 +535,7 @@
         "Trevenant": 11,
         "Trubbish": 32,
         "Zorua": 26,
-        "Archen": 41,
+        "Archen": 42,
         "Oinkologne": 49,
         "Onix": 34,
         "Vanilluxe": 7,
@@ -549,7 +549,7 @@
         "Dragonair": 28,
         "Zweilous": 22,
         "Karrablast": 31,
-        "Shroomish": 39,
+        "Shroomish": 40,
         "Snover": 26,
         "Drednaw": 5,
         "Skarmory": 9,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32645,
-      "last_spawn": "2026-06-29T07:04:19.917004"
+      "total_spawns": 32648,
+      "last_spawn": "2026-06-29T07:04:50.802921"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39251,
+    "total_spawns": 39254,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
