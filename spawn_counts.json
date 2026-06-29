@@ -1144,7 +1144,7 @@
         "Varoom": 18,
         "Weedle": 15,
         "Chef dente": 10,
-        "Hatenna": 16,
+        "Hatenna": 17,
         "Dugtrio": 1,
         "Kadabra": 5,
         "Sandile": 14,
@@ -1550,7 +1550,7 @@
         "Trevenant": 1,
         "Pignite": 3,
         "Ferroseed": 1,
-        "Grafaiai": 4,
+        "Grafaiai": 5,
         "Tangela": 3,
         "Palpitoad": 4,
         "Tyrogue": 4,
@@ -1567,7 +1567,7 @@
         "Anorith": 4,
         "Carkol": 3,
         "Seaking": 2,
-        "Quaxly": 5,
+        "Quaxly": 6,
         "Golbat": 5,
         "Beautifly": 1,
         "Houndstone": 3,
@@ -1823,10 +1823,11 @@
         "Corphish": 1,
         "Clodsire": 1,
         "Snover": 1,
-        "Unfezant": 1
+        "Unfezant": 1,
+        "Magmar": 1
       },
-      "total_spawns": 2463,
-      "last_spawn": "2026-06-29T15:32:47.459575"
+      "total_spawns": 2467,
+      "last_spawn": "2026-06-29T15:33:27.473020"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1836,7 +1837,7 @@
     }
   },
   "global": {
-    "total_spawns": 43638,
+    "total_spawns": 43642,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
