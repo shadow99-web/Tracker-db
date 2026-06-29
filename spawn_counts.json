@@ -34,7 +34,7 @@
         "Litwick": 177,
         "Grubbin": 131,
         "Escavalier": 13,
-        "Dratini": 102,
+        "Dratini": 103,
         "Kilowattrel": 36,
         "Lotad": 182,
         "Qwilfish": 9,
@@ -96,7 +96,7 @@
         "Sandslash": 8,
         "Kabuto": 44,
         "Scatterbug": 152,
-        "Pumpkaboo": 44,
+        "Pumpkaboo": 45,
         "Numel": 44,
         "Carracosta": 11,
         "Smearguru": 113,
@@ -370,7 +370,7 @@
         "Carvanha": 24,
         "Luxio": 33,
         "Treecko": 51,
-        "Sinistea": 29,
+        "Sinistea": 30,
         "Cubchoo": 24,
         "Hippopotas": 20,
         "Spiky-eared pichu": 4,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31892,
-      "last_spawn": "2026-06-29T04:55:59.940406"
+      "total_spawns": 31895,
+      "last_spawn": "2026-06-29T04:56:39.925005"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1495,7 +1495,7 @@
         "Grumpig": 2,
         "Ekans": 2,
         "Swanna": 1,
-        "Marill": 4,
+        "Marill": 5,
         "Oshawott": 2,
         "Cyclizar": 5,
         "Castform": 1,
@@ -1792,10 +1792,11 @@
         "Sneasel": 1,
         "Pa'u oricorio": 1,
         "Sirfetch'd": 1,
-        "Cofagrigus": 1
+        "Cofagrigus": 1,
+        "Prinplup": 1
       },
-      "total_spawns": 2315,
-      "last_spawn": "2026-06-29T04:56:07.814139"
+      "total_spawns": 2317,
+      "last_spawn": "2026-06-29T04:56:27.425822"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1805,7 +1806,7 @@
     }
   },
   "global": {
-    "total_spawns": 38494,
+    "total_spawns": 38499,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
