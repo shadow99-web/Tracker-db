@@ -32,7 +32,7 @@
         "Sandile": 185,
         "Sandygast": 48,
         "Litwick": 213,
-        "Grubbin": 159,
+        "Grubbin": 160,
         "Escavalier": 13,
         "Dratini": 125,
         "Kilowattrel": 41,
@@ -129,7 +129,7 @@
         "Zigzagoon": 46,
         "Weedle": 201,
         "Flamigo": 161,
-        "Lillipup": 167,
+        "Lillipup": 168,
         "Shinx": 192,
         "Bounsweet": 168,
         "Noibat": 39,
@@ -240,7 +240,7 @@
         "Omanyte": 45,
         "Galvantula": 11,
         "Chansey": 26,
-        "Shroodle": 175,
+        "Shroodle": 176,
         "Duskull": 188,
         "Bergmite": 39,
         "Pignite": 41,
@@ -249,7 +249,7 @@
         "Dachsbun": 36,
         "Turtwig": 50,
         "Prinplup": 42,
-        "Tinkatink": 173,
+        "Tinkatink": 174,
         "Lechonk": 170,
         "Kommo-o": 7,
         "Dewott": 43,
@@ -680,7 +680,7 @@
         "Golurk": 7,
         "Arcanine": 10,
         "Oranguru": 14,
-        "Poliwrath": 11,
+        "Poliwrath": 12,
         "Blaziken": 7,
         "Stantler": 36,
         "Butterfree": 9,
@@ -701,7 +701,7 @@
         "Celebi": 3,
         "Hero palafin": 12,
         "Litten": 60,
-        "Abomasnow": 11,
+        "Abomasnow": 12,
         "Espeon": 5,
         "Hatenna": 155,
         "Zoroark": 12,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38304,
-      "last_spawn": "2026-06-29T19:56:34.293167"
+      "total_spawns": 38310,
+      "last_spawn": "2026-06-29T19:57:04.501596"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1846,10 +1846,11 @@
         "Camerupt": 1,
         "Slugma": 1,
         "Kingambit": 1,
-        "Enamorus": 1
+        "Enamorus": 1,
+        "Nidorina": 1
       },
-      "total_spawns": 2617,
-      "last_spawn": "2026-06-29T19:56:37.599045"
+      "total_spawns": 2618,
+      "last_spawn": "2026-06-29T19:57:07.921715"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1859,7 +1860,7 @@
     }
   },
   "global": {
-    "total_spawns": 45208,
+    "total_spawns": 45215,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
