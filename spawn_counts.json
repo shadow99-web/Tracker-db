@@ -171,7 +171,7 @@
         "Gastly": 171,
         "Taillow": 37,
         "Swinub": 180,
-        "Inkay": 45,
+        "Inkay": 46,
         "Gible": 108,
         "Rookidee": 129,
         "Minccino": 55,
@@ -213,7 +213,7 @@
         "Fidough": 123,
         "Noivern": 7,
         "Feraligatr": 10,
-        "Tynamo": 181,
+        "Tynamo": 182,
         "Orthworm": 169,
         "Marill": 46,
         "Joltik": 52,
@@ -279,7 +279,7 @@
         "Rowlet": 55,
         "Galarian slowpoke": 3,
         "Poliwhirl": 41,
-        "Crocalor": 38,
+        "Crocalor": 39,
         "Cryogonal": 13,
         "Eternatus": 1,
         "Gholdengo": 43,
@@ -673,7 +673,7 @@
         "Grimer": 26,
         "Crabominable": 8,
         "Quaquaval": 11,
-        "Sprigatito": 54,
+        "Sprigatito": 55,
         "Metagross": 5,
         "Eelektrik": 38,
         "Gastrodon": 12,
@@ -686,7 +686,7 @@
         "Butterfree": 9,
         "Koffing": 43,
         "Floragato": 22,
-        "Seel": 40,
+        "Seel": 41,
         "Shiinotic": 13,
         "Gumshoos": 10,
         "Pyroar": 10,
@@ -899,7 +899,7 @@
         "Shedinja": 14,
         "Baxcalibur": 5,
         "Galarian articuno": 1,
-        "Audino": 13,
+        "Audino": 14,
         "Orange flower florges": 2,
         "Cursola": 1,
         "Snorlax": 15,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37654,
-      "last_spawn": "2026-06-29T19:01:39.876694"
+      "total_spawns": 37660,
+      "last_spawn": "2026-06-29T19:02:10.198706"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44532,
+    "total_spawns": 44538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
