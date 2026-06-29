@@ -596,7 +596,7 @@
         "Dewgong": 11,
         "Wartortle": 29,
         "Cetoddle": 140,
-        "Kricketot": 33,
+        "Kricketot": 34,
         "Porygon-z": 10,
         "Conkeldurr": 11,
         "Walking wake": 2,
@@ -692,7 +692,7 @@
         "Pyroar": 10,
         "Marshadow": 2,
         "Sliggoo": 18,
-        "Panpour": 34,
+        "Panpour": 35,
         "Tinkatuff": 29,
         "Bruxish": 6,
         "Corvisquire": 27,
@@ -812,7 +812,7 @@
         "Barbaracle": 7,
         "Okidogi": 4,
         "Tauros": 10,
-        "Slurpuff": 8,
+        "Slurpuff": 9,
         "Umbreon": 3,
         "Hypno": 4,
         "Galarian weezing": 1,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 32009,
-      "last_spawn": "2026-06-29T05:16:09.950964"
+      "total_spawns": 32012,
+      "last_spawn": "2026-06-29T05:16:40.212371"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38614,
+    "total_spawns": 38617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
