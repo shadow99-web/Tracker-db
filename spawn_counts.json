@@ -1139,7 +1139,7 @@
         "Wurmple": 7,
         "Gothita": 19,
         "Gible": 12,
-        "Larvesta": 4,
+        "Larvesta": 5,
         "Starly": 12,
         "Varoom": 18,
         "Weedle": 15,
@@ -1645,7 +1645,7 @@
         "Sandy burmy": 1,
         "Dragalge": 2,
         "Three-segment dudunsparce": 1,
-        "Corviknight": 1,
+        "Corviknight": 2,
         "Mareanie": 3,
         "Phantump": 3,
         "Girafarig": 1,
@@ -1811,10 +1811,11 @@
         "Klinklang": 1,
         "Weezing": 1,
         "Victreebel": 1,
-        "Hypno": 1
+        "Hypno": 1,
+        "Dwebble": 1
       },
-      "total_spawns": 2375,
-      "last_spawn": "2026-06-29T13:18:27.549871"
+      "total_spawns": 2378,
+      "last_spawn": "2026-06-29T13:19:17.616048"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1824,7 +1825,7 @@
     }
   },
   "global": {
-    "total_spawns": 43194,
+    "total_spawns": 43197,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
