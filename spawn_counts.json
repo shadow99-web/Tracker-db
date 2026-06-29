@@ -1248,7 +1248,7 @@
         "Darumaka": 4,
         "Wailmer": 2,
         "Jangmo-o": 11,
-        "Aron": 11,
+        "Aron": 12,
         "Kabuto": 3,
         "Togetic": 5,
         "Sewaddle": 18,
@@ -1322,7 +1322,7 @@
         "Krabby": 2,
         "Clefable": 1,
         "Durant": 3,
-        "Pidgeotto": 2,
+        "Pidgeotto": 3,
         "Maushold": 2,
         "Dewpider": 4,
         "Sobble": 2,
@@ -1417,7 +1417,7 @@
         "Slowbro": 1,
         "Yamask": 4,
         "Tympole": 17,
-        "Barboach": 3,
+        "Barboach": 4,
         "Carvanha": 2,
         "Caterpie": 7,
         "Dondozo": 14,
@@ -1511,7 +1511,7 @@
         "Grumpig": 2,
         "Ekans": 2,
         "Swanna": 1,
-        "Marill": 5,
+        "Marill": 6,
         "Oshawott": 5,
         "Cyclizar": 6,
         "Castform": 1,
@@ -1854,8 +1854,8 @@
         "Mienfoo": 1,
         "Budew": 1
       },
-      "total_spawns": 2689,
-      "last_spawn": "2026-06-29T20:28:37.634471"
+      "total_spawns": 2693,
+      "last_spawn": "2026-06-29T22:02:10.038706"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1865,7 +1865,7 @@
     }
   },
   "global": {
-    "total_spawns": 45613,
+    "total_spawns": 45617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
