@@ -19,7 +19,7 @@
         "Psyduck": 29,
         "Rockruff": 39,
         "Haunter": 44,
-        "Tangela": 40,
+        "Tangela": 41,
         "Orbeetle": 11,
         "Dedenne": 10,
         "Machop": 149,
@@ -87,7 +87,7 @@
         "Togepi": 156,
         "Falinks": 10,
         "Tropius": 13,
-        "Poliwag": 168,
+        "Poliwag": 169,
         "Metang": 24,
         "Riolu": 41,
         "Exeggcute": 33,
@@ -115,7 +115,7 @@
         "Frigibax": 162,
         "Spheal": 203,
         "Swadloon": 53,
-        "Flittle": 160,
+        "Flittle": 161,
         "Unfezant": 17,
         "Yamask": 51,
         "Ralts": 154,
@@ -127,7 +127,7 @@
         "Teddiursa": 163,
         "Clamperl": 41,
         "Zigzagoon": 46,
-        "Weedle": 202,
+        "Weedle": 203,
         "Flamigo": 163,
         "Lillipup": 170,
         "Shinx": 193,
@@ -195,7 +195,7 @@
         "Spearow": 52,
         "Helioptile": 40,
         "Hoothoot": 56,
-        "Grookey": 55,
+        "Grookey": 56,
         "Meditite": 29,
         "Toedscruel": 51,
         "Probopass": 9,
@@ -219,7 +219,7 @@
         "Joltik": 52,
         "Politoed": 10,
         "Cyndaquil": 56,
-        "Fuecoco": 69,
+        "Fuecoco": 70,
         "Cyclizar": 65,
         "Magmar": 46,
         "Rillaboom": 16,
@@ -595,7 +595,7 @@
         "Mienfoo": 41,
         "Dewgong": 13,
         "Wartortle": 32,
-        "Cetoddle": 166,
+        "Cetoddle": 167,
         "Kricketot": 44,
         "Porygon-z": 12,
         "Conkeldurr": 11,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38578,
-      "last_spawn": "2026-06-29T20:19:50.080602"
+      "total_spawns": 38585,
+      "last_spawn": "2026-06-29T20:20:24.547404"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1864,7 +1864,7 @@
     }
   },
   "global": {
-    "total_spawns": 45535,
+    "total_spawns": 45542,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
