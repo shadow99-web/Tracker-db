@@ -59,7 +59,7 @@
         "Monferno": 43,
         "Skwovet": 48,
         "Bramblin": 193,
-        "Yanma": 39,
+        "Yanma": 40,
         "Larvesta": 52,
         "Beldum": 124,
         "Ducklett": 42,
@@ -81,7 +81,7 @@
         "Amaura": 48,
         "Gimmighoul": 166,
         "Baltoy": 48,
-        "Mareep": 168,
+        "Mareep": 169,
         "Garbodor": 10,
         "Slakoth": 176,
         "Togepi": 155,
@@ -95,7 +95,7 @@
         "Hoppip": 158,
         "Sandslash": 9,
         "Kabuto": 50,
-        "Scatterbug": 185,
+        "Scatterbug": 186,
         "Pumpkaboo": 51,
         "Numel": 51,
         "Carracosta": 11,
@@ -126,7 +126,7 @@
         "Pikipek": 192,
         "Teddiursa": 159,
         "Clamperl": 41,
-        "Zigzagoon": 45,
+        "Zigzagoon": 46,
         "Weedle": 200,
         "Flamigo": 159,
         "Lillipup": 160,
@@ -324,7 +324,7 @@
         "Murkrow": 42,
         "Bellsprout": 176,
         "Mudbray": 51,
-        "Dreepy": 155,
+        "Dreepy": 156,
         "Tinkaton": 16,
         "Corviknight": 15,
         "Froakie": 50,
@@ -647,7 +647,7 @@
         "Igglybuff": 8,
         "Archeops": 13,
         "Shiftry": 7,
-        "Arbok": 7,
+        "Arbok": 8,
         "Stretchy tatsugiri": 62,
         "Mareanie": 42,
         "Seadra": 28,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37801,
-      "last_spawn": "2026-06-29T19:14:09.890925"
+      "total_spawns": 37807,
+      "last_spawn": "2026-06-29T19:14:39.964944"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44680,
+    "total_spawns": 44686,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
