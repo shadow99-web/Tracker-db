@@ -1252,7 +1252,7 @@
         "Pelipper": 1,
         "Hattrem": 4,
         "Machoke": 3,
-        "Litwick": 20,
+        "Litwick": 21,
         "Frost rotom": 1,
         "Cubchoo": 6,
         "Abra": 17,
@@ -1553,7 +1553,7 @@
         "Grafaiai": 4,
         "Tangela": 3,
         "Palpitoad": 4,
-        "Tyrogue": 3,
+        "Tyrogue": 4,
         "Gloom": 2,
         "Grimer": 5,
         "Drednaw": 3,
@@ -1816,10 +1816,11 @@
         "Frillish": 1,
         "Mandibuzz": 1,
         "Wigglytuff": 1,
-        "Walrein": 1
+        "Walrein": 1,
+        "Golett": 1
       },
-      "total_spawns": 2420,
-      "last_spawn": "2026-06-29T15:24:07.637097"
+      "total_spawns": 2423,
+      "last_spawn": "2026-06-29T15:24:37.904243"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1829,7 +1830,7 @@
     }
   },
   "global": {
-    "total_spawns": 43595,
+    "total_spawns": 43598,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
