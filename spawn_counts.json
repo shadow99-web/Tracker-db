@@ -65,7 +65,7 @@
         "Ducklett": 35,
         "Lokix": 33,
         "Glimmora": 44,
-        "Starly": 149,
+        "Starly": 150,
         "Tandemaus": 125,
         "Smoliv": 152,
         "Gloom": 33,
@@ -92,10 +92,10 @@
         "Riolu": 33,
         "Exeggcute": 30,
         "Corphish": 31,
-        "Hoppip": 124,
+        "Hoppip": 125,
         "Sandslash": 8,
         "Kabuto": 44,
-        "Scatterbug": 150,
+        "Scatterbug": 151,
         "Pumpkaboo": 43,
         "Numel": 44,
         "Carracosta": 11,
@@ -158,7 +158,7 @@
         "Boldore": 34,
         "Spinarak": 46,
         "Delcatty": 7,
-        "Spiritomb": 7,
+        "Spiritomb": 8,
         "Yamper": 34,
         "Tepig": 51,
         "Kirlia": 39,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31779,
-      "last_spawn": "2026-06-29T04:36:40.097281"
+      "total_spawns": 31783,
+      "last_spawn": "2026-06-29T04:37:19.973920"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38369,
+    "total_spawns": 38373,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
