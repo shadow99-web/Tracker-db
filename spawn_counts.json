@@ -77,7 +77,7 @@
         "Tarountula": 149,
         "Hatterene": 13,
         "Phantump": 46,
-        "Duosion": 34,
+        "Duosion": 35,
         "Amaura": 39,
         "Gimmighoul": 141,
         "Baltoy": 40,
@@ -247,7 +247,7 @@
         "Lurantis": 5,
         "Swampert": 9,
         "Dachsbun": 32,
-        "Turtwig": 41,
+        "Turtwig": 42,
         "Prinplup": 33,
         "Tinkatink": 147,
         "Lechonk": 151,
@@ -286,7 +286,7 @@
         "Charmeleon": 22,
         "Dipplin": 5,
         "Cramorant": 9,
-        "Chef dente": 114,
+        "Chef dente": 115,
         "Volcarona": 7,
         "Bewear": 9,
         "Piloswine": 35,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 7,
         "Lileep": 38,
-        "Rolycoly": 150,
+        "Rolycoly": 151,
         "Bronzor": 41,
         "Dartrix": 42,
         "Yellow flower florges": 5,
@@ -321,7 +321,7 @@
         "Quaxly": 51,
         "Gossifleur": 49,
         "Oshawott": 50,
-        "Murkrow": 34,
+        "Murkrow": 35,
         "Bellsprout": 159,
         "Mudbray": 43,
         "Dreepy": 135,
@@ -422,7 +422,7 @@
         "Ride cyclizar": 50,
         "Gothorita": 36,
         "Varoom": 150,
-        "Yellow plumage squawkabilly": 38,
+        "Yellow plumage squawkabilly": 39,
         "Centiskorch": 11,
         "Low key toxtricity": 8,
         "Grapploct": 6,
@@ -522,7 +522,7 @@
         "Foongus": 39,
         "Pansage": 25,
         "Cranidos": 41,
-        "Spewpa": 39,
+        "Spewpa": 40,
         "Tyrunt": 37,
         "Garganacl": 6,
         "Chinchou": 26,
@@ -554,7 +554,7 @@
         "Drednaw": 5,
         "Skarmory": 9,
         "Midnight lycanroc": 7,
-        "Eelektross": 12,
+        "Eelektross": 13,
         "Araquanid": 10,
         "Kadabra": 36,
         "Chandelure": 13,
@@ -846,7 +846,7 @@
         "Graveler": 37,
         "Carbink": 12,
         "Armaldo": 7,
-        "Grimmsnarl": 10,
+        "Grimmsnarl": 11,
         "Quagsire": 6,
         "Darkrai": 2,
         "Togedemaru": 8,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32789,
-      "last_spawn": "2026-06-29T07:54:00.007280"
+      "total_spawns": 32798,
+      "last_spawn": "2026-06-29T07:54:30.006864"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39396,
+    "total_spawns": 39405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
