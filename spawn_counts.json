@@ -63,7 +63,7 @@
         "Larvesta": 48,
         "Beldum": 101,
         "Ducklett": 35,
-        "Lokix": 32,
+        "Lokix": 33,
         "Glimmora": 44,
         "Starly": 147,
         "Tandemaus": 123,
@@ -352,7 +352,7 @@
         "Darumaka": 38,
         "Arboliva": 8,
         "Ledyba": 39,
-        "Spritzee": 35,
+        "Spritzee": 36,
         "Swirlix": 33,
         "Aromatisse": 8,
         "Muk": 9,
@@ -686,7 +686,7 @@
         "Butterfree": 5,
         "Koffing": 35,
         "Floragato": 17,
-        "Seel": 34,
+        "Seel": 35,
         "Shiinotic": 9,
         "Gumshoos": 8,
         "Pyroar": 9,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31198,
-      "last_spawn": "2026-06-29T02:13:10.037067"
+      "total_spawns": 31201,
+      "last_spawn": "2026-06-29T02:13:40.049909"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1802,7 +1802,7 @@
     }
   },
   "global": {
-    "total_spawns": 37785,
+    "total_spawns": 37788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
