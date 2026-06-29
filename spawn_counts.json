@@ -111,7 +111,7 @@
         "Scizor": 9,
         "Sneasel": 31,
         "Bonsly": 8,
-        "Horsea": 139,
+        "Horsea": 140,
         "Frigibax": 133,
         "Spheal": 164,
         "Swadloon": 41,
@@ -143,7 +143,7 @@
         "Sentret": 38,
         "Yungoos": 34,
         "Diglett": 43,
-        "Doduo": 39,
+        "Doduo": 40,
         "Lairon": 41,
         "Emboar": 7,
         "Deoxys": 2,
@@ -356,7 +356,7 @@
         "Swirlix": 35,
         "Aromatisse": 8,
         "Muk": 9,
-        "Toxel": 36,
+        "Toxel": 37,
         "Banette": 11,
         "Three-segment dudunsparce": 10,
         "Fearow": 10,
@@ -637,7 +637,7 @@
         "Ursaring": 32,
         "Glalie": 9,
         "Latios": 1,
-        "Silicobra": 31,
+        "Silicobra": 32,
         "Snom": 30,
         "East sea shellos": 14,
         "Corsola": 19,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32216,
-      "last_spawn": "2026-06-29T05:51:11.407360"
+      "total_spawns": 32220,
+      "last_spawn": "2026-06-29T05:51:49.796557"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38822,
+    "total_spawns": 38826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
