@@ -142,7 +142,7 @@
         "Rhyhorn": 168,
         "Sentret": 42,
         "Yungoos": 40,
-        "Diglett": 51,
+        "Diglett": 52,
         "Doduo": 42,
         "Lairon": 50,
         "Emboar": 9,
@@ -175,7 +175,7 @@
         "Gible": 108,
         "Rookidee": 129,
         "Minccino": 56,
-        "Wurmple": 156,
+        "Wurmple": 157,
         "Binacle": 51,
         "Grafaiai": 38,
         "Quilladin": 37,
@@ -225,7 +225,7 @@
         "Rillaboom": 16,
         "Ninetales": 17,
         "Wattrel": 166,
-        "Snubbull": 45,
+        "Snubbull": 46,
         "Spidops": 39,
         "Braixen": 34,
         "Drowzee": 32,
@@ -590,7 +590,7 @@
         "Wimpod": 37,
         "Torterra": 10,
         "Darmanitan": 9,
-        "Rainy castform": 8,
+        "Rainy castform": 9,
         "Galarian darumaka": 2,
         "Mienfoo": 40,
         "Dewgong": 12,
@@ -703,7 +703,7 @@
         "Litten": 60,
         "Abomasnow": 11,
         "Espeon": 5,
-        "Hatenna": 151,
+        "Hatenna": 152,
         "Zoroark": 12,
         "Lucario": 5,
         "Crustle": 14,
@@ -803,7 +803,7 @@
         "Raichu": 7,
         "Mime jr.": 11,
         "Voltorb": 33,
-        "Lickitung": 33,
+        "Lickitung": 34,
         "Blue-striped basculin": 12,
         "Barraskewda": 4,
         "Salazzle": 10,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 37893,
-      "last_spawn": "2026-06-29T19:21:49.965123"
+      "total_spawns": 37899,
+      "last_spawn": "2026-06-29T19:22:20.102220"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44772,
+    "total_spawns": 44778,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
