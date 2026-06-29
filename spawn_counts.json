@@ -170,7 +170,7 @@
         "Flareon": 11,
         "Gastly": 132,
         "Taillow": 30,
-        "Swinub": 144,
+        "Swinub": 145,
         "Inkay": 40,
         "Gible": 90,
         "Rookidee": 101,
@@ -323,7 +323,7 @@
         "Oshawott": 47,
         "Murkrow": 30,
         "Bellsprout": 151,
-        "Mudbray": 41,
+        "Mudbray": 42,
         "Dreepy": 129,
         "Tinkaton": 10,
         "Corviknight": 12,
@@ -391,7 +391,7 @@
         "Maractus": 10,
         "Sigilyph": 13,
         "Unown m": 1,
-        "Stufful": 27,
+        "Stufful": 28,
         "Wailord": 7,
         "Makuhita": 35,
         "Lombre": 43,
@@ -443,7 +443,7 @@
         "Galarian zen darmanitan": 2,
         "Bibarel": 12,
         "Plusle": 7,
-        "Skrelp": 33,
+        "Skrelp": 34,
         "Raticate": 27,
         "Wugtrio": 30,
         "Bellibolt": 33,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31251,
-      "last_spawn": "2026-06-29T02:22:00.721193"
+      "total_spawns": 31255,
+      "last_spawn": "2026-06-29T02:22:39.936284"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37840,
+    "total_spawns": 37844,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
