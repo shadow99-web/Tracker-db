@@ -68,7 +68,7 @@
         "Starly": 153,
         "Tandemaus": 127,
         "Smoliv": 154,
-        "Gloom": 35,
+        "Gloom": 36,
         "Clefairy": 35,
         "Spinda": 9,
         "Fomantis": 23,
@@ -92,7 +92,7 @@
         "Riolu": 34,
         "Exeggcute": 30,
         "Corphish": 32,
-        "Hoppip": 131,
+        "Hoppip": 132,
         "Sandslash": 8,
         "Kabuto": 44,
         "Scatterbug": 157,
@@ -223,7 +223,7 @@
         "Cyclizar": 58,
         "Magmar": 39,
         "Rillaboom": 13,
-        "Ninetales": 14,
+        "Ninetales": 15,
         "Wattrel": 143,
         "Snubbull": 39,
         "Spidops": 32,
@@ -250,7 +250,7 @@
         "Turtwig": 40,
         "Prinplup": 32,
         "Tinkatink": 145,
-        "Lechonk": 150,
+        "Lechonk": 151,
         "Kommo-o": 4,
         "Dewott": 36,
         "Arrokuda": 29,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32459,
-      "last_spawn": "2026-06-29T06:32:50.146595"
+      "total_spawns": 32463,
+      "last_spawn": "2026-06-29T06:33:29.993330"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39065,
+    "total_spawns": 39069,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
