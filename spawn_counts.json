@@ -86,7 +86,7 @@
         "Slakoth": 151,
         "Togepi": 137,
         "Falinks": 9,
-        "Tropius": 8,
+        "Tropius": 9,
         "Poliwag": 140,
         "Metang": 19,
         "Riolu": 34,
@@ -166,7 +166,7 @@
         "Kakuna": 40,
         "Weepinbell": 29,
         "Klawf": 161,
-        "Vanillite": 140,
+        "Vanillite": 141,
         "Flareon": 12,
         "Gastly": 144,
         "Taillow": 32,
@@ -512,7 +512,7 @@
         "Starmie": 17,
         "Simipour": 8,
         "Goldeen": 36,
-        "Nickit": 49,
+        "Nickit": 50,
         "Ivysaur": 25,
         "Milcery": 38,
         "Gabite": 24,
@@ -537,7 +537,7 @@
         "Zorua": 26,
         "Archen": 41,
         "Oinkologne": 49,
-        "Onix": 33,
+        "Onix": 34,
         "Vanilluxe": 7,
         "Jolteon": 9,
         "Pawmot": 9,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32579,
-      "last_spawn": "2026-06-29T06:53:00.252418"
+      "total_spawns": 32583,
+      "last_spawn": "2026-06-29T06:53:39.929324"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39185,
+    "total_spawns": 39189,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
