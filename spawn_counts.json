@@ -192,7 +192,7 @@
         "Dusk lycanroc": 5,
         "Sunny castform": 10,
         "Pidgeotto": 44,
-        "Spearow": 47,
+        "Spearow": 48,
         "Helioptile": 30,
         "Hoothoot": 47,
         "Grookey": 49,
@@ -340,7 +340,7 @@
         "Samurott": 9,
         "Torchic": 56,
         "Sobble": 45,
-        "Mudkip": 42,
+        "Mudkip": 43,
         "Charjabug": 31,
         "Capsakid": 131,
         "Revavroom": 37,
@@ -409,7 +409,7 @@
         "Kabutops": 9,
         "Dondozo": 133,
         "Pansear": 37,
-        "Cutiefly": 37,
+        "Cutiefly": 38,
         "Peakychu": 114,
         "Armarouge": 40,
         "Tyrantrum": 5,
@@ -875,7 +875,7 @@
         "Magnezone": 10,
         "Alolan graveler": 1,
         "Cleffa": 14,
-        "Machamp": 10,
+        "Machamp": 11,
         "Altaria": 13,
         "Purugly": 11,
         "Seaking": 6,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 32002,
-      "last_spawn": "2026-06-29T05:15:01.921510"
+      "total_spawns": 32006,
+      "last_spawn": "2026-06-29T05:15:39.909433"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38607,
+    "total_spawns": 38611,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
