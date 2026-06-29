@@ -1171,7 +1171,7 @@
         "Feebas": 3,
         "Lapras": 4,
         "Seismitoad": 2,
-        "Frigibax": 16,
+        "Frigibax": 17,
         "Meowth": 6,
         "Dj rotom": 10,
         "Prof tangrowth": 12,
@@ -1209,7 +1209,7 @@
         "Fidough": 10,
         "Spritzee": 5,
         "Squawkabilly": 3,
-        "Beldum": 13,
+        "Beldum": 14,
         "Whismur": 9,
         "Crabrawler": 3,
         "Mudkip": 2,
@@ -1829,10 +1829,12 @@
         "Galarian rapidash": 1,
         "Metang": 1,
         "Koffing": 1,
-        "Dustox": 1
+        "Dustox": 1,
+        "Jellicent": 1,
+        "Luxray": 1
       },
-      "total_spawns": 2519,
-      "last_spawn": "2026-06-29T16:38:47.615212"
+      "total_spawns": 2523,
+      "last_spawn": "2026-06-29T16:45:56.649129"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1842,7 +1844,7 @@
     }
   },
   "global": {
-    "total_spawns": 43694,
+    "total_spawns": 43698,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
