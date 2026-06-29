@@ -144,7 +144,7 @@
         "Yungoos": 34,
         "Diglett": 43,
         "Doduo": 39,
-        "Lairon": 40,
+        "Lairon": 41,
         "Emboar": 7,
         "Deoxys": 2,
         "Dracovish": 11,
@@ -352,7 +352,7 @@
         "Darumaka": 38,
         "Arboliva": 8,
         "Ledyba": 42,
-        "Spritzee": 37,
+        "Spritzee": 38,
         "Swirlix": 35,
         "Aromatisse": 8,
         "Muk": 9,
@@ -523,14 +523,14 @@
         "Pansage": 24,
         "Cranidos": 39,
         "Spewpa": 37,
-        "Tyrunt": 35,
+        "Tyrunt": 36,
         "Garganacl": 4,
         "Chinchou": 25,
         "Maushold": 41,
         "Bastiodon": 6,
         "Floatzel": 7,
         "Accelgor": 8,
-        "Wormadam": 9,
+        "Wormadam": 10,
         "Axew": 129,
         "Trevenant": 9,
         "Trubbish": 31,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32172,
-      "last_spawn": "2026-06-29T05:43:40.336982"
+      "total_spawns": 32176,
+      "last_spawn": "2026-06-29T05:44:19.880199"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38778,
+    "total_spawns": 38782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
