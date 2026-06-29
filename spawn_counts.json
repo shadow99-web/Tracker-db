@@ -1137,12 +1137,12 @@
         "Amoonguss": 2,
         "Mosslax": 18,
         "Rookidee": 21,
-        "Roggenrola": 15,
+        "Roggenrola": 16,
         "Armarouge": 4,
         "Gastly": 13,
         "Scatterbug": 14,
         "Wurmple": 8,
-        "Gothita": 19,
+        "Gothita": 20,
         "Gible": 13,
         "Larvesta": 5,
         "Starly": 14,
@@ -1420,7 +1420,7 @@
         "Barboach": 4,
         "Carvanha": 2,
         "Caterpie": 7,
-        "Dondozo": 14,
+        "Dondozo": 15,
         "Tranquill": 6,
         "Porygon": 14,
         "Wooloo": 6,
@@ -1553,7 +1553,7 @@
         "Elekid": 2,
         "Panpour": 1,
         "Trevenant": 1,
-        "Pignite": 3,
+        "Pignite": 4,
         "Ferroseed": 2,
         "Grafaiai": 5,
         "Tangela": 3,
@@ -1861,8 +1861,8 @@
         "Gothorita": 1,
         "Mime jr.": 1
       },
-      "total_spawns": 2751,
-      "last_spawn": "2026-06-29T23:32:37.551110"
+      "total_spawns": 2755,
+      "last_spawn": "2026-06-29T23:33:17.696309"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1872,7 +1872,7 @@
     }
   },
   "global": {
-    "total_spawns": 45675,
+    "total_spawns": 45679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
