@@ -249,7 +249,7 @@
         "Dachsbun": 32,
         "Turtwig": 40,
         "Prinplup": 32,
-        "Tinkatink": 144,
+        "Tinkatink": 145,
         "Lechonk": 149,
         "Kommo-o": 4,
         "Dewott": 36,
@@ -382,7 +382,7 @@
         "Hisuian zorua": 1,
         "Wooloo": 32,
         "Drifloon": 33,
-        "Golbat": 36,
+        "Golbat": 37,
         "Swablu": 32,
         "Shellder": 32,
         "Crobat": 14,
@@ -703,7 +703,7 @@
         "Litten": 50,
         "Abomasnow": 10,
         "Espeon": 4,
-        "Hatenna": 127,
+        "Hatenna": 128,
         "Zoroark": 11,
         "Lucario": 4,
         "Crustle": 14,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32169,
-      "last_spawn": "2026-06-29T05:43:09.976944"
+      "total_spawns": 32172,
+      "last_spawn": "2026-06-29T05:43:40.336982"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38775,
+    "total_spawns": 38778,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
