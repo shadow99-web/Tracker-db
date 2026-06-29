@@ -1299,7 +1299,7 @@
         "Joltik": 4,
         "Summer deerling": 1,
         "Heliolisk": 2,
-        "Raboot": 3,
+        "Raboot": 4,
         "Vanillite": 7,
         "Krabby": 2,
         "Clefable": 1,
@@ -1333,7 +1333,7 @@
         "Staryu": 4,
         "Gallade": 1,
         "Rattata": 7,
-        "Bellsprout": 7,
+        "Bellsprout": 8,
         "Lickitung": 5,
         "Minccino": 6,
         "Togepi": 9,
@@ -1445,7 +1445,7 @@
         "Nidoking": 1,
         "Tentacool": 4,
         "Servine": 7,
-        "Grubbin": 8,
+        "Grubbin": 9,
         "Clobbopus": 4,
         "Bounsweet": 12,
         "Crawdaunt": 2,
@@ -1773,7 +1773,7 @@
         "Natu": 1,
         "Bastiodon": 1,
         "Carnivine": 1,
-        "Electrike": 1,
+        "Electrike": 2,
         "Houndour": 1,
         "Gurdurr": 2,
         "Bidoof": 1,
@@ -1791,8 +1791,8 @@
         "Pa'u oricorio": 1,
         "Sirfetch'd": 1
       },
-      "total_spawns": 2292,
-      "last_spawn": "2026-06-29T01:14:59.631435"
+      "total_spawns": 2296,
+      "last_spawn": "2026-06-29T01:15:39.616534"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1802,7 +1802,7 @@
     }
   },
   "global": {
-    "total_spawns": 37740,
+    "total_spawns": 37744,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
