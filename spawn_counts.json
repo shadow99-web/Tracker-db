@@ -15,7 +15,7 @@
         "Bombirdier": 158,
         "Litleo": 37,
         "Purrloin": 39,
-        "Tranquill": 36,
+        "Tranquill": 37,
         "Psyduck": 29,
         "Rockruff": 39,
         "Haunter": 42,
@@ -119,7 +119,7 @@
         "Unfezant": 17,
         "Yamask": 49,
         "Ralts": 145,
-        "Solosis": 153,
+        "Solosis": 154,
         "Battle cyclizar": 65,
         "Togetic": 53,
         "Palpitoad": 34,
@@ -154,7 +154,7 @@
         "Dragapult": 17,
         "Rattata": 98,
         "Flapple": 17,
-        "Aron": 163,
+        "Aron": 164,
         "Boldore": 39,
         "Spinarak": 52,
         "Delcatty": 11,
@@ -403,11 +403,11 @@
         "Lopunny": 12,
         "Squawkabilly": 43,
         "Electrike": 40,
-        "Drampa": 15,
+        "Drampa": 16,
         "Maschiff": 163,
-        "Rufflet": 46,
+        "Rufflet": 47,
         "Kabutops": 9,
-        "Dondozo": 158,
+        "Dondozo": 159,
         "Pansear": 41,
         "Cutiefly": 45,
         "Peakychu": 131,
@@ -663,7 +663,7 @@
         "Espathra": 38,
         "Vileplume": 9,
         "Kecleon": 7,
-        "Sizzlipede": 31,
+        "Sizzlipede": 32,
         "White flower floette": 9,
         "Skeledirge": 14,
         "Amoonguss": 12,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 37055,
-      "last_spawn": "2026-06-29T18:11:24.499038"
+      "total_spawns": 37062,
+      "last_spawn": "2026-06-29T18:12:01.758029"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1850,7 +1850,7 @@
     }
   },
   "global": {
-    "total_spawns": 43921,
+    "total_spawns": 43928,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
