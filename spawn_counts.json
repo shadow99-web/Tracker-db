@@ -168,7 +168,7 @@
         "Klawf": 161,
         "Vanillite": 141,
         "Flareon": 12,
-        "Gastly": 145,
+        "Gastly": 146,
         "Taillow": 32,
         "Swinub": 154,
         "Inkay": 41,
@@ -339,10 +339,10 @@
         "Staryu": 29,
         "Samurott": 9,
         "Torchic": 56,
-        "Sobble": 46,
+        "Sobble": 47,
         "Mudkip": 43,
         "Charjabug": 31,
-        "Capsakid": 133,
+        "Capsakid": 134,
         "Revavroom": 37,
         "Exploud": 14,
         "Deino": 83,
@@ -923,7 +923,7 @@
         "Hattrem": 24,
         "Clefable": 7,
         "Serperior": 9,
-        "Lycanroc": 14,
+        "Lycanroc": 15,
         "Kingdra": 11,
         "Farfetch'd": 12,
         "Unown l": 1,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32684,
-      "last_spawn": "2026-06-29T07:10:50.097296"
+      "total_spawns": 32688,
+      "last_spawn": "2026-06-29T07:11:29.905083"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39290,
+    "total_spawns": 39294,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
