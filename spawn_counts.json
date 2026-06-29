@@ -1411,7 +1411,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 3,
-        "Tympole": 14,
+        "Tympole": 15,
         "Barboach": 3,
         "Carvanha": 2,
         "Caterpie": 7,
@@ -1425,7 +1425,7 @@
         "Piloswine": 4,
         "Archeops": 1,
         "Gigalith": 3,
-        "Nuzleaf": 2,
+        "Nuzleaf": 3,
         "Geodude": 16,
         "Gholdengo": 2,
         "Dudunsparce": 1,
@@ -1808,10 +1808,12 @@
         "Yellow flower floette": 1,
         "Galvantula": 1,
         "Hariyama": 1,
-        "Klinklang": 1
+        "Klinklang": 1,
+        "Weezing": 1,
+        "Victreebel": 1
       },
-      "total_spawns": 2361,
-      "last_spawn": "2026-06-29T13:16:07.650918"
+      "total_spawns": 2365,
+      "last_spawn": "2026-06-29T13:16:47.572429"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1821,7 +1823,7 @@
     }
   },
   "global": {
-    "total_spawns": 43180,
+    "total_spawns": 43184,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
