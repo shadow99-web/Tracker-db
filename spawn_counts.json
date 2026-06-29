@@ -95,7 +95,7 @@
         "Hoppip": 127,
         "Sandslash": 8,
         "Kabuto": 44,
-        "Scatterbug": 154,
+        "Scatterbug": 155,
         "Pumpkaboo": 45,
         "Numel": 44,
         "Carracosta": 11,
@@ -175,7 +175,7 @@
         "Gible": 93,
         "Rookidee": 104,
         "Minccino": 48,
-        "Wurmple": 133,
+        "Wurmple": 134,
         "Binacle": 42,
         "Grafaiai": 33,
         "Quilladin": 34,
@@ -738,10 +738,10 @@
         "Lumineon": 12,
         "Thievul": 9,
         "Greedent": 9,
-        "Ekans": 38,
+        "Ekans": 39,
         "Venonat": 34,
         "Pelipper": 13,
-        "Metapod": 28,
+        "Metapod": 29,
         "Kricketune": 15,
         "Nidoqueen": 6,
         "Hitmonchan": 4,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 32036,
-      "last_spawn": "2026-06-29T05:20:41.628334"
+      "total_spawns": 32040,
+      "last_spawn": "2026-06-29T05:21:19.998120"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38642,
+    "total_spawns": 38646,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
