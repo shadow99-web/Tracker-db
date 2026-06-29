@@ -1306,7 +1306,7 @@
         "Zorua": 3,
         "Meganium": 1,
         "Toedscruel": 2,
-        "Klawf": 10,
+        "Klawf": 11,
         "Grookey": 4,
         "Gossifleur": 4,
         "Joltik": 4,
@@ -1592,7 +1592,7 @@
         "Dragonair": 2,
         "Hippopotas": 2,
         "Nymble": 8,
-        "Phanpy": 1,
+        "Phanpy": 2,
         "Scyther": 3,
         "Drizzile": 1,
         "Orange flower florges": 1,
@@ -1623,7 +1623,7 @@
         "Corvisquire": 4,
         "Pupitar": 2,
         "Dusclops": 3,
-        "Kleavor": 1,
+        "Kleavor": 2,
         "Trumbeak": 2,
         "Pansage": 2,
         "Glimmora": 1,
@@ -1810,10 +1810,11 @@
         "Hariyama": 1,
         "Klinklang": 1,
         "Weezing": 1,
-        "Victreebel": 1
+        "Victreebel": 1,
+        "Hypno": 1
       },
-      "total_spawns": 2371,
-      "last_spawn": "2026-06-29T13:17:47.735513"
+      "total_spawns": 2375,
+      "last_spawn": "2026-06-29T13:18:27.549871"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1823,7 +1824,7 @@
     }
   },
   "global": {
-    "total_spawns": 43190,
+    "total_spawns": 43194,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
