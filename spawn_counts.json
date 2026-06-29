@@ -60,7 +60,7 @@
         "Skwovet": 41,
         "Bramblin": 161,
         "Yanma": 32,
-        "Larvesta": 48,
+        "Larvesta": 49,
         "Beldum": 105,
         "Ducklett": 35,
         "Lokix": 34,
@@ -628,7 +628,7 @@
         "Tatsugiri": 52,
         "Nidorino": 26,
         "Wailmer": 40,
-        "Krabby": 34,
+        "Krabby": 35,
         "Bronzong": 10,
         "Lanturn": 6,
         "Cacnea": 29,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 11,
+        "Typhlosion": 12,
         "Ariados": 7,
         "Volbeat": 11,
         "Burmy": 13,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32227,
-      "last_spawn": "2026-06-29T05:52:59.913464"
+      "total_spawns": 32230,
+      "last_spawn": "2026-06-29T05:53:30.145785"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38833,
+    "total_spawns": 38836,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
