@@ -248,7 +248,7 @@
         "Swampert": 12,
         "Dachsbun": 36,
         "Turtwig": 50,
-        "Prinplup": 42,
+        "Prinplup": 43,
         "Tinkatink": 175,
         "Lechonk": 170,
         "Kommo-o": 7,
@@ -328,7 +328,7 @@
         "Tinkaton": 16,
         "Corviknight": 15,
         "Froakie": 52,
-        "Nymble": 149,
+        "Nymble": 150,
         "Ferrothorn": 9,
         "Servine": 45,
         "Blitzle": 35,
@@ -387,7 +387,7 @@
         "Shellder": 38,
         "Crobat": 15,
         "Sandshrew": 47,
-        "Palafin": 41,
+        "Palafin": 42,
         "Maractus": 11,
         "Sigilyph": 16,
         "Unown m": 1,
@@ -492,7 +492,7 @@
         "Copperajah": 10,
         "Magneton": 33,
         "Alakazam": 9,
-        "Bayleef": 39,
+        "Bayleef": 41,
         "Poochyena": 42,
         "Klinklang": 9,
         "Basculin": 10,
@@ -583,7 +583,7 @@
         "Anorith": 43,
         "Meowth": 28,
         "Combee": 25,
-        "Fletchinder": 55,
+        "Fletchinder": 56,
         "Kingambit": 11,
         "Clodsire": 56,
         "Blaze breed tauros": 4,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38412,
-      "last_spawn": "2026-06-29T20:05:45.629810"
+      "total_spawns": 38418,
+      "last_spawn": "2026-06-29T20:06:20.039855"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1863,7 +1863,7 @@
     }
   },
   "global": {
-    "total_spawns": 45351,
+    "total_spawns": 45357,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
