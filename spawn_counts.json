@@ -25,7 +25,7 @@
         "Machop": 125,
         "Dudunsparce": 32,
         "Gothita": 145,
-        "Impidimp": 129,
+        "Impidimp": 130,
         "Charmander": 67,
         "Morelull": 28,
         "Abra": 155,
@@ -318,11 +318,11 @@
         "Prof tangrowth": 113,
         "Jangmo-o": 70,
         "Trash wormadam": 12,
-        "Quaxly": 50,
+        "Quaxly": 51,
         "Gossifleur": 49,
         "Oshawott": 49,
         "Murkrow": 34,
-        "Bellsprout": 157,
+        "Bellsprout": 158,
         "Mudbray": 43,
         "Dreepy": 134,
         "Tinkaton": 10,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32699,
-      "last_spawn": "2026-06-29T07:13:20.006112"
+      "total_spawns": 32702,
+      "last_spawn": "2026-06-29T07:13:50.397629"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39305,
+    "total_spawns": 39308,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
