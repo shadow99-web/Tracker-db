@@ -1187,7 +1187,7 @@
         "Happiny": 2,
         "Squirtle": 5,
         "Spinarak": 2,
-        "Blue plumage squawkabilly": 1,
+        "Blue plumage squawkabilly": 2,
         "Bergmite": 3,
         "Lairon": 2,
         "Impidimp": 12,
@@ -1449,7 +1449,7 @@
         "Boldore": 2,
         "Emboar": 1,
         "Blue flower floette": 1,
-        "Leafeon": 1,
+        "Leafeon": 2,
         "Shellder": 2,
         "Graveler": 5,
         "Drifloon": 2,
@@ -1815,10 +1815,11 @@
         "Dwebble": 1,
         "Frillish": 1,
         "Mandibuzz": 1,
-        "Wigglytuff": 1
+        "Wigglytuff": 1,
+        "Walrein": 1
       },
-      "total_spawns": 2417,
-      "last_spawn": "2026-06-29T15:23:37.498633"
+      "total_spawns": 2420,
+      "last_spawn": "2026-06-29T15:24:07.637097"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1828,7 +1829,7 @@
     }
   },
   "global": {
-    "total_spawns": 43592,
+    "total_spawns": 43595,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
