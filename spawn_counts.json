@@ -67,7 +67,7 @@
         "Glimmora": 47,
         "Starly": 165,
         "Tandemaus": 131,
-        "Smoliv": 165,
+        "Smoliv": 166,
         "Gloom": 39,
         "Clefairy": 39,
         "Spinda": 9,
@@ -139,7 +139,7 @@
         "Phanpy": 23,
         "Brambleghast": 45,
         "Pidgey": 176,
-        "Rhyhorn": 153,
+        "Rhyhorn": 154,
         "Sentret": 38,
         "Yungoos": 37,
         "Diglett": 47,
@@ -158,7 +158,7 @@
         "Boldore": 38,
         "Spinarak": 48,
         "Delcatty": 7,
-        "Spiritomb": 10,
+        "Spiritomb": 11,
         "Yamper": 36,
         "Tepig": 53,
         "Kirlia": 41,
@@ -204,7 +204,7 @@
         "Silcoon": 44,
         "Totodile": 52,
         "Dodrio": 11,
-        "Cufant": 45,
+        "Cufant": 46,
         "Tympole": 162,
         "Swellow": 10,
         "Aipom": 41,
@@ -225,7 +225,7 @@
         "Rillaboom": 14,
         "Ninetales": 17,
         "Wattrel": 153,
-        "Snubbull": 40,
+        "Snubbull": 41,
         "Spidops": 34,
         "Braixen": 33,
         "Drowzee": 30,
@@ -242,7 +242,7 @@
         "Chansey": 23,
         "Shroodle": 157,
         "Duskull": 175,
-        "Bergmite": 35,
+        "Bergmite": 36,
         "Pignite": 40,
         "Lurantis": 6,
         "Swampert": 9,
@@ -259,7 +259,7 @@
         "Cetitan": 35,
         "Cubone": 38,
         "Gligar": 48,
-        "Tirtouga": 43,
+        "Tirtouga": 44,
         "Furret": 10,
         "Nincada": 51,
         "Fennekin": 52,
@@ -350,7 +350,7 @@
         "Dwebble": 45,
         "Steenee": 46,
         "Darumaka": 40,
-        "Arboliva": 9,
+        "Arboliva": 10,
         "Ledyba": 43,
         "Spritzee": 41,
         "Swirlix": 38,
@@ -585,7 +585,7 @@
         "Combee": 22,
         "Fletchinder": 50,
         "Kingambit": 9,
-        "Clodsire": 49,
+        "Clodsire": 50,
         "Blaze breed tauros": 4,
         "Wimpod": 34,
         "Torterra": 9,
@@ -1116,8 +1116,8 @@
         "Zekrom": 1,
         "Melmetal": 1
       },
-      "total_spawns": 34430,
-      "last_spawn": "2026-06-29T09:06:08.001418"
+      "total_spawns": 34439,
+      "last_spawn": "2026-06-29T09:06:39.946035"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1814,7 +1814,7 @@
     }
   },
   "global": {
-    "total_spawns": 41038,
+    "total_spawns": 41047,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
