@@ -1194,7 +1194,7 @@
         "Solosis": 9,
         "Brambleghast": 1,
         "Rellor": 10,
-        "Nincada": 3,
+        "Nincada": 4,
         "Wattrel": 12,
         "Entei": 1,
         "Flaaffy": 4,
@@ -1279,7 +1279,7 @@
         "Machamp": 1,
         "Sceptile": 1,
         "Shelgon": 2,
-        "Dratini": 8,
+        "Dratini": 9,
         "Coalossal": 1,
         "Gumshoos": 2,
         "Cherubi": 1,
@@ -1545,7 +1545,7 @@
         "Arcanine": 1,
         "Vaporeon": 2,
         "Araquanid": 1,
-        "Elekid": 1,
+        "Elekid": 2,
         "Panpour": 1,
         "Trevenant": 1,
         "Pignite": 3,
@@ -1578,7 +1578,7 @@
         "Klang": 1,
         "Drilbur": 2,
         "Mismagius": 1,
-        "Bonsly": 1,
+        "Bonsly": 2,
         "Porygon-z": 2,
         "Chewtle": 1,
         "Aurorus": 1,
@@ -1830,8 +1830,8 @@
         "Metang": 1,
         "Koffing": 1
       },
-      "total_spawns": 2495,
-      "last_spawn": "2026-06-29T15:38:18.183342"
+      "total_spawns": 2499,
+      "last_spawn": "2026-06-29T15:38:57.515831"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1841,7 +1841,7 @@
     }
   },
   "global": {
-    "total_spawns": 43670,
+    "total_spawns": 43674,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
