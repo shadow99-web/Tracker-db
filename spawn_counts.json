@@ -95,7 +95,7 @@
         "Hoppip": 127,
         "Sandslash": 8,
         "Kabuto": 44,
-        "Scatterbug": 155,
+        "Scatterbug": 156,
         "Pumpkaboo": 45,
         "Numel": 44,
         "Carracosta": 11,
@@ -747,7 +747,7 @@
         "Hitmonchan": 4,
         "Relicanth": 10,
         "Klefki": 9,
-        "Frogadier": 46,
+        "Frogadier": 47,
         "Dewpider": 28,
         "Poltchageist": 10,
         "Incineroar": 8,
@@ -765,7 +765,7 @@
         "Gorebyss": 7,
         "Yanmega": 7,
         "Pawmo": 22,
-        "Finneon": 25,
+        "Finneon": 26,
         "Mamoswine": 12,
         "Drifblim": 8,
         "Meowscarada": 9,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 32055,
-      "last_spawn": "2026-06-29T05:23:49.908191"
+      "total_spawns": 32058,
+      "last_spawn": "2026-06-29T05:24:19.912647"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38661,
+    "total_spawns": 38664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
