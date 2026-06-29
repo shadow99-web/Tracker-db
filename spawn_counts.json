@@ -130,7 +130,7 @@
         "Weedle": 166,
         "Flamigo": 139,
         "Lillipup": 143,
-        "Shinx": 161,
+        "Shinx": 162,
         "Bounsweet": 141,
         "Noibat": 35,
         "Toxicroak": 11,
@@ -168,7 +168,7 @@
         "Klawf": 159,
         "Vanillite": 140,
         "Flareon": 12,
-        "Gastly": 139,
+        "Gastly": 140,
         "Taillow": 31,
         "Swinub": 149,
         "Inkay": 41,
@@ -391,7 +391,7 @@
         "Maractus": 10,
         "Sigilyph": 13,
         "Unown m": 1,
-        "Stufful": 29,
+        "Stufful": 30,
         "Wailord": 7,
         "Makuhita": 36,
         "Lombre": 45,
@@ -919,7 +919,7 @@
         "Bellossom": 12,
         "Pirouette meloetta": 2,
         "Sableye": 11,
-        "Wynaut": 9,
+        "Wynaut": 10,
         "Hattrem": 24,
         "Clefable": 6,
         "Serperior": 9,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32108,
-      "last_spawn": "2026-06-29T05:32:50.133896"
+      "total_spawns": 32112,
+      "last_spawn": "2026-06-29T05:33:30.000425"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38714,
+    "total_spawns": 38718,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
