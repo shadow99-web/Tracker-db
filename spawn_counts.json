@@ -42,7 +42,7 @@
         "Toedscool": 135,
         "Fletchling": 131,
         "Skiploom": 41,
-        "Timburr": 149,
+        "Timburr": 150,
         "Dj rotom": 133,
         "Surskit": 47,
         "Seedot": 136,
@@ -56,7 +56,7 @@
         "Tadbulb": 175,
         "Magnemite": 156,
         "Whismur": 135,
-        "Monferno": 37,
+        "Monferno": 38,
         "Skwovet": 41,
         "Bramblin": 161,
         "Yanma": 32,
@@ -530,7 +530,7 @@
         "Bastiodon": 6,
         "Floatzel": 7,
         "Accelgor": 8,
-        "Wormadam": 10,
+        "Wormadam": 11,
         "Axew": 129,
         "Trevenant": 9,
         "Trubbish": 31,
@@ -579,7 +579,7 @@
         "Huntail": 12,
         "Galarian meowth": 3,
         "Spoink": 26,
-        "Scyther": 44,
+        "Scyther": 45,
         "Anorith": 37,
         "Meowth": 23,
         "Combee": 20,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32191,
-      "last_spawn": "2026-06-29T05:47:00.199251"
+      "total_spawns": 32195,
+      "last_spawn": "2026-06-29T05:47:39.949623"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38797,
+    "total_spawns": 38801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
