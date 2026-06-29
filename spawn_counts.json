@@ -51,7 +51,7 @@
         "Slugma": 49,
         "Grotle": 31,
         "Porygon": 162,
-        "Zubat": 167,
+        "Zubat": 168,
         "Vanillish": 43,
         "Tadbulb": 176,
         "Magnemite": 159,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 45,
         "Numel": 46,
         "Carracosta": 11,
-        "Smearguru": 120,
+        "Smearguru": 121,
         "Veluza": 162,
         "Barboach": 52,
         "Klink": 117,
@@ -320,7 +320,7 @@
         "Trash wormadam": 12,
         "Quaxly": 51,
         "Gossifleur": 49,
-        "Oshawott": 49,
+        "Oshawott": 50,
         "Murkrow": 34,
         "Bellsprout": 158,
         "Mudbray": 43,
@@ -561,7 +561,7 @@
         "Ponyta": 35,
         "Togekiss": 10,
         "Braviary": 10,
-        "Raboot": 41,
+        "Raboot": 42,
         "Golem": 9,
         "Slowking": 14,
         "Lilligant": 14,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32739,
-      "last_spawn": "2026-06-29T07:50:39.950825"
+      "total_spawns": 32743,
+      "last_spawn": "2026-06-29T07:51:20.003367"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39345,
+    "total_spawns": 39349,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
