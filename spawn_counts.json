@@ -107,7 +107,7 @@
         "Wingull": 47,
         "Salamence": 5,
         "Drakloak": 41,
-        "Chewtle": 40,
+        "Chewtle": 41,
         "Scizor": 10,
         "Sneasel": 38,
         "Bonsly": 10,
@@ -240,7 +240,7 @@
         "Omanyte": 45,
         "Galvantula": 11,
         "Chansey": 26,
-        "Shroodle": 171,
+        "Shroodle": 172,
         "Duskull": 186,
         "Bergmite": 39,
         "Pignite": 41,
@@ -254,7 +254,7 @@
         "Kommo-o": 7,
         "Dewott": 42,
         "Arrokuda": 32,
-        "Golett": 42,
+        "Golett": 43,
         "Vullaby": 36,
         "Cetitan": 41,
         "Cubone": 40,
@@ -353,7 +353,7 @@
         "Arboliva": 10,
         "Ledyba": 45,
         "Spritzee": 43,
-        "Swirlix": 41,
+        "Swirlix": 42,
         "Aromatisse": 9,
         "Muk": 10,
         "Toxel": 44,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37770,
-      "last_spawn": "2026-06-29T19:11:24.697899"
+      "total_spawns": 37774,
+      "last_spawn": "2026-06-29T19:11:54.920231"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44649,
+    "total_spawns": 44653,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
