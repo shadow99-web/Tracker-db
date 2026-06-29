@@ -14,7 +14,7 @@
         "Wiglett": 136,
         "Bombirdier": 137,
         "Litleo": 34,
-        "Purrloin": 33,
+        "Purrloin": 34,
         "Tranquill": 32,
         "Psyduck": 22,
         "Rockruff": 32,
@@ -458,7 +458,7 @@
         "Iron moth": 2,
         "Cherubi": 33,
         "Cradily": 13,
-        "Vulpix": 34,
+        "Vulpix": 35,
         "Paras": 38,
         "Herdier": 54,
         "Pineco": 33,
@@ -663,7 +663,7 @@
         "Espathra": 31,
         "Vileplume": 8,
         "Kecleon": 6,
-        "Sizzlipede": 27,
+        "Sizzlipede": 28,
         "White flower floette": 7,
         "Skeledirge": 13,
         "Amoonguss": 11,
@@ -833,7 +833,7 @@
         "Dragonite": 7,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 11,
-        "Arctovish": 9,
+        "Arctovish": 10,
         "Ribombee": 8,
         "Alolan meowth": 1,
         "Klang": 36,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32734,
-      "last_spawn": "2026-06-29T07:19:20.996365"
+      "total_spawns": 32738,
+      "last_spawn": "2026-06-29T07:20:01.421531"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39340,
+    "total_spawns": 39344,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
