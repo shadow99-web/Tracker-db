@@ -306,7 +306,7 @@
         "Lileep": 37,
         "Rolycoly": 147,
         "Bronzor": 39,
-        "Dartrix": 38,
+        "Dartrix": 39,
         "Yellow flower florges": 5,
         "Zangoose": 9,
         "Flygon": 5,
@@ -533,7 +533,7 @@
         "Wormadam": 8,
         "Axew": 128,
         "Trevenant": 9,
-        "Trubbish": 29,
+        "Trubbish": 30,
         "Zorua": 25,
         "Archen": 39,
         "Oinkologne": 47,
@@ -637,7 +637,7 @@
         "Ursaring": 31,
         "Glalie": 8,
         "Latios": 1,
-        "Silicobra": 30,
+        "Silicobra": 31,
         "Snom": 29,
         "East sea shellos": 14,
         "Corsola": 19,
@@ -741,7 +741,7 @@
         "Ekans": 38,
         "Venonat": 33,
         "Pelipper": 13,
-        "Metapod": 27,
+        "Metapod": 28,
         "Kricketune": 15,
         "Nidoqueen": 6,
         "Hitmonchan": 3,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31445,
-      "last_spawn": "2026-06-29T02:54:50.180623"
+      "total_spawns": 31449,
+      "last_spawn": "2026-06-29T02:55:29.974228"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38034,
+    "total_spawns": 38038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
