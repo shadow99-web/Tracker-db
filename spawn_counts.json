@@ -66,7 +66,7 @@
         "Lokix": 34,
         "Glimmora": 45,
         "Starly": 152,
-        "Tandemaus": 126,
+        "Tandemaus": 127,
         "Smoliv": 154,
         "Gloom": 34,
         "Clefairy": 35,
@@ -130,7 +130,7 @@
         "Weedle": 167,
         "Flamigo": 139,
         "Lillipup": 144,
-        "Shinx": 162,
+        "Shinx": 163,
         "Bounsweet": 141,
         "Noibat": 35,
         "Toxicroak": 11,
@@ -817,7 +817,7 @@
         "Hypno": 4,
         "Galarian weezing": 1,
         "Gigalith": 5,
-        "Indeedee": 5,
+        "Indeedee": 6,
         "Amped toxtricity": 13,
         "Galarian linoone": 6,
         "Xatu": 8,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32195,
-      "last_spawn": "2026-06-29T05:47:39.949623"
+      "total_spawns": 32198,
+      "last_spawn": "2026-06-29T05:48:10.253499"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38801,
+    "total_spawns": 38804,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
