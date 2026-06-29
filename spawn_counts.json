@@ -32,7 +32,7 @@
         "Sandile": 179,
         "Sandygast": 48,
         "Litwick": 211,
-        "Grubbin": 153,
+        "Grubbin": 154,
         "Escavalier": 13,
         "Dratini": 123,
         "Kilowattrel": 41,
@@ -51,7 +51,7 @@
         "Slugma": 52,
         "Grotle": 33,
         "Porygon": 189,
-        "Zubat": 189,
+        "Zubat": 190,
         "Vanillish": 49,
         "Tadbulb": 199,
         "Magnemite": 175,
@@ -213,7 +213,7 @@
         "Fidough": 123,
         "Noivern": 7,
         "Feraligatr": 10,
-        "Tynamo": 184,
+        "Tynamo": 185,
         "Orthworm": 169,
         "Marill": 46,
         "Joltik": 52,
@@ -224,7 +224,7 @@
         "Magmar": 44,
         "Rillaboom": 16,
         "Ninetales": 17,
-        "Wattrel": 165,
+        "Wattrel": 166,
         "Snubbull": 45,
         "Spidops": 39,
         "Braixen": 34,
@@ -240,7 +240,7 @@
         "Omanyte": 45,
         "Galvantula": 11,
         "Chansey": 26,
-        "Shroodle": 172,
+        "Shroodle": 173,
         "Duskull": 186,
         "Bergmite": 39,
         "Pignite": 41,
@@ -553,7 +553,7 @@
         "Snover": 31,
         "Drednaw": 5,
         "Skarmory": 12,
-        "Midnight lycanroc": 7,
+        "Midnight lycanroc": 8,
         "Eelektross": 15,
         "Araquanid": 10,
         "Kadabra": 41,
@@ -575,7 +575,7 @@
         "Cascoon": 45,
         "Tentacruel": 9,
         "Nuzleaf": 35,
-        "Scorbunny": 55,
+        "Scorbunny": 56,
         "Huntail": 14,
         "Galarian meowth": 3,
         "Spoink": 31,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37859,
-      "last_spawn": "2026-06-29T19:19:01.559864"
+      "total_spawns": 37866,
+      "last_spawn": "2026-06-29T19:19:34.305524"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44738,
+    "total_spawns": 44745,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
