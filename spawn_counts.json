@@ -262,7 +262,7 @@
         "Tirtouga": 42,
         "Furret": 8,
         "Nincada": 50,
-        "Fennekin": 48,
+        "Fennekin": 49,
         "Quaxwell": 21,
         "Vibrava": 45,
         "Loudred": 49,
@@ -634,7 +634,7 @@
         "Cacnea": 29,
         "Pom-pom oricorio": 12,
         "Hawlucha": 14,
-        "Ursaring": 32,
+        "Ursaring": 33,
         "Glalie": 9,
         "Latios": 1,
         "Silicobra": 33,
@@ -752,7 +752,7 @@
         "Poltchageist": 10,
         "Incineroar": 8,
         "Morpeko": 17,
-        "Parasect": 11,
+        "Parasect": 12,
         "Alolan muk": 4,
         "Iron boulder": 3,
         "Haxorus": 9,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32254,
-      "last_spawn": "2026-06-29T05:57:49.893313"
+      "total_spawns": 32257,
+      "last_spawn": "2026-06-29T05:58:20.012440"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38860,
+    "total_spawns": 38863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
