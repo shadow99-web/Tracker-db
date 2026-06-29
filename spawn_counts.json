@@ -1361,7 +1361,7 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 8,
+        "Venipede": 9,
         "Maschiff": 12,
         "Sprigatito": 6,
         "Toedscool": 11,
@@ -1413,7 +1413,7 @@
         "Archeops": 1,
         "Gigalith": 3,
         "Nuzleaf": 2,
-        "Geodude": 15,
+        "Geodude": 16,
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 3,
@@ -1746,7 +1746,7 @@
         "Bronzong": 1,
         "Bouffalant": 1,
         "Persian": 1,
-        "Stunky": 1,
+        "Stunky": 2,
         "Noctowl": 2,
         "Foongus": 2,
         "Klefki": 1,
@@ -1785,10 +1785,11 @@
         "Blaziken": 1,
         "Galarian darumaka": 1,
         "Buizel": 1,
-        "Wash rotom": 1
+        "Wash rotom": 1,
+        "Weavile": 1
       },
-      "total_spawns": 2271,
-      "last_spawn": "2026-06-29T01:06:47.839102"
+      "total_spawns": 2275,
+      "last_spawn": "2026-06-29T01:07:27.646410"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1798,7 +1799,7 @@
     }
   },
   "global": {
-    "total_spawns": 37719,
+    "total_spawns": 37723,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
