@@ -100,7 +100,7 @@
         "Numel": 43,
         "Carracosta": 11,
         "Smearguru": 111,
-        "Veluza": 153,
+        "Veluza": 154,
         "Barboach": 50,
         "Klink": 114,
         "Honedge": 141,
@@ -165,7 +165,7 @@
         "Piplup": 35,
         "Kakuna": 38,
         "Weepinbell": 29,
-        "Klawf": 156,
+        "Klawf": 157,
         "Vanillite": 136,
         "Flareon": 11,
         "Gastly": 132,
@@ -701,7 +701,7 @@
         "Celebi": 2,
         "Hero palafin": 10,
         "Litten": 49,
-        "Abomasnow": 9,
+        "Abomasnow": 10,
         "Espeon": 4,
         "Hatenna": 125,
         "Zoroark": 11,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31123,
-      "last_spawn": "2026-06-29T00:57:00.122473"
+      "total_spawns": 31126,
+      "last_spawn": "2026-06-29T00:57:30.006133"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1369,7 +1369,7 @@
         "Fuecoco": 6,
         "Electrode": 1,
         "Chandelure": 2,
-        "Wiglett": 10,
+        "Wiglett": 11,
         "Farigiraf": 2,
         "Zubat": 8,
         "Lotad": 4,
@@ -1777,10 +1777,12 @@
         "Houndour": 1,
         "Gurdurr": 1,
         "Bidoof": 1,
-        "Rowlet": 1
+        "Rowlet": 1,
+        "Meditite": 1,
+        "Pyukumuku": 1
       },
-      "total_spawns": 2213,
-      "last_spawn": "2026-06-28T22:36:28.990512"
+      "total_spawns": 2216,
+      "last_spawn": "2026-06-29T00:57:37.399020"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1790,7 +1792,7 @@
     }
   },
   "global": {
-    "total_spawns": 37623,
+    "total_spawns": 37629,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
