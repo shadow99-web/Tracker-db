@@ -1141,7 +1141,7 @@
         "Armarouge": 4,
         "Gastly": 14,
         "Scatterbug": 14,
-        "Wurmple": 9,
+        "Wurmple": 10,
         "Gothita": 21,
         "Gible": 13,
         "Larvesta": 5,
@@ -1257,7 +1257,7 @@
         "Pelipper": 2,
         "Hattrem": 5,
         "Machoke": 3,
-        "Litwick": 21,
+        "Litwick": 22,
         "Frost rotom": 1,
         "Cubchoo": 6,
         "Abra": 18,
@@ -1865,10 +1865,11 @@
         "Azumarill": 1,
         "Meowstic": 1,
         "Wormadam": 1,
-        "Raticate": 1
+        "Raticate": 1,
+        "Charjabug": 1
       },
-      "total_spawns": 2855,
-      "last_spawn": "2026-06-29T23:51:28.322496"
+      "total_spawns": 2858,
+      "last_spawn": "2026-06-29T23:52:07.596722"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1878,7 +1879,7 @@
     }
   },
   "global": {
-    "total_spawns": 45779,
+    "total_spawns": 45782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
