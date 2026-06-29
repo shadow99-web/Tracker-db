@@ -1283,7 +1283,7 @@
         "Lurantis": 2,
         "Machamp": 1,
         "Sceptile": 1,
-        "Shelgon": 2,
+        "Shelgon": 3,
         "Dratini": 10,
         "Coalossal": 1,
         "Gumshoos": 2,
@@ -1389,7 +1389,7 @@
         "Chandelure": 2,
         "Wiglett": 13,
         "Farigiraf": 2,
-        "Zubat": 11,
+        "Zubat": 12,
         "Lotad": 7,
         "Sylveon": 2,
         "Omastar": 1,
@@ -1401,7 +1401,7 @@
         "Goodra": 1,
         "Klink": 5,
         "Mankey": 3,
-        "Charmander": 4,
+        "Charmander": 5,
         "Shroomish": 2,
         "Finizen": 9,
         "Croconaw": 2,
@@ -1635,7 +1635,7 @@
         "Cleffa": 2,
         "Cradily": 1,
         "Thwackey": 1,
-        "Claydol": 1,
+        "Claydol": 2,
         "Grimmsnarl": 2,
         "Frosmoth": 1,
         "Dunsparce": 1,
@@ -1857,8 +1857,8 @@
         "Scizor": 1,
         "Reuniclus": 1
       },
-      "total_spawns": 2704,
-      "last_spawn": "2026-06-29T22:54:37.607468"
+      "total_spawns": 2708,
+      "last_spawn": "2026-06-29T22:55:17.451464"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1868,7 +1868,7 @@
     }
   },
   "global": {
-    "total_spawns": 45628,
+    "total_spawns": 45632,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
