@@ -9,7 +9,7 @@
         "Drilbur": 38,
         "Pawmi": 144,
         "Electabuzz": 30,
-        "Rellor": 143,
+        "Rellor": 144,
         "Sandy burmy": 19,
         "Wiglett": 136,
         "Bombirdier": 138,
@@ -78,7 +78,7 @@
         "Hatterene": 13,
         "Phantump": 46,
         "Duosion": 35,
-        "Amaura": 39,
+        "Amaura": 40,
         "Gimmighoul": 141,
         "Baltoy": 41,
         "Mareep": 148,
@@ -164,8 +164,8 @@
         "Kirlia": 41,
         "Piplup": 37,
         "Kakuna": 40,
-        "Weepinbell": 29,
-        "Klawf": 161,
+        "Weepinbell": 30,
+        "Klawf": 162,
         "Vanillite": 144,
         "Flareon": 12,
         "Gastly": 146,
@@ -265,7 +265,7 @@
         "Fennekin": 50,
         "Quaxwell": 22,
         "Vibrava": 46,
-        "Loudred": 49,
+        "Loudred": 50,
         "Ceruledge": 40,
         "Houndour": 35,
         "Glimmet": 152,
@@ -296,7 +296,7 @@
         "Ferroseed": 35,
         "Brionne": 27,
         "Pancham": 40,
-        "Venipede": 157,
+        "Venipede": 158,
         "Cacturne": 11,
         "Oddish": 161,
         "Dragalge": 11,
@@ -368,7 +368,7 @@
         "Toucannon": 5,
         "Caterpie": 130,
         "Carvanha": 25,
-        "Luxio": 33,
+        "Luxio": 34,
         "Treecko": 53,
         "Sinistea": 30,
         "Cubchoo": 25,
@@ -484,7 +484,7 @@
         "Tyrogue": 33,
         "Vikavolt": 6,
         "Trash burmy": 13,
-        "Staravia": 39,
+        "Staravia": 40,
         "Chatot": 9,
         "Houndoom": 17,
         "Dottler": 36,
@@ -531,7 +531,7 @@
         "Floatzel": 7,
         "Accelgor": 8,
         "Wormadam": 11,
-        "Axew": 133,
+        "Axew": 134,
         "Trevenant": 12,
         "Trubbish": 32,
         "Zorua": 27,
@@ -579,7 +579,7 @@
         "Huntail": 12,
         "Galarian meowth": 3,
         "Spoink": 27,
-        "Scyther": 45,
+        "Scyther": 46,
         "Anorith": 38,
         "Meowth": 23,
         "Combee": 20,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32817,
-      "last_spawn": "2026-06-29T07:55:33.464387"
+      "total_spawns": 32827,
+      "last_spawn": "2026-06-29T07:56:07.761359"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39424,
+    "total_spawns": 39434,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
