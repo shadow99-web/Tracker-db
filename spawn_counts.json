@@ -173,7 +173,7 @@
         "Swinub": 149,
         "Inkay": 40,
         "Gible": 92,
-        "Rookidee": 102,
+        "Rookidee": 103,
         "Minccino": 47,
         "Wurmple": 132,
         "Binacle": 42,
@@ -221,7 +221,7 @@
         "Cyndaquil": 47,
         "Fuecoco": 53,
         "Cyclizar": 55,
-        "Magmar": 36,
+        "Magmar": 37,
         "Rillaboom": 13,
         "Ninetales": 13,
         "Wattrel": 140,
@@ -351,7 +351,7 @@
         "Steenee": 40,
         "Darumaka": 38,
         "Arboliva": 8,
-        "Ledyba": 41,
+        "Ledyba": 42,
         "Spritzee": 37,
         "Swirlix": 35,
         "Aromatisse": 8,
@@ -922,7 +922,7 @@
         "Wynaut": 9,
         "Hattrem": 24,
         "Clefable": 6,
-        "Serperior": 8,
+        "Serperior": 9,
         "Lycanroc": 14,
         "Kingdra": 10,
         "Farfetch'd": 12,
@@ -1107,8 +1107,8 @@
         "Alolan dugtrio": 1,
         "Zeraora": 1
       },
-      "total_spawns": 31752,
-      "last_spawn": "2026-06-29T03:46:40.099214"
+      "total_spawns": 31756,
+      "last_spawn": "2026-06-29T03:47:20.328853"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1804,7 +1804,7 @@
     }
   },
   "global": {
-    "total_spawns": 38342,
+    "total_spawns": 38346,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
