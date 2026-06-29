@@ -53,7 +53,7 @@
         "Porygon": 192,
         "Zubat": 190,
         "Vanillish": 49,
-        "Tadbulb": 202,
+        "Tadbulb": 203,
         "Magnemite": 176,
         "Whismur": 166,
         "Monferno": 43,
@@ -131,7 +131,7 @@
         "Flamigo": 161,
         "Lillipup": 168,
         "Shinx": 192,
-        "Bounsweet": 168,
+        "Bounsweet": 169,
         "Noibat": 39,
         "Toxicroak": 14,
         "Charcadet": 186,
@@ -173,7 +173,7 @@
         "Swinub": 184,
         "Inkay": 48,
         "Gible": 110,
-        "Rookidee": 131,
+        "Rookidee": 132,
         "Minccino": 57,
         "Wurmple": 157,
         "Binacle": 51,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 33,
         "Dhelmise": 10,
-        "Bagon": 114,
+        "Bagon": 115,
         "Sudowoodo": 10,
         "Stoutland": 12,
         "Rowlet": 55,
@@ -703,7 +703,7 @@
         "Litten": 60,
         "Abomasnow": 12,
         "Espeon": 5,
-        "Hatenna": 156,
+        "Hatenna": 157,
         "Zoroark": 12,
         "Lucario": 5,
         "Crustle": 14,
@@ -1100,7 +1100,7 @@
         "Brute bonnet": 1,
         "Alolan diglett": 1,
         "Iron crown": 1,
-        "Perrserker": 1,
+        "Perrserker": 2,
         "Cosmoem": 1,
         "Hisuian growlithe": 1,
         "Hisuian arcanine": 1,
@@ -1121,10 +1121,11 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1,
         "Xurkitree": 1,
-        "Complete zygarde": 1
+        "Complete zygarde": 1,
+        "Raging bolt": 1
       },
-      "total_spawns": 38330,
-      "last_spawn": "2026-06-29T19:58:44.511174"
+      "total_spawns": 38337,
+      "last_spawn": "2026-06-29T19:59:20.276647"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1140,7 +1141,7 @@
         "Armarouge": 4,
         "Gastly": 13,
         "Scatterbug": 14,
-        "Wurmple": 7,
+        "Wurmple": 8,
         "Gothita": 19,
         "Gible": 13,
         "Larvesta": 5,
@@ -1250,7 +1251,7 @@
         "Aron": 11,
         "Kabuto": 3,
         "Togetic": 5,
-        "Sewaddle": 17,
+        "Sewaddle": 18,
         "Eevee": 3,
         "Taillow": 2,
         "Pelipper": 2,
@@ -1596,7 +1597,7 @@
         "Dragonair": 2,
         "Hippopotas": 2,
         "Nymble": 9,
-        "Phanpy": 2,
+        "Phanpy": 3,
         "Scyther": 3,
         "Drizzile": 2,
         "Orange flower florges": 1,
@@ -1850,8 +1851,8 @@
         "Nidorina": 1,
         "Psyduck": 1
       },
-      "total_spawns": 2625,
-      "last_spawn": "2026-06-29T19:58:37.525221"
+      "total_spawns": 2628,
+      "last_spawn": "2026-06-29T19:59:07.767482"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1861,7 +1862,7 @@
     }
   },
   "global": {
-    "total_spawns": 45242,
+    "total_spawns": 45252,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
