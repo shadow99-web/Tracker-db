@@ -68,7 +68,7 @@
         "Starly": 172,
         "Tandemaus": 142,
         "Smoliv": 182,
-        "Gloom": 41,
+        "Gloom": 42,
         "Clefairy": 43,
         "Spinda": 9,
         "Fomantis": 27,
@@ -115,7 +115,7 @@
         "Frigibax": 154,
         "Spheal": 191,
         "Swadloon": 50,
-        "Flittle": 150,
+        "Flittle": 151,
         "Unfezant": 17,
         "Yamask": 47,
         "Ralts": 145,
@@ -194,7 +194,7 @@
         "Pidgeotto": 53,
         "Spearow": 50,
         "Helioptile": 36,
-        "Hoothoot": 52,
+        "Hoothoot": 53,
         "Grookey": 53,
         "Meditite": 25,
         "Toedscruel": 50,
@@ -205,7 +205,7 @@
         "Totodile": 54,
         "Dodrio": 11,
         "Cufant": 50,
-        "Tympole": 176,
+        "Tympole": 177,
         "Swellow": 11,
         "Aipom": 46,
         "Growlithe": 41,
@@ -239,7 +239,7 @@
         "Clobbopus": 42,
         "Omanyte": 41,
         "Galvantula": 11,
-        "Chansey": 25,
+        "Chansey": 26,
         "Shroodle": 167,
         "Duskull": 182,
         "Bergmite": 39,
@@ -262,7 +262,7 @@
         "Tirtouga": 45,
         "Furret": 11,
         "Nincada": 56,
-        "Fennekin": 53,
+        "Fennekin": 54,
         "Quaxwell": 25,
         "Vibrava": 48,
         "Loudred": 51,
@@ -554,7 +554,7 @@
         "Drednaw": 5,
         "Skarmory": 12,
         "Midnight lycanroc": 7,
-        "Eelektross": 14,
+        "Eelektross": 15,
         "Araquanid": 10,
         "Kadabra": 40,
         "Chandelure": 13,
@@ -592,7 +592,7 @@
         "Darmanitan": 9,
         "Rainy castform": 8,
         "Galarian darumaka": 1,
-        "Mienfoo": 37,
+        "Mienfoo": 38,
         "Dewgong": 12,
         "Wartortle": 32,
         "Cetoddle": 157,
@@ -726,7 +726,7 @@
         "Typhlosion": 14,
         "Ariados": 9,
         "Volbeat": 11,
-        "Burmy": 14,
+        "Burmy": 16,
         "Popplio": 39,
         "Mandibuzz": 9,
         "Walrein": 17,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 36787,
-      "last_spawn": "2026-06-29T15:14:30.374500"
+      "total_spawns": 36797,
+      "last_spawn": "2026-06-29T15:15:07.491553"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1826,7 +1826,7 @@
     }
   },
   "global": {
-    "total_spawns": 43464,
+    "total_spawns": 43474,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
