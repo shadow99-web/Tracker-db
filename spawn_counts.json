@@ -55,7 +55,7 @@
         "Vanillish": 49,
         "Tadbulb": 201,
         "Magnemite": 175,
-        "Whismur": 164,
+        "Whismur": 165,
         "Monferno": 43,
         "Skwovet": 48,
         "Bramblin": 194,
@@ -119,7 +119,7 @@
         "Unfezant": 17,
         "Yamask": 50,
         "Ralts": 150,
-        "Solosis": 160,
+        "Solosis": 161,
         "Battle cyclizar": 66,
         "Togetic": 55,
         "Palpitoad": 34,
@@ -254,7 +254,7 @@
         "Kommo-o": 7,
         "Dewott": 43,
         "Arrokuda": 32,
-        "Golett": 43,
+        "Golett": 44,
         "Vullaby": 36,
         "Cetitan": 41,
         "Cubone": 40,
@@ -404,7 +404,7 @@
         "Squawkabilly": 45,
         "Electrike": 42,
         "Drampa": 16,
-        "Maschiff": 167,
+        "Maschiff": 168,
         "Rufflet": 47,
         "Kabutops": 9,
         "Dondozo": 165,
@@ -413,7 +413,7 @@
         "Peakychu": 133,
         "Armarouge": 44,
         "Tyrantrum": 6,
-        "Larvitar": 82,
+        "Larvitar": 83,
         "Tentacool": 34,
         "Volcanion": 1,
         "Roaming gimmighoul": 127,
@@ -589,7 +589,7 @@
         "Blaze breed tauros": 4,
         "Wimpod": 37,
         "Torterra": 10,
-        "Darmanitan": 9,
+        "Darmanitan": 10,
         "Rainy castform": 9,
         "Galarian darumaka": 2,
         "Mienfoo": 41,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 37995,
-      "last_spawn": "2026-06-29T19:30:24.410779"
+      "total_spawns": 38001,
+      "last_spawn": "2026-06-29T19:30:54.448367"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44874,
+    "total_spawns": 44880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
