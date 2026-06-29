@@ -168,7 +168,7 @@
         "Klawf": 161,
         "Vanillite": 140,
         "Flareon": 12,
-        "Gastly": 141,
+        "Gastly": 142,
         "Taillow": 31,
         "Swinub": 151,
         "Inkay": 41,
@@ -223,7 +223,7 @@
         "Cyclizar": 57,
         "Magmar": 39,
         "Rillaboom": 13,
-        "Ninetales": 13,
+        "Ninetales": 14,
         "Wattrel": 141,
         "Snubbull": 39,
         "Spidops": 32,
@@ -302,7 +302,7 @@
         "Dragalge": 10,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
-        "Toxapex": 6,
+        "Toxapex": 7,
         "Lileep": 38,
         "Rolycoly": 148,
         "Bronzor": 39,
@@ -484,7 +484,7 @@
         "Tyrogue": 32,
         "Vikavolt": 4,
         "Trash burmy": 13,
-        "Staravia": 38,
+        "Staravia": 39,
         "Chatot": 9,
         "Houndoom": 17,
         "Dottler": 36,
@@ -1111,8 +1111,8 @@
         "Articuno": 1,
         "Garden vivillon": 1
       },
-      "total_spawns": 32323,
-      "last_spawn": "2026-06-29T06:10:00.364499"
+      "total_spawns": 32327,
+      "last_spawn": "2026-06-29T06:10:40.000448"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1809,7 +1809,7 @@
     }
   },
   "global": {
-    "total_spawns": 38929,
+    "total_spawns": 38933,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
