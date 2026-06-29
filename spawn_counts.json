@@ -67,7 +67,7 @@
         "Glimmora": 46,
         "Starly": 155,
         "Tandemaus": 127,
-        "Smoliv": 156,
+        "Smoliv": 157,
         "Gloom": 36,
         "Clefairy": 36,
         "Spinda": 9,
@@ -152,7 +152,7 @@
         "Roggenrola": 162,
         "Pidove": 139,
         "Dragapult": 17,
-        "Rattata": 88,
+        "Rattata": 89,
         "Flapple": 15,
         "Aron": 154,
         "Boldore": 36,
@@ -324,7 +324,7 @@
         "Murkrow": 34,
         "Bellsprout": 158,
         "Mudbray": 43,
-        "Dreepy": 134,
+        "Dreepy": 135,
         "Tinkaton": 10,
         "Corviknight": 12,
         "Froakie": 45,
@@ -342,7 +342,7 @@
         "Sobble": 47,
         "Mudkip": 43,
         "Charjabug": 31,
-        "Capsakid": 134,
+        "Capsakid": 135,
         "Revavroom": 37,
         "Exploud": 14,
         "Deino": 83,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32709,
-      "last_spawn": "2026-06-29T07:15:03.685162"
+      "total_spawns": 32713,
+      "last_spawn": "2026-06-29T07:15:40.371725"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39315,
+    "total_spawns": 39319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
