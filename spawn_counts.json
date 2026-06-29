@@ -12,7 +12,7 @@
         "Rellor": 145,
         "Sandy burmy": 19,
         "Wiglett": 136,
-        "Bombirdier": 138,
+        "Bombirdier": 139,
         "Litleo": 34,
         "Purrloin": 34,
         "Tranquill": 32,
@@ -124,7 +124,7 @@
         "Togetic": 48,
         "Palpitoad": 30,
         "Pikipek": 163,
-        "Teddiursa": 140,
+        "Teddiursa": 141,
         "Clamperl": 38,
         "Zigzagoon": 43,
         "Weedle": 169,
@@ -199,7 +199,7 @@
         "Meditite": 23,
         "Toedscruel": 45,
         "Probopass": 8,
-        "Scraggy": 40,
+        "Scraggy": 41,
         "Rhydon": 38,
         "Silcoon": 39,
         "Totodile": 49,
@@ -210,10 +210,10 @@
         "Aipom": 41,
         "Growlithe": 38,
         "Sewaddle": 156,
-        "Fidough": 100,
+        "Fidough": 101,
         "Noivern": 5,
         "Feraligatr": 8,
-        "Tynamo": 158,
+        "Tynamo": 159,
         "Orthworm": 152,
         "Marill": 36,
         "Joltik": 44,
@@ -404,7 +404,7 @@
         "Squawkabilly": 35,
         "Electrike": 35,
         "Drampa": 11,
-        "Maschiff": 142,
+        "Maschiff": 144,
         "Rufflet": 39,
         "Kabutops": 9,
         "Dondozo": 136,
@@ -444,7 +444,7 @@
         "Bibarel": 14,
         "Plusle": 7,
         "Skrelp": 36,
-        "Raticate": 28,
+        "Raticate": 29,
         "Wugtrio": 33,
         "Bellibolt": 35,
         "Morgrem": 28,
@@ -868,7 +868,7 @@
         "Dunsparce": 5,
         "Lapras": 6,
         "Illumise": 9,
-        "Scrafty": 5,
+        "Scrafty": 6,
         "Swanna": 7,
         "Grumpig": 9,
         "Basculegion": 2,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32900,
-      "last_spawn": "2026-06-29T08:00:13.470094"
+      "total_spawns": 32909,
+      "last_spawn": "2026-06-29T08:00:43.728749"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39508,
+    "total_spawns": 39517,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
