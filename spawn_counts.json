@@ -53,7 +53,7 @@
         "Porygon": 180,
         "Zubat": 183,
         "Vanillish": 47,
-        "Tadbulb": 192,
+        "Tadbulb": 193,
         "Magnemite": 171,
         "Whismur": 157,
         "Monferno": 43,
@@ -102,7 +102,7 @@
         "Smearguru": 139,
         "Veluza": 172,
         "Barboach": 58,
-        "Klink": 130,
+        "Klink": 131,
         "Honedge": 161,
         "Wingull": 47,
         "Salamence": 5,
@@ -490,7 +490,7 @@
         "Dottler": 41,
         "Eevee": 38,
         "Copperajah": 9,
-        "Magneton": 30,
+        "Magneton": 31,
         "Alakazam": 9,
         "Bayleef": 39,
         "Poochyena": 40,
@@ -524,12 +524,12 @@
         "Cranidos": 44,
         "Spewpa": 43,
         "Tyrunt": 41,
-        "Garganacl": 8,
+        "Garganacl": 9,
         "Chinchou": 31,
         "Maushold": 46,
         "Bastiodon": 6,
         "Floatzel": 7,
-        "Accelgor": 8,
+        "Accelgor": 9,
         "Wormadam": 13,
         "Axew": 158,
         "Trevenant": 14,
@@ -711,7 +711,7 @@
         "Gourgeist": 12,
         "Durant": 5,
         "Grovyle": 40,
-        "Snowy castform": 5,
+        "Snowy castform": 6,
         "Gengar": 14,
         "Forretress": 6,
         "Hydrapple": 5,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 36533,
-      "last_spawn": "2026-06-29T14:52:53.504058"
+      "total_spawns": 36539,
+      "last_spawn": "2026-06-29T14:57:43.304092"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1826,7 +1826,7 @@
     }
   },
   "global": {
-    "total_spawns": 43208,
+    "total_spawns": 43214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
