@@ -117,7 +117,7 @@
         "Swadloon": 41,
         "Flittle": 131,
         "Unfezant": 16,
-        "Yamask": 37,
+        "Yamask": 38,
         "Ralts": 123,
         "Solosis": 133,
         "Battle cyclizar": 57,
@@ -214,7 +214,7 @@
         "Noivern": 5,
         "Feraligatr": 8,
         "Tynamo": 157,
-        "Orthworm": 151,
+        "Orthworm": 152,
         "Marill": 36,
         "Joltik": 44,
         "Politoed": 10,
@@ -459,7 +459,7 @@
         "Cherubi": 33,
         "Cradily": 13,
         "Vulpix": 34,
-        "Paras": 37,
+        "Paras": 38,
         "Herdier": 54,
         "Pineco": 33,
         "Chikorita": 44,
@@ -609,7 +609,7 @@
         "Hitmonlee": 9,
         "Houndstone": 14,
         "Sandy wormadam": 7,
-        "Stunky": 33,
+        "Stunky": 34,
         "Pupitar": 30,
         "Avalugg": 11,
         "Magby": 13,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32587,
-      "last_spawn": "2026-06-29T06:54:20.185574"
+      "total_spawns": 32591,
+      "last_spawn": "2026-06-29T06:55:03.609685"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39193,
+    "total_spawns": 39197,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
