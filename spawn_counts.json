@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 61,
-        "Patrat": 40,
+        "Patrat": 41,
         "Mosslax": 112,
         "Drilbur": 38,
         "Pawmi": 144,
@@ -12,7 +12,7 @@
         "Rellor": 142,
         "Sandy burmy": 19,
         "Wiglett": 136,
-        "Bombirdier": 137,
+        "Bombirdier": 138,
         "Litleo": 34,
         "Purrloin": 34,
         "Tranquill": 32,
@@ -166,7 +166,7 @@
         "Kakuna": 40,
         "Weepinbell": 29,
         "Klawf": 161,
-        "Vanillite": 142,
+        "Vanillite": 143,
         "Flareon": 12,
         "Gastly": 146,
         "Taillow": 32,
@@ -191,7 +191,7 @@
         "Thwackey": 37,
         "Dusk lycanroc": 5,
         "Sunny castform": 10,
-        "Pidgeotto": 46,
+        "Pidgeotto": 47,
         "Spearow": 48,
         "Helioptile": 30,
         "Hoothoot": 49,
@@ -296,7 +296,7 @@
         "Ferroseed": 35,
         "Brionne": 27,
         "Pancham": 40,
-        "Venipede": 156,
+        "Venipede": 157,
         "Cacturne": 11,
         "Oddish": 161,
         "Dragalge": 11,
@@ -413,7 +413,7 @@
         "Peakychu": 117,
         "Armarouge": 41,
         "Tyrantrum": 5,
-        "Larvitar": 70,
+        "Larvitar": 71,
         "Tentacool": 29,
         "Volcanion": 1,
         "Roaming gimmighoul": 112,
@@ -660,7 +660,7 @@
         "Bouffalant": 11,
         "Crabrawler": 39,
         "Budew": 8,
-        "Espathra": 31,
+        "Espathra": 32,
         "Vileplume": 8,
         "Kecleon": 6,
         "Sizzlipede": 28,
@@ -784,7 +784,7 @@
         "Castform": 14,
         "Weavile": 2,
         "Gorging cramorant": 1,
-        "Shieldon": 31,
+        "Shieldon": 32,
         "Masquerain": 13,
         "Watchog": 9,
         "Ditto": 7,
@@ -802,7 +802,7 @@
         "Unown i": 2,
         "Raichu": 6,
         "Mime jr.": 8,
-        "Voltorb": 21,
+        "Voltorb": 22,
         "Lickitung": 28,
         "Blue-striped basculin": 10,
         "Barraskewda": 4,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32761,
-      "last_spawn": "2026-06-29T07:52:27.896469"
+      "total_spawns": 32770,
+      "last_spawn": "2026-06-29T07:52:57.925519"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39367,
+    "total_spawns": 39376,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
