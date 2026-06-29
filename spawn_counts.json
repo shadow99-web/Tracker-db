@@ -129,7 +129,7 @@
         "Zigzagoon": 43,
         "Weedle": 165,
         "Flamigo": 137,
-        "Lillipup": 141,
+        "Lillipup": 142,
         "Shinx": 160,
         "Bounsweet": 138,
         "Noibat": 35,
@@ -255,7 +255,7 @@
         "Dewott": 34,
         "Arrokuda": 29,
         "Golett": 37,
-        "Vullaby": 28,
+        "Vullaby": 29,
         "Cetitan": 35,
         "Cubone": 35,
         "Gligar": 44,
@@ -545,7 +545,7 @@
         "Slowbro": 12,
         "Oricorio": 10,
         "Kangaskhan": 9,
-        "Krokorok": 35,
+        "Krokorok": 36,
         "Dragonair": 27,
         "Zweilous": 22,
         "Karrablast": 31,
@@ -613,7 +613,7 @@
         "Pupitar": 29,
         "Avalugg": 11,
         "Magby": 13,
-        "Wigglytuff": 6,
+        "Wigglytuff": 7,
         "Venusaur": 13,
         "Mismagius": 7,
         "Fraxure": 29,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31769,
-      "last_spawn": "2026-06-29T04:35:04.118575"
+      "total_spawns": 31773,
+      "last_spawn": "2026-06-29T04:35:39.899900"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38359,
+    "total_spawns": 38363,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
