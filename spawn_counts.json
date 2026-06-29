@@ -1157,7 +1157,7 @@
         "Archen": 4,
         "Shinx": 18,
         "Pikachu": 5,
-        "Rhyhorn": 6,
+        "Rhyhorn": 7,
         "Tynamo": 14,
         "Tandemaus": 9,
         "Smearguru": 11,
@@ -1226,12 +1226,12 @@
         "Rabsca": 4,
         "Floragato": 2,
         "Watchog": 1,
-        "Boltund": 1,
+        "Boltund": 2,
         "Lillipup": 11,
         "Ducklett": 5,
         "Mareep": 10,
         "Tadbulb": 8,
-        "Helioptile": 2,
+        "Helioptile": 3,
         "Blitzle": 7,
         "Pidove": 13,
         "Doublade": 2,
@@ -1346,7 +1346,7 @@
         "Staryu": 4,
         "Gallade": 1,
         "Rattata": 8,
-        "Bellsprout": 9,
+        "Bellsprout": 10,
         "Lickitung": 5,
         "Minccino": 6,
         "Togepi": 9,
@@ -1433,7 +1433,7 @@
         "Skiddo": 3,
         "Spiritomb": 3,
         "Seadra": 1,
-        "Seedot": 10,
+        "Seedot": 11,
         "Snivy": 5,
         "Roselia": 5,
         "Totodile": 3,
@@ -1490,7 +1490,7 @@
         "Ninjask": 1,
         "Remoraid": 4,
         "Pansear": 1,
-        "Spheal": 4,
+        "Spheal": 5,
         "Espurr": 1,
         "Poliwag": 8,
         "Finneon": 3,
@@ -1559,7 +1559,7 @@
         "Drednaw": 3,
         "Cacturne": 1,
         "Metapod": 3,
-        "Sealeo": 5,
+        "Sealeo": 6,
         "Wynaut": 1,
         "Staravia": 2,
         "Spidops": 4,
@@ -1821,8 +1821,8 @@
         "Hitmonlee": 1,
         "Drakloak": 1
       },
-      "total_spawns": 2442,
-      "last_spawn": "2026-06-29T15:29:07.633354"
+      "total_spawns": 2449,
+      "last_spawn": "2026-06-29T15:30:17.702169"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1832,7 +1832,7 @@
     }
   },
   "global": {
-    "total_spawns": 43617,
+    "total_spawns": 43624,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
