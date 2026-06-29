@@ -101,7 +101,7 @@
         "Carracosta": 11,
         "Smearguru": 118,
         "Veluza": 160,
-        "Barboach": 50,
+        "Barboach": 51,
         "Klink": 116,
         "Honedge": 144,
         "Wingull": 40,
@@ -480,7 +480,7 @@
         "Dolliv": 38,
         "Infernape": 8,
         "Carkol": 35,
-        "Magikarp": 33,
+        "Magikarp": 34,
         "Tyrogue": 32,
         "Vikavolt": 4,
         "Trash burmy": 13,
@@ -872,7 +872,7 @@
         "Swanna": 7,
         "Grumpig": 9,
         "Basculegion": 2,
-        "Magnezone": 10,
+        "Magnezone": 11,
         "Alolan graveler": 1,
         "Cleffa": 14,
         "Machamp": 11,
@@ -1024,7 +1024,7 @@
         "Jirachi": 5,
         "Decidueye": 7,
         "Combat breed tauros": 1,
-        "Swoobat": 6,
+        "Swoobat": 7,
         "Mr. rime": 1,
         "Meganium": 5,
         "Raikou": 1,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32198,
-      "last_spawn": "2026-06-29T05:48:10.253499"
+      "total_spawns": 32202,
+      "last_spawn": "2026-06-29T05:48:49.843715"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38804,
+    "total_spawns": 38808,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
