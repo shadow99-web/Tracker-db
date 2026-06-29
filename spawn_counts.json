@@ -63,7 +63,7 @@
         "Larvesta": 52,
         "Beldum": 125,
         "Ducklett": 43,
-        "Lokix": 42,
+        "Lokix": 43,
         "Glimmora": 48,
         "Starly": 179,
         "Tandemaus": 145,
@@ -316,7 +316,7 @@
         "Munna": 39,
         "Pawniard": 38,
         "Prof tangrowth": 127,
-        "Jangmo-o": 89,
+        "Jangmo-o": 91,
         "Trash wormadam": 13,
         "Quaxly": 61,
         "Gossifleur": 53,
@@ -343,7 +343,7 @@
         "Mudkip": 56,
         "Charjabug": 36,
         "Capsakid": 156,
-        "Revavroom": 43,
+        "Revavroom": 44,
         "Exploud": 16,
         "Deino": 108,
         "Wooper": 55,
@@ -755,7 +755,7 @@
         "Parasect": 14,
         "Alolan muk": 4,
         "Iron boulder": 3,
-        "Haxorus": 9,
+        "Haxorus": 10,
         "Jynx": 15,
         "Golisopod": 16,
         "Greninja": 11,
@@ -924,7 +924,7 @@
         "Clefable": 8,
         "Serperior": 9,
         "Lycanroc": 18,
-        "Kingdra": 12,
+        "Kingdra": 13,
         "Farfetch'd": 13,
         "Unown l": 1,
         "Delphox": 12,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38223,
-      "last_spawn": "2026-06-29T19:49:39.998590"
+      "total_spawns": 38229,
+      "last_spawn": "2026-06-29T19:50:10.139638"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1855,7 +1855,7 @@
     }
   },
   "global": {
-    "total_spawns": 45102,
+    "total_spawns": 45108,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
