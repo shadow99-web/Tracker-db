@@ -29,7 +29,7 @@
         "Charmander": 66,
         "Morelull": 28,
         "Abra": 153,
-        "Sandile": 154,
+        "Sandile": 155,
         "Sandygast": 44,
         "Litwick": 178,
         "Grubbin": 133,
@@ -113,7 +113,7 @@
         "Bonsly": 8,
         "Horsea": 140,
         "Frigibax": 133,
-        "Spheal": 164,
+        "Spheal": 165,
         "Swadloon": 41,
         "Flittle": 130,
         "Unfezant": 16,
@@ -260,7 +260,7 @@
         "Cubone": 36,
         "Gligar": 45,
         "Tirtouga": 43,
-        "Furret": 8,
+        "Furret": 9,
         "Nincada": 50,
         "Fennekin": 49,
         "Quaxwell": 21,
@@ -521,7 +521,7 @@
         "Arctibax": 34,
         "Foongus": 39,
         "Pansage": 24,
-        "Cranidos": 39,
+        "Cranidos": 40,
         "Spewpa": 37,
         "Tyrunt": 36,
         "Garganacl": 4,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32298,
-      "last_spawn": "2026-06-29T06:05:39.982693"
+      "total_spawns": 32302,
+      "last_spawn": "2026-06-29T06:06:19.813895"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38904,
+    "total_spawns": 38908,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
