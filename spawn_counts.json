@@ -658,7 +658,7 @@
         "Absol": 4,
         "Annihilape": 15,
         "Bouffalant": 11,
-        "Crabrawler": 36,
+        "Crabrawler": 37,
         "Budew": 7,
         "Espathra": 29,
         "Vileplume": 8,
@@ -939,7 +939,7 @@
         "Beautifly": 10,
         "Ting-lu": 1,
         "Hitmontop": 8,
-        "Munchlax": 10,
+        "Munchlax": 11,
         "Galarian ponyta": 2,
         "Hisuian goodra": 1,
         "Giratina": 2,
@@ -985,7 +985,7 @@
         "Naganadel": 1,
         "Unown v": 1,
         "Koraidon": 1,
-        "Polteageist": 7,
+        "Polteageist": 8,
         "Slither wing": 1,
         "Diggersby": 8,
         "Hisuian voltorb": 3,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31145,
-      "last_spawn": "2026-06-29T01:00:39.866019"
+      "total_spawns": 31148,
+      "last_spawn": "2026-06-29T01:01:09.990327"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1149,7 +1149,7 @@
         "Tandemaus": 9,
         "Smearguru": 10,
         "Magnemite": 14,
-        "Teddiursa": 13,
+        "Teddiursa": 14,
         "Houndoom": 1,
         "Torracat": 2,
         "Donphan": 5,
@@ -1383,7 +1383,7 @@
         "Goodra": 1,
         "Klink": 4,
         "Mankey": 3,
-        "Charmander": 2,
+        "Charmander": 3,
         "Shroomish": 2,
         "Finizen": 7,
         "Croconaw": 1,
@@ -1782,10 +1782,11 @@
         "Pyukumuku": 1,
         "Hatterene": 1,
         "Numel": 1,
-        "Blaziken": 1
+        "Blaziken": 1,
+        "Galarian darumaka": 1
       },
-      "total_spawns": 2235,
-      "last_spawn": "2026-06-29T01:00:47.509611"
+      "total_spawns": 2238,
+      "last_spawn": "2026-06-29T01:01:17.954528"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1795,7 +1796,7 @@
     }
   },
   "global": {
-    "total_spawns": 37667,
+    "total_spawns": 37673,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
