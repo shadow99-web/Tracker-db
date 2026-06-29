@@ -32,7 +32,7 @@
         "Sandile": 180,
         "Sandygast": 48,
         "Litwick": 212,
-        "Grubbin": 156,
+        "Grubbin": 157,
         "Escavalier": 13,
         "Dratini": 124,
         "Kilowattrel": 41,
@@ -79,7 +79,7 @@
         "Phantump": 53,
         "Duosion": 40,
         "Amaura": 48,
-        "Gimmighoul": 166,
+        "Gimmighoul": 167,
         "Baltoy": 48,
         "Mareep": 169,
         "Garbodor": 10,
@@ -161,7 +161,7 @@
         "Spiritomb": 12,
         "Yamper": 40,
         "Tepig": 60,
-        "Kirlia": 42,
+        "Kirlia": 43,
         "Piplup": 47,
         "Kakuna": 44,
         "Weepinbell": 33,
@@ -413,7 +413,7 @@
         "Peakychu": 133,
         "Armarouge": 44,
         "Tyrantrum": 6,
-        "Larvitar": 83,
+        "Larvitar": 84,
         "Tentacool": 34,
         "Volcanion": 1,
         "Roaming gimmighoul": 127,
@@ -627,7 +627,7 @@
         "Frost rotom": 4,
         "Tatsugiri": 63,
         "Nidorino": 34,
-        "Wailmer": 53,
+        "Wailmer": 54,
         "Krabby": 40,
         "Bronzong": 13,
         "Lanturn": 6,
@@ -736,7 +736,7 @@
         "Alolan rattata": 4,
         "Hippowdon": 12,
         "Lumineon": 13,
-        "Thievul": 11,
+        "Thievul": 12,
         "Greedent": 11,
         "Ekans": 47,
         "Venonat": 37,
@@ -1001,7 +1001,7 @@
         "Rotom drone": 2,
         "Aegislash": 7,
         "Iron valiant": 1,
-        "Beartic": 10,
+        "Beartic": 11,
         "Weezing": 5,
         "Pangoro": 6,
         "Garchomp": 5,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 38007,
-      "last_spawn": "2026-06-29T19:31:24.624264"
+      "total_spawns": 38014,
+      "last_spawn": "2026-06-29T19:32:00.163578"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44886,
+    "total_spawns": 44893,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
