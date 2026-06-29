@@ -95,7 +95,7 @@
         "Hoppip": 127,
         "Sandslash": 8,
         "Kabuto": 44,
-        "Scatterbug": 152,
+        "Scatterbug": 153,
         "Pumpkaboo": 45,
         "Numel": 44,
         "Carracosta": 11,
@@ -209,7 +209,7 @@
         "Swellow": 10,
         "Aipom": 38,
         "Growlithe": 38,
-        "Sewaddle": 153,
+        "Sewaddle": 154,
         "Fidough": 98,
         "Noivern": 5,
         "Feraligatr": 8,
@@ -360,7 +360,7 @@
         "Banette": 11,
         "Three-segment dudunsparce": 10,
         "Fearow": 10,
-        "Mankey": 40,
+        "Mankey": 41,
         "Bidoof": 31,
         "Quilava": 45,
         "Finizen": 147,
@@ -446,7 +446,7 @@
         "Skrelp": 35,
         "Raticate": 27,
         "Wugtrio": 31,
-        "Bellibolt": 33,
+        "Bellibolt": 34,
         "Morgrem": 27,
         "Misdreavus": 33,
         "Seviper": 9,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 31965,
-      "last_spawn": "2026-06-29T05:08:50.784931"
+      "total_spawns": 31969,
+      "last_spawn": "2026-06-29T05:09:30.098850"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38569,
+    "total_spawns": 38573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
