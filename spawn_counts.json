@@ -419,7 +419,7 @@
         "Roaming gimmighoul": 106,
         "Summer sawsbuck": 12,
         "Delibird": 14,
-        "Ride cyclizar": 49,
+        "Ride cyclizar": 50,
         "Gothorita": 36,
         "Varoom": 148,
         "Yellow plumage squawkabilly": 38,
@@ -776,7 +776,7 @@
         "Scolipede": 8,
         "Marowak": 2,
         "Chingling": 5,
-        "Beedrill": 22,
+        "Beedrill": 23,
         "Whimsicott": 11,
         "Wishiwashi": 12,
         "Cofagrigus": 11,
@@ -792,7 +792,7 @@
         "Happiny": 6,
         "Matron trim furfrou": 1,
         "Gothitelle": 11,
-        "Dusclops": 26,
+        "Dusclops": 27,
         "Galarian yamask": 3,
         "Alolan golem": 1,
         "Dustox": 8,
@@ -1106,10 +1106,11 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1,
         "Zeraora": 1,
-        "Runerigus": 1
+        "Runerigus": 1,
+        "Xerneas": 1
       },
-      "total_spawns": 31908,
-      "last_spawn": "2026-06-29T04:58:51.900567"
+      "total_spawns": 31912,
+      "last_spawn": "2026-06-29T04:59:30.233974"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1806,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38512,
+    "total_spawns": 38516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
