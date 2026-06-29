@@ -95,7 +95,7 @@
         "Hoppip": 133,
         "Sandslash": 8,
         "Kabuto": 44,
-        "Scatterbug": 158,
+        "Scatterbug": 159,
         "Pumpkaboo": 45,
         "Numel": 46,
         "Carracosta": 11,
@@ -131,7 +131,7 @@
         "Flamigo": 139,
         "Lillipup": 144,
         "Shinx": 165,
-        "Bounsweet": 142,
+        "Bounsweet": 143,
         "Noibat": 35,
         "Toxicroak": 12,
         "Charcadet": 164,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 36,
         "Squirtle": 55,
-        "Remoraid": 38,
+        "Remoraid": 39,
         "Torracat": 36,
         "Hisuian zorua": 1,
         "Wooloo": 32,
@@ -452,7 +452,7 @@
         "Seviper": 10,
         "Scovillain": 35,
         "Sunkern": 31,
-        "Drizzile": 32,
+        "Drizzile": 33,
         "Sunflora": 7,
         "Passimian": 15,
         "Iron moth": 2,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32604,
-      "last_spawn": "2026-06-29T06:57:20.056510"
+      "total_spawns": 32608,
+      "last_spawn": "2026-06-29T06:57:59.938745"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39210,
+    "total_spawns": 39214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
