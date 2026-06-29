@@ -131,7 +131,7 @@
         "Flamigo": 137,
         "Lillipup": 142,
         "Shinx": 160,
-        "Bounsweet": 138,
+        "Bounsweet": 139,
         "Noibat": 35,
         "Toxicroak": 11,
         "Charcadet": 162,
@@ -144,7 +144,7 @@
         "Yungoos": 34,
         "Diglett": 43,
         "Doduo": 39,
-        "Lairon": 39,
+        "Lairon": 40,
         "Emboar": 7,
         "Deoxys": 2,
         "Dracovish": 11,
@@ -191,7 +191,7 @@
         "Thwackey": 37,
         "Dusk lycanroc": 5,
         "Sunny castform": 10,
-        "Pidgeotto": 43,
+        "Pidgeotto": 44,
         "Spearow": 47,
         "Helioptile": 30,
         "Hoothoot": 47,
@@ -638,7 +638,7 @@
         "Glalie": 8,
         "Latios": 1,
         "Silicobra": 31,
-        "Snom": 29,
+        "Snom": 30,
         "East sea shellos": 14,
         "Corsola": 19,
         "Venomoth": 14,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31848,
-      "last_spawn": "2026-06-29T04:48:30.077091"
+      "total_spawns": 31852,
+      "last_spawn": "2026-06-29T04:49:10.026355"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38439,
+    "total_spawns": 38443,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
