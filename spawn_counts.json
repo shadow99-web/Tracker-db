@@ -1418,7 +1418,7 @@
         "Dondozo": 13,
         "Tranquill": 5,
         "Porygon": 12,
-        "Wooloo": 5,
+        "Wooloo": 6,
         "Oddish": 9,
         "Barraskewda": 1,
         "Shieldon": 3,
@@ -1535,7 +1535,7 @@
         "Toxel": 4,
         "Dachsbun": 4,
         "Cascoon": 4,
-        "Larvitar": 9,
+        "Larvitar": 10,
         "Arctovish": 1,
         "Herdier": 1,
         "Zangoose": 1,
@@ -1813,10 +1813,11 @@
         "Victreebel": 1,
         "Hypno": 1,
         "Dwebble": 1,
-        "Frillish": 1
+        "Frillish": 1,
+        "Mandibuzz": 1
       },
-      "total_spawns": 2392,
-      "last_spawn": "2026-06-29T15:19:27.498996"
+      "total_spawns": 2395,
+      "last_spawn": "2026-06-29T15:19:59.862608"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1826,7 +1827,7 @@
     }
   },
   "global": {
-    "total_spawns": 43567,
+    "total_spawns": 43570,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
