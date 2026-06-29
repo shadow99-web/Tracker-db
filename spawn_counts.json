@@ -67,7 +67,7 @@
         "Glimmora": 46,
         "Starly": 155,
         "Tandemaus": 127,
-        "Smoliv": 157,
+        "Smoliv": 158,
         "Gloom": 36,
         "Clefairy": 36,
         "Spinda": 9,
@@ -92,7 +92,7 @@
         "Riolu": 35,
         "Exeggcute": 30,
         "Corphish": 32,
-        "Hoppip": 133,
+        "Hoppip": 134,
         "Sandslash": 8,
         "Kabuto": 44,
         "Scatterbug": 159,
@@ -103,7 +103,7 @@
         "Veluza": 162,
         "Barboach": 52,
         "Klink": 118,
-        "Honedge": 145,
+        "Honedge": 147,
         "Wingull": 40,
         "Salamence": 5,
         "Drakloak": 35,
@@ -269,14 +269,14 @@
         "Ceruledge": 40,
         "Houndour": 35,
         "Glimmet": 152,
-        "Goomy": 93,
+        "Goomy": 94,
         "Zapdos": 1,
         "Natu": 29,
         "Dhelmise": 9,
         "Bagon": 95,
         "Sudowoodo": 7,
         "Stoutland": 10,
-        "Rowlet": 49,
+        "Rowlet": 50,
         "Galarian slowpoke": 3,
         "Poliwhirl": 38,
         "Crocalor": 37,
@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
         "Toxapex": 7,
-        "Lileep": 38,
+        "Lileep": 39,
         "Rolycoly": 151,
         "Bronzor": 41,
         "Dartrix": 42,
@@ -311,7 +311,7 @@
         "Zangoose": 9,
         "Flygon": 5,
         "Shellos": 28,
-        "Jigglypuff": 41,
+        "Jigglypuff": 42,
         "Nacli": 124,
         "Munna": 32,
         "Pawniard": 31,
@@ -345,7 +345,7 @@
         "Capsakid": 135,
         "Revavroom": 37,
         "Exploud": 14,
-        "Deino": 83,
+        "Deino": 84,
         "Wooper": 47,
         "Dwebble": 44,
         "Steenee": 43,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32836,
-      "last_spawn": "2026-06-29T07:56:37.806201"
+      "total_spawns": 32845,
+      "last_spawn": "2026-06-29T07:57:07.816881"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39443,
+    "total_spawns": 39452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
