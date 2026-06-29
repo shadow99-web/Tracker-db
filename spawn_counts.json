@@ -1124,7 +1124,7 @@
         "Gastly": 12,
         "Scatterbug": 11,
         "Wurmple": 7,
-        "Gothita": 18,
+        "Gothita": 19,
         "Gible": 12,
         "Larvesta": 4,
         "Starly": 12,
@@ -1155,7 +1155,7 @@
         "Donphan": 5,
         "Froakie": 8,
         "Hawlucha": 1,
-        "Feebas": 2,
+        "Feebas": 3,
         "Lapras": 3,
         "Seismitoad": 2,
         "Frigibax": 16,
@@ -1406,7 +1406,7 @@
         "Tranquill": 5,
         "Porygon": 12,
         "Wooloo": 4,
-        "Oddish": 7,
+        "Oddish": 8,
         "Barraskewda": 1,
         "Shieldon": 3,
         "Piloswine": 4,
@@ -1784,10 +1784,11 @@
         "Numel": 1,
         "Blaziken": 1,
         "Galarian darumaka": 1,
-        "Buizel": 1
+        "Buizel": 1,
+        "Wash rotom": 1
       },
-      "total_spawns": 2267,
-      "last_spawn": "2026-06-29T01:06:07.606586"
+      "total_spawns": 2271,
+      "last_spawn": "2026-06-29T01:06:47.839102"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1797,7 +1798,7 @@
     }
   },
   "global": {
-    "total_spawns": 37715,
+    "total_spawns": 37719,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
