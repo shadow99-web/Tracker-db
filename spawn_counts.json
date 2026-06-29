@@ -1160,7 +1160,7 @@
         "Dreepy": 13,
         "Bagon": 9,
         "Archen": 5,
-        "Shinx": 21,
+        "Shinx": 22,
         "Pikachu": 6,
         "Rhyhorn": 9,
         "Tynamo": 17,
@@ -1387,7 +1387,7 @@
         "Fuecoco": 8,
         "Electrode": 1,
         "Chandelure": 2,
-        "Wiglett": 13,
+        "Wiglett": 14,
         "Farigiraf": 2,
         "Zubat": 12,
         "Lotad": 7,
@@ -1682,7 +1682,7 @@
         "Scream tail": 1,
         "Tepig": 2,
         "Venomoth": 1,
-        "Goldeen": 2,
+        "Goldeen": 3,
         "Pinsir": 1,
         "Bisharp": 2,
         "Amaura": 5,
@@ -1863,10 +1863,11 @@
         "Zamazenta": 1,
         "Dewgong": 1,
         "Azumarill": 1,
-        "Meowstic": 1
+        "Meowstic": 1,
+        "Wormadam": 1
       },
-      "total_spawns": 2817,
-      "last_spawn": "2026-06-29T23:43:47.535824"
+      "total_spawns": 2821,
+      "last_spawn": "2026-06-29T23:44:27.499800"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1876,7 +1877,7 @@
     }
   },
   "global": {
-    "total_spawns": 45741,
+    "total_spawns": 45745,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
