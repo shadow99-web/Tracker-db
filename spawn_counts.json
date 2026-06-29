@@ -121,7 +121,7 @@
         "Ralts": 123,
         "Solosis": 132,
         "Battle cyclizar": 57,
-        "Togetic": 47,
+        "Togetic": 48,
         "Palpitoad": 28,
         "Pikipek": 161,
         "Teddiursa": 139,
@@ -250,7 +250,7 @@
         "Turtwig": 40,
         "Prinplup": 32,
         "Tinkatink": 145,
-        "Lechonk": 149,
+        "Lechonk": 150,
         "Kommo-o": 4,
         "Dewott": 36,
         "Arrokuda": 29,
@@ -658,7 +658,7 @@
         "Absol": 4,
         "Annihilape": 15,
         "Bouffalant": 11,
-        "Crabrawler": 38,
+        "Crabrawler": 39,
         "Budew": 8,
         "Espathra": 31,
         "Vileplume": 8,
@@ -1111,8 +1111,8 @@
         "Articuno": 1,
         "Garden vivillon": 1
       },
-      "total_spawns": 32320,
-      "last_spawn": "2026-06-29T06:09:30.079607"
+      "total_spawns": 32323,
+      "last_spawn": "2026-06-29T06:10:00.364499"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1809,7 +1809,7 @@
     }
   },
   "global": {
-    "total_spawns": 38926,
+    "total_spawns": 38929,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
