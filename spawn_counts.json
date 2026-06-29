@@ -4,7 +4,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Chimchar": 64,
-        "Patrat": 41,
+        "Patrat": 42,
         "Mosslax": 112,
         "Drilbur": 38,
         "Pawmi": 146,
@@ -62,10 +62,10 @@
         "Yanma": 32,
         "Larvesta": 49,
         "Beldum": 109,
-        "Ducklett": 36,
+        "Ducklett": 37,
         "Lokix": 34,
         "Glimmora": 47,
-        "Starly": 156,
+        "Starly": 157,
         "Tandemaus": 129,
         "Smoliv": 161,
         "Gloom": 36,
@@ -342,7 +342,7 @@
         "Sobble": 48,
         "Mudkip": 43,
         "Charjabug": 31,
-        "Capsakid": 136,
+        "Capsakid": 137,
         "Revavroom": 37,
         "Exploud": 14,
         "Deino": 87,
@@ -353,7 +353,7 @@
         "Arboliva": 9,
         "Ledyba": 42,
         "Spritzee": 39,
-        "Swirlix": 35,
+        "Swirlix": 36,
         "Aromatisse": 8,
         "Muk": 9,
         "Toxel": 38,
@@ -475,7 +475,7 @@
         "Simisear": 6,
         "White plumage squawkabilly": 40,
         "Shelmet": 37,
-        "Solrock": 7,
+        "Solrock": 8,
         "Slowpoke": 48,
         "Dolliv": 39,
         "Infernape": 8,
@@ -541,7 +541,7 @@
         "Vanilluxe": 7,
         "Jolteon": 9,
         "Pawmot": 9,
-        "Skiddo": 29,
+        "Skiddo": 30,
         "Slowbro": 12,
         "Oricorio": 11,
         "Kangaskhan": 9,
@@ -595,7 +595,7 @@
         "Mienfoo": 31,
         "Dewgong": 11,
         "Wartortle": 30,
-        "Cetoddle": 143,
+        "Cetoddle": 144,
         "Kricketot": 36,
         "Porygon-z": 10,
         "Conkeldurr": 11,
@@ -651,7 +651,7 @@
         "Stretchy tatsugiri": 53,
         "Mareanie": 39,
         "Seadra": 23,
-        "Beheeyem": 9,
+        "Beheeyem": 10,
         "Pinsir": 14,
         "Mothim": 9,
         "Whirlipede": 35,
@@ -677,7 +677,7 @@
         "Metagross": 5,
         "Eelektrik": 33,
         "Gastrodon": 11,
-        "Golurk": 6,
+        "Golurk": 7,
         "Arcanine": 9,
         "Oranguru": 12,
         "Poliwrath": 11,
@@ -765,7 +765,7 @@
         "Gorebyss": 7,
         "Yanmega": 7,
         "Pawmo": 23,
-        "Finneon": 27,
+        "Finneon": 28,
         "Mamoswine": 12,
         "Drifblim": 8,
         "Meowscarada": 10,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 33213,
-      "last_spawn": "2026-06-29T08:14:34.421032"
+      "total_spawns": 33224,
+      "last_spawn": "2026-06-29T08:15:06.200363"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39821,
+    "total_spawns": 39832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
