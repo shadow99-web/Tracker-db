@@ -61,7 +61,7 @@
         "Bramblin": 161,
         "Yanma": 32,
         "Larvesta": 49,
-        "Beldum": 106,
+        "Beldum": 108,
         "Ducklett": 36,
         "Lokix": 34,
         "Glimmora": 46,
@@ -152,7 +152,7 @@
         "Roggenrola": 162,
         "Pidove": 139,
         "Dragapult": 17,
-        "Rattata": 87,
+        "Rattata": 88,
         "Flapple": 15,
         "Aron": 154,
         "Boldore": 36,
@@ -175,7 +175,7 @@
         "Gible": 94,
         "Rookidee": 104,
         "Minccino": 49,
-        "Wurmple": 138,
+        "Wurmple": 139,
         "Binacle": 42,
         "Grafaiai": 34,
         "Quilladin": 34,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32641,
-      "last_spawn": "2026-06-29T07:03:39.911944"
+      "total_spawns": 32645,
+      "last_spawn": "2026-06-29T07:04:19.917004"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39247,
+    "total_spawns": 39251,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
