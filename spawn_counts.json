@@ -1287,7 +1287,7 @@
         "Chimchar": 6,
         "Trash wormadam": 2,
         "Bramblin": 10,
-        "Vulpix": 8,
+        "Vulpix": 9,
         "Hippowdon": 4,
         "Tinkatink": 7,
         "Jumpluff": 2,
@@ -1308,7 +1308,7 @@
         "Toedscruel": 2,
         "Klawf": 11,
         "Grookey": 4,
-        "Gossifleur": 4,
+        "Gossifleur": 5,
         "Joltik": 4,
         "Summer deerling": 1,
         "Heliolisk": 2,
@@ -1485,7 +1485,7 @@
         "Skiploom": 4,
         "Marshtomp": 2,
         "Lechonk": 8,
-        "Roaming gimmighoul": 7,
+        "Roaming gimmighoul": 8,
         "Breloom": 2,
         "Ninjask": 1,
         "Remoraid": 4,
@@ -1812,10 +1812,11 @@
         "Weezing": 1,
         "Victreebel": 1,
         "Hypno": 1,
-        "Dwebble": 1
+        "Dwebble": 1,
+        "Frillish": 1
       },
-      "total_spawns": 2378,
-      "last_spawn": "2026-06-29T13:19:17.616048"
+      "total_spawns": 2382,
+      "last_spawn": "2026-06-29T13:20:04.973503"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1825,7 +1826,7 @@
     }
   },
   "global": {
-    "total_spawns": 43197,
+    "total_spawns": 43201,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
