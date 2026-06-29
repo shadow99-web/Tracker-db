@@ -114,12 +114,12 @@
         "Horsea": 168,
         "Frigibax": 162,
         "Spheal": 201,
-        "Swadloon": 52,
+        "Swadloon": 53,
         "Flittle": 159,
         "Unfezant": 17,
         "Yamask": 51,
         "Ralts": 153,
-        "Solosis": 163,
+        "Solosis": 164,
         "Battle cyclizar": 67,
         "Togetic": 55,
         "Palpitoad": 34,
@@ -138,7 +138,7 @@
         "Croconaw": 40,
         "Phanpy": 24,
         "Brambleghast": 53,
-        "Pidgey": 195,
+        "Pidgey": 196,
         "Rhyhorn": 171,
         "Sentret": 43,
         "Yungoos": 41,
@@ -214,7 +214,7 @@
         "Noivern": 7,
         "Feraligatr": 10,
         "Tynamo": 187,
-        "Orthworm": 173,
+        "Orthworm": 174,
         "Marill": 47,
         "Joltik": 52,
         "Politoed": 10,
@@ -249,12 +249,12 @@
         "Dachsbun": 36,
         "Turtwig": 50,
         "Prinplup": 42,
-        "Tinkatink": 174,
+        "Tinkatink": 175,
         "Lechonk": 170,
         "Kommo-o": 7,
         "Dewott": 45,
         "Arrokuda": 32,
-        "Golett": 45,
+        "Golett": 46,
         "Vullaby": 36,
         "Cetitan": 42,
         "Cubone": 41,
@@ -811,7 +811,7 @@
         "Drapion": 8,
         "Barbaracle": 11,
         "Okidogi": 4,
-        "Tauros": 15,
+        "Tauros": 16,
         "Slurpuff": 10,
         "Umbreon": 3,
         "Hypno": 8,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38381,
-      "last_spawn": "2026-06-29T20:03:04.327438"
+      "total_spawns": 38388,
+      "last_spawn": "2026-06-29T20:03:40.160418"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1863,7 +1863,7 @@
     }
   },
   "global": {
-    "total_spawns": 45319,
+    "total_spawns": 45326,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
