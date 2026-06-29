@@ -18,7 +18,7 @@
         "Tranquill": 36,
         "Psyduck": 29,
         "Rockruff": 39,
-        "Haunter": 41,
+        "Haunter": 42,
         "Tangela": 39,
         "Orbeetle": 8,
         "Dedenne": 10,
@@ -157,7 +157,7 @@
         "Aron": 163,
         "Boldore": 39,
         "Spinarak": 52,
-        "Delcatty": 10,
+        "Delcatty": 11,
         "Spiritomb": 12,
         "Yamper": 40,
         "Tepig": 58,
@@ -226,7 +226,7 @@
         "Ninetales": 17,
         "Wattrel": 162,
         "Snubbull": 43,
-        "Spidops": 36,
+        "Spidops": 37,
         "Braixen": 34,
         "Drowzee": 32,
         "Blipbug": 167,
@@ -235,7 +235,7 @@
         "Marshtomp": 46,
         "Eiscue": 14,
         "Summer deerling": 42,
-        "Clauncher": 43,
+        "Clauncher": 44,
         "Clobbopus": 42,
         "Omanyte": 42,
         "Galvantula": 11,
@@ -268,7 +268,7 @@
         "Loudred": 52,
         "Ceruledge": 43,
         "Houndour": 39,
-        "Glimmet": 169,
+        "Glimmet": 170,
         "Goomy": 107,
         "Zapdos": 1,
         "Natu": 33,
@@ -470,7 +470,7 @@
         "Buizel": 34,
         "Arctozolt": 14,
         "Snorunt": 39,
-        "Bunnelby": 41,
+        "Bunnelby": 42,
         "Gulping cramorant": 3,
         "Simisear": 6,
         "White plumage squawkabilly": 46,
@@ -580,7 +580,7 @@
         "Galarian meowth": 3,
         "Spoink": 31,
         "Scyther": 47,
-        "Anorith": 40,
+        "Anorith": 41,
         "Meowth": 27,
         "Combee": 25,
         "Fletchinder": 54,
@@ -711,7 +711,7 @@
         "Gourgeist": 12,
         "Durant": 5,
         "Grovyle": 41,
-        "Snowy castform": 6,
+        "Snowy castform": 7,
         "Gengar": 15,
         "Forretress": 6,
         "Hydrapple": 5,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 37047,
-      "last_spawn": "2026-06-29T18:10:50.115462"
+      "total_spawns": 37055,
+      "last_spawn": "2026-06-29T18:11:24.499038"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1850,7 +1850,7 @@
     }
   },
   "global": {
-    "total_spawns": 43913,
+    "total_spawns": 43921,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
