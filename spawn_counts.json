@@ -237,7 +237,7 @@
         "Summer deerling": 42,
         "Clauncher": 44,
         "Clobbopus": 42,
-        "Omanyte": 44,
+        "Omanyte": 45,
         "Galvantula": 11,
         "Chansey": 26,
         "Shroodle": 169,
@@ -268,7 +268,7 @@
         "Loudred": 52,
         "Ceruledge": 43,
         "Houndour": 39,
-        "Glimmet": 170,
+        "Glimmet": 171,
         "Goomy": 107,
         "Zapdos": 1,
         "Natu": 33,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 7,
         "Lileep": 44,
-        "Rolycoly": 164,
+        "Rolycoly": 165,
         "Bronzor": 55,
         "Dartrix": 50,
         "Yellow flower florges": 5,
@@ -404,7 +404,7 @@
         "Squawkabilly": 44,
         "Electrike": 40,
         "Drampa": 16,
-        "Maschiff": 164,
+        "Maschiff": 165,
         "Rufflet": 47,
         "Kabutops": 9,
         "Dondozo": 159,
@@ -534,7 +534,7 @@
         "Axew": 162,
         "Trevenant": 15,
         "Trubbish": 34,
-        "Zorua": 31,
+        "Zorua": 32,
         "Archen": 44,
         "Oinkologne": 52,
         "Onix": 39,
@@ -770,7 +770,7 @@
         "Drifblim": 13,
         "Meowscarada": 10,
         "Roserade": 10,
-        "Nidorina": 29,
+        "Nidorina": 30,
         "Archaludon": 2,
         "Golduck": 9,
         "Scolipede": 9,
@@ -1120,8 +1120,8 @@
         "Zenith marshadow": 1,
         "Sinistcha": 1
       },
-      "total_spawns": 37251,
-      "last_spawn": "2026-06-29T18:28:00.133564"
+      "total_spawns": 37257,
+      "last_spawn": "2026-06-29T18:28:30.294336"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1852,7 +1852,7 @@
     }
   },
   "global": {
-    "total_spawns": 44127,
+    "total_spawns": 44133,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
