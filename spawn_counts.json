@@ -24,7 +24,7 @@
         "Dedenne": 10,
         "Machop": 144,
         "Dudunsparce": 38,
-        "Gothita": 164,
+        "Gothita": 165,
         "Impidimp": 155,
         "Charmander": 71,
         "Morelull": 37,
@@ -95,14 +95,14 @@
         "Hoppip": 158,
         "Sandslash": 9,
         "Kabuto": 50,
-        "Scatterbug": 184,
+        "Scatterbug": 185,
         "Pumpkaboo": 51,
         "Numel": 51,
         "Carracosta": 11,
         "Smearguru": 139,
-        "Veluza": 183,
+        "Veluza": 184,
         "Barboach": 59,
-        "Klink": 137,
+        "Klink": 138,
         "Honedge": 165,
         "Wingull": 47,
         "Salamence": 5,
@@ -398,7 +398,7 @@
         "Ursaluna": 11,
         "Furfrou": 13,
         "Sylveon": 9,
-        "Nosepass": 40,
+        "Nosepass": 41,
         "Persian": 3,
         "Lopunny": 12,
         "Squawkabilly": 45,
@@ -407,7 +407,7 @@
         "Maschiff": 167,
         "Rufflet": 47,
         "Kabutops": 9,
-        "Dondozo": 163,
+        "Dondozo": 165,
         "Pansear": 41,
         "Cutiefly": 48,
         "Peakychu": 133,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37704,
-      "last_spawn": "2026-06-29T19:05:54.596568"
+      "total_spawns": 37711,
+      "last_spawn": "2026-06-29T19:06:30.004559"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44583,
+    "total_spawns": 44590,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
