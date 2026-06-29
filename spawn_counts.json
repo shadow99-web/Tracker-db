@@ -102,7 +102,7 @@
         "Smearguru": 120,
         "Veluza": 160,
         "Barboach": 52,
-        "Klink": 116,
+        "Klink": 117,
         "Honedge": 145,
         "Wingull": 40,
         "Salamence": 5,
@@ -363,7 +363,7 @@
         "Mankey": 41,
         "Bidoof": 31,
         "Quilava": 45,
-        "Finizen": 148,
+        "Finizen": 149,
         "Unown y": 1,
         "Toucannon": 5,
         "Caterpie": 130,
@@ -675,7 +675,7 @@
         "Quaquaval": 10,
         "Sprigatito": 48,
         "Metagross": 5,
-        "Eelektrik": 32,
+        "Eelektrik": 33,
         "Gastrodon": 11,
         "Golurk": 6,
         "Arcanine": 9,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32555,
-      "last_spawn": "2026-06-29T06:48:59.959261"
+      "total_spawns": 32558,
+      "last_spawn": "2026-06-29T06:49:30.016090"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39161,
+    "total_spawns": 39164,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
