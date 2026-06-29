@@ -1249,7 +1249,7 @@
         "Sewaddle": 14,
         "Eevee": 3,
         "Taillow": 2,
-        "Pelipper": 1,
+        "Pelipper": 2,
         "Hattrem": 4,
         "Machoke": 3,
         "Litwick": 21,
@@ -1507,7 +1507,7 @@
         "Ekans": 2,
         "Swanna": 1,
         "Marill": 5,
-        "Oshawott": 2,
+        "Oshawott": 3,
         "Cyclizar": 5,
         "Castform": 1,
         "Shelmet": 4,
@@ -1671,7 +1671,7 @@
         "Espathra": 2,
         "Yellow plumage squawkabilly": 1,
         "Roserade": 1,
-        "Scovillain": 1,
+        "Scovillain": 2,
         "Fearow": 1,
         "Blue-striped basculin": 1,
         "Scream tail": 1,
@@ -1818,10 +1818,11 @@
         "Wigglytuff": 1,
         "Walrein": 1,
         "Golett": 1,
-        "Hitmonlee": 1
+        "Hitmonlee": 1,
+        "Drakloak": 1
       },
-      "total_spawns": 2434,
-      "last_spawn": "2026-06-29T15:27:47.975666"
+      "total_spawns": 2438,
+      "last_spawn": "2026-06-29T15:28:27.718055"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1831,7 +1832,7 @@
     }
   },
   "global": {
-    "total_spawns": 43609,
+    "total_spawns": 43613,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
