@@ -1185,7 +1185,7 @@
         "Orthworm": 13,
         "Woobat": 7,
         "Happiny": 2,
-        "Squirtle": 5,
+        "Squirtle": 6,
         "Spinarak": 2,
         "Blue plumage squawkabilly": 2,
         "Bergmite": 3,
@@ -1286,7 +1286,7 @@
         "Sizzlipede": 3,
         "Chimchar": 6,
         "Trash wormadam": 2,
-        "Bramblin": 10,
+        "Bramblin": 11,
         "Vulpix": 9,
         "Hippowdon": 4,
         "Tinkatink": 7,
@@ -1817,10 +1817,11 @@
         "Mandibuzz": 1,
         "Wigglytuff": 1,
         "Walrein": 1,
-        "Golett": 1
+        "Golett": 1,
+        "Hitmonlee": 1
       },
-      "total_spawns": 2423,
-      "last_spawn": "2026-06-29T15:24:37.904243"
+      "total_spawns": 2426,
+      "last_spawn": "2026-06-29T15:25:09.712913"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1830,7 +1831,7 @@
     }
   },
   "global": {
-    "total_spawns": 43598,
+    "total_spawns": 43601,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
