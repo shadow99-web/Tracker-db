@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 66,
         "Patrat": 42,
-        "Mosslax": 116,
+        "Mosslax": 117,
         "Drilbur": 38,
         "Pawmi": 151,
         "Electabuzz": 31,
@@ -65,7 +65,7 @@
         "Ducklett": 39,
         "Lokix": 36,
         "Glimmora": 47,
-        "Starly": 163,
+        "Starly": 164,
         "Tandemaus": 131,
         "Smoliv": 165,
         "Gloom": 39,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 47,
         "Numel": 47,
         "Carracosta": 11,
-        "Smearguru": 130,
+        "Smearguru": 131,
         "Veluza": 166,
         "Barboach": 53,
         "Klink": 121,
@@ -237,7 +237,7 @@
         "Summer deerling": 40,
         "Clauncher": 38,
         "Clobbopus": 39,
-        "Omanyte": 37,
+        "Omanyte": 38,
         "Galvantula": 11,
         "Chansey": 23,
         "Shroodle": 157,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 30,
         "Dhelmise": 9,
-        "Bagon": 99,
+        "Bagon": 100,
         "Sudowoodo": 9,
         "Stoutland": 10,
         "Rowlet": 52,
@@ -303,7 +303,7 @@
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
         "Toxapex": 7,
-        "Lileep": 40,
+        "Lileep": 41,
         "Rolycoly": 159,
         "Bronzor": 50,
         "Dartrix": 43,
@@ -384,7 +384,7 @@
         "Drifloon": 34,
         "Golbat": 38,
         "Swablu": 34,
-        "Shellder": 34,
+        "Shellder": 35,
         "Crobat": 14,
         "Sandshrew": 43,
         "Palafin": 34,
@@ -421,7 +421,7 @@
         "Delibird": 14,
         "Ride cyclizar": 50,
         "Gothorita": 39,
-        "Varoom": 154,
+        "Varoom": 155,
         "Yellow plumage squawkabilly": 40,
         "Centiskorch": 11,
         "Low key toxtricity": 9,
@@ -511,7 +511,7 @@
         "Sawk": 9,
         "Starmie": 19,
         "Simipour": 9,
-        "Goldeen": 37,
+        "Goldeen": 38,
         "Nickit": 55,
         "Ivysaur": 28,
         "Milcery": 38,
@@ -703,7 +703,7 @@
         "Litten": 53,
         "Abomasnow": 11,
         "Espeon": 5,
-        "Hatenna": 136,
+        "Hatenna": 137,
         "Zoroark": 11,
         "Lucario": 5,
         "Crustle": 14,
@@ -945,7 +945,7 @@
         "Giratina": 2,
         "Iron treads": 1,
         "Meowstic": 8,
-        "Luxray": 7,
+        "Luxray": 8,
         "Latias": 1,
         "Unown n": 1,
         "Unown exclamation": 2,
@@ -1116,8 +1116,8 @@
         "Zekrom": 1,
         "Melmetal": 1
       },
-      "total_spawns": 34392,
-      "last_spawn": "2026-06-29T09:04:33.464044"
+      "total_spawns": 34403,
+      "last_spawn": "2026-06-29T09:05:04.906531"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1814,7 +1814,7 @@
     }
   },
   "global": {
-    "total_spawns": 41000,
+    "total_spawns": 41011,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
