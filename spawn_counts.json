@@ -29,7 +29,7 @@
         "Charmander": 72,
         "Morelull": 38,
         "Abra": 180,
-        "Sandile": 179,
+        "Sandile": 180,
         "Sandygast": 48,
         "Litwick": 212,
         "Grubbin": 154,
@@ -268,7 +268,7 @@
         "Loudred": 52,
         "Ceruledge": 43,
         "Houndour": 39,
-        "Glimmet": 177,
+        "Glimmet": 178,
         "Goomy": 109,
         "Zapdos": 1,
         "Natu": 33,
@@ -505,7 +505,7 @@
         "Empoleon": 6,
         "Farigiraf": 44,
         "Hakamo-o": 29,
-        "Glameow": 41,
+        "Glameow": 42,
         "Croagunk": 48,
         "Duraludon": 12,
         "Sawk": 11,
@@ -595,7 +595,7 @@
         "Mienfoo": 41,
         "Dewgong": 12,
         "Wartortle": 32,
-        "Cetoddle": 162,
+        "Cetoddle": 163,
         "Kricketot": 44,
         "Porygon-z": 12,
         "Conkeldurr": 11,
@@ -873,7 +873,7 @@
         "Grumpig": 11,
         "Basculegion": 2,
         "Magnezone": 13,
-        "Alolan graveler": 1,
+        "Alolan graveler": 2,
         "Cleffa": 17,
         "Machamp": 14,
         "Altaria": 14,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 37925,
-      "last_spawn": "2026-06-29T19:24:30.038757"
+      "total_spawns": 37930,
+      "last_spawn": "2026-06-29T19:25:04.213936"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44804,
+    "total_spawns": 44809,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
