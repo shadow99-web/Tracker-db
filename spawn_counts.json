@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 61,
         "Patrat": 39,
-        "Mosslax": 110,
+        "Mosslax": 111,
         "Drilbur": 37,
         "Pawmi": 144,
         "Electabuzz": 30,
@@ -48,7 +48,7 @@
         "Seedot": 136,
         "Skitty": 35,
         "Greavard": 156,
-        "Slugma": 48,
+        "Slugma": 49,
         "Grotle": 31,
         "Porygon": 162,
         "Zubat": 167,
@@ -606,7 +606,7 @@
         "Naclstack": 34,
         "Claydol": 5,
         "Turtonator": 8,
-        "Hitmonlee": 8,
+        "Hitmonlee": 9,
         "Houndstone": 14,
         "Sandy wormadam": 7,
         "Stunky": 33,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32495,
-      "last_spawn": "2026-06-29T06:38:49.939104"
+      "total_spawns": 32498,
+      "last_spawn": "2026-06-29T06:39:20.334924"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39101,
+    "total_spawns": 39104,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
