@@ -329,7 +329,7 @@
         "Corviknight": 12,
         "Froakie": 45,
         "Nymble": 124,
-        "Ferrothorn": 7,
+        "Ferrothorn": 8,
         "Servine": 39,
         "Blitzle": 31,
         "Musharna": 7,
@@ -342,7 +342,7 @@
         "Sobble": 45,
         "Mudkip": 42,
         "Charjabug": 31,
-        "Capsakid": 127,
+        "Capsakid": 128,
         "Revavroom": 37,
         "Exploud": 13,
         "Deino": 82,
@@ -625,7 +625,7 @@
         "Gardevoir": 9,
         "Malamar": 12,
         "Frost rotom": 4,
-        "Tatsugiri": 51,
+        "Tatsugiri": 52,
         "Nidorino": 26,
         "Wailmer": 39,
         "Krabby": 34,
@@ -689,7 +689,7 @@
         "Seel": 35,
         "Shiinotic": 9,
         "Gumshoos": 8,
-        "Pyroar": 9,
+        "Pyroar": 10,
         "Marshadow": 2,
         "Sliggoo": 18,
         "Panpour": 34,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31833,
-      "last_spawn": "2026-06-29T04:46:00.040839"
+      "total_spawns": 31837,
+      "last_spawn": "2026-06-29T04:46:39.888913"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38424,
+    "total_spawns": 38428,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
