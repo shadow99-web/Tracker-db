@@ -12,7 +12,7 @@
         "Rellor": 162,
         "Sandy burmy": 20,
         "Wiglett": 167,
-        "Bombirdier": 164,
+        "Bombirdier": 165,
         "Litleo": 38,
         "Purrloin": 39,
         "Tranquill": 37,
@@ -23,10 +23,10 @@
         "Orbeetle": 11,
         "Dedenne": 10,
         "Machop": 149,
-        "Dudunsparce": 39,
+        "Dudunsparce": 40,
         "Gothita": 166,
         "Impidimp": 158,
-        "Charmander": 73,
+        "Charmander": 74,
         "Morelull": 40,
         "Abra": 182,
         "Sandile": 185,
@@ -173,7 +173,7 @@
         "Swinub": 185,
         "Inkay": 48,
         "Gible": 111,
-        "Rookidee": 132,
+        "Rookidee": 133,
         "Minccino": 57,
         "Wurmple": 159,
         "Binacle": 51,
@@ -186,7 +186,7 @@
         "Luvdisc": 15,
         "Vigoroth": 57,
         "Skorupi": 43,
-        "Pikachu": 48,
+        "Pikachu": 49,
         "Blue plumage squawkabilly": 31,
         "Thwackey": 45,
         "Dusk lycanroc": 5,
@@ -208,7 +208,7 @@
         "Tympole": 184,
         "Swellow": 11,
         "Aipom": 48,
-        "Growlithe": 42,
+        "Growlithe": 43,
         "Sewaddle": 180,
         "Fidough": 124,
         "Noivern": 7,
@@ -404,7 +404,7 @@
         "Squawkabilly": 46,
         "Electrike": 43,
         "Drampa": 16,
-        "Maschiff": 168,
+        "Maschiff": 169,
         "Rufflet": 47,
         "Kabutops": 9,
         "Dondozo": 166,
@@ -862,7 +862,7 @@
         "Liepard": 12,
         "Leavanny": 8,
         "Pa'u oricorio": 13,
-        "Donphan": 9,
+        "Donphan": 10,
         "Charizard": 11,
         "Pincurchin": 15,
         "Dunsparce": 5,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38461,
-      "last_spawn": "2026-06-29T20:10:04.967025"
+      "total_spawns": 38469,
+      "last_spawn": "2026-06-29T20:10:39.926382"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1863,7 +1863,7 @@
     }
   },
   "global": {
-    "total_spawns": 45400,
+    "total_spawns": 45408,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
