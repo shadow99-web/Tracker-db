@@ -1153,7 +1153,7 @@
         "Lickilicky": 4,
         "Hisuian voltorb": 1,
         "Dreepy": 13,
-        "Bagon": 7,
+        "Bagon": 8,
         "Archen": 4,
         "Shinx": 18,
         "Pikachu": 5,
@@ -1347,7 +1347,7 @@
         "Gallade": 1,
         "Rattata": 8,
         "Bellsprout": 10,
-        "Lickitung": 5,
+        "Lickitung": 6,
         "Minccino": 6,
         "Togepi": 10,
         "Milotic": 1,
@@ -1484,7 +1484,7 @@
         "Bunnelby": 1,
         "Skiploom": 4,
         "Marshtomp": 2,
-        "Lechonk": 9,
+        "Lechonk": 10,
         "Roaming gimmighoul": 8,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1820,10 +1820,11 @@
         "Golett": 1,
         "Hitmonlee": 1,
         "Drakloak": 1,
-        "Corphish": 1
+        "Corphish": 1,
+        "Clodsire": 1
       },
-      "total_spawns": 2455,
-      "last_spawn": "2026-06-29T15:31:27.877887"
+      "total_spawns": 2459,
+      "last_spawn": "2026-06-29T15:32:08.000886"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1833,7 +1834,7 @@
     }
   },
   "global": {
-    "total_spawns": 43630,
+    "total_spawns": 43634,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
