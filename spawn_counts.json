@@ -22,7 +22,7 @@
         "Tangela": 40,
         "Orbeetle": 10,
         "Dedenne": 10,
-        "Machop": 143,
+        "Machop": 144,
         "Dudunsparce": 37,
         "Gothita": 164,
         "Impidimp": 155,
@@ -50,7 +50,7 @@
         "Greavard": 179,
         "Slugma": 52,
         "Grotle": 33,
-        "Porygon": 188,
+        "Porygon": 189,
         "Zubat": 189,
         "Vanillish": 49,
         "Tadbulb": 197,
@@ -74,7 +74,7 @@
         "Fomantis": 28,
         "Droopy tatsugiri": 70,
         "Froslass": 14,
-        "Tarountula": 174,
+        "Tarountula": 175,
         "Hatterene": 13,
         "Phantump": 53,
         "Duosion": 39,
@@ -87,7 +87,7 @@
         "Togepi": 152,
         "Falinks": 10,
         "Tropius": 13,
-        "Poliwag": 161,
+        "Poliwag": 162,
         "Metang": 23,
         "Riolu": 39,
         "Exeggcute": 33,
@@ -404,7 +404,7 @@
         "Squawkabilly": 45,
         "Electrike": 41,
         "Drampa": 16,
-        "Maschiff": 166,
+        "Maschiff": 167,
         "Rufflet": 47,
         "Kabutops": 9,
         "Dondozo": 161,
@@ -448,7 +448,7 @@
         "Wugtrio": 37,
         "Bellibolt": 40,
         "Morgrem": 36,
-        "Misdreavus": 40,
+        "Misdreavus": 41,
         "Seviper": 13,
         "Scovillain": 37,
         "Sunkern": 36,
@@ -1118,10 +1118,11 @@
         "Ground arceus": 1,
         "Cresselia": 1,
         "Zenith marshadow": 1,
-        "Sinistcha": 2
+        "Sinistcha": 2,
+        "Glide mode miraidon": 1
       },
-      "total_spawns": 37549,
-      "last_spawn": "2026-06-29T18:52:50.032784"
+      "total_spawns": 37556,
+      "last_spawn": "2026-06-29T18:53:24.735276"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1852,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44427,
+    "total_spawns": 44434,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
