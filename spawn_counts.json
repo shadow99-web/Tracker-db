@@ -68,7 +68,7 @@
         "Starly": 148,
         "Tandemaus": 123,
         "Smoliv": 151,
-        "Gloom": 32,
+        "Gloom": 33,
         "Clefairy": 34,
         "Spinda": 8,
         "Fomantis": 23,
@@ -240,7 +240,7 @@
         "Omanyte": 33,
         "Galvantula": 10,
         "Chansey": 20,
-        "Shroodle": 144,
+        "Shroodle": 145,
         "Duskull": 163,
         "Bergmite": 33,
         "Pignite": 39,
@@ -361,7 +361,7 @@
         "Three-segment dudunsparce": 10,
         "Fearow": 10,
         "Mankey": 39,
-        "Bidoof": 28,
+        "Bidoof": 29,
         "Quilava": 44,
         "Finizen": 145,
         "Unown y": 1,
@@ -594,7 +594,7 @@
         "Galarian darumaka": 1,
         "Mienfoo": 30,
         "Dewgong": 11,
-        "Wartortle": 28,
+        "Wartortle": 29,
         "Cetoddle": 137,
         "Kricketot": 32,
         "Porygon-z": 10,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31317,
-      "last_spawn": "2026-06-29T02:33:00.020239"
+      "total_spawns": 31321,
+      "last_spawn": "2026-06-29T02:33:40.010151"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37906,
+    "total_spawns": 37910,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
