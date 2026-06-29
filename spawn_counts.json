@@ -1229,7 +1229,7 @@
         "Boltund": 2,
         "Lillipup": 11,
         "Ducklett": 5,
-        "Mareep": 10,
+        "Mareep": 11,
         "Tadbulb": 8,
         "Helioptile": 3,
         "Blitzle": 7,
@@ -1426,7 +1426,7 @@
         "Archeops": 1,
         "Gigalith": 3,
         "Nuzleaf": 3,
-        "Geodude": 16,
+        "Geodude": 17,
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 3,
@@ -1445,7 +1445,7 @@
         "Capsakid": 4,
         "Venonat": 4,
         "Popplio": 4,
-        "Glameow": 4,
+        "Glameow": 5,
         "Boldore": 2,
         "Emboar": 1,
         "Blue flower floette": 2,
@@ -1834,10 +1834,11 @@
         "Luxray": 1,
         "Chien-pao": 1,
         "Alolan dugtrio": 1,
-        "Polteageist": 1
+        "Polteageist": 1,
+        "Charmeleon": 1
       },
-      "total_spawns": 2532,
-      "last_spawn": "2026-06-29T17:08:01.456549"
+      "total_spawns": 2536,
+      "last_spawn": "2026-06-29T17:08:33.494257"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1847,7 +1848,7 @@
     }
   },
   "global": {
-    "total_spawns": 43707,
+    "total_spawns": 43711,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
