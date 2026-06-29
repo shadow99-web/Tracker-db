@@ -87,7 +87,7 @@
         "Togepi": 155,
         "Falinks": 10,
         "Tropius": 13,
-        "Poliwag": 164,
+        "Poliwag": 165,
         "Metang": 23,
         "Riolu": 41,
         "Exeggcute": 33,
@@ -103,7 +103,7 @@
         "Veluza": 185,
         "Barboach": 59,
         "Klink": 138,
-        "Honedge": 165,
+        "Honedge": 166,
         "Wingull": 47,
         "Salamence": 5,
         "Drakloak": 41,
@@ -380,7 +380,7 @@
         "Remoraid": 47,
         "Torracat": 44,
         "Hisuian zorua": 1,
-        "Wooloo": 36,
+        "Wooloo": 37,
         "Drifloon": 37,
         "Golbat": 39,
         "Swablu": 38,
@@ -580,7 +580,7 @@
         "Galarian meowth": 3,
         "Spoink": 31,
         "Scyther": 47,
-        "Anorith": 41,
+        "Anorith": 42,
         "Meowth": 27,
         "Combee": 25,
         "Fletchinder": 55,
@@ -619,7 +619,7 @@
         "Fraxure": 38,
         "Talonflame": 11,
         "Kleavor": 12,
-        "East sea gastrodon": 4,
+        "East sea gastrodon": 5,
         "Frillish": 47,
         "Manaphy": 2,
         "Gardevoir": 9,
@@ -990,7 +990,7 @@
         "Diggersby": 11,
         "Hisuian voltorb": 4,
         "Pachirisu": 9,
-        "Unown p": 1,
+        "Unown p": 2,
         "Hisuian samurott": 1,
         "Ledian": 10,
         "Cherrim": 3,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37833,
-      "last_spawn": "2026-06-29T19:16:49.996426"
+      "total_spawns": 37839,
+      "last_spawn": "2026-06-29T19:17:19.999012"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44712,
+    "total_spawns": 44718,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
