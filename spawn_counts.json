@@ -83,7 +83,7 @@
         "Baltoy": 40,
         "Mareep": 145,
         "Garbodor": 9,
-        "Slakoth": 149,
+        "Slakoth": 150,
         "Togepi": 133,
         "Falinks": 9,
         "Tropius": 8,
@@ -106,7 +106,7 @@
         "Honedge": 142,
         "Wingull": 40,
         "Salamence": 5,
-        "Drakloak": 33,
+        "Drakloak": 34,
         "Chewtle": 35,
         "Scizor": 9,
         "Sneasel": 31,
@@ -154,7 +154,7 @@
         "Dragapult": 16,
         "Rattata": 84,
         "Flapple": 14,
-        "Aron": 149,
+        "Aron": 150,
         "Boldore": 34,
         "Spinarak": 46,
         "Delcatty": 7,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31526,
-      "last_spawn": "2026-06-29T03:08:20.099748"
+      "total_spawns": 31529,
+      "last_spawn": "2026-06-29T03:08:52.016659"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38115,
+    "total_spawns": 38118,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
