@@ -1169,7 +1169,7 @@
         "Magnemite": 15,
         "Teddiursa": 17,
         "Houndoom": 1,
-        "Torracat": 2,
+        "Torracat": 3,
         "Donphan": 5,
         "Froakie": 10,
         "Hawlucha": 1,
@@ -1577,7 +1577,7 @@
         "Beautifly": 1,
         "Houndstone": 3,
         "Braviary": 2,
-        "Cubone": 1,
+        "Cubone": 2,
         "Stantler": 5,
         "Rufflet": 1,
         "Klang": 1,
@@ -1862,10 +1862,11 @@
         "Mime jr.": 1,
         "Zamazenta": 1,
         "Dewgong": 1,
-        "Azumarill": 1
+        "Azumarill": 1,
+        "Meowstic": 1
       },
-      "total_spawns": 2811,
-      "last_spawn": "2026-06-29T23:42:47.488840"
+      "total_spawns": 2814,
+      "last_spawn": "2026-06-29T23:43:17.508267"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1875,7 +1876,7 @@
     }
   },
   "global": {
-    "total_spawns": 45735,
+    "total_spawns": 45738,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
