@@ -121,7 +121,7 @@
         "Ralts": 122,
         "Solosis": 128,
         "Battle cyclizar": 56,
-        "Togetic": 45,
+        "Togetic": 46,
         "Palpitoad": 27,
         "Pikipek": 156,
         "Teddiursa": 134,
@@ -611,7 +611,7 @@
         "Sandy wormadam": 7,
         "Stunky": 32,
         "Pupitar": 29,
-        "Avalugg": 10,
+        "Avalugg": 11,
         "Magby": 13,
         "Wigglytuff": 6,
         "Venusaur": 12,
@@ -725,7 +725,7 @@
         "Cornerstone mask ogerpon": 1,
         "Typhlosion": 11,
         "Ariados": 7,
-        "Volbeat": 10,
+        "Volbeat": 11,
         "Burmy": 13,
         "Popplio": 36,
         "Mandibuzz": 8,
@@ -872,7 +872,7 @@
         "Swanna": 7,
         "Grumpig": 9,
         "Basculegion": 2,
-        "Magnezone": 9,
+        "Magnezone": 10,
         "Alolan graveler": 1,
         "Cleffa": 14,
         "Machamp": 10,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31493,
-      "last_spawn": "2026-06-29T03:02:50.581447"
+      "total_spawns": 31497,
+      "last_spawn": "2026-06-29T03:03:29.900502"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38082,
+    "total_spawns": 38086,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
