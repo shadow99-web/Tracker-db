@@ -34,7 +34,7 @@
         "Litwick": 213,
         "Grubbin": 157,
         "Escavalier": 13,
-        "Dratini": 124,
+        "Dratini": 125,
         "Kilowattrel": 41,
         "Lotad": 205,
         "Qwilfish": 12,
@@ -240,7 +240,7 @@
         "Omanyte": 45,
         "Galvantula": 11,
         "Chansey": 26,
-        "Shroodle": 174,
+        "Shroodle": 175,
         "Duskull": 187,
         "Bergmite": 39,
         "Pignite": 41,
@@ -363,7 +363,7 @@
         "Mankey": 48,
         "Bidoof": 43,
         "Quilava": 50,
-        "Finizen": 171,
+        "Finizen": 172,
         "Unown y": 1,
         "Toucannon": 7,
         "Caterpie": 152,
@@ -413,7 +413,7 @@
         "Peakychu": 134,
         "Armarouge": 44,
         "Tyrantrum": 6,
-        "Larvitar": 85,
+        "Larvitar": 86,
         "Tentacool": 35,
         "Volcanion": 1,
         "Roaming gimmighoul": 128,
@@ -581,7 +581,7 @@
         "Spoink": 32,
         "Scyther": 47,
         "Anorith": 43,
-        "Meowth": 27,
+        "Meowth": 28,
         "Combee": 25,
         "Fletchinder": 55,
         "Kingambit": 11,
@@ -684,7 +684,7 @@
         "Blaziken": 7,
         "Stantler": 36,
         "Butterfree": 9,
-        "Koffing": 43,
+        "Koffing": 44,
         "Floragato": 22,
         "Seel": 41,
         "Shiinotic": 13,
@@ -1120,10 +1120,11 @@
         "Zenith marshadow": 1,
         "Sinistcha": 2,
         "Glide mode miraidon": 1,
-        "Xurkitree": 1
+        "Xurkitree": 1,
+        "Complete zygarde": 1
       },
-      "total_spawns": 38163,
-      "last_spawn": "2026-06-29T19:44:41.496932"
+      "total_spawns": 38170,
+      "last_spawn": "2026-06-29T19:45:14.740623"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1855,7 @@
     }
   },
   "global": {
-    "total_spawns": 45042,
+    "total_spawns": 45049,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
