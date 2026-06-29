@@ -299,7 +299,7 @@
         "Venipede": 156,
         "Cacturne": 11,
         "Oddish": 161,
-        "Dragalge": 10,
+        "Dragalge": 11,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
         "Toxapex": 7,
@@ -482,7 +482,7 @@
         "Carkol": 35,
         "Magikarp": 34,
         "Tyrogue": 33,
-        "Vikavolt": 5,
+        "Vikavolt": 6,
         "Trash burmy": 13,
         "Staravia": 39,
         "Chatot": 9,
@@ -836,7 +836,7 @@
         "Arctovish": 9,
         "Ribombee": 8,
         "Alolan meowth": 1,
-        "Klang": 35,
+        "Klang": 36,
         "Manectric": 11,
         "Gallade": 11,
         "Family of three maushold": 8,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32670,
-      "last_spawn": "2026-06-29T07:08:20.104304"
+      "total_spawns": 32673,
+      "last_spawn": "2026-06-29T07:08:50.205870"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39276,
+    "total_spawns": 39279,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
