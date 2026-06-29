@@ -1132,7 +1132,7 @@
         "Amoonguss": 2,
         "Mosslax": 16,
         "Rookidee": 19,
-        "Roggenrola": 14,
+        "Roggenrola": 15,
         "Armarouge": 4,
         "Gastly": 12,
         "Scatterbug": 12,
@@ -1558,7 +1558,7 @@
         "Grimer": 5,
         "Drednaw": 3,
         "Cacturne": 1,
-        "Metapod": 3,
+        "Metapod": 4,
         "Sealeo": 6,
         "Wynaut": 1,
         "Staravia": 2,
@@ -1713,7 +1713,7 @@
         "Dracovish": 1,
         "Salamence": 1,
         "Pincurchin": 1,
-        "Murkrow": 2,
+        "Murkrow": 3,
         "Ledian": 1,
         "Fletchinder": 3,
         "Fennekin": 2,
@@ -1826,8 +1826,8 @@
         "Unfezant": 1,
         "Magmar": 1
       },
-      "total_spawns": 2467,
-      "last_spawn": "2026-06-29T15:33:27.473020"
+      "total_spawns": 2470,
+      "last_spawn": "2026-06-29T15:34:07.560424"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1837,7 +1837,7 @@
     }
   },
   "global": {
-    "total_spawns": 43642,
+    "total_spawns": 43645,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
