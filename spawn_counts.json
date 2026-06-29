@@ -87,7 +87,7 @@
         "Togepi": 132,
         "Falinks": 9,
         "Tropius": 8,
-        "Poliwag": 134,
+        "Poliwag": 135,
         "Metang": 17,
         "Riolu": 33,
         "Exeggcute": 30,
@@ -110,7 +110,7 @@
         "Chewtle": 35,
         "Scizor": 9,
         "Sneasel": 31,
-        "Bonsly": 7,
+        "Bonsly": 8,
         "Horsea": 138,
         "Frigibax": 126,
         "Spheal": 162,
@@ -732,7 +732,7 @@
         "Walrein": 15,
         "Cinccino": 10,
         "Alolan sandshrew": 2,
-        "Azurill": 10,
+        "Azurill": 11,
         "Alolan rattata": 4,
         "Hippowdon": 8,
         "Lumineon": 12,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31230,
-      "last_spawn": "2026-06-29T02:18:30.097851"
+      "total_spawns": 31233,
+      "last_spawn": "2026-06-29T02:19:00.301739"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37818,
+    "total_spawns": 37821,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
