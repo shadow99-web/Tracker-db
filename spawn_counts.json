@@ -250,7 +250,7 @@
         "Turtwig": 40,
         "Prinplup": 32,
         "Tinkatink": 144,
-        "Lechonk": 148,
+        "Lechonk": 149,
         "Kommo-o": 4,
         "Dewott": 36,
         "Arrokuda": 29,
@@ -356,7 +356,7 @@
         "Swirlix": 35,
         "Aromatisse": 8,
         "Muk": 9,
-        "Toxel": 35,
+        "Toxel": 36,
         "Banette": 11,
         "Three-segment dudunsparce": 10,
         "Fearow": 10,
@@ -558,7 +558,7 @@
         "Araquanid": 9,
         "Kadabra": 34,
         "Chandelure": 13,
-        "Ponyta": 34,
+        "Ponyta": 35,
         "Togekiss": 9,
         "Braviary": 10,
         "Raboot": 40,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32153,
-      "last_spawn": "2026-06-29T05:40:30.092497"
+      "total_spawns": 32156,
+      "last_spawn": "2026-06-29T05:41:00.689138"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38759,
+    "total_spawns": 38762,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
