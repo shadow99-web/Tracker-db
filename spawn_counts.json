@@ -313,7 +313,7 @@
         "Shellos": 24,
         "Jigglypuff": 40,
         "Nacli": 120,
-        "Munna": 30,
+        "Munna": 31,
         "Pawniard": 31,
         "Prof tangrowth": 110,
         "Jangmo-o": 68,
@@ -356,7 +356,7 @@
         "Swirlix": 35,
         "Aromatisse": 8,
         "Muk": 9,
-        "Toxel": 34,
+        "Toxel": 35,
         "Banette": 11,
         "Three-segment dudunsparce": 10,
         "Fearow": 10,
@@ -558,7 +558,7 @@
         "Araquanid": 9,
         "Kadabra": 34,
         "Chandelure": 13,
-        "Ponyta": 33,
+        "Ponyta": 34,
         "Togekiss": 9,
         "Braviary": 10,
         "Raboot": 40,
@@ -684,7 +684,7 @@
         "Blaziken": 7,
         "Stantler": 34,
         "Butterfree": 7,
-        "Koffing": 36,
+        "Koffing": 37,
         "Floragato": 18,
         "Seel": 35,
         "Shiinotic": 9,
@@ -1107,8 +1107,8 @@
         "Alolan dugtrio": 1,
         "Zeraora": 1
       },
-      "total_spawns": 31748,
-      "last_spawn": "2026-06-29T03:46:00.101596"
+      "total_spawns": 31752,
+      "last_spawn": "2026-06-29T03:46:40.099214"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1804,7 +1804,7 @@
     }
   },
   "global": {
-    "total_spawns": 38338,
+    "total_spawns": 38342,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
