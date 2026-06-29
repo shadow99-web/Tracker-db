@@ -1267,7 +1267,7 @@
         "Silicobra": 3,
         "Dartrix": 2,
         "Scraggy": 3,
-        "Mabosstiff": 4,
+        "Mabosstiff": 5,
         "Lileep": 3,
         "Cetoddle": 13,
         "Chespin": 2,
@@ -1471,7 +1471,7 @@
         "Tentacruel": 1,
         "Exeggcute": 4,
         "Diglett": 4,
-        "Pidgey": 13,
+        "Pidgey": 14,
         "Gligar": 1,
         "Deino": 6,
         "Dolliv": 2,
@@ -1825,10 +1825,11 @@
         "Snover": 1,
         "Unfezant": 1,
         "Magmar": 1,
-        "Snubbull": 1
+        "Snubbull": 1,
+        "Galarian rapidash": 1
       },
-      "total_spawns": 2474,
-      "last_spawn": "2026-06-29T15:34:47.452218"
+      "total_spawns": 2477,
+      "last_spawn": "2026-06-29T15:35:17.542756"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1838,7 +1839,7 @@
     }
   },
   "global": {
-    "total_spawns": 43649,
+    "total_spawns": 43652,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
