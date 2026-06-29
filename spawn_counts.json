@@ -40,7 +40,7 @@
         "Qwilfish": 9,
         "Trapinch": 162,
         "Toedscool": 135,
-        "Fletchling": 132,
+        "Fletchling": 133,
         "Skiploom": 41,
         "Timburr": 152,
         "Dj rotom": 136,
@@ -51,7 +51,7 @@
         "Slugma": 48,
         "Grotle": 31,
         "Porygon": 162,
-        "Zubat": 166,
+        "Zubat": 167,
         "Vanillish": 43,
         "Tadbulb": 175,
         "Magnemite": 156,
@@ -411,7 +411,7 @@
         "Pansear": 38,
         "Cutiefly": 38,
         "Peakychu": 116,
-        "Armarouge": 40,
+        "Armarouge": 41,
         "Tyrantrum": 5,
         "Larvitar": 69,
         "Tentacool": 29,
@@ -537,7 +537,7 @@
         "Zorua": 26,
         "Archen": 41,
         "Oinkologne": 49,
-        "Onix": 32,
+        "Onix": 33,
         "Vanilluxe": 7,
         "Jolteon": 9,
         "Pawmot": 9,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32447,
-      "last_spawn": "2026-06-29T06:30:50.119811"
+      "total_spawns": 32451,
+      "last_spawn": "2026-06-29T06:31:30.177066"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39053,
+    "total_spawns": 39057,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
