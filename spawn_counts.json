@@ -1146,7 +1146,7 @@
         "Gible": 13,
         "Larvesta": 5,
         "Starly": 14,
-        "Varoom": 19,
+        "Varoom": 20,
         "Weedle": 16,
         "Chef dente": 11,
         "Hatenna": 17,
@@ -1350,7 +1350,7 @@
         "Ursaring": 5,
         "Staryu": 5,
         "Gallade": 1,
-        "Rattata": 8,
+        "Rattata": 9,
         "Bellsprout": 12,
         "Lickitung": 6,
         "Minccino": 6,
@@ -1852,10 +1852,11 @@
         "Psyduck": 1,
         "Kingdra": 1,
         "Mienfoo": 1,
-        "Budew": 1
+        "Budew": 1,
+        "Bulbasaur": 1
       },
-      "total_spawns": 2694,
-      "last_spawn": "2026-06-29T22:52:57.569754"
+      "total_spawns": 2697,
+      "last_spawn": "2026-06-29T22:53:27.549310"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1865,7 +1866,7 @@
     }
   },
   "global": {
-    "total_spawns": 45618,
+    "total_spawns": 45621,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
