@@ -18,7 +18,7 @@
         "Tranquill": 37,
         "Psyduck": 29,
         "Rockruff": 39,
-        "Haunter": 42,
+        "Haunter": 43,
         "Tangela": 40,
         "Orbeetle": 10,
         "Dedenne": 10,
@@ -89,7 +89,7 @@
         "Tropius": 13,
         "Poliwag": 162,
         "Metang": 23,
-        "Riolu": 39,
+        "Riolu": 40,
         "Exeggcute": 33,
         "Corphish": 37,
         "Hoppip": 158,
@@ -148,7 +148,7 @@
         "Emboar": 9,
         "Deoxys": 2,
         "Dracovish": 11,
-        "Bulbasaur": 53,
+        "Bulbasaur": 54,
         "Roggenrola": 189,
         "Pidove": 159,
         "Dragapult": 17,
@@ -198,7 +198,7 @@
         "Grookey": 53,
         "Meditite": 29,
         "Toedscruel": 50,
-        "Probopass": 8,
+        "Probopass": 9,
         "Scraggy": 51,
         "Rhydon": 42,
         "Silcoon": 46,
@@ -760,7 +760,7 @@
         "Golisopod": 16,
         "Greninja": 11,
         "Smoochum": 10,
-        "Reuniclus": 11,
+        "Reuniclus": 12,
         "Smeargle": 14,
         "Gorebyss": 8,
         "Yanmega": 7,
@@ -936,7 +936,7 @@
         "Pyukumuku": 7,
         "Machoke": 39,
         "Sunshine cherrim": 6,
-        "Beautifly": 12,
+        "Beautifly": 13,
         "Ting-lu": 1,
         "Hitmontop": 11,
         "Munchlax": 15,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37628,
-      "last_spawn": "2026-06-29T18:59:30.003229"
+      "total_spawns": 37634,
+      "last_spawn": "2026-06-29T19:00:03.037630"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44506,
+    "total_spawns": 44512,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
