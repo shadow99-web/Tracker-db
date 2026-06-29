@@ -16,7 +16,7 @@
         "Litleo": 34,
         "Purrloin": 31,
         "Tranquill": 32,
-        "Psyduck": 21,
+        "Psyduck": 22,
         "Rockruff": 32,
         "Haunter": 37,
         "Tangela": 37,
@@ -109,7 +109,7 @@
         "Drakloak": 35,
         "Chewtle": 36,
         "Scizor": 9,
-        "Sneasel": 31,
+        "Sneasel": 32,
         "Bonsly": 8,
         "Horsea": 140,
         "Frigibax": 133,
@@ -372,7 +372,7 @@
         "Treecko": 51,
         "Sinistea": 30,
         "Cubchoo": 25,
-        "Hippopotas": 20,
+        "Hippopotas": 21,
         "Spiky-eared pichu": 4,
         "Magearna": 1,
         "Mabosstiff": 36,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32375,
-      "last_spawn": "2026-06-29T06:18:49.899913"
+      "total_spawns": 32378,
+      "last_spawn": "2026-06-29T06:19:19.960654"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 38981,
+    "total_spawns": 38984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
