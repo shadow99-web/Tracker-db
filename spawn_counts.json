@@ -18,7 +18,7 @@
         "Tranquill": 31,
         "Psyduck": 21,
         "Rockruff": 32,
-        "Haunter": 36,
+        "Haunter": 37,
         "Tangela": 37,
         "Orbeetle": 8,
         "Dedenne": 10,
@@ -120,7 +120,7 @@
         "Yamask": 37,
         "Ralts": 122,
         "Solosis": 132,
-        "Battle cyclizar": 56,
+        "Battle cyclizar": 57,
         "Togetic": 47,
         "Palpitoad": 27,
         "Pikipek": 159,
@@ -150,7 +150,7 @@
         "Dracovish": 11,
         "Bulbasaur": 44,
         "Roggenrola": 160,
-        "Pidove": 134,
+        "Pidove": 135,
         "Dragapult": 16,
         "Rattata": 87,
         "Flapple": 14,
@@ -236,7 +236,7 @@
         "Eiscue": 12,
         "Summer deerling": 36,
         "Clauncher": 37,
-        "Clobbopus": 35,
+        "Clobbopus": 36,
         "Omanyte": 34,
         "Galvantula": 10,
         "Chansey": 20,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 31988,
-      "last_spawn": "2026-06-29T05:12:40.231270"
+      "total_spawns": 31992,
+      "last_spawn": "2026-06-29T05:13:19.920113"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38593,
+    "total_spawns": 38597,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
