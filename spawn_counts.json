@@ -79,7 +79,7 @@
         "Phantump": 53,
         "Duosion": 40,
         "Amaura": 48,
-        "Gimmighoul": 167,
+        "Gimmighoul": 168,
         "Baltoy": 48,
         "Mareep": 170,
         "Garbodor": 10,
@@ -346,7 +346,7 @@
         "Revavroom": 42,
         "Exploud": 16,
         "Deino": 108,
-        "Wooper": 54,
+        "Wooper": 55,
         "Dwebble": 48,
         "Steenee": 52,
         "Darumaka": 44,
@@ -377,7 +377,7 @@
         "Magearna": 1,
         "Mabosstiff": 41,
         "Squirtle": 64,
-        "Remoraid": 47,
+        "Remoraid": 48,
         "Torracat": 44,
         "Hisuian zorua": 1,
         "Wooloo": 37,
@@ -402,14 +402,14 @@
         "Persian": 3,
         "Lopunny": 12,
         "Squawkabilly": 46,
-        "Electrike": 42,
+        "Electrike": 43,
         "Drampa": 16,
         "Maschiff": 168,
         "Rufflet": 47,
         "Kabutops": 9,
         "Dondozo": 166,
         "Pansear": 41,
-        "Cutiefly": 48,
+        "Cutiefly": 49,
         "Peakychu": 134,
         "Armarouge": 44,
         "Tyrantrum": 6,
@@ -531,7 +531,7 @@
         "Floatzel": 8,
         "Accelgor": 9,
         "Wormadam": 13,
-        "Axew": 165,
+        "Axew": 166,
         "Trevenant": 15,
         "Trubbish": 34,
         "Zorua": 32,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 38150,
-      "last_spawn": "2026-06-29T19:43:34.426029"
+      "total_spawns": 38156,
+      "last_spawn": "2026-06-29T19:44:04.599079"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 45029,
+    "total_spawns": 45035,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
