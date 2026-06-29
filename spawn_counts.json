@@ -29,14 +29,14 @@
         "Charmander": 71,
         "Morelull": 37,
         "Abra": 178,
-        "Sandile": 177,
+        "Sandile": 178,
         "Sandygast": 48,
         "Litwick": 204,
         "Grubbin": 148,
         "Escavalier": 13,
         "Dratini": 123,
         "Kilowattrel": 41,
-        "Lotad": 200,
+        "Lotad": 201,
         "Qwilfish": 12,
         "Trapinch": 189,
         "Toedscool": 163,
@@ -193,7 +193,7 @@
         "Sunny castform": 12,
         "Pidgeotto": 53,
         "Spearow": 51,
-        "Helioptile": 37,
+        "Helioptile": 38,
         "Hoothoot": 54,
         "Grookey": 53,
         "Meditite": 29,
@@ -216,10 +216,10 @@
         "Tynamo": 180,
         "Orthworm": 169,
         "Marill": 46,
-        "Joltik": 51,
+        "Joltik": 52,
         "Politoed": 10,
         "Cyndaquil": 56,
-        "Fuecoco": 65,
+        "Fuecoco": 66,
         "Cyclizar": 64,
         "Magmar": 44,
         "Rillaboom": 15,
@@ -305,7 +305,7 @@
         "Toxapex": 7,
         "Lileep": 44,
         "Rolycoly": 166,
-        "Bronzor": 56,
+        "Bronzor": 57,
         "Dartrix": 50,
         "Yellow flower florges": 5,
         "Zangoose": 10,
@@ -369,7 +369,7 @@
         "Caterpie": 148,
         "Carvanha": 29,
         "Luxio": 39,
-        "Treecko": 59,
+        "Treecko": 60,
         "Sinistea": 36,
         "Cubchoo": 33,
         "Hippopotas": 29,
@@ -1120,8 +1120,8 @@
         "Zenith marshadow": 1,
         "Sinistcha": 1
       },
-      "total_spawns": 37443,
-      "last_spawn": "2026-06-29T18:44:00.087164"
+      "total_spawns": 37450,
+      "last_spawn": "2026-06-29T18:44:34.530331"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1852,7 +1852,7 @@
     }
   },
   "global": {
-    "total_spawns": 44321,
+    "total_spawns": 44328,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
