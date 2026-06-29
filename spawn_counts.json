@@ -555,7 +555,7 @@
         "Skarmory": 9,
         "Midnight lycanroc": 7,
         "Eelektross": 12,
-        "Araquanid": 9,
+        "Araquanid": 10,
         "Kadabra": 36,
         "Chandelure": 13,
         "Ponyta": 35,
@@ -634,7 +634,7 @@
         "Cacnea": 30,
         "Pom-pom oricorio": 12,
         "Hawlucha": 14,
-        "Ursaring": 33,
+        "Ursaring": 34,
         "Glalie": 9,
         "Latios": 1,
         "Silicobra": 33,
@@ -999,7 +999,7 @@
         "Tyranitar": 4,
         "Inteleon": 7,
         "Rotom drone": 2,
-        "Aegislash": 6,
+        "Aegislash": 7,
         "Iron valiant": 1,
         "Beartic": 8,
         "Weezing": 4,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32630,
-      "last_spawn": "2026-06-29T07:01:50.038800"
+      "total_spawns": 32633,
+      "last_spawn": "2026-06-29T07:02:20.166497"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39236,
+    "total_spawns": 39239,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
