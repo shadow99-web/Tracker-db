@@ -14,7 +14,7 @@
         "Wiglett": 134,
         "Bombirdier": 135,
         "Litleo": 34,
-        "Purrloin": 30,
+        "Purrloin": 31,
         "Tranquill": 32,
         "Psyduck": 21,
         "Rockruff": 32,
@@ -170,7 +170,7 @@
         "Flareon": 12,
         "Gastly": 141,
         "Taillow": 31,
-        "Swinub": 149,
+        "Swinub": 150,
         "Inkay": 41,
         "Gible": 93,
         "Rookidee": 104,
@@ -289,7 +289,7 @@
         "Chef dente": 114,
         "Volcarona": 7,
         "Bewear": 9,
-        "Piloswine": 33,
+        "Piloswine": 34,
         "Simisage": 9,
         "Jellicent": 8,
         "Torkoal": 11,
@@ -454,7 +454,7 @@
         "Sunkern": 30,
         "Drizzile": 32,
         "Sunflora": 6,
-        "Passimian": 14,
+        "Passimian": 15,
         "Iron moth": 2,
         "Cherubi": 33,
         "Cradily": 12,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32209,
-      "last_spawn": "2026-06-29T05:50:00.362583"
+      "total_spawns": 32213,
+      "last_spawn": "2026-06-29T05:50:40.002096"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38815,
+    "total_spawns": 38819,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
