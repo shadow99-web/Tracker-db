@@ -1198,7 +1198,7 @@
         "Wattrel": 12,
         "Entei": 1,
         "Flaaffy": 4,
-        "Pikipek": 10,
+        "Pikipek": 11,
         "Nacli": 9,
         "Grovyle": 1,
         "Wartortle": 4,
@@ -1462,7 +1462,7 @@
         "Clobbopus": 4,
         "Bounsweet": 14,
         "Crawdaunt": 3,
-        "Hoppip": 11,
+        "Hoppip": 12,
         "Shroodle": 3,
         "Fomantis": 2,
         "Slowpoke": 2,
@@ -1607,7 +1607,7 @@
         "Nosepass": 3,
         "Exploud": 3,
         "Stretchy tatsugiri": 4,
-        "Elgyem": 4,
+        "Elgyem": 5,
         "Yanma": 1,
         "Gabite": 2,
         "Meowscarada": 1,
@@ -1827,10 +1827,11 @@
         "Magmar": 1,
         "Snubbull": 1,
         "Galarian rapidash": 1,
-        "Metang": 1
+        "Metang": 1,
+        "Koffing": 1
       },
-      "total_spawns": 2491,
-      "last_spawn": "2026-06-29T15:37:37.876761"
+      "total_spawns": 2495,
+      "last_spawn": "2026-06-29T15:38:18.183342"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1840,7 +1841,7 @@
     }
   },
   "global": {
-    "total_spawns": 43666,
+    "total_spawns": 43670,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
