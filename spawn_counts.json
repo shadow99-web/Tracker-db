@@ -12,7 +12,7 @@
         "Rellor": 137,
         "Sandy burmy": 18,
         "Wiglett": 132,
-        "Bombirdier": 129,
+        "Bombirdier": 130,
         "Litleo": 33,
         "Purrloin": 29,
         "Tranquill": 30,
@@ -175,7 +175,7 @@
         "Gible": 91,
         "Rookidee": 101,
         "Minccino": 47,
-        "Wurmple": 131,
+        "Wurmple": 132,
         "Binacle": 42,
         "Grafaiai": 33,
         "Quilladin": 32,
@@ -577,7 +577,7 @@
         "Nuzleaf": 32,
         "Scorbunny": 46,
         "Huntail": 12,
-        "Galarian meowth": 2,
+        "Galarian meowth": 3,
         "Spoink": 24,
         "Scyther": 43,
         "Anorith": 36,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31383,
-      "last_spawn": "2026-06-29T02:43:59.997468"
+      "total_spawns": 31386,
+      "last_spawn": "2026-06-29T02:44:29.997078"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37972,
+    "total_spawns": 37975,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
