@@ -40,7 +40,7 @@
         "Qwilfish": 12,
         "Trapinch": 191,
         "Toedscool": 167,
-        "Fletchling": 148,
+        "Fletchling": 149,
         "Skiploom": 48,
         "Timburr": 175,
         "Dj rotom": 149,
@@ -296,9 +296,9 @@
         "Ferroseed": 37,
         "Brionne": 33,
         "Pancham": 45,
-        "Venipede": 179,
+        "Venipede": 180,
         "Cacturne": 13,
-        "Oddish": 183,
+        "Oddish": 184,
         "Dragalge": 11,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -727,7 +727,7 @@
         "Ariados": 9,
         "Volbeat": 11,
         "Burmy": 16,
-        "Popplio": 40,
+        "Popplio": 41,
         "Mandibuzz": 9,
         "Walrein": 17,
         "Cinccino": 14,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38267,
-      "last_spawn": "2026-06-29T19:53:20.107032"
+      "total_spawns": 38271,
+      "last_spawn": "2026-06-29T19:53:44.397677"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1138,7 +1138,7 @@
         "Rookidee": 19,
         "Roggenrola": 15,
         "Armarouge": 4,
-        "Gastly": 12,
+        "Gastly": 13,
         "Scatterbug": 14,
         "Wurmple": 7,
         "Gothita": 19,
@@ -1795,7 +1795,7 @@
         "Gurdurr": 3,
         "Bidoof": 1,
         "Rowlet": 1,
-        "Meditite": 2,
+        "Meditite": 3,
         "Pyukumuku": 1,
         "Hatterene": 1,
         "Numel": 1,
@@ -1844,10 +1844,11 @@
         "Combusken": 1,
         "Morpeko": 1,
         "Camerupt": 1,
-        "Slugma": 1
+        "Slugma": 1,
+        "Kingambit": 1
       },
-      "total_spawns": 2603,
-      "last_spawn": "2026-06-29T19:53:17.497424"
+      "total_spawns": 2606,
+      "last_spawn": "2026-06-29T19:53:50.540482"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1857,7 +1858,7 @@
     }
   },
   "global": {
-    "total_spawns": 45157,
+    "total_spawns": 45164,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
