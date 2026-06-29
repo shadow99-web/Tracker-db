@@ -421,7 +421,7 @@
         "Delibird": 14,
         "Ride cyclizar": 50,
         "Gothorita": 36,
-        "Varoom": 149,
+        "Varoom": 150,
         "Yellow plumage squawkabilly": 38,
         "Centiskorch": 11,
         "Low key toxtricity": 7,
@@ -757,7 +757,7 @@
         "Iron boulder": 3,
         "Haxorus": 9,
         "Jynx": 14,
-        "Golisopod": 14,
+        "Golisopod": 15,
         "Greninja": 9,
         "Smoochum": 9,
         "Reuniclus": 10,
@@ -1109,10 +1109,11 @@
         "Runerigus": 1,
         "Xerneas": 1,
         "Articuno": 1,
-        "Garden vivillon": 1
+        "Garden vivillon": 1,
+        "Flutter mane": 1
       },
-      "total_spawns": 32334,
-      "last_spawn": "2026-06-29T06:11:49.904575"
+      "total_spawns": 32337,
+      "last_spawn": "2026-06-29T06:12:20.125336"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1809,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 38940,
+    "total_spawns": 38943,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
