@@ -76,7 +76,7 @@
         "Froslass": 13,
         "Tarountula": 145,
         "Hatterene": 12,
-        "Phantump": 45,
+        "Phantump": 46,
         "Duosion": 34,
         "Amaura": 36,
         "Gimmighoul": 139,
@@ -84,7 +84,7 @@
         "Mareep": 146,
         "Garbodor": 9,
         "Slakoth": 151,
-        "Togepi": 135,
+        "Togepi": 136,
         "Falinks": 9,
         "Tropius": 8,
         "Poliwag": 138,
@@ -348,7 +348,7 @@
         "Deino": 83,
         "Wooper": 47,
         "Dwebble": 44,
-        "Steenee": 40,
+        "Steenee": 41,
         "Darumaka": 38,
         "Arboliva": 8,
         "Ledyba": 42,
@@ -637,7 +637,7 @@
         "Ursaring": 32,
         "Glalie": 9,
         "Latios": 1,
-        "Silicobra": 32,
+        "Silicobra": 33,
         "Snom": 30,
         "East sea shellos": 14,
         "Corsola": 19,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32250,
-      "last_spawn": "2026-06-29T05:57:10.317538"
+      "total_spawns": 32254,
+      "last_spawn": "2026-06-29T05:57:49.893313"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38856,
+    "total_spawns": 38860,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
