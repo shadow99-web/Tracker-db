@@ -64,7 +64,7 @@
         "Beldum": 105,
         "Ducklett": 36,
         "Lokix": 34,
-        "Glimmora": 45,
+        "Glimmora": 46,
         "Starly": 153,
         "Tandemaus": 127,
         "Smoliv": 154,
@@ -142,7 +142,7 @@
         "Rhyhorn": 146,
         "Sentret": 38,
         "Yungoos": 35,
-        "Diglett": 43,
+        "Diglett": 44,
         "Doduo": 40,
         "Lairon": 42,
         "Emboar": 8,
@@ -223,7 +223,7 @@
         "Cyclizar": 58,
         "Magmar": 39,
         "Rillaboom": 13,
-        "Ninetales": 15,
+        "Ninetales": 16,
         "Wattrel": 145,
         "Snubbull": 39,
         "Spidops": 32,
@@ -313,7 +313,7 @@
         "Shellos": 27,
         "Jigglypuff": 41,
         "Nacli": 124,
-        "Munna": 31,
+        "Munna": 32,
         "Pawniard": 31,
         "Prof tangrowth": 111,
         "Jangmo-o": 70,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32545,
-      "last_spawn": "2026-06-29T06:47:20.226289"
+      "total_spawns": 32549,
+      "last_spawn": "2026-06-29T06:47:59.936913"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39151,
+    "total_spawns": 39155,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
