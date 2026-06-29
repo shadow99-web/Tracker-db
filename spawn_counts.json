@@ -55,7 +55,7 @@
         "Vanillish": 49,
         "Tadbulb": 199,
         "Magnemite": 175,
-        "Whismur": 163,
+        "Whismur": 164,
         "Monferno": 43,
         "Skwovet": 48,
         "Bramblin": 193,
@@ -221,7 +221,7 @@
         "Cyndaquil": 56,
         "Fuecoco": 66,
         "Cyclizar": 64,
-        "Magmar": 44,
+        "Magmar": 45,
         "Rillaboom": 16,
         "Ninetales": 17,
         "Wattrel": 166,
@@ -360,7 +360,7 @@
         "Banette": 13,
         "Three-segment dudunsparce": 13,
         "Fearow": 10,
-        "Mankey": 47,
+        "Mankey": 48,
         "Bidoof": 43,
         "Quilava": 50,
         "Finizen": 170,
@@ -392,7 +392,7 @@
         "Sigilyph": 16,
         "Unown m": 1,
         "Stufful": 37,
-        "Wailord": 8,
+        "Wailord": 9,
         "Makuhita": 47,
         "Lombre": 54,
         "Ursaluna": 11,
@@ -547,7 +547,7 @@
         "Kangaskhan": 9,
         "Krokorok": 41,
         "Dragonair": 32,
-        "Zweilous": 24,
+        "Zweilous": 25,
         "Karrablast": 37,
         "Shroomish": 48,
         "Snover": 31,
@@ -670,7 +670,7 @@
         "Appletun": 7,
         "Krookodile": 19,
         "Primeape": 10,
-        "Grimer": 26,
+        "Grimer": 27,
         "Crabominable": 8,
         "Quaquaval": 11,
         "Sprigatito": 55,
@@ -1119,10 +1119,11 @@
         "Cresselia": 1,
         "Zenith marshadow": 1,
         "Sinistcha": 2,
-        "Glide mode miraidon": 1
+        "Glide mode miraidon": 1,
+        "Xurkitree": 1
       },
-      "total_spawns": 37886,
-      "last_spawn": "2026-06-29T19:21:14.639185"
+      "total_spawns": 37893,
+      "last_spawn": "2026-06-29T19:21:49.965123"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44765,
+    "total_spawns": 44772,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
