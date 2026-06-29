@@ -11,7 +11,7 @@
         "Electabuzz": 29,
         "Rellor": 138,
         "Sandy burmy": 19,
-        "Wiglett": 132,
+        "Wiglett": 133,
         "Bombirdier": 131,
         "Litleo": 34,
         "Purrloin": 29,
@@ -371,7 +371,7 @@
         "Luxio": 33,
         "Treecko": 51,
         "Sinistea": 29,
-        "Cubchoo": 23,
+        "Cubchoo": 24,
         "Hippopotas": 20,
         "Spiky-eared pichu": 4,
         "Magearna": 1,
@@ -412,7 +412,7 @@
         "Cutiefly": 36,
         "Peakychu": 113,
         "Armarouge": 40,
-        "Tyrantrum": 4,
+        "Tyrantrum": 5,
         "Larvitar": 67,
         "Tentacool": 29,
         "Volcanion": 1,
@@ -433,7 +433,7 @@
         "Feebas": 33,
         "Buneary": 39,
         "Zebstrika": 11,
-        "Shuppet": 38,
+        "Shuppet": 39,
         "Paldean wooper": 6,
         "Salandit": 32,
         "School wishiwashi": 8,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31666,
-      "last_spawn": "2026-06-29T03:32:10.038324"
+      "total_spawns": 31670,
+      "last_spawn": "2026-06-29T03:32:49.910453"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38256,
+    "total_spawns": 38260,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
