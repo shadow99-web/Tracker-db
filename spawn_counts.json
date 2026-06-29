@@ -97,7 +97,7 @@
         "Kabuto": 43,
         "Scatterbug": 148,
         "Pumpkaboo": 43,
-        "Numel": 43,
+        "Numel": 44,
         "Carracosta": 11,
         "Smearguru": 111,
         "Veluza": 157,
@@ -458,10 +458,10 @@
         "Iron moth": 2,
         "Cherubi": 32,
         "Cradily": 12,
-        "Vulpix": 32,
+        "Vulpix": 33,
         "Paras": 36,
         "Herdier": 54,
-        "Pineco": 29,
+        "Pineco": 30,
         "Chikorita": 44,
         "Woobat": 35,
         "Wobbuffet": 7,
@@ -479,7 +479,7 @@
         "Slowpoke": 45,
         "Dolliv": 36,
         "Infernape": 8,
-        "Carkol": 33,
+        "Carkol": 34,
         "Magikarp": 33,
         "Tyrogue": 32,
         "Vikavolt": 4,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31529,
-      "last_spawn": "2026-06-29T03:08:52.016659"
+      "total_spawns": 31533,
+      "last_spawn": "2026-06-29T03:09:30.287552"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38118,
+    "total_spawns": 38122,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
