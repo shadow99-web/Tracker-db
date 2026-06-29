@@ -58,7 +58,7 @@
         "Whismur": 159,
         "Monferno": 43,
         "Skwovet": 48,
-        "Bramblin": 190,
+        "Bramblin": 191,
         "Yanma": 38,
         "Larvesta": 51,
         "Beldum": 122,
@@ -362,7 +362,7 @@
         "Fearow": 10,
         "Mankey": 46,
         "Bidoof": 43,
-        "Quilava": 47,
+        "Quilava": 48,
         "Finizen": 166,
         "Unown y": 1,
         "Toucannon": 7,
@@ -404,7 +404,7 @@
         "Squawkabilly": 43,
         "Electrike": 40,
         "Drampa": 15,
-        "Maschiff": 162,
+        "Maschiff": 163,
         "Rufflet": 46,
         "Kabutops": 9,
         "Dondozo": 158,
@@ -495,7 +495,7 @@
         "Bayleef": 39,
         "Poochyena": 40,
         "Klinklang": 9,
-        "Basculin": 9,
+        "Basculin": 10,
         "Throh": 14,
         "Comfey": 7,
         "Applin": 49,
@@ -639,7 +639,7 @@
         "Latios": 1,
         "Silicobra": 35,
         "Snom": 36,
-        "East sea shellos": 14,
+        "East sea shellos": 15,
         "Corsola": 21,
         "Venomoth": 16,
         "Trumbeak": 38,
@@ -837,7 +837,7 @@
         "Ribombee": 9,
         "Alolan meowth": 1,
         "Klang": 42,
-        "Manectric": 12,
+        "Manectric": 13,
         "Gallade": 11,
         "Family of three maushold": 8,
         "Lunatone": 10,
@@ -852,7 +852,7 @@
         "Togedemaru": 8,
         "Minior": 8,
         "Mr. mime": 11,
-        "Chesnaught": 7,
+        "Chesnaught": 8,
         "Jumpluff": 8,
         "Heatmor": 4,
         "Dubwool": 8,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 37015,
-      "last_spawn": "2026-06-29T18:08:04.627319"
+      "total_spawns": 37022,
+      "last_spawn": "2026-06-29T18:08:40.000619"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1471,7 +1471,7 @@
         "Tentacruel": 1,
         "Exeggcute": 4,
         "Diglett": 4,
-        "Pidgey": 14,
+        "Pidgey": 15,
         "Gligar": 1,
         "Deino": 6,
         "Dolliv": 2,
@@ -1836,10 +1836,11 @@
         "Alolan dugtrio": 1,
         "Polteageist": 1,
         "Charmeleon": 1,
-        "East sea shellos": 1
+        "East sea shellos": 1,
+        "Combusken": 1
       },
-      "total_spawns": 2572,
-      "last_spawn": "2026-06-29T18:07:45.205791"
+      "total_spawns": 2574,
+      "last_spawn": "2026-06-29T18:08:25.107737"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1849,7 +1850,7 @@
     }
   },
   "global": {
-    "total_spawns": 43874,
+    "total_spawns": 43883,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
