@@ -1377,7 +1377,7 @@
         "Venipede": 9,
         "Maschiff": 12,
         "Sprigatito": 6,
-        "Toedscool": 12,
+        "Toedscool": 13,
         "Luxio": 4,
         "Fuecoco": 6,
         "Electrode": 1,
@@ -1461,7 +1461,7 @@
         "Grubbin": 9,
         "Clobbopus": 4,
         "Bounsweet": 13,
-        "Crawdaunt": 2,
+        "Crawdaunt": 3,
         "Hoppip": 10,
         "Shroodle": 3,
         "Fomantis": 2,
@@ -1484,7 +1484,7 @@
         "Bunnelby": 1,
         "Skiploom": 4,
         "Marshtomp": 2,
-        "Lechonk": 8,
+        "Lechonk": 9,
         "Roaming gimmighoul": 8,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1816,8 +1816,8 @@
         "Frillish": 1,
         "Mandibuzz": 1
       },
-      "total_spawns": 2395,
-      "last_spawn": "2026-06-29T15:19:59.862608"
+      "total_spawns": 2398,
+      "last_spawn": "2026-06-29T15:20:38.501114"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1827,7 +1827,7 @@
     }
   },
   "global": {
-    "total_spawns": 43570,
+    "total_spawns": 43573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
