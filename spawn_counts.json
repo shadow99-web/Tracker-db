@@ -41,7 +41,7 @@
         "Trapinch": 191,
         "Toedscool": 166,
         "Fletchling": 148,
-        "Skiploom": 47,
+        "Skiploom": 48,
         "Timburr": 175,
         "Dj rotom": 149,
         "Surskit": 54,
@@ -112,7 +112,7 @@
         "Sneasel": 38,
         "Bonsly": 10,
         "Horsea": 166,
-        "Frigibax": 161,
+        "Frigibax": 162,
         "Spheal": 201,
         "Swadloon": 52,
         "Flittle": 158,
@@ -250,7 +250,7 @@
         "Turtwig": 50,
         "Prinplup": 42,
         "Tinkatink": 173,
-        "Lechonk": 169,
+        "Lechonk": 170,
         "Kommo-o": 7,
         "Dewott": 43,
         "Arrokuda": 32,
@@ -335,7 +335,7 @@
         "Musharna": 9,
         "Bisharp": 16,
         "Chespin": 47,
-        "Sealeo": 44,
+        "Sealeo": 45,
         "Staryu": 37,
         "Samurott": 9,
         "Torchic": 67,
@@ -660,7 +660,7 @@
         "Bouffalant": 14,
         "Crabrawler": 45,
         "Budew": 8,
-        "Espathra": 38,
+        "Espathra": 39,
         "Vileplume": 9,
         "Kecleon": 7,
         "Sizzlipede": 32,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38198,
-      "last_spawn": "2026-06-29T19:47:29.997104"
+      "total_spawns": 38203,
+      "last_spawn": "2026-06-29T19:48:00.102550"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1855,7 +1855,7 @@
     }
   },
   "global": {
-    "total_spawns": 45077,
+    "total_spawns": 45082,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
