@@ -344,7 +344,7 @@
         "Charjabug": 31,
         "Capsakid": 132,
         "Revavroom": 37,
-        "Exploud": 13,
+        "Exploud": 14,
         "Deino": 82,
         "Wooper": 47,
         "Dwebble": 44,
@@ -410,7 +410,7 @@
         "Dondozo": 133,
         "Pansear": 37,
         "Cutiefly": 38,
-        "Peakychu": 114,
+        "Peakychu": 115,
         "Armarouge": 40,
         "Tyrantrum": 5,
         "Larvitar": 67,
@@ -533,7 +533,7 @@
         "Wormadam": 9,
         "Axew": 129,
         "Trevenant": 9,
-        "Trubbish": 30,
+        "Trubbish": 31,
         "Zorua": 26,
         "Archen": 41,
         "Oinkologne": 48,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32102,
-      "last_spawn": "2026-06-29T05:31:49.894935"
+      "total_spawns": 32105,
+      "last_spawn": "2026-06-29T05:32:20.097855"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38708,
+    "total_spawns": 38711,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
