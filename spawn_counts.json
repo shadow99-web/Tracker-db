@@ -92,7 +92,7 @@
         "Riolu": 34,
         "Exeggcute": 30,
         "Corphish": 31,
-        "Hoppip": 129,
+        "Hoppip": 130,
         "Sandslash": 8,
         "Kabuto": 44,
         "Scatterbug": 157,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 7,
         "Eelektross": 12,
         "Araquanid": 9,
-        "Kadabra": 34,
+        "Kadabra": 35,
         "Chandelure": 13,
         "Ponyta": 35,
         "Togekiss": 9,
@@ -885,7 +885,7 @@
         "Cloyster": 7,
         "Kingler": 13,
         "Alomomola": 4,
-        "White-striped basculin": 3,
+        "White-striped basculin": 4,
         "Ampharos": 8,
         "Whiscash": 5,
         "Heracross": 5,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32237,
-      "last_spawn": "2026-06-29T05:54:40.015739"
+      "total_spawns": 32240,
+      "last_spawn": "2026-06-29T05:55:19.854856"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38843,
+    "total_spawns": 38846,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
