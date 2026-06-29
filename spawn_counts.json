@@ -61,7 +61,7 @@
         "Bramblin": 161,
         "Yanma": 32,
         "Larvesta": 48,
-        "Beldum": 104,
+        "Beldum": 105,
         "Ducklett": 35,
         "Lokix": 34,
         "Glimmora": 45,
@@ -118,7 +118,7 @@
         "Flittle": 130,
         "Unfezant": 16,
         "Yamask": 37,
-        "Ralts": 122,
+        "Ralts": 123,
         "Solosis": 132,
         "Battle cyclizar": 57,
         "Togetic": 47,
@@ -213,7 +213,7 @@
         "Fidough": 98,
         "Noivern": 5,
         "Feraligatr": 8,
-        "Tynamo": 150,
+        "Tynamo": 151,
         "Orthworm": 145,
         "Marill": 36,
         "Joltik": 44,
@@ -239,7 +239,7 @@
         "Clobbopus": 36,
         "Omanyte": 34,
         "Galvantula": 10,
-        "Chansey": 20,
+        "Chansey": 21,
         "Shroodle": 148,
         "Duskull": 166,
         "Bergmite": 34,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32156,
-      "last_spawn": "2026-06-29T05:41:00.689138"
+      "total_spawns": 32160,
+      "last_spawn": "2026-06-29T05:41:39.835270"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38762,
+    "total_spawns": 38766,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
