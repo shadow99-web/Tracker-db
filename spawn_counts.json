@@ -24,7 +24,7 @@
         "Dedenne": 10,
         "Machop": 120,
         "Dudunsparce": 32,
-        "Gothita": 141,
+        "Gothita": 142,
         "Impidimp": 127,
         "Charmander": 66,
         "Morelull": 27,
@@ -112,14 +112,14 @@
         "Sneasel": 31,
         "Bonsly": 8,
         "Horsea": 138,
-        "Frigibax": 130,
+        "Frigibax": 131,
         "Spheal": 162,
         "Swadloon": 41,
         "Flittle": 128,
         "Unfezant": 16,
         "Yamask": 37,
         "Ralts": 122,
-        "Solosis": 130,
+        "Solosis": 131,
         "Battle cyclizar": 56,
         "Togetic": 47,
         "Palpitoad": 27,
@@ -261,7 +261,7 @@
         "Gligar": 44,
         "Tirtouga": 41,
         "Furret": 8,
-        "Nincada": 49,
+        "Nincada": 50,
         "Fennekin": 48,
         "Quaxwell": 21,
         "Vibrava": 45,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31852,
-      "last_spawn": "2026-06-29T04:49:10.026355"
+      "total_spawns": 31856,
+      "last_spawn": "2026-06-29T04:49:49.912675"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38443,
+    "total_spawns": 38447,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
