@@ -52,7 +52,7 @@
         "Grotle": 30,
         "Porygon": 156,
         "Zubat": 163,
-        "Vanillish": 42,
+        "Vanillish": 43,
         "Tadbulb": 175,
         "Magnemite": 156,
         "Whismur": 135,
@@ -76,7 +76,7 @@
         "Froslass": 13,
         "Tarountula": 143,
         "Hatterene": 12,
-        "Phantump": 44,
+        "Phantump": 45,
         "Duosion": 34,
         "Amaura": 36,
         "Gimmighoul": 137,
@@ -421,7 +421,7 @@
         "Delibird": 14,
         "Ride cyclizar": 49,
         "Gothorita": 36,
-        "Varoom": 147,
+        "Varoom": 148,
         "Yellow plumage squawkabilly": 38,
         "Centiskorch": 10,
         "Low key toxtricity": 7,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31876,
-      "last_spawn": "2026-06-29T04:53:19.910280"
+      "total_spawns": 31879,
+      "last_spawn": "2026-06-29T04:53:49.998395"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38467,
+    "total_spawns": 38470,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
