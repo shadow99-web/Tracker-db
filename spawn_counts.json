@@ -1274,7 +1274,7 @@
         "Scraggy": 3,
         "Mabosstiff": 6,
         "Lileep": 4,
-        "Cetoddle": 14,
+        "Cetoddle": 15,
         "Chespin": 2,
         "Naclstack": 6,
         "Ferrothorn": 2,
@@ -1406,7 +1406,7 @@
         "Finizen": 9,
         "Croconaw": 2,
         "Bronzor": 4,
-        "Eelektrik": 2,
+        "Eelektrik": 3,
         "Ledyba": 7,
         "Tyrunt": 6,
         "Braixen": 1,
@@ -1459,7 +1459,7 @@
         "Graveler": 5,
         "Drifloon": 3,
         "Makuhita": 3,
-        "Baltoy": 4,
+        "Baltoy": 5,
         "Nidoking": 1,
         "Tentacool": 5,
         "Servine": 7,
@@ -1864,10 +1864,11 @@
         "Dewgong": 1,
         "Azumarill": 1,
         "Meowstic": 1,
-        "Wormadam": 1
+        "Wormadam": 1,
+        "Raticate": 1
       },
-      "total_spawns": 2828,
-      "last_spawn": "2026-06-29T23:46:57.606393"
+      "total_spawns": 2832,
+      "last_spawn": "2026-06-29T23:47:37.507558"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1877,7 +1878,7 @@
     }
   },
   "global": {
-    "total_spawns": 45752,
+    "total_spawns": 45756,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
