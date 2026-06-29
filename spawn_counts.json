@@ -238,7 +238,7 @@
         "Clauncher": 38,
         "Clobbopus": 37,
         "Omanyte": 35,
-        "Galvantula": 10,
+        "Galvantula": 11,
         "Chansey": 21,
         "Shroodle": 150,
         "Duskull": 168,
@@ -521,7 +521,7 @@
         "Arctibax": 34,
         "Foongus": 39,
         "Pansage": 24,
-        "Cranidos": 40,
+        "Cranidos": 41,
         "Spewpa": 37,
         "Tyrunt": 36,
         "Garganacl": 4,
@@ -745,7 +745,7 @@
         "Kricketune": 15,
         "Nidoqueen": 6,
         "Hitmonchan": 4,
-        "Relicanth": 10,
+        "Relicanth": 11,
         "Klefki": 9,
         "Frogadier": 48,
         "Dewpider": 28,
@@ -1111,8 +1111,8 @@
         "Articuno": 1,
         "Garden vivillon": 1
       },
-      "total_spawns": 32317,
-      "last_spawn": "2026-06-29T06:08:59.996295"
+      "total_spawns": 32320,
+      "last_spawn": "2026-06-29T06:09:30.079607"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1809,7 +1809,7 @@
     }
   },
   "global": {
-    "total_spawns": 38923,
+    "total_spawns": 38926,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
