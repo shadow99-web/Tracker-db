@@ -93,7 +93,7 @@
         "Exeggcute": 33,
         "Corphish": 37,
         "Hoppip": 158,
-        "Sandslash": 9,
+        "Sandslash": 10,
         "Kabuto": 50,
         "Scatterbug": 187,
         "Pumpkaboo": 51,
@@ -304,7 +304,7 @@
         "Alolan exeggutor": 3,
         "Toxapex": 7,
         "Lileep": 44,
-        "Rolycoly": 167,
+        "Rolycoly": 168,
         "Bronzor": 59,
         "Dartrix": 52,
         "Yellow flower florges": 5,
@@ -430,7 +430,7 @@
         "Girafarig": 15,
         "Flaaffy": 34,
         "Pecharunt": 3,
-        "Feebas": 40,
+        "Feebas": 41,
         "Buneary": 45,
         "Zebstrika": 12,
         "Shuppet": 49,
@@ -566,7 +566,7 @@
         "Slowking": 15,
         "Lilligant": 16,
         "Rabsca": 43,
-        "Gulpin": 42,
+        "Gulpin": 43,
         "Crawdaunt": 9,
         "Magmortar": 12,
         "Palossand": 13,
@@ -650,7 +650,7 @@
         "Arbok": 8,
         "Stretchy tatsugiri": 62,
         "Mareanie": 42,
-        "Seadra": 28,
+        "Seadra": 29,
         "Beheeyem": 12,
         "Pinsir": 14,
         "Mothim": 10,
@@ -920,7 +920,7 @@
         "Pirouette meloetta": 2,
         "Sableye": 13,
         "Wynaut": 11,
-        "Hattrem": 30,
+        "Hattrem": 31,
         "Clefable": 8,
         "Serperior": 9,
         "Lycanroc": 18,
@@ -1056,7 +1056,7 @@
         "Alolan geodude": 6,
         "Iron bundle": 1,
         "Regieleki": 1,
-        "Heliolisk": 4,
+        "Heliolisk": 5,
         "Hisuian qwilfish": 2,
         "Obstagoon": 1,
         "Hisuian sneasel": 2,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 37930,
-      "last_spawn": "2026-06-29T19:25:04.213936"
+      "total_spawns": 37937,
+      "last_spawn": "2026-06-29T19:25:34.520014"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44809,
+    "total_spawns": 44816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
