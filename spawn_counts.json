@@ -240,7 +240,7 @@
         "Omanyte": 34,
         "Galvantula": 10,
         "Chansey": 21,
-        "Shroodle": 148,
+        "Shroodle": 149,
         "Duskull": 166,
         "Bergmite": 34,
         "Pignite": 39,
@@ -449,7 +449,7 @@
         "Bellibolt": 34,
         "Morgrem": 27,
         "Misdreavus": 33,
-        "Seviper": 9,
+        "Seviper": 10,
         "Scovillain": 35,
         "Sunkern": 30,
         "Drizzile": 32,
@@ -493,7 +493,7 @@
         "Magneton": 25,
         "Alakazam": 8,
         "Bayleef": 35,
-        "Poochyena": 34,
+        "Poochyena": 35,
         "Klinklang": 8,
         "Basculin": 7,
         "Throh": 11,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32166,
-      "last_spawn": "2026-06-29T05:42:39.976150"
+      "total_spawns": 32169,
+      "last_spawn": "2026-06-29T05:43:09.976944"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38772,
+    "total_spawns": 38775,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
