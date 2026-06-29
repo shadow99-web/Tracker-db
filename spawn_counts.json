@@ -25,7 +25,7 @@
         "Machop": 124,
         "Dudunsparce": 32,
         "Gothita": 145,
-        "Impidimp": 128,
+        "Impidimp": 129,
         "Charmander": 66,
         "Morelull": 28,
         "Abra": 155,
@@ -663,7 +663,7 @@
         "Espathra": 31,
         "Vileplume": 8,
         "Kecleon": 6,
-        "Sizzlipede": 26,
+        "Sizzlipede": 27,
         "White flower floette": 7,
         "Skeledirge": 13,
         "Amoonguss": 11,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32602,
-      "last_spawn": "2026-06-29T06:56:49.900504"
+      "total_spawns": 32604,
+      "last_spawn": "2026-06-29T06:57:20.056510"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39208,
+    "total_spawns": 39210,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
