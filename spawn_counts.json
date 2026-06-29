@@ -1163,7 +1163,7 @@
         "Shinx": 20,
         "Pikachu": 6,
         "Rhyhorn": 9,
-        "Tynamo": 16,
+        "Tynamo": 17,
         "Tandemaus": 10,
         "Smearguru": 12,
         "Magnemite": 15,
@@ -1218,7 +1218,7 @@
         "Whismur": 10,
         "Crabrawler": 3,
         "Mudkip": 2,
-        "Greavard": 22,
+        "Greavard": 23,
         "Axew": 13,
         "Ride cyclizar": 3,
         "Trapinch": 11,
@@ -1450,7 +1450,7 @@
         "Capsakid": 7,
         "Venonat": 4,
         "Popplio": 5,
-        "Glameow": 5,
+        "Glameow": 6,
         "Boldore": 2,
         "Emboar": 1,
         "Blue flower floette": 2,
@@ -1861,10 +1861,11 @@
         "Gothorita": 1,
         "Mime jr.": 1,
         "Zamazenta": 1,
-        "Dewgong": 1
+        "Dewgong": 1,
+        "Azumarill": 1
       },
-      "total_spawns": 2793,
-      "last_spawn": "2026-06-29T23:39:37.539728"
+      "total_spawns": 2797,
+      "last_spawn": "2026-06-29T23:40:27.674526"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1874,7 +1875,7 @@
     }
   },
   "global": {
-    "total_spawns": 45717,
+    "total_spawns": 45721,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
