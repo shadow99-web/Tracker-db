@@ -183,7 +183,7 @@
         "Espurr": 38,
         "Cottonee": 32,
         "Elgyem": 31,
-        "Luvdisc": 10,
+        "Luvdisc": 11,
         "Vigoroth": 43,
         "Skorupi": 38,
         "Pikachu": 39,
@@ -202,7 +202,7 @@
         "Scraggy": 39,
         "Rhydon": 37,
         "Silcoon": 39,
-        "Totodile": 46,
+        "Totodile": 47,
         "Dodrio": 10,
         "Cufant": 40,
         "Tympole": 153,
@@ -352,7 +352,7 @@
         "Darumaka": 38,
         "Arboliva": 8,
         "Ledyba": 39,
-        "Spritzee": 36,
+        "Spritzee": 37,
         "Swirlix": 34,
         "Aromatisse": 8,
         "Muk": 9,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31457,
-      "last_spawn": "2026-06-29T02:56:49.974076"
+      "total_spawns": 31460,
+      "last_spawn": "2026-06-29T02:57:20.216576"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38046,
+    "total_spawns": 38049,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
