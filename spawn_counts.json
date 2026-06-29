@@ -32,7 +32,7 @@
         "Sandile": 156,
         "Sandygast": 44,
         "Litwick": 178,
-        "Grubbin": 136,
+        "Grubbin": 137,
         "Escavalier": 13,
         "Dratini": 107,
         "Kilowattrel": 36,
@@ -74,7 +74,7 @@
         "Fomantis": 23,
         "Droopy tatsugiri": 59,
         "Froslass": 13,
-        "Tarountula": 146,
+        "Tarountula": 147,
         "Hatterene": 13,
         "Phantump": 46,
         "Duosion": 34,
@@ -322,7 +322,7 @@
         "Gossifleur": 49,
         "Oshawott": 49,
         "Murkrow": 34,
-        "Bellsprout": 155,
+        "Bellsprout": 156,
         "Mudbray": 43,
         "Dreepy": 133,
         "Tinkaton": 10,
@@ -401,7 +401,7 @@
         "Nosepass": 32,
         "Persian": 3,
         "Lopunny": 11,
-        "Squawkabilly": 34,
+        "Squawkabilly": 35,
         "Electrike": 35,
         "Drampa": 10,
         "Maschiff": 140,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32455,
-      "last_spawn": "2026-06-29T06:32:10.000003"
+      "total_spawns": 32459,
+      "last_spawn": "2026-06-29T06:32:50.146595"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39061,
+    "total_spawns": 39065,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
