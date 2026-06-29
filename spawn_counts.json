@@ -68,7 +68,7 @@
         "Starly": 150,
         "Tandemaus": 126,
         "Smoliv": 153,
-        "Gloom": 33,
+        "Gloom": 34,
         "Clefairy": 35,
         "Spinda": 9,
         "Fomantis": 23,
@@ -210,7 +210,7 @@
         "Aipom": 38,
         "Growlithe": 38,
         "Sewaddle": 153,
-        "Fidough": 96,
+        "Fidough": 97,
         "Noivern": 5,
         "Feraligatr": 8,
         "Tynamo": 148,
@@ -445,7 +445,7 @@
         "Plusle": 7,
         "Skrelp": 35,
         "Raticate": 27,
-        "Wugtrio": 30,
+        "Wugtrio": 31,
         "Bellibolt": 33,
         "Morgrem": 27,
         "Misdreavus": 33,
@@ -469,7 +469,7 @@
         "Shelgon": 26,
         "Buizel": 28,
         "Arctozolt": 12,
-        "Snorunt": 32,
+        "Snorunt": 33,
         "Bunnelby": 36,
         "Gulping cramorant": 3,
         "Simisear": 6,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 31915,
-      "last_spawn": "2026-06-29T05:00:01.425780"
+      "total_spawns": 31919,
+      "last_spawn": "2026-06-29T05:00:40.231080"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38519,
+    "total_spawns": 38523,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
