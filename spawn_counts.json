@@ -129,17 +129,17 @@
         "Zigzagoon": 46,
         "Weedle": 200,
         "Flamigo": 159,
-        "Lillipup": 162,
+        "Lillipup": 163,
         "Shinx": 189,
         "Bounsweet": 167,
         "Noibat": 39,
         "Toxicroak": 13,
-        "Charcadet": 184,
+        "Charcadet": 185,
         "Croconaw": 39,
         "Phanpy": 24,
         "Brambleghast": 53,
         "Pidgey": 194,
-        "Rhyhorn": 169,
+        "Rhyhorn": 170,
         "Sentret": 42,
         "Yungoos": 40,
         "Diglett": 52,
@@ -328,14 +328,14 @@
         "Tinkaton": 16,
         "Corviknight": 15,
         "Froakie": 51,
-        "Nymble": 147,
+        "Nymble": 148,
         "Ferrothorn": 9,
         "Servine": 44,
         "Blitzle": 35,
         "Musharna": 9,
         "Bisharp": 16,
         "Chespin": 47,
-        "Sealeo": 43,
+        "Sealeo": 44,
         "Staryu": 37,
         "Samurott": 9,
         "Torchic": 67,
@@ -970,7 +970,7 @@
         "Galarian farfetch'd": 3,
         "Alolan raichu": 2,
         "Tapu fini": 1,
-        "Minun": 10,
+        "Minun": 11,
         "Wo-chien": 1,
         "Octillery": 5,
         "Coalossal": 7,
@@ -1019,7 +1019,7 @@
         "Gyarados": 7,
         "Mightyena": 6,
         "Alcremie": 2,
-        "Sharpedo": 9,
+        "Sharpedo": 10,
         "Vanilla cream star sweet alcremie": 3,
         "Jirachi": 6,
         "Decidueye": 9,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 38020,
-      "last_spawn": "2026-06-29T19:32:30.307396"
+      "total_spawns": 38027,
+      "last_spawn": "2026-06-29T19:33:04.678595"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44899,
+    "total_spawns": 44906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
