@@ -106,7 +106,7 @@
         "Honedge": 142,
         "Wingull": 40,
         "Salamence": 5,
-        "Drakloak": 34,
+        "Drakloak": 35,
         "Chewtle": 36,
         "Scizor": 9,
         "Sneasel": 31,
@@ -152,7 +152,7 @@
         "Roggenrola": 159,
         "Pidove": 134,
         "Dragapult": 16,
-        "Rattata": 85,
+        "Rattata": 86,
         "Flapple": 14,
         "Aron": 150,
         "Boldore": 34,
@@ -381,7 +381,7 @@
         "Torracat": 35,
         "Hisuian zorua": 1,
         "Wooloo": 31,
-        "Drifloon": 32,
+        "Drifloon": 33,
         "Golbat": 36,
         "Swablu": 32,
         "Shellder": 31,
@@ -469,7 +469,7 @@
         "Shelgon": 26,
         "Buizel": 28,
         "Arctozolt": 12,
-        "Snorunt": 31,
+        "Snorunt": 32,
         "Bunnelby": 35,
         "Gulping cramorant": 3,
         "Simisear": 6,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31684,
-      "last_spawn": "2026-06-29T03:35:16.586423"
+      "total_spawns": 31688,
+      "last_spawn": "2026-06-29T03:35:49.955001"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38274,
+    "total_spawns": 38278,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
