@@ -6,7 +6,7 @@
         "Chimchar": 61,
         "Patrat": 39,
         "Mosslax": 111,
-        "Drilbur": 37,
+        "Drilbur": 38,
         "Pawmi": 144,
         "Electabuzz": 30,
         "Rellor": 142,
@@ -65,7 +65,7 @@
         "Ducklett": 36,
         "Lokix": 34,
         "Glimmora": 46,
-        "Starly": 153,
+        "Starly": 154,
         "Tandemaus": 127,
         "Smoliv": 155,
         "Gloom": 36,
@@ -410,7 +410,7 @@
         "Dondozo": 133,
         "Pansear": 38,
         "Cutiefly": 38,
-        "Peakychu": 116,
+        "Peakychu": 117,
         "Armarouge": 41,
         "Tyrantrum": 5,
         "Larvitar": 69,
@@ -939,7 +939,7 @@
         "Beautifly": 11,
         "Ting-lu": 1,
         "Hitmontop": 8,
-        "Munchlax": 11,
+        "Munchlax": 12,
         "Galarian ponyta": 3,
         "Hisuian goodra": 1,
         "Giratina": 2,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32623,
-      "last_spawn": "2026-06-29T07:00:40.033877"
+      "total_spawns": 32627,
+      "last_spawn": "2026-06-29T07:01:19.909333"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39229,
+    "total_spawns": 39233,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
