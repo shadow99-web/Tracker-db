@@ -9,7 +9,7 @@
         "Drilbur": 45,
         "Pawmi": 165,
         "Electabuzz": 34,
-        "Rellor": 161,
+        "Rellor": 162,
         "Sandy burmy": 20,
         "Wiglett": 167,
         "Bombirdier": 164,
@@ -162,7 +162,7 @@
         "Yamper": 40,
         "Tepig": 61,
         "Kirlia": 44,
-        "Piplup": 47,
+        "Piplup": 48,
         "Kakuna": 44,
         "Weepinbell": 34,
         "Klawf": 191,
@@ -269,7 +269,7 @@
         "Ceruledge": 44,
         "Houndour": 40,
         "Glimmet": 180,
-        "Goomy": 112,
+        "Goomy": 113,
         "Zapdos": 1,
         "Natu": 34,
         "Dhelmise": 10,
@@ -650,7 +650,7 @@
         "Arbok": 8,
         "Stretchy tatsugiri": 64,
         "Mareanie": 43,
-        "Seadra": 29,
+        "Seadra": 30,
         "Beheeyem": 12,
         "Pinsir": 15,
         "Mothim": 10,
@@ -684,7 +684,7 @@
         "Blaziken": 8,
         "Stantler": 37,
         "Butterfree": 10,
-        "Koffing": 44,
+        "Koffing": 45,
         "Floragato": 22,
         "Seel": 41,
         "Shiinotic": 14,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38456,
-      "last_spawn": "2026-06-29T20:09:34.438441"
+      "total_spawns": 38461,
+      "last_spawn": "2026-06-29T20:10:04.967025"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1863,7 +1863,7 @@
     }
   },
   "global": {
-    "total_spawns": 45395,
+    "total_spawns": 45400,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
