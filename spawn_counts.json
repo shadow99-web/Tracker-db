@@ -50,7 +50,7 @@
         "Greavard": 155,
         "Slugma": 48,
         "Grotle": 31,
-        "Porygon": 161,
+        "Porygon": 162,
         "Zubat": 165,
         "Vanillish": 43,
         "Tadbulb": 175,
@@ -145,7 +145,7 @@
         "Diglett": 43,
         "Doduo": 40,
         "Lairon": 41,
-        "Emboar": 7,
+        "Emboar": 8,
         "Deoxys": 2,
         "Dracovish": 11,
         "Bulbasaur": 44,
@@ -220,11 +220,11 @@
         "Politoed": 10,
         "Cyndaquil": 47,
         "Fuecoco": 55,
-        "Cyclizar": 57,
+        "Cyclizar": 58,
         "Magmar": 39,
         "Rillaboom": 13,
         "Ninetales": 14,
-        "Wattrel": 142,
+        "Wattrel": 143,
         "Snubbull": 39,
         "Spidops": 32,
         "Braixen": 33,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32407,
-      "last_spawn": "2026-06-29T06:24:11.555328"
+      "total_spawns": 32411,
+      "last_spawn": "2026-06-29T06:24:49.908418"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39013,
+    "total_spawns": 39017,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
