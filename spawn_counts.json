@@ -66,7 +66,7 @@
         "Lokix": 33,
         "Glimmora": 44,
         "Starly": 150,
-        "Tandemaus": 125,
+        "Tandemaus": 126,
         "Smoliv": 152,
         "Gloom": 33,
         "Clefairy": 35,
@@ -312,7 +312,7 @@
         "Flygon": 5,
         "Shellos": 24,
         "Jigglypuff": 40,
-        "Nacli": 120,
+        "Nacli": 121,
         "Munna": 31,
         "Pawniard": 31,
         "Prof tangrowth": 110,
@@ -707,7 +707,7 @@
         "Zoroark": 11,
         "Lucario": 4,
         "Crustle": 14,
-        "Combusken": 33,
+        "Combusken": 34,
         "Gourgeist": 12,
         "Durant": 5,
         "Grovyle": 35,
@@ -732,7 +732,7 @@
         "Walrein": 15,
         "Cinccino": 10,
         "Alolan sandshrew": 2,
-        "Azurill": 11,
+        "Azurill": 12,
         "Alolan rattata": 4,
         "Hippowdon": 8,
         "Lumineon": 12,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31797,
-      "last_spawn": "2026-06-29T04:39:49.997745"
+      "total_spawns": 31801,
+      "last_spawn": "2026-06-29T04:40:39.897005"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38387,
+    "total_spawns": 38391,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
