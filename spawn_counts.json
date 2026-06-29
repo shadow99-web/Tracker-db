@@ -122,7 +122,7 @@
         "Solosis": 132,
         "Battle cyclizar": 57,
         "Togetic": 47,
-        "Palpitoad": 27,
+        "Palpitoad": 28,
         "Pikipek": 161,
         "Teddiursa": 139,
         "Clamperl": 37,
@@ -1108,10 +1108,11 @@
         "Zeraora": 1,
         "Runerigus": 1,
         "Xerneas": 1,
-        "Articuno": 1
+        "Articuno": 1,
+        "Garden vivillon": 1
       },
-      "total_spawns": 32302,
-      "last_spawn": "2026-06-29T06:06:19.813895"
+      "total_spawns": 32304,
+      "last_spawn": "2026-06-29T06:06:49.840086"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1809,7 @@
     }
   },
   "global": {
-    "total_spawns": 38908,
+    "total_spawns": 38910,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
