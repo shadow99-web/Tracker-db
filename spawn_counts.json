@@ -1386,7 +1386,7 @@
         "Charmander": 3,
         "Shroomish": 2,
         "Finizen": 7,
-        "Croconaw": 1,
+        "Croconaw": 2,
         "Bronzor": 3,
         "Eelektrik": 1,
         "Ledyba": 5,
@@ -1716,7 +1716,7 @@
         "Krokorok": 1,
         "Litten": 1,
         "Hoothoot": 1,
-        "Pawmo": 2,
+        "Pawmo": 3,
         "Drapion": 1,
         "Venusaur": 1,
         "Poliwrath": 1,
@@ -1775,7 +1775,7 @@
         "Carnivine": 1,
         "Electrike": 1,
         "Houndour": 1,
-        "Gurdurr": 1,
+        "Gurdurr": 2,
         "Bidoof": 1,
         "Rowlet": 1,
         "Meditite": 1,
@@ -1786,10 +1786,11 @@
         "Galarian darumaka": 1,
         "Buizel": 1,
         "Wash rotom": 1,
-        "Weavile": 1
+        "Weavile": 1,
+        "Sneasel": 1
       },
-      "total_spawns": 2275,
-      "last_spawn": "2026-06-29T01:07:27.646410"
+      "total_spawns": 2279,
+      "last_spawn": "2026-06-29T01:08:07.908490"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1799,7 +1800,7 @@
     }
   },
   "global": {
-    "total_spawns": 37723,
+    "total_spawns": 37727,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
