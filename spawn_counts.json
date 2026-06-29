@@ -29,7 +29,7 @@
         "Charmander": 73,
         "Morelull": 39,
         "Abra": 181,
-        "Sandile": 184,
+        "Sandile": 185,
         "Sandygast": 48,
         "Litwick": 213,
         "Grubbin": 158,
@@ -124,7 +124,7 @@
         "Togetic": 55,
         "Palpitoad": 34,
         "Pikipek": 192,
-        "Teddiursa": 161,
+        "Teddiursa": 162,
         "Clamperl": 41,
         "Zigzagoon": 46,
         "Weedle": 200,
@@ -161,7 +161,7 @@
         "Spiritomb": 12,
         "Yamper": 40,
         "Tepig": 61,
-        "Kirlia": 43,
+        "Kirlia": 44,
         "Piplup": 47,
         "Kakuna": 44,
         "Weepinbell": 34,
@@ -373,7 +373,7 @@
         "Sinistea": 37,
         "Cubchoo": 33,
         "Hippopotas": 31,
-        "Spiky-eared pichu": 5,
+        "Spiky-eared pichu": 6,
         "Magearna": 1,
         "Mabosstiff": 41,
         "Squirtle": 64,
@@ -809,7 +809,7 @@
         "Salazzle": 10,
         "Pidgeot": 11,
         "Drapion": 8,
-        "Barbaracle": 10,
+        "Barbaracle": 11,
         "Okidogi": 4,
         "Tauros": 15,
         "Slurpuff": 10,
@@ -866,7 +866,7 @@
         "Charizard": 11,
         "Pincurchin": 15,
         "Dunsparce": 5,
-        "Lapras": 8,
+        "Lapras": 9,
         "Illumise": 10,
         "Scrafty": 8,
         "Swanna": 8,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38236,
-      "last_spawn": "2026-06-29T19:50:44.522966"
+      "total_spawns": 38242,
+      "last_spawn": "2026-06-29T19:51:14.774884"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1855,7 +1855,7 @@
     }
   },
   "global": {
-    "total_spawns": 45115,
+    "total_spawns": 45121,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
