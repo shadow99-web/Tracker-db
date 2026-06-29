@@ -1219,7 +1219,7 @@
         "Crabrawler": 3,
         "Mudkip": 2,
         "Greavard": 22,
-        "Axew": 12,
+        "Axew": 13,
         "Ride cyclizar": 3,
         "Trapinch": 10,
         "Smoliv": 10,
@@ -1438,7 +1438,7 @@
         "Skiddo": 4,
         "Spiritomb": 3,
         "Seadra": 2,
-        "Seedot": 11,
+        "Seedot": 12,
         "Snivy": 5,
         "Roselia": 5,
         "Totodile": 3,
@@ -1770,7 +1770,7 @@
         "Klefki": 1,
         "Haxorus": 1,
         "Slurpuff": 1,
-        "Rockruff": 2,
+        "Rockruff": 3,
         "Sliggoo": 2,
         "Spoink": 1,
         "Binacle": 3,
@@ -1858,10 +1858,11 @@
         "Reuniclus": 1,
         "Smoochum": 1,
         "Igglybuff": 1,
-        "Gothorita": 1
+        "Gothorita": 1,
+        "Mime jr.": 1
       },
-      "total_spawns": 2736,
-      "last_spawn": "2026-06-29T23:30:08.313017"
+      "total_spawns": 2740,
+      "last_spawn": "2026-06-29T23:30:47.814911"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1871,7 +1872,7 @@
     }
   },
   "global": {
-    "total_spawns": 45660,
+    "total_spawns": 45664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
