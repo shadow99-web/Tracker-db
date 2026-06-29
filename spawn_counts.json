@@ -1249,7 +1249,7 @@
         "Wailmer": 2,
         "Jangmo-o": 11,
         "Aron": 12,
-        "Kabuto": 3,
+        "Kabuto": 4,
         "Togetic": 5,
         "Sewaddle": 19,
         "Eevee": 3,
@@ -1407,7 +1407,7 @@
         "Croconaw": 2,
         "Bronzor": 4,
         "Eelektrik": 2,
-        "Ledyba": 6,
+        "Ledyba": 7,
         "Tyrunt": 6,
         "Braixen": 1,
         "Revavroom": 3,
@@ -1603,7 +1603,7 @@
         "Orange flower florges": 1,
         "Simisear": 1,
         "Milcery": 3,
-        "Petilil": 2,
+        "Petilil": 3,
         "Alomomola": 2,
         "Skorupi": 2,
         "Arrokuda": 2,
@@ -1859,10 +1859,11 @@
         "Smoochum": 1,
         "Igglybuff": 1,
         "Gothorita": 1,
-        "Mime jr.": 1
+        "Mime jr.": 1,
+        "Zamazenta": 1
       },
-      "total_spawns": 2755,
-      "last_spawn": "2026-06-29T23:33:17.696309"
+      "total_spawns": 2759,
+      "last_spawn": "2026-06-29T23:33:57.600825"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1872,7 +1873,7 @@
     }
   },
   "global": {
-    "total_spawns": 45679,
+    "total_spawns": 45683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
