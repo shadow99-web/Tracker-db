@@ -119,7 +119,7 @@
         "Unfezant": 16,
         "Yamask": 37,
         "Ralts": 122,
-        "Solosis": 129,
+        "Solosis": 130,
         "Battle cyclizar": 56,
         "Togetic": 47,
         "Palpitoad": 27,
@@ -188,7 +188,7 @@
         "Skorupi": 38,
         "Pikachu": 39,
         "Blue plumage squawkabilly": 24,
-        "Thwackey": 36,
+        "Thwackey": 37,
         "Dusk lycanroc": 5,
         "Sunny castform": 10,
         "Pidgeotto": 43,
@@ -250,7 +250,7 @@
         "Turtwig": 40,
         "Prinplup": 32,
         "Tinkatink": 142,
-        "Lechonk": 142,
+        "Lechonk": 143,
         "Kommo-o": 3,
         "Dewott": 34,
         "Arrokuda": 29,
@@ -692,7 +692,7 @@
         "Pyroar": 9,
         "Marshadow": 2,
         "Sliggoo": 17,
-        "Panpour": 33,
+        "Panpour": 34,
         "Tinkatuff": 29,
         "Bruxish": 6,
         "Corvisquire": 27,
@@ -1107,8 +1107,8 @@
         "Alolan dugtrio": 1,
         "Zeraora": 1
       },
-      "total_spawns": 31741,
-      "last_spawn": "2026-06-29T03:44:50.103554"
+      "total_spawns": 31745,
+      "last_spawn": "2026-06-29T03:45:29.852413"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1804,7 +1804,7 @@
     }
   },
   "global": {
-    "total_spawns": 38331,
+    "total_spawns": 38335,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
