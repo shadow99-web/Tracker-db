@@ -298,7 +298,7 @@
         "Pancham": 40,
         "Venipede": 154,
         "Cacturne": 11,
-        "Oddish": 158,
+        "Oddish": 159,
         "Dragalge": 10,
         "Iron thorns": 1,
         "Alolan exeggutor": 3,
@@ -641,7 +641,7 @@
         "Snom": 30,
         "East sea shellos": 14,
         "Corsola": 19,
-        "Venomoth": 14,
+        "Venomoth": 15,
         "Trumbeak": 35,
         "Aerodactyl": 6,
         "Igglybuff": 7,
@@ -654,7 +654,7 @@
         "Beheeyem": 8,
         "Pinsir": 14,
         "Mothim": 9,
-        "Whirlipede": 32,
+        "Whirlipede": 33,
         "Absol": 4,
         "Annihilape": 15,
         "Bouffalant": 11,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32202,
-      "last_spawn": "2026-06-29T05:48:49.843715"
+      "total_spawns": 32205,
+      "last_spawn": "2026-06-29T05:49:20.122225"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38808,
+    "total_spawns": 38811,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
