@@ -54,11 +54,11 @@
         "Zubat": 183,
         "Vanillish": 47,
         "Tadbulb": 195,
-        "Magnemite": 173,
+        "Magnemite": 174,
         "Whismur": 159,
         "Monferno": 43,
         "Skwovet": 48,
-        "Bramblin": 188,
+        "Bramblin": 189,
         "Yanma": 38,
         "Larvesta": 51,
         "Beldum": 122,
@@ -237,7 +237,7 @@
         "Summer deerling": 42,
         "Clauncher": 43,
         "Clobbopus": 42,
-        "Omanyte": 41,
+        "Omanyte": 42,
         "Galvantula": 11,
         "Chansey": 26,
         "Shroodle": 169,
@@ -249,13 +249,13 @@
         "Dachsbun": 34,
         "Turtwig": 48,
         "Prinplup": 41,
-        "Tinkatink": 166,
+        "Tinkatink": 167,
         "Lechonk": 166,
         "Kommo-o": 6,
         "Dewott": 41,
         "Arrokuda": 32,
         "Golett": 42,
-        "Vullaby": 34,
+        "Vullaby": 35,
         "Cetitan": 41,
         "Cubone": 39,
         "Gligar": 51,
@@ -650,7 +650,7 @@
         "Arbok": 6,
         "Stretchy tatsugiri": 61,
         "Mareanie": 42,
-        "Seadra": 27,
+        "Seadra": 28,
         "Beheeyem": 12,
         "Pinsir": 14,
         "Mothim": 10,
@@ -741,7 +741,7 @@
         "Ekans": 47,
         "Venonat": 36,
         "Pelipper": 13,
-        "Metapod": 35,
+        "Metapod": 36,
         "Kricketune": 15,
         "Nidoqueen": 8,
         "Hitmonchan": 5,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 36976,
-      "last_spawn": "2026-06-29T18:04:44.674796"
+      "total_spawns": 36983,
+      "last_spawn": "2026-06-29T18:05:20.058484"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1140,7 +1140,7 @@
         "Gothita": 19,
         "Gible": 13,
         "Larvesta": 5,
-        "Starly": 12,
+        "Starly": 13,
         "Varoom": 18,
         "Weedle": 15,
         "Chef dente": 10,
@@ -1417,7 +1417,7 @@
         "Caterpie": 7,
         "Dondozo": 14,
         "Tranquill": 5,
-        "Porygon": 12,
+        "Porygon": 13,
         "Wooloo": 6,
         "Oddish": 9,
         "Barraskewda": 1,
@@ -1838,8 +1838,8 @@
         "Charmeleon": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 2563,
-      "last_spawn": "2026-06-29T18:04:25.227800"
+      "total_spawns": 2565,
+      "last_spawn": "2026-06-29T18:05:08.140881"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1849,7 +1849,7 @@
     }
   },
   "global": {
-    "total_spawns": 43826,
+    "total_spawns": 43835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
