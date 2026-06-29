@@ -416,7 +416,7 @@
         "Larvitar": 69,
         "Tentacool": 29,
         "Volcanion": 1,
-        "Roaming gimmighoul": 110,
+        "Roaming gimmighoul": 111,
         "Summer sawsbuck": 12,
         "Delibird": 14,
         "Ride cyclizar": 50,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 8,
         "Medicham": 8,
         "Doublade": 34,
-        "Naclstack": 34,
+        "Naclstack": 35,
         "Claydol": 5,
         "Turtonator": 8,
         "Hitmonlee": 9,
@@ -743,7 +743,7 @@
         "Pelipper": 13,
         "Metapod": 30,
         "Kricketune": 15,
-        "Nidoqueen": 6,
+        "Nidoqueen": 7,
         "Hitmonchan": 4,
         "Relicanth": 11,
         "Klefki": 9,
@@ -924,7 +924,7 @@
         "Clefable": 7,
         "Serperior": 9,
         "Lycanroc": 14,
-        "Kingdra": 10,
+        "Kingdra": 11,
         "Farfetch'd": 12,
         "Unown l": 1,
         "Delphox": 9,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32525,
-      "last_spawn": "2026-06-29T06:43:49.936831"
+      "total_spawns": 32529,
+      "last_spawn": "2026-06-29T06:44:29.900741"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39131,
+    "total_spawns": 39135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
