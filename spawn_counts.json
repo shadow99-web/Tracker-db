@@ -1199,7 +1199,7 @@
         "Entei": 1,
         "Flaaffy": 4,
         "Pikipek": 10,
-        "Nacli": 8,
+        "Nacli": 9,
         "Grovyle": 1,
         "Wartortle": 4,
         "Amped toxtricity": 1,
@@ -1349,7 +1349,7 @@
         "Bellsprout": 10,
         "Lickitung": 5,
         "Minccino": 6,
-        "Togepi": 9,
+        "Togepi": 10,
         "Milotic": 1,
         "Plusle": 2,
         "Galarian corsola": 1,
@@ -1819,10 +1819,11 @@
         "Walrein": 1,
         "Golett": 1,
         "Hitmonlee": 1,
-        "Drakloak": 1
+        "Drakloak": 1,
+        "Corphish": 1
       },
-      "total_spawns": 2452,
-      "last_spawn": "2026-06-29T15:30:47.812703"
+      "total_spawns": 2455,
+      "last_spawn": "2026-06-29T15:31:27.877887"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1832,7 +1833,7 @@
     }
   },
   "global": {
-    "total_spawns": 43627,
+    "total_spawns": 43630,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
