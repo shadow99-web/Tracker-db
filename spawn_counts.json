@@ -5,7 +5,7 @@
       "counts": {
         "Chimchar": 60,
         "Patrat": 39,
-        "Mosslax": 108,
+        "Mosslax": 109,
         "Drilbur": 37,
         "Pawmi": 142,
         "Electabuzz": 29,
@@ -493,7 +493,7 @@
         "Magneton": 24,
         "Alakazam": 8,
         "Bayleef": 35,
-        "Poochyena": 33,
+        "Poochyena": 34,
         "Klinklang": 8,
         "Basculin": 7,
         "Throh": 11,
@@ -602,7 +602,7 @@
         "Walking wake": 2,
         "Yellow flower floette": 8,
         "Medicham": 8,
-        "Doublade": 33,
+        "Doublade": 34,
         "Naclstack": 32,
         "Claydol": 5,
         "Turtonator": 8,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31719,
-      "last_spawn": "2026-06-29T03:40:59.929347"
+      "total_spawns": 31722,
+      "last_spawn": "2026-06-29T03:41:30.551218"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38309,
+    "total_spawns": 38312,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
