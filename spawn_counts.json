@@ -1196,7 +1196,7 @@
         "Bergmite": 3,
         "Lairon": 3,
         "Impidimp": 16,
-        "Solosis": 10,
+        "Solosis": 11,
         "Brambleghast": 1,
         "Rellor": 11,
         "Nincada": 4,
@@ -1275,7 +1275,7 @@
         "Mabosstiff": 6,
         "Lileep": 4,
         "Cetoddle": 16,
-        "Chespin": 2,
+        "Chespin": 3,
         "Naclstack": 6,
         "Ferrothorn": 2,
         "Karrablast": 5,
@@ -1566,10 +1566,10 @@
         "Metapod": 4,
         "Sealeo": 6,
         "Wynaut": 1,
-        "Staravia": 2,
+        "Staravia": 3,
         "Spidops": 4,
         "Appletun": 2,
-        "Anorith": 5,
+        "Anorith": 6,
         "Carkol": 3,
         "Seaking": 2,
         "Quaxly": 6,
@@ -1868,8 +1868,8 @@
         "Raticate": 1,
         "Charjabug": 1
       },
-      "total_spawns": 2858,
-      "last_spawn": "2026-06-29T23:52:07.596722"
+      "total_spawns": 2862,
+      "last_spawn": "2026-06-29T23:52:47.554602"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1879,7 +1879,7 @@
     }
   },
   "global": {
-    "total_spawns": 45782,
+    "total_spawns": 45786,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
