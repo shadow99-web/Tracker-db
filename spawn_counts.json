@@ -59,7 +59,7 @@
         "Monferno": 37,
         "Skwovet": 40,
         "Bramblin": 159,
-        "Yanma": 31,
+        "Yanma": 32,
         "Larvesta": 48,
         "Beldum": 102,
         "Ducklett": 35,
@@ -103,7 +103,7 @@
         "Veluza": 159,
         "Barboach": 50,
         "Klink": 115,
-        "Honedge": 142,
+        "Honedge": 143,
         "Wingull": 40,
         "Salamence": 5,
         "Drakloak": 35,
@@ -1016,7 +1016,7 @@
         "Galarian slowking": 2,
         "Sceptile": 6,
         "Vanilla cream berry sweet alcremie": 1,
-        "Gyarados": 6,
+        "Gyarados": 7,
         "Mightyena": 5,
         "Alcremie": 2,
         "Sharpedo": 7,
@@ -1108,8 +1108,8 @@
         "Zeraora": 1,
         "Runerigus": 1
       },
-      "total_spawns": 31760,
-      "last_spawn": "2026-06-29T03:48:00.085701"
+      "total_spawns": 31763,
+      "last_spawn": "2026-06-29T04:33:59.834460"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1805,7 +1805,7 @@
     }
   },
   "global": {
-    "total_spawns": 38350,
+    "total_spawns": 38353,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
