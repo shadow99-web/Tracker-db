@@ -143,7 +143,7 @@
         "Sentret": 37,
         "Yungoos": 34,
         "Diglett": 43,
-        "Doduo": 36,
+        "Doduo": 37,
         "Lairon": 38,
         "Emboar": 7,
         "Deoxys": 2,
@@ -407,7 +407,7 @@
         "Maschiff": 136,
         "Rufflet": 39,
         "Kabutops": 9,
-        "Dondozo": 127,
+        "Dondozo": 128,
         "Pansear": 37,
         "Cutiefly": 36,
         "Peakychu": 109,
@@ -765,7 +765,7 @@
         "Gorebyss": 7,
         "Yanmega": 6,
         "Pawmo": 22,
-        "Finneon": 24,
+        "Finneon": 25,
         "Mamoswine": 12,
         "Drifblim": 8,
         "Meowscarada": 9,
@@ -779,7 +779,7 @@
         "Beedrill": 22,
         "Whimsicott": 11,
         "Wishiwashi": 12,
-        "Cofagrigus": 10,
+        "Cofagrigus": 11,
         "Camerupt": 12,
         "Castform": 13,
         "Weavile": 2,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31208,
-      "last_spawn": "2026-06-29T02:14:50.180398"
+      "total_spawns": 31212,
+      "last_spawn": "2026-06-29T02:15:30.104644"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1802,7 +1802,7 @@
     }
   },
   "global": {
-    "total_spawns": 37795,
+    "total_spawns": 37799,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
