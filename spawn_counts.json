@@ -229,7 +229,7 @@
         "Spidops": 32,
         "Braixen": 33,
         "Drowzee": 26,
-        "Blipbug": 139,
+        "Blipbug": 141,
         "Lampent": 43,
         "Petilil": 42,
         "Marshtomp": 39,
@@ -559,7 +559,7 @@
         "Kadabra": 35,
         "Chandelure": 13,
         "Ponyta": 35,
-        "Togekiss": 9,
+        "Togekiss": 10,
         "Braviary": 10,
         "Raboot": 40,
         "Golem": 8,
@@ -615,7 +615,7 @@
         "Magby": 13,
         "Wigglytuff": 7,
         "Venusaur": 13,
-        "Mismagius": 7,
+        "Mismagius": 8,
         "Fraxure": 29,
         "Talonflame": 10,
         "Kleavor": 12,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32271,
-      "last_spawn": "2026-06-29T06:00:39.992148"
+      "total_spawns": 32275,
+      "last_spawn": "2026-06-29T06:01:19.909420"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38877,
+    "total_spawns": 38881,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
