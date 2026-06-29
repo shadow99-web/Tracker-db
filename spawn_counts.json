@@ -118,7 +118,7 @@
         "Flittle": 158,
         "Unfezant": 17,
         "Yamask": 50,
-        "Ralts": 151,
+        "Ralts": 152,
         "Solosis": 163,
         "Battle cyclizar": 67,
         "Togetic": 55,
@@ -154,7 +154,7 @@
         "Dragapult": 17,
         "Rattata": 98,
         "Flapple": 17,
-        "Aron": 169,
+        "Aron": 170,
         "Boldore": 40,
         "Spinarak": 53,
         "Delcatty": 12,
@@ -369,7 +369,7 @@
         "Caterpie": 152,
         "Carvanha": 29,
         "Luxio": 41,
-        "Treecko": 60,
+        "Treecko": 61,
         "Sinistea": 37,
         "Cubchoo": 33,
         "Hippopotas": 31,
@@ -409,7 +409,7 @@
         "Kabutops": 9,
         "Dondozo": 166,
         "Pansear": 41,
-        "Cutiefly": 49,
+        "Cutiefly": 50,
         "Peakychu": 134,
         "Armarouge": 44,
         "Tyrantrum": 6,
@@ -456,7 +456,7 @@
         "Sunflora": 9,
         "Passimian": 15,
         "Iron moth": 2,
-        "Cherubi": 40,
+        "Cherubi": 41,
         "Cradily": 13,
         "Vulpix": 44,
         "Paras": 43,
@@ -603,7 +603,7 @@
         "Yellow flower floette": 8,
         "Medicham": 8,
         "Doublade": 41,
-        "Naclstack": 44,
+        "Naclstack": 45,
         "Claydol": 5,
         "Turtonator": 10,
         "Hitmonlee": 9,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38254,
-      "last_spawn": "2026-06-29T19:52:14.710270"
+      "total_spawns": 38260,
+      "last_spawn": "2026-06-29T19:52:44.508394"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1201,7 +1201,7 @@
         "Nincada": 4,
         "Wattrel": 12,
         "Entei": 1,
-        "Flaaffy": 4,
+        "Flaaffy": 5,
         "Pikipek": 13,
         "Nacli": 9,
         "Grovyle": 1,
@@ -1482,7 +1482,7 @@
         "Passimian": 2,
         "Shellos": 5,
         "Articuno": 1,
-        "Surskit": 4,
+        "Surskit": 5,
         "Combee": 2,
         "Flareon": 1,
         "Bunnelby": 1,
@@ -1842,10 +1842,11 @@
         "Charmeleon": 1,
         "East sea shellos": 1,
         "Combusken": 1,
-        "Morpeko": 1
+        "Morpeko": 1,
+        "Camerupt": 1
       },
-      "total_spawns": 2597,
-      "last_spawn": "2026-06-29T19:52:17.517279"
+      "total_spawns": 2600,
+      "last_spawn": "2026-06-29T19:52:48.078728"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1855,7 +1856,7 @@
     }
   },
   "global": {
-    "total_spawns": 45138,
+    "total_spawns": 45147,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
