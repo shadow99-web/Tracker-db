@@ -99,7 +99,7 @@
         "Pumpkaboo": 45,
         "Numel": 44,
         "Carracosta": 11,
-        "Smearguru": 116,
+        "Smearguru": 118,
         "Veluza": 160,
         "Barboach": 50,
         "Klink": 116,
@@ -213,7 +213,7 @@
         "Fidough": 98,
         "Noivern": 5,
         "Feraligatr": 8,
-        "Tynamo": 149,
+        "Tynamo": 150,
         "Orthworm": 143,
         "Marill": 36,
         "Joltik": 44,
@@ -1107,10 +1107,11 @@
         "Alolan dugtrio": 1,
         "Zeraora": 1,
         "Runerigus": 1,
-        "Xerneas": 1
+        "Xerneas": 1,
+        "Articuno": 1
       },
-      "total_spawns": 32068,
-      "last_spawn": "2026-06-29T05:26:00.103468"
+      "total_spawns": 32072,
+      "last_spawn": "2026-06-29T05:26:39.899785"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38674,
+    "total_spawns": 38678,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
