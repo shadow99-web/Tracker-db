@@ -223,7 +223,7 @@
         "Cyclizar": 55,
         "Magmar": 35,
         "Rillaboom": 12,
-        "Ninetales": 12,
+        "Ninetales": 13,
         "Wattrel": 139,
         "Snubbull": 37,
         "Spidops": 32,
@@ -241,7 +241,7 @@
         "Galvantula": 10,
         "Chansey": 20,
         "Shroodle": 145,
-        "Duskull": 163,
+        "Duskull": 164,
         "Bergmite": 33,
         "Pignite": 39,
         "Lurantis": 5,
@@ -792,7 +792,7 @@
         "Happiny": 5,
         "Matron trim furfrou": 1,
         "Gothitelle": 11,
-        "Dusclops": 25,
+        "Dusclops": 26,
         "Galarian yamask": 3,
         "Alolan golem": 1,
         "Dustox": 8,
@@ -846,7 +846,7 @@
         "Graveler": 37,
         "Carbink": 12,
         "Armaldo": 7,
-        "Grimmsnarl": 8,
+        "Grimmsnarl": 9,
         "Quagsire": 5,
         "Darkrai": 2,
         "Togedemaru": 8,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31339,
-      "last_spawn": "2026-06-29T02:36:40.068426"
+      "total_spawns": 31343,
+      "last_spawn": "2026-06-29T02:37:19.959558"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37928,
+    "total_spawns": 37932,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
