@@ -282,7 +282,7 @@
         "Crocalor": 36,
         "Cryogonal": 10,
         "Eternatus": 1,
-        "Gholdengo": 36,
+        "Gholdengo": 37,
         "Charmeleon": 22,
         "Dipplin": 5,
         "Cramorant": 8,
@@ -383,11 +383,11 @@
         "Wooloo": 31,
         "Drifloon": 31,
         "Golbat": 35,
-        "Swablu": 30,
+        "Swablu": 31,
         "Shellder": 31,
         "Crobat": 13,
         "Sandshrew": 39,
-        "Palafin": 29,
+        "Palafin": 30,
         "Maractus": 10,
         "Sigilyph": 13,
         "Unown m": 1,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31393,
-      "last_spawn": "2026-06-29T02:45:40.047005"
+      "total_spawns": 31396,
+      "last_spawn": "2026-06-29T02:46:10.109410"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 37982,
+    "total_spawns": 37985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
