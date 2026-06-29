@@ -1122,7 +1122,7 @@
         "Roggenrola": 13,
         "Armarouge": 4,
         "Gastly": 12,
-        "Scatterbug": 11,
+        "Scatterbug": 12,
         "Wurmple": 7,
         "Gothita": 19,
         "Gible": 12,
@@ -1142,7 +1142,7 @@
         "Dreepy": 13,
         "Bagon": 7,
         "Archen": 4,
-        "Shinx": 16,
+        "Shinx": 17,
         "Pikachu": 5,
         "Rhyhorn": 6,
         "Tynamo": 13,
@@ -1169,7 +1169,7 @@
         "Salazzle": 1,
         "Skitty": 6,
         "Fletchling": 10,
-        "Orthworm": 11,
+        "Orthworm": 12,
         "Woobat": 7,
         "Happiny": 2,
         "Squirtle": 5,
@@ -1788,10 +1788,11 @@
         "Wash rotom": 1,
         "Weavile": 1,
         "Sneasel": 1,
-        "Pa'u oricorio": 1
+        "Pa'u oricorio": 1,
+        "Sirfetch'd": 1
       },
-      "total_spawns": 2283,
-      "last_spawn": "2026-06-29T01:08:47.638364"
+      "total_spawns": 2287,
+      "last_spawn": "2026-06-29T01:09:27.572680"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1801,7 +1802,7 @@
     }
   },
   "global": {
-    "total_spawns": 37731,
+    "total_spawns": 37735,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
