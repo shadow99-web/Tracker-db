@@ -241,7 +241,7 @@
         "Galvantula": 11,
         "Chansey": 21,
         "Shroodle": 150,
-        "Duskull": 168,
+        "Duskull": 169,
         "Bergmite": 34,
         "Pignite": 39,
         "Lurantis": 5,
@@ -446,7 +446,7 @@
         "Skrelp": 35,
         "Raticate": 27,
         "Wugtrio": 33,
-        "Bellibolt": 34,
+        "Bellibolt": 35,
         "Morgrem": 27,
         "Misdreavus": 33,
         "Seviper": 10,
@@ -572,7 +572,7 @@
         "Palossand": 11,
         "Noice face eiscue": 3,
         "Electivire": 10,
-        "Cascoon": 40,
+        "Cascoon": 41,
         "Tentacruel": 7,
         "Nuzleaf": 33,
         "Scorbunny": 48,
@@ -1111,8 +1111,8 @@
         "Articuno": 1,
         "Garden vivillon": 1
       },
-      "total_spawns": 32327,
-      "last_spawn": "2026-06-29T06:10:40.000448"
+      "total_spawns": 32330,
+      "last_spawn": "2026-06-29T06:11:10.124296"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1809,7 +1809,7 @@
     }
   },
   "global": {
-    "total_spawns": 38933,
+    "total_spawns": 38936,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
