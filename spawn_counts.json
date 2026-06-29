@@ -124,7 +124,7 @@
         "Togetic": 47,
         "Palpitoad": 27,
         "Pikipek": 161,
-        "Teddiursa": 138,
+        "Teddiursa": 139,
         "Clamperl": 37,
         "Zigzagoon": 43,
         "Weedle": 167,
@@ -959,7 +959,7 @@
         "Dandy trim furfrou": 4,
         "Rapidash": 6,
         "Mawile": 10,
-        "Dusknoir": 10,
+        "Dusknoir": 11,
         "Sirfetch'd": 3,
         "Galarian darmanitan": 2,
         "Thundurus": 1,
@@ -1009,7 +1009,7 @@
         "Mow rotom": 2,
         "Partner eevee": 1,
         "Noctowl": 8,
-        "Vespiquen": 4,
+        "Vespiquen": 5,
         "Sandaconda": 6,
         "Blue flower florges": 1,
         "Zygarde": 1,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32257,
-      "last_spawn": "2026-06-29T05:58:20.012440"
+      "total_spawns": 32260,
+      "last_spawn": "2026-06-29T05:58:50.068504"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38863,
+    "total_spawns": 38866,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
