@@ -461,7 +461,7 @@
         "Vulpix": 34,
         "Paras": 37,
         "Herdier": 54,
-        "Pineco": 30,
+        "Pineco": 31,
         "Chikorita": 44,
         "Woobat": 36,
         "Wobbuffet": 7,
@@ -526,13 +526,13 @@
         "Tyrunt": 36,
         "Garganacl": 4,
         "Chinchou": 25,
-        "Maushold": 41,
+        "Maushold": 42,
         "Bastiodon": 6,
         "Floatzel": 7,
         "Accelgor": 8,
         "Wormadam": 11,
         "Axew": 129,
-        "Trevenant": 9,
+        "Trevenant": 10,
         "Trubbish": 31,
         "Zorua": 26,
         "Archen": 41,
@@ -654,7 +654,7 @@
         "Beheeyem": 8,
         "Pinsir": 14,
         "Mothim": 9,
-        "Whirlipede": 33,
+        "Whirlipede": 34,
         "Absol": 4,
         "Annihilape": 15,
         "Bouffalant": 11,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32278,
-      "last_spawn": "2026-06-29T06:01:50.105043"
+      "total_spawns": 32282,
+      "last_spawn": "2026-06-29T06:02:29.959173"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38884,
+    "total_spawns": 38888,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
