@@ -202,7 +202,7 @@
         "Scraggy": 51,
         "Rhydon": 44,
         "Silcoon": 46,
-        "Totodile": 57,
+        "Totodile": 58,
         "Dodrio": 11,
         "Cufant": 50,
         "Tympole": 184,
@@ -241,7 +241,7 @@
         "Galvantula": 11,
         "Chansey": 26,
         "Shroodle": 176,
-        "Duskull": 188,
+        "Duskull": 189,
         "Bergmite": 39,
         "Pignite": 41,
         "Lurantis": 6,
@@ -258,7 +258,7 @@
         "Vullaby": 36,
         "Cetitan": 42,
         "Cubone": 41,
-        "Gligar": 51,
+        "Gligar": 52,
         "Tirtouga": 45,
         "Furret": 11,
         "Nincada": 56,
@@ -267,7 +267,7 @@
         "Vibrava": 48,
         "Loudred": 53,
         "Ceruledge": 44,
-        "Houndour": 40,
+        "Houndour": 41,
         "Glimmet": 180,
         "Goomy": 113,
         "Zapdos": 1,
@@ -547,7 +547,7 @@
         "Kangaskhan": 9,
         "Krokorok": 41,
         "Dragonair": 32,
-        "Zweilous": 25,
+        "Zweilous": 26,
         "Karrablast": 38,
         "Shroomish": 48,
         "Snover": 31,
@@ -560,7 +560,7 @@
         "Chandelure": 14,
         "Ponyta": 39,
         "Togekiss": 14,
-        "Braviary": 11,
+        "Braviary": 12,
         "Raboot": 51,
         "Golem": 10,
         "Slowking": 16,
@@ -723,7 +723,7 @@
         "Zamazenta": 1,
         "Wellspring mask ogerpon": 1,
         "Cornerstone mask ogerpon": 1,
-        "Typhlosion": 14,
+        "Typhlosion": 15,
         "Ariados": 9,
         "Volbeat": 11,
         "Burmy": 16,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38482,
-      "last_spawn": "2026-06-29T20:11:44.564770"
+      "total_spawns": 38489,
+      "last_spawn": "2026-06-29T20:12:20.005339"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1863,7 +1863,7 @@
     }
   },
   "global": {
-    "total_spawns": 45421,
+    "total_spawns": 45428,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
