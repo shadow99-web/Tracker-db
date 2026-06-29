@@ -61,7 +61,7 @@
         "Bramblin": 196,
         "Yanma": 40,
         "Larvesta": 52,
-        "Beldum": 125,
+        "Beldum": 126,
         "Ducklett": 43,
         "Lokix": 43,
         "Glimmora": 48,
@@ -413,7 +413,7 @@
         "Peakychu": 134,
         "Armarouge": 44,
         "Tyrantrum": 6,
-        "Larvitar": 86,
+        "Larvitar": 87,
         "Tentacool": 35,
         "Volcanion": 1,
         "Roaming gimmighoul": 128,
@@ -421,7 +421,7 @@
         "Delibird": 14,
         "Ride cyclizar": 58,
         "Gothorita": 43,
-        "Varoom": 170,
+        "Varoom": 171,
         "Yellow plumage squawkabilly": 44,
         "Centiskorch": 11,
         "Low key toxtricity": 11,
@@ -496,7 +496,7 @@
         "Poochyena": 42,
         "Klinklang": 9,
         "Basculin": 10,
-        "Throh": 15,
+        "Throh": 16,
         "Comfey": 7,
         "Applin": 50,
         "Staraptor": 13,
@@ -670,7 +670,7 @@
         "Appletun": 7,
         "Krookodile": 19,
         "Primeape": 10,
-        "Grimer": 28,
+        "Grimer": 29,
         "Crabominable": 8,
         "Quaquaval": 11,
         "Sprigatito": 55,
@@ -703,7 +703,7 @@
         "Litten": 60,
         "Abomasnow": 12,
         "Espeon": 5,
-        "Hatenna": 155,
+        "Hatenna": 156,
         "Zoroark": 12,
         "Lucario": 5,
         "Crustle": 14,
@@ -963,7 +963,7 @@
         "Sirfetch'd": 3,
         "Galarian darmanitan": 2,
         "Thundurus": 1,
-        "Seismitoad": 12,
+        "Seismitoad": 13,
         "Komala": 11,
         "Reshiram": 1,
         "Azumarill": 6,
@@ -1123,8 +1123,8 @@
         "Xurkitree": 1,
         "Complete zygarde": 1
       },
-      "total_spawns": 38317,
-      "last_spawn": "2026-06-29T19:57:40.099622"
+      "total_spawns": 38324,
+      "last_spawn": "2026-06-29T19:58:14.417056"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1250,7 +1250,7 @@
         "Aron": 11,
         "Kabuto": 3,
         "Togetic": 5,
-        "Sewaddle": 16,
+        "Sewaddle": 17,
         "Eevee": 3,
         "Taillow": 2,
         "Pelipper": 2,
@@ -1512,7 +1512,7 @@
         "Swanna": 1,
         "Marill": 5,
         "Oshawott": 5,
-        "Cyclizar": 5,
+        "Cyclizar": 6,
         "Castform": 1,
         "Shelmet": 4,
         "Pyroar": 1,
@@ -1847,10 +1847,11 @@
         "Slugma": 1,
         "Kingambit": 1,
         "Enamorus": 1,
-        "Nidorina": 1
+        "Nidorina": 1,
+        "Psyduck": 1
       },
-      "total_spawns": 2619,
-      "last_spawn": "2026-06-29T19:57:17.649353"
+      "total_spawns": 2622,
+      "last_spawn": "2026-06-29T19:58:07.698129"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1860,7 +1861,7 @@
     }
   },
   "global": {
-    "total_spawns": 45223,
+    "total_spawns": 45233,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
