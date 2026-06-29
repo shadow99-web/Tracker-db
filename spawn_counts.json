@@ -91,7 +91,7 @@
         "Metang": 18,
         "Riolu": 33,
         "Exeggcute": 30,
-        "Corphish": 30,
+        "Corphish": 31,
         "Hoppip": 124,
         "Sandslash": 8,
         "Kabuto": 43,
@@ -209,7 +209,7 @@
         "Swellow": 10,
         "Aipom": 38,
         "Growlithe": 37,
-        "Sewaddle": 152,
+        "Sewaddle": 153,
         "Fidough": 95,
         "Noivern": 5,
         "Feraligatr": 8,
@@ -296,7 +296,7 @@
         "Ferroseed": 35,
         "Brionne": 25,
         "Pancham": 40,
-        "Venipede": 153,
+        "Venipede": 154,
         "Cacturne": 11,
         "Oddish": 157,
         "Dragalge": 10,
@@ -1106,8 +1106,8 @@
         "Hisuian arcanine": 1,
         "Alolan dugtrio": 1
       },
-      "total_spawns": 31544,
-      "last_spawn": "2026-06-29T03:11:19.919217"
+      "total_spawns": 31547,
+      "last_spawn": "2026-06-29T03:11:50.112582"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1803,7 +1803,7 @@
     }
   },
   "global": {
-    "total_spawns": 38133,
+    "total_spawns": 38136,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
