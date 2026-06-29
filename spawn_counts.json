@@ -1214,7 +1214,7 @@
         "Crabrawler": 3,
         "Mudkip": 2,
         "Greavard": 18,
-        "Axew": 11,
+        "Axew": 12,
         "Ride cyclizar": 3,
         "Trapinch": 8,
         "Smoliv": 10,
@@ -1398,7 +1398,7 @@
         "Mankey": 3,
         "Charmander": 4,
         "Shroomish": 2,
-        "Finizen": 7,
+        "Finizen": 8,
         "Croconaw": 2,
         "Bronzor": 4,
         "Eelektrik": 2,
@@ -1707,7 +1707,7 @@
         "Drifblim": 1,
         "Druddigon": 1,
         "Spewpa": 4,
-        "Silcoon": 1,
+        "Silcoon": 2,
         "Snorlax": 1,
         "Sunny castform": 1,
         "Dracovish": 1,
@@ -1826,10 +1826,11 @@
         "Unfezant": 1,
         "Magmar": 1,
         "Snubbull": 1,
-        "Galarian rapidash": 1
+        "Galarian rapidash": 1,
+        "Metang": 1
       },
-      "total_spawns": 2487,
-      "last_spawn": "2026-06-29T15:36:57.719745"
+      "total_spawns": 2491,
+      "last_spawn": "2026-06-29T15:37:37.876761"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1839,7 +1840,7 @@
     }
   },
   "global": {
-    "total_spawns": 43662,
+    "total_spawns": 43666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
