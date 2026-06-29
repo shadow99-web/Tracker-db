@@ -153,10 +153,10 @@
         "Pidove": 136,
         "Dragapult": 17,
         "Rattata": 87,
-        "Flapple": 14,
+        "Flapple": 15,
         "Aron": 153,
         "Boldore": 34,
-        "Spinarak": 46,
+        "Spinarak": 47,
         "Delcatty": 7,
         "Spiritomb": 8,
         "Yamper": 34,
@@ -175,7 +175,7 @@
         "Gible": 93,
         "Rookidee": 104,
         "Minccino": 48,
-        "Wurmple": 135,
+        "Wurmple": 136,
         "Binacle": 42,
         "Grafaiai": 34,
         "Quilladin": 34,
@@ -191,7 +191,7 @@
         "Thwackey": 37,
         "Dusk lycanroc": 5,
         "Sunny castform": 10,
-        "Pidgeotto": 45,
+        "Pidgeotto": 46,
         "Spearow": 48,
         "Helioptile": 30,
         "Hoothoot": 48,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32139,
-      "last_spawn": "2026-06-29T05:38:10.098886"
+      "total_spawns": 32143,
+      "last_spawn": "2026-06-29T05:38:50.010397"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38745,
+    "total_spawns": 38749,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
