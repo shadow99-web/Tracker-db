@@ -18,7 +18,7 @@
         "Tranquill": 37,
         "Psyduck": 29,
         "Rockruff": 39,
-        "Haunter": 43,
+        "Haunter": 44,
         "Tangela": 40,
         "Orbeetle": 10,
         "Dedenne": 10,
@@ -36,7 +36,7 @@
         "Escavalier": 13,
         "Dratini": 123,
         "Kilowattrel": 41,
-        "Lotad": 202,
+        "Lotad": 203,
         "Qwilfish": 12,
         "Trapinch": 190,
         "Toedscool": 164,
@@ -99,7 +99,7 @@
         "Pumpkaboo": 51,
         "Numel": 51,
         "Carracosta": 11,
-        "Smearguru": 139,
+        "Smearguru": 140,
         "Veluza": 184,
         "Barboach": 59,
         "Klink": 138,
@@ -170,7 +170,7 @@
         "Flareon": 12,
         "Gastly": 172,
         "Taillow": 37,
-        "Swinub": 180,
+        "Swinub": 181,
         "Inkay": 47,
         "Gible": 108,
         "Rookidee": 129,
@@ -360,9 +360,9 @@
         "Banette": 13,
         "Three-segment dudunsparce": 13,
         "Fearow": 10,
-        "Mankey": 46,
+        "Mankey": 47,
         "Bidoof": 43,
-        "Quilava": 49,
+        "Quilava": 50,
         "Finizen": 169,
         "Unown y": 1,
         "Toucannon": 7,
@@ -375,7 +375,7 @@
         "Hippopotas": 30,
         "Spiky-eared pichu": 5,
         "Magearna": 1,
-        "Mabosstiff": 39,
+        "Mabosstiff": 40,
         "Squirtle": 64,
         "Remoraid": 46,
         "Torracat": 44,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37757,
-      "last_spawn": "2026-06-29T19:10:20.239150"
+      "total_spawns": 37764,
+      "last_spawn": "2026-06-29T19:10:54.454533"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44636,
+    "total_spawns": 44643,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
