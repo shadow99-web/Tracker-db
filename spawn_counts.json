@@ -50,7 +50,7 @@
         "Greavard": 179,
         "Slugma": 52,
         "Grotle": 33,
-        "Porygon": 187,
+        "Porygon": 188,
         "Zubat": 189,
         "Vanillish": 49,
         "Tadbulb": 197,
@@ -83,7 +83,7 @@
         "Baltoy": 48,
         "Mareep": 166,
         "Garbodor": 10,
-        "Slakoth": 173,
+        "Slakoth": 174,
         "Togepi": 152,
         "Falinks": 10,
         "Tropius": 13,
@@ -119,7 +119,7 @@
         "Unfezant": 17,
         "Yamask": 49,
         "Ralts": 147,
-        "Solosis": 157,
+        "Solosis": 158,
         "Battle cyclizar": 65,
         "Togetic": 54,
         "Palpitoad": 34,
@@ -338,7 +338,7 @@
         "Sealeo": 43,
         "Staryu": 36,
         "Samurott": 9,
-        "Torchic": 66,
+        "Torchic": 67,
         "Sobble": 53,
         "Mudkip": 54,
         "Charjabug": 35,
@@ -730,7 +730,7 @@
         "Popplio": 39,
         "Mandibuzz": 9,
         "Walrein": 17,
-        "Cinccino": 13,
+        "Cinccino": 14,
         "Alolan sandshrew": 2,
         "Azurill": 14,
         "Alolan rattata": 4,
@@ -802,7 +802,7 @@
         "Unown i": 2,
         "Raichu": 7,
         "Mime jr.": 11,
-        "Voltorb": 30,
+        "Voltorb": 31,
         "Lickitung": 32,
         "Blue-striped basculin": 12,
         "Barraskewda": 4,
@@ -1118,10 +1118,10 @@
         "Ground arceus": 1,
         "Cresselia": 1,
         "Zenith marshadow": 1,
-        "Sinistcha": 1
+        "Sinistcha": 2
       },
-      "total_spawns": 37503,
-      "last_spawn": "2026-06-29T18:49:00.176064"
+      "total_spawns": 37510,
+      "last_spawn": "2026-06-29T18:49:34.496998"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1852,7 +1852,7 @@
     }
   },
   "global": {
-    "total_spawns": 44381,
+    "total_spawns": 44388,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
