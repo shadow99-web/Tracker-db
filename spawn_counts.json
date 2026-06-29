@@ -1326,7 +1326,7 @@
         "Nihilego": 1,
         "Slakoth": 10,
         "Marowak": 1,
-        "Sentret": 1,
+        "Sentret": 2,
         "Cottonee": 3,
         "Horsea": 11,
         "Doduo": 1,
@@ -1382,7 +1382,7 @@
         "Fuecoco": 6,
         "Electrode": 1,
         "Chandelure": 2,
-        "Wiglett": 11,
+        "Wiglett": 12,
         "Farigiraf": 2,
         "Zubat": 10,
         "Lotad": 5,
@@ -1411,7 +1411,7 @@
         "Vibrava": 2,
         "Slowbro": 1,
         "Yamask": 3,
-        "Tympole": 16,
+        "Tympole": 17,
         "Barboach": 3,
         "Carvanha": 2,
         "Caterpie": 7,
@@ -1824,10 +1824,11 @@
         "Clodsire": 1,
         "Snover": 1,
         "Unfezant": 1,
-        "Magmar": 1
+        "Magmar": 1,
+        "Snubbull": 1
       },
-      "total_spawns": 2470,
-      "last_spawn": "2026-06-29T15:34:07.560424"
+      "total_spawns": 2474,
+      "last_spawn": "2026-06-29T15:34:47.452218"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1837,7 +1838,7 @@
     }
   },
   "global": {
-    "total_spawns": 43645,
+    "total_spawns": 43649,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
