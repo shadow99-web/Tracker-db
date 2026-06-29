@@ -261,7 +261,7 @@
         "Gligar": 51,
         "Tirtouga": 45,
         "Furret": 11,
-        "Nincada": 55,
+        "Nincada": 56,
         "Fennekin": 52,
         "Quaxwell": 25,
         "Vibrava": 48,
@@ -296,7 +296,7 @@
         "Ferroseed": 37,
         "Brionne": 31,
         "Pancham": 44,
-        "Venipede": 173,
+        "Venipede": 174,
         "Cacturne": 13,
         "Oddish": 173,
         "Dragalge": 11,
@@ -404,7 +404,7 @@
         "Squawkabilly": 43,
         "Electrike": 40,
         "Drampa": 13,
-        "Maschiff": 159,
+        "Maschiff": 160,
         "Rufflet": 46,
         "Kabutops": 9,
         "Dondozo": 155,
@@ -513,7 +513,7 @@
         "Simipour": 10,
         "Goldeen": 40,
         "Nickit": 55,
-        "Ivysaur": 29,
+        "Ivysaur": 30,
         "Milcery": 40,
         "Gabite": 31,
         "Hariyama": 7,
@@ -597,7 +597,7 @@
         "Wartortle": 32,
         "Cetoddle": 156,
         "Kricketot": 43,
-        "Porygon-z": 11,
+        "Porygon-z": 12,
         "Conkeldurr": 11,
         "Walking wake": 2,
         "Yellow flower floette": 8,
@@ -703,7 +703,7 @@
         "Litten": 58,
         "Abomasnow": 11,
         "Espeon": 5,
-        "Hatenna": 148,
+        "Hatenna": 149,
         "Zoroark": 12,
         "Lucario": 5,
         "Crustle": 14,
@@ -1119,8 +1119,8 @@
         "Cresselia": 1,
         "Zenith marshadow": 1
       },
-      "total_spawns": 36526,
-      "last_spawn": "2026-06-29T10:35:05.298851"
+      "total_spawns": 36532,
+      "last_spawn": "2026-06-29T10:35:14.476020"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1680,7 +1680,7 @@
         "Goldeen": 1,
         "Pinsir": 1,
         "Bisharp": 2,
-        "Amaura": 2,
+        "Amaura": 3,
         "Weepinbell": 3,
         "Flutter mane": 1,
         "Blastoise": 1,
@@ -1807,8 +1807,8 @@
         "Prinplup": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 2326,
-      "last_spawn": "2026-06-29T10:29:43.900764"
+      "total_spawns": 2327,
+      "last_spawn": "2026-06-29T11:22:33.508678"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1818,7 +1818,7 @@
     }
   },
   "global": {
-    "total_spawns": 43139,
+    "total_spawns": 43146,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
