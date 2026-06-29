@@ -531,7 +531,7 @@
         "Floatzel": 7,
         "Accelgor": 8,
         "Wormadam": 11,
-        "Axew": 129,
+        "Axew": 130,
         "Trevenant": 10,
         "Trubbish": 32,
         "Zorua": 26,
@@ -556,7 +556,7 @@
         "Midnight lycanroc": 7,
         "Eelektross": 12,
         "Araquanid": 9,
-        "Kadabra": 35,
+        "Kadabra": 36,
         "Chandelure": 13,
         "Ponyta": 35,
         "Togekiss": 10,
@@ -684,7 +684,7 @@
         "Blaziken": 7,
         "Stantler": 34,
         "Butterfree": 8,
-        "Koffing": 37,
+        "Koffing": 38,
         "Floragato": 18,
         "Seel": 35,
         "Shiinotic": 9,
@@ -832,7 +832,7 @@
         "Lickilicky": 13,
         "Dragonite": 7,
         "High-speed flight configuration genesect": 1,
-        "Mantyke": 10,
+        "Mantyke": 11,
         "Arctovish": 9,
         "Ribombee": 8,
         "Alolan meowth": 1,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32396,
-      "last_spawn": "2026-06-29T06:22:19.902158"
+      "total_spawns": 32400,
+      "last_spawn": "2026-06-29T06:22:59.898926"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39002,
+    "total_spawns": 39006,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
