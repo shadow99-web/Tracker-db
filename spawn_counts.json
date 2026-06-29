@@ -25,7 +25,7 @@
         "Machop": 125,
         "Dudunsparce": 33,
         "Gothita": 145,
-        "Impidimp": 130,
+        "Impidimp": 131,
         "Charmander": 67,
         "Morelull": 28,
         "Abra": 156,
@@ -58,7 +58,7 @@
         "Whismur": 138,
         "Monferno": 38,
         "Skwovet": 42,
-        "Bramblin": 164,
+        "Bramblin": 165,
         "Yanma": 32,
         "Larvesta": 49,
         "Beldum": 108,
@@ -83,7 +83,7 @@
         "Baltoy": 41,
         "Mareep": 148,
         "Garbodor": 9,
-        "Slakoth": 151,
+        "Slakoth": 152,
         "Togepi": 138,
         "Falinks": 9,
         "Tropius": 9,
@@ -97,7 +97,7 @@
         "Kabuto": 44,
         "Scatterbug": 159,
         "Pumpkaboo": 45,
-        "Numel": 46,
+        "Numel": 47,
         "Carracosta": 11,
         "Smearguru": 121,
         "Veluza": 162,
@@ -139,7 +139,7 @@
         "Phanpy": 23,
         "Brambleghast": 44,
         "Pidgey": 172,
-        "Rhyhorn": 146,
+        "Rhyhorn": 147,
         "Sentret": 38,
         "Yungoos": 35,
         "Diglett": 44,
@@ -312,7 +312,7 @@
         "Flygon": 5,
         "Shellos": 28,
         "Jigglypuff": 42,
-        "Nacli": 124,
+        "Nacli": 125,
         "Munna": 32,
         "Pawniard": 31,
         "Prof tangrowth": 113,
@@ -479,7 +479,7 @@
         "Slowpoke": 46,
         "Dolliv": 39,
         "Infernape": 8,
-        "Carkol": 35,
+        "Carkol": 36,
         "Magikarp": 34,
         "Tyrogue": 33,
         "Vikavolt": 6,
@@ -694,7 +694,7 @@
         "Sliggoo": 18,
         "Panpour": 36,
         "Tinkatuff": 30,
-        "Bruxish": 6,
+        "Bruxish": 7,
         "Corvisquire": 28,
         "Mantine": 13,
         "Electrode": 7,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32873,
-      "last_spawn": "2026-06-29T07:58:40.023871"
+      "total_spawns": 32881,
+      "last_spawn": "2026-06-29T07:59:10.096358"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39481,
+    "total_spawns": 39489,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
