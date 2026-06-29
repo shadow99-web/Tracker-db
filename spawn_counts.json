@@ -99,7 +99,7 @@
         "Pumpkaboo": 45,
         "Numel": 45,
         "Carracosta": 11,
-        "Smearguru": 118,
+        "Smearguru": 119,
         "Veluza": 160,
         "Barboach": 51,
         "Klink": 116,
@@ -155,7 +155,7 @@
         "Rattata": 87,
         "Flapple": 15,
         "Aron": 153,
-        "Boldore": 34,
+        "Boldore": 35,
         "Spinarak": 47,
         "Delcatty": 7,
         "Spiritomb": 8,
@@ -398,7 +398,7 @@
         "Ursaluna": 11,
         "Furfrou": 10,
         "Sylveon": 5,
-        "Nosepass": 31,
+        "Nosepass": 32,
         "Persian": 3,
         "Lopunny": 11,
         "Squawkabilly": 34,
@@ -413,7 +413,7 @@
         "Peakychu": 115,
         "Armarouge": 40,
         "Tyrantrum": 5,
-        "Larvitar": 67,
+        "Larvitar": 68,
         "Tentacool": 29,
         "Volcanion": 1,
         "Roaming gimmighoul": 107,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32205,
-      "last_spawn": "2026-06-29T05:49:20.122225"
+      "total_spawns": 32209,
+      "last_spawn": "2026-06-29T05:50:00.362583"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38811,
+    "total_spawns": 38815,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
