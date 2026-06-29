@@ -12,7 +12,7 @@
         "Rellor": 140,
         "Sandy burmy": 19,
         "Wiglett": 134,
-        "Bombirdier": 134,
+        "Bombirdier": 135,
         "Litleo": 34,
         "Purrloin": 30,
         "Tranquill": 32,
@@ -250,7 +250,7 @@
         "Turtwig": 40,
         "Prinplup": 32,
         "Tinkatink": 144,
-        "Lechonk": 145,
+        "Lechonk": 146,
         "Kommo-o": 3,
         "Dewott": 35,
         "Arrokuda": 29,
@@ -324,7 +324,7 @@
         "Murkrow": 34,
         "Bellsprout": 153,
         "Mudbray": 43,
-        "Dreepy": 131,
+        "Dreepy": 132,
         "Tinkaton": 10,
         "Corviknight": 12,
         "Froakie": 45,
@@ -387,7 +387,7 @@
         "Shellder": 31,
         "Crobat": 14,
         "Sandshrew": 40,
-        "Palafin": 30,
+        "Palafin": 31,
         "Maractus": 10,
         "Sigilyph": 13,
         "Unown m": 1,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32098,
-      "last_spawn": "2026-06-29T05:31:10.315177"
+      "total_spawns": 32102,
+      "last_spawn": "2026-06-29T05:31:49.894935"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38704,
+    "total_spawns": 38708,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
