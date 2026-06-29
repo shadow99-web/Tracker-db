@@ -163,7 +163,7 @@
         "Tepig": 51,
         "Kirlia": 40,
         "Piplup": 36,
-        "Kakuna": 39,
+        "Kakuna": 40,
         "Weepinbell": 29,
         "Klawf": 160,
         "Vanillite": 140,
@@ -747,7 +747,7 @@
         "Hitmonchan": 4,
         "Relicanth": 10,
         "Klefki": 9,
-        "Frogadier": 47,
+        "Frogadier": 48,
         "Dewpider": 28,
         "Poltchageist": 10,
         "Incineroar": 8,
@@ -966,7 +966,7 @@
         "Seismitoad": 11,
         "Komala": 8,
         "Reshiram": 1,
-        "Azumarill": 4,
+        "Azumarill": 5,
         "Galarian farfetch'd": 2,
         "Alolan raichu": 2,
         "Tapu fini": 1,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32179,
-      "last_spawn": "2026-06-29T05:44:49.899846"
+      "total_spawns": 32182,
+      "last_spawn": "2026-06-29T05:45:19.917542"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38785,
+    "total_spawns": 38788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
