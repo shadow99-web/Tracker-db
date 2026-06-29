@@ -12,7 +12,7 @@
         "Rellor": 156,
         "Sandy burmy": 20,
         "Wiglett": 161,
-        "Bombirdier": 162,
+        "Bombirdier": 163,
         "Litleo": 38,
         "Purrloin": 39,
         "Tranquill": 37,
@@ -23,7 +23,7 @@
         "Orbeetle": 10,
         "Dedenne": 10,
         "Machop": 144,
-        "Dudunsparce": 37,
+        "Dudunsparce": 38,
         "Gothita": 164,
         "Impidimp": 155,
         "Charmander": 71,
@@ -31,7 +31,7 @@
         "Abra": 180,
         "Sandile": 179,
         "Sandygast": 48,
-        "Litwick": 207,
+        "Litwick": 209,
         "Grubbin": 149,
         "Escavalier": 13,
         "Dratini": 123,
@@ -275,7 +275,7 @@
         "Dhelmise": 10,
         "Bagon": 114,
         "Sudowoodo": 10,
-        "Stoutland": 11,
+        "Stoutland": 12,
         "Rowlet": 55,
         "Galarian slowpoke": 3,
         "Poliwhirl": 41,
@@ -363,7 +363,7 @@
         "Mankey": 46,
         "Bidoof": 43,
         "Quilava": 49,
-        "Finizen": 168,
+        "Finizen": 169,
         "Unown y": 1,
         "Toucannon": 7,
         "Caterpie": 149,
@@ -462,7 +462,7 @@
         "Paras": 41,
         "Herdier": 59,
         "Pineco": 36,
-        "Chikorita": 50,
+        "Chikorita": 51,
         "Woobat": 42,
         "Wobbuffet": 8,
         "Roselia": 33,
@@ -1121,8 +1121,8 @@
         "Sinistcha": 2,
         "Glide mode miraidon": 1
       },
-      "total_spawns": 37647,
-      "last_spawn": "2026-06-29T19:01:04.841365"
+      "total_spawns": 37654,
+      "last_spawn": "2026-06-29T19:01:39.876694"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1853,7 +1853,7 @@
     }
   },
   "global": {
-    "total_spawns": 44525,
+    "total_spawns": 44532,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
