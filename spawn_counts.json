@@ -75,7 +75,7 @@
         "Droopy tatsugiri": 59,
         "Froslass": 13,
         "Tarountula": 145,
-        "Hatterene": 12,
+        "Hatterene": 13,
         "Phantump": 46,
         "Duosion": 34,
         "Amaura": 37,
@@ -112,7 +112,7 @@
         "Sneasel": 32,
         "Bonsly": 8,
         "Horsea": 140,
-        "Frigibax": 133,
+        "Frigibax": 134,
         "Spheal": 167,
         "Swadloon": 41,
         "Flittle": 131,
@@ -276,7 +276,7 @@
         "Bagon": 94,
         "Sudowoodo": 7,
         "Stoutland": 10,
-        "Rowlet": 48,
+        "Rowlet": 49,
         "Galarian slowpoke": 3,
         "Poliwhirl": 37,
         "Crocalor": 36,
@@ -758,7 +758,7 @@
         "Haxorus": 9,
         "Jynx": 14,
         "Golisopod": 15,
-        "Greninja": 9,
+        "Greninja": 10,
         "Smoochum": 9,
         "Reuniclus": 10,
         "Smeargle": 12,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32381,
-      "last_spawn": "2026-06-29T06:19:50.343386"
+      "total_spawns": 32385,
+      "last_spawn": "2026-06-29T06:20:29.909237"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 38987,
+    "total_spawns": 38991,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
