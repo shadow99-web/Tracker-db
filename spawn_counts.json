@@ -62,7 +62,7 @@
         "Yanma": 32,
         "Larvesta": 49,
         "Beldum": 105,
-        "Ducklett": 35,
+        "Ducklett": 36,
         "Lokix": 34,
         "Glimmora": 45,
         "Starly": 153,
@@ -78,7 +78,7 @@
         "Hatterene": 12,
         "Phantump": 46,
         "Duosion": 34,
-        "Amaura": 36,
+        "Amaura": 37,
         "Gimmighoul": 139,
         "Baltoy": 40,
         "Mareep": 146,
@@ -240,7 +240,7 @@
         "Omanyte": 35,
         "Galvantula": 10,
         "Chansey": 21,
-        "Shroodle": 149,
+        "Shroodle": 150,
         "Duskull": 167,
         "Bergmite": 34,
         "Pignite": 39,
@@ -410,7 +410,7 @@
         "Dondozo": 133,
         "Pansear": 38,
         "Cutiefly": 38,
-        "Peakychu": 115,
+        "Peakychu": 116,
         "Armarouge": 40,
         "Tyrantrum": 5,
         "Larvitar": 68,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32267,
-      "last_spawn": "2026-06-29T06:00:05.053010"
+      "total_spawns": 32271,
+      "last_spawn": "2026-06-29T06:00:39.992148"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38873,
+    "total_spawns": 38877,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
