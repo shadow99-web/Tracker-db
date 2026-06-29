@@ -112,7 +112,7 @@
         "Sneasel": 31,
         "Bonsly": 8,
         "Horsea": 139,
-        "Frigibax": 131,
+        "Frigibax": 132,
         "Spheal": 164,
         "Swadloon": 41,
         "Flittle": 130,
@@ -252,7 +252,7 @@
         "Tinkatink": 144,
         "Lechonk": 147,
         "Kommo-o": 3,
-        "Dewott": 35,
+        "Dewott": 36,
         "Arrokuda": 29,
         "Golett": 37,
         "Vullaby": 29,
@@ -929,7 +929,7 @@
         "Unown l": 1,
         "Delphox": 9,
         "Rampardos": 5,
-        "Steelix": 6,
+        "Steelix": 7,
         "Excadrill": 8,
         "Druddigon": 9,
         "Honchkrow": 10,
@@ -1033,7 +1033,7 @@
         "Unown": 1,
         "Unown h": 1,
         "Galarian stunfisk": 2,
-        "Dugtrio": 5,
+        "Dugtrio": 6,
         "Jungle vivillon": 3,
         "Chimecho": 5,
         "River vivillon": 1,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32125,
-      "last_spawn": "2026-06-29T05:35:40.195072"
+      "total_spawns": 32129,
+      "last_spawn": "2026-06-29T05:36:19.874378"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38731,
+    "total_spawns": 38735,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
