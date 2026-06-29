@@ -40,7 +40,7 @@
         "Qwilfish": 9,
         "Trapinch": 161,
         "Toedscool": 134,
-        "Fletchling": 127,
+        "Fletchling": 128,
         "Skiploom": 41,
         "Timburr": 148,
         "Dj rotom": 133,
@@ -275,7 +275,7 @@
         "Dhelmise": 9,
         "Bagon": 94,
         "Sudowoodo": 7,
-        "Stoutland": 9,
+        "Stoutland": 10,
         "Rowlet": 47,
         "Galarian slowpoke": 3,
         "Poliwhirl": 36,
@@ -596,7 +596,7 @@
         "Dewgong": 11,
         "Wartortle": 29,
         "Cetoddle": 140,
-        "Kricketot": 32,
+        "Kricketot": 33,
         "Porygon-z": 10,
         "Conkeldurr": 11,
         "Walking wake": 2,
@@ -648,7 +648,7 @@
         "Archeops": 12,
         "Shiftry": 6,
         "Arbok": 6,
-        "Stretchy tatsugiri": 49,
+        "Stretchy tatsugiri": 50,
         "Mareanie": 36,
         "Seadra": 23,
         "Beheeyem": 8,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 31957,
-      "last_spawn": "2026-06-29T05:07:30.103874"
+      "total_spawns": 31961,
+      "last_spawn": "2026-06-29T05:08:10.005692"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38561,
+    "total_spawns": 38565,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
