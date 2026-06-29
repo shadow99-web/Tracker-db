@@ -1216,11 +1216,11 @@
         "Boltund": 1,
         "Lillipup": 11,
         "Ducklett": 4,
-        "Mareep": 9,
+        "Mareep": 10,
         "Tadbulb": 7,
         "Helioptile": 2,
         "Blitzle": 7,
-        "Pidove": 11,
+        "Pidove": 12,
         "Doublade": 1,
         "Quilava": 3,
         "Tarountula": 8,
@@ -1438,7 +1438,7 @@
         "Blue flower floette": 1,
         "Leafeon": 1,
         "Shellder": 2,
-        "Graveler": 3,
+        "Graveler": 4,
         "Drifloon": 2,
         "Makuhita": 3,
         "Baltoy": 2,
@@ -1673,7 +1673,7 @@
         "Blastoise": 1,
         "Piplup": 2,
         "Eiscue": 1,
-        "Volcarona": 1,
+        "Volcarona": 2,
         "Tangrowth": 1,
         "Quagsire": 2,
         "Yellow flower florges": 1,
@@ -1786,8 +1786,8 @@
         "Galarian darumaka": 1,
         "Buizel": 1
       },
-      "total_spawns": 2257,
-      "last_spawn": "2026-06-29T01:04:28.800378"
+      "total_spawns": 2261,
+      "last_spawn": "2026-06-29T01:05:07.469761"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1797,7 +1797,7 @@
     }
   },
   "global": {
-    "total_spawns": 37705,
+    "total_spawns": 37709,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
