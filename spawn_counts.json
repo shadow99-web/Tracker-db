@@ -92,7 +92,7 @@
         "Riolu": 34,
         "Exeggcute": 30,
         "Corphish": 31,
-        "Hoppip": 127,
+        "Hoppip": 128,
         "Sandslash": 8,
         "Kabuto": 44,
         "Scatterbug": 156,
@@ -175,11 +175,11 @@
         "Gible": 93,
         "Rookidee": 104,
         "Minccino": 48,
-        "Wurmple": 134,
+        "Wurmple": 135,
         "Binacle": 42,
         "Grafaiai": 33,
         "Quilladin": 34,
-        "Geodude": 156,
+        "Geodude": 157,
         "Espurr": 39,
         "Cottonee": 32,
         "Elgyem": 31,
@@ -509,7 +509,7 @@
         "Croagunk": 35,
         "Duraludon": 9,
         "Sawk": 9,
-        "Starmie": 16,
+        "Starmie": 17,
         "Simipour": 8,
         "Goldeen": 36,
         "Nickit": 49,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 32061,
-      "last_spawn": "2026-06-29T05:24:49.936094"
+      "total_spawns": 32065,
+      "last_spawn": "2026-06-29T05:25:30.100353"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38667,
+    "total_spawns": 38671,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
