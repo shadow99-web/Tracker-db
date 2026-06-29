@@ -55,7 +55,7 @@
         "Vanillish": 49,
         "Tadbulb": 205,
         "Magnemite": 177,
-        "Whismur": 167,
+        "Whismur": 168,
         "Monferno": 43,
         "Skwovet": 48,
         "Bramblin": 198,
@@ -123,7 +123,7 @@
         "Battle cyclizar": 67,
         "Togetic": 55,
         "Palpitoad": 34,
-        "Pikipek": 192,
+        "Pikipek": 193,
         "Teddiursa": 162,
         "Clamperl": 41,
         "Zigzagoon": 46,
@@ -296,7 +296,7 @@
         "Ferroseed": 37,
         "Brionne": 33,
         "Pancham": 45,
-        "Venipede": 180,
+        "Venipede": 181,
         "Cacturne": 13,
         "Oddish": 186,
         "Dragalge": 11,
@@ -316,7 +316,7 @@
         "Munna": 39,
         "Pawniard": 38,
         "Prof tangrowth": 127,
-        "Jangmo-o": 93,
+        "Jangmo-o": 94,
         "Trash wormadam": 13,
         "Quaxly": 62,
         "Gossifleur": 53,
@@ -421,7 +421,7 @@
         "Delibird": 15,
         "Ride cyclizar": 58,
         "Gothorita": 43,
-        "Varoom": 171,
+        "Varoom": 172,
         "Yellow plumage squawkabilly": 44,
         "Centiskorch": 11,
         "Low key toxtricity": 11,
@@ -810,7 +810,7 @@
         "Pidgeot": 11,
         "Drapion": 8,
         "Barbaracle": 11,
-        "Okidogi": 4,
+        "Okidogi": 5,
         "Tauros": 16,
         "Slurpuff": 10,
         "Umbreon": 3,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38495,
-      "last_spawn": "2026-06-29T20:12:50.032042"
+      "total_spawns": 38501,
+      "last_spawn": "2026-06-29T20:13:20.198783"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1421,7 +1421,7 @@
         "Carvanha": 2,
         "Caterpie": 7,
         "Dondozo": 14,
-        "Tranquill": 5,
+        "Tranquill": 6,
         "Porygon": 14,
         "Wooloo": 6,
         "Oddish": 9,
@@ -1468,7 +1468,7 @@
         "Bounsweet": 16,
         "Crawdaunt": 3,
         "Hoppip": 12,
-        "Shroodle": 4,
+        "Shroodle": 5,
         "Fomantis": 2,
         "Slowpoke": 2,
         "Shiinotic": 1,
@@ -1850,10 +1850,11 @@
         "Enamorus": 1,
         "Nidorina": 1,
         "Psyduck": 1,
-        "Kingdra": 1
+        "Kingdra": 1,
+        "Mienfoo": 1
       },
-      "total_spawns": 2652,
-      "last_spawn": "2026-06-29T20:05:35.159439"
+      "total_spawns": 2655,
+      "last_spawn": "2026-06-29T20:13:17.705131"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1863,7 +1864,7 @@
     }
   },
   "global": {
-    "total_spawns": 45434,
+    "total_spawns": 45443,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
