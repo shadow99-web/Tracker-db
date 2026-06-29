@@ -54,7 +54,7 @@
         "Zubat": 190,
         "Vanillish": 49,
         "Tadbulb": 204,
-        "Magnemite": 176,
+        "Magnemite": 177,
         "Whismur": 167,
         "Monferno": 43,
         "Skwovet": 48,
@@ -113,7 +113,7 @@
         "Bonsly": 10,
         "Horsea": 168,
         "Frigibax": 162,
-        "Spheal": 201,
+        "Spheal": 202,
         "Swadloon": 53,
         "Flittle": 159,
         "Unfezant": 17,
@@ -133,7 +133,7 @@
         "Shinx": 192,
         "Bounsweet": 170,
         "Noibat": 40,
-        "Toxicroak": 14,
+        "Toxicroak": 15,
         "Charcadet": 187,
         "Croconaw": 40,
         "Phanpy": 24,
@@ -150,7 +150,7 @@
         "Dracovish": 11,
         "Bulbasaur": 54,
         "Roggenrola": 191,
-        "Pidove": 161,
+        "Pidove": 162,
         "Dragapult": 17,
         "Rattata": 98,
         "Flapple": 17,
@@ -175,7 +175,7 @@
         "Gible": 111,
         "Rookidee": 132,
         "Minccino": 57,
-        "Wurmple": 158,
+        "Wurmple": 159,
         "Binacle": 51,
         "Grafaiai": 39,
         "Quilladin": 37,
@@ -683,7 +683,7 @@
         "Poliwrath": 12,
         "Blaziken": 8,
         "Stantler": 37,
-        "Butterfree": 9,
+        "Butterfree": 10,
         "Koffing": 44,
         "Floragato": 22,
         "Seel": 41,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38400,
-      "last_spawn": "2026-06-29T20:04:44.496780"
+      "total_spawns": 38406,
+      "last_spawn": "2026-06-29T20:05:14.699630"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1863,7 +1863,7 @@
     }
   },
   "global": {
-    "total_spawns": 45338,
+    "total_spawns": 45344,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
