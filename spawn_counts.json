@@ -34,7 +34,7 @@
         "Litwick": 178,
         "Grubbin": 133,
         "Escavalier": 13,
-        "Dratini": 104,
+        "Dratini": 105,
         "Kilowattrel": 36,
         "Lotad": 185,
         "Qwilfish": 9,
@@ -291,7 +291,7 @@
         "Bewear": 9,
         "Piloswine": 34,
         "Simisage": 9,
-        "Jellicent": 8,
+        "Jellicent": 9,
         "Torkoal": 11,
         "Ferroseed": 35,
         "Brionne": 25,
@@ -625,7 +625,7 @@
         "Gardevoir": 9,
         "Malamar": 12,
         "Frost rotom": 4,
-        "Tatsugiri": 52,
+        "Tatsugiri": 53,
         "Nidorino": 26,
         "Wailmer": 40,
         "Krabby": 35,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32275,
-      "last_spawn": "2026-06-29T06:01:19.909420"
+      "total_spawns": 32278,
+      "last_spawn": "2026-06-29T06:01:50.105043"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38881,
+    "total_spawns": 38884,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
