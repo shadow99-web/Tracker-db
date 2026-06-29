@@ -22,7 +22,7 @@
         "Tangela": 37,
         "Orbeetle": 8,
         "Dedenne": 10,
-        "Machop": 122,
+        "Machop": 123,
         "Dudunsparce": 32,
         "Gothita": 143,
         "Impidimp": 128,
@@ -43,7 +43,7 @@
         "Fletchling": 132,
         "Skiploom": 41,
         "Timburr": 151,
-        "Dj rotom": 134,
+        "Dj rotom": 135,
         "Surskit": 47,
         "Seedot": 136,
         "Skitty": 35,
@@ -203,7 +203,7 @@
         "Rhydon": 37,
         "Silcoon": 39,
         "Totodile": 48,
-        "Dodrio": 10,
+        "Dodrio": 11,
         "Cufant": 41,
         "Tympole": 153,
         "Swellow": 10,
@@ -561,7 +561,7 @@
         "Ponyta": 35,
         "Togekiss": 10,
         "Braviary": 10,
-        "Raboot": 40,
+        "Raboot": 41,
         "Golem": 8,
         "Slowking": 14,
         "Lilligant": 14,
@@ -1111,8 +1111,8 @@
         "Articuno": 1,
         "Garden vivillon": 1
       },
-      "total_spawns": 32330,
-      "last_spawn": "2026-06-29T06:11:10.124296"
+      "total_spawns": 32334,
+      "last_spawn": "2026-06-29T06:11:49.904575"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1809,7 +1809,7 @@
     }
   },
   "global": {
-    "total_spawns": 38936,
+    "total_spawns": 38940,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
