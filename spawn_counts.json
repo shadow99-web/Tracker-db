@@ -1334,7 +1334,7 @@
         "Crustle": 1,
         "Wooper": 1,
         "Crabominable": 1,
-        "Machop": 11,
+        "Machop": 12,
         "Onix": 4,
         "Lampent": 2,
         "East sea gastrodon": 1,
@@ -1390,7 +1390,7 @@
         "Omastar": 1,
         "Ralts": 5,
         "Clamperl": 3,
-        "Falinks": 1,
+        "Falinks": 2,
         "Tinkatuff": 4,
         "Ampharos": 1,
         "Goodra": 1,
@@ -1727,7 +1727,7 @@
         "Arctibax": 1,
         "Jigglypuff": 2,
         "Krokorok": 1,
-        "Litten": 1,
+        "Litten": 2,
         "Hoothoot": 1,
         "Pawmo": 3,
         "Drapion": 1,
@@ -1814,10 +1814,11 @@
         "Hypno": 1,
         "Dwebble": 1,
         "Frillish": 1,
-        "Mandibuzz": 1
+        "Mandibuzz": 1,
+        "Wigglytuff": 1
       },
-      "total_spawns": 2410,
-      "last_spawn": "2026-06-29T15:22:27.799460"
+      "total_spawns": 2414,
+      "last_spawn": "2026-06-29T15:23:07.486212"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1827,7 +1828,7 @@
     }
   },
   "global": {
-    "total_spawns": 43585,
+    "total_spawns": 43589,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
