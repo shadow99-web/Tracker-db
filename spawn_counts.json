@@ -43,7 +43,7 @@
         "Fletchling": 131,
         "Skiploom": 41,
         "Timburr": 151,
-        "Dj rotom": 133,
+        "Dj rotom": 134,
         "Surskit": 47,
         "Seedot": 136,
         "Skitty": 35,
@@ -68,7 +68,7 @@
         "Starly": 153,
         "Tandemaus": 127,
         "Smoliv": 154,
-        "Gloom": 34,
+        "Gloom": 35,
         "Clefairy": 35,
         "Spinda": 9,
         "Fomantis": 23,
@@ -170,7 +170,7 @@
         "Flareon": 12,
         "Gastly": 141,
         "Taillow": 31,
-        "Swinub": 150,
+        "Swinub": 151,
         "Inkay": 41,
         "Gible": 93,
         "Rookidee": 104,
@@ -236,7 +236,7 @@
         "Eiscue": 12,
         "Summer deerling": 36,
         "Clauncher": 38,
-        "Clobbopus": 36,
+        "Clobbopus": 37,
         "Omanyte": 35,
         "Galvantula": 10,
         "Chansey": 21,
@@ -1110,8 +1110,8 @@
         "Xerneas": 1,
         "Articuno": 1
       },
-      "total_spawns": 32263,
-      "last_spawn": "2026-06-29T05:59:20.222988"
+      "total_spawns": 32267,
+      "last_spawn": "2026-06-29T06:00:05.053010"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1808,7 +1808,7 @@
     }
   },
   "global": {
-    "total_spawns": 38869,
+    "total_spawns": 38873,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
