@@ -78,7 +78,7 @@
         "Hatterene": 13,
         "Phantump": 53,
         "Duosion": 40,
-        "Amaura": 48,
+        "Amaura": 49,
         "Gimmighoul": 171,
         "Baltoy": 48,
         "Mareep": 171,
@@ -162,7 +162,7 @@
         "Yamper": 40,
         "Tepig": 61,
         "Kirlia": 44,
-        "Piplup": 48,
+        "Piplup": 49,
         "Kakuna": 44,
         "Weepinbell": 34,
         "Klawf": 191,
@@ -275,7 +275,7 @@
         "Dhelmise": 10,
         "Bagon": 116,
         "Sudowoodo": 10,
-        "Stoutland": 12,
+        "Stoutland": 13,
         "Rowlet": 56,
         "Galarian slowpoke": 3,
         "Poliwhirl": 42,
@@ -392,7 +392,7 @@
         "Sigilyph": 16,
         "Unown m": 1,
         "Stufful": 37,
-        "Wailord": 9,
+        "Wailord": 10,
         "Makuhita": 47,
         "Lombre": 55,
         "Ursaluna": 12,
@@ -852,7 +852,7 @@
         "Togedemaru": 8,
         "Minior": 8,
         "Mr. mime": 11,
-        "Chesnaught": 8,
+        "Chesnaught": 9,
         "Jumpluff": 8,
         "Heatmor": 4,
         "Dubwool": 9,
@@ -908,7 +908,7 @@
         "Primarina": 9,
         "Unown x": 1,
         "Aggron": 9,
-        "Clawitzer": 14,
+        "Clawitzer": 15,
         "Leafeon": 16,
         "Ludicolo": 15,
         "Eldegoss": 7,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38553,
-      "last_spawn": "2026-06-29T20:17:39.905595"
+      "total_spawns": 38559,
+      "last_spawn": "2026-06-29T20:18:09.980761"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1864,7 +1864,7 @@
     }
   },
   "global": {
-    "total_spawns": 45510,
+    "total_spawns": 45516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
