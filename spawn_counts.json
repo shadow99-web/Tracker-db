@@ -1360,13 +1360,13 @@
         "Galarian corsola": 1,
         "Cryogonal": 1,
         "Typhlosion": 2,
-        "Honedge": 9,
+        "Honedge": 10,
         "Hisuian qwilfish": 1,
         "Torterra": 1,
         "Blipbug": 10,
         "Zen darmanitan": 1,
         "Duskull": 8,
-        "Vigoroth": 2,
+        "Vigoroth": 3,
         "Seviper": 2,
         "Goomy": 7,
         "Nickit": 2,
@@ -1855,10 +1855,11 @@
         "Budew": 1,
         "Bulbasaur": 1,
         "Scizor": 1,
-        "Reuniclus": 1
+        "Reuniclus": 1,
+        "Smoochum": 1
       },
-      "total_spawns": 2708,
-      "last_spawn": "2026-06-29T22:55:17.451464"
+      "total_spawns": 2711,
+      "last_spawn": "2026-06-29T22:55:47.608136"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1868,7 +1869,7 @@
     }
   },
   "global": {
-    "total_spawns": 45632,
+    "total_spawns": 45635,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
