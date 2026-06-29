@@ -53,7 +53,7 @@
         "Porygon": 189,
         "Zubat": 190,
         "Vanillish": 49,
-        "Tadbulb": 200,
+        "Tadbulb": 201,
         "Magnemite": 175,
         "Whismur": 164,
         "Monferno": 43,
@@ -63,7 +63,7 @@
         "Larvesta": 52,
         "Beldum": 124,
         "Ducklett": 42,
-        "Lokix": 41,
+        "Lokix": 42,
         "Glimmora": 48,
         "Starly": 177,
         "Tandemaus": 145,
@@ -99,14 +99,14 @@
         "Pumpkaboo": 51,
         "Numel": 51,
         "Carracosta": 11,
-        "Smearguru": 141,
+        "Smearguru": 142,
         "Veluza": 185,
         "Barboach": 59,
         "Klink": 138,
         "Honedge": 166,
         "Wingull": 47,
         "Salamence": 5,
-        "Drakloak": 41,
+        "Drakloak": 42,
         "Chewtle": 41,
         "Scizor": 10,
         "Sneasel": 38,
@@ -363,7 +363,7 @@
         "Mankey": 48,
         "Bidoof": 43,
         "Quilava": 50,
-        "Finizen": 170,
+        "Finizen": 171,
         "Unown y": 1,
         "Toucannon": 7,
         "Caterpie": 151,
@@ -707,7 +707,7 @@
         "Zoroark": 12,
         "Lucario": 5,
         "Crustle": 14,
-        "Combusken": 40,
+        "Combusken": 41,
         "Gourgeist": 12,
         "Durant": 5,
         "Grovyle": 43,
@@ -1122,8 +1122,8 @@
         "Glide mode miraidon": 1,
         "Xurkitree": 1
       },
-      "total_spawns": 37982,
-      "last_spawn": "2026-06-29T19:29:19.866825"
+      "total_spawns": 37988,
+      "last_spawn": "2026-06-29T19:29:50.314304"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1854,7 +1854,7 @@
     }
   },
   "global": {
-    "total_spawns": 44861,
+    "total_spawns": 44867,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
