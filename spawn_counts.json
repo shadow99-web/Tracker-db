@@ -1430,7 +1430,7 @@
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 3,
-        "Skiddo": 3,
+        "Skiddo": 4,
         "Spiritomb": 3,
         "Seadra": 1,
         "Seedot": 11,
@@ -1715,7 +1715,7 @@
         "Pincurchin": 1,
         "Murkrow": 2,
         "Ledian": 1,
-        "Fletchinder": 2,
+        "Fletchinder": 3,
         "Fennekin": 2,
         "Omanyte": 2,
         "Swampert": 1,
@@ -1821,10 +1821,12 @@
         "Hitmonlee": 1,
         "Drakloak": 1,
         "Corphish": 1,
-        "Clodsire": 1
+        "Clodsire": 1,
+        "Snover": 1,
+        "Unfezant": 1
       },
-      "total_spawns": 2459,
-      "last_spawn": "2026-06-29T15:32:08.000886"
+      "total_spawns": 2463,
+      "last_spawn": "2026-06-29T15:32:47.459575"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1834,7 +1836,7 @@
     }
   },
   "global": {
-    "total_spawns": 43634,
+    "total_spawns": 43638,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
