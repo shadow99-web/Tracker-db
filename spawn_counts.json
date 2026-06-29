@@ -102,7 +102,7 @@
         "Smearguru": 116,
         "Veluza": 160,
         "Barboach": 50,
-        "Klink": 115,
+        "Klink": 116,
         "Honedge": 143,
         "Wingull": 40,
         "Salamence": 5,
@@ -194,7 +194,7 @@
         "Pidgeotto": 44,
         "Spearow": 48,
         "Helioptile": 30,
-        "Hoothoot": 47,
+        "Hoothoot": 48,
         "Grookey": 49,
         "Meditite": 23,
         "Toedscruel": 45,
@@ -335,7 +335,7 @@
         "Musharna": 7,
         "Bisharp": 15,
         "Chespin": 41,
-        "Sealeo": 35,
+        "Sealeo": 36,
         "Staryu": 28,
         "Samurott": 9,
         "Torchic": 56,
@@ -1109,8 +1109,8 @@
         "Runerigus": 1,
         "Xerneas": 1
       },
-      "total_spawns": 32048,
-      "last_spawn": "2026-06-29T05:22:39.973289"
+      "total_spawns": 32051,
+      "last_spawn": "2026-06-29T05:23:10.181728"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1807,7 +1807,7 @@
     }
   },
   "global": {
-    "total_spawns": 38654,
+    "total_spawns": 38657,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
