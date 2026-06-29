@@ -34,7 +34,7 @@
         "Litwick": 178,
         "Grubbin": 136,
         "Escavalier": 13,
-        "Dratini": 106,
+        "Dratini": 107,
         "Kilowattrel": 36,
         "Lotad": 186,
         "Qwilfish": 9,
@@ -92,7 +92,7 @@
         "Riolu": 34,
         "Exeggcute": 30,
         "Corphish": 32,
-        "Hoppip": 130,
+        "Hoppip": 131,
         "Sandslash": 8,
         "Kabuto": 44,
         "Scatterbug": 157,
@@ -688,7 +688,7 @@
         "Floragato": 18,
         "Seel": 35,
         "Shiinotic": 9,
-        "Gumshoos": 8,
+        "Gumshoos": 9,
         "Pyroar": 10,
         "Marshadow": 2,
         "Sliggoo": 18,
@@ -934,7 +934,7 @@
         "Druddigon": 9,
         "Honchkrow": 10,
         "Pyukumuku": 7,
-        "Machoke": 31,
+        "Machoke": 32,
         "Sunshine cherrim": 6,
         "Beautifly": 11,
         "Ting-lu": 1,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32436,
-      "last_spawn": "2026-06-29T06:29:00.556420"
+      "total_spawns": 32440,
+      "last_spawn": "2026-06-29T06:29:39.916109"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39042,
+    "total_spawns": 39046,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
