@@ -1141,8 +1141,8 @@
         "Armarouge": 4,
         "Gastly": 14,
         "Scatterbug": 14,
-        "Wurmple": 8,
-        "Gothita": 20,
+        "Wurmple": 9,
+        "Gothita": 21,
         "Gible": 13,
         "Larvesta": 5,
         "Starly": 14,
@@ -1251,7 +1251,7 @@
         "Aron": 12,
         "Kabuto": 4,
         "Togetic": 5,
-        "Sewaddle": 19,
+        "Sewaddle": 20,
         "Eevee": 3,
         "Taillow": 2,
         "Pelipper": 2,
@@ -1860,10 +1860,11 @@
         "Igglybuff": 1,
         "Gothorita": 1,
         "Mime jr.": 1,
-        "Zamazenta": 1
+        "Zamazenta": 1,
+        "Dewgong": 1
       },
-      "total_spawns": 2778,
-      "last_spawn": "2026-06-29T23:37:07.576534"
+      "total_spawns": 2782,
+      "last_spawn": "2026-06-29T23:37:47.717014"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1873,7 +1874,7 @@
     }
   },
   "global": {
-    "total_spawns": 45702,
+    "total_spawns": 45706,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
