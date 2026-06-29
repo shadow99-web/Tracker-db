@@ -1195,7 +1195,7 @@
         "Blue plumage squawkabilly": 3,
         "Bergmite": 3,
         "Lairon": 3,
-        "Impidimp": 14,
+        "Impidimp": 15,
         "Solosis": 9,
         "Brambleghast": 1,
         "Rellor": 11,
@@ -1333,7 +1333,7 @@
         "Marowak": 1,
         "Sentret": 4,
         "Cottonee": 3,
-        "Horsea": 11,
+        "Horsea": 12,
         "Doduo": 2,
         "Ivysaur": 4,
         "Crustle": 1,
@@ -1853,10 +1853,12 @@
         "Kingdra": 1,
         "Mienfoo": 1,
         "Budew": 1,
-        "Bulbasaur": 1
+        "Bulbasaur": 1,
+        "Scizor": 1,
+        "Reuniclus": 1
       },
-      "total_spawns": 2697,
-      "last_spawn": "2026-06-29T22:53:27.549310"
+      "total_spawns": 2701,
+      "last_spawn": "2026-06-29T22:54:07.397492"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1866,7 +1868,7 @@
     }
   },
   "global": {
-    "total_spawns": 45621,
+    "total_spawns": 45625,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
