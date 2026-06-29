@@ -1179,7 +1179,7 @@
         "Frigibax": 18,
         "Meowth": 6,
         "Dj rotom": 10,
-        "Prof tangrowth": 13,
+        "Prof tangrowth": 14,
         "Charcadet": 21,
         "Furfrou": 3,
         "Slaking": 2,
@@ -1200,7 +1200,7 @@
         "Brambleghast": 1,
         "Rellor": 11,
         "Nincada": 4,
-        "Wattrel": 12,
+        "Wattrel": 13,
         "Entei": 1,
         "Flaaffy": 5,
         "Pikipek": 13,
@@ -1393,7 +1393,7 @@
         "Lotad": 7,
         "Sylveon": 2,
         "Omastar": 1,
-        "Ralts": 8,
+        "Ralts": 9,
         "Clamperl": 3,
         "Falinks": 2,
         "Tinkatuff": 4,
@@ -1856,10 +1856,11 @@
         "Bulbasaur": 1,
         "Scizor": 1,
         "Reuniclus": 1,
-        "Smoochum": 1
+        "Smoochum": 1,
+        "Igglybuff": 1
       },
-      "total_spawns": 2714,
-      "last_spawn": "2026-06-29T22:56:17.778541"
+      "total_spawns": 2718,
+      "last_spawn": "2026-06-29T22:56:57.472108"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1869,7 +1870,7 @@
     }
   },
   "global": {
-    "total_spawns": 45638,
+    "total_spawns": 45642,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
