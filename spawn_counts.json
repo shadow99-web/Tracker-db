@@ -144,7 +144,7 @@
         "Yungoos": 35,
         "Diglett": 43,
         "Doduo": 40,
-        "Lairon": 41,
+        "Lairon": 42,
         "Emboar": 8,
         "Deoxys": 2,
         "Dracovish": 11,
@@ -273,7 +273,7 @@
         "Zapdos": 1,
         "Natu": 27,
         "Dhelmise": 9,
-        "Bagon": 94,
+        "Bagon": 95,
         "Sudowoodo": 7,
         "Stoutland": 10,
         "Rowlet": 49,
@@ -447,7 +447,7 @@
         "Raticate": 28,
         "Wugtrio": 33,
         "Bellibolt": 35,
-        "Morgrem": 27,
+        "Morgrem": 28,
         "Misdreavus": 33,
         "Seviper": 10,
         "Scovillain": 35,
@@ -574,7 +574,7 @@
         "Electivire": 10,
         "Cascoon": 41,
         "Tentacruel": 7,
-        "Nuzleaf": 33,
+        "Nuzleaf": 34,
         "Scorbunny": 48,
         "Huntail": 12,
         "Galarian meowth": 3,
@@ -1112,8 +1112,8 @@
         "Garden vivillon": 1,
         "Flutter mane": 1
       },
-      "total_spawns": 32428,
-      "last_spawn": "2026-06-29T06:27:40.197072"
+      "total_spawns": 32432,
+      "last_spawn": "2026-06-29T06:28:20.005892"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1810,7 +1810,7 @@
     }
   },
   "global": {
-    "total_spawns": 39034,
+    "total_spawns": 39038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
