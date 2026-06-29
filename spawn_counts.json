@@ -1213,7 +1213,7 @@
         "Whismur": 9,
         "Crabrawler": 3,
         "Mudkip": 2,
-        "Greavard": 18,
+        "Greavard": 19,
         "Axew": 12,
         "Ride cyclizar": 3,
         "Trapinch": 8,
@@ -1346,10 +1346,10 @@
         "Staryu": 5,
         "Gallade": 1,
         "Rattata": 8,
-        "Bellsprout": 10,
+        "Bellsprout": 11,
         "Lickitung": 6,
         "Minccino": 6,
-        "Togepi": 10,
+        "Togepi": 11,
         "Milotic": 1,
         "Plusle": 2,
         "Galarian corsola": 1,
@@ -1507,7 +1507,7 @@
         "Ekans": 2,
         "Swanna": 1,
         "Marill": 5,
-        "Oshawott": 3,
+        "Oshawott": 4,
         "Cyclizar": 5,
         "Castform": 1,
         "Shelmet": 4,
@@ -1828,10 +1828,11 @@
         "Snubbull": 1,
         "Galarian rapidash": 1,
         "Metang": 1,
-        "Koffing": 1
+        "Koffing": 1,
+        "Dustox": 1
       },
-      "total_spawns": 2505,
-      "last_spawn": "2026-06-29T15:40:08.717561"
+      "total_spawns": 2510,
+      "last_spawn": "2026-06-29T15:40:47.703041"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1841,7 +1842,7 @@
     }
   },
   "global": {
-    "total_spawns": 43680,
+    "total_spawns": 43685,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
