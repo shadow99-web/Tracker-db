@@ -1272,7 +1272,7 @@
         "Silicobra": 3,
         "Dartrix": 2,
         "Scraggy": 3,
-        "Mabosstiff": 6,
+        "Mabosstiff": 7,
         "Lileep": 4,
         "Cetoddle": 16,
         "Chespin": 3,
@@ -1336,7 +1336,7 @@
         "Horsea": 15,
         "Doduo": 3,
         "Ivysaur": 5,
-        "Crustle": 1,
+        "Crustle": 2,
         "Wooper": 2,
         "Crabominable": 1,
         "Machop": 13,
@@ -1870,10 +1870,11 @@
         "Duraludon": 1,
         "Quaquaval": 1,
         "Family of three maushold": 1,
-        "Gourgeist": 1
+        "Gourgeist": 1,
+        "Toxapex": 1
       },
-      "total_spawns": 2924,
-      "last_spawn": "2026-06-30T01:12:47.503431"
+      "total_spawns": 2927,
+      "last_spawn": "2026-06-30T01:13:17.553424"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1883,7 +1884,7 @@
     }
   },
   "global": {
-    "total_spawns": 45848,
+    "total_spawns": 45851,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
