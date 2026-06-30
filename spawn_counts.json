@@ -66,7 +66,7 @@
         "Lokix": 45,
         "Glimmora": 48,
         "Starly": 181,
-        "Tandemaus": 149,
+        "Tandemaus": 150,
         "Smoliv": 195,
         "Gloom": 46,
         "Clefairy": 49,
@@ -219,7 +219,7 @@
         "Joltik": 52,
         "Politoed": 10,
         "Cyndaquil": 56,
-        "Fuecoco": 72,
+        "Fuecoco": 73,
         "Cyclizar": 65,
         "Magmar": 46,
         "Rillaboom": 16,
@@ -232,7 +232,7 @@
         "Blipbug": 173,
         "Lampent": 52,
         "Petilil": 53,
-        "Marshtomp": 49,
+        "Marshtomp": 50,
         "Eiscue": 15,
         "Summer deerling": 42,
         "Clauncher": 47,
@@ -249,7 +249,7 @@
         "Dachsbun": 37,
         "Turtwig": 52,
         "Prinplup": 43,
-        "Tinkatink": 178,
+        "Tinkatink": 179,
         "Lechonk": 172,
         "Kommo-o": 7,
         "Dewott": 46,
@@ -670,7 +670,7 @@
         "Appletun": 7,
         "Krookodile": 19,
         "Primeape": 11,
-        "Grimer": 30,
+        "Grimer": 31,
         "Crabominable": 8,
         "Quaquaval": 11,
         "Sprigatito": 56,
@@ -963,7 +963,7 @@
         "Sirfetch'd": 3,
         "Galarian darmanitan": 2,
         "Thundurus": 1,
-        "Seismitoad": 13,
+        "Seismitoad": 14,
         "Komala": 11,
         "Reshiram": 1,
         "Azumarill": 6,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38957,
-      "last_spawn": "2026-06-30T11:49:30.169585"
+      "total_spawns": 38963,
+      "last_spawn": "2026-06-30T11:50:01.980481"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1927,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 46820,
+    "total_spawns": 46826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
