@@ -1329,7 +1329,7 @@
         "Darkrai": 1,
         "Growlithe": 3,
         "Nihilego": 1,
-        "Slakoth": 11,
+        "Slakoth": 12,
         "Marowak": 1,
         "Sentret": 6,
         "Cottonee": 3,
@@ -1825,7 +1825,7 @@
         "Golett": 2,
         "Hitmonlee": 1,
         "Drakloak": 2,
-        "Corphish": 1,
+        "Corphish": 2,
         "Clodsire": 2,
         "Snover": 1,
         "Unfezant": 1,
@@ -1873,10 +1873,11 @@
         "Gourgeist": 1,
         "Toxapex": 1,
         "Burmy": 1,
-        "Sunflora": 1
+        "Sunflora": 1,
+        "Magnezone": 1
       },
-      "total_spawns": 2938,
-      "last_spawn": "2026-06-30T01:16:07.698089"
+      "total_spawns": 2941,
+      "last_spawn": "2026-06-30T01:16:37.701335"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1886,7 +1887,7 @@
     }
   },
   "global": {
-    "total_spawns": 45862,
+    "total_spawns": 45865,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
