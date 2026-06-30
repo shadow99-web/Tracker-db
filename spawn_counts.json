@@ -1145,7 +1145,7 @@
         "Gothita": 23,
         "Gible": 15,
         "Larvesta": 5,
-        "Starly": 15,
+        "Starly": 16,
         "Varoom": 24,
         "Weedle": 18,
         "Chef dente": 13,
@@ -1333,7 +1333,7 @@
         "Marowak": 2,
         "Sentret": 10,
         "Cottonee": 3,
-        "Horsea": 16,
+        "Horsea": 17,
         "Doduo": 3,
         "Ivysaur": 5,
         "Crustle": 2,
@@ -1351,10 +1351,10 @@
         "Staryu": 5,
         "Gallade": 1,
         "Rattata": 11,
-        "Bellsprout": 15,
+        "Bellsprout": 16,
         "Lickitung": 6,
         "Minccino": 8,
-        "Togepi": 12,
+        "Togepi": 13,
         "Milotic": 1,
         "Plusle": 3,
         "Galarian corsola": 1,
@@ -1799,7 +1799,7 @@
         "Meditite": 3,
         "Pyukumuku": 1,
         "Hatterene": 1,
-        "Numel": 2,
+        "Numel": 3,
         "Blaziken": 1,
         "Galarian darumaka": 1,
         "Buizel": 6,
@@ -1833,7 +1833,7 @@
         "Snubbull": 1,
         "Galarian rapidash": 1,
         "Metang": 2,
-        "Koffing": 2,
+        "Koffing": 3,
         "Dustox": 1,
         "Jellicent": 1,
         "Luxray": 2,
@@ -1909,10 +1909,11 @@
         "Sudowoodo": 1,
         "Turtonator": 1,
         "Altaria": 1,
-        "Copperajah": 1
+        "Copperajah": 1,
+        "Grotle": 1
       },
-      "total_spawns": 3537,
-      "last_spawn": "2026-06-30T07:10:08.745157"
+      "total_spawns": 3544,
+      "last_spawn": "2026-06-30T07:10:43.661021"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1922,7 +1923,7 @@
     }
   },
   "global": {
-    "total_spawns": 46461,
+    "total_spawns": 46468,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
