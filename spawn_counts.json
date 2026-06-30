@@ -1140,7 +1140,7 @@
         "Roggenrola": 17,
         "Armarouge": 4,
         "Gastly": 14,
-        "Scatterbug": 14,
+        "Scatterbug": 15,
         "Wurmple": 10,
         "Gothita": 21,
         "Gible": 14,
@@ -1400,7 +1400,7 @@
         "Ampharos": 1,
         "Goodra": 2,
         "Klink": 6,
-        "Mankey": 3,
+        "Mankey": 4,
         "Charmander": 5,
         "Shroomish": 3,
         "Finizen": 9,
@@ -1580,7 +1580,7 @@
         "Cubone": 2,
         "Stantler": 5,
         "Rufflet": 1,
-        "Klang": 1,
+        "Klang": 2,
         "Drilbur": 2,
         "Mismagius": 1,
         "Bonsly": 2,
@@ -1596,7 +1596,7 @@
         "Oinkologne": 2,
         "Dragonair": 2,
         "Hippopotas": 2,
-        "Nymble": 12,
+        "Nymble": 13,
         "Phanpy": 3,
         "Scyther": 3,
         "Drizzile": 2,
@@ -1872,8 +1872,8 @@
         "Family of three maushold": 1,
         "Gourgeist": 1
       },
-      "total_spawns": 2915,
-      "last_spawn": "2026-06-30T01:09:37.905447"
+      "total_spawns": 2919,
+      "last_spawn": "2026-06-30T01:10:17.490915"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1883,7 +1883,7 @@
     }
   },
   "global": {
-    "total_spawns": 45839,
+    "total_spawns": 45843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
