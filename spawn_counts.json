@@ -1388,7 +1388,7 @@
         "Electrode": 1,
         "Chandelure": 3,
         "Wiglett": 14,
-        "Farigiraf": 2,
+        "Farigiraf": 3,
         "Zubat": 13,
         "Lotad": 7,
         "Sylveon": 2,
@@ -1472,7 +1472,7 @@
         "Fomantis": 3,
         "Slowpoke": 2,
         "Shiinotic": 1,
-        "Lokix": 3,
+        "Lokix": 4,
         "Tentacruel": 2,
         "Exeggcute": 4,
         "Diglett": 6,
@@ -1883,10 +1883,11 @@
         "Stoutland": 1,
         "Manectric": 1,
         "Yungoos": 1,
-        "Seel": 1
+        "Seel": 1,
+        "Gyarados": 1
       },
-      "total_spawns": 3091,
-      "last_spawn": "2026-06-30T01:56:05.415664"
+      "total_spawns": 3094,
+      "last_spawn": "2026-06-30T01:56:42.683099"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1896,7 +1897,7 @@
     }
   },
   "global": {
-    "total_spawns": 46015,
+    "total_spawns": 46018,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
