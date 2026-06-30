@@ -1289,7 +1289,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 1,
         "Vikavolt": 1,
-        "Peakychu": 19,
+        "Peakychu": 20,
         "Absol": 3,
         "Inteleon": 5,
         "Mimikyu": 1,
@@ -1521,7 +1521,7 @@
         "Pansear": 1,
         "Spheal": 9,
         "Espurr": 2,
-        "Poliwag": 16,
+        "Poliwag": 17,
         "Finneon": 4,
         "Starmie": 4,
         "Cufant": 3,
@@ -1648,7 +1648,7 @@
         "Cutiefly": 3,
         "Wishiwashi": 1,
         "Litleo": 3,
-        "Pancham": 3,
+        "Pancham": 4,
         "Corvisquire": 4,
         "Pupitar": 2,
         "Dusclops": 3,
@@ -1950,10 +1950,11 @@
         "Sableye": 1,
         "Zebstrika": 1,
         "Cramorant": 1,
-        "Maractus": 1
+        "Maractus": 1,
+        "Mightyena": 1
       },
-      "total_spawns": 3737,
-      "last_spawn": "2026-06-30T21:32:27.948806"
+      "total_spawns": 3741,
+      "last_spawn": "2026-06-30T21:33:07.698064"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1963,7 +1964,7 @@
     }
   },
   "global": {
-    "total_spawns": 56777,
+    "total_spawns": 56781,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
