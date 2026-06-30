@@ -1455,7 +1455,7 @@
         "Emboar": 1,
         "Blue flower floette": 2,
         "Leafeon": 2,
-        "Shellder": 2,
+        "Shellder": 3,
         "Graveler": 5,
         "Drifloon": 3,
         "Makuhita": 3,
@@ -1851,7 +1851,7 @@
         "Nidorina": 2,
         "Psyduck": 1,
         "Kingdra": 1,
-        "Mienfoo": 2,
+        "Mienfoo": 3,
         "Budew": 1,
         "Bulbasaur": 1,
         "Scizor": 1,
@@ -1870,8 +1870,8 @@
         "Duraludon": 1,
         "Quaquaval": 1
       },
-      "total_spawns": 2887,
-      "last_spawn": "2026-06-30T01:02:57.557103"
+      "total_spawns": 2889,
+      "last_spawn": "2026-06-30T01:03:27.721546"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1881,7 +1881,7 @@
     }
   },
   "global": {
-    "total_spawns": 45811,
+    "total_spawns": 45813,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
