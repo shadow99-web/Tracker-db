@@ -1217,7 +1217,7 @@
         "Squirtle": 6,
         "Spinarak": 3,
         "Blue plumage squawkabilly": 3,
-        "Bergmite": 3,
+        "Bergmite": 4,
         "Lairon": 3,
         "Impidimp": 22,
         "Solosis": 17,
@@ -1588,7 +1588,7 @@
         "Drednaw": 3,
         "Cacturne": 1,
         "Metapod": 4,
-        "Sealeo": 7,
+        "Sealeo": 8,
         "Wynaut": 2,
         "Staravia": 3,
         "Spidops": 4,
@@ -1900,7 +1900,7 @@
         "Sunflora": 3,
         "Magnezone": 1,
         "Palossand": 1,
-        "Gulpin": 3,
+        "Gulpin": 4,
         "Kricketot": 2,
         "Garchomp": 1,
         "Galarian mr. mime": 1,
@@ -1968,10 +1968,11 @@
         "Serperior": 1,
         "Azurill": 1,
         "Gorging cramorant": 1,
-        "Kangaskhan": 1
+        "Kangaskhan": 1,
+        "Baxcalibur": 1
       },
-      "total_spawns": 3941,
-      "last_spawn": "2026-06-30T22:59:37.610013"
+      "total_spawns": 3945,
+      "last_spawn": "2026-06-30T23:00:17.580396"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1981,7 +1982,7 @@
     }
   },
   "global": {
-    "total_spawns": 56981,
+    "total_spawns": 56985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
