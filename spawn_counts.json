@@ -1634,7 +1634,7 @@
         "Glimmora": 2,
         "Cleffa": 2,
         "Cradily": 1,
-        "Thwackey": 1,
+        "Thwackey": 2,
         "Claydol": 2,
         "Grimmsnarl": 2,
         "Frosmoth": 2,
@@ -1662,7 +1662,7 @@
         "Audino": 3,
         "Infernape": 1,
         "Greninja": 3,
-        "Battle cyclizar": 3,
+        "Battle cyclizar": 4,
         "Lombre": 1,
         "Cetitan": 4,
         "Bewear": 1,
@@ -1884,8 +1884,8 @@
         "Manectric": 1,
         "Yungoos": 1
       },
-      "total_spawns": 3079,
-      "last_spawn": "2026-06-30T01:52:05.303786"
+      "total_spawns": 3081,
+      "last_spawn": "2026-06-30T01:52:45.117783"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1895,7 +1895,7 @@
     }
   },
   "global": {
-    "total_spawns": 46003,
+    "total_spawns": 46005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
