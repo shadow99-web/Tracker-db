@@ -1188,7 +1188,7 @@
         "Pikachu": 6,
         "Rhyhorn": 11,
         "Tynamo": 23,
-        "Tandemaus": 16,
+        "Tandemaus": 17,
         "Smearguru": 17,
         "Magnemite": 22,
         "Teddiursa": 20,
@@ -1519,7 +1519,7 @@
         "Ninjask": 1,
         "Remoraid": 6,
         "Pansear": 1,
-        "Spheal": 10,
+        "Spheal": 11,
         "Espurr": 2,
         "Poliwag": 17,
         "Finneon": 4,
@@ -1965,10 +1965,12 @@
         "Mamoswine": 1,
         "Blissey": 1,
         "Vanilluxe": 1,
-        "Serperior": 1
+        "Serperior": 1,
+        "Azurill": 1,
+        "Gorging cramorant": 1
       },
-      "total_spawns": 3905,
-      "last_spawn": "2026-06-30T22:46:47.823757"
+      "total_spawns": 3909,
+      "last_spawn": "2026-06-30T22:47:27.443266"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1978,7 +1980,7 @@
     }
   },
   "global": {
-    "total_spawns": 56945,
+    "total_spawns": 56949,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
