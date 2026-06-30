@@ -1336,7 +1336,7 @@
         "Meganium": 2,
         "Toedscruel": 4,
         "Klawf": 16,
-        "Grookey": 5,
+        "Grookey": 6,
         "Gossifleur": 7,
         "Joltik": 6,
         "Summer deerling": 3,
@@ -1378,7 +1378,7 @@
         "Bellsprout": 16,
         "Lickitung": 8,
         "Minccino": 8,
-        "Togepi": 14,
+        "Togepi": 15,
         "Milotic": 1,
         "Plusle": 3,
         "Galarian corsola": 1,
@@ -1960,10 +1960,11 @@
         "Kakuna": 1,
         "Flapple": 1,
         "Hydreigon": 1,
-        "Yveltal": 1
+        "Yveltal": 1,
+        "Floatzel": 1
       },
-      "total_spawns": 3851,
-      "last_spawn": "2026-06-30T21:56:34.085455"
+      "total_spawns": 3854,
+      "last_spawn": "2026-06-30T21:57:21.896753"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1973,7 +1974,7 @@
     }
   },
   "global": {
-    "total_spawns": 56891,
+    "total_spawns": 56894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
