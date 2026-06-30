@@ -1384,7 +1384,7 @@
         "Sprigatito": 7,
         "Toedscool": 18,
         "Luxio": 5,
-        "Fuecoco": 10,
+        "Fuecoco": 11,
         "Electrode": 1,
         "Chandelure": 3,
         "Wiglett": 16,
@@ -1465,7 +1465,7 @@
         "Servine": 7,
         "Grubbin": 12,
         "Clobbopus": 5,
-        "Bounsweet": 18,
+        "Bounsweet": 20,
         "Crawdaunt": 3,
         "Hoppip": 14,
         "Shroodle": 7,
@@ -1902,10 +1902,11 @@
         "Shuckle": 1,
         "Hydrapple": 1,
         "Raging bolt": 1,
-        "Blacephalon": 1
+        "Blacephalon": 1,
+        "Shuppet": 1
       },
-      "total_spawns": 3409,
-      "last_spawn": "2026-06-30T06:37:27.589853"
+      "total_spawns": 3413,
+      "last_spawn": "2026-06-30T06:38:07.499888"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1915,7 +1916,7 @@
     }
   },
   "global": {
-    "total_spawns": 46333,
+    "total_spawns": 46337,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
