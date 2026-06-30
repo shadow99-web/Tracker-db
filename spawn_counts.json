@@ -1160,7 +1160,7 @@
         "Dreepy": 14,
         "Bagon": 10,
         "Archen": 5,
-        "Shinx": 22,
+        "Shinx": 23,
         "Pikachu": 6,
         "Rhyhorn": 9,
         "Tynamo": 17,
@@ -1573,7 +1573,7 @@
         "Carkol": 3,
         "Seaking": 2,
         "Quaxly": 6,
-        "Golbat": 5,
+        "Golbat": 6,
         "Beautifly": 1,
         "Houndstone": 3,
         "Braviary": 2,
@@ -1876,10 +1876,11 @@
         "Sunflora": 1,
         "Magnezone": 1,
         "Palossand": 1,
-        "Gulpin": 1
+        "Gulpin": 1,
+        "Kricketot": 1
       },
-      "total_spawns": 2962,
-      "last_spawn": "2026-06-30T01:20:13.626994"
+      "total_spawns": 2965,
+      "last_spawn": "2026-06-30T01:20:44.199012"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1889,7 +1890,7 @@
     }
   },
   "global": {
-    "total_spawns": 45886,
+    "total_spawns": 45889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
