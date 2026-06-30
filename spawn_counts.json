@@ -1318,7 +1318,7 @@
         "Summer deerling": 1,
         "Heliolisk": 2,
         "Raboot": 4,
-        "Vanillite": 9,
+        "Vanillite": 10,
         "Krabby": 3,
         "Clefable": 2,
         "Durant": 3,
@@ -1365,7 +1365,7 @@
         "Torterra": 2,
         "Blipbug": 10,
         "Zen darmanitan": 1,
-        "Duskull": 9,
+        "Duskull": 10,
         "Vigoroth": 3,
         "Seviper": 2,
         "Goomy": 7,
@@ -1869,10 +1869,11 @@
         "Charjabug": 1,
         "Duraludon": 1,
         "Quaquaval": 1,
-        "Family of three maushold": 1
+        "Family of three maushold": 1,
+        "Gourgeist": 1
       },
-      "total_spawns": 2910,
-      "last_spawn": "2026-06-30T01:07:07.504507"
+      "total_spawns": 2913,
+      "last_spawn": "2026-06-30T01:07:37.526030"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1882,7 +1883,7 @@
     }
   },
   "global": {
-    "total_spawns": 45834,
+    "total_spawns": 45837,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
