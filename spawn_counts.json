@@ -1183,7 +1183,7 @@
         "Charcadet": 21,
         "Furfrou": 3,
         "Slaking": 2,
-        "Flittle": 15,
+        "Flittle": 16,
         "Salazzle": 1,
         "Skitty": 8,
         "Fletchling": 13,
@@ -1380,7 +1380,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 10,
-        "Maschiff": 15,
+        "Maschiff": 16,
         "Sprigatito": 7,
         "Toedscool": 18,
         "Luxio": 5,
@@ -1396,10 +1396,10 @@
         "Ralts": 14,
         "Clamperl": 4,
         "Falinks": 4,
-        "Tinkatuff": 4,
+        "Tinkatuff": 5,
         "Ampharos": 1,
         "Goodra": 2,
-        "Klink": 7,
+        "Klink": 8,
         "Mankey": 4,
         "Charmander": 5,
         "Shroomish": 3,
@@ -1417,7 +1417,7 @@
         "Slowbro": 1,
         "Yamask": 5,
         "Tympole": 18,
-        "Barboach": 4,
+        "Barboach": 5,
         "Carvanha": 2,
         "Caterpie": 11,
         "Dondozo": 20,
@@ -1495,7 +1495,7 @@
         "Ninjask": 1,
         "Remoraid": 6,
         "Pansear": 1,
-        "Spheal": 7,
+        "Spheal": 8,
         "Espurr": 2,
         "Poliwag": 16,
         "Finneon": 4,
@@ -1904,10 +1904,11 @@
         "Raging bolt": 1,
         "Blacephalon": 1,
         "Shuppet": 1,
-        "Torchic": 1
+        "Torchic": 1,
+        "School wishiwashi": 1
       },
-      "total_spawns": 3491,
-      "last_spawn": "2026-06-30T07:06:13.705811"
+      "total_spawns": 3498,
+      "last_spawn": "2026-06-30T07:06:47.440472"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1917,7 +1918,7 @@
     }
   },
   "global": {
-    "total_spawns": 46415,
+    "total_spawns": 46422,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
