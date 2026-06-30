@@ -1359,7 +1359,7 @@
         "Cottonee": 4,
         "Horsea": 17,
         "Doduo": 3,
-        "Ivysaur": 5,
+        "Ivysaur": 6,
         "Crustle": 2,
         "Wooper": 2,
         "Crabominable": 1,
@@ -1847,7 +1847,7 @@
         "Wigglytuff": 2,
         "Walrein": 1,
         "Golett": 5,
-        "Hitmonlee": 1,
+        "Hitmonlee": 2,
         "Drakloak": 4,
         "Corphish": 3,
         "Clodsire": 3,
@@ -1948,10 +1948,11 @@
         "Okidogi": 1,
         "Noivern": 1,
         "Sableye": 1,
-        "Zebstrika": 1
+        "Zebstrika": 1,
+        "Cramorant": 1
       },
-      "total_spawns": 3720,
-      "last_spawn": "2026-06-30T21:29:37.485688"
+      "total_spawns": 3723,
+      "last_spawn": "2026-06-30T21:30:07.844371"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1961,7 +1962,7 @@
     }
   },
   "global": {
-    "total_spawns": 56760,
+    "total_spawns": 56763,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
