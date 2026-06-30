@@ -36,7 +36,7 @@
         "Escavalier": 13,
         "Dratini": 128,
         "Kilowattrel": 41,
-        "Lotad": 208,
+        "Lotad": 209,
         "Qwilfish": 12,
         "Trapinch": 194,
         "Toedscool": 167,
@@ -179,7 +179,7 @@
         "Binacle": 51,
         "Grafaiai": 40,
         "Quilladin": 37,
-        "Geodude": 186,
+        "Geodude": 187,
         "Espurr": 44,
         "Cottonee": 36,
         "Elgyem": 37,
@@ -240,7 +240,7 @@
         "Omanyte": 45,
         "Galvantula": 11,
         "Chansey": 26,
-        "Shroodle": 176,
+        "Shroodle": 177,
         "Duskull": 191,
         "Bergmite": 39,
         "Pignite": 41,
@@ -585,7 +585,7 @@
         "Combee": 25,
         "Fletchinder": 56,
         "Kingambit": 11,
-        "Clodsire": 56,
+        "Clodsire": 57,
         "Blaze breed tauros": 4,
         "Wimpod": 37,
         "Torterra": 10,
@@ -670,7 +670,7 @@
         "Appletun": 7,
         "Krookodile": 19,
         "Primeape": 10,
-        "Grimer": 29,
+        "Grimer": 30,
         "Crabominable": 8,
         "Quaquaval": 11,
         "Sprigatito": 56,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38742,
-      "last_spawn": "2026-06-30T10:16:49.867170"
+      "total_spawns": 38747,
+      "last_spawn": "2026-06-30T10:17:19.998047"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 46599,
+    "total_spawns": 46604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
