@@ -1140,7 +1140,7 @@
         "Roggenrola": 21,
         "Armarouge": 6,
         "Gastly": 15,
-        "Scatterbug": 20,
+        "Scatterbug": 21,
         "Wurmple": 18,
         "Gothita": 23,
         "Gible": 15,
@@ -1218,7 +1218,7 @@
         "Whismur": 14,
         "Crabrawler": 4,
         "Mudkip": 2,
-        "Greavard": 28,
+        "Greavard": 29,
         "Axew": 14,
         "Ride cyclizar": 4,
         "Trapinch": 14,
@@ -1371,7 +1371,7 @@
         "Goomy": 8,
         "Nickit": 4,
         "Sandshrew": 5,
-        "Tirtouga": 3,
+        "Tirtouga": 4,
         "Turtwig": 2,
         "Glimmet": 13,
         "Swadloon": 2,
@@ -1387,7 +1387,7 @@
         "Fuecoco": 11,
         "Electrode": 1,
         "Chandelure": 3,
-        "Wiglett": 16,
+        "Wiglett": 17,
         "Farigiraf": 3,
         "Zubat": 16,
         "Lotad": 9,
@@ -1447,7 +1447,7 @@
         "Timburr": 17,
         "Glalie": 1,
         "Magikarp": 5,
-        "Capsakid": 10,
+        "Capsakid": 11,
         "Venonat": 4,
         "Popplio": 5,
         "Glameow": 6,
@@ -1623,7 +1623,7 @@
         "Loudred": 6,
         "Cutiefly": 3,
         "Wishiwashi": 1,
-        "Litleo": 2,
+        "Litleo": 3,
         "Pancham": 3,
         "Corvisquire": 4,
         "Pupitar": 2,
@@ -1906,8 +1906,8 @@
         "Shuppet": 1,
         "Torchic": 1
       },
-      "total_spawns": 3445,
-      "last_spawn": "2026-06-30T07:02:33.557124"
+      "total_spawns": 3451,
+      "last_spawn": "2026-06-30T07:03:03.652976"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1917,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 46369,
+    "total_spawns": 46375,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
