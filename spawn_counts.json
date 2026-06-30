@@ -1178,7 +1178,7 @@
         "Seismitoad": 3,
         "Frigibax": 19,
         "Meowth": 7,
-        "Dj rotom": 10,
+        "Dj rotom": 11,
         "Prof tangrowth": 17,
         "Charcadet": 21,
         "Furfrou": 3,
@@ -1318,7 +1318,7 @@
         "Summer deerling": 2,
         "Heliolisk": 2,
         "Raboot": 4,
-        "Vanillite": 11,
+        "Vanillite": 12,
         "Krabby": 3,
         "Clefable": 2,
         "Durant": 3,
@@ -1433,7 +1433,7 @@
         "Nuzleaf": 4,
         "Geodude": 21,
         "Gholdengo": 2,
-        "Dudunsparce": 1,
+        "Dudunsparce": 2,
         "Whirlipede": 3,
         "Skiddo": 4,
         "Spiritomb": 3,
@@ -1899,10 +1899,11 @@
         "Parasect": 1,
         "Gogoat": 1,
         "Rayquaza": 4,
-        "Shuckle": 1
+        "Shuckle": 1,
+        "Hydrapple": 1
       },
-      "total_spawns": 3339,
-      "last_spawn": "2026-06-30T05:57:27.696221"
+      "total_spawns": 3343,
+      "last_spawn": "2026-06-30T05:58:07.403496"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1912,7 +1913,7 @@
     }
   },
   "global": {
-    "total_spawns": 46263,
+    "total_spawns": 46267,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
