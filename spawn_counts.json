@@ -1495,7 +1495,7 @@
         "Shroodle": 8,
         "Fomantis": 3,
         "Slowpoke": 4,
-        "Shiinotic": 2,
+        "Shiinotic": 3,
         "Lokix": 5,
         "Tentacruel": 3,
         "Exeggcute": 5,
@@ -1954,10 +1954,11 @@
         "Mightyena": 1,
         "Dragonite": 1,
         "Tropius": 1,
-        "Munchlax": 1
+        "Munchlax": 1,
+        "Musharna": 1
       },
-      "total_spawns": 3831,
-      "last_spawn": "2026-06-30T21:49:53.672964"
+      "total_spawns": 3833,
+      "last_spawn": "2026-06-30T21:52:03.629440"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1967,7 +1968,7 @@
     }
   },
   "global": {
-    "total_spawns": 56871,
+    "total_spawns": 56873,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
