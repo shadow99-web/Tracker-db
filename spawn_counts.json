@@ -1351,7 +1351,7 @@
         "Staryu": 5,
         "Gallade": 1,
         "Rattata": 10,
-        "Bellsprout": 14,
+        "Bellsprout": 15,
         "Lickitung": 6,
         "Minccino": 8,
         "Togepi": 12,
@@ -1603,7 +1603,7 @@
         "Orange flower florges": 1,
         "Simisear": 1,
         "Milcery": 3,
-        "Petilil": 4,
+        "Petilil": 5,
         "Alomomola": 3,
         "Skorupi": 4,
         "Arrokuda": 2,
@@ -1827,7 +1827,7 @@
         "Drakloak": 3,
         "Corphish": 2,
         "Clodsire": 3,
-        "Snover": 2,
+        "Snover": 3,
         "Unfezant": 1,
         "Magmar": 1,
         "Snubbull": 1,
@@ -1903,8 +1903,8 @@
         "Hydrapple": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 3358,
-      "last_spawn": "2026-06-30T06:01:27.401099"
+      "total_spawns": 3361,
+      "last_spawn": "2026-06-30T06:01:57.498898"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1914,7 +1914,7 @@
     }
   },
   "global": {
-    "total_spawns": 46282,
+    "total_spawns": 46285,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
