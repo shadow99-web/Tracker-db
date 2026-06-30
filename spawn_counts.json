@@ -1579,7 +1579,7 @@
         "Trevenant": 1,
         "Pignite": 4,
         "Ferroseed": 4,
-        "Grafaiai": 6,
+        "Grafaiai": 7,
         "Tangela": 6,
         "Palpitoad": 5,
         "Tyrogue": 6,
@@ -1736,7 +1736,7 @@
         "Drifblim": 2,
         "Druddigon": 1,
         "Spewpa": 6,
-        "Silcoon": 3,
+        "Silcoon": 4,
         "Snorlax": 2,
         "Sunny castform": 1,
         "Dracovish": 1,
@@ -1936,7 +1936,7 @@
         "Copperajah": 1,
         "Grotle": 1,
         "Vileplume": 1,
-        "Cinccino": 1,
+        "Cinccino": 2,
         "Thievul": 1,
         "Cresselia": 2,
         "Aerodactyl": 1,
@@ -1969,10 +1969,11 @@
         "Azurill": 1,
         "Gorging cramorant": 1,
         "Kangaskhan": 1,
-        "Baxcalibur": 1
+        "Baxcalibur": 1,
+        "Monferno": 1
       },
-      "total_spawns": 3949,
-      "last_spawn": "2026-06-30T23:00:58.067779"
+      "total_spawns": 3953,
+      "last_spawn": "2026-06-30T23:01:37.701358"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1982,7 +1983,7 @@
     }
   },
   "global": {
-    "total_spawns": 56989,
+    "total_spawns": 56993,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
