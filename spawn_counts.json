@@ -1196,7 +1196,7 @@
         "Bergmite": 3,
         "Lairon": 3,
         "Impidimp": 20,
-        "Solosis": 13,
+        "Solosis": 14,
         "Brambleghast": 1,
         "Rellor": 13,
         "Nincada": 6,
@@ -1322,7 +1322,7 @@
         "Krabby": 3,
         "Clefable": 2,
         "Durant": 3,
-        "Pidgeotto": 4,
+        "Pidgeotto": 5,
         "Maushold": 5,
         "Dewpider": 5,
         "Sobble": 5,
@@ -1413,7 +1413,7 @@
         "Revavroom": 5,
         "Drowzee": 3,
         "Huntail": 1,
-        "Vibrava": 3,
+        "Vibrava": 4,
         "Slowbro": 1,
         "Yamask": 5,
         "Tympole": 18,
@@ -1444,7 +1444,7 @@
         "Totodile": 4,
         "Lunatone": 3,
         "Zigzagoon": 2,
-        "Timburr": 17,
+        "Timburr": 18,
         "Glalie": 1,
         "Magikarp": 5,
         "Capsakid": 11,
@@ -1510,7 +1510,7 @@
         "Mantine": 2,
         "Grumpig": 2,
         "Ekans": 2,
-        "Swanna": 2,
+        "Swanna": 3,
         "Marill": 6,
         "Oshawott": 9,
         "Cyclizar": 6,
@@ -1579,7 +1579,7 @@
         "Braviary": 2,
         "Cubone": 2,
         "Stantler": 5,
-        "Rufflet": 2,
+        "Rufflet": 3,
         "Klang": 3,
         "Drilbur": 4,
         "Mismagius": 1,
@@ -1592,7 +1592,7 @@
         "Salandit": 1,
         "Qwilfish": 1,
         "Indeedee": 3,
-        "Skrelp": 2,
+        "Skrelp": 3,
         "Oinkologne": 3,
         "Dragonair": 2,
         "Hippopotas": 2,
@@ -1906,8 +1906,8 @@
         "Shuppet": 1,
         "Torchic": 1
       },
-      "total_spawns": 3478,
-      "last_spawn": "2026-06-30T07:05:07.805450"
+      "total_spawns": 3485,
+      "last_spawn": "2026-06-30T07:05:43.579715"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1917,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 46402,
+    "total_spawns": 46409,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
