@@ -1183,7 +1183,7 @@
         "Charcadet": 21,
         "Furfrou": 3,
         "Slaking": 2,
-        "Flittle": 16,
+        "Flittle": 17,
         "Salazzle": 1,
         "Skitty": 8,
         "Fletchling": 13,
@@ -1265,7 +1265,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 1,
         "Vikavolt": 1,
-        "Peakychu": 18,
+        "Peakychu": 19,
         "Absol": 3,
         "Inteleon": 5,
         "Mimikyu": 1,
@@ -1419,7 +1419,7 @@
         "Tympole": 19,
         "Barboach": 5,
         "Carvanha": 2,
-        "Caterpie": 11,
+        "Caterpie": 12,
         "Dondozo": 20,
         "Tranquill": 7,
         "Porygon": 14,
@@ -1651,13 +1651,13 @@
         "Dragalge": 2,
         "Three-segment dudunsparce": 1,
         "Corviknight": 2,
-        "Mareanie": 3,
+        "Mareanie": 4,
         "Phantump": 7,
         "Girafarig": 1,
         "Duosion": 1,
         "Mudbray": 4,
         "Bombirdier": 6,
-        "Haunter": 2,
+        "Haunter": 3,
         "Pirouette meloetta": 1,
         "Audino": 3,
         "Infernape": 2,
@@ -1908,10 +1908,11 @@
         "School wishiwashi": 1,
         "Sudowoodo": 1,
         "Turtonator": 1,
-        "Altaria": 1
+        "Altaria": 1,
+        "Copperajah": 1
       },
-      "total_spawns": 3531,
-      "last_spawn": "2026-06-30T07:09:37.767239"
+      "total_spawns": 3537,
+      "last_spawn": "2026-06-30T07:10:08.745157"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1921,7 +1922,7 @@
     }
   },
   "global": {
-    "total_spawns": 46455,
+    "total_spawns": 46461,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
