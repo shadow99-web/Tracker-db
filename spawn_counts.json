@@ -1145,7 +1145,7 @@
         "Gothita": 21,
         "Gible": 15,
         "Larvesta": 5,
-        "Starly": 14,
+        "Starly": 15,
         "Varoom": 21,
         "Weedle": 18,
         "Chef dente": 12,
@@ -1227,7 +1227,7 @@
         "Frogadier": 5,
         "Gimmighoul": 11,
         "Mienshao": 2,
-        "Swinub": 17,
+        "Swinub": 18,
         "Rabsca": 6,
         "Floragato": 2,
         "Watchog": 1,
@@ -1725,7 +1725,7 @@
         "Omanyte": 2,
         "Swampert": 1,
         "Snorunt": 4,
-        "Poochyena": 2,
+        "Poochyena": 3,
         "Gothitelle": 1,
         "Annihilape": 1,
         "Dewott": 2,
@@ -1833,7 +1833,7 @@
         "Snubbull": 1,
         "Galarian rapidash": 1,
         "Metang": 1,
-        "Koffing": 1,
+        "Koffing": 2,
         "Dustox": 1,
         "Jellicent": 1,
         "Luxray": 1,
@@ -1884,8 +1884,8 @@
         "Manectric": 1,
         "Yungoos": 1
       },
-      "total_spawns": 3057,
-      "last_spawn": "2026-06-30T01:46:02.895604"
+      "total_spawns": 3061,
+      "last_spawn": "2026-06-30T01:46:42.658385"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1895,7 +1895,7 @@
     }
   },
   "global": {
-    "total_spawns": 45981,
+    "total_spawns": 45985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
