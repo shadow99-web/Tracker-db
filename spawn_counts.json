@@ -12,7 +12,7 @@
         "Rellor": 162,
         "Sandy burmy": 20,
         "Wiglett": 170,
-        "Bombirdier": 169,
+        "Bombirdier": 170,
         "Litleo": 38,
         "Purrloin": 40,
         "Tranquill": 37,
@@ -128,8 +128,8 @@
         "Clamperl": 41,
         "Zigzagoon": 47,
         "Weedle": 205,
-        "Flamigo": 163,
-        "Lillipup": 171,
+        "Flamigo": 164,
+        "Lillipup": 172,
         "Shinx": 195,
         "Bounsweet": 172,
         "Noibat": 40,
@@ -159,7 +159,7 @@
         "Spinarak": 53,
         "Delcatty": 12,
         "Spiritomb": 12,
-        "Yamper": 40,
+        "Yamper": 41,
         "Tepig": 61,
         "Kirlia": 44,
         "Piplup": 49,
@@ -526,7 +526,7 @@
         "Tyrunt": 45,
         "Garganacl": 10,
         "Chinchou": 34,
-        "Maushold": 47,
+        "Maushold": 48,
         "Bastiodon": 7,
         "Floatzel": 8,
         "Accelgor": 9,
@@ -578,7 +578,7 @@
         "Scorbunny": 57,
         "Huntail": 14,
         "Galarian meowth": 3,
-        "Spoink": 33,
+        "Spoink": 34,
         "Scyther": 47,
         "Anorith": 44,
         "Meowth": 28,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38874,
-      "last_spawn": "2026-06-30T10:47:09.921566"
+      "total_spawns": 38880,
+      "last_spawn": "2026-06-30T10:47:40.200162"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1927,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 46734,
+    "total_spawns": 46740,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
