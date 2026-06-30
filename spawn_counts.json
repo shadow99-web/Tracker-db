@@ -1188,7 +1188,7 @@
         "Pikachu": 6,
         "Rhyhorn": 11,
         "Tynamo": 23,
-        "Tandemaus": 14,
+        "Tandemaus": 15,
         "Smearguru": 17,
         "Magnemite": 22,
         "Teddiursa": 20,
@@ -1256,7 +1256,7 @@
         "Floragato": 3,
         "Watchog": 1,
         "Boltund": 3,
-        "Lillipup": 19,
+        "Lillipup": 20,
         "Ducklett": 5,
         "Mareep": 13,
         "Tadbulb": 15,
@@ -1440,7 +1440,7 @@
         "Vibrava": 5,
         "Slowbro": 1,
         "Yamask": 5,
-        "Tympole": 19,
+        "Tympole": 20,
         "Barboach": 5,
         "Carvanha": 2,
         "Caterpie": 13,
@@ -1959,10 +1959,11 @@
         "Ariados": 1,
         "Kakuna": 1,
         "Flapple": 1,
-        "Hydreigon": 1
+        "Hydreigon": 1,
+        "Yveltal": 1
       },
-      "total_spawns": 3847,
-      "last_spawn": "2026-06-30T21:54:23.836324"
+      "total_spawns": 3851,
+      "last_spawn": "2026-06-30T21:56:34.085455"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1972,7 +1973,7 @@
     }
   },
   "global": {
-    "total_spawns": 56887,
+    "total_spawns": 56891,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
