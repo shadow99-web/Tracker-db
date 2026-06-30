@@ -1260,7 +1260,7 @@
         "Litwick": 22,
         "Frost rotom": 1,
         "Cubchoo": 6,
-        "Abra": 18,
+        "Abra": 19,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1882,10 +1882,11 @@
         "Galarian mr. mime": 1,
         "Stoutland": 1,
         "Manectric": 1,
-        "Yungoos": 1
+        "Yungoos": 1,
+        "Seel": 1
       },
-      "total_spawns": 3085,
-      "last_spawn": "2026-06-30T01:54:05.125559"
+      "total_spawns": 3087,
+      "last_spawn": "2026-06-30T01:54:45.154435"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1895,7 +1896,7 @@
     }
   },
   "global": {
-    "total_spawns": 46009,
+    "total_spawns": 46011,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
