@@ -1285,7 +1285,7 @@
         "Sceptile": 1,
         "Shelgon": 4,
         "Dratini": 12,
-        "Coalossal": 1,
+        "Coalossal": 2,
         "Gumshoos": 2,
         "Cherubi": 1,
         "Sizzlipede": 4,
@@ -1365,7 +1365,7 @@
         "Torterra": 2,
         "Blipbug": 11,
         "Zen darmanitan": 1,
-        "Duskull": 11,
+        "Duskull": 12,
         "Vigoroth": 3,
         "Seviper": 2,
         "Goomy": 8,
@@ -1895,8 +1895,8 @@
         "Bayleef": 1,
         "Galarian slowbro": 1
       },
-      "total_spawns": 3271,
-      "last_spawn": "2026-06-30T05:08:45.049879"
+      "total_spawns": 3273,
+      "last_spawn": "2026-06-30T05:09:25.117241"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1906,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 46195,
+    "total_spawns": 46197,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
