@@ -1386,7 +1386,7 @@
         "Luxio": 5,
         "Fuecoco": 9,
         "Electrode": 1,
-        "Chandelure": 2,
+        "Chandelure": 3,
         "Wiglett": 14,
         "Farigiraf": 2,
         "Zubat": 13,
@@ -1515,7 +1515,7 @@
         "Oshawott": 7,
         "Cyclizar": 6,
         "Castform": 1,
-        "Shelmet": 4,
+        "Shelmet": 5,
         "Pyroar": 2,
         "Tatsugiri": 2,
         "Skwovet": 3,
@@ -1880,8 +1880,8 @@
         "Kricketot": 1,
         "Garchomp": 1
       },
-      "total_spawns": 2991,
-      "last_spawn": "2026-06-30T01:28:22.696657"
+      "total_spawns": 2993,
+      "last_spawn": "2026-06-30T01:30:42.909971"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1891,7 +1891,7 @@
     }
   },
   "global": {
-    "total_spawns": 45915,
+    "total_spawns": 45917,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
