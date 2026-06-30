@@ -1235,7 +1235,7 @@
         "Lillipup": 14,
         "Ducklett": 5,
         "Mareep": 12,
-        "Tadbulb": 10,
+        "Tadbulb": 11,
         "Helioptile": 3,
         "Blitzle": 9,
         "Pidove": 15,
@@ -1431,7 +1431,7 @@
         "Archeops": 1,
         "Gigalith": 4,
         "Nuzleaf": 3,
-        "Geodude": 19,
+        "Geodude": 20,
         "Gholdengo": 2,
         "Dudunsparce": 1,
         "Whirlipede": 3,
@@ -1827,7 +1827,7 @@
         "Drakloak": 2,
         "Corphish": 2,
         "Clodsire": 2,
-        "Snover": 1,
+        "Snover": 2,
         "Unfezant": 1,
         "Magmar": 1,
         "Snubbull": 1,
@@ -1884,8 +1884,8 @@
         "Manectric": 1,
         "Yungoos": 1
       },
-      "total_spawns": 3069,
-      "last_spawn": "2026-06-30T01:48:02.796081"
+      "total_spawns": 3072,
+      "last_spawn": "2026-06-30T01:48:42.687864"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1895,7 +1895,7 @@
     }
   },
   "global": {
-    "total_spawns": 45993,
+    "total_spawns": 45996,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
