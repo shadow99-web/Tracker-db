@@ -1382,7 +1382,7 @@
         "Venipede": 9,
         "Maschiff": 14,
         "Sprigatito": 6,
-        "Toedscool": 14,
+        "Toedscool": 15,
         "Luxio": 5,
         "Fuecoco": 8,
         "Electrode": 1,
@@ -1407,7 +1407,7 @@
         "Croconaw": 2,
         "Bronzor": 5,
         "Eelektrik": 3,
-        "Ledyba": 7,
+        "Ledyba": 8,
         "Tyrunt": 6,
         "Braixen": 1,
         "Revavroom": 3,
@@ -1773,7 +1773,7 @@
         "Rockruff": 3,
         "Sliggoo": 3,
         "Spoink": 1,
-        "Binacle": 3,
+        "Binacle": 4,
         "Mudsdale": 1,
         "Aipom": 1,
         "Dragapult": 1,
@@ -1870,8 +1870,8 @@
         "Duraludon": 1,
         "Quaquaval": 1
       },
-      "total_spawns": 2899,
-      "last_spawn": "2026-06-30T01:05:17.625621"
+      "total_spawns": 2902,
+      "last_spawn": "2026-06-30T01:05:49.471594"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1881,7 +1881,7 @@
     }
   },
   "global": {
-    "total_spawns": 45823,
+    "total_spawns": 45826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
