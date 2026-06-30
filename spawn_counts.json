@@ -1187,7 +1187,7 @@
         "Salazzle": 1,
         "Skitty": 6,
         "Fletchling": 11,
-        "Orthworm": 15,
+        "Orthworm": 16,
         "Woobat": 7,
         "Happiny": 2,
         "Squirtle": 6,
@@ -1223,7 +1223,7 @@
         "Ride cyclizar": 3,
         "Trapinch": 11,
         "Smoliv": 10,
-        "Pawniard": 1,
+        "Pawniard": 2,
         "Frogadier": 5,
         "Gimmighoul": 9,
         "Mienshao": 2,
@@ -1468,7 +1468,7 @@
         "Bounsweet": 17,
         "Crawdaunt": 3,
         "Hoppip": 12,
-        "Shroodle": 6,
+        "Shroodle": 7,
         "Fomantis": 2,
         "Slowpoke": 2,
         "Shiinotic": 1,
@@ -1866,10 +1866,11 @@
         "Meowstic": 1,
         "Wormadam": 1,
         "Raticate": 1,
-        "Charjabug": 1
+        "Charjabug": 1,
+        "Duraludon": 1
       },
-      "total_spawns": 2866,
-      "last_spawn": "2026-06-30T00:59:27.649612"
+      "total_spawns": 2870,
+      "last_spawn": "2026-06-30T01:00:07.922468"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1879,7 +1880,7 @@
     }
   },
   "global": {
-    "total_spawns": 45790,
+    "total_spawns": 45794,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
