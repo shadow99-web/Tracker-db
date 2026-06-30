@@ -1399,7 +1399,7 @@
         "Turtwig": 2,
         "Glimmet": 14,
         "Swadloon": 2,
-        "Purrloin": 7,
+        "Purrloin": 8,
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
@@ -1756,7 +1756,7 @@
         "Arctibax": 3,
         "Jigglypuff": 2,
         "Krokorok": 2,
-        "Litten": 4,
+        "Litten": 5,
         "Hoothoot": 4,
         "Pawmo": 3,
         "Drapion": 1,
@@ -1952,10 +1952,11 @@
         "Cramorant": 1,
         "Maractus": 1,
         "Mightyena": 1,
-        "Dragonite": 1
+        "Dragonite": 1,
+        "Tropius": 1
       },
-      "total_spawns": 3758,
-      "last_spawn": "2026-06-30T21:36:07.505599"
+      "total_spawns": 3761,
+      "last_spawn": "2026-06-30T21:36:37.675849"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1965,7 +1966,7 @@
     }
   },
   "global": {
-    "total_spawns": 56798,
+    "total_spawns": 56801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
