@@ -1249,7 +1249,7 @@
         "Smoliv": 14,
         "Pawniard": 3,
         "Frogadier": 5,
-        "Gimmighoul": 11,
+        "Gimmighoul": 12,
         "Mienshao": 3,
         "Swinub": 21,
         "Rabsca": 6,
@@ -1481,7 +1481,7 @@
         "Leafeon": 3,
         "Shellder": 3,
         "Graveler": 8,
-        "Drifloon": 3,
+        "Drifloon": 4,
         "Makuhita": 4,
         "Baltoy": 6,
         "Nidoking": 2,
@@ -1964,10 +1964,11 @@
         "Floatzel": 1,
         "Mamoswine": 1,
         "Blissey": 1,
-        "Vanilluxe": 1
+        "Vanilluxe": 1,
+        "Serperior": 1
       },
-      "total_spawns": 3893,
-      "last_spawn": "2026-06-30T22:35:17.539409"
+      "total_spawns": 3896,
+      "last_spawn": "2026-06-30T22:35:47.797916"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1977,7 +1978,7 @@
     }
   },
   "global": {
-    "total_spawns": 56933,
+    "total_spawns": 56936,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
