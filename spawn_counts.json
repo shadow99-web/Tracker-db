@@ -25,7 +25,7 @@
         "Machop": 150,
         "Dudunsparce": 40,
         "Gothita": 167,
-        "Impidimp": 158,
+        "Impidimp": 159,
         "Charmander": 75,
         "Morelull": 40,
         "Abra": 186,
@@ -261,7 +261,7 @@
         "Gligar": 53,
         "Tirtouga": 46,
         "Furret": 11,
-        "Nincada": 56,
+        "Nincada": 57,
         "Fennekin": 55,
         "Quaxwell": 26,
         "Vibrava": 48,
@@ -534,9 +534,9 @@
         "Axew": 170,
         "Trevenant": 16,
         "Trubbish": 35,
-        "Zorua": 33,
+        "Zorua": 34,
         "Archen": 44,
-        "Oinkologne": 53,
+        "Oinkologne": 54,
         "Onix": 43,
         "Vanilluxe": 8,
         "Jolteon": 11,
@@ -703,7 +703,7 @@
         "Litten": 61,
         "Abomasnow": 13,
         "Espeon": 5,
-        "Hatenna": 159,
+        "Hatenna": 160,
         "Zoroark": 12,
         "Lucario": 5,
         "Crustle": 14,
@@ -847,7 +847,7 @@
         "Carbink": 12,
         "Armaldo": 8,
         "Grimmsnarl": 12,
-        "Quagsire": 7,
+        "Quagsire": 8,
         "Darkrai": 4,
         "Togedemaru": 8,
         "Minior": 9,
@@ -957,7 +957,7 @@
         "Aurorus": 6,
         "Florges": 2,
         "Dandy trim furfrou": 4,
-        "Rapidash": 6,
+        "Rapidash": 7,
         "Mawile": 12,
         "Dusknoir": 12,
         "Sirfetch'd": 3,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38933,
-      "last_spawn": "2026-06-30T10:52:14.401810"
+      "total_spawns": 38940,
+      "last_spawn": "2026-06-30T10:52:50.267019"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1927,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 46794,
+    "total_spawns": 46801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
