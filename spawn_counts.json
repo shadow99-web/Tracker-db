@@ -1232,7 +1232,7 @@
         "Floragato": 2,
         "Watchog": 1,
         "Boltund": 2,
-        "Lillipup": 12,
+        "Lillipup": 13,
         "Ducklett": 5,
         "Mareep": 11,
         "Tadbulb": 10,
@@ -1283,7 +1283,7 @@
         "Lurantis": 2,
         "Machamp": 1,
         "Sceptile": 1,
-        "Shelgon": 3,
+        "Shelgon": 4,
         "Dratini": 10,
         "Coalossal": 1,
         "Gumshoos": 2,
@@ -1497,7 +1497,7 @@
         "Pansear": 1,
         "Spheal": 5,
         "Espurr": 1,
-        "Poliwag": 11,
+        "Poliwag": 12,
         "Finneon": 4,
         "Starmie": 4,
         "Cufant": 3,
@@ -1875,10 +1875,11 @@
         "Burmy": 1,
         "Sunflora": 1,
         "Magnezone": 1,
-        "Palossand": 1
+        "Palossand": 1,
+        "Gulpin": 1
       },
-      "total_spawns": 2955,
-      "last_spawn": "2026-06-30T01:18:57.569321"
+      "total_spawns": 2959,
+      "last_spawn": "2026-06-30T01:19:37.553550"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1888,7 +1889,7 @@
     }
   },
   "global": {
-    "total_spawns": 45879,
+    "total_spawns": 45883,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
