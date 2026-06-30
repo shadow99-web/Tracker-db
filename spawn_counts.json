@@ -1249,7 +1249,7 @@
         "Wailmer": 2,
         "Jangmo-o": 13,
         "Aron": 14,
-        "Kabuto": 5,
+        "Kabuto": 6,
         "Togetic": 6,
         "Sewaddle": 22,
         "Eevee": 3,
@@ -1444,7 +1444,7 @@
         "Totodile": 4,
         "Lunatone": 3,
         "Zigzagoon": 2,
-        "Timburr": 15,
+        "Timburr": 16,
         "Glalie": 1,
         "Magikarp": 5,
         "Capsakid": 10,
@@ -1630,7 +1630,7 @@
         "Dusclops": 3,
         "Kleavor": 2,
         "Trumbeak": 2,
-        "Pansage": 3,
+        "Pansage": 4,
         "Glimmora": 2,
         "Cleffa": 2,
         "Cradily": 1,
@@ -1903,10 +1903,11 @@
         "Hydrapple": 1,
         "Raging bolt": 1,
         "Blacephalon": 1,
-        "Shuppet": 1
+        "Shuppet": 1,
+        "Torchic": 1
       },
-      "total_spawns": 3431,
-      "last_spawn": "2026-06-30T06:40:57.479582"
+      "total_spawns": 3435,
+      "last_spawn": "2026-06-30T06:41:37.579053"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1916,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 46355,
+    "total_spawns": 46359,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
