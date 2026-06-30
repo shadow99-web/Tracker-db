@@ -1164,7 +1164,7 @@
         "Pikachu": 6,
         "Rhyhorn": 10,
         "Tynamo": 17,
-        "Tandemaus": 10,
+        "Tandemaus": 11,
         "Smearguru": 12,
         "Magnemite": 17,
         "Teddiursa": 19,
@@ -1493,11 +1493,11 @@
         "Roaming gimmighoul": 8,
         "Breloom": 2,
         "Ninjask": 1,
-        "Remoraid": 5,
+        "Remoraid": 6,
         "Pansear": 1,
         "Spheal": 6,
         "Espurr": 1,
-        "Poliwag": 13,
+        "Poliwag": 14,
         "Finneon": 4,
         "Starmie": 4,
         "Cufant": 3,
@@ -1724,7 +1724,7 @@
         "Fennekin": 3,
         "Omanyte": 2,
         "Swampert": 1,
-        "Snorunt": 4,
+        "Snorunt": 5,
         "Poochyena": 3,
         "Gothitelle": 1,
         "Annihilape": 1,
@@ -1866,7 +1866,7 @@
         "Meowstic": 1,
         "Wormadam": 2,
         "Raticate": 1,
-        "Charjabug": 1,
+        "Charjabug": 2,
         "Duraludon": 1,
         "Quaquaval": 1,
         "Family of three maushold": 1,
@@ -1884,10 +1884,11 @@
         "Manectric": 1,
         "Yungoos": 1,
         "Seel": 1,
-        "Gyarados": 1
+        "Gyarados": 1,
+        "Kricketune": 1
       },
-      "total_spawns": 3098,
-      "last_spawn": "2026-06-30T01:57:18.070369"
+      "total_spawns": 3104,
+      "last_spawn": "2026-06-30T01:57:58.876685"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1897,7 +1898,7 @@
     }
   },
   "global": {
-    "total_spawns": 46022,
+    "total_spawns": 46028,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
