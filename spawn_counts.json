@@ -1199,7 +1199,7 @@
         "Solosis": 11,
         "Brambleghast": 1,
         "Rellor": 11,
-        "Nincada": 4,
+        "Nincada": 5,
         "Wattrel": 13,
         "Entei": 1,
         "Flaaffy": 5,
@@ -1373,7 +1373,7 @@
         "Sandshrew": 5,
         "Tirtouga": 3,
         "Turtwig": 2,
-        "Glimmet": 12,
+        "Glimmet": 13,
         "Swadloon": 2,
         "Purrloin": 7,
         "Golem": 1,
@@ -1382,7 +1382,7 @@
         "Venipede": 9,
         "Maschiff": 14,
         "Sprigatito": 6,
-        "Toedscool": 13,
+        "Toedscool": 14,
         "Luxio": 5,
         "Fuecoco": 8,
         "Electrode": 1,
@@ -1870,8 +1870,8 @@
         "Duraludon": 1,
         "Quaquaval": 1
       },
-      "total_spawns": 2884,
-      "last_spawn": "2026-06-30T01:02:27.601309"
+      "total_spawns": 2887,
+      "last_spawn": "2026-06-30T01:02:57.557103"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1881,7 +1881,7 @@
     }
   },
   "global": {
-    "total_spawns": 45808,
+    "total_spawns": 45811,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
