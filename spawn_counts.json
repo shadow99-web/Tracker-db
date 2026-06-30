@@ -1430,7 +1430,7 @@
         "Piloswine": 5,
         "Archeops": 1,
         "Gigalith": 4,
-        "Nuzleaf": 3,
+        "Nuzleaf": 4,
         "Geodude": 21,
         "Gholdengo": 2,
         "Dudunsparce": 1,
@@ -1669,7 +1669,7 @@
         "Cloyster": 1,
         "Centiskorch": 1,
         "Poliwhirl": 3,
-        "Patrat": 3,
+        "Patrat": 4,
         "Samurott": 1,
         "Ditto": 2,
         "Smeargle": 1,
@@ -1892,8 +1892,8 @@
         "Tyranitar": 1,
         "Lopunny": 1
       },
-      "total_spawns": 3253,
-      "last_spawn": "2026-06-30T05:04:37.486252"
+      "total_spawns": 3255,
+      "last_spawn": "2026-06-30T05:05:07.597573"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 46177,
+    "total_spawns": 46179,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
