@@ -1220,7 +1220,7 @@
         "Bergmite": 3,
         "Lairon": 3,
         "Impidimp": 21,
-        "Solosis": 16,
+        "Solosis": 17,
         "Brambleghast": 1,
         "Rellor": 15,
         "Nincada": 6,
@@ -1297,7 +1297,7 @@
         "Dartrix": 2,
         "Scraggy": 3,
         "Mabosstiff": 8,
-        "Lileep": 6,
+        "Lileep": 7,
         "Cetoddle": 17,
         "Chespin": 4,
         "Naclstack": 7,
@@ -1949,10 +1949,11 @@
         "Noivern": 1,
         "Sableye": 1,
         "Zebstrika": 1,
-        "Cramorant": 1
+        "Cramorant": 1,
+        "Maractus": 1
       },
-      "total_spawns": 3734,
-      "last_spawn": "2026-06-30T21:31:57.748689"
+      "total_spawns": 3737,
+      "last_spawn": "2026-06-30T21:32:27.948806"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1962,7 +1963,7 @@
     }
   },
   "global": {
-    "total_spawns": 56774,
+    "total_spawns": 56777,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
