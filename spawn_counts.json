@@ -1164,7 +1164,7 @@
         "Pikachu": 6,
         "Rhyhorn": 10,
         "Tynamo": 22,
-        "Tandemaus": 12,
+        "Tandemaus": 13,
         "Smearguru": 16,
         "Magnemite": 19,
         "Teddiursa": 19,
@@ -1215,7 +1215,7 @@
         "Spritzee": 5,
         "Squawkabilly": 3,
         "Beldum": 16,
-        "Whismur": 14,
+        "Whismur": 15,
         "Crabrawler": 4,
         "Mudkip": 2,
         "Greavard": 30,
@@ -1251,7 +1251,7 @@
         "Aron": 14,
         "Kabuto": 6,
         "Togetic": 6,
-        "Sewaddle": 23,
+        "Sewaddle": 24,
         "Eevee": 3,
         "Taillow": 3,
         "Pelipper": 2,
@@ -1595,7 +1595,7 @@
         "Skrelp": 3,
         "Oinkologne": 3,
         "Dragonair": 2,
-        "Hippopotas": 2,
+        "Hippopotas": 3,
         "Nymble": 15,
         "Phanpy": 3,
         "Scyther": 3,
@@ -1660,7 +1660,7 @@
         "Haunter": 2,
         "Pirouette meloetta": 1,
         "Audino": 3,
-        "Infernape": 1,
+        "Infernape": 2,
         "Greninja": 3,
         "Battle cyclizar": 5,
         "Lombre": 1,
@@ -1745,7 +1745,7 @@
         "Orange flower floette": 1,
         "Quaxwell": 1,
         "Tinkaton": 1,
-        "Sunkern": 2,
+        "Sunkern": 3,
         "Heracross": 2,
         "Munna": 1,
         "Pineco": 5,
@@ -1907,10 +1907,11 @@
         "Torchic": 1,
         "School wishiwashi": 1,
         "Sudowoodo": 1,
-        "Turtonator": 1
+        "Turtonator": 1,
+        "Altaria": 1
       },
-      "total_spawns": 3518,
-      "last_spawn": "2026-06-30T07:08:23.589165"
+      "total_spawns": 3525,
+      "last_spawn": "2026-06-30T07:09:03.848321"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1920,7 +1921,7 @@
     }
   },
   "global": {
-    "total_spawns": 46442,
+    "total_spawns": 46449,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
