@@ -1244,7 +1244,7 @@
         "Tarountula": 13,
         "Dottler": 1,
         "Paras": 2,
-        "Swablu": 7,
+        "Swablu": 8,
         "Darumaka": 5,
         "Wailmer": 2,
         "Jangmo-o": 13,
@@ -1318,7 +1318,7 @@
         "Summer deerling": 2,
         "Heliolisk": 2,
         "Raboot": 4,
-        "Vanillite": 12,
+        "Vanillite": 13,
         "Krabby": 3,
         "Clefable": 2,
         "Durant": 3,
@@ -1900,10 +1900,11 @@
         "Gogoat": 1,
         "Rayquaza": 4,
         "Shuckle": 1,
-        "Hydrapple": 1
+        "Hydrapple": 1,
+        "Raging bolt": 1
       },
-      "total_spawns": 3343,
-      "last_spawn": "2026-06-30T05:58:07.403496"
+      "total_spawns": 3346,
+      "last_spawn": "2026-06-30T05:58:37.421268"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1913,7 +1914,7 @@
     }
   },
   "global": {
-    "total_spawns": 46267,
+    "total_spawns": 46270,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
