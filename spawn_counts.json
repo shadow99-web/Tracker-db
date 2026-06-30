@@ -1159,7 +1159,7 @@
         "Hisuian voltorb": 1,
         "Dreepy": 15,
         "Bagon": 12,
-        "Archen": 6,
+        "Archen": 7,
         "Shinx": 23,
         "Pikachu": 6,
         "Rhyhorn": 10,
@@ -1314,7 +1314,7 @@
         "Klawf": 12,
         "Grookey": 5,
         "Gossifleur": 5,
-        "Joltik": 4,
+        "Joltik": 5,
         "Summer deerling": 2,
         "Heliolisk": 2,
         "Raboot": 4,
@@ -1325,7 +1325,7 @@
         "Pidgeotto": 4,
         "Maushold": 4,
         "Dewpider": 4,
-        "Sobble": 3,
+        "Sobble": 4,
         "Darkrai": 1,
         "Growlithe": 3,
         "Nihilego": 1,
@@ -1836,7 +1836,7 @@
         "Koffing": 2,
         "Dustox": 1,
         "Jellicent": 1,
-        "Luxray": 1,
+        "Luxray": 2,
         "Chien-pao": 1,
         "Alolan dugtrio": 1,
         "Polteageist": 1,
@@ -1891,8 +1891,8 @@
         "Torkoal": 1,
         "Tyranitar": 1
       },
-      "total_spawns": 3175,
-      "last_spawn": "2026-06-30T02:09:22.776856"
+      "total_spawns": 3179,
+      "last_spawn": "2026-06-30T02:10:03.775250"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1902,7 +1902,7 @@
     }
   },
   "global": {
-    "total_spawns": 46099,
+    "total_spawns": 46103,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
