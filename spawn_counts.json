@@ -1211,7 +1211,7 @@
         "Salazzle": 1,
         "Skitty": 8,
         "Fletchling": 13,
-        "Orthworm": 19,
+        "Orthworm": 20,
         "Woobat": 8,
         "Happiny": 2,
         "Squirtle": 6,
@@ -1245,7 +1245,7 @@
         "Greavard": 33,
         "Axew": 14,
         "Ride cyclizar": 5,
-        "Trapinch": 15,
+        "Trapinch": 16,
         "Smoliv": 13,
         "Pawniard": 3,
         "Frogadier": 5,
@@ -1360,7 +1360,7 @@
         "Horsea": 17,
         "Doduo": 3,
         "Ivysaur": 6,
-        "Crustle": 2,
+        "Crustle": 3,
         "Wooper": 2,
         "Crabominable": 1,
         "Machop": 14,
@@ -1953,10 +1953,11 @@
         "Maractus": 1,
         "Mightyena": 1,
         "Dragonite": 1,
-        "Tropius": 1
+        "Tropius": 1,
+        "Munchlax": 1
       },
-      "total_spawns": 3813,
-      "last_spawn": "2026-06-30T21:46:53.930556"
+      "total_spawns": 3817,
+      "last_spawn": "2026-06-30T21:47:33.609578"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1966,7 +1967,7 @@
     }
   },
   "global": {
-    "total_spawns": 56853,
+    "total_spawns": 56857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
