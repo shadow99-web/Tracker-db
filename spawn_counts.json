@@ -14,7 +14,7 @@
         "Wiglett": 169,
         "Bombirdier": 169,
         "Litleo": 38,
-        "Purrloin": 39,
+        "Purrloin": 40,
         "Tranquill": 37,
         "Psyduck": 29,
         "Rockruff": 39,
@@ -71,7 +71,7 @@
         "Gloom": 46,
         "Clefairy": 45,
         "Spinda": 9,
-        "Fomantis": 29,
+        "Fomantis": 30,
         "Droopy tatsugiri": 73,
         "Froslass": 16,
         "Tarountula": 179,
@@ -119,11 +119,11 @@
         "Unfezant": 17,
         "Yamask": 51,
         "Ralts": 155,
-        "Solosis": 164,
+        "Solosis": 165,
         "Battle cyclizar": 67,
         "Togetic": 55,
         "Palpitoad": 35,
-        "Pikipek": 195,
+        "Pikipek": 196,
         "Teddiursa": 165,
         "Clamperl": 41,
         "Zigzagoon": 47,
@@ -353,7 +353,7 @@
         "Arboliva": 10,
         "Ledyba": 45,
         "Spritzee": 45,
-        "Swirlix": 42,
+        "Swirlix": 43,
         "Aromatisse": 9,
         "Muk": 10,
         "Toxel": 44,
@@ -387,7 +387,7 @@
         "Shellder": 38,
         "Crobat": 15,
         "Sandshrew": 47,
-        "Palafin": 44,
+        "Palafin": 45,
         "Maractus": 11,
         "Sigilyph": 16,
         "Unown m": 1,
@@ -806,7 +806,7 @@
         "Lickitung": 36,
         "Blue-striped basculin": 12,
         "Barraskewda": 4,
-        "Salazzle": 10,
+        "Salazzle": 11,
         "Pidgeot": 12,
         "Drapion": 9,
         "Barbaracle": 11,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38814,
-      "last_spawn": "2026-06-30T10:41:59.997209"
+      "total_spawns": 38821,
+      "last_spawn": "2026-06-30T10:42:34.639560"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1927,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 46673,
+    "total_spawns": 46680,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
