@@ -1229,7 +1229,7 @@
         "Mienshao": 2,
         "Swinub": 18,
         "Rabsca": 6,
-        "Floragato": 2,
+        "Floragato": 3,
         "Watchog": 1,
         "Boltund": 3,
         "Lillipup": 15,
@@ -1444,7 +1444,7 @@
         "Totodile": 3,
         "Lunatone": 3,
         "Zigzagoon": 2,
-        "Timburr": 13,
+        "Timburr": 14,
         "Glalie": 1,
         "Magikarp": 5,
         "Capsakid": 9,
@@ -1709,7 +1709,7 @@
         "Cacnea": 1,
         "Ponyta": 3,
         "Vullaby": 3,
-        "Drifblim": 1,
+        "Drifblim": 2,
         "Druddigon": 1,
         "Spewpa": 6,
         "Silcoon": 2,
@@ -1889,10 +1889,11 @@
         "Diggersby": 2,
         "Melmetal": 1,
         "Torkoal": 1,
-        "Tyranitar": 1
+        "Tyranitar": 1,
+        "Lopunny": 1
       },
-      "total_spawns": 3190,
-      "last_spawn": "2026-06-30T02:12:02.789781"
+      "total_spawns": 3194,
+      "last_spawn": "2026-06-30T02:12:42.837172"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1902,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 46114,
+    "total_spawns": 46118,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
