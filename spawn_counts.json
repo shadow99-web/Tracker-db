@@ -1243,7 +1243,7 @@
         "Crabrawler": 4,
         "Mudkip": 2,
         "Greavard": 33,
-        "Axew": 14,
+        "Axew": 15,
         "Ride cyclizar": 6,
         "Trapinch": 16,
         "Smoliv": 14,
@@ -1337,7 +1337,7 @@
         "Toedscruel": 4,
         "Klawf": 16,
         "Grookey": 6,
-        "Gossifleur": 7,
+        "Gossifleur": 8,
         "Joltik": 6,
         "Summer deerling": 3,
         "Heliolisk": 3,
@@ -1384,7 +1384,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 2,
         "Typhlosion": 2,
-        "Honedge": 17,
+        "Honedge": 18,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
         "Blipbug": 14,
@@ -1963,10 +1963,11 @@
         "Yveltal": 1,
         "Floatzel": 1,
         "Mamoswine": 1,
-        "Blissey": 1
+        "Blissey": 1,
+        "Vanilluxe": 1
       },
-      "total_spawns": 3885,
-      "last_spawn": "2026-06-30T22:33:37.675879"
+      "total_spawns": 3889,
+      "last_spawn": "2026-06-30T22:34:37.894955"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1976,7 +1977,7 @@
     }
   },
   "global": {
-    "total_spawns": 56925,
+    "total_spawns": 56929,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
