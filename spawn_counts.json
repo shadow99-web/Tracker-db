@@ -1346,7 +1346,7 @@
         "Magcargo": 3,
         "Electabuzz": 4,
         "Sensu oricorio": 1,
-        "Whiscash": 1,
+        "Whiscash": 2,
         "Ursaring": 8,
         "Staryu": 5,
         "Gallade": 1,
@@ -1419,8 +1419,8 @@
         "Tympole": 19,
         "Barboach": 5,
         "Carvanha": 2,
-        "Caterpie": 12,
-        "Dondozo": 20,
+        "Caterpie": 13,
+        "Dondozo": 21,
         "Tranquill": 7,
         "Porygon": 14,
         "Wooloo": 7,
@@ -1596,7 +1596,7 @@
         "Oinkologne": 3,
         "Dragonair": 2,
         "Hippopotas": 3,
-        "Nymble": 15,
+        "Nymble": 16,
         "Phanpy": 3,
         "Scyther": 3,
         "Drizzile": 3,
@@ -1759,7 +1759,7 @@
         "Wimpod": 2,
         "Drampa": 1,
         "Wailord": 1,
-        "White-striped basculin": 1,
+        "White-striped basculin": 2,
         "Pangoro": 2,
         "Bronzong": 1,
         "Bouffalant": 1,
@@ -1910,10 +1910,11 @@
         "Turtonator": 1,
         "Altaria": 1,
         "Copperajah": 1,
-        "Grotle": 1
+        "Grotle": 1,
+        "Vileplume": 1
       },
-      "total_spawns": 3544,
-      "last_spawn": "2026-06-30T07:10:43.661021"
+      "total_spawns": 3550,
+      "last_spawn": "2026-06-30T07:11:13.695501"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1923,7 +1924,7 @@
     }
   },
   "global": {
-    "total_spawns": 46468,
+    "total_spawns": 46474,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
