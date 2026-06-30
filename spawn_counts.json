@@ -1190,8 +1190,8 @@
         "Tynamo": 22,
         "Tandemaus": 14,
         "Smearguru": 17,
-        "Magnemite": 19,
-        "Teddiursa": 19,
+        "Magnemite": 20,
+        "Teddiursa": 20,
         "Houndoom": 1,
         "Torracat": 3,
         "Donphan": 5,
@@ -1342,7 +1342,7 @@
         "Summer deerling": 3,
         "Heliolisk": 3,
         "Raboot": 6,
-        "Vanillite": 16,
+        "Vanillite": 17,
         "Krabby": 4,
         "Clefable": 2,
         "Durant": 3,
@@ -1661,7 +1661,7 @@
         "Thwackey": 3,
         "Claydol": 2,
         "Grimmsnarl": 2,
-        "Frosmoth": 2,
+        "Frosmoth": 3,
         "Dunsparce": 1,
         "Sigilyph": 2,
         "Chinchou": 2,
@@ -1953,8 +1953,8 @@
         "Maractus": 1,
         "Mightyena": 1
       },
-      "total_spawns": 3741,
-      "last_spawn": "2026-06-30T21:33:07.698064"
+      "total_spawns": 3745,
+      "last_spawn": "2026-06-30T21:33:47.603508"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1964,7 +1964,7 @@
     }
   },
   "global": {
-    "total_spawns": 56781,
+    "total_spawns": 56785,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
