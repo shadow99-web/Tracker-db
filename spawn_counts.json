@@ -1142,7 +1142,7 @@
         "Gastly": 15,
         "Scatterbug": 18,
         "Wurmple": 12,
-        "Gothita": 21,
+        "Gothita": 22,
         "Gible": 15,
         "Larvesta": 5,
         "Starly": 15,
@@ -1419,7 +1419,7 @@
         "Tympole": 17,
         "Barboach": 4,
         "Carvanha": 2,
-        "Caterpie": 9,
+        "Caterpie": 10,
         "Dondozo": 17,
         "Tranquill": 6,
         "Porygon": 14,
@@ -1483,7 +1483,7 @@
         "Passimian": 2,
         "Shellos": 5,
         "Articuno": 1,
-        "Surskit": 5,
+        "Surskit": 6,
         "Combee": 2,
         "Flareon": 1,
         "Bunnelby": 1,
@@ -1887,10 +1887,12 @@
         "Gyarados": 1,
         "Kricketune": 1,
         "Diggersby": 1,
-        "Melmetal": 1
+        "Melmetal": 1,
+        "Torkoal": 1,
+        "Tyranitar": 1
       },
-      "total_spawns": 3125,
-      "last_spawn": "2026-06-30T02:00:17.510737"
+      "total_spawns": 3130,
+      "last_spawn": "2026-06-30T02:00:49.328512"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1900,7 +1902,7 @@
     }
   },
   "global": {
-    "total_spawns": 46049,
+    "total_spawns": 46054,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
