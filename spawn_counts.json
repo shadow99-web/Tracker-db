@@ -1165,7 +1165,7 @@
         "Rhyhorn": 10,
         "Tynamo": 18,
         "Tandemaus": 11,
-        "Smearguru": 12,
+        "Smearguru": 13,
         "Magnemite": 17,
         "Teddiursa": 19,
         "Houndoom": 1,
@@ -1410,7 +1410,7 @@
         "Ledyba": 8,
         "Tyrunt": 6,
         "Braixen": 1,
-        "Revavroom": 4,
+        "Revavroom": 5,
         "Drowzee": 3,
         "Huntail": 1,
         "Vibrava": 3,
@@ -1824,7 +1824,7 @@
         "Walrein": 1,
         "Golett": 3,
         "Hitmonlee": 1,
-        "Drakloak": 2,
+        "Drakloak": 3,
         "Corphish": 2,
         "Clodsire": 2,
         "Snover": 2,
@@ -1891,8 +1891,8 @@
         "Torkoal": 1,
         "Tyranitar": 1
       },
-      "total_spawns": 3138,
-      "last_spawn": "2026-06-30T02:01:57.689574"
+      "total_spawns": 3141,
+      "last_spawn": "2026-06-30T02:02:42.725060"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1902,7 +1902,7 @@
     }
   },
   "global": {
-    "total_spawns": 46062,
+    "total_spawns": 46065,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
