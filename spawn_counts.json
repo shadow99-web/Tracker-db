@@ -1475,7 +1475,7 @@
         "Lokix": 3,
         "Tentacruel": 2,
         "Exeggcute": 4,
-        "Diglett": 5,
+        "Diglett": 6,
         "Pidgey": 17,
         "Gligar": 1,
         "Deino": 7,
@@ -1609,7 +1609,7 @@
         "Arrokuda": 2,
         "Palafin": 2,
         "Solrock": 1,
-        "Nosepass": 3,
+        "Nosepass": 4,
         "Exploud": 3,
         "Stretchy tatsugiri": 5,
         "Elgyem": 6,
@@ -1877,10 +1877,11 @@
         "Magnezone": 1,
         "Palossand": 1,
         "Gulpin": 1,
-        "Kricketot": 1
+        "Kricketot": 1,
+        "Garchomp": 1
       },
-      "total_spawns": 2969,
-      "last_spawn": "2026-06-30T01:21:23.692504"
+      "total_spawns": 2972,
+      "last_spawn": "2026-06-30T01:21:53.800349"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1890,7 +1891,7 @@
     }
   },
   "global": {
-    "total_spawns": 45893,
+    "total_spawns": 45896,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
