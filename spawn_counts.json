@@ -1534,9 +1534,9 @@
         "Misdreavus": 3,
         "Chikorita": 3,
         "Armaldo": 2,
-        "Pawmi": 8,
+        "Pawmi": 9,
         "Wugtrio": 3,
-        "Magneton": 3,
+        "Magneton": 4,
         "Toxel": 5,
         "Dachsbun": 5,
         "Cascoon": 7,
@@ -1802,7 +1802,7 @@
         "Numel": 2,
         "Blaziken": 1,
         "Galarian darumaka": 1,
-        "Buizel": 4,
+        "Buizel": 5,
         "Wash rotom": 1,
         "Weavile": 1,
         "Sneasel": 3,
@@ -1899,8 +1899,8 @@
         "Parasect": 1,
         "Gogoat": 1
       },
-      "total_spawns": 3321,
-      "last_spawn": "2026-06-30T05:24:33.661530"
+      "total_spawns": 3324,
+      "last_spawn": "2026-06-30T05:31:09.100703"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1910,7 +1910,7 @@
     }
   },
   "global": {
-    "total_spawns": 46245,
+    "total_spawns": 46248,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
