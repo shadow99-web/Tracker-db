@@ -1225,7 +1225,7 @@
         "Smoliv": 10,
         "Pawniard": 2,
         "Frogadier": 5,
-        "Gimmighoul": 9,
+        "Gimmighoul": 10,
         "Mienshao": 2,
         "Swinub": 16,
         "Rabsca": 5,
@@ -1478,7 +1478,7 @@
         "Diglett": 5,
         "Pidgey": 17,
         "Gligar": 1,
-        "Deino": 6,
+        "Deino": 7,
         "Dolliv": 2,
         "Passimian": 2,
         "Shellos": 5,
@@ -1822,7 +1822,7 @@
         "Mandibuzz": 1,
         "Wigglytuff": 1,
         "Walrein": 1,
-        "Golett": 1,
+        "Golett": 2,
         "Hitmonlee": 1,
         "Drakloak": 2,
         "Corphish": 1,
@@ -1867,10 +1867,11 @@
         "Wormadam": 1,
         "Raticate": 1,
         "Charjabug": 1,
-        "Duraludon": 1
+        "Duraludon": 1,
+        "Quaquaval": 1
       },
-      "total_spawns": 2873,
-      "last_spawn": "2026-06-30T01:00:39.890277"
+      "total_spawns": 2877,
+      "last_spawn": "2026-06-30T01:01:17.807494"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1880,7 +1881,7 @@
     }
   },
   "global": {
-    "total_spawns": 45797,
+    "total_spawns": 45801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
