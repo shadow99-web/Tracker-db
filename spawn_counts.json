@@ -1221,7 +1221,7 @@
         "Greavard": 23,
         "Axew": 13,
         "Ride cyclizar": 3,
-        "Trapinch": 11,
+        "Trapinch": 12,
         "Smoliv": 10,
         "Pawniard": 2,
         "Frogadier": 5,
@@ -1320,7 +1320,7 @@
         "Raboot": 4,
         "Vanillite": 9,
         "Krabby": 3,
-        "Clefable": 1,
+        "Clefable": 2,
         "Durant": 3,
         "Pidgeotto": 3,
         "Maushold": 2,
@@ -1820,7 +1820,7 @@
         "Dwebble": 1,
         "Frillish": 1,
         "Mandibuzz": 2,
-        "Wigglytuff": 1,
+        "Wigglytuff": 2,
         "Walrein": 1,
         "Golett": 2,
         "Hitmonlee": 1,
@@ -1868,10 +1868,11 @@
         "Raticate": 1,
         "Charjabug": 1,
         "Duraludon": 1,
-        "Quaquaval": 1
+        "Quaquaval": 1,
+        "Family of three maushold": 1
       },
-      "total_spawns": 2902,
-      "last_spawn": "2026-06-30T01:05:49.471594"
+      "total_spawns": 2906,
+      "last_spawn": "2026-06-30T01:06:27.610080"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1881,7 +1882,7 @@
     }
   },
   "global": {
-    "total_spawns": 45826,
+    "total_spawns": 45830,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
