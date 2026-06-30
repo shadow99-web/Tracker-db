@@ -1221,7 +1221,7 @@
         "Greavard": 24,
         "Axew": 13,
         "Ride cyclizar": 4,
-        "Trapinch": 12,
+        "Trapinch": 13,
         "Smoliv": 11,
         "Pawniard": 2,
         "Frogadier": 5,
@@ -1458,7 +1458,7 @@
         "Shellder": 3,
         "Graveler": 5,
         "Drifloon": 3,
-        "Makuhita": 3,
+        "Makuhita": 4,
         "Baltoy": 5,
         "Nidoking": 2,
         "Tentacool": 5,
@@ -1477,7 +1477,7 @@
         "Exeggcute": 4,
         "Diglett": 6,
         "Pidgey": 17,
-        "Gligar": 1,
+        "Gligar": 2,
         "Deino": 7,
         "Dolliv": 2,
         "Passimian": 2,
@@ -1879,10 +1879,11 @@
         "Gulpin": 1,
         "Kricketot": 1,
         "Garchomp": 1,
-        "Galarian mr. mime": 1
+        "Galarian mr. mime": 1,
+        "Stoutland": 1
       },
-      "total_spawns": 3032,
-      "last_spawn": "2026-06-30T01:41:22.724775"
+      "total_spawns": 3036,
+      "last_spawn": "2026-06-30T01:42:02.778015"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1892,7 +1893,7 @@
     }
   },
   "global": {
-    "total_spawns": 45956,
+    "total_spawns": 45960,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
