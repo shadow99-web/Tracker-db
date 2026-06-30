@@ -1140,7 +1140,7 @@
         "Roggenrola": 21,
         "Armarouge": 6,
         "Gastly": 15,
-        "Scatterbug": 21,
+        "Scatterbug": 22,
         "Wurmple": 18,
         "Gothita": 23,
         "Gible": 15,
@@ -1163,7 +1163,7 @@
         "Shinx": 23,
         "Pikachu": 6,
         "Rhyhorn": 10,
-        "Tynamo": 21,
+        "Tynamo": 22,
         "Tandemaus": 12,
         "Smearguru": 15,
         "Magnemite": 18,
@@ -1179,7 +1179,7 @@
         "Frigibax": 19,
         "Meowth": 7,
         "Dj rotom": 11,
-        "Prof tangrowth": 19,
+        "Prof tangrowth": 20,
         "Charcadet": 21,
         "Furfrou": 3,
         "Slaking": 2,
@@ -1221,7 +1221,7 @@
         "Greavard": 30,
         "Axew": 14,
         "Ride cyclizar": 4,
-        "Trapinch": 14,
+        "Trapinch": 15,
         "Smoliv": 11,
         "Pawniard": 3,
         "Frogadier": 5,
@@ -1238,7 +1238,7 @@
         "Tadbulb": 13,
         "Helioptile": 4,
         "Blitzle": 9,
-        "Pidove": 15,
+        "Pidove": 16,
         "Doublade": 4,
         "Quilava": 4,
         "Tarountula": 13,
@@ -1360,7 +1360,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 2,
         "Typhlosion": 2,
-        "Honedge": 16,
+        "Honedge": 17,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
         "Blipbug": 12,
@@ -1463,7 +1463,7 @@
         "Nidoking": 2,
         "Tentacool": 7,
         "Servine": 7,
-        "Grubbin": 13,
+        "Grubbin": 14,
         "Clobbopus": 5,
         "Bounsweet": 20,
         "Crawdaunt": 3,
@@ -1906,8 +1906,8 @@
         "Shuppet": 1,
         "Torchic": 1
       },
-      "total_spawns": 3457,
-      "last_spawn": "2026-06-30T07:03:33.599398"
+      "total_spawns": 3464,
+      "last_spawn": "2026-06-30T07:04:07.469916"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1917,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 46381,
+    "total_spawns": 46388,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
