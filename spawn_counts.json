@@ -1235,7 +1235,7 @@
         "Lillipup": 15,
         "Ducklett": 5,
         "Mareep": 13,
-        "Tadbulb": 12,
+        "Tadbulb": 13,
         "Helioptile": 4,
         "Blitzle": 9,
         "Pidove": 15,
@@ -1325,7 +1325,7 @@
         "Pidgeotto": 4,
         "Maushold": 5,
         "Dewpider": 5,
-        "Sobble": 4,
+        "Sobble": 5,
         "Darkrai": 1,
         "Growlithe": 3,
         "Nihilego": 1,
@@ -1534,7 +1534,7 @@
         "Misdreavus": 3,
         "Chikorita": 3,
         "Armaldo": 2,
-        "Pawmi": 9,
+        "Pawmi": 10,
         "Wugtrio": 3,
         "Magneton": 4,
         "Toxel": 5,
@@ -1771,7 +1771,7 @@
         "Haxorus": 1,
         "Slurpuff": 1,
         "Rockruff": 3,
-        "Sliggoo": 4,
+        "Sliggoo": 5,
         "Spoink": 1,
         "Binacle": 4,
         "Mudsdale": 1,
@@ -1904,8 +1904,8 @@
         "Raging bolt": 1,
         "Blacephalon": 1
       },
-      "total_spawns": 3376,
-      "last_spawn": "2026-06-30T06:32:07.500908"
+      "total_spawns": 3380,
+      "last_spawn": "2026-06-30T06:32:37.547931"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 46300,
+    "total_spawns": 46304,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
