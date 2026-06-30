@@ -1384,7 +1384,7 @@
         "Sprigatito": 7,
         "Toedscool": 18,
         "Luxio": 5,
-        "Fuecoco": 9,
+        "Fuecoco": 10,
         "Electrode": 1,
         "Chandelure": 3,
         "Wiglett": 15,
@@ -1892,10 +1892,11 @@
         "Tyranitar": 1,
         "Lopunny": 1,
         "Chatot": 1,
-        "Bayleef": 1
+        "Bayleef": 1,
+        "Galarian slowbro": 1
       },
-      "total_spawns": 3267,
-      "last_spawn": "2026-06-30T05:07:25.242005"
+      "total_spawns": 3269,
+      "last_spawn": "2026-06-30T05:08:05.099348"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1905,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 46191,
+    "total_spawns": 46193,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
