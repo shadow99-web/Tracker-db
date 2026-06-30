@@ -1512,7 +1512,7 @@
         "Ekans": 2,
         "Swanna": 2,
         "Marill": 6,
-        "Oshawott": 8,
+        "Oshawott": 9,
         "Cyclizar": 6,
         "Castform": 1,
         "Shelmet": 6,
@@ -1607,7 +1607,7 @@
         "Alomomola": 3,
         "Skorupi": 4,
         "Arrokuda": 2,
-        "Palafin": 2,
+        "Palafin": 3,
         "Solrock": 1,
         "Nosepass": 4,
         "Exploud": 3,
@@ -1895,10 +1895,11 @@
         "Bayleef": 1,
         "Galarian slowbro": 1,
         "Pawmot": 1,
-        "Applin": 1
+        "Applin": 1,
+        "Parasect": 1
       },
-      "total_spawns": 3296,
-      "last_spawn": "2026-06-30T05:12:57.531704"
+      "total_spawns": 3299,
+      "last_spawn": "2026-06-30T05:13:27.570018"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1908,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 46220,
+    "total_spawns": 46223,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
