@@ -1246,7 +1246,7 @@
         "Axew": 14,
         "Ride cyclizar": 5,
         "Trapinch": 16,
-        "Smoliv": 13,
+        "Smoliv": 14,
         "Pawniard": 3,
         "Frogadier": 5,
         "Gimmighoul": 11,
@@ -1327,7 +1327,7 @@
         "Oranguru": 1,
         "Golisopod": 4,
         "Beheeyem": 2,
-        "Charizard": 1,
+        "Charizard": 2,
         "Kirlia": 3,
         "Treecko": 10,
         "Veluza": 20,
@@ -1349,7 +1349,7 @@
         "Pidgeotto": 5,
         "Maushold": 5,
         "Dewpider": 5,
-        "Sobble": 5,
+        "Sobble": 6,
         "Darkrai": 1,
         "Growlithe": 3,
         "Nihilego": 1,
@@ -1961,10 +1961,11 @@
         "Flapple": 1,
         "Hydreigon": 1,
         "Yveltal": 1,
-        "Floatzel": 1
+        "Floatzel": 1,
+        "Mamoswine": 1
       },
-      "total_spawns": 3855,
-      "last_spawn": "2026-06-30T22:00:14.010488"
+      "total_spawns": 3859,
+      "last_spawn": "2026-06-30T22:00:53.790277"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1974,7 +1975,7 @@
     }
   },
   "global": {
-    "total_spawns": 56895,
+    "total_spawns": 56899,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
