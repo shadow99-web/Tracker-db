@@ -1363,9 +1363,9 @@
         "Honedge": 16,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
-        "Blipbug": 11,
+        "Blipbug": 12,
         "Zen darmanitan": 1,
-        "Duskull": 13,
+        "Duskull": 14,
         "Vigoroth": 3,
         "Seviper": 2,
         "Goomy": 8,
@@ -1565,7 +1565,7 @@
         "Cacturne": 1,
         "Metapod": 4,
         "Sealeo": 7,
-        "Wynaut": 1,
+        "Wynaut": 2,
         "Staravia": 3,
         "Spidops": 4,
         "Appletun": 2,
@@ -1903,8 +1903,8 @@
         "Hydrapple": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 3361,
-      "last_spawn": "2026-06-30T06:01:57.498898"
+      "total_spawns": 3364,
+      "last_spawn": "2026-06-30T06:02:44.511279"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1914,7 +1914,7 @@
     }
   },
   "global": {
-    "total_spawns": 46285,
+    "total_spawns": 46288,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
