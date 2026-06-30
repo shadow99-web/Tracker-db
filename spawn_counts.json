@@ -63,7 +63,7 @@
         "Larvesta": 53,
         "Beldum": 129,
         "Ducklett": 43,
-        "Lokix": 43,
+        "Lokix": 44,
         "Glimmora": 48,
         "Starly": 179,
         "Tandemaus": 149,
@@ -124,7 +124,7 @@
         "Togetic": 55,
         "Palpitoad": 35,
         "Pikipek": 195,
-        "Teddiursa": 164,
+        "Teddiursa": 165,
         "Clamperl": 41,
         "Zigzagoon": 47,
         "Weedle": 204,
@@ -173,7 +173,7 @@
         "Swinub": 185,
         "Inkay": 48,
         "Gible": 112,
-        "Rookidee": 133,
+        "Rookidee": 134,
         "Minccino": 58,
         "Wurmple": 159,
         "Binacle": 51,
@@ -408,7 +408,7 @@
         "Rufflet": 47,
         "Kabutops": 9,
         "Dondozo": 169,
-        "Pansear": 43,
+        "Pansear": 44,
         "Cutiefly": 52,
         "Peakychu": 135,
         "Armarouge": 44,
@@ -469,7 +469,7 @@
         "Shelgon": 27,
         "Buizel": 36,
         "Arctozolt": 14,
-        "Snorunt": 40,
+        "Snorunt": 41,
         "Bunnelby": 44,
         "Gulping cramorant": 3,
         "Simisear": 6,
@@ -850,13 +850,13 @@
         "Quagsire": 7,
         "Darkrai": 4,
         "Togedemaru": 8,
-        "Minior": 8,
+        "Minior": 9,
         "Mr. mime": 11,
         "Chesnaught": 9,
         "Jumpluff": 8,
         "Heatmor": 4,
         "Dubwool": 10,
-        "Shuckle": 7,
+        "Shuckle": 8,
         "Hydreigon": 5,
         "Alolan vulpix": 3,
         "Liepard": 12,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38794,
-      "last_spawn": "2026-06-30T10:40:20.108221"
+      "total_spawns": 38801,
+      "last_spawn": "2026-06-30T10:40:54.399350"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1927,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 46653,
+    "total_spawns": 46660,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
