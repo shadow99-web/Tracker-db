@@ -1151,7 +1151,7 @@
         "Chef dente": 11,
         "Hatenna": 18,
         "Dugtrio": 1,
-        "Kadabra": 6,
+        "Kadabra": 7,
         "Sandile": 14,
         "Riolu": 4,
         "Hisuian avalugg": 1,
@@ -1220,7 +1220,7 @@
         "Mudkip": 2,
         "Greavard": 24,
         "Axew": 13,
-        "Ride cyclizar": 3,
+        "Ride cyclizar": 4,
         "Trapinch": 12,
         "Smoliv": 10,
         "Pawniard": 2,
@@ -1874,10 +1874,11 @@
         "Toxapex": 1,
         "Burmy": 1,
         "Sunflora": 1,
-        "Magnezone": 1
+        "Magnezone": 1,
+        "Palossand": 1
       },
-      "total_spawns": 2952,
-      "last_spawn": "2026-06-30T01:18:27.408698"
+      "total_spawns": 2955,
+      "last_spawn": "2026-06-30T01:18:57.569321"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1887,7 +1888,7 @@
     }
   },
   "global": {
-    "total_spawns": 45876,
+    "total_spawns": 45879,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
