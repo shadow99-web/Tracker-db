@@ -43,7 +43,7 @@
         "Fletchling": 149,
         "Skiploom": 48,
         "Timburr": 176,
-        "Dj rotom": 150,
+        "Dj rotom": 151,
         "Surskit": 56,
         "Seedot": 161,
         "Skitty": 46,
@@ -139,7 +139,7 @@
         "Phanpy": 24,
         "Brambleghast": 53,
         "Pidgey": 196,
-        "Rhyhorn": 171,
+        "Rhyhorn": 172,
         "Sentret": 43,
         "Yungoos": 41,
         "Diglett": 53,
@@ -231,7 +231,7 @@
         "Drowzee": 33,
         "Blipbug": 173,
         "Lampent": 52,
-        "Petilil": 52,
+        "Petilil": 53,
         "Marshtomp": 49,
         "Eiscue": 15,
         "Summer deerling": 42,
@@ -420,7 +420,7 @@
         "Summer sawsbuck": 12,
         "Delibird": 15,
         "Ride cyclizar": 58,
-        "Gothorita": 44,
+        "Gothorita": 45,
         "Varoom": 174,
         "Yellow plumage squawkabilly": 44,
         "Centiskorch": 11,
@@ -534,7 +534,7 @@
         "Axew": 169,
         "Trevenant": 15,
         "Trubbish": 35,
-        "Zorua": 32,
+        "Zorua": 33,
         "Archen": 44,
         "Oinkologne": 53,
         "Onix": 43,
@@ -546,7 +546,7 @@
         "Oricorio": 13,
         "Kangaskhan": 9,
         "Krokorok": 42,
-        "Dragonair": 32,
+        "Dragonair": 33,
         "Zweilous": 26,
         "Karrablast": 38,
         "Shroomish": 48,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38697,
-      "last_spawn": "2026-06-30T10:12:59.901212"
+      "total_spawns": 38703,
+      "last_spawn": "2026-06-30T10:13:30.007895"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 46554,
+    "total_spawns": 46560,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
