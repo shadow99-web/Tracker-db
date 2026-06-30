@@ -1141,7 +1141,7 @@
         "Armarouge": 5,
         "Gastly": 14,
         "Scatterbug": 17,
-        "Wurmple": 11,
+        "Wurmple": 12,
         "Gothita": 21,
         "Gible": 15,
         "Larvesta": 5,
@@ -1241,7 +1241,7 @@
         "Pidove": 15,
         "Doublade": 4,
         "Quilava": 3,
-        "Tarountula": 9,
+        "Tarountula": 10,
         "Dottler": 1,
         "Paras": 2,
         "Swablu": 7,
@@ -1878,10 +1878,11 @@
         "Palossand": 1,
         "Gulpin": 1,
         "Kricketot": 1,
-        "Garchomp": 1
+        "Garchomp": 1,
+        "Galarian mr. mime": 1
       },
-      "total_spawns": 3013,
-      "last_spawn": "2026-06-30T01:38:02.700618"
+      "total_spawns": 3016,
+      "last_spawn": "2026-06-30T01:38:42.613303"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1891,7 +1892,7 @@
     }
   },
   "global": {
-    "total_spawns": 45937,
+    "total_spawns": 45940,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
