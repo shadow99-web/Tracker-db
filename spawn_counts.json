@@ -1403,7 +1403,7 @@
         "Mankey": 4,
         "Charmander": 5,
         "Shroomish": 3,
-        "Finizen": 9,
+        "Finizen": 10,
         "Croconaw": 2,
         "Bronzor": 5,
         "Eelektrik": 3,
@@ -1864,7 +1864,7 @@
         "Dewgong": 1,
         "Azumarill": 1,
         "Meowstic": 1,
-        "Wormadam": 1,
+        "Wormadam": 2,
         "Raticate": 1,
         "Charjabug": 1,
         "Duraludon": 1,
@@ -1880,8 +1880,8 @@
         "Kricketot": 1,
         "Garchomp": 1
       },
-      "total_spawns": 3005,
-      "last_spawn": "2026-06-30T01:33:53.674302"
+      "total_spawns": 3007,
+      "last_spawn": "2026-06-30T01:34:33.625719"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1891,7 +1891,7 @@
     }
   },
   "global": {
-    "total_spawns": 45929,
+    "total_spawns": 45931,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
