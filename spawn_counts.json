@@ -1165,7 +1165,7 @@
         "Rhyhorn": 10,
         "Tynamo": 22,
         "Tandemaus": 13,
-        "Smearguru": 16,
+        "Smearguru": 17,
         "Magnemite": 19,
         "Teddiursa": 19,
         "Houndoom": 1,
@@ -1198,7 +1198,7 @@
         "Impidimp": 20,
         "Solosis": 14,
         "Brambleghast": 1,
-        "Rellor": 14,
+        "Rellor": 15,
         "Nincada": 6,
         "Wattrel": 14,
         "Entei": 1,
@@ -1260,7 +1260,7 @@
         "Litwick": 26,
         "Frost rotom": 1,
         "Cubchoo": 8,
-        "Abra": 20,
+        "Abra": 21,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1403,7 +1403,7 @@
         "Mankey": 4,
         "Charmander": 5,
         "Shroomish": 3,
-        "Finizen": 10,
+        "Finizen": 11,
         "Croconaw": 3,
         "Bronzor": 10,
         "Eelektrik": 4,
@@ -1461,7 +1461,7 @@
         "Makuhita": 4,
         "Baltoy": 5,
         "Nidoking": 2,
-        "Tentacool": 7,
+        "Tentacool": 8,
         "Servine": 7,
         "Grubbin": 14,
         "Clobbopus": 5,
@@ -1749,7 +1749,7 @@
         "Heracross": 2,
         "Munna": 1,
         "Pineco": 5,
-        "Spearow": 3,
+        "Spearow": 4,
         "Rhyperior": 1,
         "Farfetch'd": 1,
         "Vespiquen": 1,
@@ -1911,10 +1911,11 @@
         "Altaria": 1,
         "Copperajah": 1,
         "Grotle": 1,
-        "Vileplume": 1
+        "Vileplume": 1,
+        "Cinccino": 1
       },
-      "total_spawns": 3550,
-      "last_spawn": "2026-06-30T07:11:13.695501"
+      "total_spawns": 3557,
+      "last_spawn": "2026-06-30T07:11:47.896848"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1924,7 +1925,7 @@
     }
   },
   "global": {
-    "total_spawns": 46474,
+    "total_spawns": 46481,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
