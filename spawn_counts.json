@@ -1779,7 +1779,7 @@
         "Vespiquen": 1,
         "Crobat": 2,
         "Croagunk": 4,
-        "Voltorb": 2,
+        "Voltorb": 3,
         "Wimpod": 2,
         "Drampa": 1,
         "Wailord": 1,
@@ -1788,7 +1788,7 @@
         "Bronzong": 1,
         "Bouffalant": 1,
         "Persian": 1,
-        "Stunky": 4,
+        "Stunky": 5,
         "Noctowl": 2,
         "Foongus": 4,
         "Klefki": 1,
@@ -1820,7 +1820,7 @@
         "Gurdurr": 3,
         "Bidoof": 4,
         "Rowlet": 4,
-        "Meditite": 3,
+        "Meditite": 4,
         "Pyukumuku": 1,
         "Hatterene": 1,
         "Numel": 4,
@@ -1955,8 +1955,8 @@
         "Dragonite": 1,
         "Tropius": 1
       },
-      "total_spawns": 3800,
-      "last_spawn": "2026-06-30T21:44:33.697707"
+      "total_spawns": 3803,
+      "last_spawn": "2026-06-30T21:45:04.511764"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1966,7 +1966,7 @@
     }
   },
   "global": {
-    "total_spawns": 56840,
+    "total_spawns": 56843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
