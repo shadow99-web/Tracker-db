@@ -1331,7 +1331,7 @@
         "Nihilego": 1,
         "Slakoth": 11,
         "Marowak": 1,
-        "Sentret": 5,
+        "Sentret": 6,
         "Cottonee": 3,
         "Horsea": 15,
         "Doduo": 3,
@@ -1871,10 +1871,12 @@
         "Quaquaval": 1,
         "Family of three maushold": 1,
         "Gourgeist": 1,
-        "Toxapex": 1
+        "Toxapex": 1,
+        "Burmy": 1,
+        "Sunflora": 1
       },
-      "total_spawns": 2931,
-      "last_spawn": "2026-06-30T01:13:57.613758"
+      "total_spawns": 2934,
+      "last_spawn": "2026-06-30T01:14:27.673096"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1884,7 +1886,7 @@
     }
   },
   "global": {
-    "total_spawns": 45855,
+    "total_spawns": 45858,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
