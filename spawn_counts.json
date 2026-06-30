@@ -1142,7 +1142,7 @@
         "Gastly": 15,
         "Scatterbug": 19,
         "Wurmple": 15,
-        "Gothita": 22,
+        "Gothita": 23,
         "Gible": 15,
         "Larvesta": 5,
         "Starly": 15,
@@ -1323,7 +1323,7 @@
         "Clefable": 2,
         "Durant": 3,
         "Pidgeotto": 4,
-        "Maushold": 4,
+        "Maushold": 5,
         "Dewpider": 5,
         "Sobble": 4,
         "Darkrai": 1,
@@ -1890,10 +1890,12 @@
         "Melmetal": 1,
         "Torkoal": 1,
         "Tyranitar": 1,
-        "Lopunny": 1
+        "Lopunny": 1,
+        "Chatot": 1,
+        "Bayleef": 1
       },
-      "total_spawns": 3261,
-      "last_spawn": "2026-06-30T05:06:09.005963"
+      "total_spawns": 3265,
+      "last_spawn": "2026-06-30T05:06:45.081839"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1903,7 +1905,7 @@
     }
   },
   "global": {
-    "total_spawns": 46185,
+    "total_spawns": 46189,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
