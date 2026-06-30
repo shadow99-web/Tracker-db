@@ -1605,7 +1605,7 @@
         "Milcery": 3,
         "Petilil": 4,
         "Alomomola": 3,
-        "Skorupi": 3,
+        "Skorupi": 4,
         "Arrokuda": 2,
         "Palafin": 2,
         "Solrock": 1,
@@ -1756,7 +1756,7 @@
         "Crobat": 2,
         "Croagunk": 3,
         "Voltorb": 2,
-        "Wimpod": 1,
+        "Wimpod": 2,
         "Drampa": 1,
         "Wailord": 1,
         "White-striped basculin": 1,
@@ -1885,8 +1885,8 @@
         "Yungoos": 1,
         "Seel": 1
       },
-      "total_spawns": 3087,
-      "last_spawn": "2026-06-30T01:54:45.154435"
+      "total_spawns": 3089,
+      "last_spawn": "2026-06-30T01:55:25.220862"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1896,7 +1896,7 @@
     }
   },
   "global": {
-    "total_spawns": 46011,
+    "total_spawns": 46013,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
