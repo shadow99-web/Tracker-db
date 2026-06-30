@@ -1160,7 +1160,7 @@
         "Dreepy": 16,
         "Bagon": 13,
         "Archen": 7,
-        "Shinx": 23,
+        "Shinx": 24,
         "Pikachu": 6,
         "Rhyhorn": 10,
         "Tynamo": 22,
@@ -1260,7 +1260,7 @@
         "Litwick": 26,
         "Frost rotom": 1,
         "Cubchoo": 8,
-        "Abra": 21,
+        "Abra": 22,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 1,
@@ -1434,7 +1434,7 @@
         "Geodude": 21,
         "Gholdengo": 3,
         "Dudunsparce": 2,
-        "Whirlipede": 3,
+        "Whirlipede": 4,
         "Skiddo": 4,
         "Spiritomb": 3,
         "Seadra": 3,
@@ -1444,7 +1444,7 @@
         "Totodile": 4,
         "Lunatone": 3,
         "Zigzagoon": 2,
-        "Timburr": 18,
+        "Timburr": 19,
         "Glalie": 1,
         "Magikarp": 5,
         "Capsakid": 11,
@@ -1556,7 +1556,7 @@
         "Pignite": 4,
         "Ferroseed": 3,
         "Grafaiai": 6,
-        "Tangela": 5,
+        "Tangela": 6,
         "Palpitoad": 5,
         "Tyrogue": 6,
         "Gloom": 2,
@@ -1766,7 +1766,7 @@
         "Persian": 1,
         "Stunky": 4,
         "Noctowl": 2,
-        "Foongus": 2,
+        "Foongus": 3,
         "Klefki": 1,
         "Haxorus": 1,
         "Slurpuff": 1,
@@ -1824,7 +1824,7 @@
         "Walrein": 1,
         "Golett": 4,
         "Hitmonlee": 1,
-        "Drakloak": 3,
+        "Drakloak": 4,
         "Corphish": 2,
         "Clodsire": 3,
         "Snover": 3,
@@ -1914,8 +1914,8 @@
         "Vileplume": 1,
         "Cinccino": 1
       },
-      "total_spawns": 3557,
-      "last_spawn": "2026-06-30T07:11:47.896848"
+      "total_spawns": 3564,
+      "last_spawn": "2026-06-30T07:12:23.599145"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1925,7 +1925,7 @@
     }
   },
   "global": {
-    "total_spawns": 46481,
+    "total_spawns": 46488,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
