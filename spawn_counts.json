@@ -1186,11 +1186,11 @@
         "Archen": 8,
         "Shinx": 25,
         "Pikachu": 6,
-        "Rhyhorn": 10,
+        "Rhyhorn": 11,
         "Tynamo": 23,
         "Tandemaus": 14,
         "Smearguru": 17,
-        "Magnemite": 21,
+        "Magnemite": 22,
         "Teddiursa": 20,
         "Houndoom": 1,
         "Torracat": 3,
@@ -1956,10 +1956,12 @@
         "Tropius": 1,
         "Munchlax": 1,
         "Musharna": 1,
-        "Ariados": 1
+        "Ariados": 1,
+        "Kakuna": 1,
+        "Flapple": 1
       },
-      "total_spawns": 3836,
-      "last_spawn": "2026-06-30T21:52:33.738516"
+      "total_spawns": 3840,
+      "last_spawn": "2026-06-30T21:53:13.543869"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1969,7 +1971,7 @@
     }
   },
   "global": {
-    "total_spawns": 56876,
+    "total_spawns": 56880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
