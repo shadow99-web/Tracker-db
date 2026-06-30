@@ -1360,7 +1360,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 1,
         "Typhlosion": 2,
-        "Honedge": 15,
+        "Honedge": 16,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
         "Blipbug": 11,
@@ -1794,7 +1794,7 @@
         "Electrike": 2,
         "Houndour": 3,
         "Gurdurr": 3,
-        "Bidoof": 2,
+        "Bidoof": 3,
         "Rowlet": 2,
         "Meditite": 3,
         "Pyukumuku": 1,
@@ -1898,10 +1898,11 @@
         "Applin": 1,
         "Parasect": 1,
         "Gogoat": 1,
-        "Rayquaza": 4
+        "Rayquaza": 4,
+        "Shuckle": 1
       },
-      "total_spawns": 3336,
-      "last_spawn": "2026-06-30T05:56:57.548603"
+      "total_spawns": 3339,
+      "last_spawn": "2026-06-30T05:57:27.696221"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1911,7 +1912,7 @@
     }
   },
   "global": {
-    "total_spawns": 46260,
+    "total_spawns": 46263,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
