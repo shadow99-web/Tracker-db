@@ -1140,7 +1140,7 @@
         "Roggenrola": 19,
         "Armarouge": 6,
         "Gastly": 15,
-        "Scatterbug": 19,
+        "Scatterbug": 20,
         "Wurmple": 16,
         "Gothita": 23,
         "Gible": 15,
@@ -1276,7 +1276,7 @@
         "Lileep": 6,
         "Cetoddle": 17,
         "Chespin": 3,
-        "Naclstack": 6,
+        "Naclstack": 7,
         "Ferrothorn": 2,
         "Karrablast": 5,
         "Sinistea": 11,
@@ -1299,7 +1299,7 @@
         "Rolycoly": 10,
         "Iron treads": 1,
         "Politoed": 2,
-        "Fraxure": 5,
+        "Fraxure": 7,
         "Oranguru": 1,
         "Golisopod": 4,
         "Beheeyem": 1,
@@ -1900,8 +1900,8 @@
         "Gogoat": 1,
         "Rayquaza": 4
       },
-      "total_spawns": 3332,
-      "last_spawn": "2026-06-30T05:56:17.483688"
+      "total_spawns": 3336,
+      "last_spawn": "2026-06-30T05:56:57.548603"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1911,7 +1911,7 @@
     }
   },
   "global": {
-    "total_spawns": 46256,
+    "total_spawns": 46260,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
