@@ -51,14 +51,14 @@
         "Slugma": 52,
         "Grotle": 33,
         "Porygon": 192,
-        "Zubat": 192,
+        "Zubat": 193,
         "Vanillish": 50,
         "Tadbulb": 206,
         "Magnemite": 178,
         "Whismur": 168,
         "Monferno": 43,
         "Skwovet": 48,
-        "Bramblin": 199,
+        "Bramblin": 200,
         "Yanma": 41,
         "Larvesta": 53,
         "Beldum": 128,
@@ -130,7 +130,7 @@
         "Weedle": 203,
         "Flamigo": 163,
         "Lillipup": 170,
-        "Shinx": 193,
+        "Shinx": 194,
         "Bounsweet": 172,
         "Noibat": 40,
         "Toxicroak": 15,
@@ -235,7 +235,7 @@
         "Marshtomp": 49,
         "Eiscue": 15,
         "Summer deerling": 42,
-        "Clauncher": 45,
+        "Clauncher": 46,
         "Clobbopus": 42,
         "Omanyte": 45,
         "Galvantula": 11,
@@ -268,7 +268,7 @@
         "Loudred": 53,
         "Ceruledge": 44,
         "Houndour": 42,
-        "Glimmet": 180,
+        "Glimmet": 181,
         "Goomy": 113,
         "Zapdos": 1,
         "Natu": 34,
@@ -490,7 +490,7 @@
         "Dottler": 45,
         "Eevee": 39,
         "Copperajah": 10,
-        "Magneton": 33,
+        "Magneton": 34,
         "Alakazam": 9,
         "Bayleef": 41,
         "Poochyena": 42,
@@ -1124,8 +1124,8 @@
         "Complete zygarde": 1,
         "Raging bolt": 1
       },
-      "total_spawns": 38657,
-      "last_spawn": "2026-06-30T10:09:40.075024"
+      "total_spawns": 38663,
+      "last_spawn": "2026-06-30T10:10:10.111191"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 46514,
+    "total_spawns": 46520,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
