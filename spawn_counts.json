@@ -1163,7 +1163,7 @@
         "Shinx": 23,
         "Pikachu": 6,
         "Rhyhorn": 10,
-        "Tynamo": 17,
+        "Tynamo": 18,
         "Tandemaus": 11,
         "Smearguru": 12,
         "Magnemite": 17,
@@ -1248,7 +1248,7 @@
         "Darumaka": 5,
         "Wailmer": 2,
         "Jangmo-o": 13,
-        "Aron": 13,
+        "Aron": 14,
         "Kabuto": 4,
         "Togetic": 5,
         "Sewaddle": 20,
@@ -1368,7 +1368,7 @@
         "Duskull": 10,
         "Vigoroth": 3,
         "Seviper": 2,
-        "Goomy": 7,
+        "Goomy": 8,
         "Nickit": 2,
         "Sandshrew": 5,
         "Tirtouga": 3,
@@ -1795,7 +1795,7 @@
         "Houndour": 2,
         "Gurdurr": 3,
         "Bidoof": 2,
-        "Rowlet": 1,
+        "Rowlet": 2,
         "Meditite": 3,
         "Pyukumuku": 1,
         "Hatterene": 1,
@@ -1885,10 +1885,12 @@
         "Yungoos": 1,
         "Seel": 1,
         "Gyarados": 1,
-        "Kricketune": 1
+        "Kricketune": 1,
+        "Diggersby": 1,
+        "Melmetal": 1
       },
-      "total_spawns": 3104,
-      "last_spawn": "2026-06-30T01:57:58.876685"
+      "total_spawns": 3110,
+      "last_spawn": "2026-06-30T01:58:37.503685"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1898,7 +1900,7 @@
     }
   },
   "global": {
-    "total_spawns": 46028,
+    "total_spawns": 46034,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
