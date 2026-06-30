@@ -1463,7 +1463,7 @@
         "Nidoking": 2,
         "Tentacool": 5,
         "Servine": 7,
-        "Grubbin": 11,
+        "Grubbin": 12,
         "Clobbopus": 5,
         "Bounsweet": 18,
         "Crawdaunt": 3,
@@ -1551,7 +1551,7 @@
         "Vaporeon": 2,
         "Araquanid": 1,
         "Elekid": 2,
-        "Panpour": 2,
+        "Panpour": 3,
         "Trevenant": 1,
         "Pignite": 4,
         "Ferroseed": 2,
@@ -1564,7 +1564,7 @@
         "Drednaw": 3,
         "Cacturne": 1,
         "Metapod": 4,
-        "Sealeo": 6,
+        "Sealeo": 7,
         "Wynaut": 1,
         "Staravia": 3,
         "Spidops": 4,
@@ -1891,8 +1891,8 @@
         "Torkoal": 1,
         "Tyranitar": 1
       },
-      "total_spawns": 3135,
-      "last_spawn": "2026-06-30T02:01:22.626986"
+      "total_spawns": 3138,
+      "last_spawn": "2026-06-30T02:01:57.689574"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1902,7 +1902,7 @@
     }
   },
   "global": {
-    "total_spawns": 46059,
+    "total_spawns": 46062,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
