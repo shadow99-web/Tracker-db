@@ -1416,7 +1416,7 @@
         "Fuecoco": 12,
         "Electrode": 1,
         "Chandelure": 3,
-        "Wiglett": 23,
+        "Wiglett": 24,
         "Farigiraf": 3,
         "Zubat": 18,
         "Lotad": 11,
@@ -1579,7 +1579,7 @@
         "Arcanine": 3,
         "Vaporeon": 4,
         "Araquanid": 1,
-        "Elekid": 2,
+        "Elekid": 3,
         "Panpour": 5,
         "Trevenant": 1,
         "Pignite": 4,
@@ -1608,7 +1608,7 @@
         "Braviary": 2,
         "Cubone": 4,
         "Stantler": 5,
-        "Rufflet": 4,
+        "Rufflet": 5,
         "Klang": 4,
         "Drilbur": 5,
         "Mismagius": 1,
@@ -1702,7 +1702,7 @@
         "Samurott": 2,
         "Ditto": 2,
         "Smeargle": 1,
-        "Espathra": 2,
+        "Espathra": 3,
         "Yellow plumage squawkabilly": 4,
         "Roserade": 1,
         "Scovillain": 6,
@@ -2004,8 +2004,8 @@
         "Dipplin": 1,
         "Sandslash": 1
       },
-      "total_spawns": 4503,
-      "last_spawn": "2026-07-01T16:31:43.161285"
+      "total_spawns": 4507,
+      "last_spawn": "2026-07-01T16:32:22.903198"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2015,7 +2015,7 @@
     }
   },
   "global": {
-    "total_spawns": 60866,
+    "total_spawns": 60870,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
