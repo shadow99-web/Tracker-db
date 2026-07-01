@@ -19,7 +19,7 @@
         "Psyduck": 39,
         "Rockruff": 51,
         "Haunter": 61,
-        "Tangela": 53,
+        "Tangela": 54,
         "Orbeetle": 14,
         "Dedenne": 10,
         "Machop": 206,
@@ -74,10 +74,10 @@
         "Fomantis": 41,
         "Droopy tatsugiri": 95,
         "Froslass": 19,
-        "Tarountula": 228,
+        "Tarountula": 229,
         "Hatterene": 13,
         "Phantump": 67,
-        "Duosion": 50,
+        "Duosion": 51,
         "Amaura": 65,
         "Gimmighoul": 207,
         "Baltoy": 58,
@@ -140,9 +140,9 @@
         "Brambleghast": 64,
         "Pidgey": 243,
         "Rhyhorn": 210,
-        "Sentret": 54,
+        "Sentret": 55,
         "Yungoos": 52,
-        "Diglett": 69,
+        "Diglett": 70,
         "Doduo": 50,
         "Lairon": 62,
         "Emboar": 11,
@@ -469,7 +469,7 @@
         "Shelgon": 32,
         "Buizel": 47,
         "Arctozolt": 16,
-        "Snorunt": 55,
+        "Snorunt": 56,
         "Bunnelby": 53,
         "Gulping cramorant": 3,
         "Simisear": 12,
@@ -601,7 +601,7 @@
         "Conkeldurr": 11,
         "Walking wake": 2,
         "Yellow flower floette": 8,
-        "Medicham": 10,
+        "Medicham": 11,
         "Doublade": 52,
         "Naclstack": 55,
         "Claydol": 10,
@@ -832,7 +832,7 @@
         "Lickilicky": 17,
         "Dragonite": 13,
         "High-speed flight configuration genesect": 1,
-        "Mantyke": 16,
+        "Mantyke": 17,
         "Arctovish": 14,
         "Ribombee": 11,
         "Alolan meowth": 1,
@@ -1149,8 +1149,8 @@
         "Unown s": 1,
         "Zacian": 1
       },
-      "total_spawns": 49635,
-      "last_spawn": "2026-07-01T15:16:28.031148"
+      "total_spawns": 49643,
+      "last_spawn": "2026-07-01T15:16:58.040039"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -2007,7 +2007,7 @@
     }
   },
   "global": {
-    "total_spawns": 58297,
+    "total_spawns": 58305,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
