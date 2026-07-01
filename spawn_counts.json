@@ -1851,7 +1851,7 @@
         "Hitmonlee": 2,
         "Drakloak": 4,
         "Corphish": 3,
-        "Clodsire": 3,
+        "Clodsire": 4,
         "Snover": 3,
         "Unfezant": 1,
         "Magmar": 2,
@@ -1992,10 +1992,11 @@
         "Gardevoir": 1,
         "Comfey": 1,
         "Ninetales": 1,
-        "Diamond trim furfrou": 1
+        "Diamond trim furfrou": 1,
+        "Exeggutor": 1
       },
-      "total_spawns": 4330,
-      "last_spawn": "2026-07-01T09:46:33.613407"
+      "total_spawns": 4332,
+      "last_spawn": "2026-07-01T09:47:13.491116"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2005,7 +2006,7 @@
     }
   },
   "global": {
-    "total_spawns": 58170,
+    "total_spawns": 58172,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
