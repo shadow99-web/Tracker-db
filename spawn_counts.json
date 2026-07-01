@@ -1165,12 +1165,12 @@
         "Armarouge": 7,
         "Gastly": 20,
         "Scatterbug": 24,
-        "Wurmple": 24,
+        "Wurmple": 25,
         "Gothita": 27,
         "Gible": 17,
         "Larvesta": 6,
         "Starly": 18,
-        "Varoom": 31,
+        "Varoom": 32,
         "Weedle": 19,
         "Chef dente": 15,
         "Hatenna": 22,
@@ -1584,7 +1584,7 @@
         "Palpitoad": 6,
         "Tyrogue": 6,
         "Gloom": 2,
-        "Grimer": 6,
+        "Grimer": 7,
         "Drednaw": 3,
         "Cacturne": 1,
         "Metapod": 4,
@@ -1677,7 +1677,7 @@
         "Corviknight": 2,
         "Mareanie": 6,
         "Phantump": 7,
-        "Girafarig": 1,
+        "Girafarig": 2,
         "Duosion": 2,
         "Mudbray": 4,
         "Bombirdier": 9,
@@ -1983,10 +1983,11 @@
         "Throh": 1,
         "Pichu": 1,
         "Bruxish": 1,
-        "Swellow": 1
+        "Swellow": 1,
+        "Blue flower florges": 1
       },
-      "total_spawns": 4211,
-      "last_spawn": "2026-07-01T03:36:47.726845"
+      "total_spawns": 4216,
+      "last_spawn": "2026-07-01T03:37:17.796779"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1996,7 +1997,7 @@
     }
   },
   "global": {
-    "total_spawns": 57251,
+    "total_spawns": 57256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
