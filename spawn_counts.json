@@ -1258,7 +1258,7 @@
         "Boltund": 3,
         "Lillipup": 21,
         "Ducklett": 5,
-        "Mareep": 16,
+        "Mareep": 17,
         "Tadbulb": 15,
         "Helioptile": 4,
         "Blitzle": 12,
@@ -1332,7 +1332,7 @@
         "Treecko": 10,
         "Veluza": 21,
         "Cyndaquil": 7,
-        "Zorua": 4,
+        "Zorua": 5,
         "Meganium": 2,
         "Toedscruel": 4,
         "Klawf": 19,
@@ -1411,7 +1411,7 @@
         "Fuecoco": 11,
         "Electrode": 1,
         "Chandelure": 3,
-        "Wiglett": 20,
+        "Wiglett": 21,
         "Farigiraf": 3,
         "Zubat": 18,
         "Lotad": 10,
@@ -1557,7 +1557,7 @@
         "Steenee": 8,
         "Misdreavus": 4,
         "Chikorita": 3,
-        "Armaldo": 2,
+        "Armaldo": 3,
         "Pawmi": 14,
         "Wugtrio": 4,
         "Magneton": 5,
@@ -1741,7 +1741,7 @@
         "Sunny castform": 1,
         "Dracovish": 1,
         "Salamence": 1,
-        "Pincurchin": 1,
+        "Pincurchin": 2,
         "Murkrow": 5,
         "Ledian": 1,
         "Fletchinder": 5,
@@ -1841,7 +1841,7 @@
         "Weezing": 1,
         "Victreebel": 1,
         "Hypno": 1,
-        "Dwebble": 1,
+        "Dwebble": 2,
         "Frillish": 3,
         "Mandibuzz": 3,
         "Wigglytuff": 2,
@@ -1984,8 +1984,8 @@
         "Pichu": 1,
         "Bruxish": 1
       },
-      "total_spawns": 4167,
-      "last_spawn": "2026-07-01T03:33:03.731057"
+      "total_spawns": 4173,
+      "last_spawn": "2026-07-01T03:33:33.795880"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 57207,
+    "total_spawns": 57213,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
