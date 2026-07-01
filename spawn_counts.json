@@ -1169,7 +1169,7 @@
         "Roggenrola": 32,
         "Armarouge": 7,
         "Gastly": 22,
-        "Scatterbug": 24,
+        "Scatterbug": 25,
         "Wurmple": 26,
         "Gothita": 30,
         "Gible": 17,
@@ -1293,7 +1293,7 @@
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 2,
-        "Vikavolt": 1,
+        "Vikavolt": 2,
         "Peakychu": 27,
         "Absol": 3,
         "Inteleon": 5,
@@ -1567,7 +1567,7 @@
         "Wugtrio": 4,
         "Magneton": 5,
         "Toxel": 6,
-        "Dachsbun": 5,
+        "Dachsbun": 6,
         "Cascoon": 7,
         "Larvitar": 15,
         "Arctovish": 1,
@@ -2005,10 +2005,11 @@
         "Sandslash": 1,
         "Wobbuffet": 1,
         "Grapploct": 1,
-        "Pumpkaboo": 1
+        "Pumpkaboo": 1,
+        "Corsola": 1
       },
-      "total_spawns": 4534,
-      "last_spawn": "2026-07-01T16:37:02.850471"
+      "total_spawns": 4538,
+      "last_spawn": "2026-07-01T16:37:42.623578"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2018,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 60897,
+    "total_spawns": 60901,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
