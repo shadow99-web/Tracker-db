@@ -1181,7 +1181,7 @@
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
         "Hisuian voltorb": 1,
-        "Dreepy": 18,
+        "Dreepy": 19,
         "Bagon": 15,
         "Archen": 8,
         "Shinx": 25,
@@ -1353,7 +1353,7 @@
         "Darkrai": 2,
         "Growlithe": 3,
         "Nihilego": 1,
-        "Slakoth": 16,
+        "Slakoth": 17,
         "Marowak": 2,
         "Sentret": 10,
         "Cottonee": 4,
@@ -1397,14 +1397,14 @@
         "Sandshrew": 7,
         "Tirtouga": 4,
         "Turtwig": 3,
-        "Glimmet": 15,
+        "Glimmet": 16,
         "Swadloon": 3,
         "Purrloin": 9,
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 12,
-        "Maschiff": 19,
+        "Maschiff": 20,
         "Sprigatito": 7,
         "Toedscool": 20,
         "Luxio": 5,
@@ -1440,7 +1440,7 @@
         "Vibrava": 5,
         "Slowbro": 1,
         "Yamask": 5,
-        "Tympole": 23,
+        "Tympole": 24,
         "Barboach": 6,
         "Carvanha": 2,
         "Caterpie": 15,
@@ -1468,7 +1468,7 @@
         "Totodile": 5,
         "Lunatone": 4,
         "Zigzagoon": 2,
-        "Timburr": 21,
+        "Timburr": 22,
         "Glalie": 1,
         "Magikarp": 5,
         "Capsakid": 13,
@@ -1752,9 +1752,9 @@
         "Poochyena": 4,
         "Gothitelle": 1,
         "Annihilape": 2,
-        "Dewott": 3,
+        "Dewott": 4,
         "Arctibax": 4,
-        "Jigglypuff": 2,
+        "Jigglypuff": 3,
         "Krokorok": 2,
         "Litten": 5,
         "Hoothoot": 5,
@@ -1816,7 +1816,7 @@
         "Bastiodon": 2,
         "Carnivine": 1,
         "Electrike": 2,
-        "Houndour": 3,
+        "Houndour": 4,
         "Gurdurr": 3,
         "Bidoof": 5,
         "Rowlet": 4,
@@ -1973,10 +1973,12 @@
         "Monferno": 1,
         "Skarmory": 1,
         "Groudon": 1,
-        "Komala": 1
+        "Komala": 1,
+        "Eldegoss": 1,
+        "Abomasnow": 1
       },
-      "total_spawns": 4055,
-      "last_spawn": "2026-07-01T03:27:17.599256"
+      "total_spawns": 4066,
+      "last_spawn": "2026-07-01T03:27:47.860887"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1986,7 +1988,7 @@
     }
   },
   "global": {
-    "total_spawns": 57095,
+    "total_spawns": 57106,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
