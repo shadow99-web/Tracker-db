@@ -1260,7 +1260,7 @@
         "Rabsca": 8,
         "Floragato": 3,
         "Watchog": 1,
-        "Boltund": 3,
+        "Boltund": 4,
         "Lillipup": 24,
         "Ducklett": 5,
         "Mareep": 18,
@@ -1358,13 +1358,13 @@
         "Darkrai": 2,
         "Growlithe": 3,
         "Nihilego": 1,
-        "Slakoth": 20,
+        "Slakoth": 21,
         "Marowak": 3,
         "Sentret": 13,
         "Cottonee": 6,
         "Horsea": 22,
         "Doduo": 4,
-        "Ivysaur": 6,
+        "Ivysaur": 7,
         "Crustle": 3,
         "Wooper": 2,
         "Crabominable": 1,
@@ -1519,7 +1519,7 @@
         "Skiploom": 8,
         "Marshtomp": 4,
         "Lechonk": 20,
-        "Roaming gimmighoul": 11,
+        "Roaming gimmighoul": 12,
         "Breloom": 2,
         "Ninjask": 1,
         "Remoraid": 6,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4550,
-      "last_spawn": "2026-07-01T16:39:42.921701"
+      "total_spawns": 4554,
+      "last_spawn": "2026-07-01T16:40:23.160332"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 60913,
+    "total_spawns": 60917,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
