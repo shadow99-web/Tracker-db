@@ -14,7 +14,7 @@
         "Wiglett": 217,
         "Bombirdier": 213,
         "Litleo": 51,
-        "Purrloin": 56,
+        "Purrloin": 57,
         "Tranquill": 46,
         "Psyduck": 39,
         "Rockruff": 50,
@@ -131,7 +131,7 @@
         "Flamigo": 209,
         "Lillipup": 216,
         "Shinx": 238,
-        "Bounsweet": 218,
+        "Bounsweet": 219,
         "Noibat": 51,
         "Toxicroak": 17,
         "Charcadet": 252,
@@ -152,7 +152,7 @@
         "Roggenrola": 242,
         "Pidove": 205,
         "Dragapult": 21,
-        "Rattata": 120,
+        "Rattata": 121,
         "Flapple": 22,
         "Aron": 222,
         "Boldore": 53,
@@ -443,7 +443,7 @@
         "Galarian zen darmanitan": 3,
         "Bibarel": 16,
         "Plusle": 8,
-        "Skrelp": 56,
+        "Skrelp": 57,
         "Raticate": 40,
         "Wugtrio": 50,
         "Bellibolt": 50,
@@ -513,7 +513,7 @@
         "Simipour": 16,
         "Goldeen": 53,
         "Nickit": 64,
-        "Ivysaur": 41,
+        "Ivysaur": 42,
         "Milcery": 56,
         "Gabite": 39,
         "Hariyama": 12,
@@ -521,7 +521,7 @@
         "Arctibax": 53,
         "Foongus": 55,
         "Pansage": 44,
-        "Cranidos": 58,
+        "Cranidos": 59,
         "Spewpa": 61,
         "Tyrunt": 59,
         "Garganacl": 16,
@@ -703,7 +703,7 @@
         "Litten": 77,
         "Abomasnow": 16,
         "Espeon": 6,
-        "Hatenna": 203,
+        "Hatenna": 204,
         "Zoroark": 15,
         "Lucario": 6,
         "Crustle": 18,
@@ -1149,8 +1149,8 @@
         "Unown s": 1,
         "Zacian": 1
       },
-      "total_spawns": 49542,
-      "last_spawn": "2026-07-01T09:27:48.050124"
+      "total_spawns": 49549,
+      "last_spawn": "2026-07-01T09:28:00.056475"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -1991,10 +1991,11 @@
         "Dedenne": 1,
         "Gardevoir": 1,
         "Comfey": 1,
-        "Ninetales": 1
+        "Ninetales": 1,
+        "Diamond trim furfrou": 1
       },
-      "total_spawns": 4305,
-      "last_spawn": "2026-07-01T09:20:26.415614"
+      "total_spawns": 4306,
+      "last_spawn": "2026-07-01T09:38:33.452371"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2004,7 +2005,7 @@
     }
   },
   "global": {
-    "total_spawns": 58134,
+    "total_spawns": 58142,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
