@@ -1244,7 +1244,7 @@
         "Spritzee": 6,
         "Squawkabilly": 7,
         "Beldum": 18,
-        "Whismur": 22,
+        "Whismur": 23,
         "Crabrawler": 4,
         "Mudkip": 4,
         "Greavard": 35,
@@ -1277,7 +1277,7 @@
         "Darumaka": 5,
         "Wailmer": 3,
         "Jangmo-o": 16,
-        "Aron": 20,
+        "Aron": 21,
         "Kabuto": 7,
         "Togetic": 6,
         "Sewaddle": 30,
@@ -1460,7 +1460,7 @@
         "Archeops": 2,
         "Gigalith": 4,
         "Nuzleaf": 5,
-        "Geodude": 24,
+        "Geodude": 25,
         "Gholdengo": 5,
         "Dudunsparce": 4,
         "Whirlipede": 5,
@@ -2003,10 +2003,11 @@
         "Trash burmy": 1,
         "Dipplin": 1,
         "Sandslash": 1,
-        "Wobbuffet": 1
+        "Wobbuffet": 1,
+        "Grapploct": 1
       },
-      "total_spawns": 4514,
-      "last_spawn": "2026-07-01T16:33:42.630553"
+      "total_spawns": 4518,
+      "last_spawn": "2026-07-01T16:34:22.801720"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2016,7 +2017,7 @@
     }
   },
   "global": {
-    "total_spawns": 60877,
+    "total_spawns": 60881,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
