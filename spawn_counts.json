@@ -1340,7 +1340,7 @@
         "Zorua": 5,
         "Meganium": 2,
         "Toedscruel": 4,
-        "Klawf": 19,
+        "Klawf": 20,
         "Grookey": 6,
         "Gossifleur": 9,
         "Joltik": 7,
@@ -1505,7 +1505,7 @@
         "Tentacruel": 3,
         "Exeggcute": 6,
         "Diglett": 6,
-        "Pidgey": 22,
+        "Pidgey": 23,
         "Gligar": 3,
         "Deino": 10,
         "Dolliv": 5,
@@ -1713,7 +1713,7 @@
         "Venomoth": 2,
         "Goldeen": 3,
         "Pinsir": 2,
-        "Bisharp": 2,
+        "Bisharp": 3,
         "Amaura": 7,
         "Weepinbell": 4,
         "Flutter mane": 1,
@@ -1998,10 +1998,11 @@
         "Ninetales": 1,
         "Diamond trim furfrou": 1,
         "Exeggutor": 1,
-        "Crocalor": 1
+        "Crocalor": 1,
+        "Hakamo-o": 1
       },
-      "total_spawns": 4398,
-      "last_spawn": "2026-07-01T16:07:04.615228"
+      "total_spawns": 4402,
+      "last_spawn": "2026-07-01T16:07:43.660434"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2011,7 +2012,7 @@
     }
   },
   "global": {
-    "total_spawns": 59918,
+    "total_spawns": 59922,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
