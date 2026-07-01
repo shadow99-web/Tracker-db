@@ -1170,7 +1170,7 @@
         "Gible": 17,
         "Larvesta": 6,
         "Starly": 18,
-        "Varoom": 30,
+        "Varoom": 31,
         "Weedle": 19,
         "Chef dente": 15,
         "Hatenna": 22,
@@ -1191,7 +1191,7 @@
         "Tandemaus": 17,
         "Smearguru": 17,
         "Magnemite": 22,
-        "Teddiursa": 21,
+        "Teddiursa": 22,
         "Houndoom": 1,
         "Torracat": 3,
         "Donphan": 5,
@@ -1272,10 +1272,10 @@
         "Darumaka": 5,
         "Wailmer": 3,
         "Jangmo-o": 15,
-        "Aron": 16,
+        "Aron": 17,
         "Kabuto": 6,
         "Togetic": 6,
-        "Sewaddle": 25,
+        "Sewaddle": 26,
         "Eevee": 3,
         "Taillow": 3,
         "Pelipper": 2,
@@ -1403,7 +1403,7 @@
         "Golem": 1,
         "Primeape": 1,
         "Zeraora": 1,
-        "Venipede": 12,
+        "Venipede": 13,
         "Maschiff": 20,
         "Sprigatito": 7,
         "Toedscool": 20,
@@ -1854,7 +1854,7 @@
         "Snover": 3,
         "Unfezant": 1,
         "Magmar": 2,
-        "Snubbull": 1,
+        "Snubbull": 2,
         "Galarian rapidash": 1,
         "Metang": 2,
         "Koffing": 4,
@@ -1934,7 +1934,7 @@
         "Turtonator": 2,
         "Altaria": 1,
         "Copperajah": 1,
-        "Grotle": 1,
+        "Grotle": 2,
         "Vileplume": 1,
         "Cinccino": 2,
         "Thievul": 1,
@@ -1984,8 +1984,8 @@
         "Pichu": 1,
         "Bruxish": 1
       },
-      "total_spawns": 4173,
-      "last_spawn": "2026-07-01T03:33:33.795880"
+      "total_spawns": 4180,
+      "last_spawn": "2026-07-01T03:34:07.733039"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 57213,
+    "total_spawns": 57220,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
