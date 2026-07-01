@@ -1251,7 +1251,7 @@
         "Frogadier": 5,
         "Gimmighoul": 13,
         "Mienshao": 3,
-        "Swinub": 21,
+        "Swinub": 22,
         "Rabsca": 6,
         "Floragato": 3,
         "Watchog": 1,
@@ -1264,7 +1264,7 @@
         "Blitzle": 12,
         "Pidove": 21,
         "Doublade": 5,
-        "Quilava": 5,
+        "Quilava": 6,
         "Tarountula": 17,
         "Dottler": 2,
         "Paras": 3,
@@ -1275,7 +1275,7 @@
         "Aron": 17,
         "Kabuto": 6,
         "Togetic": 6,
-        "Sewaddle": 26,
+        "Sewaddle": 27,
         "Eevee": 3,
         "Taillow": 3,
         "Pelipper": 2,
@@ -1440,7 +1440,7 @@
         "Vibrava": 5,
         "Slowbro": 1,
         "Yamask": 5,
-        "Tympole": 24,
+        "Tympole": 25,
         "Barboach": 6,
         "Carvanha": 3,
         "Caterpie": 15,
@@ -1513,7 +1513,7 @@
         "Bunnelby": 1,
         "Skiploom": 7,
         "Marshtomp": 4,
-        "Lechonk": 19,
+        "Lechonk": 20,
         "Roaming gimmighoul": 10,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1604,7 +1604,7 @@
         "Cubone": 3,
         "Stantler": 5,
         "Rufflet": 4,
-        "Klang": 3,
+        "Klang": 4,
         "Drilbur": 4,
         "Mismagius": 1,
         "Bonsly": 2,
@@ -1982,10 +1982,11 @@
         "Simisage": 1,
         "Throh": 1,
         "Pichu": 1,
-        "Bruxish": 1
+        "Bruxish": 1,
+        "Swellow": 1
       },
-      "total_spawns": 4186,
-      "last_spawn": "2026-07-01T03:34:37.785116"
+      "total_spawns": 4193,
+      "last_spawn": "2026-07-01T03:35:13.543221"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1995,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 57226,
+    "total_spawns": 57233,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
