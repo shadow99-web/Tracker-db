@@ -1298,7 +1298,7 @@
         "Scraggy": 3,
         "Mabosstiff": 8,
         "Lileep": 8,
-        "Cetoddle": 20,
+        "Cetoddle": 21,
         "Chespin": 4,
         "Naclstack": 8,
         "Ferrothorn": 2,
@@ -1709,7 +1709,7 @@
         "Goldeen": 3,
         "Pinsir": 1,
         "Bisharp": 2,
-        "Amaura": 6,
+        "Amaura": 7,
         "Weepinbell": 4,
         "Flutter mane": 1,
         "Blastoise": 1,
@@ -1988,10 +1988,11 @@
         "Galarian farfetch'd": 2,
         "Hisuian sneasel": 1,
         "Dedenne": 1,
-        "Gardevoir": 1
+        "Gardevoir": 1,
+        "Comfey": 1
       },
-      "total_spawns": 4268,
-      "last_spawn": "2026-07-01T04:56:17.599319"
+      "total_spawns": 4271,
+      "last_spawn": "2026-07-01T06:52:39.688580"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2001,7 +2002,7 @@
     }
   },
   "global": {
-    "total_spawns": 57308,
+    "total_spawns": 57311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
