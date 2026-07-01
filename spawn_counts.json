@@ -1176,7 +1176,7 @@
         "Hatenna": 22,
         "Dugtrio": 1,
         "Kadabra": 8,
-        "Sandile": 17,
+        "Sandile": 18,
         "Riolu": 5,
         "Hisuian avalugg": 1,
         "Lickilicky": 4,
@@ -1264,7 +1264,7 @@
         "Blitzle": 12,
         "Pidove": 21,
         "Doublade": 5,
-        "Quilava": 4,
+        "Quilava": 5,
         "Tarountula": 17,
         "Dottler": 2,
         "Paras": 3,
@@ -1279,7 +1279,7 @@
         "Eevee": 3,
         "Taillow": 3,
         "Pelipper": 2,
-        "Hattrem": 7,
+        "Hattrem": 8,
         "Machoke": 3,
         "Litwick": 28,
         "Frost rotom": 1,
@@ -1456,8 +1456,8 @@
         "Gigalith": 4,
         "Nuzleaf": 5,
         "Geodude": 23,
-        "Gholdengo": 3,
-        "Dudunsparce": 2,
+        "Gholdengo": 4,
+        "Dudunsparce": 3,
         "Whirlipede": 4,
         "Skiddo": 7,
         "Spiritomb": 3,
@@ -1561,7 +1561,7 @@
         "Pawmi": 13,
         "Wugtrio": 3,
         "Magneton": 5,
-        "Toxel": 5,
+        "Toxel": 6,
         "Dachsbun": 5,
         "Cascoon": 7,
         "Larvitar": 14,
@@ -1680,7 +1680,7 @@
         "Girafarig": 1,
         "Duosion": 1,
         "Mudbray": 4,
-        "Bombirdier": 8,
+        "Bombirdier": 9,
         "Haunter": 4,
         "Pirouette meloetta": 1,
         "Audino": 3,
@@ -1704,7 +1704,7 @@
         "Fearow": 1,
         "Blue-striped basculin": 2,
         "Scream tail": 1,
-        "Tepig": 3,
+        "Tepig": 4,
         "Venomoth": 2,
         "Goldeen": 3,
         "Pinsir": 1,
@@ -1817,7 +1817,7 @@
         "Carnivine": 1,
         "Electrike": 2,
         "Houndour": 4,
-        "Gurdurr": 3,
+        "Gurdurr": 4,
         "Bidoof": 5,
         "Rowlet": 4,
         "Meditite": 4,
@@ -1978,10 +1978,11 @@
         "Abomasnow": 1,
         "Greedent": 1,
         "Toxicroak": 1,
-        "Wingull": 1
+        "Wingull": 1,
+        "Simisage": 1
       },
-      "total_spawns": 4099,
-      "last_spawn": "2026-07-01T03:29:23.528038"
+      "total_spawns": 4109,
+      "last_spawn": "2026-07-01T03:29:53.582782"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1991,7 +1992,7 @@
     }
   },
   "global": {
-    "total_spawns": 57139,
+    "total_spawns": 57149,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
