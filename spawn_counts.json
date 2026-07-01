@@ -1191,7 +1191,7 @@
         "Archen": 9,
         "Shinx": 29,
         "Pikachu": 7,
-        "Rhyhorn": 11,
+        "Rhyhorn": 12,
         "Tynamo": 27,
         "Tandemaus": 19,
         "Smearguru": 19,
@@ -1244,7 +1244,7 @@
         "Spritzee": 6,
         "Squawkabilly": 7,
         "Beldum": 18,
-        "Whismur": 21,
+        "Whismur": 22,
         "Crabrawler": 4,
         "Mudkip": 4,
         "Greavard": 35,
@@ -1397,7 +1397,7 @@
         "Duskull": 18,
         "Vigoroth": 3,
         "Seviper": 2,
-        "Goomy": 8,
+        "Goomy": 9,
         "Nickit": 5,
         "Sandshrew": 7,
         "Tirtouga": 5,
@@ -2002,10 +2002,11 @@
         "Hakamo-o": 1,
         "Trash burmy": 1,
         "Dipplin": 1,
-        "Sandslash": 1
+        "Sandslash": 1,
+        "Wobbuffet": 1
       },
-      "total_spawns": 4507,
-      "last_spawn": "2026-07-01T16:32:22.903198"
+      "total_spawns": 4511,
+      "last_spawn": "2026-07-01T16:33:02.869935"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2015,7 +2016,7 @@
     }
   },
   "global": {
-    "total_spawns": 60870,
+    "total_spawns": 60874,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
