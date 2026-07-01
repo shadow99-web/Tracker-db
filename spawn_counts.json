@@ -1384,7 +1384,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 2,
         "Typhlosion": 2,
-        "Honedge": 23,
+        "Honedge": 24,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
         "Blipbug": 16,
@@ -1458,7 +1458,7 @@
         "Geodude": 24,
         "Gholdengo": 4,
         "Dudunsparce": 4,
-        "Whirlipede": 4,
+        "Whirlipede": 5,
         "Skiddo": 7,
         "Spiritomb": 4,
         "Seadra": 4,
@@ -1498,7 +1498,7 @@
         "Shiinotic": 3,
         "Lokix": 5,
         "Tentacruel": 3,
-        "Exeggcute": 5,
+        "Exeggcute": 6,
         "Diglett": 6,
         "Pidgey": 21,
         "Gligar": 3,
@@ -1987,10 +1987,11 @@
         "Blue flower florges": 1,
         "Galarian farfetch'd": 2,
         "Hisuian sneasel": 1,
-        "Dedenne": 1
+        "Dedenne": 1,
+        "Gardevoir": 1
       },
-      "total_spawns": 4264,
-      "last_spawn": "2026-07-01T04:55:37.702919"
+      "total_spawns": 4268,
+      "last_spawn": "2026-07-01T04:56:17.599319"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2000,7 +2001,7 @@
     }
   },
   "global": {
-    "total_spawns": 57304,
+    "total_spawns": 57308,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
