@@ -1253,7 +1253,7 @@
         "Trapinch": 22,
         "Smoliv": 17,
         "Pawniard": 3,
-        "Frogadier": 5,
+        "Frogadier": 6,
         "Gimmighoul": 13,
         "Mienshao": 3,
         "Swinub": 22,
@@ -1507,7 +1507,7 @@
         "Diglett": 6,
         "Pidgey": 24,
         "Gligar": 3,
-        "Deino": 10,
+        "Deino": 11,
         "Dolliv": 5,
         "Passimian": 3,
         "Shellos": 6,
@@ -1649,7 +1649,7 @@
         "Eelektross": 1,
         "Rhydon": 3,
         "Low key toxtricity": 1,
-        "Loudred": 7,
+        "Loudred": 8,
         "Cutiefly": 3,
         "Wishiwashi": 1,
         "Litleo": 4,
@@ -2001,10 +2001,11 @@
         "Crocalor": 1,
         "Hakamo-o": 1,
         "Trash burmy": 1,
-        "Dipplin": 1
+        "Dipplin": 1,
+        "Sandslash": 1
       },
-      "total_spawns": 4483,
-      "last_spawn": "2026-07-01T16:28:23.006700"
+      "total_spawns": 4487,
+      "last_spawn": "2026-07-01T16:29:02.701387"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2014,7 +2015,7 @@
     }
   },
   "global": {
-    "total_spawns": 60846,
+    "total_spawns": 60850,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
