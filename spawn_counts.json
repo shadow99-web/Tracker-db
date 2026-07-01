@@ -1307,7 +1307,7 @@
         "Chespin": 4,
         "Naclstack": 8,
         "Ferrothorn": 2,
-        "Karrablast": 7,
+        "Karrablast": 8,
         "Sinistea": 11,
         "Lurantis": 2,
         "Machamp": 1,
@@ -1354,7 +1354,7 @@
         "Pidgeotto": 5,
         "Maushold": 5,
         "Dewpider": 5,
-        "Sobble": 6,
+        "Sobble": 7,
         "Darkrai": 2,
         "Growlithe": 3,
         "Nihilego": 1,
@@ -1451,7 +1451,7 @@
         "Caterpie": 18,
         "Dondozo": 24,
         "Tranquill": 8,
-        "Porygon": 18,
+        "Porygon": 19,
         "Wooloo": 7,
         "Oddish": 16,
         "Barraskewda": 1,
@@ -1977,7 +1977,7 @@
         "Baxcalibur": 2,
         "Monferno": 1,
         "Skarmory": 1,
-        "Groudon": 1,
+        "Groudon": 2,
         "Komala": 1,
         "Eldegoss": 1,
         "Abomasnow": 1,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4554,
-      "last_spawn": "2026-07-01T16:40:23.160332"
+      "total_spawns": 4558,
+      "last_spawn": "2026-07-01T16:41:03.152548"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 60917,
+    "total_spawns": 60921,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
