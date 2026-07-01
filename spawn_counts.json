@@ -1267,7 +1267,7 @@
         "Tadbulb": 16,
         "Helioptile": 4,
         "Blitzle": 12,
-        "Pidove": 21,
+        "Pidove": 22,
         "Doublade": 6,
         "Quilava": 6,
         "Tarountula": 19,
@@ -1361,7 +1361,7 @@
         "Slakoth": 20,
         "Marowak": 2,
         "Sentret": 13,
-        "Cottonee": 5,
+        "Cottonee": 6,
         "Horsea": 22,
         "Doduo": 4,
         "Ivysaur": 6,
@@ -1741,7 +1741,7 @@
         "Drifblim": 2,
         "Druddigon": 1,
         "Spewpa": 6,
-        "Silcoon": 6,
+        "Silcoon": 7,
         "Snorlax": 2,
         "Sunny castform": 1,
         "Dracovish": 1,
@@ -2004,10 +2004,11 @@
         "Dipplin": 1,
         "Sandslash": 1,
         "Wobbuffet": 1,
-        "Grapploct": 1
+        "Grapploct": 1,
+        "Pumpkaboo": 1
       },
-      "total_spawns": 4522,
-      "last_spawn": "2026-07-01T16:35:02.702709"
+      "total_spawns": 4526,
+      "last_spawn": "2026-07-01T16:35:42.691413"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2017,7 +2018,7 @@
     }
   },
   "global": {
-    "total_spawns": 60885,
+    "total_spawns": 60889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
