@@ -1193,7 +1193,7 @@
         "Pikachu": 7,
         "Rhyhorn": 11,
         "Tynamo": 26,
-        "Tandemaus": 18,
+        "Tandemaus": 19,
         "Smearguru": 18,
         "Magnemite": 22,
         "Teddiursa": 22,
@@ -1947,7 +1947,7 @@
         "Aerodactyl": 1,
         "Excadrill": 1,
         "Volbeat": 1,
-        "Buneary": 1,
+        "Buneary": 2,
         "Trubbish": 1,
         "Raichu": 1,
         "Okidogi": 1,
@@ -2000,8 +2000,8 @@
         "Exeggutor": 1,
         "Crocalor": 1
       },
-      "total_spawns": 4381,
-      "last_spawn": "2026-07-01T15:53:45.195998"
+      "total_spawns": 4383,
+      "last_spawn": "2026-07-01T15:54:25.175180"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2011,7 +2011,7 @@
     }
   },
   "global": {
-    "total_spawns": 59901,
+    "total_spawns": 59903,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
