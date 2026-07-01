@@ -1239,7 +1239,7 @@
         "Spritzee": 5,
         "Squawkabilly": 6,
         "Beldum": 18,
-        "Whismur": 19,
+        "Whismur": 20,
         "Crabrawler": 4,
         "Mudkip": 4,
         "Greavard": 33,
@@ -1273,7 +1273,7 @@
         "Wailmer": 3,
         "Jangmo-o": 15,
         "Aron": 17,
-        "Kabuto": 6,
+        "Kabuto": 7,
         "Togetic": 6,
         "Sewaddle": 27,
         "Eevee": 3,
@@ -1468,7 +1468,7 @@
         "Totodile": 5,
         "Lunatone": 4,
         "Zigzagoon": 3,
-        "Timburr": 22,
+        "Timburr": 23,
         "Glalie": 1,
         "Magikarp": 5,
         "Capsakid": 13,
@@ -1489,7 +1489,7 @@
         "Servine": 7,
         "Grubbin": 16,
         "Clobbopus": 5,
-        "Bounsweet": 20,
+        "Bounsweet": 21,
         "Crawdaunt": 4,
         "Hoppip": 17,
         "Shroodle": 10,
@@ -1678,7 +1678,7 @@
         "Mareanie": 6,
         "Phantump": 7,
         "Girafarig": 1,
-        "Duosion": 1,
+        "Duosion": 2,
         "Mudbray": 4,
         "Bombirdier": 9,
         "Haunter": 4,
@@ -1780,7 +1780,7 @@
         "Crobat": 2,
         "Croagunk": 4,
         "Voltorb": 4,
-        "Wimpod": 2,
+        "Wimpod": 3,
         "Drampa": 1,
         "Wailord": 1,
         "White-striped basculin": 2,
@@ -1985,8 +1985,8 @@
         "Bruxish": 1,
         "Swellow": 1
       },
-      "total_spawns": 4193,
-      "last_spawn": "2026-07-01T03:35:13.543221"
+      "total_spawns": 4199,
+      "last_spawn": "2026-07-01T03:35:43.628395"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1996,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 57233,
+    "total_spawns": 57239,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
