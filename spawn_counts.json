@@ -1183,7 +1183,7 @@
         "Hisuian voltorb": 1,
         "Dreepy": 19,
         "Bagon": 15,
-        "Archen": 8,
+        "Archen": 9,
         "Shinx": 26,
         "Pikachu": 6,
         "Rhyhorn": 11,
@@ -1232,7 +1232,7 @@
         "Grovyle": 1,
         "Wartortle": 5,
         "Amped toxtricity": 2,
-        "Flamigo": 13,
+        "Flamigo": 14,
         "Aegislash": 2,
         "Inkay": 3,
         "Fidough": 14,
@@ -1342,7 +1342,7 @@
         "Summer deerling": 3,
         "Heliolisk": 3,
         "Raboot": 6,
-        "Vanillite": 19,
+        "Vanillite": 20,
         "Krabby": 4,
         "Clefable": 2,
         "Durant": 3,
@@ -1384,7 +1384,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 2,
         "Typhlosion": 2,
-        "Honedge": 21,
+        "Honedge": 22,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
         "Blipbug": 16,
@@ -1395,8 +1395,8 @@
         "Goomy": 8,
         "Nickit": 5,
         "Sandshrew": 7,
-        "Tirtouga": 4,
-        "Turtwig": 3,
+        "Tirtouga": 5,
+        "Turtwig": 4,
         "Glimmet": 17,
         "Swadloon": 3,
         "Purrloin": 9,
@@ -1502,7 +1502,7 @@
         "Diglett": 6,
         "Pidgey": 21,
         "Gligar": 3,
-        "Deino": 9,
+        "Deino": 10,
         "Dolliv": 4,
         "Passimian": 2,
         "Shellos": 6,
@@ -1572,7 +1572,7 @@
         "Avalugg": 1,
         "Yanmega": 1,
         "Arcanine": 2,
-        "Vaporeon": 3,
+        "Vaporeon": 4,
         "Araquanid": 1,
         "Elekid": 2,
         "Panpour": 5,
@@ -1749,7 +1749,7 @@
         "Omanyte": 2,
         "Swampert": 1,
         "Snorunt": 5,
-        "Poochyena": 4,
+        "Poochyena": 5,
         "Gothitelle": 1,
         "Annihilape": 2,
         "Dewott": 4,
@@ -1951,7 +1951,7 @@
         "Zebstrika": 1,
         "Cramorant": 2,
         "Maractus": 1,
-        "Mightyena": 1,
+        "Mightyena": 2,
         "Dragonite": 1,
         "Tropius": 1,
         "Munchlax": 1,
@@ -1981,10 +1981,11 @@
         "Wingull": 1,
         "Simisage": 1,
         "Throh": 1,
-        "Pichu": 1
+        "Pichu": 1,
+        "Bruxish": 1
       },
-      "total_spawns": 4149,
-      "last_spawn": "2026-07-01T03:32:02.695836"
+      "total_spawns": 4160,
+      "last_spawn": "2026-07-01T03:32:33.512607"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1994,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 57189,
+    "total_spawns": 57200,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
