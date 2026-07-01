@@ -1170,7 +1170,7 @@
         "Gible": 16,
         "Larvesta": 5,
         "Starly": 18,
-        "Varoom": 29,
+        "Varoom": 30,
         "Weedle": 18,
         "Chef dente": 15,
         "Hatenna": 20,
@@ -1182,7 +1182,7 @@
         "Lickilicky": 4,
         "Hisuian voltorb": 1,
         "Dreepy": 18,
-        "Bagon": 14,
+        "Bagon": 15,
         "Archen": 8,
         "Shinx": 25,
         "Pikachu": 6,
@@ -1202,7 +1202,7 @@
         "Seismitoad": 3,
         "Frigibax": 21,
         "Meowth": 10,
-        "Dj rotom": 12,
+        "Dj rotom": 13,
         "Prof tangrowth": 22,
         "Charcadet": 22,
         "Furfrou": 3,
@@ -1220,7 +1220,7 @@
         "Bergmite": 4,
         "Lairon": 3,
         "Impidimp": 22,
-        "Solosis": 17,
+        "Solosis": 18,
         "Brambleghast": 1,
         "Rellor": 15,
         "Nincada": 6,
@@ -1368,7 +1368,7 @@
         "Lampent": 3,
         "East sea gastrodon": 1,
         "Magcargo": 3,
-        "Electabuzz": 4,
+        "Electabuzz": 5,
         "Sensu oricorio": 2,
         "Whiscash": 2,
         "Ursaring": 8,
@@ -1384,7 +1384,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 2,
         "Typhlosion": 2,
-        "Honedge": 19,
+        "Honedge": 20,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
         "Blipbug": 16,
@@ -1440,7 +1440,7 @@
         "Vibrava": 5,
         "Slowbro": 1,
         "Yamask": 5,
-        "Tympole": 22,
+        "Tympole": 23,
         "Barboach": 5,
         "Carvanha": 2,
         "Caterpie": 14,
@@ -1725,7 +1725,7 @@
         "Poltchageist": 1,
         "Minun": 1,
         "Garbodor": 1,
-        "Snom": 2,
+        "Snom": 3,
         "Skuntank": 2,
         "Galarian ponyta": 1,
         "Escavalier": 1,
@@ -1773,7 +1773,7 @@
         "Heracross": 2,
         "Munna": 1,
         "Pineco": 5,
-        "Spearow": 4,
+        "Spearow": 5,
         "Rhyperior": 1,
         "Farfetch'd": 1,
         "Vespiquen": 1,
@@ -1801,7 +1801,7 @@
         "Mudsdale": 1,
         "Aipom": 5,
         "Dragapult": 2,
-        "Morgrem": 1,
+        "Morgrem": 2,
         "Lucario": 1,
         "Primarina": 1,
         "Probopass": 1,
@@ -1971,10 +1971,11 @@
         "Kangaskhan": 1,
         "Baxcalibur": 1,
         "Monferno": 1,
-        "Skarmory": 1
+        "Skarmory": 1,
+        "Groudon": 1
       },
-      "total_spawns": 3979,
-      "last_spawn": "2026-07-01T03:23:42.902445"
+      "total_spawns": 3990,
+      "last_spawn": "2026-07-01T03:24:13.448292"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -1984,7 +1985,7 @@
     }
   },
   "global": {
-    "total_spawns": 57019,
+    "total_spawns": 57030,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
