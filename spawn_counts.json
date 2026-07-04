@@ -1227,14 +1227,18 @@
         "Gastly": 1,
         "Aron": 1,
         "Honedge": 1,
-        "Houndour": 1
+        "Houndour": 1,
+        "Machop": 1,
+        "Terapagos": 1,
+        "Mankey": 1,
+        "Torterra": 1
       },
-      "total_spawns": 71,
-      "last_spawn": "2026-07-04T17:24:54.076111"
+      "total_spawns": 75,
+      "last_spawn": "2026-07-04T17:25:33.556231"
     }
   },
   "global": {
-    "total_spawns": 62610,
+    "total_spawns": 62614,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
