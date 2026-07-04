@@ -1302,7 +1302,7 @@
         "Dartrix": 3,
         "Scraggy": 3,
         "Mabosstiff": 8,
-        "Lileep": 8,
+        "Lileep": 9,
         "Cetoddle": 23,
         "Chespin": 5,
         "Naclstack": 8,
@@ -1314,7 +1314,7 @@
         "Sceptile": 1,
         "Shelgon": 6,
         "Dratini": 16,
-        "Coalossal": 2,
+        "Coalossal": 3,
         "Gumshoos": 2,
         "Cherubi": 2,
         "Sizzlipede": 5,
@@ -1360,7 +1360,7 @@
         "Nihilego": 1,
         "Slakoth": 22,
         "Marowak": 3,
-        "Sentret": 14,
+        "Sentret": 15,
         "Cottonee": 6,
         "Horsea": 24,
         "Doduo": 6,
@@ -1432,7 +1432,7 @@
         "Mankey": 7,
         "Charmander": 6,
         "Shroomish": 3,
-        "Finizen": 15,
+        "Finizen": 16,
         "Croconaw": 6,
         "Bronzor": 10,
         "Eelektrik": 6,
@@ -1524,7 +1524,7 @@
         "Ninjask": 1,
         "Remoraid": 6,
         "Pansear": 2,
-        "Spheal": 14,
+        "Spheal": 15,
         "Espurr": 3,
         "Poliwag": 20,
         "Finneon": 4,
@@ -1774,7 +1774,7 @@
         "Orange flower floette": 1,
         "Quaxwell": 3,
         "Tinkaton": 1,
-        "Sunkern": 3,
+        "Sunkern": 4,
         "Heracross": 2,
         "Munna": 1,
         "Pineco": 5,
@@ -1834,7 +1834,7 @@
         "Buizel": 9,
         "Wash rotom": 1,
         "Weavile": 1,
-        "Sneasel": 4,
+        "Sneasel": 5,
         "Pa'u oricorio": 2,
         "Sirfetch'd": 3,
         "Cofagrigus": 1,
@@ -2015,8 +2015,8 @@
         "Midnight lycanroc": 1,
         "Aromatisse": 1
       },
-      "total_spawns": 4935,
-      "last_spawn": "2026-07-04T16:53:28.208835"
+      "total_spawns": 4942,
+      "last_spawn": "2026-07-04T16:53:58.296005"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2026,7 +2026,7 @@
     }
   },
   "global": {
-    "total_spawns": 62288,
+    "total_spawns": 62295,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
