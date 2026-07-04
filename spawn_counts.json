@@ -64,7 +64,7 @@
         "Beldum": 165,
         "Ducklett": 54,
         "Lokix": 56,
-        "Glimmora": 61,
+        "Glimmora": 62,
         "Starly": 247,
         "Tandemaus": 205,
         "Smoliv": 255,
@@ -130,7 +130,7 @@
         "Weedle": 272,
         "Flamigo": 225,
         "Lillipup": 231,
-        "Shinx": 253,
+        "Shinx": 254,
         "Bounsweet": 234,
         "Noibat": 55,
         "Toxicroak": 17,
@@ -298,7 +298,7 @@
         "Pancham": 60,
         "Venipede": 250,
         "Cacturne": 17,
-        "Oddish": 243,
+        "Oddish": 244,
         "Dragalge": 18,
         "Iron thorns": 2,
         "Alolan exeggutor": 4,
@@ -829,7 +829,7 @@
         "Linoone": 19,
         "Omastar": 15,
         "Boltund": 15,
-        "Lickilicky": 18,
+        "Lickilicky": 19,
         "Dragonite": 13,
         "High-speed flight configuration genesect": 1,
         "Mantyke": 20,
@@ -1153,8 +1153,8 @@
         "Monsoon vivillon": 1,
         "Electric arceus": 1
       },
-      "total_spawns": 52914,
-      "last_spawn": "2026-07-04T13:40:34.659507"
+      "total_spawns": 52918,
+      "last_spawn": "2026-07-04T13:41:14.994301"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61807,
+    "total_spawns": 61811,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
