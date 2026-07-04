@@ -1212,7 +1212,7 @@
         "Charcadet": 25,
         "Furfrou": 3,
         "Slaking": 2,
-        "Flittle": 22,
+        "Flittle": 23,
         "Salazzle": 1,
         "Skitty": 10,
         "Fletchling": 17,
@@ -1869,7 +1869,7 @@
         "Chien-pao": 1,
         "Alolan dugtrio": 1,
         "Polteageist": 1,
-        "Charmeleon": 1,
+        "Charmeleon": 2,
         "East sea shellos": 1,
         "Combusken": 2,
         "Morpeko": 1,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4635,
-      "last_spawn": "2026-07-04T14:35:05.099963"
+      "total_spawns": 4637,
+      "last_spawn": "2026-07-04T14:35:45.106342"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61988,
+    "total_spawns": 61990,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
