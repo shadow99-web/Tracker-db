@@ -1168,14 +1168,19 @@
         "Braixen": 1,
         "Oddish": 1,
         "Totodile": 1,
-        "Vanillite": 1
+        "Vanillite": 1,
+        "Weedle": 2,
+        "Kabutops": 1,
+        "Poliwag": 2,
+        "Fidough": 1,
+        "Charjabug": 1
       },
-      "total_spawns": 4,
-      "last_spawn": "2026-07-04T17:16:53.595747"
+      "total_spawns": 11,
+      "last_spawn": "2026-07-04T17:17:23.799821"
     }
   },
   "global": {
-    "total_spawns": 62543,
+    "total_spawns": 62550,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
