@@ -1172,7 +1172,7 @@
         "Scatterbug": 26,
         "Wurmple": 30,
         "Gothita": 33,
-        "Gible": 21,
+        "Gible": 22,
         "Larvesta": 6,
         "Starly": 19,
         "Varoom": 37,
@@ -1254,7 +1254,7 @@
         "Smoliv": 19,
         "Pawniard": 3,
         "Frogadier": 7,
-        "Gimmighoul": 14,
+        "Gimmighoul": 15,
         "Mienshao": 3,
         "Swinub": 24,
         "Rabsca": 8,
@@ -1428,7 +1428,7 @@
         "Tinkatuff": 8,
         "Ampharos": 1,
         "Goodra": 2,
-        "Klink": 14,
+        "Klink": 15,
         "Mankey": 7,
         "Charmander": 6,
         "Shroomish": 3,
@@ -1451,7 +1451,7 @@
         "Caterpie": 23,
         "Dondozo": 25,
         "Tranquill": 10,
-        "Porygon": 21,
+        "Porygon": 22,
         "Wooloo": 8,
         "Oddish": 21,
         "Barraskewda": 1,
@@ -1490,7 +1490,7 @@
         "Makuhita": 8,
         "Baltoy": 6,
         "Nidoking": 3,
-        "Tentacool": 8,
+        "Tentacool": 9,
         "Servine": 9,
         "Grubbin": 18,
         "Clobbopus": 5,
@@ -1518,7 +1518,7 @@
         "Bunnelby": 2,
         "Skiploom": 8,
         "Marshtomp": 4,
-        "Lechonk": 24,
+        "Lechonk": 25,
         "Roaming gimmighoul": 15,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1718,7 +1718,7 @@
         "Weepinbell": 7,
         "Flutter mane": 1,
         "Blastoise": 2,
-        "Piplup": 5,
+        "Piplup": 6,
         "Eiscue": 2,
         "Volcarona": 3,
         "Tangrowth": 2,
@@ -2023,8 +2023,8 @@
         "Whimsicott": 1,
         "Gliscor": 1
       },
-      "total_spawns": 5178,
-      "last_spawn": "2026-07-04T17:15:43.953175"
+      "total_spawns": 5185,
+      "last_spawn": "2026-07-04T17:16:18.380456"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2034,7 +2034,7 @@
     }
   },
   "global": {
-    "total_spawns": 62531,
+    "total_spawns": 62538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
