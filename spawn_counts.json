@@ -1437,7 +1437,7 @@
         "Bronzor": 10,
         "Eelektrik": 6,
         "Ledyba": 10,
-        "Tyrunt": 9,
+        "Tyrunt": 10,
         "Braixen": 2,
         "Revavroom": 8,
         "Drowzee": 3,
@@ -1459,7 +1459,7 @@
         "Piloswine": 8,
         "Archeops": 2,
         "Gigalith": 4,
-        "Nuzleaf": 6,
+        "Nuzleaf": 7,
         "Geodude": 26,
         "Gholdengo": 7,
         "Dudunsparce": 5,
@@ -1589,7 +1589,7 @@
         "Palpitoad": 7,
         "Tyrogue": 7,
         "Gloom": 2,
-        "Grimer": 7,
+        "Grimer": 8,
         "Drednaw": 4,
         "Cacturne": 1,
         "Metapod": 5,
@@ -2015,8 +2015,8 @@
         "Midnight lycanroc": 1,
         "Aromatisse": 1
       },
-      "total_spawns": 4922,
-      "last_spawn": "2026-07-04T16:51:43.707486"
+      "total_spawns": 4925,
+      "last_spawn": "2026-07-04T16:52:14.505855"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2026,7 +2026,7 @@
     }
   },
   "global": {
-    "total_spawns": 62275,
+    "total_spawns": 62278,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
