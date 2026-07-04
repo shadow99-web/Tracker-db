@@ -1268,7 +1268,7 @@
         "Helioptile": 4,
         "Blitzle": 12,
         "Pidove": 22,
-        "Doublade": 7,
+        "Doublade": 8,
         "Quilava": 6,
         "Tarountula": 20,
         "Dottler": 2,
@@ -1394,7 +1394,7 @@
         "Torterra": 2,
         "Blipbug": 18,
         "Zen darmanitan": 1,
-        "Duskull": 19,
+        "Duskull": 20,
         "Vigoroth": 3,
         "Seviper": 2,
         "Goomy": 9,
@@ -1563,7 +1563,7 @@
         "Misdreavus": 5,
         "Chikorita": 3,
         "Armaldo": 3,
-        "Pawmi": 20,
+        "Pawmi": 21,
         "Wugtrio": 4,
         "Magneton": 5,
         "Toxel": 7,
@@ -1763,7 +1763,7 @@
         "Krokorok": 2,
         "Litten": 8,
         "Hoothoot": 5,
-        "Pawmo": 5,
+        "Pawmo": 6,
         "Drapion": 2,
         "Venusaur": 2,
         "Poliwrath": 2,
@@ -1772,7 +1772,7 @@
         "Accelgor": 1,
         "Forretress": 1,
         "Orange flower floette": 1,
-        "Quaxwell": 2,
+        "Quaxwell": 3,
         "Tinkaton": 1,
         "Sunkern": 3,
         "Heracross": 2,
@@ -1947,7 +1947,7 @@
         "Aerodactyl": 1,
         "Excadrill": 1,
         "Volbeat": 1,
-        "Buneary": 4,
+        "Buneary": 5,
         "Trubbish": 2,
         "Raichu": 2,
         "Okidogi": 1,
@@ -2010,10 +2010,11 @@
         "Shiftry": 1,
         "Galarian meowth": 1,
         "Oricorio": 1,
-        "Basculin": 1
+        "Basculin": 1,
+        "Skeledirge": 1
       },
-      "total_spawns": 4870,
-      "last_spawn": "2026-07-04T16:47:14.585216"
+      "total_spawns": 4877,
+      "last_spawn": "2026-07-04T16:47:48.362436"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2023,7 +2024,7 @@
     }
   },
   "global": {
-    "total_spawns": 62223,
+    "total_spawns": 62230,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
