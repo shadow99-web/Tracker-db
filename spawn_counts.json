@@ -1270,7 +1270,7 @@
         "Pidove": 25,
         "Doublade": 8,
         "Quilava": 6,
-        "Tarountula": 21,
+        "Tarountula": 22,
         "Dottler": 2,
         "Paras": 6,
         "Swablu": 9,
@@ -1389,7 +1389,7 @@
         "Galarian corsola": 1,
         "Cryogonal": 2,
         "Typhlosion": 3,
-        "Honedge": 27,
+        "Honedge": 28,
         "Hisuian qwilfish": 1,
         "Torterra": 3,
         "Blipbug": 19,
@@ -1402,7 +1402,7 @@
         "Sandshrew": 8,
         "Tirtouga": 5,
         "Turtwig": 6,
-        "Glimmet": 24,
+        "Glimmet": 25,
         "Swadloon": 5,
         "Purrloin": 10,
         "Golem": 1,
@@ -1432,7 +1432,7 @@
         "Mankey": 7,
         "Charmander": 6,
         "Shroomish": 3,
-        "Finizen": 19,
+        "Finizen": 20,
         "Croconaw": 6,
         "Bronzor": 10,
         "Eelektrik": 6,
@@ -1460,7 +1460,7 @@
         "Archeops": 2,
         "Gigalith": 4,
         "Nuzleaf": 7,
-        "Geodude": 26,
+        "Geodude": 27,
         "Gholdengo": 7,
         "Dudunsparce": 5,
         "Whirlipede": 8,
@@ -1693,7 +1693,7 @@
         "Greninja": 4,
         "Battle cyclizar": 8,
         "Lombre": 4,
-        "Cetitan": 4,
+        "Cetitan": 5,
         "Bewear": 1,
         "Cloyster": 3,
         "Centiskorch": 2,
@@ -2023,8 +2023,8 @@
         "Whimsicott": 1,
         "Gliscor": 1
       },
-      "total_spawns": 5158,
-      "last_spawn": "2026-07-04T17:14:03.694316"
+      "total_spawns": 5164,
+      "last_spawn": "2026-07-04T17:14:34.511131"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2034,7 +2034,7 @@
     }
   },
   "global": {
-    "total_spawns": 62511,
+    "total_spawns": 62517,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
