@@ -1303,7 +1303,7 @@
         "Scraggy": 3,
         "Mabosstiff": 8,
         "Lileep": 8,
-        "Cetoddle": 22,
+        "Cetoddle": 23,
         "Chespin": 5,
         "Naclstack": 8,
         "Ferrothorn": 2,
@@ -1363,7 +1363,7 @@
         "Sentret": 14,
         "Cottonee": 6,
         "Horsea": 24,
-        "Doduo": 5,
+        "Doduo": 6,
         "Ivysaur": 7,
         "Crustle": 3,
         "Wooper": 2,
@@ -1461,7 +1461,7 @@
         "Gigalith": 4,
         "Nuzleaf": 6,
         "Geodude": 26,
-        "Gholdengo": 6,
+        "Gholdengo": 7,
         "Dudunsparce": 5,
         "Whirlipede": 7,
         "Skiddo": 7,
@@ -1715,7 +1715,7 @@
         "Pinsir": 2,
         "Bisharp": 3,
         "Amaura": 9,
-        "Weepinbell": 5,
+        "Weepinbell": 6,
         "Flutter mane": 1,
         "Blastoise": 2,
         "Piplup": 5,
@@ -1877,7 +1877,7 @@
         "Slugma": 1,
         "Kingambit": 1,
         "Enamorus": 1,
-        "Nidorina": 5,
+        "Nidorina": 6,
         "Psyduck": 2,
         "Kingdra": 2,
         "Mienfoo": 7,
@@ -1917,7 +1917,7 @@
         "Kricketune": 1,
         "Diggersby": 3,
         "Melmetal": 1,
-        "Torkoal": 2,
+        "Torkoal": 3,
         "Tyranitar": 1,
         "Lopunny": 1,
         "Chatot": 1,
@@ -2015,8 +2015,8 @@
         "Midnight lycanroc": 1,
         "Aromatisse": 1
       },
-      "total_spawns": 4898,
-      "last_spawn": "2026-07-04T16:49:28.236291"
+      "total_spawns": 4904,
+      "last_spawn": "2026-07-04T16:49:58.246511"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2026,7 +2026,7 @@
     }
   },
   "global": {
-    "total_spawns": 62251,
+    "total_spawns": 62257,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
