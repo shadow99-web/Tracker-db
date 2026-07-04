@@ -1188,7 +1188,7 @@
         "Pidgey": 1,
         "Binacle": 1,
         "Bounsweet": 1,
-        "Fletchling": 1,
+        "Fletchling": 2,
         "Whirlipede": 1,
         "Duskull": 3,
         "Abra": 1,
@@ -1267,7 +1267,7 @@
         "Eevee": 1,
         "Dreepy": 1,
         "Treecko": 1,
-        "Shroodle": 1,
+        "Shroodle": 2,
         "Ride cyclizar": 1,
         "Swinub": 2,
         "Rattata": 1,
@@ -1308,14 +1308,15 @@
         "Butterfree": 1,
         "Teddiursa": 1,
         "Roggenrola": 1,
-        "Litwick": 1
+        "Litwick": 1,
+        "Wooper": 1
       },
-      "total_spawns": 173,
-      "last_spawn": "2026-07-04T20:22:33.527799"
+      "total_spawns": 176,
+      "last_spawn": "2026-07-04T20:23:13.853559"
     }
   },
   "global": {
-    "total_spawns": 62712,
+    "total_spawns": 62715,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
