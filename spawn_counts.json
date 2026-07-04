@@ -1189,14 +1189,20 @@
         "Binacle": 1,
         "Bounsweet": 1,
         "Fletchling": 1,
-        "Whirlipede": 1
+        "Whirlipede": 1,
+        "Duskull": 1,
+        "Abra": 1,
+        "Wiglett": 1,
+        "Starly": 1,
+        "Caterpie": 1,
+        "Mareep": 1
       },
-      "total_spawns": 28,
-      "last_spawn": "2026-07-04T17:18:33.653318"
+      "total_spawns": 34,
+      "last_spawn": "2026-07-04T17:19:13.760524"
     }
   },
   "global": {
-    "total_spawns": 62567,
+    "total_spawns": 62573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
