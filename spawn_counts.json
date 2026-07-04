@@ -16,7 +16,7 @@
         "Litleo": 52,
         "Purrloin": 61,
         "Tranquill": 48,
-        "Psyduck": 41,
+        "Psyduck": 42,
         "Rockruff": 53,
         "Haunter": 64,
         "Tangela": 59,
@@ -39,7 +39,7 @@
         "Lotad": 255,
         "Qwilfish": 16,
         "Trapinch": 252,
-        "Toedscool": 219,
+        "Toedscool": 220,
         "Fletchling": 202,
         "Skiploom": 58,
         "Timburr": 252,
@@ -95,7 +95,7 @@
         "Hoppip": 231,
         "Sandslash": 14,
         "Kabuto": 65,
-        "Scatterbug": 258,
+        "Scatterbug": 259,
         "Pumpkaboo": 69,
         "Numel": 67,
         "Carracosta": 15,
@@ -1153,8 +1153,8 @@
         "Monsoon vivillon": 1,
         "Electric arceus": 1
       },
-      "total_spawns": 53037,
-      "last_spawn": "2026-07-04T14:01:24.413503"
+      "total_spawns": 53040,
+      "last_spawn": "2026-07-04T14:01:54.529528"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61934,
+    "total_spawns": 61937,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
