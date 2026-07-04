@@ -1270,7 +1270,7 @@
         "Pidove": 22,
         "Doublade": 7,
         "Quilava": 6,
-        "Tarountula": 19,
+        "Tarountula": 20,
         "Dottler": 2,
         "Paras": 5,
         "Swablu": 9,
@@ -1339,7 +1339,7 @@
         "Cyndaquil": 7,
         "Zorua": 5,
         "Meganium": 2,
-        "Toedscruel": 4,
+        "Toedscruel": 5,
         "Klawf": 21,
         "Grookey": 6,
         "Gossifleur": 9,
@@ -1368,7 +1368,7 @@
         "Crustle": 3,
         "Wooper": 2,
         "Crabominable": 1,
-        "Machop": 19,
+        "Machop": 20,
         "Onix": 9,
         "Lampent": 3,
         "East sea gastrodon": 1,
@@ -1388,7 +1388,7 @@
         "Plusle": 3,
         "Galarian corsola": 1,
         "Cryogonal": 2,
-        "Typhlosion": 2,
+        "Typhlosion": 3,
         "Honedge": 25,
         "Hisuian qwilfish": 1,
         "Torterra": 2,
@@ -1751,7 +1751,7 @@
         "Ledian": 1,
         "Fletchinder": 6,
         "Fennekin": 7,
-        "Omanyte": 3,
+        "Omanyte": 4,
         "Swampert": 1,
         "Snorunt": 7,
         "Poochyena": 6,
@@ -1810,7 +1810,7 @@
         "Lucario": 1,
         "Primarina": 1,
         "Probopass": 1,
-        "Decidueye": 1,
+        "Decidueye": 2,
         "Golurk": 1,
         "Scorbunny": 5,
         "Nidorino": 3,
@@ -1848,7 +1848,7 @@
         "Hypno": 1,
         "Dwebble": 2,
         "Frillish": 3,
-        "Mandibuzz": 3,
+        "Mandibuzz": 4,
         "Wigglytuff": 2,
         "Walrein": 1,
         "Golett": 8,
@@ -2010,8 +2010,8 @@
         "Shiftry": 1,
         "Galarian meowth": 1
       },
-      "total_spawns": 4748,
-      "last_spawn": "2026-07-04T15:22:33.625803"
+      "total_spawns": 4755,
+      "last_spawn": "2026-07-04T15:23:10.647063"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2021,7 +2021,7 @@
     }
   },
   "global": {
-    "total_spawns": 62101,
+    "total_spawns": 62108,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
