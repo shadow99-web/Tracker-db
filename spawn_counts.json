@@ -1248,7 +1248,7 @@
         "Crabrawler": 5,
         "Mudkip": 5,
         "Greavard": 36,
-        "Axew": 17,
+        "Axew": 18,
         "Ride cyclizar": 8,
         "Trapinch": 22,
         "Smoliv": 17,
@@ -1362,7 +1362,7 @@
         "Marowak": 3,
         "Sentret": 14,
         "Cottonee": 6,
-        "Horsea": 22,
+        "Horsea": 23,
         "Doduo": 5,
         "Ivysaur": 7,
         "Crustle": 3,
@@ -1422,7 +1422,7 @@
         "Lotad": 12,
         "Sylveon": 2,
         "Omastar": 2,
-        "Ralts": 20,
+        "Ralts": 21,
         "Clamperl": 7,
         "Falinks": 4,
         "Tinkatuff": 7,
@@ -1518,7 +1518,7 @@
         "Bunnelby": 2,
         "Skiploom": 8,
         "Marshtomp": 4,
-        "Lechonk": 20,
+        "Lechonk": 21,
         "Roaming gimmighoul": 14,
         "Breloom": 2,
         "Ninjask": 1,
@@ -1607,7 +1607,7 @@
         "Houndstone": 5,
         "Braviary": 2,
         "Cubone": 4,
-        "Stantler": 5,
+        "Stantler": 6,
         "Rufflet": 5,
         "Klang": 5,
         "Drilbur": 5,
@@ -1684,7 +1684,7 @@
         "Phantump": 9,
         "Girafarig": 3,
         "Duosion": 2,
-        "Mudbray": 4,
+        "Mudbray": 5,
         "Bombirdier": 11,
         "Haunter": 6,
         "Pirouette meloetta": 1,
@@ -2012,8 +2012,8 @@
         "Oricorio": 1,
         "Basculin": 1
       },
-      "total_spawns": 4850,
-      "last_spawn": "2026-07-04T16:44:43.585520"
+      "total_spawns": 4856,
+      "last_spawn": "2026-07-04T16:45:14.273802"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2023,7 +2023,7 @@
     }
   },
   "global": {
-    "total_spawns": 62203,
+    "total_spawns": 62209,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
