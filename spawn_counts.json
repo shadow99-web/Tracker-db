@@ -1167,7 +1167,7 @@
       "counts": {
         "Braixen": 1,
         "Oddish": 1,
-        "Totodile": 1,
+        "Totodile": 2,
         "Vanillite": 1,
         "Weedle": 2,
         "Kabutops": 2,
@@ -1192,17 +1192,20 @@
         "Whirlipede": 1,
         "Duskull": 1,
         "Abra": 1,
-        "Wiglett": 1,
+        "Wiglett": 2,
         "Starly": 1,
         "Caterpie": 1,
-        "Mareep": 1
+        "Mareep": 1,
+        "Capsakid": 1,
+        "Numel": 1,
+        "Pawmo": 1
       },
-      "total_spawns": 34,
-      "last_spawn": "2026-07-04T17:19:13.760524"
+      "total_spawns": 39,
+      "last_spawn": "2026-07-04T17:19:43.872423"
     }
   },
   "global": {
-    "total_spawns": 62573,
+    "total_spawns": 62578,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
