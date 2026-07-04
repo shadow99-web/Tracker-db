@@ -1168,7 +1168,7 @@
         "Rookidee": 30,
         "Roggenrola": 34,
         "Armarouge": 7,
-        "Gastly": 28,
+        "Gastly": 29,
         "Scatterbug": 26,
         "Wurmple": 29,
         "Gothita": 33,
@@ -1194,7 +1194,7 @@
         "Rhyhorn": 13,
         "Tynamo": 29,
         "Tandemaus": 21,
-        "Smearguru": 21,
+        "Smearguru": 22,
         "Magnemite": 26,
         "Teddiursa": 24,
         "Houndoom": 1,
@@ -1261,7 +1261,7 @@
         "Floragato": 3,
         "Watchog": 1,
         "Boltund": 4,
-        "Lillipup": 26,
+        "Lillipup": 27,
         "Ducklett": 6,
         "Mareep": 18,
         "Tadbulb": 19,
@@ -1573,7 +1573,7 @@
         "Arctovish": 1,
         "Herdier": 3,
         "Zangoose": 3,
-        "Steelix": 3,
+        "Steelix": 4,
         "Avalugg": 1,
         "Yanmega": 1,
         "Arcanine": 4,
@@ -1641,7 +1641,7 @@
         "Nosepass": 5,
         "Exploud": 4,
         "Stretchy tatsugiri": 9,
-        "Elgyem": 7,
+        "Elgyem": 8,
         "Yanma": 2,
         "Gabite": 3,
         "Meowscarada": 2,
@@ -1681,7 +1681,7 @@
         "Three-segment dudunsparce": 1,
         "Corviknight": 2,
         "Mareanie": 8,
-        "Phantump": 9,
+        "Phantump": 10,
         "Girafarig": 3,
         "Duosion": 3,
         "Mudbray": 5,
@@ -2014,10 +2014,11 @@
         "Skeledirge": 1,
         "Midnight lycanroc": 1,
         "Aromatisse": 1,
-        "Miltank": 1
+        "Miltank": 1,
+        "Carracosta": 1
       },
-      "total_spawns": 4999,
-      "last_spawn": "2026-07-04T16:57:53.549931"
+      "total_spawns": 5006,
+      "last_spawn": "2026-07-04T16:58:23.658680"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2027,7 +2028,7 @@
     }
   },
   "global": {
-    "total_spawns": 62352,
+    "total_spawns": 62359,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
