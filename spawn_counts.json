@@ -1200,7 +1200,7 @@
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 1,
-        "Tadbulb": 1,
+        "Tadbulb": 2,
         "Yanmega": 1,
         "Tympole": 1,
         "Grubbin": 2,
@@ -1335,12 +1335,12 @@
         "Bellsprout": 1,
         "Houndstone": 1
       },
-      "total_spawns": 214,
-      "last_spawn": "2026-07-04T20:47:23.011230"
+      "total_spawns": 215,
+      "last_spawn": "2026-07-04T20:48:21.371185"
     }
   },
   "global": {
-    "total_spawns": 62753,
+    "total_spawns": 62754,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
