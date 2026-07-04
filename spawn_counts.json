@@ -1255,7 +1255,7 @@
         "Cyclizar": 1,
         "Froslass": 1,
         "Dodrio": 1,
-        "Metagross": 1,
+        "Metagross": 2,
         "Corphish": 1,
         "Doduo": 1,
         "Flittle": 2,
@@ -1337,12 +1337,12 @@
         "Beldum": 1,
         "Kadabra": 1
       },
-      "total_spawns": 218,
-      "last_spawn": "2026-07-04T20:58:53.396459"
+      "total_spawns": 219,
+      "last_spawn": "2026-07-04T21:02:33.612700"
     }
   },
   "global": {
-    "total_spawns": 62757,
+    "total_spawns": 62758,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
