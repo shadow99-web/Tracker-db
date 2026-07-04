@@ -1269,7 +1269,7 @@
         "Treecko": 1,
         "Shroodle": 1,
         "Ride cyclizar": 1,
-        "Swinub": 1,
+        "Swinub": 2,
         "Rattata": 1,
         "Stonjourner": 1,
         "Veluza": 1,
@@ -1288,14 +1288,17 @@
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
         "Torchic": 1,
-        "Abomasnow": 1
+        "Abomasnow": 1,
+        "Slugma": 1,
+        "Venonat": 1,
+        "Eelektrik": 1
       },
-      "total_spawns": 144,
-      "last_spawn": "2026-07-04T20:17:13.750713"
+      "total_spawns": 148,
+      "last_spawn": "2026-07-04T20:17:53.549219"
     }
   },
   "global": {
-    "total_spawns": 62683,
+    "total_spawns": 62687,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
