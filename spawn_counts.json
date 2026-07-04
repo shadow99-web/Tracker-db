@@ -1171,11 +1171,11 @@
         "Gastly": 24,
         "Scatterbug": 25,
         "Wurmple": 27,
-        "Gothita": 30,
+        "Gothita": 31,
         "Gible": 17,
         "Larvesta": 6,
         "Starly": 19,
-        "Varoom": 35,
+        "Varoom": 36,
         "Weedle": 19,
         "Chef dente": 18,
         "Hatenna": 24,
@@ -1621,7 +1621,7 @@
         "Salandit": 1,
         "Qwilfish": 1,
         "Indeedee": 3,
-        "Skrelp": 7,
+        "Skrelp": 8,
         "Oinkologne": 3,
         "Dragonair": 4,
         "Hippopotas": 3,
@@ -1652,7 +1652,7 @@
         "Loudred": 8,
         "Cutiefly": 3,
         "Wishiwashi": 1,
-        "Litleo": 4,
+        "Litleo": 5,
         "Pancham": 4,
         "Corvisquire": 4,
         "Pupitar": 2,
@@ -1697,7 +1697,7 @@
         "Bewear": 1,
         "Cloyster": 3,
         "Centiskorch": 2,
-        "Poliwhirl": 5,
+        "Poliwhirl": 6,
         "Patrat": 5,
         "Samurott": 2,
         "Ditto": 2,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4707,
-      "last_spawn": "2026-07-04T15:16:08.396107"
+      "total_spawns": 4712,
+      "last_spawn": "2026-07-04T15:16:48.443271"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 62060,
+    "total_spawns": 62065,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
