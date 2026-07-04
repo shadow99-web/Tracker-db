@@ -1240,7 +1240,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 1,
-        "Shinx": 1,
+        "Shinx": 2,
         "Drakloak": 1,
         "Victini": 1,
         "Pawmi": 1,
@@ -1299,14 +1299,18 @@
         "Spearow": 1,
         "Servine": 1,
         "Wugtrio": 1,
-        "Tranquill": 1
+        "Tranquill": 1,
+        "Cetitan": 1,
+        "Turtwig": 1,
+        "Fomantis": 1,
+        "Claydol": 1
       },
-      "total_spawns": 160,
-      "last_spawn": "2026-07-04T20:19:54.218153"
+      "total_spawns": 165,
+      "last_spawn": "2026-07-04T20:20:33.525059"
     }
   },
   "global": {
-    "total_spawns": 62699,
+    "total_spawns": 62704,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
