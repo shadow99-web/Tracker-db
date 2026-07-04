@@ -64,7 +64,7 @@
         "Beldum": 164,
         "Ducklett": 54,
         "Lokix": 56,
-        "Glimmora": 60,
+        "Glimmora": 61,
         "Starly": 247,
         "Tandemaus": 204,
         "Smoliv": 255,
@@ -152,7 +152,7 @@
         "Roggenrola": 256,
         "Pidove": 219,
         "Dragapult": 22,
-        "Rattata": 128,
+        "Rattata": 129,
         "Flapple": 22,
         "Aron": 232,
         "Boldore": 55,
@@ -214,7 +214,7 @@
         "Noivern": 15,
         "Feraligatr": 13,
         "Tynamo": 254,
-        "Orthworm": 238,
+        "Orthworm": 239,
         "Marill": 69,
         "Joltik": 71,
         "Politoed": 16,
@@ -346,7 +346,7 @@
         "Revavroom": 56,
         "Exploud": 19,
         "Deino": 158,
-        "Wooper": 67,
+        "Wooper": 68,
         "Dwebble": 71,
         "Steenee": 61,
         "Darumaka": 60,
@@ -410,7 +410,7 @@
         "Dondozo": 230,
         "Pansear": 60,
         "Cutiefly": 70,
-        "Peakychu": 178,
+        "Peakychu": 179,
         "Armarouge": 64,
         "Tyrantrum": 7,
         "Larvitar": 135,
@@ -479,7 +479,7 @@
         "Slowpoke": 73,
         "Dolliv": 57,
         "Infernape": 16,
-        "Carkol": 52,
+        "Carkol": 53,
         "Magikarp": 64,
         "Tyrogue": 48,
         "Vikavolt": 12,
@@ -1153,8 +1153,8 @@
         "Monsoon vivillon": 1,
         "Electric arceus": 1
       },
-      "total_spawns": 52823,
-      "last_spawn": "2026-07-04T13:28:24.407801"
+      "total_spawns": 52829,
+      "last_spawn": "2026-07-04T13:28:54.608296"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61715,
+    "total_spawns": 61721,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
