@@ -1164,14 +1164,14 @@
         "Clauncher": 3,
         "Barbaracle": 2,
         "Amoonguss": 3,
-        "Mosslax": 22,
+        "Mosslax": 23,
         "Rookidee": 29,
         "Roggenrola": 33,
         "Armarouge": 7,
         "Gastly": 27,
         "Scatterbug": 26,
         "Wurmple": 27,
-        "Gothita": 32,
+        "Gothita": 33,
         "Gible": 19,
         "Larvesta": 6,
         "Starly": 19,
@@ -1340,7 +1340,7 @@
         "Zorua": 6,
         "Meganium": 2,
         "Toedscruel": 5,
-        "Klawf": 22,
+        "Klawf": 23,
         "Grookey": 6,
         "Gossifleur": 9,
         "Joltik": 7,
@@ -1381,7 +1381,7 @@
         "Gallade": 1,
         "Rattata": 19,
         "Bellsprout": 21,
-        "Lickitung": 9,
+        "Lickitung": 10,
         "Minccino": 9,
         "Togepi": 18,
         "Milotic": 1,
@@ -1453,7 +1453,7 @@
         "Tranquill": 9,
         "Porygon": 19,
         "Wooloo": 8,
-        "Oddish": 18,
+        "Oddish": 19,
         "Barraskewda": 1,
         "Shieldon": 4,
         "Piloswine": 8,
@@ -1618,7 +1618,7 @@
         "Aurorus": 1,
         "Morelull": 3,
         "White plumage squawkabilly": 4,
-        "Salandit": 1,
+        "Salandit": 2,
         "Qwilfish": 1,
         "Indeedee": 3,
         "Skrelp": 8,
@@ -2011,10 +2011,11 @@
         "Galarian meowth": 1,
         "Oricorio": 1,
         "Basculin": 1,
-        "Skeledirge": 1
+        "Skeledirge": 1,
+        "Midnight lycanroc": 1
       },
-      "total_spawns": 4884,
-      "last_spawn": "2026-07-04T16:48:23.572476"
+      "total_spawns": 4891,
+      "last_spawn": "2026-07-04T16:48:53.608470"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2024,7 +2025,7 @@
     }
   },
   "global": {
-    "total_spawns": 62237,
+    "total_spawns": 62244,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
