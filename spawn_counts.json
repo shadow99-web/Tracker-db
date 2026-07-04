@@ -1168,7 +1168,7 @@
         "Braixen": 1,
         "Oddish": 1,
         "Totodile": 2,
-        "Vanillite": 1,
+        "Vanillite": 2,
         "Weedle": 3,
         "Kabutops": 2,
         "Poliwag": 2,
@@ -1245,12 +1245,12 @@
         "Victini": 1,
         "Pawmi": 1
       },
-      "total_spawns": 88,
-      "last_spawn": "2026-07-04T19:11:02.640212"
+      "total_spawns": 89,
+      "last_spawn": "2026-07-04T19:11:43.137439"
     }
   },
   "global": {
-    "total_spawns": 62627,
+    "total_spawns": 62628,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
