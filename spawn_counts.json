@@ -1609,7 +1609,7 @@
         "Cubone": 4,
         "Stantler": 5,
         "Rufflet": 5,
-        "Klang": 4,
+        "Klang": 5,
         "Drilbur": 5,
         "Mismagius": 1,
         "Bonsly": 2,
@@ -1878,7 +1878,7 @@
         "Kingambit": 1,
         "Enamorus": 1,
         "Nidorina": 5,
-        "Psyduck": 1,
+        "Psyduck": 2,
         "Kingdra": 2,
         "Mienfoo": 7,
         "Budew": 1,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4628,
-      "last_spawn": "2026-07-04T14:20:05.654168"
+      "total_spawns": 4630,
+      "last_spawn": "2026-07-04T14:20:45.301884"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61981,
+    "total_spawns": 61983,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
