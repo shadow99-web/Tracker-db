@@ -1172,7 +1172,7 @@
         "Scatterbug": 26,
         "Wurmple": 27,
         "Gothita": 31,
-        "Gible": 17,
+        "Gible": 18,
         "Larvesta": 6,
         "Starly": 19,
         "Varoom": 36,
@@ -1189,7 +1189,7 @@
         "Dreepy": 25,
         "Bagon": 19,
         "Archen": 10,
-        "Shinx": 30,
+        "Shinx": 31,
         "Pikachu": 7,
         "Rhyhorn": 13,
         "Tynamo": 28,
@@ -1280,7 +1280,7 @@
         "Aron": 21,
         "Kabuto": 7,
         "Togetic": 6,
-        "Sewaddle": 31,
+        "Sewaddle": 32,
         "Eevee": 3,
         "Taillow": 3,
         "Pelipper": 2,
@@ -1340,7 +1340,7 @@
         "Zorua": 5,
         "Meganium": 2,
         "Toedscruel": 5,
-        "Klawf": 21,
+        "Klawf": 22,
         "Grookey": 6,
         "Gossifleur": 9,
         "Joltik": 7,
@@ -1360,7 +1360,7 @@
         "Nihilego": 1,
         "Slakoth": 21,
         "Marowak": 3,
-        "Sentret": 13,
+        "Sentret": 14,
         "Cottonee": 6,
         "Horsea": 22,
         "Doduo": 4,
@@ -1624,7 +1624,7 @@
         "Skrelp": 8,
         "Oinkologne": 3,
         "Dragonair": 4,
-        "Hippopotas": 3,
+        "Hippopotas": 4,
         "Nymble": 17,
         "Phanpy": 3,
         "Scyther": 3,
@@ -2010,8 +2010,8 @@
         "Shiftry": 1,
         "Galarian meowth": 1
       },
-      "total_spawns": 4769,
-      "last_spawn": "2026-07-04T15:24:18.343549"
+      "total_spawns": 4775,
+      "last_spawn": "2026-07-04T15:24:48.459906"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2021,7 +2021,7 @@
     }
   },
   "global": {
-    "total_spawns": 62122,
+    "total_spawns": 62128,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
