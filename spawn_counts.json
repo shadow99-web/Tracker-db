@@ -1220,7 +1220,7 @@
         "Woobat": 10,
         "Happiny": 3,
         "Squirtle": 6,
-        "Spinarak": 5,
+        "Spinarak": 6,
         "Blue plumage squawkabilly": 3,
         "Bergmite": 5,
         "Lairon": 4,
@@ -1267,7 +1267,7 @@
         "Tadbulb": 19,
         "Helioptile": 4,
         "Blitzle": 13,
-        "Pidove": 22,
+        "Pidove": 23,
         "Doublade": 8,
         "Quilava": 6,
         "Tarountula": 21,
@@ -1312,7 +1312,7 @@
         "Lurantis": 2,
         "Machamp": 2,
         "Sceptile": 1,
-        "Shelgon": 6,
+        "Shelgon": 7,
         "Dratini": 16,
         "Coalossal": 3,
         "Gumshoos": 2,
@@ -1368,7 +1368,7 @@
         "Crustle": 3,
         "Wooper": 3,
         "Crabominable": 1,
-        "Machop": 20,
+        "Machop": 21,
         "Onix": 11,
         "Lampent": 3,
         "East sea gastrodon": 1,
@@ -1494,7 +1494,7 @@
         "Servine": 9,
         "Grubbin": 18,
         "Clobbopus": 5,
-        "Bounsweet": 25,
+        "Bounsweet": 26,
         "Crawdaunt": 4,
         "Hoppip": 19,
         "Shroodle": 13,
@@ -1858,7 +1858,7 @@
         "Clodsire": 6,
         "Snover": 5,
         "Unfezant": 2,
-        "Magmar": 4,
+        "Magmar": 5,
         "Snubbull": 4,
         "Galarian rapidash": 1,
         "Metang": 2,
@@ -2018,8 +2018,8 @@
         "Carracosta": 1,
         "Stonjourner": 1
       },
-      "total_spawns": 5052,
-      "last_spawn": "2026-07-04T17:03:33.660903"
+      "total_spawns": 5058,
+      "last_spawn": "2026-07-04T17:04:03.827963"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2029,7 +2029,7 @@
     }
   },
   "global": {
-    "total_spawns": 62405,
+    "total_spawns": 62411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
