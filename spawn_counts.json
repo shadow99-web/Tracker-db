@@ -1176,7 +1176,7 @@
         "Larvesta": 6,
         "Starly": 19,
         "Varoom": 37,
-        "Weedle": 21,
+        "Weedle": 22,
         "Chef dente": 19,
         "Hatenna": 24,
         "Dugtrio": 1,
@@ -1191,7 +1191,7 @@
         "Archen": 11,
         "Shinx": 33,
         "Pikachu": 7,
-        "Rhyhorn": 13,
+        "Rhyhorn": 14,
         "Tynamo": 29,
         "Tandemaus": 21,
         "Smearguru": 23,
@@ -1334,7 +1334,7 @@
         "Beheeyem": 2,
         "Charizard": 2,
         "Kirlia": 5,
-        "Treecko": 12,
+        "Treecko": 13,
         "Veluza": 25,
         "Cyndaquil": 9,
         "Zorua": 8,
@@ -1362,7 +1362,7 @@
         "Marowak": 3,
         "Sentret": 15,
         "Cottonee": 6,
-        "Horsea": 24,
+        "Horsea": 25,
         "Doduo": 6,
         "Ivysaur": 7,
         "Crustle": 3,
@@ -1595,10 +1595,10 @@
         "Metapod": 5,
         "Sealeo": 9,
         "Wynaut": 2,
-        "Staravia": 3,
+        "Staravia": 4,
         "Spidops": 4,
         "Appletun": 3,
-        "Anorith": 7,
+        "Anorith": 8,
         "Carkol": 7,
         "Seaking": 2,
         "Quaxly": 6,
@@ -2020,10 +2020,11 @@
         "Mothim": 1,
         "Linoone": 1,
         "Spinda": 1,
-        "Whimsicott": 1
+        "Whimsicott": 1,
+        "Gliscor": 1
       },
-      "total_spawns": 5144,
-      "last_spawn": "2026-07-04T17:12:58.490003"
+      "total_spawns": 5151,
+      "last_spawn": "2026-07-04T17:13:30.398958"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2033,7 +2034,7 @@
     }
   },
   "global": {
-    "total_spawns": 62497,
+    "total_spawns": 62504,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
