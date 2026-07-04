@@ -1541,7 +1541,7 @@
         "Ekans": 3,
         "Swanna": 3,
         "Marill": 7,
-        "Oshawott": 9,
+        "Oshawott": 10,
         "Cyclizar": 6,
         "Castform": 2,
         "Shelmet": 6,
@@ -1967,7 +1967,7 @@
         "Hydreigon": 1,
         "Yveltal": 1,
         "Floatzel": 1,
-        "Mamoswine": 2,
+        "Mamoswine": 3,
         "Blissey": 1,
         "Vanilluxe": 1,
         "Serperior": 1,
@@ -2004,13 +2004,13 @@
         "Dipplin": 1,
         "Sandslash": 1,
         "Wobbuffet": 1,
-        "Grapploct": 1,
+        "Grapploct": 2,
         "Pumpkaboo": 1,
         "Corsola": 1,
         "Shiftry": 1
       },
-      "total_spawns": 4730,
-      "last_spawn": "2026-07-04T15:19:48.718327"
+      "total_spawns": 4733,
+      "last_spawn": "2026-07-04T15:20:18.748740"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2020,7 +2020,7 @@
     }
   },
   "global": {
-    "total_spawns": 62083,
+    "total_spawns": 62086,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
