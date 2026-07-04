@@ -1247,7 +1247,7 @@
         "Sandile": 1,
         "Charmeleon": 1,
         "Riolu": 1,
-        "Gible": 1,
+        "Gible": 2,
         "Greavard": 1,
         "Snover": 1,
         "Piplup": 1,
@@ -1309,14 +1309,16 @@
         "Teddiursa": 1,
         "Roggenrola": 1,
         "Litwick": 1,
-        "Wooper": 1
+        "Wooper": 1,
+        "Pikipek": 1,
+        "Spritzee": 1
       },
-      "total_spawns": 176,
-      "last_spawn": "2026-07-04T20:23:13.853559"
+      "total_spawns": 179,
+      "last_spawn": "2026-07-04T20:23:53.552421"
     }
   },
   "global": {
-    "total_spawns": 62715,
+    "total_spawns": 62718,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
