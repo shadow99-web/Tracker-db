@@ -1193,7 +1193,7 @@
         "Duskull": 2,
         "Abra": 1,
         "Wiglett": 2,
-        "Starly": 2,
+        "Starly": 3,
         "Caterpie": 2,
         "Mareep": 2,
         "Capsakid": 1,
@@ -1258,7 +1258,7 @@
         "Metagross": 1,
         "Corphish": 1,
         "Doduo": 1,
-        "Flittle": 1,
+        "Flittle": 2,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -1294,14 +1294,16 @@
         "Eelektrik": 1,
         "Diglett": 1,
         "Surskit": 1,
-        "Seedot": 1
+        "Seedot": 1,
+        "Jigglypuff": 1,
+        "Spearow": 1
       },
-      "total_spawns": 152,
-      "last_spawn": "2026-07-04T20:18:35.142883"
+      "total_spawns": 156,
+      "last_spawn": "2026-07-04T20:19:13.678879"
     }
   },
   "global": {
-    "total_spawns": 62691,
+    "total_spawns": 62695,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
