@@ -1175,7 +1175,7 @@
         "Fidough": 1,
         "Charjabug": 1,
         "Hatterene": 1,
-        "Rowlet": 1,
+        "Rowlet": 2,
         "Anorith": 1,
         "Arctibax": 1,
         "Ralts": 2,
@@ -1313,14 +1313,15 @@
         "Pikipek": 1,
         "Spritzee": 1,
         "Stantler": 1,
-        "Impidimp": 1
+        "Impidimp": 1,
+        "Swadloon": 1
       },
-      "total_spawns": 181,
-      "last_spawn": "2026-07-04T20:24:33.472458"
+      "total_spawns": 183,
+      "last_spawn": "2026-07-04T20:25:13.704918"
     }
   },
   "global": {
-    "total_spawns": 62720,
+    "total_spawns": 62722,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
