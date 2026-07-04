@@ -1171,7 +1171,7 @@
         "Vanillite": 3,
         "Weedle": 3,
         "Kabutops": 2,
-        "Poliwag": 2,
+        "Poliwag": 3,
         "Fidough": 1,
         "Charjabug": 1,
         "Hatterene": 1,
@@ -1271,14 +1271,15 @@
         "Ride cyclizar": 1,
         "Swinub": 1,
         "Rattata": 1,
-        "Stonjourner": 1
+        "Stonjourner": 1,
+        "Veluza": 1
       },
-      "total_spawns": 121,
-      "last_spawn": "2026-07-04T20:09:33.522615"
+      "total_spawns": 123,
+      "last_spawn": "2026-07-04T20:11:33.402478"
     }
   },
   "global": {
-    "total_spawns": 62660,
+    "total_spawns": 62662,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
