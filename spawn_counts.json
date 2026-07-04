@@ -1196,7 +1196,7 @@
         "Tandemaus": 20,
         "Smearguru": 20,
         "Magnemite": 24,
-        "Teddiursa": 23,
+        "Teddiursa": 24,
         "Houndoom": 1,
         "Torracat": 3,
         "Donphan": 5,
@@ -1735,7 +1735,7 @@
         "Galarian ponyta": 1,
         "Escavalier": 1,
         "Dusknoir": 2,
-        "Cacnea": 1,
+        "Cacnea": 2,
         "Ponyta": 6,
         "Vullaby": 5,
         "Drifblim": 2,
@@ -1772,7 +1772,7 @@
         "Accelgor": 1,
         "Forretress": 1,
         "Orange flower floette": 1,
-        "Quaxwell": 1,
+        "Quaxwell": 2,
         "Tinkaton": 1,
         "Sunkern": 3,
         "Heracross": 2,
@@ -1948,7 +1948,7 @@
         "Excadrill": 1,
         "Volbeat": 1,
         "Buneary": 4,
-        "Trubbish": 1,
+        "Trubbish": 2,
         "Raichu": 1,
         "Okidogi": 1,
         "Noivern": 1,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4723,
-      "last_spawn": "2026-07-04T15:18:38.623174"
+      "total_spawns": 4727,
+      "last_spawn": "2026-07-04T15:19:18.119428"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 62076,
+    "total_spawns": 62080,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
