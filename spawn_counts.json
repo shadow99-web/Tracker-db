@@ -1190,7 +1190,7 @@
         "Bounsweet": 1,
         "Fletchling": 1,
         "Whirlipede": 1,
-        "Duskull": 2,
+        "Duskull": 3,
         "Abra": 1,
         "Wiglett": 2,
         "Starly": 3,
@@ -1296,14 +1296,17 @@
         "Surskit": 1,
         "Seedot": 1,
         "Jigglypuff": 1,
-        "Spearow": 1
+        "Spearow": 1,
+        "Servine": 1,
+        "Wugtrio": 1,
+        "Tranquill": 1
       },
-      "total_spawns": 156,
-      "last_spawn": "2026-07-04T20:19:13.678879"
+      "total_spawns": 160,
+      "last_spawn": "2026-07-04T20:19:54.218153"
     }
   },
   "global": {
-    "total_spawns": 62695,
+    "total_spawns": 62699,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
