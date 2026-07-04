@@ -1263,14 +1263,16 @@
         "Clauncher": 1,
         "Tentacool": 1,
         "Bayleef": 1,
-        "Magnezone": 1
+        "Magnezone": 1,
+        "Eevee": 1,
+        "Dreepy": 1
       },
-      "total_spawns": 113,
-      "last_spawn": "2026-07-04T20:06:53.495524"
+      "total_spawns": 115,
+      "last_spawn": "2026-07-04T20:07:33.570183"
     }
   },
   "global": {
-    "total_spawns": 62652,
+    "total_spawns": 62654,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
