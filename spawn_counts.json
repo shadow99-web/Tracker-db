@@ -1168,7 +1168,7 @@
         "Braixen": 1,
         "Oddish": 1,
         "Totodile": 2,
-        "Vanillite": 2,
+        "Vanillite": 3,
         "Weedle": 3,
         "Kabutops": 2,
         "Poliwag": 2,
@@ -1252,12 +1252,12 @@
         "Snover": 1,
         "Piplup": 1
       },
-      "total_spawns": 98,
-      "last_spawn": "2026-07-04T19:49:46.503164"
+      "total_spawns": 99,
+      "last_spawn": "2026-07-04T19:57:22.943254"
     }
   },
   "global": {
-    "total_spawns": 62637,
+    "total_spawns": 62638,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
