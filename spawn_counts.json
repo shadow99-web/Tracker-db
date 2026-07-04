@@ -1190,7 +1190,7 @@
         "Bounsweet": 1,
         "Fletchling": 2,
         "Whirlipede": 1,
-        "Duskull": 3,
+        "Duskull": 4,
         "Abra": 1,
         "Wiglett": 2,
         "Starly": 3,
@@ -1327,14 +1327,15 @@
         "Lotad": 1,
         "Mienshao": 1,
         "Blipbug": 2,
-        "Rellor": 1
+        "Rellor": 1,
+        "Rolycoly": 1
       },
-      "total_spawns": 202,
-      "last_spawn": "2026-07-04T20:31:53.527465"
+      "total_spawns": 204,
+      "last_spawn": "2026-07-04T20:33:28.262770"
     }
   },
   "global": {
-    "total_spawns": 62741,
+    "total_spawns": 62743,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
