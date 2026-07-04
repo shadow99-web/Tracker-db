@@ -1433,7 +1433,7 @@
         "Charmander": 6,
         "Shroomish": 3,
         "Finizen": 15,
-        "Croconaw": 5,
+        "Croconaw": 6,
         "Bronzor": 10,
         "Eelektrik": 6,
         "Ledyba": 10,
@@ -1448,7 +1448,7 @@
         "Tympole": 27,
         "Barboach": 6,
         "Carvanha": 3,
-        "Caterpie": 18,
+        "Caterpie": 19,
         "Dondozo": 24,
         "Tranquill": 8,
         "Porygon": 19,
@@ -2006,10 +2006,11 @@
         "Wobbuffet": 1,
         "Grapploct": 1,
         "Pumpkaboo": 1,
-        "Corsola": 1
+        "Corsola": 1,
+        "Shiftry": 1
       },
-      "total_spawns": 4727,
-      "last_spawn": "2026-07-04T15:19:18.119428"
+      "total_spawns": 4730,
+      "last_spawn": "2026-07-04T15:19:48.718327"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2020,7 @@
     }
   },
   "global": {
-    "total_spawns": 62080,
+    "total_spawns": 62083,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
