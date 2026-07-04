@@ -1304,7 +1304,7 @@
         "Mabosstiff": 8,
         "Lileep": 8,
         "Cetoddle": 22,
-        "Chespin": 4,
+        "Chespin": 5,
         "Naclstack": 8,
         "Ferrothorn": 2,
         "Karrablast": 8,
@@ -1348,7 +1348,7 @@
         "Heliolisk": 4,
         "Raboot": 6,
         "Vanillite": 25,
-        "Krabby": 4,
+        "Krabby": 5,
         "Clefable": 3,
         "Durant": 3,
         "Pidgeotto": 5,
@@ -1439,7 +1439,7 @@
         "Ledyba": 10,
         "Tyrunt": 8,
         "Braixen": 2,
-        "Revavroom": 7,
+        "Revavroom": 8,
         "Drowzee": 3,
         "Huntail": 1,
         "Vibrava": 5,
@@ -2012,8 +2012,8 @@
         "Oricorio": 1,
         "Basculin": 1
       },
-      "total_spawns": 4827,
-      "last_spawn": "2026-07-04T16:41:08.257638"
+      "total_spawns": 4830,
+      "last_spawn": "2026-07-04T16:41:48.243338"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2023,7 +2023,7 @@
     }
   },
   "global": {
-    "total_spawns": 62180,
+    "total_spawns": 62183,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
