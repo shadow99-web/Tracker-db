@@ -1235,7 +1235,7 @@
         "Salandit": 1,
         "Bruxish": 1,
         "Orbeetle": 1,
-        "Bramblin": 1,
+        "Bramblin": 2,
         "Stufful": 1,
         "Shelgon": 1,
         "Marshtomp": 1,
@@ -1291,14 +1291,17 @@
         "Abomasnow": 1,
         "Slugma": 1,
         "Venonat": 1,
-        "Eelektrik": 1
+        "Eelektrik": 1,
+        "Diglett": 1,
+        "Surskit": 1,
+        "Seedot": 1
       },
-      "total_spawns": 148,
-      "last_spawn": "2026-07-04T20:17:53.549219"
+      "total_spawns": 152,
+      "last_spawn": "2026-07-04T20:18:35.142883"
     }
   },
   "global": {
-    "total_spawns": 62687,
+    "total_spawns": 62691,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
