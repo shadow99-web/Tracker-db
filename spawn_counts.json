@@ -1195,7 +1195,7 @@
         "Wiglett": 2,
         "Starly": 2,
         "Caterpie": 1,
-        "Mareep": 1,
+        "Mareep": 2,
         "Capsakid": 1,
         "Numel": 1,
         "Pawmo": 1,
@@ -1258,14 +1258,15 @@
         "Metagross": 1,
         "Corphish": 1,
         "Doduo": 1,
-        "Flittle": 1
+        "Flittle": 1,
+        "Armarouge": 1
       },
-      "total_spawns": 107,
-      "last_spawn": "2026-07-04T20:04:13.450757"
+      "total_spawns": 109,
+      "last_spawn": "2026-07-04T20:04:53.665366"
     }
   },
   "global": {
-    "total_spawns": 62646,
+    "total_spawns": 62648,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
