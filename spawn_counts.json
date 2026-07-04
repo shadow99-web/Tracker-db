@@ -1210,7 +1210,7 @@
         "Staryu": 1,
         "Maschiff": 1,
         "Smoliv": 1,
-        "Tirtouga": 1,
+        "Tirtouga": 2,
         "Hatenna": 1,
         "Shroomish": 1,
         "Lillipup": 1,
@@ -1237,12 +1237,12 @@
         "Orbeetle": 1,
         "Bramblin": 1
       },
-      "total_spawns": 79,
-      "last_spawn": "2026-07-04T17:59:56.145049"
+      "total_spawns": 80,
+      "last_spawn": "2026-07-04T18:10:43.473938"
     }
   },
   "global": {
-    "total_spawns": 62618,
+    "total_spawns": 62619,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
