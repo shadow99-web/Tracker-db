@@ -1203,14 +1203,18 @@
         "Tadbulb": 1,
         "Yanmega": 1,
         "Tympole": 1,
-        "Grubbin": 1
+        "Grubbin": 1,
+        "Scatterbug": 1,
+        "Skwovet": 1,
+        "Applin": 1,
+        "Staryu": 1
       },
-      "total_spawns": 44,
-      "last_spawn": "2026-07-04T17:20:22.670465"
+      "total_spawns": 48,
+      "last_spawn": "2026-07-04T17:20:53.593021"
     }
   },
   "global": {
-    "total_spawns": 62583,
+    "total_spawns": 62587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
