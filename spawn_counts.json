@@ -1459,7 +1459,7 @@
         "Piloswine": 8,
         "Archeops": 2,
         "Gigalith": 4,
-        "Nuzleaf": 5,
+        "Nuzleaf": 6,
         "Geodude": 25,
         "Gholdengo": 5,
         "Dudunsparce": 5,
@@ -1599,7 +1599,7 @@
         "Spidops": 4,
         "Appletun": 3,
         "Anorith": 7,
-        "Carkol": 6,
+        "Carkol": 7,
         "Seaking": 2,
         "Quaxly": 6,
         "Golbat": 8,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4655,
-      "last_spawn": "2026-07-04T14:41:45.942773"
+      "total_spawns": 4657,
+      "last_spawn": "2026-07-04T14:42:25.823326"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 62008,
+    "total_spawns": 62010,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
