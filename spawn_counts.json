@@ -1274,14 +1274,16 @@
         "Stonjourner": 1,
         "Veluza": 1,
         "Panpour": 1,
-        "Crabrawler": 1
+        "Crabrawler": 1,
+        "Frogadier": 1,
+        "Scovillain": 1
       },
-      "total_spawns": 125,
-      "last_spawn": "2026-07-04T20:13:13.685831"
+      "total_spawns": 127,
+      "last_spawn": "2026-07-04T20:13:53.624569"
     }
   },
   "global": {
-    "total_spawns": 62664,
+    "total_spawns": 62666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
