@@ -1169,7 +1169,7 @@
         "Oddish": 1,
         "Totodile": 2,
         "Vanillite": 1,
-        "Weedle": 2,
+        "Weedle": 3,
         "Kabutops": 2,
         "Poliwag": 2,
         "Fidough": 1,
@@ -1190,7 +1190,7 @@
         "Bounsweet": 1,
         "Fletchling": 1,
         "Whirlipede": 1,
-        "Duskull": 1,
+        "Duskull": 2,
         "Abra": 1,
         "Wiglett": 2,
         "Starly": 1,
@@ -1213,14 +1213,16 @@
         "Tirtouga": 1,
         "Hatenna": 1,
         "Shroomish": 1,
-        "Lillipup": 1
+        "Lillipup": 1,
+        "Mosslax": 1,
+        "Maushold": 1
       },
-      "total_spawns": 54,
-      "last_spawn": "2026-07-04T17:22:03.822339"
+      "total_spawns": 58,
+      "last_spawn": "2026-07-04T17:22:43.476407"
     }
   },
   "global": {
-    "total_spawns": 62593,
+    "total_spawns": 62597,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
