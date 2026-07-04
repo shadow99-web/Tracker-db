@@ -1209,7 +1209,7 @@
         "Applin": 1,
         "Staryu": 1,
         "Maschiff": 2,
-        "Smoliv": 1,
+        "Smoliv": 2,
         "Tirtouga": 2,
         "Hatenna": 1,
         "Shroomish": 1,
@@ -1228,7 +1228,7 @@
         "Aron": 1,
         "Honedge": 1,
         "Houndour": 1,
-        "Machop": 2,
+        "Machop": 3,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -1303,14 +1303,16 @@
         "Cetitan": 1,
         "Turtwig": 1,
         "Fomantis": 1,
-        "Claydol": 1
+        "Claydol": 1,
+        "Trapinch": 1,
+        "Butterfree": 1
       },
-      "total_spawns": 165,
-      "last_spawn": "2026-07-04T20:20:33.525059"
+      "total_spawns": 169,
+      "last_spawn": "2026-07-04T20:21:13.976997"
     }
   },
   "global": {
-    "total_spawns": 62704,
+    "total_spawns": 62708,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
