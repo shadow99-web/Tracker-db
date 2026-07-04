@@ -1243,7 +1243,7 @@
         "Fidough": 16,
         "Spritzee": 7,
         "Squawkabilly": 8,
-        "Beldum": 20,
+        "Beldum": 21,
         "Whismur": 27,
         "Crabrawler": 5,
         "Mudkip": 5,
@@ -1307,7 +1307,7 @@
         "Chespin": 5,
         "Naclstack": 8,
         "Ferrothorn": 2,
-        "Karrablast": 8,
+        "Karrablast": 9,
         "Sinistea": 11,
         "Lurantis": 2,
         "Machamp": 2,
@@ -1337,14 +1337,14 @@
         "Treecko": 12,
         "Veluza": 24,
         "Cyndaquil": 9,
-        "Zorua": 7,
+        "Zorua": 8,
         "Meganium": 2,
         "Toedscruel": 5,
         "Klawf": 24,
         "Grookey": 6,
         "Gossifleur": 9,
         "Joltik": 7,
-        "Summer deerling": 5,
+        "Summer deerling": 6,
         "Heliolisk": 4,
         "Raboot": 6,
         "Vanillite": 28,
@@ -1453,7 +1453,7 @@
         "Tranquill": 9,
         "Porygon": 21,
         "Wooloo": 8,
-        "Oddish": 20,
+        "Oddish": 21,
         "Barraskewda": 1,
         "Shieldon": 4,
         "Piloswine": 8,
@@ -1542,7 +1542,7 @@
         "Swanna": 3,
         "Marill": 7,
         "Oshawott": 13,
-        "Cyclizar": 6,
+        "Cyclizar": 7,
         "Castform": 2,
         "Shelmet": 6,
         "Pyroar": 5,
@@ -2016,10 +2016,11 @@
         "Aromatisse": 1,
         "Miltank": 1,
         "Carracosta": 1,
-        "Stonjourner": 1
+        "Stonjourner": 1,
+        "Mothim": 1
       },
-      "total_spawns": 5085,
-      "last_spawn": "2026-07-04T17:06:13.709881"
+      "total_spawns": 5092,
+      "last_spawn": "2026-07-04T17:06:48.249292"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2029,7 +2030,7 @@
     }
   },
   "global": {
-    "total_spawns": 62438,
+    "total_spawns": 62445,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
