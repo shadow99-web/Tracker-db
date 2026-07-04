@@ -1736,7 +1736,7 @@
         "Escavalier": 1,
         "Dusknoir": 2,
         "Cacnea": 1,
-        "Ponyta": 4,
+        "Ponyta": 5,
         "Vullaby": 5,
         "Drifblim": 2,
         "Druddigon": 1,
@@ -1947,7 +1947,7 @@
         "Aerodactyl": 1,
         "Excadrill": 1,
         "Volbeat": 1,
-        "Buneary": 3,
+        "Buneary": 4,
         "Trubbish": 1,
         "Raichu": 1,
         "Okidogi": 1,
@@ -2008,8 +2008,8 @@
         "Pumpkaboo": 1,
         "Corsola": 1
       },
-      "total_spawns": 4614,
-      "last_spawn": "2026-07-04T14:15:25.232093"
+      "total_spawns": 4616,
+      "last_spawn": "2026-07-04T14:16:05.132055"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61967,
+    "total_spawns": 61969,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
