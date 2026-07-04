@@ -1187,7 +1187,7 @@
         "Lickilicky": 4,
         "Hisuian voltorb": 1,
         "Dreepy": 25,
-        "Bagon": 18,
+        "Bagon": 19,
         "Archen": 10,
         "Shinx": 29,
         "Pikachu": 7,
@@ -1241,7 +1241,7 @@
         "Aegislash": 2,
         "Inkay": 4,
         "Fidough": 16,
-        "Spritzee": 6,
+        "Spritzee": 7,
         "Squawkabilly": 8,
         "Beldum": 19,
         "Whismur": 26,
@@ -1374,7 +1374,7 @@
         "East sea gastrodon": 1,
         "Magcargo": 3,
         "Electabuzz": 6,
-        "Sensu oricorio": 2,
+        "Sensu oricorio": 3,
         "Whiscash": 2,
         "Ursaring": 10,
         "Staryu": 6,
@@ -1563,7 +1563,7 @@
         "Misdreavus": 5,
         "Chikorita": 3,
         "Armaldo": 3,
-        "Pawmi": 19,
+        "Pawmi": 20,
         "Wugtrio": 4,
         "Magneton": 5,
         "Toxel": 7,
@@ -1576,7 +1576,7 @@
         "Steelix": 2,
         "Avalugg": 1,
         "Yanmega": 1,
-        "Arcanine": 3,
+        "Arcanine": 4,
         "Vaporeon": 4,
         "Araquanid": 1,
         "Elekid": 3,
@@ -2007,10 +2007,11 @@
         "Grapploct": 2,
         "Pumpkaboo": 1,
         "Corsola": 1,
-        "Shiftry": 1
+        "Shiftry": 1,
+        "Galarian meowth": 1
       },
-      "total_spawns": 4742,
-      "last_spawn": "2026-07-04T15:21:58.367394"
+      "total_spawns": 4748,
+      "last_spawn": "2026-07-04T15:22:33.625803"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2020,7 +2021,7 @@
     }
   },
   "global": {
-    "total_spawns": 62095,
+    "total_spawns": 62101,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
