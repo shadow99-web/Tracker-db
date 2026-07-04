@@ -1205,7 +1205,7 @@
         "Feebas": 5,
         "Lapras": 6,
         "Seismitoad": 3,
-        "Frigibax": 22,
+        "Frigibax": 23,
         "Meowth": 10,
         "Dj rotom": 17,
         "Prof tangrowth": 29,
@@ -1266,7 +1266,7 @@
         "Mareep": 18,
         "Tadbulb": 19,
         "Helioptile": 4,
-        "Blitzle": 12,
+        "Blitzle": 13,
         "Pidove": 22,
         "Doublade": 8,
         "Quilava": 6,
@@ -1282,7 +1282,7 @@
         "Togetic": 6,
         "Sewaddle": 33,
         "Eevee": 3,
-        "Taillow": 4,
+        "Taillow": 5,
         "Pelipper": 2,
         "Hattrem": 11,
         "Machoke": 3,
@@ -1473,7 +1473,7 @@
         "Totodile": 5,
         "Lunatone": 4,
         "Zigzagoon": 3,
-        "Timburr": 26,
+        "Timburr": 27,
         "Glalie": 1,
         "Magikarp": 7,
         "Capsakid": 14,
@@ -1715,7 +1715,7 @@
         "Pinsir": 2,
         "Bisharp": 3,
         "Amaura": 9,
-        "Weepinbell": 6,
+        "Weepinbell": 7,
         "Flutter mane": 1,
         "Blastoise": 2,
         "Piplup": 5,
@@ -1725,7 +1725,7 @@
         "Quagsire": 2,
         "Yellow flower florges": 2,
         "Lanturn": 1,
-        "Lilligant": 2,
+        "Lilligant": 3,
         "Mantyke": 1,
         "Poltchageist": 1,
         "Minun": 1,
@@ -2015,10 +2015,11 @@
         "Midnight lycanroc": 1,
         "Aromatisse": 1,
         "Miltank": 1,
-        "Carracosta": 1
+        "Carracosta": 1,
+        "Stonjourner": 1
       },
-      "total_spawns": 5032,
-      "last_spawn": "2026-07-04T17:01:53.820383"
+      "total_spawns": 5039,
+      "last_spawn": "2026-07-04T17:02:28.346532"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2028,7 +2029,7 @@
     }
   },
   "global": {
-    "total_spawns": 62385,
+    "total_spawns": 62392,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
