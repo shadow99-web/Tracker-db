@@ -1204,11 +1204,11 @@
         "Yanmega": 1,
         "Tympole": 1,
         "Grubbin": 2,
-        "Scatterbug": 1,
+        "Scatterbug": 2,
         "Skwovet": 1,
         "Applin": 1,
         "Staryu": 1,
-        "Maschiff": 1,
+        "Maschiff": 2,
         "Smoliv": 1,
         "Tirtouga": 2,
         "Hatenna": 1,
@@ -1286,14 +1286,16 @@
         "Varoom": 1,
         "Ducklett": 1,
         "Three-segment dudunsparce": 1,
-        "Sandy burmy": 1
+        "Sandy burmy": 1,
+        "Torchic": 1,
+        "Abomasnow": 1
       },
-      "total_spawns": 140,
-      "last_spawn": "2026-07-04T20:16:33.572429"
+      "total_spawns": 144,
+      "last_spawn": "2026-07-04T20:17:13.750713"
     }
   },
   "global": {
-    "total_spawns": 62679,
+    "total_spawns": 62683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
