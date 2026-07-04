@@ -1463,7 +1463,7 @@
         "Geodude": 26,
         "Gholdengo": 5,
         "Dudunsparce": 5,
-        "Whirlipede": 6,
+        "Whirlipede": 7,
         "Skiddo": 7,
         "Spiritomb": 4,
         "Seadra": 4,
@@ -1681,7 +1681,7 @@
         "Three-segment dudunsparce": 1,
         "Corviknight": 2,
         "Mareanie": 8,
-        "Phantump": 8,
+        "Phantump": 9,
         "Girafarig": 3,
         "Duosion": 2,
         "Mudbray": 4,
@@ -2012,8 +2012,8 @@
         "Oricorio": 1,
         "Basculin": 1
       },
-      "total_spawns": 4812,
-      "last_spawn": "2026-07-04T15:30:28.197849"
+      "total_spawns": 4814,
+      "last_spawn": "2026-07-04T15:41:31.577216"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2023,7 +2023,7 @@
     }
   },
   "global": {
-    "total_spawns": 62165,
+    "total_spawns": 62167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
