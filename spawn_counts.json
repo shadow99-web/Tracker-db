@@ -1165,7 +1165,7 @@
         "Barbaracle": 2,
         "Amoonguss": 3,
         "Mosslax": 23,
-        "Rookidee": 29,
+        "Rookidee": 30,
         "Roggenrola": 34,
         "Armarouge": 7,
         "Gastly": 28,
@@ -1208,7 +1208,7 @@
         "Frigibax": 22,
         "Meowth": 10,
         "Dj rotom": 17,
-        "Prof tangrowth": 27,
+        "Prof tangrowth": 28,
         "Charcadet": 26,
         "Furfrou": 3,
         "Slaking": 2,
@@ -1218,7 +1218,7 @@
         "Fletchling": 17,
         "Orthworm": 23,
         "Woobat": 9,
-        "Happiny": 2,
+        "Happiny": 3,
         "Squirtle": 6,
         "Spinarak": 5,
         "Blue plumage squawkabilly": 3,
@@ -1298,7 +1298,7 @@
         "Absol": 3,
         "Inteleon": 5,
         "Mimikyu": 2,
-        "Silicobra": 6,
+        "Silicobra": 7,
         "Dartrix": 3,
         "Scraggy": 3,
         "Mabosstiff": 8,
@@ -1369,7 +1369,7 @@
         "Wooper": 3,
         "Crabominable": 1,
         "Machop": 20,
-        "Onix": 9,
+        "Onix": 10,
         "Lampent": 3,
         "East sea gastrodon": 1,
         "Magcargo": 3,
@@ -1419,7 +1419,7 @@
         "Wiglett": 26,
         "Farigiraf": 3,
         "Zubat": 20,
-        "Lotad": 12,
+        "Lotad": 13,
         "Sylveon": 2,
         "Omastar": 2,
         "Ralts": 21,
@@ -1467,7 +1467,7 @@
         "Skiddo": 7,
         "Spiritomb": 4,
         "Seadra": 4,
-        "Seedot": 22,
+        "Seedot": 23,
         "Snivy": 8,
         "Roselia": 5,
         "Totodile": 5,
@@ -1655,7 +1655,7 @@
         "Litleo": 5,
         "Pancham": 4,
         "Corvisquire": 4,
-        "Pupitar": 2,
+        "Pupitar": 3,
         "Dusclops": 4,
         "Kleavor": 2,
         "Trumbeak": 3,
@@ -2013,10 +2013,11 @@
         "Basculin": 1,
         "Skeledirge": 1,
         "Midnight lycanroc": 1,
-        "Aromatisse": 1
+        "Aromatisse": 1,
+        "Miltank": 1
       },
-      "total_spawns": 4990,
-      "last_spawn": "2026-07-04T16:57:18.478499"
+      "total_spawns": 4999,
+      "last_spawn": "2026-07-04T16:57:53.549931"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2026,7 +2027,7 @@
     }
   },
   "global": {
-    "total_spawns": 62343,
+    "total_spawns": 62352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
