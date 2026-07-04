@@ -1289,11 +1289,11 @@
         "Litwick": 30,
         "Frost rotom": 1,
         "Cubchoo": 10,
-        "Abra": 30,
+        "Abra": 31,
         "Banette": 1,
         "Mr. mime": 1,
         "Galarian linoone": 2,
-        "Vikavolt": 2,
+        "Vikavolt": 3,
         "Peakychu": 27,
         "Absol": 3,
         "Inteleon": 5,
@@ -1362,7 +1362,7 @@
         "Marowak": 3,
         "Sentret": 14,
         "Cottonee": 6,
-        "Horsea": 23,
+        "Horsea": 24,
         "Doduo": 5,
         "Ivysaur": 7,
         "Crustle": 3,
@@ -1409,7 +1409,7 @@
         "Primeape": 1,
         "Zeraora": 1,
         "Venipede": 16,
-        "Maschiff": 24,
+        "Maschiff": 25,
         "Sprigatito": 8,
         "Toedscool": 21,
         "Luxio": 5,
@@ -1453,7 +1453,7 @@
         "Tranquill": 9,
         "Porygon": 19,
         "Wooloo": 8,
-        "Oddish": 17,
+        "Oddish": 18,
         "Barraskewda": 1,
         "Shieldon": 4,
         "Piloswine": 8,
@@ -1492,7 +1492,7 @@
         "Nidoking": 3,
         "Tentacool": 8,
         "Servine": 8,
-        "Grubbin": 17,
+        "Grubbin": 18,
         "Clobbopus": 5,
         "Bounsweet": 24,
         "Crawdaunt": 4,
@@ -1870,7 +1870,7 @@
         "Alolan dugtrio": 1,
         "Polteageist": 1,
         "Charmeleon": 2,
-        "East sea shellos": 1,
+        "East sea shellos": 2,
         "Combusken": 2,
         "Morpeko": 1,
         "Camerupt": 2,
@@ -2012,8 +2012,8 @@
         "Oricorio": 1,
         "Basculin": 1
       },
-      "total_spawns": 4856,
-      "last_spawn": "2026-07-04T16:45:14.273802"
+      "total_spawns": 4863,
+      "last_spawn": "2026-07-04T16:45:53.602835"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2023,7 +2023,7 @@
     }
   },
   "global": {
-    "total_spawns": 62209,
+    "total_spawns": 62216,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
