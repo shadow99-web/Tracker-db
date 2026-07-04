@@ -1308,7 +1308,7 @@
         "Butterfree": 1,
         "Teddiursa": 1,
         "Roggenrola": 1,
-        "Litwick": 1,
+        "Litwick": 2,
         "Wooper": 1,
         "Pikipek": 1,
         "Spritzee": 1,
@@ -1328,14 +1328,16 @@
         "Mienshao": 1,
         "Blipbug": 2,
         "Rellor": 1,
-        "Rolycoly": 1
+        "Rolycoly": 1,
+        "Poliwhirl": 1,
+        "Lokix": 1
       },
-      "total_spawns": 204,
-      "last_spawn": "2026-07-04T20:33:28.262770"
+      "total_spawns": 207,
+      "last_spawn": "2026-07-04T20:33:59.112855"
     }
   },
   "global": {
-    "total_spawns": 62743,
+    "total_spawns": 62746,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
