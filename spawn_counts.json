@@ -1170,7 +1170,7 @@
         "Armarouge": 7,
         "Gastly": 29,
         "Scatterbug": 26,
-        "Wurmple": 29,
+        "Wurmple": 30,
         "Gothita": 33,
         "Gible": 21,
         "Larvesta": 6,
@@ -1358,7 +1358,7 @@
         "Darkrai": 2,
         "Growlithe": 3,
         "Nihilego": 1,
-        "Slakoth": 23,
+        "Slakoth": 24,
         "Marowak": 3,
         "Sentret": 15,
         "Cottonee": 6,
@@ -1512,7 +1512,7 @@
         "Passimian": 3,
         "Shellos": 6,
         "Articuno": 1,
-        "Surskit": 12,
+        "Surskit": 13,
         "Combee": 4,
         "Flareon": 1,
         "Bunnelby": 2,
@@ -1523,7 +1523,7 @@
         "Breloom": 2,
         "Ninjask": 1,
         "Remoraid": 6,
-        "Pansear": 2,
+        "Pansear": 3,
         "Spheal": 15,
         "Espurr": 3,
         "Poliwag": 21,
@@ -1681,7 +1681,7 @@
         "Three-segment dudunsparce": 1,
         "Corviknight": 2,
         "Mareanie": 8,
-        "Phantump": 10,
+        "Phantump": 11,
         "Girafarig": 3,
         "Duosion": 3,
         "Mudbray": 5,
@@ -2019,10 +2019,11 @@
         "Stonjourner": 1,
         "Mothim": 1,
         "Linoone": 1,
-        "Spinda": 1
+        "Spinda": 1,
+        "Whimsicott": 1
       },
-      "total_spawns": 5116,
-      "last_spawn": "2026-07-04T17:09:03.636371"
+      "total_spawns": 5122,
+      "last_spawn": "2026-07-04T17:09:38.200722"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2032,7 +2033,7 @@
     }
   },
   "global": {
-    "total_spawns": 62469,
+    "total_spawns": 62475,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
