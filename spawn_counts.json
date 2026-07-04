@@ -1233,7 +1233,7 @@
         "Entei": 1,
         "Flaaffy": 6,
         "Pikipek": 28,
-        "Nacli": 14,
+        "Nacli": 15,
         "Grovyle": 3,
         "Wartortle": 5,
         "Amped toxtricity": 3,
@@ -1294,7 +1294,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 2,
         "Vikavolt": 3,
-        "Peakychu": 28,
+        "Peakychu": 29,
         "Absol": 3,
         "Inteleon": 5,
         "Mimikyu": 2,
@@ -1335,13 +1335,13 @@
         "Charizard": 2,
         "Kirlia": 5,
         "Treecko": 12,
-        "Veluza": 24,
+        "Veluza": 25,
         "Cyndaquil": 9,
         "Zorua": 8,
         "Meganium": 2,
         "Toedscruel": 5,
         "Klawf": 24,
-        "Grookey": 6,
+        "Grookey": 7,
         "Gossifleur": 9,
         "Joltik": 7,
         "Summer deerling": 6,
@@ -1432,7 +1432,7 @@
         "Mankey": 7,
         "Charmander": 6,
         "Shroomish": 3,
-        "Finizen": 18,
+        "Finizen": 19,
         "Croconaw": 6,
         "Bronzor": 10,
         "Eelektrik": 6,
@@ -2017,10 +2017,11 @@
         "Miltank": 1,
         "Carracosta": 1,
         "Stonjourner": 1,
-        "Mothim": 1
+        "Mothim": 1,
+        "Linoone": 1
       },
-      "total_spawns": 5092,
-      "last_spawn": "2026-07-04T17:06:48.249292"
+      "total_spawns": 5098,
+      "last_spawn": "2026-07-04T17:07:20.572078"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2030,7 +2031,7 @@
     }
   },
   "global": {
-    "total_spawns": 62445,
+    "total_spawns": 62451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
