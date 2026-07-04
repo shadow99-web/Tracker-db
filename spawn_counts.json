@@ -1169,7 +1169,7 @@
         "Oddish": 3,
         "Totodile": 2,
         "Vanillite": 3,
-        "Weedle": 3,
+        "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 3,
         "Fidough": 1,
@@ -1326,15 +1326,15 @@
         "Unown q": 1,
         "Lotad": 1,
         "Mienshao": 1,
-        "Blipbug": 1,
+        "Blipbug": 2,
         "Rellor": 1
       },
-      "total_spawns": 200,
-      "last_spawn": "2026-07-04T20:30:53.443552"
+      "total_spawns": 202,
+      "last_spawn": "2026-07-04T20:31:53.527465"
     }
   },
   "global": {
-    "total_spawns": 62739,
+    "total_spawns": 62741,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
