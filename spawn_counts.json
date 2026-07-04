@@ -1194,7 +1194,7 @@
         "Abra": 1,
         "Wiglett": 2,
         "Starly": 2,
-        "Caterpie": 1,
+        "Caterpie": 2,
         "Mareep": 2,
         "Capsakid": 1,
         "Numel": 1,
@@ -1228,7 +1228,7 @@
         "Aron": 1,
         "Honedge": 1,
         "Houndour": 1,
-        "Machop": 1,
+        "Machop": 2,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -1283,14 +1283,17 @@
         "Flapple": 1,
         "Bronzor": 1,
         "Swirlix": 1,
-        "Varoom": 1
+        "Varoom": 1,
+        "Ducklett": 1,
+        "Three-segment dudunsparce": 1,
+        "Sandy burmy": 1
       },
-      "total_spawns": 135,
-      "last_spawn": "2026-07-04T20:15:53.533145"
+      "total_spawns": 140,
+      "last_spawn": "2026-07-04T20:16:33.572429"
     }
   },
   "global": {
-    "total_spawns": 62674,
+    "total_spawns": 62679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
