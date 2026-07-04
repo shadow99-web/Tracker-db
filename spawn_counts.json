@@ -1280,13 +1280,13 @@
         "Aron": 21,
         "Kabuto": 7,
         "Togetic": 6,
-        "Sewaddle": 32,
+        "Sewaddle": 33,
         "Eevee": 3,
         "Taillow": 3,
         "Pelipper": 2,
         "Hattrem": 10,
         "Machoke": 3,
-        "Litwick": 29,
+        "Litwick": 30,
         "Frost rotom": 1,
         "Cubchoo": 10,
         "Abra": 30,
@@ -1480,7 +1480,7 @@
         "Venonat": 5,
         "Popplio": 6,
         "Glameow": 7,
-        "Boldore": 3,
+        "Boldore": 4,
         "Emboar": 1,
         "Blue flower floette": 3,
         "Leafeon": 3,
@@ -1737,7 +1737,7 @@
         "Dusknoir": 2,
         "Cacnea": 2,
         "Ponyta": 6,
-        "Vullaby": 5,
+        "Vullaby": 6,
         "Drifblim": 2,
         "Druddigon": 1,
         "Spewpa": 6,
@@ -1955,7 +1955,7 @@
         "Sableye": 2,
         "Zebstrika": 1,
         "Cramorant": 2,
-        "Maractus": 1,
+        "Maractus": 2,
         "Mightyena": 2,
         "Dragonite": 1,
         "Tropius": 1,
@@ -2009,10 +2009,11 @@
         "Corsola": 1,
         "Shiftry": 1,
         "Galarian meowth": 1,
-        "Oricorio": 1
+        "Oricorio": 1,
+        "Basculin": 1
       },
-      "total_spawns": 4793,
-      "last_spawn": "2026-07-04T15:27:58.436703"
+      "total_spawns": 4799,
+      "last_spawn": "2026-07-04T15:28:35.303409"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2022,7 +2023,7 @@
     }
   },
   "global": {
-    "total_spawns": 62146,
+    "total_spawns": 62152,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
