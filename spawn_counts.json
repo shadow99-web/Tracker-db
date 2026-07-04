@@ -84,7 +84,7 @@
         "Mareep": 231,
         "Garbodor": 12,
         "Slakoth": 232,
-        "Togepi": 231,
+        "Togepi": 232,
         "Falinks": 16,
         "Tropius": 17,
         "Poliwag": 216,
@@ -187,7 +187,7 @@
         "Vigoroth": 78,
         "Skorupi": 59,
         "Pikachu": 71,
-        "Blue plumage squawkabilly": 54,
+        "Blue plumage squawkabilly": 55,
         "Thwackey": 65,
         "Dusk lycanroc": 8,
         "Sunny castform": 16,
@@ -268,7 +268,7 @@
         "Loudred": 64,
         "Ceruledge": 60,
         "Houndour": 56,
-        "Glimmet": 265,
+        "Glimmet": 266,
         "Goomy": 152,
         "Zapdos": 1,
         "Natu": 52,
@@ -351,7 +351,7 @@
         "Steenee": 61,
         "Darumaka": 60,
         "Arboliva": 12,
-        "Ledyba": 61,
+        "Ledyba": 62,
         "Spritzee": 57,
         "Swirlix": 52,
         "Aromatisse": 13,
@@ -771,7 +771,7 @@
         "Meowscarada": 14,
         "Roserade": 14,
         "Nidorina": 43,
-        "Archaludon": 2,
+        "Archaludon": 3,
         "Golduck": 13,
         "Scolipede": 14,
         "Marowak": 5,
@@ -785,7 +785,7 @@
         "Weavile": 6,
         "Gorging cramorant": 1,
         "Shieldon": 54,
-        "Masquerain": 20,
+        "Masquerain": 21,
         "Watchog": 17,
         "Ditto": 8,
         "Dada zarude": 1,
@@ -919,7 +919,7 @@
         "Bellossom": 13,
         "Pirouette meloetta": 3,
         "Sableye": 15,
-        "Wynaut": 17,
+        "Wynaut": 18,
         "Hattrem": 42,
         "Clefable": 12,
         "Serperior": 14,
@@ -1153,8 +1153,8 @@
         "Monsoon vivillon": 1,
         "Electric arceus": 1
       },
-      "total_spawns": 52829,
-      "last_spawn": "2026-07-04T13:28:54.608296"
+      "total_spawns": 52836,
+      "last_spawn": "2026-07-04T13:29:30.078580"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61721,
+    "total_spawns": 61728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
