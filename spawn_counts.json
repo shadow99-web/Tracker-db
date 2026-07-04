@@ -1172,7 +1172,7 @@
         "Scatterbug": 26,
         "Wurmple": 29,
         "Gothita": 33,
-        "Gible": 19,
+        "Gible": 20,
         "Larvesta": 6,
         "Starly": 19,
         "Varoom": 36,
@@ -1195,7 +1195,7 @@
         "Tynamo": 29,
         "Tandemaus": 21,
         "Smearguru": 22,
-        "Magnemite": 26,
+        "Magnemite": 27,
         "Teddiursa": 24,
         "Houndoom": 1,
         "Torracat": 3,
@@ -1256,7 +1256,7 @@
         "Frogadier": 6,
         "Gimmighoul": 13,
         "Mienshao": 3,
-        "Swinub": 23,
+        "Swinub": 24,
         "Rabsca": 8,
         "Floragato": 3,
         "Watchog": 1,
@@ -1663,7 +1663,7 @@
         "Glimmora": 5,
         "Cleffa": 2,
         "Cradily": 1,
-        "Thwackey": 4,
+        "Thwackey": 5,
         "Claydol": 2,
         "Grimmsnarl": 2,
         "Frosmoth": 3,
@@ -1817,7 +1817,7 @@
         "Ludicolo": 2,
         "Orbeetle": 3,
         "Simipour": 2,
-        "Natu": 1,
+        "Natu": 2,
         "Bastiodon": 2,
         "Carnivine": 1,
         "Electrike": 2,
@@ -1874,7 +1874,7 @@
         "Combusken": 2,
         "Morpeko": 1,
         "Camerupt": 2,
-        "Slugma": 1,
+        "Slugma": 2,
         "Kingambit": 1,
         "Enamorus": 1,
         "Nidorina": 6,
@@ -1939,7 +1939,7 @@
         "Turtonator": 2,
         "Altaria": 2,
         "Copperajah": 2,
-        "Grotle": 2,
+        "Grotle": 3,
         "Vileplume": 1,
         "Cinccino": 2,
         "Thievul": 2,
@@ -2017,8 +2017,8 @@
         "Miltank": 1,
         "Carracosta": 1
       },
-      "total_spawns": 5014,
-      "last_spawn": "2026-07-04T16:59:28.441261"
+      "total_spawns": 5021,
+      "last_spawn": "2026-07-04T17:00:08.701096"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2028,7 +2028,7 @@
     }
   },
   "global": {
-    "total_spawns": 62367,
+    "total_spawns": 62374,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
