@@ -1196,7 +1196,7 @@
         "Starly": 3,
         "Caterpie": 2,
         "Mareep": 2,
-        "Capsakid": 1,
+        "Capsakid": 2,
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 1,
@@ -1328,16 +1328,19 @@
         "Mienshao": 1,
         "Blipbug": 2,
         "Rellor": 1,
-        "Rolycoly": 1,
+        "Rolycoly": 2,
         "Poliwhirl": 1,
-        "Lokix": 1
+        "Lokix": 1,
+        "Flamigo": 1,
+        "Bellsprout": 1,
+        "Houndstone": 1
       },
-      "total_spawns": 207,
-      "last_spawn": "2026-07-04T20:33:59.112855"
+      "total_spawns": 212,
+      "last_spawn": "2026-07-04T20:34:38.696449"
     }
   },
   "global": {
-    "total_spawns": 62746,
+    "total_spawns": 62751,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
