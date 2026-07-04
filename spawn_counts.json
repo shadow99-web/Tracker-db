@@ -30,7 +30,7 @@
         "Morelull": 62,
         "Abra": 238,
         "Sandile": 258,
-        "Sandygast": 61,
+        "Sandygast": 62,
         "Litwick": 267,
         "Grubbin": 229,
         "Escavalier": 16,
@@ -170,7 +170,7 @@
         "Flareon": 14,
         "Gastly": 218,
         "Taillow": 56,
-        "Swinub": 263,
+        "Swinub": 264,
         "Inkay": 63,
         "Gible": 146,
         "Rookidee": 196,
@@ -241,7 +241,7 @@
         "Galvantula": 13,
         "Chansey": 40,
         "Shroodle": 251,
-        "Duskull": 249,
+        "Duskull": 250,
         "Bergmite": 43,
         "Pignite": 59,
         "Lurantis": 8,
@@ -341,7 +341,7 @@
         "Torchic": 84,
         "Sobble": 76,
         "Mudkip": 77,
-        "Charjabug": 60,
+        "Charjabug": 61,
         "Capsakid": 225,
         "Revavroom": 56,
         "Exploud": 19,
@@ -505,7 +505,7 @@
         "Empoleon": 10,
         "Farigiraf": 60,
         "Hakamo-o": 39,
-        "Glameow": 58,
+        "Glameow": 59,
         "Croagunk": 60,
         "Duraludon": 16,
         "Sawk": 12,
@@ -575,7 +575,7 @@
         "Cascoon": 58,
         "Tentacruel": 16,
         "Nuzleaf": 46,
-        "Scorbunny": 78,
+        "Scorbunny": 79,
         "Huntail": 17,
         "Galarian meowth": 5,
         "Spoink": 44,
@@ -1153,8 +1153,8 @@
         "Monsoon vivillon": 1,
         "Electric arceus": 1
       },
-      "total_spawns": 52856,
-      "last_spawn": "2026-07-04T13:31:09.911716"
+      "total_spawns": 52862,
+      "last_spawn": "2026-07-04T13:31:44.395667"
     },
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
@@ -2019,7 +2019,7 @@
     }
   },
   "global": {
-    "total_spawns": 61748,
+    "total_spawns": 61754,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
