@@ -1335,7 +1335,7 @@
         "Charizard": 2,
         "Kirlia": 4,
         "Treecko": 11,
-        "Veluza": 22,
+        "Veluza": 23,
         "Cyndaquil": 8,
         "Zorua": 5,
         "Meganium": 2,
@@ -1373,7 +1373,7 @@
         "Lampent": 3,
         "East sea gastrodon": 1,
         "Magcargo": 3,
-        "Electabuzz": 6,
+        "Electabuzz": 7,
         "Sensu oricorio": 3,
         "Whiscash": 2,
         "Ursaring": 10,
@@ -1416,7 +1416,7 @@
         "Fuecoco": 12,
         "Electrode": 1,
         "Chandelure": 3,
-        "Wiglett": 24,
+        "Wiglett": 25,
         "Farigiraf": 3,
         "Zubat": 19,
         "Lotad": 11,
@@ -1660,7 +1660,7 @@
         "Kleavor": 2,
         "Trumbeak": 3,
         "Pansage": 6,
-        "Glimmora": 4,
+        "Glimmora": 5,
         "Cleffa": 2,
         "Cradily": 1,
         "Thwackey": 4,
@@ -2008,10 +2008,11 @@
         "Pumpkaboo": 1,
         "Corsola": 1,
         "Shiftry": 1,
-        "Galarian meowth": 1
+        "Galarian meowth": 1,
+        "Oricorio": 1
       },
-      "total_spawns": 4775,
-      "last_spawn": "2026-07-04T15:24:48.459906"
+      "total_spawns": 4780,
+      "last_spawn": "2026-07-04T15:25:28.207340"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2021,7 +2022,7 @@
     }
   },
   "global": {
-    "total_spawns": 62128,
+    "total_spawns": 62133,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
