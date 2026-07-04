@@ -1277,7 +1277,7 @@
         "Darumaka": 6,
         "Wailmer": 3,
         "Jangmo-o": 18,
-        "Aron": 21,
+        "Aron": 22,
         "Kabuto": 7,
         "Togetic": 6,
         "Sewaddle": 33,
@@ -1294,7 +1294,7 @@
         "Mr. mime": 1,
         "Galarian linoone": 2,
         "Vikavolt": 3,
-        "Peakychu": 27,
+        "Peakychu": 28,
         "Absol": 3,
         "Inteleon": 5,
         "Mimikyu": 2,
@@ -1410,7 +1410,7 @@
         "Zeraora": 1,
         "Venipede": 17,
         "Maschiff": 25,
-        "Sprigatito": 9,
+        "Sprigatito": 10,
         "Toedscool": 21,
         "Luxio": 5,
         "Fuecoco": 13,
@@ -1437,7 +1437,7 @@
         "Bronzor": 10,
         "Eelektrik": 6,
         "Ledyba": 11,
-        "Tyrunt": 10,
+        "Tyrunt": 12,
         "Braixen": 2,
         "Revavroom": 8,
         "Drowzee": 3,
@@ -1579,7 +1579,7 @@
         "Arcanine": 4,
         "Vaporeon": 4,
         "Araquanid": 1,
-        "Elekid": 3,
+        "Elekid": 4,
         "Panpour": 6,
         "Trevenant": 2,
         "Pignite": 5,
@@ -1725,7 +1725,7 @@
         "Quagsire": 2,
         "Yellow flower florges": 2,
         "Lanturn": 1,
-        "Lilligant": 3,
+        "Lilligant": 4,
         "Mantyke": 1,
         "Poltchageist": 1,
         "Minun": 1,
@@ -2018,8 +2018,8 @@
         "Carracosta": 1,
         "Stonjourner": 1
       },
-      "total_spawns": 5071,
-      "last_spawn": "2026-07-04T17:05:08.503630"
+      "total_spawns": 5078,
+      "last_spawn": "2026-07-04T17:05:43.672898"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2029,7 +2029,7 @@
     }
   },
   "global": {
-    "total_spawns": 62424,
+    "total_spawns": 62431,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
