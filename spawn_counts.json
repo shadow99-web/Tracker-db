@@ -1170,7 +1170,7 @@
         "Totodile": 1,
         "Vanillite": 1,
         "Weedle": 2,
-        "Kabutops": 1,
+        "Kabutops": 2,
         "Poliwag": 2,
         "Fidough": 1,
         "Charjabug": 1,
@@ -1181,14 +1181,22 @@
         "Ralts": 1,
         "Peakychu": 1,
         "Cutiefly": 1,
-        "Simipour": 1
+        "Simipour": 1,
+        "Tynamo": 1,
+        "Palossand": 1,
+        "Pyukumuku": 1,
+        "Pidgey": 1,
+        "Binacle": 1,
+        "Bounsweet": 1,
+        "Fletchling": 1,
+        "Whirlipede": 1
       },
-      "total_spawns": 19,
-      "last_spawn": "2026-07-04T17:17:58.589700"
+      "total_spawns": 28,
+      "last_spawn": "2026-07-04T17:18:33.653318"
     }
   },
   "global": {
-    "total_spawns": 62558,
+    "total_spawns": 62567,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
