@@ -1165,7 +1165,7 @@
         "Barbaracle": 2,
         "Amoonguss": 3,
         "Mosslax": 24,
-        "Rookidee": 30,
+        "Rookidee": 31,
         "Roggenrola": 34,
         "Armarouge": 7,
         "Gastly": 29,
@@ -1321,7 +1321,7 @@
         "Chimchar": 9,
         "Trash wormadam": 2,
         "Bramblin": 22,
-        "Vulpix": 12,
+        "Vulpix": 13,
         "Hippowdon": 6,
         "Tinkatink": 13,
         "Jumpluff": 2,
@@ -1445,7 +1445,7 @@
         "Vibrava": 5,
         "Slowbro": 1,
         "Yamask": 5,
-        "Tympole": 27,
+        "Tympole": 28,
         "Barboach": 6,
         "Carvanha": 4,
         "Caterpie": 23,
@@ -1480,7 +1480,7 @@
         "Venonat": 5,
         "Popplio": 6,
         "Glameow": 7,
-        "Boldore": 4,
+        "Boldore": 5,
         "Emboar": 1,
         "Blue flower floette": 3,
         "Leafeon": 3,
@@ -1497,7 +1497,7 @@
         "Bounsweet": 27,
         "Crawdaunt": 4,
         "Hoppip": 19,
-        "Shroodle": 13,
+        "Shroodle": 14,
         "Fomantis": 4,
         "Slowpoke": 6,
         "Shiinotic": 3,
@@ -1692,7 +1692,7 @@
         "Infernape": 3,
         "Greninja": 4,
         "Battle cyclizar": 8,
-        "Lombre": 3,
+        "Lombre": 4,
         "Cetitan": 4,
         "Bewear": 1,
         "Cloyster": 3,
@@ -2018,10 +2018,11 @@
         "Carracosta": 1,
         "Stonjourner": 1,
         "Mothim": 1,
-        "Linoone": 1
+        "Linoone": 1,
+        "Spinda": 1
       },
-      "total_spawns": 5109,
-      "last_spawn": "2026-07-04T17:08:28.599878"
+      "total_spawns": 5116,
+      "last_spawn": "2026-07-04T17:09:03.636371"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2031,7 +2032,7 @@
     }
   },
   "global": {
-    "total_spawns": 62462,
+    "total_spawns": 62469,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
