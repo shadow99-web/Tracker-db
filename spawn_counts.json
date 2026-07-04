@@ -1166,7 +1166,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 1,
-        "Oddish": 1,
+        "Oddish": 2,
         "Totodile": 2,
         "Vanillite": 3,
         "Weedle": 3,
@@ -1282,7 +1282,7 @@
         "Rookidee": 1,
         "Flapple": 1,
         "Bronzor": 1,
-        "Swirlix": 1,
+        "Swirlix": 2,
         "Varoom": 1,
         "Ducklett": 1,
         "Three-segment dudunsparce": 1,
@@ -1316,12 +1316,12 @@
         "Impidimp": 1,
         "Swadloon": 1
       },
-      "total_spawns": 183,
-      "last_spawn": "2026-07-04T20:25:13.704918"
+      "total_spawns": 185,
+      "last_spawn": "2026-07-04T20:25:53.545774"
     }
   },
   "global": {
-    "total_spawns": 62722,
+    "total_spawns": 62724,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
