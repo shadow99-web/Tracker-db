@@ -1232,7 +1232,7 @@
         "Wattrel": 17,
         "Entei": 1,
         "Flaaffy": 6,
-        "Pikipek": 27,
+        "Pikipek": 28,
         "Nacli": 14,
         "Grovyle": 2,
         "Wartortle": 5,
@@ -1347,7 +1347,7 @@
         "Summer deerling": 5,
         "Heliolisk": 4,
         "Raboot": 6,
-        "Vanillite": 26,
+        "Vanillite": 27,
         "Krabby": 5,
         "Clefable": 3,
         "Durant": 3,
@@ -1718,7 +1718,7 @@
         "Weepinbell": 5,
         "Flutter mane": 1,
         "Blastoise": 2,
-        "Piplup": 4,
+        "Piplup": 5,
         "Eiscue": 2,
         "Volcarona": 3,
         "Tangrowth": 2,
@@ -1753,7 +1753,7 @@
         "Fennekin": 7,
         "Omanyte": 5,
         "Swampert": 1,
-        "Snorunt": 7,
+        "Snorunt": 8,
         "Poochyena": 6,
         "Gothitelle": 1,
         "Annihilape": 2,
@@ -1827,7 +1827,7 @@
         "Rowlet": 4,
         "Meditite": 5,
         "Pyukumuku": 1,
-        "Hatterene": 3,
+        "Hatterene": 4,
         "Numel": 5,
         "Blaziken": 1,
         "Galarian darumaka": 1,
@@ -1859,7 +1859,7 @@
         "Snover": 5,
         "Unfezant": 2,
         "Magmar": 3,
-        "Snubbull": 3,
+        "Snubbull": 4,
         "Galarian rapidash": 1,
         "Metang": 2,
         "Koffing": 4,
@@ -2012,10 +2012,11 @@
         "Oricorio": 1,
         "Basculin": 1,
         "Skeledirge": 1,
-        "Midnight lycanroc": 1
+        "Midnight lycanroc": 1,
+        "Aromatisse": 1
       },
-      "total_spawns": 4891,
-      "last_spawn": "2026-07-04T16:48:53.608470"
+      "total_spawns": 4898,
+      "last_spawn": "2026-07-04T16:49:28.236291"
     },
     "1393259626610557130": {
       "name": "\uff21 \uff32\uff29 \uff33\uff25 \u16dd",
@@ -2025,7 +2026,7 @@
     }
   },
   "global": {
-    "total_spawns": 62244,
+    "total_spawns": 62251,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
