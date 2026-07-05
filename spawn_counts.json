@@ -458,7 +458,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 2,
+        "Charcadet": 3,
         "Sandile": 4,
         "Maushold": 2,
         "Rattata": 4,
@@ -621,14 +621,16 @@
         "Bagon": 1,
         "Vanilluxe": 1,
         "Woobat": 1,
-        "Goomy": 1
+        "Goomy": 1,
+        "Orbeetle": 1,
+        "Shellder": 1
       },
-      "total_spawns": 330,
-      "last_spawn": "2026-07-05T15:36:54.404839"
+      "total_spawns": 333,
+      "last_spawn": "2026-07-05T15:37:24.519902"
     }
   },
   "global": {
-    "total_spawns": 63509,
+    "total_spawns": 63512,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
