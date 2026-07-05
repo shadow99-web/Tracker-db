@@ -584,7 +584,7 @@
         "Munna": 1,
         "Tangela": 1,
         "Espurr": 1,
-        "Doduo": 1,
+        "Doduo": 2,
         "Kadabra": 1,
         "Stretchy tatsugiri": 1,
         "Dugtrio": 1,
@@ -624,7 +624,7 @@
         "Woobat": 1,
         "Goomy": 1,
         "Orbeetle": 1,
-        "Shellder": 1,
+        "Shellder": 2,
         "Pawmi": 1,
         "Spoink": 1,
         "Lileep": 1,
@@ -642,14 +642,16 @@
         "Buneary": 1,
         "Skiddo": 1,
         "Zigzagoon": 1,
-        "Dj rotom": 1
+        "Dj rotom": 1,
+        "Anorith": 1,
+        "Shiinotic": 1
       },
-      "total_spawns": 375,
-      "last_spawn": "2026-07-05T15:44:35.173984"
+      "total_spawns": 379,
+      "last_spawn": "2026-07-05T15:45:14.610459"
     }
   },
   "global": {
-    "total_spawns": 63557,
+    "total_spawns": 63561,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
