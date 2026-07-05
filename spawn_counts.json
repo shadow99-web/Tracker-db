@@ -722,7 +722,7 @@
         "Timburr": 14,
         "Pidgey": 9,
         "Gimmighoul": 11,
-        "Cetoddle": 18,
+        "Cetoddle": 19,
         "Fidough": 16,
         "Smearguru": 8,
         "Nuzleaf": 3,
@@ -806,7 +806,7 @@
         "Marill": 6,
         "Axew": 9,
         "Tinkatink": 10,
-        "Starly": 15,
+        "Starly": 16,
         "Popplio": 3,
         "Watchog": 2,
         "Bounsweet": 22,
@@ -880,7 +880,7 @@
         "Kadabra": 5,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 2,
-        "Capsakid": 12,
+        "Capsakid": 13,
         "Tyrunt": 4,
         "Drilbur": 4,
         "Vaporeon": 3,
@@ -1379,14 +1379,15 @@
         "Dialga": 1,
         "Joltik": 1,
         "Unown s": 1,
-        "Dusknoir": 1
+        "Dusknoir": 1,
+        "Sealeo": 1
       },
-      "total_spawns": 2877,
-      "last_spawn": "2026-07-05T23:49:14.776467"
+      "total_spawns": 2881,
+      "last_spawn": "2026-07-05T23:49:54.605579"
     }
   },
   "global": {
-    "total_spawns": 67881,
+    "total_spawns": 67885,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
