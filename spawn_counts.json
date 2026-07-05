@@ -1269,7 +1269,7 @@
         "Treecko": 2,
         "Shroodle": 2,
         "Ride cyclizar": 1,
-        "Swinub": 2,
+        "Swinub": 3,
         "Rattata": 1,
         "Stonjourner": 1,
         "Veluza": 2,
@@ -1400,14 +1400,17 @@
         "Fennekin": 1,
         "Milcery": 1,
         "Trumbeak": 1,
-        "Bonsly": 1
+        "Bonsly": 1,
+        "Growlithe": 1,
+        "Rhydon": 1,
+        "Ambipom": 1
       },
-      "total_spawns": 328,
-      "last_spawn": "2026-07-05T03:41:28.469082"
+      "total_spawns": 332,
+      "last_spawn": "2026-07-05T03:42:08.196181"
     }
   },
   "global": {
-    "total_spawns": 62867,
+    "total_spawns": 62871,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
