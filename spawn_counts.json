@@ -165,7 +165,7 @@
         "Pansage": 2,
         "Cetoddle": 4,
         "Togepi": 4,
-        "Tandemaus": 2,
+        "Tandemaus": 3,
         "Clefairy": 1,
         "Unown q": 1,
         "Lotad": 3,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 1,
         "Fraxure": 1,
-        "Zubat": 4,
+        "Zubat": 5,
         "Drowzee": 2,
         "Lechonk": 4,
         "Woobat": 1,
@@ -273,7 +273,7 @@
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 2,
-        "Kricketot": 3,
+        "Kricketot": 4,
         "Ledyba": 1,
         "Chinchou": 1,
         "Eiscue": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
-        "Spheal": 1,
+        "Spheal": 2,
         "Amaura": 1,
         "Wailord": 1,
         "Accelgor": 1,
@@ -472,10 +472,12 @@
         "Kakuna": 2,
         "Shedinja": 2,
         "Zekrom": 1,
-        "Xurkitree": 1
+        "Xurkitree": 1,
+        "Poipole": 1,
+        "Alolan raichu": 2
       },
-      "total_spawns": 1002,
-      "last_spawn": "2026-07-05T20:09:54.805723"
+      "total_spawns": 1009,
+      "last_spawn": "2026-07-05T20:10:23.987720"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -507,7 +509,7 @@
         "Shroomish": 1,
         "Dachsbun": 2,
         "Swirlix": 3,
-        "Glimmora": 3,
+        "Glimmora": 4,
         "Meditite": 3,
         "Pansage": 2,
         "Whismur": 12,
@@ -564,7 +566,7 @@
         "Scorbunny": 2,
         "Roggenrola": 7,
         "Wattrel": 9,
-        "Nacli": 14,
+        "Nacli": 15,
         "Feebas": 2,
         "Weedle": 8,
         "Ralts": 7,
@@ -746,7 +748,7 @@
         "Whirlipede": 2,
         "Tinkatuff": 2,
         "Baltoy": 5,
-        "Tarountula": 10,
+        "Tarountula": 11,
         "Omastar": 2,
         "Surskit": 1,
         "Wooper": 4,
@@ -778,7 +780,7 @@
         "Poliwag": 3,
         "Passimian": 1,
         "Pikachu": 2,
-        "Yungoos": 2,
+        "Yungoos": 3,
         "Luxio": 1,
         "Frigibax": 8,
         "Krokorok": 2,
@@ -871,7 +873,7 @@
         "Prof tangrowth": 1,
         "Corvisquire": 1,
         "Lokix": 3,
-        "Charmeleon": 3,
+        "Charmeleon": 4,
         "Spidops": 1,
         "Dwebble": 3,
         "Rockruff": 1,
@@ -1007,14 +1009,15 @@
         "Nidorino": 1,
         "Sobble": 1,
         "Vigoroth": 1,
-        "Finneon": 1
+        "Finneon": 1,
+        "Debutante trim furfrou": 1
       },
-      "total_spawns": 1459,
-      "last_spawn": "2026-07-05T20:09:54.473168"
+      "total_spawns": 1465,
+      "last_spawn": "2026-07-05T20:10:27.207966"
     }
   },
   "global": {
-    "total_spawns": 65000,
+    "total_spawns": 65013,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
