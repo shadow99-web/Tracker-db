@@ -369,10 +369,10 @@
         "Vigoroth": 1,
         "Gigalith": 1,
         "Kingambit": 1,
-        "Cresselia": 1
+        "Cresselia": 2
       },
-      "total_spawns": 605,
-      "last_spawn": "2026-07-05T14:12:27.831662"
+      "total_spawns": 606,
+      "last_spawn": "2026-07-05T14:12:27.852772"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -408,14 +408,18 @@
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 1,
-        "Jangmo-o": 1
+        "Jangmo-o": 1,
+        "Samurott": 1,
+        "Kleavor": 1,
+        "Karrablast": 1,
+        "Timburr": 1
       },
-      "total_spawns": 35,
-      "last_spawn": "2026-07-05T14:12:24.324101"
+      "total_spawns": 39,
+      "last_spawn": "2026-07-05T14:13:04.387874"
     }
   },
   "global": {
-    "total_spawns": 63179,
+    "total_spawns": 63184,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
