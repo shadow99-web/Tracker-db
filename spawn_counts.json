@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 5,
         "Squirtle": 3,
-        "Shinx": 21,
+        "Shinx": 23,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 7,
@@ -165,7 +165,7 @@
         "Pansage": 2,
         "Cetoddle": 7,
         "Togepi": 5,
-        "Tandemaus": 4,
+        "Tandemaus": 5,
         "Clefairy": 1,
         "Unown q": 1,
         "Lotad": 3,
@@ -416,7 +416,7 @@
         "Sewaddle": 4,
         "Shelmet": 1,
         "Combusken": 2,
-        "Croagunk": 2,
+        "Croagunk": 3,
         "Mothim": 2,
         "Crabominable": 2,
         "Krabby": 1,
@@ -613,8 +613,8 @@
         "Zweilous": 1,
         "Azurill": 1
       },
-      "total_spawns": 1796,
-      "last_spawn": "2026-07-05T21:25:14.186434"
+      "total_spawns": 1800,
+      "last_spawn": "2026-07-05T21:25:43.672271"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -815,7 +815,7 @@
         "Kadabra": 4,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
-        "Capsakid": 9,
+        "Capsakid": 10,
         "Tyrunt": 2,
         "Drilbur": 2,
         "Vaporeon": 3,
@@ -878,7 +878,7 @@
         "Scovillain": 5,
         "Sliggoo": 2,
         "Silcoon": 4,
-        "Tadbulb": 8,
+        "Tadbulb": 9,
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 4,
@@ -1019,7 +1019,7 @@
         "Beautifly": 2,
         "Fletchling": 11,
         "Haunter": 2,
-        "Sandshrew": 1,
+        "Sandshrew": 2,
         "Fletchinder": 3,
         "Sinistea": 2,
         "Shinx": 5,
@@ -1221,14 +1221,15 @@
         "Staryu": 1,
         "Golem": 1,
         "Numel": 1,
-        "Noctowl": 1
+        "Noctowl": 1,
+        "Cacnea": 1
       },
-      "total_spawns": 2025,
-      "last_spawn": "2026-07-05T21:25:04.526309"
+      "total_spawns": 2029,
+      "last_spawn": "2026-07-05T21:25:44.493882"
     }
   },
   "global": {
-    "total_spawns": 66360,
+    "total_spawns": 66368,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
