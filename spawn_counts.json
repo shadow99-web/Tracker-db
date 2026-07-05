@@ -314,7 +314,7 @@
         "Pumpkaboo": 2,
         "Petilil": 3,
         "Bombirdier": 3,
-        "Bellibolt": 1,
+        "Bellibolt": 2,
         "Toedscool": 2,
         "Paras": 1,
         "Fletchinder": 1,
@@ -407,7 +407,7 @@
         "Minior": 1,
         "Darmanitan": 1,
         "Lopunny": 2,
-        "Chimchar": 3,
+        "Chimchar": 4,
         "Gligar": 1,
         "Quaxly": 4,
         "Spiky-eared pichu": 1,
@@ -508,10 +508,11 @@
         "Rillaboom": 2,
         "Hippopotas": 1,
         "Reuniclus": 1,
-        "Melmetal": 1
+        "Melmetal": 1,
+        "Liepard": 1
       },
-      "total_spawns": 1126,
-      "last_spawn": "2026-07-05T20:22:48.333510"
+      "total_spawns": 1129,
+      "last_spawn": "2026-07-05T20:23:18.467418"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -589,7 +590,7 @@
         "Rattata": 5,
         "Riolu": 2,
         "Aromatisse": 1,
-        "Slowpoke": 1,
+        "Slowpoke": 2,
         "Seedot": 11,
         "Trapinch": 9,
         "Hatenna": 8,
@@ -914,7 +915,7 @@
         "Stunfisk": 2,
         "Spinda": 1,
         "Beautifly": 2,
-        "Fletchling": 7,
+        "Fletchling": 8,
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
@@ -922,7 +923,7 @@
         "Shinx": 2,
         "Totodile": 1,
         "Magikarp": 2,
-        "Pumpkaboo": 1,
+        "Pumpkaboo": 2,
         "Banette": 1,
         "Tympole": 5,
         "Bunnelby": 2,
@@ -1026,7 +1027,7 @@
         "Kecleon": 1,
         "Magcargo": 1,
         "Slaking": 1,
-        "Raticate": 1,
+        "Raticate": 2,
         "Arbok": 1,
         "Ditto": 1,
         "Alolan meowth": 1,
@@ -1063,14 +1064,16 @@
         "Yamper": 2,
         "Eelektross": 1,
         "Quagsire": 1,
-        "Sunflora": 1
+        "Sunflora": 1,
+        "Wynaut": 1,
+        "Wo-chien": 1
       },
-      "total_spawns": 1608,
-      "last_spawn": "2026-07-05T20:22:54.464628"
+      "total_spawns": 1614,
+      "last_spawn": "2026-07-05T20:23:24.652782"
     }
   },
   "global": {
-    "total_spawns": 65273,
+    "total_spawns": 65282,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
