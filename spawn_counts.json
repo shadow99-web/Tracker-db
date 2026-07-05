@@ -495,7 +495,7 @@
         "Hoppip": 3,
         "Blipbug": 6,
         "Swoobat": 1,
-        "Greavard": 7,
+        "Greavard": 8,
         "Mosslax": 5,
         "Braixen": 2,
         "Skwovet": 1,
@@ -713,7 +713,7 @@
         "Spheal": 2,
         "Chinchou": 2,
         "Magmar": 1,
-        "Chef dente": 1,
+        "Chef dente": 2,
         "Sandygast": 1,
         "Graveler": 2,
         "Duosion": 1,
@@ -777,14 +777,15 @@
         "Hippowdon": 1,
         "Helioptile": 1,
         "Furfrou": 1,
-        "Thwackey": 1
+        "Thwackey": 1,
+        "Gabite": 1
       },
-      "total_spawns": 805,
-      "last_spawn": "2026-07-05T16:57:54.560666"
+      "total_spawns": 808,
+      "last_spawn": "2026-07-05T16:58:24.696129"
     }
   },
   "global": {
-    "total_spawns": 63989,
+    "total_spawns": 63992,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
