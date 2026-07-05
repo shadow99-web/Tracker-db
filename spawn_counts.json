@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 1,
-        "Geodude": 1,
+        "Geodude": 2,
         "Tentacruel": 1,
         "Archen": 3,
         "Blue plumage squawkabilly": 1,
@@ -439,16 +439,18 @@
         "Spheal": 1,
         "Amaura": 1,
         "Wailord": 1,
-        "Accelgor": 1
+        "Accelgor": 1,
+        "Tyrunt": 1,
+        "Hisuian typhlosion": 2
       },
-      "total_spawns": 873,
-      "last_spawn": "2026-07-05T19:56:03.658393"
+      "total_spawns": 877,
+      "last_spawn": "2026-07-05T19:56:28.235444"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 10,
-        "Caterpie": 2,
+        "Caterpie": 3,
         "Flaaffy": 3,
         "Bronzor": 1,
         "Gible": 4,
@@ -502,7 +504,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 5,
+        "Gastly": 6,
         "Orthworm": 7,
         "Glimmet": 8,
         "Beldum": 2,
@@ -594,7 +596,7 @@
         "Peakychu": 5,
         "Bellibolt": 1,
         "Quilladin": 3,
-        "Vulpix": 5,
+        "Vulpix": 6,
         "Sizzlipede": 3,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -641,11 +643,11 @@
         "Espurr": 2,
         "Doduo": 2,
         "Kadabra": 1,
-        "Stretchy tatsugiri": 3,
+        "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
         "Capsakid": 6,
         "Tyrunt": 1,
-        "Drilbur": 1,
+        "Drilbur": 2,
         "Vaporeon": 2,
         "Magneton": 3,
         "Pupitar": 3,
@@ -936,14 +938,15 @@
         "Skuntank": 1,
         "Glastrier": 1,
         "Crabrawler": 1,
-        "Onix": 1
+        "Onix": 1,
+        "Arctibax": 1
       },
-      "total_spawns": 1295,
-      "last_spawn": "2026-07-05T19:56:04.306854"
+      "total_spawns": 1301,
+      "last_spawn": "2026-07-05T19:56:34.404348"
     }
   },
   "global": {
-    "total_spawns": 64707,
+    "total_spawns": 64717,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
