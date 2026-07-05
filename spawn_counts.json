@@ -868,7 +868,7 @@
         "Larvitar": 9,
         "Munna": 1,
         "Tangela": 5,
-        "Espurr": 5,
+        "Espurr": 6,
         "Doduo": 4,
         "Kadabra": 5,
         "Stretchy tatsugiri": 4,
@@ -943,7 +943,7 @@
         "Whirlipede": 3,
         "Tinkatuff": 3,
         "Baltoy": 7,
-        "Tarountula": 15,
+        "Tarountula": 16,
         "Omastar": 2,
         "Surskit": 3,
         "Wooper": 4,
@@ -1288,7 +1288,7 @@
         "Slugma": 1,
         "Escavalier": 1,
         "Conkeldurr": 1,
-        "Poochyena": 1,
+        "Poochyena": 2,
         "White flower floette": 1,
         "Typhlosion": 1,
         "Yellow flower florges": 1,
@@ -1342,18 +1342,18 @@
         "Purrloin": 1,
         "Wigglytuff": 1,
         "Audino": 1,
-        "Larvesta": 1,
+        "Larvesta": 2,
         "Sudowoodo": 1,
         "Meowstic": 1,
         "Torterra": 1,
         "Charizard": 1
       },
-      "total_spawns": 2572,
-      "last_spawn": "2026-07-05T22:57:34.522390"
+      "total_spawns": 2576,
+      "last_spawn": "2026-07-05T22:58:14.399715"
     }
   },
   "global": {
-    "total_spawns": 67466,
+    "total_spawns": 67470,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
