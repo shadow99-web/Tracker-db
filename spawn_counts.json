@@ -476,7 +476,7 @@
         "Bellsprout": 2,
         "Scorbunny": 2,
         "Roggenrola": 5,
-        "Wattrel": 6,
+        "Wattrel": 7,
         "Nacli": 10,
         "Feebas": 1,
         "Weedle": 7,
@@ -566,7 +566,7 @@
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
-        "Rellor": 3,
+        "Rellor": 4,
         "Hippopotas": 1,
         "Chikorita": 3,
         "Litwick": 5,
@@ -791,7 +791,7 @@
         "Stunfisk": 1,
         "Spinda": 1,
         "Beautifly": 1,
-        "Fletchling": 1,
+        "Fletchling": 2,
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
@@ -811,14 +811,15 @@
         "Snubbull": 1,
         "Gogoat": 1,
         "Morelull": 1,
-        "Dewott": 1
+        "Dewott": 1,
+        "Kingambit": 1
       },
-      "total_spawns": 953,
-      "last_spawn": "2026-07-05T17:22:44.605051"
+      "total_spawns": 957,
+      "last_spawn": "2026-07-05T17:23:25.699361"
     }
   },
   "global": {
-    "total_spawns": 64138,
+    "total_spawns": 64142,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
