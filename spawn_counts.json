@@ -1240,15 +1240,15 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 6,
+        "Shinx": 7,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 1,
-        "Sandile": 4,
+        "Sandile": 5,
         "Charmeleon": 1,
         "Riolu": 2,
         "Gible": 2,
-        "Greavard": 1,
+        "Greavard": 2,
         "Snover": 1,
         "Piplup": 1,
         "Dondozo": 2,
@@ -1464,7 +1464,7 @@
         "Archen": 2,
         "Blue plumage squawkabilly": 1,
         "Metang": 1,
-        "Larvitar": 3,
+        "Larvitar": 4,
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
@@ -1519,14 +1519,15 @@
         "Trubbish": 1,
         "Rockruff": 1,
         "Snowy castform": 1,
-        "Dusclops": 1
+        "Dusclops": 1,
+        "Prinplup": 1
       },
-      "total_spawns": 589,
-      "last_spawn": "2026-07-05T04:27:13.705649"
+      "total_spawns": 594,
+      "last_spawn": "2026-07-05T13:37:19.865559"
     }
   },
   "global": {
-    "total_spawns": 63128,
+    "total_spawns": 63133,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
