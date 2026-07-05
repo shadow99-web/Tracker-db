@@ -1190,7 +1190,7 @@
         "Bounsweet": 3,
         "Fletchling": 2,
         "Whirlipede": 1,
-        "Duskull": 5,
+        "Duskull": 6,
         "Abra": 1,
         "Wiglett": 2,
         "Starly": 4,
@@ -1298,7 +1298,7 @@
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
-        "Wugtrio": 1,
+        "Wugtrio": 2,
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 1,
@@ -1348,7 +1348,7 @@
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 1,
-        "Dj rotom": 1,
+        "Dj rotom": 2,
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
         "Bagon": 1,
@@ -1420,14 +1420,16 @@
         "Mawile": 1,
         "Marill": 1,
         "Lickitung": 1,
-        "Chewtle": 1
+        "Chewtle": 1,
+        "Onix": 1,
+        "Dracovish": 1
       },
-      "total_spawns": 357,
-      "last_spawn": "2026-07-05T03:45:08.652282"
+      "total_spawns": 362,
+      "last_spawn": "2026-07-05T03:45:42.998347"
     }
   },
   "global": {
-    "total_spawns": 62896,
+    "total_spawns": 62901,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
