@@ -479,7 +479,7 @@
         "Nacli": 1,
         "Feebas": 1,
         "Weedle": 3,
-        "Ralts": 2,
+        "Ralts": 3,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 3,
@@ -510,7 +510,7 @@
         "Wooloo": 2,
         "Togekiss": 1,
         "Rolycoly": 4,
-        "Duskull": 2,
+        "Duskull": 3,
         "Marill": 2,
         "Axew": 2,
         "Tinkatink": 2,
@@ -657,14 +657,16 @@
         "Pincurchin": 1,
         "Whirlipede": 1,
         "Tinkatuff": 1,
-        "Baltoy": 1
+        "Baltoy": 1,
+        "Tarountula": 1,
+        "Omastar": 1
       },
-      "total_spawns": 423,
-      "last_spawn": "2026-07-05T15:52:34.707912"
+      "total_spawns": 427,
+      "last_spawn": "2026-07-05T15:53:14.500324"
     }
   },
   "global": {
-    "total_spawns": 63605,
+    "total_spawns": 63609,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
