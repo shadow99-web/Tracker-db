@@ -274,7 +274,7 @@
         "Plusle": 1,
         "Decidueye": 2,
         "Kricketot": 4,
-        "Ledyba": 1,
+        "Ledyba": 2,
         "Chinchou": 1,
         "Eiscue": 1,
         "Nacli": 6,
@@ -497,10 +497,11 @@
         "Yellow flower florges": 1,
         "Drilbur": 1,
         "Leavanny": 1,
-        "Magikarp": 1
+        "Magikarp": 1,
+        "Gardevoir": 2
       },
-      "total_spawns": 1073,
-      "last_spawn": "2026-07-05T20:16:18.495744"
+      "total_spawns": 1076,
+      "last_spawn": "2026-07-05T20:16:48.198542"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -556,7 +557,7 @@
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 5,
-        "Geodude": 9,
+        "Geodude": 10,
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
@@ -579,7 +580,7 @@
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
-        "Seedot": 10,
+        "Seedot": 11,
         "Trapinch": 9,
         "Hatenna": 8,
         "Drifloon": 2,
@@ -587,7 +588,7 @@
         "Snivy": 2,
         "Bellsprout": 7,
         "Scorbunny": 2,
-        "Roggenrola": 7,
+        "Roggenrola": 8,
         "Wattrel": 11,
         "Nacli": 16,
         "Feebas": 2,
@@ -818,7 +819,7 @@
         "Varoom": 6,
         "Kirlia": 2,
         "Minccino": 2,
-        "Charmander": 2,
+        "Charmander": 3,
         "Misdreavus": 2,
         "Growlithe": 4,
         "Arctozolt": 3,
@@ -1043,14 +1044,16 @@
         "Quaxly": 1,
         "Guzzlord": 1,
         "Seadra": 1,
-        "Pyukumuku": 1
+        "Pyukumuku": 1,
+        "Hatterene": 1,
+        "Cleffa": 1
       },
-      "total_spawns": 1533,
-      "last_spawn": "2026-07-05T20:16:24.505597"
+      "total_spawns": 1539,
+      "last_spawn": "2026-07-05T20:16:57.342842"
     }
   },
   "global": {
-    "total_spawns": 65145,
+    "total_spawns": 65154,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
