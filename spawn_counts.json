@@ -32,7 +32,7 @@
         "Pidgey": 6,
         "Binacle": 2,
         "Bounsweet": 4,
-        "Fletchling": 3,
+        "Fletchling": 4,
         "Whirlipede": 2,
         "Duskull": 10,
         "Abra": 9,
@@ -44,7 +44,7 @@
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 3,
-        "Tadbulb": 4,
+        "Tadbulb": 5,
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
@@ -80,7 +80,7 @@
         "Bruxish": 1,
         "Orbeetle": 1,
         "Bramblin": 4,
-        "Stufful": 2,
+        "Stufful": 3,
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 1,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 1,
+        "Sewaddle": 3,
         "Shelmet": 1,
         "Combusken": 2,
         "Croagunk": 2,
@@ -515,10 +515,11 @@
         "Braviary": 2,
         "Low key toxtricity": 2,
         "Nidorina": 1,
-        "Bronzong": 1
+        "Bronzong": 1,
+        "Foongus": 1
       },
-      "total_spawns": 1179,
-      "last_spawn": "2026-07-05T20:29:38.336538"
+      "total_spawns": 1185,
+      "last_spawn": "2026-07-05T20:30:18.469859"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -545,7 +546,7 @@
         "Monferno": 1,
         "Pikipek": 6,
         "Flittle": 6,
-        "Lillipup": 6,
+        "Lillipup": 7,
         "Eevee": 3,
         "Shroomish": 1,
         "Dachsbun": 3,
@@ -590,7 +591,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 8,
+        "Charcadet": 9,
         "Sandile": 8,
         "Maushold": 3,
         "Rattata": 5,
@@ -706,7 +707,7 @@
         "Quaxwell": 2,
         "Croconaw": 5,
         "Smoliv": 5,
-        "Lechonk": 7,
+        "Lechonk": 8,
         "Clodsire": 2,
         "Sandaconda": 1,
         "Ninjask": 1,
@@ -906,13 +907,13 @@
         "Flapple": 1,
         "Hippowdon": 1,
         "Helioptile": 1,
-        "Furfrou": 1,
+        "Furfrou": 2,
         "Thwackey": 3,
         "Gabite": 2,
         "Toxel": 3,
         "Boldore": 1,
         "Prof tangrowth": 1,
-        "Corvisquire": 1,
+        "Corvisquire": 2,
         "Lokix": 3,
         "Charmeleon": 4,
         "Spidops": 1,
@@ -992,7 +993,7 @@
         "Frosmoth": 1,
         "Farigiraf": 1,
         "Servine": 1,
-        "Zoroark": 1,
+        "Zoroark": 2,
         "Aegislash": 1,
         "Scyther": 3,
         "Azumarill": 1,
@@ -1078,12 +1079,12 @@
         "Herdier": 1,
         "Starmie": 1
       },
-      "total_spawns": 1689,
-      "last_spawn": "2026-07-05T20:29:47.236727"
+      "total_spawns": 1695,
+      "last_spawn": "2026-07-05T20:30:17.109558"
     }
   },
   "global": {
-    "total_spawns": 65407,
+    "total_spawns": 65419,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
