@@ -404,7 +404,7 @@
         "Mareep": 2,
         "Klink": 4,
         "Nymble": 3,
-        "Porygon": 6,
+        "Porygon": 7,
         "Abra": 6,
         "Oddish": 7,
         "Dedenne": 1,
@@ -490,7 +490,7 @@
         "Sewaddle": 5,
         "Mantyke": 1,
         "Slakoth": 8,
-        "Dreepy": 4,
+        "Dreepy": 5,
         "Foongus": 2,
         "Hoppip": 3,
         "Blipbug": 6,
@@ -540,7 +540,7 @@
         "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 2,
-        "Vulpix": 1,
+        "Vulpix": 2,
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -589,7 +589,7 @@
         "Kadabra": 1,
         "Stretchy tatsugiri": 2,
         "Dugtrio": 1,
-        "Capsakid": 5,
+        "Capsakid": 6,
         "Tyrunt": 1,
         "Drilbur": 1,
         "Vaporeon": 1,
@@ -779,12 +779,12 @@
         "Furfrou": 1,
         "Thwackey": 1
       },
-      "total_spawns": 801,
-      "last_spawn": "2026-07-05T16:57:19.797409"
+      "total_spawns": 805,
+      "last_spawn": "2026-07-05T16:57:54.560666"
     }
   },
   "global": {
-    "total_spawns": 63985,
+    "total_spawns": 63989,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
