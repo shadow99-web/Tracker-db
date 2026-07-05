@@ -514,7 +514,7 @@
         "Marill": 2,
         "Axew": 2,
         "Tinkatink": 2,
-        "Starly": 2,
+        "Starly": 3,
         "Popplio": 1,
         "Watchog": 1,
         "Bounsweet": 4,
@@ -638,14 +638,16 @@
         "Fomantis": 1,
         "Forretress": 1,
         "Squirtle": 1,
-        "Wingull": 1
+        "Wingull": 1,
+        "Buneary": 1,
+        "Skiddo": 1
       },
-      "total_spawns": 368,
-      "last_spawn": "2026-07-05T15:43:24.501454"
+      "total_spawns": 371,
+      "last_spawn": "2026-07-05T15:43:54.691323"
     }
   },
   "global": {
-    "total_spawns": 63549,
+    "total_spawns": 63552,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
