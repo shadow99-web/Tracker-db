@@ -402,7 +402,7 @@
         "Dusclops": 2,
         "Rhyhorn": 3,
         "Mareep": 2,
-        "Klink": 3,
+        "Klink": 4,
         "Nymble": 3,
         "Porygon": 5,
         "Abra": 6,
@@ -493,7 +493,7 @@
         "Dreepy": 4,
         "Foongus": 2,
         "Hoppip": 3,
-        "Blipbug": 4,
+        "Blipbug": 5,
         "Swoobat": 1,
         "Greavard": 7,
         "Mosslax": 5,
@@ -643,7 +643,7 @@
         "Buneary": 1,
         "Skiddo": 2,
         "Zigzagoon": 1,
-        "Dj rotom": 2,
+        "Dj rotom": 3,
         "Anorith": 2,
         "Shiinotic": 1,
         "Snover": 1,
@@ -701,7 +701,7 @@
         "Mewtwo": 1,
         "Pachirisu": 1,
         "Ursaring": 2,
-        "Zweilous": 1,
+        "Zweilous": 2,
         "Amoonguss": 1,
         "Varoom": 2,
         "Kirlia": 1,
@@ -753,12 +753,12 @@
         "Dewpider": 1,
         "Pansear": 1
       },
-      "total_spawns": 697,
-      "last_spawn": "2026-07-05T16:39:34.419152"
+      "total_spawns": 701,
+      "last_spawn": "2026-07-05T16:40:14.496470"
     }
   },
   "global": {
-    "total_spawns": 63881,
+    "total_spawns": 63885,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
