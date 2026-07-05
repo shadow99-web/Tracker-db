@@ -761,7 +761,7 @@
         "Togepi": 9,
         "Snivy": 4,
         "Bellsprout": 13,
-        "Scorbunny": 2,
+        "Scorbunny": 3,
         "Roggenrola": 18,
         "Wattrel": 18,
         "Nacli": 22,
@@ -821,7 +821,7 @@
         "Lairon": 4,
         "Zubat": 17,
         "Croagunk": 4,
-        "Klawf": 10,
+        "Klawf": 11,
         "Lombre": 2,
         "Wurmple": 8,
         "Peakychu": 13,
@@ -915,7 +915,7 @@
         "Shellder": 4,
         "Pawmi": 10,
         "Spoink": 7,
-        "Lileep": 4,
+        "Lileep": 5,
         "Crocalor": 3,
         "Cranidos": 2,
         "Cherrim": 1,
@@ -1367,12 +1367,12 @@
         "Flareon": 1,
         "Volcarona": 1
       },
-      "total_spawns": 2741,
-      "last_spawn": "2026-07-05T23:25:54.413253"
+      "total_spawns": 2744,
+      "last_spawn": "2026-07-05T23:26:24.412760"
     }
   },
   "global": {
-    "total_spawns": 67698,
+    "total_spawns": 67701,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
