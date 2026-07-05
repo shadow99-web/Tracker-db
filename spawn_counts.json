@@ -582,7 +582,7 @@
         "Oddish": 10,
         "Dedenne": 2,
         "Gothita": 9,
-        "Finizen": 10,
+        "Finizen": 11,
         "Machop": 10,
         "Psyduck": 4,
         "Monferno": 1,
@@ -610,7 +610,7 @@
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 3,
-        "Bramblin": 9,
+        "Bramblin": 10,
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
         "Binacle": 3,
@@ -846,7 +846,7 @@
         "Sandy wormadam": 1,
         "Sprigatito": 2,
         "Bidoof": 2,
-        "Frillish": 3,
+        "Frillish": 4,
         "Toedscool": 8,
         "Espathra": 1,
         "Klang": 3,
@@ -895,7 +895,7 @@
         "Cofagrigus": 1,
         "Hattrem": 2,
         "Sneasel": 2,
-        "Piplup": 3,
+        "Piplup": 4,
         "Electrike": 3,
         "Kabuto": 4,
         "Chewtle": 1,
@@ -1149,12 +1149,12 @@
         "Phanpy": 1,
         "Blastoise": 1
       },
-      "total_spawns": 1861,
-      "last_spawn": "2026-07-05T20:56:49.199139"
+      "total_spawns": 1865,
+      "last_spawn": "2026-07-05T20:57:24.444372"
     }
   },
   "global": {
-    "total_spawns": 65800,
+    "total_spawns": 65804,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
