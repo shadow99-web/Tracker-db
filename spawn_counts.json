@@ -409,7 +409,7 @@
         "Oddish": 7,
         "Dedenne": 1,
         "Gothita": 3,
-        "Finizen": 4,
+        "Finizen": 5,
         "Machop": 5,
         "Psyduck": 2,
         "Monferno": 1,
@@ -686,7 +686,7 @@
         "Tyrogue": 1,
         "Minior": 1,
         "Veluza": 2,
-        "Salandit": 1,
+        "Salandit": 2,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 1,
         "Passimian": 1,
@@ -763,14 +763,15 @@
         "Bisharp": 1,
         "Dartrix": 1,
         "Roserade": 1,
-        "Heliolisk": 1
+        "Heliolisk": 1,
+        "Doublade": 1
       },
-      "total_spawns": 761,
-      "last_spawn": "2026-07-05T16:50:24.419947"
+      "total_spawns": 764,
+      "last_spawn": "2026-07-05T16:50:54.599692"
     }
   },
   "global": {
-    "total_spawns": 63945,
+    "total_spawns": 63948,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
