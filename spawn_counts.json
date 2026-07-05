@@ -469,7 +469,7 @@
         "Slowpoke": 1,
         "Seedot": 5,
         "Trapinch": 6,
-        "Hatenna": 5,
+        "Hatenna": 6,
         "Drifloon": 2,
         "Togepi": 7,
         "Snivy": 1,
@@ -499,7 +499,7 @@
         "Mosslax": 6,
         "Braixen": 2,
         "Skwovet": 1,
-        "Magnemite": 3,
+        "Magnemite": 4,
         "Impidimp": 5,
         "Elgyem": 2,
         "Gastrodon": 1,
@@ -708,7 +708,7 @@
         "Minccino": 1,
         "Charmander": 1,
         "Misdreavus": 1,
-        "Growlithe": 3,
+        "Growlithe": 4,
         "Arctozolt": 1,
         "Spheal": 3,
         "Chinchou": 2,
@@ -800,14 +800,15 @@
         "Totodile": 1,
         "Magikarp": 1,
         "Pumpkaboo": 1,
-        "Banette": 1
+        "Banette": 1,
+        "Tympole": 1
       },
-      "total_spawns": 898,
-      "last_spawn": "2026-07-05T17:13:35.370078"
+      "total_spawns": 902,
+      "last_spawn": "2026-07-05T17:14:14.318274"
     }
   },
   "global": {
-    "total_spawns": 64082,
+    "total_spawns": 64086,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
