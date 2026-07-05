@@ -382,10 +382,11 @@
         "Slakoth": 1,
         "Klink": 1,
         "Mesprit": 1,
-        "Azelf": 1
+        "Azelf": 1,
+        "Clodsire": 1
       },
-      "total_spawns": 639,
-      "last_spawn": "2026-07-05T15:33:48.595920"
+      "total_spawns": 640,
+      "last_spawn": "2026-07-05T15:35:23.098148"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -480,7 +481,7 @@
         "Ralts": 2,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 2,
+        "Aron": 3,
         "Horsea": 1,
         "Teddiursa": 1,
         "Dratini": 1,
@@ -560,7 +561,7 @@
         "Machoke": 1,
         "Glameow": 1,
         "Swinub": 1,
-        "Marshtomp": 1,
+        "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
         "Rellor": 1,
@@ -615,14 +616,15 @@
         "Grubbin": 1,
         "Dustox": 1,
         "Chespin": 1,
-        "Armarouge": 1
+        "Armarouge": 1,
+        "Battle cyclizar": 1
       },
-      "total_spawns": 319,
-      "last_spawn": "2026-07-05T15:35:04.609538"
+      "total_spawns": 322,
+      "last_spawn": "2026-07-05T15:35:34.620850"
     }
   },
   "global": {
-    "total_spawns": 63497,
+    "total_spawns": 63501,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
