@@ -405,7 +405,7 @@
         "Klink": 3,
         "Nymble": 3,
         "Porygon": 5,
-        "Abra": 3,
+        "Abra": 4,
         "Oddish": 7,
         "Dedenne": 1,
         "Gothita": 3,
@@ -583,7 +583,7 @@
         "Pidove": 3,
         "Larvitar": 2,
         "Munna": 1,
-        "Tangela": 1,
+        "Tangela": 2,
         "Espurr": 2,
         "Doduo": 2,
         "Kadabra": 1,
@@ -715,7 +715,7 @@
         "Magmar": 1,
         "Chef dente": 1,
         "Sandygast": 1,
-        "Graveler": 1,
+        "Graveler": 2,
         "Duosion": 1,
         "Pawniard": 1,
         "Rabsca": 1,
@@ -733,12 +733,12 @@
         "Pom-pom oricorio": 1,
         "Toxapex": 1
       },
-      "total_spawns": 623,
-      "last_spawn": "2026-07-05T16:26:54.458892"
+      "total_spawns": 626,
+      "last_spawn": "2026-07-05T16:27:34.596685"
     }
   },
   "global": {
-    "total_spawns": 63807,
+    "total_spawns": 63810,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
