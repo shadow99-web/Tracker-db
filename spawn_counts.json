@@ -1340,7 +1340,7 @@
         "Dratini": 1,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 1,
+        "Charcadet": 2,
         "Mudsdale": 1,
         "Meowth": 2,
         "Charmander": 1,
@@ -1368,14 +1368,16 @@
         "Lileep": 1,
         "Drifloon": 1,
         "Mightyena": 1,
-        "Sandaconda": 1
+        "Sandaconda": 1,
+        "Froakie": 1,
+        "Kingdra": 1
       },
-      "total_spawns": 277,
-      "last_spawn": "2026-07-05T03:32:58.197879"
+      "total_spawns": 280,
+      "last_spawn": "2026-07-05T03:33:28.356167"
     }
   },
   "global": {
-    "total_spawns": 62816,
+    "total_spawns": 62819,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
