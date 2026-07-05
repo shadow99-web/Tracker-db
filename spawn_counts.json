@@ -579,7 +579,7 @@
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
-        "Pidove": 1,
+        "Pidove": 2,
         "Larvitar": 1,
         "Munna": 1,
         "Tangela": 1,
@@ -652,14 +652,16 @@
         "Sliggoo": 1,
         "Silcoon": 1,
         "Tadbulb": 1,
-        "Lopunny": 1
+        "Lopunny": 1,
+        "Malamar": 1,
+        "Pincurchin": 1
       },
-      "total_spawns": 405,
-      "last_spawn": "2026-07-05T15:49:34.497972"
+      "total_spawns": 408,
+      "last_spawn": "2026-07-05T15:50:04.581530"
     }
   },
   "global": {
-    "total_spawns": 63587,
+    "total_spawns": 63590,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
