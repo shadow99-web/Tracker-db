@@ -475,7 +475,7 @@
         "Snivy": 1,
         "Bellsprout": 4,
         "Scorbunny": 2,
-        "Roggenrola": 5,
+        "Roggenrola": 6,
         "Wattrel": 8,
         "Nacli": 13,
         "Feebas": 1,
@@ -492,13 +492,13 @@
         "Slakoth": 8,
         "Dreepy": 7,
         "Foongus": 2,
-        "Hoppip": 6,
+        "Hoppip": 7,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
         "Mosslax": 8,
         "Braixen": 2,
-        "Skwovet": 1,
+        "Skwovet": 2,
         "Magnemite": 6,
         "Impidimp": 7,
         "Elgyem": 2,
@@ -540,7 +540,7 @@
         "Peakychu": 5,
         "Bellibolt": 1,
         "Quilladin": 3,
-        "Vulpix": 4,
+        "Vulpix": 5,
         "Sizzlipede": 2,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -716,7 +716,7 @@
         "Chef dente": 2,
         "Sandygast": 1,
         "Graveler": 3,
-        "Duosion": 1,
+        "Duosion": 2,
         "Pawniard": 1,
         "Rabsca": 2,
         "Cofagrigus": 1,
@@ -766,7 +766,7 @@
         "Heliolisk": 1,
         "Doublade": 1,
         "Electivire": 1,
-        "Droopy tatsugiri": 2,
+        "Droopy tatsugiri": 3,
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
@@ -821,7 +821,7 @@
         "Ceruledge": 1,
         "Swampert": 1,
         "Naclstack": 1,
-        "Golbat": 1,
+        "Golbat": 3,
         "Shuppet": 1,
         "East sea gastrodon": 1,
         "Grovyle": 1,
@@ -849,12 +849,12 @@
         "Glaceon": 1,
         "Lickilicky": 1
       },
-      "total_spawns": 1132,
-      "last_spawn": "2026-07-05T17:42:23.329238"
+      "total_spawns": 1140,
+      "last_spawn": "2026-07-05T17:42:54.526437"
     }
   },
   "global": {
-    "total_spawns": 64320,
+    "total_spawns": 64328,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
