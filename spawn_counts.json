@@ -1179,7 +1179,7 @@
         "Anorith": 2,
         "Arctibax": 1,
         "Ralts": 4,
-        "Peakychu": 2,
+        "Peakychu": 3,
         "Cutiefly": 1,
         "Simipour": 1,
         "Tynamo": 1,
@@ -1252,7 +1252,7 @@
         "Snover": 1,
         "Piplup": 1,
         "Dondozo": 1,
-        "Cyclizar": 1,
+        "Cyclizar": 2,
         "Froslass": 1,
         "Dodrio": 1,
         "Metagross": 2,
@@ -1452,7 +1452,7 @@
         "Ceruledge": 1,
         "Vanillish": 1,
         "Gimmighoul": 1,
-        "Glimmet": 1,
+        "Glimmet": 2,
         "Popplio": 1,
         "Arboliva": 1,
         "Luxio": 1,
@@ -1486,14 +1486,17 @@
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 1,
-        "Oinkologne": 1
+        "Oinkologne": 1,
+        "Floragato": 1,
+        "Larvesta": 1,
+        "Magby": 1
       },
-      "total_spawns": 503,
-      "last_spawn": "2026-07-05T04:16:43.565866"
+      "total_spawns": 509,
+      "last_spawn": "2026-07-05T04:17:14.343399"
     }
   },
   "global": {
-    "total_spawns": 63042,
+    "total_spawns": 63048,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
