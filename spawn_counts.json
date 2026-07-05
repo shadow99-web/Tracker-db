@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 4,
-        "Oddish": 5,
+        "Oddish": 7,
         "Totodile": 3,
         "Vanillite": 14,
         "Weedle": 8,
@@ -25,7 +25,7 @@
         "Ralts": 6,
         "Peakychu": 13,
         "Cutiefly": 3,
-        "Simipour": 1,
+        "Simipour": 2,
         "Tynamo": 4,
         "Palossand": 1,
         "Pyukumuku": 1,
@@ -119,7 +119,7 @@
         "Veluza": 6,
         "Panpour": 3,
         "Crabrawler": 3,
-        "Frogadier": 1,
+        "Frogadier": 2,
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 3,
-        "Teddiursa": 11,
+        "Teddiursa": 13,
         "Roggenrola": 7,
         "Litwick": 3,
         "Wooper": 2,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 1,
         "Whismur": 5,
-        "Jangmo-o": 3,
+        "Jangmo-o": 4,
         "Lunatone": 1,
         "Machoke": 2,
         "Luvdisc": 1,
@@ -245,7 +245,7 @@
         "Milcery": 5,
         "Trumbeak": 1,
         "Bonsly": 1,
-        "Growlithe": 1,
+        "Growlithe": 2,
         "Rhydon": 1,
         "Ambipom": 2,
         "Solrock": 1,
@@ -534,7 +534,7 @@
         "Skiploom": 1,
         "Stakataka": 1,
         "Cascoon": 1,
-        "Sigilyph": 2,
+        "Sigilyph": 4,
         "Vibrava": 1,
         "Shuckle": 1,
         "White flower floette": 1,
@@ -558,8 +558,8 @@
         "Pawmot": 1,
         "Blitzle": 1
       },
-      "total_spawns": 1387,
-      "last_spawn": "2026-07-05T20:54:33.897262"
+      "total_spawns": 1397,
+      "last_spawn": "2026-07-05T20:55:03.840715"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -657,7 +657,7 @@
         "Aron": 10,
         "Horsea": 16,
         "Teddiursa": 10,
-        "Dratini": 3,
+        "Dratini": 4,
         "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 11,
@@ -718,7 +718,7 @@
         "Tynamo": 10,
         "Quaquaval": 4,
         "Rapidash": 1,
-        "Maschiff": 10,
+        "Maschiff": 11,
         "Sensu oricorio": 2,
         "Scatterbug": 12,
         "Taillow": 2,
@@ -823,7 +823,7 @@
         "Scovillain": 4,
         "Sliggoo": 2,
         "Silcoon": 3,
-        "Tadbulb": 7,
+        "Tadbulb": 8,
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 3,
@@ -1142,14 +1142,15 @@
         "Simipour": 1,
         "Bronzong": 1,
         "Xatu": 1,
-        "Ampharos": 1
+        "Ampharos": 1,
+        "Falinks": 1
       },
-      "total_spawns": 1848,
-      "last_spawn": "2026-07-05T20:54:24.300026"
+      "total_spawns": 1852,
+      "last_spawn": "2026-07-05T20:55:04.394401"
     }
   },
   "global": {
-    "total_spawns": 65774,
+    "total_spawns": 65788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
