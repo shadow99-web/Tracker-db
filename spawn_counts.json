@@ -385,7 +385,7 @@
         "Azelf": 1,
         "Clodsire": 1,
         "Charizard": 2,
-        "Axew": 2,
+        "Axew": 3,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 1,
@@ -403,8 +403,8 @@
         "Litleo": 1,
         "Silcoon": 1
       },
-      "total_spawns": 720,
-      "last_spawn": "2026-07-05T19:24:31.797928"
+      "total_spawns": 721,
+      "last_spawn": "2026-07-05T19:29:48.055529"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -904,7 +904,7 @@
     }
   },
   "global": {
-    "total_spawns": 64551,
+    "total_spawns": 64552,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
