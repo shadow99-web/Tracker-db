@@ -623,7 +623,7 @@
         "Dhelmise": 1,
         "Armaldo": 2,
         "Krokorok": 1,
-        "Torkoal": 2,
+        "Torkoal": 3,
         "Clamperl": 1,
         "Rampardos": 1,
         "Weepinbell": 1,
@@ -670,8 +670,8 @@
         "Slaking": 1,
         "Obstagoon": 2
       },
-      "total_spawns": 2325,
-      "last_spawn": "2026-07-05T22:41:13.594346"
+      "total_spawns": 2326,
+      "last_spawn": "2026-07-05T22:41:43.794576"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -857,7 +857,7 @@
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 2,
-        "Croconaw": 6,
+        "Croconaw": 7,
         "Smoliv": 10,
         "Lechonk": 8,
         "Clodsire": 5,
@@ -926,7 +926,7 @@
         "Buneary": 7,
         "Skiddo": 5,
         "Zigzagoon": 4,
-        "Dj rotom": 7,
+        "Dj rotom": 8,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 6,
@@ -1220,7 +1220,7 @@
         "Brambleghast": 3,
         "Victreebel": 1,
         "Vibrava": 2,
-        "Yamper": 4,
+        "Yamper": 5,
         "Eelektross": 2,
         "Quagsire": 1,
         "Sunflora": 1,
@@ -1338,12 +1338,12 @@
         "Torchic": 1,
         "Primarina": 1
       },
-      "total_spawns": 2477,
-      "last_spawn": "2026-07-05T22:41:24.395632"
+      "total_spawns": 2480,
+      "last_spawn": "2026-07-05T22:41:54.811839"
     }
   },
   "global": {
-    "total_spawns": 67341,
+    "total_spawns": 67345,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
