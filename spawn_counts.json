@@ -502,7 +502,7 @@
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 1,
-        "Bombirdier": 1,
+        "Bombirdier": 2,
         "Wooloo": 1,
         "Togekiss": 1,
         "Rolycoly": 2,
@@ -563,14 +563,16 @@
         "Aipom": 1,
         "Rellor": 1,
         "Hippopotas": 1,
-        "Chikorita": 1
+        "Chikorita": 1,
+        "Litwick": 1,
+        "Metapod": 1
       },
-      "total_spawns": 228,
-      "last_spawn": "2026-07-05T15:19:44.495917"
+      "total_spawns": 231,
+      "last_spawn": "2026-07-05T15:20:14.501242"
     }
   },
   "global": {
-    "total_spawns": 63401,
+    "total_spawns": 63404,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
