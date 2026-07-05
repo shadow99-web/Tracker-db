@@ -509,7 +509,7 @@
         "Bombirdier": 2,
         "Wooloo": 2,
         "Togekiss": 1,
-        "Rolycoly": 4,
+        "Rolycoly": 5,
         "Duskull": 3,
         "Marill": 2,
         "Axew": 2,
@@ -560,7 +560,7 @@
         "Rowlet": 1,
         "Gholdengo": 1,
         "Machoke": 1,
-        "Glameow": 2,
+        "Glameow": 3,
         "Swinub": 4,
         "Marshtomp": 2,
         "Venonat": 1,
@@ -670,14 +670,15 @@
         "Fennekin": 1,
         "Fuecoco": 1,
         "Sandy wormadam": 1,
-        "Sprigatito": 1
+        "Sprigatito": 1,
+        "Bidoof": 1
       },
-      "total_spawns": 451,
-      "last_spawn": "2026-07-05T15:57:34.362919"
+      "total_spawns": 454,
+      "last_spawn": "2026-07-05T15:58:04.570871"
     }
   },
   "global": {
-    "total_spawns": 63633,
+    "total_spawns": 63636,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
