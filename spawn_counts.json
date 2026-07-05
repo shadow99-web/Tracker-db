@@ -430,7 +430,7 @@
         "Nuzleaf": 1,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 1,
+        "Bramblin": 2,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 1,
@@ -523,20 +523,22 @@
         "Litleo": 1,
         "Steelix": 1,
         "Greninja": 1,
-        "Dondozo": 1,
+        "Dondozo": 2,
         "Lairon": 1,
         "Zubat": 1,
         "Croagunk": 1,
         "Klawf": 1,
         "Lombre": 1,
-        "Wurmple": 1
+        "Wurmple": 1,
+        "Peakychu": 1,
+        "Bellibolt": 1
       },
-      "total_spawns": 167,
-      "last_spawn": "2026-07-05T15:09:04.907002"
+      "total_spawns": 171,
+      "last_spawn": "2026-07-05T15:09:45.004179"
     }
   },
   "global": {
-    "total_spawns": 63338,
+    "total_spawns": 63342,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
