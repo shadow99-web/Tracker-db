@@ -1228,7 +1228,7 @@
         "Aron": 2,
         "Honedge": 6,
         "Houndour": 1,
-        "Machop": 5,
+        "Machop": 6,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -1320,7 +1320,7 @@
         "Venipede": 1,
         "Pansage": 2,
         "Cetoddle": 4,
-        "Togepi": 1,
+        "Togepi": 2,
         "Tandemaus": 2,
         "Clefairy": 1,
         "Unown q": 1,
@@ -1364,7 +1364,7 @@
         "Drowzee": 2,
         "Lechonk": 3,
         "Woobat": 1,
-        "Skrelp": 1,
+        "Skrelp": 2,
         "Lileep": 1,
         "Drifloon": 1,
         "Mightyena": 2,
@@ -1435,7 +1435,7 @@
         "Eiscue": 1,
         "Nacli": 3,
         "Pancham": 1,
-        "Bulbasaur": 1,
+        "Bulbasaur": 2,
         "Dewpider": 1,
         "Yellow plumage squawkabilly": 1,
         "Hattrem": 1,
@@ -1482,7 +1482,7 @@
         "Sunkern": 1,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 1,
+        "Magnemite": 2,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 1,
@@ -1505,14 +1505,15 @@
         "Cyndaquil": 1,
         "Grotle": 1,
         "Tinkaton": 1,
-        "Bergmite": 1
+        "Bergmite": 1,
+        "Klang": 1
       },
-      "total_spawns": 544,
-      "last_spawn": "2026-07-05T04:22:53.490472"
+      "total_spawns": 550,
+      "last_spawn": "2026-07-05T04:23:23.731450"
     }
   },
   "global": {
-    "total_spawns": 63083,
+    "total_spawns": 63089,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
