@@ -92,7 +92,7 @@
         "Charmeleon": 3,
         "Riolu": 8,
         "Gible": 8,
-        "Greavard": 16,
+        "Greavard": 17,
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 5,
@@ -668,8 +668,8 @@
         "Inteleon": 2,
         "Milotic": 1
       },
-      "total_spawns": 2305,
-      "last_spawn": "2026-07-05T22:31:03.860681"
+      "total_spawns": 2306,
+      "last_spawn": "2026-07-05T22:32:43.483785"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -725,7 +725,7 @@
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 6,
-        "Geodude": 17,
+        "Geodude": 18,
         "Treecko": 3,
         "Grimer": 2,
         "Grafaiai": 3,
@@ -1053,7 +1053,7 @@
         "Nickit": 1,
         "Wiglett": 7,
         "Carkol": 3,
-        "Solosis": 5,
+        "Solosis": 6,
         "Flapple": 3,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -1319,14 +1319,16 @@
         "Loudred": 1,
         "Trash burmy": 1,
         "Smoochum": 1,
-        "Snorlax": 1
+        "Snorlax": 1,
+        "Pawmot": 1,
+        "Poliwhirl": 1
       },
-      "total_spawns": 2423,
-      "last_spawn": "2026-07-05T22:32:24.595934"
+      "total_spawns": 2427,
+      "last_spawn": "2026-07-05T22:33:04.416439"
     }
   },
   "global": {
-    "total_spawns": 67267,
+    "total_spawns": 67272,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
