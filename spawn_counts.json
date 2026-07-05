@@ -402,7 +402,7 @@
         "Rhyhorn": 3,
         "Mareep": 1,
         "Klink": 2,
-        "Nymble": 2,
+        "Nymble": 3,
         "Porygon": 1,
         "Abra": 2,
         "Oddish": 5,
@@ -422,7 +422,7 @@
         "Glimmora": 2,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 3,
+        "Whismur": 4,
         "Jangmo-o": 3,
         "Samurott": 1,
         "Kleavor": 1,
@@ -478,7 +478,7 @@
         "Wattrel": 2,
         "Nacli": 1,
         "Feebas": 1,
-        "Weedle": 2,
+        "Weedle": 3,
         "Ralts": 2,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -635,14 +635,15 @@
         "Summer deerling": 1,
         "Skrelp": 1,
         "Spewpa": 1,
-        "Fomantis": 1
+        "Fomantis": 1,
+        "Forretress": 1
       },
-      "total_spawns": 361,
-      "last_spawn": "2026-07-05T15:42:18.974935"
+      "total_spawns": 365,
+      "last_spawn": "2026-07-05T15:42:54.498236"
     }
   },
   "global": {
-    "total_spawns": 63542,
+    "total_spawns": 63546,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
