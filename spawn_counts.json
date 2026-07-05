@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 7,
-        "Sandile": 10,
+        "Sandile": 12,
         "Charmeleon": 3,
         "Riolu": 2,
         "Gible": 6,
@@ -106,7 +106,7 @@
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
-        "Bayleef": 2,
+        "Bayleef": 3,
         "Magnezone": 1,
         "Eevee": 4,
         "Dreepy": 15,
@@ -357,10 +357,10 @@
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 2,
-        "Hoppip": 7,
+        "Hoppip": 9,
         "Slowbro": 2,
         "Gholdengo": 3,
-        "Trubbish": 4,
+        "Trubbish": 5,
         "Rockruff": 2,
         "Snowy castform": 1,
         "Dusclops": 2,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 1,
-        "Frigibax": 6,
+        "Frigibax": 7,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 1,
@@ -440,7 +440,7 @@
         "Amaura": 1,
         "Wailord": 1,
         "Accelgor": 2,
-        "Tyrunt": 1,
+        "Tyrunt": 2,
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
         "Smearguru": 2,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 1,
         "Quilava": 1,
-        "Wurmple": 2,
+        "Wurmple": 4,
         "Sandshrew": 1,
         "Tauros": 1,
         "Golurk": 1,
@@ -603,8 +603,8 @@
         "Cubone": 1,
         "Conkeldurr": 1
       },
-      "total_spawns": 1711,
-      "last_spawn": "2026-07-05T21:17:13.976580"
+      "total_spawns": 1721,
+      "last_spawn": "2026-07-05T21:17:48.194009"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -625,7 +625,7 @@
         "Oddish": 13,
         "Dedenne": 2,
         "Gothita": 9,
-        "Finizen": 11,
+        "Finizen": 12,
         "Machop": 10,
         "Psyduck": 4,
         "Monferno": 1,
@@ -765,7 +765,7 @@
         "Rapidash": 1,
         "Maschiff": 11,
         "Sensu oricorio": 2,
-        "Scatterbug": 13,
+        "Scatterbug": 14,
         "Taillow": 2,
         "Wimpod": 6,
         "Rookidee": 10,
@@ -894,7 +894,7 @@
         "Espathra": 2,
         "Klang": 3,
         "Vespiquen": 4,
-        "Amaura": 1,
+        "Amaura": 2,
         "Remoraid": 1,
         "Diglett": 2,
         "Lotad": 7,
@@ -1211,12 +1211,12 @@
         "Staryu": 1,
         "Golem": 1
       },
-      "total_spawns": 1979,
-      "last_spawn": "2026-07-05T21:17:16.546326"
+      "total_spawns": 1982,
+      "last_spawn": "2026-07-05T21:17:44.472729"
     }
   },
   "global": {
-    "total_spawns": 66229,
+    "total_spawns": 66242,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
