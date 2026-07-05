@@ -1211,7 +1211,7 @@
         "Maschiff": 2,
         "Smoliv": 2,
         "Tirtouga": 2,
-        "Hatenna": 1,
+        "Hatenna": 2,
         "Shroomish": 1,
         "Lillipup": 1,
         "Mosslax": 1,
@@ -1279,7 +1279,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
-        "Rookidee": 1,
+        "Rookidee": 2,
         "Flapple": 1,
         "Bronzor": 1,
         "Swirlix": 2,
@@ -1336,14 +1336,15 @@
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 1,
-        "Grovyle": 1
+        "Grovyle": 1,
+        "Dratini": 1
       },
-      "total_spawns": 222,
-      "last_spawn": "2026-07-05T00:00:20.604793"
+      "total_spawns": 225,
+      "last_spawn": "2026-07-05T00:02:28.329322"
     }
   },
   "global": {
-    "total_spawns": 62761,
+    "total_spawns": 62764,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
