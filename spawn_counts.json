@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 4,
         "Surskit": 3,
-        "Seedot": 8,
+        "Seedot": 9,
         "Jigglypuff": 1,
         "Spearow": 2,
         "Servine": 2,
@@ -171,7 +171,7 @@
         "Lotad": 3,
         "Mienshao": 1,
         "Blipbug": 12,
-        "Rellor": 3,
+        "Rellor": 4,
         "Rolycoly": 6,
         "Poliwhirl": 4,
         "Lokix": 3,
@@ -509,7 +509,7 @@
         "Hippopotas": 1,
         "Reuniclus": 1,
         "Melmetal": 1,
-        "Liepard": 1,
+        "Liepard": 2,
         "Necrozma": 1,
         "Dewott": 1,
         "Braviary": 4,
@@ -623,8 +623,8 @@
         "Dhelmise": 1,
         "Armaldo": 2
       },
-      "total_spawns": 1888,
-      "last_spawn": "2026-07-05T21:36:23.596697"
+      "total_spawns": 1891,
+      "last_spawn": "2026-07-05T21:36:53.796414"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -698,7 +698,7 @@
         "Grapploct": 1,
         "Charcadet": 12,
         "Sandile": 11,
-        "Maushold": 4,
+        "Maushold": 5,
         "Rattata": 6,
         "Riolu": 2,
         "Aromatisse": 1,
@@ -801,7 +801,7 @@
         "Swinub": 14,
         "Marshtomp": 3,
         "Venonat": 4,
-        "Aipom": 1,
+        "Aipom": 2,
         "Rellor": 8,
         "Hippopotas": 4,
         "Chikorita": 5,
@@ -956,7 +956,7 @@
         "Pawniard": 2,
         "Rabsca": 3,
         "Cofagrigus": 1,
-        "Hattrem": 2,
+        "Hattrem": 3,
         "Sneasel": 2,
         "Piplup": 4,
         "Electrike": 3,
@@ -1242,12 +1242,12 @@
         "Conkeldurr": 1,
         "Poochyena": 1
       },
-      "total_spawns": 2091,
-      "last_spawn": "2026-07-05T21:36:14.324882"
+      "total_spawns": 2094,
+      "last_spawn": "2026-07-05T21:36:44.493740"
     }
   },
   "global": {
-    "total_spawns": 66518,
+    "total_spawns": 66524,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
