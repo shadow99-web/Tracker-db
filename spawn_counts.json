@@ -392,7 +392,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 3,
+        "Tandemaus": 4,
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
@@ -565,7 +565,7 @@
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
-        "Rellor": 2,
+        "Rellor": 3,
         "Hippopotas": 1,
         "Chikorita": 1,
         "Litwick": 2,
@@ -661,14 +661,15 @@
         "Tarountula": 1,
         "Omastar": 1,
         "Surskit": 1,
-        "Wooper": 1
+        "Wooper": 1,
+        "Tatsugiri": 1
       },
-      "total_spawns": 430,
-      "last_spawn": "2026-07-05T15:53:54.496549"
+      "total_spawns": 433,
+      "last_spawn": "2026-07-05T15:54:24.601464"
     }
   },
   "global": {
-    "total_spawns": 63612,
+    "total_spawns": 63615,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
