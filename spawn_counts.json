@@ -44,7 +44,7 @@
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 3,
-        "Tadbulb": 3,
+        "Tadbulb": 4,
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
@@ -68,7 +68,7 @@
         "Feebas": 1,
         "Prof tangrowth": 3,
         "Vulpix": 1,
-        "Gastly": 8,
+        "Gastly": 10,
         "Aron": 4,
         "Honedge": 16,
         "Houndour": 1,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 1,
-        "Tinkatink": 5,
+        "Tinkatink": 6,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 2,
@@ -308,7 +308,7 @@
         "Archen": 3,
         "Blue plumage squawkabilly": 1,
         "Metang": 1,
-        "Larvitar": 4,
+        "Larvitar": 5,
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
@@ -511,8 +511,8 @@
         "Melmetal": 1,
         "Liepard": 1
       },
-      "total_spawns": 1137,
-      "last_spawn": "2026-07-05T20:24:18.265295"
+      "total_spawns": 1142,
+      "last_spawn": "2026-07-05T20:24:58.285120"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -604,7 +604,7 @@
         "Nacli": 17,
         "Feebas": 2,
         "Weedle": 9,
-        "Ralts": 8,
+        "Ralts": 9,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 7,
@@ -665,7 +665,7 @@
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 6,
-        "Sizzlipede": 4,
+        "Sizzlipede": 5,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 8,
@@ -676,7 +676,7 @@
         "Scatterbug": 8,
         "Taillow": 2,
         "Wimpod": 6,
-        "Rookidee": 8,
+        "Rookidee": 9,
         "Shellos": 1,
         "Roaming gimmighoul": 3,
         "Grotle": 2,
@@ -710,7 +710,7 @@
         "Tangela": 4,
         "Espurr": 3,
         "Doduo": 2,
-        "Kadabra": 3,
+        "Kadabra": 4,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
         "Capsakid": 8,
@@ -744,7 +744,7 @@
         "Chespin": 6,
         "Armarouge": 2,
         "Battle cyclizar": 2,
-        "Bagon": 3,
+        "Bagon": 4,
         "Vanilluxe": 2,
         "Woobat": 3,
         "Goomy": 7,
@@ -944,7 +944,7 @@
         "Smeargle": 1,
         "Ceruledge": 1,
         "Swampert": 1,
-        "Naclstack": 2,
+        "Naclstack": 3,
         "Golbat": 4,
         "Shuppet": 2,
         "East sea gastrodon": 2,
@@ -1070,12 +1070,12 @@
         "Tranquill": 1,
         "Mankey": 1
       },
-      "total_spawns": 1626,
-      "last_spawn": "2026-07-05T20:24:27.096742"
+      "total_spawns": 1632,
+      "last_spawn": "2026-07-05T20:24:57.094435"
     }
   },
   "global": {
-    "total_spawns": 65302,
+    "total_spawns": 65313,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
