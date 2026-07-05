@@ -35,7 +35,7 @@
         "Fletchling": 3,
         "Whirlipede": 2,
         "Duskull": 8,
-        "Abra": 8,
+        "Abra": 9,
         "Wiglett": 4,
         "Starly": 8,
         "Caterpie": 3,
@@ -220,7 +220,7 @@
         "Shuppet": 3,
         "Graveler": 1,
         "Duosion": 1,
-        "Orthworm": 3,
+        "Orthworm": 4,
         "Yamask": 1,
         "Nymble": 4,
         "Snorunt": 1,
@@ -358,7 +358,7 @@
         "Nosepass": 1,
         "Electrike": 1,
         "Hoppip": 4,
-        "Slowbro": 1,
+        "Slowbro": 2,
         "Gholdengo": 2,
         "Trubbish": 1,
         "Rockruff": 1,
@@ -409,7 +409,7 @@
         "Lopunny": 1,
         "Chimchar": 3,
         "Gligar": 1,
-        "Quaxly": 2,
+        "Quaxly": 3,
         "Spiky-eared pichu": 1,
         "Cradily": 2,
         "Burmy": 1,
@@ -483,10 +483,13 @@
         "Spectrier": 1,
         "Rufflet": 1,
         "Lairon": 1,
-        "Altaria": 1
+        "Altaria": 1,
+        "Attack deoxys": 2,
+        "Mudkip": 2,
+        "Galarian zapdos": 1
       },
-      "total_spawns": 1033,
-      "last_spawn": "2026-07-05T20:12:33.496637"
+      "total_spawns": 1042,
+      "last_spawn": "2026-07-05T20:13:08.507369"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -546,7 +549,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 6,
+        "Gastly": 7,
         "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
@@ -601,14 +604,14 @@
         "Impidimp": 12,
         "Elgyem": 2,
         "Gastrodon": 1,
-        "Shroodle": 6,
+        "Shroodle": 7,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
         "Bombirdier": 6,
         "Wooloo": 4,
         "Togekiss": 1,
-        "Rolycoly": 7,
+        "Rolycoly": 8,
         "Duskull": 5,
         "Marill": 5,
         "Axew": 4,
@@ -786,7 +789,7 @@
         "Veluza": 5,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 4,
+        "Poliwag": 5,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 3,
@@ -1021,14 +1024,16 @@
         "Finneon": 1,
         "Debutante trim furfrou": 1,
         "Fraxure": 1,
-        "Tentacool": 1
+        "Tentacool": 1,
+        "Relicanth": 1,
+        "Patrat": 1
       },
-      "total_spawns": 1488,
-      "last_spawn": "2026-07-05T20:12:37.374786"
+      "total_spawns": 1494,
+      "last_spawn": "2026-07-05T20:13:07.125459"
     }
   },
   "global": {
-    "total_spawns": 65060,
+    "total_spawns": 65075,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
