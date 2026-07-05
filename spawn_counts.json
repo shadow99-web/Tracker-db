@@ -408,7 +408,7 @@
         "Abra": 6,
         "Oddish": 7,
         "Dedenne": 1,
-        "Gothita": 3,
+        "Gothita": 4,
         "Finizen": 5,
         "Machop": 6,
         "Psyduck": 3,
@@ -479,7 +479,7 @@
         "Wattrel": 4,
         "Nacli": 8,
         "Feebas": 1,
-        "Weedle": 5,
+        "Weedle": 7,
         "Ralts": 5,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -623,7 +623,7 @@
         "Bagon": 1,
         "Vanilluxe": 1,
         "Woobat": 2,
-        "Goomy": 3,
+        "Goomy": 4,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 3,
@@ -785,12 +785,12 @@
         "Corvisquire": 1,
         "Lokix": 1
       },
-      "total_spawns": 831,
-      "last_spawn": "2026-07-05T17:02:22.432632"
+      "total_spawns": 835,
+      "last_spawn": "2026-07-05T17:02:54.599169"
     }
   },
   "global": {
-    "total_spawns": 64015,
+    "total_spawns": 64019,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
