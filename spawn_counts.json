@@ -797,7 +797,7 @@
         "Rolycoly": 13,
         "Duskull": 12,
         "Marill": 6,
-        "Axew": 7,
+        "Axew": 8,
         "Tinkatink": 10,
         "Starly": 15,
         "Popplio": 2,
@@ -1209,7 +1209,7 @@
         "Fraxure": 1,
         "Tentacool": 3,
         "Relicanth": 1,
-        "Patrat": 2,
+        "Patrat": 3,
         "Cottonee": 3,
         "Butterfree": 1,
         "Quaxly": 4,
@@ -1344,14 +1344,16 @@
         "Audino": 1,
         "Larvesta": 1,
         "Sudowoodo": 1,
-        "Meowstic": 1
+        "Meowstic": 1,
+        "Torterra": 1,
+        "Charizard": 1
       },
-      "total_spawns": 2561,
-      "last_spawn": "2026-07-05T22:55:44.594545"
+      "total_spawns": 2565,
+      "last_spawn": "2026-07-05T22:56:24.605229"
     }
   },
   "global": {
-    "total_spawns": 67451,
+    "total_spawns": 67455,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
