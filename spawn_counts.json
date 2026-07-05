@@ -116,7 +116,7 @@
         "Swinub": 13,
         "Rattata": 4,
         "Stonjourner": 1,
-        "Veluza": 14,
+        "Veluza": 15,
         "Panpour": 6,
         "Crabrawler": 3,
         "Frogadier": 3,
@@ -670,8 +670,8 @@
         "Slaking": 1,
         "Obstagoon": 2
       },
-      "total_spawns": 2320,
-      "last_spawn": "2026-07-05T22:38:13.689781"
+      "total_spawns": 2321,
+      "last_spawn": "2026-07-05T22:40:03.435117"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -716,7 +716,7 @@
         "Gimmighoul": 9,
         "Cetoddle": 14,
         "Fidough": 14,
-        "Smearguru": 7,
+        "Smearguru": 8,
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 3,
@@ -729,7 +729,7 @@
         "Voltorb": 6,
         "Geodude": 18,
         "Treecko": 4,
-        "Grimer": 2,
+        "Grimer": 3,
         "Grafaiai": 3,
         "Gastly": 20,
         "Orthworm": 12,
@@ -813,7 +813,7 @@
         "Litleo": 3,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 10,
+        "Dondozo": 11,
         "Lairon": 4,
         "Zubat": 16,
         "Croagunk": 4,
@@ -1334,12 +1334,12 @@
         "Lapras": 1,
         "Chesnaught": 1
       },
-      "total_spawns": 2467,
-      "last_spawn": "2026-07-05T22:39:44.476395"
+      "total_spawns": 2470,
+      "last_spawn": "2026-07-05T22:40:14.494552"
     }
   },
   "global": {
-    "total_spawns": 67326,
+    "total_spawns": 67330,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
