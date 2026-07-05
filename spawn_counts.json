@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 13,
+        "Shinx": 15,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 5,
@@ -92,7 +92,7 @@
         "Charmeleon": 3,
         "Riolu": 2,
         "Gible": 4,
-        "Greavard": 6,
+        "Greavard": 8,
         "Snover": 3,
         "Piplup": 1,
         "Dondozo": 2,
@@ -124,7 +124,7 @@
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
         "Rookidee": 7,
-        "Flapple": 2,
+        "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 2,
         "Varoom": 2,
@@ -257,9 +257,9 @@
         "Machamp": 1,
         "Primarina": 1,
         "Skeledirge": 1,
-        "Taillow": 2,
+        "Taillow": 3,
         "Watchog": 1,
-        "Porygon": 5,
+        "Porygon": 6,
         "Wooloo": 1,
         "Mawile": 3,
         "Marill": 1,
@@ -360,7 +360,7 @@
         "Hoppip": 5,
         "Slowbro": 2,
         "Gholdengo": 2,
-        "Trubbish": 1,
+        "Trubbish": 2,
         "Rockruff": 1,
         "Snowy castform": 1,
         "Dusclops": 2,
@@ -524,8 +524,8 @@
         "Aromatisse": 1,
         "Cosmoem": 1
       },
-      "total_spawns": 1215,
-      "last_spawn": "2026-07-05T20:32:58.438124"
+      "total_spawns": 1224,
+      "last_spawn": "2026-07-05T20:33:28.936754"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -545,7 +545,7 @@
         "Abra": 11,
         "Oddish": 10,
         "Dedenne": 2,
-        "Gothita": 7,
+        "Gothita": 8,
         "Finizen": 9,
         "Machop": 10,
         "Psyduck": 4,
@@ -755,7 +755,7 @@
         "Grubbin": 9,
         "Dustox": 1,
         "Chespin": 6,
-        "Armarouge": 2,
+        "Armarouge": 3,
         "Battle cyclizar": 2,
         "Bagon": 4,
         "Vanilluxe": 2,
@@ -1090,14 +1090,15 @@
         "Cradily": 1,
         "Baxcalibur": 1,
         "Midnight lycanroc": 1,
-        "Floette": 1
+        "Floette": 1,
+        "Phantump": 1
       },
-      "total_spawns": 1721,
-      "last_spawn": "2026-07-05T20:32:54.510028"
+      "total_spawns": 1724,
+      "last_spawn": "2026-07-05T20:33:24.325683"
     }
   },
   "global": {
-    "total_spawns": 65475,
+    "total_spawns": 65487,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
