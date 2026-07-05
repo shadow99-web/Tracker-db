@@ -431,8 +431,8 @@
         "Timburr": 3,
         "Pidgey": 4,
         "Gimmighoul": 6,
-        "Cetoddle": 6,
-        "Fidough": 5,
+        "Cetoddle": 7,
+        "Fidough": 6,
         "Smearguru": 2,
         "Nuzleaf": 2,
         "Clauncher": 2,
@@ -451,7 +451,7 @@
         "Gastly": 5,
         "Orthworm": 5,
         "Glimmet": 6,
-        "Beldum": 1,
+        "Beldum": 2,
         "Combee": 2,
         "Corphish": 2,
         "Litten": 3,
@@ -693,7 +693,7 @@
         "Pikachu": 2,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 4,
+        "Frigibax": 5,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -820,12 +820,12 @@
         "Smeargle": 1,
         "Ceruledge": 1
       },
-      "total_spawns": 979,
-      "last_spawn": "2026-07-05T17:27:04.507824"
+      "total_spawns": 983,
+      "last_spawn": "2026-07-05T17:27:44.412835"
     }
   },
   "global": {
-    "total_spawns": 64164,
+    "total_spawns": 64168,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
