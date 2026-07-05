@@ -468,7 +468,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 3,
-        "Trapinch": 4,
+        "Trapinch": 5,
         "Hatenna": 3,
         "Drifloon": 2,
         "Togepi": 3,
@@ -652,7 +652,7 @@
         "Scovillain": 2,
         "Sliggoo": 1,
         "Silcoon": 1,
-        "Tadbulb": 2,
+        "Tadbulb": 3,
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
@@ -663,7 +663,7 @@
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 3,
-        "Tatsugiri": 1,
+        "Tatsugiri": 2,
         "Oranguru": 1,
         "Kricketot": 1,
         "Golurk": 2,
@@ -733,12 +733,12 @@
         "Pom-pom oricorio": 1,
         "Toxapex": 1
       },
-      "total_spawns": 620,
-      "last_spawn": "2026-07-05T16:26:14.416045"
+      "total_spawns": 623,
+      "last_spawn": "2026-07-05T16:26:54.458892"
     }
   },
   "global": {
-    "total_spawns": 63804,
+    "total_spawns": 63807,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
