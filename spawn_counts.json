@@ -1425,7 +1425,7 @@
         "Dracovish": 1,
         "Slowpoke": 1,
         "Drizzile": 1,
-        "Tinkatink": 3,
+        "Tinkatink": 4,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 1,
@@ -1474,14 +1474,16 @@
         "Toedscool": 1,
         "Paras": 1,
         "Fletchinder": 1,
-        "Staravia": 1
+        "Staravia": 1,
+        "Wishiwashi": 1,
+        "Skitty": 1
       },
-      "total_spawns": 477,
-      "last_spawn": "2026-07-05T04:11:13.763017"
+      "total_spawns": 480,
+      "last_spawn": "2026-07-05T04:11:53.675591"
     }
   },
   "global": {
-    "total_spawns": 63016,
+    "total_spawns": 63019,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
