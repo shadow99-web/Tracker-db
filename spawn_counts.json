@@ -1240,7 +1240,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 3,
+        "Shinx": 4,
         "Drakloak": 2,
         "Victini": 1,
         "Pawmi": 1,
@@ -1257,7 +1257,7 @@
         "Dodrio": 1,
         "Metagross": 2,
         "Corphish": 1,
-        "Doduo": 1,
+        "Doduo": 2,
         "Flittle": 2,
         "Armarouge": 1,
         "Clauncher": 1,
@@ -1433,12 +1433,12 @@
         "Ledyba": 1,
         "Chinchou": 1
       },
-      "total_spawns": 382,
-      "last_spawn": "2026-07-05T03:51:23.314369"
+      "total_spawns": 384,
+      "last_spawn": "2026-07-05T03:52:03.362446"
     }
   },
   "global": {
-    "total_spawns": 62921,
+    "total_spawns": 62923,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
