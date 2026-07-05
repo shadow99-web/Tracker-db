@@ -1294,7 +1294,7 @@
         "Eelektrik": 1,
         "Diglett": 1,
         "Surskit": 1,
-        "Seedot": 2,
+        "Seedot": 3,
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
@@ -1449,14 +1449,16 @@
         "Ekans": 1,
         "Brambleghast": 1,
         "Dartrix": 1,
-        "Ceruledge": 1
+        "Ceruledge": 1,
+        "Vanillish": 1,
+        "Gimmighoul": 1
       },
-      "total_spawns": 416,
-      "last_spawn": "2026-07-05T04:00:33.618627"
+      "total_spawns": 419,
+      "last_spawn": "2026-07-05T04:01:03.637663"
     }
   },
   "global": {
-    "total_spawns": 62955,
+    "total_spawns": 62958,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
