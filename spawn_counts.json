@@ -43,7 +43,7 @@
         "Capsakid": 8,
         "Numel": 3,
         "Pawmo": 2,
-        "Wattrel": 3,
+        "Wattrel": 4,
         "Tadbulb": 7,
         "Yanmega": 1,
         "Tympole": 7,
@@ -184,11 +184,11 @@
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 6,
+        "Charcadet": 8,
         "Mudsdale": 2,
         "Meowth": 4,
         "Charmander": 5,
-        "Wimpod": 3,
+        "Wimpod": 5,
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 12,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 1,
-        "Zubat": 7,
+        "Zubat": 8,
         "Drowzee": 3,
         "Lechonk": 4,
         "Woobat": 2,
@@ -292,7 +292,7 @@
         "Gothorita": 3,
         "Ekans": 1,
         "Brambleghast": 1,
-        "Dartrix": 1,
+        "Dartrix": 2,
         "Ceruledge": 1,
         "Vanillish": 2,
         "Gimmighoul": 5,
@@ -573,10 +573,13 @@
         "Baltoy": 1,
         "Karrablast": 1,
         "Volbeat": 1,
-        "Murkrow": 2
+        "Murkrow": 2,
+        "Venusaur": 2,
+        "Quaquaval": 1,
+        "Boldore": 1
       },
-      "total_spawns": 1496,
-      "last_spawn": "2026-07-05T21:05:38.372625"
+      "total_spawns": 1507,
+      "last_spawn": "2026-07-05T21:06:13.599138"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -688,7 +691,7 @@
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 10,
-        "Impidimp": 14,
+        "Impidimp": 15,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 8,
@@ -744,7 +747,7 @@
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 2,
-        "Squawkabilly": 2,
+        "Squawkabilly": 3,
         "Wartortle": 2,
         "Rowlet": 3,
         "Gholdengo": 3,
@@ -828,7 +831,7 @@
         "Forretress": 1,
         "Squirtle": 3,
         "Wingull": 1,
-        "Buneary": 4,
+        "Buneary": 5,
         "Skiddo": 3,
         "Zigzagoon": 1,
         "Dj rotom": 5,
@@ -1171,12 +1174,12 @@
         "Venusaur": 1,
         "Spearow": 1
       },
-      "total_spawns": 1913,
-      "last_spawn": "2026-07-05T21:05:34.505915"
+      "total_spawns": 1916,
+      "last_spawn": "2026-07-05T21:06:05.321312"
     }
   },
   "global": {
-    "total_spawns": 65948,
+    "total_spawns": 65962,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
