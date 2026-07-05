@@ -496,7 +496,7 @@
         "Blipbug": 4,
         "Swoobat": 1,
         "Greavard": 5,
-        "Mosslax": 4,
+        "Mosslax": 5,
         "Braixen": 1,
         "Skwovet": 1,
         "Magnemite": 3,
@@ -727,20 +727,22 @@
         "Kabuto": 1,
         "Chewtle": 1,
         "Drakloak": 1,
-        "Pawmo": 1,
+        "Pawmo": 2,
         "Charjabug": 1,
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
         "Frogadier": 1,
-        "Golett": 1
+        "Golett": 1,
+        "Mismagius": 1,
+        "Mudbray": 1
       },
-      "total_spawns": 632,
-      "last_spawn": "2026-07-05T16:28:34.933511"
+      "total_spawns": 636,
+      "last_spawn": "2026-07-05T16:29:14.348501"
     }
   },
   "global": {
-    "total_spawns": 63816,
+    "total_spawns": 63820,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
