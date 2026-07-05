@@ -421,7 +421,7 @@
         "Dachsbun": 2,
         "Swirlix": 3,
         "Glimmora": 3,
-        "Meditite": 1,
+        "Meditite": 2,
         "Pansage": 1,
         "Whismur": 11,
         "Jangmo-o": 5,
@@ -518,7 +518,7 @@
         "Starly": 7,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 9,
+        "Bounsweet": 10,
         "Flamigo": 5,
         "Stunky": 1,
         "Spinarak": 1,
@@ -632,7 +632,7 @@
         "Crocalor": 1,
         "Cranidos": 1,
         "Cherrim": 1,
-        "Raboot": 3,
+        "Raboot": 4,
         "Summer deerling": 3,
         "Skrelp": 3,
         "Spewpa": 2,
@@ -816,14 +816,15 @@
         "Corsola": 1,
         "Gothitelle": 1,
         "Makuhita": 1,
-        "Barboach": 1
+        "Barboach": 1,
+        "Smeargle": 1
       },
-      "total_spawns": 964,
-      "last_spawn": "2026-07-05T17:24:34.719706"
+      "total_spawns": 968,
+      "last_spawn": "2026-07-05T17:25:14.697809"
     }
   },
   "global": {
-    "total_spawns": 64149,
+    "total_spawns": 64153,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
