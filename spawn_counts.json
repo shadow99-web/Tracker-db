@@ -448,7 +448,7 @@
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
-        "Gastly": 1,
+        "Gastly": 2,
         "Orthworm": 3,
         "Glimmet": 3,
         "Beldum": 1,
@@ -516,7 +516,7 @@
         "Axew": 2,
         "Tinkatink": 3,
         "Starly": 3,
-        "Popplio": 1,
+        "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 6,
         "Flamigo": 3,
@@ -720,14 +720,15 @@
         "Pawniard": 1,
         "Rabsca": 1,
         "Cofagrigus": 1,
-        "Hattrem": 1
+        "Hattrem": 1,
+        "Sneasel": 1
       },
-      "total_spawns": 576,
-      "last_spawn": "2026-07-05T16:18:44.407418"
+      "total_spawns": 579,
+      "last_spawn": "2026-07-05T16:19:14.499539"
     }
   },
   "global": {
-    "total_spawns": 63760,
+    "total_spawns": 63763,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
