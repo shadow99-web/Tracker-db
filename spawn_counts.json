@@ -68,7 +68,7 @@
         "Feebas": 3,
         "Prof tangrowth": 15,
         "Vulpix": 9,
-        "Gastly": 16,
+        "Gastly": 18,
         "Aron": 8,
         "Honedge": 19,
         "Houndour": 1,
@@ -157,7 +157,7 @@
         "Pikipek": 14,
         "Spritzee": 1,
         "Stantler": 5,
-        "Impidimp": 16,
+        "Impidimp": 17,
         "Swadloon": 4,
         "Sunny castform": 4,
         "Vullaby": 3,
@@ -669,10 +669,11 @@
         "Milotic": 1,
         "Slaking": 1,
         "Obstagoon": 2,
-        "Greninja": 1
+        "Greninja": 1,
+        "Wash rotom": 1
       },
-      "total_spawns": 2372,
-      "last_spawn": "2026-07-05T23:07:33.593996"
+      "total_spawns": 2376,
+      "last_spawn": "2026-07-05T23:09:03.493987"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -759,7 +760,7 @@
         "Snivy": 4,
         "Bellsprout": 11,
         "Scorbunny": 2,
-        "Roggenrola": 16,
+        "Roggenrola": 17,
         "Wattrel": 17,
         "Nacli": 22,
         "Feebas": 2,
@@ -784,7 +785,7 @@
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 10,
-        "Impidimp": 19,
+        "Impidimp": 20,
         "Elgyem": 3,
         "Gastrodon": 1,
         "Shroodle": 12,
@@ -1086,7 +1087,7 @@
         "Pumpkaboo": 3,
         "Banette": 2,
         "Tympole": 10,
-        "Bunnelby": 4,
+        "Bunnelby": 5,
         "Vanillish": 2,
         "Arrokuda": 2,
         "Snom": 2,
@@ -1353,12 +1354,12 @@
         "Lilligant": 1,
         "Mienfoo": 1
       },
-      "total_spawns": 2637,
-      "last_spawn": "2026-07-05T23:08:24.694950"
+      "total_spawns": 2640,
+      "last_spawn": "2026-07-05T23:08:54.413804"
     }
   },
   "global": {
-    "total_spawns": 67548,
+    "total_spawns": 67555,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
