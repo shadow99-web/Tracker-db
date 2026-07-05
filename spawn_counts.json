@@ -493,7 +493,7 @@
         "Dreepy": 5,
         "Foongus": 2,
         "Hoppip": 3,
-        "Blipbug": 6,
+        "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
         "Mosslax": 6,
@@ -547,7 +547,7 @@
         "Tynamo": 3,
         "Quaquaval": 3,
         "Rapidash": 1,
-        "Maschiff": 3,
+        "Maschiff": 4,
         "Sensu oricorio": 2,
         "Scatterbug": 4,
         "Taillow": 2,
@@ -778,14 +778,15 @@
         "Helioptile": 1,
         "Furfrou": 1,
         "Thwackey": 1,
-        "Gabite": 1
+        "Gabite": 1,
+        "Toxel": 1
       },
-      "total_spawns": 815,
-      "last_spawn": "2026-07-05T16:59:34.401566"
+      "total_spawns": 818,
+      "last_spawn": "2026-07-05T17:00:04.701664"
     }
   },
   "global": {
-    "total_spawns": 63999,
+    "total_spawns": 64002,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
