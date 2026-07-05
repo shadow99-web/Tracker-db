@@ -485,7 +485,7 @@
         "Eldegoss": 1,
         "Aron": 6,
         "Horsea": 11,
-        "Teddiursa": 5,
+        "Teddiursa": 6,
         "Dratini": 2,
         "Sewaddle": 6,
         "Mantyke": 1,
@@ -552,7 +552,7 @@
         "Scatterbug": 6,
         "Taillow": 2,
         "Wimpod": 5,
-        "Rookidee": 6,
+        "Rookidee": 7,
         "Shellos": 1,
         "Roaming gimmighoul": 2,
         "Grotle": 2,
@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 2,
-        "Tarountula": 7,
+        "Tarountula": 8,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 4,
@@ -710,7 +710,7 @@
         "Misdreavus": 1,
         "Growlithe": 4,
         "Arctozolt": 2,
-        "Spheal": 3,
+        "Spheal": 4,
         "Chinchou": 2,
         "Magmar": 2,
         "Chef dente": 2,
@@ -783,7 +783,7 @@
         "Boldore": 1,
         "Prof tangrowth": 1,
         "Corvisquire": 1,
-        "Lokix": 1,
+        "Lokix": 2,
         "Charmeleon": 2,
         "Spidops": 1,
         "Dwebble": 2,
@@ -840,14 +840,15 @@
         "Nidorina": 1,
         "Meowth": 1,
         "Shelmet": 1,
-        "Electabuzz": 1
+        "Electabuzz": 1,
+        "Galarian zen darmanitan": 1
       },
-      "total_spawns": 1093,
-      "last_spawn": "2026-07-05T17:38:57.098481"
+      "total_spawns": 1099,
+      "last_spawn": "2026-07-05T17:39:27.597831"
     }
   },
   "global": {
-    "total_spawns": 64281,
+    "total_spawns": 64287,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
