@@ -23,7 +23,7 @@
         "Anorith": 2,
         "Arctibax": 1,
         "Ralts": 4,
-        "Peakychu": 9,
+        "Peakychu": 11,
         "Cutiefly": 3,
         "Simipour": 1,
         "Tynamo": 1,
@@ -37,7 +37,7 @@
         "Duskull": 6,
         "Abra": 5,
         "Wiglett": 4,
-        "Starly": 6,
+        "Starly": 7,
         "Caterpie": 3,
         "Mareep": 3,
         "Capsakid": 4,
@@ -68,7 +68,7 @@
         "Feebas": 1,
         "Prof tangrowth": 3,
         "Vulpix": 1,
-        "Gastly": 6,
+        "Gastly": 8,
         "Aron": 2,
         "Honedge": 12,
         "Houndour": 1,
@@ -272,7 +272,7 @@
         "Tinkatink": 5,
         "Frillish": 1,
         "Plusle": 1,
-        "Decidueye": 1,
+        "Decidueye": 2,
         "Kricketot": 3,
         "Ledyba": 1,
         "Chinchou": 1,
@@ -409,7 +409,7 @@
         "Lopunny": 1,
         "Chimchar": 1,
         "Gligar": 1,
-        "Quaxly": 1,
+        "Quaxly": 2,
         "Spiky-eared pichu": 1,
         "Cradily": 2,
         "Burmy": 1,
@@ -420,10 +420,11 @@
         "Mothim": 2,
         "Crabominable": 2,
         "Krabby": 1,
-        "Mimikyu": 2
+        "Mimikyu": 2,
+        "Hoothoot": 1
       },
-      "total_spawns": 793,
-      "last_spawn": "2026-07-05T19:46:55.664601"
+      "total_spawns": 801,
+      "last_spawn": "2026-07-05T19:47:29.568346"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -923,7 +924,7 @@
     }
   },
   "global": {
-    "total_spawns": 64624,
+    "total_spawns": 64632,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
