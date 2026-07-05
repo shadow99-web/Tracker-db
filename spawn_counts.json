@@ -181,7 +181,7 @@
         "Beldum": 11,
         "Kadabra": 4,
         "Grovyle": 3,
-        "Dratini": 4,
+        "Dratini": 6,
         "Steelix": 1,
         "Sprigatito": 1,
         "Charcadet": 16,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 3,
         "Luvdisc": 1,
-        "Fennekin": 2,
+        "Fennekin": 3,
         "Milcery": 5,
         "Trumbeak": 1,
         "Bonsly": 1,
@@ -263,7 +263,7 @@
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
-        "Lickitung": 2,
+        "Lickitung": 3,
         "Chewtle": 4,
         "Onix": 2,
         "Dracovish": 2,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 2,
-        "Frigibax": 12,
+        "Frigibax": 13,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 2,
@@ -640,8 +640,8 @@
         "Chingling": 2,
         "Tangela": 1
       },
-      "total_spawns": 2064,
-      "last_spawn": "2026-07-05T21:52:38.306888"
+      "total_spawns": 2069,
+      "last_spawn": "2026-07-05T21:53:13.851641"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -701,7 +701,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 16,
+        "Gastly": 17,
         "Orthworm": 11,
         "Glimmet": 8,
         "Beldum": 2,
@@ -879,7 +879,7 @@
         "Goomy": 8,
         "Orbeetle": 1,
         "Shellder": 4,
-        "Pawmi": 7,
+        "Pawmi": 8,
         "Spoink": 7,
         "Lileep": 4,
         "Crocalor": 2,
@@ -1267,14 +1267,15 @@
         "Machamp": 1,
         "Absol": 1,
         "Floragato": 1,
-        "Blue plumage squawkabilly": 1
+        "Blue plumage squawkabilly": 1,
+        "Petilil": 1
       },
-      "total_spawns": 2187,
-      "last_spawn": "2026-07-05T21:52:34.596793"
+      "total_spawns": 2190,
+      "last_spawn": "2026-07-05T21:53:04.669913"
     }
   },
   "global": {
-    "total_spawns": 66790,
+    "total_spawns": 66798,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
