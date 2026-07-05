@@ -188,7 +188,7 @@
         "Mudsdale": 2,
         "Meowth": 7,
         "Charmander": 5,
-        "Wimpod": 7,
+        "Wimpod": 9,
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 16,
@@ -669,8 +669,8 @@
         "Milotic": 1,
         "Slaking": 1
       },
-      "total_spawns": 2315,
-      "last_spawn": "2026-07-05T22:36:33.744488"
+      "total_spawns": 2317,
+      "last_spawn": "2026-07-05T22:37:13.946879"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -796,7 +796,7 @@
         "Duskull": 9,
         "Marill": 5,
         "Axew": 7,
-        "Tinkatink": 8,
+        "Tinkatink": 9,
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
@@ -1073,7 +1073,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 2,
-        "Fletchling": 11,
+        "Fletchling": 12,
         "Haunter": 3,
         "Sandshrew": 4,
         "Fletchinder": 3,
@@ -1326,14 +1326,15 @@
         "Dragalge": 1,
         "Morpeko": 1,
         "Darumaka": 1,
-        "Bouffalant": 1
+        "Bouffalant": 1,
+        "Cacturne": 1
       },
-      "total_spawns": 2450,
-      "last_spawn": "2026-07-05T22:36:54.480844"
+      "total_spawns": 2453,
+      "last_spawn": "2026-07-05T22:37:25.693802"
     }
   },
   "global": {
-    "total_spawns": 67304,
+    "total_spawns": 67309,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
