@@ -13,7 +13,7 @@
         "Oddish": 3,
         "Totodile": 2,
         "Vanillite": 12,
-        "Weedle": 6,
+        "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 8,
         "Fidough": 5,
@@ -157,7 +157,7 @@
         "Pikipek": 8,
         "Spritzee": 1,
         "Stantler": 3,
-        "Impidimp": 10,
+        "Impidimp": 12,
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 2,
@@ -172,7 +172,7 @@
         "Mienshao": 1,
         "Blipbug": 6,
         "Rellor": 3,
-        "Rolycoly": 3,
+        "Rolycoly": 4,
         "Poliwhirl": 4,
         "Lokix": 2,
         "Flamigo": 5,
@@ -511,8 +511,8 @@
         "Melmetal": 1,
         "Liepard": 1
       },
-      "total_spawns": 1132,
-      "last_spawn": "2026-07-05T20:23:48.376846"
+      "total_spawns": 1137,
+      "last_spawn": "2026-07-05T20:24:18.265295"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -521,7 +521,7 @@
         "Caterpie": 3,
         "Flaaffy": 4,
         "Bronzor": 1,
-        "Gible": 6,
+        "Gible": 7,
         "Torracat": 1,
         "Dusclops": 3,
         "Rhyhorn": 3,
@@ -530,14 +530,14 @@
         "Nymble": 7,
         "Porygon": 10,
         "Abra": 10,
-        "Oddish": 8,
+        "Oddish": 9,
         "Dedenne": 2,
         "Gothita": 7,
         "Finizen": 9,
         "Machop": 8,
         "Psyduck": 4,
         "Monferno": 1,
-        "Pikipek": 5,
+        "Pikipek": 6,
         "Flittle": 6,
         "Lillipup": 6,
         "Eevee": 3,
@@ -809,7 +809,7 @@
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 7,
+        "Veluza": 8,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 5,
@@ -1010,7 +1010,7 @@
         "Arctibax": 1,
         "Shelgon": 1,
         "Dracozolt": 1,
-        "Stufful": 1,
+        "Stufful": 2,
         "Cinccino": 1,
         "Aggron": 1,
         "Silicobra": 2,
@@ -1067,14 +1067,15 @@
         "Sunflora": 1,
         "Wynaut": 1,
         "Wo-chien": 1,
-        "Tranquill": 1
+        "Tranquill": 1,
+        "Mankey": 1
       },
-      "total_spawns": 1620,
-      "last_spawn": "2026-07-05T20:23:56.073553"
+      "total_spawns": 1626,
+      "last_spawn": "2026-07-05T20:24:27.096742"
     }
   },
   "global": {
-    "total_spawns": 65291,
+    "total_spawns": 65302,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
