@@ -410,7 +410,7 @@
         "Dedenne": 1,
         "Gothita": 5,
         "Finizen": 7,
-        "Machop": 6,
+        "Machop": 7,
         "Psyduck": 4,
         "Monferno": 1,
         "Pikipek": 4,
@@ -432,7 +432,7 @@
         "Pidgey": 5,
         "Gimmighoul": 6,
         "Cetoddle": 10,
-        "Fidough": 7,
+        "Fidough": 9,
         "Smearguru": 4,
         "Nuzleaf": 2,
         "Clauncher": 2,
@@ -467,7 +467,7 @@
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
-        "Seedot": 7,
+        "Seedot": 8,
         "Trapinch": 8,
         "Hatenna": 6,
         "Drifloon": 2,
@@ -751,7 +751,7 @@
         "Venipede": 5,
         "Toedscruel": 1,
         "Dewpider": 1,
-        "Pansear": 3,
+        "Pansear": 4,
         "Togetic": 3,
         "Houndstone": 3,
         "Ponyta": 1,
@@ -795,7 +795,7 @@
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
-        "Sinistea": 1,
+        "Sinistea": 2,
         "Shinx": 1,
         "Totodile": 1,
         "Magikarp": 2,
@@ -880,12 +880,12 @@
         "Archen": 1,
         "Mabosstiff": 1
       },
-      "total_spawns": 1273,
-      "last_spawn": "2026-07-05T17:54:07.100612"
+      "total_spawns": 1279,
+      "last_spawn": "2026-07-05T17:54:37.265058"
     }
   },
   "global": {
-    "total_spawns": 64461,
+    "total_spawns": 64467,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
