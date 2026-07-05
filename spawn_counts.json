@@ -341,7 +341,7 @@
         "Ursaring": 1,
         "Bidoof": 1,
         "Gothita": 2,
-        "Solosis": 3,
+        "Solosis": 4,
         "Sandygast": 2,
         "Pidove": 1,
         "Chespin": 1,
@@ -349,7 +349,7 @@
         "Cyndaquil": 1,
         "Grotle": 2,
         "Tinkaton": 1,
-        "Bergmite": 1,
+        "Bergmite": 2,
         "Klang": 2,
         "Tepig": 1,
         "Spinda": 1,
@@ -497,7 +497,7 @@
         "Yellow flower florges": 1,
         "Drilbur": 1,
         "Leavanny": 1,
-        "Magikarp": 1,
+        "Magikarp": 2,
         "Gardevoir": 2,
         "Kubfu": 1,
         "Tyrogue": 1,
@@ -507,10 +507,11 @@
         "Breloom": 1,
         "Rillaboom": 2,
         "Hippopotas": 1,
-        "Reuniclus": 1
+        "Reuniclus": 1,
+        "Melmetal": 1
       },
-      "total_spawns": 1122,
-      "last_spawn": "2026-07-05T20:22:19.402001"
+      "total_spawns": 1126,
+      "last_spawn": "2026-07-05T20:22:48.333510"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -636,7 +637,7 @@
         "Duskull": 5,
         "Marill": 5,
         "Axew": 4,
-        "Tinkatink": 4,
+        "Tinkatink": 5,
         "Starly": 10,
         "Popplio": 2,
         "Watchog": 1,
@@ -671,10 +672,10 @@
         "Rapidash": 1,
         "Maschiff": 8,
         "Sensu oricorio": 2,
-        "Scatterbug": 7,
+        "Scatterbug": 8,
         "Taillow": 2,
         "Wimpod": 6,
-        "Rookidee": 7,
+        "Rookidee": 8,
         "Shellos": 1,
         "Roaming gimmighoul": 3,
         "Grotle": 2,
@@ -787,7 +788,7 @@
         "Wooper": 4,
         "Tatsugiri": 4,
         "Oranguru": 1,
-        "Kricketot": 2,
+        "Kricketot": 3,
         "Golurk": 4,
         "Carracosta": 1,
         "Fennekin": 3,
@@ -1059,15 +1060,17 @@
         "Brambleghast": 1,
         "Victreebel": 1,
         "Vibrava": 1,
-        "Yamper": 1,
-        "Eelektross": 1
+        "Yamper": 2,
+        "Eelektross": 1,
+        "Quagsire": 1,
+        "Sunflora": 1
       },
-      "total_spawns": 1601,
-      "last_spawn": "2026-07-05T20:22:19.196797"
+      "total_spawns": 1608,
+      "last_spawn": "2026-07-05T20:22:54.464628"
     }
   },
   "global": {
-    "total_spawns": 65262,
+    "total_spawns": 65273,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
