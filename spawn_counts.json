@@ -838,7 +838,7 @@
         "Sensu oricorio": 3,
         "Scatterbug": 17,
         "Taillow": 4,
-        "Wimpod": 6,
+        "Wimpod": 7,
         "Rookidee": 16,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
@@ -972,7 +972,7 @@
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 11,
+        "Veluza": 12,
         "Salandit": 6,
         "Yellow plumage squawkabilly": 2,
         "Poliwag": 9,
@@ -1178,7 +1178,7 @@
         "Aggron": 2,
         "Silicobra": 2,
         "Houndoom": 1,
-        "Shieldon": 3,
+        "Shieldon": 4,
         "Panpour": 3,
         "Yanma": 1,
         "Vileplume": 1,
@@ -1367,12 +1367,12 @@
         "Flareon": 1,
         "Volcarona": 1
       },
-      "total_spawns": 2744,
-      "last_spawn": "2026-07-05T23:26:24.412760"
+      "total_spawns": 2747,
+      "last_spawn": "2026-07-05T23:26:55.133464"
     }
   },
   "global": {
-    "total_spawns": 67701,
+    "total_spawns": 67704,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
