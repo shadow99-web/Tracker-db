@@ -1203,7 +1203,7 @@
         "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 4,
-        "Grubbin": 3,
+        "Grubbin": 4,
         "Scatterbug": 3,
         "Skwovet": 2,
         "Applin": 1,
@@ -1269,7 +1269,7 @@
         "Treecko": 2,
         "Shroodle": 2,
         "Ride cyclizar": 1,
-        "Swinub": 4,
+        "Swinub": 5,
         "Rattata": 1,
         "Stonjourner": 1,
         "Veluza": 2,
@@ -1447,14 +1447,16 @@
         "Noibat": 1,
         "Gothorita": 1,
         "Ekans": 1,
-        "Brambleghast": 1
+        "Brambleghast": 1,
+        "Dartrix": 1,
+        "Ceruledge": 1
       },
-      "total_spawns": 412,
-      "last_spawn": "2026-07-05T03:59:55.500986"
+      "total_spawns": 416,
+      "last_spawn": "2026-07-05T04:00:33.618627"
     }
   },
   "global": {
-    "total_spawns": 62951,
+    "total_spawns": 62955,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
