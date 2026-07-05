@@ -1302,7 +1302,7 @@
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 1,
-        "Fomantis": 1,
+        "Fomantis": 2,
         "Claydol": 1,
         "Trapinch": 2,
         "Butterfree": 1,
@@ -1452,7 +1452,7 @@
         "Ceruledge": 1,
         "Vanillish": 1,
         "Gimmighoul": 1,
-        "Glimmet": 2,
+        "Glimmet": 3,
         "Popplio": 2,
         "Arboliva": 1,
         "Luxio": 1,
@@ -1503,14 +1503,16 @@
         "Chespin": 1,
         "Combee": 1,
         "Cyndaquil": 1,
-        "Grotle": 1
+        "Grotle": 1,
+        "Tinkaton": 1,
+        "Bergmite": 1
       },
-      "total_spawns": 540,
-      "last_spawn": "2026-07-05T04:22:14.809683"
+      "total_spawns": 544,
+      "last_spawn": "2026-07-05T04:22:53.490472"
     }
   },
   "global": {
-    "total_spawns": 63079,
+    "total_spawns": 63083,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
