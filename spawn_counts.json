@@ -96,7 +96,7 @@
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 4,
-        "Cyclizar": 3,
+        "Cyclizar": 4,
         "Froslass": 1,
         "Dodrio": 1,
         "Metagross": 2,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 3,
-        "Teddiursa": 15,
+        "Teddiursa": 16,
         "Roggenrola": 11,
         "Litwick": 5,
         "Wooper": 2,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
-        "Klink": 6,
+        "Klink": 7,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 3,
@@ -443,7 +443,7 @@
         "Tyrunt": 2,
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
-        "Smearguru": 2,
+        "Smearguru": 4,
         "Magneton": 1,
         "Battle cyclizar": 1,
         "Minccino": 2,
@@ -607,10 +607,11 @@
         "Amoonguss": 1,
         "Herdier": 1,
         "Blissey": 2,
-        "Cinccino": 2
+        "Cinccino": 2,
+        "Alolan vulpix": 2
       },
-      "total_spawns": 1765,
-      "last_spawn": "2026-07-05T21:21:13.779808"
+      "total_spawns": 1772,
+      "last_spawn": "2026-07-05T21:22:03.639898"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -900,7 +901,7 @@
         "Espathra": 2,
         "Klang": 3,
         "Vespiquen": 4,
-        "Amaura": 2,
+        "Amaura": 3,
         "Remoraid": 1,
         "Diglett": 2,
         "Lotad": 7,
@@ -1032,7 +1033,7 @@
         "Turtwig": 2,
         "Snubbull": 2,
         "Gogoat": 1,
-        "Morelull": 1,
+        "Morelull": 2,
         "Dewott": 2,
         "Kingambit": 2,
         "Corsola": 1,
@@ -1219,12 +1220,12 @@
         "Numel": 1,
         "Noctowl": 1
       },
-      "total_spawns": 2004,
-      "last_spawn": "2026-07-05T21:21:27.121352"
+      "total_spawns": 2006,
+      "last_spawn": "2026-07-05T21:21:55.503027"
     }
   },
   "global": {
-    "total_spawns": 66308,
+    "total_spawns": 66317,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
