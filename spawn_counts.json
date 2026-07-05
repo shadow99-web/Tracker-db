@@ -559,7 +559,7 @@
         "Squawkabilly": 1,
         "Wartortle": 2,
         "Rowlet": 2,
-        "Gholdengo": 1,
+        "Gholdengo": 2,
         "Machoke": 1,
         "Glameow": 3,
         "Swinub": 8,
@@ -583,7 +583,7 @@
         "Pidove": 4,
         "Larvitar": 3,
         "Munna": 1,
-        "Tangela": 2,
+        "Tangela": 3,
         "Espurr": 2,
         "Doduo": 2,
         "Kadabra": 1,
@@ -752,7 +752,7 @@
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 2,
-        "Togetic": 2,
+        "Togetic": 3,
         "Houndstone": 2,
         "Ponyta": 1,
         "Drifblim": 1,
@@ -801,7 +801,7 @@
         "Magikarp": 2,
         "Pumpkaboo": 1,
         "Banette": 1,
-        "Tympole": 1,
+        "Tympole": 2,
         "Bunnelby": 1,
         "Vanillish": 1,
         "Arrokuda": 1,
@@ -837,12 +837,12 @@
         "Gulpin": 1,
         "Vullaby": 1
       },
-      "total_spawns": 1068,
-      "last_spawn": "2026-07-05T17:36:54.697911"
+      "total_spawns": 1072,
+      "last_spawn": "2026-07-05T17:37:25.204696"
     }
   },
   "global": {
-    "total_spawns": 64256,
+    "total_spawns": 64260,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
