@@ -1179,7 +1179,7 @@
         "Anorith": 2,
         "Arctibax": 1,
         "Ralts": 3,
-        "Peakychu": 1,
+        "Peakychu": 2,
         "Cutiefly": 1,
         "Simipour": 1,
         "Tynamo": 1,
@@ -1379,14 +1379,17 @@
         "Orthworm": 1,
         "Yamask": 1,
         "Nymble": 1,
-        "Snorunt": 1
+        "Snorunt": 1,
+        "Carvanha": 1,
+        "Toxel": 1,
+        "Buneary": 1
       },
-      "total_spawns": 294,
-      "last_spawn": "2026-07-05T03:35:48.275178"
+      "total_spawns": 298,
+      "last_spawn": "2026-07-05T03:36:28.599653"
     }
   },
   "global": {
-    "total_spawns": 62833,
+    "total_spawns": 62837,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
