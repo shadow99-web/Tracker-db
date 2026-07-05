@@ -30,7 +30,7 @@
         "Palossand": 1,
         "Pyukumuku": 1,
         "Pidgey": 8,
-        "Binacle": 2,
+        "Binacle": 3,
         "Bounsweet": 10,
         "Fletchling": 4,
         "Whirlipede": 3,
@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 4,
         "Surskit": 2,
-        "Seedot": 6,
+        "Seedot": 7,
         "Jigglypuff": 1,
         "Spearow": 2,
         "Servine": 2,
@@ -217,7 +217,7 @@
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 1,
-        "Shuppet": 5,
+        "Shuppet": 6,
         "Graveler": 1,
         "Duosion": 1,
         "Orthworm": 6,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 6,
+        "Whismur": 7,
         "Jangmo-o": 4,
         "Lunatone": 1,
         "Machoke": 2,
@@ -268,7 +268,7 @@
         "Onix": 2,
         "Dracovish": 2,
         "Slowpoke": 2,
-        "Drizzile": 3,
+        "Drizzile": 4,
         "Tinkatink": 8,
         "Frillish": 1,
         "Plusle": 1,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
-        "Klink": 5,
+        "Klink": 6,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 2,
@@ -587,10 +587,11 @@
         "Primeape": 2,
         "Goldeen": 1,
         "Gouging fire": 2,
-        "Cottonee": 1
+        "Cottonee": 1,
+        "Flareon": 2
       },
-      "total_spawns": 1576,
-      "last_spawn": "2026-07-05T21:09:53.693857"
+      "total_spawns": 1584,
+      "last_spawn": "2026-07-05T21:10:23.900668"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -642,7 +643,7 @@
         "Bramblin": 10,
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
-        "Binacle": 3,
+        "Binacle": 4,
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 6,
@@ -942,7 +943,7 @@
         "East sea shellos": 7,
         "Flygon": 1,
         "Cyclizar": 2,
-        "Murkrow": 1,
+        "Murkrow": 2,
         "Drednaw": 2,
         "Cyndaquil": 3,
         "Thievul": 1,
@@ -1189,12 +1190,12 @@
         "Seel": 1,
         "Kabutops": 1
       },
-      "total_spawns": 1938,
-      "last_spawn": "2026-07-05T21:09:54.377785"
+      "total_spawns": 1940,
+      "last_spawn": "2026-07-05T21:10:24.395650"
     }
   },
   "global": {
-    "total_spawns": 66053,
+    "total_spawns": 66063,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
