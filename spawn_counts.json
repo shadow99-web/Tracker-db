@@ -15,7 +15,7 @@
         "Vanillite": 12,
         "Weedle": 4,
         "Kabutops": 2,
-        "Poliwag": 6,
+        "Poliwag": 7,
         "Fidough": 2,
         "Charjabug": 2,
         "Hatterene": 1,
@@ -252,7 +252,7 @@
         "Tinkatuff": 1,
         "Drednaw": 1,
         "Corvisquire": 1,
-        "Croconaw": 2,
+        "Croconaw": 3,
         "Makuhita": 1,
         "Machamp": 1,
         "Primarina": 1,
@@ -366,7 +366,7 @@
         "Dusclops": 2,
         "Prinplup": 1,
         "Kommo-o": 1,
-        "Vigoroth": 1,
+        "Vigoroth": 2,
         "Gigalith": 1,
         "Kingambit": 1,
         "Cresselia": 2,
@@ -446,15 +446,15 @@
         "Smearguru": 2,
         "Magneton": 1
       },
-      "total_spawns": 892,
-      "last_spawn": "2026-07-05T19:57:33.597011"
+      "total_spawns": 895,
+      "last_spawn": "2026-07-05T19:58:03.800666"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 10,
         "Caterpie": 3,
-        "Flaaffy": 3,
+        "Flaaffy": 4,
         "Bronzor": 1,
         "Gible": 4,
         "Torracat": 1,
@@ -627,7 +627,7 @@
         "Aipom": 1,
         "Rellor": 4,
         "Hippopotas": 3,
-        "Chikorita": 4,
+        "Chikorita": 5,
         "Litwick": 7,
         "Metapod": 1,
         "Morgrem": 1,
@@ -648,7 +648,7 @@
         "Kadabra": 1,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
-        "Capsakid": 6,
+        "Capsakid": 7,
         "Tyrunt": 1,
         "Drilbur": 2,
         "Vaporeon": 2,
@@ -706,7 +706,7 @@
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 2,
-        "Bayleef": 2,
+        "Bayleef": 3,
         "Nosepass": 1,
         "Scovillain": 3,
         "Sliggoo": 2,
@@ -730,7 +730,7 @@
         "Fennekin": 3,
         "Fuecoco": 1,
         "Sandy wormadam": 1,
-        "Sprigatito": 1,
+        "Sprigatito": 2,
         "Bidoof": 2,
         "Frillish": 2,
         "Toedscool": 3,
@@ -855,7 +855,7 @@
         "Sandshrew": 1,
         "Fletchinder": 2,
         "Sinistea": 2,
-        "Shinx": 1,
+        "Shinx": 2,
         "Totodile": 1,
         "Magikarp": 2,
         "Pumpkaboo": 1,
@@ -946,14 +946,15 @@
         "Shelgon": 1,
         "Dracozolt": 1,
         "Stufful": 1,
-        "Cinccino": 1
+        "Cinccino": 1,
+        "Aggron": 1
       },
-      "total_spawns": 1313,
-      "last_spawn": "2026-07-05T19:57:35.100524"
+      "total_spawns": 1320,
+      "last_spawn": "2026-07-05T19:58:07.143668"
     }
   },
   "global": {
-    "total_spawns": 64744,
+    "total_spawns": 64754,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
