@@ -34,7 +34,7 @@
         "Bounsweet": 18,
         "Fletchling": 6,
         "Whirlipede": 4,
-        "Duskull": 19,
+        "Duskull": 20,
         "Abra": 16,
         "Wiglett": 8,
         "Starly": 19,
@@ -279,7 +279,7 @@
         "Eiscue": 1,
         "Nacli": 9,
         "Pancham": 3,
-        "Bulbasaur": 6,
+        "Bulbasaur": 7,
         "Dewpider": 4,
         "Yellow plumage squawkabilly": 2,
         "Hattrem": 3,
@@ -676,8 +676,8 @@
         "Wigglytuff": 1,
         "Pangoro": 1
       },
-      "total_spawns": 2445,
-      "last_spawn": "2026-07-05T23:39:33.418624"
+      "total_spawns": 2447,
+      "last_spawn": "2026-07-05T23:41:53.714816"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -750,7 +750,7 @@
         "Archaludon": 1,
         "Grapploct": 2,
         "Charcadet": 13,
-        "Sandile": 14,
+        "Sandile": 15,
         "Maushold": 6,
         "Rattata": 8,
         "Riolu": 3,
@@ -869,7 +869,7 @@
         "Clodsire": 5,
         "Sandaconda": 1,
         "Ninjask": 1,
-        "Pidove": 7,
+        "Pidove": 8,
         "Larvitar": 10,
         "Munna": 1,
         "Tangela": 5,
@@ -941,7 +941,7 @@
         "Scovillain": 6,
         "Sliggoo": 3,
         "Silcoon": 5,
-        "Tadbulb": 11,
+        "Tadbulb": 12,
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 4,
@@ -1376,12 +1376,12 @@
         "Dudunsparce": 1,
         "Dialga": 1
       },
-      "total_spawns": 2830,
-      "last_spawn": "2026-07-05T23:41:14.403711"
+      "total_spawns": 2833,
+      "last_spawn": "2026-07-05T23:41:44.372238"
     }
   },
   "global": {
-    "total_spawns": 67814,
+    "total_spawns": 67819,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
