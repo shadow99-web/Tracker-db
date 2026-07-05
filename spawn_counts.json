@@ -485,7 +485,7 @@
         "Eldegoss": 1,
         "Aron": 5,
         "Horsea": 7,
-        "Teddiursa": 2,
+        "Teddiursa": 3,
         "Dratini": 1,
         "Sewaddle": 5,
         "Mantyke": 1,
@@ -592,7 +592,7 @@
         "Capsakid": 6,
         "Tyrunt": 1,
         "Drilbur": 1,
-        "Vaporeon": 1,
+        "Vaporeon": 2,
         "Magneton": 3,
         "Pupitar": 1,
         "Durant": 1,
@@ -604,7 +604,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 1,
-        "Vanillite": 5,
+        "Vanillite": 6,
         "Omanyte": 4,
         "Scraggy": 2,
         "Komala": 1,
@@ -780,12 +780,12 @@
         "Thwackey": 1,
         "Gabite": 1
       },
-      "total_spawns": 812,
-      "last_spawn": "2026-07-05T16:59:04.397219"
+      "total_spawns": 815,
+      "last_spawn": "2026-07-05T16:59:34.401566"
     }
   },
   "global": {
-    "total_spawns": 63996,
+    "total_spawns": 63999,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
