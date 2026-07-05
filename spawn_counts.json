@@ -44,7 +44,7 @@
         "Numel": 5,
         "Pawmo": 2,
         "Wattrel": 7,
-        "Tadbulb": 7,
+        "Tadbulb": 8,
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
@@ -156,7 +156,7 @@
         "Wooper": 2,
         "Pikipek": 12,
         "Spritzee": 1,
-        "Stantler": 3,
+        "Stantler": 4,
         "Impidimp": 12,
         "Swadloon": 4,
         "Sunny castform": 4,
@@ -168,7 +168,7 @@
         "Tandemaus": 5,
         "Clefairy": 1,
         "Unown q": 1,
-        "Lotad": 3,
+        "Lotad": 4,
         "Mienshao": 1,
         "Blipbug": 12,
         "Rellor": 4,
@@ -329,7 +329,7 @@
         "Magnemite": 4,
         "Doublade": 1,
         "Sharpedo": 1,
-        "Raboot": 2,
+        "Raboot": 3,
         "Oinkologne": 3,
         "Floragato": 1,
         "Larvesta": 9,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 6,
+        "Sewaddle": 7,
         "Shelmet": 1,
         "Combusken": 2,
         "Croagunk": 3,
@@ -449,7 +449,7 @@
         "Minccino": 2,
         "Hippowdon": 2,
         "Gloom": 1,
-        "Mew": 2,
+        "Mew": 4,
         "Thwackey": 1,
         "Latios": 2,
         "Slurpuff": 1,
@@ -604,7 +604,7 @@
         "Conkeldurr": 1,
         "Sinistea": 1,
         "Golbat": 1,
-        "Amoonguss": 1,
+        "Amoonguss": 2,
         "Herdier": 1,
         "Blissey": 2,
         "Cinccino": 2,
@@ -630,8 +630,8 @@
         "Cufant": 1,
         "Mienfoo": 2
       },
-      "total_spawns": 1967,
-      "last_spawn": "2026-07-05T21:45:43.578989"
+      "total_spawns": 1975,
+      "last_spawn": "2026-07-05T21:46:13.551581"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -646,7 +646,7 @@
         "Rhyhorn": 5,
         "Mareep": 9,
         "Klink": 8,
-        "Nymble": 11,
+        "Nymble": 12,
         "Porygon": 13,
         "Abra": 14,
         "Oddish": 14,
@@ -808,7 +808,7 @@
         "Swinub": 14,
         "Marshtomp": 3,
         "Venonat": 4,
-        "Aipom": 3,
+        "Aipom": 4,
         "Rellor": 8,
         "Hippopotas": 4,
         "Chikorita": 5,
@@ -996,7 +996,7 @@
         "Dewpider": 5,
         "Pansear": 4,
         "Togetic": 4,
-        "Houndstone": 6,
+        "Houndstone": 7,
         "Ponyta": 1,
         "Drifblim": 1,
         "Arcanine": 2,
@@ -1252,14 +1252,15 @@
         "Typhlosion": 1,
         "Yellow flower florges": 1,
         "Delphox": 1,
-        "Dragonair": 1
+        "Dragonair": 1,
+        "Ivysaur": 1
       },
-      "total_spawns": 2146,
-      "last_spawn": "2026-07-05T21:45:34.395060"
+      "total_spawns": 2150,
+      "last_spawn": "2026-07-05T21:46:14.526916"
     }
   },
   "global": {
-    "total_spawns": 66652,
+    "total_spawns": 66664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
