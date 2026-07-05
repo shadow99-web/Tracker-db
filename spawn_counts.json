@@ -1214,7 +1214,7 @@
         "Hatenna": 2,
         "Shroomish": 1,
         "Lillipup": 1,
-        "Mosslax": 4,
+        "Mosslax": 5,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 1,
@@ -1392,14 +1392,17 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 1
+        "Whismur": 1,
+        "Jangmo-o": 1,
+        "Lunatone": 1,
+        "Machoke": 1
       },
-      "total_spawns": 312,
-      "last_spawn": "2026-07-05T03:38:48.424280"
+      "total_spawns": 316,
+      "last_spawn": "2026-07-05T03:39:28.416621"
     }
   },
   "global": {
-    "total_spawns": 62851,
+    "total_spawns": 62855,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
