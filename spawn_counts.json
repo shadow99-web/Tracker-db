@@ -157,7 +157,7 @@
         "Pikipek": 8,
         "Spritzee": 1,
         "Stantler": 2,
-        "Impidimp": 6,
+        "Impidimp": 8,
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 2,
@@ -329,7 +329,7 @@
         "Magnemite": 4,
         "Doublade": 1,
         "Sharpedo": 1,
-        "Raboot": 1,
+        "Raboot": 2,
         "Oinkologne": 1,
         "Floragato": 1,
         "Larvesta": 3,
@@ -502,10 +502,11 @@
         "Kubfu": 1,
         "Tyrogue": 1,
         "Nuzleaf": 1,
-        "Spinarak": 1
+        "Spinarak": 1,
+        "Goomy": 1
       },
-      "total_spawns": 1086,
-      "last_spawn": "2026-07-05T20:17:58.459852"
+      "total_spawns": 1090,
+      "last_spawn": "2026-07-05T20:18:28.242118"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -527,7 +528,7 @@
         "Dedenne": 2,
         "Gothita": 5,
         "Finizen": 9,
-        "Machop": 7,
+        "Machop": 8,
         "Psyduck": 4,
         "Monferno": 1,
         "Pikipek": 5,
@@ -592,7 +593,7 @@
         "Snivy": 2,
         "Bellsprout": 7,
         "Scorbunny": 2,
-        "Roggenrola": 9,
+        "Roggenrola": 10,
         "Wattrel": 11,
         "Nacli": 16,
         "Feebas": 2,
@@ -616,7 +617,7 @@
         "Mosslax": 8,
         "Braixen": 2,
         "Skwovet": 2,
-        "Magnemite": 9,
+        "Magnemite": 10,
         "Impidimp": 13,
         "Elgyem": 2,
         "Gastrodon": 1,
@@ -772,7 +773,7 @@
         "Tadbulb": 6,
         "Lopunny": 2,
         "Malamar": 1,
-        "Pincurchin": 1,
+        "Pincurchin": 2,
         "Whirlipede": 2,
         "Tinkatuff": 2,
         "Baltoy": 5,
@@ -793,7 +794,7 @@
         "Frillish": 2,
         "Toedscool": 5,
         "Espathra": 1,
-        "Klang": 2,
+        "Klang": 3,
         "Vespiquen": 4,
         "Amaura": 1,
         "Remoraid": 1,
@@ -990,7 +991,7 @@
         "Kommo-o": 1,
         "Chatot": 1,
         "Family of three maushold": 1,
-        "Sentret": 1,
+        "Sentret": 2,
         "Piloswine": 1,
         "Nidoking": 1,
         "Hariyama": 1,
@@ -1051,14 +1052,15 @@
         "Pyukumuku": 1,
         "Hatterene": 1,
         "Cleffa": 1,
-        "Brambleghast": 1
+        "Brambleghast": 1,
+        "Victreebel": 1
       },
-      "total_spawns": 1551,
-      "last_spawn": "2026-07-05T20:17:57.121570"
+      "total_spawns": 1558,
+      "last_spawn": "2026-07-05T20:18:34.394381"
     }
   },
   "global": {
-    "total_spawns": 65176,
+    "total_spawns": 65187,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
