@@ -384,10 +384,11 @@
         "Mesprit": 1,
         "Azelf": 1,
         "Clodsire": 1,
-        "Charizard": 2
+        "Charizard": 2,
+        "Axew": 2
       },
-      "total_spawns": 643,
-      "last_spawn": "2026-07-05T15:44:00.250622"
+      "total_spawns": 645,
+      "last_spawn": "2026-07-05T16:00:45.524206"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -407,7 +408,7 @@
         "Abra": 2,
         "Oddish": 6,
         "Dedenne": 1,
-        "Gothita": 1,
+        "Gothita": 2,
         "Finizen": 4,
         "Machop": 3,
         "Psyduck": 2,
@@ -676,14 +677,17 @@
         "Toedscool": 1,
         "Espathra": 1,
         "Klang": 1,
-        "Vespiquen": 1
+        "Vespiquen": 1,
+        "Amaura": 1,
+        "Remoraid": 1,
+        "Diglett": 1
       },
-      "total_spawns": 469,
-      "last_spawn": "2026-07-05T16:00:34.582847"
+      "total_spawns": 473,
+      "last_spawn": "2026-07-05T16:01:15.922594"
     }
   },
   "global": {
-    "total_spawns": 63651,
+    "total_spawns": 63657,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
