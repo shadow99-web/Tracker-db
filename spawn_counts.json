@@ -113,7 +113,7 @@
         "Treecko": 6,
         "Shroodle": 4,
         "Ride cyclizar": 1,
-        "Swinub": 9,
+        "Swinub": 10,
         "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 8,
@@ -128,7 +128,7 @@
         "Bronzor": 1,
         "Swirlix": 2,
         "Varoom": 2,
-        "Ducklett": 1,
+        "Ducklett": 2,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
         "Torchic": 2,
@@ -200,7 +200,7 @@
         "Tarountula": 5,
         "Rhyhorn": 7,
         "Aipom": 2,
-        "Grookey": 3,
+        "Grookey": 4,
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 1,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
-        "Klink": 3,
+        "Klink": 4,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 2,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 1,
         "Dubwool": 1,
-        "Litleo": 1,
+        "Litleo": 2,
         "Silcoon": 2,
         "Snivy": 2,
         "Zorua": 2,
@@ -514,7 +514,7 @@
         "Dewott": 1,
         "Braviary": 4,
         "Low key toxtricity": 2,
-        "Nidorina": 2,
+        "Nidorina": 3,
         "Bronzong": 1,
         "Foongus": 1,
         "Krookodile": 1,
@@ -544,7 +544,7 @@
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
-        "Tatsugiri": 1,
+        "Tatsugiri": 2,
         "Xerneas": 2,
         "Nincada": 1,
         "Audino": 1,
@@ -583,10 +583,11 @@
         "Scyther": 2,
         "Polteageist": 1,
         "Lombre": 1,
-        "Dachsbun": 1
+        "Dachsbun": 1,
+        "Primeape": 2
       },
-      "total_spawns": 1557,
-      "last_spawn": "2026-07-05T21:08:53.599511"
+      "total_spawns": 1566,
+      "last_spawn": "2026-07-05T21:09:23.797421"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -855,7 +856,7 @@
         "Malamar": 1,
         "Pincurchin": 3,
         "Whirlipede": 3,
-        "Tinkatuff": 2,
+        "Tinkatuff": 3,
         "Baltoy": 5,
         "Tarountula": 14,
         "Omastar": 2,
@@ -878,7 +879,7 @@
         "Vespiquen": 4,
         "Amaura": 1,
         "Remoraid": 1,
-        "Diglett": 1,
+        "Diglett": 2,
         "Lotad": 7,
         "Nincada": 2,
         "Tyrogue": 1,
@@ -1181,14 +1182,15 @@
         "Venusaur": 1,
         "Spearow": 1,
         "Emboar": 1,
-        "Nidoqueen": 1
+        "Nidoqueen": 1,
+        "Seel": 1
       },
-      "total_spawns": 1931,
-      "last_spawn": "2026-07-05T21:08:45.212993"
+      "total_spawns": 1934,
+      "last_spawn": "2026-07-05T21:09:14.298751"
     }
   },
   "global": {
-    "total_spawns": 66027,
+    "total_spawns": 66039,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
