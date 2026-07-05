@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 4,
-        "Oddish": 4,
+        "Oddish": 5,
         "Totodile": 3,
         "Vanillite": 12,
         "Weedle": 8,
@@ -213,7 +213,7 @@
         "Drifloon": 1,
         "Mightyena": 2,
         "Sandaconda": 1,
-        "Froakie": 2,
+        "Froakie": 3,
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 1,
@@ -538,10 +538,11 @@
         "Vibrava": 1,
         "Shuckle": 1,
         "White flower floette": 1,
-        "Octillery": 2
+        "Octillery": 2,
+        "Pawniard": 1
       },
-      "total_spawns": 1309,
-      "last_spawn": "2026-07-05T20:42:53.997465"
+      "total_spawns": 1312,
+      "last_spawn": "2026-07-05T20:43:23.897548"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -626,7 +627,7 @@
         "Drifloon": 2,
         "Togepi": 8,
         "Snivy": 2,
-        "Bellsprout": 7,
+        "Bellsprout": 8,
         "Scorbunny": 2,
         "Roggenrola": 10,
         "Wattrel": 11,
@@ -711,7 +712,7 @@
         "Grotle": 2,
         "Squawkabilly": 2,
         "Wartortle": 2,
-        "Rowlet": 2,
+        "Rowlet": 3,
         "Gholdengo": 3,
         "Machoke": 2,
         "Glameow": 3,
@@ -808,7 +809,7 @@
         "Tadbulb": 7,
         "Lopunny": 2,
         "Malamar": 1,
-        "Pincurchin": 2,
+        "Pincurchin": 3,
         "Whirlipede": 2,
         "Tinkatuff": 2,
         "Baltoy": 5,
@@ -1114,12 +1115,12 @@
         "Yellow flower floette": 1,
         "Mudkip": 1
       },
-      "total_spawns": 1780,
-      "last_spawn": "2026-07-05T20:42:44.329292"
+      "total_spawns": 1783,
+      "last_spawn": "2026-07-05T20:43:24.376376"
     }
   },
   "global": {
-    "total_spawns": 65628,
+    "total_spawns": 65634,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
