@@ -137,7 +137,7 @@
         "Venonat": 1,
         "Eelektrik": 2,
         "Diglett": 3,
-        "Surskit": 1,
+        "Surskit": 2,
         "Seedot": 5,
         "Jigglypuff": 1,
         "Spearow": 1,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 3,
         "Mienshao": 1,
-        "Blipbug": 6,
+        "Blipbug": 8,
         "Rellor": 3,
         "Rolycoly": 4,
         "Poliwhirl": 4,
@@ -382,7 +382,7 @@
         "Slakoth": 2,
         "Klink": 1,
         "Mesprit": 1,
-        "Azelf": 1,
+        "Azelf": 2,
         "Clodsire": 2,
         "Charizard": 2,
         "Axew": 5,
@@ -511,10 +511,11 @@
         "Melmetal": 1,
         "Liepard": 1,
         "Necrozma": 1,
-        "Dewott": 1
+        "Dewott": 1,
+        "Braviary": 2
       },
-      "total_spawns": 1154,
-      "last_spawn": "2026-07-05T20:26:58.294077"
+      "total_spawns": 1160,
+      "last_spawn": "2026-07-05T20:27:28.196712"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -644,7 +645,7 @@
         "Starly": 11,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 14,
+        "Bounsweet": 15,
         "Flamigo": 6,
         "Stunky": 1,
         "Spinarak": 3,
@@ -688,7 +689,7 @@
         "Gholdengo": 3,
         "Machoke": 2,
         "Glameow": 3,
-        "Swinub": 10,
+        "Swinub": 11,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -821,7 +822,7 @@
         "Luxio": 2,
         "Frigibax": 10,
         "Krokorok": 2,
-        "Snorunt": 2,
+        "Snorunt": 3,
         "Meganium": 1,
         "Chimchar": 2,
         "Mewtwo": 1,
@@ -848,7 +849,7 @@
         "Cofagrigus": 1,
         "Hattrem": 1,
         "Sneasel": 2,
-        "Piplup": 1,
+        "Piplup": 2,
         "Electrike": 2,
         "Kabuto": 4,
         "Chewtle": 1,
@@ -879,7 +880,7 @@
         "Dewpider": 3,
         "Pansear": 4,
         "Togetic": 3,
-        "Houndstone": 4,
+        "Houndstone": 5,
         "Ponyta": 1,
         "Drifblim": 1,
         "Arcanine": 1,
@@ -1071,14 +1072,15 @@
         "Wo-chien": 1,
         "Tranquill": 1,
         "Mankey": 1,
-        "Herdier": 1
+        "Herdier": 1,
+        "Starmie": 1
       },
-      "total_spawns": 1657,
-      "last_spawn": "2026-07-05T20:27:07.102730"
+      "total_spawns": 1663,
+      "last_spawn": "2026-07-05T20:27:37.295263"
     }
   },
   "global": {
-    "total_spawns": 65350,
+    "total_spawns": 65362,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
