@@ -65,7 +65,7 @@
         "Kirlia": 3,
         "Deino": 9,
         "Dolliv": 1,
-        "Feebas": 1,
+        "Feebas": 3,
         "Prof tangrowth": 13,
         "Vulpix": 7,
         "Gastly": 14,
@@ -338,7 +338,7 @@
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 1,
-        "Ursaring": 1,
+        "Ursaring": 2,
         "Bidoof": 2,
         "Gothita": 5,
         "Solosis": 11,
@@ -556,7 +556,7 @@
         "Arrokuda": 1,
         "Toxapex": 2,
         "Pawmot": 1,
-        "Blitzle": 1,
+        "Blitzle": 2,
         "Iron crown": 2,
         "Barbaracle": 1,
         "Nidoqueen": 3,
@@ -657,8 +657,8 @@
         "Jynx": 1,
         "Noctowl": 1
       },
-      "total_spawns": 2242,
-      "last_spawn": "2026-07-05T22:15:23.763655"
+      "total_spawns": 2246,
+      "last_spawn": "2026-07-05T22:15:53.601125"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -778,7 +778,7 @@
         "Poliwrath": 1,
         "Combusken": 3,
         "Bombirdier": 8,
-        "Wooloo": 5,
+        "Wooloo": 6,
         "Togekiss": 1,
         "Rolycoly": 12,
         "Duskull": 6,
@@ -1062,7 +1062,7 @@
         "Spinda": 3,
         "Beautifly": 2,
         "Fletchling": 11,
-        "Haunter": 2,
+        "Haunter": 3,
         "Sandshrew": 4,
         "Fletchinder": 3,
         "Sinistea": 3,
@@ -1296,14 +1296,15 @@
         "Mawile": 1,
         "Brionne": 1,
         "Munchlax": 1,
-        "Dodrio": 1
+        "Dodrio": 1,
+        "Wailord": 1
       },
-      "total_spawns": 2322,
-      "last_spawn": "2026-07-05T22:15:24.596083"
+      "total_spawns": 2325,
+      "last_spawn": "2026-07-05T22:15:54.855082"
     }
   },
   "global": {
-    "total_spawns": 67103,
+    "total_spawns": 67110,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
