@@ -58,7 +58,7 @@
         "Hatenna": 2,
         "Shroomish": 3,
         "Lillipup": 3,
-        "Mosslax": 6,
+        "Mosslax": 8,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 2,
@@ -70,7 +70,7 @@
         "Vulpix": 1,
         "Gastly": 6,
         "Aron": 2,
-        "Honedge": 10,
+        "Honedge": 11,
         "Houndour": 1,
         "Machop": 6,
         "Terapagos": 1,
@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 2,
         "Surskit": 1,
-        "Seedot": 3,
+        "Seedot": 4,
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
@@ -359,7 +359,7 @@
         "Electrike": 1,
         "Hoppip": 2,
         "Slowbro": 1,
-        "Gholdengo": 1,
+        "Gholdengo": 2,
         "Trubbish": 1,
         "Rockruff": 1,
         "Snowy castform": 1,
@@ -406,10 +406,12 @@
         "Zorua": 2,
         "Minior": 1,
         "Darmanitan": 1,
-        "Lopunny": 1
+        "Lopunny": 1,
+        "Chimchar": 1,
+        "Gligar": 1
       },
-      "total_spawns": 732,
-      "last_spawn": "2026-07-05T19:38:13.620350"
+      "total_spawns": 739,
+      "last_spawn": "2026-07-05T19:38:53.876569"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -909,7 +911,7 @@
     }
   },
   "global": {
-    "total_spawns": 64563,
+    "total_spawns": 64570,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
