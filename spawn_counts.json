@@ -495,7 +495,7 @@
         "Hoppip": 7,
         "Blipbug": 7,
         "Swoobat": 1,
-        "Greavard": 8,
+        "Greavard": 9,
         "Mosslax": 8,
         "Braixen": 2,
         "Skwovet": 2,
@@ -547,7 +547,7 @@
         "Tynamo": 5,
         "Quaquaval": 4,
         "Rapidash": 1,
-        "Maschiff": 4,
+        "Maschiff": 5,
         "Sensu oricorio": 2,
         "Scatterbug": 6,
         "Taillow": 2,
@@ -560,7 +560,7 @@
         "Wartortle": 2,
         "Rowlet": 2,
         "Gholdengo": 2,
-        "Machoke": 1,
+        "Machoke": 2,
         "Glameow": 3,
         "Swinub": 9,
         "Marshtomp": 2,
@@ -569,7 +569,7 @@
         "Rellor": 4,
         "Hippopotas": 2,
         "Chikorita": 4,
-        "Litwick": 6,
+        "Litwick": 7,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -674,7 +674,7 @@
         "Sprigatito": 1,
         "Bidoof": 2,
         "Frillish": 2,
-        "Toedscool": 2,
+        "Toedscool": 3,
         "Espathra": 1,
         "Klang": 1,
         "Vespiquen": 4,
@@ -712,7 +712,7 @@
         "Arctozolt": 3,
         "Spheal": 4,
         "Chinchou": 2,
-        "Magmar": 2,
+        "Magmar": 3,
         "Chef dente": 3,
         "Sandygast": 1,
         "Graveler": 3,
@@ -861,14 +861,15 @@
         "Tangrowth": 1,
         "Frosmoth": 1,
         "Farigiraf": 1,
-        "Servine": 1
+        "Servine": 1,
+        "Zoroark": 1
       },
-      "total_spawns": 1200,
-      "last_spawn": "2026-07-05T17:47:54.554487"
+      "total_spawns": 1207,
+      "last_spawn": "2026-07-05T17:48:27.094935"
     }
   },
   "global": {
-    "total_spawns": 64388,
+    "total_spawns": 64395,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
