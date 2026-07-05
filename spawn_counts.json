@@ -12,7 +12,7 @@
         "Braixen": 4,
         "Oddish": 7,
         "Totodile": 3,
-        "Vanillite": 14,
+        "Vanillite": 16,
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 8,
@@ -52,7 +52,7 @@
         "Skwovet": 3,
         "Applin": 2,
         "Staryu": 1,
-        "Maschiff": 4,
+        "Maschiff": 5,
         "Smoliv": 3,
         "Tirtouga": 3,
         "Hatenna": 6,
@@ -87,7 +87,7 @@
         "Shinx": 19,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 5,
+        "Pawmi": 6,
         "Sandile": 10,
         "Charmeleon": 3,
         "Riolu": 2,
@@ -564,10 +564,10 @@
         "Hydreigon": 2,
         "Unown x": 2,
         "Starmie": 1,
-        "Farfetch'd": 1
+        "Farfetch'd": 2
       },
-      "total_spawns": 1428,
-      "last_spawn": "2026-07-05T21:01:18.177505"
+      "total_spawns": 1433,
+      "last_spawn": "2026-07-05T21:01:48.195714"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -795,7 +795,7 @@
         "Noivern": 3,
         "Clefairy": 6,
         "Grubbin": 9,
-        "Dustox": 1,
+        "Dustox": 2,
         "Chespin": 6,
         "Armarouge": 3,
         "Battle cyclizar": 3,
@@ -1115,7 +1115,7 @@
         "Cleffa": 1,
         "Brambleghast": 1,
         "Victreebel": 1,
-        "Vibrava": 1,
+        "Vibrava": 2,
         "Yamper": 3,
         "Eelektross": 1,
         "Quagsire": 1,
@@ -1156,14 +1156,15 @@
         "Blastoise": 1,
         "Castform": 1,
         "Palossand": 1,
-        "Clamperl": 1
+        "Clamperl": 1,
+        "Cramorant": 1
       },
-      "total_spawns": 1888,
-      "last_spawn": "2026-07-05T21:01:14.320978"
+      "total_spawns": 1891,
+      "last_spawn": "2026-07-05T21:01:44.697321"
     }
   },
   "global": {
-    "total_spawns": 65855,
+    "total_spawns": 65863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
