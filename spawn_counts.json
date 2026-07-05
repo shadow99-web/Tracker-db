@@ -1364,14 +1364,18 @@
         "Drowzee": 1,
         "Lechonk": 1,
         "Woobat": 1,
-        "Skrelp": 1
+        "Skrelp": 1,
+        "Lileep": 1,
+        "Drifloon": 1,
+        "Mightyena": 1,
+        "Sandaconda": 1
       },
-      "total_spawns": 273,
-      "last_spawn": "2026-07-05T03:32:18.751529"
+      "total_spawns": 277,
+      "last_spawn": "2026-07-05T03:32:58.197879"
     }
   },
   "global": {
-    "total_spawns": 62812,
+    "total_spawns": 62816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
