@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 2,
         "Wattrel": 4,
-        "Nacli": 1,
+        "Nacli": 2,
         "Feebas": 1,
         "Weedle": 3,
         "Ralts": 3,
@@ -681,7 +681,7 @@
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
-        "Lotad": 1,
+        "Lotad": 2,
         "Nincada": 1,
         "Tyrogue": 1,
         "Minior": 1,
@@ -702,14 +702,15 @@
         "Pachirisu": 1,
         "Ursaring": 1,
         "Zweilous": 1,
-        "Amoonguss": 1
+        "Amoonguss": 1,
+        "Varoom": 1
       },
-      "total_spawns": 532,
-      "last_spawn": "2026-07-05T16:11:14.896659"
+      "total_spawns": 535,
+      "last_spawn": "2026-07-05T16:11:54.519296"
     }
   },
   "global": {
-    "total_spawns": 63716,
+    "total_spawns": 63719,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
