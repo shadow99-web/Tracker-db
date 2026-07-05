@@ -382,14 +382,18 @@
         "Gible": 2,
         "Torracat": 1,
         "Dusclops": 1,
-        "Rhyhorn": 1
+        "Rhyhorn": 1,
+        "Mareep": 1,
+        "Klink": 1,
+        "Nymble": 1,
+        "Porygon": 1
       },
-      "total_spawns": 9,
-      "last_spawn": "2026-07-05T14:07:44.495777"
+      "total_spawns": 13,
+      "last_spawn": "2026-07-05T14:08:24.281684"
     }
   },
   "global": {
-    "total_spawns": 63150,
+    "total_spawns": 63154,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
