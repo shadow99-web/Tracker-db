@@ -408,7 +408,7 @@
         "Abra": 6,
         "Oddish": 8,
         "Dedenne": 1,
-        "Gothita": 4,
+        "Gothita": 5,
         "Finizen": 7,
         "Machop": 6,
         "Psyduck": 4,
@@ -431,7 +431,7 @@
         "Timburr": 4,
         "Pidgey": 5,
         "Gimmighoul": 6,
-        "Cetoddle": 9,
+        "Cetoddle": 10,
         "Fidough": 7,
         "Smearguru": 3,
         "Nuzleaf": 2,
@@ -581,7 +581,7 @@
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 4,
-        "Larvitar": 3,
+        "Larvitar": 4,
         "Munna": 1,
         "Tangela": 3,
         "Espurr": 2,
@@ -622,7 +622,7 @@
         "Battle cyclizar": 1,
         "Bagon": 2,
         "Vanilluxe": 1,
-        "Woobat": 2,
+        "Woobat": 3,
         "Goomy": 6,
         "Orbeetle": 1,
         "Shellder": 4,
@@ -668,7 +668,7 @@
         "Kricketot": 2,
         "Golurk": 3,
         "Carracosta": 1,
-        "Fennekin": 2,
+        "Fennekin": 3,
         "Fuecoco": 1,
         "Sandy wormadam": 1,
         "Sprigatito": 1,
@@ -777,7 +777,7 @@
         "Hippowdon": 1,
         "Helioptile": 1,
         "Furfrou": 1,
-        "Thwackey": 1,
+        "Thwackey": 2,
         "Gabite": 2,
         "Toxel": 3,
         "Boldore": 1,
@@ -863,14 +863,15 @@
         "Farigiraf": 1,
         "Servine": 1,
         "Zoroark": 1,
-        "Aegislash": 1
+        "Aegislash": 1,
+        "Scyther": 1
       },
-      "total_spawns": 1219,
-      "last_spawn": "2026-07-05T17:49:34.614349"
+      "total_spawns": 1226,
+      "last_spawn": "2026-07-05T17:50:07.608502"
     }
   },
   "global": {
-    "total_spawns": 64407,
+    "total_spawns": 64414,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
