@@ -213,7 +213,7 @@
         "Drifloon": 1,
         "Mightyena": 2,
         "Sandaconda": 1,
-        "Froakie": 3,
+        "Froakie": 4,
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 1,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 4,
+        "Whismur": 5,
         "Jangmo-o": 3,
         "Lunatone": 1,
         "Machoke": 2,
@@ -315,7 +315,7 @@
         "Petilil": 3,
         "Bombirdier": 4,
         "Bellibolt": 2,
-        "Toedscool": 2,
+        "Toedscool": 3,
         "Paras": 1,
         "Fletchinder": 1,
         "Staravia": 1,
@@ -539,10 +539,12 @@
         "Shuckle": 1,
         "White flower floette": 1,
         "Octillery": 2,
-        "Pawniard": 1
+        "Pawniard": 1,
+        "Brionne": 1,
+        "Zarude": 1
       },
-      "total_spawns": 1312,
-      "last_spawn": "2026-07-05T20:43:23.897548"
+      "total_spawns": 1317,
+      "last_spawn": "2026-07-05T20:44:01.694013"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -861,7 +863,7 @@
         "Kirlia": 4,
         "Minccino": 3,
         "Charmander": 4,
-        "Misdreavus": 2,
+        "Misdreavus": 3,
         "Growlithe": 5,
         "Arctozolt": 3,
         "Spheal": 4,
@@ -1071,7 +1073,7 @@
         "Inkay": 1,
         "Quilava": 2,
         "Drowzee": 1,
-        "Nidorino": 1,
+        "Nidorino": 2,
         "Sobble": 3,
         "Vigoroth": 3,
         "Finneon": 1,
@@ -1113,14 +1115,15 @@
         "Copperajah": 1,
         "Leavanny": 1,
         "Yellow flower floette": 1,
-        "Mudkip": 1
+        "Mudkip": 1,
+        "Clefable": 1
       },
-      "total_spawns": 1783,
-      "last_spawn": "2026-07-05T20:43:24.376376"
+      "total_spawns": 1786,
+      "last_spawn": "2026-07-05T20:43:54.327787"
     }
   },
   "global": {
-    "total_spawns": 65634,
+    "total_spawns": 65642,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
