@@ -479,7 +479,7 @@
         "Ralts": 1,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 1,
+        "Aron": 2,
         "Horsea": 1,
         "Teddiursa": 1,
         "Dratini": 1,
@@ -589,14 +589,16 @@
         "Tyrunt": 1,
         "Drilbur": 1,
         "Vaporeon": 1,
-        "Magneton": 1
+        "Magneton": 1,
+        "Pupitar": 1,
+        "Durant": 1
       },
-      "total_spawns": 275,
-      "last_spawn": "2026-07-05T15:27:34.457516"
+      "total_spawns": 278,
+      "last_spawn": "2026-07-05T15:28:04.458247"
     }
   },
   "global": {
-    "total_spawns": 63450,
+    "total_spawns": 63453,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
