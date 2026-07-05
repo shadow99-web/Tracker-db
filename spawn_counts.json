@@ -379,10 +379,11 @@
         "Morelull": 1,
         "Unown": 3,
         "Poltchageist": 1,
-        "Slakoth": 1
+        "Slakoth": 1,
+        "Klink": 1
       },
-      "total_spawns": 633,
-      "last_spawn": "2026-07-05T15:11:03.497046"
+      "total_spawns": 634,
+      "last_spawn": "2026-07-05T15:17:39.803785"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -465,7 +466,7 @@
         "Trapinch": 3,
         "Hatenna": 2,
         "Drifloon": 1,
-        "Togepi": 1,
+        "Togepi": 2,
         "Snivy": 1,
         "Bellsprout": 1,
         "Scorbunny": 1,
@@ -483,7 +484,7 @@
         "Dratini": 1,
         "Sewaddle": 2,
         "Mantyke": 1,
-        "Slakoth": 1,
+        "Slakoth": 2,
         "Dreepy": 1,
         "Foongus": 1,
         "Hoppip": 2,
@@ -546,7 +547,7 @@
         "Scatterbug": 1,
         "Taillow": 1,
         "Wimpod": 1,
-        "Rookidee": 1,
+        "Rookidee": 2,
         "Shellos": 1,
         "Roaming gimmighoul": 1,
         "Grotle": 1,
@@ -557,12 +558,12 @@
         "Machoke": 1,
         "Glameow": 1
       },
-      "total_spawns": 215,
-      "last_spawn": "2026-07-05T15:17:24.553278"
+      "total_spawns": 218,
+      "last_spawn": "2026-07-05T15:17:54.773855"
     }
   },
   "global": {
-    "total_spawns": 63387,
+    "total_spawns": 63391,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
