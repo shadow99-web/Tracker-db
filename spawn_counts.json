@@ -433,7 +433,7 @@
         "Gimmighoul": 6,
         "Cetoddle": 10,
         "Fidough": 7,
-        "Smearguru": 3,
+        "Smearguru": 4,
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
@@ -518,7 +518,7 @@
         "Starly": 8,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 13,
+        "Bounsweet": 14,
         "Flamigo": 5,
         "Stunky": 1,
         "Spinarak": 2,
@@ -619,7 +619,7 @@
         "Dustox": 1,
         "Chespin": 5,
         "Armarouge": 2,
-        "Battle cyclizar": 1,
+        "Battle cyclizar": 2,
         "Bagon": 2,
         "Vanilluxe": 1,
         "Woobat": 3,
@@ -825,7 +825,7 @@
         "Shuppet": 1,
         "East sea gastrodon": 1,
         "Grovyle": 1,
-        "Grumpig": 1,
+        "Grumpig": 2,
         "White plumage squawkabilly": 1,
         "Koffing": 1,
         "Rhyperior": 1,
@@ -834,7 +834,7 @@
         "Paras": 1,
         "Crobat": 1,
         "Pignite": 1,
-        "Gulpin": 1,
+        "Gulpin": 2,
         "Vullaby": 1,
         "Burmy": 1,
         "Nidorina": 1,
@@ -867,14 +867,16 @@
         "Scyther": 1,
         "Azumarill": 1,
         "Rillaboom": 1,
-        "Farfetch'd": 1
+        "Farfetch'd": 1,
+        "Buizel": 1,
+        "Barraskewda": 1
       },
-      "total_spawns": 1239,
-      "last_spawn": "2026-07-05T17:51:14.905617"
+      "total_spawns": 1246,
+      "last_spawn": "2026-07-05T17:51:47.297409"
     }
   },
   "global": {
-    "total_spawns": 64427,
+    "total_spawns": 64434,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
