@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 2,
+        "Whismur": 3,
         "Jangmo-o": 3,
         "Lunatone": 1,
         "Machoke": 1,
@@ -368,12 +368,12 @@
         "Kommo-o": 1,
         "Vigoroth": 1
       },
-      "total_spawns": 599,
-      "last_spawn": "2026-07-05T13:55:16.364581"
+      "total_spawns": 600,
+      "last_spawn": "2026-07-05T13:58:26.873612"
     }
   },
   "global": {
-    "total_spawns": 63138,
+    "total_spawns": 63139,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
