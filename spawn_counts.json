@@ -435,14 +435,16 @@
         "Grafaiai": 1,
         "Gastly": 1,
         "Orthworm": 1,
-        "Glimmet": 1
+        "Glimmet": 2,
+        "Beldum": 1,
+        "Combee": 1
       },
-      "total_spawns": 62,
-      "last_spawn": "2026-07-05T14:17:04.505056"
+      "total_spawns": 65,
+      "last_spawn": "2026-07-05T14:17:34.737060"
     }
   },
   "global": {
-    "total_spawns": 63209,
+    "total_spawns": 63212,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
