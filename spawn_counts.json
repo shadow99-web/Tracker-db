@@ -1193,7 +1193,7 @@
         "Duskull": 5,
         "Abra": 1,
         "Wiglett": 2,
-        "Starly": 3,
+        "Starly": 4,
         "Caterpie": 2,
         "Mareep": 2,
         "Capsakid": 3,
@@ -1239,7 +1239,7 @@
         "Stufful": 1,
         "Shelgon": 1,
         "Marshtomp": 1,
-        "Squirtle": 1,
+        "Squirtle": 2,
         "Shinx": 2,
         "Drakloak": 2,
         "Victini": 1,
@@ -1352,14 +1352,16 @@
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
         "Bagon": 1,
-        "Pikachu": 1
+        "Pikachu": 1,
+        "Tarountula": 1,
+        "Rhyhorn": 1
       },
-      "total_spawns": 254,
-      "last_spawn": "2026-07-05T03:29:58.400418"
+      "total_spawns": 258,
+      "last_spawn": "2026-07-05T03:30:33.717890"
     }
   },
   "global": {
-    "total_spawns": 62793,
+    "total_spawns": 62797,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
