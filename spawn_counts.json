@@ -277,7 +277,7 @@
         "Ledyba": 2,
         "Chinchou": 2,
         "Eiscue": 1,
-        "Nacli": 7,
+        "Nacli": 8,
         "Pancham": 2,
         "Bulbasaur": 4,
         "Dewpider": 2,
@@ -457,7 +457,7 @@
         "Pelipper": 1,
         "Excadrill": 2,
         "Buizel": 2,
-        "Pansear": 1,
+        "Pansear": 2,
         "Yanma": 4,
         "Galarian moltres": 1,
         "Seismitoad": 2,
@@ -561,10 +561,12 @@
         "Barbaracle": 1,
         "Nidoqueen": 2,
         "White flower florges": 1,
-        "Hydreigon": 1
+        "Hydreigon": 2,
+        "Unown x": 2,
+        "Starmie": 1
       },
-      "total_spawns": 1418,
-      "last_spawn": "2026-07-05T21:00:14.400022"
+      "total_spawns": 1424,
+      "last_spawn": "2026-07-05T21:00:38.247720"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -581,7 +583,7 @@
         "Klink": 8,
         "Nymble": 9,
         "Porygon": 13,
-        "Abra": 13,
+        "Abra": 14,
         "Oddish": 10,
         "Dedenne": 2,
         "Gothita": 9,
@@ -604,7 +606,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 3,
-        "Timburr": 6,
+        "Timburr": 7,
         "Pidgey": 7,
         "Gimmighoul": 7,
         "Cetoddle": 14,
@@ -958,7 +960,7 @@
         "Toxel": 3,
         "Boldore": 1,
         "Prof tangrowth": 3,
-        "Corvisquire": 2,
+        "Corvisquire": 3,
         "Lokix": 4,
         "Charmeleon": 4,
         "Spidops": 2,
@@ -1152,14 +1154,15 @@
         "Phanpy": 1,
         "Blastoise": 1,
         "Castform": 1,
-        "Palossand": 1
+        "Palossand": 1,
+        "Clamperl": 1
       },
-      "total_spawns": 1881,
-      "last_spawn": "2026-07-05T21:00:05.129723"
+      "total_spawns": 1885,
+      "last_spawn": "2026-07-05T21:00:45.728882"
     }
   },
   "global": {
-    "total_spawns": 65838,
+    "total_spawns": 65848,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
