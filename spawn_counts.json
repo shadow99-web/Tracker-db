@@ -773,7 +773,7 @@
         "Dreepy": 11,
         "Foongus": 4,
         "Hoppip": 13,
-        "Blipbug": 9,
+        "Blipbug": 10,
         "Swoobat": 1,
         "Greavard": 11,
         "Mosslax": 11,
@@ -790,7 +790,7 @@
         "Bombirdier": 8,
         "Wooloo": 6,
         "Togekiss": 1,
-        "Rolycoly": 12,
+        "Rolycoly": 13,
         "Duskull": 8,
         "Marill": 5,
         "Axew": 6,
@@ -855,7 +855,7 @@
         "Gorebyss": 1,
         "Quaxwell": 2,
         "Croconaw": 6,
-        "Smoliv": 9,
+        "Smoliv": 10,
         "Lechonk": 8,
         "Clodsire": 5,
         "Sandaconda": 1,
@@ -1314,12 +1314,12 @@
         "Bulbasaur": 1,
         "Stantler": 1
       },
-      "total_spawns": 2381,
-      "last_spawn": "2026-07-05T22:25:14.420261"
+      "total_spawns": 2384,
+      "last_spawn": "2026-07-05T22:25:44.464915"
     }
   },
   "global": {
-    "total_spawns": 67204,
+    "total_spawns": 67207,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
