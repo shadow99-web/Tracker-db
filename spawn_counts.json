@@ -87,7 +87,7 @@
         "Shinx": 7,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 1,
+        "Pawmi": 3,
         "Sandile": 5,
         "Charmeleon": 1,
         "Riolu": 2,
@@ -380,8 +380,8 @@
         "Unown": 3,
         "Poltchageist": 1
       },
-      "total_spawns": 630,
-      "last_spawn": "2026-07-05T15:01:32.602903"
+      "total_spawns": 632,
+      "last_spawn": "2026-07-05T15:08:22.896993"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -523,14 +523,17 @@
         "Litleo": 1,
         "Steelix": 1,
         "Greninja": 1,
-        "Dondozo": 1
+        "Dondozo": 1,
+        "Lairon": 1,
+        "Zubat": 1,
+        "Croagunk": 1
       },
-      "total_spawns": 160,
-      "last_spawn": "2026-07-05T15:07:54.361349"
+      "total_spawns": 163,
+      "last_spawn": "2026-07-05T15:08:24.636406"
     }
   },
   "global": {
-    "total_spawns": 63329,
+    "total_spawns": 63334,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
