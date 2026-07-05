@@ -551,7 +551,7 @@
         "Sensu oricorio": 2,
         "Scatterbug": 4,
         "Taillow": 2,
-        "Wimpod": 2,
+        "Wimpod": 3,
         "Rookidee": 4,
         "Shellos": 1,
         "Roaming gimmighoul": 1,
@@ -693,7 +693,7 @@
         "Pikachu": 1,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 2,
+        "Frigibax": 3,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -775,14 +775,15 @@
         "Solosis": 1,
         "Flapple": 1,
         "Hippowdon": 1,
-        "Helioptile": 1
+        "Helioptile": 1,
+        "Furfrou": 1
       },
-      "total_spawns": 795,
-      "last_spawn": "2026-07-05T16:56:04.697145"
+      "total_spawns": 798,
+      "last_spawn": "2026-07-05T16:56:44.432965"
     }
   },
   "global": {
-    "total_spawns": 63979,
+    "total_spawns": 63982,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
