@@ -157,7 +157,7 @@
         "Pikipek": 4,
         "Spritzee": 1,
         "Stantler": 1,
-        "Impidimp": 2,
+        "Impidimp": 5,
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 1,
@@ -412,10 +412,12 @@
         "Quaxly": 1,
         "Spiky-eared pichu": 1,
         "Cradily": 2,
-        "Burmy": 1
+        "Burmy": 1,
+        "Sewaddle": 1,
+        "Shelmet": 1
       },
-      "total_spawns": 754,
-      "last_spawn": "2026-07-05T19:40:33.974918"
+      "total_spawns": 759,
+      "last_spawn": "2026-07-05T19:42:18.196631"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -915,7 +917,7 @@
     }
   },
   "global": {
-    "total_spawns": 64585,
+    "total_spawns": 64590,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
