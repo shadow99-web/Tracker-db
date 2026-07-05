@@ -1445,7 +1445,7 @@
         "Quilladin": 1,
         "Infernape": 1,
         "Noibat": 1,
-        "Gothorita": 1,
+        "Gothorita": 2,
         "Ekans": 1,
         "Brambleghast": 1,
         "Dartrix": 1,
@@ -1462,14 +1462,16 @@
         "Geodude": 1,
         "Tentacruel": 1,
         "Archen": 1,
-        "Blue plumage squawkabilly": 1
+        "Blue plumage squawkabilly": 1,
+        "Metang": 1,
+        "Larvitar": 1
       },
-      "total_spawns": 452,
-      "last_spawn": "2026-07-05T04:06:43.644808"
+      "total_spawns": 455,
+      "last_spawn": "2026-07-05T04:07:14.068527"
     }
   },
   "global": {
-    "total_spawns": 62991,
+    "total_spawns": 62994,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
