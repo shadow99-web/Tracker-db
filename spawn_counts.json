@@ -9,11 +9,11 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 5,
+        "Braixen": 6,
         "Oddish": 12,
         "Totodile": 3,
         "Vanillite": 22,
-        "Weedle": 8,
+        "Weedle": 10,
         "Kabutops": 2,
         "Poliwag": 11,
         "Fidough": 9,
@@ -222,7 +222,7 @@
         "Duosion": 2,
         "Orthworm": 8,
         "Yamask": 2,
-        "Nymble": 7,
+        "Nymble": 8,
         "Snorunt": 2,
         "Carvanha": 2,
         "Toxel": 3,
@@ -519,7 +519,7 @@
         "Foongus": 2,
         "Krookodile": 1,
         "Espathra": 2,
-        "Snom": 2,
+        "Snom": 3,
         "Nickit": 1,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -649,8 +649,8 @@
         "Heatmor": 1,
         "Vikavolt": 1
       },
-      "total_spawns": 2154,
-      "last_spawn": "2026-07-05T22:04:03.729091"
+      "total_spawns": 2159,
+      "last_spawn": "2026-07-05T22:04:43.796568"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -817,7 +817,7 @@
         "Rookidee": 12,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
-        "Grotle": 2,
+        "Grotle": 3,
         "Squawkabilly": 3,
         "Wartortle": 2,
         "Rowlet": 3,
@@ -1026,7 +1026,7 @@
         "Dartrix": 5,
         "Roserade": 1,
         "Heliolisk": 1,
-        "Doublade": 1,
+        "Doublade": 2,
         "Electivire": 2,
         "Droopy tatsugiri": 5,
         "Blitzle": 3,
@@ -1282,14 +1282,15 @@
         "Plusle": 1,
         "Torkoal": 1,
         "Camerupt": 1,
-        "Dolliv": 1
+        "Dolliv": 1,
+        "Lampent": 1
       },
-      "total_spawns": 2256,
-      "last_spawn": "2026-07-05T22:04:04.600283"
+      "total_spawns": 2259,
+      "last_spawn": "2026-07-05T22:04:34.446499"
     }
   },
   "global": {
-    "total_spawns": 66949,
+    "total_spawns": 66957,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
