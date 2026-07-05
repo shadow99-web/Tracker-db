@@ -198,7 +198,7 @@
         "Bagon": 1,
         "Pikachu": 2,
         "Tarountula": 4,
-        "Rhyhorn": 3,
+        "Rhyhorn": 4,
         "Aipom": 2,
         "Grookey": 1,
         "Inkay": 1,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 2,
         "Watchog": 1,
-        "Porygon": 4,
+        "Porygon": 5,
         "Wooloo": 1,
         "Mawile": 3,
         "Marill": 1,
@@ -296,7 +296,7 @@
         "Ceruledge": 1,
         "Vanillish": 1,
         "Gimmighoul": 2,
-        "Glimmet": 3,
+        "Glimmet": 5,
         "Popplio": 2,
         "Arboliva": 1,
         "Luxio": 1,
@@ -503,10 +503,12 @@
         "Tyrogue": 1,
         "Nuzleaf": 1,
         "Spinarak": 1,
-        "Goomy": 1
+        "Goomy": 1,
+        "Breloom": 1,
+        "Rillaboom": 2
       },
-      "total_spawns": 1097,
-      "last_spawn": "2026-07-05T20:19:28.342220"
+      "total_spawns": 1104,
+      "last_spawn": "2026-07-05T20:20:08.588315"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -551,7 +553,7 @@
         "Gimmighoul": 6,
         "Cetoddle": 14,
         "Fidough": 11,
-        "Smearguru": 4,
+        "Smearguru": 5,
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 3,
@@ -601,7 +603,7 @@
         "Ralts": 7,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 6,
+        "Aron": 7,
         "Horsea": 15,
         "Teddiursa": 8,
         "Dratini": 2,
@@ -621,7 +623,7 @@
         "Impidimp": 13,
         "Elgyem": 2,
         "Gastrodon": 1,
-        "Shroodle": 7,
+        "Shroodle": 8,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
@@ -704,7 +706,7 @@
         "Tangela": 4,
         "Espurr": 3,
         "Doduo": 2,
-        "Kadabra": 2,
+        "Kadabra": 3,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
         "Capsakid": 8,
@@ -799,7 +801,7 @@
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
-        "Lotad": 5,
+        "Lotad": 6,
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
@@ -868,7 +870,7 @@
         "Applin": 2,
         "Venipede": 6,
         "Toedscruel": 1,
-        "Dewpider": 2,
+        "Dewpider": 3,
         "Pansear": 4,
         "Togetic": 3,
         "Houndstone": 4,
@@ -1054,14 +1056,15 @@
         "Cleffa": 1,
         "Brambleghast": 1,
         "Victreebel": 1,
-        "Vibrava": 1
+        "Vibrava": 1,
+        "Yamper": 1
       },
-      "total_spawns": 1571,
-      "last_spawn": "2026-07-05T20:19:39.798244"
+      "total_spawns": 1578,
+      "last_spawn": "2026-07-05T20:20:14.511631"
     }
   },
   "global": {
-    "total_spawns": 65207,
+    "total_spawns": 65221,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
