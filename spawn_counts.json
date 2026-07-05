@@ -428,7 +428,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 2,
-        "Timburr": 2,
+        "Timburr": 3,
         "Pidgey": 3,
         "Gimmighoul": 4,
         "Cetoddle": 2,
@@ -463,7 +463,7 @@
         "Charcadet": 4,
         "Sandile": 5,
         "Maushold": 2,
-        "Rattata": 4,
+        "Rattata": 5,
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
@@ -652,7 +652,7 @@
         "Scovillain": 2,
         "Sliggoo": 1,
         "Silcoon": 1,
-        "Tadbulb": 1,
+        "Tadbulb": 2,
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
@@ -703,14 +703,15 @@
         "Ursaring": 1,
         "Zweilous": 1,
         "Amoonguss": 1,
-        "Varoom": 1
+        "Varoom": 1,
+        "Kirlia": 1
       },
-      "total_spawns": 535,
-      "last_spawn": "2026-07-05T16:11:54.519296"
+      "total_spawns": 539,
+      "last_spawn": "2026-07-05T16:12:34.344655"
     }
   },
   "global": {
-    "total_spawns": 63719,
+    "total_spawns": 63723,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
