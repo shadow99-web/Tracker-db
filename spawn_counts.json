@@ -860,7 +860,7 @@
         "Quaxwell": 2,
         "Croconaw": 7,
         "Smoliv": 10,
-        "Lechonk": 9,
+        "Lechonk": 10,
         "Clodsire": 5,
         "Sandaconda": 1,
         "Ninjask": 1,
@@ -1080,7 +1080,7 @@
         "Sandshrew": 4,
         "Fletchinder": 3,
         "Sinistea": 3,
-        "Shinx": 5,
+        "Shinx": 6,
         "Totodile": 2,
         "Magikarp": 4,
         "Pumpkaboo": 3,
@@ -1099,7 +1099,7 @@
         "Kingambit": 3,
         "Corsola": 1,
         "Gothitelle": 1,
-        "Makuhita": 1,
+        "Makuhita": 2,
         "Barboach": 4,
         "Smeargle": 1,
         "Ceruledge": 3,
@@ -1346,12 +1346,12 @@
         "Sudowoodo": 1,
         "Meowstic": 1
       },
-      "total_spawns": 2548,
-      "last_spawn": "2026-07-05T22:53:34.286371"
+      "total_spawns": 2551,
+      "last_spawn": "2026-07-05T22:54:04.382238"
     }
   },
   "global": {
-    "total_spawns": 67433,
+    "total_spawns": 67436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
