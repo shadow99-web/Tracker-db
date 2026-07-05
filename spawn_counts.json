@@ -12,7 +12,7 @@
         "Braixen": 5,
         "Oddish": 7,
         "Totodile": 3,
-        "Vanillite": 16,
+        "Vanillite": 18,
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 9,
@@ -36,7 +36,7 @@
         "Whirlipede": 3,
         "Duskull": 14,
         "Abra": 10,
-        "Wiglett": 4,
+        "Wiglett": 5,
         "Starly": 14,
         "Caterpie": 5,
         "Mareep": 4,
@@ -72,7 +72,7 @@
         "Aron": 5,
         "Honedge": 16,
         "Houndour": 1,
-        "Machop": 7,
+        "Machop": 8,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -80,7 +80,7 @@
         "Bruxish": 1,
         "Orbeetle": 1,
         "Bramblin": 5,
-        "Stufful": 3,
+        "Stufful": 4,
         "Shelgon": 1,
         "Marshtomp": 3,
         "Squirtle": 3,
@@ -192,7 +192,7 @@
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 12,
-        "Dj rotom": 4,
+        "Dj rotom": 5,
         "Chef dente": 7,
         "Hisuian qwilfish": 1,
         "Bagon": 3,
@@ -206,7 +206,7 @@
         "Fraxure": 1,
         "Zubat": 9,
         "Drowzee": 3,
-        "Lechonk": 5,
+        "Lechonk": 6,
         "Woobat": 2,
         "Skrelp": 4,
         "Lileep": 2,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 7,
+        "Whismur": 8,
         "Jangmo-o": 4,
         "Lunatone": 1,
         "Machoke": 2,
@@ -245,7 +245,7 @@
         "Milcery": 5,
         "Trumbeak": 1,
         "Bonsly": 1,
-        "Growlithe": 2,
+        "Growlithe": 3,
         "Rhydon": 2,
         "Ambipom": 2,
         "Solrock": 1,
@@ -505,7 +505,7 @@
         "Spinarak": 1,
         "Goomy": 2,
         "Breloom": 1,
-        "Rillaboom": 2,
+        "Rillaboom": 4,
         "Hippopotas": 1,
         "Reuniclus": 1,
         "Melmetal": 1,
@@ -592,10 +592,11 @@
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 1,
-        "Quilava": 1
+        "Quilava": 1,
+        "Wurmple": 2
       },
-      "total_spawns": 1611,
-      "last_spawn": "2026-07-05T21:11:48.495929"
+      "total_spawns": 1624,
+      "last_spawn": "2026-07-05T21:12:28.366298"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -613,7 +614,7 @@
         "Nymble": 9,
         "Porygon": 13,
         "Abra": 14,
-        "Oddish": 11,
+        "Oddish": 12,
         "Dedenne": 2,
         "Gothita": 9,
         "Finizen": 11,
@@ -769,7 +770,7 @@
         "Gholdengo": 3,
         "Machoke": 2,
         "Glameow": 3,
-        "Swinub": 12,
+        "Swinub": 13,
         "Marshtomp": 2,
         "Venonat": 4,
         "Aipom": 1,
@@ -955,7 +956,7 @@
         "Sunkern": 3,
         "Wugtrio": 4,
         "Applin": 2,
-        "Venipede": 8,
+        "Venipede": 9,
         "Toedscruel": 1,
         "Dewpider": 4,
         "Pansear": 4,
@@ -1196,12 +1197,12 @@
         "Unfezant": 1,
         "Hisuian typhlosion": 1
       },
-      "total_spawns": 1948,
-      "last_spawn": "2026-07-05T21:11:54.866343"
+      "total_spawns": 1951,
+      "last_spawn": "2026-07-05T21:12:24.775946"
     }
   },
   "global": {
-    "total_spawns": 66098,
+    "total_spawns": 66114,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
