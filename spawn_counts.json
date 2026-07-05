@@ -38,7 +38,7 @@
         "Abra": 10,
         "Wiglett": 4,
         "Starly": 14,
-        "Caterpie": 4,
+        "Caterpie": 5,
         "Mareep": 4,
         "Capsakid": 8,
         "Numel": 3,
@@ -308,7 +308,7 @@
         "Archen": 5,
         "Blue plumage squawkabilly": 2,
         "Metang": 1,
-        "Larvitar": 5,
+        "Larvitar": 6,
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
-        "Klink": 4,
+        "Klink": 5,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 2,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 1,
-        "Frigibax": 4,
+        "Frigibax": 6,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 1,
@@ -442,7 +442,7 @@
         "Accelgor": 2,
         "Tyrunt": 1,
         "Hisuian typhlosion": 2,
-        "Ponyta": 1,
+        "Ponyta": 2,
         "Smearguru": 2,
         "Magneton": 1,
         "Battle cyclizar": 1,
@@ -584,10 +584,13 @@
         "Polteageist": 1,
         "Lombre": 1,
         "Dachsbun": 1,
-        "Primeape": 2
+        "Primeape": 2,
+        "Goldeen": 1,
+        "Gouging fire": 2,
+        "Cottonee": 1
       },
-      "total_spawns": 1566,
-      "last_spawn": "2026-07-05T21:09:23.797421"
+      "total_spawns": 1576,
+      "last_spawn": "2026-07-05T21:09:53.693857"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -748,7 +751,7 @@
         "Rapidash": 1,
         "Maschiff": 11,
         "Sensu oricorio": 2,
-        "Scatterbug": 12,
+        "Scatterbug": 13,
         "Taillow": 2,
         "Wimpod": 6,
         "Rookidee": 10,
@@ -873,7 +876,7 @@
         "Sprigatito": 2,
         "Bidoof": 2,
         "Frillish": 4,
-        "Toedscool": 8,
+        "Toedscool": 9,
         "Espathra": 2,
         "Klang": 3,
         "Vespiquen": 4,
@@ -899,7 +902,7 @@
         "Chimchar": 2,
         "Mewtwo": 1,
         "Pachirisu": 2,
-        "Ursaring": 3,
+        "Ursaring": 4,
         "Zweilous": 2,
         "Amoonguss": 1,
         "Varoom": 7,
@@ -1183,14 +1186,15 @@
         "Spearow": 1,
         "Emboar": 1,
         "Nidoqueen": 1,
-        "Seel": 1
+        "Seel": 1,
+        "Kabutops": 1
       },
-      "total_spawns": 1934,
-      "last_spawn": "2026-07-05T21:09:14.298751"
+      "total_spawns": 1938,
+      "last_spawn": "2026-07-05T21:09:54.377785"
     }
   },
   "global": {
-    "total_spawns": 66039,
+    "total_spawns": 66053,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
