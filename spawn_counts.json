@@ -405,7 +405,7 @@
         "Klink": 3,
         "Nymble": 3,
         "Porygon": 5,
-        "Abra": 5,
+        "Abra": 6,
         "Oddish": 7,
         "Dedenne": 1,
         "Gothita": 3,
@@ -484,7 +484,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 4,
-        "Horsea": 4,
+        "Horsea": 5,
         "Teddiursa": 2,
         "Dratini": 1,
         "Sewaddle": 5,
@@ -537,7 +537,7 @@
         "Klawf": 3,
         "Lombre": 2,
         "Wurmple": 2,
-        "Peakychu": 3,
+        "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 1,
         "Vulpix": 1,
@@ -747,12 +747,12 @@
         "Gengar": 1,
         "Sunkern": 1
       },
-      "total_spawns": 672,
-      "last_spawn": "2026-07-05T16:35:24.345231"
+      "total_spawns": 675,
+      "last_spawn": "2026-07-05T16:35:54.434674"
     }
   },
   "global": {
-    "total_spawns": 63856,
+    "total_spawns": 63859,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
