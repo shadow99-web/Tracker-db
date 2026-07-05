@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 4,
         "Surskit": 3,
-        "Seedot": 9,
+        "Seedot": 10,
         "Jigglypuff": 1,
         "Spearow": 2,
         "Servine": 2,
@@ -172,7 +172,7 @@
         "Mienshao": 1,
         "Blipbug": 12,
         "Rellor": 4,
-        "Rolycoly": 6,
+        "Rolycoly": 7,
         "Poliwhirl": 4,
         "Lokix": 3,
         "Flamigo": 5,
@@ -627,8 +627,8 @@
         "Clamperl": 1,
         "Rampardos": 1
       },
-      "total_spawns": 1934,
-      "last_spawn": "2026-07-05T21:41:43.605047"
+      "total_spawns": 1936,
+      "last_spawn": "2026-07-05T21:42:03.780883"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -643,7 +643,7 @@
         "Rhyhorn": 5,
         "Mareep": 9,
         "Klink": 8,
-        "Nymble": 10,
+        "Nymble": 11,
         "Porygon": 13,
         "Abra": 14,
         "Oddish": 14,
@@ -817,7 +817,7 @@
         "Croconaw": 6,
         "Smoliv": 6,
         "Lechonk": 8,
-        "Clodsire": 3,
+        "Clodsire": 4,
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 6,
@@ -996,7 +996,7 @@
         "Houndstone": 6,
         "Ponyta": 1,
         "Drifblim": 1,
-        "Arcanine": 1,
+        "Arcanine": 2,
         "Lickitung": 3,
         "Pyroar": 1,
         "Oshawott": 1,
@@ -1249,12 +1249,12 @@
         "Typhlosion": 1,
         "Yellow flower florges": 1
       },
-      "total_spawns": 2124,
-      "last_spawn": "2026-07-05T21:41:44.353611"
+      "total_spawns": 2127,
+      "last_spawn": "2026-07-05T21:42:15.194551"
     }
   },
   "global": {
-    "total_spawns": 66597,
+    "total_spawns": 66602,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
