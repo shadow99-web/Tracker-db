@@ -1321,7 +1321,7 @@
         "Pansage": 2,
         "Cetoddle": 1,
         "Togepi": 1,
-        "Tandemaus": 1,
+        "Tandemaus": 2,
         "Clefairy": 1,
         "Unown q": 1,
         "Lotad": 1,
@@ -1373,7 +1373,7 @@
         "Kingdra": 1,
         "Chikorita": 1,
         "Donphan": 1,
-        "Shuppet": 1,
+        "Shuppet": 2,
         "Graveler": 1,
         "Duosion": 1,
         "Orthworm": 1,
@@ -1413,7 +1413,7 @@
         "Machamp": 1,
         "Primarina": 1,
         "Skeledirge": 1,
-        "Taillow": 1,
+        "Taillow": 2,
         "Watchog": 1,
         "Porygon": 1,
         "Wooloo": 1,
@@ -1422,14 +1422,16 @@
         "Lickitung": 1,
         "Chewtle": 1,
         "Onix": 1,
-        "Dracovish": 1
+        "Dracovish": 1,
+        "Slowpoke": 1,
+        "Drizzile": 1
       },
-      "total_spawns": 362,
-      "last_spawn": "2026-07-05T03:45:42.998347"
+      "total_spawns": 367,
+      "last_spawn": "2026-07-05T03:46:18.676121"
     }
   },
   "global": {
-    "total_spawns": 62901,
+    "total_spawns": 62906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
