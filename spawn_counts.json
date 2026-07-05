@@ -1335,7 +1335,7 @@
         "Bellsprout": 4,
         "Houndstone": 1,
         "Beldum": 1,
-        "Kadabra": 1,
+        "Kadabra": 2,
         "Grovyle": 1,
         "Dratini": 1,
         "Steelix": 1,
@@ -1392,7 +1392,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 1,
+        "Whismur": 2,
         "Jangmo-o": 2,
         "Lunatone": 1,
         "Machoke": 1,
@@ -1454,14 +1454,15 @@
         "Gimmighoul": 1,
         "Glimmet": 1,
         "Popplio": 1,
-        "Arboliva": 1
+        "Arboliva": 1,
+        "Luxio": 1
       },
-      "total_spawns": 426,
-      "last_spawn": "2026-07-05T04:02:13.696409"
+      "total_spawns": 429,
+      "last_spawn": "2026-07-05T04:02:43.842409"
     }
   },
   "global": {
-    "total_spawns": 62965,
+    "total_spawns": 62968,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
