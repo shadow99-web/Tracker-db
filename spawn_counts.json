@@ -154,7 +154,7 @@
         "Roggenrola": 12,
         "Litwick": 6,
         "Wooper": 2,
-        "Pikipek": 12,
+        "Pikipek": 14,
         "Spritzee": 1,
         "Stantler": 5,
         "Impidimp": 14,
@@ -662,8 +662,8 @@
         "Gabite": 2,
         "Tapu fini": 2
       },
-      "total_spawns": 2269,
-      "last_spawn": "2026-07-05T22:22:03.606280"
+      "total_spawns": 2271,
+      "last_spawn": "2026-07-05T22:22:33.594000"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -750,7 +750,7 @@
         "Snivy": 2,
         "Bellsprout": 9,
         "Scorbunny": 2,
-        "Roggenrola": 14,
+        "Roggenrola": 15,
         "Wattrel": 13,
         "Nacli": 21,
         "Feebas": 2,
@@ -998,7 +998,7 @@
         "Hattrem": 4,
         "Sneasel": 2,
         "Piplup": 4,
-        "Electrike": 3,
+        "Electrike": 4,
         "Kabuto": 4,
         "Chewtle": 2,
         "Drakloak": 2,
@@ -1305,14 +1305,16 @@
         "Wailord": 1,
         "Houndour": 1,
         "Delcatty": 1,
-        "Chandelure": 1
+        "Chandelure": 1,
+        "Bulbasaur": 1,
+        "Stantler": 1
       },
-      "total_spawns": 2363,
-      "last_spawn": "2026-07-05T22:22:16.597755"
+      "total_spawns": 2367,
+      "last_spawn": "2026-07-05T22:22:54.495065"
     }
   },
   "global": {
-    "total_spawns": 67171,
+    "total_spawns": 67177,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
