@@ -419,7 +419,7 @@
         "Shroomish": 1,
         "Dachsbun": 1,
         "Swirlix": 1,
-        "Glimmora": 2,
+        "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 7,
@@ -486,7 +486,7 @@
         "Horsea": 3,
         "Teddiursa": 1,
         "Dratini": 1,
-        "Sewaddle": 2,
+        "Sewaddle": 3,
         "Mantyke": 1,
         "Slakoth": 5,
         "Dreepy": 2,
@@ -548,7 +548,7 @@
         "Rapidash": 1,
         "Maschiff": 2,
         "Sensu oricorio": 2,
-        "Scatterbug": 2,
+        "Scatterbug": 3,
         "Taillow": 1,
         "Wimpod": 1,
         "Rookidee": 3,
@@ -654,14 +654,15 @@
         "Tadbulb": 1,
         "Lopunny": 1,
         "Malamar": 1,
-        "Pincurchin": 1
+        "Pincurchin": 1,
+        "Whirlipede": 1
       },
-      "total_spawns": 408,
-      "last_spawn": "2026-07-05T15:50:04.581530"
+      "total_spawns": 412,
+      "last_spawn": "2026-07-05T15:50:44.672955"
     }
   },
   "global": {
-    "total_spawns": 63590,
+    "total_spawns": 63594,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
