@@ -480,7 +480,7 @@
         "Nacli": 10,
         "Feebas": 1,
         "Weedle": 7,
-        "Ralts": 5,
+        "Ralts": 6,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
@@ -540,7 +540,7 @@
         "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 3,
-        "Vulpix": 2,
+        "Vulpix": 3,
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -576,7 +576,7 @@
         "Quaxwell": 1,
         "Croconaw": 2,
         "Smoliv": 3,
-        "Lechonk": 3,
+        "Lechonk": 4,
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
@@ -803,12 +803,12 @@
         "Banette": 1,
         "Tympole": 1
       },
-      "total_spawns": 902,
-      "last_spawn": "2026-07-05T17:14:14.318274"
+      "total_spawns": 905,
+      "last_spawn": "2026-07-05T17:14:44.499410"
     }
   },
   "global": {
-    "total_spawns": 64086,
+    "total_spawns": 64089,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
