@@ -898,7 +898,7 @@
         "Tepig": 4,
         "Barbaracle": 4,
         "Noivern": 3,
-        "Clefairy": 6,
+        "Clefairy": 7,
         "Grubbin": 17,
         "Dustox": 2,
         "Chespin": 7,
@@ -936,7 +936,7 @@
         "Scovillain": 6,
         "Sliggoo": 3,
         "Silcoon": 5,
-        "Tadbulb": 10,
+        "Tadbulb": 11,
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 4,
@@ -1192,7 +1192,7 @@
         "Ditto": 1,
         "Alolan meowth": 1,
         "Budew": 1,
-        "Cascoon": 3,
+        "Cascoon": 4,
         "Dottler": 1,
         "Mr. mime": 1,
         "Slowking": 1,
@@ -1348,14 +1348,15 @@
         "Torterra": 1,
         "Charizard": 1,
         "Magby": 1,
-        "Trumbeak": 1
+        "Trumbeak": 1,
+        "Crustle": 1
       },
-      "total_spawns": 2599,
-      "last_spawn": "2026-07-05T23:02:06.774424"
+      "total_spawns": 2603,
+      "last_spawn": "2026-07-05T23:02:44.503862"
     }
   },
   "global": {
-    "total_spawns": 67500,
+    "total_spawns": 67504,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
