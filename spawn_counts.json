@@ -61,7 +61,7 @@
         "Mosslax": 12,
         "Maushold": 3,
         "Cubchoo": 5,
-        "Koffing": 2,
+        "Koffing": 3,
         "Kirlia": 3,
         "Deino": 9,
         "Dolliv": 1,
@@ -178,7 +178,7 @@
         "Flamigo": 5,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 9,
+        "Beldum": 11,
         "Kadabra": 4,
         "Grovyle": 3,
         "Dratini": 4,
@@ -479,7 +479,7 @@
         "Pignite": 1,
         "Bunnelby": 2,
         "Complete zygarde": 1,
-        "Mudbray": 1,
+        "Mudbray": 3,
         "Spectrier": 1,
         "Rufflet": 2,
         "Lairon": 1,
@@ -624,10 +624,11 @@
         "Armaldo": 2,
         "Krokorok": 1,
         "Torkoal": 2,
-        "Clamperl": 1
+        "Clamperl": 1,
+        "Rampardos": 1
       },
-      "total_spawns": 1928,
-      "last_spawn": "2026-07-05T21:41:13.795982"
+      "total_spawns": 1934,
+      "last_spawn": "2026-07-05T21:41:43.605047"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -669,7 +670,7 @@
         "Karrablast": 3,
         "Timburr": 10,
         "Pidgey": 7,
-        "Gimmighoul": 7,
+        "Gimmighoul": 8,
         "Cetoddle": 14,
         "Fidough": 12,
         "Smearguru": 7,
@@ -871,7 +872,7 @@
         "Crocalor": 2,
         "Cranidos": 2,
         "Cherrim": 1,
-        "Raboot": 4,
+        "Raboot": 5,
         "Summer deerling": 4,
         "Skrelp": 3,
         "Spewpa": 3,
@@ -920,7 +921,7 @@
         "Amaura": 3,
         "Remoraid": 1,
         "Diglett": 2,
-        "Lotad": 7,
+        "Lotad": 9,
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
@@ -1248,12 +1249,12 @@
         "Typhlosion": 1,
         "Yellow flower florges": 1
       },
-      "total_spawns": 2120,
-      "last_spawn": "2026-07-05T21:41:04.373011"
+      "total_spawns": 2124,
+      "last_spawn": "2026-07-05T21:41:44.353611"
     }
   },
   "global": {
-    "total_spawns": 66587,
+    "total_spawns": 66597,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
