@@ -906,7 +906,7 @@
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 7,
-        "Grubbin": 17,
+        "Grubbin": 18,
         "Dustox": 2,
         "Chespin": 8,
         "Armarouge": 4,
@@ -965,7 +965,7 @@
         "Sprigatito": 3,
         "Bidoof": 2,
         "Frillish": 6,
-        "Toedscool": 12,
+        "Toedscool": 13,
         "Espathra": 3,
         "Klang": 3,
         "Vespiquen": 4,
@@ -1252,7 +1252,7 @@
         "Yellow flower floette": 2,
         "Mudkip": 1,
         "Clefable": 1,
-        "Revavroom": 1,
+        "Revavroom": 2,
         "Milotic": 1,
         "Skarmory": 1,
         "Ferroseed": 1,
@@ -1316,7 +1316,7 @@
         "Ursaluna": 1,
         "Mawile": 2,
         "Brionne": 2,
-        "Munchlax": 1,
+        "Munchlax": 2,
         "Dodrio": 1,
         "Wailord": 1,
         "Houndour": 1,
@@ -1379,12 +1379,12 @@
         "Dialga": 1,
         "Joltik": 1
       },
-      "total_spawns": 2860,
-      "last_spawn": "2026-07-05T23:46:24.441625"
+      "total_spawns": 2864,
+      "last_spawn": "2026-07-05T23:47:04.429776"
     }
   },
   "global": {
-    "total_spawns": 67857,
+    "total_spawns": 67861,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
