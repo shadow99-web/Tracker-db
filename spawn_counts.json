@@ -109,7 +109,7 @@
         "Bayleef": 3,
         "Magnezone": 1,
         "Eevee": 4,
-        "Dreepy": 15,
+        "Dreepy": 17,
         "Treecko": 6,
         "Shroodle": 4,
         "Ride cyclizar": 1,
@@ -390,7 +390,7 @@
         "Gulpin": 1,
         "Mareanie": 2,
         "Throh": 1,
-        "Sentret": 3,
+        "Sentret": 4,
         "Houndoom": 1,
         "Meganium": 2,
         "Rainy castform": 2,
@@ -604,10 +604,12 @@
         "Conkeldurr": 1,
         "Sinistea": 1,
         "Golbat": 1,
-        "Amoonguss": 1
+        "Amoonguss": 1,
+        "Herdier": 1,
+        "Blissey": 1
       },
-      "total_spawns": 1751,
-      "last_spawn": "2026-07-05T21:19:53.527472"
+      "total_spawns": 1756,
+      "last_spawn": "2026-07-05T21:20:23.557541"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -726,7 +728,7 @@
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
-        "Bombirdier": 7,
+        "Bombirdier": 8,
         "Wooloo": 5,
         "Togekiss": 1,
         "Rolycoly": 11,
@@ -778,7 +780,7 @@
         "Squawkabilly": 3,
         "Wartortle": 2,
         "Rowlet": 3,
-        "Gholdengo": 3,
+        "Gholdengo": 4,
         "Machoke": 2,
         "Glameow": 3,
         "Swinub": 14,
@@ -1212,14 +1214,15 @@
         "Clobbopus": 1,
         "Heracross": 1,
         "Staryu": 1,
-        "Golem": 1
+        "Golem": 1,
+        "Numel": 1
       },
-      "total_spawns": 1994,
-      "last_spawn": "2026-07-05T21:19:44.601782"
+      "total_spawns": 1997,
+      "last_spawn": "2026-07-05T21:20:14.697084"
     }
   },
   "global": {
-    "total_spawns": 66284,
+    "total_spawns": 66292,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
