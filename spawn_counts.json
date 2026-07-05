@@ -409,7 +409,7 @@
         "Oddish": 7,
         "Dedenne": 1,
         "Gothita": 4,
-        "Finizen": 6,
+        "Finizen": 7,
         "Machop": 6,
         "Psyduck": 3,
         "Monferno": 1,
@@ -503,7 +503,7 @@
         "Impidimp": 7,
         "Elgyem": 2,
         "Gastrodon": 1,
-        "Shroodle": 4,
+        "Shroodle": 5,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 2,
@@ -742,7 +742,7 @@
         "Cyclizar": 1,
         "Murkrow": 1,
         "Drednaw": 1,
-        "Cyndaquil": 1,
+        "Cyndaquil": 2,
         "Thievul": 1,
         "Gengar": 1,
         "Sunkern": 1,
@@ -819,14 +819,15 @@
         "Barboach": 1,
         "Smeargle": 1,
         "Ceruledge": 1,
-        "Swampert": 1
+        "Swampert": 1,
+        "Naclstack": 1
       },
-      "total_spawns": 986,
-      "last_spawn": "2026-07-05T17:28:14.603867"
+      "total_spawns": 990,
+      "last_spawn": "2026-07-05T17:28:54.980021"
     }
   },
   "global": {
-    "total_spawns": 64171,
+    "total_spawns": 64175,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
