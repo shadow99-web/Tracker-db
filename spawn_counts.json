@@ -423,7 +423,7 @@
         "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 10,
+        "Whismur": 11,
         "Jangmo-o": 5,
         "Samurott": 1,
         "Kleavor": 1,
@@ -448,7 +448,7 @@
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
-        "Gastly": 4,
+        "Gastly": 5,
         "Orthworm": 4,
         "Glimmet": 5,
         "Beldum": 1,
@@ -507,7 +507,7 @@
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 2,
-        "Bombirdier": 2,
+        "Bombirdier": 3,
         "Wooloo": 2,
         "Togekiss": 1,
         "Rolycoly": 6,
@@ -710,7 +710,7 @@
         "Misdreavus": 1,
         "Growlithe": 3,
         "Arctozolt": 1,
-        "Spheal": 2,
+        "Spheal": 3,
         "Chinchou": 2,
         "Magmar": 2,
         "Chef dente": 2,
@@ -801,12 +801,12 @@
         "Magikarp": 1,
         "Pumpkaboo": 1
       },
-      "total_spawns": 891,
-      "last_spawn": "2026-07-05T17:12:24.702065"
+      "total_spawns": 895,
+      "last_spawn": "2026-07-05T17:13:04.519767"
     }
   },
   "global": {
-    "total_spawns": 64075,
+    "total_spawns": 64079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
