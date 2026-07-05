@@ -663,10 +663,12 @@
         "Tapu fini": 2,
         "Gyarados": 2,
         "Lapras": 2,
-        "Grimmsnarl": 2
+        "Grimmsnarl": 2,
+        "Sylveon": 2,
+        "Inteleon": 2
       },
-      "total_spawns": 2280,
-      "last_spawn": "2026-07-05T22:24:33.706109"
+      "total_spawns": 2284,
+      "last_spawn": "2026-07-05T22:25:03.733577"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -686,7 +688,7 @@
         "Abra": 17,
         "Oddish": 15,
         "Dedenne": 2,
-        "Gothita": 11,
+        "Gothita": 12,
         "Finizen": 13,
         "Machop": 12,
         "Psyduck": 6,
@@ -710,7 +712,7 @@
         "Pidgey": 7,
         "Gimmighoul": 9,
         "Cetoddle": 14,
-        "Fidough": 12,
+        "Fidough": 13,
         "Smearguru": 7,
         "Nuzleaf": 3,
         "Clauncher": 2,
@@ -738,10 +740,10 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 12,
+        "Charcadet": 13,
         "Sandile": 14,
         "Maushold": 6,
-        "Rattata": 6,
+        "Rattata": 7,
         "Riolu": 3,
         "Aromatisse": 1,
         "Slowpoke": 2,
@@ -1312,12 +1314,12 @@
         "Bulbasaur": 1,
         "Stantler": 1
       },
-      "total_spawns": 2377,
-      "last_spawn": "2026-07-05T22:24:34.700332"
+      "total_spawns": 2381,
+      "last_spawn": "2026-07-05T22:25:14.420261"
     }
   },
   "global": {
-    "total_spawns": 67196,
+    "total_spawns": 67204,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
