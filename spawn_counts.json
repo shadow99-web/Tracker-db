@@ -116,7 +116,7 @@
         "Swinub": 8,
         "Rattata": 3,
         "Stonjourner": 1,
-        "Veluza": 4,
+        "Veluza": 6,
         "Panpour": 3,
         "Crabrawler": 3,
         "Frogadier": 1,
@@ -187,11 +187,11 @@
         "Charcadet": 6,
         "Mudsdale": 2,
         "Meowth": 2,
-        "Charmander": 3,
+        "Charmander": 5,
         "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 8,
+        "Klawf": 10,
         "Dj rotom": 4,
         "Chef dente": 5,
         "Hisuian qwilfish": 1,
@@ -541,10 +541,11 @@
         "Octillery": 2,
         "Pawniard": 1,
         "Brionne": 1,
-        "Zarude": 1
+        "Zarude": 2,
+        "Yamper": 1
       },
-      "total_spawns": 1317,
-      "last_spawn": "2026-07-05T20:44:01.694013"
+      "total_spawns": 1325,
+      "last_spawn": "2026-07-05T20:44:33.640925"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -656,7 +657,7 @@
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 10,
-        "Impidimp": 13,
+        "Impidimp": 14,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 8,
@@ -987,7 +988,7 @@
         "Rhyperior": 1,
         "Spritzee": 3,
         "Hawlucha": 1,
-        "Paras": 1,
+        "Paras": 2,
         "Crobat": 1,
         "Pignite": 1,
         "Gulpin": 2,
@@ -1035,7 +1036,7 @@
         "Hariyama": 1,
         "Archen": 3,
         "Mabosstiff": 2,
-        "Skuntank": 1,
+        "Skuntank": 2,
         "Glastrier": 1,
         "Crabrawler": 1,
         "Onix": 1,
@@ -1118,12 +1119,12 @@
         "Mudkip": 1,
         "Clefable": 1
       },
-      "total_spawns": 1786,
-      "last_spawn": "2026-07-05T20:43:54.327787"
+      "total_spawns": 1789,
+      "last_spawn": "2026-07-05T20:44:25.394355"
     }
   },
   "global": {
-    "total_spawns": 65642,
+    "total_spawns": 65653,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
