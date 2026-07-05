@@ -91,7 +91,7 @@
         "Sandile": 18,
         "Charmeleon": 5,
         "Riolu": 14,
-        "Gible": 10,
+        "Gible": 12,
         "Greavard": 19,
         "Snover": 3,
         "Piplup": 2,
@@ -672,10 +672,11 @@
         "Greninja": 2,
         "Wash rotom": 1,
         "Igglybuff": 1,
-        "Garchomp": 2
+        "Garchomp": 2,
+        "Wigglytuff": 1
       },
-      "total_spawns": 2428,
-      "last_spawn": "2026-07-05T23:30:54.298588"
+      "total_spawns": 2431,
+      "last_spawn": "2026-07-05T23:32:33.622199"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1059,7 +1060,7 @@
         "Nickit": 1,
         "Wiglett": 11,
         "Carkol": 3,
-        "Solosis": 7,
+        "Solosis": 8,
         "Flapple": 3,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -1067,7 +1068,7 @@
         "Thwackey": 3,
         "Gabite": 2,
         "Toxel": 5,
-        "Boldore": 5,
+        "Boldore": 6,
         "Prof tangrowth": 6,
         "Corvisquire": 4,
         "Lokix": 5,
@@ -1180,7 +1181,7 @@
         "Houndoom": 1,
         "Shieldon": 4,
         "Panpour": 3,
-        "Yanma": 1,
+        "Yanma": 2,
         "Vileplume": 1,
         "Gurdurr": 2,
         "Mamoswine": 1,
@@ -1368,14 +1369,15 @@
         "Volcarona": 1,
         "Carvanha": 1,
         "Pelipper": 1,
-        "Wailmer": 1
+        "Wailmer": 1,
+        "Froslass": 1
       },
-      "total_spawns": 2777,
-      "last_spawn": "2026-07-05T23:32:16.797523"
+      "total_spawns": 2781,
+      "last_spawn": "2026-07-05T23:32:54.380430"
     }
   },
   "global": {
-    "total_spawns": 67744,
+    "total_spawns": 67751,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
