@@ -511,7 +511,7 @@
         "Togekiss": 1,
         "Rolycoly": 5,
         "Duskull": 3,
-        "Marill": 2,
+        "Marill": 3,
         "Axew": 2,
         "Tinkatink": 3,
         "Starly": 3,
@@ -531,7 +531,7 @@
         "Greninja": 1,
         "Dondozo": 2,
         "Lairon": 1,
-        "Zubat": 5,
+        "Zubat": 6,
         "Croagunk": 1,
         "Klawf": 3,
         "Lombre": 2,
@@ -648,7 +648,7 @@
         "Snover": 1,
         "Bayleef": 2,
         "Nosepass": 1,
-        "Scovillain": 1,
+        "Scovillain": 2,
         "Sliggoo": 1,
         "Silcoon": 1,
         "Tadbulb": 1,
@@ -678,12 +678,12 @@
         "Klang": 1,
         "Vespiquen": 1
       },
-      "total_spawns": 466,
-      "last_spawn": "2026-07-05T16:00:04.544176"
+      "total_spawns": 469,
+      "last_spawn": "2026-07-05T16:00:34.582847"
     }
   },
   "global": {
-    "total_spawns": 63648,
+    "total_spawns": 63651,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
