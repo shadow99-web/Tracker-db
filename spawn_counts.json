@@ -432,7 +432,7 @@
         "Pidgey": 4,
         "Gimmighoul": 6,
         "Cetoddle": 7,
-        "Fidough": 6,
+        "Fidough": 7,
         "Smearguru": 2,
         "Nuzleaf": 2,
         "Clauncher": 2,
@@ -484,7 +484,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
-        "Horsea": 9,
+        "Horsea": 10,
         "Teddiursa": 4,
         "Dratini": 2,
         "Sewaddle": 5,
@@ -541,7 +541,7 @@
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 4,
-        "Sizzlipede": 1,
+        "Sizzlipede": 2,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 4,
@@ -732,8 +732,8 @@
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
-        "Frogadier": 1,
-        "Golett": 1,
+        "Frogadier": 2,
+        "Golett": 2,
         "Mismagius": 1,
         "Mudbray": 1,
         "Weepinbell": 1,
@@ -779,7 +779,7 @@
         "Furfrou": 1,
         "Thwackey": 1,
         "Gabite": 1,
-        "Toxel": 2,
+        "Toxel": 3,
         "Boldore": 1,
         "Prof tangrowth": 1,
         "Corvisquire": 1,
@@ -828,14 +828,15 @@
         "Grumpig": 1,
         "White plumage squawkabilly": 1,
         "Koffing": 1,
-        "Rhyperior": 1
+        "Rhyperior": 1,
+        "Spritzee": 1
       },
-      "total_spawns": 1021,
-      "last_spawn": "2026-07-05T17:32:57.132112"
+      "total_spawns": 1028,
+      "last_spawn": "2026-07-05T17:33:34.498587"
     }
   },
   "global": {
-    "total_spawns": 64206,
+    "total_spawns": 64213,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
