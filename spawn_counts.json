@@ -492,14 +492,14 @@
         "Slakoth": 8,
         "Dreepy": 7,
         "Foongus": 2,
-        "Hoppip": 7,
+        "Hoppip": 8,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 9,
         "Mosslax": 8,
         "Braixen": 2,
         "Skwovet": 2,
-        "Magnemite": 6,
+        "Magnemite": 7,
         "Impidimp": 9,
         "Elgyem": 2,
         "Gastrodon": 1,
@@ -507,7 +507,7 @@
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
-        "Bombirdier": 5,
+        "Bombirdier": 6,
         "Wooloo": 3,
         "Togekiss": 1,
         "Rolycoly": 6,
@@ -525,7 +525,7 @@
         "Gligar": 1,
         "Cubone": 1,
         "Dracovish": 1,
-        "Deino": 4,
+        "Deino": 5,
         "Honedge": 5,
         "Litleo": 1,
         "Steelix": 2,
@@ -626,7 +626,7 @@
         "Goomy": 6,
         "Orbeetle": 1,
         "Shellder": 4,
-        "Pawmi": 4,
+        "Pawmi": 5,
         "Spoink": 4,
         "Lileep": 2,
         "Crocalor": 2,
@@ -753,7 +753,7 @@
         "Dewpider": 1,
         "Pansear": 3,
         "Togetic": 3,
-        "Houndstone": 2,
+        "Houndstone": 3,
         "Ponyta": 1,
         "Drifblim": 1,
         "Arcanine": 1,
@@ -766,7 +766,7 @@
         "Heliolisk": 1,
         "Doublade": 1,
         "Electivire": 1,
-        "Droopy tatsugiri": 3,
+        "Droopy tatsugiri": 4,
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
@@ -865,12 +865,12 @@
         "Zoroark": 1,
         "Aegislash": 1
       },
-      "total_spawns": 1212,
-      "last_spawn": "2026-07-05T17:48:57.305304"
+      "total_spawns": 1219,
+      "last_spawn": "2026-07-05T17:49:34.614349"
     }
   },
   "global": {
-    "total_spawns": 64400,
+    "total_spawns": 64407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
