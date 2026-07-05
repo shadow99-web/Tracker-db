@@ -470,7 +470,7 @@
         "Drifloon": 1,
         "Togepi": 2,
         "Snivy": 1,
-        "Bellsprout": 1,
+        "Bellsprout": 2,
         "Scorbunny": 1,
         "Roggenrola": 2,
         "Wattrel": 1,
@@ -612,14 +612,17 @@
         "Barbaracle": 1,
         "Noivern": 1,
         "Clefairy": 1,
-        "Grubbin": 1
+        "Grubbin": 1,
+        "Dustox": 1,
+        "Chespin": 1,
+        "Armarouge": 1
       },
-      "total_spawns": 311,
-      "last_spawn": "2026-07-05T15:33:44.349960"
+      "total_spawns": 315,
+      "last_spawn": "2026-07-05T15:34:24.422474"
     }
   },
   "global": {
-    "total_spawns": 63489,
+    "total_spawns": 63493,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
