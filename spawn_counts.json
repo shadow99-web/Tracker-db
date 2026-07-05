@@ -622,7 +622,7 @@
         "Battle cyclizar": 1,
         "Bagon": 1,
         "Vanilluxe": 1,
-        "Woobat": 1,
+        "Woobat": 2,
         "Goomy": 2,
         "Orbeetle": 1,
         "Shellder": 4,
@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 1,
-        "Tarountula": 2,
+        "Tarountula": 3,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 3,
@@ -743,14 +743,16 @@
         "Murkrow": 1,
         "Drednaw": 1,
         "Cyndaquil": 1,
-        "Thievul": 1
+        "Thievul": 1,
+        "Gengar": 1,
+        "Sunkern": 1
       },
-      "total_spawns": 668,
-      "last_spawn": "2026-07-05T16:34:45.018030"
+      "total_spawns": 672,
+      "last_spawn": "2026-07-05T16:35:24.345231"
     }
   },
   "global": {
-    "total_spawns": 63852,
+    "total_spawns": 63856,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
