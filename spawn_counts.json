@@ -411,7 +411,7 @@
         "Gothita": 4,
         "Finizen": 7,
         "Machop": 6,
-        "Psyduck": 3,
+        "Psyduck": 4,
         "Monferno": 1,
         "Pikipek": 4,
         "Flittle": 4,
@@ -449,7 +449,7 @@
         "Grimer": 1,
         "Grafaiai": 2,
         "Gastly": 5,
-        "Orthworm": 5,
+        "Orthworm": 6,
         "Glimmet": 7,
         "Beldum": 2,
         "Combee": 2,
@@ -500,19 +500,19 @@
         "Braixen": 2,
         "Skwovet": 2,
         "Magnemite": 6,
-        "Impidimp": 7,
+        "Impidimp": 8,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 6,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
-        "Bombirdier": 3,
+        "Bombirdier": 4,
         "Wooloo": 3,
         "Togekiss": 1,
         "Rolycoly": 6,
         "Duskull": 5,
-        "Marill": 4,
+        "Marill": 5,
         "Axew": 3,
         "Tinkatink": 3,
         "Starly": 7,
@@ -541,7 +541,7 @@
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 5,
-        "Sizzlipede": 2,
+        "Sizzlipede": 3,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 4,
@@ -850,12 +850,12 @@
         "Lickilicky": 1,
         "Dhelmise": 1
       },
-      "total_spawns": 1147,
-      "last_spawn": "2026-07-05T17:43:27.052847"
+      "total_spawns": 1153,
+      "last_spawn": "2026-07-05T17:43:57.392904"
     }
   },
   "global": {
-    "total_spawns": 64335,
+    "total_spawns": 64341,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
