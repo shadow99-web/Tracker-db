@@ -1433,14 +1433,15 @@
         "Ledyba": 1,
         "Chinchou": 1,
         "Eiscue": 1,
-        "Nacli": 1
+        "Nacli": 2,
+        "Pancham": 1
       },
-      "total_spawns": 388,
-      "last_spawn": "2026-07-05T03:53:23.122987"
+      "total_spawns": 390,
+      "last_spawn": "2026-07-05T03:54:03.096668"
     }
   },
   "global": {
-    "total_spawns": 62927,
+    "total_spawns": 62929,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
