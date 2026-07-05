@@ -450,7 +450,7 @@
         "Grafaiai": 1,
         "Gastly": 4,
         "Orthworm": 4,
-        "Glimmet": 4,
+        "Glimmet": 5,
         "Beldum": 1,
         "Combee": 2,
         "Corphish": 2,
@@ -483,7 +483,7 @@
         "Ralts": 5,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 5,
+        "Aron": 6,
         "Horsea": 7,
         "Teddiursa": 4,
         "Dratini": 1,
@@ -752,7 +752,7 @@
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 2,
-        "Togetic": 1,
+        "Togetic": 2,
         "Houndstone": 1,
         "Ponyta": 1,
         "Drifblim": 1,
@@ -791,14 +791,15 @@
         "Stunfisk": 1,
         "Spinda": 1,
         "Beautifly": 1,
-        "Fletchling": 1
+        "Fletchling": 1,
+        "Haunter": 1
       },
-      "total_spawns": 868,
-      "last_spawn": "2026-07-05T17:08:34.400996"
+      "total_spawns": 872,
+      "last_spawn": "2026-07-05T17:09:14.422924"
     }
   },
   "global": {
-    "total_spawns": 64052,
+    "total_spawns": 64056,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
