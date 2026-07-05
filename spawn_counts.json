@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 9,
-        "Sandile": 15,
+        "Sandile": 16,
         "Charmeleon": 3,
         "Riolu": 8,
         "Gible": 8,
@@ -180,7 +180,7 @@
         "Houndstone": 2,
         "Beldum": 11,
         "Kadabra": 6,
-        "Grovyle": 5,
+        "Grovyle": 6,
         "Dratini": 6,
         "Steelix": 1,
         "Sprigatito": 3,
@@ -652,10 +652,12 @@
         "Bibarel": 1,
         "Debutante trim furfrou": 2,
         "Phanpy": 1,
-        "Patrat": 1
+        "Patrat": 1,
+        "Passimian": 1,
+        "Jynx": 1
       },
-      "total_spawns": 2212,
-      "last_spawn": "2026-07-05T22:11:43.526179"
+      "total_spawns": 2216,
+      "last_spawn": "2026-07-05T22:12:13.665140"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -695,7 +697,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 3,
-        "Timburr": 11,
+        "Timburr": 12,
         "Pidgey": 7,
         "Gimmighoul": 9,
         "Cetoddle": 14,
@@ -909,7 +911,7 @@
         "Wingull": 1,
         "Buneary": 7,
         "Skiddo": 4,
-        "Zigzagoon": 3,
+        "Zigzagoon": 4,
         "Dj rotom": 6,
         "Anorith": 3,
         "Shiinotic": 1,
@@ -1293,12 +1295,12 @@
         "Mawile": 1,
         "Brionne": 1
       },
-      "total_spawns": 2300,
-      "last_spawn": "2026-07-05T22:11:34.451962"
+      "total_spawns": 2302,
+      "last_spawn": "2026-07-05T22:12:04.439155"
     }
   },
   "global": {
-    "total_spawns": 67051,
+    "total_spawns": 67057,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
