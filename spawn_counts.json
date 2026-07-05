@@ -1226,7 +1226,7 @@
         "Vulpix": 1,
         "Gastly": 4,
         "Aron": 2,
-        "Honedge": 5,
+        "Honedge": 6,
         "Houndour": 1,
         "Machop": 5,
         "Terapagos": 1,
@@ -1467,7 +1467,7 @@
         "Larvitar": 2,
         "Lumineon": 1,
         "Kilowattrel": 1,
-        "Pumpkaboo": 1,
+        "Pumpkaboo": 2,
         "Petilil": 1,
         "Bombirdier": 1,
         "Bellibolt": 1,
@@ -1500,14 +1500,16 @@
         "Solosis": 1,
         "Sandygast": 1,
         "Pidove": 1,
-        "Chespin": 1
+        "Chespin": 1,
+        "Combee": 1,
+        "Cyndaquil": 1
       },
-      "total_spawns": 533,
-      "last_spawn": "2026-07-05T04:21:03.992096"
+      "total_spawns": 537,
+      "last_spawn": "2026-07-05T04:21:43.598207"
     }
   },
   "global": {
-    "total_spawns": 63072,
+    "total_spawns": 63076,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
