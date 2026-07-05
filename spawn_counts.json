@@ -406,7 +406,7 @@
         "Nymble": 5,
         "Porygon": 8,
         "Abra": 6,
-        "Oddish": 7,
+        "Oddish": 8,
         "Dedenne": 1,
         "Gothita": 4,
         "Finizen": 7,
@@ -476,11 +476,11 @@
         "Bellsprout": 4,
         "Scorbunny": 2,
         "Roggenrola": 6,
-        "Wattrel": 8,
+        "Wattrel": 9,
         "Nacli": 13,
         "Feebas": 2,
         "Weedle": 7,
-        "Ralts": 6,
+        "Ralts": 7,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
@@ -732,7 +732,7 @@
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
-        "Frogadier": 3,
+        "Frogadier": 4,
         "Golett": 2,
         "Mismagius": 1,
         "Mudbray": 2,
@@ -854,14 +854,16 @@
         "Pidgeot": 1,
         "Appletun": 1,
         "Rhydon": 1,
-        "Bruxish": 1
+        "Bruxish": 1,
+        "Pancham": 1,
+        "Exeggcute": 1
       },
-      "total_spawns": 1173,
-      "last_spawn": "2026-07-05T17:45:37.194983"
+      "total_spawns": 1179,
+      "last_spawn": "2026-07-05T17:46:07.205207"
     }
   },
   "global": {
-    "total_spawns": 64361,
+    "total_spawns": 64367,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
