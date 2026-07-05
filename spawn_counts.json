@@ -691,10 +691,10 @@
         "Dusclops": 4,
         "Rhyhorn": 13,
         "Mareep": 12,
-        "Klink": 10,
+        "Klink": 11,
         "Nymble": 14,
         "Porygon": 14,
-        "Abra": 18,
+        "Abra": 19,
         "Oddish": 15,
         "Dedenne": 2,
         "Gothita": 14,
@@ -809,7 +809,7 @@
         "Watchog": 2,
         "Bounsweet": 22,
         "Flamigo": 13,
-        "Stunky": 3,
+        "Stunky": 4,
         "Spinarak": 4,
         "Gligar": 3,
         "Cubone": 4,
@@ -839,7 +839,7 @@
         "Maschiff": 13,
         "Sensu oricorio": 3,
         "Scatterbug": 17,
-        "Taillow": 4,
+        "Taillow": 5,
         "Wimpod": 7,
         "Rookidee": 16,
         "Shellos": 1,
@@ -1376,12 +1376,12 @@
         "Dudunsparce": 1,
         "Dialga": 1
       },
-      "total_spawns": 2826,
-      "last_spawn": "2026-07-05T23:40:34.594539"
+      "total_spawns": 2830,
+      "last_spawn": "2026-07-05T23:41:14.403711"
     }
   },
   "global": {
-    "total_spawns": 67810,
+    "total_spawns": 67814,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
