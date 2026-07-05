@@ -1266,7 +1266,7 @@
         "Magnezone": 1,
         "Eevee": 1,
         "Dreepy": 2,
-        "Treecko": 1,
+        "Treecko": 2,
         "Shroodle": 2,
         "Ride cyclizar": 1,
         "Swinub": 2,
@@ -1345,12 +1345,12 @@
         "Meowth": 1,
         "Charmander": 1
       },
-      "total_spawns": 239,
-      "last_spawn": "2026-07-05T02:00:38.225069"
+      "total_spawns": 240,
+      "last_spawn": "2026-07-05T02:02:08.349009"
     }
   },
   "global": {
-    "total_spawns": 62778,
+    "total_spawns": 62779,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
