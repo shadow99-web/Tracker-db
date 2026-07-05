@@ -174,7 +174,7 @@
         "Rellor": 2,
         "Rolycoly": 2,
         "Poliwhirl": 1,
-        "Lokix": 1,
+        "Lokix": 2,
         "Flamigo": 2,
         "Bellsprout": 7,
         "Houndstone": 1,
@@ -315,7 +315,7 @@
         "Petilil": 1,
         "Bombirdier": 2,
         "Bellibolt": 1,
-        "Toedscool": 1,
+        "Toedscool": 2,
         "Paras": 1,
         "Fletchinder": 1,
         "Staravia": 1,
@@ -385,10 +385,12 @@
         "Azelf": 1,
         "Clodsire": 1,
         "Charizard": 2,
-        "Axew": 2
+        "Axew": 2,
+        "Joltik": 1,
+        "Gulpin": 1
       },
-      "total_spawns": 656,
-      "last_spawn": "2026-07-05T19:05:35.193264"
+      "total_spawns": 660,
+      "last_spawn": "2026-07-05T19:06:54.041070"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -888,7 +890,7 @@
     }
   },
   "global": {
-    "total_spawns": 64487,
+    "total_spawns": 64491,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
