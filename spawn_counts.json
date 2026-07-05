@@ -361,7 +361,7 @@
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 3,
-        "Rockruff": 1,
+        "Rockruff": 2,
         "Snowy castform": 1,
         "Dusclops": 2,
         "Prinplup": 1,
@@ -552,10 +552,12 @@
         "Yungoos": 1,
         "Palpitoad": 2,
         "Smeargle": 2,
-        "Appletun": 2
+        "Appletun": 2,
+        "Arrokuda": 1,
+        "Toxapex": 2
       },
-      "total_spawns": 1373,
-      "last_spawn": "2026-07-05T20:52:23.817701"
+      "total_spawns": 1377,
+      "last_spawn": "2026-07-05T20:52:53.535333"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -597,7 +599,7 @@
         "Karrablast": 3,
         "Timburr": 6,
         "Pidgey": 7,
-        "Gimmighoul": 6,
+        "Gimmighoul": 7,
         "Cetoddle": 14,
         "Fidough": 12,
         "Smearguru": 5,
@@ -634,7 +636,7 @@
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 2,
-        "Seedot": 11,
+        "Seedot": 12,
         "Trapinch": 10,
         "Hatenna": 10,
         "Drifloon": 3,
@@ -794,7 +796,7 @@
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 7,
-        "Spoink": 5,
+        "Spoink": 6,
         "Lileep": 3,
         "Crocalor": 2,
         "Cranidos": 1,
@@ -826,7 +828,7 @@
         "Whirlipede": 2,
         "Tinkatuff": 2,
         "Baltoy": 5,
-        "Tarountula": 13,
+        "Tarountula": 14,
         "Omastar": 2,
         "Surskit": 2,
         "Wooper": 4,
@@ -1137,12 +1139,12 @@
         "Gothorita": 1,
         "Simipour": 1
       },
-      "total_spawns": 1835,
-      "last_spawn": "2026-07-05T20:52:16.495386"
+      "total_spawns": 1839,
+      "last_spawn": "2026-07-05T20:52:54.405293"
     }
   },
   "global": {
-    "total_spawns": 65747,
+    "total_spawns": 65755,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
