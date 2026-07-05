@@ -460,7 +460,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 6,
+        "Charcadet": 7,
         "Sandile": 6,
         "Maushold": 2,
         "Rattata": 5,
@@ -526,7 +526,7 @@
         "Cubone": 1,
         "Dracovish": 1,
         "Deino": 4,
-        "Honedge": 3,
+        "Honedge": 4,
         "Litleo": 1,
         "Steelix": 2,
         "Greninja": 1,
@@ -576,7 +576,7 @@
         "Quaxwell": 1,
         "Croconaw": 2,
         "Smoliv": 4,
-        "Lechonk": 4,
+        "Lechonk": 5,
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
@@ -629,7 +629,7 @@
         "Pawmi": 4,
         "Spoink": 4,
         "Lileep": 2,
-        "Crocalor": 1,
+        "Crocalor": 2,
         "Cranidos": 1,
         "Cherrim": 1,
         "Raboot": 4,
@@ -735,7 +735,7 @@
         "Frogadier": 3,
         "Golett": 2,
         "Mismagius": 1,
-        "Mudbray": 1,
+        "Mudbray": 2,
         "Weepinbell": 1,
         "East sea shellos": 3,
         "Flygon": 1,
@@ -838,14 +838,16 @@
         "Vullaby": 1,
         "Burmy": 1,
         "Nidorina": 1,
-        "Meowth": 1
+        "Meowth": 1,
+        "Shelmet": 1,
+        "Electabuzz": 1
       },
-      "total_spawns": 1086,
-      "last_spawn": "2026-07-05T17:38:27.001159"
+      "total_spawns": 1093,
+      "last_spawn": "2026-07-05T17:38:57.098481"
     }
   },
   "global": {
-    "total_spawns": 64274,
+    "total_spawns": 64281,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
