@@ -113,7 +113,7 @@
         "Treecko": 2,
         "Shroodle": 4,
         "Ride cyclizar": 1,
-        "Swinub": 6,
+        "Swinub": 7,
         "Rattata": 3,
         "Stonjourner": 1,
         "Veluza": 2,
@@ -320,7 +320,7 @@
         "Fletchinder": 1,
         "Staravia": 1,
         "Wishiwashi": 1,
-        "Skitty": 1,
+        "Skitty": 3,
         "Finizen": 1,
         "Swablu": 1,
         "Sunkern": 1,
@@ -373,7 +373,7 @@
         "Duraludon": 2,
         "Nidorino": 2,
         "Rayquaza": 10,
-        "Horsea": 3,
+        "Horsea": 5,
         "Reshiram": 1,
         "Celebi": 1,
         "Morelull": 1,
@@ -429,10 +429,11 @@
         "Haunter": 1,
         "Dottler": 1,
         "Wailmer": 1,
-        "Frigibax": 1
+        "Frigibax": 2,
+        "Iron valiant": 2
       },
-      "total_spawns": 827,
-      "last_spawn": "2026-07-05T19:51:43.548429"
+      "total_spawns": 835,
+      "last_spawn": "2026-07-05T19:52:13.894596"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -932,7 +933,7 @@
     }
   },
   "global": {
-    "total_spawns": 64658,
+    "total_spawns": 64666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
