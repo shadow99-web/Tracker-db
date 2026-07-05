@@ -485,7 +485,7 @@
         "Dratini": 1,
         "Sewaddle": 2,
         "Mantyke": 1,
-        "Slakoth": 3,
+        "Slakoth": 4,
         "Dreepy": 2,
         "Foongus": 1,
         "Hoppip": 2,
@@ -581,14 +581,16 @@
         "Munna": 1,
         "Tangela": 1,
         "Espurr": 1,
-        "Doduo": 1
+        "Doduo": 1,
+        "Kadabra": 1,
+        "Stretchy tatsugiri": 1
       },
-      "total_spawns": 264,
-      "last_spawn": "2026-07-05T15:25:44.453528"
+      "total_spawns": 267,
+      "last_spawn": "2026-07-05T15:26:14.499126"
     }
   },
   "global": {
-    "total_spawns": 63438,
+    "total_spawns": 63441,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
