@@ -1310,7 +1310,7 @@
         "Roggenrola": 1,
         "Litwick": 2,
         "Wooper": 1,
-        "Pikipek": 2,
+        "Pikipek": 3,
         "Spritzee": 1,
         "Stantler": 1,
         "Impidimp": 1,
@@ -1339,14 +1339,15 @@
         "Grovyle": 1,
         "Dratini": 1,
         "Steelix": 1,
-        "Sprigatito": 1
+        "Sprigatito": 1,
+        "Charcadet": 1
       },
-      "total_spawns": 228,
-      "last_spawn": "2026-07-05T01:50:58.266495"
+      "total_spawns": 230,
+      "last_spawn": "2026-07-05T01:51:38.393015"
     }
   },
   "global": {
-    "total_spawns": 62767,
+    "total_spawns": 62769,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
