@@ -35,7 +35,7 @@
         "Fletchling": 3,
         "Whirlipede": 2,
         "Duskull": 6,
-        "Abra": 6,
+        "Abra": 7,
         "Wiglett": 4,
         "Starly": 8,
         "Caterpie": 3,
@@ -76,7 +76,7 @@
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
-        "Salandit": 1,
+        "Salandit": 3,
         "Bruxish": 1,
         "Orbeetle": 1,
         "Bramblin": 4,
@@ -92,7 +92,7 @@
         "Charmeleon": 1,
         "Riolu": 2,
         "Gible": 4,
-        "Greavard": 2,
+        "Greavard": 4,
         "Snover": 3,
         "Piplup": 1,
         "Dondozo": 2,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 1,
-        "Teddiursa": 5,
+        "Teddiursa": 7,
         "Roggenrola": 3,
         "Litwick": 2,
         "Wooper": 1,
@@ -222,7 +222,7 @@
         "Duosion": 1,
         "Orthworm": 3,
         "Yamask": 1,
-        "Nymble": 2,
+        "Nymble": 3,
         "Snorunt": 1,
         "Carvanha": 2,
         "Toxel": 1,
@@ -441,10 +441,11 @@
         "Wailord": 1,
         "Accelgor": 1,
         "Tyrunt": 1,
-        "Hisuian typhlosion": 2
+        "Hisuian typhlosion": 2,
+        "Ponyta": 1
       },
-      "total_spawns": 877,
-      "last_spawn": "2026-07-05T19:56:28.235444"
+      "total_spawns": 886,
+      "last_spawn": "2026-07-05T19:57:03.597874"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -603,7 +604,7 @@
         "Tynamo": 6,
         "Quaquaval": 4,
         "Rapidash": 1,
-        "Maschiff": 6,
+        "Maschiff": 7,
         "Sensu oricorio": 2,
         "Scatterbug": 6,
         "Taillow": 2,
@@ -670,7 +671,7 @@
         "Tepig": 2,
         "Barbaracle": 4,
         "Noivern": 2,
-        "Clefairy": 3,
+        "Clefairy": 4,
         "Grubbin": 8,
         "Dustox": 1,
         "Chespin": 5,
@@ -712,7 +713,7 @@
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
-        "Whirlipede": 1,
+        "Whirlipede": 2,
         "Tinkatuff": 1,
         "Baltoy": 4,
         "Tarountula": 10,
@@ -742,7 +743,7 @@
         "Tyrogue": 1,
         "Minior": 1,
         "Veluza": 3,
-        "Salandit": 3,
+        "Salandit": 4,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 3,
         "Passimian": 1,
@@ -939,14 +940,16 @@
         "Glastrier": 1,
         "Crabrawler": 1,
         "Onix": 1,
-        "Arctibax": 1
+        "Arctibax": 1,
+        "Shelgon": 1,
+        "Dracozolt": 1
       },
-      "total_spawns": 1301,
-      "last_spawn": "2026-07-05T19:56:34.404348"
+      "total_spawns": 1307,
+      "last_spawn": "2026-07-05T19:57:04.517974"
     }
   },
   "global": {
-    "total_spawns": 64717,
+    "total_spawns": 64732,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
