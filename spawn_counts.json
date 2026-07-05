@@ -1306,7 +1306,7 @@
         "Claydol": 1,
         "Trapinch": 1,
         "Butterfree": 1,
-        "Teddiursa": 1,
+        "Teddiursa": 2,
         "Roggenrola": 1,
         "Litwick": 2,
         "Wooper": 1,
@@ -1430,14 +1430,15 @@
         "Plusle": 1,
         "Decidueye": 1,
         "Kricketot": 1,
-        "Ledyba": 1
+        "Ledyba": 1,
+        "Chinchou": 1
       },
-      "total_spawns": 380,
-      "last_spawn": "2026-07-05T03:50:42.986686"
+      "total_spawns": 382,
+      "last_spawn": "2026-07-05T03:51:23.314369"
     }
   },
   "global": {
-    "total_spawns": 62919,
+    "total_spawns": 62921,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
