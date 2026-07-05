@@ -9,7 +9,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 4,
+        "Braixen": 5,
         "Oddish": 7,
         "Totodile": 3,
         "Vanillite": 16,
@@ -95,7 +95,7 @@
         "Greavard": 12,
         "Snover": 3,
         "Piplup": 1,
-        "Dondozo": 2,
+        "Dondozo": 3,
         "Cyclizar": 3,
         "Froslass": 1,
         "Dodrio": 1,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 13,
         "Roggenrola": 9,
-        "Litwick": 3,
+        "Litwick": 4,
         "Wooper": 2,
         "Pikipek": 10,
         "Spritzee": 1,
@@ -204,11 +204,11 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 1,
-        "Zubat": 8,
+        "Zubat": 9,
         "Drowzee": 3,
         "Lechonk": 4,
         "Woobat": 2,
-        "Skrelp": 3,
+        "Skrelp": 4,
         "Lileep": 2,
         "Drifloon": 1,
         "Mightyena": 2,
@@ -340,7 +340,7 @@
         "Furfrou": 1,
         "Ursaring": 1,
         "Bidoof": 2,
-        "Gothita": 3,
+        "Gothita": 4,
         "Solosis": 7,
         "Sandygast": 2,
         "Pidove": 2,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 2,
         "Charizard": 6,
-        "Axew": 9,
+        "Axew": 10,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 1,
@@ -477,7 +477,7 @@
         "Alolan raichu": 2,
         "Hitmontop": 2,
         "Pignite": 1,
-        "Bunnelby": 1,
+        "Bunnelby": 2,
         "Complete zygarde": 1,
         "Mudbray": 1,
         "Spectrier": 1,
@@ -581,8 +581,8 @@
         "Probopass": 1,
         "Family of three maushold": 1
       },
-      "total_spawns": 1529,
-      "last_spawn": "2026-07-05T21:07:14.768326"
+      "total_spawns": 1537,
+      "last_spawn": "2026-07-05T21:07:48.205022"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -869,7 +869,7 @@
         "Bidoof": 2,
         "Frillish": 4,
         "Toedscool": 8,
-        "Espathra": 1,
+        "Espathra": 2,
         "Klang": 3,
         "Vespiquen": 4,
         "Amaura": 1,
@@ -882,7 +882,7 @@
         "Veluza": 9,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 6,
+        "Poliwag": 7,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 3,
@@ -921,7 +921,7 @@
         "Kabuto": 4,
         "Chewtle": 1,
         "Drakloak": 2,
-        "Pawmo": 3,
+        "Pawmo": 4,
         "Charjabug": 2,
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
@@ -1175,14 +1175,15 @@
         "Cramorant": 1,
         "Decidueye": 1,
         "Venusaur": 1,
-        "Spearow": 1
+        "Spearow": 1,
+        "Emboar": 1
       },
-      "total_spawns": 1921,
-      "last_spawn": "2026-07-05T21:07:04.350786"
+      "total_spawns": 1925,
+      "last_spawn": "2026-07-05T21:07:44.597609"
     }
   },
   "global": {
-    "total_spawns": 65989,
+    "total_spawns": 66001,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
