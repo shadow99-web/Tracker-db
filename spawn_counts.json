@@ -499,7 +499,7 @@
         "Braixen": 1,
         "Skwovet": 1,
         "Magnemite": 1,
-        "Impidimp": 2,
+        "Impidimp": 3,
         "Elgyem": 1,
         "Gastrodon": 1,
         "Shroodle": 2,
@@ -531,7 +531,7 @@
         "Greninja": 1,
         "Dondozo": 2,
         "Lairon": 1,
-        "Zubat": 4,
+        "Zubat": 5,
         "Croagunk": 1,
         "Klawf": 3,
         "Lombre": 2,
@@ -588,7 +588,7 @@
         "Kadabra": 1,
         "Stretchy tatsugiri": 1,
         "Dugtrio": 1,
-        "Capsakid": 2,
+        "Capsakid": 3,
         "Tyrunt": 1,
         "Drilbur": 1,
         "Vaporeon": 1,
@@ -667,14 +667,15 @@
         "Kricketot": 1,
         "Golurk": 1,
         "Carracosta": 1,
-        "Fennekin": 1
+        "Fennekin": 1,
+        "Fuecoco": 1
       },
-      "total_spawns": 441,
-      "last_spawn": "2026-07-05T15:55:45.578938"
+      "total_spawns": 445,
+      "last_spawn": "2026-07-05T15:56:24.397984"
     }
   },
   "global": {
-    "total_spawns": 63623,
+    "total_spawns": 63627,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
