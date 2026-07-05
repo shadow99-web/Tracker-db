@@ -513,7 +513,7 @@
         "Starly": 1,
         "Popplio": 1,
         "Watchog": 1,
-        "Bounsweet": 2,
+        "Bounsweet": 3,
         "Flamigo": 2,
         "Stunky": 1,
         "Spinarak": 1,
@@ -572,14 +572,16 @@
         "Croconaw": 1,
         "Smoliv": 1,
         "Lechonk": 1,
-        "Clodsire": 1
+        "Clodsire": 1,
+        "Sandaconda": 1,
+        "Ninjask": 1
       },
-      "total_spawns": 246,
-      "last_spawn": "2026-07-05T15:22:44.802855"
+      "total_spawns": 249,
+      "last_spawn": "2026-07-05T15:23:19.823977"
     }
   },
   "global": {
-    "total_spawns": 63419,
+    "total_spawns": 63422,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
