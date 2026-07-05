@@ -176,7 +176,7 @@
         "Poliwhirl": 4,
         "Lokix": 2,
         "Flamigo": 5,
-        "Bellsprout": 8,
+        "Bellsprout": 9,
         "Houndstone": 1,
         "Beldum": 5,
         "Kadabra": 2,
@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 1,
         "Drednaw": 1,
-        "Corvisquire": 1,
+        "Corvisquire": 2,
         "Croconaw": 3,
         "Makuhita": 1,
         "Machamp": 1,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 3,
-        "Finizen": 1,
+        "Finizen": 2,
         "Swablu": 1,
         "Sunkern": 1,
         "Snubbull": 1,
@@ -511,8 +511,8 @@
         "Melmetal": 1,
         "Liepard": 1
       },
-      "total_spawns": 1129,
-      "last_spawn": "2026-07-05T20:23:18.467418"
+      "total_spawns": 1132,
+      "last_spawn": "2026-07-05T20:23:48.376846"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -592,7 +592,7 @@
         "Aromatisse": 1,
         "Slowpoke": 2,
         "Seedot": 11,
-        "Trapinch": 9,
+        "Trapinch": 10,
         "Hatenna": 8,
         "Drifloon": 2,
         "Togepi": 8,
@@ -601,7 +601,7 @@
         "Scorbunny": 2,
         "Roggenrola": 10,
         "Wattrel": 11,
-        "Nacli": 16,
+        "Nacli": 17,
         "Feebas": 2,
         "Weedle": 9,
         "Ralts": 8,
@@ -665,7 +665,7 @@
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 6,
-        "Sizzlipede": 3,
+        "Sizzlipede": 4,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 8,
@@ -792,7 +792,7 @@
         "Kricketot": 3,
         "Golurk": 4,
         "Carracosta": 1,
-        "Fennekin": 3,
+        "Fennekin": 4,
         "Fuecoco": 2,
         "Sandy wormadam": 1,
         "Sprigatito": 2,
@@ -872,7 +872,7 @@
         "Sunkern": 3,
         "Wugtrio": 2,
         "Applin": 2,
-        "Venipede": 7,
+        "Venipede": 8,
         "Toedscruel": 1,
         "Dewpider": 3,
         "Pansear": 4,
@@ -1066,14 +1066,15 @@
         "Quagsire": 1,
         "Sunflora": 1,
         "Wynaut": 1,
-        "Wo-chien": 1
+        "Wo-chien": 1,
+        "Tranquill": 1
       },
-      "total_spawns": 1614,
-      "last_spawn": "2026-07-05T20:23:24.652782"
+      "total_spawns": 1620,
+      "last_spawn": "2026-07-05T20:23:56.073553"
     }
   },
   "global": {
-    "total_spawns": 65282,
+    "total_spawns": 65291,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
