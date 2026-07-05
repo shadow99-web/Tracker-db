@@ -70,7 +70,7 @@
         "Vulpix": 1,
         "Gastly": 8,
         "Aron": 3,
-        "Honedge": 14,
+        "Honedge": 16,
         "Houndour": 1,
         "Machop": 6,
         "Terapagos": 1,
@@ -345,7 +345,7 @@
         "Sandygast": 2,
         "Pidove": 1,
         "Chespin": 1,
-        "Combee": 2,
+        "Combee": 3,
         "Cyndaquil": 1,
         "Grotle": 2,
         "Tinkaton": 1,
@@ -456,7 +456,7 @@
         "Espurr": 2,
         "Pelipper": 1,
         "Excadrill": 2,
-        "Buizel": 1,
+        "Buizel": 2,
         "Pansear": 1,
         "Yanma": 1,
         "Galarian moltres": 1,
@@ -488,8 +488,8 @@
         "Mudkip": 2,
         "Galarian zapdos": 1
       },
-      "total_spawns": 1042,
-      "last_spawn": "2026-07-05T20:13:08.507369"
+      "total_spawns": 1046,
+      "last_spawn": "2026-07-05T20:13:38.301857"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -519,7 +519,7 @@
         "Lillipup": 6,
         "Eevee": 3,
         "Shroomish": 1,
-        "Dachsbun": 2,
+        "Dachsbun": 3,
         "Swirlix": 3,
         "Glimmora": 4,
         "Meditite": 3,
@@ -532,7 +532,7 @@
         "Timburr": 6,
         "Pidgey": 5,
         "Gimmighoul": 6,
-        "Cetoddle": 13,
+        "Cetoddle": 14,
         "Fidough": 11,
         "Smearguru": 4,
         "Nuzleaf": 3,
@@ -678,7 +678,7 @@
         "Croconaw": 2,
         "Smoliv": 5,
         "Lechonk": 7,
-        "Clodsire": 1,
+        "Clodsire": 2,
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 5,
@@ -706,7 +706,7 @@
         "Ledian": 2,
         "Pineco": 3,
         "Vanillite": 8,
-        "Omanyte": 4,
+        "Omanyte": 5,
         "Scraggy": 2,
         "Komala": 1,
         "Stoutland": 1,
@@ -722,7 +722,7 @@
         "Armarouge": 2,
         "Battle cyclizar": 2,
         "Bagon": 3,
-        "Vanilluxe": 1,
+        "Vanilluxe": 2,
         "Woobat": 3,
         "Goomy": 7,
         "Orbeetle": 1,
@@ -979,7 +979,7 @@
         "Nidoking": 1,
         "Hariyama": 1,
         "Archen": 1,
-        "Mabosstiff": 1,
+        "Mabosstiff": 2,
         "Skuntank": 1,
         "Glastrier": 1,
         "Crabrawler": 1,
@@ -1026,14 +1026,15 @@
         "Fraxure": 1,
         "Tentacool": 1,
         "Relicanth": 1,
-        "Patrat": 1
+        "Patrat": 1,
+        "Cottonee": 1
       },
-      "total_spawns": 1494,
-      "last_spawn": "2026-07-05T20:13:07.125459"
+      "total_spawns": 1501,
+      "last_spawn": "2026-07-05T20:13:44.496420"
     }
   },
   "global": {
-    "total_spawns": 65075,
+    "total_spawns": 65086,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
