@@ -560,12 +560,12 @@
         "Rowlet": 1,
         "Gholdengo": 1,
         "Machoke": 1,
-        "Glameow": 1,
+        "Glameow": 2,
         "Swinub": 1,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
-        "Rellor": 1,
+        "Rellor": 2,
         "Hippopotas": 1,
         "Chikorita": 1,
         "Litwick": 2,
@@ -646,14 +646,16 @@
         "Anorith": 1,
         "Shiinotic": 1,
         "Snover": 1,
-        "Bayleef": 1
+        "Bayleef": 1,
+        "Nosepass": 1,
+        "Scovillain": 1
       },
-      "total_spawns": 383,
-      "last_spawn": "2026-07-05T15:45:54.599232"
+      "total_spawns": 387,
+      "last_spawn": "2026-07-05T15:46:34.773293"
     }
   },
   "global": {
-    "total_spawns": 63565,
+    "total_spawns": 63569,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
