@@ -396,7 +396,7 @@
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
-        "Gible": 2,
+        "Gible": 3,
         "Torracat": 1,
         "Dusclops": 1,
         "Rhyhorn": 3,
@@ -423,7 +423,7 @@
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 7,
-        "Jangmo-o": 3,
+        "Jangmo-o": 4,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 2,
@@ -668,14 +668,16 @@
         "Golurk": 1,
         "Carracosta": 1,
         "Fennekin": 1,
-        "Fuecoco": 1
+        "Fuecoco": 1,
+        "Sandy wormadam": 1,
+        "Sprigatito": 1
       },
-      "total_spawns": 447,
-      "last_spawn": "2026-07-05T15:56:54.495924"
+      "total_spawns": 451,
+      "last_spawn": "2026-07-05T15:57:34.362919"
     }
   },
   "global": {
-    "total_spawns": 63629,
+    "total_spawns": 63633,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
