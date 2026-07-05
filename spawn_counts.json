@@ -1171,7 +1171,7 @@
         "Vanillite": 4,
         "Weedle": 4,
         "Kabutops": 2,
-        "Poliwag": 3,
+        "Poliwag": 4,
         "Fidough": 2,
         "Charjabug": 1,
         "Hatterene": 1,
@@ -1191,7 +1191,7 @@
         "Fletchling": 2,
         "Whirlipede": 1,
         "Duskull": 6,
-        "Abra": 1,
+        "Abra": 2,
         "Wiglett": 2,
         "Starly": 4,
         "Caterpie": 2,
@@ -1459,14 +1459,16 @@
         "Quaxwell": 1,
         "Swanna": 1,
         "Torracat": 1,
-        "Geodude": 1
+        "Geodude": 1,
+        "Tentacruel": 1,
+        "Archen": 1
       },
-      "total_spawns": 445,
-      "last_spawn": "2026-07-05T04:05:23.813661"
+      "total_spawns": 449,
+      "last_spawn": "2026-07-05T04:06:04.134821"
     }
   },
   "global": {
-    "total_spawns": 62984,
+    "total_spawns": 62988,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
