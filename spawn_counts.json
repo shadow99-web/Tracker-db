@@ -31,9 +31,9 @@
         "Pyukumuku": 1,
         "Pidgey": 7,
         "Binacle": 2,
-        "Bounsweet": 4,
+        "Bounsweet": 6,
         "Fletchling": 4,
-        "Whirlipede": 2,
+        "Whirlipede": 3,
         "Duskull": 10,
         "Abra": 10,
         "Wiglett": 4,
@@ -41,7 +41,7 @@
         "Caterpie": 4,
         "Mareep": 3,
         "Capsakid": 8,
-        "Numel": 2,
+        "Numel": 3,
         "Pawmo": 2,
         "Wattrel": 3,
         "Tadbulb": 7,
@@ -59,7 +59,7 @@
         "Shroomish": 3,
         "Lillipup": 4,
         "Mosslax": 10,
-        "Maushold": 2,
+        "Maushold": 3,
         "Cubchoo": 1,
         "Koffing": 2,
         "Kirlia": 1,
@@ -178,7 +178,7 @@
         "Flamigo": 5,
         "Bellsprout": 11,
         "Houndstone": 1,
-        "Beldum": 5,
+        "Beldum": 7,
         "Kadabra": 4,
         "Grovyle": 1,
         "Dratini": 4,
@@ -277,10 +277,10 @@
         "Ledyba": 2,
         "Chinchou": 2,
         "Eiscue": 1,
-        "Nacli": 8,
+        "Nacli": 9,
         "Pancham": 2,
         "Bulbasaur": 4,
-        "Dewpider": 2,
+        "Dewpider": 3,
         "Yellow plumage squawkabilly": 1,
         "Hattrem": 2,
         "Trash wormadam": 1,
@@ -514,7 +514,7 @@
         "Dewott": 1,
         "Braviary": 4,
         "Low key toxtricity": 2,
-        "Nidorina": 1,
+        "Nidorina": 2,
         "Bronzong": 1,
         "Foongus": 1,
         "Krookodile": 1,
@@ -565,10 +565,12 @@
         "Unown x": 2,
         "Starmie": 1,
         "Farfetch'd": 2,
-        "Grafaiai": 1
+        "Grafaiai": 1,
+        "Fearow": 1,
+        "Squawkabilly": 1
       },
-      "total_spawns": 1448,
-      "last_spawn": "2026-07-05T21:02:47.014372"
+      "total_spawns": 1460,
+      "last_spawn": "2026-07-05T21:03:33.647219"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -749,7 +751,7 @@
         "Rellor": 7,
         "Hippopotas": 3,
         "Chikorita": 5,
-        "Litwick": 11,
+        "Litwick": 12,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -865,7 +867,7 @@
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 8,
+        "Veluza": 9,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 6,
@@ -1158,14 +1160,15 @@
         "Castform": 1,
         "Palossand": 1,
         "Clamperl": 1,
-        "Cramorant": 1
+        "Cramorant": 1,
+        "Decidueye": 1
       },
-      "total_spawns": 1898,
-      "last_spawn": "2026-07-05T21:03:00.793227"
+      "total_spawns": 1901,
+      "last_spawn": "2026-07-05T21:03:24.302396"
     }
   },
   "global": {
-    "total_spawns": 65885,
+    "total_spawns": 65900,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
