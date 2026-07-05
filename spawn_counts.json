@@ -79,7 +79,7 @@
         "Salandit": 1,
         "Bruxish": 1,
         "Orbeetle": 1,
-        "Bramblin": 3,
+        "Bramblin": 4,
         "Stufful": 1,
         "Shelgon": 1,
         "Marshtomp": 1,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 1,
         "Pikachu": 2,
-        "Tarountula": 2,
+        "Tarountula": 3,
         "Rhyhorn": 3,
         "Aipom": 2,
         "Grookey": 1,
@@ -208,7 +208,7 @@
         "Drowzee": 2,
         "Lechonk": 3,
         "Woobat": 1,
-        "Skrelp": 2,
+        "Skrelp": 3,
         "Lileep": 1,
         "Drifloon": 1,
         "Mightyena": 2,
@@ -395,10 +395,11 @@
         "Meganium": 2,
         "Rainy castform": 1,
         "Rabsca": 1,
-        "Misdreavus": 1
+        "Misdreavus": 1,
+        "Cursola": 2
       },
-      "total_spawns": 692,
-      "last_spawn": "2026-07-05T19:16:33.804327"
+      "total_spawns": 697,
+      "last_spawn": "2026-07-05T19:17:43.605391"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -898,7 +899,7 @@
     }
   },
   "global": {
-    "total_spawns": 64523,
+    "total_spawns": 64528,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
