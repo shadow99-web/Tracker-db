@@ -38,7 +38,7 @@
         "Abra": 10,
         "Wiglett": 4,
         "Starly": 12,
-        "Caterpie": 3,
+        "Caterpie": 4,
         "Mareep": 3,
         "Capsakid": 7,
         "Numel": 2,
@@ -282,7 +282,7 @@
         "Bulbasaur": 4,
         "Dewpider": 2,
         "Yellow plumage squawkabilly": 1,
-        "Hattrem": 1,
+        "Hattrem": 2,
         "Trash wormadam": 1,
         "Purrloin": 1,
         "Zigzagoon": 2,
@@ -549,10 +549,11 @@
         "Nincada": 1,
         "Audino": 1,
         "Mime jr.": 2,
-        "Yungoos": 1
+        "Yungoos": 1,
+        "Palpitoad": 2
       },
-      "total_spawns": 1349,
-      "last_spawn": "2026-07-05T20:47:25.128210"
+      "total_spawns": 1353,
+      "last_spawn": "2026-07-05T20:50:13.510850"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -683,7 +684,7 @@
         "Popplio": 2,
         "Watchog": 2,
         "Bounsweet": 15,
-        "Flamigo": 7,
+        "Flamigo": 8,
         "Stunky": 1,
         "Spinarak": 3,
         "Gligar": 1,
@@ -711,7 +712,7 @@
         "Tynamo": 9,
         "Quaquaval": 4,
         "Rapidash": 1,
-        "Maschiff": 9,
+        "Maschiff": 10,
         "Sensu oricorio": 2,
         "Scatterbug": 12,
         "Taillow": 2,
@@ -1092,7 +1093,7 @@
         "Patrat": 1,
         "Cottonee": 1,
         "Butterfree": 1,
-        "Quaxly": 1,
+        "Quaxly": 2,
         "Guzzlord": 1,
         "Seadra": 1,
         "Pyukumuku": 2,
@@ -1133,12 +1134,12 @@
         "Palafin": 1,
         "Gothorita": 1
       },
-      "total_spawns": 1820,
-      "last_spawn": "2026-07-05T20:49:44.631383"
+      "total_spawns": 1823,
+      "last_spawn": "2026-07-05T20:50:14.677553"
     }
   },
   "global": {
-    "total_spawns": 65708,
+    "total_spawns": 65715,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
