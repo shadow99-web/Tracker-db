@@ -379,14 +379,17 @@
         "Caterpie": 1,
         "Flaaffy": 1,
         "Bronzor": 1,
-        "Gible": 1
+        "Gible": 2,
+        "Torracat": 1,
+        "Dusclops": 1,
+        "Rhyhorn": 1
       },
-      "total_spawns": 5,
-      "last_spawn": "2026-07-05T14:07:04.415092"
+      "total_spawns": 9,
+      "last_spawn": "2026-07-05T14:07:44.495777"
     }
   },
   "global": {
-    "total_spawns": 63146,
+    "total_spawns": 63150,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
