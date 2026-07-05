@@ -1246,7 +1246,7 @@
         "Pawmi": 1,
         "Sandile": 2,
         "Charmeleon": 1,
-        "Riolu": 1,
+        "Riolu": 2,
         "Gible": 2,
         "Greavard": 1,
         "Snover": 1,
@@ -1258,7 +1258,7 @@
         "Metagross": 2,
         "Corphish": 1,
         "Doduo": 2,
-        "Flittle": 2,
+        "Flittle": 3,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -1332,7 +1332,7 @@
         "Poliwhirl": 1,
         "Lokix": 1,
         "Flamigo": 1,
-        "Bellsprout": 4,
+        "Bellsprout": 5,
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 2,
@@ -1461,12 +1461,12 @@
         "Torracat": 1,
         "Geodude": 1
       },
-      "total_spawns": 439,
-      "last_spawn": "2026-07-05T04:04:23.689473"
+      "total_spawns": 442,
+      "last_spawn": "2026-07-05T04:04:53.736204"
     }
   },
   "global": {
-    "total_spawns": 62978,
+    "total_spawns": 62981,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
