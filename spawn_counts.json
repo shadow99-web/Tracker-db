@@ -883,7 +883,7 @@
         "Misdreavus": 3,
         "Growlithe": 5,
         "Arctozolt": 3,
-        "Spheal": 4,
+        "Spheal": 5,
         "Chinchou": 2,
         "Magmar": 4,
         "Chef dente": 4,
@@ -1145,14 +1145,16 @@
         "Bronzong": 1,
         "Xatu": 1,
         "Ampharos": 1,
-        "Falinks": 1
+        "Falinks": 1,
+        "Phanpy": 1,
+        "Blastoise": 1
       },
-      "total_spawns": 1858,
-      "last_spawn": "2026-07-05T20:56:14.595737"
+      "total_spawns": 1861,
+      "last_spawn": "2026-07-05T20:56:49.199139"
     }
   },
   "global": {
-    "total_spawns": 65797,
+    "total_spawns": 65800,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
