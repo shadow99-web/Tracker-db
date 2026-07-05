@@ -67,7 +67,7 @@
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 9,
-        "Vulpix": 3,
+        "Vulpix": 5,
         "Gastly": 12,
         "Aron": 6,
         "Honedge": 18,
@@ -184,7 +184,7 @@
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 12,
+        "Charcadet": 13,
         "Mudsdale": 2,
         "Meowth": 4,
         "Charmander": 5,
@@ -330,7 +330,7 @@
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 2,
-        "Oinkologne": 2,
+        "Oinkologne": 3,
         "Floragato": 1,
         "Larvesta": 9,
         "Magby": 1,
@@ -357,7 +357,7 @@
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 2,
-        "Hoppip": 9,
+        "Hoppip": 10,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 5,
@@ -613,8 +613,8 @@
         "Zweilous": 1,
         "Azurill": 1
       },
-      "total_spawns": 1800,
-      "last_spawn": "2026-07-05T21:25:43.672271"
+      "total_spawns": 1805,
+      "last_spawn": "2026-07-05T21:26:23.898409"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -867,7 +867,7 @@
         "Squirtle": 3,
         "Wingull": 1,
         "Buneary": 6,
-        "Skiddo": 3,
+        "Skiddo": 4,
         "Zigzagoon": 1,
         "Dj rotom": 6,
         "Anorith": 3,
@@ -1222,14 +1222,15 @@
         "Golem": 1,
         "Numel": 1,
         "Noctowl": 1,
-        "Cacnea": 1
+        "Cacnea": 1,
+        "Beartic": 1
       },
-      "total_spawns": 2029,
-      "last_spawn": "2026-07-05T21:25:44.493882"
+      "total_spawns": 2031,
+      "last_spawn": "2026-07-05T21:26:04.436372"
     }
   },
   "global": {
-    "total_spawns": 66368,
+    "total_spawns": 66375,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
