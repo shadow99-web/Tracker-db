@@ -498,7 +498,7 @@
         "Drilbur": 1,
         "Leavanny": 1,
         "Magikarp": 4,
-        "Gardevoir": 4,
+        "Gardevoir": 6,
         "Kubfu": 1,
         "Tyrogue": 2,
         "Nuzleaf": 4,
@@ -658,8 +658,8 @@
         "Noctowl": 1,
         "Munna": 1
       },
-      "total_spawns": 2252,
-      "last_spawn": "2026-07-05T22:17:53.895721"
+      "total_spawns": 2254,
+      "last_spawn": "2026-07-05T22:18:24.200365"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -771,7 +771,7 @@
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 10,
-        "Impidimp": 17,
+        "Impidimp": 18,
         "Elgyem": 3,
         "Gastrodon": 1,
         "Shroodle": 11,
@@ -837,7 +837,7 @@
         "Marshtomp": 3,
         "Venonat": 4,
         "Aipom": 4,
-        "Rellor": 8,
+        "Rellor": 9,
         "Hippopotas": 4,
         "Chikorita": 5,
         "Litwick": 14,
@@ -1171,7 +1171,7 @@
         "Inteleon": 2,
         "Grookey": 2,
         "Zorua": 2,
-        "Kecleon": 1,
+        "Kecleon": 2,
         "Magcargo": 2,
         "Slaking": 2,
         "Raticate": 2,
@@ -1301,12 +1301,12 @@
         "Wailord": 1,
         "Houndour": 1
       },
-      "total_spawns": 2339,
-      "last_spawn": "2026-07-05T22:18:15.012077"
+      "total_spawns": 2342,
+      "last_spawn": "2026-07-05T22:18:45.243803"
     }
   },
   "global": {
-    "total_spawns": 67130,
+    "total_spawns": 67135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
