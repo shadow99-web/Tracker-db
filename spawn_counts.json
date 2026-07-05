@@ -136,7 +136,7 @@
         "Slugma": 3,
         "Venonat": 1,
         "Eelektrik": 2,
-        "Diglett": 3,
+        "Diglett": 4,
         "Surskit": 2,
         "Seedot": 6,
         "Jigglypuff": 1,
@@ -202,7 +202,7 @@
         "Aipom": 2,
         "Grookey": 3,
         "Inkay": 1,
-        "Unfezant": 1,
+        "Unfezant": 2,
         "Fraxure": 1,
         "Zubat": 6,
         "Drowzee": 3,
@@ -260,7 +260,7 @@
         "Taillow": 3,
         "Watchog": 1,
         "Porygon": 6,
-        "Wooloo": 1,
+        "Wooloo": 2,
         "Mawile": 3,
         "Marill": 1,
         "Lickitung": 1,
@@ -563,10 +563,11 @@
         "White flower florges": 1,
         "Hydreigon": 2,
         "Unown x": 2,
-        "Starmie": 1
+        "Starmie": 1,
+        "Farfetch'd": 1
       },
-      "total_spawns": 1424,
-      "last_spawn": "2026-07-05T21:00:38.247720"
+      "total_spawns": 1428,
+      "last_spawn": "2026-07-05T21:01:18.177505"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -834,7 +835,7 @@
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 3,
-        "Whirlipede": 2,
+        "Whirlipede": 3,
         "Tinkatuff": 2,
         "Baltoy": 5,
         "Tarountula": 14,
@@ -870,7 +871,7 @@
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 3,
-        "Luxio": 2,
+        "Luxio": 3,
         "Frigibax": 10,
         "Krokorok": 2,
         "Snorunt": 3,
@@ -1004,7 +1005,7 @@
         "East sea gastrodon": 2,
         "Grovyle": 1,
         "Grumpig": 2,
-        "White plumage squawkabilly": 3,
+        "White plumage squawkabilly": 4,
         "Koffing": 1,
         "Rhyperior": 1,
         "Spritzee": 3,
@@ -1157,12 +1158,12 @@
         "Palossand": 1,
         "Clamperl": 1
       },
-      "total_spawns": 1885,
-      "last_spawn": "2026-07-05T21:00:45.728882"
+      "total_spawns": 1888,
+      "last_spawn": "2026-07-05T21:01:14.320978"
     }
   },
   "global": {
-    "total_spawns": 65848,
+    "total_spawns": 65855,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
