@@ -450,7 +450,7 @@
         "Grafaiai": 1,
         "Gastly": 3,
         "Orthworm": 3,
-        "Glimmet": 3,
+        "Glimmet": 4,
         "Beldum": 1,
         "Combee": 2,
         "Corphish": 1,
@@ -519,7 +519,7 @@
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 7,
-        "Flamigo": 3,
+        "Flamigo": 4,
         "Stunky": 1,
         "Spinarak": 1,
         "Gligar": 1,
@@ -652,7 +652,7 @@
         "Scovillain": 2,
         "Sliggoo": 1,
         "Silcoon": 1,
-        "Tadbulb": 3,
+        "Tadbulb": 4,
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
@@ -737,12 +737,12 @@
         "Mismagius": 1,
         "Mudbray": 1
       },
-      "total_spawns": 636,
-      "last_spawn": "2026-07-05T16:29:14.348501"
+      "total_spawns": 639,
+      "last_spawn": "2026-07-05T16:29:44.604064"
     }
   },
   "global": {
-    "total_spawns": 63820,
+    "total_spawns": 63823,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
