@@ -29,7 +29,7 @@
         "Tynamo": 6,
         "Palossand": 1,
         "Pyukumuku": 1,
-        "Pidgey": 9,
+        "Pidgey": 11,
         "Binacle": 4,
         "Bounsweet": 12,
         "Fletchling": 6,
@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 7,
         "Squirtle": 4,
-        "Shinx": 24,
+        "Shinx": 25,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 9,
@@ -281,7 +281,7 @@
         "Pancham": 3,
         "Bulbasaur": 4,
         "Dewpider": 3,
-        "Yellow plumage squawkabilly": 1,
+        "Yellow plumage squawkabilly": 2,
         "Hattrem": 2,
         "Trash wormadam": 1,
         "Purrloin": 1,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 5,
+        "Sewaddle": 6,
         "Shelmet": 1,
         "Combusken": 2,
         "Croagunk": 3,
@@ -443,7 +443,7 @@
         "Tyrunt": 2,
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
-        "Smearguru": 6,
+        "Smearguru": 8,
         "Magneton": 1,
         "Battle cyclizar": 1,
         "Minccino": 2,
@@ -630,8 +630,8 @@
         "Cufant": 1,
         "Mienfoo": 2
       },
-      "total_spawns": 1960,
-      "last_spawn": "2026-07-05T21:45:13.519740"
+      "total_spawns": 1967,
+      "last_spawn": "2026-07-05T21:45:43.578989"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -870,7 +870,7 @@
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 7,
-        "Spoink": 6,
+        "Spoink": 7,
         "Lileep": 3,
         "Crocalor": 2,
         "Cranidos": 2,
@@ -885,7 +885,7 @@
         "Wingull": 1,
         "Buneary": 6,
         "Skiddo": 4,
-        "Zigzagoon": 1,
+        "Zigzagoon": 2,
         "Dj rotom": 6,
         "Anorith": 3,
         "Shiinotic": 1,
@@ -1044,7 +1044,7 @@
         "Magikarp": 3,
         "Pumpkaboo": 2,
         "Banette": 1,
-        "Tympole": 6,
+        "Tympole": 7,
         "Bunnelby": 3,
         "Vanillish": 2,
         "Arrokuda": 2,
@@ -1254,12 +1254,12 @@
         "Delphox": 1,
         "Dragonair": 1
       },
-      "total_spawns": 2143,
-      "last_spawn": "2026-07-05T21:45:04.926005"
+      "total_spawns": 2146,
+      "last_spawn": "2026-07-05T21:45:34.395060"
     }
   },
   "global": {
-    "total_spawns": 66642,
+    "total_spawns": 66652,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
