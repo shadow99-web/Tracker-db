@@ -431,7 +431,7 @@
         "Timburr": 4,
         "Pidgey": 5,
         "Gimmighoul": 6,
-        "Cetoddle": 7,
+        "Cetoddle": 8,
         "Fidough": 7,
         "Smearguru": 2,
         "Nuzleaf": 2,
@@ -484,13 +484,13 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
-        "Horsea": 10,
+        "Horsea": 11,
         "Teddiursa": 4,
         "Dratini": 2,
         "Sewaddle": 6,
         "Mantyke": 1,
         "Slakoth": 8,
-        "Dreepy": 6,
+        "Dreepy": 7,
         "Foongus": 2,
         "Hoppip": 6,
         "Blipbug": 7,
@@ -555,7 +555,7 @@
         "Rookidee": 6,
         "Shellos": 1,
         "Roaming gimmighoul": 2,
-        "Grotle": 1,
+        "Grotle": 2,
         "Squawkabilly": 1,
         "Wartortle": 2,
         "Rowlet": 2,
@@ -677,7 +677,7 @@
         "Toedscool": 2,
         "Espathra": 1,
         "Klang": 1,
-        "Vespiquen": 3,
+        "Vespiquen": 4,
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
@@ -697,7 +697,7 @@
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
-        "Chimchar": 1,
+        "Chimchar": 2,
         "Mewtwo": 1,
         "Pachirisu": 2,
         "Ursaring": 2,
@@ -835,14 +835,16 @@
         "Crobat": 1,
         "Pignite": 1,
         "Gulpin": 1,
-        "Vullaby": 1
+        "Vullaby": 1,
+        "Burmy": 1,
+        "Nidorina": 1
       },
-      "total_spawns": 1072,
-      "last_spawn": "2026-07-05T17:37:25.204696"
+      "total_spawns": 1080,
+      "last_spawn": "2026-07-05T17:37:56.506766"
     }
   },
   "global": {
-    "total_spawns": 64260,
+    "total_spawns": 64268,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
