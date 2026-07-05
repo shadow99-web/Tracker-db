@@ -222,7 +222,7 @@
         "Duosion": 1,
         "Orthworm": 3,
         "Yamask": 1,
-        "Nymble": 3,
+        "Nymble": 4,
         "Snorunt": 1,
         "Carvanha": 2,
         "Toxel": 1,
@@ -374,7 +374,7 @@
         "Nidorino": 2,
         "Rayquaza": 10,
         "Horsea": 6,
-        "Reshiram": 1,
+        "Reshiram": 3,
         "Celebi": 1,
         "Morelull": 1,
         "Unown": 3,
@@ -452,8 +452,8 @@
         "Mew": 2,
         "Thwackey": 1
       },
-      "total_spawns": 915,
-      "last_spawn": "2026-07-05T20:01:18.232357"
+      "total_spawns": 918,
+      "last_spawn": "2026-07-05T20:01:39.996860"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -537,7 +537,7 @@
         "Hatenna": 7,
         "Drifloon": 2,
         "Togepi": 7,
-        "Snivy": 1,
+        "Snivy": 2,
         "Bellsprout": 6,
         "Scorbunny": 2,
         "Roggenrola": 7,
@@ -685,7 +685,7 @@
         "Chespin": 5,
         "Armarouge": 2,
         "Battle cyclizar": 2,
-        "Bagon": 2,
+        "Bagon": 3,
         "Vanilluxe": 1,
         "Woobat": 3,
         "Goomy": 6,
@@ -722,7 +722,7 @@
         "Malamar": 1,
         "Pincurchin": 1,
         "Whirlipede": 2,
-        "Tinkatuff": 1,
+        "Tinkatuff": 2,
         "Baltoy": 5,
         "Tarountula": 10,
         "Omastar": 1,
@@ -851,7 +851,7 @@
         "Lokix": 3,
         "Charmeleon": 2,
         "Spidops": 1,
-        "Dwebble": 2,
+        "Dwebble": 3,
         "Rockruff": 1,
         "Stunfisk": 1,
         "Spinda": 1,
@@ -962,14 +962,16 @@
         "Vileplume": 1,
         "Gurdurr": 1,
         "Mamoswine": 1,
-        "Inteleon": 1
+        "Inteleon": 1,
+        "Grookey": 1,
+        "Zorua": 1
       },
-      "total_spawns": 1359,
-      "last_spawn": "2026-07-05T20:01:24.496937"
+      "total_spawns": 1365,
+      "last_spawn": "2026-07-05T20:01:54.899086"
     }
   },
   "global": {
-    "total_spawns": 64813,
+    "total_spawns": 64822,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
