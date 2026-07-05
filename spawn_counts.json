@@ -432,7 +432,7 @@
         "Pidgey": 4,
         "Gimmighoul": 4,
         "Cetoddle": 4,
-        "Fidough": 3,
+        "Fidough": 4,
         "Smearguru": 2,
         "Nuzleaf": 2,
         "Clauncher": 2,
@@ -471,7 +471,7 @@
         "Trapinch": 5,
         "Hatenna": 3,
         "Drifloon": 2,
-        "Togepi": 3,
+        "Togepi": 4,
         "Snivy": 1,
         "Bellsprout": 2,
         "Scorbunny": 2,
@@ -735,14 +735,15 @@
         "Frogadier": 1,
         "Golett": 1,
         "Mismagius": 1,
-        "Mudbray": 1
+        "Mudbray": 1,
+        "Weepinbell": 1
       },
-      "total_spawns": 639,
-      "last_spawn": "2026-07-05T16:29:44.604064"
+      "total_spawns": 642,
+      "last_spawn": "2026-07-05T16:30:14.683439"
     }
   },
   "global": {
-    "total_spawns": 63823,
+    "total_spawns": 63826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
