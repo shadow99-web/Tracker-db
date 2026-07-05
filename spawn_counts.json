@@ -470,7 +470,7 @@
         "Seedot": 3,
         "Trapinch": 3,
         "Hatenna": 2,
-        "Drifloon": 1,
+        "Drifloon": 2,
         "Togepi": 2,
         "Snivy": 1,
         "Bellsprout": 2,
@@ -710,14 +710,16 @@
         "Misdreavus": 1,
         "Growlithe": 1,
         "Arctozolt": 1,
-        "Spheal": 1
+        "Spheal": 1,
+        "Chinchou": 1,
+        "Magmar": 1
       },
-      "total_spawns": 552,
-      "last_spawn": "2026-07-05T16:14:44.380230"
+      "total_spawns": 555,
+      "last_spawn": "2026-07-05T16:15:14.503138"
     }
   },
   "global": {
-    "total_spawns": 63736,
+    "total_spawns": 63739,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
