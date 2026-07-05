@@ -429,7 +429,7 @@
         "Kleavor": 1,
         "Karrablast": 2,
         "Timburr": 4,
-        "Pidgey": 4,
+        "Pidgey": 5,
         "Gimmighoul": 6,
         "Cetoddle": 7,
         "Fidough": 7,
@@ -518,7 +518,7 @@
         "Starly": 7,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 10,
+        "Bounsweet": 11,
         "Flamigo": 5,
         "Stunky": 1,
         "Spinarak": 2,
@@ -532,7 +532,7 @@
         "Greninja": 1,
         "Dondozo": 4,
         "Lairon": 2,
-        "Zubat": 8,
+        "Zubat": 9,
         "Croagunk": 2,
         "Klawf": 4,
         "Lombre": 2,
@@ -674,7 +674,7 @@
         "Sprigatito": 1,
         "Bidoof": 1,
         "Frillish": 2,
-        "Toedscool": 1,
+        "Toedscool": 2,
         "Espathra": 1,
         "Klang": 1,
         "Vespiquen": 3,
@@ -770,9 +770,9 @@
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
-        "Wiglett": 1,
+        "Wiglett": 2,
         "Carkol": 2,
-        "Solosis": 2,
+        "Solosis": 3,
         "Flapple": 1,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -832,14 +832,15 @@
         "Spritzee": 1,
         "Hawlucha": 1,
         "Paras": 1,
-        "Crobat": 1
+        "Crobat": 1,
+        "Pignite": 1
       },
-      "total_spawns": 1034,
-      "last_spawn": "2026-07-05T17:34:04.711406"
+      "total_spawns": 1041,
+      "last_spawn": "2026-07-05T17:34:37.602530"
     }
   },
   "global": {
-    "total_spawns": 64219,
+    "total_spawns": 64226,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
