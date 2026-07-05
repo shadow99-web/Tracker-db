@@ -40,11 +40,11 @@
         "Starly": 12,
         "Caterpie": 4,
         "Mareep": 3,
-        "Capsakid": 7,
+        "Capsakid": 8,
         "Numel": 2,
         "Pawmo": 2,
         "Wattrel": 3,
-        "Tadbulb": 6,
+        "Tadbulb": 7,
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
@@ -87,12 +87,12 @@
         "Shinx": 19,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 6,
+        "Pawmi": 7,
         "Sandile": 10,
         "Charmeleon": 3,
         "Riolu": 2,
         "Gible": 4,
-        "Greavard": 10,
+        "Greavard": 12,
         "Snover": 3,
         "Piplup": 1,
         "Dondozo": 2,
@@ -295,7 +295,7 @@
         "Dartrix": 1,
         "Ceruledge": 1,
         "Vanillish": 2,
-        "Gimmighoul": 4,
+        "Gimmighoul": 5,
         "Glimmet": 6,
         "Popplio": 2,
         "Arboliva": 1,
@@ -501,7 +501,7 @@
         "Gardevoir": 2,
         "Kubfu": 1,
         "Tyrogue": 1,
-        "Nuzleaf": 2,
+        "Nuzleaf": 3,
         "Spinarak": 1,
         "Goomy": 1,
         "Breloom": 1,
@@ -564,10 +564,11 @@
         "Hydreigon": 2,
         "Unown x": 2,
         "Starmie": 1,
-        "Farfetch'd": 2
+        "Farfetch'd": 2,
+        "Grafaiai": 1
       },
-      "total_spawns": 1433,
-      "last_spawn": "2026-07-05T21:01:48.195714"
+      "total_spawns": 1441,
+      "last_spawn": "2026-07-05T21:02:19.380947"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -689,7 +690,7 @@
         "Bombirdier": 7,
         "Wooloo": 4,
         "Togekiss": 1,
-        "Rolycoly": 10,
+        "Rolycoly": 11,
         "Duskull": 5,
         "Marill": 5,
         "Axew": 5,
@@ -715,7 +716,7 @@
         "Croagunk": 3,
         "Klawf": 6,
         "Lombre": 2,
-        "Wurmple": 5,
+        "Wurmple": 6,
         "Peakychu": 7,
         "Bellibolt": 1,
         "Quilladin": 3,
@@ -971,7 +972,7 @@
         "Spinda": 3,
         "Beautifly": 2,
         "Fletchling": 8,
-        "Haunter": 1,
+        "Haunter": 2,
         "Sandshrew": 1,
         "Fletchinder": 2,
         "Sinistea": 2,
@@ -1159,12 +1160,12 @@
         "Clamperl": 1,
         "Cramorant": 1
       },
-      "total_spawns": 1891,
-      "last_spawn": "2026-07-05T21:01:44.697321"
+      "total_spawns": 1894,
+      "last_spawn": "2026-07-05T21:02:16.499978"
     }
   },
   "global": {
-    "total_spawns": 65863,
+    "total_spawns": 65874,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
