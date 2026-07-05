@@ -74,7 +74,7 @@
         "Houndour": 1,
         "Machop": 9,
         "Terapagos": 1,
-        "Mankey": 2,
+        "Mankey": 3,
         "Torterra": 1,
         "Salandit": 3,
         "Bruxish": 1,
@@ -139,7 +139,7 @@
         "Diglett": 5,
         "Surskit": 3,
         "Seedot": 10,
-        "Jigglypuff": 1,
+        "Jigglypuff": 2,
         "Spearow": 2,
         "Servine": 2,
         "Wugtrio": 5,
@@ -220,7 +220,7 @@
         "Shuppet": 6,
         "Graveler": 1,
         "Duosion": 2,
-        "Orthworm": 7,
+        "Orthworm": 8,
         "Yamask": 2,
         "Nymble": 7,
         "Snorunt": 2,
@@ -638,8 +638,8 @@
         "Unown k": 2,
         "Elekid": 1
       },
-      "total_spawns": 2046,
-      "last_spawn": "2026-07-05T21:51:03.751050"
+      "total_spawns": 2049,
+      "last_spawn": "2026-07-05T21:51:33.596394"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -666,7 +666,7 @@
         "Monferno": 1,
         "Pikipek": 8,
         "Flittle": 7,
-        "Lillipup": 7,
+        "Lillipup": 8,
         "Eevee": 3,
         "Shroomish": 2,
         "Dachsbun": 4,
@@ -700,7 +700,7 @@
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 16,
-        "Orthworm": 10,
+        "Orthworm": 11,
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 3,
@@ -971,7 +971,7 @@
         "Pawniard": 3,
         "Rabsca": 4,
         "Cofagrigus": 2,
-        "Hattrem": 3,
+        "Hattrem": 4,
         "Sneasel": 2,
         "Piplup": 4,
         "Electrike": 3,
@@ -1267,12 +1267,12 @@
         "Floragato": 1,
         "Blue plumage squawkabilly": 1
       },
-      "total_spawns": 2178,
-      "last_spawn": "2026-07-05T21:51:04.500189"
+      "total_spawns": 2181,
+      "last_spawn": "2026-07-05T21:51:34.715426"
     }
   },
   "global": {
-    "total_spawns": 66763,
+    "total_spawns": 66769,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
