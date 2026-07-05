@@ -113,7 +113,7 @@
         "Treecko": 6,
         "Shroodle": 4,
         "Ride cyclizar": 1,
-        "Swinub": 10,
+        "Swinub": 11,
         "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 10,
@@ -280,7 +280,7 @@
         "Nacli": 9,
         "Pancham": 3,
         "Bulbasaur": 4,
-        "Dewpider": 3,
+        "Dewpider": 4,
         "Yellow plumage squawkabilly": 2,
         "Hattrem": 2,
         "Trash wormadam": 1,
@@ -414,7 +414,7 @@
         "Cradily": 2,
         "Burmy": 1,
         "Sewaddle": 7,
-        "Shelmet": 1,
+        "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 3,
         "Mothim": 2,
@@ -501,7 +501,7 @@
         "Gardevoir": 4,
         "Kubfu": 1,
         "Tyrogue": 2,
-        "Nuzleaf": 3,
+        "Nuzleaf": 4,
         "Spinarak": 1,
         "Goomy": 4,
         "Breloom": 1,
@@ -523,7 +523,7 @@
         "Nickit": 1,
         "Aromatisse": 1,
         "Cosmoem": 1,
-        "Copperajah": 2,
+        "Copperajah": 3,
         "Golett": 1,
         "Politoed": 2,
         "Droopy tatsugiri": 1,
@@ -628,10 +628,12 @@
         "Rampardos": 1,
         "Weepinbell": 1,
         "Cufant": 1,
-        "Mienfoo": 2
+        "Mienfoo": 2,
+        "Quagsire": 1,
+        "Komala": 1
       },
-      "total_spawns": 1975,
-      "last_spawn": "2026-07-05T21:46:13.551581"
+      "total_spawns": 1982,
+      "last_spawn": "2026-07-05T21:46:48.200209"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -733,7 +735,7 @@
         "Sewaddle": 7,
         "Mantyke": 2,
         "Slakoth": 13,
-        "Dreepy": 10,
+        "Dreepy": 11,
         "Foongus": 3,
         "Hoppip": 11,
         "Blipbug": 8,
@@ -840,7 +842,7 @@
         "Pupitar": 3,
         "Durant": 2,
         "Jigglypuff": 4,
-        "Steenee": 1,
+        "Steenee": 2,
         "Mareanie": 2,
         "Munkidori": 1,
         "Fearow": 1,
@@ -972,7 +974,7 @@
         "Drakloak": 2,
         "Pawmo": 4,
         "Charjabug": 3,
-        "Hoothoot": 1,
+        "Hoothoot": 2,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
         "Frogadier": 5,
@@ -1255,12 +1257,12 @@
         "Dragonair": 1,
         "Ivysaur": 1
       },
-      "total_spawns": 2150,
-      "last_spawn": "2026-07-05T21:46:14.526916"
+      "total_spawns": 2153,
+      "last_spawn": "2026-07-05T21:46:44.395646"
     }
   },
   "global": {
-    "total_spawns": 66664,
+    "total_spawns": 66674,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
