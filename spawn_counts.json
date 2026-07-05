@@ -1191,7 +1191,7 @@
         "Fletchling": 2,
         "Whirlipede": 2,
         "Duskull": 6,
-        "Abra": 4,
+        "Abra": 5,
         "Wiglett": 2,
         "Starly": 4,
         "Caterpie": 2,
@@ -1209,7 +1209,7 @@
         "Applin": 2,
         "Staryu": 1,
         "Maschiff": 2,
-        "Smoliv": 2,
+        "Smoliv": 3,
         "Tirtouga": 3,
         "Hatenna": 2,
         "Shroomish": 3,
@@ -1354,7 +1354,7 @@
         "Bagon": 1,
         "Pikachu": 2,
         "Tarountula": 1,
-        "Rhyhorn": 2,
+        "Rhyhorn": 3,
         "Aipom": 2,
         "Grookey": 1,
         "Inkay": 1,
@@ -1497,14 +1497,15 @@
         "Ursaring": 1,
         "Bidoof": 1,
         "Gothita": 1,
-        "Solosis": 1
+        "Solosis": 1,
+        "Sandygast": 1
       },
-      "total_spawns": 525,
-      "last_spawn": "2026-07-05T04:19:43.680859"
+      "total_spawns": 529,
+      "last_spawn": "2026-07-05T04:20:23.784227"
     }
   },
   "global": {
-    "total_spawns": 63064,
+    "total_spawns": 63068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
