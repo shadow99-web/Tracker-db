@@ -47,7 +47,7 @@
         "Tadbulb": 8,
         "Yanmega": 1,
         "Tympole": 8,
-        "Grubbin": 8,
+        "Grubbin": 9,
         "Scatterbug": 8,
         "Skwovet": 4,
         "Applin": 2,
@@ -168,7 +168,7 @@
         "Tandemaus": 6,
         "Clefairy": 2,
         "Unown q": 1,
-        "Lotad": 5,
+        "Lotad": 6,
         "Mienshao": 2,
         "Blipbug": 16,
         "Rellor": 4,
@@ -648,10 +648,11 @@
         "Cherubi": 1,
         "Heatmor": 1,
         "Vikavolt": 1,
-        "Eelektross": 1
+        "Eelektross": 1,
+        "Bibarel": 1
       },
-      "total_spawns": 2176,
-      "last_spawn": "2026-07-05T22:06:43.696597"
+      "total_spawns": 2179,
+      "last_spawn": "2026-07-05T22:07:24.870921"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -748,14 +749,14 @@
         "Eldegoss": 1,
         "Aron": 12,
         "Horsea": 17,
-        "Teddiursa": 13,
+        "Teddiursa": 14,
         "Dratini": 4,
         "Sewaddle": 7,
         "Mantyke": 2,
         "Slakoth": 13,
         "Dreepy": 11,
         "Foongus": 3,
-        "Hoppip": 11,
+        "Hoppip": 12,
         "Blipbug": 9,
         "Swoobat": 1,
         "Greavard": 9,
@@ -1110,7 +1111,7 @@
         "Floatzel": 1,
         "Accelgor": 2,
         "Glaceon": 1,
-        "Lickilicky": 1,
+        "Lickilicky": 2,
         "Dhelmise": 1,
         "Porygon-z": 2,
         "Centiskorch": 1,
@@ -1288,12 +1289,12 @@
         "Ursaluna": 1,
         "Mawile": 1
       },
-      "total_spawns": 2272,
-      "last_spawn": "2026-07-05T22:06:54.801422"
+      "total_spawns": 2275,
+      "last_spawn": "2026-07-05T22:07:24.799593"
     }
   },
   "global": {
-    "total_spawns": 66987,
+    "total_spawns": 66993,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
