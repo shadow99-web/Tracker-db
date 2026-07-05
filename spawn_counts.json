@@ -123,7 +123,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 4,
         "Flaaffy": 2,
-        "Rookidee": 10,
+        "Rookidee": 11,
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
@@ -671,15 +671,15 @@
         "Obstagoon": 2,
         "Greninja": 1
       },
-      "total_spawns": 2365,
-      "last_spawn": "2026-07-05T23:05:03.552533"
+      "total_spawns": 2366,
+      "last_spawn": "2026-07-05T23:05:43.778778"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 18,
-        "Caterpie": 7,
-        "Flaaffy": 4,
+        "Caterpie": 8,
+        "Flaaffy": 5,
         "Bronzor": 2,
         "Gible": 9,
         "Torracat": 4,
@@ -1094,7 +1094,7 @@
         "Turtwig": 3,
         "Snubbull": 2,
         "Gogoat": 1,
-        "Morelull": 3,
+        "Morelull": 4,
         "Dewott": 3,
         "Kingambit": 3,
         "Corsola": 1,
@@ -1349,14 +1349,15 @@
         "Charizard": 1,
         "Magby": 1,
         "Trumbeak": 1,
-        "Crustle": 1
+        "Crustle": 1,
+        "Lilligant": 1
       },
-      "total_spawns": 2619,
-      "last_spawn": "2026-07-05T23:05:24.441095"
+      "total_spawns": 2623,
+      "last_spawn": "2026-07-05T23:06:04.607227"
     }
   },
   "global": {
-    "total_spawns": 67523,
+    "total_spawns": 67528,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
