@@ -1191,7 +1191,7 @@
         "Fletchling": 2,
         "Whirlipede": 2,
         "Duskull": 6,
-        "Abra": 2,
+        "Abra": 3,
         "Wiglett": 2,
         "Starly": 4,
         "Caterpie": 2,
@@ -1226,7 +1226,7 @@
         "Vulpix": 1,
         "Gastly": 4,
         "Aron": 2,
-        "Honedge": 4,
+        "Honedge": 5,
         "Houndour": 1,
         "Machop": 5,
         "Terapagos": 1,
@@ -1403,7 +1403,7 @@
         "Bonsly": 1,
         "Growlithe": 1,
         "Rhydon": 1,
-        "Ambipom": 1,
+        "Ambipom": 2,
         "Solrock": 1,
         "Tinkatuff": 1,
         "Drednaw": 1,
@@ -1479,14 +1479,15 @@
         "Skitty": 1,
         "Finizen": 1,
         "Swablu": 1,
-        "Sunkern": 1
+        "Sunkern": 1,
+        "Snubbull": 1
       },
-      "total_spawns": 484,
-      "last_spawn": "2026-07-05T04:12:33.735218"
+      "total_spawns": 488,
+      "last_spawn": "2026-07-05T04:13:13.653928"
     }
   },
   "global": {
-    "total_spawns": 63023,
+    "total_spawns": 63027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
