@@ -34,7 +34,7 @@
         "Bounsweet": 8,
         "Fletchling": 4,
         "Whirlipede": 3,
-        "Duskull": 10,
+        "Duskull": 12,
         "Abra": 10,
         "Wiglett": 4,
         "Starly": 12,
@@ -60,7 +60,7 @@
         "Lillipup": 4,
         "Mosslax": 10,
         "Maushold": 3,
-        "Cubchoo": 1,
+        "Cubchoo": 3,
         "Koffing": 2,
         "Kirlia": 1,
         "Deino": 4,
@@ -134,7 +134,7 @@
         "Torchic": 2,
         "Abomasnow": 1,
         "Slugma": 3,
-        "Venonat": 1,
+        "Venonat": 2,
         "Eelektrik": 2,
         "Diglett": 4,
         "Surskit": 2,
@@ -357,7 +357,7 @@
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 1,
-        "Hoppip": 6,
+        "Hoppip": 7,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 3,
@@ -376,7 +376,7 @@
         "Horsea": 10,
         "Reshiram": 3,
         "Celebi": 1,
-        "Morelull": 1,
+        "Morelull": 2,
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
@@ -559,7 +559,7 @@
         "Blitzle": 1,
         "Iron crown": 2,
         "Barbaracle": 1,
-        "Nidoqueen": 2,
+        "Nidoqueen": 3,
         "White flower florges": 1,
         "Hydreigon": 2,
         "Unown x": 2,
@@ -570,10 +570,11 @@
         "Squawkabilly": 1,
         "Seadra": 1,
         "Sealeo": 1,
-        "Baltoy": 1
+        "Baltoy": 1,
+        "Karrablast": 1
       },
-      "total_spawns": 1466,
-      "last_spawn": "2026-07-05T21:04:03.834264"
+      "total_spawns": 1475,
+      "last_spawn": "2026-07-05T21:04:33.595584"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -629,7 +630,7 @@
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 6,
-        "Geodude": 12,
+        "Geodude": 13,
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
@@ -652,7 +653,7 @@
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 2,
-        "Seedot": 12,
+        "Seedot": 13,
         "Trapinch": 10,
         "Hatenna": 11,
         "Drifloon": 3,
@@ -836,7 +837,7 @@
         "Nosepass": 1,
         "Scovillain": 5,
         "Sliggoo": 2,
-        "Silcoon": 3,
+        "Silcoon": 4,
         "Tadbulb": 8,
         "Lopunny": 2,
         "Malamar": 1,
@@ -1165,14 +1166,15 @@
         "Clamperl": 1,
         "Cramorant": 1,
         "Decidueye": 1,
-        "Venusaur": 1
+        "Venusaur": 1,
+        "Spearow": 1
       },
-      "total_spawns": 1904,
-      "last_spawn": "2026-07-05T21:03:54.615871"
+      "total_spawns": 1908,
+      "last_spawn": "2026-07-05T21:04:34.500486"
     }
   },
   "global": {
-    "total_spawns": 65909,
+    "total_spawns": 65922,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
