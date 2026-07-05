@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 6,
         "Mienshao": 2,
-        "Blipbug": 16,
+        "Blipbug": 18,
         "Rellor": 4,
         "Rolycoly": 9,
         "Poliwhirl": 4,
@@ -195,7 +195,7 @@
         "Dj rotom": 8,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
-        "Bagon": 9,
+        "Bagon": 10,
         "Pikachu": 6,
         "Tarountula": 7,
         "Rhyhorn": 9,
@@ -678,8 +678,8 @@
         "Galarian zen darmanitan": 2,
         "Basculegion": 2
       },
-      "total_spawns": 2475,
-      "last_spawn": "2026-07-05T23:54:53.512994"
+      "total_spawns": 2478,
+      "last_spawn": "2026-07-05T23:55:23.602607"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -736,7 +736,7 @@
         "Skiploom": 4,
         "Voltorb": 6,
         "Geodude": 19,
-        "Treecko": 5,
+        "Treecko": 6,
         "Grimer": 3,
         "Grafaiai": 3,
         "Gastly": 22,
@@ -763,7 +763,7 @@
         "Hatenna": 14,
         "Drifloon": 4,
         "Togepi": 9,
-        "Snivy": 4,
+        "Snivy": 5,
         "Bellsprout": 13,
         "Scorbunny": 3,
         "Roggenrola": 19,
@@ -776,7 +776,7 @@
         "Eldegoss": 2,
         "Aron": 13,
         "Horsea": 20,
-        "Teddiursa": 20,
+        "Teddiursa": 21,
         "Dratini": 6,
         "Sewaddle": 10,
         "Mantyke": 3,
@@ -801,7 +801,7 @@
         "Bombirdier": 10,
         "Wooloo": 6,
         "Togekiss": 1,
-        "Rolycoly": 14,
+        "Rolycoly": 15,
         "Duskull": 14,
         "Marill": 6,
         "Axew": 9,
@@ -1383,12 +1383,12 @@
         "Sealeo": 1,
         "Manectric": 1
       },
-      "total_spawns": 2911,
-      "last_spawn": "2026-07-05T23:54:54.442589"
+      "total_spawns": 2915,
+      "last_spawn": "2026-07-05T23:55:34.632996"
     }
   },
   "global": {
-    "total_spawns": 67925,
+    "total_spawns": 67932,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
