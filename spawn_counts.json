@@ -484,10 +484,10 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 4,
-        "Horsea": 3,
+        "Horsea": 4,
         "Teddiursa": 2,
         "Dratini": 1,
-        "Sewaddle": 4,
+        "Sewaddle": 5,
         "Mantyke": 1,
         "Slakoth": 7,
         "Dreepy": 2,
@@ -625,7 +625,7 @@
         "Woobat": 1,
         "Goomy": 2,
         "Orbeetle": 1,
-        "Shellder": 2,
+        "Shellder": 3,
         "Pawmi": 2,
         "Spoink": 3,
         "Lileep": 1,
@@ -733,12 +733,12 @@
         "Pom-pom oricorio": 1,
         "Toxapex": 1
       },
-      "total_spawns": 626,
-      "last_spawn": "2026-07-05T16:27:34.596685"
+      "total_spawns": 629,
+      "last_spawn": "2026-07-05T16:28:04.660721"
     }
   },
   "global": {
-    "total_spawns": 63810,
+    "total_spawns": 63813,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
