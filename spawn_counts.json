@@ -58,7 +58,7 @@
         "Hatenna": 2,
         "Shroomish": 3,
         "Lillipup": 3,
-        "Mosslax": 8,
+        "Mosslax": 9,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 2,
@@ -110,7 +110,7 @@
         "Magnezone": 1,
         "Eevee": 2,
         "Dreepy": 7,
-        "Treecko": 2,
+        "Treecko": 4,
         "Shroodle": 4,
         "Ride cyclizar": 1,
         "Swinub": 7,
@@ -432,10 +432,11 @@
         "Frigibax": 2,
         "Iron valiant": 2,
         "Ludicolo": 2,
-        "Scraggy": 1
+        "Scraggy": 1,
+        "Stoutland": 1
       },
-      "total_spawns": 840,
-      "last_spawn": "2026-07-05T19:52:53.797319"
+      "total_spawns": 844,
+      "last_spawn": "2026-07-05T19:53:58.268600"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -935,7 +936,7 @@
     }
   },
   "global": {
-    "total_spawns": 64671,
+    "total_spawns": 64675,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
