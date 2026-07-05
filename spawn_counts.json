@@ -412,14 +412,16 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 1,
-        "Timburr": 1
+        "Timburr": 1,
+        "Pidgey": 2,
+        "Gimmighoul": 1
       },
-      "total_spawns": 39,
-      "last_spawn": "2026-07-05T14:13:04.387874"
+      "total_spawns": 42,
+      "last_spawn": "2026-07-05T14:13:44.621948"
     }
   },
   "global": {
-    "total_spawns": 63184,
+    "total_spawns": 63187,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
