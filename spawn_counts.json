@@ -413,7 +413,7 @@
         "Machop": 3,
         "Psyduck": 2,
         "Monferno": 1,
-        "Pikipek": 2,
+        "Pikipek": 3,
         "Flittle": 4,
         "Lillipup": 3,
         "Eevee": 2,
@@ -468,7 +468,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 3,
-        "Trapinch": 3,
+        "Trapinch": 4,
         "Hatenna": 3,
         "Drifloon": 2,
         "Togepi": 2,
@@ -487,7 +487,7 @@
         "Horsea": 3,
         "Teddiursa": 2,
         "Dratini": 1,
-        "Sewaddle": 3,
+        "Sewaddle": 4,
         "Mantyke": 1,
         "Slakoth": 6,
         "Dreepy": 2,
@@ -728,12 +728,12 @@
         "Chewtle": 1,
         "Drakloak": 1
       },
-      "total_spawns": 601,
-      "last_spawn": "2026-07-05T16:22:54.341999"
+      "total_spawns": 604,
+      "last_spawn": "2026-07-05T16:23:24.343988"
     }
   },
   "global": {
-    "total_spawns": 63785,
+    "total_spawns": 63788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
