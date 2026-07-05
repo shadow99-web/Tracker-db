@@ -402,7 +402,7 @@
         "Dusclops": 2,
         "Rhyhorn": 3,
         "Mareep": 2,
-        "Klink": 2,
+        "Klink": 3,
         "Nymble": 3,
         "Porygon": 5,
         "Abra": 2,
@@ -423,7 +423,7 @@
         "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 8,
+        "Whismur": 9,
         "Jangmo-o": 4,
         "Samurott": 1,
         "Kleavor": 1,
@@ -718,14 +718,16 @@
         "Graveler": 1,
         "Duosion": 1,
         "Pawniard": 1,
-        "Rabsca": 1
+        "Rabsca": 1,
+        "Cofagrigus": 1,
+        "Hattrem": 1
       },
-      "total_spawns": 572,
-      "last_spawn": "2026-07-05T16:18:04.428220"
+      "total_spawns": 576,
+      "last_spawn": "2026-07-05T16:18:44.407418"
     }
   },
   "global": {
-    "total_spawns": 63756,
+    "total_spawns": 63760,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
