@@ -261,7 +261,7 @@
         "Watchog": 1,
         "Porygon": 3,
         "Wooloo": 1,
-        "Mawile": 1,
+        "Mawile": 3,
         "Marill": 1,
         "Lickitung": 1,
         "Chewtle": 3,
@@ -456,10 +456,12 @@
         "Espurr": 2,
         "Pelipper": 1,
         "Excadrill": 2,
-        "Buizel": 1
+        "Buizel": 1,
+        "Pansear": 1,
+        "Yanma": 1
       },
-      "total_spawns": 945,
-      "last_spawn": "2026-07-05T20:04:28.220607"
+      "total_spawns": 949,
+      "last_spawn": "2026-07-05T20:04:58.310175"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -502,7 +504,7 @@
         "Timburr": 4,
         "Pidgey": 5,
         "Gimmighoul": 6,
-        "Cetoddle": 11,
+        "Cetoddle": 12,
         "Fidough": 10,
         "Smearguru": 4,
         "Nuzleaf": 2,
@@ -532,7 +534,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 7,
-        "Sandile": 7,
+        "Sandile": 8,
         "Maushold": 2,
         "Rattata": 5,
         "Riolu": 2,
@@ -651,7 +653,7 @@
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
-        "Pidove": 4,
+        "Pidove": 5,
         "Larvitar": 5,
         "Munna": 1,
         "Tangela": 3,
@@ -756,7 +758,7 @@
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 4,
+        "Veluza": 5,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 3,
@@ -803,7 +805,7 @@
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
-        "Frogadier": 4,
+        "Frogadier": 5,
         "Golett": 2,
         "Mismagius": 1,
         "Mudbray": 2,
@@ -879,7 +881,7 @@
         "Snom": 1,
         "Noibat": 1,
         "Turtwig": 2,
-        "Snubbull": 1,
+        "Snubbull": 2,
         "Gogoat": 1,
         "Morelull": 1,
         "Dewott": 2,
@@ -900,7 +902,7 @@
         "White plumage squawkabilly": 1,
         "Koffing": 1,
         "Rhyperior": 1,
-        "Spritzee": 2,
+        "Spritzee": 3,
         "Hawlucha": 1,
         "Paras": 1,
         "Crobat": 1,
@@ -980,12 +982,12 @@
         "Alolan meowth": 1,
         "Budew": 1
       },
-      "total_spawns": 1396,
-      "last_spawn": "2026-07-05T20:04:34.590070"
+      "total_spawns": 1403,
+      "last_spawn": "2026-07-05T20:05:07.094535"
     }
   },
   "global": {
-    "total_spawns": 64880,
+    "total_spawns": 64891,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
