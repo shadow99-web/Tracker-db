@@ -1324,7 +1324,7 @@
         "Tandemaus": 2,
         "Clefairy": 1,
         "Unown q": 1,
-        "Lotad": 1,
+        "Lotad": 2,
         "Mienshao": 1,
         "Blipbug": 3,
         "Rellor": 1,
@@ -1332,7 +1332,7 @@
         "Poliwhirl": 1,
         "Lokix": 1,
         "Flamigo": 1,
-        "Bellsprout": 2,
+        "Bellsprout": 3,
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 1,
@@ -1344,7 +1344,7 @@
         "Mudsdale": 2,
         "Meowth": 2,
         "Charmander": 1,
-        "Wimpod": 2,
+        "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 1,
@@ -1443,12 +1443,12 @@
         "Purrloin": 1,
         "Zigzagoon": 1
       },
-      "total_spawns": 401,
-      "last_spawn": "2026-07-05T03:58:03.743462"
+      "total_spawns": 404,
+      "last_spawn": "2026-07-05T03:58:33.916148"
     }
   },
   "global": {
-    "total_spawns": 62940,
+    "total_spawns": 62943,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
