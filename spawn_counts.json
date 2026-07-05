@@ -558,10 +558,11 @@
         "Pawmot": 1,
         "Blitzle": 1,
         "Iron crown": 2,
-        "Barbaracle": 1
+        "Barbaracle": 1,
+        "Nidoqueen": 1
       },
-      "total_spawns": 1400,
-      "last_spawn": "2026-07-05T20:55:13.556885"
+      "total_spawns": 1401,
+      "last_spawn": "2026-07-05T20:58:25.206433"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -792,7 +793,7 @@
         "Dustox": 1,
         "Chespin": 6,
         "Armarouge": 3,
-        "Battle cyclizar": 2,
+        "Battle cyclizar": 3,
         "Bagon": 4,
         "Vanilluxe": 2,
         "Woobat": 3,
@@ -1099,7 +1100,7 @@
         "Tentacool": 1,
         "Relicanth": 1,
         "Patrat": 1,
-        "Cottonee": 1,
+        "Cottonee": 2,
         "Butterfree": 1,
         "Quaxly": 2,
         "Guzzlord": 1,
@@ -1149,12 +1150,12 @@
         "Phanpy": 1,
         "Blastoise": 1
       },
-      "total_spawns": 1868,
-      "last_spawn": "2026-07-05T20:57:54.500998"
+      "total_spawns": 1870,
+      "last_spawn": "2026-07-05T20:58:14.421716"
     }
   },
   "global": {
-    "total_spawns": 65807,
+    "total_spawns": 65810,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
