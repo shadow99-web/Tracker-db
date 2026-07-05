@@ -760,7 +760,7 @@
         "Bellsprout": 9,
         "Scorbunny": 2,
         "Roggenrola": 16,
-        "Wattrel": 16,
+        "Wattrel": 17,
         "Nacli": 21,
         "Feebas": 2,
         "Weedle": 11,
@@ -997,9 +997,9 @@
         "Spheal": 6,
         "Chinchou": 3,
         "Magmar": 5,
-        "Chef dente": 5,
+        "Chef dente": 6,
         "Sandygast": 1,
-        "Graveler": 4,
+        "Graveler": 5,
         "Duosion": 4,
         "Pawniard": 4,
         "Rabsca": 4,
@@ -1345,12 +1345,12 @@
         "Larvesta": 1,
         "Sudowoodo": 1
       },
-      "total_spawns": 2537,
-      "last_spawn": "2026-07-05T22:51:44.529053"
+      "total_spawns": 2540,
+      "last_spawn": "2026-07-05T22:52:15.016575"
     }
   },
   "global": {
-    "total_spawns": 67420,
+    "total_spawns": 67423,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
