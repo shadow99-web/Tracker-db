@@ -29,7 +29,7 @@
         "Tynamo": 3,
         "Palossand": 1,
         "Pyukumuku": 1,
-        "Pidgey": 6,
+        "Pidgey": 7,
         "Binacle": 2,
         "Bounsweet": 4,
         "Fletchling": 4,
@@ -151,7 +151,7 @@
         "Trapinch": 4,
         "Butterfree": 1,
         "Teddiursa": 11,
-        "Roggenrola": 5,
+        "Roggenrola": 7,
         "Litwick": 2,
         "Wooper": 2,
         "Pikipek": 8,
@@ -160,7 +160,7 @@
         "Impidimp": 12,
         "Swadloon": 3,
         "Sunny castform": 4,
-        "Vullaby": 2,
+        "Vullaby": 3,
         "Venipede": 6,
         "Pansage": 2,
         "Cetoddle": 5,
@@ -191,7 +191,7 @@
         "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 4,
+        "Klawf": 6,
         "Dj rotom": 4,
         "Chef dente": 5,
         "Hisuian qwilfish": 1,
@@ -207,7 +207,7 @@
         "Zubat": 6,
         "Drowzee": 2,
         "Lechonk": 4,
-        "Woobat": 1,
+        "Woobat": 2,
         "Skrelp": 3,
         "Lileep": 2,
         "Drifloon": 1,
@@ -305,7 +305,7 @@
         "Torracat": 1,
         "Geodude": 4,
         "Tentacruel": 1,
-        "Archen": 4,
+        "Archen": 5,
         "Blue plumage squawkabilly": 2,
         "Metang": 1,
         "Larvitar": 5,
@@ -373,7 +373,7 @@
         "Duraludon": 2,
         "Nidorino": 3,
         "Rayquaza": 12,
-        "Horsea": 7,
+        "Horsea": 8,
         "Reshiram": 3,
         "Celebi": 1,
         "Morelull": 1,
@@ -521,10 +521,11 @@
         "Espathra": 1,
         "Snom": 1,
         "Nickit": 1,
-        "Aromatisse": 1
+        "Aromatisse": 1,
+        "Cosmoem": 1
       },
-      "total_spawns": 1205,
-      "last_spawn": "2026-07-05T20:32:28.193946"
+      "total_spawns": 1215,
+      "last_spawn": "2026-07-05T20:32:58.438124"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -534,7 +535,7 @@
         "Flaaffy": 4,
         "Bronzor": 2,
         "Gible": 7,
-        "Torracat": 1,
+        "Torracat": 2,
         "Dusclops": 3,
         "Rhyhorn": 4,
         "Mareep": 7,
@@ -619,7 +620,7 @@
         "Ralts": 9,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 8,
+        "Aron": 9,
         "Horsea": 16,
         "Teddiursa": 10,
         "Dratini": 2,
@@ -787,7 +788,7 @@
         "Nosepass": 1,
         "Scovillain": 4,
         "Sliggoo": 2,
-        "Silcoon": 2,
+        "Silcoon": 3,
         "Tadbulb": 6,
         "Lopunny": 2,
         "Malamar": 1,
@@ -1091,12 +1092,12 @@
         "Midnight lycanroc": 1,
         "Floette": 1
       },
-      "total_spawns": 1718,
-      "last_spawn": "2026-07-05T20:32:26.681045"
+      "total_spawns": 1721,
+      "last_spawn": "2026-07-05T20:32:54.510028"
     }
   },
   "global": {
-    "total_spawns": 65462,
+    "total_spawns": 65475,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
