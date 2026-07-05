@@ -467,7 +467,7 @@
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
-        "Seedot": 2,
+        "Seedot": 3,
         "Trapinch": 3,
         "Hatenna": 2,
         "Drifloon": 1,
@@ -598,7 +598,7 @@
         "Durant": 1,
         "Jigglypuff": 1,
         "Steenee": 1,
-        "Mareanie": 1,
+        "Mareanie": 2,
         "Munkidori": 1,
         "Fearow": 1,
         "Vikavolt": 2,
@@ -626,7 +626,7 @@
         "Goomy": 1,
         "Orbeetle": 1,
         "Shellder": 2,
-        "Pawmi": 1,
+        "Pawmi": 2,
         "Spoink": 3,
         "Lileep": 1,
         "Crocalor": 1,
@@ -709,14 +709,15 @@
         "Charmander": 1,
         "Misdreavus": 1,
         "Growlithe": 1,
-        "Arctozolt": 1
+        "Arctozolt": 1,
+        "Spheal": 1
       },
-      "total_spawns": 548,
-      "last_spawn": "2026-07-05T16:14:06.197627"
+      "total_spawns": 552,
+      "last_spawn": "2026-07-05T16:14:44.380230"
     }
   },
   "global": {
-    "total_spawns": 63732,
+    "total_spawns": 63736,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
