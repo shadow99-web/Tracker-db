@@ -459,7 +459,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 3,
+        "Charcadet": 4,
         "Sandile": 5,
         "Maushold": 2,
         "Rattata": 4,
@@ -488,7 +488,7 @@
         "Dratini": 1,
         "Sewaddle": 2,
         "Mantyke": 1,
-        "Slakoth": 4,
+        "Slakoth": 5,
         "Dreepy": 2,
         "Foongus": 1,
         "Hoppip": 2,
@@ -561,7 +561,7 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 2,
-        "Swinub": 1,
+        "Swinub": 2,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -648,14 +648,15 @@
         "Snover": 1,
         "Bayleef": 1,
         "Nosepass": 1,
-        "Scovillain": 1
+        "Scovillain": 1,
+        "Sliggoo": 1
       },
-      "total_spawns": 387,
-      "last_spawn": "2026-07-05T15:46:34.773293"
+      "total_spawns": 391,
+      "last_spawn": "2026-07-05T15:47:18.852965"
     }
   },
   "global": {
-    "total_spawns": 63569,
+    "total_spawns": 63573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
