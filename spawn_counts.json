@@ -444,13 +444,13 @@
         "Kilowattrel": 2,
         "Skiploom": 3,
         "Voltorb": 5,
-        "Geodude": 7,
+        "Geodude": 8,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 3,
         "Gastly": 5,
         "Orthworm": 6,
-        "Glimmet": 7,
+        "Glimmet": 8,
         "Beldum": 2,
         "Combee": 2,
         "Corphish": 2,
@@ -479,7 +479,7 @@
         "Wattrel": 9,
         "Nacli": 13,
         "Feebas": 2,
-        "Weedle": 7,
+        "Weedle": 8,
         "Ralts": 7,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -718,7 +718,7 @@
         "Graveler": 4,
         "Duosion": 2,
         "Pawniard": 1,
-        "Rabsca": 2,
+        "Rabsca": 3,
         "Cofagrigus": 1,
         "Hattrem": 1,
         "Sneasel": 2,
@@ -869,14 +869,15 @@
         "Rillaboom": 1,
         "Farfetch'd": 1,
         "Buizel": 1,
-        "Barraskewda": 1
+        "Barraskewda": 1,
+        "Kommo-o": 1
       },
-      "total_spawns": 1246,
-      "last_spawn": "2026-07-05T17:51:47.297409"
+      "total_spawns": 1251,
+      "last_spawn": "2026-07-05T17:52:24.717077"
     }
   },
   "global": {
-    "total_spawns": 64434,
+    "total_spawns": 64439,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
