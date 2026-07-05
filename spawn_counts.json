@@ -242,7 +242,7 @@
         "Machoke": 3,
         "Luvdisc": 1,
         "Fennekin": 6,
-        "Milcery": 5,
+        "Milcery": 7,
         "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 1,
         "Quilava": 1,
-        "Wurmple": 7,
+        "Wurmple": 8,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -671,8 +671,8 @@
         "Obstagoon": 2,
         "Greninja": 1
       },
-      "total_spawns": 2367,
-      "last_spawn": "2026-07-05T23:06:13.827902"
+      "total_spawns": 2370,
+      "last_spawn": "2026-07-05T23:07:13.719141"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -694,7 +694,7 @@
         "Dedenne": 2,
         "Gothita": 14,
         "Finizen": 13,
-        "Machop": 12,
+        "Machop": 13,
         "Psyduck": 6,
         "Monferno": 3,
         "Pikipek": 9,
@@ -715,7 +715,7 @@
         "Timburr": 13,
         "Pidgey": 7,
         "Gimmighoul": 11,
-        "Cetoddle": 15,
+        "Cetoddle": 16,
         "Fidough": 15,
         "Smearguru": 8,
         "Nuzleaf": 3,
@@ -834,7 +834,7 @@
         "Maschiff": 12,
         "Sensu oricorio": 2,
         "Scatterbug": 17,
-        "Taillow": 2,
+        "Taillow": 3,
         "Wimpod": 6,
         "Rookidee": 14,
         "Shellos": 1,
@@ -1353,12 +1353,12 @@
         "Lilligant": 1,
         "Mienfoo": 1
       },
-      "total_spawns": 2627,
-      "last_spawn": "2026-07-05T23:06:44.595255"
+      "total_spawns": 2630,
+      "last_spawn": "2026-07-05T23:07:15.321395"
     }
   },
   "global": {
-    "total_spawns": 67533,
+    "total_spawns": 67539,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
