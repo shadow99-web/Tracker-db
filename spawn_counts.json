@@ -506,7 +506,7 @@
         "Shroodle": 2,
         "Clawitzer": 1,
         "Poliwrath": 1,
-        "Combusken": 1,
+        "Combusken": 2,
         "Bombirdier": 2,
         "Wooloo": 2,
         "Togekiss": 1,
@@ -537,7 +537,7 @@
         "Klawf": 3,
         "Lombre": 2,
         "Wurmple": 1,
-        "Peakychu": 2,
+        "Peakychu": 3,
         "Bellibolt": 1,
         "Quilladin": 1,
         "Vulpix": 1,
@@ -580,7 +580,7 @@
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
-        "Pidove": 2,
+        "Pidove": 3,
         "Larvitar": 1,
         "Munna": 1,
         "Tangela": 1,
@@ -617,7 +617,7 @@
         "Clefairy": 1,
         "Grubbin": 2,
         "Dustox": 1,
-        "Chespin": 1,
+        "Chespin": 2,
         "Armarouge": 1,
         "Battle cyclizar": 1,
         "Bagon": 1,
@@ -682,12 +682,12 @@
         "Remoraid": 1,
         "Diglett": 1
       },
-      "total_spawns": 473,
-      "last_spawn": "2026-07-05T16:01:15.922594"
+      "total_spawns": 477,
+      "last_spawn": "2026-07-05T16:01:54.620866"
     }
   },
   "global": {
-    "total_spawns": 63657,
+    "total_spawns": 63661,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
