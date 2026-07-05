@@ -419,7 +419,7 @@
         "Eevee": 2,
         "Shroomish": 1,
         "Dachsbun": 2,
-        "Swirlix": 2,
+        "Swirlix": 3,
         "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
@@ -469,7 +469,7 @@
         "Slowpoke": 1,
         "Seedot": 3,
         "Trapinch": 3,
-        "Hatenna": 2,
+        "Hatenna": 3,
         "Drifloon": 2,
         "Togepi": 2,
         "Snivy": 1,
@@ -530,10 +530,10 @@
         "Litleo": 1,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 2,
+        "Dondozo": 3,
         "Lairon": 1,
         "Zubat": 8,
-        "Croagunk": 1,
+        "Croagunk": 2,
         "Klawf": 3,
         "Lombre": 2,
         "Wurmple": 2,
@@ -725,12 +725,12 @@
         "Piplup": 1,
         "Electrike": 1
       },
-      "total_spawns": 586,
-      "last_spawn": "2026-07-05T16:20:24.867420"
+      "total_spawns": 590,
+      "last_spawn": "2026-07-05T16:21:04.698308"
     }
   },
   "global": {
-    "total_spawns": 63770,
+    "total_spawns": 63774,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
