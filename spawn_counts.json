@@ -442,7 +442,7 @@
         "Cutiefly": 1,
         "Binacle": 1,
         "Kilowattrel": 2,
-        "Skiploom": 1,
+        "Skiploom": 2,
         "Voltorb": 1,
         "Geodude": 3,
         "Treecko": 1,
@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 4,
         "Wattrel": 4,
-        "Nacli": 4,
+        "Nacli": 5,
         "Feebas": 1,
         "Weedle": 3,
         "Ralts": 3,
@@ -605,7 +605,7 @@
         "Ledian": 2,
         "Pineco": 1,
         "Vanillite": 1,
-        "Omanyte": 3,
+        "Omanyte": 4,
         "Scraggy": 1,
         "Komala": 1,
         "Stoutland": 1,
@@ -730,14 +730,15 @@
         "Pawmo": 1,
         "Charjabug": 1,
         "Hoothoot": 1,
-        "Pom-pom oricorio": 1
+        "Pom-pom oricorio": 1,
+        "Toxapex": 1
       },
-      "total_spawns": 616,
-      "last_spawn": "2026-07-05T16:25:35.190141"
+      "total_spawns": 620,
+      "last_spawn": "2026-07-05T16:26:14.416045"
     }
   },
   "global": {
-    "total_spawns": 63800,
+    "total_spawns": 63804,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
