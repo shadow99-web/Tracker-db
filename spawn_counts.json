@@ -92,7 +92,7 @@
         "Charmeleon": 3,
         "Riolu": 8,
         "Gible": 8,
-        "Greavard": 14,
+        "Greavard": 16,
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 5,
@@ -116,7 +116,7 @@
         "Swinub": 13,
         "Rattata": 4,
         "Stonjourner": 1,
-        "Veluza": 10,
+        "Veluza": 12,
         "Panpour": 6,
         "Crabrawler": 3,
         "Frogadier": 3,
@@ -303,9 +303,9 @@
         "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 2,
-        "Geodude": 4,
+        "Geodude": 5,
         "Tentacruel": 1,
-        "Archen": 5,
+        "Archen": 6,
         "Blue plumage squawkabilly": 3,
         "Metang": 1,
         "Larvitar": 8,
@@ -656,8 +656,8 @@
         "Passimian": 1,
         "Jynx": 1
       },
-      "total_spawns": 2228,
-      "last_spawn": "2026-07-05T22:13:43.595444"
+      "total_spawns": 2234,
+      "last_spawn": "2026-07-05T22:14:23.706845"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -746,9 +746,9 @@
         "Scorbunny": 2,
         "Roggenrola": 14,
         "Wattrel": 13,
-        "Nacli": 19,
+        "Nacli": 20,
         "Feebas": 2,
-        "Weedle": 10,
+        "Weedle": 11,
         "Ralts": 14,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -1188,7 +1188,7 @@
         "Drowzee": 2,
         "Nidorino": 3,
         "Sobble": 3,
-        "Vigoroth": 3,
+        "Vigoroth": 4,
         "Finneon": 2,
         "Debutante trim furfrou": 1,
         "Fraxure": 1,
@@ -1297,12 +1297,12 @@
         "Munchlax": 1,
         "Dodrio": 1
       },
-      "total_spawns": 2312,
-      "last_spawn": "2026-07-05T22:13:44.594571"
+      "total_spawns": 2315,
+      "last_spawn": "2026-07-05T22:14:14.349811"
     }
   },
   "global": {
-    "total_spawns": 67079,
+    "total_spawns": 67088,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
