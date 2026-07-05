@@ -49,7 +49,7 @@
         "Tympole": 8,
         "Grubbin": 8,
         "Scatterbug": 8,
-        "Skwovet": 3,
+        "Skwovet": 4,
         "Applin": 2,
         "Staryu": 1,
         "Maschiff": 6,
@@ -60,7 +60,7 @@
         "Lillipup": 7,
         "Mosslax": 16,
         "Maushold": 3,
-        "Cubchoo": 5,
+        "Cubchoo": 7,
         "Koffing": 3,
         "Kirlia": 3,
         "Deino": 9,
@@ -643,10 +643,11 @@
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 2,
-        "Shiinotic": 2
+        "Shiinotic": 2,
+        "Simisage": 2
       },
-      "total_spawns": 2123,
-      "last_spawn": "2026-07-05T22:00:13.995345"
+      "total_spawns": 2128,
+      "last_spawn": "2026-07-05T22:00:44.595332"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -790,7 +791,7 @@
         "Greninja": 1,
         "Dondozo": 9,
         "Lairon": 4,
-        "Zubat": 14,
+        "Zubat": 15,
         "Croagunk": 3,
         "Klawf": 7,
         "Lombre": 2,
@@ -943,7 +944,7 @@
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 9,
+        "Veluza": 10,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 2,
         "Poliwag": 8,
@@ -1183,7 +1184,7 @@
         "Fraxure": 1,
         "Tentacool": 1,
         "Relicanth": 1,
-        "Patrat": 1,
+        "Patrat": 2,
         "Cottonee": 2,
         "Butterfree": 1,
         "Quaxly": 3,
@@ -1277,12 +1278,12 @@
         "Gloom": 1,
         "Plusle": 1
       },
-      "total_spawns": 2232,
-      "last_spawn": "2026-07-05T22:00:04.753433"
+      "total_spawns": 2235,
+      "last_spawn": "2026-07-05T22:00:34.353582"
     }
   },
   "global": {
-    "total_spawns": 66894,
+    "total_spawns": 66902,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
