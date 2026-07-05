@@ -479,7 +479,7 @@
         "Wattrel": 4,
         "Nacli": 6,
         "Feebas": 1,
-        "Weedle": 4,
+        "Weedle": 5,
         "Ralts": 5,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -557,7 +557,7 @@
         "Roaming gimmighoul": 1,
         "Grotle": 1,
         "Squawkabilly": 1,
-        "Wartortle": 1,
+        "Wartortle": 2,
         "Rowlet": 1,
         "Gholdengo": 1,
         "Machoke": 1,
@@ -677,7 +677,7 @@
         "Toedscool": 1,
         "Espathra": 1,
         "Klang": 1,
-        "Vespiquen": 2,
+        "Vespiquen": 3,
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
@@ -693,7 +693,7 @@
         "Pikachu": 1,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 1,
+        "Frigibax": 2,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -766,12 +766,12 @@
         "Heliolisk": 1,
         "Doublade": 1
       },
-      "total_spawns": 767,
-      "last_spawn": "2026-07-05T16:51:24.702916"
+      "total_spawns": 771,
+      "last_spawn": "2026-07-05T16:52:04.297067"
     }
   },
   "global": {
-    "total_spawns": 63951,
+    "total_spawns": 63955,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
