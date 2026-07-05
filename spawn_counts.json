@@ -92,7 +92,7 @@
         "Charmeleon": 3,
         "Riolu": 2,
         "Gible": 4,
-        "Greavard": 4,
+        "Greavard": 6,
         "Snover": 3,
         "Piplup": 1,
         "Dondozo": 2,
@@ -164,7 +164,7 @@
         "Venipede": 6,
         "Pansage": 2,
         "Cetoddle": 4,
-        "Togepi": 4,
+        "Togepi": 5,
         "Tandemaus": 3,
         "Clefairy": 1,
         "Unown q": 1,
@@ -312,7 +312,7 @@
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
-        "Petilil": 2,
+        "Petilil": 3,
         "Bombirdier": 3,
         "Bellibolt": 1,
         "Toedscool": 2,
@@ -494,10 +494,12 @@
         "Alakazam": 1,
         "Mismagius": 1,
         "Dada zarude": 1,
-        "Yellow flower florges": 1
+        "Yellow flower florges": 1,
+        "Drilbur": 1,
+        "Leavanny": 1
       },
-      "total_spawns": 1064,
-      "last_spawn": "2026-07-05T20:15:13.911261"
+      "total_spawns": 1070,
+      "last_spawn": "2026-07-05T20:15:50.578864"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -511,8 +513,8 @@
         "Dusclops": 3,
         "Rhyhorn": 3,
         "Mareep": 5,
-        "Klink": 6,
-        "Nymble": 6,
+        "Klink": 7,
+        "Nymble": 7,
         "Porygon": 10,
         "Abra": 8,
         "Oddish": 8,
@@ -639,7 +641,7 @@
         "Litleo": 2,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 7,
+        "Dondozo": 8,
         "Lairon": 2,
         "Zubat": 10,
         "Croagunk": 3,
@@ -726,7 +728,7 @@
         "Clefairy": 4,
         "Grubbin": 8,
         "Dustox": 1,
-        "Chespin": 5,
+        "Chespin": 6,
         "Armarouge": 2,
         "Battle cyclizar": 2,
         "Bagon": 3,
@@ -1038,14 +1040,16 @@
         "Cottonee": 1,
         "Butterfree": 1,
         "Quaxly": 1,
-        "Guzzlord": 1
+        "Guzzlord": 1,
+        "Seadra": 1,
+        "Pyukumuku": 1
       },
-      "total_spawns": 1520,
-      "last_spawn": "2026-07-05T20:15:17.145991"
+      "total_spawns": 1526,
+      "last_spawn": "2026-07-05T20:15:47.120819"
     }
   },
   "global": {
-    "total_spawns": 65123,
+    "total_spawns": 65135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
