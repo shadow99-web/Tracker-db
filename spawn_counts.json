@@ -401,7 +401,7 @@
         "Nymble": 1,
         "Porygon": 1,
         "Abra": 1,
-        "Oddish": 4,
+        "Oddish": 5,
         "Dedenne": 1,
         "Gothita": 1,
         "Finizen": 2,
@@ -530,7 +530,7 @@
         "Zubat": 1,
         "Croagunk": 1,
         "Klawf": 1,
-        "Lombre": 1,
+        "Lombre": 2,
         "Wurmple": 1,
         "Peakychu": 1,
         "Bellibolt": 1,
@@ -566,14 +566,16 @@
         "Chikorita": 1,
         "Litwick": 1,
         "Metapod": 1,
-        "Morgrem": 1
+        "Morgrem": 1,
+        "Gorebyss": 1,
+        "Quaxwell": 1
       },
-      "total_spawns": 234,
-      "last_spawn": "2026-07-05T15:20:44.634736"
+      "total_spawns": 238,
+      "last_spawn": "2026-07-05T15:21:24.473435"
     }
   },
   "global": {
-    "total_spawns": 63407,
+    "total_spawns": 63411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
