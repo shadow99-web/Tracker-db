@@ -397,14 +397,14 @@
         "Caterpie": 2,
         "Flaaffy": 3,
         "Bronzor": 1,
-        "Gible": 3,
+        "Gible": 4,
         "Torracat": 1,
         "Dusclops": 2,
         "Rhyhorn": 3,
         "Mareep": 3,
         "Klink": 6,
         "Nymble": 6,
-        "Porygon": 9,
+        "Porygon": 10,
         "Abra": 6,
         "Oddish": 8,
         "Dedenne": 1,
@@ -449,7 +449,7 @@
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 5,
-        "Orthworm": 6,
+        "Orthworm": 7,
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 2,
@@ -628,7 +628,7 @@
         "Shellder": 4,
         "Pawmi": 6,
         "Spoink": 4,
-        "Lileep": 2,
+        "Lileep": 3,
         "Crocalor": 2,
         "Cranidos": 1,
         "Cherrim": 1,
@@ -878,14 +878,15 @@
         "Nidoking": 1,
         "Hariyama": 1,
         "Archen": 1,
-        "Mabosstiff": 1
+        "Mabosstiff": 1,
+        "Skuntank": 1
       },
-      "total_spawns": 1279,
-      "last_spawn": "2026-07-05T17:54:37.265058"
+      "total_spawns": 1284,
+      "last_spawn": "2026-07-05T17:55:07.416488"
     }
   },
   "global": {
-    "total_spawns": 64467,
+    "total_spawns": 64472,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
