@@ -406,9 +406,9 @@
         "Nymble": 3,
         "Porygon": 5,
         "Abra": 3,
-        "Oddish": 6,
+        "Oddish": 7,
         "Dedenne": 1,
-        "Gothita": 2,
+        "Gothita": 3,
         "Finizen": 4,
         "Machop": 3,
         "Psyduck": 2,
@@ -475,7 +475,7 @@
         "Snivy": 1,
         "Bellsprout": 2,
         "Scorbunny": 2,
-        "Roggenrola": 3,
+        "Roggenrola": 4,
         "Wattrel": 4,
         "Nacli": 4,
         "Feebas": 1,
@@ -694,7 +694,7 @@
         "Yungoos": 1,
         "Luxio": 1,
         "Frigibax": 1,
-        "Krokorok": 1,
+        "Krokorok": 2,
         "Snorunt": 1,
         "Meganium": 1,
         "Chimchar": 1,
@@ -725,12 +725,12 @@
         "Piplup": 1,
         "Electrike": 1
       },
-      "total_spawns": 590,
-      "last_spawn": "2026-07-05T16:21:04.698308"
+      "total_spawns": 594,
+      "last_spawn": "2026-07-05T16:21:44.475356"
     }
   },
   "global": {
-    "total_spawns": 63774,
+    "total_spawns": 63778,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
