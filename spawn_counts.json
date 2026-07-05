@@ -376,10 +376,11 @@
         "Horsea": 1,
         "Reshiram": 1,
         "Celebi": 1,
-        "Morelull": 1
+        "Morelull": 1,
+        "Unown": 1
       },
-      "total_spawns": 623,
-      "last_spawn": "2026-07-05T14:53:02.670485"
+      "total_spawns": 624,
+      "last_spawn": "2026-07-05T14:56:26.644179"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -466,14 +467,18 @@
         "Snivy": 1,
         "Bellsprout": 1,
         "Scorbunny": 1,
-        "Roggenrola": 1
+        "Roggenrola": 1,
+        "Wattrel": 1,
+        "Nacli": 1,
+        "Feebas": 1,
+        "Weedle": 1
       },
-      "total_spawns": 91,
-      "last_spawn": "2026-07-05T14:56:14.930010"
+      "total_spawns": 95,
+      "last_spawn": "2026-07-05T14:56:54.696664"
     }
   },
   "global": {
-    "total_spawns": 63253,
+    "total_spawns": 63258,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
