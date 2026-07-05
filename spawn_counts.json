@@ -562,7 +562,7 @@
         "Gholdengo": 2,
         "Machoke": 2,
         "Glameow": 3,
-        "Swinub": 9,
+        "Swinub": 10,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -761,7 +761,7 @@
         "Pyroar": 1,
         "Oshawott": 1,
         "Bisharp": 1,
-        "Dartrix": 1,
+        "Dartrix": 2,
         "Roserade": 1,
         "Heliolisk": 1,
         "Doublade": 1,
@@ -772,7 +772,7 @@
         "Nickit": 1,
         "Wiglett": 4,
         "Carkol": 2,
-        "Solosis": 3,
+        "Solosis": 4,
         "Flapple": 1,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -807,7 +807,7 @@
         "Arrokuda": 1,
         "Snom": 1,
         "Noibat": 1,
-        "Turtwig": 1,
+        "Turtwig": 2,
         "Snubbull": 1,
         "Gogoat": 1,
         "Morelull": 1,
@@ -838,7 +838,7 @@
         "Vullaby": 1,
         "Burmy": 1,
         "Nidorina": 1,
-        "Meowth": 1,
+        "Meowth": 2,
         "Shelmet": 1,
         "Electabuzz": 1,
         "Galarian zen darmanitan": 1,
@@ -866,14 +866,15 @@
         "Aegislash": 1,
         "Scyther": 1,
         "Azumarill": 1,
-        "Rillaboom": 1
+        "Rillaboom": 1,
+        "Farfetch'd": 1
       },
-      "total_spawns": 1233,
-      "last_spawn": "2026-07-05T17:50:44.418768"
+      "total_spawns": 1239,
+      "last_spawn": "2026-07-05T17:51:14.905617"
     }
   },
   "global": {
-    "total_spawns": 64421,
+    "total_spawns": 64427,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
