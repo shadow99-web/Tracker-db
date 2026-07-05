@@ -404,7 +404,7 @@
         "Mareep": 2,
         "Klink": 4,
         "Nymble": 3,
-        "Porygon": 5,
+        "Porygon": 6,
         "Abra": 6,
         "Oddish": 7,
         "Dedenne": 1,
@@ -493,7 +493,7 @@
         "Dreepy": 4,
         "Foongus": 2,
         "Hoppip": 3,
-        "Blipbug": 5,
+        "Blipbug": 6,
         "Swoobat": 1,
         "Greavard": 7,
         "Mosslax": 5,
@@ -695,7 +695,7 @@
         "Luxio": 1,
         "Frigibax": 1,
         "Krokorok": 2,
-        "Snorunt": 1,
+        "Snorunt": 2,
         "Meganium": 1,
         "Chimchar": 1,
         "Mewtwo": 1,
@@ -760,14 +760,15 @@
         "Lickitung": 1,
         "Pyroar": 1,
         "Oshawott": 1,
-        "Bisharp": 1
+        "Bisharp": 1,
+        "Dartrix": 1
       },
-      "total_spawns": 749,
-      "last_spawn": "2026-07-05T16:48:24.517727"
+      "total_spawns": 753,
+      "last_spawn": "2026-07-05T16:49:04.502079"
     }
   },
   "global": {
-    "total_spawns": 63933,
+    "total_spawns": 63937,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
