@@ -424,7 +424,7 @@
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 10,
-        "Jangmo-o": 4,
+        "Jangmo-o": 5,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 2,
@@ -511,7 +511,7 @@
         "Wooloo": 2,
         "Togekiss": 1,
         "Rolycoly": 6,
-        "Duskull": 4,
+        "Duskull": 5,
         "Marill": 3,
         "Axew": 2,
         "Tinkatink": 3,
@@ -604,7 +604,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 1,
-        "Vanillite": 4,
+        "Vanillite": 5,
         "Omanyte": 4,
         "Scraggy": 2,
         "Komala": 1,
@@ -685,7 +685,7 @@
         "Nincada": 1,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 1,
+        "Veluza": 2,
         "Salandit": 1,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 1,
@@ -761,12 +761,12 @@
         "Pyroar": 1,
         "Oshawott": 1
       },
-      "total_spawns": 742,
-      "last_spawn": "2026-07-05T16:47:19.533559"
+      "total_spawns": 746,
+      "last_spawn": "2026-07-05T16:47:54.500092"
     }
   },
   "global": {
-    "total_spawns": 63926,
+    "total_spawns": 63930,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
