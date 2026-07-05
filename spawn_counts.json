@@ -748,7 +748,7 @@
         "Sunkern": 1,
         "Wugtrio": 1,
         "Applin": 1,
-        "Venipede": 2,
+        "Venipede": 3,
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 2,
@@ -825,14 +825,16 @@
         "Shuppet": 1,
         "East sea gastrodon": 1,
         "Grovyle": 1,
-        "Grumpig": 1
+        "Grumpig": 1,
+        "White plumage squawkabilly": 1,
+        "Koffing": 1
       },
-      "total_spawns": 1008,
-      "last_spawn": "2026-07-05T17:31:54.419929"
+      "total_spawns": 1011,
+      "last_spawn": "2026-07-05T17:32:25.807282"
     }
   },
   "global": {
-    "total_spawns": 64193,
+    "total_spawns": 64196,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
