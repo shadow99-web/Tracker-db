@@ -62,7 +62,7 @@
         "Maushold": 3,
         "Cubchoo": 11,
         "Koffing": 3,
-        "Kirlia": 3,
+        "Kirlia": 5,
         "Deino": 9,
         "Dolliv": 1,
         "Feebas": 3,
@@ -676,8 +676,8 @@
         "Wigglytuff": 1,
         "Pangoro": 1
       },
-      "total_spawns": 2447,
-      "last_spawn": "2026-07-05T23:41:53.714816"
+      "total_spawns": 2449,
+      "last_spawn": "2026-07-05T23:42:33.594607"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -698,7 +698,7 @@
         "Oddish": 15,
         "Dedenne": 2,
         "Gothita": 14,
-        "Finizen": 13,
+        "Finizen": 14,
         "Machop": 16,
         "Psyduck": 6,
         "Monferno": 3,
@@ -984,7 +984,7 @@
         "Luxio": 5,
         "Frigibax": 13,
         "Krokorok": 3,
-        "Snorunt": 3,
+        "Snorunt": 4,
         "Meganium": 1,
         "Chimchar": 3,
         "Mewtwo": 1,
@@ -1288,7 +1288,7 @@
         "Cacnea": 3,
         "Beartic": 1,
         "Oricorio": 1,
-        "Leafeon": 1,
+        "Leafeon": 2,
         "Natu": 1,
         "Slugma": 1,
         "Escavalier": 1,
@@ -1377,12 +1377,12 @@
         "Dialga": 1,
         "Joltik": 1
       },
-      "total_spawns": 2837,
-      "last_spawn": "2026-07-05T23:42:24.359208"
+      "total_spawns": 2840,
+      "last_spawn": "2026-07-05T23:42:54.400055"
     }
   },
   "global": {
-    "total_spawns": 67823,
+    "total_spawns": 67828,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
