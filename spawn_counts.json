@@ -90,7 +90,7 @@
         "Pawmi": 9,
         "Sandile": 14,
         "Charmeleon": 3,
-        "Riolu": 6,
+        "Riolu": 8,
         "Gible": 8,
         "Greavard": 14,
         "Snover": 3,
@@ -111,7 +111,7 @@
         "Eevee": 4,
         "Dreepy": 23,
         "Treecko": 10,
-        "Shroodle": 4,
+        "Shroodle": 5,
         "Ride cyclizar": 1,
         "Swinub": 11,
         "Rattata": 4,
@@ -650,10 +650,11 @@
         "Vikavolt": 1,
         "Eelektross": 1,
         "Bibarel": 1,
-        "Debutante trim furfrou": 2
+        "Debutante trim furfrou": 2,
+        "Phanpy": 1
       },
-      "total_spawns": 2198,
-      "last_spawn": "2026-07-05T22:09:34.004475"
+      "total_spawns": 2202,
+      "last_spawn": "2026-07-05T22:10:04.112890"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -756,7 +757,7 @@
         "Mantyke": 2,
         "Slakoth": 13,
         "Dreepy": 11,
-        "Foongus": 3,
+        "Foongus": 4,
         "Hoppip": 12,
         "Blipbug": 9,
         "Swoobat": 1,
@@ -1133,7 +1134,7 @@
         "Azumarill": 1,
         "Rillaboom": 1,
         "Farfetch'd": 1,
-        "Buizel": 2,
+        "Buizel": 3,
         "Barraskewda": 1,
         "Kommo-o": 1,
         "Chatot": 1,
@@ -1148,7 +1149,7 @@
         "Glastrier": 1,
         "Crabrawler": 3,
         "Onix": 1,
-        "Arctibax": 2,
+        "Arctibax": 3,
         "Shelgon": 3,
         "Dracozolt": 1,
         "Stufful": 2,
@@ -1290,12 +1291,12 @@
         "Ursaluna": 1,
         "Mawile": 1
       },
-      "total_spawns": 2287,
-      "last_spawn": "2026-07-05T22:09:24.496306"
+      "total_spawns": 2290,
+      "last_spawn": "2026-07-05T22:09:54.896367"
     }
   },
   "global": {
-    "total_spawns": 67024,
+    "total_spawns": 67031,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
