@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 12,
+        "Shinx": 13,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 3,
@@ -101,7 +101,7 @@
         "Dodrio": 1,
         "Metagross": 2,
         "Corphish": 1,
-        "Doduo": 2,
+        "Doduo": 3,
         "Flittle": 3,
         "Armarouge": 1,
         "Clauncher": 1,
@@ -150,11 +150,11 @@
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 1,
-        "Teddiursa": 7,
+        "Teddiursa": 9,
         "Roggenrola": 3,
         "Litwick": 2,
         "Wooper": 1,
-        "Pikipek": 6,
+        "Pikipek": 8,
         "Spritzee": 1,
         "Stantler": 2,
         "Impidimp": 6,
@@ -455,10 +455,11 @@
         "Slurpuff": 1,
         "Espurr": 2,
         "Pelipper": 1,
-        "Excadrill": 2
+        "Excadrill": 2,
+        "Buizel": 1
       },
-      "total_spawns": 938,
-      "last_spawn": "2026-07-05T20:03:58.102156"
+      "total_spawns": 945,
+      "last_spawn": "2026-07-05T20:04:28.220607"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -494,7 +495,7 @@
         "Meditite": 3,
         "Pansage": 2,
         "Whismur": 11,
-        "Jangmo-o": 6,
+        "Jangmo-o": 7,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 3,
@@ -511,7 +512,7 @@
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 2,
-        "Kilowattrel": 2,
+        "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 5,
         "Geodude": 8,
@@ -570,7 +571,7 @@
         "Braixen": 2,
         "Skwovet": 2,
         "Magnemite": 9,
-        "Impidimp": 10,
+        "Impidimp": 11,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 6,
@@ -636,7 +637,7 @@
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
-        "Rellor": 5,
+        "Rellor": 6,
         "Hippopotas": 3,
         "Chikorita": 5,
         "Litwick": 8,
@@ -815,7 +816,7 @@
         "Cyndaquil": 3,
         "Thievul": 1,
         "Gengar": 1,
-        "Sunkern": 2,
+        "Sunkern": 3,
         "Wugtrio": 2,
         "Applin": 2,
         "Venipede": 5,
@@ -858,7 +859,7 @@
         "Spidops": 1,
         "Dwebble": 3,
         "Rockruff": 1,
-        "Stunfisk": 1,
+        "Stunfisk": 2,
         "Spinda": 1,
         "Beautifly": 2,
         "Fletchling": 5,
@@ -976,14 +977,15 @@
         "Raticate": 1,
         "Arbok": 1,
         "Ditto": 1,
-        "Alolan meowth": 1
+        "Alolan meowth": 1,
+        "Budew": 1
       },
-      "total_spawns": 1389,
-      "last_spawn": "2026-07-05T20:03:57.100583"
+      "total_spawns": 1396,
+      "last_spawn": "2026-07-05T20:04:34.590070"
     }
   },
   "global": {
-    "total_spawns": 64866,
+    "total_spawns": 64880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
