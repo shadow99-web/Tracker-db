@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 17,
         "Roggenrola": 12,
-        "Litwick": 5,
+        "Litwick": 6,
         "Wooper": 2,
         "Pikipek": 12,
         "Spritzee": 1,
@@ -657,10 +657,12 @@
         "Jynx": 1,
         "Noctowl": 1,
         "Munna": 1,
-        "Mabosstiff": 1
+        "Mabosstiff": 1,
+        "Omastar": 1,
+        "Gabite": 2
       },
-      "total_spawns": 2260,
-      "last_spawn": "2026-07-05T22:20:01.339942"
+      "total_spawns": 2264,
+      "last_spawn": "2026-07-05T22:20:25.324841"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -783,7 +785,7 @@
         "Wooloo": 6,
         "Togekiss": 1,
         "Rolycoly": 12,
-        "Duskull": 6,
+        "Duskull": 7,
         "Marill": 5,
         "Axew": 6,
         "Tinkatink": 8,
@@ -841,13 +843,13 @@
         "Rellor": 9,
         "Hippopotas": 4,
         "Chikorita": 5,
-        "Litwick": 15,
+        "Litwick": 16,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 2,
         "Croconaw": 6,
-        "Smoliv": 7,
+        "Smoliv": 8,
         "Lechonk": 8,
         "Clodsire": 5,
         "Sandaconda": 1,
@@ -1101,7 +1103,7 @@
         "White plumage squawkabilly": 4,
         "Koffing": 1,
         "Rhyperior": 1,
-        "Spritzee": 4,
+        "Spritzee": 5,
         "Hawlucha": 1,
         "Paras": 3,
         "Crobat": 1,
@@ -1303,12 +1305,12 @@
         "Houndour": 1,
         "Delcatty": 1
       },
-      "total_spawns": 2349,
-      "last_spawn": "2026-07-05T22:19:54.404249"
+      "total_spawns": 2353,
+      "last_spawn": "2026-07-05T22:20:34.420882"
     }
   },
   "global": {
-    "total_spawns": 67148,
+    "total_spawns": 67156,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
