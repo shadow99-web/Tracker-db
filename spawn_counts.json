@@ -799,7 +799,7 @@
         "Raboot": 4,
         "Summer deerling": 4,
         "Skrelp": 3,
-        "Spewpa": 2,
+        "Spewpa": 3,
         "Fomantis": 2,
         "Forretress": 1,
         "Squirtle": 3,
@@ -1013,7 +1013,7 @@
         "Glaceon": 1,
         "Lickilicky": 1,
         "Dhelmise": 1,
-        "Porygon-z": 1,
+        "Porygon-z": 2,
         "Centiskorch": 1,
         "Pidgeot": 2,
         "Appletun": 1,
@@ -1128,14 +1128,16 @@
         "Revavroom": 1,
         "Milotic": 1,
         "Skarmory": 1,
-        "Ferroseed": 1
+        "Ferroseed": 1,
+        "Gossifleur": 1,
+        "Palafin": 1
       },
-      "total_spawns": 1812,
-      "last_spawn": "2026-07-05T20:48:24.517250"
+      "total_spawns": 1816,
+      "last_spawn": "2026-07-05T20:49:04.697752"
     }
   },
   "global": {
-    "total_spawns": 65700,
+    "total_spawns": 65704,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
