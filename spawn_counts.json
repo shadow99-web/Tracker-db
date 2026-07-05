@@ -490,7 +490,7 @@
         "Sewaddle": 5,
         "Mantyke": 1,
         "Slakoth": 7,
-        "Dreepy": 3,
+        "Dreepy": 4,
         "Foongus": 2,
         "Hoppip": 2,
         "Blipbug": 4,
@@ -604,7 +604,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 1,
-        "Vanillite": 1,
+        "Vanillite": 2,
         "Omanyte": 4,
         "Scraggy": 1,
         "Komala": 1,
@@ -650,7 +650,7 @@
         "Bayleef": 2,
         "Nosepass": 1,
         "Scovillain": 2,
-        "Sliggoo": 1,
+        "Sliggoo": 2,
         "Silcoon": 1,
         "Tadbulb": 5,
         "Lopunny": 1,
@@ -742,14 +742,15 @@
         "Cyclizar": 1,
         "Murkrow": 1,
         "Drednaw": 1,
-        "Cyndaquil": 1
+        "Cyndaquil": 1,
+        "Thievul": 1
       },
-      "total_spawns": 661,
-      "last_spawn": "2026-07-05T16:33:35.210779"
+      "total_spawns": 665,
+      "last_spawn": "2026-07-05T16:34:14.902961"
     }
   },
   "global": {
-    "total_spawns": 63845,
+    "total_spawns": 63849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
