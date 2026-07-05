@@ -480,7 +480,7 @@
         "Nacli": 5,
         "Feebas": 1,
         "Weedle": 3,
-        "Ralts": 3,
+        "Ralts": 4,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 4,
@@ -652,7 +652,7 @@
         "Scovillain": 2,
         "Sliggoo": 1,
         "Silcoon": 1,
-        "Tadbulb": 4,
+        "Tadbulb": 5,
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
@@ -736,14 +736,16 @@
         "Golett": 1,
         "Mismagius": 1,
         "Mudbray": 1,
-        "Weepinbell": 1
+        "Weepinbell": 1,
+        "East sea shellos": 1,
+        "Flygon": 1
       },
-      "total_spawns": 647,
-      "last_spawn": "2026-07-05T16:31:15.945299"
+      "total_spawns": 651,
+      "last_spawn": "2026-07-05T16:31:54.417595"
     }
   },
   "global": {
-    "total_spawns": 63831,
+    "total_spawns": 63835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
