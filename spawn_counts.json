@@ -127,7 +127,7 @@
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
-        "Varoom": 4,
+        "Varoom": 5,
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 3,
         "Luvdisc": 1,
-        "Fennekin": 3,
+        "Fennekin": 4,
         "Milcery": 5,
         "Trumbeak": 2,
         "Bonsly": 1,
@@ -669,8 +669,8 @@
         "Milotic": 1,
         "Slaking": 1
       },
-      "total_spawns": 2312,
-      "last_spawn": "2026-07-05T22:35:53.594458"
+      "total_spawns": 2314,
+      "last_spawn": "2026-07-05T22:36:23.875205"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -757,7 +757,7 @@
         "Snivy": 3,
         "Bellsprout": 9,
         "Scorbunny": 2,
-        "Roggenrola": 15,
+        "Roggenrola": 16,
         "Wattrel": 15,
         "Nacli": 21,
         "Feebas": 2,
@@ -766,7 +766,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 13,
-        "Horsea": 19,
+        "Horsea": 20,
         "Teddiursa": 14,
         "Dratini": 4,
         "Sewaddle": 8,
@@ -795,7 +795,7 @@
         "Rolycoly": 13,
         "Duskull": 9,
         "Marill": 5,
-        "Axew": 6,
+        "Axew": 7,
         "Tinkatink": 8,
         "Starly": 15,
         "Popplio": 2,
@@ -1327,12 +1327,12 @@
         "Morpeko": 1,
         "Darumaka": 1
       },
-      "total_spawns": 2443,
-      "last_spawn": "2026-07-05T22:35:44.659501"
+      "total_spawns": 2446,
+      "last_spawn": "2026-07-05T22:36:14.450877"
     }
   },
   "global": {
-    "total_spawns": 67294,
+    "total_spawns": 67299,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
