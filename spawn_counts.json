@@ -485,7 +485,7 @@
         "Lairon": 1,
         "Altaria": 1,
         "Attack deoxys": 2,
-        "Mudkip": 7,
+        "Mudkip": 8,
         "Galarian zapdos": 1,
         "Empoleon": 1,
         "Voltorb": 2,
@@ -670,8 +670,8 @@
         "Slaking": 1,
         "Obstagoon": 2
       },
-      "total_spawns": 2330,
-      "last_spawn": "2026-07-05T22:45:23.712592"
+      "total_spawns": 2331,
+      "last_spawn": "2026-07-05T22:45:23.800755"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -684,7 +684,7 @@
         "Torracat": 4,
         "Dusclops": 4,
         "Rhyhorn": 9,
-        "Mareep": 10,
+        "Mareep": 11,
         "Klink": 9,
         "Nymble": 13,
         "Porygon": 14,
@@ -794,7 +794,7 @@
         "Wooloo": 6,
         "Togekiss": 1,
         "Rolycoly": 13,
-        "Duskull": 10,
+        "Duskull": 11,
         "Marill": 5,
         "Axew": 7,
         "Tinkatink": 10,
@@ -926,7 +926,7 @@
         "Buneary": 7,
         "Skiddo": 5,
         "Zigzagoon": 4,
-        "Dj rotom": 8,
+        "Dj rotom": 9,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 6,
@@ -1337,14 +1337,15 @@
         "Metang": 1,
         "Torchic": 1,
         "Primarina": 1,
-        "Hakamo-o": 1
+        "Hakamo-o": 1,
+        "Purrloin": 1
       },
-      "total_spawns": 2499,
-      "last_spawn": "2026-07-05T22:45:14.438263"
+      "total_spawns": 2503,
+      "last_spawn": "2026-07-05T22:45:54.442758"
     }
   },
   "global": {
-    "total_spawns": 67368,
+    "total_spawns": 67373,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
