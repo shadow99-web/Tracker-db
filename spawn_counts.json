@@ -1270,7 +1270,7 @@
         "Shroodle": 2,
         "Ride cyclizar": 1,
         "Swinub": 6,
-        "Rattata": 1,
+        "Rattata": 2,
         "Stonjourner": 1,
         "Veluza": 2,
         "Panpour": 2,
@@ -1314,7 +1314,7 @@
         "Spritzee": 1,
         "Stantler": 1,
         "Impidimp": 2,
-        "Swadloon": 1,
+        "Swadloon": 2,
         "Sunny castform": 2,
         "Vullaby": 1,
         "Venipede": 1,
@@ -1493,14 +1493,16 @@
         "Roaming gimmighoul": 1,
         "Volcarona": 1,
         "Togekiss": 1,
-        "Furfrou": 1
+        "Furfrou": 1,
+        "Ursaring": 1,
+        "Bidoof": 1
       },
-      "total_spawns": 515,
-      "last_spawn": "2026-07-05T04:17:53.717017"
+      "total_spawns": 519,
+      "last_spawn": "2026-07-05T04:18:33.532256"
     }
   },
   "global": {
-    "total_spawns": 63054,
+    "total_spawns": 63058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
