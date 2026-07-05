@@ -1171,7 +1171,7 @@
         "Vanillite": 6,
         "Weedle": 4,
         "Kabutops": 2,
-        "Poliwag": 4,
+        "Poliwag": 5,
         "Fidough": 2,
         "Charjabug": 1,
         "Hatterene": 1,
@@ -1387,13 +1387,13 @@
         "Tangrowth": 1,
         "Sizzlipede": 1,
         "Skuntank": 1,
-        "Palafin": 1,
+        "Palafin": 2,
         "Timburr": 1,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
         "Whismur": 2,
-        "Jangmo-o": 2,
+        "Jangmo-o": 3,
         "Lunatone": 1,
         "Machoke": 1,
         "Luvdisc": 1,
@@ -1444,7 +1444,7 @@
         "Zigzagoon": 2,
         "Quilladin": 1,
         "Infernape": 1,
-        "Noibat": 2,
+        "Noibat": 3,
         "Gothorita": 2,
         "Ekans": 1,
         "Brambleghast": 1,
@@ -1514,14 +1514,15 @@
         "Nosepass": 1,
         "Electrike": 1,
         "Hoppip": 1,
-        "Slowbro": 1
+        "Slowbro": 1,
+        "Gholdengo": 1
       },
-      "total_spawns": 569,
-      "last_spawn": "2026-07-05T04:24:58.296272"
+      "total_spawns": 574,
+      "last_spawn": "2026-07-05T04:25:28.229633"
     }
   },
   "global": {
-    "total_spawns": 63108,
+    "total_spawns": 63113,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
