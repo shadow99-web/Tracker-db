@@ -437,7 +437,7 @@
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 6,
+        "Bramblin": 7,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 2,
@@ -626,7 +626,7 @@
         "Goomy": 4,
         "Orbeetle": 1,
         "Shellder": 4,
-        "Pawmi": 3,
+        "Pawmi": 4,
         "Spoink": 4,
         "Lileep": 1,
         "Crocalor": 1,
@@ -785,14 +785,15 @@
         "Corvisquire": 1,
         "Lokix": 1,
         "Charmeleon": 1,
-        "Spidops": 1
+        "Spidops": 1,
+        "Dwebble": 1
       },
-      "total_spawns": 847,
-      "last_spawn": "2026-07-05T17:04:54.495690"
+      "total_spawns": 850,
+      "last_spawn": "2026-07-05T17:05:24.700324"
     }
   },
   "global": {
-    "total_spawns": 64031,
+    "total_spawns": 64034,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
