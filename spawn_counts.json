@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
-        "Scatterbug": 6,
+        "Scatterbug": 7,
         "Skwovet": 3,
         "Applin": 2,
         "Staryu": 1,
@@ -66,7 +66,7 @@
         "Deino": 8,
         "Dolliv": 1,
         "Feebas": 1,
-        "Prof tangrowth": 7,
+        "Prof tangrowth": 9,
         "Vulpix": 3,
         "Gastly": 10,
         "Aron": 5,
@@ -180,7 +180,7 @@
         "Houndstone": 1,
         "Beldum": 7,
         "Kadabra": 4,
-        "Grovyle": 2,
+        "Grovyle": 3,
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
@@ -322,7 +322,7 @@
         "Wishiwashi": 1,
         "Skitty": 7,
         "Finizen": 4,
-        "Swablu": 2,
+        "Swablu": 3,
         "Sunkern": 2,
         "Snubbull": 1,
         "Crocalor": 1,
@@ -332,7 +332,7 @@
         "Raboot": 2,
         "Oinkologne": 2,
         "Floragato": 1,
-        "Larvesta": 7,
+        "Larvesta": 9,
         "Magby": 1,
         "Roaming gimmighoul": 3,
         "Volcarona": 3,
@@ -360,7 +360,7 @@
         "Hoppip": 7,
         "Slowbro": 2,
         "Gholdengo": 3,
-        "Trubbish": 3,
+        "Trubbish": 4,
         "Rockruff": 2,
         "Snowy castform": 1,
         "Dusclops": 2,
@@ -580,7 +580,7 @@
         "Skorupi": 1,
         "Probopass": 1,
         "Family of three maushold": 1,
-        "Scyther": 2,
+        "Scyther": 3,
         "Polteageist": 1,
         "Lombre": 2,
         "Dachsbun": 1,
@@ -598,10 +598,11 @@
         "Tauros": 1,
         "Golurk": 1,
         "Grimer": 2,
-        "Frosmoth": 2
+        "Frosmoth": 2,
+        "Darumaka": 1
       },
-      "total_spawns": 1674,
-      "last_spawn": "2026-07-05T21:14:38.208866"
+      "total_spawns": 1684,
+      "last_spawn": "2026-07-05T21:15:13.494686"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -721,7 +722,7 @@
         "Poliwrath": 1,
         "Combusken": 3,
         "Bombirdier": 7,
-        "Wooloo": 4,
+        "Wooloo": 5,
         "Togekiss": 1,
         "Rolycoly": 11,
         "Duskull": 5,
@@ -787,7 +788,7 @@
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 2,
-        "Croconaw": 5,
+        "Croconaw": 6,
         "Smoliv": 6,
         "Lechonk": 8,
         "Clodsire": 3,
@@ -1200,14 +1201,15 @@
         "Seel": 1,
         "Kabutops": 1,
         "Unfezant": 1,
-        "Hisuian typhlosion": 1
+        "Hisuian typhlosion": 1,
+        "Ekans": 1
       },
-      "total_spawns": 1964,
-      "last_spawn": "2026-07-05T21:14:34.353280"
+      "total_spawns": 1967,
+      "last_spawn": "2026-07-05T21:15:04.698516"
     }
   },
   "global": {
-    "total_spawns": 66177,
+    "total_spawns": 66190,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
