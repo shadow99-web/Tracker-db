@@ -422,7 +422,7 @@
         "Glimmora": 2,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 6,
+        "Whismur": 7,
         "Jangmo-o": 3,
         "Samurott": 1,
         "Kleavor": 1,
@@ -453,7 +453,7 @@
         "Beldum": 1,
         "Combee": 1,
         "Corphish": 1,
-        "Litten": 2,
+        "Litten": 3,
         "Infernape": 1,
         "Arboliva": 1,
         "Comfey": 1,
@@ -509,7 +509,7 @@
         "Bombirdier": 2,
         "Wooloo": 2,
         "Togekiss": 1,
-        "Rolycoly": 3,
+        "Rolycoly": 4,
         "Duskull": 2,
         "Marill": 2,
         "Axew": 2,
@@ -632,7 +632,7 @@
         "Cranidos": 1,
         "Cherrim": 1,
         "Raboot": 2,
-        "Summer deerling": 1,
+        "Summer deerling": 2,
         "Skrelp": 1,
         "Spewpa": 1,
         "Fomantis": 1,
@@ -651,12 +651,12 @@
         "Scovillain": 1,
         "Sliggoo": 1
       },
-      "total_spawns": 391,
-      "last_spawn": "2026-07-05T15:47:18.852965"
+      "total_spawns": 395,
+      "last_spawn": "2026-07-05T15:47:54.401802"
     }
   },
   "global": {
-    "total_spawns": 63573,
+    "total_spawns": 63577,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
