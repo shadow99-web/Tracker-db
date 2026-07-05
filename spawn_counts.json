@@ -43,7 +43,7 @@
         "Capsakid": 8,
         "Numel": 5,
         "Pawmo": 2,
-        "Wattrel": 6,
+        "Wattrel": 7,
         "Tadbulb": 7,
         "Yanmega": 1,
         "Tympole": 7,
@@ -83,7 +83,7 @@
         "Stufful": 4,
         "Shelgon": 1,
         "Marshtomp": 5,
-        "Squirtle": 3,
+        "Squirtle": 4,
         "Shinx": 23,
         "Drakloak": 3,
         "Victini": 1,
@@ -95,7 +95,7 @@
         "Greavard": 12,
         "Snover": 3,
         "Piplup": 2,
-        "Dondozo": 4,
+        "Dondozo": 5,
         "Cyclizar": 4,
         "Froslass": 1,
         "Dodrio": 1,
@@ -275,7 +275,7 @@
         "Decidueye": 2,
         "Kricketot": 6,
         "Ledyba": 2,
-        "Chinchou": 2,
+        "Chinchou": 3,
         "Eiscue": 1,
         "Nacli": 9,
         "Pancham": 3,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 2,
-        "Spheal": 6,
+        "Spheal": 7,
         "Amaura": 2,
         "Wailord": 1,
         "Accelgor": 2,
@@ -627,8 +627,8 @@
         "Clamperl": 1,
         "Rampardos": 1
       },
-      "total_spawns": 1936,
-      "last_spawn": "2026-07-05T21:42:03.780883"
+      "total_spawns": 1941,
+      "last_spawn": "2026-07-05T21:42:53.645063"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -957,7 +957,7 @@
         "Sandygast": 1,
         "Graveler": 4,
         "Duosion": 3,
-        "Pawniard": 2,
+        "Pawniard": 3,
         "Rabsca": 3,
         "Cofagrigus": 1,
         "Hattrem": 3,
@@ -965,7 +965,7 @@
         "Piplup": 4,
         "Electrike": 3,
         "Kabuto": 4,
-        "Chewtle": 1,
+        "Chewtle": 2,
         "Drakloak": 2,
         "Pawmo": 4,
         "Charjabug": 3,
@@ -1198,7 +1198,7 @@
         "Probopass": 2,
         "Copperajah": 1,
         "Leavanny": 1,
-        "Yellow flower floette": 1,
+        "Yellow flower floette": 2,
         "Mudkip": 1,
         "Clefable": 1,
         "Revavroom": 1,
@@ -1249,12 +1249,12 @@
         "Typhlosion": 1,
         "Yellow flower florges": 1
       },
-      "total_spawns": 2127,
-      "last_spawn": "2026-07-05T21:42:15.194551"
+      "total_spawns": 2130,
+      "last_spawn": "2026-07-05T21:42:44.428701"
     }
   },
   "global": {
-    "total_spawns": 66602,
+    "total_spawns": 66610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
