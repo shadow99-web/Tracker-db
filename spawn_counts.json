@@ -614,7 +614,7 @@
         "Tepig": 1,
         "Barbaracle": 1,
         "Noivern": 2,
-        "Clefairy": 1,
+        "Clefairy": 2,
         "Grubbin": 3,
         "Dustox": 1,
         "Chespin": 2,
@@ -710,7 +710,7 @@
         "Misdreavus": 1,
         "Growlithe": 2,
         "Arctozolt": 1,
-        "Spheal": 1,
+        "Spheal": 2,
         "Chinchou": 2,
         "Magmar": 1,
         "Chef dente": 1,
@@ -772,14 +772,15 @@
         "Nickit": 1,
         "Wiglett": 1,
         "Carkol": 1,
-        "Solosis": 1
+        "Solosis": 1,
+        "Flapple": 1
       },
-      "total_spawns": 789,
-      "last_spawn": "2026-07-05T16:55:04.504123"
+      "total_spawns": 792,
+      "last_spawn": "2026-07-05T16:55:34.541380"
     }
   },
   "global": {
-    "total_spawns": 63973,
+    "total_spawns": 63976,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
