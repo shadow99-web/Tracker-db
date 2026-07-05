@@ -70,7 +70,7 @@
         "Vulpix": 1,
         "Gastly": 6,
         "Aron": 2,
-        "Honedge": 6,
+        "Honedge": 7,
         "Houndour": 1,
         "Machop": 6,
         "Terapagos": 1,
@@ -387,8 +387,8 @@
         "Charizard": 2,
         "Axew": 2
       },
-      "total_spawns": 650,
-      "last_spawn": "2026-07-05T18:51:45.193894"
+      "total_spawns": 651,
+      "last_spawn": "2026-07-05T19:05:03.624155"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -888,7 +888,7 @@
     }
   },
   "global": {
-    "total_spawns": 64481,
+    "total_spawns": 64482,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
