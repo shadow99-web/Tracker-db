@@ -551,7 +551,7 @@
         "Sensu oricorio": 2,
         "Scatterbug": 4,
         "Taillow": 2,
-        "Wimpod": 3,
+        "Wimpod": 4,
         "Rookidee": 4,
         "Shellos": 1,
         "Roaming gimmighoul": 1,
@@ -594,7 +594,7 @@
         "Drilbur": 1,
         "Vaporeon": 2,
         "Magneton": 3,
-        "Pupitar": 1,
+        "Pupitar": 2,
         "Durant": 1,
         "Jigglypuff": 2,
         "Steenee": 1,
@@ -772,7 +772,7 @@
         "Nickit": 1,
         "Wiglett": 1,
         "Carkol": 1,
-        "Solosis": 1,
+        "Solosis": 2,
         "Flapple": 1,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -792,14 +792,15 @@
         "Spinda": 1,
         "Beautifly": 1,
         "Fletchling": 1,
-        "Haunter": 1
+        "Haunter": 1,
+        "Sandshrew": 1
       },
-      "total_spawns": 872,
-      "last_spawn": "2026-07-05T17:09:14.422924"
+      "total_spawns": 876,
+      "last_spawn": "2026-07-05T17:09:54.396862"
     }
   },
   "global": {
-    "total_spawns": 64056,
+    "total_spawns": 64060,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
