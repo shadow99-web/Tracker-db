@@ -16,14 +16,14 @@
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 11,
-        "Fidough": 8,
+        "Fidough": 9,
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 3,
         "Anorith": 3,
         "Arctibax": 1,
         "Ralts": 8,
-        "Peakychu": 15,
+        "Peakychu": 17,
         "Cutiefly": 3,
         "Simipour": 2,
         "Tynamo": 6,
@@ -43,7 +43,7 @@
         "Capsakid": 8,
         "Numel": 5,
         "Pawmo": 2,
-        "Wattrel": 7,
+        "Wattrel": 8,
         "Tadbulb": 8,
         "Yanmega": 1,
         "Tympole": 8,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
-        "Whismur": 8,
+        "Whismur": 9,
         "Jangmo-o": 5,
         "Lunatone": 1,
         "Machoke": 3,
@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 1,
         "Drednaw": 3,
-        "Corvisquire": 4,
+        "Corvisquire": 5,
         "Croconaw": 3,
         "Makuhita": 1,
         "Machamp": 1,
@@ -637,10 +637,11 @@
         "Lickilicky": 2,
         "Unown k": 2,
         "Elekid": 1,
-        "Chingling": 1
+        "Chingling": 2,
+        "Tangela": 1
       },
-      "total_spawns": 2056,
-      "last_spawn": "2026-07-05T21:52:08.138620"
+      "total_spawns": 2064,
+      "last_spawn": "2026-07-05T21:52:38.306888"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -863,7 +864,7 @@
         "Stoutland": 2,
         "Tirtouga": 4,
         "Swablu": 6,
-        "Tepig": 3,
+        "Tepig": 4,
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 6,
@@ -894,7 +895,7 @@
         "Wingull": 1,
         "Buneary": 6,
         "Skiddo": 4,
-        "Zigzagoon": 2,
+        "Zigzagoon": 3,
         "Dj rotom": 6,
         "Anorith": 3,
         "Shiinotic": 1,
@@ -959,7 +960,7 @@
         "Kirlia": 4,
         "Minccino": 3,
         "Charmander": 4,
-        "Misdreavus": 3,
+        "Misdreavus": 4,
         "Growlithe": 5,
         "Arctozolt": 3,
         "Spheal": 6,
@@ -1268,12 +1269,12 @@
         "Floragato": 1,
         "Blue plumage squawkabilly": 1
       },
-      "total_spawns": 2184,
-      "last_spawn": "2026-07-05T21:52:04.597054"
+      "total_spawns": 2187,
+      "last_spawn": "2026-07-05T21:52:34.596793"
     }
   },
   "global": {
-    "total_spawns": 66779,
+    "total_spawns": 66790,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
