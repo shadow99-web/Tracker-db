@@ -83,7 +83,7 @@
         "Stufful": 3,
         "Shelgon": 1,
         "Marshtomp": 1,
-        "Squirtle": 2,
+        "Squirtle": 3,
         "Shinx": 15,
         "Drakloak": 3,
         "Victini": 1,
@@ -340,7 +340,7 @@
         "Furfrou": 1,
         "Ursaring": 1,
         "Bidoof": 1,
-        "Gothita": 2,
+        "Gothita": 3,
         "Solosis": 5,
         "Sandygast": 2,
         "Pidove": 1,
@@ -527,10 +527,12 @@
         "Golett": 1,
         "Politoed": 2,
         "Droopy tatsugiri": 1,
-        "Volcanion": 1
+        "Volcanion": 1,
+        "Drapion": 1,
+        "Wartortle": 1
       },
-      "total_spawns": 1247,
-      "last_spawn": "2026-07-05T20:35:28.596051"
+      "total_spawns": 1251,
+      "last_spawn": "2026-07-05T20:36:08.227474"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -544,13 +546,13 @@
         "Dusclops": 3,
         "Rhyhorn": 4,
         "Mareep": 7,
-        "Klink": 7,
+        "Klink": 8,
         "Nymble": 7,
         "Porygon": 11,
         "Abra": 11,
         "Oddish": 10,
         "Dedenne": 2,
-        "Gothita": 8,
+        "Gothita": 9,
         "Finizen": 9,
         "Machop": 10,
         "Psyduck": 4,
@@ -782,7 +784,7 @@
         "Forretress": 1,
         "Squirtle": 2,
         "Wingull": 1,
-        "Buneary": 1,
+        "Buneary": 2,
         "Skiddo": 2,
         "Zigzagoon": 1,
         "Dj rotom": 5,
@@ -870,7 +872,7 @@
         "Chewtle": 1,
         "Drakloak": 2,
         "Pawmo": 2,
-        "Charjabug": 1,
+        "Charjabug": 2,
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
@@ -1099,12 +1101,12 @@
         "Phantump": 1,
         "Probopass": 1
       },
-      "total_spawns": 1737,
-      "last_spawn": "2026-07-05T20:35:39.499553"
+      "total_spawns": 1741,
+      "last_spawn": "2026-07-05T20:36:14.331348"
     }
   },
   "global": {
-    "total_spawns": 65523,
+    "total_spawns": 65531,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
