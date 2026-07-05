@@ -102,7 +102,7 @@
         "Metagross": 2,
         "Corphish": 2,
         "Doduo": 3,
-        "Flittle": 5,
+        "Flittle": 6,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -384,7 +384,7 @@
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 2,
-        "Charizard": 2,
+        "Charizard": 4,
         "Axew": 7,
         "Joltik": 1,
         "Gulpin": 1,
@@ -501,7 +501,7 @@
         "Gardevoir": 2,
         "Kubfu": 1,
         "Tyrogue": 1,
-        "Nuzleaf": 1,
+        "Nuzleaf": 2,
         "Spinarak": 1,
         "Goomy": 1,
         "Breloom": 1,
@@ -539,8 +539,8 @@
         "Shuckle": 1,
         "White flower floette": 1
       },
-      "total_spawns": 1289,
-      "last_spawn": "2026-07-05T20:40:23.663090"
+      "total_spawns": 1293,
+      "last_spawn": "2026-07-05T20:40:53.595160"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -825,7 +825,7 @@
         "Sandy wormadam": 1,
         "Sprigatito": 2,
         "Bidoof": 2,
-        "Frillish": 2,
+        "Frillish": 3,
         "Toedscool": 6,
         "Espathra": 1,
         "Klang": 3,
@@ -856,7 +856,7 @@
         "Zweilous": 2,
         "Amoonguss": 1,
         "Varoom": 6,
-        "Kirlia": 3,
+        "Kirlia": 4,
         "Minccino": 3,
         "Charmander": 4,
         "Misdreavus": 2,
@@ -889,7 +889,7 @@
         "Mismagius": 1,
         "Mudbray": 5,
         "Weepinbell": 1,
-        "East sea shellos": 6,
+        "East sea shellos": 7,
         "Flygon": 1,
         "Cyclizar": 2,
         "Murkrow": 1,
@@ -1112,12 +1112,12 @@
         "Leavanny": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 1766,
-      "last_spawn": "2026-07-05T20:40:24.552744"
+      "total_spawns": 1769,
+      "last_spawn": "2026-07-05T20:40:54.695193"
     }
   },
   "global": {
-    "total_spawns": 65594,
+    "total_spawns": 65601,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
