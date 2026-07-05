@@ -1244,7 +1244,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 1,
-        "Sandile": 3,
+        "Sandile": 4,
         "Charmeleon": 1,
         "Riolu": 2,
         "Gible": 2,
@@ -1319,7 +1319,7 @@
         "Vullaby": 1,
         "Venipede": 1,
         "Pansage": 2,
-        "Cetoddle": 3,
+        "Cetoddle": 4,
         "Togepi": 1,
         "Tandemaus": 2,
         "Clefairy": 1,
@@ -1495,14 +1495,15 @@
         "Togekiss": 1,
         "Furfrou": 1,
         "Ursaring": 1,
-        "Bidoof": 1
+        "Bidoof": 1,
+        "Gothita": 1
       },
-      "total_spawns": 519,
-      "last_spawn": "2026-07-05T04:18:33.532256"
+      "total_spawns": 522,
+      "last_spawn": "2026-07-05T04:19:13.636408"
     }
   },
   "global": {
-    "total_spawns": 63058,
+    "total_spawns": 63061,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
