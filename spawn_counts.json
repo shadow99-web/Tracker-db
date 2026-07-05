@@ -610,7 +610,7 @@
         "Komala": 1,
         "Stoutland": 1,
         "Tirtouga": 2,
-        "Swablu": 1,
+        "Swablu": 2,
         "Tepig": 1,
         "Barbaracle": 1,
         "Noivern": 2,
@@ -765,14 +765,17 @@
         "Roserade": 1,
         "Heliolisk": 1,
         "Doublade": 1,
-        "Electivire": 1
+        "Electivire": 1,
+        "Droopy tatsugiri": 1,
+        "Blitzle": 1,
+        "Politoed": 1
       },
-      "total_spawns": 774,
-      "last_spawn": "2026-07-05T16:52:34.434781"
+      "total_spawns": 778,
+      "last_spawn": "2026-07-05T16:53:14.398781"
     }
   },
   "global": {
-    "total_spawns": 63958,
+    "total_spawns": 63962,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
