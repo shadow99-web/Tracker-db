@@ -400,7 +400,7 @@
         "Klink": 2,
         "Nymble": 1,
         "Porygon": 1,
-        "Abra": 1,
+        "Abra": 2,
         "Oddish": 5,
         "Dedenne": 1,
         "Gothita": 1,
@@ -574,14 +574,17 @@
         "Lechonk": 1,
         "Clodsire": 1,
         "Sandaconda": 1,
-        "Ninjask": 1
+        "Ninjask": 1,
+        "Pidove": 1,
+        "Larvitar": 1,
+        "Munna": 1
       },
-      "total_spawns": 249,
-      "last_spawn": "2026-07-05T15:23:19.823977"
+      "total_spawns": 253,
+      "last_spawn": "2026-07-05T15:23:54.603881"
     }
   },
   "global": {
-    "total_spawns": 63422,
+    "total_spawns": 63426,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
