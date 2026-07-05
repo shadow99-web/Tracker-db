@@ -688,7 +688,7 @@
         "Veluza": 3,
         "Salandit": 2,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 2,
+        "Poliwag": 3,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 2,
@@ -778,7 +778,7 @@
         "Helioptile": 1,
         "Furfrou": 1,
         "Thwackey": 1,
-        "Gabite": 1,
+        "Gabite": 2,
         "Toxel": 3,
         "Boldore": 1,
         "Prof tangrowth": 1,
@@ -801,7 +801,7 @@
         "Magikarp": 2,
         "Pumpkaboo": 1,
         "Banette": 1,
-        "Tympole": 3,
+        "Tympole": 4,
         "Bunnelby": 1,
         "Vanillish": 1,
         "Arrokuda": 1,
@@ -841,14 +841,17 @@
         "Meowth": 1,
         "Shelmet": 1,
         "Electabuzz": 1,
-        "Galarian zen darmanitan": 1
+        "Galarian zen darmanitan": 1,
+        "Greedent": 1,
+        "Slowbro": 1,
+        "Floatzel": 1
       },
-      "total_spawns": 1106,
-      "last_spawn": "2026-07-05T17:40:04.515178"
+      "total_spawns": 1112,
+      "last_spawn": "2026-07-05T17:40:34.685735"
     }
   },
   "global": {
-    "total_spawns": 64294,
+    "total_spawns": 64300,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
