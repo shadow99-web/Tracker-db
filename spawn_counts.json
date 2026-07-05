@@ -334,7 +334,7 @@
         "Floragato": 1,
         "Larvesta": 11,
         "Magby": 1,
-        "Roaming gimmighoul": 4,
+        "Roaming gimmighoul": 5,
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 1,
@@ -617,7 +617,7 @@
         "Orange flower florges": 1,
         "Minun": 2,
         "Hangry morpeko": 2,
-        "Omanyte": 1,
+        "Omanyte": 2,
         "Mamoswine": 2,
         "Spoink": 1,
         "Dhelmise": 1,
@@ -651,10 +651,11 @@
         "Eelektross": 1,
         "Bibarel": 1,
         "Debutante trim furfrou": 2,
-        "Phanpy": 1
+        "Phanpy": 1,
+        "Patrat": 1
       },
-      "total_spawns": 2205,
-      "last_spawn": "2026-07-05T22:10:33.601449"
+      "total_spawns": 2208,
+      "last_spawn": "2026-07-05T22:11:03.858611"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -802,7 +803,7 @@
         "Croagunk": 3,
         "Klawf": 7,
         "Lombre": 2,
-        "Wurmple": 7,
+        "Wurmple": 8,
         "Peakychu": 9,
         "Bellibolt": 3,
         "Quilladin": 3,
@@ -1204,7 +1205,7 @@
         "Victreebel": 1,
         "Vibrava": 2,
         "Yamper": 4,
-        "Eelektross": 1,
+        "Eelektross": 2,
         "Quagsire": 1,
         "Sunflora": 1,
         "Wynaut": 1,
@@ -1289,14 +1290,15 @@
         "Dolliv": 1,
         "Lampent": 1,
         "Ursaluna": 1,
-        "Mawile": 1
+        "Mawile": 1,
+        "Brionne": 1
       },
-      "total_spawns": 2294,
-      "last_spawn": "2026-07-05T22:10:34.430025"
+      "total_spawns": 2297,
+      "last_spawn": "2026-07-05T22:11:04.494286"
     }
   },
   "global": {
-    "total_spawns": 67038,
+    "total_spawns": 67044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
