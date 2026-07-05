@@ -41,7 +41,7 @@
         "Caterpie": 3,
         "Mareep": 3,
         "Capsakid": 7,
-        "Numel": 1,
+        "Numel": 2,
         "Pawmo": 2,
         "Wattrel": 3,
         "Tadbulb": 6,
@@ -295,7 +295,7 @@
         "Dartrix": 1,
         "Ceruledge": 1,
         "Vanillish": 1,
-        "Gimmighoul": 3,
+        "Gimmighoul": 4,
         "Glimmet": 5,
         "Popplio": 2,
         "Arboliva": 1,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
-        "Klink": 1,
+        "Klink": 3,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 2,
@@ -544,10 +544,12 @@
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
-        "Tatsugiri": 1
+        "Tatsugiri": 1,
+        "Xerneas": 2,
+        "Nincada": 1
       },
-      "total_spawns": 1328,
-      "last_spawn": "2026-07-05T20:45:03.815495"
+      "total_spawns": 1335,
+      "last_spawn": "2026-07-05T20:45:34.175424"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -607,7 +609,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 11,
+        "Gastly": 12,
         "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
@@ -645,7 +647,7 @@
         "Aron": 10,
         "Horsea": 16,
         "Teddiursa": 10,
-        "Dratini": 2,
+        "Dratini": 3,
         "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 11,
@@ -929,7 +931,7 @@
         "Blitzle": 2,
         "Politoed": 1,
         "Nickit": 1,
-        "Wiglett": 6,
+        "Wiglett": 7,
         "Carkol": 2,
         "Solosis": 4,
         "Flapple": 1,
@@ -1121,12 +1123,12 @@
         "Mudkip": 1,
         "Clefable": 1
       },
-      "total_spawns": 1792,
-      "last_spawn": "2026-07-05T20:44:54.596103"
+      "total_spawns": 1795,
+      "last_spawn": "2026-07-05T20:45:24.496759"
     }
   },
   "global": {
-    "total_spawns": 65659,
+    "total_spawns": 65669,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
