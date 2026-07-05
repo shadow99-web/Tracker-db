@@ -9,7 +9,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 3,
+        "Braixen": 4,
         "Oddish": 3,
         "Totodile": 2,
         "Vanillite": 12,
@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 3,
         "Surskit": 1,
-        "Seedot": 4,
+        "Seedot": 5,
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
@@ -326,7 +326,7 @@
         "Sunkern": 1,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 3,
+        "Magnemite": 4,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 1,
@@ -467,10 +467,11 @@
         "Shellder": 2,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 1
+        "Absol": 2,
+        "Calyrex": 1
       },
-      "total_spawns": 988,
-      "last_spawn": "2026-07-05T20:08:48.593790"
+      "total_spawns": 993,
+      "last_spawn": "2026-07-05T20:09:18.297553"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -481,7 +482,7 @@
         "Bronzor": 1,
         "Gible": 4,
         "Torracat": 1,
-        "Dusclops": 2,
+        "Dusclops": 3,
         "Rhyhorn": 3,
         "Mareep": 4,
         "Klink": 6,
@@ -542,7 +543,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 7,
+        "Charcadet": 8,
         "Sandile": 8,
         "Maushold": 3,
         "Rattata": 5,
@@ -590,7 +591,7 @@
         "Poliwrath": 1,
         "Combusken": 3,
         "Bombirdier": 6,
-        "Wooloo": 3,
+        "Wooloo": 4,
         "Togekiss": 1,
         "Rolycoly": 7,
         "Duskull": 5,
@@ -665,7 +666,7 @@
         "Pidove": 5,
         "Larvitar": 5,
         "Munna": 1,
-        "Tangela": 3,
+        "Tangela": 4,
         "Espurr": 3,
         "Doduo": 2,
         "Kadabra": 2,
@@ -708,7 +709,7 @@
         "Goomy": 6,
         "Orbeetle": 1,
         "Shellder": 4,
-        "Pawmi": 6,
+        "Pawmi": 7,
         "Spoink": 4,
         "Lileep": 3,
         "Crocalor": 2,
@@ -903,7 +904,7 @@
         "Ceruledge": 1,
         "Swampert": 1,
         "Naclstack": 2,
-        "Golbat": 3,
+        "Golbat": 4,
         "Shuppet": 1,
         "East sea gastrodon": 1,
         "Grovyle": 1,
@@ -999,14 +1000,15 @@
         "Inkay": 1,
         "Quilava": 1,
         "Drowzee": 1,
-        "Nidorino": 1
+        "Nidorino": 1,
+        "Sobble": 1
       },
-      "total_spawns": 1446,
-      "last_spawn": "2026-07-05T20:08:47.084112"
+      "total_spawns": 1453,
+      "last_spawn": "2026-07-05T20:09:24.493952"
     }
   },
   "global": {
-    "total_spawns": 64973,
+    "total_spawns": 64985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
