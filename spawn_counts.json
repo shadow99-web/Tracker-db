@@ -1187,7 +1187,7 @@
         "Pyukumuku": 1,
         "Pidgey": 1,
         "Binacle": 1,
-        "Bounsweet": 2,
+        "Bounsweet": 3,
         "Fletchling": 2,
         "Whirlipede": 1,
         "Duskull": 5,
@@ -1362,7 +1362,7 @@
         "Fraxure": 1,
         "Zubat": 1,
         "Drowzee": 1,
-        "Lechonk": 1,
+        "Lechonk": 2,
         "Woobat": 1,
         "Skrelp": 1,
         "Lileep": 1,
@@ -1370,14 +1370,16 @@
         "Mightyena": 1,
         "Sandaconda": 1,
         "Froakie": 1,
-        "Kingdra": 1
+        "Kingdra": 1,
+        "Chikorita": 1,
+        "Donphan": 1
       },
-      "total_spawns": 280,
-      "last_spawn": "2026-07-05T03:33:28.356167"
+      "total_spawns": 284,
+      "last_spawn": "2026-07-05T03:34:08.291917"
     }
   },
   "global": {
-    "total_spawns": 62819,
+    "total_spawns": 62823,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
