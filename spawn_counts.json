@@ -1214,7 +1214,7 @@
         "Hatenna": 2,
         "Shroomish": 1,
         "Lillipup": 1,
-        "Mosslax": 1,
+        "Mosslax": 2,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 1,
@@ -1310,7 +1310,7 @@
         "Roggenrola": 1,
         "Litwick": 2,
         "Wooper": 1,
-        "Pikipek": 3,
+        "Pikipek": 4,
         "Spritzee": 1,
         "Stantler": 1,
         "Impidimp": 1,
@@ -1357,14 +1357,18 @@
         "Rhyhorn": 1,
         "Aipom": 1,
         "Grookey": 1,
-        "Inkay": 1
+        "Inkay": 1,
+        "Unfezant": 1,
+        "Fraxure": 1,
+        "Zubat": 1,
+        "Drowzee": 1
       },
-      "total_spawns": 264,
-      "last_spawn": "2026-07-05T03:31:08.320489"
+      "total_spawns": 270,
+      "last_spawn": "2026-07-05T03:31:48.452484"
     }
   },
   "global": {
-    "total_spawns": 62803,
+    "total_spawns": 62809,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
