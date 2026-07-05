@@ -519,7 +519,7 @@
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 7,
-        "Flamigo": 4,
+        "Flamigo": 5,
         "Stunky": 1,
         "Spinarak": 1,
         "Gligar": 1,
@@ -745,14 +745,16 @@
         "Cyndaquil": 1,
         "Thievul": 1,
         "Gengar": 1,
-        "Sunkern": 1
+        "Sunkern": 1,
+        "Wugtrio": 1,
+        "Applin": 1
       },
-      "total_spawns": 675,
-      "last_spawn": "2026-07-05T16:35:54.434674"
+      "total_spawns": 678,
+      "last_spawn": "2026-07-05T16:36:24.736575"
     }
   },
   "global": {
-    "total_spawns": 63859,
+    "total_spawns": 63862,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
