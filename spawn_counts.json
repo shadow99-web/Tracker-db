@@ -137,7 +137,7 @@
         "Venonat": 2,
         "Eelektrik": 2,
         "Diglett": 4,
-        "Surskit": 2,
+        "Surskit": 3,
         "Seedot": 8,
         "Jigglypuff": 1,
         "Spearow": 2,
@@ -229,7 +229,7 @@
         "Buneary": 2,
         "Gallade": 1,
         "Tangrowth": 1,
-        "Sizzlipede": 1,
+        "Sizzlipede": 2,
         "Skuntank": 1,
         "Palafin": 5,
         "Timburr": 5,
@@ -435,7 +435,7 @@
         "Scraggy": 2,
         "Stoutland": 1,
         "Elgyem": 1,
-        "Dragonair": 1,
+        "Dragonair": 2,
         "Spheal": 6,
         "Amaura": 1,
         "Wailord": 1,
@@ -618,8 +618,8 @@
         "Minun": 2,
         "Hangry morpeko": 2
       },
-      "total_spawns": 1849,
-      "last_spawn": "2026-07-05T21:31:23.545416"
+      "total_spawns": 1852,
+      "last_spawn": "2026-07-05T21:32:03.665855"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -745,7 +745,7 @@
         "Duskull": 5,
         "Marill": 5,
         "Axew": 5,
-        "Tinkatink": 7,
+        "Tinkatink": 8,
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
@@ -919,7 +919,7 @@
         "Veluza": 9,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 2,
-        "Poliwag": 7,
+        "Poliwag": 8,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 3,
@@ -1047,7 +1047,7 @@
         "Corsola": 1,
         "Gothitelle": 1,
         "Makuhita": 1,
-        "Barboach": 2,
+        "Barboach": 3,
         "Smeargle": 1,
         "Ceruledge": 2,
         "Swampert": 1,
@@ -1233,12 +1233,12 @@
         "Leafeon": 1,
         "Natu": 1
       },
-      "total_spawns": 2063,
-      "last_spawn": "2026-07-05T21:31:34.628578"
+      "total_spawns": 2066,
+      "last_spawn": "2026-07-05T21:32:04.695582"
     }
   },
   "global": {
-    "total_spawns": 66451,
+    "total_spawns": 66457,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
