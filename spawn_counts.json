@@ -503,7 +503,7 @@
         "Impidimp": 3,
         "Elgyem": 1,
         "Gastrodon": 1,
-        "Shroodle": 3,
+        "Shroodle": 4,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 2,
@@ -544,7 +544,7 @@
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 1,
+        "Tynamo": 2,
         "Quaquaval": 2,
         "Rapidash": 1,
         "Maschiff": 2,
@@ -698,14 +698,15 @@
         "Snorunt": 1,
         "Meganium": 1,
         "Chimchar": 1,
-        "Mewtwo": 1
+        "Mewtwo": 1,
+        "Pachirisu": 1
       },
-      "total_spawns": 519,
-      "last_spawn": "2026-07-05T16:09:04.405359"
+      "total_spawns": 522,
+      "last_spawn": "2026-07-05T16:09:34.547692"
     }
   },
   "global": {
-    "total_spawns": 63703,
+    "total_spawns": 63706,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
