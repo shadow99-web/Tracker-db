@@ -123,7 +123,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 4,
         "Flaaffy": 2,
-        "Rookidee": 12,
+        "Rookidee": 13,
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
@@ -178,7 +178,7 @@
         "Flamigo": 6,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 13,
+        "Beldum": 14,
         "Kadabra": 6,
         "Grovyle": 7,
         "Dratini": 9,
@@ -671,10 +671,11 @@
         "Obstagoon": 2,
         "Greninja": 2,
         "Wash rotom": 1,
-        "Igglybuff": 1
+        "Igglybuff": 1,
+        "Garchomp": 2
       },
-      "total_spawns": 2413,
-      "last_spawn": "2026-07-05T23:24:23.671902"
+      "total_spawns": 2417,
+      "last_spawn": "2026-07-05T23:25:23.489633"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -735,7 +736,7 @@
         "Grimer": 3,
         "Grafaiai": 3,
         "Gastly": 21,
-        "Orthworm": 12,
+        "Orthworm": 13,
         "Glimmet": 11,
         "Beldum": 2,
         "Combee": 6,
@@ -820,7 +821,7 @@
         "Lairon": 4,
         "Zubat": 17,
         "Croagunk": 4,
-        "Klawf": 9,
+        "Klawf": 10,
         "Lombre": 2,
         "Wurmple": 8,
         "Peakychu": 13,
@@ -1056,7 +1057,7 @@
         "Blitzle": 3,
         "Politoed": 2,
         "Nickit": 1,
-        "Wiglett": 10,
+        "Wiglett": 11,
         "Carkol": 3,
         "Solosis": 7,
         "Flapple": 3,
@@ -1366,12 +1367,12 @@
         "Flareon": 1,
         "Volcarona": 1
       },
-      "total_spawns": 2734,
-      "last_spawn": "2026-07-05T23:24:44.793564"
+      "total_spawns": 2737,
+      "last_spawn": "2026-07-05T23:25:14.494204"
     }
   },
   "global": {
-    "total_spawns": 67686,
+    "total_spawns": 67693,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
