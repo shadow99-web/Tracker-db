@@ -60,7 +60,7 @@
         "Lillipup": 4,
         "Mosslax": 10,
         "Maushold": 3,
-        "Cubchoo": 3,
+        "Cubchoo": 5,
         "Koffing": 2,
         "Kirlia": 3,
         "Deino": 8,
@@ -82,7 +82,7 @@
         "Bramblin": 5,
         "Stufful": 4,
         "Shelgon": 1,
-        "Marshtomp": 3,
+        "Marshtomp": 5,
         "Squirtle": 3,
         "Shinx": 21,
         "Drakloak": 3,
@@ -122,7 +122,7 @@
         "Frogadier": 3,
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
-        "Flaaffy": 1,
+        "Flaaffy": 2,
         "Rookidee": 9,
         "Flapple": 4,
         "Bronzor": 1,
@@ -180,7 +180,7 @@
         "Houndstone": 1,
         "Beldum": 7,
         "Kadabra": 4,
-        "Grovyle": 1,
+        "Grovyle": 2,
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
@@ -193,7 +193,7 @@
         "Diggersby": 1,
         "Klawf": 12,
         "Dj rotom": 6,
-        "Chef dente": 9,
+        "Chef dente": 11,
         "Hisuian qwilfish": 1,
         "Bagon": 3,
         "Pikachu": 2,
@@ -485,7 +485,7 @@
         "Lairon": 1,
         "Altaria": 1,
         "Attack deoxys": 2,
-        "Mudkip": 4,
+        "Mudkip": 6,
         "Galarian zapdos": 1,
         "Empoleon": 1,
         "Voltorb": 2,
@@ -503,7 +503,7 @@
         "Tyrogue": 1,
         "Nuzleaf": 3,
         "Spinarak": 1,
-        "Goomy": 2,
+        "Goomy": 3,
         "Breloom": 1,
         "Rillaboom": 6,
         "Hippopotas": 1,
@@ -595,10 +595,13 @@
         "Quilava": 1,
         "Wurmple": 2,
         "Sandshrew": 1,
-        "Tauros": 1
+        "Tauros": 1,
+        "Golurk": 1,
+        "Grimer": 2,
+        "Frosmoth": 2
       },
-      "total_spawns": 1658,
-      "last_spawn": "2026-07-05T21:14:05.257033"
+      "total_spawns": 1674,
+      "last_spawn": "2026-07-05T21:14:38.208866"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -706,7 +709,7 @@
         "Blipbug": 8,
         "Swoobat": 1,
         "Greavard": 9,
-        "Mosslax": 9,
+        "Mosslax": 10,
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 10,
@@ -850,7 +853,7 @@
         "Forretress": 1,
         "Squirtle": 3,
         "Wingull": 1,
-        "Buneary": 5,
+        "Buneary": 6,
         "Skiddo": 3,
         "Zigzagoon": 1,
         "Dj rotom": 5,
@@ -1112,7 +1115,7 @@
         "Zorua": 1,
         "Kecleon": 1,
         "Magcargo": 1,
-        "Slaking": 1,
+        "Slaking": 2,
         "Raticate": 2,
         "Arbok": 1,
         "Ditto": 1,
@@ -1199,12 +1202,12 @@
         "Unfezant": 1,
         "Hisuian typhlosion": 1
       },
-      "total_spawns": 1961,
-      "last_spawn": "2026-07-05T21:14:04.333746"
+      "total_spawns": 1964,
+      "last_spawn": "2026-07-05T21:14:34.353280"
     }
   },
   "global": {
-    "total_spawns": 66158,
+    "total_spawns": 66177,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
