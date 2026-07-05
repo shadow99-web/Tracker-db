@@ -1219,7 +1219,7 @@
         "Cubchoo": 1,
         "Koffing": 2,
         "Kirlia": 1,
-        "Deino": 2,
+        "Deino": 3,
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 3,
@@ -1435,7 +1435,7 @@
         "Eiscue": 1,
         "Nacli": 3,
         "Pancham": 1,
-        "Bulbasaur": 2,
+        "Bulbasaur": 3,
         "Dewpider": 1,
         "Yellow plumage squawkabilly": 1,
         "Hattrem": 1,
@@ -1464,7 +1464,7 @@
         "Archen": 2,
         "Blue plumage squawkabilly": 1,
         "Metang": 1,
-        "Larvitar": 2,
+        "Larvitar": 3,
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
@@ -1482,7 +1482,7 @@
         "Sunkern": 1,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 2,
+        "Magnemite": 3,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 1,
@@ -1506,14 +1506,16 @@
         "Grotle": 1,
         "Tinkaton": 1,
         "Bergmite": 1,
-        "Klang": 1
+        "Klang": 1,
+        "Tepig": 1,
+        "Spinda": 1
       },
-      "total_spawns": 550,
-      "last_spawn": "2026-07-05T04:23:23.731450"
+      "total_spawns": 556,
+      "last_spawn": "2026-07-05T04:23:53.918438"
     }
   },
   "global": {
-    "total_spawns": 63089,
+    "total_spawns": 63095,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
