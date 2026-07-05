@@ -34,7 +34,7 @@
         "Bounsweet": 8,
         "Fletchling": 4,
         "Whirlipede": 3,
-        "Duskull": 12,
+        "Duskull": 14,
         "Abra": 10,
         "Wiglett": 4,
         "Starly": 12,
@@ -63,7 +63,7 @@
         "Cubchoo": 3,
         "Koffing": 2,
         "Kirlia": 1,
-        "Deino": 4,
+        "Deino": 5,
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 7,
@@ -114,7 +114,7 @@
         "Shroodle": 4,
         "Ride cyclizar": 1,
         "Swinub": 8,
-        "Rattata": 3,
+        "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 6,
         "Panpour": 3,
@@ -297,7 +297,7 @@
         "Vanillish": 2,
         "Gimmighoul": 5,
         "Glimmet": 6,
-        "Popplio": 2,
+        "Popplio": 3,
         "Arboliva": 1,
         "Luxio": 1,
         "Quaxwell": 2,
@@ -313,7 +313,7 @@
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
         "Petilil": 3,
-        "Bombirdier": 4,
+        "Bombirdier": 5,
         "Bellibolt": 2,
         "Toedscool": 3,
         "Paras": 2,
@@ -571,10 +571,11 @@
         "Seadra": 1,
         "Sealeo": 1,
         "Baltoy": 1,
-        "Karrablast": 1
+        "Karrablast": 1,
+        "Volbeat": 1
       },
-      "total_spawns": 1475,
-      "last_spawn": "2026-07-05T21:04:33.595584"
+      "total_spawns": 1482,
+      "last_spawn": "2026-07-05T21:05:03.598313"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -666,7 +667,7 @@
         "Nacli": 17,
         "Feebas": 2,
         "Weedle": 10,
-        "Ralts": 10,
+        "Ralts": 11,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 10,
@@ -704,7 +705,7 @@
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
-        "Bounsweet": 15,
+        "Bounsweet": 16,
         "Flamigo": 8,
         "Stunky": 1,
         "Spinarak": 3,
@@ -1067,7 +1068,7 @@
         "Mabosstiff": 2,
         "Skuntank": 2,
         "Glastrier": 1,
-        "Crabrawler": 1,
+        "Crabrawler": 2,
         "Onix": 1,
         "Arctibax": 1,
         "Shelgon": 1,
@@ -1169,12 +1170,12 @@
         "Venusaur": 1,
         "Spearow": 1
       },
-      "total_spawns": 1908,
-      "last_spawn": "2026-07-05T21:04:34.500486"
+      "total_spawns": 1911,
+      "last_spawn": "2026-07-05T21:05:04.620430"
     }
   },
   "global": {
-    "total_spawns": 65922,
+    "total_spawns": 65932,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
