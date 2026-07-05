@@ -191,7 +191,7 @@
         "Wimpod": 5,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 13,
+        "Klawf": 14,
         "Dj rotom": 6,
         "Chef dente": 11,
         "Hisuian qwilfish": 1,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 1,
-        "Zubat": 9,
+        "Zubat": 10,
         "Drowzee": 3,
         "Lechonk": 7,
         "Woobat": 2,
@@ -225,7 +225,7 @@
         "Nymble": 4,
         "Snorunt": 1,
         "Carvanha": 2,
-        "Toxel": 2,
+        "Toxel": 3,
         "Buneary": 2,
         "Gallade": 1,
         "Tangrowth": 1,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 2,
-        "Porygon": 7,
+        "Porygon": 8,
         "Wooloo": 2,
         "Mawile": 3,
         "Marill": 1,
@@ -420,7 +420,7 @@
         "Mothim": 2,
         "Crabominable": 2,
         "Krabby": 1,
-        "Mimikyu": 2,
+        "Mimikyu": 4,
         "Hoothoot": 2,
         "Girafarig": 1,
         "Summer deerling": 1,
@@ -599,13 +599,14 @@
         "Golurk": 1,
         "Grimer": 2,
         "Frosmoth": 2,
-        "Darumaka": 1,
+        "Darumaka": 2,
         "Cubone": 1,
         "Conkeldurr": 1,
-        "Sinistea": 1
+        "Sinistea": 1,
+        "Golbat": 1
       },
-      "total_spawns": 1729,
-      "last_spawn": "2026-07-05T21:18:18.220382"
+      "total_spawns": 1737,
+      "last_spawn": "2026-07-05T21:18:48.267346"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -828,7 +829,7 @@
         "Stoutland": 2,
         "Tirtouga": 4,
         "Swablu": 6,
-        "Tepig": 2,
+        "Tepig": 3,
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 6,
@@ -1008,7 +1009,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 2,
-        "Fletchling": 8,
+        "Fletchling": 10,
         "Haunter": 2,
         "Sandshrew": 1,
         "Fletchinder": 3,
@@ -1212,12 +1213,12 @@
         "Staryu": 1,
         "Golem": 1
       },
-      "total_spawns": 1985,
-      "last_spawn": "2026-07-05T21:18:14.474776"
+      "total_spawns": 1988,
+      "last_spawn": "2026-07-05T21:18:44.336999"
     }
   },
   "global": {
-    "total_spawns": 66253,
+    "total_spawns": 66264,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
