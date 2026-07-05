@@ -507,7 +507,7 @@
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
-        "Bombirdier": 4,
+        "Bombirdier": 5,
         "Wooloo": 3,
         "Togekiss": 1,
         "Rolycoly": 6,
@@ -713,7 +713,7 @@
         "Spheal": 4,
         "Chinchou": 2,
         "Magmar": 2,
-        "Chef dente": 2,
+        "Chef dente": 3,
         "Sandygast": 1,
         "Graveler": 3,
         "Duosion": 2,
@@ -751,7 +751,7 @@
         "Venipede": 4,
         "Toedscruel": 1,
         "Dewpider": 1,
-        "Pansear": 2,
+        "Pansear": 3,
         "Togetic": 3,
         "Houndstone": 2,
         "Ponyta": 1,
@@ -770,7 +770,7 @@
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
-        "Wiglett": 2,
+        "Wiglett": 3,
         "Carkol": 2,
         "Solosis": 3,
         "Flapple": 1,
@@ -848,14 +848,16 @@
         "Accelgor": 2,
         "Glaceon": 1,
         "Lickilicky": 1,
-        "Dhelmise": 1
+        "Dhelmise": 1,
+        "Porygon-z": 1,
+        "Centiskorch": 1
       },
-      "total_spawns": 1153,
-      "last_spawn": "2026-07-05T17:43:57.392904"
+      "total_spawns": 1159,
+      "last_spawn": "2026-07-05T17:44:27.301713"
     }
   },
   "global": {
-    "total_spawns": 64341,
+    "total_spawns": 64347,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
