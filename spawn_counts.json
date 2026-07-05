@@ -15,7 +15,7 @@
         "Vanillite": 16,
         "Weedle": 8,
         "Kabutops": 2,
-        "Poliwag": 8,
+        "Poliwag": 9,
         "Fidough": 5,
         "Charjabug": 2,
         "Hatterene": 1,
@@ -31,13 +31,13 @@
         "Pyukumuku": 1,
         "Pidgey": 7,
         "Binacle": 2,
-        "Bounsweet": 8,
+        "Bounsweet": 10,
         "Fletchling": 4,
         "Whirlipede": 3,
         "Duskull": 14,
         "Abra": 10,
         "Wiglett": 4,
-        "Starly": 12,
+        "Starly": 14,
         "Caterpie": 4,
         "Mareep": 3,
         "Capsakid": 8,
@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 3,
-        "Shinx": 19,
+        "Shinx": 21,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 7,
@@ -100,7 +100,7 @@
         "Froslass": 1,
         "Dodrio": 1,
         "Metagross": 2,
-        "Corphish": 2,
+        "Corphish": 3,
         "Doduo": 3,
         "Flittle": 7,
         "Armarouge": 1,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 1,
-        "Zubat": 6,
+        "Zubat": 7,
         "Drowzee": 3,
         "Lechonk": 4,
         "Woobat": 2,
@@ -314,7 +314,7 @@
         "Pumpkaboo": 2,
         "Petilil": 3,
         "Bombirdier": 5,
-        "Bellibolt": 2,
+        "Bellibolt": 3,
         "Toedscool": 3,
         "Paras": 2,
         "Fletchinder": 1,
@@ -332,7 +332,7 @@
         "Raboot": 2,
         "Oinkologne": 2,
         "Floragato": 1,
-        "Larvesta": 5,
+        "Larvesta": 7,
         "Magby": 1,
         "Roaming gimmighoul": 2,
         "Volcarona": 3,
@@ -572,10 +572,11 @@
         "Sealeo": 1,
         "Baltoy": 1,
         "Karrablast": 1,
-        "Volbeat": 1
+        "Volbeat": 1,
+        "Murkrow": 2
       },
-      "total_spawns": 1482,
-      "last_spawn": "2026-07-05T21:05:03.598313"
+      "total_spawns": 1496,
+      "last_spawn": "2026-07-05T21:05:38.372625"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -655,7 +656,7 @@
         "Aromatisse": 1,
         "Slowpoke": 2,
         "Seedot": 13,
-        "Trapinch": 10,
+        "Trapinch": 11,
         "Hatenna": 11,
         "Drifloon": 3,
         "Togepi": 9,
@@ -707,7 +708,7 @@
         "Watchog": 2,
         "Bounsweet": 16,
         "Flamigo": 8,
-        "Stunky": 1,
+        "Stunky": 2,
         "Spinarak": 3,
         "Gligar": 1,
         "Cubone": 1,
@@ -1170,12 +1171,12 @@
         "Venusaur": 1,
         "Spearow": 1
       },
-      "total_spawns": 1911,
-      "last_spawn": "2026-07-05T21:05:04.620430"
+      "total_spawns": 1913,
+      "last_spawn": "2026-07-05T21:05:34.505915"
     }
   },
   "global": {
-    "total_spawns": 65932,
+    "total_spawns": 65948,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
