@@ -69,7 +69,7 @@
         "Prof tangrowth": 3,
         "Vulpix": 1,
         "Gastly": 8,
-        "Aron": 2,
+        "Aron": 3,
         "Honedge": 12,
         "Houndour": 1,
         "Machop": 6,
@@ -427,10 +427,12 @@
         "Seel": 1,
         "Marowak": 2,
         "Haunter": 1,
-        "Dottler": 1
+        "Dottler": 1,
+        "Wailmer": 1,
+        "Frigibax": 1
       },
-      "total_spawns": 824,
-      "last_spawn": "2026-07-05T19:51:03.692684"
+      "total_spawns": 827,
+      "last_spawn": "2026-07-05T19:51:43.548429"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -930,7 +932,7 @@
     }
   },
   "global": {
-    "total_spawns": 64655,
+    "total_spawns": 64658,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
