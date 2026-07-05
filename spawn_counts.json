@@ -165,7 +165,7 @@
         "Pansage": 2,
         "Cetoddle": 7,
         "Togepi": 6,
-        "Tandemaus": 6,
+        "Tandemaus": 7,
         "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 6,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 9,
+        "Sewaddle": 10,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 3,
@@ -649,10 +649,11 @@
         "Heatmor": 1,
         "Vikavolt": 1,
         "Eelektross": 1,
-        "Bibarel": 1
+        "Bibarel": 1,
+        "Debutante trim furfrou": 1
       },
-      "total_spawns": 2190,
-      "last_spawn": "2026-07-05T22:08:33.571728"
+      "total_spawns": 2193,
+      "last_spawn": "2026-07-05T22:09:03.606585"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -672,7 +673,7 @@
         "Abra": 16,
         "Oddish": 14,
         "Dedenne": 2,
-        "Gothita": 10,
+        "Gothita": 11,
         "Finizen": 12,
         "Machop": 12,
         "Psyduck": 6,
@@ -915,7 +916,7 @@
         "Nosepass": 1,
         "Scovillain": 5,
         "Sliggoo": 2,
-        "Silcoon": 4,
+        "Silcoon": 5,
         "Tadbulb": 9,
         "Lopunny": 2,
         "Malamar": 1,
@@ -1234,7 +1235,7 @@
         "Gothorita": 1,
         "Simipour": 1,
         "Bronzong": 1,
-        "Xatu": 1,
+        "Xatu": 2,
         "Ampharos": 1,
         "Falinks": 1,
         "Phanpy": 1,
@@ -1289,12 +1290,12 @@
         "Ursaluna": 1,
         "Mawile": 1
       },
-      "total_spawns": 2281,
-      "last_spawn": "2026-07-05T22:08:24.400812"
+      "total_spawns": 2284,
+      "last_spawn": "2026-07-05T22:08:56.333314"
     }
   },
   "global": {
-    "total_spawns": 67010,
+    "total_spawns": 67016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
