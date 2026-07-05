@@ -161,7 +161,7 @@
         "Swadloon": 2,
         "Sunny castform": 4,
         "Vullaby": 1,
-        "Venipede": 3,
+        "Venipede": 4,
         "Pansage": 2,
         "Cetoddle": 4,
         "Togepi": 3,
@@ -387,10 +387,12 @@
         "Charizard": 2,
         "Axew": 2,
         "Joltik": 1,
-        "Gulpin": 1
+        "Gulpin": 1,
+        "Mareanie": 1,
+        "Throh": 1
       },
-      "total_spawns": 665,
-      "last_spawn": "2026-07-05T19:07:25.346387"
+      "total_spawns": 668,
+      "last_spawn": "2026-07-05T19:13:13.693425"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -890,7 +892,7 @@
     }
   },
   "global": {
-    "total_spawns": 64496,
+    "total_spawns": 64499,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
