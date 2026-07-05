@@ -184,7 +184,7 @@
         "Dratini": 9,
         "Steelix": 1,
         "Sprigatito": 3,
-        "Charcadet": 19,
+        "Charcadet": 20,
         "Mudsdale": 2,
         "Meowth": 7,
         "Charmander": 5,
@@ -279,7 +279,7 @@
         "Eiscue": 1,
         "Nacli": 9,
         "Pancham": 3,
-        "Bulbasaur": 5,
+        "Bulbasaur": 6,
         "Dewpider": 4,
         "Yellow plumage squawkabilly": 2,
         "Hattrem": 3,
@@ -671,8 +671,8 @@
         "Obstagoon": 2,
         "Greninja": 1
       },
-      "total_spawns": 2344,
-      "last_spawn": "2026-07-05T22:51:25.450601"
+      "total_spawns": 2346,
+      "last_spawn": "2026-07-05T22:52:43.500236"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -936,7 +936,7 @@
         "Scovillain": 6,
         "Sliggoo": 3,
         "Silcoon": 5,
-        "Tadbulb": 9,
+        "Tadbulb": 10,
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 4,
@@ -1067,7 +1067,7 @@
         "Boldore": 5,
         "Prof tangrowth": 6,
         "Corvisquire": 4,
-        "Lokix": 4,
+        "Lokix": 5,
         "Charmeleon": 4,
         "Spidops": 2,
         "Dwebble": 3,
@@ -1276,7 +1276,7 @@
         "Oinkologne": 1,
         "Clobbopus": 2,
         "Heracross": 1,
-        "Staryu": 2,
+        "Staryu": 3,
         "Golem": 1,
         "Numel": 2,
         "Noctowl": 1,
@@ -1343,14 +1343,15 @@
         "Wigglytuff": 1,
         "Audino": 1,
         "Larvesta": 1,
-        "Sudowoodo": 1
+        "Sudowoodo": 1,
+        "Meowstic": 1
       },
-      "total_spawns": 2540,
-      "last_spawn": "2026-07-05T22:52:15.016575"
+      "total_spawns": 2544,
+      "last_spawn": "2026-07-05T22:52:54.439648"
     }
   },
   "global": {
-    "total_spawns": 67423,
+    "total_spawns": 67429,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
