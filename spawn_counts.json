@@ -1226,7 +1226,7 @@
         "Vulpix": 1,
         "Gastly": 4,
         "Aron": 2,
-        "Honedge": 3,
+        "Honedge": 4,
         "Houndour": 1,
         "Machop": 5,
         "Terapagos": 1,
@@ -1476,14 +1476,17 @@
         "Fletchinder": 1,
         "Staravia": 1,
         "Wishiwashi": 1,
-        "Skitty": 1
+        "Skitty": 1,
+        "Finizen": 1,
+        "Swablu": 1,
+        "Sunkern": 1
       },
-      "total_spawns": 480,
-      "last_spawn": "2026-07-05T04:11:53.675591"
+      "total_spawns": 484,
+      "last_spawn": "2026-07-05T04:12:33.735218"
     }
   },
   "global": {
-    "total_spawns": 63019,
+    "total_spawns": 63023,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
