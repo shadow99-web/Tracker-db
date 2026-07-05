@@ -500,7 +500,7 @@
         "Braixen": 2,
         "Skwovet": 1,
         "Magnemite": 4,
-        "Impidimp": 6,
+        "Impidimp": 7,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 4,
@@ -518,7 +518,7 @@
         "Starly": 7,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 8,
+        "Bounsweet": 9,
         "Flamigo": 5,
         "Stunky": 1,
         "Spinarak": 1,
@@ -540,7 +540,7 @@
         "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 3,
-        "Vulpix": 3,
+        "Vulpix": 4,
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -794,7 +794,7 @@
         "Fletchling": 1,
         "Haunter": 1,
         "Sandshrew": 1,
-        "Fletchinder": 1,
+        "Fletchinder": 2,
         "Sinistea": 1,
         "Shinx": 1,
         "Totodile": 1,
@@ -813,12 +813,12 @@
         "Morelull": 1,
         "Dewott": 1
       },
-      "total_spawns": 949,
-      "last_spawn": "2026-07-05T17:22:05.398197"
+      "total_spawns": 953,
+      "last_spawn": "2026-07-05T17:22:44.605051"
     }
   },
   "global": {
-    "total_spawns": 64134,
+    "total_spawns": 64138,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
