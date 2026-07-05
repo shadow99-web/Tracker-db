@@ -458,7 +458,7 @@
         "Charcadet": 2,
         "Sandile": 3,
         "Maushold": 1,
-        "Rattata": 2,
+        "Rattata": 3,
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
@@ -560,14 +560,16 @@
         "Swinub": 1,
         "Marshtomp": 1,
         "Venonat": 1,
-        "Aipom": 1
+        "Aipom": 1,
+        "Rellor": 1,
+        "Hippopotas": 1
       },
-      "total_spawns": 222,
-      "last_spawn": "2026-07-05T15:18:34.689563"
+      "total_spawns": 225,
+      "last_spawn": "2026-07-05T15:19:05.910114"
     }
   },
   "global": {
-    "total_spawns": 63395,
+    "total_spawns": 63398,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
