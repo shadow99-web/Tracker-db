@@ -471,7 +471,7 @@
         "Trapinch": 5,
         "Hatenna": 3,
         "Drifloon": 2,
-        "Togepi": 4,
+        "Togepi": 5,
         "Snivy": 1,
         "Bellsprout": 2,
         "Scorbunny": 2,
@@ -550,7 +550,7 @@
         "Maschiff": 3,
         "Sensu oricorio": 2,
         "Scatterbug": 4,
-        "Taillow": 1,
+        "Taillow": 2,
         "Wimpod": 1,
         "Rookidee": 4,
         "Shellos": 1,
@@ -711,7 +711,7 @@
         "Growlithe": 2,
         "Arctozolt": 1,
         "Spheal": 1,
-        "Chinchou": 1,
+        "Chinchou": 2,
         "Magmar": 1,
         "Chef dente": 1,
         "Sandygast": 1,
@@ -760,12 +760,12 @@
         "Lickitung": 1,
         "Pyroar": 1
       },
-      "total_spawns": 729,
-      "last_spawn": "2026-07-05T16:45:04.400081"
+      "total_spawns": 732,
+      "last_spawn": "2026-07-05T16:45:34.601423"
     }
   },
   "global": {
-    "total_spawns": 63913,
+    "total_spawns": 63916,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
