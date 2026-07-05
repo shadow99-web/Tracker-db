@@ -372,15 +372,15 @@
         "Cresselia": 2,
         "Duraludon": 2,
         "Nidorino": 1,
-        "Rayquaza": 9,
+        "Rayquaza": 10,
         "Horsea": 1,
         "Reshiram": 1,
         "Celebi": 1,
         "Morelull": 1,
         "Unown": 3
       },
-      "total_spawns": 628,
-      "last_spawn": "2026-07-05T14:58:41.213650"
+      "total_spawns": 629,
+      "last_spawn": "2026-07-05T14:58:55.630327"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -478,14 +478,18 @@
         "Aron": 1,
         "Horsea": 1,
         "Teddiursa": 1,
-        "Dratini": 1
+        "Dratini": 1,
+        "Sewaddle": 1,
+        "Mantyke": 1,
+        "Slakoth": 1,
+        "Dreepy": 1
       },
-      "total_spawns": 105,
-      "last_spawn": "2026-07-05T14:58:34.467676"
+      "total_spawns": 109,
+      "last_spawn": "2026-07-05T14:59:14.334859"
     }
   },
   "global": {
-    "total_spawns": 63272,
+    "total_spawns": 63277,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
