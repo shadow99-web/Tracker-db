@@ -437,7 +437,7 @@
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 7,
+        "Bramblin": 8,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 2,
@@ -468,7 +468,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 5,
-        "Trapinch": 5,
+        "Trapinch": 6,
         "Hatenna": 5,
         "Drifloon": 2,
         "Togepi": 7,
@@ -790,14 +790,15 @@
         "Rockruff": 1,
         "Stunfisk": 1,
         "Spinda": 1,
-        "Beautifly": 1
+        "Beautifly": 1,
+        "Fletchling": 1
       },
-      "total_spawns": 865,
-      "last_spawn": "2026-07-05T17:07:54.599751"
+      "total_spawns": 868,
+      "last_spawn": "2026-07-05T17:08:34.400996"
     }
   },
   "global": {
-    "total_spawns": 64049,
+    "total_spawns": 64052,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
