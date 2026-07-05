@@ -410,7 +410,7 @@
         "Dedenne": 1,
         "Gothita": 3,
         "Finizen": 4,
-        "Machop": 4,
+        "Machop": 5,
         "Psyduck": 2,
         "Monferno": 1,
         "Pikipek": 3,
@@ -440,7 +440,7 @@
         "Bramblin": 6,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
-        "Binacle": 1,
+        "Binacle": 2,
         "Kilowattrel": 2,
         "Skiploom": 2,
         "Voltorb": 3,
@@ -682,7 +682,7 @@
         "Remoraid": 1,
         "Diglett": 1,
         "Lotad": 2,
-        "Nincada": 1,
+        "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
         "Veluza": 2,
@@ -762,14 +762,15 @@
         "Oshawott": 1,
         "Bisharp": 1,
         "Dartrix": 1,
-        "Roserade": 1
+        "Roserade": 1,
+        "Heliolisk": 1
       },
-      "total_spawns": 757,
-      "last_spawn": "2026-07-05T16:49:44.483139"
+      "total_spawns": 761,
+      "last_spawn": "2026-07-05T16:50:24.419947"
     }
   },
   "global": {
-    "total_spawns": 63941,
+    "total_spawns": 63945,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
