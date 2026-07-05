@@ -211,7 +211,7 @@
         "Skrelp": 4,
         "Lileep": 2,
         "Drifloon": 1,
-        "Mightyena": 2,
+        "Mightyena": 3,
         "Sandaconda": 1,
         "Froakie": 4,
         "Kingdra": 1,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 7,
-        "Finizen": 4,
+        "Finizen": 5,
         "Swablu": 3,
         "Sunkern": 2,
         "Snubbull": 1,
@@ -614,10 +614,12 @@
         "Azurill": 1,
         "Oshawott": 1,
         "Malamar": 1,
-        "Orange flower florges": 1
+        "Orange flower florges": 1,
+        "Minun": 2,
+        "Hangry morpeko": 2
       },
-      "total_spawns": 1840,
-      "last_spawn": "2026-07-05T21:30:23.550889"
+      "total_spawns": 1846,
+      "last_spawn": "2026-07-05T21:30:53.762496"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -640,7 +642,7 @@
         "Gothita": 9,
         "Finizen": 12,
         "Machop": 10,
-        "Psyduck": 4,
+        "Psyduck": 5,
         "Monferno": 1,
         "Pikipek": 8,
         "Flittle": 6,
@@ -678,7 +680,7 @@
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 14,
-        "Orthworm": 9,
+        "Orthworm": 10,
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 3,
@@ -892,7 +894,7 @@
         "Omastar": 2,
         "Surskit": 2,
         "Wooper": 4,
-        "Tatsugiri": 5,
+        "Tatsugiri": 6,
         "Oranguru": 1,
         "Kricketot": 3,
         "Golurk": 4,
@@ -1230,12 +1232,12 @@
         "Oricorio": 1,
         "Leafeon": 1
       },
-      "total_spawns": 2056,
-      "last_spawn": "2026-07-05T21:30:24.477808"
+      "total_spawns": 2059,
+      "last_spawn": "2026-07-05T21:30:54.495528"
     }
   },
   "global": {
-    "total_spawns": 66435,
+    "total_spawns": 66444,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
