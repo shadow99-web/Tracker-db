@@ -444,7 +444,7 @@
         "Kilowattrel": 2,
         "Skiploom": 3,
         "Voltorb": 5,
-        "Geodude": 6,
+        "Geodude": 7,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 3,
@@ -473,7 +473,7 @@
         "Drifloon": 2,
         "Togepi": 7,
         "Snivy": 1,
-        "Bellsprout": 4,
+        "Bellsprout": 5,
         "Scorbunny": 2,
         "Roggenrola": 6,
         "Wattrel": 9,
@@ -547,7 +547,7 @@
         "Tynamo": 5,
         "Quaquaval": 4,
         "Rapidash": 1,
-        "Maschiff": 5,
+        "Maschiff": 6,
         "Sensu oricorio": 2,
         "Scatterbug": 6,
         "Taillow": 2,
@@ -587,7 +587,7 @@
         "Espurr": 2,
         "Doduo": 2,
         "Kadabra": 1,
-        "Stretchy tatsugiri": 2,
+        "Stretchy tatsugiri": 3,
         "Dugtrio": 1,
         "Capsakid": 6,
         "Tyrunt": 1,
@@ -612,7 +612,7 @@
         "Tirtouga": 4,
         "Swablu": 3,
         "Tepig": 2,
-        "Barbaracle": 3,
+        "Barbaracle": 4,
         "Noivern": 2,
         "Clefairy": 3,
         "Grubbin": 7,
@@ -864,14 +864,16 @@
         "Servine": 1,
         "Zoroark": 1,
         "Aegislash": 1,
-        "Scyther": 1
+        "Scyther": 1,
+        "Azumarill": 1,
+        "Rillaboom": 1
       },
-      "total_spawns": 1226,
-      "last_spawn": "2026-07-05T17:50:07.608502"
+      "total_spawns": 1233,
+      "last_spawn": "2026-07-05T17:50:44.418768"
     }
   },
   "global": {
-    "total_spawns": 64414,
+    "total_spawns": 64421,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
