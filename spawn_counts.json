@@ -1224,7 +1224,7 @@
         "Feebas": 1,
         "Prof tangrowth": 3,
         "Vulpix": 1,
-        "Gastly": 3,
+        "Gastly": 4,
         "Aron": 2,
         "Honedge": 3,
         "Houndour": 1,
@@ -1306,7 +1306,7 @@
         "Claydol": 1,
         "Trapinch": 2,
         "Butterfree": 1,
-        "Teddiursa": 2,
+        "Teddiursa": 3,
         "Roggenrola": 1,
         "Litwick": 2,
         "Wooper": 1,
@@ -1471,14 +1471,16 @@
         "Petilil": 1,
         "Bombirdier": 1,
         "Bellibolt": 1,
-        "Toedscool": 1
+        "Toedscool": 1,
+        "Paras": 1,
+        "Fletchinder": 1
       },
-      "total_spawns": 469,
-      "last_spawn": "2026-07-05T04:09:43.927535"
+      "total_spawns": 473,
+      "last_spawn": "2026-07-05T04:10:33.755484"
     }
   },
   "global": {
-    "total_spawns": 63008,
+    "total_spawns": 63012,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
