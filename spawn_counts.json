@@ -37,7 +37,7 @@
         "Duskull": 10,
         "Abra": 9,
         "Wiglett": 4,
-        "Starly": 10,
+        "Starly": 12,
         "Caterpie": 3,
         "Mareep": 3,
         "Capsakid": 7,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 3,
-        "Tinkatink": 7,
+        "Tinkatink": 8,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 2,
@@ -536,10 +536,11 @@
         "Cascoon": 1,
         "Sigilyph": 2,
         "Vibrava": 1,
-        "Shuckle": 1
+        "Shuckle": 1,
+        "White flower floette": 1
       },
-      "total_spawns": 1282,
-      "last_spawn": "2026-07-05T20:39:23.760153"
+      "total_spawns": 1286,
+      "last_spawn": "2026-07-05T20:39:53.553781"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -851,7 +852,7 @@
         "Chimchar": 2,
         "Mewtwo": 1,
         "Pachirisu": 2,
-        "Ursaring": 2,
+        "Ursaring": 3,
         "Zweilous": 2,
         "Amoonguss": 1,
         "Varoom": 6,
@@ -867,7 +868,7 @@
         "Chef dente": 4,
         "Sandygast": 1,
         "Graveler": 4,
-        "Duosion": 2,
+        "Duosion": 3,
         "Pawniard": 2,
         "Rabsca": 3,
         "Cofagrigus": 1,
@@ -947,7 +948,7 @@
         "Sandshrew": 1,
         "Fletchinder": 2,
         "Sinistea": 2,
-        "Shinx": 3,
+        "Shinx": 4,
         "Totodile": 1,
         "Magikarp": 2,
         "Pumpkaboo": 2,
@@ -1028,7 +1029,7 @@
         "Piloswine": 1,
         "Nidoking": 1,
         "Hariyama": 1,
-        "Archen": 2,
+        "Archen": 3,
         "Mabosstiff": 2,
         "Skuntank": 1,
         "Glastrier": 1,
@@ -1110,12 +1111,12 @@
         "Copperajah": 1,
         "Leavanny": 1
       },
-      "total_spawns": 1759,
-      "last_spawn": "2026-07-05T20:39:14.359268"
+      "total_spawns": 1763,
+      "last_spawn": "2026-07-05T20:39:54.404439"
     }
   },
   "global": {
-    "total_spawns": 65580,
+    "total_spawns": 65588,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
