@@ -378,10 +378,11 @@
         "Celebi": 1,
         "Morelull": 1,
         "Unown": 3,
-        "Poltchageist": 1
+        "Poltchageist": 1,
+        "Slakoth": 1
       },
-      "total_spawns": 632,
-      "last_spawn": "2026-07-05T15:08:22.896993"
+      "total_spawns": 633,
+      "last_spawn": "2026-07-05T15:11:03.497046"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -393,7 +394,7 @@
         "Gible": 2,
         "Torracat": 1,
         "Dusclops": 1,
-        "Rhyhorn": 2,
+        "Rhyhorn": 3,
         "Mareep": 1,
         "Klink": 2,
         "Nymble": 1,
@@ -404,7 +405,7 @@
         "Gothita": 1,
         "Finizen": 2,
         "Machop": 1,
-        "Psyduck": 1,
+        "Psyduck": 2,
         "Monferno": 1,
         "Pikipek": 1,
         "Flittle": 2,
@@ -535,14 +536,15 @@
         "Quilladin": 1,
         "Vulpix": 1,
         "Sizzlipede": 1,
-        "Spiky-eared pichu": 1
+        "Spiky-eared pichu": 1,
+        "Swadloon": 1
       },
-      "total_spawns": 177,
-      "last_spawn": "2026-07-05T15:10:54.427333"
+      "total_spawns": 180,
+      "last_spawn": "2026-07-05T15:11:24.575359"
     }
   },
   "global": {
-    "total_spawns": 63348,
+    "total_spawns": 63352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
