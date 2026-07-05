@@ -478,7 +478,7 @@
         "Roggenrola": 6,
         "Wattrel": 8,
         "Nacli": 13,
-        "Feebas": 1,
+        "Feebas": 2,
         "Weedle": 7,
         "Ralts": 6,
         "Kangaskhan": 1,
@@ -500,7 +500,7 @@
         "Braixen": 2,
         "Skwovet": 2,
         "Magnemite": 6,
-        "Impidimp": 8,
+        "Impidimp": 9,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 6,
@@ -514,7 +514,7 @@
         "Duskull": 5,
         "Marill": 5,
         "Axew": 3,
-        "Tinkatink": 3,
+        "Tinkatink": 4,
         "Starly": 8,
         "Popplio": 2,
         "Watchog": 1,
@@ -615,7 +615,7 @@
         "Barbaracle": 3,
         "Noivern": 2,
         "Clefairy": 3,
-        "Grubbin": 6,
+        "Grubbin": 7,
         "Dustox": 1,
         "Chespin": 5,
         "Armarouge": 2,
@@ -851,14 +851,17 @@
         "Dhelmise": 1,
         "Porygon-z": 1,
         "Centiskorch": 1,
-        "Pidgeot": 1
+        "Pidgeot": 1,
+        "Appletun": 1,
+        "Rhydon": 1,
+        "Bruxish": 1
       },
-      "total_spawns": 1166,
-      "last_spawn": "2026-07-05T17:45:04.668134"
+      "total_spawns": 1173,
+      "last_spawn": "2026-07-05T17:45:37.194983"
     }
   },
   "global": {
-    "total_spawns": 64354,
+    "total_spawns": 64361,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
