@@ -1188,7 +1188,7 @@
         "Pidgey": 1,
         "Binacle": 1,
         "Bounsweet": 4,
-        "Fletchling": 2,
+        "Fletchling": 3,
         "Whirlipede": 2,
         "Duskull": 6,
         "Abra": 5,
@@ -1214,7 +1214,7 @@
         "Hatenna": 2,
         "Shroomish": 3,
         "Lillipup": 3,
-        "Mosslax": 5,
+        "Mosslax": 6,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 2,
@@ -1498,14 +1498,16 @@
         "Bidoof": 1,
         "Gothita": 1,
         "Solosis": 1,
-        "Sandygast": 1
+        "Sandygast": 1,
+        "Pidove": 1,
+        "Chespin": 1
       },
-      "total_spawns": 529,
-      "last_spawn": "2026-07-05T04:20:23.784227"
+      "total_spawns": 533,
+      "last_spawn": "2026-07-05T04:21:03.992096"
     }
   },
   "global": {
-    "total_spawns": 63068,
+    "total_spawns": 63072,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
