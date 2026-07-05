@@ -113,7 +113,7 @@
         "Treecko": 10,
         "Shroodle": 5,
         "Ride cyclizar": 1,
-        "Swinub": 11,
+        "Swinub": 13,
         "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 10,
@@ -145,7 +145,7 @@
         "Wugtrio": 5,
         "Tranquill": 2,
         "Cetitan": 1,
-        "Turtwig": 3,
+        "Turtwig": 4,
         "Fomantis": 5,
         "Claydol": 1,
         "Trapinch": 6,
@@ -156,7 +156,7 @@
         "Wooper": 2,
         "Pikipek": 12,
         "Spritzee": 1,
-        "Stantler": 4,
+        "Stantler": 5,
         "Impidimp": 14,
         "Swadloon": 4,
         "Sunny castform": 4,
@@ -656,8 +656,8 @@
         "Passimian": 1,
         "Jynx": 1
       },
-      "total_spawns": 2224,
-      "last_spawn": "2026-07-05T22:13:13.773083"
+      "total_spawns": 2228,
+      "last_spawn": "2026-07-05T22:13:43.595444"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -675,7 +675,7 @@
         "Nymble": 12,
         "Porygon": 14,
         "Abra": 17,
-        "Oddish": 14,
+        "Oddish": 15,
         "Dedenne": 2,
         "Gothita": 11,
         "Finizen": 12,
@@ -714,7 +714,7 @@
         "Skiploom": 3,
         "Voltorb": 6,
         "Geodude": 15,
-        "Treecko": 2,
+        "Treecko": 3,
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 19,
@@ -746,7 +746,7 @@
         "Scorbunny": 2,
         "Roggenrola": 14,
         "Wattrel": 13,
-        "Nacli": 18,
+        "Nacli": 19,
         "Feebas": 2,
         "Weedle": 10,
         "Ralts": 14,
@@ -1297,12 +1297,12 @@
         "Munchlax": 1,
         "Dodrio": 1
       },
-      "total_spawns": 2309,
-      "last_spawn": "2026-07-05T22:13:14.444572"
+      "total_spawns": 2312,
+      "last_spawn": "2026-07-05T22:13:44.594571"
     }
   },
   "global": {
-    "total_spawns": 67072,
+    "total_spawns": 67079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
