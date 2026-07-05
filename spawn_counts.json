@@ -1225,7 +1225,7 @@
         "Prof tangrowth": 2,
         "Vulpix": 1,
         "Gastly": 3,
-        "Aron": 1,
+        "Aron": 2,
         "Honedge": 1,
         "Houndour": 1,
         "Machop": 4,
@@ -1344,7 +1344,7 @@
         "Mudsdale": 2,
         "Meowth": 2,
         "Charmander": 1,
-        "Wimpod": 1,
+        "Wimpod": 2,
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 1,
@@ -1427,12 +1427,12 @@
         "Drizzile": 1,
         "Tinkatink": 1
       },
-      "total_spawns": 370,
-      "last_spawn": "2026-07-05T03:47:03.064290"
+      "total_spawns": 372,
+      "last_spawn": "2026-07-05T03:48:03.080548"
     }
   },
   "global": {
-    "total_spawns": 62909,
+    "total_spawns": 62911,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
