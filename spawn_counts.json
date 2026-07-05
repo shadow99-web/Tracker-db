@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 6,
-        "Axew": 13,
+        "Axew": 15,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 2,
@@ -424,7 +424,7 @@
         "Hoothoot": 3,
         "Girafarig": 1,
         "Summer deerling": 1,
-        "Seel": 1,
+        "Seel": 2,
         "Marowak": 2,
         "Haunter": 2,
         "Dottler": 1,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 1,
         "Sigilyph": 4,
-        "Vibrava": 1,
+        "Vibrava": 2,
         "Shuckle": 2,
         "White flower floette": 2,
         "Octillery": 2,
@@ -623,10 +623,11 @@
         "Dhelmise": 1,
         "Armaldo": 2,
         "Krokorok": 1,
-        "Torkoal": 2
+        "Torkoal": 2,
+        "Clamperl": 1
       },
-      "total_spawns": 1923,
-      "last_spawn": "2026-07-05T21:40:33.602858"
+      "total_spawns": 1928,
+      "last_spawn": "2026-07-05T21:41:13.795982"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -978,7 +979,7 @@
         "East sea shellos": 7,
         "Flygon": 1,
         "Cyclizar": 2,
-        "Murkrow": 2,
+        "Murkrow": 3,
         "Drednaw": 2,
         "Cyndaquil": 3,
         "Thievul": 1,
@@ -988,7 +989,7 @@
         "Applin": 2,
         "Venipede": 9,
         "Toedscruel": 1,
-        "Dewpider": 4,
+        "Dewpider": 5,
         "Pansear": 4,
         "Togetic": 4,
         "Houndstone": 6,
@@ -1056,7 +1057,7 @@
         "Makuhita": 1,
         "Barboach": 3,
         "Smeargle": 1,
-        "Ceruledge": 2,
+        "Ceruledge": 3,
         "Swampert": 1,
         "Naclstack": 3,
         "Golbat": 4,
@@ -1247,12 +1248,12 @@
         "Typhlosion": 1,
         "Yellow flower florges": 1
       },
-      "total_spawns": 2117,
-      "last_spawn": "2026-07-05T21:40:36.294235"
+      "total_spawns": 2120,
+      "last_spawn": "2026-07-05T21:41:04.373011"
     }
   },
   "global": {
-    "total_spawns": 66579,
+    "total_spawns": 66587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
