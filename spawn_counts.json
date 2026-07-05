@@ -411,7 +411,7 @@
         "Gothita": 3,
         "Finizen": 5,
         "Machop": 6,
-        "Psyduck": 2,
+        "Psyduck": 3,
         "Monferno": 1,
         "Pikipek": 3,
         "Flittle": 4,
@@ -712,7 +712,7 @@
         "Arctozolt": 1,
         "Spheal": 2,
         "Chinchou": 2,
-        "Magmar": 1,
+        "Magmar": 2,
         "Chef dente": 2,
         "Sandygast": 1,
         "Graveler": 2,
@@ -751,7 +751,7 @@
         "Venipede": 1,
         "Toedscruel": 1,
         "Dewpider": 1,
-        "Pansear": 1,
+        "Pansear": 2,
         "Togetic": 1,
         "Houndstone": 1,
         "Ponyta": 1,
@@ -785,12 +785,12 @@
         "Corvisquire": 1,
         "Lokix": 1
       },
-      "total_spawns": 828,
-      "last_spawn": "2026-07-05T17:01:44.498072"
+      "total_spawns": 831,
+      "last_spawn": "2026-07-05T17:02:22.432632"
     }
   },
   "global": {
-    "total_spawns": 64012,
+    "total_spawns": 64015,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
