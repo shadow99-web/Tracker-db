@@ -69,7 +69,7 @@
         "Prof tangrowth": 5,
         "Vulpix": 1,
         "Gastly": 10,
-        "Aron": 4,
+        "Aron": 5,
         "Honedge": 16,
         "Houndour": 1,
         "Machop": 7,
@@ -554,10 +554,12 @@
         "Smeargle": 2,
         "Appletun": 2,
         "Arrokuda": 1,
-        "Toxapex": 2
+        "Toxapex": 2,
+        "Pawmot": 1,
+        "Blitzle": 1
       },
-      "total_spawns": 1384,
-      "last_spawn": "2026-07-05T20:53:54.514450"
+      "total_spawns": 1387,
+      "last_spawn": "2026-07-05T20:54:33.897262"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -682,7 +684,7 @@
         "Rolycoly": 10,
         "Duskull": 5,
         "Marill": 5,
-        "Axew": 4,
+        "Axew": 5,
         "Tinkatink": 7,
         "Starly": 14,
         "Popplio": 2,
@@ -950,7 +952,7 @@
         "Gabite": 2,
         "Toxel": 3,
         "Boldore": 1,
-        "Prof tangrowth": 2,
+        "Prof tangrowth": 3,
         "Corvisquire": 2,
         "Lokix": 3,
         "Charmeleon": 4,
@@ -1138,14 +1140,16 @@
         "Palafin": 1,
         "Gothorita": 1,
         "Simipour": 1,
-        "Bronzong": 1
+        "Bronzong": 1,
+        "Xatu": 1,
+        "Ampharos": 1
       },
-      "total_spawns": 1844,
-      "last_spawn": "2026-07-05T20:53:44.315958"
+      "total_spawns": 1848,
+      "last_spawn": "2026-07-05T20:54:24.300026"
     }
   },
   "global": {
-    "total_spawns": 65767,
+    "total_spawns": 65774,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
