@@ -200,7 +200,7 @@
         "Tarountula": 5,
         "Rhyhorn": 6,
         "Aipom": 2,
-        "Grookey": 2,
+        "Grookey": 3,
         "Inkay": 1,
         "Unfezant": 1,
         "Fraxure": 1,
@@ -397,7 +397,7 @@
         "Rabsca": 2,
         "Misdreavus": 1,
         "Cursola": 2,
-        "Carbink": 1,
+        "Carbink": 2,
         "Scorbunny": 1,
         "Dubwool": 1,
         "Litleo": 1,
@@ -481,7 +481,7 @@
         "Complete zygarde": 1,
         "Mudbray": 1,
         "Spectrier": 1,
-        "Rufflet": 1,
+        "Rufflet": 2,
         "Lairon": 1,
         "Altaria": 1,
         "Attack deoxys": 2,
@@ -556,8 +556,8 @@
         "Arrokuda": 1,
         "Toxapex": 2
       },
-      "total_spawns": 1381,
-      "last_spawn": "2026-07-05T20:53:24.336917"
+      "total_spawns": 1384,
+      "last_spawn": "2026-07-05T20:53:54.514450"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -970,7 +970,7 @@
         "Magikarp": 2,
         "Pumpkaboo": 2,
         "Banette": 1,
-        "Tympole": 5,
+        "Tympole": 6,
         "Bunnelby": 3,
         "Vanillish": 1,
         "Arrokuda": 2,
@@ -1137,14 +1137,15 @@
         "Gossifleur": 1,
         "Palafin": 1,
         "Gothorita": 1,
-        "Simipour": 1
+        "Simipour": 1,
+        "Bronzong": 1
       },
-      "total_spawns": 1842,
-      "last_spawn": "2026-07-05T20:53:24.483240"
+      "total_spawns": 1844,
+      "last_spawn": "2026-07-05T20:53:44.315958"
     }
   },
   "global": {
-    "total_spawns": 65762,
+    "total_spawns": 65767,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
