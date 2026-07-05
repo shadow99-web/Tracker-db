@@ -136,7 +136,7 @@
         "Slugma": 2,
         "Venonat": 1,
         "Eelektrik": 2,
-        "Diglett": 2,
+        "Diglett": 3,
         "Surskit": 1,
         "Seedot": 4,
         "Jigglypuff": 1,
@@ -173,7 +173,7 @@
         "Blipbug": 6,
         "Rellor": 3,
         "Rolycoly": 3,
-        "Poliwhirl": 2,
+        "Poliwhirl": 3,
         "Lokix": 2,
         "Flamigo": 5,
         "Bellsprout": 8,
@@ -335,7 +335,7 @@
         "Larvesta": 3,
         "Magby": 1,
         "Roaming gimmighoul": 1,
-        "Volcarona": 1,
+        "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 1,
         "Ursaring": 1,
@@ -372,7 +372,7 @@
         "Cresselia": 2,
         "Duraludon": 2,
         "Nidorino": 2,
-        "Rayquaza": 10,
+        "Rayquaza": 11,
         "Horsea": 6,
         "Reshiram": 3,
         "Celebi": 1,
@@ -460,8 +460,8 @@
         "Pansear": 1,
         "Yanma": 1
       },
-      "total_spawns": 949,
-      "last_spawn": "2026-07-05T20:04:58.310175"
+      "total_spawns": 954,
+      "last_spawn": "2026-07-05T20:05:28.484753"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -507,7 +507,7 @@
         "Cetoddle": 12,
         "Fidough": 10,
         "Smearguru": 4,
-        "Nuzleaf": 2,
+        "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 2,
         "Bramblin": 8,
@@ -522,7 +522,7 @@
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 6,
-        "Orthworm": 7,
+        "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 2,
@@ -542,9 +542,9 @@
         "Slowpoke": 1,
         "Seedot": 10,
         "Trapinch": 8,
-        "Hatenna": 7,
+        "Hatenna": 8,
         "Drifloon": 2,
-        "Togepi": 7,
+        "Togepi": 8,
         "Snivy": 2,
         "Bellsprout": 6,
         "Scorbunny": 2,
@@ -683,7 +683,7 @@
         "Komala": 1,
         "Stoutland": 1,
         "Tirtouga": 4,
-        "Swablu": 3,
+        "Swablu": 4,
         "Tepig": 2,
         "Barbaracle": 4,
         "Noivern": 2,
@@ -980,14 +980,15 @@
         "Arbok": 1,
         "Ditto": 1,
         "Alolan meowth": 1,
-        "Budew": 1
+        "Budew": 1,
+        "Cascoon": 1
       },
-      "total_spawns": 1403,
-      "last_spawn": "2026-07-05T20:05:07.094535"
+      "total_spawns": 1409,
+      "last_spawn": "2026-07-05T20:05:37.163113"
     }
   },
   "global": {
-    "total_spawns": 64891,
+    "total_spawns": 64902,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
