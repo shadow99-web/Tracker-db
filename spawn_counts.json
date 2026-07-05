@@ -405,7 +405,7 @@
         "Oddish": 5,
         "Dedenne": 1,
         "Gothita": 1,
-        "Finizen": 2,
+        "Finizen": 3,
         "Machop": 1,
         "Psyduck": 2,
         "Monferno": 1,
@@ -591,14 +591,17 @@
         "Vaporeon": 1,
         "Magneton": 1,
         "Pupitar": 1,
-        "Durant": 1
+        "Durant": 1,
+        "Jigglypuff": 1,
+        "Steenee": 1,
+        "Mareanie": 1
       },
-      "total_spawns": 278,
-      "last_spawn": "2026-07-05T15:28:04.458247"
+      "total_spawns": 282,
+      "last_spawn": "2026-07-05T15:28:44.461232"
     }
   },
   "global": {
-    "total_spawns": 63453,
+    "total_spawns": 63457,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
