@@ -35,7 +35,7 @@
         "Fletchling": 6,
         "Whirlipede": 4,
         "Duskull": 18,
-        "Abra": 14,
+        "Abra": 15,
         "Wiglett": 7,
         "Starly": 18,
         "Caterpie": 5,
@@ -334,7 +334,7 @@
         "Floragato": 1,
         "Larvesta": 9,
         "Magby": 1,
-        "Roaming gimmighoul": 3,
+        "Roaming gimmighoul": 4,
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 1,
@@ -419,7 +419,7 @@
         "Croagunk": 3,
         "Mothim": 4,
         "Crabominable": 2,
-        "Krabby": 2,
+        "Krabby": 3,
         "Mimikyu": 4,
         "Hoothoot": 3,
         "Girafarig": 1,
@@ -643,8 +643,8 @@
         "Weavile": 2,
         "Amped toxtricity": 2
       },
-      "total_spawns": 2088,
-      "last_spawn": "2026-07-05T21:55:23.645572"
+      "total_spawns": 2091,
+      "last_spawn": "2026-07-05T21:55:53.689507"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -705,7 +705,7 @@
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 17,
-        "Orthworm": 11,
+        "Orthworm": 12,
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 3,
@@ -950,7 +950,7 @@
         "Yungoos": 3,
         "Luxio": 4,
         "Frigibax": 11,
-        "Krokorok": 2,
+        "Krokorok": 3,
         "Snorunt": 3,
         "Meganium": 1,
         "Chimchar": 2,
@@ -1232,7 +1232,7 @@
         "Phanpy": 1,
         "Blastoise": 2,
         "Castform": 1,
-        "Palossand": 1,
+        "Palossand": 2,
         "Clamperl": 1,
         "Cramorant": 1,
         "Decidueye": 1,
@@ -1274,12 +1274,12 @@
         "Petilil": 1,
         "Gloom": 1
       },
-      "total_spawns": 2203,
-      "last_spawn": "2026-07-05T21:55:14.395017"
+      "total_spawns": 2206,
+      "last_spawn": "2026-07-05T21:55:44.762564"
     }
   },
   "global": {
-    "total_spawns": 66830,
+    "total_spawns": 66836,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
