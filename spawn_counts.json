@@ -402,7 +402,7 @@
         "Dusclops": 2,
         "Rhyhorn": 3,
         "Mareep": 3,
-        "Klink": 5,
+        "Klink": 6,
         "Nymble": 5,
         "Porygon": 8,
         "Abra": 6,
@@ -447,7 +447,7 @@
         "Geodude": 6,
         "Treecko": 1,
         "Grimer": 1,
-        "Grafaiai": 1,
+        "Grafaiai": 2,
         "Gastly": 5,
         "Orthworm": 5,
         "Glimmet": 7,
@@ -503,7 +503,7 @@
         "Impidimp": 7,
         "Elgyem": 2,
         "Gastrodon": 1,
-        "Shroodle": 5,
+        "Shroodle": 6,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
@@ -526,7 +526,7 @@
         "Cubone": 1,
         "Dracovish": 1,
         "Deino": 4,
-        "Honedge": 4,
+        "Honedge": 5,
         "Litleo": 1,
         "Steelix": 2,
         "Greninja": 1,
@@ -567,7 +567,7 @@
         "Venonat": 1,
         "Aipom": 1,
         "Rellor": 4,
-        "Hippopotas": 1,
+        "Hippopotas": 2,
         "Chikorita": 4,
         "Litwick": 5,
         "Metapod": 1,
@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 2,
-        "Tarountula": 8,
+        "Tarountula": 9,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 4,
@@ -844,14 +844,15 @@
         "Galarian zen darmanitan": 1,
         "Greedent": 1,
         "Slowbro": 1,
-        "Floatzel": 1
+        "Floatzel": 1,
+        "Accelgor": 1
       },
-      "total_spawns": 1112,
-      "last_spawn": "2026-07-05T17:40:34.685735"
+      "total_spawns": 1119,
+      "last_spawn": "2026-07-05T17:41:07.318540"
     }
   },
   "global": {
-    "total_spawns": 64300,
+    "total_spawns": 64307,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
