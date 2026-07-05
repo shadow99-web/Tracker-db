@@ -1200,12 +1200,12 @@
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 1,
-        "Tadbulb": 2,
+        "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 1,
         "Grubbin": 3,
         "Scatterbug": 3,
-        "Skwovet": 1,
+        "Skwovet": 2,
         "Applin": 1,
         "Staryu": 1,
         "Maschiff": 2,
@@ -1407,14 +1407,17 @@
         "Solrock": 1,
         "Tinkatuff": 1,
         "Drednaw": 1,
-        "Corvisquire": 1
+        "Corvisquire": 1,
+        "Croconaw": 1,
+        "Makuhita": 1,
+        "Machamp": 1
       },
-      "total_spawns": 336,
-      "last_spawn": "2026-07-05T03:42:48.505481"
+      "total_spawns": 341,
+      "last_spawn": "2026-07-05T03:43:23.240134"
     }
   },
   "global": {
-    "total_spawns": 62875,
+    "total_spawns": 62880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
