@@ -609,7 +609,7 @@
         "Scraggy": 1,
         "Komala": 1,
         "Stoutland": 1,
-        "Tirtouga": 1,
+        "Tirtouga": 2,
         "Swablu": 1,
         "Tepig": 1,
         "Barbaracle": 1,
@@ -753,14 +753,15 @@
         "Dewpider": 1,
         "Pansear": 1,
         "Togetic": 1,
-        "Houndstone": 1
+        "Houndstone": 1,
+        "Ponyta": 1
       },
-      "total_spawns": 712,
-      "last_spawn": "2026-07-05T16:42:04.368520"
+      "total_spawns": 714,
+      "last_spawn": "2026-07-05T16:42:34.506261"
     }
   },
   "global": {
-    "total_spawns": 63896,
+    "total_spawns": 63898,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
