@@ -386,14 +386,17 @@
         "Mareep": 1,
         "Klink": 1,
         "Nymble": 1,
-        "Porygon": 1
+        "Porygon": 1,
+        "Abra": 1,
+        "Oddish": 1,
+        "Dedenne": 1
       },
-      "total_spawns": 13,
-      "last_spawn": "2026-07-05T14:08:24.281684"
+      "total_spawns": 16,
+      "last_spawn": "2026-07-05T14:08:54.395999"
     }
   },
   "global": {
-    "total_spawns": 63154,
+    "total_spawns": 63157,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
