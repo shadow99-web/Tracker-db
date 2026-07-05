@@ -34,7 +34,7 @@
         "Bounsweet": 4,
         "Fletchling": 3,
         "Whirlipede": 2,
-        "Duskull": 8,
+        "Duskull": 10,
         "Abra": 9,
         "Wiglett": 4,
         "Starly": 8,
@@ -178,7 +178,7 @@
         "Flamigo": 5,
         "Bellsprout": 8,
         "Houndstone": 1,
-        "Beldum": 3,
+        "Beldum": 5,
         "Kadabra": 2,
         "Grovyle": 1,
         "Dratini": 4,
@@ -295,7 +295,7 @@
         "Dartrix": 1,
         "Ceruledge": 1,
         "Vanillish": 1,
-        "Gimmighoul": 2,
+        "Gimmighoul": 3,
         "Glimmet": 5,
         "Popplio": 2,
         "Arboliva": 1,
@@ -507,8 +507,8 @@
         "Breloom": 1,
         "Rillaboom": 2
       },
-      "total_spawns": 1104,
-      "last_spawn": "2026-07-05T20:20:08.588315"
+      "total_spawns": 1109,
+      "last_spawn": "2026-07-05T20:20:38.412892"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -560,7 +560,7 @@
         "Bramblin": 8,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
-        "Binacle": 2,
+        "Binacle": 3,
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 5,
@@ -599,7 +599,7 @@
         "Wattrel": 11,
         "Nacli": 16,
         "Feebas": 2,
-        "Weedle": 8,
+        "Weedle": 9,
         "Ralts": 7,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -651,8 +651,8 @@
         "Steelix": 2,
         "Greninja": 1,
         "Dondozo": 8,
-        "Lairon": 3,
-        "Zubat": 10,
+        "Lairon": 4,
+        "Zubat": 11,
         "Croagunk": 3,
         "Klawf": 6,
         "Lombre": 2,
@@ -868,7 +868,7 @@
         "Sunkern": 3,
         "Wugtrio": 2,
         "Applin": 2,
-        "Venipede": 6,
+        "Venipede": 7,
         "Toedscruel": 1,
         "Dewpider": 3,
         "Pansear": 4,
@@ -971,7 +971,7 @@
         "Dhelmise": 1,
         "Porygon-z": 1,
         "Centiskorch": 1,
-        "Pidgeot": 1,
+        "Pidgeot": 2,
         "Appletun": 1,
         "Rhydon": 1,
         "Bruxish": 1,
@@ -1059,12 +1059,12 @@
         "Vibrava": 1,
         "Yamper": 1
       },
-      "total_spawns": 1578,
-      "last_spawn": "2026-07-05T20:20:14.511631"
+      "total_spawns": 1584,
+      "last_spawn": "2026-07-05T20:20:45.500817"
     }
   },
   "global": {
-    "total_spawns": 65221,
+    "total_spawns": 65232,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
