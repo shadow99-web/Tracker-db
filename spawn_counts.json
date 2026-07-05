@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 3,
-        "Shinx": 15,
+        "Shinx": 17,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 5,
@@ -323,7 +323,7 @@
         "Skitty": 3,
         "Finizen": 4,
         "Swablu": 1,
-        "Sunkern": 1,
+        "Sunkern": 2,
         "Snubbull": 1,
         "Crocalor": 1,
         "Magnemite": 4,
@@ -529,10 +529,11 @@
         "Droopy tatsugiri": 1,
         "Volcanion": 1,
         "Drapion": 1,
-        "Wartortle": 1
+        "Wartortle": 1,
+        "Midnight lycanroc": 1
       },
-      "total_spawns": 1251,
-      "last_spawn": "2026-07-05T20:36:08.227474"
+      "total_spawns": 1255,
+      "last_spawn": "2026-07-05T20:36:38.429744"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -890,7 +891,7 @@
         "Thievul": 1,
         "Gengar": 1,
         "Sunkern": 3,
-        "Wugtrio": 3,
+        "Wugtrio": 4,
         "Applin": 2,
         "Venipede": 8,
         "Toedscruel": 1,
@@ -1081,7 +1082,7 @@
         "Brambleghast": 1,
         "Victreebel": 1,
         "Vibrava": 1,
-        "Yamper": 2,
+        "Yamper": 3,
         "Eelektross": 1,
         "Quagsire": 1,
         "Sunflora": 1,
@@ -1099,14 +1100,15 @@
         "Midnight lycanroc": 1,
         "Floette": 1,
         "Phantump": 1,
-        "Probopass": 1
+        "Probopass": 1,
+        "Copperajah": 1
       },
-      "total_spawns": 1741,
-      "last_spawn": "2026-07-05T20:36:14.331348"
+      "total_spawns": 1744,
+      "last_spawn": "2026-07-05T20:36:44.993887"
     }
   },
   "global": {
-    "total_spawns": 65531,
+    "total_spawns": 65538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
