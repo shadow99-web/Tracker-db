@@ -418,7 +418,7 @@
         "Glimmora": 1,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 2,
+        "Whismur": 3,
         "Jangmo-o": 2,
         "Samurott": 1,
         "Kleavor": 1,
@@ -509,7 +509,7 @@
         "Duskull": 2,
         "Marill": 1,
         "Axew": 1,
-        "Tinkatink": 1,
+        "Tinkatink": 2,
         "Starly": 1,
         "Popplio": 1,
         "Watchog": 1,
@@ -565,14 +565,15 @@
         "Hippopotas": 1,
         "Chikorita": 1,
         "Litwick": 1,
-        "Metapod": 1
+        "Metapod": 1,
+        "Morgrem": 1
       },
-      "total_spawns": 231,
-      "last_spawn": "2026-07-05T15:20:14.501242"
+      "total_spawns": 234,
+      "last_spawn": "2026-07-05T15:20:44.634736"
     }
   },
   "global": {
-    "total_spawns": 63404,
+    "total_spawns": 63407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
