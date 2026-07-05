@@ -404,7 +404,7 @@
         "Mareep": 2,
         "Klink": 4,
         "Nymble": 3,
-        "Porygon": 7,
+        "Porygon": 8,
         "Abra": 6,
         "Oddish": 7,
         "Dedenne": 1,
@@ -443,7 +443,7 @@
         "Binacle": 2,
         "Kilowattrel": 2,
         "Skiploom": 2,
-        "Voltorb": 3,
+        "Voltorb": 4,
         "Geodude": 3,
         "Treecko": 1,
         "Grimer": 1,
@@ -469,7 +469,7 @@
         "Slowpoke": 1,
         "Seedot": 5,
         "Trapinch": 5,
-        "Hatenna": 3,
+        "Hatenna": 4,
         "Drifloon": 2,
         "Togepi": 7,
         "Snivy": 1,
@@ -781,14 +781,15 @@
         "Gabite": 1,
         "Toxel": 1,
         "Boldore": 1,
-        "Prof tangrowth": 1
+        "Prof tangrowth": 1,
+        "Corvisquire": 1
       },
-      "total_spawns": 821,
-      "last_spawn": "2026-07-05T17:00:34.810917"
+      "total_spawns": 825,
+      "last_spawn": "2026-07-05T17:01:14.398333"
     }
   },
   "global": {
-    "total_spawns": 64005,
+    "total_spawns": 64009,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
