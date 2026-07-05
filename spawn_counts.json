@@ -511,11 +511,11 @@
         "Wooloo": 2,
         "Togekiss": 1,
         "Rolycoly": 6,
-        "Duskull": 3,
+        "Duskull": 4,
         "Marill": 3,
         "Axew": 2,
         "Tinkatink": 3,
-        "Starly": 3,
+        "Starly": 4,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 7,
@@ -758,14 +758,15 @@
         "Drifblim": 1,
         "Arcanine": 1,
         "Lickitung": 1,
-        "Pyroar": 1
+        "Pyroar": 1,
+        "Oshawott": 1
       },
-      "total_spawns": 739,
-      "last_spawn": "2026-07-05T16:46:44.497715"
+      "total_spawns": 742,
+      "last_spawn": "2026-07-05T16:47:19.533559"
     }
   },
   "global": {
-    "total_spawns": 63923,
+    "total_spawns": 63926,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
