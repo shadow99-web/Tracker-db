@@ -69,7 +69,7 @@
         "Prof tangrowth": 3,
         "Vulpix": 1,
         "Gastly": 8,
-        "Aron": 3,
+        "Aron": 4,
         "Honedge": 16,
         "Houndour": 1,
         "Machop": 6,
@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 3,
-        "Sandile": 8,
+        "Sandile": 10,
         "Charmeleon": 3,
         "Riolu": 2,
         "Gible": 4,
@@ -488,10 +488,12 @@
         "Mudkip": 2,
         "Galarian zapdos": 1,
         "Empoleon": 1,
-        "Voltorb": 1
+        "Voltorb": 1,
+        "Hitmonchan": 1,
+        "Pidgeot": 1
       },
-      "total_spawns": 1051,
-      "last_spawn": "2026-07-05T20:14:09.054978"
+      "total_spawns": 1056,
+      "last_spawn": "2026-07-05T20:14:43.711489"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -500,7 +502,7 @@
         "Caterpie": 3,
         "Flaaffy": 4,
         "Bronzor": 1,
-        "Gible": 5,
+        "Gible": 6,
         "Torracat": 1,
         "Dusclops": 3,
         "Rhyhorn": 3,
@@ -622,9 +624,9 @@
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 14,
-        "Flamigo": 5,
+        "Flamigo": 6,
         "Stunky": 1,
-        "Spinarak": 2,
+        "Spinarak": 3,
         "Gligar": 1,
         "Cubone": 1,
         "Dracovish": 1,
@@ -692,7 +694,7 @@
         "Kadabra": 2,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
-        "Capsakid": 7,
+        "Capsakid": 8,
         "Tyrunt": 1,
         "Drilbur": 2,
         "Vaporeon": 3,
@@ -1030,14 +1032,16 @@
         "Relicanth": 1,
         "Patrat": 1,
         "Cottonee": 1,
-        "Butterfree": 1
+        "Butterfree": 1,
+        "Quaxly": 1,
+        "Guzzlord": 1
       },
-      "total_spawns": 1507,
-      "last_spawn": "2026-07-05T20:14:14.510463"
+      "total_spawns": 1513,
+      "last_spawn": "2026-07-05T20:14:44.675452"
     }
   },
   "global": {
-    "total_spawns": 65097,
+    "total_spawns": 65108,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
