@@ -102,7 +102,7 @@
         "Metagross": 2,
         "Corphish": 1,
         "Doduo": 3,
-        "Flittle": 3,
+        "Flittle": 4,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -458,7 +458,7 @@
         "Excadrill": 2,
         "Buizel": 2,
         "Pansear": 1,
-        "Yanma": 1,
+        "Yanma": 3,
         "Galarian moltres": 1,
         "Seismitoad": 2,
         "Galarian articuno": 1,
@@ -486,10 +486,12 @@
         "Altaria": 1,
         "Attack deoxys": 2,
         "Mudkip": 2,
-        "Galarian zapdos": 1
+        "Galarian zapdos": 1,
+        "Empoleon": 1,
+        "Voltorb": 1
       },
-      "total_spawns": 1046,
-      "last_spawn": "2026-07-05T20:13:38.301857"
+      "total_spawns": 1051,
+      "last_spawn": "2026-07-05T20:14:09.054978"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -506,7 +508,7 @@
         "Klink": 6,
         "Nymble": 6,
         "Porygon": 10,
-        "Abra": 7,
+        "Abra": 8,
         "Oddish": 8,
         "Dedenne": 2,
         "Gothita": 5,
@@ -545,7 +547,7 @@
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 5,
-        "Geodude": 8,
+        "Geodude": 9,
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
@@ -670,7 +672,7 @@
         "Rellor": 6,
         "Hippopotas": 3,
         "Chikorita": 5,
-        "Litwick": 8,
+        "Litwick": 9,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -704,7 +706,7 @@
         "Fearow": 1,
         "Vikavolt": 2,
         "Ledian": 2,
-        "Pineco": 3,
+        "Pineco": 4,
         "Vanillite": 8,
         "Omanyte": 5,
         "Scraggy": 2,
@@ -849,7 +851,7 @@
         "Sunkern": 3,
         "Wugtrio": 2,
         "Applin": 2,
-        "Venipede": 5,
+        "Venipede": 6,
         "Toedscruel": 1,
         "Dewpider": 2,
         "Pansear": 4,
@@ -1027,14 +1029,15 @@
         "Tentacool": 1,
         "Relicanth": 1,
         "Patrat": 1,
-        "Cottonee": 1
+        "Cottonee": 1,
+        "Butterfree": 1
       },
-      "total_spawns": 1501,
-      "last_spawn": "2026-07-05T20:13:44.496420"
+      "total_spawns": 1507,
+      "last_spawn": "2026-07-05T20:14:14.510463"
     }
   },
   "global": {
-    "total_spawns": 65086,
+    "total_spawns": 65097,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
