@@ -184,7 +184,7 @@
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 8,
+        "Charcadet": 10,
         "Mudsdale": 2,
         "Meowth": 4,
         "Charmander": 5,
@@ -246,7 +246,7 @@
         "Trumbeak": 1,
         "Bonsly": 1,
         "Growlithe": 2,
-        "Rhydon": 1,
+        "Rhydon": 2,
         "Ambipom": 2,
         "Solrock": 1,
         "Tinkatuff": 1,
@@ -296,7 +296,7 @@
         "Ceruledge": 1,
         "Vanillish": 2,
         "Gimmighoul": 5,
-        "Glimmet": 6,
+        "Glimmet": 7,
         "Popplio": 3,
         "Arboliva": 1,
         "Luxio": 1,
@@ -347,7 +347,7 @@
         "Chespin": 1,
         "Combee": 3,
         "Cyndaquil": 1,
-        "Grotle": 2,
+        "Grotle": 3,
         "Tinkaton": 1,
         "Bergmite": 2,
         "Klang": 2,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 6,
-        "Axew": 11,
+        "Axew": 13,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 1,
@@ -591,10 +591,11 @@
         "Flareon": 2,
         "Gengar": 2,
         "Spiritomb": 2,
-        "Gurdurr": 1
+        "Gurdurr": 1,
+        "Quilava": 1
       },
-      "total_spawns": 1603,
-      "last_spawn": "2026-07-05T21:11:24.340986"
+      "total_spawns": 1611,
+      "last_spawn": "2026-07-05T21:11:48.495929"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -696,7 +697,7 @@
         "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 12,
-        "Dreepy": 9,
+        "Dreepy": 10,
         "Foongus": 3,
         "Hoppip": 10,
         "Blipbug": 8,
@@ -1030,7 +1031,7 @@
         "Golbat": 4,
         "Shuppet": 4,
         "East sea gastrodon": 2,
-        "Grovyle": 1,
+        "Grovyle": 2,
         "Grumpig": 2,
         "White plumage squawkabilly": 4,
         "Koffing": 1,
@@ -1192,14 +1193,15 @@
         "Nidoqueen": 1,
         "Seel": 1,
         "Kabutops": 1,
-        "Unfezant": 1
+        "Unfezant": 1,
+        "Hisuian typhlosion": 1
       },
-      "total_spawns": 1945,
-      "last_spawn": "2026-07-05T21:11:24.803639"
+      "total_spawns": 1948,
+      "last_spawn": "2026-07-05T21:11:54.866343"
     }
   },
   "global": {
-    "total_spawns": 66087,
+    "total_spawns": 66098,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
