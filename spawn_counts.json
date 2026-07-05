@@ -133,7 +133,7 @@
         "Sandy burmy": 1,
         "Torchic": 1,
         "Abomasnow": 1,
-        "Slugma": 2,
+        "Slugma": 3,
         "Venonat": 1,
         "Eelektrik": 2,
         "Diglett": 3,
@@ -156,8 +156,8 @@
         "Wooper": 2,
         "Pikipek": 8,
         "Spritzee": 1,
-        "Stantler": 2,
-        "Impidimp": 8,
+        "Stantler": 3,
+        "Impidimp": 9,
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 2,
@@ -507,13 +507,13 @@
         "Breloom": 1,
         "Rillaboom": 2
       },
-      "total_spawns": 1112,
-      "last_spawn": "2026-07-05T20:21:08.194815"
+      "total_spawns": 1115,
+      "last_spawn": "2026-07-05T20:21:49.320857"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 12,
+        "Tandemaus": 13,
         "Caterpie": 3,
         "Flaaffy": 4,
         "Bronzor": 1,
@@ -789,7 +789,7 @@
         "Golurk": 4,
         "Carracosta": 1,
         "Fennekin": 3,
-        "Fuecoco": 1,
+        "Fuecoco": 2,
         "Sandy wormadam": 1,
         "Sprigatito": 2,
         "Bidoof": 2,
@@ -855,7 +855,7 @@
         "Frogadier": 5,
         "Golett": 2,
         "Mismagius": 1,
-        "Mudbray": 4,
+        "Mudbray": 5,
         "Weepinbell": 1,
         "East sea shellos": 5,
         "Flygon": 1,
@@ -960,7 +960,7 @@
         "Nidorina": 1,
         "Meowth": 3,
         "Shelmet": 1,
-        "Electabuzz": 1,
+        "Electabuzz": 2,
         "Galarian zen darmanitan": 1,
         "Greedent": 1,
         "Slowbro": 1,
@@ -1060,12 +1060,12 @@
         "Yamper": 1,
         "Eelektross": 1
       },
-      "total_spawns": 1591,
-      "last_spawn": "2026-07-05T20:21:17.473549"
+      "total_spawns": 1595,
+      "last_spawn": "2026-07-05T20:21:44.494337"
     }
   },
   "global": {
-    "total_spawns": 65242,
+    "total_spawns": 65249,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
