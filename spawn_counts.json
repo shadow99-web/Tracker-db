@@ -66,10 +66,10 @@
         "Deino": 9,
         "Dolliv": 1,
         "Feebas": 1,
-        "Prof tangrowth": 9,
+        "Prof tangrowth": 11,
         "Vulpix": 5,
         "Gastly": 14,
-        "Aron": 7,
+        "Aron": 8,
         "Honedge": 18,
         "Houndour": 1,
         "Machop": 9,
@@ -577,7 +577,7 @@
         "Venusaur": 2,
         "Quaquaval": 1,
         "Boldore": 1,
-        "Skorupi": 1,
+        "Skorupi": 2,
         "Probopass": 1,
         "Family of three maushold": 1,
         "Scyther": 4,
@@ -633,10 +633,13 @@
         "Komala": 1,
         "Poochyena": 1,
         "Hero palafin": 1,
-        "Klinklang": 1
+        "Klinklang": 1,
+        "Lickilicky": 2,
+        "Unown k": 2,
+        "Elekid": 1
       },
-      "total_spawns": 2014,
-      "last_spawn": "2026-07-05T21:48:53.796844"
+      "total_spawns": 2023,
+      "last_spawn": "2026-07-05T21:49:28.445076"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -876,7 +879,7 @@
         "Shellder": 4,
         "Pawmi": 7,
         "Spoink": 7,
-        "Lileep": 3,
+        "Lileep": 4,
         "Crocalor": 2,
         "Cranidos": 2,
         "Cherrim": 1,
@@ -1260,14 +1263,16 @@
         "Dragonair": 1,
         "Ivysaur": 1,
         "Machamp": 1,
-        "Absol": 1
+        "Absol": 1,
+        "Floragato": 1,
+        "Blue plumage squawkabilly": 1
       },
-      "total_spawns": 2166,
-      "last_spawn": "2026-07-05T21:48:54.397594"
+      "total_spawns": 2169,
+      "last_spawn": "2026-07-05T21:49:24.372370"
     }
   },
   "global": {
-    "total_spawns": 66719,
+    "total_spawns": 66731,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
