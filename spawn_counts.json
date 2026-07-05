@@ -198,7 +198,7 @@
         "Bagon": 1,
         "Pikachu": 2,
         "Tarountula": 4,
-        "Rhyhorn": 5,
+        "Rhyhorn": 6,
         "Aipom": 2,
         "Grookey": 1,
         "Inkay": 1,
@@ -534,10 +534,12 @@
         "Skiploom": 1,
         "Stakataka": 1,
         "Cascoon": 1,
-        "Sigilyph": 1
+        "Sigilyph": 2,
+        "Vibrava": 1,
+        "Shuckle": 1
       },
-      "total_spawns": 1278,
-      "last_spawn": "2026-07-05T20:38:53.704717"
+      "total_spawns": 1282,
+      "last_spawn": "2026-07-05T20:39:23.760153"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -666,7 +668,7 @@
         "Tinkatink": 6,
         "Starly": 11,
         "Popplio": 2,
-        "Watchog": 1,
+        "Watchog": 2,
         "Bounsweet": 15,
         "Flamigo": 7,
         "Stunky": 1,
@@ -701,7 +703,7 @@
         "Scatterbug": 11,
         "Taillow": 2,
         "Wimpod": 6,
-        "Rookidee": 9,
+        "Rookidee": 10,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 2,
@@ -965,7 +967,7 @@
         "Corsola": 1,
         "Gothitelle": 1,
         "Makuhita": 1,
-        "Barboach": 1,
+        "Barboach": 2,
         "Smeargle": 1,
         "Ceruledge": 1,
         "Swampert": 1,
@@ -1108,12 +1110,12 @@
         "Copperajah": 1,
         "Leavanny": 1
       },
-      "total_spawns": 1756,
-      "last_spawn": "2026-07-05T20:38:44.663654"
+      "total_spawns": 1759,
+      "last_spawn": "2026-07-05T20:39:14.359268"
     }
   },
   "global": {
-    "total_spawns": 65573,
+    "total_spawns": 65580,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
