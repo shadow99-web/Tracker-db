@@ -1315,7 +1315,7 @@
         "Stantler": 1,
         "Impidimp": 1,
         "Swadloon": 1,
-        "Sunny castform": 1,
+        "Sunny castform": 2,
         "Vullaby": 1,
         "Venipede": 1,
         "Pansage": 2,
@@ -1354,7 +1354,7 @@
         "Bagon": 1,
         "Pikachu": 2,
         "Tarountula": 1,
-        "Rhyhorn": 1,
+        "Rhyhorn": 2,
         "Aipom": 2,
         "Grookey": 1,
         "Inkay": 1,
@@ -1441,7 +1441,7 @@
         "Hattrem": 1,
         "Trash wormadam": 1,
         "Purrloin": 1,
-        "Zigzagoon": 1,
+        "Zigzagoon": 2,
         "Quilladin": 1,
         "Infernape": 1,
         "Noibat": 1,
@@ -1473,14 +1473,15 @@
         "Bellibolt": 1,
         "Toedscool": 1,
         "Paras": 1,
-        "Fletchinder": 1
+        "Fletchinder": 1,
+        "Staravia": 1
       },
-      "total_spawns": 473,
-      "last_spawn": "2026-07-05T04:10:33.755484"
+      "total_spawns": 477,
+      "last_spawn": "2026-07-05T04:11:13.763017"
     }
   },
   "global": {
-    "total_spawns": 63012,
+    "total_spawns": 63016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
