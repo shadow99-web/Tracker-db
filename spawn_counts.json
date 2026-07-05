@@ -393,7 +393,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 7,
+        "Tandemaus": 8,
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
@@ -471,7 +471,7 @@
         "Trapinch": 4,
         "Hatenna": 3,
         "Drifloon": 2,
-        "Togepi": 2,
+        "Togepi": 3,
         "Snivy": 1,
         "Bellsprout": 2,
         "Scorbunny": 2,
@@ -726,14 +726,15 @@
         "Electrike": 1,
         "Kabuto": 1,
         "Chewtle": 1,
-        "Drakloak": 1
+        "Drakloak": 1,
+        "Pawmo": 1
       },
-      "total_spawns": 604,
-      "last_spawn": "2026-07-05T16:23:24.343988"
+      "total_spawns": 607,
+      "last_spawn": "2026-07-05T16:23:54.348005"
     }
   },
   "global": {
-    "total_spawns": 63788,
+    "total_spawns": 63791,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
