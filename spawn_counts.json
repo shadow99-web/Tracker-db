@@ -483,7 +483,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 3,
-        "Horsea": 2,
+        "Horsea": 3,
         "Teddiursa": 1,
         "Dratini": 1,
         "Sewaddle": 2,
@@ -517,7 +517,7 @@
         "Starly": 3,
         "Popplio": 1,
         "Watchog": 1,
-        "Bounsweet": 4,
+        "Bounsweet": 5,
         "Flamigo": 2,
         "Stunky": 1,
         "Spinarak": 1,
@@ -561,7 +561,7 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 2,
-        "Swinub": 2,
+        "Swinub": 3,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -651,14 +651,15 @@
         "Scovillain": 1,
         "Sliggoo": 1,
         "Silcoon": 1,
-        "Tadbulb": 1
+        "Tadbulb": 1,
+        "Lopunny": 1
       },
-      "total_spawns": 401,
-      "last_spawn": "2026-07-05T15:48:54.695546"
+      "total_spawns": 405,
+      "last_spawn": "2026-07-05T15:49:34.497972"
     }
   },
   "global": {
-    "total_spawns": 63583,
+    "total_spawns": 63587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
