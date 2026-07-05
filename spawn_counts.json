@@ -454,7 +454,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 1,
-        "Sandile": 1,
+        "Sandile": 2,
         "Maushold": 1,
         "Rattata": 2,
         "Riolu": 1,
@@ -501,14 +501,17 @@
         "Poliwrath": 1,
         "Combusken": 1,
         "Bombirdier": 1,
-        "Wooloo": 1
+        "Wooloo": 1,
+        "Togekiss": 1,
+        "Rolycoly": 1,
+        "Duskull": 1
       },
-      "total_spawns": 133,
-      "last_spawn": "2026-07-05T15:03:24.504373"
+      "total_spawns": 137,
+      "last_spawn": "2026-07-05T15:04:05.898479"
     }
   },
   "global": {
-    "total_spawns": 63302,
+    "total_spawns": 63306,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
