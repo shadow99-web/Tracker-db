@@ -36,7 +36,7 @@
         "Whirlipede": 2,
         "Duskull": 6,
         "Abra": 5,
-        "Wiglett": 3,
+        "Wiglett": 4,
         "Starly": 6,
         "Caterpie": 3,
         "Mareep": 3,
@@ -357,7 +357,7 @@
         "Barboach": 1,
         "Nosepass": 1,
         "Electrike": 1,
-        "Hoppip": 2,
+        "Hoppip": 3,
         "Slowbro": 1,
         "Gholdengo": 2,
         "Trubbish": 1,
@@ -417,10 +417,11 @@
         "Shelmet": 1,
         "Combusken": 1,
         "Croagunk": 2,
-        "Mothim": 2
+        "Mothim": 2,
+        "Crabominable": 1
       },
-      "total_spawns": 784,
-      "last_spawn": "2026-07-05T19:45:43.517993"
+      "total_spawns": 787,
+      "last_spawn": "2026-07-05T19:46:13.738273"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -920,7 +921,7 @@
     }
   },
   "global": {
-    "total_spawns": 64615,
+    "total_spawns": 64618,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
