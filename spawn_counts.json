@@ -430,7 +430,7 @@
         "Karrablast": 2,
         "Timburr": 3,
         "Pidgey": 4,
-        "Gimmighoul": 4,
+        "Gimmighoul": 5,
         "Cetoddle": 6,
         "Fidough": 5,
         "Smearguru": 2,
@@ -808,14 +808,16 @@
         "Snom": 1,
         "Noibat": 1,
         "Turtwig": 1,
-        "Snubbull": 1
+        "Snubbull": 1,
+        "Gogoat": 1,
+        "Morelull": 1
       },
-      "total_spawns": 932,
-      "last_spawn": "2026-07-05T17:19:14.626883"
+      "total_spawns": 935,
+      "last_spawn": "2026-07-05T17:19:44.518242"
     }
   },
   "global": {
-    "total_spawns": 64117,
+    "total_spawns": 64120,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
