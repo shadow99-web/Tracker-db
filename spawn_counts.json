@@ -60,7 +60,7 @@
         "Lillipup": 7,
         "Mosslax": 16,
         "Maushold": 3,
-        "Cubchoo": 7,
+        "Cubchoo": 9,
         "Koffing": 3,
         "Kirlia": 3,
         "Deino": 9,
@@ -661,10 +661,11 @@
         "Omastar": 1,
         "Gabite": 2,
         "Tapu fini": 2,
-        "Gyarados": 2
+        "Gyarados": 2,
+        "Lapras": 1
       },
-      "total_spawns": 2273,
-      "last_spawn": "2026-07-05T22:23:23.699567"
+      "total_spawns": 2276,
+      "last_spawn": "2026-07-05T22:24:04.012958"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -794,7 +795,7 @@
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
-        "Bounsweet": 17,
+        "Bounsweet": 18,
         "Flamigo": 11,
         "Stunky": 2,
         "Spinarak": 3,
@@ -917,7 +918,7 @@
         "Squirtle": 3,
         "Wingull": 1,
         "Buneary": 7,
-        "Skiddo": 4,
+        "Skiddo": 5,
         "Zigzagoon": 4,
         "Dj rotom": 6,
         "Anorith": 3,
@@ -1078,7 +1079,7 @@
         "Pumpkaboo": 2,
         "Banette": 1,
         "Tympole": 9,
-        "Bunnelby": 3,
+        "Bunnelby": 4,
         "Vanillish": 2,
         "Arrokuda": 2,
         "Snom": 2,
@@ -1310,12 +1311,12 @@
         "Bulbasaur": 1,
         "Stantler": 1
       },
-      "total_spawns": 2370,
-      "last_spawn": "2026-07-05T22:23:24.724683"
+      "total_spawns": 2373,
+      "last_spawn": "2026-07-05T22:23:54.495780"
     }
   },
   "global": {
-    "total_spawns": 67182,
+    "total_spawns": 67188,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
