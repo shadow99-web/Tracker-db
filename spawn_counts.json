@@ -383,10 +383,11 @@
         "Klink": 1,
         "Mesprit": 1,
         "Azelf": 1,
-        "Clodsire": 1
+        "Clodsire": 1,
+        "Charizard": 1
       },
-      "total_spawns": 640,
-      "last_spawn": "2026-07-05T15:35:23.098148"
+      "total_spawns": 641,
+      "last_spawn": "2026-07-05T15:41:43.996494"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -516,7 +517,7 @@
         "Starly": 2,
         "Popplio": 1,
         "Watchog": 1,
-        "Bounsweet": 3,
+        "Bounsweet": 4,
         "Flamigo": 2,
         "Stunky": 1,
         "Spinarak": 1,
@@ -633,14 +634,15 @@
         "Raboot": 2,
         "Summer deerling": 1,
         "Skrelp": 1,
-        "Spewpa": 1
+        "Spewpa": 1,
+        "Fomantis": 1
       },
-      "total_spawns": 355,
-      "last_spawn": "2026-07-05T15:41:04.435652"
+      "total_spawns": 357,
+      "last_spawn": "2026-07-05T15:41:24.531075"
     }
   },
   "global": {
-    "total_spawns": 63534,
+    "total_spawns": 63537,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
