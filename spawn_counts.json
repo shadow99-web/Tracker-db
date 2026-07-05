@@ -525,7 +525,7 @@
         "Gligar": 1,
         "Cubone": 1,
         "Dracovish": 1,
-        "Deino": 1,
+        "Deino": 2,
         "Honedge": 1,
         "Litleo": 1,
         "Steelix": 2,
@@ -602,7 +602,7 @@
         "Munkidori": 1,
         "Fearow": 1,
         "Vikavolt": 2,
-        "Ledian": 1,
+        "Ledian": 2,
         "Pineco": 1,
         "Vanillite": 1,
         "Omanyte": 3,
@@ -708,14 +708,15 @@
         "Minccino": 1,
         "Charmander": 1,
         "Misdreavus": 1,
-        "Growlithe": 1
+        "Growlithe": 1,
+        "Arctozolt": 1
       },
-      "total_spawns": 545,
-      "last_spawn": "2026-07-05T16:13:34.577831"
+      "total_spawns": 548,
+      "last_spawn": "2026-07-05T16:14:06.197627"
     }
   },
   "global": {
-    "total_spawns": 63729,
+    "total_spawns": 63732,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
