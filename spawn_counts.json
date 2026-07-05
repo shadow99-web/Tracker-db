@@ -721,7 +721,7 @@
         "Smearguru": 8,
         "Nuzleaf": 3,
         "Clauncher": 2,
-        "Cetitan": 4,
+        "Cetitan": 5,
         "Bramblin": 15,
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
@@ -833,11 +833,11 @@
         "Quaquaval": 4,
         "Rapidash": 3,
         "Maschiff": 12,
-        "Sensu oricorio": 2,
+        "Sensu oricorio": 3,
         "Scatterbug": 17,
-        "Taillow": 3,
+        "Taillow": 4,
         "Wimpod": 6,
-        "Rookidee": 15,
+        "Rookidee": 16,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 4,
@@ -1355,12 +1355,12 @@
         "Mienfoo": 1,
         "Rainy castform": 1
       },
-      "total_spawns": 2644,
-      "last_spawn": "2026-07-05T23:09:34.557485"
+      "total_spawns": 2648,
+      "last_spawn": "2026-07-05T23:10:14.328534"
     }
   },
   "global": {
-    "total_spawns": 67559,
+    "total_spawns": 67563,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
