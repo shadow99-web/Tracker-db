@@ -110,7 +110,7 @@
         "Magnezone": 1,
         "Eevee": 4,
         "Dreepy": 21,
-        "Treecko": 6,
+        "Treecko": 8,
         "Shroodle": 4,
         "Ride cyclizar": 1,
         "Swinub": 11,
@@ -528,7 +528,7 @@
         "Politoed": 2,
         "Droopy tatsugiri": 1,
         "Volcanion": 1,
-        "Drapion": 1,
+        "Drapion": 2,
         "Wartortle": 1,
         "Midnight lycanroc": 1,
         "Skiploom": 1,
@@ -567,7 +567,7 @@
         "Farfetch'd": 2,
         "Grafaiai": 1,
         "Fearow": 1,
-        "Squawkabilly": 1,
+        "Squawkabilly": 2,
         "Seadra": 1,
         "Sealeo": 1,
         "Baltoy": 1,
@@ -644,8 +644,8 @@
         "Amped toxtricity": 2,
         "Scizor": 2
       },
-      "total_spawns": 2115,
-      "last_spawn": "2026-07-05T21:59:13.518263"
+      "total_spawns": 2119,
+      "last_spawn": "2026-07-05T21:59:43.720577"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -669,7 +669,7 @@
         "Finizen": 12,
         "Machop": 12,
         "Psyduck": 6,
-        "Monferno": 1,
+        "Monferno": 2,
         "Pikipek": 8,
         "Flittle": 7,
         "Lillipup": 8,
@@ -801,7 +801,7 @@
         "Sizzlipede": 7,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 11,
+        "Tynamo": 12,
         "Quaquaval": 4,
         "Rapidash": 3,
         "Maschiff": 12,
@@ -861,7 +861,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 4,
-        "Vanillite": 10,
+        "Vanillite": 11,
         "Omanyte": 5,
         "Scraggy": 2,
         "Komala": 1,
@@ -1276,12 +1276,12 @@
         "Gloom": 1,
         "Plusle": 1
       },
-      "total_spawns": 2226,
-      "last_spawn": "2026-07-05T21:59:04.377452"
+      "total_spawns": 2229,
+      "last_spawn": "2026-07-05T21:59:34.695532"
     }
   },
   "global": {
-    "total_spawns": 66880,
+    "total_spawns": 66887,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
