@@ -984,7 +984,7 @@
         "Pikachu": 2,
         "Yungoos": 5,
         "Luxio": 5,
-        "Frigibax": 13,
+        "Frigibax": 14,
         "Krokorok": 3,
         "Snorunt": 4,
         "Meganium": 1,
@@ -1102,7 +1102,7 @@
         "Snubbull": 3,
         "Gogoat": 1,
         "Morelull": 5,
-        "Dewott": 3,
+        "Dewott": 4,
         "Kingambit": 3,
         "Corsola": 1,
         "Gothitelle": 2,
@@ -1378,14 +1378,15 @@
         "Dudunsparce": 1,
         "Dialga": 1,
         "Joltik": 1,
-        "Unown s": 1
+        "Unown s": 1,
+        "Dusknoir": 1
       },
-      "total_spawns": 2874,
-      "last_spawn": "2026-07-05T23:48:44.352033"
+      "total_spawns": 2877,
+      "last_spawn": "2026-07-05T23:49:14.776467"
     }
   },
   "global": {
-    "total_spawns": 67878,
+    "total_spawns": 67881,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
