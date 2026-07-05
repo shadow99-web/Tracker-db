@@ -391,7 +391,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 2,
+        "Tandemaus": 3,
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
@@ -459,7 +459,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 3,
-        "Sandile": 4,
+        "Sandile": 5,
         "Maushold": 2,
         "Rattata": 4,
         "Riolu": 2,
@@ -546,7 +546,7 @@
         "Quaquaval": 2,
         "Rapidash": 1,
         "Maschiff": 1,
-        "Sensu oricorio": 1,
+        "Sensu oricorio": 2,
         "Scatterbug": 2,
         "Taillow": 1,
         "Wimpod": 1,
@@ -572,7 +572,7 @@
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 1,
-        "Croconaw": 1,
+        "Croconaw": 2,
         "Smoliv": 2,
         "Lechonk": 1,
         "Clodsire": 1,
@@ -631,12 +631,12 @@
         "Cranidos": 1,
         "Cherrim": 1
       },
-      "total_spawns": 343,
-      "last_spawn": "2026-07-05T15:39:06.264763"
+      "total_spawns": 347,
+      "last_spawn": "2026-07-05T15:39:44.598109"
     }
   },
   "global": {
-    "total_spawns": 63522,
+    "total_spawns": 63526,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
