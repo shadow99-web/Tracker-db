@@ -377,10 +377,11 @@
         "Reshiram": 1,
         "Celebi": 1,
         "Morelull": 1,
-        "Unown": 3
+        "Unown": 3,
+        "Poltchageist": 1
       },
-      "total_spawns": 629,
-      "last_spawn": "2026-07-05T14:58:55.630327"
+      "total_spawns": 630,
+      "last_spawn": "2026-07-05T15:01:32.602903"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -406,7 +407,7 @@
         "Psyduck": 1,
         "Monferno": 1,
         "Pikipek": 1,
-        "Flittle": 1,
+        "Flittle": 2,
         "Lillipup": 1,
         "Eevee": 1,
         "Shroomish": 1,
@@ -489,14 +490,16 @@
         "Swoobat": 1,
         "Greavard": 1,
         "Mosslax": 1,
-        "Braixen": 1
+        "Braixen": 1,
+        "Skwovet": 1,
+        "Magnemite": 1
       },
-      "total_spawns": 119,
-      "last_spawn": "2026-07-05T15:00:55.983114"
+      "total_spawns": 122,
+      "last_spawn": "2026-07-05T15:01:24.520750"
     }
   },
   "global": {
-    "total_spawns": 63287,
+    "total_spawns": 63291,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
