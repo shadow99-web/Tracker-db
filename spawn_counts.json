@@ -43,7 +43,7 @@
         "Capsakid": 8,
         "Numel": 3,
         "Pawmo": 2,
-        "Wattrel": 4,
+        "Wattrel": 5,
         "Tadbulb": 7,
         "Yanmega": 1,
         "Tympole": 7,
@@ -54,7 +54,7 @@
         "Staryu": 1,
         "Maschiff": 5,
         "Smoliv": 3,
-        "Tirtouga": 3,
+        "Tirtouga": 4,
         "Hatenna": 8,
         "Shroomish": 3,
         "Lillipup": 4,
@@ -82,7 +82,7 @@
         "Bramblin": 5,
         "Stufful": 3,
         "Shelgon": 1,
-        "Marshtomp": 1,
+        "Marshtomp": 3,
         "Squirtle": 3,
         "Shinx": 21,
         "Drakloak": 3,
@@ -116,14 +116,14 @@
         "Swinub": 8,
         "Rattata": 4,
         "Stonjourner": 1,
-        "Veluza": 6,
+        "Veluza": 8,
         "Panpour": 3,
         "Crabrawler": 3,
         "Frogadier": 2,
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
-        "Rookidee": 7,
+        "Rookidee": 9,
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 2,
@@ -140,7 +140,7 @@
         "Surskit": 2,
         "Seedot": 6,
         "Jigglypuff": 1,
-        "Spearow": 1,
+        "Spearow": 2,
         "Servine": 2,
         "Wugtrio": 4,
         "Tranquill": 2,
@@ -221,7 +221,7 @@
         "Graveler": 1,
         "Duosion": 1,
         "Orthworm": 6,
-        "Yamask": 1,
+        "Yamask": 2,
         "Nymble": 4,
         "Snorunt": 1,
         "Carvanha": 2,
@@ -578,10 +578,11 @@
         "Quaquaval": 1,
         "Boldore": 1,
         "Skorupi": 1,
-        "Probopass": 1
+        "Probopass": 1,
+        "Family of three maushold": 1
       },
-      "total_spawns": 1518,
-      "last_spawn": "2026-07-05T21:06:43.765182"
+      "total_spawns": 1529,
+      "last_spawn": "2026-07-05T21:07:14.768326"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -594,7 +595,7 @@
         "Torracat": 2,
         "Dusclops": 3,
         "Rhyhorn": 5,
-        "Mareep": 7,
+        "Mareep": 8,
         "Klink": 8,
         "Nymble": 9,
         "Porygon": 13,
@@ -641,7 +642,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 12,
+        "Gastly": 13,
         "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
@@ -946,7 +947,7 @@
         "Dewpider": 4,
         "Pansear": 4,
         "Togetic": 3,
-        "Houndstone": 5,
+        "Houndstone": 6,
         "Ponyta": 1,
         "Drifblim": 1,
         "Arcanine": 1,
@@ -1176,12 +1177,12 @@
         "Venusaur": 1,
         "Spearow": 1
       },
-      "total_spawns": 1918,
-      "last_spawn": "2026-07-05T21:06:24.505389"
+      "total_spawns": 1921,
+      "last_spawn": "2026-07-05T21:07:04.350786"
     }
   },
   "global": {
-    "total_spawns": 65975,
+    "total_spawns": 65989,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
