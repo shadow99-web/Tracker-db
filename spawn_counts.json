@@ -121,7 +121,7 @@
         "Crabrawler": 3,
         "Frogadier": 3,
         "Scovillain": 1,
-        "White plumage squawkabilly": 1,
+        "White plumage squawkabilly": 2,
         "Flaaffy": 2,
         "Rookidee": 9,
         "Flapple": 4,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 3,
-        "Teddiursa": 13,
+        "Teddiursa": 15,
         "Roggenrola": 11,
         "Litwick": 5,
         "Wooper": 2,
@@ -176,7 +176,7 @@
         "Poliwhirl": 4,
         "Lokix": 3,
         "Flamigo": 5,
-        "Bellsprout": 11,
+        "Bellsprout": 12,
         "Houndstone": 1,
         "Beldum": 7,
         "Kadabra": 4,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 3,
         "Pikachu": 4,
-        "Tarountula": 6,
+        "Tarountula": 7,
         "Rhyhorn": 7,
         "Aipom": 2,
         "Grookey": 4,
@@ -223,7 +223,7 @@
         "Orthworm": 7,
         "Yamask": 2,
         "Nymble": 4,
-        "Snorunt": 1,
+        "Snorunt": 2,
         "Carvanha": 2,
         "Toxel": 3,
         "Buneary": 2,
@@ -390,7 +390,7 @@
         "Gulpin": 1,
         "Mareanie": 2,
         "Throh": 1,
-        "Sentret": 2,
+        "Sentret": 3,
         "Houndoom": 1,
         "Meganium": 2,
         "Rainy castform": 2,
@@ -603,10 +603,11 @@
         "Cubone": 1,
         "Conkeldurr": 1,
         "Sinistea": 1,
-        "Golbat": 1
+        "Golbat": 1,
+        "Amoonguss": 1
       },
-      "total_spawns": 1743,
-      "last_spawn": "2026-07-05T21:19:18.396472"
+      "total_spawns": 1751,
+      "last_spawn": "2026-07-05T21:19:53.527472"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -861,7 +862,7 @@
         "Buneary": 6,
         "Skiddo": 3,
         "Zigzagoon": 1,
-        "Dj rotom": 5,
+        "Dj rotom": 6,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 6,
@@ -999,7 +1000,7 @@
         "Gabite": 2,
         "Toxel": 3,
         "Boldore": 1,
-        "Prof tangrowth": 3,
+        "Prof tangrowth": 4,
         "Corvisquire": 4,
         "Lokix": 4,
         "Charmeleon": 4,
@@ -1052,7 +1053,7 @@
         "Paras": 3,
         "Crobat": 1,
         "Pignite": 1,
-        "Gulpin": 2,
+        "Gulpin": 3,
         "Vullaby": 2,
         "Burmy": 1,
         "Nidorina": 1,
@@ -1213,12 +1214,12 @@
         "Staryu": 1,
         "Golem": 1
       },
-      "total_spawns": 1991,
-      "last_spawn": "2026-07-05T21:19:14.341044"
+      "total_spawns": 1994,
+      "last_spawn": "2026-07-05T21:19:44.601782"
     }
   },
   "global": {
-    "total_spawns": 66273,
+    "total_spawns": 66284,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
