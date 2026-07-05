@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 4,
         "Surskit": 2,
-        "Seedot": 7,
+        "Seedot": 8,
         "Jigglypuff": 1,
         "Spearow": 2,
         "Servine": 2,
@@ -158,7 +158,7 @@
         "Spritzee": 1,
         "Stantler": 3,
         "Impidimp": 12,
-        "Swadloon": 3,
+        "Swadloon": 4,
         "Sunny castform": 4,
         "Vullaby": 3,
         "Venipede": 7,
@@ -184,7 +184,7 @@
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 10,
+        "Charcadet": 12,
         "Mudsdale": 2,
         "Meowth": 4,
         "Charmander": 5,
@@ -340,10 +340,10 @@
         "Furfrou": 1,
         "Ursaring": 1,
         "Bidoof": 2,
-        "Gothita": 4,
+        "Gothita": 5,
         "Solosis": 7,
         "Sandygast": 2,
-        "Pidove": 2,
+        "Pidove": 3,
         "Chespin": 1,
         "Combee": 3,
         "Cyndaquil": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
-        "Spheal": 5,
+        "Spheal": 6,
         "Amaura": 1,
         "Wailord": 1,
         "Accelgor": 2,
@@ -594,10 +594,11 @@
         "Gurdurr": 1,
         "Quilava": 1,
         "Wurmple": 2,
-        "Sandshrew": 1
+        "Sandshrew": 1,
+        "Tauros": 1
       },
-      "total_spawns": 1650,
-      "last_spawn": "2026-07-05T21:13:33.755316"
+      "total_spawns": 1658,
+      "last_spawn": "2026-07-05T21:14:05.257033"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -982,7 +983,7 @@
         "Wiglett": 7,
         "Carkol": 2,
         "Solosis": 5,
-        "Flapple": 1,
+        "Flapple": 2,
         "Hippowdon": 1,
         "Helioptile": 1,
         "Furfrou": 2,
@@ -991,7 +992,7 @@
         "Toxel": 3,
         "Boldore": 1,
         "Prof tangrowth": 3,
-        "Corvisquire": 3,
+        "Corvisquire": 4,
         "Lokix": 4,
         "Charmeleon": 4,
         "Spidops": 2,
@@ -1092,7 +1093,7 @@
         "Glastrier": 1,
         "Crabrawler": 2,
         "Onix": 1,
-        "Arctibax": 1,
+        "Arctibax": 2,
         "Shelgon": 2,
         "Dracozolt": 1,
         "Stufful": 2,
@@ -1198,12 +1199,12 @@
         "Unfezant": 1,
         "Hisuian typhlosion": 1
       },
-      "total_spawns": 1958,
-      "last_spawn": "2026-07-05T21:13:34.402061"
+      "total_spawns": 1961,
+      "last_spawn": "2026-07-05T21:14:04.333746"
     }
   },
   "global": {
-    "total_spawns": 66147,
+    "total_spawns": 66158,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
