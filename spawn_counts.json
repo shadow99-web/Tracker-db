@@ -53,7 +53,7 @@
         "Applin": 2,
         "Staryu": 1,
         "Maschiff": 6,
-        "Smoliv": 3,
+        "Smoliv": 4,
         "Tirtouga": 4,
         "Hatenna": 8,
         "Shroomish": 3,
@@ -644,10 +644,12 @@
         "Amped toxtricity": 2,
         "Scizor": 2,
         "Shiinotic": 2,
-        "Simisage": 2
+        "Simisage": 2,
+        "Cherubi": 1,
+        "Heatmor": 1
       },
-      "total_spawns": 2128,
-      "last_spawn": "2026-07-05T22:00:44.595332"
+      "total_spawns": 2131,
+      "last_spawn": "2026-07-05T22:01:13.782007"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -752,7 +754,7 @@
         "Dreepy": 11,
         "Foongus": 3,
         "Hoppip": 11,
-        "Blipbug": 8,
+        "Blipbug": 9,
         "Swoobat": 1,
         "Greavard": 9,
         "Mosslax": 11,
@@ -1071,7 +1073,7 @@
         "Gogoat": 1,
         "Morelull": 3,
         "Dewott": 2,
-        "Kingambit": 2,
+        "Kingambit": 3,
         "Corsola": 1,
         "Gothitelle": 1,
         "Makuhita": 1,
@@ -1276,14 +1278,16 @@
         "Blue plumage squawkabilly": 1,
         "Petilil": 1,
         "Gloom": 1,
-        "Plusle": 1
+        "Plusle": 1,
+        "Torkoal": 1,
+        "Camerupt": 1
       },
-      "total_spawns": 2235,
-      "last_spawn": "2026-07-05T22:00:34.353582"
+      "total_spawns": 2239,
+      "last_spawn": "2026-07-05T22:01:14.626092"
     }
   },
   "global": {
-    "total_spawns": 66902,
+    "total_spawns": 66909,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
