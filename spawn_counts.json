@@ -29,7 +29,7 @@
         "Tynamo": 6,
         "Palossand": 2,
         "Pyukumuku": 1,
-        "Pidgey": 11,
+        "Pidgey": 12,
         "Binacle": 4,
         "Bounsweet": 12,
         "Fletchling": 6,
@@ -66,7 +66,7 @@
         "Deino": 9,
         "Dolliv": 1,
         "Feebas": 1,
-        "Prof tangrowth": 11,
+        "Prof tangrowth": 13,
         "Vulpix": 5,
         "Gastly": 14,
         "Aron": 8,
@@ -198,7 +198,7 @@
         "Bagon": 7,
         "Pikachu": 4,
         "Tarountula": 7,
-        "Rhyhorn": 7,
+        "Rhyhorn": 8,
         "Aipom": 2,
         "Grookey": 4,
         "Inkay": 1,
@@ -342,7 +342,7 @@
         "Bidoof": 2,
         "Gothita": 5,
         "Solosis": 11,
-        "Sandygast": 2,
+        "Sandygast": 3,
         "Pidove": 5,
         "Chespin": 1,
         "Combee": 4,
@@ -644,8 +644,8 @@
         "Amped toxtricity": 2,
         "Scizor": 2
       },
-      "total_spawns": 2110,
-      "last_spawn": "2026-07-05T21:58:33.696084"
+      "total_spawns": 2115,
+      "last_spawn": "2026-07-05T21:59:13.518263"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -662,7 +662,7 @@
         "Klink": 8,
         "Nymble": 12,
         "Porygon": 14,
-        "Abra": 15,
+        "Abra": 16,
         "Oddish": 14,
         "Dedenne": 2,
         "Gothita": 10,
@@ -730,7 +730,7 @@
         "Drifloon": 3,
         "Togepi": 9,
         "Snivy": 2,
-        "Bellsprout": 8,
+        "Bellsprout": 9,
         "Scorbunny": 2,
         "Roggenrola": 14,
         "Wattrel": 13,
@@ -1273,14 +1273,15 @@
         "Floragato": 1,
         "Blue plumage squawkabilly": 1,
         "Petilil": 1,
-        "Gloom": 1
+        "Gloom": 1,
+        "Plusle": 1
       },
-      "total_spawns": 2223,
-      "last_spawn": "2026-07-05T21:58:34.407602"
+      "total_spawns": 2226,
+      "last_spawn": "2026-07-05T21:59:04.377452"
     }
   },
   "global": {
-    "total_spawns": 66872,
+    "total_spawns": 66880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
