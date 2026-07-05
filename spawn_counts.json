@@ -55,7 +55,7 @@
         "Maschiff": 2,
         "Smoliv": 3,
         "Tirtouga": 3,
-        "Hatenna": 4,
+        "Hatenna": 6,
         "Shroomish": 3,
         "Lillipup": 3,
         "Mosslax": 10,
@@ -109,7 +109,7 @@
         "Bayleef": 1,
         "Magnezone": 1,
         "Eevee": 2,
-        "Dreepy": 9,
+        "Dreepy": 11,
         "Treecko": 4,
         "Shroodle": 4,
         "Ride cyclizar": 1,
@@ -157,7 +157,7 @@
         "Pikipek": 8,
         "Spritzee": 1,
         "Stantler": 3,
-        "Impidimp": 9,
+        "Impidimp": 10,
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 2,
@@ -505,10 +505,12 @@
         "Spinarak": 1,
         "Goomy": 1,
         "Breloom": 1,
-        "Rillaboom": 2
+        "Rillaboom": 2,
+        "Hippopotas": 1,
+        "Reuniclus": 1
       },
-      "total_spawns": 1115,
-      "last_spawn": "2026-07-05T20:21:49.320857"
+      "total_spawns": 1122,
+      "last_spawn": "2026-07-05T20:22:19.402001"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -525,10 +527,10 @@
         "Klink": 7,
         "Nymble": 7,
         "Porygon": 10,
-        "Abra": 9,
+        "Abra": 10,
         "Oddish": 8,
         "Dedenne": 2,
-        "Gothita": 5,
+        "Gothita": 7,
         "Finizen": 9,
         "Machop": 8,
         "Psyduck": 4,
@@ -600,7 +602,7 @@
         "Nacli": 16,
         "Feebas": 2,
         "Weedle": 9,
-        "Ralts": 7,
+        "Ralts": 8,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 7,
@@ -689,7 +691,7 @@
         "Rellor": 7,
         "Hippopotas": 3,
         "Chikorita": 5,
-        "Litwick": 10,
+        "Litwick": 11,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -753,7 +755,7 @@
         "Cranidos": 1,
         "Cherrim": 1,
         "Raboot": 4,
-        "Summer deerling": 3,
+        "Summer deerling": 4,
         "Skrelp": 3,
         "Spewpa": 2,
         "Fomantis": 2,
@@ -1060,12 +1062,12 @@
         "Yamper": 1,
         "Eelektross": 1
       },
-      "total_spawns": 1595,
-      "last_spawn": "2026-07-05T20:21:44.494337"
+      "total_spawns": 1601,
+      "last_spawn": "2026-07-05T20:22:19.196797"
     }
   },
   "global": {
-    "total_spawns": 65249,
+    "total_spawns": 65262,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
