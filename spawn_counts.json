@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 3,
         "Luvdisc": 1,
-        "Fennekin": 4,
+        "Fennekin": 5,
         "Milcery": 5,
         "Trumbeak": 2,
         "Bonsly": 1,
@@ -671,8 +671,8 @@
         "Obstagoon": 2,
         "Greninja": 1
       },
-      "total_spawns": 2358,
-      "last_spawn": "2026-07-05T22:59:13.541393"
+      "total_spawns": 2359,
+      "last_spawn": "2026-07-05T22:59:53.684295"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -716,7 +716,7 @@
         "Pidgey": 7,
         "Gimmighoul": 10,
         "Cetoddle": 14,
-        "Fidough": 14,
+        "Fidough": 15,
         "Smearguru": 8,
         "Nuzleaf": 3,
         "Clauncher": 2,
@@ -976,7 +976,7 @@
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 4,
-        "Luxio": 4,
+        "Luxio": 5,
         "Frigibax": 11,
         "Krokorok": 3,
         "Snorunt": 3,
@@ -1172,7 +1172,7 @@
         "Dracozolt": 1,
         "Stufful": 4,
         "Cinccino": 1,
-        "Aggron": 1,
+        "Aggron": 2,
         "Silicobra": 2,
         "Houndoom": 1,
         "Shieldon": 2,
@@ -1348,12 +1348,12 @@
         "Torterra": 1,
         "Charizard": 1
       },
-      "total_spawns": 2583,
-      "last_spawn": "2026-07-05T22:59:24.494750"
+      "total_spawns": 2586,
+      "last_spawn": "2026-07-05T22:59:54.598253"
     }
   },
   "global": {
-    "total_spawns": 67480,
+    "total_spawns": 67484,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
