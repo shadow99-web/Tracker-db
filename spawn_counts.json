@@ -72,7 +72,7 @@
         "Aron": 4,
         "Honedge": 16,
         "Houndour": 1,
-        "Machop": 6,
+        "Machop": 7,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -172,7 +172,7 @@
         "Mienshao": 1,
         "Blipbug": 8,
         "Rellor": 3,
-        "Rolycoly": 4,
+        "Rolycoly": 5,
         "Poliwhirl": 4,
         "Lokix": 3,
         "Flamigo": 5,
@@ -518,10 +518,11 @@
         "Bronzong": 1,
         "Foongus": 1,
         "Krookodile": 1,
-        "Espathra": 1
+        "Espathra": 1,
+        "Snom": 1
       },
-      "total_spawns": 1188,
-      "last_spawn": "2026-07-05T20:30:48.569104"
+      "total_spawns": 1191,
+      "last_spawn": "2026-07-05T20:31:18.335071"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -529,7 +530,7 @@
         "Tandemaus": 13,
         "Caterpie": 3,
         "Flaaffy": 4,
-        "Bronzor": 1,
+        "Bronzor": 2,
         "Gible": 7,
         "Torracat": 1,
         "Dusclops": 3,
@@ -689,7 +690,7 @@
         "Shellos": 1,
         "Roaming gimmighoul": 3,
         "Grotle": 2,
-        "Squawkabilly": 1,
+        "Squawkabilly": 2,
         "Wartortle": 2,
         "Rowlet": 2,
         "Gholdengo": 3,
@@ -710,7 +711,7 @@
         "Croconaw": 5,
         "Smoliv": 5,
         "Lechonk": 8,
-        "Clodsire": 2,
+        "Clodsire": 3,
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 5,
@@ -855,7 +856,7 @@
         "Cofagrigus": 1,
         "Hattrem": 1,
         "Sneasel": 2,
-        "Piplup": 2,
+        "Piplup": 3,
         "Electrike": 3,
         "Kabuto": 4,
         "Chewtle": 1,
@@ -922,7 +923,7 @@
         "Dwebble": 3,
         "Rockruff": 2,
         "Stunfisk": 2,
-        "Spinda": 1,
+        "Spinda": 2,
         "Beautifly": 2,
         "Fletchling": 8,
         "Haunter": 1,
@@ -1081,14 +1082,16 @@
         "Herdier": 1,
         "Starmie": 1,
         "Monsoon vivillon": 1,
-        "Magnezone": 1
+        "Magnezone": 1,
+        "Dewgong": 1,
+        "Cradily": 1
       },
-      "total_spawns": 1701,
-      "last_spawn": "2026-07-05T20:30:47.495610"
+      "total_spawns": 1708,
+      "last_spawn": "2026-07-05T20:31:24.596743"
     }
   },
   "global": {
-    "total_spawns": 65428,
+    "total_spawns": 65438,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
