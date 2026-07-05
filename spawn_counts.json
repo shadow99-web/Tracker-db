@@ -114,7 +114,7 @@
         "Shroodle": 3,
         "Ride cyclizar": 1,
         "Swinub": 6,
-        "Rattata": 2,
+        "Rattata": 3,
         "Stonjourner": 1,
         "Veluza": 2,
         "Panpour": 2,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 1,
-        "Tinkatink": 4,
+        "Tinkatink": 5,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 1,
@@ -418,10 +418,12 @@
         "Combusken": 1,
         "Croagunk": 2,
         "Mothim": 2,
-        "Crabominable": 1
+        "Crabominable": 2,
+        "Krabby": 1,
+        "Mimikyu": 2
       },
-      "total_spawns": 787,
-      "last_spawn": "2026-07-05T19:46:13.738273"
+      "total_spawns": 793,
+      "last_spawn": "2026-07-05T19:46:55.664601"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -921,7 +923,7 @@
     }
   },
   "global": {
-    "total_spawns": 64618,
+    "total_spawns": 64624,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
