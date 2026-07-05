@@ -16,7 +16,7 @@
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 11,
-        "Fidough": 5,
+        "Fidough": 6,
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 2,
@@ -268,7 +268,7 @@
         "Onix": 2,
         "Dracovish": 2,
         "Slowpoke": 2,
-        "Drizzile": 4,
+        "Drizzile": 5,
         "Tinkatink": 9,
         "Frillish": 1,
         "Plusle": 1,
@@ -536,7 +536,7 @@
         "Cascoon": 1,
         "Sigilyph": 4,
         "Vibrava": 1,
-        "Shuckle": 1,
+        "Shuckle": 2,
         "White flower floette": 2,
         "Octillery": 2,
         "Pawniard": 1,
@@ -618,8 +618,8 @@
         "Minun": 2,
         "Hangry morpeko": 2
       },
-      "total_spawns": 1846,
-      "last_spawn": "2026-07-05T21:30:53.762496"
+      "total_spawns": 1849,
+      "last_spawn": "2026-07-05T21:31:23.545416"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -634,7 +634,7 @@
         "Rhyhorn": 5,
         "Mareep": 8,
         "Klink": 8,
-        "Nymble": 9,
+        "Nymble": 10,
         "Porygon": 13,
         "Abra": 14,
         "Oddish": 14,
@@ -904,7 +904,7 @@
         "Sandy wormadam": 1,
         "Sprigatito": 2,
         "Bidoof": 2,
-        "Frillish": 4,
+        "Frillish": 5,
         "Toedscool": 9,
         "Espathra": 2,
         "Klang": 3,
@@ -1049,7 +1049,7 @@
         "Makuhita": 1,
         "Barboach": 2,
         "Smeargle": 1,
-        "Ceruledge": 1,
+        "Ceruledge": 2,
         "Swampert": 1,
         "Naclstack": 3,
         "Golbat": 4,
@@ -1230,14 +1230,15 @@
         "Cacnea": 1,
         "Beartic": 1,
         "Oricorio": 1,
-        "Leafeon": 1
+        "Leafeon": 1,
+        "Natu": 1
       },
-      "total_spawns": 2059,
-      "last_spawn": "2026-07-05T21:30:54.495528"
+      "total_spawns": 2063,
+      "last_spawn": "2026-07-05T21:31:34.628578"
     }
   },
   "global": {
-    "total_spawns": 66444,
+    "total_spawns": 66451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
