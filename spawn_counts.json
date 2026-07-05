@@ -160,7 +160,7 @@
         "Impidimp": 6,
         "Swadloon": 3,
         "Sunny castform": 4,
-        "Vullaby": 1,
+        "Vullaby": 2,
         "Venipede": 5,
         "Pansage": 2,
         "Cetoddle": 4,
@@ -175,10 +175,10 @@
         "Rolycoly": 3,
         "Poliwhirl": 1,
         "Lokix": 2,
-        "Flamigo": 3,
+        "Flamigo": 4,
         "Bellsprout": 8,
         "Houndstone": 1,
-        "Beldum": 1,
+        "Beldum": 3,
         "Kadabra": 2,
         "Grovyle": 1,
         "Dratini": 4,
@@ -313,7 +313,7 @@
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
         "Petilil": 1,
-        "Bombirdier": 2,
+        "Bombirdier": 3,
         "Bellibolt": 1,
         "Toedscool": 2,
         "Paras": 1,
@@ -417,8 +417,8 @@
         "Shelmet": 1,
         "Combusken": 1
       },
-      "total_spawns": 768,
-      "last_spawn": "2026-07-05T19:43:53.604093"
+      "total_spawns": 773,
+      "last_spawn": "2026-07-05T19:44:33.636714"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -918,7 +918,7 @@
     }
   },
   "global": {
-    "total_spawns": 64599,
+    "total_spawns": 64604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
