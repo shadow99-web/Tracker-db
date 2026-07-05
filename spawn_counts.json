@@ -26,7 +26,7 @@
         "Peakychu": 13,
         "Cutiefly": 3,
         "Simipour": 1,
-        "Tynamo": 3,
+        "Tynamo": 4,
         "Palossand": 1,
         "Pyukumuku": 1,
         "Pidgey": 7,
@@ -341,7 +341,7 @@
         "Ursaring": 1,
         "Bidoof": 1,
         "Gothita": 2,
-        "Solosis": 4,
+        "Solosis": 5,
         "Sandygast": 2,
         "Pidove": 1,
         "Chespin": 1,
@@ -526,10 +526,11 @@
         "Copperajah": 2,
         "Golett": 1,
         "Politoed": 2,
-        "Droopy tatsugiri": 1
+        "Droopy tatsugiri": 1,
+        "Volcanion": 1
       },
-      "total_spawns": 1244,
-      "last_spawn": "2026-07-05T20:35:08.327845"
+      "total_spawns": 1247,
+      "last_spawn": "2026-07-05T20:35:28.596051"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -558,7 +559,7 @@
         "Flittle": 6,
         "Lillipup": 7,
         "Eevee": 3,
-        "Shroomish": 1,
+        "Shroomish": 2,
         "Dachsbun": 3,
         "Swirlix": 3,
         "Glimmora": 4,
@@ -802,7 +803,7 @@
         "Baltoy": 5,
         "Tarountula": 13,
         "Omastar": 2,
-        "Surskit": 1,
+        "Surskit": 2,
         "Wooper": 4,
         "Tatsugiri": 4,
         "Oranguru": 1,
@@ -1095,14 +1096,15 @@
         "Baxcalibur": 1,
         "Midnight lycanroc": 1,
         "Floette": 1,
-        "Phantump": 1
+        "Phantump": 1,
+        "Probopass": 1
       },
-      "total_spawns": 1734,
-      "last_spawn": "2026-07-05T20:35:04.330089"
+      "total_spawns": 1737,
+      "last_spawn": "2026-07-05T20:35:39.499553"
     }
   },
   "global": {
-    "total_spawns": 65517,
+    "total_spawns": 65523,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
