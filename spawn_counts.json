@@ -140,7 +140,7 @@
         "Surskit": 4,
         "Seedot": 10,
         "Jigglypuff": 2,
-        "Spearow": 2,
+        "Spearow": 3,
         "Servine": 2,
         "Wugtrio": 5,
         "Tranquill": 2,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
-        "Whismur": 9,
+        "Whismur": 10,
         "Jangmo-o": 5,
         "Lunatone": 1,
         "Machoke": 3,
@@ -644,8 +644,8 @@
         "Amped toxtricity": 2,
         "Scizor": 2
       },
-      "total_spawns": 2104,
-      "last_spawn": "2026-07-05T21:57:14.701734"
+      "total_spawns": 2106,
+      "last_spawn": "2026-07-05T21:58:03.632399"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -791,7 +791,7 @@
         "Lairon": 4,
         "Zubat": 14,
         "Croagunk": 3,
-        "Klawf": 6,
+        "Klawf": 7,
         "Lombre": 2,
         "Wurmple": 6,
         "Peakychu": 9,
@@ -897,7 +897,7 @@
         "Forretress": 1,
         "Squirtle": 3,
         "Wingull": 1,
-        "Buneary": 6,
+        "Buneary": 7,
         "Skiddo": 4,
         "Zigzagoon": 3,
         "Dj rotom": 6,
@@ -1016,7 +1016,7 @@
         "Arcanine": 2,
         "Lickitung": 4,
         "Pyroar": 1,
-        "Oshawott": 1,
+        "Oshawott": 2,
         "Bisharp": 1,
         "Dartrix": 5,
         "Roserade": 1,
@@ -1275,12 +1275,12 @@
         "Petilil": 1,
         "Gloom": 1
       },
-      "total_spawns": 2217,
-      "last_spawn": "2026-07-05T21:57:34.294408"
+      "total_spawns": 2220,
+      "last_spawn": "2026-07-05T21:58:04.301369"
     }
   },
   "global": {
-    "total_spawns": 66860,
+    "total_spawns": 66865,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
