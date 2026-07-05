@@ -413,7 +413,7 @@
         "Machop": 6,
         "Psyduck": 3,
         "Monferno": 1,
-        "Pikipek": 3,
+        "Pikipek": 4,
         "Flittle": 4,
         "Lillipup": 3,
         "Eevee": 3,
@@ -544,7 +544,7 @@
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 3,
+        "Tynamo": 4,
         "Quaquaval": 3,
         "Rapidash": 1,
         "Maschiff": 4,
@@ -615,9 +615,9 @@
         "Barbaracle": 1,
         "Noivern": 2,
         "Clefairy": 2,
-        "Grubbin": 3,
+        "Grubbin": 4,
         "Dustox": 1,
-        "Chespin": 2,
+        "Chespin": 3,
         "Armarouge": 1,
         "Battle cyclizar": 1,
         "Bagon": 1,
@@ -785,12 +785,12 @@
         "Corvisquire": 1,
         "Lokix": 1
       },
-      "total_spawns": 835,
-      "last_spawn": "2026-07-05T17:02:54.599169"
+      "total_spawns": 839,
+      "last_spawn": "2026-07-05T17:03:34.900062"
     }
   },
   "global": {
-    "total_spawns": 64019,
+    "total_spawns": 64023,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
