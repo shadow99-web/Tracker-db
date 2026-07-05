@@ -360,7 +360,7 @@
         "Hoppip": 5,
         "Slowbro": 2,
         "Gholdengo": 2,
-        "Trubbish": 2,
+        "Trubbish": 3,
         "Rockruff": 1,
         "Snowy castform": 1,
         "Dusclops": 2,
@@ -379,13 +379,13 @@
         "Morelull": 1,
         "Unown": 3,
         "Poltchageist": 2,
-        "Slakoth": 2,
+        "Slakoth": 3,
         "Klink": 1,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 2,
         "Charizard": 2,
-        "Axew": 5,
+        "Axew": 7,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 1,
@@ -525,10 +525,11 @@
         "Cosmoem": 1,
         "Copperajah": 2,
         "Golett": 1,
-        "Politoed": 2
+        "Politoed": 2,
+        "Droopy tatsugiri": 1
       },
-      "total_spawns": 1239,
-      "last_spawn": "2026-07-05T20:34:29.240169"
+      "total_spawns": 1244,
+      "last_spawn": "2026-07-05T20:35:08.327845"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -659,7 +660,7 @@
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 15,
-        "Flamigo": 6,
+        "Flamigo": 7,
         "Stunky": 1,
         "Spinarak": 3,
         "Gligar": 1,
@@ -694,7 +695,7 @@
         "Wimpod": 6,
         "Rookidee": 9,
         "Shellos": 1,
-        "Roaming gimmighoul": 3,
+        "Roaming gimmighoul": 4,
         "Grotle": 2,
         "Squawkabilly": 2,
         "Wartortle": 2,
@@ -725,7 +726,7 @@
         "Munna": 1,
         "Tangela": 4,
         "Espurr": 3,
-        "Doduo": 2,
+        "Doduo": 3,
         "Kadabra": 4,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
@@ -1096,12 +1097,12 @@
         "Floette": 1,
         "Phantump": 1
       },
-      "total_spawns": 1731,
-      "last_spawn": "2026-07-05T20:34:34.396869"
+      "total_spawns": 1734,
+      "last_spawn": "2026-07-05T20:35:04.330089"
     }
   },
   "global": {
-    "total_spawns": 65509,
+    "total_spawns": 65517,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
