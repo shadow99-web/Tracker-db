@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 11,
         "Roggenrola": 7,
-        "Litwick": 2,
+        "Litwick": 3,
         "Wooper": 2,
         "Pikipek": 8,
         "Spritzee": 1,
@@ -551,8 +551,8 @@
         "Mime jr.": 2,
         "Yungoos": 1
       },
-      "total_spawns": 1348,
-      "last_spawn": "2026-07-05T20:47:14.630790"
+      "total_spawns": 1349,
+      "last_spawn": "2026-07-05T20:47:25.128210"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -728,7 +728,7 @@
         "Glameow": 3,
         "Swinub": 12,
         "Marshtomp": 2,
-        "Venonat": 2,
+        "Venonat": 3,
         "Aipom": 1,
         "Rellor": 7,
         "Hippopotas": 3,
@@ -1125,14 +1125,17 @@
         "Yellow flower floette": 1,
         "Mudkip": 1,
         "Clefable": 1,
-        "Revavroom": 1
+        "Revavroom": 1,
+        "Milotic": 1,
+        "Skarmory": 1,
+        "Ferroseed": 1
       },
-      "total_spawns": 1805,
-      "last_spawn": "2026-07-05T20:47:14.776250"
+      "total_spawns": 1809,
+      "last_spawn": "2026-07-05T20:47:54.342426"
     }
   },
   "global": {
-    "total_spawns": 65692,
+    "total_spawns": 65697,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
