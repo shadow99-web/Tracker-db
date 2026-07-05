@@ -156,7 +156,7 @@
         "Wooper": 1,
         "Pikipek": 6,
         "Spritzee": 1,
-        "Stantler": 1,
+        "Stantler": 2,
         "Impidimp": 6,
         "Swadloon": 3,
         "Sunny castform": 4,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 2,
         "Kingdra": 1,
-        "Chikorita": 1,
+        "Chikorita": 2,
         "Donphan": 1,
         "Shuppet": 3,
         "Graveler": 1,
@@ -449,13 +449,13 @@
         "Minccino": 2,
         "Hippowdon": 2
       },
-      "total_spawns": 901,
-      "last_spawn": "2026-07-05T19:58:33.610553"
+      "total_spawns": 903,
+      "last_spawn": "2026-07-05T19:59:43.375723"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 10,
+        "Tandemaus": 11,
         "Caterpie": 3,
         "Flaaffy": 4,
         "Bronzor": 1,
@@ -494,7 +494,7 @@
         "Pidgey": 5,
         "Gimmighoul": 6,
         "Cetoddle": 10,
-        "Fidough": 9,
+        "Fidough": 10,
         "Smearguru": 4,
         "Nuzleaf": 2,
         "Clauncher": 2,
@@ -631,7 +631,7 @@
         "Rellor": 4,
         "Hippopotas": 3,
         "Chikorita": 5,
-        "Litwick": 7,
+        "Litwick": 8,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -755,7 +755,7 @@
         "Pikachu": 2,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 6,
+        "Frigibax": 7,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -765,7 +765,7 @@
         "Ursaring": 2,
         "Zweilous": 2,
         "Amoonguss": 1,
-        "Varoom": 4,
+        "Varoom": 5,
         "Kirlia": 2,
         "Minccino": 1,
         "Charmander": 2,
@@ -775,7 +775,7 @@
         "Spheal": 4,
         "Chinchou": 2,
         "Magmar": 3,
-        "Chef dente": 3,
+        "Chef dente": 4,
         "Sandygast": 1,
         "Graveler": 4,
         "Duosion": 2,
@@ -950,14 +950,15 @@
         "Dracozolt": 1,
         "Stufful": 1,
         "Cinccino": 1,
-        "Aggron": 1
+        "Aggron": 1,
+        "Silicobra": 1
       },
-      "total_spawns": 1333,
-      "last_spawn": "2026-07-05T19:59:14.495629"
+      "total_spawns": 1340,
+      "last_spawn": "2026-07-05T19:59:47.195357"
     }
   },
   "global": {
-    "total_spawns": 64773,
+    "total_spawns": 64782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
