@@ -428,7 +428,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 2,
-        "Timburr": 3,
+        "Timburr": 4,
         "Pidgey": 4,
         "Gimmighoul": 6,
         "Cetoddle": 7,
@@ -603,7 +603,7 @@
         "Fearow": 1,
         "Vikavolt": 2,
         "Ledian": 2,
-        "Pineco": 2,
+        "Pineco": 3,
         "Vanillite": 6,
         "Omanyte": 4,
         "Scraggy": 2,
@@ -818,14 +818,15 @@
         "Makuhita": 1,
         "Barboach": 1,
         "Smeargle": 1,
-        "Ceruledge": 1
+        "Ceruledge": 1,
+        "Swampert": 1
       },
-      "total_spawns": 983,
-      "last_spawn": "2026-07-05T17:27:44.412835"
+      "total_spawns": 986,
+      "last_spawn": "2026-07-05T17:28:14.603867"
     }
   },
   "global": {
-    "total_spawns": 64168,
+    "total_spawns": 64171,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
