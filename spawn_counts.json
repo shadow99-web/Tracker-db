@@ -13,7 +13,7 @@
         "Oddish": 14,
         "Totodile": 3,
         "Vanillite": 28,
-        "Weedle": 12,
+        "Weedle": 13,
         "Kabutops": 2,
         "Poliwag": 11,
         "Fidough": 9,
@@ -678,8 +678,8 @@
         "Galarian zen darmanitan": 2,
         "Basculegion": 2
       },
-      "total_spawns": 2483,
-      "last_spawn": "2026-07-05T23:59:03.896712"
+      "total_spawns": 2484,
+      "last_spawn": "2026-07-05T23:59:13.576000"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -735,7 +735,7 @@
         "Kilowattrel": 5,
         "Skiploom": 4,
         "Voltorb": 6,
-        "Geodude": 19,
+        "Geodude": 20,
         "Treecko": 6,
         "Grimer": 3,
         "Grafaiai": 3,
@@ -1092,7 +1092,7 @@
         "Magikarp": 5,
         "Pumpkaboo": 3,
         "Banette": 2,
-        "Tympole": 11,
+        "Tympole": 12,
         "Bunnelby": 7,
         "Vanillish": 2,
         "Arrokuda": 2,
@@ -1217,7 +1217,7 @@
         "Tentacool": 3,
         "Relicanth": 1,
         "Patrat": 3,
-        "Cottonee": 3,
+        "Cottonee": 4,
         "Butterfree": 1,
         "Quaxly": 4,
         "Guzzlord": 1,
@@ -1352,7 +1352,7 @@
         "Larvesta": 2,
         "Sudowoodo": 2,
         "Meowstic": 1,
-        "Torterra": 2,
+        "Torterra": 3,
         "Charizard": 1,
         "Magby": 1,
         "Trumbeak": 2,
@@ -1385,12 +1385,12 @@
         "Honchkrow": 1,
         "Krabby": 1
       },
-      "total_spawns": 2936,
-      "last_spawn": "2026-07-05T23:59:04.794711"
+      "total_spawns": 2940,
+      "last_spawn": "2026-07-05T23:59:44.650249"
     }
   },
   "global": {
-    "total_spawns": 67958,
+    "total_spawns": 67963,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
