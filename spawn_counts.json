@@ -530,7 +530,7 @@
         "Lairon": 1,
         "Zubat": 1,
         "Croagunk": 1,
-        "Klawf": 1,
+        "Klawf": 2,
         "Lombre": 2,
         "Wurmple": 1,
         "Peakychu": 1,
@@ -586,14 +586,17 @@
         "Stretchy tatsugiri": 1,
         "Dugtrio": 1,
         "Capsakid": 1,
-        "Tyrunt": 1
+        "Tyrunt": 1,
+        "Drilbur": 1,
+        "Vaporeon": 1,
+        "Magneton": 1
       },
-      "total_spawns": 271,
-      "last_spawn": "2026-07-05T15:26:54.496475"
+      "total_spawns": 275,
+      "last_spawn": "2026-07-05T15:27:34.457516"
     }
   },
   "global": {
-    "total_spawns": 63446,
+    "total_spawns": 63450,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
