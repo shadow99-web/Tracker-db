@@ -26,7 +26,7 @@
         "Peakychu": 11,
         "Cutiefly": 3,
         "Simipour": 1,
-        "Tynamo": 1,
+        "Tynamo": 2,
         "Palossand": 1,
         "Pyukumuku": 1,
         "Pidgey": 3,
@@ -49,7 +49,7 @@
         "Tympole": 6,
         "Grubbin": 6,
         "Scatterbug": 4,
-        "Skwovet": 2,
+        "Skwovet": 3,
         "Applin": 2,
         "Staryu": 1,
         "Maschiff": 2,
@@ -252,7 +252,7 @@
         "Tinkatuff": 1,
         "Drednaw": 1,
         "Corvisquire": 1,
-        "Croconaw": 1,
+        "Croconaw": 2,
         "Makuhita": 1,
         "Machamp": 1,
         "Primarina": 1,
@@ -426,10 +426,11 @@
         "Summer deerling": 1,
         "Seel": 1,
         "Marowak": 2,
-        "Haunter": 1
+        "Haunter": 1,
+        "Dottler": 1
       },
-      "total_spawns": 820,
-      "last_spawn": "2026-07-05T19:50:23.727341"
+      "total_spawns": 824,
+      "last_spawn": "2026-07-05T19:51:03.692684"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -929,7 +930,7 @@
     }
   },
   "global": {
-    "total_spawns": 64651,
+    "total_spawns": 64655,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
