@@ -518,7 +518,7 @@
         "Starly": 3,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 6,
+        "Bounsweet": 7,
         "Flamigo": 3,
         "Stunky": 1,
         "Spinarak": 1,
@@ -723,14 +723,16 @@
         "Hattrem": 1,
         "Sneasel": 1,
         "Piplup": 1,
-        "Electrike": 1
+        "Electrike": 1,
+        "Kabuto": 1,
+        "Chewtle": 1
       },
-      "total_spawns": 594,
-      "last_spawn": "2026-07-05T16:21:44.475356"
+      "total_spawns": 597,
+      "last_spawn": "2026-07-05T16:22:16.827663"
     }
   },
   "global": {
-    "total_spawns": 63778,
+    "total_spawns": 63781,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
