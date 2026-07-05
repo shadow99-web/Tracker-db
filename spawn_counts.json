@@ -172,7 +172,7 @@
         "Mienshao": 1,
         "Blipbug": 10,
         "Rellor": 3,
-        "Rolycoly": 5,
+        "Rolycoly": 6,
         "Poliwhirl": 4,
         "Lokix": 3,
         "Flamigo": 5,
@@ -219,8 +219,8 @@
         "Donphan": 1,
         "Shuppet": 6,
         "Graveler": 1,
-        "Duosion": 1,
-        "Orthworm": 6,
+        "Duosion": 2,
+        "Orthworm": 7,
         "Yamask": 2,
         "Nymble": 4,
         "Snorunt": 1,
@@ -388,7 +388,7 @@
         "Axew": 13,
         "Joltik": 1,
         "Gulpin": 1,
-        "Mareanie": 1,
+        "Mareanie": 2,
         "Throh": 1,
         "Sentret": 2,
         "Houndoom": 1,
@@ -463,7 +463,7 @@
         "Seismitoad": 2,
         "Galarian articuno": 1,
         "Kyurem": 1,
-        "Electabuzz": 1,
+        "Electabuzz": 2,
         "Shellder": 2,
         "Chi-yu": 1,
         "Landorus": 1,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 2,
         "Xerneas": 2,
-        "Nincada": 1,
+        "Nincada": 2,
         "Audino": 1,
         "Mime jr.": 2,
         "Yungoos": 1,
@@ -605,8 +605,8 @@
         "Sinistea": 1,
         "Golbat": 1
       },
-      "total_spawns": 1737,
-      "last_spawn": "2026-07-05T21:18:48.267346"
+      "total_spawns": 1743,
+      "last_spawn": "2026-07-05T21:19:18.396472"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -780,7 +780,7 @@
         "Gholdengo": 3,
         "Machoke": 2,
         "Glameow": 3,
-        "Swinub": 13,
+        "Swinub": 14,
         "Marshtomp": 2,
         "Venonat": 4,
         "Aipom": 1,
@@ -864,7 +864,7 @@
         "Dj rotom": 5,
         "Anorith": 3,
         "Shiinotic": 1,
-        "Snover": 5,
+        "Snover": 6,
         "Bayleef": 3,
         "Nosepass": 1,
         "Scovillain": 5,
@@ -985,7 +985,7 @@
         "Doublade": 1,
         "Electivire": 2,
         "Droopy tatsugiri": 4,
-        "Blitzle": 2,
+        "Blitzle": 3,
         "Politoed": 1,
         "Nickit": 1,
         "Wiglett": 7,
@@ -1213,12 +1213,12 @@
         "Staryu": 1,
         "Golem": 1
       },
-      "total_spawns": 1988,
-      "last_spawn": "2026-07-05T21:18:44.336999"
+      "total_spawns": 1991,
+      "last_spawn": "2026-07-05T21:19:14.341044"
     }
   },
   "global": {
-    "total_spawns": 66264,
+    "total_spawns": 66273,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
