@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 5,
-        "Oddish": 9,
+        "Oddish": 10,
         "Totodile": 3,
         "Vanillite": 22,
         "Weedle": 8,
@@ -164,7 +164,7 @@
         "Venipede": 8,
         "Pansage": 2,
         "Cetoddle": 7,
-        "Togepi": 5,
+        "Togepi": 6,
         "Tandemaus": 5,
         "Clefairy": 1,
         "Unown q": 1,
@@ -443,7 +443,7 @@
         "Tyrunt": 2,
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
-        "Smearguru": 4,
+        "Smearguru": 6,
         "Magneton": 1,
         "Battle cyclizar": 1,
         "Minccino": 2,
@@ -623,8 +623,8 @@
         "Dhelmise": 1,
         "Armaldo": 2
       },
-      "total_spawns": 1915,
-      "last_spawn": "2026-07-05T21:39:33.635273"
+      "total_spawns": 1919,
+      "last_spawn": "2026-07-05T21:40:03.604851"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -719,7 +719,7 @@
         "Ralts": 12,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 11,
+        "Aron": 12,
         "Horsea": 16,
         "Teddiursa": 11,
         "Dratini": 4,
@@ -1226,7 +1226,7 @@
         "Hisuian typhlosion": 1,
         "Ekans": 3,
         "Oinkologne": 1,
-        "Clobbopus": 1,
+        "Clobbopus": 2,
         "Heracross": 1,
         "Staryu": 1,
         "Golem": 1,
@@ -1241,14 +1241,16 @@
         "Escavalier": 1,
         "Conkeldurr": 1,
         "Poochyena": 1,
-        "White flower floette": 1
+        "White flower floette": 1,
+        "Typhlosion": 1,
+        "Yellow flower florges": 1
       },
-      "total_spawns": 2110,
-      "last_spawn": "2026-07-05T21:39:24.396944"
+      "total_spawns": 2114,
+      "last_spawn": "2026-07-05T21:40:04.463640"
     }
   },
   "global": {
-    "total_spawns": 66564,
+    "total_spawns": 66572,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
