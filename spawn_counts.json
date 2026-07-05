@@ -683,7 +683,7 @@
         "Gible": 9,
         "Torracat": 4,
         "Dusclops": 4,
-        "Rhyhorn": 9,
+        "Rhyhorn": 10,
         "Mareep": 11,
         "Klink": 9,
         "Nymble": 14,
@@ -706,7 +706,7 @@
         "Glimmora": 4,
         "Meditite": 3,
         "Pansage": 2,
-        "Whismur": 15,
+        "Whismur": 16,
         "Jangmo-o": 7,
         "Samurott": 1,
         "Kleavor": 1,
@@ -906,7 +906,7 @@
         "Bagon": 5,
         "Vanilluxe": 2,
         "Woobat": 3,
-        "Goomy": 9,
+        "Goomy": 10,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 9,
@@ -1034,7 +1034,7 @@
         "Venipede": 12,
         "Toedscruel": 1,
         "Dewpider": 5,
-        "Pansear": 5,
+        "Pansear": 6,
         "Togetic": 4,
         "Houndstone": 8,
         "Ponyta": 1,
@@ -1342,12 +1342,12 @@
         "Wigglytuff": 1,
         "Audino": 1
       },
-      "total_spawns": 2521,
-      "last_spawn": "2026-07-05T22:48:55.035978"
+      "total_spawns": 2525,
+      "last_spawn": "2026-07-05T22:49:34.452092"
     }
   },
   "global": {
-    "total_spawns": 67398,
+    "total_spawns": 67402,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
