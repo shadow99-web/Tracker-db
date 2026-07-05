@@ -424,7 +424,7 @@
         "Meditite": 2,
         "Pansage": 2,
         "Whismur": 11,
-        "Jangmo-o": 5,
+        "Jangmo-o": 6,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 2,
@@ -536,7 +536,7 @@
         "Croagunk": 2,
         "Klawf": 4,
         "Lombre": 2,
-        "Wurmple": 4,
+        "Wurmple": 5,
         "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 3,
@@ -575,7 +575,7 @@
         "Gorebyss": 1,
         "Quaxwell": 1,
         "Croconaw": 2,
-        "Smoliv": 3,
+        "Smoliv": 4,
         "Lechonk": 4,
         "Clodsire": 1,
         "Sandaconda": 1,
@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 2,
-        "Tarountula": 6,
+        "Tarountula": 7,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 4,
@@ -739,7 +739,7 @@
         "Weepinbell": 1,
         "East sea shellos": 3,
         "Flygon": 1,
-        "Cyclizar": 1,
+        "Cyclizar": 2,
         "Murkrow": 1,
         "Drednaw": 1,
         "Cyndaquil": 2,
@@ -791,7 +791,7 @@
         "Stunfisk": 1,
         "Spinda": 1,
         "Beautifly": 1,
-        "Fletchling": 2,
+        "Fletchling": 3,
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
@@ -837,12 +837,12 @@
         "Gulpin": 1,
         "Vullaby": 1
       },
-      "total_spawns": 1062,
-      "last_spawn": "2026-07-05T17:36:24.514828"
+      "total_spawns": 1068,
+      "last_spawn": "2026-07-05T17:36:54.697911"
     }
   },
   "global": {
-    "total_spawns": 64250,
+    "total_spawns": 64256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
