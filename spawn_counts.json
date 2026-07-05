@@ -29,7 +29,7 @@
         "Tynamo": 2,
         "Palossand": 1,
         "Pyukumuku": 1,
-        "Pidgey": 3,
+        "Pidgey": 5,
         "Binacle": 2,
         "Bounsweet": 4,
         "Fletchling": 3,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 2,
         "Watchog": 1,
-        "Porygon": 1,
+        "Porygon": 2,
         "Wooloo": 1,
         "Mawile": 1,
         "Marill": 1,
@@ -447,10 +447,11 @@
         "Magneton": 1,
         "Battle cyclizar": 1,
         "Minccino": 2,
-        "Hippowdon": 2
+        "Hippowdon": 2,
+        "Gloom": 1
       },
-      "total_spawns": 906,
-      "last_spawn": "2026-07-05T20:00:11.473434"
+      "total_spawns": 910,
+      "last_spawn": "2026-07-05T20:00:53.997770"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -546,12 +547,12 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
-        "Horsea": 12,
+        "Horsea": 13,
         "Teddiursa": 6,
         "Dratini": 2,
         "Sewaddle": 7,
         "Mantyke": 1,
-        "Slakoth": 8,
+        "Slakoth": 9,
         "Dreepy": 8,
         "Foongus": 2,
         "Hoppip": 8,
@@ -648,7 +649,7 @@
         "Tangela": 3,
         "Espurr": 2,
         "Doduo": 2,
-        "Kadabra": 1,
+        "Kadabra": 2,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
         "Capsakid": 7,
@@ -951,14 +952,17 @@
         "Stufful": 1,
         "Cinccino": 1,
         "Aggron": 1,
-        "Silicobra": 1
+        "Silicobra": 1,
+        "Houndoom": 1,
+        "Shieldon": 1,
+        "Panpour": 1
       },
-      "total_spawns": 1346,
-      "last_spawn": "2026-07-05T20:00:17.557054"
+      "total_spawns": 1352,
+      "last_spawn": "2026-07-05T20:00:47.043867"
     }
   },
   "global": {
-    "total_spawns": 64791,
+    "total_spawns": 64801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
