@@ -426,7 +426,7 @@
         "Karrablast": 2,
         "Timburr": 2,
         "Pidgey": 2,
-        "Gimmighoul": 2,
+        "Gimmighoul": 3,
         "Cetoddle": 2,
         "Fidough": 2,
         "Smearguru": 1,
@@ -528,7 +528,7 @@
         "Greninja": 1,
         "Dondozo": 2,
         "Lairon": 1,
-        "Zubat": 1,
+        "Zubat": 3,
         "Croagunk": 1,
         "Klawf": 3,
         "Lombre": 2,
@@ -609,12 +609,12 @@
         "Swablu": 1,
         "Tepig": 1
       },
-      "total_spawns": 301,
-      "last_spawn": "2026-07-05T15:31:54.373977"
+      "total_spawns": 304,
+      "last_spawn": "2026-07-05T15:32:38.103105"
     }
   },
   "global": {
-    "total_spawns": 63478,
+    "total_spawns": 63481,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
