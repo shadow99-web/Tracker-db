@@ -864,7 +864,7 @@
         "Metapod": 2,
         "Morgrem": 1,
         "Gorebyss": 1,
-        "Quaxwell": 2,
+        "Quaxwell": 3,
         "Croconaw": 7,
         "Smoliv": 10,
         "Lechonk": 12,
@@ -1109,7 +1109,7 @@
         "Makuhita": 2,
         "Barboach": 5,
         "Smeargle": 1,
-        "Ceruledge": 4,
+        "Ceruledge": 6,
         "Swampert": 1,
         "Naclstack": 3,
         "Golbat": 5,
@@ -1381,14 +1381,15 @@
         "Unown s": 1,
         "Dusknoir": 1,
         "Sealeo": 1,
-        "Manectric": 1
+        "Manectric": 1,
+        "Honchkrow": 1
       },
-      "total_spawns": 2919,
-      "last_spawn": "2026-07-05T23:56:14.430305"
+      "total_spawns": 2923,
+      "last_spawn": "2026-07-05T23:56:54.524977"
     }
   },
   "global": {
-    "total_spawns": 67937,
+    "total_spawns": 67941,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
