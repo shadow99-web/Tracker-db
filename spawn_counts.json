@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 12,
         "Binacle": 4,
-        "Bounsweet": 16,
+        "Bounsweet": 17,
         "Fletchling": 6,
         "Whirlipede": 4,
         "Duskull": 18,
@@ -673,8 +673,8 @@
         "Wash rotom": 1,
         "Igglybuff": 1
       },
-      "total_spawns": 2397,
-      "last_spawn": "2026-07-05T23:18:28.449780"
+      "total_spawns": 2398,
+      "last_spawn": "2026-07-05T23:19:43.681305"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -754,7 +754,7 @@
         "Aromatisse": 1,
         "Slowpoke": 2,
         "Seedot": 16,
-        "Trapinch": 14,
+        "Trapinch": 15,
         "Hatenna": 14,
         "Drifloon": 3,
         "Togepi": 9,
@@ -875,7 +875,7 @@
         "Kadabra": 5,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 2,
-        "Capsakid": 11,
+        "Capsakid": 12,
         "Tyrunt": 4,
         "Drilbur": 3,
         "Vaporeon": 3,
@@ -1357,14 +1357,15 @@
         "Rainy castform": 1,
         "Claydol": 1,
         "Beheeyem": 1,
-        "Blade aegislash": 1
+        "Blade aegislash": 1,
+        "Togedemaru": 1
       },
-      "total_spawns": 2700,
-      "last_spawn": "2026-07-05T23:19:04.380367"
+      "total_spawns": 2703,
+      "last_spawn": "2026-07-05T23:19:34.328613"
     }
   },
   "global": {
-    "total_spawns": 67636,
+    "total_spawns": 67640,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
