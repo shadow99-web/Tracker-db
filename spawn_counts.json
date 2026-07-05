@@ -476,7 +476,7 @@
         "Nacli": 1,
         "Feebas": 1,
         "Weedle": 2,
-        "Ralts": 1,
+        "Ralts": 2,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 2,
@@ -530,7 +530,7 @@
         "Lairon": 1,
         "Zubat": 1,
         "Croagunk": 1,
-        "Klawf": 2,
+        "Klawf": 3,
         "Lombre": 2,
         "Wurmple": 1,
         "Peakychu": 1,
@@ -605,14 +605,16 @@
         "Scraggy": 1,
         "Komala": 1,
         "Stoutland": 1,
-        "Tirtouga": 1
+        "Tirtouga": 1,
+        "Swablu": 1,
+        "Tepig": 1
       },
-      "total_spawns": 297,
-      "last_spawn": "2026-07-05T15:31:14.914702"
+      "total_spawns": 301,
+      "last_spawn": "2026-07-05T15:31:54.373977"
     }
   },
   "global": {
-    "total_spawns": 63474,
+    "total_spawns": 63478,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
