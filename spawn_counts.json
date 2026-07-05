@@ -836,7 +836,7 @@
         "Scatterbug": 17,
         "Taillow": 2,
         "Wimpod": 6,
-        "Rookidee": 13,
+        "Rookidee": 14,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 4,
@@ -1034,7 +1034,7 @@
         "Applin": 4,
         "Venipede": 13,
         "Toedscruel": 1,
-        "Dewpider": 5,
+        "Dewpider": 6,
         "Pansear": 6,
         "Togetic": 4,
         "Houndstone": 8,
@@ -1347,14 +1347,15 @@
         "Meowstic": 1,
         "Torterra": 1,
         "Charizard": 1,
-        "Magby": 1
+        "Magby": 1,
+        "Trumbeak": 1
       },
-      "total_spawns": 2593,
-      "last_spawn": "2026-07-05T23:01:04.372514"
+      "total_spawns": 2596,
+      "last_spawn": "2026-07-05T23:01:34.595146"
     }
   },
   "global": {
-    "total_spawns": 67494,
+    "total_spawns": 67497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
