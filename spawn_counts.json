@@ -837,7 +837,7 @@
         "Scatterbug": 17,
         "Taillow": 3,
         "Wimpod": 6,
-        "Rookidee": 14,
+        "Rookidee": 15,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 4,
@@ -988,7 +988,7 @@
         "Ursaring": 4,
         "Zweilous": 2,
         "Amoonguss": 1,
-        "Varoom": 8,
+        "Varoom": 9,
         "Kirlia": 4,
         "Minccino": 4,
         "Charmander": 5,
@@ -1339,7 +1339,7 @@
         "Metang": 1,
         "Torchic": 1,
         "Primarina": 1,
-        "Hakamo-o": 1,
+        "Hakamo-o": 2,
         "Purrloin": 2,
         "Wigglytuff": 1,
         "Audino": 1,
@@ -1352,14 +1352,15 @@
         "Trumbeak": 1,
         "Crustle": 1,
         "Lilligant": 1,
-        "Mienfoo": 1
+        "Mienfoo": 1,
+        "Rainy castform": 1
       },
-      "total_spawns": 2640,
-      "last_spawn": "2026-07-05T23:08:54.413804"
+      "total_spawns": 2644,
+      "last_spawn": "2026-07-05T23:09:34.557485"
     }
   },
   "global": {
-    "total_spawns": 67555,
+    "total_spawns": 67559,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
