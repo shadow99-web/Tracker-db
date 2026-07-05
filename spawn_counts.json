@@ -40,7 +40,7 @@
         "Starly": 4,
         "Caterpie": 3,
         "Mareep": 3,
-        "Capsakid": 3,
+        "Capsakid": 4,
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 1,
@@ -109,7 +109,7 @@
         "Bayleef": 1,
         "Magnezone": 1,
         "Eevee": 2,
-        "Dreepy": 3,
+        "Dreepy": 5,
         "Treecko": 2,
         "Shroodle": 3,
         "Ride cyclizar": 1,
@@ -151,7 +151,7 @@
         "Trapinch": 4,
         "Butterfree": 1,
         "Teddiursa": 3,
-        "Roggenrola": 1,
+        "Roggenrola": 3,
         "Litwick": 2,
         "Wooper": 1,
         "Pikipek": 4,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 3,
+        "Whismur": 4,
         "Jangmo-o": 3,
         "Lunatone": 1,
         "Machoke": 1,
@@ -390,10 +390,13 @@
         "Gulpin": 1,
         "Mareanie": 1,
         "Throh": 1,
-        "Sentret": 2
+        "Sentret": 2,
+        "Houndoom": 1,
+        "Meganium": 2,
+        "Rainy castform": 1
       },
-      "total_spawns": 674,
-      "last_spawn": "2026-07-05T19:13:48.399477"
+      "total_spawns": 684,
+      "last_spawn": "2026-07-05T19:15:26.021308"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -893,7 +896,7 @@
     }
   },
   "global": {
-    "total_spawns": 64505,
+    "total_spawns": 64515,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
