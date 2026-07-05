@@ -26,7 +26,7 @@
         "Peakychu": 13,
         "Cutiefly": 3,
         "Simipour": 2,
-        "Tynamo": 4,
+        "Tynamo": 5,
         "Palossand": 1,
         "Pyukumuku": 1,
         "Pidgey": 8,
@@ -39,7 +39,7 @@
         "Wiglett": 4,
         "Starly": 14,
         "Caterpie": 4,
-        "Mareep": 3,
+        "Mareep": 4,
         "Capsakid": 8,
         "Numel": 3,
         "Pawmo": 2,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 13,
         "Roggenrola": 9,
-        "Litwick": 4,
+        "Litwick": 5,
         "Wooper": 2,
         "Pikipek": 10,
         "Spritzee": 1,
@@ -198,7 +198,7 @@
         "Bagon": 3,
         "Pikachu": 2,
         "Tarountula": 5,
-        "Rhyhorn": 6,
+        "Rhyhorn": 7,
         "Aipom": 2,
         "Grookey": 3,
         "Inkay": 1,
@@ -278,7 +278,7 @@
         "Chinchou": 2,
         "Eiscue": 1,
         "Nacli": 9,
-        "Pancham": 2,
+        "Pancham": 3,
         "Bulbasaur": 4,
         "Dewpider": 3,
         "Yellow plumage squawkabilly": 1,
@@ -580,10 +580,13 @@
         "Skorupi": 1,
         "Probopass": 1,
         "Family of three maushold": 1,
-        "Scyther": 2
+        "Scyther": 2,
+        "Polteageist": 1,
+        "Lombre": 1,
+        "Dachsbun": 1
       },
-      "total_spawns": 1549,
-      "last_spawn": "2026-07-05T21:08:18.852255"
+      "total_spawns": 1557,
+      "last_spawn": "2026-07-05T21:08:53.599511"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -601,7 +604,7 @@
         "Nymble": 9,
         "Porygon": 13,
         "Abra": 14,
-        "Oddish": 10,
+        "Oddish": 11,
         "Dedenne": 2,
         "Gothita": 9,
         "Finizen": 11,
@@ -655,7 +658,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 10,
+        "Charcadet": 11,
         "Sandile": 11,
         "Maushold": 4,
         "Rattata": 5,
@@ -1177,14 +1180,15 @@
         "Decidueye": 1,
         "Venusaur": 1,
         "Spearow": 1,
-        "Emboar": 1
+        "Emboar": 1,
+        "Nidoqueen": 1
       },
-      "total_spawns": 1928,
-      "last_spawn": "2026-07-05T21:08:14.394877"
+      "total_spawns": 1931,
+      "last_spawn": "2026-07-05T21:08:45.212993"
     }
   },
   "global": {
-    "total_spawns": 66016,
+    "total_spawns": 66027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
