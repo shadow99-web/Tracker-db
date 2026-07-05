@@ -247,7 +247,7 @@
         "Bonsly": 1,
         "Growlithe": 3,
         "Rhydon": 2,
-        "Ambipom": 2,
+        "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 1,
         "Drednaw": 3,
@@ -326,7 +326,7 @@
         "Sunkern": 2,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 4,
+        "Magnemite": 5,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 4,
@@ -435,7 +435,7 @@
         "Scraggy": 2,
         "Stoutland": 1,
         "Elgyem": 1,
-        "Dragonair": 2,
+        "Dragonair": 3,
         "Spheal": 8,
         "Amaura": 3,
         "Wailord": 1,
@@ -656,8 +656,8 @@
         "Passimian": 1,
         "Jynx": 1
       },
-      "total_spawns": 2221,
-      "last_spawn": "2026-07-05T22:12:43.648287"
+      "total_spawns": 2224,
+      "last_spawn": "2026-07-05T22:13:13.773083"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -706,7 +706,7 @@
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 3,
-        "Bramblin": 11,
+        "Bramblin": 12,
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
         "Binacle": 5,
@@ -937,7 +937,7 @@
         "Kricketot": 3,
         "Golurk": 4,
         "Carracosta": 1,
-        "Fennekin": 5,
+        "Fennekin": 6,
         "Fuecoco": 3,
         "Sandy wormadam": 1,
         "Sprigatito": 2,
@@ -1050,7 +1050,7 @@
         "Gabite": 2,
         "Toxel": 5,
         "Boldore": 4,
-        "Prof tangrowth": 5,
+        "Prof tangrowth": 6,
         "Corvisquire": 4,
         "Lokix": 4,
         "Charmeleon": 4,
@@ -1294,14 +1294,15 @@
         "Ursaluna": 1,
         "Mawile": 1,
         "Brionne": 1,
-        "Munchlax": 1
+        "Munchlax": 1,
+        "Dodrio": 1
       },
-      "total_spawns": 2305,
-      "last_spawn": "2026-07-05T22:12:34.380999"
+      "total_spawns": 2309,
+      "last_spawn": "2026-07-05T22:13:14.444572"
     }
   },
   "global": {
-    "total_spawns": 67065,
+    "total_spawns": 67072,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
