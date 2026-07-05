@@ -142,7 +142,7 @@
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
-        "Wugtrio": 2,
+        "Wugtrio": 3,
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 1,
@@ -168,7 +168,7 @@
         "Tandemaus": 2,
         "Clefairy": 1,
         "Unown q": 1,
-        "Lotad": 2,
+        "Lotad": 3,
         "Mienshao": 1,
         "Blipbug": 6,
         "Rellor": 2,
@@ -267,13 +267,13 @@
         "Chewtle": 3,
         "Onix": 1,
         "Dracovish": 2,
-        "Slowpoke": 1,
+        "Slowpoke": 2,
         "Drizzile": 1,
         "Tinkatink": 4,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 1,
-        "Kricketot": 2,
+        "Kricketot": 3,
         "Ledyba": 1,
         "Chinchou": 1,
         "Eiscue": 1,
@@ -379,7 +379,7 @@
         "Morelull": 1,
         "Unown": 3,
         "Poltchageist": 1,
-        "Slakoth": 1,
+        "Slakoth": 2,
         "Klink": 1,
         "Mesprit": 1,
         "Azelf": 1,
@@ -398,10 +398,11 @@
         "Misdreavus": 1,
         "Cursola": 2,
         "Carbink": 1,
-        "Scorbunny": 1
+        "Scorbunny": 1,
+        "Dubwool": 1
       },
-      "total_spawns": 701,
-      "last_spawn": "2026-07-05T19:18:53.796527"
+      "total_spawns": 707,
+      "last_spawn": "2026-07-05T19:19:28.494719"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -901,7 +902,7 @@
     }
   },
   "global": {
-    "total_spawns": 64532,
+    "total_spawns": 64538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
