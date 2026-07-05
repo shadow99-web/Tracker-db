@@ -187,7 +187,7 @@
         "Charcadet": 4,
         "Mudsdale": 2,
         "Meowth": 2,
-        "Charmander": 1,
+        "Charmander": 3,
         "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
@@ -332,7 +332,7 @@
         "Raboot": 2,
         "Oinkologne": 2,
         "Floragato": 1,
-        "Larvesta": 3,
+        "Larvesta": 5,
         "Magby": 1,
         "Roaming gimmighoul": 1,
         "Volcarona": 3,
@@ -514,10 +514,11 @@
         "Dewott": 1,
         "Braviary": 2,
         "Low key toxtricity": 2,
-        "Nidorina": 1
+        "Nidorina": 1,
+        "Bronzong": 1
       },
-      "total_spawns": 1169,
-      "last_spawn": "2026-07-05T20:28:38.155763"
+      "total_spawns": 1174,
+      "last_spawn": "2026-07-05T20:29:08.198883"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -534,12 +535,12 @@
         "Klink": 7,
         "Nymble": 7,
         "Porygon": 11,
-        "Abra": 10,
+        "Abra": 11,
         "Oddish": 10,
         "Dedenne": 2,
         "Gothita": 7,
         "Finizen": 9,
-        "Machop": 8,
+        "Machop": 9,
         "Psyduck": 4,
         "Monferno": 1,
         "Pikipek": 6,
@@ -619,7 +620,7 @@
         "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 11,
-        "Dreepy": 8,
+        "Dreepy": 9,
         "Foongus": 3,
         "Hoppip": 10,
         "Blipbug": 7,
@@ -678,7 +679,7 @@
         "Rapidash": 1,
         "Maschiff": 8,
         "Sensu oricorio": 2,
-        "Scatterbug": 9,
+        "Scatterbug": 10,
         "Taillow": 2,
         "Wimpod": 6,
         "Rookidee": 9,
@@ -841,7 +842,7 @@
         "Arctozolt": 3,
         "Spheal": 4,
         "Chinchou": 2,
-        "Magmar": 3,
+        "Magmar": 4,
         "Chef dente": 4,
         "Sandygast": 1,
         "Graveler": 4,
@@ -875,7 +876,7 @@
         "Thievul": 1,
         "Gengar": 1,
         "Sunkern": 3,
-        "Wugtrio": 2,
+        "Wugtrio": 3,
         "Applin": 2,
         "Venipede": 8,
         "Toedscruel": 1,
@@ -951,7 +952,7 @@
         "Swampert": 1,
         "Naclstack": 3,
         "Golbat": 4,
-        "Shuppet": 2,
+        "Shuppet": 3,
         "East sea gastrodon": 2,
         "Grovyle": 1,
         "Grumpig": 2,
@@ -1077,12 +1078,12 @@
         "Herdier": 1,
         "Starmie": 1
       },
-      "total_spawns": 1676,
-      "last_spawn": "2026-07-05T20:28:44.432529"
+      "total_spawns": 1683,
+      "last_spawn": "2026-07-05T20:29:17.217860"
     }
   },
   "global": {
-    "total_spawns": 65384,
+    "total_spawns": 65396,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
