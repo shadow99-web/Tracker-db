@@ -116,7 +116,7 @@
         "Swinub": 13,
         "Rattata": 4,
         "Stonjourner": 1,
-        "Veluza": 13,
+        "Veluza": 14,
         "Panpour": 6,
         "Crabrawler": 3,
         "Frogadier": 3,
@@ -668,10 +668,10 @@
         "Inteleon": 2,
         "Milotic": 1,
         "Slaking": 1,
-        "Obstagoon": 1
+        "Obstagoon": 2
       },
-      "total_spawns": 2318,
-      "last_spawn": "2026-07-05T22:38:03.701260"
+      "total_spawns": 2320,
+      "last_spawn": "2026-07-05T22:38:13.689781"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -746,7 +746,7 @@
         "Charcadet": 13,
         "Sandile": 14,
         "Maushold": 6,
-        "Rattata": 7,
+        "Rattata": 8,
         "Riolu": 3,
         "Aromatisse": 1,
         "Slowpoke": 2,
@@ -808,7 +808,7 @@
         "Gligar": 1,
         "Cubone": 3,
         "Dracovish": 1,
-        "Deino": 8,
+        "Deino": 10,
         "Honedge": 6,
         "Litleo": 3,
         "Steelix": 2,
@@ -1328,14 +1328,15 @@
         "Morpeko": 1,
         "Darumaka": 1,
         "Bouffalant": 1,
-        "Cacturne": 1
+        "Cacturne": 1,
+        "Shedinja": 1
       },
-      "total_spawns": 2456,
-      "last_spawn": "2026-07-05T22:37:54.297491"
+      "total_spawns": 2460,
+      "last_spawn": "2026-07-05T22:38:34.401200"
     }
   },
   "global": {
-    "total_spawns": 67313,
+    "total_spawns": 67319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
