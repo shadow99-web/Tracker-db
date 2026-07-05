@@ -99,7 +99,7 @@
         "Cyclizar": 4,
         "Froslass": 1,
         "Dodrio": 1,
-        "Metagross": 2,
+        "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
         "Flittle": 12,
@@ -667,8 +667,8 @@
         "Sylveon": 2,
         "Inteleon": 2
       },
-      "total_spawns": 2290,
-      "last_spawn": "2026-07-05T22:27:13.587859"
+      "total_spawns": 2292,
+      "last_spawn": "2026-07-05T22:28:23.880779"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1096,7 +1096,7 @@
         "Corsola": 1,
         "Gothitelle": 1,
         "Makuhita": 1,
-        "Barboach": 3,
+        "Barboach": 4,
         "Smeargle": 1,
         "Ceruledge": 3,
         "Swampert": 1,
@@ -1314,14 +1314,17 @@
         "Bulbasaur": 1,
         "Stantler": 1,
         "Bewear": 1,
-        "Simisear": 1
+        "Simisear": 1,
+        "Loudred": 1,
+        "Trash burmy": 1,
+        "Smoochum": 1
       },
-      "total_spawns": 2398,
-      "last_spawn": "2026-07-05T22:28:05.355160"
+      "total_spawns": 2402,
+      "last_spawn": "2026-07-05T22:28:44.394630"
     }
   },
   "global": {
-    "total_spawns": 67227,
+    "total_spawns": 67233,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
