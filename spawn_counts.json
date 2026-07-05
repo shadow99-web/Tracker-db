@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 5,
-        "Oddish": 7,
+        "Oddish": 8,
         "Totodile": 3,
         "Vanillite": 18,
         "Weedle": 8,
@@ -68,7 +68,7 @@
         "Feebas": 1,
         "Prof tangrowth": 9,
         "Vulpix": 3,
-        "Gastly": 10,
+        "Gastly": 12,
         "Aron": 5,
         "Honedge": 16,
         "Houndour": 1,
@@ -102,7 +102,7 @@
         "Metagross": 2,
         "Corphish": 3,
         "Doduo": 4,
-        "Flittle": 7,
+        "Flittle": 8,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 3,
         "Pikachu": 4,
-        "Tarountula": 5,
+        "Tarountula": 6,
         "Rhyhorn": 7,
         "Aipom": 2,
         "Grookey": 4,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 4,
-        "Tinkatink": 8,
+        "Tinkatink": 9,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 2,
@@ -583,7 +583,7 @@
         "Scyther": 4,
         "Polteageist": 1,
         "Lombre": 2,
-        "Dachsbun": 1,
+        "Dachsbun": 2,
         "Primeape": 2,
         "Goldeen": 1,
         "Gouging fire": 2,
@@ -600,10 +600,11 @@
         "Grimer": 2,
         "Frosmoth": 2,
         "Darumaka": 1,
-        "Cubone": 1
+        "Cubone": 1,
+        "Conkeldurr": 1
       },
-      "total_spawns": 1695,
-      "last_spawn": "2026-07-05T21:15:43.696827"
+      "total_spawns": 1703,
+      "last_spawn": "2026-07-05T21:16:13.649711"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -747,7 +748,7 @@
         "Greninja": 1,
         "Dondozo": 8,
         "Lairon": 4,
-        "Zubat": 13,
+        "Zubat": 14,
         "Croagunk": 3,
         "Klawf": 6,
         "Lombre": 2,
@@ -1143,7 +1144,7 @@
         "Patrat": 1,
         "Cottonee": 2,
         "Butterfree": 1,
-        "Quaxly": 2,
+        "Quaxly": 3,
         "Guzzlord": 1,
         "Seadra": 1,
         "Pyukumuku": 2,
@@ -1204,14 +1205,16 @@
         "Unfezant": 1,
         "Hisuian typhlosion": 1,
         "Ekans": 1,
-        "Oinkologne": 1
+        "Oinkologne": 1,
+        "Clobbopus": 1,
+        "Heracross": 1
       },
-      "total_spawns": 1970,
-      "last_spawn": "2026-07-05T21:15:34.675069"
+      "total_spawns": 1974,
+      "last_spawn": "2026-07-05T21:16:14.477073"
     }
   },
   "global": {
-    "total_spawns": 66204,
+    "total_spawns": 66216,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
