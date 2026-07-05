@@ -58,7 +58,7 @@
         "Hatenna": 8,
         "Shroomish": 3,
         "Lillipup": 7,
-        "Mosslax": 10,
+        "Mosslax": 12,
         "Maushold": 3,
         "Cubchoo": 5,
         "Koffing": 2,
@@ -184,7 +184,7 @@
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 13,
+        "Charcadet": 14,
         "Mudsdale": 2,
         "Meowth": 4,
         "Charmander": 5,
@@ -611,10 +611,11 @@
         "Alolan vulpix": 2,
         "Glameow": 1,
         "Zweilous": 1,
-        "Azurill": 1
+        "Azurill": 1,
+        "Oshawott": 1
       },
-      "total_spawns": 1805,
-      "last_spawn": "2026-07-05T21:26:23.898409"
+      "total_spawns": 1809,
+      "last_spawn": "2026-07-05T21:26:53.597063"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -767,12 +768,12 @@
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 7,
-        "Sizzlipede": 6,
+        "Sizzlipede": 7,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 10,
         "Quaquaval": 4,
-        "Rapidash": 1,
+        "Rapidash": 2,
         "Maschiff": 11,
         "Sensu oricorio": 2,
         "Scatterbug": 14,
@@ -822,7 +823,7 @@
         "Magneton": 4,
         "Pupitar": 3,
         "Durant": 2,
-        "Jigglypuff": 3,
+        "Jigglypuff": 4,
         "Steenee": 1,
         "Mareanie": 2,
         "Munkidori": 1,
@@ -1223,14 +1224,15 @@
         "Numel": 1,
         "Noctowl": 1,
         "Cacnea": 1,
-        "Beartic": 1
+        "Beartic": 1,
+        "Oricorio": 1
       },
-      "total_spawns": 2031,
-      "last_spawn": "2026-07-05T21:26:04.436372"
+      "total_spawns": 2035,
+      "last_spawn": "2026-07-05T21:26:54.436840"
     }
   },
   "global": {
-    "total_spawns": 66375,
+    "total_spawns": 66383,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
