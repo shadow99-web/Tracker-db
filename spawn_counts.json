@@ -123,7 +123,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 4,
         "Flaaffy": 2,
-        "Rookidee": 9,
+        "Rookidee": 10,
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
@@ -178,7 +178,7 @@
         "Flamigo": 6,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 11,
+        "Beldum": 13,
         "Kadabra": 6,
         "Grovyle": 7,
         "Dratini": 8,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 1,
         "Quilava": 1,
-        "Wurmple": 6,
+        "Wurmple": 7,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -667,8 +667,8 @@
         "Sylveon": 2,
         "Inteleon": 2
       },
-      "total_spawns": 2284,
-      "last_spawn": "2026-07-05T22:25:03.733577"
+      "total_spawns": 2288,
+      "last_spawn": "2026-07-05T22:26:23.509843"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -678,7 +678,7 @@
         "Flaaffy": 4,
         "Bronzor": 2,
         "Gible": 7,
-        "Torracat": 3,
+        "Torracat": 4,
         "Dusclops": 4,
         "Rhyhorn": 8,
         "Mareep": 9,
@@ -986,7 +986,7 @@
         "Varoom": 8,
         "Kirlia": 4,
         "Minccino": 3,
-        "Charmander": 4,
+        "Charmander": 5,
         "Misdreavus": 4,
         "Growlithe": 5,
         "Arctozolt": 3,
@@ -1312,14 +1312,15 @@
         "Delcatty": 1,
         "Chandelure": 1,
         "Bulbasaur": 1,
-        "Stantler": 1
+        "Stantler": 1,
+        "Bewear": 1
       },
-      "total_spawns": 2384,
-      "last_spawn": "2026-07-05T22:25:44.464915"
+      "total_spawns": 2387,
+      "last_spawn": "2026-07-05T22:26:14.348057"
     }
   },
   "global": {
-    "total_spawns": 67207,
+    "total_spawns": 67214,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
