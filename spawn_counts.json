@@ -13,7 +13,7 @@
         "Oddish": 3,
         "Totodile": 2,
         "Vanillite": 12,
-        "Weedle": 4,
+        "Weedle": 6,
         "Kabutops": 2,
         "Poliwag": 8,
         "Fidough": 5,
@@ -47,7 +47,7 @@
         "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 7,
-        "Grubbin": 7,
+        "Grubbin": 8,
         "Scatterbug": 5,
         "Skwovet": 3,
         "Applin": 2,
@@ -406,7 +406,7 @@
         "Zorua": 2,
         "Minior": 1,
         "Darmanitan": 1,
-        "Lopunny": 1,
+        "Lopunny": 2,
         "Chimchar": 3,
         "Gligar": 1,
         "Quaxly": 3,
@@ -505,8 +505,8 @@
         "Spinarak": 1,
         "Goomy": 1
       },
-      "total_spawns": 1090,
-      "last_spawn": "2026-07-05T20:18:28.242118"
+      "total_spawns": 1094,
+      "last_spawn": "2026-07-05T20:18:58.249205"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -609,14 +609,14 @@
         "Mantyke": 1,
         "Slakoth": 9,
         "Dreepy": 8,
-        "Foongus": 2,
+        "Foongus": 3,
         "Hoppip": 9,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 9,
         "Mosslax": 8,
         "Braixen": 2,
-        "Skwovet": 2,
+        "Skwovet": 3,
         "Magnemite": 10,
         "Impidimp": 13,
         "Elgyem": 2,
@@ -855,7 +855,7 @@
         "Mismagius": 1,
         "Mudbray": 4,
         "Weepinbell": 1,
-        "East sea shellos": 4,
+        "East sea shellos": 5,
         "Flygon": 1,
         "Cyclizar": 2,
         "Murkrow": 1,
@@ -941,7 +941,7 @@
         "Naclstack": 2,
         "Golbat": 4,
         "Shuppet": 1,
-        "East sea gastrodon": 1,
+        "East sea gastrodon": 2,
         "Grovyle": 1,
         "Grumpig": 2,
         "White plumage squawkabilly": 2,
@@ -974,7 +974,7 @@
         "Rhydon": 1,
         "Bruxish": 1,
         "Pancham": 1,
-        "Exeggcute": 1,
+        "Exeggcute": 2,
         "Cherubi": 1,
         "Tangrowth": 1,
         "Frosmoth": 1,
@@ -1030,7 +1030,7 @@
         "Dottler": 1,
         "Mr. mime": 1,
         "Slowking": 1,
-        "Goldeen": 1,
+        "Goldeen": 2,
         "Froakie": 1,
         "Inkay": 1,
         "Quilava": 1,
@@ -1055,12 +1055,12 @@
         "Brambleghast": 1,
         "Victreebel": 1
       },
-      "total_spawns": 1558,
-      "last_spawn": "2026-07-05T20:18:34.394381"
+      "total_spawns": 1564,
+      "last_spawn": "2026-07-05T20:19:04.495455"
     }
   },
   "global": {
-    "total_spawns": 65187,
+    "total_spawns": 65197,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
