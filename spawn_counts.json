@@ -486,13 +486,13 @@
         "Sewaddle": 2,
         "Mantyke": 1,
         "Slakoth": 3,
-        "Dreepy": 1,
+        "Dreepy": 2,
         "Foongus": 1,
         "Hoppip": 2,
         "Blipbug": 1,
         "Swoobat": 1,
-        "Greavard": 2,
-        "Mosslax": 2,
+        "Greavard": 3,
+        "Mosslax": 3,
         "Braixen": 1,
         "Skwovet": 1,
         "Magnemite": 1,
@@ -548,7 +548,7 @@
         "Scatterbug": 1,
         "Taillow": 1,
         "Wimpod": 1,
-        "Rookidee": 2,
+        "Rookidee": 3,
         "Shellos": 1,
         "Roaming gimmighoul": 1,
         "Grotle": 1,
@@ -583,12 +583,12 @@
         "Espurr": 1,
         "Doduo": 1
       },
-      "total_spawns": 260,
-      "last_spawn": "2026-07-05T15:25:04.497065"
+      "total_spawns": 264,
+      "last_spawn": "2026-07-05T15:25:44.453528"
     }
   },
   "global": {
-    "total_spawns": 63434,
+    "total_spawns": 63438,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
