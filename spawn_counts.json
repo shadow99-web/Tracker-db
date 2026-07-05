@@ -1425,7 +1425,7 @@
         "Dracovish": 1,
         "Slowpoke": 1,
         "Drizzile": 1,
-        "Tinkatink": 2,
+        "Tinkatink": 3,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 1,
@@ -1444,14 +1444,17 @@
         "Zigzagoon": 1,
         "Quilladin": 1,
         "Infernape": 1,
-        "Noibat": 1
+        "Noibat": 1,
+        "Gothorita": 1,
+        "Ekans": 1,
+        "Brambleghast": 1
       },
-      "total_spawns": 408,
-      "last_spawn": "2026-07-05T03:59:13.591345"
+      "total_spawns": 412,
+      "last_spawn": "2026-07-05T03:59:55.500986"
     }
   },
   "global": {
-    "total_spawns": 62947,
+    "total_spawns": 62951,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
