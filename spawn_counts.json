@@ -37,7 +37,7 @@
         "Duskull": 10,
         "Abra": 9,
         "Wiglett": 4,
-        "Starly": 8,
+        "Starly": 10,
         "Caterpie": 3,
         "Mareep": 3,
         "Capsakid": 5,
@@ -123,7 +123,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
-        "Rookidee": 5,
+        "Rookidee": 7,
         "Flapple": 2,
         "Bronzor": 1,
         "Swirlix": 2,
@@ -131,7 +131,7 @@
         "Ducklett": 1,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 1,
+        "Torchic": 2,
         "Abomasnow": 1,
         "Slugma": 3,
         "Venonat": 1,
@@ -517,8 +517,8 @@
         "Nidorina": 1,
         "Bronzong": 1
       },
-      "total_spawns": 1174,
-      "last_spawn": "2026-07-05T20:29:08.198883"
+      "total_spawns": 1179,
+      "last_spawn": "2026-07-05T20:29:38.336538"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -578,7 +578,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 8,
+        "Gastly": 9,
         "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
@@ -614,8 +614,8 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 8,
-        "Horsea": 15,
-        "Teddiursa": 9,
+        "Horsea": 16,
+        "Teddiursa": 10,
         "Dratini": 2,
         "Sewaddle": 7,
         "Mantyke": 1,
@@ -694,7 +694,7 @@
         "Glameow": 3,
         "Swinub": 12,
         "Marshtomp": 2,
-        "Venonat": 1,
+        "Venonat": 2,
         "Aipom": 1,
         "Rellor": 7,
         "Hippopotas": 3,
@@ -719,7 +719,7 @@
         "Kadabra": 4,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
-        "Capsakid": 8,
+        "Capsakid": 9,
         "Tyrunt": 1,
         "Drilbur": 2,
         "Vaporeon": 3,
@@ -1022,7 +1022,7 @@
         "Silicobra": 2,
         "Houndoom": 1,
         "Shieldon": 1,
-        "Panpour": 1,
+        "Panpour": 2,
         "Yanma": 1,
         "Vileplume": 1,
         "Gurdurr": 1,
@@ -1078,12 +1078,12 @@
         "Herdier": 1,
         "Starmie": 1
       },
-      "total_spawns": 1683,
-      "last_spawn": "2026-07-05T20:29:17.217860"
+      "total_spawns": 1689,
+      "last_spawn": "2026-07-05T20:29:47.236727"
     }
   },
   "global": {
-    "total_spawns": 65396,
+    "total_spawns": 65407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
