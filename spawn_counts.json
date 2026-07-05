@@ -704,7 +704,7 @@
         "Machop": 16,
         "Psyduck": 6,
         "Monferno": 3,
-        "Pikipek": 10,
+        "Pikipek": 11,
         "Flittle": 10,
         "Lillipup": 10,
         "Eevee": 3,
@@ -761,7 +761,7 @@
         "Seedot": 18,
         "Trapinch": 16,
         "Hatenna": 14,
-        "Drifloon": 3,
+        "Drifloon": 4,
         "Togepi": 9,
         "Snivy": 4,
         "Bellsprout": 13,
@@ -776,7 +776,7 @@
         "Eldegoss": 1,
         "Aron": 13,
         "Horsea": 20,
-        "Teddiursa": 18,
+        "Teddiursa": 19,
         "Dratini": 6,
         "Sewaddle": 10,
         "Mantyke": 3,
@@ -1118,7 +1118,7 @@
         "Grovyle": 2,
         "Grumpig": 2,
         "White plumage squawkabilly": 5,
-        "Koffing": 1,
+        "Koffing": 2,
         "Rhyperior": 2,
         "Spritzee": 7,
         "Hawlucha": 1,
@@ -1382,12 +1382,12 @@
         "Dusknoir": 1,
         "Sealeo": 1
       },
-      "total_spawns": 2885,
-      "last_spawn": "2026-07-05T23:50:34.600700"
+      "total_spawns": 2889,
+      "last_spawn": "2026-07-05T23:51:14.373014"
     }
   },
   "global": {
-    "total_spawns": 67890,
+    "total_spawns": 67894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
