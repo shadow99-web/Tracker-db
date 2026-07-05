@@ -822,7 +822,7 @@
         "Greninja": 1,
         "Dondozo": 11,
         "Lairon": 4,
-        "Zubat": 18,
+        "Zubat": 19,
         "Croagunk": 4,
         "Klawf": 11,
         "Lombre": 2,
@@ -1045,7 +1045,7 @@
         "Togetic": 4,
         "Houndstone": 10,
         "Ponyta": 1,
-        "Drifblim": 3,
+        "Drifblim": 4,
         "Arcanine": 2,
         "Lickitung": 4,
         "Pyroar": 1,
@@ -1080,7 +1080,7 @@
         "Rockruff": 3,
         "Stunfisk": 2,
         "Spinda": 3,
-        "Beautifly": 2,
+        "Beautifly": 3,
         "Fletchling": 13,
         "Haunter": 3,
         "Sandshrew": 4,
@@ -1349,7 +1349,7 @@
         "Wigglytuff": 1,
         "Audino": 1,
         "Larvesta": 2,
-        "Sudowoodo": 1,
+        "Sudowoodo": 2,
         "Meowstic": 1,
         "Torterra": 1,
         "Charizard": 1,
@@ -1378,12 +1378,12 @@
         "Dialga": 1,
         "Joltik": 1
       },
-      "total_spawns": 2849,
-      "last_spawn": "2026-07-05T23:44:24.593998"
+      "total_spawns": 2853,
+      "last_spawn": "2026-07-05T23:45:04.494002"
     }
   },
   "global": {
-    "total_spawns": 67842,
+    "total_spawns": 67846,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
