@@ -1228,7 +1228,7 @@
         "Aron": 2,
         "Honedge": 3,
         "Houndour": 1,
-        "Machop": 4,
+        "Machop": 5,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -1461,18 +1461,19 @@
         "Torracat": 1,
         "Geodude": 1,
         "Tentacruel": 1,
-        "Archen": 1,
+        "Archen": 2,
         "Blue plumage squawkabilly": 1,
         "Metang": 1,
         "Larvitar": 1,
-        "Lumineon": 1
+        "Lumineon": 1,
+        "Kilowattrel": 1
       },
-      "total_spawns": 459,
-      "last_spawn": "2026-07-05T04:07:53.618752"
+      "total_spawns": 462,
+      "last_spawn": "2026-07-05T04:08:33.676084"
     }
   },
   "global": {
-    "total_spawns": 62998,
+    "total_spawns": 63001,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
