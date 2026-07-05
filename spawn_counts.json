@@ -1180,7 +1180,7 @@
         "Arctibax": 1,
         "Ralts": 4,
         "Peakychu": 3,
-        "Cutiefly": 1,
+        "Cutiefly": 2,
         "Simipour": 1,
         "Tynamo": 1,
         "Palossand": 1,
@@ -1291,7 +1291,7 @@
         "Abomasnow": 1,
         "Slugma": 2,
         "Venonat": 1,
-        "Eelektrik": 1,
+        "Eelektrik": 2,
         "Diglett": 2,
         "Surskit": 1,
         "Seedot": 3,
@@ -1304,7 +1304,7 @@
         "Turtwig": 1,
         "Fomantis": 2,
         "Claydol": 1,
-        "Trapinch": 2,
+        "Trapinch": 3,
         "Butterfree": 1,
         "Teddiursa": 3,
         "Roggenrola": 1,
@@ -1397,7 +1397,7 @@
         "Lunatone": 1,
         "Machoke": 1,
         "Luvdisc": 1,
-        "Fennekin": 1,
+        "Fennekin": 2,
         "Milcery": 1,
         "Trumbeak": 1,
         "Bonsly": 1,
@@ -1512,14 +1512,16 @@
         "Phantump": 1,
         "Barboach": 1,
         "Nosepass": 1,
-        "Electrike": 1
+        "Electrike": 1,
+        "Hoppip": 1,
+        "Slowbro": 1
       },
-      "total_spawns": 563,
-      "last_spawn": "2026-07-05T04:24:28.148395"
+      "total_spawns": 569,
+      "last_spawn": "2026-07-05T04:24:58.296272"
     }
   },
   "global": {
-    "total_spawns": 63102,
+    "total_spawns": 63108,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
