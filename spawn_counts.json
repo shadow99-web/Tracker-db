@@ -437,7 +437,7 @@
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 4,
+        "Bramblin": 5,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 1,
@@ -562,13 +562,13 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 3,
-        "Swinub": 5,
+        "Swinub": 6,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
         "Rellor": 3,
         "Hippopotas": 1,
-        "Chikorita": 1,
+        "Chikorita": 2,
         "Litwick": 2,
         "Metapod": 1,
         "Morgrem": 1,
@@ -700,12 +700,12 @@
         "Chimchar": 1,
         "Mewtwo": 1
       },
-      "total_spawns": 516,
-      "last_spawn": "2026-07-05T16:08:24.397457"
+      "total_spawns": 519,
+      "last_spawn": "2026-07-05T16:09:04.405359"
     }
   },
   "global": {
-    "total_spawns": 63700,
+    "total_spawns": 63703,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
