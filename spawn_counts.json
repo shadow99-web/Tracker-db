@@ -506,7 +506,7 @@
         "Shroodle": 5,
         "Clawitzer": 1,
         "Poliwrath": 1,
-        "Combusken": 2,
+        "Combusken": 3,
         "Bombirdier": 3,
         "Wooloo": 3,
         "Togekiss": 1,
@@ -615,9 +615,9 @@
         "Barbaracle": 3,
         "Noivern": 2,
         "Clefairy": 3,
-        "Grubbin": 5,
+        "Grubbin": 6,
         "Dustox": 1,
-        "Chespin": 3,
+        "Chespin": 4,
         "Armarouge": 2,
         "Battle cyclizar": 1,
         "Bagon": 1,
@@ -636,7 +636,7 @@
         "Summer deerling": 3,
         "Skrelp": 3,
         "Spewpa": 2,
-        "Fomantis": 1,
+        "Fomantis": 2,
         "Forretress": 1,
         "Squirtle": 1,
         "Wingull": 1,
@@ -704,7 +704,7 @@
         "Zweilous": 2,
         "Amoonguss": 1,
         "Varoom": 4,
-        "Kirlia": 1,
+        "Kirlia": 2,
         "Minccino": 1,
         "Charmander": 2,
         "Misdreavus": 1,
@@ -737,7 +737,7 @@
         "Mismagius": 1,
         "Mudbray": 1,
         "Weepinbell": 1,
-        "East sea shellos": 2,
+        "East sea shellos": 3,
         "Flygon": 1,
         "Cyclizar": 1,
         "Murkrow": 1,
@@ -834,14 +834,15 @@
         "Paras": 1,
         "Crobat": 1,
         "Pignite": 1,
-        "Gulpin": 1
+        "Gulpin": 1,
+        "Vullaby": 1
       },
-      "total_spawns": 1055,
-      "last_spawn": "2026-07-05T17:35:47.401067"
+      "total_spawns": 1062,
+      "last_spawn": "2026-07-05T17:36:24.514828"
     }
   },
   "global": {
-    "total_spawns": 64243,
+    "total_spawns": 64250,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
