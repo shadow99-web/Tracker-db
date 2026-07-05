@@ -489,14 +489,14 @@
         "Blipbug": 1,
         "Swoobat": 1,
         "Greavard": 1,
-        "Mosslax": 1,
+        "Mosslax": 2,
         "Braixen": 1,
         "Skwovet": 1,
         "Magnemite": 1,
         "Impidimp": 1,
         "Elgyem": 1,
         "Gastrodon": 1,
-        "Shroodle": 1,
+        "Shroodle": 2,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 1,
@@ -515,14 +515,16 @@
         "Flamigo": 1,
         "Stunky": 1,
         "Spinarak": 1,
-        "Gligar": 1
+        "Gligar": 1,
+        "Cubone": 1,
+        "Dracovish": 1
       },
-      "total_spawns": 149,
-      "last_spawn": "2026-07-05T15:06:04.408543"
+      "total_spawns": 153,
+      "last_spawn": "2026-07-05T15:06:44.825328"
     }
   },
   "global": {
-    "total_spawns": 63318,
+    "total_spawns": 63322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
