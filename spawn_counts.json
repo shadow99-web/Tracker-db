@@ -1191,7 +1191,7 @@
         "Fletchling": 2,
         "Whirlipede": 2,
         "Duskull": 6,
-        "Abra": 3,
+        "Abra": 4,
         "Wiglett": 2,
         "Starly": 4,
         "Caterpie": 2,
@@ -1219,7 +1219,7 @@
         "Cubchoo": 1,
         "Koffing": 2,
         "Kirlia": 1,
-        "Deino": 1,
+        "Deino": 2,
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 3,
@@ -1489,14 +1489,18 @@
         "Oinkologne": 1,
         "Floragato": 1,
         "Larvesta": 1,
-        "Magby": 1
+        "Magby": 1,
+        "Roaming gimmighoul": 1,
+        "Volcarona": 1,
+        "Togekiss": 1,
+        "Furfrou": 1
       },
-      "total_spawns": 509,
-      "last_spawn": "2026-07-05T04:17:14.343399"
+      "total_spawns": 515,
+      "last_spawn": "2026-07-05T04:17:53.717017"
     }
   },
   "global": {
-    "total_spawns": 63048,
+    "total_spawns": 63054,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
