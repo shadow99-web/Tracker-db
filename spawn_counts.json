@@ -484,7 +484,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
-        "Horsea": 7,
+        "Horsea": 8,
         "Teddiursa": 4,
         "Dratini": 1,
         "Sewaddle": 5,
@@ -552,7 +552,7 @@
         "Scatterbug": 4,
         "Taillow": 2,
         "Wimpod": 4,
-        "Rookidee": 5,
+        "Rookidee": 6,
         "Shellos": 1,
         "Roaming gimmighoul": 2,
         "Grotle": 1,
@@ -649,7 +649,7 @@
         "Snover": 2,
         "Bayleef": 2,
         "Nosepass": 1,
-        "Scovillain": 2,
+        "Scovillain": 3,
         "Sliggoo": 2,
         "Silcoon": 1,
         "Tadbulb": 5,
@@ -726,7 +726,7 @@
         "Electrike": 2,
         "Kabuto": 1,
         "Chewtle": 1,
-        "Drakloak": 1,
+        "Drakloak": 2,
         "Pawmo": 2,
         "Charjabug": 1,
         "Hoothoot": 1,
@@ -812,12 +812,12 @@
         "Gogoat": 1,
         "Morelull": 1
       },
-      "total_spawns": 935,
-      "last_spawn": "2026-07-05T17:19:44.518242"
+      "total_spawns": 939,
+      "last_spawn": "2026-07-05T17:20:24.502571"
     }
   },
   "global": {
-    "total_spawns": 64120,
+    "total_spawns": 64124,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
