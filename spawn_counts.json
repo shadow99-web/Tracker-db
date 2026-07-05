@@ -427,7 +427,7 @@
         "Fidough": 1,
         "Smearguru": 1,
         "Nuzleaf": 1,
-        "Clauncher": 1,
+        "Clauncher": 2,
         "Cetitan": 1,
         "Bramblin": 1,
         "Dusk lycanroc": 1,
@@ -486,14 +486,17 @@
         "Foongus": 1,
         "Hoppip": 1,
         "Blipbug": 1,
-        "Swoobat": 1
+        "Swoobat": 1,
+        "Greavard": 1,
+        "Mosslax": 1,
+        "Braixen": 1
       },
-      "total_spawns": 115,
-      "last_spawn": "2026-07-05T15:00:14.799329"
+      "total_spawns": 119,
+      "last_spawn": "2026-07-05T15:00:55.983114"
     }
   },
   "global": {
-    "total_spawns": 63283,
+    "total_spawns": 63287,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
