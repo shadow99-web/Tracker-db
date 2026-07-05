@@ -217,7 +217,7 @@
         "Kingdra": 1,
         "Chikorita": 2,
         "Donphan": 1,
-        "Shuppet": 3,
+        "Shuppet": 4,
         "Graveler": 1,
         "Duosion": 1,
         "Orthworm": 6,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 1,
-        "Geodude": 3,
+        "Geodude": 4,
         "Tentacruel": 1,
         "Archen": 3,
         "Blue plumage squawkabilly": 1,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 3,
-        "Finizen": 2,
+        "Finizen": 3,
         "Swablu": 1,
         "Sunkern": 1,
         "Snubbull": 1,
@@ -509,10 +509,11 @@
         "Hippopotas": 1,
         "Reuniclus": 1,
         "Melmetal": 1,
-        "Liepard": 1
+        "Liepard": 1,
+        "Necrozma": 1
       },
-      "total_spawns": 1145,
-      "last_spawn": "2026-07-05T20:25:28.394075"
+      "total_spawns": 1149,
+      "last_spawn": "2026-07-05T20:25:58.209426"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -528,7 +529,7 @@
         "Mareep": 6,
         "Klink": 7,
         "Nymble": 7,
-        "Porygon": 10,
+        "Porygon": 11,
         "Abra": 10,
         "Oddish": 9,
         "Dedenne": 2,
@@ -638,7 +639,7 @@
         "Duskull": 5,
         "Marill": 5,
         "Axew": 4,
-        "Tinkatink": 5,
+        "Tinkatink": 6,
         "Starly": 11,
         "Popplio": 2,
         "Watchog": 1,
@@ -683,7 +684,7 @@
         "Squawkabilly": 1,
         "Wartortle": 2,
         "Rowlet": 2,
-        "Gholdengo": 2,
+        "Gholdengo": 3,
         "Machoke": 2,
         "Glameow": 3,
         "Swinub": 10,
@@ -732,7 +733,7 @@
         "Omanyte": 5,
         "Scraggy": 2,
         "Komala": 1,
-        "Stoutland": 1,
+        "Stoutland": 2,
         "Tirtouga": 4,
         "Swablu": 5,
         "Tepig": 2,
@@ -828,7 +829,7 @@
         "Zweilous": 2,
         "Amoonguss": 1,
         "Varoom": 6,
-        "Kirlia": 2,
+        "Kirlia": 3,
         "Minccino": 3,
         "Charmander": 4,
         "Misdreavus": 2,
@@ -950,7 +951,7 @@
         "East sea gastrodon": 2,
         "Grovyle": 1,
         "Grumpig": 2,
-        "White plumage squawkabilly": 2,
+        "White plumage squawkabilly": 3,
         "Koffing": 1,
         "Rhyperior": 1,
         "Spritzee": 3,
@@ -1068,14 +1069,15 @@
         "Wynaut": 1,
         "Wo-chien": 1,
         "Tranquill": 1,
-        "Mankey": 1
+        "Mankey": 1,
+        "Herdier": 1
       },
-      "total_spawns": 1638,
-      "last_spawn": "2026-07-05T20:25:28.094752"
+      "total_spawns": 1645,
+      "last_spawn": "2026-07-05T20:26:05.048080"
     }
   },
   "global": {
-    "total_spawns": 65322,
+    "total_spawns": 65333,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
