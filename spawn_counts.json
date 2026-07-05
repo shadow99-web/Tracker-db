@@ -592,7 +592,7 @@
         "Tyrunt": 1,
         "Drilbur": 1,
         "Vaporeon": 1,
-        "Magneton": 2,
+        "Magneton": 3,
         "Pupitar": 1,
         "Durant": 1,
         "Jigglypuff": 1,
@@ -661,7 +661,7 @@
         "Tarountula": 1,
         "Omastar": 1,
         "Surskit": 1,
-        "Wooper": 1,
+        "Wooper": 2,
         "Tatsugiri": 1,
         "Oranguru": 1,
         "Kricketot": 1,
@@ -670,12 +670,12 @@
         "Fennekin": 1,
         "Fuecoco": 1
       },
-      "total_spawns": 445,
-      "last_spawn": "2026-07-05T15:56:24.397984"
+      "total_spawns": 447,
+      "last_spawn": "2026-07-05T15:56:54.495924"
     }
   },
   "global": {
-    "total_spawns": 63627,
+    "total_spawns": 63629,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
