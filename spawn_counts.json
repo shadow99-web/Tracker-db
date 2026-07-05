@@ -380,10 +380,11 @@
         "Unown": 3,
         "Poltchageist": 1,
         "Slakoth": 1,
-        "Klink": 1
+        "Klink": 1,
+        "Mesprit": 1
       },
-      "total_spawns": 634,
-      "last_spawn": "2026-07-05T15:17:39.803785"
+      "total_spawns": 635,
+      "last_spawn": "2026-07-05T15:24:11.597414"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -408,21 +409,21 @@
         "Machop": 1,
         "Psyduck": 2,
         "Monferno": 1,
-        "Pikipek": 1,
+        "Pikipek": 2,
         "Flittle": 2,
         "Lillipup": 1,
         "Eevee": 2,
         "Shroomish": 1,
         "Dachsbun": 1,
         "Swirlix": 1,
-        "Glimmora": 1,
+        "Glimmora": 2,
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 3,
         "Jangmo-o": 3,
         "Samurott": 1,
         "Kleavor": 1,
-        "Karrablast": 1,
+        "Karrablast": 2,
         "Timburr": 2,
         "Pidgey": 2,
         "Gimmighoul": 2,
@@ -577,14 +578,15 @@
         "Ninjask": 1,
         "Pidove": 1,
         "Larvitar": 1,
-        "Munna": 1
+        "Munna": 1,
+        "Tangela": 1
       },
-      "total_spawns": 253,
-      "last_spawn": "2026-07-05T15:23:54.603881"
+      "total_spawns": 257,
+      "last_spawn": "2026-07-05T15:24:34.396815"
     }
   },
   "global": {
-    "total_spawns": 63426,
+    "total_spawns": 63431,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
