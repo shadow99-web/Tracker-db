@@ -23,7 +23,7 @@
         "Anorith": 3,
         "Arctibax": 1,
         "Ralts": 6,
-        "Peakychu": 13,
+        "Peakychu": 15,
         "Cutiefly": 3,
         "Simipour": 2,
         "Tynamo": 6,
@@ -41,7 +41,7 @@
         "Caterpie": 5,
         "Mareep": 4,
         "Capsakid": 8,
-        "Numel": 3,
+        "Numel": 4,
         "Pawmo": 2,
         "Wattrel": 6,
         "Tadbulb": 7,
@@ -606,10 +606,11 @@
         "Golbat": 1,
         "Amoonguss": 1,
         "Herdier": 1,
-        "Blissey": 1
+        "Blissey": 2,
+        "Cinccino": 2
       },
-      "total_spawns": 1756,
-      "last_spawn": "2026-07-05T21:20:23.557541"
+      "total_spawns": 1762,
+      "last_spawn": "2026-07-05T21:20:53.794025"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -674,7 +675,7 @@
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 3,
-        "Corphish": 2,
+        "Corphish": 3,
         "Litten": 4,
         "Infernape": 3,
         "Arboliva": 1,
@@ -811,7 +812,7 @@
         "Stretchy tatsugiri": 4,
         "Dugtrio": 1,
         "Capsakid": 9,
-        "Tyrunt": 1,
+        "Tyrunt": 2,
         "Drilbur": 2,
         "Vaporeon": 3,
         "Magneton": 3,
@@ -1012,7 +1013,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 2,
-        "Fletchling": 10,
+        "Fletchling": 11,
         "Haunter": 2,
         "Sandshrew": 1,
         "Fletchinder": 3,
@@ -1217,12 +1218,12 @@
         "Golem": 1,
         "Numel": 1
       },
-      "total_spawns": 1997,
-      "last_spawn": "2026-07-05T21:20:14.697084"
+      "total_spawns": 2000,
+      "last_spawn": "2026-07-05T21:20:44.648425"
     }
   },
   "global": {
-    "total_spawns": 66292,
+    "total_spawns": 66301,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
