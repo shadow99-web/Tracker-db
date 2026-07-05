@@ -1444,7 +1444,7 @@
         "Zigzagoon": 2,
         "Quilladin": 1,
         "Infernape": 1,
-        "Noibat": 1,
+        "Noibat": 2,
         "Gothorita": 2,
         "Ekans": 1,
         "Brambleghast": 1,
@@ -1480,14 +1480,16 @@
         "Finizen": 1,
         "Swablu": 1,
         "Sunkern": 1,
-        "Snubbull": 1
+        "Snubbull": 1,
+        "Crocalor": 1,
+        "Magnemite": 1
       },
-      "total_spawns": 491,
-      "last_spawn": "2026-07-05T04:14:43.785931"
+      "total_spawns": 494,
+      "last_spawn": "2026-07-05T04:15:23.746210"
     }
   },
   "global": {
-    "total_spawns": 63030,
+    "total_spawns": 63033,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
