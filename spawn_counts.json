@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 1,
-        "Tarountula": 1,
+        "Tarountula": 2,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 3,
@@ -704,14 +704,16 @@
         "Zweilous": 1,
         "Amoonguss": 1,
         "Varoom": 1,
-        "Kirlia": 1
+        "Kirlia": 1,
+        "Minccino": 1,
+        "Charmander": 1
       },
-      "total_spawns": 539,
-      "last_spawn": "2026-07-05T16:12:34.344655"
+      "total_spawns": 542,
+      "last_spawn": "2026-07-05T16:13:04.440005"
     }
   },
   "global": {
-    "total_spawns": 63723,
+    "total_spawns": 63726,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
