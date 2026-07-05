@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 5,
         "Grubbin": 5,
-        "Scatterbug": 3,
+        "Scatterbug": 4,
         "Skwovet": 2,
         "Applin": 2,
         "Staryu": 1,
@@ -70,7 +70,7 @@
         "Vulpix": 1,
         "Gastly": 6,
         "Aron": 2,
-        "Honedge": 11,
+        "Honedge": 12,
         "Houndour": 1,
         "Machop": 6,
         "Terapagos": 1,
@@ -172,7 +172,7 @@
         "Mienshao": 1,
         "Blipbug": 6,
         "Rellor": 2,
-        "Rolycoly": 2,
+        "Rolycoly": 3,
         "Poliwhirl": 1,
         "Lokix": 2,
         "Flamigo": 3,
@@ -340,7 +340,7 @@
         "Furfrou": 1,
         "Ursaring": 1,
         "Bidoof": 1,
-        "Gothita": 1,
+        "Gothita": 2,
         "Solosis": 2,
         "Sandygast": 1,
         "Pidove": 1,
@@ -408,10 +408,11 @@
         "Darmanitan": 1,
         "Lopunny": 1,
         "Chimchar": 1,
-        "Gligar": 1
+        "Gligar": 1,
+        "Quaxly": 1
       },
-      "total_spawns": 739,
-      "last_spawn": "2026-07-05T19:38:53.876569"
+      "total_spawns": 744,
+      "last_spawn": "2026-07-05T19:39:33.632219"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -911,7 +912,7 @@
     }
   },
   "global": {
-    "total_spawns": 64570,
+    "total_spawns": 64575,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
