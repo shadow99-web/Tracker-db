@@ -1212,7 +1212,7 @@
         "Smoliv": 2,
         "Tirtouga": 3,
         "Hatenna": 2,
-        "Shroomish": 2,
+        "Shroomish": 3,
         "Lillipup": 2,
         "Mosslax": 5,
         "Maushold": 1,
@@ -1222,7 +1222,7 @@
         "Deino": 1,
         "Dolliv": 1,
         "Feebas": 1,
-        "Prof tangrowth": 2,
+        "Prof tangrowth": 3,
         "Vulpix": 1,
         "Gastly": 3,
         "Aron": 2,
@@ -1241,7 +1241,7 @@
         "Marshtomp": 1,
         "Squirtle": 2,
         "Shinx": 4,
-        "Drakloak": 2,
+        "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 1,
         "Sandile": 2,
@@ -1461,12 +1461,12 @@
         "Torracat": 1,
         "Geodude": 1
       },
-      "total_spawns": 442,
-      "last_spawn": "2026-07-05T04:04:53.736204"
+      "total_spawns": 445,
+      "last_spawn": "2026-07-05T04:05:23.813661"
     }
   },
   "global": {
-    "total_spawns": 62981,
+    "total_spawns": 62984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
