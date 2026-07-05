@@ -422,7 +422,7 @@
         "Glimmora": 2,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 4,
+        "Whismur": 5,
         "Jangmo-o": 3,
         "Samurott": 1,
         "Kleavor": 1,
@@ -636,14 +636,16 @@
         "Skrelp": 1,
         "Spewpa": 1,
         "Fomantis": 1,
-        "Forretress": 1
+        "Forretress": 1,
+        "Squirtle": 1,
+        "Wingull": 1
       },
-      "total_spawns": 365,
-      "last_spawn": "2026-07-05T15:42:54.498236"
+      "total_spawns": 368,
+      "last_spawn": "2026-07-05T15:43:24.501454"
     }
   },
   "global": {
-    "total_spawns": 63546,
+    "total_spawns": 63549,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
