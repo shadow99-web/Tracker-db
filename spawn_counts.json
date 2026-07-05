@@ -556,10 +556,12 @@
         "Arrokuda": 1,
         "Toxapex": 2,
         "Pawmot": 1,
-        "Blitzle": 1
+        "Blitzle": 1,
+        "Iron crown": 2,
+        "Barbaracle": 1
       },
-      "total_spawns": 1397,
-      "last_spawn": "2026-07-05T20:55:03.840715"
+      "total_spawns": 1400,
+      "last_spawn": "2026-07-05T20:55:13.556885"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -580,7 +582,7 @@
         "Oddish": 10,
         "Dedenne": 2,
         "Gothita": 9,
-        "Finizen": 9,
+        "Finizen": 10,
         "Machop": 10,
         "Psyduck": 4,
         "Monferno": 1,
@@ -708,7 +710,7 @@
         "Klawf": 6,
         "Lombre": 2,
         "Wurmple": 5,
-        "Peakychu": 6,
+        "Peakychu": 7,
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 7,
@@ -1116,7 +1118,7 @@
         "Wo-chien": 1,
         "Tranquill": 1,
         "Mankey": 1,
-        "Herdier": 1,
+        "Herdier": 2,
         "Starmie": 1,
         "Monsoon vivillon": 1,
         "Magnezone": 1,
@@ -1145,12 +1147,12 @@
         "Ampharos": 1,
         "Falinks": 1
       },
-      "total_spawns": 1852,
-      "last_spawn": "2026-07-05T20:55:04.394401"
+      "total_spawns": 1855,
+      "last_spawn": "2026-07-05T20:55:34.793473"
     }
   },
   "global": {
-    "total_spawns": 65788,
+    "total_spawns": 65794,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
