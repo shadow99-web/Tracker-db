@@ -370,10 +370,11 @@
         "Gigalith": 1,
         "Kingambit": 1,
         "Cresselia": 2,
-        "Duraludon": 2
+        "Duraludon": 2,
+        "Nidorino": 1
       },
-      "total_spawns": 609,
-      "last_spawn": "2026-07-05T14:17:41.496470"
+      "total_spawns": 610,
+      "last_spawn": "2026-07-05T14:38:00.061971"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -448,14 +449,16 @@
         "Charcadet": 1,
         "Sandile": 1,
         "Maushold": 1,
-        "Rattata": 1
+        "Rattata": 1,
+        "Riolu": 1,
+        "Aromatisse": 1
       },
-      "total_spawns": 79,
-      "last_spawn": "2026-07-05T14:19:54.418258"
+      "total_spawns": 81,
+      "last_spawn": "2026-07-05T14:20:14.503158"
     }
   },
   "global": {
-    "total_spawns": 63227,
+    "total_spawns": 63230,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
