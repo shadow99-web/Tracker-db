@@ -341,7 +341,7 @@
         "Ursaring": 1,
         "Bidoof": 2,
         "Gothita": 5,
-        "Solosis": 10,
+        "Solosis": 11,
         "Sandygast": 2,
         "Pidove": 5,
         "Chespin": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 2,
-        "Spheal": 7,
+        "Spheal": 8,
         "Amaura": 2,
         "Wailord": 1,
         "Accelgor": 2,
@@ -639,10 +639,12 @@
         "Elekid": 1,
         "Chingling": 2,
         "Tangela": 1,
-        "Raticate": 1
+        "Raticate": 1,
+        "Weavile": 2,
+        "Amped toxtricity": 2
       },
-      "total_spawns": 2082,
-      "last_spawn": "2026-07-05T21:54:43.639665"
+      "total_spawns": 2088,
+      "last_spawn": "2026-07-05T21:55:23.645572"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -664,7 +666,7 @@
         "Dedenne": 2,
         "Gothita": 10,
         "Finizen": 12,
-        "Machop": 11,
+        "Machop": 12,
         "Psyduck": 6,
         "Monferno": 1,
         "Pikipek": 8,
@@ -842,7 +844,7 @@
         "Doduo": 3,
         "Kadabra": 5,
         "Stretchy tatsugiri": 4,
-        "Dugtrio": 1,
+        "Dugtrio": 2,
         "Capsakid": 10,
         "Tyrunt": 2,
         "Drilbur": 2,
@@ -1033,7 +1035,7 @@
         "Furfrou": 2,
         "Thwackey": 3,
         "Gabite": 2,
-        "Toxel": 4,
+        "Toxel": 5,
         "Boldore": 4,
         "Prof tangrowth": 5,
         "Corvisquire": 4,
@@ -1272,12 +1274,12 @@
         "Petilil": 1,
         "Gloom": 1
       },
-      "total_spawns": 2200,
-      "last_spawn": "2026-07-05T21:54:44.583600"
+      "total_spawns": 2203,
+      "last_spawn": "2026-07-05T21:55:14.395017"
     }
   },
   "global": {
-    "total_spawns": 66821,
+    "total_spawns": 66830,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
