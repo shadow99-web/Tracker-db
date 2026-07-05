@@ -12,7 +12,7 @@
         "Braixen": 5,
         "Oddish": 9,
         "Totodile": 3,
-        "Vanillite": 18,
+        "Vanillite": 20,
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 11,
@@ -121,12 +121,12 @@
         "Crabrawler": 3,
         "Frogadier": 3,
         "Scovillain": 1,
-        "White plumage squawkabilly": 3,
+        "White plumage squawkabilly": 4,
         "Flaaffy": 2,
         "Rookidee": 9,
         "Flapple": 4,
         "Bronzor": 1,
-        "Swirlix": 2,
+        "Swirlix": 4,
         "Varoom": 2,
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
@@ -617,10 +617,11 @@
         "Orange flower florges": 1,
         "Minun": 2,
         "Hangry morpeko": 2,
-        "Omanyte": 1
+        "Omanyte": 1,
+        "Mamoswine": 1
       },
-      "total_spawns": 1865,
-      "last_spawn": "2026-07-05T21:33:43.817682"
+      "total_spawns": 1871,
+      "last_spawn": "2026-07-05T21:34:13.924490"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -660,7 +661,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 3,
-        "Timburr": 8,
+        "Timburr": 9,
         "Pidgey": 7,
         "Gimmighoul": 7,
         "Cetoddle": 14,
@@ -751,7 +752,7 @@
         "Popplio": 2,
         "Watchog": 2,
         "Bounsweet": 17,
-        "Flamigo": 9,
+        "Flamigo": 10,
         "Stunky": 2,
         "Spinarak": 3,
         "Gligar": 1,
@@ -1232,14 +1233,15 @@
         "Beartic": 1,
         "Oricorio": 1,
         "Leafeon": 1,
-        "Natu": 1
+        "Natu": 1,
+        "Slugma": 1
       },
-      "total_spawns": 2075,
-      "last_spawn": "2026-07-05T21:33:34.542139"
+      "total_spawns": 2078,
+      "last_spawn": "2026-07-05T21:34:04.695206"
     }
   },
   "global": {
-    "total_spawns": 66479,
+    "total_spawns": 66488,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
