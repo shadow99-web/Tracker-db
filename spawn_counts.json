@@ -405,7 +405,7 @@
         "Klink": 3,
         "Nymble": 3,
         "Porygon": 5,
-        "Abra": 4,
+        "Abra": 5,
         "Oddish": 7,
         "Dedenne": 1,
         "Gothita": 3,
@@ -569,7 +569,7 @@
         "Rellor": 3,
         "Hippopotas": 1,
         "Chikorita": 2,
-        "Litwick": 2,
+        "Litwick": 3,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -596,7 +596,7 @@
         "Magneton": 3,
         "Pupitar": 1,
         "Durant": 1,
-        "Jigglypuff": 1,
+        "Jigglypuff": 2,
         "Steenee": 1,
         "Mareanie": 2,
         "Munkidori": 1,
@@ -738,12 +738,12 @@
         "Mudbray": 1,
         "Weepinbell": 1
       },
-      "total_spawns": 644,
-      "last_spawn": "2026-07-05T16:30:45.614785"
+      "total_spawns": 647,
+      "last_spawn": "2026-07-05T16:31:15.945299"
     }
   },
   "global": {
-    "total_spawns": 63828,
+    "total_spawns": 63831,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
