@@ -785,11 +785,11 @@
         "Mosslax": 12,
         "Braixen": 2,
         "Skwovet": 3,
-        "Magnemite": 10,
+        "Magnemite": 11,
         "Impidimp": 20,
         "Elgyem": 3,
         "Gastrodon": 1,
-        "Shroodle": 12,
+        "Shroodle": 13,
         "Clawitzer": 2,
         "Poliwrath": 1,
         "Combusken": 3,
@@ -1177,7 +1177,7 @@
         "Aggron": 2,
         "Silicobra": 2,
         "Houndoom": 1,
-        "Shieldon": 2,
+        "Shieldon": 3,
         "Panpour": 3,
         "Yanma": 1,
         "Vileplume": 1,
@@ -1359,12 +1359,12 @@
         "Beheeyem": 1,
         "Blade aegislash": 1
       },
-      "total_spawns": 2693,
-      "last_spawn": "2026-07-05T23:17:54.393113"
+      "total_spawns": 2696,
+      "last_spawn": "2026-07-05T23:18:24.595498"
     }
   },
   "global": {
-    "total_spawns": 67628,
+    "total_spawns": 67631,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
