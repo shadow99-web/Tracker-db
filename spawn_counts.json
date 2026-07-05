@@ -227,7 +227,7 @@
         "Carvanha": 2,
         "Toxel": 3,
         "Buneary": 2,
-        "Gallade": 1,
+        "Gallade": 3,
         "Tangrowth": 1,
         "Sizzlipede": 2,
         "Skuntank": 1,
@@ -674,8 +674,8 @@
         "Igglybuff": 1,
         "Garchomp": 2
       },
-      "total_spawns": 2418,
-      "last_spawn": "2026-07-05T23:25:23.791841"
+      "total_spawns": 2420,
+      "last_spawn": "2026-07-05T23:27:15.198573"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1018,7 +1018,7 @@
         "Charjabug": 3,
         "Hoothoot": 2,
         "Pom-pom oricorio": 1,
-        "Toxapex": 1,
+        "Toxapex": 2,
         "Frogadier": 6,
         "Golett": 3,
         "Mismagius": 1,
@@ -1116,7 +1116,7 @@
         "White plumage squawkabilly": 5,
         "Koffing": 1,
         "Rhyperior": 2,
-        "Spritzee": 6,
+        "Spritzee": 7,
         "Hawlucha": 1,
         "Paras": 3,
         "Crobat": 1,
@@ -1365,14 +1365,15 @@
         "Hitmontop": 1,
         "Galarian weezing": 1,
         "Flareon": 1,
-        "Volcarona": 1
+        "Volcarona": 1,
+        "Carvanha": 1
       },
-      "total_spawns": 2747,
-      "last_spawn": "2026-07-05T23:26:55.133464"
+      "total_spawns": 2750,
+      "last_spawn": "2026-07-05T23:27:25.497537"
     }
   },
   "global": {
-    "total_spawns": 67704,
+    "total_spawns": 67709,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
