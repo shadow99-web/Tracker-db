@@ -691,7 +691,7 @@
         "Klink": 9,
         "Nymble": 14,
         "Porygon": 14,
-        "Abra": 17,
+        "Abra": 18,
         "Oddish": 15,
         "Dedenne": 2,
         "Gothita": 14,
@@ -856,7 +856,7 @@
         "Hippopotas": 4,
         "Chikorita": 5,
         "Litwick": 17,
-        "Metapod": 1,
+        "Metapod": 2,
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 2,
@@ -1003,7 +1003,7 @@
         "Sandygast": 2,
         "Graveler": 5,
         "Duosion": 4,
-        "Pawniard": 4,
+        "Pawniard": 5,
         "Rabsca": 4,
         "Cofagrigus": 2,
         "Hattrem": 4,
@@ -1358,12 +1358,12 @@
         "Claydol": 1,
         "Beheeyem": 1
       },
-      "total_spawns": 2682,
-      "last_spawn": "2026-07-05T23:16:04.397874"
+      "total_spawns": 2685,
+      "last_spawn": "2026-07-05T23:16:36.199917"
     }
   },
   "global": {
-    "total_spawns": 67611,
+    "total_spawns": 67614,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
