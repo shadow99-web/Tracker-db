@@ -429,14 +429,17 @@
         "Kilowattrel": 1,
         "Skiploom": 1,
         "Voltorb": 1,
-        "Geodude": 1
+        "Geodude": 1,
+        "Treecko": 1,
+        "Grimer": 1,
+        "Grafaiai": 1
       },
-      "total_spawns": 56,
-      "last_spawn": "2026-07-05T14:16:04.344696"
+      "total_spawns": 59,
+      "last_spawn": "2026-07-05T14:16:34.498172"
     }
   },
   "global": {
-    "total_spawns": 63203,
+    "total_spawns": 63206,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
