@@ -1187,7 +1187,7 @@
         "Pyukumuku": 1,
         "Pidgey": 1,
         "Binacle": 1,
-        "Bounsweet": 3,
+        "Bounsweet": 4,
         "Fletchling": 2,
         "Whirlipede": 1,
         "Duskull": 6,
@@ -1217,7 +1217,7 @@
         "Mosslax": 5,
         "Maushold": 1,
         "Cubchoo": 1,
-        "Koffing": 1,
+        "Koffing": 2,
         "Kirlia": 1,
         "Deino": 1,
         "Dolliv": 1,
@@ -1420,7 +1420,7 @@
         "Mawile": 1,
         "Marill": 1,
         "Lickitung": 1,
-        "Chewtle": 1,
+        "Chewtle": 2,
         "Onix": 1,
         "Dracovish": 1,
         "Slowpoke": 1,
@@ -1457,14 +1457,15 @@
         "Arboliva": 1,
         "Luxio": 1,
         "Quaxwell": 1,
-        "Swanna": 1
+        "Swanna": 1,
+        "Torracat": 1
       },
-      "total_spawns": 432,
-      "last_spawn": "2026-07-05T04:03:14.096518"
+      "total_spawns": 436,
+      "last_spawn": "2026-07-05T04:03:53.549575"
     }
   },
   "global": {
-    "total_spawns": 62971,
+    "total_spawns": 62975,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
