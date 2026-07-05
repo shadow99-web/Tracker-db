@@ -794,7 +794,7 @@
         "Impidimp": 20,
         "Elgyem": 3,
         "Gastrodon": 1,
-        "Shroodle": 15,
+        "Shroodle": 16,
         "Clawitzer": 2,
         "Poliwrath": 1,
         "Combusken": 3,
@@ -802,7 +802,7 @@
         "Wooloo": 6,
         "Togekiss": 1,
         "Rolycoly": 14,
-        "Duskull": 13,
+        "Duskull": 14,
         "Marill": 6,
         "Axew": 9,
         "Tinkatink": 10,
@@ -1036,7 +1036,7 @@
         "Cyndaquil": 3,
         "Thievul": 1,
         "Gengar": 1,
-        "Sunkern": 4,
+        "Sunkern": 5,
         "Wugtrio": 4,
         "Applin": 4,
         "Venipede": 13,
@@ -1377,14 +1377,15 @@
         "Staravia": 1,
         "Dudunsparce": 1,
         "Dialga": 1,
-        "Joltik": 1
+        "Joltik": 1,
+        "Unown s": 1
       },
-      "total_spawns": 2870,
-      "last_spawn": "2026-07-05T23:48:04.596893"
+      "total_spawns": 2874,
+      "last_spawn": "2026-07-05T23:48:44.352033"
     }
   },
   "global": {
-    "total_spawns": 67874,
+    "total_spawns": 67878,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
