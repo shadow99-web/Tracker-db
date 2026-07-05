@@ -67,7 +67,7 @@
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 13,
-        "Vulpix": 5,
+        "Vulpix": 6,
         "Gastly": 14,
         "Aron": 8,
         "Honedge": 18,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 2,
         "Whismur": 11,
-        "Jangmo-o": 5,
+        "Jangmo-o": 6,
         "Lunatone": 1,
         "Machoke": 3,
         "Luvdisc": 1,
@@ -529,7 +529,7 @@
         "Droopy tatsugiri": 1,
         "Volcanion": 1,
         "Drapion": 2,
-        "Wartortle": 1,
+        "Wartortle": 2,
         "Midnight lycanroc": 1,
         "Skiploom": 1,
         "Stakataka": 1,
@@ -540,7 +540,7 @@
         "White flower floette": 2,
         "Octillery": 2,
         "Pawniard": 1,
-        "Brionne": 1,
+        "Brionne": 3,
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
@@ -647,10 +647,11 @@
         "Simisage": 2,
         "Cherubi": 1,
         "Heatmor": 1,
-        "Vikavolt": 1
+        "Vikavolt": 1,
+        "Eelektross": 1
       },
-      "total_spawns": 2166,
-      "last_spawn": "2026-07-05T22:05:43.772068"
+      "total_spawns": 2172,
+      "last_spawn": "2026-07-05T22:06:23.697431"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -880,7 +881,7 @@
         "Grubbin": 14,
         "Dustox": 2,
         "Chespin": 6,
-        "Armarouge": 3,
+        "Armarouge": 4,
         "Battle cyclizar": 3,
         "Bagon": 5,
         "Vanilluxe": 2,
@@ -1120,7 +1121,7 @@
         "Pancham": 1,
         "Exeggcute": 2,
         "Cherubi": 1,
-        "Tangrowth": 1,
+        "Tangrowth": 2,
         "Frosmoth": 1,
         "Farigiraf": 1,
         "Servine": 1,
@@ -1284,14 +1285,15 @@
         "Camerupt": 1,
         "Dolliv": 1,
         "Lampent": 1,
-        "Ursaluna": 1
+        "Ursaluna": 1,
+        "Mawile": 1
       },
-      "total_spawns": 2265,
-      "last_spawn": "2026-07-05T22:05:44.596180"
+      "total_spawns": 2268,
+      "last_spawn": "2026-07-05T22:06:14.416731"
     }
   },
   "global": {
-    "total_spawns": 66970,
+    "total_spawns": 66979,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
