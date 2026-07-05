@@ -457,7 +457,7 @@
         "Sandile": 2,
         "Maushold": 1,
         "Rattata": 2,
-        "Riolu": 1,
+        "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 2,
@@ -526,14 +526,17 @@
         "Dondozo": 1,
         "Lairon": 1,
         "Zubat": 1,
-        "Croagunk": 1
+        "Croagunk": 1,
+        "Klawf": 1,
+        "Lombre": 1,
+        "Wurmple": 1
       },
-      "total_spawns": 163,
-      "last_spawn": "2026-07-05T15:08:24.636406"
+      "total_spawns": 167,
+      "last_spawn": "2026-07-05T15:09:04.907002"
     }
   },
   "global": {
-    "total_spawns": 63334,
+    "total_spawns": 63338,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
