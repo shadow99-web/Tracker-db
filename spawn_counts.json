@@ -22,7 +22,7 @@
         "Rowlet": 3,
         "Anorith": 3,
         "Arctibax": 1,
-        "Ralts": 10,
+        "Ralts": 12,
         "Peakychu": 17,
         "Cutiefly": 3,
         "Simipour": 2,
@@ -668,10 +668,11 @@
         "Inteleon": 2,
         "Milotic": 1,
         "Slaking": 1,
-        "Obstagoon": 2
+        "Obstagoon": 2,
+        "Greninja": 1
       },
-      "total_spawns": 2339,
-      "last_spawn": "2026-07-05T22:50:33.909409"
+      "total_spawns": 2342,
+      "last_spawn": "2026-07-05T22:51:14.003571"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -801,7 +802,7 @@
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
-        "Bounsweet": 19,
+        "Bounsweet": 20,
         "Flamigo": 11,
         "Stunky": 3,
         "Spinarak": 3,
@@ -1279,7 +1280,7 @@
         "Golem": 1,
         "Numel": 2,
         "Noctowl": 1,
-        "Cacnea": 2,
+        "Cacnea": 3,
         "Beartic": 1,
         "Oricorio": 1,
         "Leafeon": 1,
@@ -1340,14 +1341,15 @@
         "Hakamo-o": 1,
         "Purrloin": 1,
         "Wigglytuff": 1,
-        "Audino": 1
+        "Audino": 1,
+        "Larvesta": 1
       },
-      "total_spawns": 2531,
-      "last_spawn": "2026-07-05T22:50:44.393535"
+      "total_spawns": 2534,
+      "last_spawn": "2026-07-05T22:51:14.479042"
     }
   },
   "global": {
-    "total_spawns": 67409,
+    "total_spawns": 67415,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
