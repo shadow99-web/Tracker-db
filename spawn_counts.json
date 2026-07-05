@@ -492,10 +492,10 @@
         "Slakoth": 7,
         "Dreepy": 4,
         "Foongus": 2,
-        "Hoppip": 2,
+        "Hoppip": 3,
         "Blipbug": 4,
         "Swoobat": 1,
-        "Greavard": 5,
+        "Greavard": 6,
         "Mosslax": 5,
         "Braixen": 2,
         "Skwovet": 1,
@@ -547,7 +547,7 @@
         "Tynamo": 2,
         "Quaquaval": 2,
         "Rapidash": 1,
-        "Maschiff": 2,
+        "Maschiff": 3,
         "Sensu oricorio": 2,
         "Scatterbug": 3,
         "Taillow": 1,
@@ -691,7 +691,7 @@
         "Poliwag": 1,
         "Passimian": 1,
         "Pikachu": 1,
-        "Yungoos": 1,
+        "Yungoos": 2,
         "Luxio": 1,
         "Frigibax": 1,
         "Krokorok": 2,
@@ -750,12 +750,12 @@
         "Applin": 1,
         "Venipede": 1
       },
-      "total_spawns": 682,
-      "last_spawn": "2026-07-05T16:37:04.544766"
+      "total_spawns": 686,
+      "last_spawn": "2026-07-05T16:37:44.424826"
     }
   },
   "global": {
-    "total_spawns": 63866,
+    "total_spawns": 63870,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
