@@ -446,7 +446,7 @@
         "Grafaiai": 1,
         "Gastly": 1,
         "Orthworm": 3,
-        "Glimmet": 2,
+        "Glimmet": 3,
         "Beldum": 1,
         "Combee": 1,
         "Corphish": 1,
@@ -579,14 +579,16 @@
         "Pidove": 1,
         "Larvitar": 1,
         "Munna": 1,
-        "Tangela": 1
+        "Tangela": 1,
+        "Espurr": 1,
+        "Doduo": 1
       },
-      "total_spawns": 257,
-      "last_spawn": "2026-07-05T15:24:34.396815"
+      "total_spawns": 260,
+      "last_spawn": "2026-07-05T15:25:04.497065"
     }
   },
   "global": {
-    "total_spawns": 63431,
+    "total_spawns": 63434,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
