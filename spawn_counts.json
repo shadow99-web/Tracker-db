@@ -404,7 +404,7 @@
         "Mareep": 1,
         "Klink": 2,
         "Nymble": 3,
-        "Porygon": 3,
+        "Porygon": 4,
         "Abra": 2,
         "Oddish": 6,
         "Dedenne": 1,
@@ -452,7 +452,7 @@
         "Orthworm": 3,
         "Glimmet": 3,
         "Beldum": 1,
-        "Combee": 1,
+        "Combee": 2,
         "Corphish": 1,
         "Litten": 3,
         "Infernape": 1,
@@ -584,7 +584,7 @@
         "Larvitar": 1,
         "Munna": 1,
         "Tangela": 1,
-        "Espurr": 1,
+        "Espurr": 2,
         "Doduo": 2,
         "Kadabra": 1,
         "Stretchy tatsugiri": 1,
@@ -687,12 +687,12 @@
         "Minior": 1,
         "Veluza": 1
       },
-      "total_spawns": 488,
-      "last_spawn": "2026-07-05T16:03:44.432077"
+      "total_spawns": 491,
+      "last_spawn": "2026-07-05T16:04:14.495759"
     }
   },
   "global": {
-    "total_spawns": 63672,
+    "total_spawns": 63675,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
