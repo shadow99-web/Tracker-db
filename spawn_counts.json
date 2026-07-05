@@ -16,7 +16,7 @@
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 11,
-        "Fidough": 6,
+        "Fidough": 7,
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 3,
@@ -48,11 +48,11 @@
         "Yanmega": 1,
         "Tympole": 8,
         "Grubbin": 8,
-        "Scatterbug": 7,
+        "Scatterbug": 8,
         "Skwovet": 3,
         "Applin": 2,
         "Staryu": 1,
-        "Maschiff": 5,
+        "Maschiff": 6,
         "Smoliv": 3,
         "Tirtouga": 4,
         "Hatenna": 8,
@@ -91,7 +91,7 @@
         "Sandile": 14,
         "Charmeleon": 3,
         "Riolu": 4,
-        "Gible": 6,
+        "Gible": 7,
         "Greavard": 12,
         "Snover": 3,
         "Piplup": 2,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 4,
         "Mienshao": 1,
-        "Blipbug": 12,
+        "Blipbug": 14,
         "Rellor": 4,
         "Rolycoly": 7,
         "Poliwhirl": 4,
@@ -308,7 +308,7 @@
         "Archen": 5,
         "Blue plumage squawkabilly": 2,
         "Metang": 1,
-        "Larvitar": 6,
+        "Larvitar": 7,
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
@@ -329,7 +329,7 @@
         "Magnemite": 4,
         "Doublade": 1,
         "Sharpedo": 1,
-        "Raboot": 3,
+        "Raboot": 4,
         "Oinkologne": 3,
         "Floragato": 1,
         "Larvesta": 9,
@@ -638,8 +638,8 @@
         "Unown k": 2,
         "Elekid": 1
       },
-      "total_spawns": 2023,
-      "last_spawn": "2026-07-05T21:49:28.445076"
+      "total_spawns": 2031,
+      "last_spawn": "2026-07-05T21:50:03.696816"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -650,7 +650,7 @@
         "Bronzor": 2,
         "Gible": 7,
         "Torracat": 3,
-        "Dusclops": 3,
+        "Dusclops": 4,
         "Rhyhorn": 6,
         "Mareep": 9,
         "Klink": 8,
@@ -777,7 +777,7 @@
         "Cubone": 3,
         "Dracovish": 1,
         "Deino": 8,
-        "Honedge": 5,
+        "Honedge": 6,
         "Litleo": 3,
         "Steelix": 2,
         "Greninja": 1,
@@ -1267,12 +1267,12 @@
         "Floragato": 1,
         "Blue plumage squawkabilly": 1
       },
-      "total_spawns": 2169,
-      "last_spawn": "2026-07-05T21:49:24.372370"
+      "total_spawns": 2171,
+      "last_spawn": "2026-07-05T21:49:54.525976"
     }
   },
   "global": {
-    "total_spawns": 66731,
+    "total_spawns": 66741,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
