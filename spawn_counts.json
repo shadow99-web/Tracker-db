@@ -142,7 +142,7 @@
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
-        "Wugtrio": 3,
+        "Wugtrio": 4,
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 1,
@@ -330,7 +330,7 @@
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 2,
-        "Oinkologne": 1,
+        "Oinkologne": 2,
         "Floragato": 1,
         "Larvesta": 3,
         "Magby": 1,
@@ -357,7 +357,7 @@
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 1,
-        "Hoppip": 4,
+        "Hoppip": 5,
         "Slowbro": 2,
         "Gholdengo": 2,
         "Trubbish": 1,
@@ -505,8 +505,8 @@
         "Spinarak": 1,
         "Goomy": 1
       },
-      "total_spawns": 1094,
-      "last_spawn": "2026-07-05T20:18:58.249205"
+      "total_spawns": 1097,
+      "last_spawn": "2026-07-05T20:19:28.342220"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -603,14 +603,14 @@
         "Eldegoss": 1,
         "Aron": 6,
         "Horsea": 15,
-        "Teddiursa": 7,
+        "Teddiursa": 8,
         "Dratini": 2,
         "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 9,
         "Dreepy": 8,
         "Foongus": 3,
-        "Hoppip": 9,
+        "Hoppip": 10,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 9,
@@ -662,7 +662,7 @@
         "Sizzlipede": 3,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 7,
+        "Tynamo": 8,
         "Quaquaval": 4,
         "Rapidash": 1,
         "Maschiff": 8,
@@ -835,7 +835,7 @@
         "Sandygast": 1,
         "Graveler": 4,
         "Duosion": 2,
-        "Pawniard": 1,
+        "Pawniard": 2,
         "Rabsca": 3,
         "Cofagrigus": 1,
         "Hattrem": 1,
@@ -940,7 +940,7 @@
         "Swampert": 1,
         "Naclstack": 2,
         "Golbat": 4,
-        "Shuppet": 1,
+        "Shuppet": 2,
         "East sea gastrodon": 2,
         "Grovyle": 1,
         "Grumpig": 2,
@@ -1036,7 +1036,7 @@
         "Quilava": 1,
         "Drowzee": 1,
         "Nidorino": 1,
-        "Sobble": 2,
+        "Sobble": 3,
         "Vigoroth": 2,
         "Finneon": 1,
         "Debutante trim furfrou": 1,
@@ -1053,14 +1053,15 @@
         "Hatterene": 1,
         "Cleffa": 1,
         "Brambleghast": 1,
-        "Victreebel": 1
+        "Victreebel": 1,
+        "Vibrava": 1
       },
-      "total_spawns": 1564,
-      "last_spawn": "2026-07-05T20:19:04.495455"
+      "total_spawns": 1571,
+      "last_spawn": "2026-07-05T20:19:39.798244"
     }
   },
   "global": {
-    "total_spawns": 65197,
+    "total_spawns": 65207,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
