@@ -18,7 +18,7 @@
         "Poliwag": 11,
         "Fidough": 9,
         "Charjabug": 2,
-        "Hatterene": 1,
+        "Hatterene": 3,
         "Rowlet": 3,
         "Anorith": 3,
         "Arctibax": 1,
@@ -384,7 +384,7 @@
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 3,
-        "Charizard": 6,
+        "Charizard": 8,
         "Axew": 17,
         "Joltik": 2,
         "Gulpin": 1,
@@ -656,10 +656,11 @@
         "Passimian": 1,
         "Jynx": 1,
         "Noctowl": 1,
-        "Munna": 1
+        "Munna": 1,
+        "Mabosstiff": 1
       },
-      "total_spawns": 2255,
-      "last_spawn": "2026-07-05T22:19:03.497091"
+      "total_spawns": 2260,
+      "last_spawn": "2026-07-05T22:20:01.339942"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -840,7 +841,7 @@
         "Rellor": 9,
         "Hippopotas": 4,
         "Chikorita": 5,
-        "Litwick": 14,
+        "Litwick": 15,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -1100,7 +1101,7 @@
         "White plumage squawkabilly": 4,
         "Koffing": 1,
         "Rhyperior": 1,
-        "Spritzee": 3,
+        "Spritzee": 4,
         "Hawlucha": 1,
         "Paras": 3,
         "Crobat": 1,
@@ -1299,14 +1300,15 @@
         "Munchlax": 1,
         "Dodrio": 1,
         "Wailord": 1,
-        "Houndour": 1
+        "Houndour": 1,
+        "Delcatty": 1
       },
-      "total_spawns": 2346,
-      "last_spawn": "2026-07-05T22:19:24.430164"
+      "total_spawns": 2349,
+      "last_spawn": "2026-07-05T22:19:54.404249"
     }
   },
   "global": {
-    "total_spawns": 67140,
+    "total_spawns": 67148,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
