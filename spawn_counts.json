@@ -770,7 +770,7 @@
         "Wattrel": 19,
         "Nacli": 23,
         "Feebas": 3,
-        "Weedle": 12,
+        "Weedle": 13,
         "Ralts": 15,
         "Kangaskhan": 1,
         "Eldegoss": 2,
@@ -905,7 +905,7 @@
         "Tepig": 4,
         "Barbaracle": 4,
         "Noivern": 3,
-        "Clefairy": 8,
+        "Clefairy": 9,
         "Grubbin": 18,
         "Dustox": 2,
         "Chespin": 8,
@@ -1117,7 +1117,7 @@
         "East sea gastrodon": 2,
         "Grovyle": 2,
         "Grumpig": 2,
-        "White plumage squawkabilly": 5,
+        "White plumage squawkabilly": 6,
         "Koffing": 2,
         "Rhyperior": 2,
         "Spritzee": 7,
@@ -1384,12 +1384,12 @@
         "Manectric": 1,
         "Honchkrow": 1
       },
-      "total_spawns": 2923,
-      "last_spawn": "2026-07-05T23:56:54.524977"
+      "total_spawns": 2926,
+      "last_spawn": "2026-07-05T23:57:24.688459"
     }
   },
   "global": {
-    "total_spawns": 67941,
+    "total_spawns": 67944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
