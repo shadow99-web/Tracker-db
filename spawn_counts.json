@@ -448,7 +448,7 @@
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
-        "Gastly": 2,
+        "Gastly": 3,
         "Orthworm": 3,
         "Glimmet": 3,
         "Beldum": 1,
@@ -489,7 +489,7 @@
         "Dratini": 1,
         "Sewaddle": 4,
         "Mantyke": 1,
-        "Slakoth": 6,
+        "Slakoth": 7,
         "Dreepy": 2,
         "Foongus": 2,
         "Hoppip": 2,
@@ -499,7 +499,7 @@
         "Mosslax": 4,
         "Braixen": 1,
         "Skwovet": 1,
-        "Magnemite": 2,
+        "Magnemite": 3,
         "Impidimp": 3,
         "Elgyem": 1,
         "Gastrodon": 1,
@@ -729,12 +729,12 @@
         "Drakloak": 1,
         "Pawmo": 1
       },
-      "total_spawns": 607,
-      "last_spawn": "2026-07-05T16:23:54.348005"
+      "total_spawns": 610,
+      "last_spawn": "2026-07-05T16:24:24.402453"
     }
   },
   "global": {
-    "total_spawns": 63791,
+    "total_spawns": 63794,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
