@@ -475,7 +475,7 @@
         "Bellsprout": 2,
         "Scorbunny": 2,
         "Roggenrola": 2,
-        "Wattrel": 2,
+        "Wattrel": 3,
         "Nacli": 1,
         "Feebas": 1,
         "Weedle": 3,
@@ -531,7 +531,7 @@
         "Greninja": 1,
         "Dondozo": 2,
         "Lairon": 1,
-        "Zubat": 3,
+        "Zubat": 4,
         "Croagunk": 1,
         "Klawf": 3,
         "Lombre": 2,
@@ -656,14 +656,15 @@
         "Malamar": 1,
         "Pincurchin": 1,
         "Whirlipede": 1,
-        "Tinkatuff": 1
+        "Tinkatuff": 1,
+        "Baltoy": 1
       },
-      "total_spawns": 420,
-      "last_spawn": "2026-07-05T15:52:04.697176"
+      "total_spawns": 423,
+      "last_spawn": "2026-07-05T15:52:34.707912"
     }
   },
   "global": {
-    "total_spawns": 63602,
+    "total_spawns": 63605,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
