@@ -169,7 +169,7 @@
         "Clefairy": 1,
         "Unown q": 1,
         "Lotad": 4,
-        "Mienshao": 1,
+        "Mienshao": 2,
         "Blipbug": 14,
         "Rellor": 4,
         "Rolycoly": 7,
@@ -192,7 +192,7 @@
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 14,
-        "Dj rotom": 6,
+        "Dj rotom": 8,
         "Chef dente": 11,
         "Hisuian qwilfish": 1,
         "Bagon": 7,
@@ -232,7 +232,7 @@
         "Sizzlipede": 2,
         "Skuntank": 1,
         "Palafin": 5,
-        "Timburr": 5,
+        "Timburr": 6,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 6,
-        "Axew": 15,
+        "Axew": 17,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 2,
@@ -636,10 +636,11 @@
         "Klinklang": 1,
         "Lickilicky": 2,
         "Unown k": 2,
-        "Elekid": 1
+        "Elekid": 1,
+        "Chingling": 1
       },
-      "total_spawns": 2049,
-      "last_spawn": "2026-07-05T21:51:33.596394"
+      "total_spawns": 2056,
+      "last_spawn": "2026-07-05T21:52:08.138620"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -736,7 +737,7 @@
         "Eldegoss": 1,
         "Aron": 12,
         "Horsea": 17,
-        "Teddiursa": 11,
+        "Teddiursa": 12,
         "Dratini": 4,
         "Sewaddle": 7,
         "Mantyke": 2,
@@ -803,7 +804,7 @@
         "Scatterbug": 15,
         "Taillow": 2,
         "Wimpod": 6,
-        "Rookidee": 10,
+        "Rookidee": 11,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 2,
@@ -1019,7 +1020,7 @@
         "Electivire": 2,
         "Droopy tatsugiri": 4,
         "Blitzle": 3,
-        "Politoed": 1,
+        "Politoed": 2,
         "Nickit": 1,
         "Wiglett": 7,
         "Carkol": 2,
@@ -1267,12 +1268,12 @@
         "Floragato": 1,
         "Blue plumage squawkabilly": 1
       },
-      "total_spawns": 2181,
-      "last_spawn": "2026-07-05T21:51:34.715426"
+      "total_spawns": 2184,
+      "last_spawn": "2026-07-05T21:52:04.597054"
     }
   },
   "global": {
-    "total_spawns": 66769,
+    "total_spawns": 66779,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
