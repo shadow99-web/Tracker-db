@@ -616,7 +616,7 @@
         "Binacle": 3,
         "Kilowattrel": 3,
         "Skiploom": 3,
-        "Voltorb": 5,
+        "Voltorb": 6,
         "Geodude": 11,
         "Treecko": 1,
         "Grimer": 2,
@@ -737,7 +737,7 @@
         "Glameow": 3,
         "Swinub": 12,
         "Marshtomp": 2,
-        "Venonat": 3,
+        "Venonat": 4,
         "Aipom": 1,
         "Rellor": 7,
         "Hippopotas": 3,
@@ -754,7 +754,7 @@
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 5,
-        "Larvitar": 8,
+        "Larvitar": 9,
         "Munna": 1,
         "Tangela": 4,
         "Espurr": 4,
@@ -1149,12 +1149,12 @@
         "Phanpy": 1,
         "Blastoise": 1
       },
-      "total_spawns": 1865,
-      "last_spawn": "2026-07-05T20:57:24.444372"
+      "total_spawns": 1868,
+      "last_spawn": "2026-07-05T20:57:54.500998"
     }
   },
   "global": {
-    "total_spawns": 65804,
+    "total_spawns": 65807,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
