@@ -37,7 +37,7 @@
         "Duskull": 14,
         "Abra": 13,
         "Wiglett": 7,
-        "Starly": 16,
+        "Starly": 18,
         "Caterpie": 5,
         "Mareep": 5,
         "Capsakid": 8,
@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 7,
-        "Sandile": 12,
+        "Sandile": 14,
         "Charmeleon": 3,
         "Riolu": 2,
         "Gible": 6,
@@ -353,7 +353,7 @@
         "Klang": 2,
         "Tepig": 2,
         "Spinda": 1,
-        "Phantump": 1,
+        "Phantump": 2,
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 2,
@@ -616,8 +616,8 @@
         "Malamar": 1,
         "Orange flower florges": 1
       },
-      "total_spawns": 1835,
-      "last_spawn": "2026-07-05T21:29:53.744665"
+      "total_spawns": 1840,
+      "last_spawn": "2026-07-05T21:30:23.550889"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -704,7 +704,7 @@
         "Snivy": 2,
         "Bellsprout": 8,
         "Scorbunny": 2,
-        "Roggenrola": 12,
+        "Roggenrola": 13,
         "Wattrel": 13,
         "Nacli": 18,
         "Feebas": 2,
@@ -1034,7 +1034,7 @@
         "Bunnelby": 3,
         "Vanillish": 2,
         "Arrokuda": 2,
-        "Snom": 1,
+        "Snom": 2,
         "Noibat": 1,
         "Turtwig": 3,
         "Snubbull": 2,
@@ -1217,7 +1217,7 @@
         "Kabutops": 1,
         "Unfezant": 1,
         "Hisuian typhlosion": 1,
-        "Ekans": 1,
+        "Ekans": 2,
         "Oinkologne": 1,
         "Clobbopus": 1,
         "Heracross": 1,
@@ -1230,12 +1230,12 @@
         "Oricorio": 1,
         "Leafeon": 1
       },
-      "total_spawns": 2053,
-      "last_spawn": "2026-07-05T21:29:54.276641"
+      "total_spawns": 2056,
+      "last_spawn": "2026-07-05T21:30:24.477808"
     }
   },
   "global": {
-    "total_spawns": 66427,
+    "total_spawns": 66435,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
