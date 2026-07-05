@@ -72,7 +72,7 @@
         "Aron": 6,
         "Honedge": 18,
         "Houndour": 1,
-        "Machop": 8,
+        "Machop": 9,
         "Terapagos": 1,
         "Mankey": 2,
         "Torterra": 1,
@@ -625,10 +625,12 @@
         "Krokorok": 1,
         "Torkoal": 2,
         "Clamperl": 1,
-        "Rampardos": 1
+        "Rampardos": 1,
+        "Weepinbell": 1,
+        "Cufant": 1
       },
-      "total_spawns": 1951,
-      "last_spawn": "2026-07-05T21:44:03.697418"
+      "total_spawns": 1954,
+      "last_spawn": "2026-07-05T21:44:33.565679"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1074,7 +1076,7 @@
         "Paras": 3,
         "Crobat": 1,
         "Pignite": 1,
-        "Gulpin": 3,
+        "Gulpin": 4,
         "Vullaby": 2,
         "Burmy": 1,
         "Nidorina": 1,
@@ -1148,7 +1150,7 @@
         "Ditto": 1,
         "Alolan meowth": 1,
         "Budew": 1,
-        "Cascoon": 2,
+        "Cascoon": 3,
         "Dottler": 1,
         "Mr. mime": 1,
         "Slowking": 1,
@@ -1192,7 +1194,7 @@
         "Dewgong": 1,
         "Cradily": 1,
         "Baxcalibur": 1,
-        "Midnight lycanroc": 1,
+        "Midnight lycanroc": 2,
         "Floette": 1,
         "Phantump": 1,
         "Probopass": 2,
@@ -1248,14 +1250,15 @@
         "White flower floette": 1,
         "Typhlosion": 1,
         "Yellow flower florges": 1,
-        "Delphox": 1
+        "Delphox": 1,
+        "Dragonair": 1
       },
-      "total_spawns": 2136,
-      "last_spawn": "2026-07-05T21:43:54.467987"
+      "total_spawns": 2140,
+      "last_spawn": "2026-07-05T21:44:35.019434"
     }
   },
   "global": {
-    "total_spawns": 66626,
+    "total_spawns": 66633,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
