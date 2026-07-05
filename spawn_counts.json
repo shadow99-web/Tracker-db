@@ -16,7 +16,7 @@
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 8,
-        "Fidough": 4,
+        "Fidough": 5,
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 2,
@@ -146,7 +146,7 @@
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 1,
-        "Fomantis": 2,
+        "Fomantis": 3,
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 1,
@@ -485,15 +485,19 @@
         "Lairon": 1,
         "Altaria": 1,
         "Attack deoxys": 2,
-        "Mudkip": 2,
+        "Mudkip": 4,
         "Galarian zapdos": 1,
         "Empoleon": 1,
         "Voltorb": 1,
         "Hitmonchan": 1,
-        "Pidgeot": 1
+        "Pidgeot": 1,
+        "Alakazam": 1,
+        "Mismagius": 1,
+        "Dada zarude": 1,
+        "Yellow flower florges": 1
       },
-      "total_spawns": 1056,
-      "last_spawn": "2026-07-05T20:14:43.711489"
+      "total_spawns": 1064,
+      "last_spawn": "2026-07-05T20:15:13.911261"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -506,7 +510,7 @@
         "Torracat": 1,
         "Dusclops": 3,
         "Rhyhorn": 3,
-        "Mareep": 4,
+        "Mareep": 5,
         "Klink": 6,
         "Nymble": 6,
         "Porygon": 10,
@@ -514,7 +518,7 @@
         "Oddish": 8,
         "Dedenne": 2,
         "Gothita": 5,
-        "Finizen": 8,
+        "Finizen": 9,
         "Machop": 7,
         "Psyduck": 4,
         "Monferno": 1,
@@ -541,7 +545,7 @@
         "Smearguru": 4,
         "Nuzleaf": 3,
         "Clauncher": 2,
-        "Cetitan": 2,
+        "Cetitan": 3,
         "Bramblin": 8,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
@@ -581,7 +585,7 @@
         "Bellsprout": 7,
         "Scorbunny": 2,
         "Roggenrola": 7,
-        "Wattrel": 10,
+        "Wattrel": 11,
         "Nacli": 16,
         "Feebas": 2,
         "Weedle": 8,
@@ -605,7 +609,7 @@
         "Braixen": 2,
         "Skwovet": 2,
         "Magnemite": 9,
-        "Impidimp": 12,
+        "Impidimp": 13,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 7,
@@ -671,7 +675,7 @@
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
-        "Rellor": 6,
+        "Rellor": 7,
         "Hippopotas": 3,
         "Chikorita": 5,
         "Litwick": 9,
@@ -751,7 +755,7 @@
         "Dj rotom": 4,
         "Anorith": 3,
         "Shiinotic": 1,
-        "Snover": 3,
+        "Snover": 4,
         "Bayleef": 3,
         "Nosepass": 1,
         "Scovillain": 4,
@@ -1036,12 +1040,12 @@
         "Quaxly": 1,
         "Guzzlord": 1
       },
-      "total_spawns": 1513,
-      "last_spawn": "2026-07-05T20:14:44.675452"
+      "total_spawns": 1520,
+      "last_spawn": "2026-07-05T20:15:17.145991"
     }
   },
   "global": {
-    "total_spawns": 65108,
+    "total_spawns": 65123,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
