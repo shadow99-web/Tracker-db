@@ -42,9 +42,9 @@
         "Mareep": 3,
         "Capsakid": 7,
         "Numel": 1,
-        "Pawmo": 1,
+        "Pawmo": 2,
         "Wattrel": 3,
-        "Tadbulb": 5,
+        "Tadbulb": 6,
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
@@ -102,7 +102,7 @@
         "Metagross": 2,
         "Corphish": 2,
         "Doduo": 3,
-        "Flittle": 4,
+        "Flittle": 5,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -184,7 +184,7 @@
         "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 5,
+        "Charcadet": 6,
         "Mudsdale": 2,
         "Meowth": 2,
         "Charmander": 3,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 2,
         "Kingdra": 1,
-        "Chikorita": 2,
+        "Chikorita": 3,
         "Donphan": 1,
         "Shuppet": 4,
         "Graveler": 1,
@@ -378,7 +378,7 @@
         "Celebi": 1,
         "Morelull": 1,
         "Unown": 3,
-        "Poltchageist": 1,
+        "Poltchageist": 2,
         "Slakoth": 2,
         "Klink": 1,
         "Mesprit": 1,
@@ -524,10 +524,11 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 2,
-        "Golett": 1
+        "Golett": 1,
+        "Politoed": 2
       },
-      "total_spawns": 1231,
-      "last_spawn": "2026-07-05T20:33:59.212647"
+      "total_spawns": 1239,
+      "last_spawn": "2026-07-05T20:34:29.240169"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -618,7 +619,7 @@
         "Wattrel": 11,
         "Nacli": 17,
         "Feebas": 2,
-        "Weedle": 9,
+        "Weedle": 10,
         "Ralts": 9,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -686,7 +687,7 @@
         "Tynamo": 8,
         "Quaquaval": 4,
         "Rapidash": 1,
-        "Maschiff": 8,
+        "Maschiff": 9,
         "Sensu oricorio": 2,
         "Scatterbug": 10,
         "Taillow": 2,
@@ -941,7 +942,7 @@
         "Pumpkaboo": 2,
         "Banette": 1,
         "Tympole": 5,
-        "Bunnelby": 2,
+        "Bunnelby": 3,
         "Vanillish": 1,
         "Arrokuda": 2,
         "Snom": 1,
@@ -1003,7 +1004,7 @@
         "Servine": 1,
         "Zoroark": 2,
         "Aegislash": 1,
-        "Scyther": 3,
+        "Scyther": 4,
         "Azumarill": 1,
         "Rillaboom": 1,
         "Farfetch'd": 1,
@@ -1095,12 +1096,12 @@
         "Floette": 1,
         "Phantump": 1
       },
-      "total_spawns": 1727,
-      "last_spawn": "2026-07-05T20:33:54.617194"
+      "total_spawns": 1731,
+      "last_spawn": "2026-07-05T20:34:34.396869"
     }
   },
   "global": {
-    "total_spawns": 65497,
+    "total_spawns": 65509,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
