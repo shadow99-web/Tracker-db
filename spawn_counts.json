@@ -116,7 +116,7 @@
         "Swinub": 10,
         "Rattata": 4,
         "Stonjourner": 1,
-        "Veluza": 8,
+        "Veluza": 10,
         "Panpour": 3,
         "Crabrawler": 3,
         "Frogadier": 3,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 3,
         "Mienshao": 1,
-        "Blipbug": 10,
+        "Blipbug": 12,
         "Rellor": 3,
         "Rolycoly": 6,
         "Poliwhirl": 4,
@@ -188,7 +188,7 @@
         "Mudsdale": 2,
         "Meowth": 4,
         "Charmander": 5,
-        "Wimpod": 5,
+        "Wimpod": 7,
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 14,
@@ -346,7 +346,7 @@
         "Pidove": 3,
         "Chespin": 1,
         "Combee": 3,
-        "Cyndaquil": 1,
+        "Cyndaquil": 2,
         "Grotle": 3,
         "Tinkaton": 1,
         "Bergmite": 2,
@@ -616,8 +616,8 @@
         "Malamar": 1,
         "Orange flower florges": 1
       },
-      "total_spawns": 1828,
-      "last_spawn": "2026-07-05T21:29:23.880668"
+      "total_spawns": 1835,
+      "last_spawn": "2026-07-05T21:29:53.744665"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -635,14 +635,14 @@
         "Nymble": 9,
         "Porygon": 13,
         "Abra": 14,
-        "Oddish": 13,
+        "Oddish": 14,
         "Dedenne": 2,
         "Gothita": 9,
         "Finizen": 12,
         "Machop": 10,
         "Psyduck": 4,
         "Monferno": 1,
-        "Pikipek": 7,
+        "Pikipek": 8,
         "Flittle": 6,
         "Lillipup": 7,
         "Eevee": 3,
@@ -689,7 +689,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 11,
+        "Charcadet": 12,
         "Sandile": 11,
         "Maushold": 4,
         "Rattata": 6,
@@ -1130,7 +1130,7 @@
         "Grookey": 1,
         "Zorua": 1,
         "Kecleon": 1,
-        "Magcargo": 1,
+        "Magcargo": 2,
         "Slaking": 2,
         "Raticate": 2,
         "Arbok": 1,
@@ -1230,12 +1230,12 @@
         "Oricorio": 1,
         "Leafeon": 1
       },
-      "total_spawns": 2049,
-      "last_spawn": "2026-07-05T21:29:14.486112"
+      "total_spawns": 2053,
+      "last_spawn": "2026-07-05T21:29:54.276641"
     }
   },
   "global": {
-    "total_spawns": 66416,
+    "total_spawns": 66427,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
