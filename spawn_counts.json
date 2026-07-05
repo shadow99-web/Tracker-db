@@ -57,7 +57,7 @@
         "Tirtouga": 3,
         "Hatenna": 6,
         "Shroomish": 3,
-        "Lillipup": 3,
+        "Lillipup": 4,
         "Mosslax": 10,
         "Maushold": 2,
         "Cubchoo": 1,
@@ -149,7 +149,7 @@
         "Fomantis": 3,
         "Claydol": 1,
         "Trapinch": 4,
-        "Butterfree": 1,
+        "Butterfree": 3,
         "Teddiursa": 11,
         "Roggenrola": 7,
         "Litwick": 2,
@@ -163,7 +163,7 @@
         "Vullaby": 3,
         "Venipede": 6,
         "Pansage": 2,
-        "Cetoddle": 5,
+        "Cetoddle": 6,
         "Togepi": 5,
         "Tandemaus": 3,
         "Clefairy": 1,
@@ -539,8 +539,8 @@
         "Shuckle": 1,
         "White flower floette": 1
       },
-      "total_spawns": 1297,
-      "last_spawn": "2026-07-05T20:41:23.772187"
+      "total_spawns": 1301,
+      "last_spawn": "2026-07-05T20:42:03.711740"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -584,7 +584,7 @@
         "Pidgey": 7,
         "Gimmighoul": 6,
         "Cetoddle": 14,
-        "Fidough": 11,
+        "Fidough": 12,
         "Smearguru": 5,
         "Nuzleaf": 3,
         "Clauncher": 2,
@@ -826,7 +826,7 @@
         "Sprigatito": 2,
         "Bidoof": 2,
         "Frillish": 3,
-        "Toedscool": 6,
+        "Toedscool": 8,
         "Espathra": 1,
         "Klang": 3,
         "Vespiquen": 4,
@@ -1110,14 +1110,15 @@
         "Probopass": 1,
         "Copperajah": 1,
         "Leavanny": 1,
-        "Yellow flower floette": 1
+        "Yellow flower floette": 1,
+        "Mudkip": 1
       },
-      "total_spawns": 1773,
-      "last_spawn": "2026-07-05T20:41:34.595341"
+      "total_spawns": 1777,
+      "last_spawn": "2026-07-05T20:42:14.779205"
     }
   },
   "global": {
-    "total_spawns": 65609,
+    "total_spawns": 65617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
