@@ -443,13 +443,13 @@
         "Binacle": 1,
         "Kilowattrel": 2,
         "Skiploom": 2,
-        "Voltorb": 1,
+        "Voltorb": 2,
         "Geodude": 3,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
         "Gastly": 3,
-        "Orthworm": 3,
+        "Orthworm": 4,
         "Glimmet": 4,
         "Beldum": 1,
         "Combee": 2,
@@ -484,7 +484,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 4,
-        "Horsea": 5,
+        "Horsea": 6,
         "Teddiursa": 2,
         "Dratini": 1,
         "Sewaddle": 5,
@@ -756,14 +756,15 @@
         "Houndstone": 1,
         "Ponyta": 1,
         "Drifblim": 1,
-        "Arcanine": 1
+        "Arcanine": 1,
+        "Lickitung": 1
       },
-      "total_spawns": 718,
-      "last_spawn": "2026-07-05T16:43:14.476837"
+      "total_spawns": 722,
+      "last_spawn": "2026-07-05T16:43:54.597760"
     }
   },
   "global": {
-    "total_spawns": 63902,
+    "total_spawns": 63906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
