@@ -517,7 +517,7 @@
         "Starly": 3,
         "Popplio": 1,
         "Watchog": 1,
-        "Bounsweet": 5,
+        "Bounsweet": 6,
         "Flamigo": 2,
         "Stunky": 1,
         "Spinarak": 1,
@@ -662,14 +662,17 @@
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 1,
-        "Tatsugiri": 1
+        "Tatsugiri": 1,
+        "Oranguru": 1,
+        "Kricketot": 1,
+        "Golurk": 1
       },
-      "total_spawns": 433,
-      "last_spawn": "2026-07-05T15:54:24.601464"
+      "total_spawns": 437,
+      "last_spawn": "2026-07-05T15:55:04.705430"
     }
   },
   "global": {
-    "total_spawns": 63615,
+    "total_spawns": 63619,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
