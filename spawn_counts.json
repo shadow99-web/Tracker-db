@@ -652,14 +652,14 @@
         "Scovillain": 3,
         "Sliggoo": 2,
         "Silcoon": 1,
-        "Tadbulb": 5,
+        "Tadbulb": 6,
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 1,
-        "Tarountula": 5,
+        "Tarountula": 6,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 4,
@@ -715,7 +715,7 @@
         "Magmar": 2,
         "Chef dente": 2,
         "Sandygast": 1,
-        "Graveler": 2,
+        "Graveler": 3,
         "Duosion": 1,
         "Pawniard": 1,
         "Rabsca": 2,
@@ -817,14 +817,15 @@
         "Gothitelle": 1,
         "Makuhita": 1,
         "Barboach": 1,
-        "Smeargle": 1
+        "Smeargle": 1,
+        "Ceruledge": 1
       },
-      "total_spawns": 968,
-      "last_spawn": "2026-07-05T17:25:14.697809"
+      "total_spawns": 972,
+      "last_spawn": "2026-07-05T17:25:54.516981"
     }
   },
   "global": {
-    "total_spawns": 64153,
+    "total_spawns": 64157,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
