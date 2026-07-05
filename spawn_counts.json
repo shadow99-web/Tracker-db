@@ -63,7 +63,7 @@
         "Cubchoo": 1,
         "Koffing": 2,
         "Kirlia": 1,
-        "Deino": 3,
+        "Deino": 4,
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 3,
@@ -123,7 +123,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
-        "Rookidee": 3,
+        "Rookidee": 5,
         "Flapple": 2,
         "Bronzor": 1,
         "Swirlix": 2,
@@ -157,7 +157,7 @@
         "Pikipek": 4,
         "Spritzee": 1,
         "Stantler": 1,
-        "Impidimp": 5,
+        "Impidimp": 6,
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 1,
@@ -342,7 +342,7 @@
         "Bidoof": 1,
         "Gothita": 2,
         "Solosis": 2,
-        "Sandygast": 1,
+        "Sandygast": 2,
         "Pidove": 1,
         "Chespin": 1,
         "Combee": 1,
@@ -416,8 +416,8 @@
         "Sewaddle": 1,
         "Shelmet": 1
       },
-      "total_spawns": 759,
-      "last_spawn": "2026-07-05T19:42:18.196631"
+      "total_spawns": 764,
+      "last_spawn": "2026-07-05T19:42:49.469733"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -917,7 +917,7 @@
     }
   },
   "global": {
-    "total_spawns": 64590,
+    "total_spawns": 64595,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
