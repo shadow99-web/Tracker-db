@@ -444,7 +444,7 @@
         "Kilowattrel": 2,
         "Skiploom": 3,
         "Voltorb": 5,
-        "Geodude": 5,
+        "Geodude": 6,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
@@ -468,7 +468,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 6,
-        "Trapinch": 7,
+        "Trapinch": 8,
         "Hatenna": 6,
         "Drifloon": 2,
         "Togepi": 7,
@@ -496,7 +496,7 @@
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
-        "Mosslax": 6,
+        "Mosslax": 7,
         "Braixen": 2,
         "Skwovet": 1,
         "Magnemite": 5,
@@ -829,14 +829,17 @@
         "White plumage squawkabilly": 1,
         "Koffing": 1,
         "Rhyperior": 1,
-        "Spritzee": 1
+        "Spritzee": 1,
+        "Hawlucha": 1,
+        "Paras": 1,
+        "Crobat": 1
       },
-      "total_spawns": 1028,
-      "last_spawn": "2026-07-05T17:33:34.498587"
+      "total_spawns": 1034,
+      "last_spawn": "2026-07-05T17:34:04.711406"
     }
   },
   "global": {
-    "total_spawns": 64213,
+    "total_spawns": 64219,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
