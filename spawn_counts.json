@@ -460,7 +460,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 5,
+        "Charcadet": 6,
         "Sandile": 5,
         "Maushold": 2,
         "Rattata": 5,
@@ -476,7 +476,7 @@
         "Bellsprout": 2,
         "Scorbunny": 2,
         "Roggenrola": 5,
-        "Wattrel": 4,
+        "Wattrel": 5,
         "Nacli": 10,
         "Feebas": 1,
         "Weedle": 7,
@@ -708,7 +708,7 @@
         "Minccino": 1,
         "Charmander": 1,
         "Misdreavus": 1,
-        "Growlithe": 2,
+        "Growlithe": 3,
         "Arctozolt": 1,
         "Spheal": 2,
         "Chinchou": 2,
@@ -795,14 +795,15 @@
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 1,
-        "Sinistea": 1
+        "Sinistea": 1,
+        "Shinx": 1
       },
-      "total_spawns": 880,
-      "last_spawn": "2026-07-05T17:10:34.511576"
+      "total_spawns": 884,
+      "last_spawn": "2026-07-05T17:11:14.501731"
     }
   },
   "global": {
-    "total_spawns": 64064,
+    "total_spawns": 64068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
