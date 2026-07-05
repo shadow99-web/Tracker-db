@@ -1195,7 +1195,7 @@
         "Wiglett": 2,
         "Starly": 4,
         "Caterpie": 2,
-        "Mareep": 2,
+        "Mareep": 3,
         "Capsakid": 3,
         "Numel": 1,
         "Pawmo": 1,
@@ -1289,7 +1289,7 @@
         "Sandy burmy": 1,
         "Torchic": 1,
         "Abomasnow": 1,
-        "Slugma": 1,
+        "Slugma": 2,
         "Venonat": 1,
         "Eelektrik": 1,
         "Diglett": 1,
@@ -1458,14 +1458,15 @@
         "Luxio": 1,
         "Quaxwell": 1,
         "Swanna": 1,
-        "Torracat": 1
+        "Torracat": 1,
+        "Geodude": 1
       },
-      "total_spawns": 436,
-      "last_spawn": "2026-07-05T04:03:53.549575"
+      "total_spawns": 439,
+      "last_spawn": "2026-07-05T04:04:23.689473"
     }
   },
   "global": {
-    "total_spawns": 62975,
+    "total_spawns": 62978,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
