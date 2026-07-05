@@ -87,7 +87,7 @@
         "Shinx": 27,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 15,
+        "Pawmi": 17,
         "Sandile": 18,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -187,7 +187,7 @@
         "Charcadet": 20,
         "Mudsdale": 2,
         "Meowth": 9,
-        "Charmander": 5,
+        "Charmander": 7,
         "Wimpod": 9,
         "Comfey": 1,
         "Diggersby": 2,
@@ -674,8 +674,8 @@
         "Igglybuff": 1,
         "Garchomp": 2
       },
-      "total_spawns": 2424,
-      "last_spawn": "2026-07-05T23:29:14.752712"
+      "total_spawns": 2428,
+      "last_spawn": "2026-07-05T23:30:54.298588"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1036,7 +1036,7 @@
         "Wugtrio": 4,
         "Applin": 4,
         "Venipede": 13,
-        "Toedscruel": 1,
+        "Toedscruel": 2,
         "Dewpider": 6,
         "Pansear": 7,
         "Togetic": 4,
@@ -1088,7 +1088,7 @@
         "Magikarp": 4,
         "Pumpkaboo": 3,
         "Banette": 2,
-        "Tympole": 10,
+        "Tympole": 11,
         "Bunnelby": 5,
         "Vanillish": 2,
         "Arrokuda": 2,
@@ -1366,14 +1366,16 @@
         "Galarian weezing": 1,
         "Flareon": 1,
         "Volcarona": 1,
-        "Carvanha": 1
+        "Carvanha": 1,
+        "Pelipper": 1,
+        "Wailmer": 1
       },
-      "total_spawns": 2767,
-      "last_spawn": "2026-07-05T23:30:24.823483"
+      "total_spawns": 2771,
+      "last_spawn": "2026-07-05T23:31:04.742006"
     }
   },
   "global": {
-    "total_spawns": 67730,
+    "total_spawns": 67738,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
