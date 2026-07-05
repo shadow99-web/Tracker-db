@@ -418,7 +418,7 @@
         "Lillipup": 3,
         "Eevee": 2,
         "Shroomish": 1,
-        "Dachsbun": 1,
+        "Dachsbun": 2,
         "Swirlix": 2,
         "Glimmora": 3,
         "Meditite": 1,
@@ -627,7 +627,7 @@
         "Orbeetle": 1,
         "Shellder": 2,
         "Pawmi": 1,
-        "Spoink": 2,
+        "Spoink": 3,
         "Lileep": 1,
         "Crocalor": 1,
         "Cranidos": 1,
@@ -693,14 +693,16 @@
         "Pikachu": 1,
         "Yungoos": 1,
         "Luxio": 1,
-        "Frigibax": 1
+        "Frigibax": 1,
+        "Krokorok": 1,
+        "Snorunt": 1
       },
-      "total_spawns": 509,
-      "last_spawn": "2026-07-05T16:07:19.167865"
+      "total_spawns": 513,
+      "last_spawn": "2026-07-05T16:07:54.335820"
     }
   },
   "global": {
-    "total_spawns": 63693,
+    "total_spawns": 63697,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
