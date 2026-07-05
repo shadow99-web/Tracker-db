@@ -662,7 +662,7 @@
         "Dratini": 4,
         "Sewaddle": 7,
         "Mantyke": 1,
-        "Slakoth": 11,
+        "Slakoth": 12,
         "Dreepy": 9,
         "Foongus": 3,
         "Hoppip": 10,
@@ -777,7 +777,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 4,
-        "Vanillite": 8,
+        "Vanillite": 9,
         "Omanyte": 5,
         "Scraggy": 2,
         "Komala": 1,
@@ -958,7 +958,7 @@
         "Corvisquire": 2,
         "Lokix": 3,
         "Charmeleon": 4,
-        "Spidops": 1,
+        "Spidops": 2,
         "Dwebble": 3,
         "Rockruff": 2,
         "Stunfisk": 2,
@@ -1147,12 +1147,12 @@
         "Ampharos": 1,
         "Falinks": 1
       },
-      "total_spawns": 1855,
-      "last_spawn": "2026-07-05T20:55:34.793473"
+      "total_spawns": 1858,
+      "last_spawn": "2026-07-05T20:56:14.595737"
     }
   },
   "global": {
-    "total_spawns": 65794,
+    "total_spawns": 65797,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
