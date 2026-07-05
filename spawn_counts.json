@@ -68,7 +68,7 @@
         "Feebas": 1,
         "Prof tangrowth": 3,
         "Vulpix": 1,
-        "Gastly": 4,
+        "Gastly": 6,
         "Aron": 2,
         "Honedge": 6,
         "Houndour": 1,
@@ -383,8 +383,8 @@
         "Klink": 1,
         "Mesprit": 1
       },
-      "total_spawns": 636,
-      "last_spawn": "2026-07-05T15:26:21.397865"
+      "total_spawns": 638,
+      "last_spawn": "2026-07-05T15:30:06.508395"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -458,7 +458,7 @@
         "Grapploct": 1,
         "Charcadet": 2,
         "Sandile": 3,
-        "Maushold": 1,
+        "Maushold": 2,
         "Rattata": 4,
         "Riolu": 2,
         "Aromatisse": 1,
@@ -600,14 +600,17 @@
         "Vikavolt": 1,
         "Ledian": 1,
         "Pineco": 1,
-        "Vanillite": 1
+        "Vanillite": 1,
+        "Omanyte": 1,
+        "Scraggy": 1,
+        "Komala": 1
       },
-      "total_spawns": 289,
-      "last_spawn": "2026-07-05T15:29:54.575746"
+      "total_spawns": 293,
+      "last_spawn": "2026-07-05T15:30:34.495107"
     }
   },
   "global": {
-    "total_spawns": 63464,
+    "total_spawns": 63470,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
