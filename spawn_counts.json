@@ -231,7 +231,7 @@
         "Tangrowth": 1,
         "Sizzlipede": 1,
         "Skuntank": 1,
-        "Palafin": 3,
+        "Palafin": 4,
         "Timburr": 4,
         "Shellos": 1,
         "Arcanine": 1,
@@ -542,10 +542,12 @@
         "Pawniard": 1,
         "Brionne": 1,
         "Zarude": 2,
-        "Yamper": 1
+        "Yamper": 1,
+        "Tropius": 1,
+        "Tatsugiri": 1
       },
-      "total_spawns": 1325,
-      "last_spawn": "2026-07-05T20:44:33.640925"
+      "total_spawns": 1328,
+      "last_spawn": "2026-07-05T20:45:03.815495"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -640,7 +642,7 @@
         "Ralts": 10,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 9,
+        "Aron": 10,
         "Horsea": 16,
         "Teddiursa": 10,
         "Dratini": 2,
@@ -780,7 +782,7 @@
         "Bagon": 4,
         "Vanilluxe": 2,
         "Woobat": 3,
-        "Goomy": 7,
+        "Goomy": 8,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 7,
@@ -979,7 +981,7 @@
         "Swampert": 1,
         "Naclstack": 3,
         "Golbat": 4,
-        "Shuppet": 3,
+        "Shuppet": 4,
         "East sea gastrodon": 2,
         "Grovyle": 1,
         "Grumpig": 2,
@@ -1119,12 +1121,12 @@
         "Mudkip": 1,
         "Clefable": 1
       },
-      "total_spawns": 1789,
-      "last_spawn": "2026-07-05T20:44:25.394355"
+      "total_spawns": 1792,
+      "last_spawn": "2026-07-05T20:44:54.596103"
     }
   },
   "global": {
-    "total_spawns": 65653,
+    "total_spawns": 65659,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
