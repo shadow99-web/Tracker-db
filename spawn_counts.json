@@ -69,8 +69,8 @@
         "Prof tangrowth": 9,
         "Vulpix": 3,
         "Gastly": 12,
-        "Aron": 5,
-        "Honedge": 16,
+        "Aron": 6,
+        "Honedge": 18,
         "Houndour": 1,
         "Machop": 8,
         "Terapagos": 1,
@@ -608,10 +608,11 @@
         "Herdier": 1,
         "Blissey": 2,
         "Cinccino": 2,
-        "Alolan vulpix": 2
+        "Alolan vulpix": 2,
+        "Glameow": 1
       },
-      "total_spawns": 1776,
-      "last_spawn": "2026-07-05T21:22:33.705393"
+      "total_spawns": 1780,
+      "last_spawn": "2026-07-05T21:23:03.698689"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -671,7 +672,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 13,
+        "Gastly": 14,
         "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
@@ -686,7 +687,7 @@
         "Charcadet": 11,
         "Sandile": 11,
         "Maushold": 4,
-        "Rattata": 5,
+        "Rattata": 6,
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 2,
@@ -1002,7 +1003,7 @@
         "Furfrou": 2,
         "Thwackey": 3,
         "Gabite": 2,
-        "Toxel": 3,
+        "Toxel": 4,
         "Boldore": 1,
         "Prof tangrowth": 4,
         "Corvisquire": 4,
@@ -1107,7 +1108,7 @@
         "Crabrawler": 2,
         "Onix": 1,
         "Arctibax": 2,
-        "Shelgon": 2,
+        "Shelgon": 3,
         "Dracozolt": 1,
         "Stufful": 2,
         "Cinccino": 1,
@@ -1220,12 +1221,12 @@
         "Numel": 1,
         "Noctowl": 1
       },
-      "total_spawns": 2009,
-      "last_spawn": "2026-07-05T21:22:24.379278"
+      "total_spawns": 2013,
+      "last_spawn": "2026-07-05T21:23:04.502949"
     }
   },
   "global": {
-    "total_spawns": 66324,
+    "total_spawns": 66332,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
