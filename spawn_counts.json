@@ -90,7 +90,7 @@
         "Pawmi": 15,
         "Sandile": 18,
         "Charmeleon": 3,
-        "Riolu": 13,
+        "Riolu": 14,
         "Gible": 10,
         "Greavard": 19,
         "Snover": 3,
@@ -673,8 +673,8 @@
         "Wash rotom": 1,
         "Igglybuff": 1
       },
-      "total_spawns": 2405,
-      "last_spawn": "2026-07-05T23:21:23.718748"
+      "total_spawns": 2406,
+      "last_spawn": "2026-07-05T23:21:23.894744"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -718,7 +718,7 @@
         "Pidgey": 7,
         "Gimmighoul": 11,
         "Cetoddle": 16,
-        "Fidough": 15,
+        "Fidough": 16,
         "Smearguru": 8,
         "Nuzleaf": 3,
         "Clauncher": 2,
@@ -1350,7 +1350,7 @@
         "Torterra": 1,
         "Charizard": 1,
         "Magby": 1,
-        "Trumbeak": 1,
+        "Trumbeak": 2,
         "Crustle": 1,
         "Lilligant": 2,
         "Mienfoo": 1,
@@ -1360,14 +1360,16 @@
         "Blade aegislash": 1,
         "Togedemaru": 1,
         "Sableye": 1,
-        "Heatmor": 1
+        "Heatmor": 1,
+        "Hitmontop": 1,
+        "Galarian weezing": 1
       },
-      "total_spawns": 2713,
-      "last_spawn": "2026-07-05T23:21:14.435989"
+      "total_spawns": 2717,
+      "last_spawn": "2026-07-05T23:21:54.334477"
     }
   },
   "global": {
-    "total_spawns": 67657,
+    "total_spawns": 67662,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
