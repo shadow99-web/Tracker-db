@@ -126,12 +126,12 @@
         "Rookidee": 9,
         "Flapple": 4,
         "Bronzor": 1,
-        "Swirlix": 4,
+        "Swirlix": 5,
         "Varoom": 2,
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 3,
+        "Torchic": 5,
         "Abomasnow": 1,
         "Slugma": 4,
         "Venonat": 2,
@@ -392,7 +392,7 @@
         "Throh": 1,
         "Sentret": 4,
         "Houndoom": 1,
-        "Meganium": 2,
+        "Meganium": 4,
         "Rainy castform": 2,
         "Rabsca": 2,
         "Misdreavus": 1,
@@ -503,7 +503,7 @@
         "Tyrogue": 2,
         "Nuzleaf": 3,
         "Spinarak": 1,
-        "Goomy": 3,
+        "Goomy": 4,
         "Breloom": 1,
         "Rillaboom": 6,
         "Hippopotas": 1,
@@ -623,8 +623,8 @@
         "Dhelmise": 1,
         "Armaldo": 2
       },
-      "total_spawns": 1891,
-      "last_spawn": "2026-07-05T21:36:53.796414"
+      "total_spawns": 1897,
+      "last_spawn": "2026-07-05T21:37:24.623524"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -739,7 +739,7 @@
         "Impidimp": 15,
         "Elgyem": 2,
         "Gastrodon": 1,
-        "Shroodle": 8,
+        "Shroodle": 9,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
@@ -755,7 +755,7 @@
         "Popplio": 2,
         "Watchog": 2,
         "Bounsweet": 17,
-        "Flamigo": 10,
+        "Flamigo": 11,
         "Stunky": 2,
         "Spinarak": 3,
         "Gligar": 1,
@@ -1240,14 +1240,15 @@
         "Slugma": 1,
         "Escavalier": 1,
         "Conkeldurr": 1,
-        "Poochyena": 1
+        "Poochyena": 1,
+        "White flower floette": 1
       },
-      "total_spawns": 2094,
-      "last_spawn": "2026-07-05T21:36:44.493740"
+      "total_spawns": 2097,
+      "last_spawn": "2026-07-05T21:37:14.998366"
     }
   },
   "global": {
-    "total_spawns": 66524,
+    "total_spawns": 66533,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
