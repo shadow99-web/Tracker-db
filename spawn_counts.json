@@ -1178,7 +1178,7 @@
         "Rowlet": 2,
         "Anorith": 2,
         "Arctibax": 1,
-        "Ralts": 3,
+        "Ralts": 4,
         "Peakychu": 2,
         "Cutiefly": 1,
         "Simipour": 1,
@@ -1206,7 +1206,7 @@
         "Grubbin": 5,
         "Scatterbug": 3,
         "Skwovet": 2,
-        "Applin": 1,
+        "Applin": 2,
         "Staryu": 1,
         "Maschiff": 2,
         "Smoliv": 2,
@@ -1433,7 +1433,7 @@
         "Ledyba": 1,
         "Chinchou": 1,
         "Eiscue": 1,
-        "Nacli": 2,
+        "Nacli": 3,
         "Pancham": 1,
         "Bulbasaur": 1,
         "Dewpider": 1,
@@ -1482,14 +1482,15 @@
         "Sunkern": 1,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 1
+        "Magnemite": 1,
+        "Doublade": 1
       },
-      "total_spawns": 494,
-      "last_spawn": "2026-07-05T04:15:23.746210"
+      "total_spawns": 498,
+      "last_spawn": "2026-07-05T04:16:07.662765"
     }
   },
   "global": {
-    "total_spawns": 63033,
+    "total_spawns": 63037,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
