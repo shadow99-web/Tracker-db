@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 5,
         "Wattrel": 4,
-        "Nacli": 9,
+        "Nacli": 10,
         "Feebas": 1,
         "Weedle": 7,
         "Ralts": 5,
@@ -526,7 +526,7 @@
         "Cubone": 1,
         "Dracovish": 1,
         "Deino": 3,
-        "Honedge": 2,
+        "Honedge": 3,
         "Litleo": 1,
         "Steelix": 2,
         "Greninja": 1,
@@ -793,14 +793,16 @@
         "Beautifly": 1,
         "Fletchling": 1,
         "Haunter": 1,
-        "Sandshrew": 1
+        "Sandshrew": 1,
+        "Fletchinder": 1,
+        "Sinistea": 1
       },
-      "total_spawns": 876,
-      "last_spawn": "2026-07-05T17:09:54.396862"
+      "total_spawns": 880,
+      "last_spawn": "2026-07-05T17:10:34.511576"
     }
   },
   "global": {
-    "total_spawns": 64060,
+    "total_spawns": 64064,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
