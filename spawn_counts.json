@@ -1332,7 +1332,7 @@
         "Poliwhirl": 1,
         "Lokix": 1,
         "Flamigo": 1,
-        "Bellsprout": 3,
+        "Bellsprout": 4,
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 1,
@@ -1441,14 +1441,17 @@
         "Hattrem": 1,
         "Trash wormadam": 1,
         "Purrloin": 1,
-        "Zigzagoon": 1
+        "Zigzagoon": 1,
+        "Quilladin": 1,
+        "Infernape": 1,
+        "Noibat": 1
       },
-      "total_spawns": 404,
-      "last_spawn": "2026-07-05T03:58:33.916148"
+      "total_spawns": 408,
+      "last_spawn": "2026-07-05T03:59:13.591345"
     }
   },
   "global": {
-    "total_spawns": 62943,
+    "total_spawns": 62947,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
