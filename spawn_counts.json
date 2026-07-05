@@ -1353,7 +1353,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 1,
         "Pikachu": 2,
-        "Tarountula": 1,
+        "Tarountula": 2,
         "Rhyhorn": 3,
         "Aipom": 2,
         "Grookey": 1,
@@ -1453,7 +1453,7 @@
         "Vanillish": 1,
         "Gimmighoul": 1,
         "Glimmet": 2,
-        "Popplio": 1,
+        "Popplio": 2,
         "Arboliva": 1,
         "Luxio": 1,
         "Quaxwell": 1,
@@ -1502,14 +1502,15 @@
         "Pidove": 1,
         "Chespin": 1,
         "Combee": 1,
-        "Cyndaquil": 1
+        "Cyndaquil": 1,
+        "Grotle": 1
       },
-      "total_spawns": 537,
-      "last_spawn": "2026-07-05T04:21:43.598207"
+      "total_spawns": 540,
+      "last_spawn": "2026-07-05T04:22:14.809683"
     }
   },
   "global": {
-    "total_spawns": 63076,
+    "total_spawns": 63079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
