@@ -685,7 +685,7 @@
         "Gible": 9,
         "Torracat": 4,
         "Dusclops": 4,
-        "Rhyhorn": 10,
+        "Rhyhorn": 11,
         "Mareep": 12,
         "Klink": 9,
         "Nymble": 14,
@@ -1055,7 +1055,7 @@
         "Blitzle": 3,
         "Politoed": 2,
         "Nickit": 1,
-        "Wiglett": 9,
+        "Wiglett": 10,
         "Carkol": 3,
         "Solosis": 7,
         "Flapple": 3,
@@ -1113,7 +1113,7 @@
         "Grumpig": 2,
         "White plumage squawkabilly": 4,
         "Koffing": 1,
-        "Rhyperior": 1,
+        "Rhyperior": 2,
         "Spritzee": 5,
         "Hawlucha": 1,
         "Paras": 3,
@@ -1355,12 +1355,12 @@
         "Mienfoo": 1,
         "Rainy castform": 1
       },
-      "total_spawns": 2648,
-      "last_spawn": "2026-07-05T23:10:14.328534"
+      "total_spawns": 2651,
+      "last_spawn": "2026-07-05T23:10:44.422024"
     }
   },
   "global": {
-    "total_spawns": 67563,
+    "total_spawns": 67566,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
