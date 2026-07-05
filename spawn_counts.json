@@ -682,7 +682,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 18,
-        "Caterpie": 8,
+        "Caterpie": 9,
         "Flaaffy": 5,
         "Bronzor": 3,
         "Gible": 9,
@@ -717,7 +717,7 @@
         "Kleavor": 1,
         "Karrablast": 4,
         "Timburr": 14,
-        "Pidgey": 8,
+        "Pidgey": 9,
         "Gimmighoul": 11,
         "Cetoddle": 17,
         "Fidough": 16,
@@ -905,7 +905,7 @@
         "Clefairy": 7,
         "Grubbin": 17,
         "Dustox": 2,
-        "Chespin": 7,
+        "Chespin": 8,
         "Armarouge": 4,
         "Battle cyclizar": 4,
         "Bagon": 5,
@@ -1372,14 +1372,15 @@
         "Wailmer": 1,
         "Froslass": 1,
         "Staravia": 1,
-        "Dudunsparce": 1
+        "Dudunsparce": 1,
+        "Dialga": 1
       },
-      "total_spawns": 2814,
-      "last_spawn": "2026-07-05T23:38:34.661827"
+      "total_spawns": 2818,
+      "last_spawn": "2026-07-05T23:39:14.496549"
     }
   },
   "global": {
-    "total_spawns": 67797,
+    "total_spawns": 67801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
