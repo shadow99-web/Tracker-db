@@ -473,11 +473,11 @@
         "Drifloon": 2,
         "Togepi": 7,
         "Snivy": 1,
-        "Bellsprout": 3,
+        "Bellsprout": 4,
         "Scorbunny": 2,
         "Roggenrola": 5,
         "Wattrel": 8,
-        "Nacli": 12,
+        "Nacli": 13,
         "Feebas": 1,
         "Weedle": 7,
         "Ralts": 6,
@@ -658,7 +658,7 @@
         "Pincurchin": 1,
         "Whirlipede": 1,
         "Tinkatuff": 1,
-        "Baltoy": 2,
+        "Baltoy": 3,
         "Tarountula": 9,
         "Omastar": 1,
         "Surskit": 1,
@@ -672,7 +672,7 @@
         "Fuecoco": 1,
         "Sandy wormadam": 1,
         "Sprigatito": 1,
-        "Bidoof": 1,
+        "Bidoof": 2,
         "Frillish": 2,
         "Toedscool": 2,
         "Espathra": 1,
@@ -748,7 +748,7 @@
         "Sunkern": 1,
         "Wugtrio": 1,
         "Applin": 1,
-        "Venipede": 3,
+        "Venipede": 4,
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 2,
@@ -846,14 +846,15 @@
         "Slowbro": 1,
         "Floatzel": 1,
         "Accelgor": 2,
-        "Glaceon": 1
+        "Glaceon": 1,
+        "Lickilicky": 1
       },
-      "total_spawns": 1126,
-      "last_spawn": "2026-07-05T17:41:44.506234"
+      "total_spawns": 1132,
+      "last_spawn": "2026-07-05T17:42:23.329238"
     }
   },
   "global": {
-    "total_spawns": 64314,
+    "total_spawns": 64320,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
