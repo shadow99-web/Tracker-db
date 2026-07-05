@@ -22,7 +22,7 @@
         "Rowlet": 3,
         "Anorith": 3,
         "Arctibax": 1,
-        "Ralts": 8,
+        "Ralts": 10,
         "Peakychu": 17,
         "Cutiefly": 3,
         "Simipour": 2,
@@ -87,7 +87,7 @@
         "Shinx": 27,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 10,
+        "Pawmi": 11,
         "Sandile": 17,
         "Charmeleon": 3,
         "Riolu": 8,
@@ -184,7 +184,7 @@
         "Dratini": 8,
         "Steelix": 1,
         "Sprigatito": 3,
-        "Charcadet": 18,
+        "Charcadet": 19,
         "Mudsdale": 2,
         "Meowth": 7,
         "Charmander": 5,
@@ -552,7 +552,7 @@
         "Yungoos": 1,
         "Palpitoad": 2,
         "Smeargle": 2,
-        "Appletun": 4,
+        "Appletun": 6,
         "Arrokuda": 1,
         "Toxapex": 2,
         "Pawmot": 1,
@@ -668,8 +668,8 @@
         "Inteleon": 2,
         "Milotic": 1
       },
-      "total_spawns": 2294,
-      "last_spawn": "2026-07-05T22:29:53.519363"
+      "total_spawns": 2300,
+      "last_spawn": "2026-07-05T22:30:24.111851"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -886,7 +886,7 @@
         "Ledian": 2,
         "Pineco": 5,
         "Vanillite": 11,
-        "Omanyte": 5,
+        "Omanyte": 6,
         "Scraggy": 3,
         "Komala": 1,
         "Stoutland": 2,
@@ -955,7 +955,7 @@
         "Sprigatito": 2,
         "Bidoof": 2,
         "Frillish": 5,
-        "Toedscool": 9,
+        "Toedscool": 10,
         "Espathra": 2,
         "Klang": 3,
         "Vespiquen": 4,
@@ -1318,14 +1318,15 @@
         "Simisear": 1,
         "Loudred": 1,
         "Trash burmy": 1,
-        "Smoochum": 1
+        "Smoochum": 1,
+        "Snorlax": 1
       },
-      "total_spawns": 2408,
-      "last_spawn": "2026-07-05T22:29:44.497200"
+      "total_spawns": 2411,
+      "last_spawn": "2026-07-05T22:30:14.497606"
     }
   },
   "global": {
-    "total_spawns": 67241,
+    "total_spawns": 67250,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
