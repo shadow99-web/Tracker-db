@@ -127,7 +127,7 @@
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
-        "Varoom": 2,
+        "Varoom": 4,
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -137,7 +137,7 @@
         "Venonat": 2,
         "Eelektrik": 2,
         "Diglett": 5,
-        "Surskit": 3,
+        "Surskit": 4,
         "Seedot": 10,
         "Jigglypuff": 2,
         "Spearow": 2,
@@ -166,7 +166,7 @@
         "Cetoddle": 7,
         "Togepi": 6,
         "Tandemaus": 6,
-        "Clefairy": 1,
+        "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 4,
         "Mienshao": 2,
@@ -643,8 +643,8 @@
         "Weavile": 2,
         "Amped toxtricity": 2
       },
-      "total_spawns": 2091,
-      "last_spawn": "2026-07-05T21:55:53.689507"
+      "total_spawns": 2095,
+      "last_spawn": "2026-07-05T21:56:23.633957"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -660,7 +660,7 @@
         "Mareep": 9,
         "Klink": 8,
         "Nymble": 12,
-        "Porygon": 13,
+        "Porygon": 14,
         "Abra": 15,
         "Oddish": 14,
         "Dedenne": 2,
@@ -704,7 +704,7 @@
         "Treecko": 2,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 17,
+        "Gastly": 18,
         "Orthworm": 12,
         "Glimmet": 8,
         "Beldum": 2,
@@ -793,7 +793,7 @@
         "Klawf": 6,
         "Lombre": 2,
         "Wurmple": 6,
-        "Peakychu": 8,
+        "Peakychu": 9,
         "Bellibolt": 3,
         "Quilladin": 3,
         "Vulpix": 7,
@@ -802,7 +802,7 @@
         "Swadloon": 1,
         "Tynamo": 11,
         "Quaquaval": 4,
-        "Rapidash": 2,
+        "Rapidash": 3,
         "Maschiff": 11,
         "Sensu oricorio": 2,
         "Scatterbug": 15,
@@ -1274,12 +1274,12 @@
         "Petilil": 1,
         "Gloom": 1
       },
-      "total_spawns": 2206,
-      "last_spawn": "2026-07-05T21:55:44.762564"
+      "total_spawns": 2210,
+      "last_spawn": "2026-07-05T21:56:24.366609"
     }
   },
   "global": {
-    "total_spawns": 66836,
+    "total_spawns": 66844,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
