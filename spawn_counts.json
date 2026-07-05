@@ -982,7 +982,7 @@
         "Pikachu": 2,
         "Yungoos": 5,
         "Luxio": 5,
-        "Frigibax": 12,
+        "Frigibax": 13,
         "Krokorok": 3,
         "Snorunt": 3,
         "Meganium": 1,
@@ -1087,7 +1087,7 @@
         "Sinistea": 3,
         "Shinx": 6,
         "Totodile": 2,
-        "Magikarp": 4,
+        "Magikarp": 5,
         "Pumpkaboo": 3,
         "Banette": 2,
         "Tympole": 11,
@@ -1103,7 +1103,7 @@
         "Dewott": 3,
         "Kingambit": 3,
         "Corsola": 1,
-        "Gothitelle": 1,
+        "Gothitelle": 2,
         "Makuhita": 2,
         "Barboach": 5,
         "Smeargle": 1,
@@ -1374,14 +1374,15 @@
         "Froslass": 1,
         "Staravia": 1,
         "Dudunsparce": 1,
-        "Dialga": 1
+        "Dialga": 1,
+        "Joltik": 1
       },
-      "total_spawns": 2833,
-      "last_spawn": "2026-07-05T23:41:44.372238"
+      "total_spawns": 2837,
+      "last_spawn": "2026-07-05T23:42:24.359208"
     }
   },
   "global": {
-    "total_spawns": 67819,
+    "total_spawns": 67823,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
