@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 5,
         "Wattrel": 4,
-        "Nacli": 8,
+        "Nacli": 9,
         "Feebas": 1,
         "Weedle": 7,
         "Ralts": 5,
@@ -609,7 +609,7 @@
         "Scraggy": 2,
         "Komala": 1,
         "Stoutland": 1,
-        "Tirtouga": 2,
+        "Tirtouga": 3,
         "Swablu": 2,
         "Tepig": 2,
         "Barbaracle": 1,
@@ -688,12 +688,12 @@
         "Veluza": 3,
         "Salandit": 2,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 1,
+        "Poliwag": 2,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 3,
+        "Frigibax": 4,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -787,12 +787,12 @@
         "Charmeleon": 1,
         "Spidops": 1
       },
-      "total_spawns": 843,
-      "last_spawn": "2026-07-05T17:04:14.459794"
+      "total_spawns": 847,
+      "last_spawn": "2026-07-05T17:04:54.495690"
     }
   },
   "global": {
-    "total_spawns": 64027,
+    "total_spawns": 64031,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
