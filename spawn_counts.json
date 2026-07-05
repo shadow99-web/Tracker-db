@@ -406,7 +406,7 @@
         "Oddish": 5,
         "Dedenne": 1,
         "Gothita": 1,
-        "Finizen": 3,
+        "Finizen": 4,
         "Machop": 1,
         "Psyduck": 2,
         "Monferno": 1,
@@ -429,7 +429,7 @@
         "Pidgey": 2,
         "Gimmighoul": 3,
         "Cetoddle": 2,
-        "Fidough": 2,
+        "Fidough": 3,
         "Smearguru": 1,
         "Nuzleaf": 2,
         "Clauncher": 2,
@@ -510,7 +510,7 @@
         "Rolycoly": 2,
         "Duskull": 2,
         "Marill": 2,
-        "Axew": 1,
+        "Axew": 2,
         "Tinkatink": 2,
         "Starly": 1,
         "Popplio": 1,
@@ -566,7 +566,7 @@
         "Rellor": 1,
         "Hippopotas": 1,
         "Chikorita": 1,
-        "Litwick": 1,
+        "Litwick": 2,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -617,12 +617,12 @@
         "Chespin": 1,
         "Armarouge": 1
       },
-      "total_spawns": 315,
-      "last_spawn": "2026-07-05T15:34:24.422474"
+      "total_spawns": 319,
+      "last_spawn": "2026-07-05T15:35:04.609538"
     }
   },
   "global": {
-    "total_spawns": 63493,
+    "total_spawns": 63497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
