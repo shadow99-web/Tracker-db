@@ -42,7 +42,7 @@
         "Mareep": 6,
         "Capsakid": 9,
         "Numel": 5,
-        "Pawmo": 2,
+        "Pawmo": 3,
         "Wattrel": 8,
         "Tadbulb": 8,
         "Yanmega": 1,
@@ -67,7 +67,7 @@
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 13,
-        "Vulpix": 6,
+        "Vulpix": 7,
         "Gastly": 14,
         "Aron": 8,
         "Honedge": 18,
@@ -92,7 +92,7 @@
         "Charmeleon": 3,
         "Riolu": 4,
         "Gible": 8,
-        "Greavard": 12,
+        "Greavard": 14,
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 5,
@@ -650,8 +650,8 @@
         "Vikavolt": 1,
         "Eelektross": 1
       },
-      "total_spawns": 2172,
-      "last_spawn": "2026-07-05T22:06:23.697431"
+      "total_spawns": 2176,
+      "last_spawn": "2026-07-05T22:06:43.696597"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -763,7 +763,7 @@
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 10,
-        "Impidimp": 15,
+        "Impidimp": 16,
         "Elgyem": 3,
         "Gastrodon": 1,
         "Shroodle": 11,
@@ -793,7 +793,7 @@
         "Litleo": 3,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 9,
+        "Dondozo": 10,
         "Lairon": 4,
         "Zubat": 15,
         "Croagunk": 3,
@@ -1161,7 +1161,7 @@
         "Gurdurr": 2,
         "Mamoswine": 1,
         "Inteleon": 2,
-        "Grookey": 1,
+        "Grookey": 2,
         "Zorua": 2,
         "Kecleon": 1,
         "Magcargo": 2,
@@ -1276,7 +1276,7 @@
         "Ivysaur": 1,
         "Machamp": 1,
         "Absol": 1,
-        "Floragato": 1,
+        "Floragato": 2,
         "Blue plumage squawkabilly": 1,
         "Petilil": 1,
         "Gloom": 1,
@@ -1288,12 +1288,12 @@
         "Ursaluna": 1,
         "Mawile": 1
       },
-      "total_spawns": 2268,
-      "last_spawn": "2026-07-05T22:06:14.416731"
+      "total_spawns": 2272,
+      "last_spawn": "2026-07-05T22:06:54.801422"
     }
   },
   "global": {
-    "total_spawns": 66979,
+    "total_spawns": 66987,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
