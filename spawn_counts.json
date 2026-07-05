@@ -748,7 +748,7 @@
         "Sunkern": 1,
         "Wugtrio": 1,
         "Applin": 1,
-        "Venipede": 1,
+        "Venipede": 2,
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 2,
@@ -814,14 +814,16 @@
         "Dewott": 1,
         "Kingambit": 1,
         "Corsola": 1,
-        "Gothitelle": 1
+        "Gothitelle": 1,
+        "Makuhita": 1,
+        "Barboach": 1
       },
-      "total_spawns": 961,
-      "last_spawn": "2026-07-05T17:24:04.532029"
+      "total_spawns": 964,
+      "last_spawn": "2026-07-05T17:24:34.719706"
     }
   },
   "global": {
-    "total_spawns": 64146,
+    "total_spawns": 64149,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
