@@ -1165,7 +1165,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 1,
+        "Braixen": 2,
         "Oddish": 3,
         "Totodile": 2,
         "Vanillite": 4,
@@ -1332,7 +1332,7 @@
         "Poliwhirl": 1,
         "Lokix": 1,
         "Flamigo": 1,
-        "Bellsprout": 1,
+        "Bellsprout": 2,
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 1,
@@ -1435,12 +1435,12 @@
         "Eiscue": 1,
         "Nacli": 1
       },
-      "total_spawns": 386,
-      "last_spawn": "2026-07-05T03:52:43.002317"
+      "total_spawns": 388,
+      "last_spawn": "2026-07-05T03:53:23.122987"
     }
   },
   "global": {
-    "total_spawns": 62925,
+    "total_spawns": 62927,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
