@@ -683,7 +683,7 @@
         "Tandemaus": 18,
         "Caterpie": 8,
         "Flaaffy": 5,
-        "Bronzor": 2,
+        "Bronzor": 3,
         "Gible": 9,
         "Torracat": 4,
         "Dusclops": 4,
@@ -711,7 +711,7 @@
         "Meditite": 3,
         "Pansage": 2,
         "Whismur": 18,
-        "Jangmo-o": 7,
+        "Jangmo-o": 8,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 4,
@@ -1232,7 +1232,7 @@
         "Wo-chien": 1,
         "Tranquill": 1,
         "Mankey": 1,
-        "Herdier": 3,
+        "Herdier": 4,
         "Starmie": 1,
         "Monsoon vivillon": 1,
         "Magnezone": 1,
@@ -1370,12 +1370,12 @@
         "Pelipper": 1,
         "Wailmer": 1
       },
-      "total_spawns": 2774,
-      "last_spawn": "2026-07-05T23:31:44.395076"
+      "total_spawns": 2777,
+      "last_spawn": "2026-07-05T23:32:16.797523"
     }
   },
   "global": {
-    "total_spawns": 67741,
+    "total_spawns": 67744,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
