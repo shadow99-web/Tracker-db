@@ -899,7 +899,7 @@
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 6,
-        "Grubbin": 16,
+        "Grubbin": 17,
         "Dustox": 2,
         "Chespin": 7,
         "Armarouge": 4,
@@ -1007,7 +1007,7 @@
         "Hattrem": 4,
         "Sneasel": 2,
         "Piplup": 4,
-        "Electrike": 4,
+        "Electrike": 5,
         "Kabuto": 4,
         "Chewtle": 2,
         "Drakloak": 2,
@@ -1327,7 +1327,7 @@
         "Poliwhirl": 1,
         "Dragalge": 1,
         "Morpeko": 1,
-        "Darumaka": 1,
+        "Darumaka": 2,
         "Bouffalant": 1,
         "Cacturne": 1,
         "Shedinja": 1,
@@ -1350,12 +1350,12 @@
         "Magby": 1,
         "Trumbeak": 1
       },
-      "total_spawns": 2596,
-      "last_spawn": "2026-07-05T23:01:34.595146"
+      "total_spawns": 2599,
+      "last_spawn": "2026-07-05T23:02:06.774424"
     }
   },
   "global": {
-    "total_spawns": 67497,
+    "total_spawns": 67500,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
