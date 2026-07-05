@@ -526,7 +526,7 @@
         "Cubone": 1,
         "Dracovish": 1,
         "Deino": 2,
-        "Honedge": 1,
+        "Honedge": 2,
         "Litleo": 1,
         "Steelix": 2,
         "Greninja": 1,
@@ -677,7 +677,7 @@
         "Toedscool": 1,
         "Espathra": 1,
         "Klang": 1,
-        "Vespiquen": 1,
+        "Vespiquen": 2,
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
@@ -738,12 +738,12 @@
         "Mudbray": 1,
         "Weepinbell": 1
       },
-      "total_spawns": 642,
-      "last_spawn": "2026-07-05T16:30:14.683439"
+      "total_spawns": 644,
+      "last_spawn": "2026-07-05T16:30:45.614785"
     }
   },
   "global": {
-    "total_spawns": 63826,
+    "total_spawns": 63828,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
