@@ -409,7 +409,7 @@
         "Dedenne": 1,
         "Gothita": 1,
         "Finizen": 4,
-        "Machop": 2,
+        "Machop": 3,
         "Psyduck": 2,
         "Monferno": 1,
         "Pikipek": 2,
@@ -473,7 +473,7 @@
         "Togepi": 2,
         "Snivy": 1,
         "Bellsprout": 2,
-        "Scorbunny": 1,
+        "Scorbunny": 2,
         "Roggenrola": 2,
         "Wattrel": 2,
         "Nacli": 1,
@@ -649,14 +649,15 @@
         "Bayleef": 1,
         "Nosepass": 1,
         "Scovillain": 1,
-        "Sliggoo": 1
+        "Sliggoo": 1,
+        "Silcoon": 1
       },
-      "total_spawns": 395,
-      "last_spawn": "2026-07-05T15:47:54.401802"
+      "total_spawns": 398,
+      "last_spawn": "2026-07-05T15:48:24.588182"
     }
   },
   "global": {
-    "total_spawns": 63577,
+    "total_spawns": 63580,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
