@@ -36,7 +36,7 @@
         "Whirlipede": 4,
         "Duskull": 18,
         "Abra": 16,
-        "Wiglett": 7,
+        "Wiglett": 8,
         "Starly": 18,
         "Caterpie": 5,
         "Mareep": 6,
@@ -180,7 +180,7 @@
         "Houndstone": 2,
         "Beldum": 11,
         "Kadabra": 6,
-        "Grovyle": 3,
+        "Grovyle": 5,
         "Dratini": 6,
         "Steelix": 1,
         "Sprigatito": 3,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 10,
+        "Sewaddle": 11,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 3,
@@ -650,10 +650,10 @@
         "Vikavolt": 1,
         "Eelektross": 1,
         "Bibarel": 1,
-        "Debutante trim furfrou": 1
+        "Debutante trim furfrou": 2
       },
-      "total_spawns": 2193,
-      "last_spawn": "2026-07-05T22:09:03.606585"
+      "total_spawns": 2198,
+      "last_spawn": "2026-07-05T22:09:34.004475"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -760,7 +760,7 @@
         "Hoppip": 12,
         "Blipbug": 9,
         "Swoobat": 1,
-        "Greavard": 9,
+        "Greavard": 10,
         "Mosslax": 11,
         "Braixen": 2,
         "Skwovet": 3,
@@ -923,7 +923,7 @@
         "Pincurchin": 4,
         "Whirlipede": 3,
         "Tinkatuff": 3,
-        "Baltoy": 6,
+        "Baltoy": 7,
         "Tarountula": 15,
         "Omastar": 2,
         "Surskit": 2,
@@ -1012,7 +1012,7 @@
         "Gengar": 1,
         "Sunkern": 3,
         "Wugtrio": 4,
-        "Applin": 2,
+        "Applin": 3,
         "Venipede": 10,
         "Toedscruel": 1,
         "Dewpider": 5,
@@ -1290,12 +1290,12 @@
         "Ursaluna": 1,
         "Mawile": 1
       },
-      "total_spawns": 2284,
-      "last_spawn": "2026-07-05T22:08:56.333314"
+      "total_spawns": 2287,
+      "last_spawn": "2026-07-05T22:09:24.496306"
     }
   },
   "global": {
-    "total_spawns": 67016,
+    "total_spawns": 67024,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
