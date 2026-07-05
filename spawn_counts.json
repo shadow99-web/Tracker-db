@@ -1168,7 +1168,7 @@
         "Braixen": 1,
         "Oddish": 3,
         "Totodile": 2,
-        "Vanillite": 3,
+        "Vanillite": 4,
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 3,
@@ -1340,14 +1340,15 @@
         "Dratini": 1,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 1
+        "Charcadet": 1,
+        "Mudsdale": 1
       },
-      "total_spawns": 233,
-      "last_spawn": "2026-07-05T01:53:28.174286"
+      "total_spawns": 235,
+      "last_spawn": "2026-07-05T01:54:18.177522"
     }
   },
   "global": {
-    "total_spawns": 62772,
+    "total_spawns": 62774,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
