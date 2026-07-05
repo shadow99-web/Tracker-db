@@ -454,7 +454,7 @@
         "Comfey": 1,
         "Archaludon": 1,
         "Grapploct": 1,
-        "Charcadet": 1,
+        "Charcadet": 2,
         "Sandile": 2,
         "Maushold": 1,
         "Rattata": 2,
@@ -538,14 +538,17 @@
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 1
+        "Tynamo": 1,
+        "Quaquaval": 1,
+        "Rapidash": 1,
+        "Maschiff": 1
       },
-      "total_spawns": 186,
-      "last_spawn": "2026-07-05T15:12:34.737232"
+      "total_spawns": 190,
+      "last_spawn": "2026-07-05T15:13:14.724509"
     }
   },
   "global": {
-    "total_spawns": 63358,
+    "total_spawns": 63362,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
