@@ -926,7 +926,7 @@
         "Buneary": 7,
         "Skiddo": 5,
         "Zigzagoon": 4,
-        "Dj rotom": 6,
+        "Dj rotom": 7,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 6,
@@ -1260,7 +1260,7 @@
         "Blastoise": 2,
         "Castform": 2,
         "Palossand": 2,
-        "Clamperl": 2,
+        "Clamperl": 3,
         "Cramorant": 1,
         "Decidueye": 1,
         "Venusaur": 1,
@@ -1329,14 +1329,15 @@
         "Darumaka": 1,
         "Bouffalant": 1,
         "Cacturne": 1,
-        "Shedinja": 1
+        "Shedinja": 1,
+        "Lunatone": 1
       },
-      "total_spawns": 2460,
-      "last_spawn": "2026-07-05T22:38:34.401200"
+      "total_spawns": 2463,
+      "last_spawn": "2026-07-05T22:39:04.604388"
     }
   },
   "global": {
-    "total_spawns": 67319,
+    "total_spawns": 67322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
