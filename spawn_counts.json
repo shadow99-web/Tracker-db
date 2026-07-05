@@ -35,7 +35,7 @@
         "Fletchling": 6,
         "Whirlipede": 4,
         "Duskull": 16,
-        "Abra": 13,
+        "Abra": 14,
         "Wiglett": 7,
         "Starly": 18,
         "Caterpie": 5,
@@ -58,7 +58,7 @@
         "Hatenna": 8,
         "Shroomish": 3,
         "Lillipup": 7,
-        "Mosslax": 15,
+        "Mosslax": 16,
         "Maushold": 3,
         "Cubchoo": 5,
         "Koffing": 3,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 9,
         "Vulpix": 5,
         "Gastly": 14,
-        "Aron": 6,
+        "Aron": 7,
         "Honedge": 18,
         "Houndour": 1,
         "Machop": 9,
@@ -131,7 +131,7 @@
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 6,
+        "Torchic": 7,
         "Abomasnow": 1,
         "Slugma": 4,
         "Venonat": 2,
@@ -165,7 +165,7 @@
         "Pansage": 2,
         "Cetoddle": 7,
         "Togepi": 6,
-        "Tandemaus": 5,
+        "Tandemaus": 6,
         "Clefairy": 1,
         "Unown q": 1,
         "Lotad": 4,
@@ -631,10 +631,12 @@
         "Mienfoo": 2,
         "Quagsire": 1,
         "Komala": 1,
-        "Poochyena": 1
+        "Poochyena": 1,
+        "Hero palafin": 1,
+        "Klinklang": 1
       },
-      "total_spawns": 2007,
-      "last_spawn": "2026-07-05T21:48:23.994032"
+      "total_spawns": 2014,
+      "last_spawn": "2026-07-05T21:48:53.796844"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -651,7 +653,7 @@
         "Klink": 8,
         "Nymble": 12,
         "Porygon": 13,
-        "Abra": 14,
+        "Abra": 15,
         "Oddish": 14,
         "Dedenne": 2,
         "Gothita": 10,
@@ -730,7 +732,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 12,
-        "Horsea": 16,
+        "Horsea": 17,
         "Teddiursa": 11,
         "Dratini": 4,
         "Sewaddle": 7,
@@ -747,7 +749,7 @@
         "Skwovet": 3,
         "Magnemite": 10,
         "Impidimp": 15,
-        "Elgyem": 2,
+        "Elgyem": 3,
         "Gastrodon": 1,
         "Shroodle": 10,
         "Clawitzer": 1,
@@ -1257,14 +1259,15 @@
         "Delphox": 1,
         "Dragonair": 1,
         "Ivysaur": 1,
-        "Machamp": 1
+        "Machamp": 1,
+        "Absol": 1
       },
-      "total_spawns": 2162,
-      "last_spawn": "2026-07-05T21:48:14.595424"
+      "total_spawns": 2166,
+      "last_spawn": "2026-07-05T21:48:54.397594"
     }
   },
   "global": {
-    "total_spawns": 66708,
+    "total_spawns": 66719,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
