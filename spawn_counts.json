@@ -1269,7 +1269,7 @@
         "Treecko": 2,
         "Shroodle": 2,
         "Ride cyclizar": 1,
-        "Swinub": 5,
+        "Swinub": 6,
         "Rattata": 1,
         "Stonjourner": 1,
         "Veluza": 2,
@@ -1347,7 +1347,7 @@
         "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 1,
+        "Klawf": 2,
         "Dj rotom": 2,
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
@@ -1355,7 +1355,7 @@
         "Pikachu": 2,
         "Tarountula": 1,
         "Rhyhorn": 1,
-        "Aipom": 1,
+        "Aipom": 2,
         "Grookey": 1,
         "Inkay": 1,
         "Unfezant": 1,
@@ -1453,14 +1453,15 @@
         "Vanillish": 1,
         "Gimmighoul": 1,
         "Glimmet": 1,
-        "Popplio": 1
+        "Popplio": 1,
+        "Arboliva": 1
       },
-      "total_spawns": 422,
-      "last_spawn": "2026-07-05T04:01:34.023255"
+      "total_spawns": 426,
+      "last_spawn": "2026-07-05T04:02:13.696409"
     }
   },
   "global": {
-    "total_spawns": 62961,
+    "total_spawns": 62965,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
