@@ -178,7 +178,7 @@
         "Flamigo": 6,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 14,
+        "Beldum": 15,
         "Kadabra": 6,
         "Grovyle": 7,
         "Dratini": 9,
@@ -674,8 +674,8 @@
         "Igglybuff": 1,
         "Garchomp": 2
       },
-      "total_spawns": 2417,
-      "last_spawn": "2026-07-05T23:25:23.489633"
+      "total_spawns": 2418,
+      "last_spawn": "2026-07-05T23:25:23.791841"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -687,7 +687,7 @@
         "Gible": 9,
         "Torracat": 4,
         "Dusclops": 4,
-        "Rhyhorn": 12,
+        "Rhyhorn": 13,
         "Mareep": 12,
         "Klink": 9,
         "Nymble": 14,
@@ -718,7 +718,7 @@
         "Timburr": 14,
         "Pidgey": 8,
         "Gimmighoul": 11,
-        "Cetoddle": 16,
+        "Cetoddle": 17,
         "Fidough": 16,
         "Smearguru": 8,
         "Nuzleaf": 3,
@@ -1232,7 +1232,7 @@
         "Wo-chien": 1,
         "Tranquill": 1,
         "Mankey": 1,
-        "Herdier": 2,
+        "Herdier": 3,
         "Starmie": 1,
         "Monsoon vivillon": 1,
         "Magnezone": 1,
@@ -1260,7 +1260,7 @@
         "Xatu": 2,
         "Ampharos": 1,
         "Falinks": 1,
-        "Phanpy": 1,
+        "Phanpy": 2,
         "Blastoise": 2,
         "Castform": 2,
         "Palossand": 2,
@@ -1367,12 +1367,12 @@
         "Flareon": 1,
         "Volcarona": 1
       },
-      "total_spawns": 2737,
-      "last_spawn": "2026-07-05T23:25:14.494204"
+      "total_spawns": 2741,
+      "last_spawn": "2026-07-05T23:25:54.413253"
     }
   },
   "global": {
-    "total_spawns": 67693,
+    "total_spawns": 67698,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
