@@ -669,12 +669,12 @@
         "Milotic": 1,
         "Slaking": 1,
         "Obstagoon": 2,
-        "Greninja": 1,
+        "Greninja": 2,
         "Wash rotom": 1,
         "Igglybuff": 1
       },
-      "total_spawns": 2406,
-      "last_spawn": "2026-07-05T23:21:23.894744"
+      "total_spawns": 2407,
+      "last_spawn": "2026-07-05T23:22:03.666798"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -775,7 +775,7 @@
         "Dratini": 6,
         "Sewaddle": 9,
         "Mantyke": 3,
-        "Slakoth": 14,
+        "Slakoth": 15,
         "Dreepy": 13,
         "Foongus": 4,
         "Hoppip": 14,
@@ -799,7 +799,7 @@
         "Rolycoly": 13,
         "Duskull": 13,
         "Marill": 6,
-        "Axew": 8,
+        "Axew": 9,
         "Tinkatink": 10,
         "Starly": 15,
         "Popplio": 3,
@@ -1362,14 +1362,15 @@
         "Sableye": 1,
         "Heatmor": 1,
         "Hitmontop": 1,
-        "Galarian weezing": 1
+        "Galarian weezing": 1,
+        "Flareon": 1
       },
-      "total_spawns": 2717,
-      "last_spawn": "2026-07-05T23:21:54.334477"
+      "total_spawns": 2720,
+      "last_spawn": "2026-07-05T23:22:24.593112"
     }
   },
   "global": {
-    "total_spawns": 67662,
+    "total_spawns": 67666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
