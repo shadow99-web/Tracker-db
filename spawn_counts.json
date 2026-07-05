@@ -393,7 +393,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 9,
+        "Tandemaus": 10,
         "Caterpie": 2,
         "Flaaffy": 3,
         "Bronzor": 1,
@@ -402,7 +402,7 @@
         "Dusclops": 2,
         "Rhyhorn": 3,
         "Mareep": 2,
-        "Klink": 4,
+        "Klink": 5,
         "Nymble": 5,
         "Porygon": 8,
         "Abra": 6,
@@ -444,7 +444,7 @@
         "Kilowattrel": 2,
         "Skiploom": 2,
         "Voltorb": 5,
-        "Geodude": 3,
+        "Geodude": 4,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
@@ -665,7 +665,7 @@
         "Wooper": 4,
         "Tatsugiri": 2,
         "Oranguru": 1,
-        "Kricketot": 1,
+        "Kricketot": 2,
         "Golurk": 3,
         "Carracosta": 1,
         "Fennekin": 2,
@@ -812,12 +812,12 @@
         "Gogoat": 1,
         "Morelull": 1
       },
-      "total_spawns": 939,
-      "last_spawn": "2026-07-05T17:20:24.502571"
+      "total_spawns": 943,
+      "last_spawn": "2026-07-05T17:21:04.496816"
     }
   },
   "global": {
-    "total_spawns": 64124,
+    "total_spawns": 64128,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
