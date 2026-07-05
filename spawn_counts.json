@@ -955,7 +955,7 @@
         "Tatsugiri": 6,
         "Oranguru": 1,
         "Kricketot": 3,
-        "Golurk": 4,
+        "Golurk": 5,
         "Carracosta": 1,
         "Fennekin": 6,
         "Fuecoco": 4,
@@ -1044,7 +1044,7 @@
         "Togetic": 4,
         "Houndstone": 10,
         "Ponyta": 1,
-        "Drifblim": 2,
+        "Drifblim": 3,
         "Arcanine": 2,
         "Lickitung": 4,
         "Pyroar": 1,
@@ -1142,7 +1142,7 @@
         "Centiskorch": 1,
         "Pidgeot": 3,
         "Appletun": 2,
-        "Rhydon": 1,
+        "Rhydon": 2,
         "Bruxish": 1,
         "Pancham": 1,
         "Exeggcute": 2,
@@ -1312,7 +1312,7 @@
         "Dolliv": 3,
         "Lampent": 2,
         "Ursaluna": 1,
-        "Mawile": 1,
+        "Mawile": 2,
         "Brionne": 2,
         "Munchlax": 1,
         "Dodrio": 1,
@@ -1376,12 +1376,12 @@
         "Dudunsparce": 1,
         "Dialga": 1
       },
-      "total_spawns": 2822,
-      "last_spawn": "2026-07-05T23:39:54.595585"
+      "total_spawns": 2826,
+      "last_spawn": "2026-07-05T23:40:34.594539"
     }
   },
   "global": {
-    "total_spawns": 67806,
+    "total_spawns": 67810,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
