@@ -485,7 +485,7 @@
         "Eldegoss": 1,
         "Aron": 5,
         "Horsea": 7,
-        "Teddiursa": 3,
+        "Teddiursa": 4,
         "Dratini": 1,
         "Sewaddle": 5,
         "Mantyke": 1,
@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 1,
-        "Tarountula": 4,
+        "Tarountula": 5,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 3,
@@ -782,14 +782,15 @@
         "Toxel": 1,
         "Boldore": 1,
         "Prof tangrowth": 1,
-        "Corvisquire": 1
+        "Corvisquire": 1,
+        "Lokix": 1
       },
-      "total_spawns": 825,
-      "last_spawn": "2026-07-05T17:01:14.398333"
+      "total_spawns": 828,
+      "last_spawn": "2026-07-05T17:01:44.498072"
     }
   },
   "global": {
-    "total_spawns": 64009,
+    "total_spawns": 64012,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
