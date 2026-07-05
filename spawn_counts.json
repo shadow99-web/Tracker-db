@@ -462,7 +462,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 2,
-        "Trapinch": 1,
+        "Trapinch": 2,
         "Hatenna": 2,
         "Drifloon": 1,
         "Togepi": 1,
@@ -481,7 +481,7 @@
         "Horsea": 1,
         "Teddiursa": 1,
         "Dratini": 1,
-        "Sewaddle": 1,
+        "Sewaddle": 2,
         "Mantyke": 1,
         "Slakoth": 1,
         "Dreepy": 1,
@@ -513,7 +513,7 @@
         "Popplio": 1,
         "Watchog": 1,
         "Bounsweet": 1,
-        "Flamigo": 1,
+        "Flamigo": 2,
         "Stunky": 1,
         "Spinarak": 1,
         "Gligar": 1,
@@ -540,12 +540,12 @@
         "Swadloon": 1,
         "Tynamo": 1
       },
-      "total_spawns": 183,
-      "last_spawn": "2026-07-05T15:12:04.432002"
+      "total_spawns": 186,
+      "last_spawn": "2026-07-05T15:12:34.737232"
     }
   },
   "global": {
-    "total_spawns": 63355,
+    "total_spawns": 63358,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
