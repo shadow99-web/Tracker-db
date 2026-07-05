@@ -453,7 +453,7 @@
         "Glimmet": 4,
         "Beldum": 1,
         "Combee": 2,
-        "Corphish": 1,
+        "Corphish": 2,
         "Litten": 3,
         "Infernape": 3,
         "Arboliva": 1,
@@ -666,7 +666,7 @@
         "Tatsugiri": 2,
         "Oranguru": 1,
         "Kricketot": 1,
-        "Golurk": 2,
+        "Golurk": 3,
         "Carracosta": 1,
         "Fennekin": 2,
         "Fuecoco": 1,
@@ -764,14 +764,15 @@
         "Dartrix": 1,
         "Roserade": 1,
         "Heliolisk": 1,
-        "Doublade": 1
+        "Doublade": 1,
+        "Electivire": 1
       },
-      "total_spawns": 771,
-      "last_spawn": "2026-07-05T16:52:04.297067"
+      "total_spawns": 774,
+      "last_spawn": "2026-07-05T16:52:34.434781"
     }
   },
   "global": {
-    "total_spawns": 63955,
+    "total_spawns": 63958,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
