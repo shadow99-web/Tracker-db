@@ -430,7 +430,7 @@
         "Karrablast": 2,
         "Timburr": 3,
         "Pidgey": 4,
-        "Gimmighoul": 5,
+        "Gimmighoul": 6,
         "Cetoddle": 6,
         "Fidough": 5,
         "Smearguru": 2,
@@ -442,7 +442,7 @@
         "Cutiefly": 1,
         "Binacle": 2,
         "Kilowattrel": 2,
-        "Skiploom": 2,
+        "Skiploom": 3,
         "Voltorb": 5,
         "Geodude": 4,
         "Treecko": 1,
@@ -568,7 +568,7 @@
         "Aipom": 1,
         "Rellor": 4,
         "Hippopotas": 1,
-        "Chikorita": 3,
+        "Chikorita": 4,
         "Litwick": 5,
         "Metapod": 1,
         "Morgrem": 1,
@@ -820,12 +820,12 @@
         "Smeargle": 1,
         "Ceruledge": 1
       },
-      "total_spawns": 972,
-      "last_spawn": "2026-07-05T17:25:54.516981"
+      "total_spawns": 975,
+      "last_spawn": "2026-07-05T17:26:24.742625"
     }
   },
   "global": {
-    "total_spawns": 64157,
+    "total_spawns": 64160,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
