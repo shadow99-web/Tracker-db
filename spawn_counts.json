@@ -1244,7 +1244,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 1,
-        "Sandile": 2,
+        "Sandile": 3,
         "Charmeleon": 1,
         "Riolu": 2,
         "Gible": 2,
@@ -1304,7 +1304,7 @@
         "Turtwig": 1,
         "Fomantis": 1,
         "Claydol": 1,
-        "Trapinch": 1,
+        "Trapinch": 2,
         "Butterfree": 1,
         "Teddiursa": 2,
         "Roggenrola": 1,
@@ -1461,14 +1461,15 @@
         "Torracat": 1,
         "Geodude": 1,
         "Tentacruel": 1,
-        "Archen": 1
+        "Archen": 1,
+        "Blue plumage squawkabilly": 1
       },
-      "total_spawns": 449,
-      "last_spawn": "2026-07-05T04:06:04.134821"
+      "total_spawns": 452,
+      "last_spawn": "2026-07-05T04:06:43.644808"
     }
   },
   "global": {
-    "total_spawns": 62988,
+    "total_spawns": 62991,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
