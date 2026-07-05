@@ -435,7 +435,7 @@
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 3,
+        "Bramblin": 4,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 1,
@@ -624,14 +624,16 @@
         "Goomy": 1,
         "Orbeetle": 1,
         "Shellder": 1,
-        "Pawmi": 1
+        "Pawmi": 1,
+        "Spoink": 1,
+        "Lileep": 1
       },
-      "total_spawns": 337,
-      "last_spawn": "2026-07-05T15:38:04.372143"
+      "total_spawns": 340,
+      "last_spawn": "2026-07-05T15:38:34.766906"
     }
   },
   "global": {
-    "total_spawns": 63516,
+    "total_spawns": 63519,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
