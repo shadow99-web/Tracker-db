@@ -1056,7 +1056,7 @@
         "Nickit": 1,
         "Wiglett": 9,
         "Carkol": 3,
-        "Solosis": 6,
+        "Solosis": 7,
         "Flapple": 3,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -1092,7 +1092,7 @@
         "Snom": 2,
         "Noibat": 1,
         "Turtwig": 3,
-        "Snubbull": 2,
+        "Snubbull": 3,
         "Gogoat": 1,
         "Morelull": 4,
         "Dewott": 3,
@@ -1287,7 +1287,7 @@
         "Natu": 1,
         "Slugma": 1,
         "Escavalier": 1,
-        "Conkeldurr": 1,
+        "Conkeldurr": 2,
         "Poochyena": 2,
         "White flower floette": 1,
         "Typhlosion": 1,
@@ -1353,12 +1353,12 @@
         "Lilligant": 1,
         "Mienfoo": 1
       },
-      "total_spawns": 2634,
-      "last_spawn": "2026-07-05T23:07:54.598881"
+      "total_spawns": 2637,
+      "last_spawn": "2026-07-05T23:08:24.694950"
     }
   },
   "global": {
-    "total_spawns": 67545,
+    "total_spawns": 67548,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
