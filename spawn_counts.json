@@ -527,7 +527,7 @@
         "Deino": 1,
         "Honedge": 1,
         "Litleo": 1,
-        "Steelix": 1,
+        "Steelix": 2,
         "Greninja": 1,
         "Dondozo": 2,
         "Lairon": 1,
@@ -561,7 +561,7 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 2,
-        "Swinub": 3,
+        "Swinub": 4,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -665,14 +665,16 @@
         "Tatsugiri": 1,
         "Oranguru": 1,
         "Kricketot": 1,
-        "Golurk": 1
+        "Golurk": 1,
+        "Carracosta": 1,
+        "Fennekin": 1
       },
-      "total_spawns": 437,
-      "last_spawn": "2026-07-05T15:55:04.705430"
+      "total_spawns": 441,
+      "last_spawn": "2026-07-05T15:55:45.578938"
     }
   },
   "global": {
-    "total_spawns": 63619,
+    "total_spawns": 63623,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
