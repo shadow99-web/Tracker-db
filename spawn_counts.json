@@ -9,7 +9,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 2,
+        "Braixen": 3,
         "Oddish": 3,
         "Totodile": 2,
         "Vanillite": 10,
@@ -80,7 +80,7 @@
         "Bruxish": 1,
         "Orbeetle": 1,
         "Bramblin": 4,
-        "Stufful": 1,
+        "Stufful": 2,
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
@@ -109,7 +109,7 @@
         "Bayleef": 1,
         "Magnezone": 1,
         "Eevee": 2,
-        "Dreepy": 7,
+        "Dreepy": 9,
         "Treecko": 4,
         "Shroodle": 4,
         "Ride cyclizar": 1,
@@ -154,7 +154,7 @@
         "Roggenrola": 3,
         "Litwick": 2,
         "Wooper": 1,
-        "Pikipek": 4,
+        "Pikipek": 6,
         "Spritzee": 1,
         "Stantler": 1,
         "Impidimp": 6,
@@ -345,7 +345,7 @@
         "Sandygast": 2,
         "Pidove": 1,
         "Chespin": 1,
-        "Combee": 1,
+        "Combee": 2,
         "Cyndaquil": 1,
         "Grotle": 1,
         "Tinkaton": 1,
@@ -436,10 +436,11 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
-        "Spheal": 1
+        "Spheal": 1,
+        "Amaura": 1
       },
-      "total_spawns": 857,
-      "last_spawn": "2026-07-05T19:55:03.702922"
+      "total_spawns": 865,
+      "last_spawn": "2026-07-05T19:55:33.715578"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -939,7 +940,7 @@
     }
   },
   "global": {
-    "total_spawns": 64688,
+    "total_spawns": 64696,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
