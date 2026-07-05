@@ -705,7 +705,7 @@
         "Glimmora": 4,
         "Meditite": 3,
         "Pansage": 2,
-        "Whismur": 14,
+        "Whismur": 15,
         "Jangmo-o": 7,
         "Samurott": 1,
         "Kleavor": 1,
@@ -840,7 +840,7 @@
         "Grotle": 4,
         "Squawkabilly": 3,
         "Wartortle": 2,
-        "Rowlet": 3,
+        "Rowlet": 4,
         "Gholdengo": 4,
         "Machoke": 3,
         "Glameow": 3,
@@ -1323,14 +1323,16 @@
         "Snorlax": 1,
         "Pawmot": 1,
         "Poliwhirl": 1,
-        "Dragalge": 1
+        "Dragalge": 1,
+        "Morpeko": 1,
+        "Darumaka": 1
       },
-      "total_spawns": 2430,
-      "last_spawn": "2026-07-05T22:33:34.441524"
+      "total_spawns": 2434,
+      "last_spawn": "2026-07-05T22:34:14.439513"
     }
   },
   "global": {
-    "total_spawns": 67278,
+    "total_spawns": 67282,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
