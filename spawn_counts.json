@@ -1294,7 +1294,7 @@
         "Eelektrik": 1,
         "Diglett": 1,
         "Surskit": 1,
-        "Seedot": 1,
+        "Seedot": 2,
         "Jigglypuff": 1,
         "Spearow": 1,
         "Servine": 1,
@@ -1435,14 +1435,15 @@
         "Eiscue": 1,
         "Nacli": 2,
         "Pancham": 1,
-        "Bulbasaur": 1
+        "Bulbasaur": 1,
+        "Dewpider": 1
       },
-      "total_spawns": 392,
-      "last_spawn": "2026-07-05T03:54:44.597103"
+      "total_spawns": 394,
+      "last_spawn": "2026-07-05T03:55:23.090306"
     }
   },
   "global": {
-    "total_spawns": 62931,
+    "total_spawns": 62933,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
