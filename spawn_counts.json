@@ -410,14 +410,14 @@
         "Pikipek": 1,
         "Flittle": 2,
         "Lillipup": 1,
-        "Eevee": 1,
+        "Eevee": 2,
         "Shroomish": 1,
         "Dachsbun": 1,
         "Swirlix": 1,
         "Glimmora": 1,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 1,
+        "Whismur": 2,
         "Jangmo-o": 2,
         "Samurott": 1,
         "Kleavor": 1,
@@ -473,7 +473,7 @@
         "Wattrel": 1,
         "Nacli": 1,
         "Feebas": 1,
-        "Weedle": 1,
+        "Weedle": 2,
         "Ralts": 1,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -547,14 +547,15 @@
         "Taillow": 1,
         "Wimpod": 1,
         "Rookidee": 1,
-        "Shellos": 1
+        "Shellos": 1,
+        "Roaming gimmighoul": 1
       },
-      "total_spawns": 200,
-      "last_spawn": "2026-07-05T15:14:54.500910"
+      "total_spawns": 204,
+      "last_spawn": "2026-07-05T15:15:34.500861"
     }
   },
   "global": {
-    "total_spawns": 63372,
+    "total_spawns": 63376,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
