@@ -163,7 +163,7 @@
         "Vullaby": 2,
         "Venipede": 6,
         "Pansage": 2,
-        "Cetoddle": 4,
+        "Cetoddle": 5,
         "Togepi": 5,
         "Tandemaus": 3,
         "Clefairy": 1,
@@ -220,7 +220,7 @@
         "Shuppet": 3,
         "Graveler": 1,
         "Duosion": 1,
-        "Orthworm": 4,
+        "Orthworm": 6,
         "Yamask": 1,
         "Nymble": 4,
         "Snorunt": 1,
@@ -295,7 +295,7 @@
         "Dartrix": 1,
         "Ceruledge": 1,
         "Vanillish": 1,
-        "Gimmighoul": 1,
+        "Gimmighoul": 2,
         "Glimmet": 3,
         "Popplio": 2,
         "Arboliva": 1,
@@ -498,10 +498,13 @@
         "Drilbur": 1,
         "Leavanny": 1,
         "Magikarp": 1,
-        "Gardevoir": 2
+        "Gardevoir": 2,
+        "Kubfu": 1,
+        "Tyrogue": 1,
+        "Nuzleaf": 1
       },
-      "total_spawns": 1076,
-      "last_spawn": "2026-07-05T20:16:48.198542"
+      "total_spawns": 1083,
+      "last_spawn": "2026-07-05T20:17:28.160717"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -588,7 +591,7 @@
         "Snivy": 2,
         "Bellsprout": 7,
         "Scorbunny": 2,
-        "Roggenrola": 8,
+        "Roggenrola": 9,
         "Wattrel": 11,
         "Nacli": 16,
         "Feebas": 2,
@@ -620,7 +623,7 @@
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 3,
-        "Bombirdier": 6,
+        "Bombirdier": 7,
         "Wooloo": 4,
         "Togekiss": 1,
         "Rolycoly": 8,
@@ -818,7 +821,7 @@
         "Amoonguss": 1,
         "Varoom": 6,
         "Kirlia": 2,
-        "Minccino": 2,
+        "Minccino": 3,
         "Charmander": 3,
         "Misdreavus": 2,
         "Growlithe": 4,
@@ -848,7 +851,7 @@
         "Frogadier": 5,
         "Golett": 2,
         "Mismagius": 1,
-        "Mudbray": 3,
+        "Mudbray": 4,
         "Weepinbell": 1,
         "East sea shellos": 4,
         "Flygon": 1,
@@ -1002,7 +1005,7 @@
         "Stufful": 1,
         "Cinccino": 1,
         "Aggron": 1,
-        "Silicobra": 1,
+        "Silicobra": 2,
         "Houndoom": 1,
         "Shieldon": 1,
         "Panpour": 1,
@@ -1046,14 +1049,15 @@
         "Seadra": 1,
         "Pyukumuku": 1,
         "Hatterene": 1,
-        "Cleffa": 1
+        "Cleffa": 1,
+        "Brambleghast": 1
       },
-      "total_spawns": 1539,
-      "last_spawn": "2026-07-05T20:16:57.342842"
+      "total_spawns": 1545,
+      "last_spawn": "2026-07-05T20:17:27.102104"
     }
   },
   "global": {
-    "total_spawns": 65154,
+    "total_spawns": 65167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
