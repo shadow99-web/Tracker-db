@@ -29,7 +29,7 @@
         "Tynamo": 4,
         "Palossand": 1,
         "Pyukumuku": 1,
-        "Pidgey": 7,
+        "Pidgey": 8,
         "Binacle": 2,
         "Bounsweet": 10,
         "Fletchling": 4,
@@ -113,7 +113,7 @@
         "Treecko": 6,
         "Shroodle": 4,
         "Ride cyclizar": 1,
-        "Swinub": 8,
+        "Swinub": 9,
         "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 8,
@@ -161,7 +161,7 @@
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 6,
+        "Venipede": 7,
         "Pansage": 2,
         "Cetoddle": 6,
         "Togepi": 5,
@@ -195,7 +195,7 @@
         "Dj rotom": 4,
         "Chef dente": 7,
         "Hisuian qwilfish": 1,
-        "Bagon": 1,
+        "Bagon": 3,
         "Pikachu": 2,
         "Tarountula": 5,
         "Rhyhorn": 6,
@@ -351,7 +351,7 @@
         "Tinkaton": 1,
         "Bergmite": 2,
         "Klang": 2,
-        "Tepig": 1,
+        "Tepig": 2,
         "Spinda": 1,
         "Phantump": 1,
         "Barboach": 2,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 2,
         "Charizard": 6,
-        "Axew": 10,
+        "Axew": 11,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 1,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 1,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 3,
+        "Sewaddle": 4,
         "Shelmet": 1,
         "Combusken": 2,
         "Croagunk": 2,
@@ -498,7 +498,7 @@
         "Drilbur": 1,
         "Leavanny": 1,
         "Magikarp": 3,
-        "Gardevoir": 2,
+        "Gardevoir": 4,
         "Kubfu": 1,
         "Tyrogue": 1,
         "Nuzleaf": 3,
@@ -579,10 +579,11 @@
         "Boldore": 1,
         "Skorupi": 1,
         "Probopass": 1,
-        "Family of three maushold": 1
+        "Family of three maushold": 1,
+        "Scyther": 2
       },
-      "total_spawns": 1537,
-      "last_spawn": "2026-07-05T21:07:48.205022"
+      "total_spawns": 1549,
+      "last_spawn": "2026-07-05T21:08:18.852255"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -679,7 +680,7 @@
         "Eldegoss": 1,
         "Aron": 10,
         "Horsea": 16,
-        "Teddiursa": 10,
+        "Teddiursa": 11,
         "Dratini": 4,
         "Sewaddle": 7,
         "Mantyke": 1,
@@ -769,7 +770,7 @@
         "Gorebyss": 1,
         "Quaxwell": 2,
         "Croconaw": 5,
-        "Smoliv": 5,
+        "Smoliv": 6,
         "Lechonk": 8,
         "Clodsire": 3,
         "Sandaconda": 1,
@@ -1078,7 +1079,7 @@
         "Crabrawler": 2,
         "Onix": 1,
         "Arctibax": 1,
-        "Shelgon": 1,
+        "Shelgon": 2,
         "Dracozolt": 1,
         "Stufful": 2,
         "Cinccino": 1,
@@ -1178,12 +1179,12 @@
         "Spearow": 1,
         "Emboar": 1
       },
-      "total_spawns": 1925,
-      "last_spawn": "2026-07-05T21:07:44.597609"
+      "total_spawns": 1928,
+      "last_spawn": "2026-07-05T21:08:14.394877"
     }
   },
   "global": {
-    "total_spawns": 66001,
+    "total_spawns": 66016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
