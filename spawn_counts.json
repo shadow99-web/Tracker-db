@@ -482,7 +482,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 3,
-        "Horsea": 1,
+        "Horsea": 2,
         "Teddiursa": 1,
         "Dratini": 1,
         "Sewaddle": 2,
@@ -508,7 +508,7 @@
         "Bombirdier": 2,
         "Wooloo": 2,
         "Togekiss": 1,
-        "Rolycoly": 2,
+        "Rolycoly": 3,
         "Duskull": 2,
         "Marill": 2,
         "Axew": 2,
@@ -630,16 +630,17 @@
         "Crocalor": 1,
         "Cranidos": 1,
         "Cherrim": 1,
-        "Raboot": 1,
+        "Raboot": 2,
         "Summer deerling": 1,
-        "Skrelp": 1
+        "Skrelp": 1,
+        "Spewpa": 1
       },
-      "total_spawns": 351,
-      "last_spawn": "2026-07-05T15:40:24.461509"
+      "total_spawns": 355,
+      "last_spawn": "2026-07-05T15:41:04.435652"
     }
   },
   "global": {
-    "total_spawns": 63530,
+    "total_spawns": 63534,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
