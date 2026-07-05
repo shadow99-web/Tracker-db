@@ -1425,7 +1425,7 @@
         "Dracovish": 1,
         "Slowpoke": 1,
         "Drizzile": 1,
-        "Tinkatink": 1,
+        "Tinkatink": 2,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 1,
@@ -1439,14 +1439,15 @@
         "Dewpider": 1,
         "Yellow plumage squawkabilly": 1,
         "Hattrem": 1,
-        "Trash wormadam": 1
+        "Trash wormadam": 1,
+        "Purrloin": 1
       },
-      "total_spawns": 398,
-      "last_spawn": "2026-07-05T03:56:43.022667"
+      "total_spawns": 400,
+      "last_spawn": "2026-07-05T03:57:24.123067"
     }
   },
   "global": {
-    "total_spawns": 62937,
+    "total_spawns": 62939,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
