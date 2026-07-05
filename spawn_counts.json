@@ -493,7 +493,7 @@
         "Dreepy": 2,
         "Foongus": 2,
         "Hoppip": 2,
-        "Blipbug": 2,
+        "Blipbug": 3,
         "Swoobat": 1,
         "Greavard": 5,
         "Mosslax": 4,
@@ -613,7 +613,7 @@
         "Swablu": 1,
         "Tepig": 1,
         "Barbaracle": 1,
-        "Noivern": 1,
+        "Noivern": 2,
         "Clefairy": 1,
         "Grubbin": 3,
         "Dustox": 1,
@@ -623,7 +623,7 @@
         "Bagon": 1,
         "Vanilluxe": 1,
         "Woobat": 1,
-        "Goomy": 1,
+        "Goomy": 2,
         "Orbeetle": 1,
         "Shellder": 2,
         "Pawmi": 2,
@@ -725,14 +725,15 @@
         "Piplup": 1,
         "Electrike": 1,
         "Kabuto": 1,
-        "Chewtle": 1
+        "Chewtle": 1,
+        "Drakloak": 1
       },
-      "total_spawns": 597,
-      "last_spawn": "2026-07-05T16:22:16.827663"
+      "total_spawns": 601,
+      "last_spawn": "2026-07-05T16:22:54.341999"
     }
   },
   "global": {
-    "total_spawns": 63781,
+    "total_spawns": 63785,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
