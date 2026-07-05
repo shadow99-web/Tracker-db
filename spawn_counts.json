@@ -412,7 +412,7 @@
         "Psyduck": 2,
         "Monferno": 1,
         "Pikipek": 2,
-        "Flittle": 3,
+        "Flittle": 4,
         "Lillipup": 1,
         "Eevee": 2,
         "Shroomish": 1,
@@ -459,7 +459,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 2,
-        "Sandile": 3,
+        "Sandile": 4,
         "Maushold": 2,
         "Rattata": 4,
         "Riolu": 2,
@@ -513,7 +513,7 @@
         "Marill": 2,
         "Axew": 2,
         "Tinkatink": 2,
-        "Starly": 1,
+        "Starly": 2,
         "Popplio": 1,
         "Watchog": 1,
         "Bounsweet": 3,
@@ -620,14 +620,15 @@
         "Battle cyclizar": 1,
         "Bagon": 1,
         "Vanilluxe": 1,
-        "Woobat": 1
+        "Woobat": 1,
+        "Goomy": 1
       },
-      "total_spawns": 326,
-      "last_spawn": "2026-07-05T15:36:14.438591"
+      "total_spawns": 330,
+      "last_spawn": "2026-07-05T15:36:54.404839"
     }
   },
   "global": {
-    "total_spawns": 63505,
+    "total_spawns": 63509,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
