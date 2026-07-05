@@ -399,7 +399,7 @@
         "Bronzor": 1,
         "Gible": 3,
         "Torracat": 1,
-        "Dusclops": 1,
+        "Dusclops": 2,
         "Rhyhorn": 3,
         "Mareep": 1,
         "Klink": 2,
@@ -576,7 +576,7 @@
         "Quaxwell": 1,
         "Croconaw": 2,
         "Smoliv": 2,
-        "Lechonk": 2,
+        "Lechonk": 3,
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
@@ -688,14 +688,16 @@
         "Veluza": 1,
         "Salandit": 1,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 1
+        "Poliwag": 1,
+        "Passimian": 1,
+        "Pikachu": 1
       },
-      "total_spawns": 498,
-      "last_spawn": "2026-07-05T16:05:25.314551"
+      "total_spawns": 502,
+      "last_spawn": "2026-07-05T16:06:04.496103"
     }
   },
   "global": {
-    "total_spawns": 63682,
+    "total_spawns": 63686,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
