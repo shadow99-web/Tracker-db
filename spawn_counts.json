@@ -58,7 +58,7 @@
         "Hatenna": 2,
         "Shroomish": 3,
         "Lillipup": 3,
-        "Mosslax": 9,
+        "Mosslax": 10,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 2,
@@ -280,7 +280,7 @@
         "Nacli": 6,
         "Pancham": 1,
         "Bulbasaur": 4,
-        "Dewpider": 1,
+        "Dewpider": 2,
         "Yellow plumage squawkabilly": 1,
         "Hattrem": 1,
         "Trash wormadam": 1,
@@ -373,7 +373,7 @@
         "Duraludon": 2,
         "Nidorino": 2,
         "Rayquaza": 10,
-        "Horsea": 5,
+        "Horsea": 6,
         "Reshiram": 1,
         "Celebi": 1,
         "Morelull": 1,
@@ -415,7 +415,7 @@
         "Burmy": 1,
         "Sewaddle": 1,
         "Shelmet": 1,
-        "Combusken": 1,
+        "Combusken": 2,
         "Croagunk": 2,
         "Mothim": 2,
         "Crabominable": 2,
@@ -433,10 +433,11 @@
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 1,
-        "Stoutland": 1
+        "Stoutland": 1,
+        "Elgyem": 1
       },
-      "total_spawns": 844,
-      "last_spawn": "2026-07-05T19:53:58.268600"
+      "total_spawns": 849,
+      "last_spawn": "2026-07-05T19:54:28.314088"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -936,7 +937,7 @@
     }
   },
   "global": {
-    "total_spawns": 64675,
+    "total_spawns": 64680,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
