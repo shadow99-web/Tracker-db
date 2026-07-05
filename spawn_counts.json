@@ -399,7 +399,7 @@
         "Nymble": 1,
         "Porygon": 1,
         "Abra": 1,
-        "Oddish": 2,
+        "Oddish": 4,
         "Dedenne": 1,
         "Gothita": 1,
         "Finizen": 2,
@@ -492,14 +492,16 @@
         "Mosslax": 1,
         "Braixen": 1,
         "Skwovet": 1,
-        "Magnemite": 1
+        "Magnemite": 1,
+        "Impidimp": 1,
+        "Elgyem": 1
       },
-      "total_spawns": 122,
-      "last_spawn": "2026-07-05T15:01:24.520750"
+      "total_spawns": 126,
+      "last_spawn": "2026-07-05T15:02:14.700049"
     }
   },
   "global": {
-    "total_spawns": 63291,
+    "total_spawns": 63295,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
