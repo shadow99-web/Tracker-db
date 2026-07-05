@@ -425,7 +425,7 @@
         "Pidgey": 2,
         "Gimmighoul": 1,
         "Cetoddle": 1,
-        "Fidough": 1,
+        "Fidough": 2,
         "Smearguru": 1,
         "Nuzleaf": 1,
         "Clauncher": 2,
@@ -503,7 +503,7 @@
         "Bombirdier": 1,
         "Wooloo": 1,
         "Togekiss": 1,
-        "Rolycoly": 1,
+        "Rolycoly": 2,
         "Duskull": 1,
         "Marill": 1,
         "Axew": 1,
@@ -533,14 +533,16 @@
         "Peakychu": 1,
         "Bellibolt": 1,
         "Quilladin": 1,
-        "Vulpix": 1
+        "Vulpix": 1,
+        "Sizzlipede": 1,
+        "Spiky-eared pichu": 1
       },
-      "total_spawns": 173,
-      "last_spawn": "2026-07-05T15:10:15.630597"
+      "total_spawns": 177,
+      "last_spawn": "2026-07-05T15:10:54.427333"
     }
   },
   "global": {
-    "total_spawns": 63344,
+    "total_spawns": 63348,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
