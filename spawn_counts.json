@@ -1274,7 +1274,7 @@
         "Stonjourner": 1,
         "Veluza": 2,
         "Panpour": 2,
-        "Crabrawler": 2,
+        "Crabrawler": 3,
         "Frogadier": 1,
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
@@ -1313,7 +1313,7 @@
         "Pikipek": 4,
         "Spritzee": 1,
         "Stantler": 1,
-        "Impidimp": 1,
+        "Impidimp": 2,
         "Swadloon": 1,
         "Sunny castform": 2,
         "Vullaby": 1,
@@ -1347,7 +1347,7 @@
         "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 2,
+        "Klawf": 3,
         "Dj rotom": 2,
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
@@ -1482,12 +1482,12 @@
         "Sunkern": 1,
         "Snubbull": 1
       },
-      "total_spawns": 488,
-      "last_spawn": "2026-07-05T04:13:13.653928"
+      "total_spawns": 491,
+      "last_spawn": "2026-07-05T04:14:43.785931"
     }
   },
   "global": {
-    "total_spawns": 63027,
+    "total_spawns": 63030,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
