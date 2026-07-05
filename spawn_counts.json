@@ -416,7 +416,7 @@
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 1,
-        "Jangmo-o": 1,
+        "Jangmo-o": 2,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 1,
@@ -473,14 +473,17 @@
         "Feebas": 1,
         "Weedle": 1,
         "Ralts": 1,
-        "Kangaskhan": 1
+        "Kangaskhan": 1,
+        "Eldegoss": 1,
+        "Aron": 1,
+        "Horsea": 1
       },
-      "total_spawns": 98,
-      "last_spawn": "2026-07-05T14:57:26.001733"
+      "total_spawns": 102,
+      "last_spawn": "2026-07-05T14:58:04.602693"
     }
   },
   "global": {
-    "total_spawns": 63263,
+    "total_spawns": 63267,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
