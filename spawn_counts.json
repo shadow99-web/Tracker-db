@@ -545,7 +545,7 @@
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 4,
-        "Quaquaval": 3,
+        "Quaquaval": 4,
         "Rapidash": 1,
         "Maschiff": 4,
         "Sensu oricorio": 2,
@@ -614,7 +614,7 @@
         "Tepig": 2,
         "Barbaracle": 1,
         "Noivern": 2,
-        "Clefairy": 2,
+        "Clefairy": 3,
         "Grubbin": 4,
         "Dustox": 1,
         "Chespin": 3,
@@ -646,7 +646,7 @@
         "Dj rotom": 3,
         "Anorith": 2,
         "Shiinotic": 1,
-        "Snover": 1,
+        "Snover": 2,
         "Bayleef": 2,
         "Nosepass": 1,
         "Scovillain": 2,
@@ -662,7 +662,7 @@
         "Tarountula": 5,
         "Omastar": 1,
         "Surskit": 1,
-        "Wooper": 3,
+        "Wooper": 4,
         "Tatsugiri": 2,
         "Oranguru": 1,
         "Kricketot": 1,
@@ -810,12 +810,12 @@
         "Turtwig": 1,
         "Snubbull": 1
       },
-      "total_spawns": 928,
-      "last_spawn": "2026-07-05T17:18:34.668474"
+      "total_spawns": 932,
+      "last_spawn": "2026-07-05T17:19:14.626883"
     }
   },
   "global": {
-    "total_spawns": 64113,
+    "total_spawns": 64117,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
