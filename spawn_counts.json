@@ -410,7 +410,7 @@
         "Psyduck": 2,
         "Monferno": 1,
         "Pikipek": 2,
-        "Flittle": 2,
+        "Flittle": 3,
         "Lillipup": 1,
         "Eevee": 2,
         "Shroomish": 1,
@@ -430,7 +430,7 @@
         "Cetoddle": 2,
         "Fidough": 2,
         "Smearguru": 1,
-        "Nuzleaf": 1,
+        "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
         "Bramblin": 3,
@@ -597,7 +597,7 @@
         "Mareanie": 1,
         "Munkidori": 1,
         "Fearow": 1,
-        "Vikavolt": 1,
+        "Vikavolt": 2,
         "Ledian": 1,
         "Pineco": 1,
         "Vanillite": 1,
@@ -607,14 +607,15 @@
         "Stoutland": 1,
         "Tirtouga": 1,
         "Swablu": 1,
-        "Tepig": 1
+        "Tepig": 1,
+        "Barbaracle": 1
       },
-      "total_spawns": 304,
-      "last_spawn": "2026-07-05T15:32:38.103105"
+      "total_spawns": 308,
+      "last_spawn": "2026-07-05T15:33:14.497363"
     }
   },
   "global": {
-    "total_spawns": 63481,
+    "total_spawns": 63485,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
