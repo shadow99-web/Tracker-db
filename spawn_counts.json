@@ -404,7 +404,7 @@
         "Mareep": 3,
         "Klink": 6,
         "Nymble": 6,
-        "Porygon": 8,
+        "Porygon": 9,
         "Abra": 6,
         "Oddish": 8,
         "Dedenne": 1,
@@ -447,7 +447,7 @@
         "Geodude": 6,
         "Treecko": 1,
         "Grimer": 1,
-        "Grafaiai": 2,
+        "Grafaiai": 3,
         "Gastly": 5,
         "Orthworm": 6,
         "Glimmet": 7,
@@ -609,7 +609,7 @@
         "Scraggy": 2,
         "Komala": 1,
         "Stoutland": 1,
-        "Tirtouga": 3,
+        "Tirtouga": 4,
         "Swablu": 3,
         "Tepig": 2,
         "Barbaracle": 3,
@@ -643,7 +643,7 @@
         "Buneary": 1,
         "Skiddo": 2,
         "Zigzagoon": 1,
-        "Dj rotom": 3,
+        "Dj rotom": 4,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 2,
@@ -659,7 +659,7 @@
         "Whirlipede": 1,
         "Tinkatuff": 1,
         "Baltoy": 4,
-        "Tarountula": 9,
+        "Tarountula": 10,
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 4,
@@ -858,14 +858,17 @@
         "Pancham": 1,
         "Exeggcute": 1,
         "Cherubi": 1,
-        "Tangrowth": 1
+        "Tangrowth": 1,
+        "Frosmoth": 1,
+        "Farigiraf": 1,
+        "Servine": 1
       },
-      "total_spawns": 1192,
-      "last_spawn": "2026-07-05T17:47:22.405028"
+      "total_spawns": 1200,
+      "last_spawn": "2026-07-05T17:47:54.554487"
     }
   },
   "global": {
-    "total_spawns": 64380,
+    "total_spawns": 64388,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
