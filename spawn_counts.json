@@ -232,7 +232,7 @@
         "Sizzlipede": 1,
         "Skuntank": 1,
         "Palafin": 2,
-        "Timburr": 1,
+        "Timburr": 2,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
@@ -403,10 +403,10 @@
         "Litleo": 1,
         "Silcoon": 1,
         "Snivy": 1,
-        "Zorua": 1
+        "Zorua": 2
       },
-      "total_spawns": 723,
-      "last_spawn": "2026-07-05T19:33:27.597387"
+      "total_spawns": 725,
+      "last_spawn": "2026-07-05T19:34:50.494459"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -906,7 +906,7 @@
     }
   },
   "global": {
-    "total_spawns": 64554,
+    "total_spawns": 64556,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
