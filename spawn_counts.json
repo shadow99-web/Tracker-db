@@ -91,7 +91,7 @@
         "Sandile": 10,
         "Charmeleon": 3,
         "Riolu": 2,
-        "Gible": 4,
+        "Gible": 6,
         "Greavard": 12,
         "Snover": 3,
         "Piplup": 1,
@@ -101,7 +101,7 @@
         "Dodrio": 1,
         "Metagross": 2,
         "Corphish": 3,
-        "Doduo": 3,
+        "Doduo": 4,
         "Flittle": 7,
         "Armarouge": 1,
         "Clauncher": 1,
@@ -119,7 +119,7 @@
         "Veluza": 8,
         "Panpour": 3,
         "Crabrawler": 3,
-        "Frogadier": 2,
+        "Frogadier": 3,
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
@@ -151,7 +151,7 @@
         "Trapinch": 4,
         "Butterfree": 3,
         "Teddiursa": 13,
-        "Roggenrola": 9,
+        "Roggenrola": 11,
         "Litwick": 5,
         "Wooper": 2,
         "Pikipek": 10,
@@ -226,7 +226,7 @@
         "Snorunt": 1,
         "Carvanha": 2,
         "Toxel": 2,
-        "Buneary": 1,
+        "Buneary": 2,
         "Gallade": 1,
         "Tangrowth": 1,
         "Sizzlipede": 1,
@@ -356,7 +356,7 @@
         "Phantump": 1,
         "Barboach": 2,
         "Nosepass": 1,
-        "Electrike": 1,
+        "Electrike": 2,
         "Hoppip": 7,
         "Slowbro": 2,
         "Gholdengo": 3,
@@ -383,7 +383,7 @@
         "Klink": 6,
         "Mesprit": 1,
         "Azelf": 2,
-        "Clodsire": 2,
+        "Clodsire": 3,
         "Charizard": 6,
         "Axew": 11,
         "Joltik": 1,
@@ -588,10 +588,11 @@
         "Goldeen": 1,
         "Gouging fire": 2,
         "Cottonee": 1,
-        "Flareon": 2
+        "Flareon": 2,
+        "Gengar": 2
       },
-      "total_spawns": 1584,
-      "last_spawn": "2026-07-05T21:10:23.900668"
+      "total_spawns": 1595,
+      "last_spawn": "2026-07-05T21:10:53.862976"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -955,7 +956,7 @@
         "Toedscruel": 1,
         "Dewpider": 4,
         "Pansear": 4,
-        "Togetic": 3,
+        "Togetic": 4,
         "Houndstone": 6,
         "Ponyta": 1,
         "Drifblim": 1,
@@ -1006,7 +1007,7 @@
         "Banette": 1,
         "Tympole": 6,
         "Bunnelby": 3,
-        "Vanillish": 1,
+        "Vanillish": 2,
         "Arrokuda": 2,
         "Snom": 1,
         "Noibat": 1,
@@ -1190,12 +1191,12 @@
         "Seel": 1,
         "Kabutops": 1
       },
-      "total_spawns": 1940,
-      "last_spawn": "2026-07-05T21:10:24.395650"
+      "total_spawns": 1942,
+      "last_spawn": "2026-07-05T21:10:54.797452"
     }
   },
   "global": {
-    "total_spawns": 66063,
+    "total_spawns": 66076,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
