@@ -510,7 +510,7 @@
         "Bombirdier": 6,
         "Wooloo": 3,
         "Togekiss": 1,
-        "Rolycoly": 6,
+        "Rolycoly": 7,
         "Duskull": 5,
         "Marill": 5,
         "Axew": 3,
@@ -626,7 +626,7 @@
         "Goomy": 6,
         "Orbeetle": 1,
         "Shellder": 4,
-        "Pawmi": 5,
+        "Pawmi": 6,
         "Spoink": 4,
         "Lileep": 2,
         "Crocalor": 2,
@@ -663,7 +663,7 @@
         "Omastar": 1,
         "Surskit": 1,
         "Wooper": 4,
-        "Tatsugiri": 3,
+        "Tatsugiri": 4,
         "Oranguru": 1,
         "Kricketot": 2,
         "Golurk": 3,
@@ -875,14 +875,17 @@
         "Family of three maushold": 1,
         "Sentret": 1,
         "Piloswine": 1,
-        "Nidoking": 1
+        "Nidoking": 1,
+        "Hariyama": 1,
+        "Archen": 1,
+        "Mabosstiff": 1
       },
-      "total_spawns": 1267,
-      "last_spawn": "2026-07-05T17:53:34.577428"
+      "total_spawns": 1273,
+      "last_spawn": "2026-07-05T17:54:07.100612"
     }
   },
   "global": {
-    "total_spawns": 64455,
+    "total_spawns": 64461,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
