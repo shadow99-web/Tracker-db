@@ -479,7 +479,7 @@
         "Wattrel": 4,
         "Nacli": 5,
         "Feebas": 1,
-        "Weedle": 3,
+        "Weedle": 4,
         "Ralts": 4,
         "Kangaskhan": 1,
         "Eldegoss": 1,
@@ -634,7 +634,7 @@
         "Cherrim": 1,
         "Raboot": 3,
         "Summer deerling": 3,
-        "Skrelp": 1,
+        "Skrelp": 2,
         "Spewpa": 1,
         "Fomantis": 1,
         "Forretress": 1,
@@ -738,14 +738,15 @@
         "Mudbray": 1,
         "Weepinbell": 1,
         "East sea shellos": 1,
-        "Flygon": 1
+        "Flygon": 1,
+        "Cyclizar": 1
       },
-      "total_spawns": 651,
-      "last_spawn": "2026-07-05T16:31:54.417595"
+      "total_spawns": 654,
+      "last_spawn": "2026-07-05T16:32:24.712420"
     }
   },
   "global": {
-    "total_spawns": 63835,
+    "total_spawns": 63838,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
