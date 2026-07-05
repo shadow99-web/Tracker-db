@@ -23,8 +23,8 @@
         "Anorith": 2,
         "Arctibax": 1,
         "Ralts": 4,
-        "Peakychu": 5,
-        "Cutiefly": 2,
+        "Peakychu": 7,
+        "Cutiefly": 3,
         "Simipour": 1,
         "Tynamo": 1,
         "Palossand": 1,
@@ -70,7 +70,7 @@
         "Vulpix": 1,
         "Gastly": 6,
         "Aron": 2,
-        "Honedge": 7,
+        "Honedge": 8,
         "Houndour": 1,
         "Machop": 6,
         "Terapagos": 1,
@@ -161,7 +161,7 @@
         "Swadloon": 2,
         "Sunny castform": 4,
         "Vullaby": 1,
-        "Venipede": 2,
+        "Venipede": 3,
         "Pansage": 2,
         "Cetoddle": 4,
         "Togepi": 3,
@@ -387,8 +387,8 @@
         "Charizard": 2,
         "Axew": 2
       },
-      "total_spawns": 651,
-      "last_spawn": "2026-07-05T19:05:03.624155"
+      "total_spawns": 656,
+      "last_spawn": "2026-07-05T19:05:35.193264"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -888,7 +888,7 @@
     }
   },
   "global": {
-    "total_spawns": 64482,
+    "total_spawns": 64487,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
