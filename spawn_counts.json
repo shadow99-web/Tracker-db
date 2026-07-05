@@ -414,14 +414,18 @@
         "Karrablast": 1,
         "Timburr": 1,
         "Pidgey": 2,
-        "Gimmighoul": 1
+        "Gimmighoul": 1,
+        "Cetoddle": 1,
+        "Fidough": 1,
+        "Smearguru": 1,
+        "Nuzleaf": 1
       },
-      "total_spawns": 42,
-      "last_spawn": "2026-07-05T14:13:44.621948"
+      "total_spawns": 46,
+      "last_spawn": "2026-07-05T14:14:24.428046"
     }
   },
   "global": {
-    "total_spawns": 63187,
+    "total_spawns": 63191,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
