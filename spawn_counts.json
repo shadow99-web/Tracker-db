@@ -222,7 +222,7 @@
         "Duosion": 2,
         "Orthworm": 8,
         "Yamask": 2,
-        "Nymble": 8,
+        "Nymble": 9,
         "Snorunt": 2,
         "Carvanha": 2,
         "Toxel": 3,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 3,
         "Milcery": 5,
-        "Trumbeak": 1,
+        "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
         "Rhydon": 2,
@@ -347,7 +347,7 @@
         "Chespin": 1,
         "Combee": 4,
         "Cyndaquil": 2,
-        "Grotle": 3,
+        "Grotle": 4,
         "Tinkaton": 1,
         "Bergmite": 3,
         "Klang": 2,
@@ -649,8 +649,8 @@
         "Heatmor": 1,
         "Vikavolt": 1
       },
-      "total_spawns": 2163,
-      "last_spawn": "2026-07-05T22:05:13.512311"
+      "total_spawns": 2166,
+      "last_spawn": "2026-07-05T22:05:43.772068"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -675,9 +675,9 @@
         "Machop": 12,
         "Psyduck": 6,
         "Monferno": 2,
-        "Pikipek": 8,
+        "Pikipek": 9,
         "Flittle": 8,
-        "Lillipup": 8,
+        "Lillipup": 9,
         "Eevee": 3,
         "Shroomish": 2,
         "Dachsbun": 4,
@@ -1083,7 +1083,7 @@
         "Ceruledge": 3,
         "Swampert": 1,
         "Naclstack": 3,
-        "Golbat": 4,
+        "Golbat": 5,
         "Shuppet": 4,
         "East sea gastrodon": 2,
         "Grovyle": 2,
@@ -1286,12 +1286,12 @@
         "Lampent": 1,
         "Ursaluna": 1
       },
-      "total_spawns": 2262,
-      "last_spawn": "2026-07-05T22:05:14.499736"
+      "total_spawns": 2265,
+      "last_spawn": "2026-07-05T22:05:44.596180"
     }
   },
   "global": {
-    "total_spawns": 66964,
+    "total_spawns": 66970,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
