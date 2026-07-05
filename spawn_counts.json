@@ -151,7 +151,7 @@
         "Trapinch": 4,
         "Butterfree": 1,
         "Teddiursa": 9,
-        "Roggenrola": 3,
+        "Roggenrola": 5,
         "Litwick": 2,
         "Wooper": 1,
         "Pikipek": 8,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 1,
         "Fraxure": 1,
-        "Zubat": 3,
+        "Zubat": 4,
         "Drowzee": 2,
         "Lechonk": 4,
         "Woobat": 1,
@@ -429,7 +429,7 @@
         "Haunter": 1,
         "Dottler": 1,
         "Wailmer": 1,
-        "Frigibax": 2,
+        "Frigibax": 4,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 1,
@@ -460,10 +460,12 @@
         "Pansear": 1,
         "Yanma": 1,
         "Galarian moltres": 1,
-        "Seismitoad": 1
+        "Seismitoad": 2,
+        "Galarian articuno": 1,
+        "Kyurem": 1
       },
-      "total_spawns": 964,
-      "last_spawn": "2026-07-05T20:06:38.272115"
+      "total_spawns": 972,
+      "last_spawn": "2026-07-05T20:07:08.509516"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -624,7 +626,7 @@
         "Rapidash": 1,
         "Maschiff": 8,
         "Sensu oricorio": 2,
-        "Scatterbug": 6,
+        "Scatterbug": 7,
         "Taillow": 2,
         "Wimpod": 6,
         "Rookidee": 7,
@@ -667,7 +669,7 @@
         "Capsakid": 7,
         "Tyrunt": 1,
         "Drilbur": 2,
-        "Vaporeon": 2,
+        "Vaporeon": 3,
         "Magneton": 3,
         "Pupitar": 3,
         "Durant": 2,
@@ -735,7 +737,7 @@
         "Tinkatuff": 2,
         "Baltoy": 5,
         "Tarountula": 10,
-        "Omastar": 1,
+        "Omastar": 2,
         "Surskit": 1,
         "Wooper": 4,
         "Tatsugiri": 4,
@@ -810,7 +812,7 @@
         "Frogadier": 5,
         "Golett": 2,
         "Mismagius": 1,
-        "Mudbray": 2,
+        "Mudbray": 3,
         "Weepinbell": 1,
         "East sea shellos": 4,
         "Flygon": 1,
@@ -845,7 +847,7 @@
         "Blitzle": 2,
         "Politoed": 1,
         "Nickit": 1,
-        "Wiglett": 4,
+        "Wiglett": 5,
         "Carkol": 2,
         "Solosis": 4,
         "Flapple": 1,
@@ -866,7 +868,7 @@
         "Stunfisk": 2,
         "Spinda": 1,
         "Beautifly": 2,
-        "Fletchling": 6,
+        "Fletchling": 7,
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
@@ -987,12 +989,12 @@
         "Dottler": 1,
         "Mr. mime": 1
       },
-      "total_spawns": 1420,
-      "last_spawn": "2026-07-05T20:06:34.715203"
+      "total_spawns": 1426,
+      "last_spawn": "2026-07-05T20:07:07.164810"
     }
   },
   "global": {
-    "total_spawns": 64923,
+    "total_spawns": 64937,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
