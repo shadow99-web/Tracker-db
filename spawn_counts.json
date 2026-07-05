@@ -797,7 +797,7 @@
         "Duskull": 9,
         "Marill": 5,
         "Axew": 7,
-        "Tinkatink": 9,
+        "Tinkatink": 10,
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
@@ -1053,7 +1053,7 @@
         "Blitzle": 3,
         "Politoed": 2,
         "Nickit": 1,
-        "Wiglett": 8,
+        "Wiglett": 9,
         "Carkol": 3,
         "Solosis": 6,
         "Flapple": 3,
@@ -1330,14 +1330,16 @@
         "Bouffalant": 1,
         "Cacturne": 1,
         "Shedinja": 1,
-        "Lunatone": 1
+        "Lunatone": 1,
+        "Lapras": 1,
+        "Chesnaught": 1
       },
-      "total_spawns": 2463,
-      "last_spawn": "2026-07-05T22:39:04.604388"
+      "total_spawns": 2467,
+      "last_spawn": "2026-07-05T22:39:44.476395"
     }
   },
   "global": {
-    "total_spawns": 67322,
+    "total_spawns": 67326,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
