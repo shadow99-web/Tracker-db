@@ -368,10 +368,11 @@
         "Kommo-o": 1,
         "Vigoroth": 1,
         "Gigalith": 1,
-        "Kingambit": 1
+        "Kingambit": 1,
+        "Cresselia": 1
       },
-      "total_spawns": 604,
-      "last_spawn": "2026-07-05T14:11:21.105236"
+      "total_spawns": 605,
+      "last_spawn": "2026-07-05T14:12:27.831662"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -383,7 +384,7 @@
         "Gible": 2,
         "Torracat": 1,
         "Dusclops": 1,
-        "Rhyhorn": 1,
+        "Rhyhorn": 2,
         "Mareep": 1,
         "Klink": 1,
         "Nymble": 1,
@@ -406,14 +407,15 @@
         "Glimmora": 1,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 1
+        "Whismur": 1,
+        "Jangmo-o": 1
       },
-      "total_spawns": 33,
-      "last_spawn": "2026-07-05T14:11:54.327150"
+      "total_spawns": 35,
+      "last_spawn": "2026-07-05T14:12:24.324101"
     }
   },
   "global": {
-    "total_spawns": 63176,
+    "total_spawns": 63179,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
