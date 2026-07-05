@@ -460,7 +460,7 @@
         "Riolu": 1,
         "Aromatisse": 1,
         "Slowpoke": 1,
-        "Seedot": 1,
+        "Seedot": 2,
         "Trapinch": 1,
         "Hatenna": 1,
         "Drifloon": 1,
@@ -517,14 +517,16 @@
         "Spinarak": 1,
         "Gligar": 1,
         "Cubone": 1,
-        "Dracovish": 1
+        "Dracovish": 1,
+        "Deino": 1,
+        "Honedge": 1
       },
-      "total_spawns": 153,
-      "last_spawn": "2026-07-05T15:06:44.825328"
+      "total_spawns": 156,
+      "last_spawn": "2026-07-05T15:07:17.046020"
     }
   },
   "global": {
-    "total_spawns": 63322,
+    "total_spawns": 63325,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
