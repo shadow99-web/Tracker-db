@@ -500,7 +500,7 @@
         "Braixen": 2,
         "Skwovet": 1,
         "Magnemite": 3,
-        "Impidimp": 3,
+        "Impidimp": 4,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 4,
@@ -562,7 +562,7 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 3,
-        "Swinub": 6,
+        "Swinub": 7,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -737,7 +737,7 @@
         "Mismagius": 1,
         "Mudbray": 1,
         "Weepinbell": 1,
-        "East sea shellos": 1,
+        "East sea shellos": 2,
         "Flygon": 1,
         "Cyclizar": 1,
         "Murkrow": 1,
@@ -769,14 +769,15 @@
         "Droopy tatsugiri": 1,
         "Blitzle": 1,
         "Politoed": 1,
-        "Nickit": 1
+        "Nickit": 1,
+        "Wiglett": 1
       },
-      "total_spawns": 782,
-      "last_spawn": "2026-07-05T16:53:54.415856"
+      "total_spawns": 786,
+      "last_spawn": "2026-07-05T16:54:34.420050"
     }
   },
   "global": {
-    "total_spawns": 63966,
+    "total_spawns": 63970,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
