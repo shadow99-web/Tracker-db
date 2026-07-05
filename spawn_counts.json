@@ -16,7 +16,7 @@
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 8,
-        "Fidough": 3,
+        "Fidough": 4,
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 2,
@@ -46,7 +46,7 @@
         "Wattrel": 3,
         "Tadbulb": 3,
         "Yanmega": 1,
-        "Tympole": 6,
+        "Tympole": 7,
         "Grubbin": 7,
         "Scatterbug": 5,
         "Skwovet": 3,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 1,
-        "Geodude": 2,
+        "Geodude": 3,
         "Tentacruel": 1,
         "Archen": 3,
         "Blue plumage squawkabilly": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
-        "Spheal": 2,
+        "Spheal": 3,
         "Amaura": 1,
         "Wailord": 1,
         "Accelgor": 2,
@@ -481,10 +481,12 @@
         "Complete zygarde": 1,
         "Mudbray": 1,
         "Spectrier": 1,
-        "Rufflet": 1
+        "Rufflet": 1,
+        "Lairon": 1,
+        "Altaria": 1
       },
-      "total_spawns": 1027,
-      "last_spawn": "2026-07-05T20:12:03.797414"
+      "total_spawns": 1033,
+      "last_spawn": "2026-07-05T20:12:33.496637"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -573,14 +575,14 @@
         "Scorbunny": 2,
         "Roggenrola": 7,
         "Wattrel": 10,
-        "Nacli": 15,
+        "Nacli": 16,
         "Feebas": 2,
         "Weedle": 8,
         "Ralts": 7,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
-        "Horsea": 14,
+        "Horsea": 15,
         "Teddiursa": 7,
         "Dratini": 2,
         "Sewaddle": 7,
@@ -857,7 +859,7 @@
         "Pyroar": 1,
         "Oshawott": 1,
         "Bisharp": 1,
-        "Dartrix": 2,
+        "Dartrix": 3,
         "Roserade": 1,
         "Heliolisk": 1,
         "Doublade": 1,
@@ -1004,7 +1006,7 @@
         "Ditto": 1,
         "Alolan meowth": 1,
         "Budew": 1,
-        "Cascoon": 1,
+        "Cascoon": 2,
         "Dottler": 1,
         "Mr. mime": 1,
         "Slowking": 1,
@@ -1015,17 +1017,18 @@
         "Drowzee": 1,
         "Nidorino": 1,
         "Sobble": 1,
-        "Vigoroth": 1,
+        "Vigoroth": 2,
         "Finneon": 1,
         "Debutante trim furfrou": 1,
-        "Fraxure": 1
+        "Fraxure": 1,
+        "Tentacool": 1
       },
-      "total_spawns": 1482,
-      "last_spawn": "2026-07-05T20:12:07.179204"
+      "total_spawns": 1488,
+      "last_spawn": "2026-07-05T20:12:37.374786"
     }
   },
   "global": {
-    "total_spawns": 65048,
+    "total_spawns": 65060,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
