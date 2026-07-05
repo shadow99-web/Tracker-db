@@ -37,7 +37,7 @@
         "Duskull": 20,
         "Abra": 16,
         "Wiglett": 8,
-        "Starly": 19,
+        "Starly": 20,
         "Caterpie": 5,
         "Mareep": 6,
         "Capsakid": 10,
@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 17,
-        "Sandile": 18,
+        "Sandile": 19,
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 12,
@@ -678,8 +678,8 @@
         "Galarian zen darmanitan": 2,
         "Basculegion": 2
       },
-      "total_spawns": 2456,
-      "last_spawn": "2026-07-05T23:45:14.022778"
+      "total_spawns": 2458,
+      "last_spawn": "2026-07-05T23:46:13.534963"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -786,7 +786,7 @@
         "Hoppip": 14,
         "Blipbug": 10,
         "Swoobat": 1,
-        "Greavard": 13,
+        "Greavard": 14,
         "Mosslax": 12,
         "Braixen": 2,
         "Skwovet": 3,
@@ -845,7 +845,7 @@
         "Wimpod": 7,
         "Rookidee": 16,
         "Shellos": 1,
-        "Roaming gimmighoul": 4,
+        "Roaming gimmighoul": 5,
         "Grotle": 4,
         "Squawkabilly": 3,
         "Wartortle": 2,
@@ -1159,7 +1159,7 @@
         "Azumarill": 1,
         "Rillaboom": 1,
         "Farfetch'd": 1,
-        "Buizel": 3,
+        "Buizel": 4,
         "Barraskewda": 1,
         "Kommo-o": 2,
         "Chatot": 2,
@@ -1204,7 +1204,7 @@
         "Mr. mime": 1,
         "Slowking": 1,
         "Goldeen": 3,
-        "Froakie": 2,
+        "Froakie": 3,
         "Inkay": 1,
         "Quilava": 2,
         "Drowzee": 2,
@@ -1379,12 +1379,12 @@
         "Dialga": 1,
         "Joltik": 1
       },
-      "total_spawns": 2856,
-      "last_spawn": "2026-07-05T23:45:44.795761"
+      "total_spawns": 2860,
+      "last_spawn": "2026-07-05T23:46:24.441625"
     }
   },
   "global": {
-    "total_spawns": 67851,
+    "total_spawns": 67857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
