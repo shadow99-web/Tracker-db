@@ -1326,7 +1326,7 @@
         "Unown q": 1,
         "Lotad": 1,
         "Mienshao": 1,
-        "Blipbug": 2,
+        "Blipbug": 3,
         "Rellor": 1,
         "Rolycoly": 2,
         "Poliwhirl": 1,
@@ -1345,12 +1345,12 @@
         "Meowth": 2,
         "Charmander": 1
       },
-      "total_spawns": 241,
-      "last_spawn": "2026-07-05T02:02:58.358162"
+      "total_spawns": 242,
+      "last_spawn": "2026-07-05T02:03:28.428026"
     }
   },
   "global": {
-    "total_spawns": 62780,
+    "total_spawns": 62781,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
