@@ -461,7 +461,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 6,
-        "Sandile": 5,
+        "Sandile": 6,
         "Maushold": 2,
         "Rattata": 5,
         "Riolu": 2,
@@ -496,7 +496,7 @@
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
-        "Mosslax": 7,
+        "Mosslax": 8,
         "Braixen": 2,
         "Skwovet": 1,
         "Magnemite": 6,
@@ -508,7 +508,7 @@
         "Poliwrath": 1,
         "Combusken": 2,
         "Bombirdier": 3,
-        "Wooloo": 2,
+        "Wooloo": 3,
         "Togekiss": 1,
         "Rolycoly": 6,
         "Duskull": 5,
@@ -525,7 +525,7 @@
         "Gligar": 1,
         "Cubone": 1,
         "Dracovish": 1,
-        "Deino": 3,
+        "Deino": 4,
         "Honedge": 3,
         "Litleo": 1,
         "Steelix": 2,
@@ -618,7 +618,7 @@
         "Grubbin": 5,
         "Dustox": 1,
         "Chespin": 3,
-        "Armarouge": 1,
+        "Armarouge": 2,
         "Battle cyclizar": 1,
         "Bagon": 1,
         "Vanilluxe": 1,
@@ -732,7 +732,7 @@
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
-        "Frogadier": 2,
+        "Frogadier": 3,
         "Golett": 2,
         "Mismagius": 1,
         "Mudbray": 1,
@@ -833,14 +833,15 @@
         "Hawlucha": 1,
         "Paras": 1,
         "Crobat": 1,
-        "Pignite": 1
+        "Pignite": 1,
+        "Gulpin": 1
       },
-      "total_spawns": 1048,
-      "last_spawn": "2026-07-05T17:35:14.501964"
+      "total_spawns": 1055,
+      "last_spawn": "2026-07-05T17:35:47.401067"
     }
   },
   "global": {
-    "total_spawns": 64236,
+    "total_spawns": 64243,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
