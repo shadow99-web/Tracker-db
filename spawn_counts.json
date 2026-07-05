@@ -1187,7 +1187,7 @@
         "Pyukumuku": 1,
         "Pidgey": 1,
         "Binacle": 1,
-        "Bounsweet": 1,
+        "Bounsweet": 2,
         "Fletchling": 2,
         "Whirlipede": 1,
         "Duskull": 5,
@@ -1343,12 +1343,12 @@
         "Charcadet": 1,
         "Mudsdale": 1
       },
-      "total_spawns": 235,
-      "last_spawn": "2026-07-05T01:54:18.177522"
+      "total_spawns": 236,
+      "last_spawn": "2026-07-05T01:54:48.216043"
     }
   },
   "global": {
-    "total_spawns": 62774,
+    "total_spawns": 62775,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
