@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 3,
-        "Sandile": 6,
+        "Sandile": 8,
         "Charmeleon": 1,
         "Riolu": 2,
         "Gible": 2,
@@ -111,7 +111,7 @@
         "Eevee": 2,
         "Dreepy": 7,
         "Treecko": 2,
-        "Shroodle": 3,
+        "Shroodle": 4,
         "Ride cyclizar": 1,
         "Swinub": 6,
         "Rattata": 3,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 1,
-        "Teddiursa": 3,
+        "Teddiursa": 5,
         "Roggenrola": 3,
         "Litwick": 2,
         "Wooper": 1,
@@ -232,7 +232,7 @@
         "Sizzlipede": 1,
         "Skuntank": 1,
         "Palafin": 2,
-        "Timburr": 2,
+        "Timburr": 3,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
@@ -242,7 +242,7 @@
         "Machoke": 1,
         "Luvdisc": 1,
         "Fennekin": 2,
-        "Milcery": 2,
+        "Milcery": 3,
         "Trumbeak": 1,
         "Bonsly": 1,
         "Growlithe": 1,
@@ -428,8 +428,8 @@
         "Marowak": 2,
         "Haunter": 1
       },
-      "total_spawns": 813,
-      "last_spawn": "2026-07-05T19:49:53.723235"
+      "total_spawns": 820,
+      "last_spawn": "2026-07-05T19:50:23.727341"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -929,7 +929,7 @@
     }
   },
   "global": {
-    "total_spawns": 64644,
+    "total_spawns": 64651,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
