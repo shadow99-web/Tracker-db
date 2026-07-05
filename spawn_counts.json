@@ -87,7 +87,7 @@
         "Shinx": 13,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 3,
+        "Pawmi": 5,
         "Sandile": 10,
         "Charmeleon": 3,
         "Riolu": 2,
@@ -496,10 +496,11 @@
         "Dada zarude": 1,
         "Yellow flower florges": 1,
         "Drilbur": 1,
-        "Leavanny": 1
+        "Leavanny": 1,
+        "Magikarp": 1
       },
-      "total_spawns": 1070,
-      "last_spawn": "2026-07-05T20:15:50.578864"
+      "total_spawns": 1073,
+      "last_spawn": "2026-07-05T20:16:18.495744"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -516,7 +517,7 @@
         "Klink": 7,
         "Nymble": 7,
         "Porygon": 10,
-        "Abra": 8,
+        "Abra": 9,
         "Oddish": 8,
         "Dedenne": 2,
         "Gothita": 5,
@@ -603,7 +604,7 @@
         "Slakoth": 9,
         "Dreepy": 8,
         "Foongus": 2,
-        "Hoppip": 8,
+        "Hoppip": 9,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 9,
@@ -680,12 +681,12 @@
         "Rellor": 7,
         "Hippopotas": 3,
         "Chikorita": 5,
-        "Litwick": 9,
+        "Litwick": 10,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 2,
-        "Croconaw": 2,
+        "Croconaw": 3,
         "Smoliv": 5,
         "Lechonk": 7,
         "Clodsire": 2,
@@ -796,7 +797,7 @@
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 5,
+        "Veluza": 6,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 5,
@@ -937,7 +938,7 @@
         "East sea gastrodon": 1,
         "Grovyle": 1,
         "Grumpig": 2,
-        "White plumage squawkabilly": 1,
+        "White plumage squawkabilly": 2,
         "Koffing": 1,
         "Rhyperior": 1,
         "Spritzee": 3,
@@ -975,7 +976,7 @@
         "Servine": 1,
         "Zoroark": 1,
         "Aegislash": 1,
-        "Scyther": 2,
+        "Scyther": 3,
         "Azumarill": 1,
         "Rillaboom": 1,
         "Farfetch'd": 1,
@@ -1044,12 +1045,12 @@
         "Seadra": 1,
         "Pyukumuku": 1
       },
-      "total_spawns": 1526,
-      "last_spawn": "2026-07-05T20:15:47.120819"
+      "total_spawns": 1533,
+      "last_spawn": "2026-07-05T20:16:24.505597"
     }
   },
   "global": {
-    "total_spawns": 65135,
+    "total_spawns": 65145,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
