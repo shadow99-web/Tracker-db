@@ -1202,7 +1202,7 @@
         "Wattrel": 1,
         "Tadbulb": 3,
         "Yanmega": 1,
-        "Tympole": 3,
+        "Tympole": 4,
         "Grubbin": 3,
         "Scatterbug": 3,
         "Skwovet": 2,
@@ -1279,7 +1279,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
-        "Rookidee": 2,
+        "Rookidee": 3,
         "Flapple": 2,
         "Bronzor": 1,
         "Swirlix": 2,
@@ -1424,14 +1424,15 @@
         "Onix": 1,
         "Dracovish": 1,
         "Slowpoke": 1,
-        "Drizzile": 1
+        "Drizzile": 1,
+        "Tinkatink": 1
       },
-      "total_spawns": 367,
-      "last_spawn": "2026-07-05T03:46:18.676121"
+      "total_spawns": 370,
+      "last_spawn": "2026-07-05T03:47:03.064290"
     }
   },
   "global": {
-    "total_spawns": 62906,
+    "total_spawns": 62909,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
