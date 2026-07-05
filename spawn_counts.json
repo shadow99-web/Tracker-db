@@ -500,7 +500,7 @@
         "Braixen": 2,
         "Skwovet": 1,
         "Magnemite": 3,
-        "Impidimp": 4,
+        "Impidimp": 5,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 4,
@@ -562,7 +562,7 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 3,
-        "Swinub": 7,
+        "Swinub": 8,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -703,7 +703,7 @@
         "Ursaring": 2,
         "Zweilous": 2,
         "Amoonguss": 1,
-        "Varoom": 3,
+        "Varoom": 4,
         "Kirlia": 1,
         "Minccino": 1,
         "Charmander": 1,
@@ -796,14 +796,15 @@
         "Sandshrew": 1,
         "Fletchinder": 1,
         "Sinistea": 1,
-        "Shinx": 1
+        "Shinx": 1,
+        "Totodile": 1
       },
-      "total_spawns": 884,
-      "last_spawn": "2026-07-05T17:11:14.501731"
+      "total_spawns": 888,
+      "last_spawn": "2026-07-05T17:11:54.510888"
     }
   },
   "global": {
-    "total_spawns": 64068,
+    "total_spawns": 64072,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
