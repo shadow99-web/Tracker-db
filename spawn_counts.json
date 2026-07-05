@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 12,
         "Binacle": 4,
-        "Bounsweet": 14,
+        "Bounsweet": 16,
         "Fletchling": 6,
         "Whirlipede": 4,
         "Duskull": 18,
@@ -670,8 +670,8 @@
         "Slaking": 1,
         "Obstagoon": 2
       },
-      "total_spawns": 2335,
-      "last_spawn": "2026-07-05T22:47:33.822630"
+      "total_spawns": 2337,
+      "last_spawn": "2026-07-05T22:47:43.597322"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -686,7 +686,7 @@
         "Rhyhorn": 9,
         "Mareep": 11,
         "Klink": 9,
-        "Nymble": 13,
+        "Nymble": 14,
         "Porygon": 14,
         "Abra": 17,
         "Oddish": 15,
@@ -794,7 +794,7 @@
         "Wooloo": 6,
         "Togekiss": 1,
         "Rolycoly": 13,
-        "Duskull": 11,
+        "Duskull": 12,
         "Marill": 5,
         "Axew": 7,
         "Tinkatink": 10,
@@ -1223,7 +1223,7 @@
         "Yamper": 5,
         "Eelektross": 2,
         "Quagsire": 1,
-        "Sunflora": 1,
+        "Sunflora": 2,
         "Wynaut": 1,
         "Wo-chien": 1,
         "Tranquill": 1,
@@ -1338,14 +1338,15 @@
         "Torchic": 1,
         "Primarina": 1,
         "Hakamo-o": 1,
-        "Purrloin": 1
+        "Purrloin": 1,
+        "Wigglytuff": 1
       },
-      "total_spawns": 2513,
-      "last_spawn": "2026-07-05T22:47:34.721505"
+      "total_spawns": 2517,
+      "last_spawn": "2026-07-05T22:48:14.508155"
     }
   },
   "global": {
-    "total_spawns": 67387,
+    "total_spawns": 67393,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
