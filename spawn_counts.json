@@ -1264,7 +1264,7 @@
         "Tentacool": 1,
         "Bayleef": 1,
         "Magnezone": 1,
-        "Eevee": 1,
+        "Eevee": 2,
         "Dreepy": 2,
         "Treecko": 2,
         "Shroodle": 2,
@@ -1351,14 +1351,15 @@
         "Dj rotom": 1,
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
-        "Bagon": 1
+        "Bagon": 1,
+        "Pikachu": 1
       },
-      "total_spawns": 252,
-      "last_spawn": "2026-07-05T03:29:18.992519"
+      "total_spawns": 254,
+      "last_spawn": "2026-07-05T03:29:58.400418"
     }
   },
   "global": {
-    "total_spawns": 62791,
+    "total_spawns": 62793,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
