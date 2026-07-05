@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 7,
         "Binacle": 2,
-        "Bounsweet": 6,
+        "Bounsweet": 8,
         "Fletchling": 4,
         "Whirlipede": 3,
         "Duskull": 10,
@@ -231,7 +231,7 @@
         "Tangrowth": 1,
         "Sizzlipede": 1,
         "Skuntank": 1,
-        "Palafin": 4,
+        "Palafin": 5,
         "Timburr": 5,
         "Shellos": 1,
         "Arcanine": 1,
@@ -567,10 +567,13 @@
         "Farfetch'd": 2,
         "Grafaiai": 1,
         "Fearow": 1,
-        "Squawkabilly": 1
+        "Squawkabilly": 1,
+        "Seadra": 1,
+        "Sealeo": 1,
+        "Baltoy": 1
       },
-      "total_spawns": 1460,
-      "last_spawn": "2026-07-05T21:03:33.647219"
+      "total_spawns": 1466,
+      "last_spawn": "2026-07-05T21:04:03.834264"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -626,7 +629,7 @@
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 6,
-        "Geodude": 11,
+        "Geodude": 12,
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
@@ -651,7 +654,7 @@
         "Slowpoke": 2,
         "Seedot": 12,
         "Trapinch": 10,
-        "Hatenna": 10,
+        "Hatenna": 11,
         "Drifloon": 3,
         "Togepi": 9,
         "Snivy": 2,
@@ -1161,14 +1164,15 @@
         "Palossand": 1,
         "Clamperl": 1,
         "Cramorant": 1,
-        "Decidueye": 1
+        "Decidueye": 1,
+        "Venusaur": 1
       },
-      "total_spawns": 1901,
-      "last_spawn": "2026-07-05T21:03:24.302396"
+      "total_spawns": 1904,
+      "last_spawn": "2026-07-05T21:03:54.615871"
     }
   },
   "global": {
-    "total_spawns": 65900,
+    "total_spawns": 65909,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
