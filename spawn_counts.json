@@ -567,7 +567,7 @@
         "Venonat": 1,
         "Aipom": 1,
         "Rellor": 4,
-        "Hippopotas": 2,
+        "Hippopotas": 3,
         "Chikorita": 4,
         "Litwick": 7,
         "Metapod": 1,
@@ -638,7 +638,7 @@
         "Spewpa": 2,
         "Fomantis": 2,
         "Forretress": 1,
-        "Squirtle": 1,
+        "Squirtle": 2,
         "Wingull": 1,
         "Buneary": 1,
         "Skiddo": 2,
@@ -715,7 +715,7 @@
         "Magmar": 3,
         "Chef dente": 3,
         "Sandygast": 1,
-        "Graveler": 3,
+        "Graveler": 4,
         "Duosion": 2,
         "Pawniard": 1,
         "Rabsca": 2,
@@ -783,7 +783,7 @@
         "Boldore": 1,
         "Prof tangrowth": 1,
         "Corvisquire": 1,
-        "Lokix": 2,
+        "Lokix": 3,
         "Charmeleon": 2,
         "Spidops": 1,
         "Dwebble": 2,
@@ -862,14 +862,15 @@
         "Frosmoth": 1,
         "Farigiraf": 1,
         "Servine": 1,
-        "Zoroark": 1
+        "Zoroark": 1,
+        "Aegislash": 1
       },
-      "total_spawns": 1207,
-      "last_spawn": "2026-07-05T17:48:27.094935"
+      "total_spawns": 1212,
+      "last_spawn": "2026-07-05T17:48:57.305304"
     }
   },
   "global": {
-    "total_spawns": 64395,
+    "total_spawns": 64400,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
