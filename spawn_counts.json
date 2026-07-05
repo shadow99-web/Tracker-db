@@ -421,7 +421,7 @@
         "Dachsbun": 2,
         "Swirlix": 3,
         "Glimmora": 3,
-        "Meditite": 2,
+        "Meditite": 3,
         "Pansage": 2,
         "Whismur": 11,
         "Jangmo-o": 6,
@@ -485,7 +485,7 @@
         "Eldegoss": 1,
         "Aron": 6,
         "Horsea": 11,
-        "Teddiursa": 4,
+        "Teddiursa": 5,
         "Dratini": 2,
         "Sewaddle": 6,
         "Mantyke": 1,
@@ -513,7 +513,7 @@
         "Rolycoly": 6,
         "Duskull": 5,
         "Marill": 4,
-        "Axew": 2,
+        "Axew": 3,
         "Tinkatink": 3,
         "Starly": 7,
         "Popplio": 2,
@@ -549,7 +549,7 @@
         "Rapidash": 1,
         "Maschiff": 4,
         "Sensu oricorio": 2,
-        "Scatterbug": 5,
+        "Scatterbug": 6,
         "Taillow": 2,
         "Wimpod": 5,
         "Rookidee": 6,
@@ -617,7 +617,7 @@
         "Clefairy": 3,
         "Grubbin": 6,
         "Dustox": 1,
-        "Chespin": 4,
+        "Chespin": 5,
         "Armarouge": 2,
         "Battle cyclizar": 1,
         "Bagon": 1,
@@ -837,14 +837,15 @@
         "Gulpin": 1,
         "Vullaby": 1,
         "Burmy": 1,
-        "Nidorina": 1
+        "Nidorina": 1,
+        "Meowth": 1
       },
-      "total_spawns": 1080,
-      "last_spawn": "2026-07-05T17:37:56.506766"
+      "total_spawns": 1086,
+      "last_spawn": "2026-07-05T17:38:27.001159"
     }
   },
   "global": {
-    "total_spawns": 64268,
+    "total_spawns": 64274,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
