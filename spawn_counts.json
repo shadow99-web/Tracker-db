@@ -491,7 +491,7 @@
         "Dreepy": 2,
         "Foongus": 1,
         "Hoppip": 2,
-        "Blipbug": 1,
+        "Blipbug": 2,
         "Swoobat": 1,
         "Greavard": 3,
         "Mosslax": 3,
@@ -547,7 +547,7 @@
         "Rapidash": 1,
         "Maschiff": 1,
         "Sensu oricorio": 1,
-        "Scatterbug": 1,
+        "Scatterbug": 2,
         "Taillow": 1,
         "Wimpod": 1,
         "Rookidee": 3,
@@ -591,7 +591,7 @@
         "Tyrunt": 1,
         "Drilbur": 1,
         "Vaporeon": 1,
-        "Magneton": 1,
+        "Magneton": 2,
         "Pupitar": 1,
         "Durant": 1,
         "Jigglypuff": 1,
@@ -623,14 +623,15 @@
         "Woobat": 1,
         "Goomy": 1,
         "Orbeetle": 1,
-        "Shellder": 1
+        "Shellder": 1,
+        "Pawmi": 1
       },
-      "total_spawns": 333,
-      "last_spawn": "2026-07-05T15:37:24.519902"
+      "total_spawns": 337,
+      "last_spawn": "2026-07-05T15:38:04.372143"
     }
   },
   "global": {
-    "total_spawns": 63512,
+    "total_spawns": 63516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
