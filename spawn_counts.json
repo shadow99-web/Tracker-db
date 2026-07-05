@@ -1212,7 +1212,7 @@
         "Smoliv": 2,
         "Tirtouga": 2,
         "Hatenna": 2,
-        "Shroomish": 1,
+        "Shroomish": 2,
         "Lillipup": 1,
         "Mosslax": 5,
         "Maushold": 1,
@@ -1228,7 +1228,7 @@
         "Aron": 1,
         "Honedge": 1,
         "Houndour": 1,
-        "Machop": 3,
+        "Machop": 4,
         "Terapagos": 1,
         "Mankey": 1,
         "Torterra": 1,
@@ -1352,7 +1352,7 @@
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
         "Bagon": 1,
-        "Pikachu": 1,
+        "Pikachu": 2,
         "Tarountula": 1,
         "Rhyhorn": 1,
         "Aipom": 1,
@@ -1393,17 +1393,17 @@
         "Arcanine": 1,
         "Sliggoo": 1,
         "Whismur": 1,
-        "Jangmo-o": 1,
+        "Jangmo-o": 2,
         "Lunatone": 1,
         "Machoke": 1,
         "Luvdisc": 1
       },
-      "total_spawns": 320,
-      "last_spawn": "2026-07-05T03:40:08.524126"
+      "total_spawns": 324,
+      "last_spawn": "2026-07-05T03:40:48.397628"
     }
   },
   "global": {
-    "total_spawns": 62859,
+    "total_spawns": 62863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
