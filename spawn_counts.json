@@ -360,7 +360,7 @@
         "Hoppip": 11,
         "Slowbro": 2,
         "Gholdengo": 3,
-        "Trubbish": 5,
+        "Trubbish": 6,
         "Rockruff": 2,
         "Snowy castform": 1,
         "Dusclops": 2,
@@ -437,7 +437,7 @@
         "Elgyem": 1,
         "Dragonair": 2,
         "Spheal": 8,
-        "Amaura": 2,
+        "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
         "Tyrunt": 2,
@@ -642,10 +642,11 @@
         "Raticate": 1,
         "Weavile": 2,
         "Amped toxtricity": 2,
-        "Scizor": 2
+        "Scizor": 2,
+        "Shiinotic": 2
       },
-      "total_spawns": 2119,
-      "last_spawn": "2026-07-05T21:59:43.720577"
+      "total_spawns": 2123,
+      "last_spawn": "2026-07-05T22:00:13.995345"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -671,7 +672,7 @@
         "Psyduck": 6,
         "Monferno": 2,
         "Pikipek": 8,
-        "Flittle": 7,
+        "Flittle": 8,
         "Lillipup": 8,
         "Eevee": 3,
         "Shroomish": 2,
@@ -842,7 +843,7 @@
         "Munna": 1,
         "Tangela": 4,
         "Espurr": 5,
-        "Doduo": 3,
+        "Doduo": 4,
         "Kadabra": 5,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 2,
@@ -1191,7 +1192,7 @@
         "Pyukumuku": 2,
         "Hatterene": 1,
         "Cleffa": 1,
-        "Brambleghast": 2,
+        "Brambleghast": 3,
         "Victreebel": 1,
         "Vibrava": 2,
         "Yamper": 4,
@@ -1276,12 +1277,12 @@
         "Gloom": 1,
         "Plusle": 1
       },
-      "total_spawns": 2229,
-      "last_spawn": "2026-07-05T21:59:34.695532"
+      "total_spawns": 2232,
+      "last_spawn": "2026-07-05T22:00:04.753433"
     }
   },
   "global": {
-    "total_spawns": 66887,
+    "total_spawns": 66894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
