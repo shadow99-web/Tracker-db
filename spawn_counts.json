@@ -392,7 +392,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 4,
+        "Tandemaus": 5,
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
@@ -490,7 +490,7 @@
         "Mantyke": 1,
         "Slakoth": 5,
         "Dreepy": 2,
-        "Foongus": 1,
+        "Foongus": 2,
         "Hoppip": 2,
         "Blipbug": 2,
         "Swoobat": 1,
@@ -604,7 +604,7 @@
         "Ledian": 1,
         "Pineco": 1,
         "Vanillite": 1,
-        "Omanyte": 1,
+        "Omanyte": 2,
         "Scraggy": 1,
         "Komala": 1,
         "Stoutland": 1,
@@ -671,14 +671,15 @@
         "Fuecoco": 1,
         "Sandy wormadam": 1,
         "Sprigatito": 1,
-        "Bidoof": 1
+        "Bidoof": 1,
+        "Frillish": 1
       },
-      "total_spawns": 454,
-      "last_spawn": "2026-07-05T15:58:04.570871"
+      "total_spawns": 458,
+      "last_spawn": "2026-07-05T15:58:44.606516"
     }
   },
   "global": {
-    "total_spawns": 63636,
+    "total_spawns": 63640,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
