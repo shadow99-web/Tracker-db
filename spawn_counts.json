@@ -196,7 +196,7 @@
         "Chef dente": 11,
         "Hisuian qwilfish": 1,
         "Bagon": 9,
-        "Pikachu": 4,
+        "Pikachu": 6,
         "Tarountula": 7,
         "Rhyhorn": 9,
         "Aipom": 2,
@@ -666,10 +666,11 @@
         "Grimmsnarl": 2,
         "Sylveon": 2,
         "Inteleon": 2,
-        "Milotic": 1
+        "Milotic": 1,
+        "Slaking": 1
       },
-      "total_spawns": 2306,
-      "last_spawn": "2026-07-05T22:32:43.483785"
+      "total_spawns": 2309,
+      "last_spawn": "2026-07-05T22:33:23.700387"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -696,7 +697,7 @@
         "Monferno": 2,
         "Pikipek": 9,
         "Flittle": 8,
-        "Lillipup": 9,
+        "Lillipup": 10,
         "Eevee": 3,
         "Shroomish": 2,
         "Dachsbun": 4,
@@ -776,7 +777,7 @@
         "Hoppip": 13,
         "Blipbug": 10,
         "Swoobat": 1,
-        "Greavard": 11,
+        "Greavard": 12,
         "Mosslax": 12,
         "Braixen": 2,
         "Skwovet": 3,
@@ -1321,14 +1322,15 @@
         "Smoochum": 1,
         "Snorlax": 1,
         "Pawmot": 1,
-        "Poliwhirl": 1
+        "Poliwhirl": 1,
+        "Dragalge": 1
       },
-      "total_spawns": 2427,
-      "last_spawn": "2026-07-05T22:33:04.416439"
+      "total_spawns": 2430,
+      "last_spawn": "2026-07-05T22:33:34.441524"
     }
   },
   "global": {
-    "total_spawns": 67272,
+    "total_spawns": 67278,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
