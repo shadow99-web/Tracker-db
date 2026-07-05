@@ -559,10 +559,10 @@
         "Blitzle": 1,
         "Iron crown": 2,
         "Barbaracle": 1,
-        "Nidoqueen": 1
+        "Nidoqueen": 2
       },
-      "total_spawns": 1401,
-      "last_spawn": "2026-07-05T20:58:25.206433"
+      "total_spawns": 1402,
+      "last_spawn": "2026-07-05T20:58:25.214654"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -607,7 +607,7 @@
         "Gimmighoul": 7,
         "Cetoddle": 14,
         "Fidough": 12,
-        "Smearguru": 5,
+        "Smearguru": 7,
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 3,
@@ -715,7 +715,7 @@
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 7,
-        "Sizzlipede": 5,
+        "Sizzlipede": 6,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 10,
@@ -924,7 +924,7 @@
         "Applin": 2,
         "Venipede": 8,
         "Toedscruel": 1,
-        "Dewpider": 3,
+        "Dewpider": 4,
         "Pansear": 4,
         "Togetic": 3,
         "Houndstone": 5,
@@ -1148,14 +1148,15 @@
         "Ampharos": 1,
         "Falinks": 1,
         "Phanpy": 1,
-        "Blastoise": 1
+        "Blastoise": 1,
+        "Castform": 1
       },
-      "total_spawns": 1870,
-      "last_spawn": "2026-07-05T20:58:14.421716"
+      "total_spawns": 1875,
+      "last_spawn": "2026-07-05T20:59:04.516673"
     }
   },
   "global": {
-    "total_spawns": 65810,
+    "total_spawns": 65816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
