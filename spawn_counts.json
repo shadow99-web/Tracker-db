@@ -721,7 +721,7 @@
         "Grafaiai": 3,
         "Gastly": 19,
         "Orthworm": 12,
-        "Glimmet": 9,
+        "Glimmet": 10,
         "Beldum": 2,
         "Combee": 3,
         "Corphish": 3,
@@ -867,7 +867,7 @@
         "Magneton": 4,
         "Pupitar": 3,
         "Durant": 2,
-        "Jigglypuff": 4,
+        "Jigglypuff": 5,
         "Steenee": 2,
         "Mareanie": 2,
         "Munkidori": 1,
@@ -1016,7 +1016,7 @@
         "Cyndaquil": 3,
         "Thievul": 1,
         "Gengar": 1,
-        "Sunkern": 3,
+        "Sunkern": 4,
         "Wugtrio": 4,
         "Applin": 3,
         "Venipede": 12,
@@ -1298,14 +1298,15 @@
         "Brionne": 1,
         "Munchlax": 1,
         "Dodrio": 1,
-        "Wailord": 1
+        "Wailord": 1,
+        "Houndour": 1
       },
-      "total_spawns": 2332,
-      "last_spawn": "2026-07-05T22:17:05.205456"
+      "total_spawns": 2336,
+      "last_spawn": "2026-07-05T22:17:44.412577"
     }
   },
   "global": {
-    "total_spawns": 67121,
+    "total_spawns": 67125,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
