@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 4,
-        "Oddish": 3,
+        "Oddish": 4,
         "Totodile": 2,
         "Vanillite": 12,
         "Weedle": 8,
@@ -40,7 +40,7 @@
         "Starly": 10,
         "Caterpie": 3,
         "Mareep": 3,
-        "Capsakid": 5,
+        "Capsakid": 7,
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 3,
@@ -66,7 +66,7 @@
         "Deino": 4,
         "Dolliv": 1,
         "Feebas": 1,
-        "Prof tangrowth": 3,
+        "Prof tangrowth": 5,
         "Vulpix": 1,
         "Gastly": 10,
         "Aron": 4,
@@ -113,7 +113,7 @@
         "Treecko": 4,
         "Shroodle": 4,
         "Ride cyclizar": 1,
-        "Swinub": 7,
+        "Swinub": 8,
         "Rattata": 3,
         "Stonjourner": 1,
         "Veluza": 4,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 3,
-        "Finizen": 3,
+        "Finizen": 4,
         "Swablu": 1,
         "Sunkern": 1,
         "Snubbull": 1,
@@ -371,7 +371,7 @@
         "Kingambit": 1,
         "Cresselia": 3,
         "Duraludon": 2,
-        "Nidorino": 2,
+        "Nidorino": 3,
         "Rayquaza": 12,
         "Horsea": 6,
         "Reshiram": 3,
@@ -521,8 +521,8 @@
         "Espathra": 1,
         "Snom": 1
       },
-      "total_spawns": 1191,
-      "last_spawn": "2026-07-05T20:31:18.335071"
+      "total_spawns": 1199,
+      "last_spawn": "2026-07-05T20:31:53.695847"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -544,7 +544,7 @@
         "Dedenne": 2,
         "Gothita": 7,
         "Finizen": 9,
-        "Machop": 9,
+        "Machop": 10,
         "Psyduck": 4,
         "Monferno": 1,
         "Pikipek": 6,
@@ -563,7 +563,7 @@
         "Kleavor": 1,
         "Karrablast": 3,
         "Timburr": 6,
-        "Pidgey": 5,
+        "Pidgey": 6,
         "Gimmighoul": 6,
         "Cetoddle": 14,
         "Fidough": 11,
@@ -595,7 +595,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 9,
-        "Sandile": 8,
+        "Sandile": 9,
         "Maushold": 3,
         "Rattata": 5,
         "Riolu": 2,
@@ -715,7 +715,7 @@
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 5,
-        "Larvitar": 6,
+        "Larvitar": 7,
         "Munna": 1,
         "Tangela": 4,
         "Espurr": 3,
@@ -748,7 +748,7 @@
         "Tepig": 2,
         "Barbaracle": 4,
         "Noivern": 3,
-        "Clefairy": 5,
+        "Clefairy": 6,
         "Grubbin": 9,
         "Dustox": 1,
         "Chespin": 6,
@@ -1084,14 +1084,15 @@
         "Monsoon vivillon": 1,
         "Magnezone": 1,
         "Dewgong": 1,
-        "Cradily": 1
+        "Cradily": 1,
+        "Baxcalibur": 1
       },
-      "total_spawns": 1708,
-      "last_spawn": "2026-07-05T20:31:24.596743"
+      "total_spawns": 1714,
+      "last_spawn": "2026-07-05T20:31:57.433021"
     }
   },
   "global": {
-    "total_spawns": 65438,
+    "total_spawns": 65452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
