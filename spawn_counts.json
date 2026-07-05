@@ -52,7 +52,7 @@
         "Skwovet": 3,
         "Applin": 2,
         "Staryu": 1,
-        "Maschiff": 3,
+        "Maschiff": 4,
         "Smoliv": 3,
         "Tirtouga": 3,
         "Hatenna": 6,
@@ -108,9 +108,9 @@
         "Tentacool": 1,
         "Bayleef": 2,
         "Magnezone": 1,
-        "Eevee": 2,
+        "Eevee": 4,
         "Dreepy": 11,
-        "Treecko": 4,
+        "Treecko": 6,
         "Shroodle": 4,
         "Ride cyclizar": 1,
         "Swinub": 8,
@@ -421,7 +421,7 @@
         "Crabominable": 2,
         "Krabby": 1,
         "Mimikyu": 2,
-        "Hoothoot": 1,
+        "Hoothoot": 2,
         "Girafarig": 1,
         "Summer deerling": 1,
         "Seel": 1,
@@ -532,8 +532,8 @@
         "Wartortle": 1,
         "Midnight lycanroc": 1
       },
-      "total_spawns": 1261,
-      "last_spawn": "2026-07-05T20:37:08.528642"
+      "total_spawns": 1267,
+      "last_spawn": "2026-07-05T20:37:48.196864"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -574,7 +574,7 @@
         "Kleavor": 1,
         "Karrablast": 3,
         "Timburr": 6,
-        "Pidgey": 6,
+        "Pidgey": 7,
         "Gimmighoul": 6,
         "Cetoddle": 14,
         "Fidough": 11,
@@ -614,7 +614,7 @@
         "Slowpoke": 2,
         "Seedot": 11,
         "Trapinch": 10,
-        "Hatenna": 8,
+        "Hatenna": 9,
         "Drifloon": 2,
         "Togepi": 8,
         "Snivy": 2,
@@ -865,7 +865,7 @@
         "Pawniard": 2,
         "Rabsca": 3,
         "Cofagrigus": 1,
-        "Hattrem": 1,
+        "Hattrem": 2,
         "Sneasel": 2,
         "Piplup": 3,
         "Electrike": 3,
@@ -1103,12 +1103,12 @@
         "Probopass": 1,
         "Copperajah": 1
       },
-      "total_spawns": 1747,
-      "last_spawn": "2026-07-05T20:37:16.427759"
+      "total_spawns": 1750,
+      "last_spawn": "2026-07-05T20:37:44.394831"
     }
   },
   "global": {
-    "total_spawns": 65547,
+    "total_spawns": 65556,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
