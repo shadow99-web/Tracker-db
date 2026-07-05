@@ -39,7 +39,7 @@
         "Wiglett": 7,
         "Starly": 16,
         "Caterpie": 5,
-        "Mareep": 4,
+        "Mareep": 5,
         "Capsakid": 8,
         "Numel": 4,
         "Pawmo": 2,
@@ -258,7 +258,7 @@
         "Primarina": 1,
         "Skeledirge": 1,
         "Taillow": 3,
-        "Watchog": 2,
+        "Watchog": 3,
         "Porygon": 8,
         "Wooloo": 2,
         "Mawile": 3,
@@ -609,10 +609,11 @@
         "Blissey": 2,
         "Cinccino": 2,
         "Alolan vulpix": 2,
-        "Glameow": 1
+        "Glameow": 1,
+        "Zweilous": 1
       },
-      "total_spawns": 1786,
-      "last_spawn": "2026-07-05T21:23:33.696064"
+      "total_spawns": 1789,
+      "last_spawn": "2026-07-05T21:24:03.834803"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -673,7 +674,7 @@
         "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 14,
-        "Orthworm": 8,
+        "Orthworm": 9,
         "Glimmet": 8,
         "Beldum": 2,
         "Combee": 3,
@@ -693,7 +694,7 @@
         "Slowpoke": 2,
         "Seedot": 13,
         "Trapinch": 11,
-        "Hatenna": 11,
+        "Hatenna": 12,
         "Drifloon": 3,
         "Togepi": 9,
         "Snivy": 2,
@@ -749,7 +750,7 @@
         "Gligar": 1,
         "Cubone": 2,
         "Dracovish": 1,
-        "Deino": 7,
+        "Deino": 8,
         "Honedge": 5,
         "Litleo": 3,
         "Steelix": 2,
@@ -1221,12 +1222,12 @@
         "Numel": 1,
         "Noctowl": 1
       },
-      "total_spawns": 2016,
-      "last_spawn": "2026-07-05T21:23:34.508319"
+      "total_spawns": 2019,
+      "last_spawn": "2026-07-05T21:24:04.617564"
     }
   },
   "global": {
-    "total_spawns": 66341,
+    "total_spawns": 66347,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
