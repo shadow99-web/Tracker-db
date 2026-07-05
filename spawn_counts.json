@@ -399,7 +399,7 @@
         "Rhyhorn": 3,
         "Mareep": 1,
         "Klink": 2,
-        "Nymble": 1,
+        "Nymble": 2,
         "Porygon": 1,
         "Abra": 2,
         "Oddish": 5,
@@ -504,7 +504,7 @@
         "Poliwrath": 1,
         "Combusken": 1,
         "Bombirdier": 2,
-        "Wooloo": 1,
+        "Wooloo": 2,
         "Togekiss": 1,
         "Rolycoly": 2,
         "Duskull": 2,
@@ -603,14 +603,16 @@
         "Vanillite": 1,
         "Omanyte": 1,
         "Scraggy": 1,
-        "Komala": 1
+        "Komala": 1,
+        "Stoutland": 1,
+        "Tirtouga": 1
       },
-      "total_spawns": 293,
-      "last_spawn": "2026-07-05T15:30:34.495107"
+      "total_spawns": 297,
+      "last_spawn": "2026-07-05T15:31:14.914702"
     }
   },
   "global": {
-    "total_spawns": 63470,
+    "total_spawns": 63474,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
