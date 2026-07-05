@@ -419,7 +419,7 @@
         "Eevee": 2,
         "Shroomish": 1,
         "Dachsbun": 1,
-        "Swirlix": 1,
+        "Swirlix": 2,
         "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
@@ -503,7 +503,7 @@
         "Impidimp": 3,
         "Elgyem": 1,
         "Gastrodon": 1,
-        "Shroodle": 2,
+        "Shroodle": 3,
         "Clawitzer": 1,
         "Poliwrath": 1,
         "Combusken": 2,
@@ -691,14 +691,16 @@
         "Poliwag": 1,
         "Passimian": 1,
         "Pikachu": 1,
-        "Yungoos": 1
+        "Yungoos": 1,
+        "Luxio": 1,
+        "Frigibax": 1
       },
-      "total_spawns": 505,
-      "last_spawn": "2026-07-05T16:06:35.248281"
+      "total_spawns": 509,
+      "last_spawn": "2026-07-05T16:07:19.167865"
     }
   },
   "global": {
-    "total_spawns": 63689,
+    "total_spawns": 63693,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
