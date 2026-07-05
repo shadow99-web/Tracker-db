@@ -12,7 +12,7 @@
         "Braixen": 6,
         "Oddish": 13,
         "Totodile": 3,
-        "Vanillite": 24,
+        "Vanillite": 25,
         "Weedle": 12,
         "Kabutops": 2,
         "Poliwag": 11,
@@ -92,7 +92,7 @@
         "Charmeleon": 3,
         "Riolu": 12,
         "Gible": 8,
-        "Greavard": 17,
+        "Greavard": 18,
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 5,
@@ -671,8 +671,8 @@
         "Obstagoon": 2,
         "Greninja": 1
       },
-      "total_spawns": 2351,
-      "last_spawn": "2026-07-05T22:54:53.600076"
+      "total_spawns": 2353,
+      "last_spawn": "2026-07-05T22:57:03.439920"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -736,7 +736,7 @@
         "Orthworm": 12,
         "Glimmet": 11,
         "Beldum": 2,
-        "Combee": 4,
+        "Combee": 5,
         "Corphish": 3,
         "Litten": 4,
         "Infernape": 3,
@@ -751,7 +751,7 @@
         "Riolu": 3,
         "Aromatisse": 1,
         "Slowpoke": 2,
-        "Seedot": 14,
+        "Seedot": 15,
         "Trapinch": 12,
         "Hatenna": 14,
         "Drifloon": 3,
@@ -875,7 +875,7 @@
         "Dugtrio": 2,
         "Capsakid": 10,
         "Tyrunt": 3,
-        "Drilbur": 2,
+        "Drilbur": 3,
         "Vaporeon": 3,
         "Magneton": 4,
         "Pupitar": 3,
@@ -1348,12 +1348,12 @@
         "Torterra": 1,
         "Charizard": 1
       },
-      "total_spawns": 2565,
-      "last_spawn": "2026-07-05T22:56:24.605229"
+      "total_spawns": 2568,
+      "last_spawn": "2026-07-05T22:56:54.393860"
     }
   },
   "global": {
-    "total_spawns": 67455,
+    "total_spawns": 67460,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
