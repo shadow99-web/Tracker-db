@@ -35,7 +35,7 @@
         "Fletchling": 4,
         "Whirlipede": 2,
         "Duskull": 10,
-        "Abra": 9,
+        "Abra": 10,
         "Wiglett": 4,
         "Starly": 12,
         "Caterpie": 3,
@@ -102,7 +102,7 @@
         "Metagross": 2,
         "Corphish": 2,
         "Doduo": 3,
-        "Flittle": 6,
+        "Flittle": 7,
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
@@ -288,7 +288,7 @@
         "Zigzagoon": 2,
         "Quilladin": 1,
         "Infernape": 1,
-        "Noibat": 3,
+        "Noibat": 4,
         "Gothorita": 3,
         "Ekans": 1,
         "Brambleghast": 1,
@@ -548,10 +548,11 @@
         "Xerneas": 2,
         "Nincada": 1,
         "Audino": 1,
-        "Mime jr.": 2
+        "Mime jr.": 2,
+        "Yungoos": 1
       },
-      "total_spawns": 1344,
-      "last_spawn": "2026-07-05T20:46:33.794552"
+      "total_spawns": 1348,
+      "last_spawn": "2026-07-05T20:47:14.630790"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -566,7 +567,7 @@
         "Rhyhorn": 5,
         "Mareep": 7,
         "Klink": 8,
-        "Nymble": 7,
+        "Nymble": 8,
         "Porygon": 12,
         "Abra": 12,
         "Oddish": 10,
@@ -695,7 +696,7 @@
         "Greninja": 1,
         "Dondozo": 8,
         "Lairon": 4,
-        "Zubat": 12,
+        "Zubat": 13,
         "Croagunk": 3,
         "Klawf": 6,
         "Lombre": 2,
@@ -924,7 +925,7 @@
         "Pyroar": 1,
         "Oshawott": 1,
         "Bisharp": 1,
-        "Dartrix": 3,
+        "Dartrix": 4,
         "Roserade": 1,
         "Heliolisk": 1,
         "Doublade": 1,
@@ -1126,12 +1127,12 @@
         "Clefable": 1,
         "Revavroom": 1
       },
-      "total_spawns": 1802,
-      "last_spawn": "2026-07-05T20:46:44.746958"
+      "total_spawns": 1805,
+      "last_spawn": "2026-07-05T20:47:14.776250"
     }
   },
   "global": {
-    "total_spawns": 65685,
+    "total_spawns": 65692,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
