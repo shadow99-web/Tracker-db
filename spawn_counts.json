@@ -43,7 +43,7 @@
         "Capsakid": 4,
         "Numel": 1,
         "Pawmo": 1,
-        "Wattrel": 1,
+        "Wattrel": 2,
         "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 6,
@@ -192,7 +192,7 @@
         "Comfey": 1,
         "Diggersby": 1,
         "Klawf": 4,
-        "Dj rotom": 2,
+        "Dj rotom": 4,
         "Chef dente": 3,
         "Hisuian qwilfish": 1,
         "Bagon": 1,
@@ -414,10 +414,11 @@
         "Cradily": 2,
         "Burmy": 1,
         "Sewaddle": 1,
-        "Shelmet": 1
+        "Shelmet": 1,
+        "Combusken": 1
       },
-      "total_spawns": 764,
-      "last_spawn": "2026-07-05T19:42:49.469733"
+      "total_spawns": 768,
+      "last_spawn": "2026-07-05T19:43:53.604093"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -917,7 +918,7 @@
     }
   },
   "global": {
-    "total_spawns": 64595,
+    "total_spawns": 64599,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
