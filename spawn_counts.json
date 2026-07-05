@@ -532,7 +532,7 @@
         "Greninja": 1,
         "Dondozo": 2,
         "Lairon": 1,
-        "Zubat": 7,
+        "Zubat": 8,
         "Croagunk": 1,
         "Klawf": 3,
         "Lombre": 2,
@@ -562,7 +562,7 @@
         "Gholdengo": 1,
         "Machoke": 1,
         "Glameow": 3,
-        "Swinub": 4,
+        "Swinub": 5,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -690,14 +690,15 @@
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 1,
         "Passimian": 1,
-        "Pikachu": 1
+        "Pikachu": 1,
+        "Yungoos": 1
       },
-      "total_spawns": 502,
-      "last_spawn": "2026-07-05T16:06:04.496103"
+      "total_spawns": 505,
+      "last_spawn": "2026-07-05T16:06:35.248281"
     }
   },
   "global": {
-    "total_spawns": 63686,
+    "total_spawns": 63689,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
