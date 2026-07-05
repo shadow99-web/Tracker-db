@@ -455,7 +455,7 @@
         "Combee": 2,
         "Corphish": 1,
         "Litten": 3,
-        "Infernape": 2,
+        "Infernape": 3,
         "Arboliva": 1,
         "Comfey": 1,
         "Archaludon": 1,
@@ -483,8 +483,8 @@
         "Ralts": 5,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 4,
-        "Horsea": 6,
+        "Aron": 5,
+        "Horsea": 7,
         "Teddiursa": 2,
         "Dratini": 1,
         "Sewaddle": 5,
@@ -761,14 +761,15 @@
         "Pyroar": 1,
         "Oshawott": 1,
         "Bisharp": 1,
-        "Dartrix": 1
+        "Dartrix": 1,
+        "Roserade": 1
       },
-      "total_spawns": 753,
-      "last_spawn": "2026-07-05T16:49:04.502079"
+      "total_spawns": 757,
+      "last_spawn": "2026-07-05T16:49:44.483139"
     }
   },
   "global": {
-    "total_spawns": 63937,
+    "total_spawns": 63941,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
