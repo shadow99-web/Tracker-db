@@ -603,7 +603,7 @@
         "Fearow": 1,
         "Vikavolt": 2,
         "Ledian": 2,
-        "Pineco": 1,
+        "Pineco": 2,
         "Vanillite": 6,
         "Omanyte": 4,
         "Scraggy": 2,
@@ -779,18 +779,20 @@
         "Furfrou": 1,
         "Thwackey": 1,
         "Gabite": 1,
-        "Toxel": 1,
+        "Toxel": 2,
         "Boldore": 1,
         "Prof tangrowth": 1,
         "Corvisquire": 1,
-        "Lokix": 1
+        "Lokix": 1,
+        "Charmeleon": 1,
+        "Spidops": 1
       },
-      "total_spawns": 839,
-      "last_spawn": "2026-07-05T17:03:34.900062"
+      "total_spawns": 843,
+      "last_spawn": "2026-07-05T17:04:14.459794"
     }
   },
   "global": {
-    "total_spawns": 64023,
+    "total_spawns": 64027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
