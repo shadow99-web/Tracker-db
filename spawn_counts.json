@@ -461,13 +461,13 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 7,
-        "Sandile": 6,
+        "Sandile": 7,
         "Maushold": 2,
         "Rattata": 5,
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
-        "Seedot": 6,
+        "Seedot": 7,
         "Trapinch": 8,
         "Hatenna": 6,
         "Drifloon": 2,
@@ -487,7 +487,7 @@
         "Horsea": 11,
         "Teddiursa": 6,
         "Dratini": 2,
-        "Sewaddle": 6,
+        "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 8,
         "Dreepy": 7,
@@ -569,7 +569,7 @@
         "Rellor": 4,
         "Hippopotas": 2,
         "Chikorita": 4,
-        "Litwick": 5,
+        "Litwick": 6,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -747,7 +747,7 @@
         "Gengar": 1,
         "Sunkern": 1,
         "Wugtrio": 1,
-        "Applin": 1,
+        "Applin": 2,
         "Venipede": 4,
         "Toedscruel": 1,
         "Dewpider": 1,
@@ -790,7 +790,7 @@
         "Rockruff": 1,
         "Stunfisk": 1,
         "Spinda": 1,
-        "Beautifly": 1,
+        "Beautifly": 2,
         "Fletchling": 3,
         "Haunter": 1,
         "Sandshrew": 1,
@@ -847,14 +847,15 @@
         "Floatzel": 1,
         "Accelgor": 2,
         "Glaceon": 1,
-        "Lickilicky": 1
+        "Lickilicky": 1,
+        "Dhelmise": 1
       },
-      "total_spawns": 1140,
-      "last_spawn": "2026-07-05T17:42:54.526437"
+      "total_spawns": 1147,
+      "last_spawn": "2026-07-05T17:43:27.052847"
     }
   },
   "global": {
-    "total_spawns": 64328,
+    "total_spawns": 64335,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
