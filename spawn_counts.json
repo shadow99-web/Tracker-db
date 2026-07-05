@@ -416,7 +416,7 @@
         "Pikipek": 3,
         "Flittle": 4,
         "Lillipup": 3,
-        "Eevee": 2,
+        "Eevee": 3,
         "Shroomish": 1,
         "Dachsbun": 2,
         "Swirlix": 3,
@@ -431,7 +431,7 @@
         "Timburr": 3,
         "Pidgey": 4,
         "Gimmighoul": 4,
-        "Cetoddle": 4,
+        "Cetoddle": 5,
         "Fidough": 4,
         "Smearguru": 2,
         "Nuzleaf": 2,
@@ -604,7 +604,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 1,
-        "Vanillite": 2,
+        "Vanillite": 3,
         "Omanyte": 4,
         "Scraggy": 1,
         "Komala": 1,
@@ -627,7 +627,7 @@
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 2,
-        "Spoink": 3,
+        "Spoink": 4,
         "Lileep": 1,
         "Crocalor": 1,
         "Cranidos": 1,
@@ -753,12 +753,12 @@
         "Dewpider": 1,
         "Pansear": 1
       },
-      "total_spawns": 701,
-      "last_spawn": "2026-07-05T16:40:14.496470"
+      "total_spawns": 705,
+      "last_spawn": "2026-07-05T16:40:54.304374"
     }
   },
   "global": {
-    "total_spawns": 63885,
+    "total_spawns": 63889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
