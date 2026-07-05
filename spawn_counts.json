@@ -1203,7 +1203,7 @@
         "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 4,
-        "Grubbin": 4,
+        "Grubbin": 5,
         "Scatterbug": 3,
         "Skwovet": 2,
         "Applin": 1,
@@ -1451,14 +1451,16 @@
         "Dartrix": 1,
         "Ceruledge": 1,
         "Vanillish": 1,
-        "Gimmighoul": 1
+        "Gimmighoul": 1,
+        "Glimmet": 1,
+        "Popplio": 1
       },
-      "total_spawns": 419,
-      "last_spawn": "2026-07-05T04:01:03.637663"
+      "total_spawns": 422,
+      "last_spawn": "2026-07-05T04:01:34.023255"
     }
   },
   "global": {
-    "total_spawns": 62958,
+    "total_spawns": 62961,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
