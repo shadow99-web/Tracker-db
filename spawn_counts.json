@@ -106,7 +106,7 @@
         "Armarouge": 1,
         "Clauncher": 1,
         "Tentacool": 1,
-        "Bayleef": 1,
+        "Bayleef": 2,
         "Magnezone": 1,
         "Eevee": 2,
         "Dreepy": 11,
@@ -268,7 +268,7 @@
         "Onix": 1,
         "Dracovish": 2,
         "Slowpoke": 2,
-        "Drizzile": 1,
+        "Drizzile": 3,
         "Tinkatink": 6,
         "Frillish": 1,
         "Plusle": 1,
@@ -339,7 +339,7 @@
         "Togekiss": 1,
         "Furfrou": 1,
         "Ursaring": 1,
-        "Bidoof": 1,
+        "Bidoof": 2,
         "Gothita": 3,
         "Solosis": 5,
         "Sandygast": 2,
@@ -512,7 +512,7 @@
         "Liepard": 1,
         "Necrozma": 1,
         "Dewott": 1,
-        "Braviary": 2,
+        "Braviary": 4,
         "Low key toxtricity": 2,
         "Nidorina": 1,
         "Bronzong": 1,
@@ -532,13 +532,13 @@
         "Wartortle": 1,
         "Midnight lycanroc": 1
       },
-      "total_spawns": 1255,
-      "last_spawn": "2026-07-05T20:36:38.429744"
+      "total_spawns": 1261,
+      "last_spawn": "2026-07-05T20:37:08.528642"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 13,
+        "Tandemaus": 14,
         "Caterpie": 3,
         "Flaaffy": 4,
         "Bronzor": 2,
@@ -685,7 +685,7 @@
         "Peakychu": 6,
         "Bellibolt": 1,
         "Quilladin": 3,
-        "Vulpix": 6,
+        "Vulpix": 7,
         "Sizzlipede": 5,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -926,7 +926,7 @@
         "Gabite": 2,
         "Toxel": 3,
         "Boldore": 1,
-        "Prof tangrowth": 1,
+        "Prof tangrowth": 2,
         "Corvisquire": 2,
         "Lokix": 3,
         "Charmeleon": 4,
@@ -1103,12 +1103,12 @@
         "Probopass": 1,
         "Copperajah": 1
       },
-      "total_spawns": 1744,
-      "last_spawn": "2026-07-05T20:36:44.993887"
+      "total_spawns": 1747,
+      "last_spawn": "2026-07-05T20:37:16.427759"
     }
   },
   "global": {
-    "total_spawns": 65538,
+    "total_spawns": 65547,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
