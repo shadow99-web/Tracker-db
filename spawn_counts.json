@@ -1240,7 +1240,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 4,
+        "Shinx": 5,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 1,
@@ -1267,7 +1267,7 @@
         "Eevee": 2,
         "Dreepy": 3,
         "Treecko": 2,
-        "Shroodle": 2,
+        "Shroodle": 3,
         "Ride cyclizar": 1,
         "Swinub": 6,
         "Rattata": 2,
@@ -1433,7 +1433,7 @@
         "Ledyba": 1,
         "Chinchou": 1,
         "Eiscue": 1,
-        "Nacli": 4,
+        "Nacli": 5,
         "Pancham": 1,
         "Bulbasaur": 4,
         "Dewpider": 1,
@@ -1506,7 +1506,7 @@
         "Grotle": 1,
         "Tinkaton": 1,
         "Bergmite": 1,
-        "Klang": 1,
+        "Klang": 2,
         "Tepig": 1,
         "Spinda": 1,
         "Phantump": 1,
@@ -1517,14 +1517,15 @@
         "Slowbro": 1,
         "Gholdengo": 1,
         "Trubbish": 1,
-        "Rockruff": 1
+        "Rockruff": 1,
+        "Snowy castform": 1
       },
-      "total_spawns": 581,
-      "last_spawn": "2026-07-05T04:26:03.731327"
+      "total_spawns": 586,
+      "last_spawn": "2026-07-05T04:26:43.534834"
     }
   },
   "global": {
-    "total_spawns": 63120,
+    "total_spawns": 63125,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
