@@ -1318,7 +1318,7 @@
         "Sunny castform": 1,
         "Vullaby": 1,
         "Venipede": 1,
-        "Pansage": 1,
+        "Pansage": 2,
         "Cetoddle": 1,
         "Togepi": 1,
         "Tandemaus": 1,
@@ -1387,14 +1387,17 @@
         "Tangrowth": 1,
         "Sizzlipede": 1,
         "Skuntank": 1,
-        "Palafin": 1
+        "Palafin": 1,
+        "Timburr": 1,
+        "Shellos": 1,
+        "Arcanine": 1
       },
-      "total_spawns": 305,
-      "last_spawn": "2026-07-05T03:37:38.501280"
+      "total_spawns": 309,
+      "last_spawn": "2026-07-05T03:38:18.239203"
     }
   },
   "global": {
-    "total_spawns": 62844,
+    "total_spawns": 62848,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
