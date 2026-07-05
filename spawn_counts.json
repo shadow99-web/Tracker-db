@@ -1373,7 +1373,7 @@
         "Kingdra": 1,
         "Chikorita": 1,
         "Donphan": 1,
-        "Shuppet": 2,
+        "Shuppet": 3,
         "Graveler": 1,
         "Duosion": 1,
         "Orthworm": 1,
@@ -1427,14 +1427,15 @@
         "Drizzile": 1,
         "Tinkatink": 1,
         "Frillish": 1,
-        "Plusle": 1
+        "Plusle": 1,
+        "Decidueye": 1
       },
-      "total_spawns": 374,
-      "last_spawn": "2026-07-05T03:48:42.999249"
+      "total_spawns": 376,
+      "last_spawn": "2026-07-05T03:49:23.016595"
     }
   },
   "global": {
-    "total_spawns": 62913,
+    "total_spawns": 62915,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
