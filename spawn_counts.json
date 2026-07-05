@@ -1240,7 +1240,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 2,
+        "Shinx": 3,
         "Drakloak": 2,
         "Victini": 1,
         "Pawmi": 1,
@@ -1428,14 +1428,15 @@
         "Tinkatink": 1,
         "Frillish": 1,
         "Plusle": 1,
-        "Decidueye": 1
+        "Decidueye": 1,
+        "Kricketot": 1
       },
-      "total_spawns": 376,
-      "last_spawn": "2026-07-05T03:49:23.016595"
+      "total_spawns": 378,
+      "last_spawn": "2026-07-05T03:50:03.208331"
     }
   },
   "global": {
-    "total_spawns": 62915,
+    "total_spawns": 62917,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
