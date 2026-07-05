@@ -674,7 +674,7 @@
         "Bombirdier": 7,
         "Wooloo": 4,
         "Togekiss": 1,
-        "Rolycoly": 9,
+        "Rolycoly": 10,
         "Duskull": 5,
         "Marill": 5,
         "Axew": 4,
@@ -805,7 +805,7 @@
         "Squirtle": 3,
         "Wingull": 1,
         "Buneary": 2,
-        "Skiddo": 2,
+        "Skiddo": 3,
         "Zigzagoon": 1,
         "Dj rotom": 5,
         "Anorith": 3,
@@ -905,7 +905,7 @@
         "Flygon": 1,
         "Cyclizar": 2,
         "Murkrow": 1,
-        "Drednaw": 1,
+        "Drednaw": 2,
         "Cyndaquil": 3,
         "Thievul": 1,
         "Gengar": 1,
@@ -1130,14 +1130,15 @@
         "Skarmory": 1,
         "Ferroseed": 1,
         "Gossifleur": 1,
-        "Palafin": 1
+        "Palafin": 1,
+        "Gothorita": 1
       },
-      "total_spawns": 1816,
-      "last_spawn": "2026-07-05T20:49:04.697752"
+      "total_spawns": 1820,
+      "last_spawn": "2026-07-05T20:49:44.631383"
     }
   },
   "global": {
-    "total_spawns": 65704,
+    "total_spawns": 65708,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
