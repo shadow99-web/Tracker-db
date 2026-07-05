@@ -35,9 +35,9 @@
         "Fletchling": 4,
         "Whirlipede": 3,
         "Duskull": 14,
-        "Abra": 10,
+        "Abra": 11,
         "Wiglett": 6,
-        "Starly": 14,
+        "Starly": 16,
         "Caterpie": 5,
         "Mareep": 4,
         "Capsakid": 8,
@@ -63,7 +63,7 @@
         "Cubchoo": 3,
         "Koffing": 2,
         "Kirlia": 3,
-        "Deino": 7,
+        "Deino": 8,
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 7,
@@ -193,7 +193,7 @@
         "Diggersby": 1,
         "Klawf": 12,
         "Dj rotom": 6,
-        "Chef dente": 7,
+        "Chef dente": 9,
         "Hisuian qwilfish": 1,
         "Bagon": 3,
         "Pikachu": 2,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 2,
-        "Porygon": 6,
+        "Porygon": 7,
         "Wooloo": 2,
         "Mawile": 3,
         "Marill": 1,
@@ -320,7 +320,7 @@
         "Fletchinder": 1,
         "Staravia": 1,
         "Wishiwashi": 1,
-        "Skitty": 5,
+        "Skitty": 7,
         "Finizen": 4,
         "Swablu": 2,
         "Sunkern": 2,
@@ -334,7 +334,7 @@
         "Floragato": 1,
         "Larvesta": 7,
         "Magby": 1,
-        "Roaming gimmighoul": 2,
+        "Roaming gimmighoul": 3,
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 1,
@@ -593,10 +593,11 @@
         "Spiritomb": 2,
         "Gurdurr": 1,
         "Quilava": 1,
-        "Wurmple": 2
+        "Wurmple": 2,
+        "Sandshrew": 1
       },
-      "total_spawns": 1639,
-      "last_spawn": "2026-07-05T21:13:03.876168"
+      "total_spawns": 1650,
+      "last_spawn": "2026-07-05T21:13:33.755316"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -614,7 +615,7 @@
         "Nymble": 9,
         "Porygon": 13,
         "Abra": 14,
-        "Oddish": 12,
+        "Oddish": 13,
         "Dedenne": 2,
         "Gothita": 9,
         "Finizen": 11,
@@ -726,7 +727,7 @@
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
-        "Bounsweet": 16,
+        "Bounsweet": 17,
         "Flamigo": 9,
         "Stunky": 2,
         "Spinarak": 3,
@@ -823,7 +824,7 @@
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 6,
-        "Grubbin": 9,
+        "Grubbin": 10,
         "Dustox": 2,
         "Chespin": 6,
         "Armarouge": 3,
@@ -1002,7 +1003,7 @@
         "Fletchling": 8,
         "Haunter": 2,
         "Sandshrew": 1,
-        "Fletchinder": 2,
+        "Fletchinder": 3,
         "Sinistea": 2,
         "Shinx": 5,
         "Totodile": 1,
@@ -1197,12 +1198,12 @@
         "Unfezant": 1,
         "Hisuian typhlosion": 1
       },
-      "total_spawns": 1954,
-      "last_spawn": "2026-07-05T21:12:54.869810"
+      "total_spawns": 1958,
+      "last_spawn": "2026-07-05T21:13:34.402061"
     }
   },
   "global": {
-    "total_spawns": 66132,
+    "total_spawns": 66147,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
