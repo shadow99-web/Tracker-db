@@ -515,7 +515,7 @@
         "Marill": 4,
         "Axew": 2,
         "Tinkatink": 3,
-        "Starly": 6,
+        "Starly": 7,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 8,
@@ -581,7 +581,7 @@
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 3,
-        "Larvitar": 2,
+        "Larvitar": 3,
         "Munna": 1,
         "Tangela": 2,
         "Espurr": 2,
@@ -804,14 +804,16 @@
         "Tympole": 1,
         "Bunnelby": 1,
         "Vanillish": 1,
-        "Arrokuda": 1
+        "Arrokuda": 1,
+        "Snom": 1,
+        "Noibat": 1
       },
-      "total_spawns": 914,
-      "last_spawn": "2026-07-05T17:16:14.674527"
+      "total_spawns": 918,
+      "last_spawn": "2026-07-05T17:16:54.984986"
     }
   },
   "global": {
-    "total_spawns": 64098,
+    "total_spawns": 64102,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
