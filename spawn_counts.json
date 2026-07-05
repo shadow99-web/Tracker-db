@@ -1240,7 +1240,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 5,
+        "Shinx": 6,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 1,
@@ -1320,7 +1320,7 @@
         "Venipede": 1,
         "Pansage": 2,
         "Cetoddle": 4,
-        "Togepi": 2,
+        "Togepi": 3,
         "Tandemaus": 2,
         "Clefairy": 1,
         "Unown q": 1,
@@ -1518,14 +1518,15 @@
         "Gholdengo": 1,
         "Trubbish": 1,
         "Rockruff": 1,
-        "Snowy castform": 1
+        "Snowy castform": 1,
+        "Dusclops": 1
       },
-      "total_spawns": 586,
-      "last_spawn": "2026-07-05T04:26:43.534834"
+      "total_spawns": 589,
+      "last_spawn": "2026-07-05T04:27:13.705649"
     }
   },
   "global": {
-    "total_spawns": 63125,
+    "total_spawns": 63128,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
