@@ -1269,7 +1269,7 @@
         "Treecko": 2,
         "Shroodle": 2,
         "Ride cyclizar": 1,
-        "Swinub": 3,
+        "Swinub": 4,
         "Rattata": 1,
         "Stonjourner": 1,
         "Veluza": 2,
@@ -1434,14 +1434,15 @@
         "Chinchou": 1,
         "Eiscue": 1,
         "Nacli": 2,
-        "Pancham": 1
+        "Pancham": 1,
+        "Bulbasaur": 1
       },
-      "total_spawns": 390,
-      "last_spawn": "2026-07-05T03:54:03.096668"
+      "total_spawns": 392,
+      "last_spawn": "2026-07-05T03:54:44.597103"
     }
   },
   "global": {
-    "total_spawns": 62929,
+    "total_spawns": 62931,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
