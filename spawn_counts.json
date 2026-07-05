@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 7,
+        "Shinx": 9,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 3,
@@ -148,7 +148,7 @@
         "Turtwig": 1,
         "Fomantis": 2,
         "Claydol": 1,
-        "Trapinch": 3,
+        "Trapinch": 4,
         "Butterfree": 1,
         "Teddiursa": 3,
         "Roggenrola": 1,
@@ -181,7 +181,7 @@
         "Beldum": 1,
         "Kadabra": 2,
         "Grovyle": 1,
-        "Dratini": 2,
+        "Dratini": 4,
         "Steelix": 1,
         "Sprigatito": 1,
         "Charcadet": 4,
@@ -389,8 +389,8 @@
         "Joltik": 1,
         "Gulpin": 1
       },
-      "total_spawns": 660,
-      "last_spawn": "2026-07-05T19:06:54.041070"
+      "total_spawns": 665,
+      "last_spawn": "2026-07-05T19:07:25.346387"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -890,7 +890,7 @@
     }
   },
   "global": {
-    "total_spawns": 64491,
+    "total_spawns": 64496,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
