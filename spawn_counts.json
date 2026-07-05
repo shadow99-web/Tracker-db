@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 6,
-        "Oddish": 12,
+        "Oddish": 13,
         "Totodile": 3,
         "Vanillite": 22,
         "Weedle": 10,
@@ -195,7 +195,7 @@
         "Dj rotom": 8,
         "Chef dente": 11,
         "Hisuian qwilfish": 1,
-        "Bagon": 7,
+        "Bagon": 9,
         "Pikachu": 4,
         "Tarountula": 7,
         "Rhyhorn": 8,
@@ -207,7 +207,7 @@
         "Zubat": 11,
         "Drowzee": 3,
         "Lechonk": 10,
-        "Woobat": 2,
+        "Woobat": 3,
         "Skrelp": 4,
         "Lileep": 2,
         "Drifloon": 1,
@@ -649,8 +649,8 @@
         "Heatmor": 1,
         "Vikavolt": 1
       },
-      "total_spawns": 2159,
-      "last_spawn": "2026-07-05T22:04:43.796568"
+      "total_spawns": 2163,
+      "last_spawn": "2026-07-05T22:05:13.512311"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -692,7 +692,7 @@
         "Karrablast": 3,
         "Timburr": 11,
         "Pidgey": 7,
-        "Gimmighoul": 8,
+        "Gimmighoul": 9,
         "Cetoddle": 14,
         "Fidough": 12,
         "Smearguru": 7,
@@ -710,7 +710,7 @@
         "Treecko": 2,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 18,
+        "Gastly": 19,
         "Orthworm": 12,
         "Glimmet": 8,
         "Beldum": 2,
@@ -1283,14 +1283,15 @@
         "Torkoal": 1,
         "Camerupt": 1,
         "Dolliv": 1,
-        "Lampent": 1
+        "Lampent": 1,
+        "Ursaluna": 1
       },
-      "total_spawns": 2259,
-      "last_spawn": "2026-07-05T22:04:34.446499"
+      "total_spawns": 2262,
+      "last_spawn": "2026-07-05T22:05:14.499736"
     }
   },
   "global": {
-    "total_spawns": 66957,
+    "total_spawns": 66964,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
