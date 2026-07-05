@@ -12,7 +12,7 @@
         "Braixen": 3,
         "Oddish": 3,
         "Totodile": 2,
-        "Vanillite": 10,
+        "Vanillite": 12,
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 6,
@@ -91,12 +91,12 @@
         "Sandile": 8,
         "Charmeleon": 1,
         "Riolu": 2,
-        "Gible": 2,
+        "Gible": 4,
         "Greavard": 2,
         "Snover": 3,
         "Piplup": 1,
         "Dondozo": 2,
-        "Cyclizar": 2,
+        "Cyclizar": 3,
         "Froslass": 1,
         "Dodrio": 1,
         "Metagross": 2,
@@ -175,7 +175,7 @@
         "Rolycoly": 3,
         "Poliwhirl": 1,
         "Lokix": 2,
-        "Flamigo": 4,
+        "Flamigo": 5,
         "Bellsprout": 8,
         "Houndstone": 1,
         "Beldum": 3,
@@ -437,10 +437,12 @@
         "Elgyem": 1,
         "Dragonair": 1,
         "Spheal": 1,
-        "Amaura": 1
+        "Amaura": 1,
+        "Wailord": 1,
+        "Accelgor": 1
       },
-      "total_spawns": 865,
-      "last_spawn": "2026-07-05T19:55:33.715578"
+      "total_spawns": 873,
+      "last_spawn": "2026-07-05T19:56:03.658393"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -551,7 +553,7 @@
         "Mosslax": 8,
         "Braixen": 2,
         "Skwovet": 2,
-        "Magnemite": 8,
+        "Magnemite": 9,
         "Impidimp": 9,
         "Elgyem": 2,
         "Gastrodon": 1,
@@ -738,7 +740,7 @@
         "Tyrogue": 1,
         "Minior": 1,
         "Veluza": 3,
-        "Salandit": 2,
+        "Salandit": 3,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 3,
         "Passimian": 1,
@@ -933,14 +935,15 @@
         "Mabosstiff": 1,
         "Skuntank": 1,
         "Glastrier": 1,
-        "Crabrawler": 1
+        "Crabrawler": 1,
+        "Onix": 1
       },
-      "total_spawns": 1292,
-      "last_spawn": "2026-07-05T17:55:47.294198"
+      "total_spawns": 1295,
+      "last_spawn": "2026-07-05T19:56:04.306854"
     }
   },
   "global": {
-    "total_spawns": 64696,
+    "total_spawns": 64707,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
