@@ -443,7 +443,7 @@
         "Binacle": 2,
         "Kilowattrel": 2,
         "Skiploom": 2,
-        "Voltorb": 4,
+        "Voltorb": 5,
         "Geodude": 3,
         "Treecko": 1,
         "Grimer": 1,
@@ -469,7 +469,7 @@
         "Slowpoke": 1,
         "Seedot": 5,
         "Trapinch": 5,
-        "Hatenna": 4,
+        "Hatenna": 5,
         "Drifloon": 2,
         "Togepi": 7,
         "Snivy": 1,
@@ -539,7 +539,7 @@
         "Wurmple": 2,
         "Peakychu": 4,
         "Bellibolt": 1,
-        "Quilladin": 2,
+        "Quilladin": 3,
         "Vulpix": 2,
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
@@ -786,14 +786,15 @@
         "Lokix": 1,
         "Charmeleon": 1,
         "Spidops": 1,
-        "Dwebble": 1
+        "Dwebble": 1,
+        "Rockruff": 1
       },
-      "total_spawns": 850,
-      "last_spawn": "2026-07-05T17:05:24.700324"
+      "total_spawns": 854,
+      "last_spawn": "2026-07-05T17:06:04.404703"
     }
   },
   "global": {
-    "total_spawns": 64034,
+    "total_spawns": 64038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
