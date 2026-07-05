@@ -1341,7 +1341,7 @@
         "Steelix": 1,
         "Sprigatito": 1,
         "Charcadet": 2,
-        "Mudsdale": 1,
+        "Mudsdale": 2,
         "Meowth": 2,
         "Charmander": 1,
         "Wimpod": 1,
@@ -1382,14 +1382,17 @@
         "Snorunt": 1,
         "Carvanha": 1,
         "Toxel": 1,
-        "Buneary": 1
+        "Buneary": 1,
+        "Gallade": 1,
+        "Tangrowth": 1,
+        "Sizzlipede": 1
       },
-      "total_spawns": 298,
-      "last_spawn": "2026-07-05T03:36:28.599653"
+      "total_spawns": 302,
+      "last_spawn": "2026-07-05T03:37:08.211653"
     }
   },
   "global": {
-    "total_spawns": 62837,
+    "total_spawns": 62841,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
