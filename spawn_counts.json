@@ -393,7 +393,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 8,
+        "Tandemaus": 9,
         "Caterpie": 1,
         "Flaaffy": 3,
         "Bronzor": 1,
@@ -536,7 +536,7 @@
         "Croagunk": 2,
         "Klawf": 3,
         "Lombre": 2,
-        "Wurmple": 3,
+        "Wurmple": 4,
         "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 3,
@@ -788,14 +788,16 @@
         "Spidops": 1,
         "Dwebble": 1,
         "Rockruff": 1,
-        "Stunfisk": 1
+        "Stunfisk": 1,
+        "Spinda": 1,
+        "Beautifly": 1
       },
-      "total_spawns": 861,
-      "last_spawn": "2026-07-05T17:07:19.331315"
+      "total_spawns": 865,
+      "last_spawn": "2026-07-05T17:07:54.599751"
     }
   },
   "global": {
-    "total_spawns": 64045,
+    "total_spawns": 64049,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
