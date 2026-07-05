@@ -1194,7 +1194,7 @@
         "Abra": 5,
         "Wiglett": 2,
         "Starly": 4,
-        "Caterpie": 2,
+        "Caterpie": 3,
         "Mareep": 3,
         "Capsakid": 3,
         "Numel": 1,
@@ -1251,7 +1251,7 @@
         "Greavard": 1,
         "Snover": 1,
         "Piplup": 1,
-        "Dondozo": 1,
+        "Dondozo": 2,
         "Cyclizar": 2,
         "Froslass": 1,
         "Dodrio": 1,
@@ -1326,8 +1326,8 @@
         "Unown q": 1,
         "Lotad": 2,
         "Mienshao": 1,
-        "Blipbug": 3,
-        "Rellor": 1,
+        "Blipbug": 4,
+        "Rellor": 2,
         "Rolycoly": 2,
         "Poliwhirl": 1,
         "Lokix": 1,
@@ -1435,7 +1435,7 @@
         "Eiscue": 1,
         "Nacli": 4,
         "Pancham": 1,
-        "Bulbasaur": 3,
+        "Bulbasaur": 4,
         "Dewpider": 1,
         "Yellow plumage squawkabilly": 1,
         "Hattrem": 1,
@@ -1515,14 +1515,16 @@
         "Electrike": 1,
         "Hoppip": 1,
         "Slowbro": 1,
-        "Gholdengo": 1
+        "Gholdengo": 1,
+        "Trubbish": 1,
+        "Rockruff": 1
       },
-      "total_spawns": 574,
-      "last_spawn": "2026-07-05T04:25:28.229633"
+      "total_spawns": 581,
+      "last_spawn": "2026-07-05T04:26:03.731327"
     }
   },
   "global": {
-    "total_spawns": 63113,
+    "total_spawns": 63120,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
