@@ -724,7 +724,7 @@
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 6,
-        "Geodude": 16,
+        "Geodude": 17,
         "Treecko": 3,
         "Grimer": 2,
         "Grafaiai": 3,
@@ -756,7 +756,7 @@
         "Bellsprout": 9,
         "Scorbunny": 2,
         "Roggenrola": 15,
-        "Wattrel": 14,
+        "Wattrel": 15,
         "Nacli": 21,
         "Feebas": 2,
         "Weedle": 11,
@@ -883,7 +883,7 @@
         "Fearow": 1,
         "Vikavolt": 2,
         "Ledian": 2,
-        "Pineco": 4,
+        "Pineco": 5,
         "Vanillite": 11,
         "Omanyte": 5,
         "Scraggy": 3,
@@ -1316,12 +1316,12 @@
         "Bewear": 1,
         "Simisear": 1
       },
-      "total_spawns": 2395,
-      "last_spawn": "2026-07-05T22:27:34.538938"
+      "total_spawns": 2398,
+      "last_spawn": "2026-07-05T22:28:05.355160"
     }
   },
   "global": {
-    "total_spawns": 67224,
+    "total_spawns": 67227,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
