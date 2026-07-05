@@ -455,7 +455,7 @@
         "Combee": 2,
         "Corphish": 1,
         "Litten": 3,
-        "Infernape": 1,
+        "Infernape": 2,
         "Arboliva": 1,
         "Comfey": 1,
         "Archaludon": 1,
@@ -589,7 +589,7 @@
         "Kadabra": 1,
         "Stretchy tatsugiri": 1,
         "Dugtrio": 1,
-        "Capsakid": 4,
+        "Capsakid": 5,
         "Tyrunt": 1,
         "Drilbur": 1,
         "Vaporeon": 1,
@@ -668,7 +668,7 @@
         "Kricketot": 1,
         "Golurk": 2,
         "Carracosta": 1,
-        "Fennekin": 1,
+        "Fennekin": 2,
         "Fuecoco": 1,
         "Sandy wormadam": 1,
         "Sprigatito": 1,
@@ -748,14 +748,15 @@
         "Sunkern": 1,
         "Wugtrio": 1,
         "Applin": 1,
-        "Venipede": 1
+        "Venipede": 1,
+        "Toedscruel": 1
       },
-      "total_spawns": 690,
-      "last_spawn": "2026-07-05T16:38:24.795415"
+      "total_spawns": 694,
+      "last_spawn": "2026-07-05T16:39:04.314141"
     }
   },
   "global": {
-    "total_spawns": 63874,
+    "total_spawns": 63878,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
