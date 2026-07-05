@@ -191,7 +191,7 @@
         "Wimpod": 3,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 3,
+        "Klawf": 4,
         "Dj rotom": 2,
         "Chef dente": 1,
         "Hisuian qwilfish": 1,
@@ -386,8 +386,8 @@
         "Clodsire": 1,
         "Charizard": 2
       },
-      "total_spawns": 642,
-      "last_spawn": "2026-07-05T15:41:44.220522"
+      "total_spawns": 643,
+      "last_spawn": "2026-07-05T15:44:00.250622"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -453,7 +453,7 @@
         "Beldum": 1,
         "Combee": 1,
         "Corphish": 1,
-        "Litten": 1,
+        "Litten": 2,
         "Infernape": 1,
         "Arboliva": 1,
         "Comfey": 1,
@@ -546,7 +546,7 @@
         "Tynamo": 1,
         "Quaquaval": 2,
         "Rapidash": 1,
-        "Maschiff": 1,
+        "Maschiff": 2,
         "Sensu oricorio": 2,
         "Scatterbug": 2,
         "Taillow": 1,
@@ -640,14 +640,16 @@
         "Squirtle": 1,
         "Wingull": 1,
         "Buneary": 1,
-        "Skiddo": 1
+        "Skiddo": 1,
+        "Zigzagoon": 1,
+        "Dj rotom": 1
       },
-      "total_spawns": 371,
-      "last_spawn": "2026-07-05T15:43:54.691323"
+      "total_spawns": 375,
+      "last_spawn": "2026-07-05T15:44:35.173984"
     }
   },
   "global": {
-    "total_spawns": 63552,
+    "total_spawns": 63557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
