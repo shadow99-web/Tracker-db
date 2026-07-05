@@ -341,7 +341,7 @@
         "Ursaring": 1,
         "Bidoof": 1,
         "Gothita": 2,
-        "Solosis": 2,
+        "Solosis": 3,
         "Sandygast": 2,
         "Pidove": 1,
         "Chespin": 1,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 3,
         "Gligar": 1,
-        "Quaxly": 3,
+        "Quaxly": 4,
         "Spiky-eared pichu": 1,
         "Cradily": 2,
         "Burmy": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
-        "Spheal": 4,
+        "Spheal": 5,
         "Amaura": 1,
         "Wailord": 1,
         "Accelgor": 2,
@@ -507,8 +507,8 @@
         "Breloom": 1,
         "Rillaboom": 2
       },
-      "total_spawns": 1109,
-      "last_spawn": "2026-07-05T20:20:38.412892"
+      "total_spawns": 1112,
+      "last_spawn": "2026-07-05T20:21:08.194815"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -521,7 +521,7 @@
         "Torracat": 1,
         "Dusclops": 3,
         "Rhyhorn": 3,
-        "Mareep": 5,
+        "Mareep": 6,
         "Klink": 7,
         "Nymble": 7,
         "Porygon": 10,
@@ -609,7 +609,7 @@
         "Dratini": 2,
         "Sewaddle": 7,
         "Mantyke": 1,
-        "Slakoth": 9,
+        "Slakoth": 10,
         "Dreepy": 8,
         "Foongus": 3,
         "Hoppip": 10,
@@ -674,7 +674,7 @@
         "Wimpod": 6,
         "Rookidee": 7,
         "Shellos": 1,
-        "Roaming gimmighoul": 2,
+        "Roaming gimmighoul": 3,
         "Grotle": 2,
         "Squawkabilly": 1,
         "Wartortle": 2,
@@ -801,11 +801,11 @@
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
-        "Lotad": 6,
+        "Lotad": 7,
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
-        "Veluza": 6,
+        "Veluza": 7,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 5,
@@ -813,7 +813,7 @@
         "Pikachu": 2,
         "Yungoos": 3,
         "Luxio": 1,
-        "Frigibax": 8,
+        "Frigibax": 9,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -1057,14 +1057,15 @@
         "Brambleghast": 1,
         "Victreebel": 1,
         "Vibrava": 1,
-        "Yamper": 1
+        "Yamper": 1,
+        "Eelektross": 1
       },
-      "total_spawns": 1584,
-      "last_spawn": "2026-07-05T20:20:45.500817"
+      "total_spawns": 1591,
+      "last_spawn": "2026-07-05T20:21:17.473549"
     }
   },
   "global": {
-    "total_spawns": 65232,
+    "total_spawns": 65242,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
