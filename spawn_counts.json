@@ -393,7 +393,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 6,
+        "Tandemaus": 7,
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
@@ -700,7 +700,7 @@
         "Chimchar": 1,
         "Mewtwo": 1,
         "Pachirisu": 1,
-        "Ursaring": 1,
+        "Ursaring": 2,
         "Zweilous": 1,
         "Amoonguss": 1,
         "Varoom": 1,
@@ -722,14 +722,15 @@
         "Cofagrigus": 1,
         "Hattrem": 1,
         "Sneasel": 1,
-        "Piplup": 1
+        "Piplup": 1,
+        "Electrike": 1
       },
-      "total_spawns": 583,
-      "last_spawn": "2026-07-05T16:19:54.398622"
+      "total_spawns": 586,
+      "last_spawn": "2026-07-05T16:20:24.867420"
     }
   },
   "global": {
-    "total_spawns": 63767,
+    "total_spawns": 63770,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
