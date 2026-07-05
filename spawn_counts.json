@@ -1203,7 +1203,7 @@
         "Tadbulb": 2,
         "Yanmega": 1,
         "Tympole": 1,
-        "Grubbin": 2,
+        "Grubbin": 3,
         "Scatterbug": 3,
         "Skwovet": 1,
         "Applin": 1,
@@ -1244,7 +1244,7 @@
         "Drakloak": 2,
         "Victini": 1,
         "Pawmi": 1,
-        "Sandile": 1,
+        "Sandile": 2,
         "Charmeleon": 1,
         "Riolu": 1,
         "Gible": 2,
@@ -1273,7 +1273,7 @@
         "Rattata": 1,
         "Stonjourner": 1,
         "Veluza": 2,
-        "Panpour": 1,
+        "Panpour": 2,
         "Crabrawler": 2,
         "Frogadier": 1,
         "Scovillain": 1,
@@ -1354,14 +1354,17 @@
         "Bagon": 1,
         "Pikachu": 1,
         "Tarountula": 1,
-        "Rhyhorn": 1
+        "Rhyhorn": 1,
+        "Aipom": 1,
+        "Grookey": 1,
+        "Inkay": 1
       },
-      "total_spawns": 258,
-      "last_spawn": "2026-07-05T03:30:33.717890"
+      "total_spawns": 264,
+      "last_spawn": "2026-07-05T03:31:08.320489"
     }
   },
   "global": {
-    "total_spawns": 62797,
+    "total_spawns": 62803,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
