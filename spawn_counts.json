@@ -422,7 +422,7 @@
         "Swirlix": 3,
         "Glimmora": 3,
         "Meditite": 2,
-        "Pansage": 1,
+        "Pansage": 2,
         "Whismur": 11,
         "Jangmo-o": 5,
         "Samurott": 1,
@@ -492,7 +492,7 @@
         "Slakoth": 8,
         "Dreepy": 6,
         "Foongus": 2,
-        "Hoppip": 5,
+        "Hoppip": 6,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
@@ -820,14 +820,15 @@
         "Smeargle": 1,
         "Ceruledge": 1,
         "Swampert": 1,
-        "Naclstack": 1
+        "Naclstack": 1,
+        "Golbat": 1
       },
-      "total_spawns": 994,
-      "last_spawn": "2026-07-05T17:29:34.604987"
+      "total_spawns": 997,
+      "last_spawn": "2026-07-05T17:30:04.825806"
     }
   },
   "global": {
-    "total_spawns": 64179,
+    "total_spawns": 64182,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
