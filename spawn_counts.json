@@ -57,7 +57,7 @@
         "Tirtouga": 4,
         "Hatenna": 12,
         "Shroomish": 3,
-        "Lillipup": 7,
+        "Lillipup": 8,
         "Mosslax": 16,
         "Maushold": 3,
         "Cubchoo": 11,
@@ -678,8 +678,8 @@
         "Galarian zen darmanitan": 2,
         "Basculegion": 2
       },
-      "total_spawns": 2470,
-      "last_spawn": "2026-07-05T23:52:53.699784"
+      "total_spawns": 2471,
+      "last_spawn": "2026-07-05T23:53:23.902915"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -977,7 +977,7 @@
         "Tyrogue": 1,
         "Minior": 1,
         "Veluza": 13,
-        "Salandit": 6,
+        "Salandit": 7,
         "Yellow plumage squawkabilly": 3,
         "Poliwag": 10,
         "Passimian": 1,
@@ -1305,7 +1305,7 @@
         "Machamp": 1,
         "Absol": 1,
         "Floragato": 3,
-        "Blue plumage squawkabilly": 2,
+        "Blue plumage squawkabilly": 3,
         "Petilil": 2,
         "Gloom": 1,
         "Plusle": 1,
@@ -1380,14 +1380,15 @@
         "Joltik": 1,
         "Unown s": 1,
         "Dusknoir": 1,
-        "Sealeo": 1
+        "Sealeo": 1,
+        "Manectric": 1
       },
-      "total_spawns": 2898,
-      "last_spawn": "2026-07-05T23:52:46.329351"
+      "total_spawns": 2901,
+      "last_spawn": "2026-07-05T23:53:14.408235"
     }
   },
   "global": {
-    "total_spawns": 67907,
+    "total_spawns": 67911,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
