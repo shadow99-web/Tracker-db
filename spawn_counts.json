@@ -415,7 +415,7 @@
         "Monferno": 1,
         "Pikipek": 4,
         "Flittle": 4,
-        "Lillipup": 3,
+        "Lillipup": 4,
         "Eevee": 3,
         "Shroomish": 1,
         "Dachsbun": 2,
@@ -537,7 +537,7 @@
         "Klawf": 4,
         "Lombre": 2,
         "Wurmple": 5,
-        "Peakychu": 4,
+        "Peakychu": 5,
         "Bellibolt": 1,
         "Quilladin": 3,
         "Vulpix": 4,
@@ -693,7 +693,7 @@
         "Pikachu": 2,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 5,
+        "Frigibax": 6,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -709,7 +709,7 @@
         "Charmander": 2,
         "Misdreavus": 1,
         "Growlithe": 4,
-        "Arctozolt": 2,
+        "Arctozolt": 3,
         "Spheal": 4,
         "Chinchou": 2,
         "Magmar": 2,
@@ -766,7 +766,7 @@
         "Heliolisk": 1,
         "Doublade": 1,
         "Electivire": 1,
-        "Droopy tatsugiri": 1,
+        "Droopy tatsugiri": 2,
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
@@ -845,14 +845,15 @@
         "Greedent": 1,
         "Slowbro": 1,
         "Floatzel": 1,
-        "Accelgor": 1
+        "Accelgor": 2,
+        "Glaceon": 1
       },
-      "total_spawns": 1119,
-      "last_spawn": "2026-07-05T17:41:07.318540"
+      "total_spawns": 1126,
+      "last_spawn": "2026-07-05T17:41:44.506234"
     }
   },
   "global": {
-    "total_spawns": 64307,
+    "total_spawns": 64314,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
