@@ -489,7 +489,7 @@
         "Dratini": 1,
         "Sewaddle": 3,
         "Mantyke": 1,
-        "Slakoth": 5,
+        "Slakoth": 6,
         "Dreepy": 2,
         "Foongus": 2,
         "Hoppip": 2,
@@ -605,7 +605,7 @@
         "Ledian": 1,
         "Pineco": 1,
         "Vanillite": 1,
-        "Omanyte": 2,
+        "Omanyte": 3,
         "Scraggy": 1,
         "Komala": 1,
         "Stoutland": 1,
@@ -699,14 +699,15 @@
         "Meganium": 1,
         "Chimchar": 1,
         "Mewtwo": 1,
-        "Pachirisu": 1
+        "Pachirisu": 1,
+        "Ursaring": 1
       },
-      "total_spawns": 522,
-      "last_spawn": "2026-07-05T16:09:34.547692"
+      "total_spawns": 525,
+      "last_spawn": "2026-07-05T16:10:04.603103"
     }
   },
   "global": {
-    "total_spawns": 63706,
+    "total_spawns": 63709,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
