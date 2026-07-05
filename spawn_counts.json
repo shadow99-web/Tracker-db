@@ -12,7 +12,7 @@
         "Braixen": 2,
         "Oddish": 3,
         "Totodile": 2,
-        "Vanillite": 6,
+        "Vanillite": 8,
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 5,
@@ -29,14 +29,14 @@
         "Tynamo": 1,
         "Palossand": 1,
         "Pyukumuku": 1,
-        "Pidgey": 2,
+        "Pidgey": 3,
         "Binacle": 1,
         "Bounsweet": 4,
         "Fletchling": 3,
         "Whirlipede": 2,
         "Duskull": 6,
         "Abra": 5,
-        "Wiglett": 2,
+        "Wiglett": 3,
         "Starly": 4,
         "Caterpie": 3,
         "Mareep": 3,
@@ -93,7 +93,7 @@
         "Riolu": 2,
         "Gible": 2,
         "Greavard": 2,
-        "Snover": 1,
+        "Snover": 3,
         "Piplup": 1,
         "Dondozo": 2,
         "Cyclizar": 2,
@@ -193,7 +193,7 @@
         "Diggersby": 1,
         "Klawf": 4,
         "Dj rotom": 2,
-        "Chef dente": 1,
+        "Chef dente": 3,
         "Hisuian qwilfish": 1,
         "Bagon": 1,
         "Pikachu": 2,
@@ -399,10 +399,12 @@
         "Cursola": 2,
         "Carbink": 1,
         "Scorbunny": 1,
-        "Dubwool": 1
+        "Dubwool": 1,
+        "Litleo": 1,
+        "Silcoon": 1
       },
-      "total_spawns": 707,
-      "last_spawn": "2026-07-05T19:19:28.494719"
+      "total_spawns": 717,
+      "last_spawn": "2026-07-05T19:20:03.493700"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -902,7 +904,7 @@
     }
   },
   "global": {
-    "total_spawns": 64538,
+    "total_spawns": 64548,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
