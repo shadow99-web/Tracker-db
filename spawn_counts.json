@@ -625,7 +625,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 10,
-        "Sandile": 9,
+        "Sandile": 10,
         "Maushold": 4,
         "Rattata": 5,
         "Riolu": 2,
@@ -635,7 +635,7 @@
         "Trapinch": 10,
         "Hatenna": 10,
         "Drifloon": 2,
-        "Togepi": 8,
+        "Togepi": 9,
         "Snivy": 2,
         "Bellsprout": 8,
         "Scorbunny": 2,
@@ -936,7 +936,7 @@
         "Nickit": 1,
         "Wiglett": 7,
         "Carkol": 2,
-        "Solosis": 4,
+        "Solosis": 5,
         "Flapple": 1,
         "Hippowdon": 1,
         "Helioptile": 1,
@@ -1130,12 +1130,12 @@
         "Skarmory": 1,
         "Ferroseed": 1
       },
-      "total_spawns": 1809,
-      "last_spawn": "2026-07-05T20:47:54.342426"
+      "total_spawns": 1812,
+      "last_spawn": "2026-07-05T20:48:24.517250"
     }
   },
   "global": {
-    "total_spawns": 65697,
+    "total_spawns": 65700,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
