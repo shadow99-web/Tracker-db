@@ -612,7 +612,7 @@
         "Tirtouga": 3,
         "Swablu": 3,
         "Tepig": 2,
-        "Barbaracle": 2,
+        "Barbaracle": 3,
         "Noivern": 2,
         "Clefairy": 3,
         "Grubbin": 4,
@@ -651,7 +651,7 @@
         "Nosepass": 1,
         "Scovillain": 3,
         "Sliggoo": 2,
-        "Silcoon": 1,
+        "Silcoon": 2,
         "Tadbulb": 6,
         "Lopunny": 1,
         "Malamar": 1,
@@ -798,7 +798,7 @@
         "Sinistea": 1,
         "Shinx": 1,
         "Totodile": 1,
-        "Magikarp": 1,
+        "Magikarp": 2,
         "Pumpkaboo": 1,
         "Banette": 1,
         "Tympole": 1,
@@ -826,12 +826,12 @@
         "East sea gastrodon": 1,
         "Grovyle": 1
       },
-      "total_spawns": 1001,
-      "last_spawn": "2026-07-05T17:30:44.529176"
+      "total_spawns": 1004,
+      "last_spawn": "2026-07-05T17:31:14.797688"
     }
   },
   "global": {
-    "total_spawns": 64186,
+    "total_spawns": 64189,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
