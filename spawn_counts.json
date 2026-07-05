@@ -1224,7 +1224,7 @@
         "Feebas": 1,
         "Prof tangrowth": 2,
         "Vulpix": 1,
-        "Gastly": 2,
+        "Gastly": 3,
         "Aron": 1,
         "Honedge": 1,
         "Houndour": 1,
@@ -1343,14 +1343,16 @@
         "Charcadet": 1,
         "Mudsdale": 1,
         "Meowth": 2,
-        "Charmander": 1
+        "Charmander": 1,
+        "Wimpod": 1,
+        "Comfey": 1
       },
-      "total_spawns": 243,
-      "last_spawn": "2026-07-05T02:03:59.710547"
+      "total_spawns": 246,
+      "last_spawn": "2026-07-05T02:04:38.262898"
     }
   },
   "global": {
-    "total_spawns": 62782,
+    "total_spawns": 62785,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
