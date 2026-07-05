@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 3,
-        "Sandile": 5,
+        "Sandile": 6,
         "Charmeleon": 1,
         "Riolu": 2,
         "Gible": 2,
@@ -387,8 +387,8 @@
         "Charizard": 2,
         "Axew": 2
       },
-      "total_spawns": 649,
-      "last_spawn": "2026-07-05T17:34:54.079648"
+      "total_spawns": 650,
+      "last_spawn": "2026-07-05T18:51:45.193894"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -573,7 +573,7 @@
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
-        "Quaxwell": 1,
+        "Quaxwell": 2,
         "Croconaw": 2,
         "Smoliv": 5,
         "Lechonk": 5,
@@ -880,14 +880,15 @@
         "Archen": 1,
         "Mabosstiff": 1,
         "Skuntank": 1,
-        "Glastrier": 1
+        "Glastrier": 1,
+        "Crabrawler": 1
       },
-      "total_spawns": 1290,
-      "last_spawn": "2026-07-05T17:55:37.505953"
+      "total_spawns": 1292,
+      "last_spawn": "2026-07-05T17:55:47.294198"
     }
   },
   "global": {
-    "total_spawns": 64478,
+    "total_spawns": 64481,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
