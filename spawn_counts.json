@@ -1189,7 +1189,7 @@
         "Binacle": 1,
         "Bounsweet": 4,
         "Fletchling": 2,
-        "Whirlipede": 1,
+        "Whirlipede": 2,
         "Duskull": 6,
         "Abra": 2,
         "Wiglett": 2,
@@ -1319,7 +1319,7 @@
         "Vullaby": 1,
         "Venipede": 1,
         "Pansage": 2,
-        "Cetoddle": 2,
+        "Cetoddle": 3,
         "Togepi": 1,
         "Tandemaus": 2,
         "Clefairy": 1,
@@ -1466,14 +1466,15 @@
         "Metang": 1,
         "Larvitar": 1,
         "Lumineon": 1,
-        "Kilowattrel": 1
+        "Kilowattrel": 1,
+        "Pumpkaboo": 1
       },
-      "total_spawns": 462,
-      "last_spawn": "2026-07-05T04:08:33.676084"
+      "total_spawns": 465,
+      "last_spawn": "2026-07-05T04:09:03.739550"
     }
   },
   "global": {
-    "total_spawns": 63001,
+    "total_spawns": 63004,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
