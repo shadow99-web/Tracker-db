@@ -455,7 +455,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 2,
-        "Sandile": 2,
+        "Sandile": 3,
         "Maushold": 1,
         "Rattata": 2,
         "Riolu": 2,
@@ -539,7 +539,7 @@
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 1,
-        "Quaquaval": 1,
+        "Quaquaval": 2,
         "Rapidash": 1,
         "Maschiff": 1,
         "Sensu oricorio": 1,
@@ -552,14 +552,16 @@
         "Grotle": 1,
         "Squawkabilly": 1,
         "Wartortle": 1,
-        "Rowlet": 1
+        "Rowlet": 1,
+        "Gholdengo": 1,
+        "Machoke": 1
       },
-      "total_spawns": 208,
-      "last_spawn": "2026-07-05T15:16:16.542488"
+      "total_spawns": 212,
+      "last_spawn": "2026-07-05T15:16:54.498015"
     }
   },
   "global": {
-    "total_spawns": 63380,
+    "total_spawns": 63384,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
