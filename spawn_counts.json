@@ -405,7 +405,7 @@
         "Klink": 3,
         "Nymble": 3,
         "Porygon": 5,
-        "Abra": 2,
+        "Abra": 3,
         "Oddish": 6,
         "Dedenne": 1,
         "Gothita": 2,
@@ -437,7 +437,7 @@
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 5,
+        "Bramblin": 6,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 1,
@@ -475,7 +475,7 @@
         "Snivy": 1,
         "Bellsprout": 2,
         "Scorbunny": 2,
-        "Roggenrola": 2,
+        "Roggenrola": 3,
         "Wattrel": 4,
         "Nacli": 4,
         "Feebas": 1,
@@ -721,14 +721,15 @@
         "Rabsca": 1,
         "Cofagrigus": 1,
         "Hattrem": 1,
-        "Sneasel": 1
+        "Sneasel": 1,
+        "Piplup": 1
       },
-      "total_spawns": 579,
-      "last_spawn": "2026-07-05T16:19:14.499539"
+      "total_spawns": 583,
+      "last_spawn": "2026-07-05T16:19:54.398622"
     }
   },
   "global": {
-    "total_spawns": 63763,
+    "total_spawns": 63767,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
