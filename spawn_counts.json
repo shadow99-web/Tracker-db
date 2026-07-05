@@ -489,7 +489,7 @@
         "Dratini": 1,
         "Sewaddle": 5,
         "Mantyke": 1,
-        "Slakoth": 7,
+        "Slakoth": 8,
         "Dreepy": 4,
         "Foongus": 2,
         "Hoppip": 3,
@@ -718,7 +718,7 @@
         "Graveler": 2,
         "Duosion": 1,
         "Pawniard": 1,
-        "Rabsca": 1,
+        "Rabsca": 2,
         "Cofagrigus": 1,
         "Hattrem": 1,
         "Sneasel": 1,
@@ -776,14 +776,15 @@
         "Flapple": 1,
         "Hippowdon": 1,
         "Helioptile": 1,
-        "Furfrou": 1
+        "Furfrou": 1,
+        "Thwackey": 1
       },
-      "total_spawns": 798,
-      "last_spawn": "2026-07-05T16:56:44.432965"
+      "total_spawns": 801,
+      "last_spawn": "2026-07-05T16:57:19.797409"
     }
   },
   "global": {
-    "total_spawns": 63982,
+    "total_spawns": 63985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
