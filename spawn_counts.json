@@ -394,7 +394,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 9,
-        "Caterpie": 1,
+        "Caterpie": 2,
         "Flaaffy": 3,
         "Bronzor": 1,
         "Gible": 3,
@@ -492,7 +492,7 @@
         "Slakoth": 8,
         "Dreepy": 5,
         "Foongus": 2,
-        "Hoppip": 4,
+        "Hoppip": 5,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
@@ -799,14 +799,15 @@
         "Shinx": 1,
         "Totodile": 1,
         "Magikarp": 1,
-        "Pumpkaboo": 1
+        "Pumpkaboo": 1,
+        "Banette": 1
       },
-      "total_spawns": 895,
-      "last_spawn": "2026-07-05T17:13:04.519767"
+      "total_spawns": 898,
+      "last_spawn": "2026-07-05T17:13:35.370078"
     }
   },
   "global": {
-    "total_spawns": 64079,
+    "total_spawns": 64082,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
