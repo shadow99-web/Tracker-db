@@ -552,7 +552,7 @@
         "Yungoos": 1,
         "Palpitoad": 2,
         "Smeargle": 2,
-        "Appletun": 2,
+        "Appletun": 4,
         "Arrokuda": 1,
         "Toxapex": 2,
         "Pawmot": 1,
@@ -662,8 +662,8 @@
         "Gabite": 2,
         "Tapu fini": 2
       },
-      "total_spawns": 2266,
-      "last_spawn": "2026-07-05T22:21:03.659889"
+      "total_spawns": 2268,
+      "last_spawn": "2026-07-05T22:21:24.169855"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -759,7 +759,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 12,
-        "Horsea": 18,
+        "Horsea": 19,
         "Teddiursa": 14,
         "Dratini": 4,
         "Sewaddle": 8,
@@ -767,7 +767,7 @@
         "Slakoth": 13,
         "Dreepy": 11,
         "Foongus": 4,
-        "Hoppip": 12,
+        "Hoppip": 13,
         "Blipbug": 9,
         "Swoobat": 1,
         "Greavard": 10,
@@ -898,7 +898,7 @@
         "Bagon": 5,
         "Vanilluxe": 2,
         "Woobat": 3,
-        "Goomy": 8,
+        "Goomy": 9,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 9,
@@ -1304,14 +1304,15 @@
         "Dodrio": 1,
         "Wailord": 1,
         "Houndour": 1,
-        "Delcatty": 1
+        "Delcatty": 1,
+        "Chandelure": 1
       },
-      "total_spawns": 2356,
-      "last_spawn": "2026-07-05T22:21:04.495651"
+      "total_spawns": 2360,
+      "last_spawn": "2026-07-05T22:21:44.496834"
     }
   },
   "global": {
-    "total_spawns": 67161,
+    "total_spawns": 67167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
