@@ -446,7 +446,7 @@
         "Voltorb": 5,
         "Geodude": 8,
         "Treecko": 1,
-        "Grimer": 1,
+        "Grimer": 2,
         "Grafaiai": 3,
         "Gastly": 5,
         "Orthworm": 6,
@@ -490,7 +490,7 @@
         "Sewaddle": 7,
         "Mantyke": 1,
         "Slakoth": 8,
-        "Dreepy": 7,
+        "Dreepy": 8,
         "Foongus": 2,
         "Hoppip": 8,
         "Blipbug": 7,
@@ -499,7 +499,7 @@
         "Mosslax": 8,
         "Braixen": 2,
         "Skwovet": 2,
-        "Magnemite": 7,
+        "Magnemite": 8,
         "Impidimp": 9,
         "Elgyem": 2,
         "Gastrodon": 1,
@@ -515,7 +515,7 @@
         "Marill": 5,
         "Axew": 3,
         "Tinkatink": 4,
-        "Starly": 8,
+        "Starly": 9,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 14,
@@ -551,7 +551,7 @@
         "Sensu oricorio": 2,
         "Scatterbug": 6,
         "Taillow": 2,
-        "Wimpod": 5,
+        "Wimpod": 6,
         "Rookidee": 7,
         "Shellos": 1,
         "Roaming gimmighoul": 2,
@@ -873,14 +873,16 @@
         "Kommo-o": 1,
         "Chatot": 1,
         "Family of three maushold": 1,
-        "Sentret": 1
+        "Sentret": 1,
+        "Piloswine": 1,
+        "Nidoking": 1
       },
-      "total_spawns": 1260,
-      "last_spawn": "2026-07-05T17:52:57.500852"
+      "total_spawns": 1267,
+      "last_spawn": "2026-07-05T17:53:34.577428"
     }
   },
   "global": {
-    "total_spawns": 64448,
+    "total_spawns": 64455,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
