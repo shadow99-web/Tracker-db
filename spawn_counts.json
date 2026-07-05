@@ -431,7 +431,7 @@
         "Timburr": 3,
         "Pidgey": 3,
         "Gimmighoul": 4,
-        "Cetoddle": 2,
+        "Cetoddle": 3,
         "Fidough": 3,
         "Smearguru": 2,
         "Nuzleaf": 2,
@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 2,
         "Wattrel": 4,
-        "Nacli": 3,
+        "Nacli": 4,
         "Feebas": 1,
         "Weedle": 3,
         "Ralts": 3,
@@ -536,7 +536,7 @@
         "Croagunk": 1,
         "Klawf": 3,
         "Lombre": 2,
-        "Wurmple": 1,
+        "Wurmple": 2,
         "Peakychu": 3,
         "Bellibolt": 1,
         "Quilladin": 1,
@@ -717,12 +717,12 @@
         "Sandygast": 1,
         "Graveler": 1
       },
-      "total_spawns": 562,
-      "last_spawn": "2026-07-05T16:16:24.329230"
+      "total_spawns": 565,
+      "last_spawn": "2026-07-05T16:16:56.545653"
     }
   },
   "global": {
-    "total_spawns": 63746,
+    "total_spawns": 63749,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
