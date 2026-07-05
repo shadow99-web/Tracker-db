@@ -760,7 +760,7 @@
         "Snivy": 4,
         "Bellsprout": 11,
         "Scorbunny": 2,
-        "Roggenrola": 17,
+        "Roggenrola": 18,
         "Wattrel": 17,
         "Nacli": 22,
         "Feebas": 2,
@@ -1221,7 +1221,7 @@
         "Cleffa": 1,
         "Brambleghast": 3,
         "Victreebel": 1,
-        "Vibrava": 2,
+        "Vibrava": 3,
         "Yamper": 6,
         "Eelektross": 2,
         "Quagsire": 1,
@@ -1353,14 +1353,15 @@
         "Crustle": 1,
         "Lilligant": 1,
         "Mienfoo": 1,
-        "Rainy castform": 1
+        "Rainy castform": 1,
+        "Claydol": 1
       },
-      "total_spawns": 2658,
-      "last_spawn": "2026-07-05T23:11:54.499270"
+      "total_spawns": 2661,
+      "last_spawn": "2026-07-05T23:12:24.816152"
     }
   },
   "global": {
-    "total_spawns": 67576,
+    "total_spawns": 67579,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
