@@ -43,7 +43,7 @@
         "Capsakid": 10,
         "Numel": 5,
         "Pawmo": 3,
-        "Wattrel": 8,
+        "Wattrel": 9,
         "Tadbulb": 9,
         "Yanmega": 1,
         "Tympole": 9,
@@ -198,7 +198,7 @@
         "Bagon": 9,
         "Pikachu": 4,
         "Tarountula": 7,
-        "Rhyhorn": 8,
+        "Rhyhorn": 9,
         "Aipom": 2,
         "Grookey": 4,
         "Inkay": 1,
@@ -654,10 +654,11 @@
         "Phanpy": 1,
         "Patrat": 1,
         "Passimian": 1,
-        "Jynx": 1
+        "Jynx": 1,
+        "Noctowl": 1
       },
-      "total_spawns": 2239,
-      "last_spawn": "2026-07-05T22:14:53.663922"
+      "total_spawns": 2242,
+      "last_spawn": "2026-07-05T22:15:23.763655"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -697,7 +698,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 3,
-        "Timburr": 12,
+        "Timburr": 13,
         "Pidgey": 7,
         "Gimmighoul": 9,
         "Cetoddle": 14,
@@ -846,7 +847,7 @@
         "Croconaw": 6,
         "Smoliv": 7,
         "Lechonk": 8,
-        "Clodsire": 4,
+        "Clodsire": 5,
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 6,
@@ -1104,7 +1105,7 @@
         "Crobat": 1,
         "Pignite": 1,
         "Gulpin": 4,
-        "Vullaby": 2,
+        "Vullaby": 3,
         "Burmy": 1,
         "Nidorina": 1,
         "Meowth": 4,
@@ -1297,12 +1298,12 @@
         "Munchlax": 1,
         "Dodrio": 1
       },
-      "total_spawns": 2319,
-      "last_spawn": "2026-07-05T22:14:54.398965"
+      "total_spawns": 2322,
+      "last_spawn": "2026-07-05T22:15:24.596083"
     }
   },
   "global": {
-    "total_spawns": 67097,
+    "total_spawns": 67103,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
