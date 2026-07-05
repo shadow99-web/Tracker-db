@@ -774,7 +774,7 @@
         "Horsea": 20,
         "Teddiursa": 17,
         "Dratini": 6,
-        "Sewaddle": 9,
+        "Sewaddle": 10,
         "Mantyke": 3,
         "Slakoth": 15,
         "Dreepy": 13,
@@ -813,7 +813,7 @@
         "Cubone": 4,
         "Dracovish": 1,
         "Deino": 10,
-        "Honedge": 6,
+        "Honedge": 7,
         "Litleo": 3,
         "Steelix": 2,
         "Greninja": 1,
@@ -1224,7 +1224,7 @@
         "Brambleghast": 3,
         "Victreebel": 1,
         "Vibrava": 3,
-        "Yamper": 6,
+        "Yamper": 7,
         "Eelektross": 2,
         "Quagsire": 1,
         "Sunflora": 2,
@@ -1370,12 +1370,12 @@
         "Pelipper": 1,
         "Wailmer": 1
       },
-      "total_spawns": 2771,
-      "last_spawn": "2026-07-05T23:31:04.742006"
+      "total_spawns": 2774,
+      "last_spawn": "2026-07-05T23:31:44.395076"
     }
   },
   "global": {
-    "total_spawns": 67738,
+    "total_spawns": 67741,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
