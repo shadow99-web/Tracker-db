@@ -448,7 +448,7 @@
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
-        "Gastly": 3,
+        "Gastly": 4,
         "Orthworm": 4,
         "Glimmet": 4,
         "Beldum": 1,
@@ -549,7 +549,7 @@
         "Rapidash": 1,
         "Maschiff": 3,
         "Sensu oricorio": 2,
-        "Scatterbug": 3,
+        "Scatterbug": 4,
         "Taillow": 1,
         "Wimpod": 1,
         "Rookidee": 4,
@@ -606,7 +606,7 @@
         "Pineco": 1,
         "Vanillite": 4,
         "Omanyte": 4,
-        "Scraggy": 1,
+        "Scraggy": 2,
         "Komala": 1,
         "Stoutland": 1,
         "Tirtouga": 2,
@@ -757,14 +757,15 @@
         "Ponyta": 1,
         "Drifblim": 1,
         "Arcanine": 1,
-        "Lickitung": 1
+        "Lickitung": 1,
+        "Pyroar": 1
       },
-      "total_spawns": 722,
-      "last_spawn": "2026-07-05T16:43:54.597760"
+      "total_spawns": 726,
+      "last_spawn": "2026-07-05T16:44:34.313586"
     }
   },
   "global": {
-    "total_spawns": 63906,
+    "total_spawns": 63910,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
