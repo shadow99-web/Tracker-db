@@ -306,7 +306,7 @@
         "Geodude": 4,
         "Tentacruel": 1,
         "Archen": 3,
-        "Blue plumage squawkabilly": 1,
+        "Blue plumage squawkabilly": 2,
         "Metang": 1,
         "Larvitar": 5,
         "Lumineon": 1,
@@ -516,10 +516,12 @@
         "Low key toxtricity": 2,
         "Nidorina": 1,
         "Bronzong": 1,
-        "Foongus": 1
+        "Foongus": 1,
+        "Krookodile": 1,
+        "Espathra": 1
       },
-      "total_spawns": 1185,
-      "last_spawn": "2026-07-05T20:30:18.469859"
+      "total_spawns": 1188,
+      "last_spawn": "2026-07-05T20:30:48.569104"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -531,7 +533,7 @@
         "Gible": 7,
         "Torracat": 1,
         "Dusclops": 3,
-        "Rhyhorn": 3,
+        "Rhyhorn": 4,
         "Mareep": 7,
         "Klink": 7,
         "Nymble": 7,
@@ -663,7 +665,7 @@
         "Greninja": 1,
         "Dondozo": 8,
         "Lairon": 4,
-        "Zubat": 11,
+        "Zubat": 12,
         "Croagunk": 3,
         "Klawf": 6,
         "Lombre": 2,
@@ -774,7 +776,7 @@
         "Buneary": 1,
         "Skiddo": 2,
         "Zigzagoon": 1,
-        "Dj rotom": 4,
+        "Dj rotom": 5,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 5,
@@ -854,7 +856,7 @@
         "Hattrem": 1,
         "Sneasel": 2,
         "Piplup": 2,
-        "Electrike": 2,
+        "Electrike": 3,
         "Kabuto": 4,
         "Chewtle": 1,
         "Drakloak": 2,
@@ -1077,14 +1079,16 @@
         "Tranquill": 1,
         "Mankey": 1,
         "Herdier": 1,
-        "Starmie": 1
+        "Starmie": 1,
+        "Monsoon vivillon": 1,
+        "Magnezone": 1
       },
-      "total_spawns": 1695,
-      "last_spawn": "2026-07-05T20:30:17.109558"
+      "total_spawns": 1701,
+      "last_spawn": "2026-07-05T20:30:47.495610"
     }
   },
   "global": {
-    "total_spawns": 65419,
+    "total_spawns": 65428,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
