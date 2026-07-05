@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 18,
+        "Axew": 19,
         "Joltik": 2,
         "Gulpin": 1,
         "Mareanie": 2,
@@ -418,7 +418,7 @@
         "Combusken": 2,
         "Croagunk": 3,
         "Mothim": 4,
-        "Crabominable": 2,
+        "Crabominable": 3,
         "Krabby": 3,
         "Mimikyu": 4,
         "Hoothoot": 3,
@@ -672,8 +672,8 @@
         "Greninja": 1,
         "Wash rotom": 1
       },
-      "total_spawns": 2377,
-      "last_spawn": "2026-07-05T23:11:13.694793"
+      "total_spawns": 2379,
+      "last_spawn": "2026-07-05T23:11:33.418612"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -726,7 +726,7 @@
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
         "Binacle": 5,
-        "Kilowattrel": 4,
+        "Kilowattrel": 5,
         "Skiploom": 3,
         "Voltorb": 6,
         "Geodude": 19,
@@ -1114,7 +1114,7 @@
         "White plumage squawkabilly": 4,
         "Koffing": 1,
         "Rhyperior": 2,
-        "Spritzee": 5,
+        "Spritzee": 6,
         "Hawlucha": 1,
         "Paras": 3,
         "Crobat": 1,
@@ -1306,10 +1306,10 @@
         "Torkoal": 1,
         "Camerupt": 2,
         "Dolliv": 3,
-        "Lampent": 1,
+        "Lampent": 2,
         "Ursaluna": 1,
         "Mawile": 1,
-        "Brionne": 1,
+        "Brionne": 2,
         "Munchlax": 1,
         "Dodrio": 1,
         "Wailord": 1,
@@ -1355,12 +1355,12 @@
         "Mienfoo": 1,
         "Rainy castform": 1
       },
-      "total_spawns": 2654,
-      "last_spawn": "2026-07-05T23:11:14.801275"
+      "total_spawns": 2658,
+      "last_spawn": "2026-07-05T23:11:54.499270"
     }
   },
   "global": {
-    "total_spawns": 67570,
+    "total_spawns": 67576,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
