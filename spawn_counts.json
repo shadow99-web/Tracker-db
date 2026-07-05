@@ -35,7 +35,7 @@
         "Fletchling": 6,
         "Whirlipede": 4,
         "Duskull": 18,
-        "Abra": 15,
+        "Abra": 16,
         "Wiglett": 7,
         "Starly": 18,
         "Caterpie": 5,
@@ -102,7 +102,7 @@
         "Metagross": 2,
         "Corphish": 3,
         "Doduo": 4,
-        "Flittle": 11,
+        "Flittle": 12,
         "Armarouge": 1,
         "Clauncher": 2,
         "Tentacool": 1,
@@ -646,10 +646,11 @@
         "Shiinotic": 2,
         "Simisage": 2,
         "Cherubi": 1,
-        "Heatmor": 1
+        "Heatmor": 1,
+        "Vikavolt": 1
       },
-      "total_spawns": 2151,
-      "last_spawn": "2026-07-05T22:03:33.732170"
+      "total_spawns": 2154,
+      "last_spawn": "2026-07-05T22:04:03.729091"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -722,7 +723,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 12,
-        "Sandile": 12,
+        "Sandile": 13,
         "Maushold": 6,
         "Rattata": 6,
         "Riolu": 3,
@@ -1227,7 +1228,7 @@
         "Skarmory": 1,
         "Ferroseed": 1,
         "Gossifleur": 2,
-        "Palafin": 1,
+        "Palafin": 2,
         "Gothorita": 1,
         "Simipour": 1,
         "Bronzong": 1,
@@ -1280,14 +1281,15 @@
         "Gloom": 1,
         "Plusle": 1,
         "Torkoal": 1,
-        "Camerupt": 1
+        "Camerupt": 1,
+        "Dolliv": 1
       },
-      "total_spawns": 2253,
-      "last_spawn": "2026-07-05T22:03:34.376945"
+      "total_spawns": 2256,
+      "last_spawn": "2026-07-05T22:04:04.600283"
     }
   },
   "global": {
-    "total_spawns": 66943,
+    "total_spawns": 66949,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
