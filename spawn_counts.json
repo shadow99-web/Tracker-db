@@ -715,7 +715,7 @@
         "Timburr": 13,
         "Pidgey": 7,
         "Gimmighoul": 10,
-        "Cetoddle": 14,
+        "Cetoddle": 15,
         "Fidough": 15,
         "Smearguru": 8,
         "Nuzleaf": 3,
@@ -824,7 +824,7 @@
         "Peakychu": 11,
         "Bellibolt": 3,
         "Quilladin": 3,
-        "Vulpix": 7,
+        "Vulpix": 8,
         "Sizzlipede": 8,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
@@ -1021,7 +1021,7 @@
         "Mismagius": 1,
         "Mudbray": 5,
         "Weepinbell": 1,
-        "East sea shellos": 7,
+        "East sea shellos": 8,
         "Flygon": 1,
         "Cyclizar": 2,
         "Murkrow": 3,
@@ -1351,12 +1351,12 @@
         "Trumbeak": 1,
         "Crustle": 1
       },
-      "total_spawns": 2603,
-      "last_spawn": "2026-07-05T23:02:44.503862"
+      "total_spawns": 2606,
+      "last_spawn": "2026-07-05T23:03:14.522869"
     }
   },
   "global": {
-    "total_spawns": 67504,
+    "total_spawns": 67507,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
