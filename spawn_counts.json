@@ -405,7 +405,7 @@
         "Nymble": 3,
         "Porygon": 3,
         "Abra": 2,
-        "Oddish": 5,
+        "Oddish": 6,
         "Dedenne": 1,
         "Gothita": 1,
         "Finizen": 4,
@@ -659,14 +659,16 @@
         "Tinkatuff": 1,
         "Baltoy": 1,
         "Tarountula": 1,
-        "Omastar": 1
+        "Omastar": 1,
+        "Surskit": 1,
+        "Wooper": 1
       },
-      "total_spawns": 427,
-      "last_spawn": "2026-07-05T15:53:14.500324"
+      "total_spawns": 430,
+      "last_spawn": "2026-07-05T15:53:54.496549"
     }
   },
   "global": {
-    "total_spawns": 63609,
+    "total_spawns": 63612,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
