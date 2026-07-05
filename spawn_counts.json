@@ -79,7 +79,7 @@
         "Salandit": 3,
         "Bruxish": 1,
         "Orbeetle": 1,
-        "Bramblin": 4,
+        "Bramblin": 5,
         "Stufful": 3,
         "Shelgon": 1,
         "Marshtomp": 1,
@@ -232,7 +232,7 @@
         "Sizzlipede": 1,
         "Skuntank": 1,
         "Palafin": 4,
-        "Timburr": 4,
+        "Timburr": 5,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
@@ -263,9 +263,9 @@
         "Wooloo": 2,
         "Mawile": 3,
         "Marill": 1,
-        "Lickitung": 1,
+        "Lickitung": 2,
         "Chewtle": 4,
-        "Onix": 1,
+        "Onix": 2,
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 3,
@@ -341,7 +341,7 @@
         "Ursaring": 1,
         "Bidoof": 2,
         "Gothita": 3,
-        "Solosis": 5,
+        "Solosis": 7,
         "Sandygast": 2,
         "Pidove": 2,
         "Chespin": 1,
@@ -503,7 +503,7 @@
         "Tyrogue": 1,
         "Nuzleaf": 3,
         "Spinarak": 1,
-        "Goomy": 1,
+        "Goomy": 2,
         "Breloom": 1,
         "Rillaboom": 2,
         "Hippopotas": 1,
@@ -567,8 +567,8 @@
         "Farfetch'd": 2,
         "Grafaiai": 1
       },
-      "total_spawns": 1441,
-      "last_spawn": "2026-07-05T21:02:19.380947"
+      "total_spawns": 1448,
+      "last_spawn": "2026-07-05T21:02:47.014372"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -707,7 +707,7 @@
         "Dracovish": 1,
         "Deino": 7,
         "Honedge": 5,
-        "Litleo": 2,
+        "Litleo": 3,
         "Steelix": 2,
         "Greninja": 1,
         "Dondozo": 8,
@@ -820,7 +820,7 @@
         "Forretress": 1,
         "Squirtle": 3,
         "Wingull": 1,
-        "Buneary": 3,
+        "Buneary": 4,
         "Skiddo": 3,
         "Zigzagoon": 1,
         "Dj rotom": 5,
@@ -829,7 +829,7 @@
         "Snover": 5,
         "Bayleef": 3,
         "Nosepass": 1,
-        "Scovillain": 4,
+        "Scovillain": 5,
         "Sliggoo": 2,
         "Silcoon": 3,
         "Tadbulb": 8,
@@ -1011,7 +1011,7 @@
         "Rhyperior": 1,
         "Spritzee": 3,
         "Hawlucha": 1,
-        "Paras": 2,
+        "Paras": 3,
         "Crobat": 1,
         "Pignite": 1,
         "Gulpin": 2,
@@ -1160,12 +1160,12 @@
         "Clamperl": 1,
         "Cramorant": 1
       },
-      "total_spawns": 1894,
-      "last_spawn": "2026-07-05T21:02:16.499978"
+      "total_spawns": 1898,
+      "last_spawn": "2026-07-05T21:03:00.793227"
     }
   },
   "global": {
-    "total_spawns": 65874,
+    "total_spawns": 65885,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
