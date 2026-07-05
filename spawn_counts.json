@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 5,
-        "Oddish": 8,
+        "Oddish": 9,
         "Totodile": 3,
         "Vanillite": 18,
         "Weedle": 8,
@@ -32,7 +32,7 @@
         "Pidgey": 9,
         "Binacle": 3,
         "Bounsweet": 12,
-        "Fletchling": 5,
+        "Fletchling": 6,
         "Whirlipede": 3,
         "Duskull": 14,
         "Abra": 13,
@@ -295,7 +295,7 @@
         "Dartrix": 2,
         "Ceruledge": 1,
         "Vanillish": 2,
-        "Gimmighoul": 6,
+        "Gimmighoul": 7,
         "Glimmet": 8,
         "Popplio": 3,
         "Arboliva": 1,
@@ -595,7 +595,7 @@
         "Quilava": 1,
         "Wurmple": 4,
         "Sandshrew": 2,
-        "Tauros": 1,
+        "Tauros": 3,
         "Golurk": 1,
         "Grimer": 2,
         "Frosmoth": 2,
@@ -618,8 +618,8 @@
         "Minun": 2,
         "Hangry morpeko": 2
       },
-      "total_spawns": 1852,
-      "last_spawn": "2026-07-05T21:32:03.665855"
+      "total_spawns": 1857,
+      "last_spawn": "2026-07-05T21:32:33.595869"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -769,7 +769,7 @@
         "Lombre": 2,
         "Wurmple": 6,
         "Peakychu": 7,
-        "Bellibolt": 2,
+        "Bellibolt": 3,
         "Quilladin": 3,
         "Vulpix": 7,
         "Sizzlipede": 7,
@@ -1029,7 +1029,7 @@
         "Sinistea": 2,
         "Shinx": 5,
         "Totodile": 1,
-        "Magikarp": 2,
+        "Magikarp": 3,
         "Pumpkaboo": 2,
         "Banette": 1,
         "Tympole": 6,
@@ -1205,7 +1205,7 @@
         "Ampharos": 1,
         "Falinks": 1,
         "Phanpy": 1,
-        "Blastoise": 1,
+        "Blastoise": 2,
         "Castform": 1,
         "Palossand": 1,
         "Clamperl": 1,
@@ -1233,12 +1233,12 @@
         "Leafeon": 1,
         "Natu": 1
       },
-      "total_spawns": 2066,
-      "last_spawn": "2026-07-05T21:32:04.695582"
+      "total_spawns": 2069,
+      "last_spawn": "2026-07-05T21:32:34.930336"
     }
   },
   "global": {
-    "total_spawns": 66457,
+    "total_spawns": 66465,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
