@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 4,
         "Mienshao": 2,
-        "Blipbug": 14,
+        "Blipbug": 16,
         "Rellor": 4,
         "Rolycoly": 8,
         "Poliwhirl": 4,
@@ -289,7 +289,7 @@
         "Quilladin": 1,
         "Infernape": 3,
         "Noibat": 4,
-        "Gothorita": 3,
+        "Gothorita": 4,
         "Ekans": 2,
         "Brambleghast": 1,
         "Dartrix": 2,
@@ -519,7 +519,7 @@
         "Foongus": 2,
         "Krookodile": 1,
         "Espathra": 2,
-        "Snom": 1,
+        "Snom": 2,
         "Nickit": 1,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -644,8 +644,8 @@
         "Amped toxtricity": 2,
         "Scizor": 2
       },
-      "total_spawns": 2106,
-      "last_spawn": "2026-07-05T21:58:03.632399"
+      "total_spawns": 2110,
+      "last_spawn": "2026-07-05T21:58:33.696084"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -737,7 +737,7 @@
         "Nacli": 18,
         "Feebas": 2,
         "Weedle": 10,
-        "Ralts": 13,
+        "Ralts": 14,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 12,
@@ -1023,7 +1023,7 @@
         "Heliolisk": 1,
         "Doublade": 1,
         "Electivire": 2,
-        "Droopy tatsugiri": 4,
+        "Droopy tatsugiri": 5,
         "Blitzle": 3,
         "Politoed": 2,
         "Nickit": 1,
@@ -1136,7 +1136,7 @@
         "Hariyama": 1,
         "Archen": 3,
         "Mabosstiff": 2,
-        "Skuntank": 2,
+        "Skuntank": 3,
         "Glastrier": 1,
         "Crabrawler": 2,
         "Onix": 1,
@@ -1275,12 +1275,12 @@
         "Petilil": 1,
         "Gloom": 1
       },
-      "total_spawns": 2220,
-      "last_spawn": "2026-07-05T21:58:04.301369"
+      "total_spawns": 2223,
+      "last_spawn": "2026-07-05T21:58:34.407602"
     }
   },
   "global": {
-    "total_spawns": 66865,
+    "total_spawns": 66872,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
