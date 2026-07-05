@@ -1214,7 +1214,7 @@
         "Hatenna": 2,
         "Shroomish": 1,
         "Lillipup": 1,
-        "Mosslax": 3,
+        "Mosslax": 4,
         "Maushold": 1,
         "Cubchoo": 1,
         "Koffing": 1,
@@ -1385,14 +1385,16 @@
         "Buneary": 1,
         "Gallade": 1,
         "Tangrowth": 1,
-        "Sizzlipede": 1
+        "Sizzlipede": 1,
+        "Skuntank": 1,
+        "Palafin": 1
       },
-      "total_spawns": 302,
-      "last_spawn": "2026-07-05T03:37:08.211653"
+      "total_spawns": 305,
+      "last_spawn": "2026-07-05T03:37:38.501280"
     }
   },
   "global": {
-    "total_spawns": 62841,
+    "total_spawns": 62844,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
