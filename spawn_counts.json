@@ -403,7 +403,7 @@
         "Rhyhorn": 3,
         "Mareep": 2,
         "Klink": 4,
-        "Nymble": 3,
+        "Nymble": 4,
         "Porygon": 8,
         "Abra": 6,
         "Oddish": 7,
@@ -492,7 +492,7 @@
         "Slakoth": 8,
         "Dreepy": 5,
         "Foongus": 2,
-        "Hoppip": 3,
+        "Hoppip": 4,
         "Blipbug": 7,
         "Swoobat": 1,
         "Greavard": 8,
@@ -623,7 +623,7 @@
         "Bagon": 1,
         "Vanilluxe": 1,
         "Woobat": 2,
-        "Goomy": 4,
+        "Goomy": 5,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 4,
@@ -790,12 +790,12 @@
         "Rockruff": 1,
         "Stunfisk": 1
       },
-      "total_spawns": 858,
-      "last_spawn": "2026-07-05T17:06:45.073343"
+      "total_spawns": 861,
+      "last_spawn": "2026-07-05T17:07:19.331315"
     }
   },
   "global": {
-    "total_spawns": 64042,
+    "total_spawns": 64045,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
