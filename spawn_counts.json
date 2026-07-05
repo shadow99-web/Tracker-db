@@ -513,12 +513,12 @@
         "Duskull": 3,
         "Marill": 2,
         "Axew": 2,
-        "Tinkatink": 2,
+        "Tinkatink": 3,
         "Starly": 3,
         "Popplio": 1,
         "Watchog": 1,
         "Bounsweet": 6,
-        "Flamigo": 2,
+        "Flamigo": 3,
         "Stunky": 1,
         "Spinarak": 1,
         "Gligar": 1,
@@ -674,14 +674,16 @@
         "Bidoof": 1,
         "Frillish": 1,
         "Toedscool": 1,
-        "Espathra": 1
+        "Espathra": 1,
+        "Klang": 1,
+        "Vespiquen": 1
       },
-      "total_spawns": 462,
-      "last_spawn": "2026-07-05T15:59:24.768747"
+      "total_spawns": 466,
+      "last_spawn": "2026-07-05T16:00:04.544176"
     }
   },
   "global": {
-    "total_spawns": 63644,
+    "total_spawns": 63648,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
