@@ -1168,7 +1168,7 @@
         "Braixen": 2,
         "Oddish": 3,
         "Totodile": 2,
-        "Vanillite": 4,
+        "Vanillite": 6,
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 4,
@@ -1433,7 +1433,7 @@
         "Ledyba": 1,
         "Chinchou": 1,
         "Eiscue": 1,
-        "Nacli": 3,
+        "Nacli": 4,
         "Pancham": 1,
         "Bulbasaur": 3,
         "Dewpider": 1,
@@ -1508,14 +1508,18 @@
         "Bergmite": 1,
         "Klang": 1,
         "Tepig": 1,
-        "Spinda": 1
+        "Spinda": 1,
+        "Phantump": 1,
+        "Barboach": 1,
+        "Nosepass": 1,
+        "Electrike": 1
       },
-      "total_spawns": 556,
-      "last_spawn": "2026-07-05T04:23:53.918438"
+      "total_spawns": 563,
+      "last_spawn": "2026-07-05T04:24:28.148395"
     }
   },
   "global": {
-    "total_spawns": 63095,
+    "total_spawns": 63102,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
