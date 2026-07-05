@@ -116,7 +116,7 @@
         "Swinub": 7,
         "Rattata": 3,
         "Stonjourner": 1,
-        "Veluza": 2,
+        "Veluza": 4,
         "Panpour": 2,
         "Crabrawler": 3,
         "Frogadier": 1,
@@ -289,7 +289,7 @@
         "Quilladin": 1,
         "Infernape": 1,
         "Noibat": 3,
-        "Gothorita": 2,
+        "Gothorita": 3,
         "Ekans": 1,
         "Brambleghast": 1,
         "Dartrix": 1,
@@ -383,7 +383,7 @@
         "Klink": 1,
         "Mesprit": 1,
         "Azelf": 1,
-        "Clodsire": 1,
+        "Clodsire": 2,
         "Charizard": 2,
         "Axew": 3,
         "Joltik": 1,
@@ -458,10 +458,12 @@
         "Excadrill": 2,
         "Buizel": 1,
         "Pansear": 1,
-        "Yanma": 1
+        "Yanma": 1,
+        "Galarian moltres": 1,
+        "Seismitoad": 1
       },
-      "total_spawns": 958,
-      "last_spawn": "2026-07-05T20:05:58.456503"
+      "total_spawns": 964,
+      "last_spawn": "2026-07-05T20:06:38.272115"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -501,7 +503,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 3,
-        "Timburr": 4,
+        "Timburr": 5,
         "Pidgey": 5,
         "Gimmighoul": 6,
         "Cetoddle": 12,
@@ -617,7 +619,7 @@
         "Sizzlipede": 3,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 6,
+        "Tynamo": 7,
         "Quaquaval": 4,
         "Rapidash": 1,
         "Maschiff": 8,
@@ -683,7 +685,7 @@
         "Komala": 1,
         "Stoutland": 1,
         "Tirtouga": 4,
-        "Swablu": 4,
+        "Swablu": 5,
         "Tepig": 2,
         "Barbaracle": 4,
         "Noivern": 2,
@@ -766,7 +768,7 @@
         "Pikachu": 2,
         "Yungoos": 2,
         "Luxio": 1,
-        "Frigibax": 7,
+        "Frigibax": 8,
         "Krokorok": 2,
         "Snorunt": 2,
         "Meganium": 1,
@@ -864,7 +866,7 @@
         "Stunfisk": 2,
         "Spinda": 1,
         "Beautifly": 2,
-        "Fletchling": 5,
+        "Fletchling": 6,
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
@@ -985,12 +987,12 @@
         "Dottler": 1,
         "Mr. mime": 1
       },
-      "total_spawns": 1415,
-      "last_spawn": "2026-07-05T20:06:07.395106"
+      "total_spawns": 1420,
+      "last_spawn": "2026-07-05T20:06:34.715203"
     }
   },
   "global": {
-    "total_spawns": 64912,
+    "total_spawns": 64923,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
