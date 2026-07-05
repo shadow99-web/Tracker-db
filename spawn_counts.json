@@ -1241,7 +1241,7 @@
         "Marshtomp": 1,
         "Squirtle": 1,
         "Shinx": 2,
-        "Drakloak": 1,
+        "Drakloak": 2,
         "Victini": 1,
         "Pawmi": 1,
         "Sandile": 1,
@@ -1280,7 +1280,7 @@
         "White plumage squawkabilly": 1,
         "Flaaffy": 1,
         "Rookidee": 2,
-        "Flapple": 1,
+        "Flapple": 2,
         "Bronzor": 1,
         "Swirlix": 2,
         "Varoom": 2,
@@ -1342,12 +1342,12 @@
         "Sprigatito": 1,
         "Charcadet": 1
       },
-      "total_spawns": 231,
-      "last_spawn": "2026-07-05T01:52:48.352385"
+      "total_spawns": 233,
+      "last_spawn": "2026-07-05T01:53:28.174286"
     }
   },
   "global": {
-    "total_spawns": 62770,
+    "total_spawns": 62772,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
