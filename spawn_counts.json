@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 14,
+        "Frigibax": 15,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 2,
@@ -662,16 +662,17 @@
         "Gabite": 2,
         "Tapu fini": 2,
         "Gyarados": 2,
-        "Lapras": 1
+        "Lapras": 2,
+        "Grimmsnarl": 2
       },
-      "total_spawns": 2276,
-      "last_spawn": "2026-07-05T22:24:04.012958"
+      "total_spawns": 2280,
+      "last_spawn": "2026-07-05T22:24:33.706109"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 16,
-        "Caterpie": 4,
+        "Caterpie": 5,
         "Flaaffy": 4,
         "Bronzor": 2,
         "Gible": 7,
@@ -749,7 +750,7 @@
         "Hatenna": 12,
         "Drifloon": 3,
         "Togepi": 9,
-        "Snivy": 2,
+        "Snivy": 3,
         "Bellsprout": 9,
         "Scorbunny": 2,
         "Roggenrola": 15,
@@ -852,7 +853,7 @@
         "Gorebyss": 1,
         "Quaxwell": 2,
         "Croconaw": 6,
-        "Smoliv": 8,
+        "Smoliv": 9,
         "Lechonk": 8,
         "Clodsire": 5,
         "Sandaconda": 1,
@@ -1252,7 +1253,7 @@
         "Falinks": 1,
         "Phanpy": 1,
         "Blastoise": 2,
-        "Castform": 1,
+        "Castform": 2,
         "Palossand": 2,
         "Clamperl": 2,
         "Cramorant": 1,
@@ -1311,12 +1312,12 @@
         "Bulbasaur": 1,
         "Stantler": 1
       },
-      "total_spawns": 2373,
-      "last_spawn": "2026-07-05T22:23:54.495780"
+      "total_spawns": 2377,
+      "last_spawn": "2026-07-05T22:24:34.700332"
     }
   },
   "global": {
-    "total_spawns": 67188,
+    "total_spawns": 67196,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
