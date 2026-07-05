@@ -772,7 +772,7 @@
         "Teddiursa": 15,
         "Dratini": 6,
         "Sewaddle": 9,
-        "Mantyke": 2,
+        "Mantyke": 3,
         "Slakoth": 13,
         "Dreepy": 12,
         "Foongus": 4,
@@ -899,7 +899,7 @@
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 6,
-        "Grubbin": 15,
+        "Grubbin": 16,
         "Dustox": 2,
         "Chespin": 7,
         "Armarouge": 4,
@@ -1032,7 +1032,7 @@
         "Sunkern": 4,
         "Wugtrio": 4,
         "Applin": 4,
-        "Venipede": 12,
+        "Venipede": 13,
         "Toedscruel": 1,
         "Dewpider": 5,
         "Pansear": 6,
@@ -1346,14 +1346,15 @@
         "Sudowoodo": 1,
         "Meowstic": 1,
         "Torterra": 1,
-        "Charizard": 1
+        "Charizard": 1,
+        "Magby": 1
       },
-      "total_spawns": 2589,
-      "last_spawn": "2026-07-05T23:00:24.702166"
+      "total_spawns": 2593,
+      "last_spawn": "2026-07-05T23:01:04.372514"
     }
   },
   "global": {
-    "total_spawns": 67490,
+    "total_spawns": 67494,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
