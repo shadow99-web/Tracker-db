@@ -471,7 +471,7 @@
         "Oddish": 8,
         "Dedenne": 2,
         "Gothita": 5,
-        "Finizen": 7,
+        "Finizen": 8,
         "Machop": 7,
         "Psyduck": 4,
         "Monferno": 1,
@@ -577,7 +577,7 @@
         "Marill": 5,
         "Axew": 3,
         "Tinkatink": 4,
-        "Starly": 9,
+        "Starly": 10,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 14,
@@ -592,7 +592,7 @@
         "Litleo": 1,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 5,
+        "Dondozo": 6,
         "Lairon": 2,
         "Zubat": 9,
         "Croagunk": 3,
@@ -666,7 +666,7 @@
         "Vikavolt": 2,
         "Ledian": 2,
         "Pineco": 3,
-        "Vanillite": 7,
+        "Vanillite": 8,
         "Omanyte": 4,
         "Scraggy": 2,
         "Komala": 1,
@@ -748,7 +748,7 @@
         "Tyrogue": 1,
         "Minior": 1,
         "Veluza": 3,
-        "Salandit": 4,
+        "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
         "Poliwag": 3,
         "Passimian": 1,
@@ -815,7 +815,7 @@
         "Dewpider": 1,
         "Pansear": 4,
         "Togetic": 3,
-        "Houndstone": 3,
+        "Houndstone": 4,
         "Ponyta": 1,
         "Drifblim": 1,
         "Arcanine": 1,
@@ -891,7 +891,7 @@
         "White plumage squawkabilly": 1,
         "Koffing": 1,
         "Rhyperior": 1,
-        "Spritzee": 1,
+        "Spritzee": 2,
         "Hawlucha": 1,
         "Paras": 1,
         "Crobat": 1,
@@ -952,12 +952,12 @@
         "Cinccino": 1,
         "Aggron": 1
       },
-      "total_spawns": 1326,
-      "last_spawn": "2026-07-05T19:58:37.294825"
+      "total_spawns": 1333,
+      "last_spawn": "2026-07-05T19:59:14.495629"
     }
   },
   "global": {
-    "total_spawns": 64766,
+    "total_spawns": 64773,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
