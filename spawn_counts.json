@@ -1226,7 +1226,7 @@
         "Vulpix": 1,
         "Gastly": 3,
         "Aron": 2,
-        "Honedge": 1,
+        "Honedge": 2,
         "Houndour": 1,
         "Machop": 4,
         "Terapagos": 1,
@@ -1429,14 +1429,15 @@
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 1,
-        "Kricketot": 1
+        "Kricketot": 1,
+        "Ledyba": 1
       },
-      "total_spawns": 378,
-      "last_spawn": "2026-07-05T03:50:03.208331"
+      "total_spawns": 380,
+      "last_spawn": "2026-07-05T03:50:42.986686"
     }
   },
   "global": {
-    "total_spawns": 62917,
+    "total_spawns": 62919,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
