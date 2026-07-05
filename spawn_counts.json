@@ -19,7 +19,7 @@
         "Fidough": 6,
         "Charjabug": 2,
         "Hatterene": 1,
-        "Rowlet": 2,
+        "Rowlet": 3,
         "Anorith": 3,
         "Arctibax": 1,
         "Ralts": 8,
@@ -34,7 +34,7 @@
         "Bounsweet": 12,
         "Fletchling": 6,
         "Whirlipede": 3,
-        "Duskull": 14,
+        "Duskull": 15,
         "Abra": 13,
         "Wiglett": 7,
         "Starly": 18,
@@ -260,7 +260,7 @@
         "Taillow": 3,
         "Watchog": 3,
         "Porygon": 8,
-        "Wooloo": 2,
+        "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
         "Lickitung": 2,
@@ -357,7 +357,7 @@
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 2,
-        "Hoppip": 10,
+        "Hoppip": 11,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 5,
@@ -497,7 +497,7 @@
         "Yellow flower florges": 1,
         "Drilbur": 1,
         "Leavanny": 1,
-        "Magikarp": 3,
+        "Magikarp": 4,
         "Gardevoir": 4,
         "Kubfu": 1,
         "Tyrogue": 2,
@@ -623,8 +623,8 @@
         "Dhelmise": 1,
         "Armaldo": 2
       },
-      "total_spawns": 1906,
-      "last_spawn": "2026-07-05T21:38:25.095700"
+      "total_spawns": 1911,
+      "last_spawn": "2026-07-05T21:39:03.548813"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -684,7 +684,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 14,
+        "Gastly": 15,
         "Orthworm": 10,
         "Glimmet": 8,
         "Beldum": 2,
@@ -1031,7 +1031,7 @@
         "Haunter": 2,
         "Sandshrew": 4,
         "Fletchinder": 3,
-        "Sinistea": 2,
+        "Sinistea": 3,
         "Shinx": 5,
         "Totodile": 1,
         "Magikarp": 3,
@@ -1133,7 +1133,7 @@
         "Vileplume": 1,
         "Gurdurr": 1,
         "Mamoswine": 1,
-        "Inteleon": 1,
+        "Inteleon": 2,
         "Grookey": 1,
         "Zorua": 1,
         "Kecleon": 1,
@@ -1243,12 +1243,12 @@
         "Poochyena": 1,
         "White flower floette": 1
       },
-      "total_spawns": 2104,
-      "last_spawn": "2026-07-05T21:38:24.394816"
+      "total_spawns": 2107,
+      "last_spawn": "2026-07-05T21:38:54.396192"
     }
   },
   "global": {
-    "total_spawns": 66549,
+    "total_spawns": 66557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
