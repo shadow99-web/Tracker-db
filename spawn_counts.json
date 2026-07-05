@@ -35,7 +35,7 @@
         "Fletchling": 5,
         "Whirlipede": 3,
         "Duskull": 14,
-        "Abra": 11,
+        "Abra": 12,
         "Wiglett": 7,
         "Starly": 16,
         "Caterpie": 5,
@@ -146,7 +146,7 @@
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 1,
-        "Fomantis": 3,
+        "Fomantis": 4,
         "Claydol": 1,
         "Trapinch": 4,
         "Butterfree": 3,
@@ -206,7 +206,7 @@
         "Fraxure": 1,
         "Zubat": 10,
         "Drowzee": 3,
-        "Lechonk": 8,
+        "Lechonk": 9,
         "Woobat": 2,
         "Skrelp": 4,
         "Lileep": 2,
@@ -613,14 +613,14 @@
         "Zweilous": 1,
         "Azurill": 1
       },
-      "total_spawns": 1793,
-      "last_spawn": "2026-07-05T21:24:43.797101"
+      "total_spawns": 1796,
+      "last_spawn": "2026-07-05T21:25:14.186434"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Tandemaus": 14,
-        "Caterpie": 3,
+        "Caterpie": 4,
         "Flaaffy": 4,
         "Bronzor": 2,
         "Gible": 7,
@@ -756,7 +756,7 @@
         "Litleo": 3,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 8,
+        "Dondozo": 9,
         "Lairon": 4,
         "Zubat": 14,
         "Croagunk": 3,
@@ -793,7 +793,7 @@
         "Venonat": 4,
         "Aipom": 1,
         "Rellor": 7,
-        "Hippopotas": 3,
+        "Hippopotas": 4,
         "Chikorita": 5,
         "Litwick": 13,
         "Metapod": 1,
@@ -1223,12 +1223,12 @@
         "Numel": 1,
         "Noctowl": 1
       },
-      "total_spawns": 2022,
-      "last_spawn": "2026-07-05T21:24:34.504706"
+      "total_spawns": 2025,
+      "last_spawn": "2026-07-05T21:25:04.526309"
     }
   },
   "global": {
-    "total_spawns": 66354,
+    "total_spawns": 66360,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
