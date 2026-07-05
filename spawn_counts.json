@@ -387,7 +387,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Tandemaus": 1,
+        "Tandemaus": 2,
         "Caterpie": 1,
         "Flaaffy": 2,
         "Bronzor": 1,
@@ -463,7 +463,7 @@
         "Slowpoke": 1,
         "Seedot": 2,
         "Trapinch": 1,
-        "Hatenna": 1,
+        "Hatenna": 2,
         "Drifloon": 1,
         "Togepi": 1,
         "Snivy": 1,
@@ -537,14 +537,15 @@
         "Vulpix": 1,
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
-        "Swadloon": 1
+        "Swadloon": 1,
+        "Tynamo": 1
       },
-      "total_spawns": 180,
-      "last_spawn": "2026-07-05T15:11:24.575359"
+      "total_spawns": 183,
+      "last_spawn": "2026-07-05T15:12:04.432002"
     }
   },
   "global": {
-    "total_spawns": 63352,
+    "total_spawns": 63355,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
