@@ -403,7 +403,7 @@
         "Mareep": 1,
         "Klink": 2,
         "Nymble": 3,
-        "Porygon": 1,
+        "Porygon": 2,
         "Abra": 2,
         "Oddish": 5,
         "Dedenne": 1,
@@ -626,7 +626,7 @@
         "Orbeetle": 1,
         "Shellder": 2,
         "Pawmi": 1,
-        "Spoink": 1,
+        "Spoink": 2,
         "Lileep": 1,
         "Crocalor": 1,
         "Cranidos": 1,
@@ -650,14 +650,15 @@
         "Nosepass": 1,
         "Scovillain": 1,
         "Sliggoo": 1,
-        "Silcoon": 1
+        "Silcoon": 1,
+        "Tadbulb": 1
       },
-      "total_spawns": 398,
-      "last_spawn": "2026-07-05T15:48:24.588182"
+      "total_spawns": 401,
+      "last_spawn": "2026-07-05T15:48:54.695546"
     }
   },
   "global": {
-    "total_spawns": 63580,
+    "total_spawns": 63583,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
