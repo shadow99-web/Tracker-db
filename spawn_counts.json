@@ -485,7 +485,7 @@
         "Eldegoss": 1,
         "Aron": 4,
         "Horsea": 3,
-        "Teddiursa": 1,
+        "Teddiursa": 2,
         "Dratini": 1,
         "Sewaddle": 3,
         "Mantyke": 1,
@@ -682,14 +682,17 @@
         "Remoraid": 1,
         "Diglett": 1,
         "Lotad": 1,
-        "Nincada": 1
+        "Nincada": 1,
+        "Tyrogue": 1,
+        "Minior": 1,
+        "Veluza": 1
       },
-      "total_spawns": 484,
-      "last_spawn": "2026-07-05T16:03:04.547125"
+      "total_spawns": 488,
+      "last_spawn": "2026-07-05T16:03:44.432077"
     }
   },
   "global": {
-    "total_spawns": 63668,
+    "total_spawns": 63672,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
