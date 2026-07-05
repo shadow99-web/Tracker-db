@@ -153,7 +153,7 @@
         "Teddiursa": 11,
         "Roggenrola": 5,
         "Litwick": 2,
-        "Wooper": 1,
+        "Wooper": 2,
         "Pikipek": 8,
         "Spritzee": 1,
         "Stantler": 2,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
-        "Spheal": 3,
+        "Spheal": 4,
         "Amaura": 1,
         "Wailord": 1,
         "Accelgor": 2,
@@ -501,10 +501,11 @@
         "Gardevoir": 2,
         "Kubfu": 1,
         "Tyrogue": 1,
-        "Nuzleaf": 1
+        "Nuzleaf": 1,
+        "Spinarak": 1
       },
-      "total_spawns": 1083,
-      "last_spawn": "2026-07-05T20:17:28.160717"
+      "total_spawns": 1086,
+      "last_spawn": "2026-07-05T20:17:58.459852"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -647,7 +648,7 @@
         "Steelix": 2,
         "Greninja": 1,
         "Dondozo": 8,
-        "Lairon": 2,
+        "Lairon": 3,
         "Zubat": 10,
         "Croagunk": 3,
         "Klawf": 6,
@@ -697,7 +698,7 @@
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 5,
-        "Larvitar": 5,
+        "Larvitar": 6,
         "Munna": 1,
         "Tangela": 4,
         "Espurr": 3,
@@ -743,7 +744,7 @@
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 7,
-        "Spoink": 4,
+        "Spoink": 5,
         "Lileep": 3,
         "Crocalor": 2,
         "Cranidos": 1,
@@ -790,14 +791,14 @@
         "Sprigatito": 2,
         "Bidoof": 2,
         "Frillish": 2,
-        "Toedscool": 4,
+        "Toedscool": 5,
         "Espathra": 1,
         "Klang": 2,
         "Vespiquen": 4,
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
-        "Lotad": 4,
+        "Lotad": 5,
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
@@ -1034,7 +1035,7 @@
         "Quilava": 1,
         "Drowzee": 1,
         "Nidorino": 1,
-        "Sobble": 1,
+        "Sobble": 2,
         "Vigoroth": 2,
         "Finneon": 1,
         "Debutante trim furfrou": 1,
@@ -1052,12 +1053,12 @@
         "Cleffa": 1,
         "Brambleghast": 1
       },
-      "total_spawns": 1545,
-      "last_spawn": "2026-07-05T20:17:27.102104"
+      "total_spawns": 1551,
+      "last_spawn": "2026-07-05T20:17:57.121570"
     }
   },
   "global": {
-    "total_spawns": 65167,
+    "total_spawns": 65176,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
