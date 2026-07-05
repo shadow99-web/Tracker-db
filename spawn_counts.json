@@ -443,7 +443,7 @@
         "Binacle": 1,
         "Kilowattrel": 2,
         "Skiploom": 2,
-        "Voltorb": 2,
+        "Voltorb": 3,
         "Geodude": 3,
         "Treecko": 1,
         "Grimer": 1,
@@ -480,7 +480,7 @@
         "Nacli": 6,
         "Feebas": 1,
         "Weedle": 4,
-        "Ralts": 4,
+        "Ralts": 5,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 4,
@@ -544,7 +544,7 @@
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 2,
+        "Tynamo": 3,
         "Quaquaval": 2,
         "Rapidash": 1,
         "Maschiff": 3,
@@ -760,12 +760,12 @@
         "Lickitung": 1,
         "Pyroar": 1
       },
-      "total_spawns": 726,
-      "last_spawn": "2026-07-05T16:44:34.313586"
+      "total_spawns": 729,
+      "last_spawn": "2026-07-05T16:45:04.400081"
     }
   },
   "global": {
-    "total_spawns": 63910,
+    "total_spawns": 63913,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
