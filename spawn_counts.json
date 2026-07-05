@@ -332,7 +332,7 @@
         "Raboot": 1,
         "Oinkologne": 1,
         "Floragato": 1,
-        "Larvesta": 1,
+        "Larvesta": 3,
         "Magby": 1,
         "Roaming gimmighoul": 1,
         "Volcarona": 1,
@@ -448,10 +448,12 @@
         "Battle cyclizar": 1,
         "Minccino": 2,
         "Hippowdon": 2,
-        "Gloom": 1
+        "Gloom": 1,
+        "Mew": 2,
+        "Thwackey": 1
       },
-      "total_spawns": 910,
-      "last_spawn": "2026-07-05T20:00:53.997770"
+      "total_spawns": 915,
+      "last_spawn": "2026-07-05T20:01:18.232357"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -590,14 +592,14 @@
         "Dracovish": 1,
         "Deino": 5,
         "Honedge": 5,
-        "Litleo": 1,
+        "Litleo": 2,
         "Steelix": 2,
         "Greninja": 1,
         "Dondozo": 6,
         "Lairon": 2,
         "Zubat": 9,
         "Croagunk": 3,
-        "Klawf": 4,
+        "Klawf": 5,
         "Lombre": 2,
         "Wurmple": 5,
         "Peakychu": 6,
@@ -955,14 +957,19 @@
         "Silicobra": 1,
         "Houndoom": 1,
         "Shieldon": 1,
-        "Panpour": 1
+        "Panpour": 1,
+        "Yanma": 1,
+        "Vileplume": 1,
+        "Gurdurr": 1,
+        "Mamoswine": 1,
+        "Inteleon": 1
       },
-      "total_spawns": 1352,
-      "last_spawn": "2026-07-05T20:00:47.043867"
+      "total_spawns": 1359,
+      "last_spawn": "2026-07-05T20:01:24.496937"
     }
   },
   "global": {
-    "total_spawns": 64801,
+    "total_spawns": 64813,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
