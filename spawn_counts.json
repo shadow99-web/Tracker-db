@@ -423,7 +423,7 @@
         "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 7,
+        "Whismur": 8,
         "Jangmo-o": 4,
         "Samurott": 1,
         "Kleavor": 1,
@@ -476,7 +476,7 @@
         "Bellsprout": 2,
         "Scorbunny": 2,
         "Roggenrola": 2,
-        "Wattrel": 3,
+        "Wattrel": 4,
         "Nacli": 1,
         "Feebas": 1,
         "Weedle": 3,
@@ -632,7 +632,7 @@
         "Crocalor": 1,
         "Cranidos": 1,
         "Cherrim": 1,
-        "Raboot": 2,
+        "Raboot": 3,
         "Summer deerling": 2,
         "Skrelp": 1,
         "Spewpa": 1,
@@ -700,14 +700,15 @@
         "Chimchar": 1,
         "Mewtwo": 1,
         "Pachirisu": 1,
-        "Ursaring": 1
+        "Ursaring": 1,
+        "Zweilous": 1
       },
-      "total_spawns": 525,
-      "last_spawn": "2026-07-05T16:10:04.603103"
+      "total_spawns": 529,
+      "last_spawn": "2026-07-05T16:10:44.498412"
     }
   },
   "global": {
-    "total_spawns": 63709,
+    "total_spawns": 63713,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
