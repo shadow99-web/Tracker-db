@@ -510,7 +510,7 @@
         "Bombirdier": 2,
         "Wooloo": 2,
         "Togekiss": 1,
-        "Rolycoly": 5,
+        "Rolycoly": 6,
         "Duskull": 3,
         "Marill": 3,
         "Axew": 2,
@@ -625,7 +625,7 @@
         "Woobat": 1,
         "Goomy": 2,
         "Orbeetle": 1,
-        "Shellder": 3,
+        "Shellder": 4,
         "Pawmi": 2,
         "Spoink": 3,
         "Lileep": 1,
@@ -741,14 +741,15 @@
         "Flygon": 1,
         "Cyclizar": 1,
         "Murkrow": 1,
-        "Drednaw": 1
+        "Drednaw": 1,
+        "Cyndaquil": 1
       },
-      "total_spawns": 658,
-      "last_spawn": "2026-07-05T16:33:04.613067"
+      "total_spawns": 661,
+      "last_spawn": "2026-07-05T16:33:35.210779"
     }
   },
   "global": {
-    "total_spawns": 63842,
+    "total_spawns": 63845,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
