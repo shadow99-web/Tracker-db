@@ -496,7 +496,7 @@
         "Blipbug": 2,
         "Swoobat": 1,
         "Greavard": 5,
-        "Mosslax": 3,
+        "Mosslax": 4,
         "Braixen": 1,
         "Skwovet": 1,
         "Magnemite": 1,
@@ -666,7 +666,7 @@
         "Tatsugiri": 1,
         "Oranguru": 1,
         "Kricketot": 1,
-        "Golurk": 1,
+        "Golurk": 2,
         "Carracosta": 1,
         "Fennekin": 1,
         "Fuecoco": 1,
@@ -680,14 +680,15 @@
         "Vespiquen": 1,
         "Amaura": 1,
         "Remoraid": 1,
-        "Diglett": 1
+        "Diglett": 1,
+        "Lotad": 1
       },
-      "total_spawns": 477,
-      "last_spawn": "2026-07-05T16:01:54.620866"
+      "total_spawns": 480,
+      "last_spawn": "2026-07-05T16:02:25.177883"
     }
   },
   "global": {
-    "total_spawns": 63661,
+    "total_spawns": 63664,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
