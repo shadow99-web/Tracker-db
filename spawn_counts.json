@@ -429,7 +429,7 @@
         "Karrablast": 2,
         "Timburr": 2,
         "Pidgey": 3,
-        "Gimmighoul": 3,
+        "Gimmighoul": 4,
         "Cetoddle": 2,
         "Fidough": 3,
         "Smearguru": 1,
@@ -482,7 +482,7 @@
         "Ralts": 3,
         "Kangaskhan": 1,
         "Eldegoss": 1,
-        "Aron": 3,
+        "Aron": 4,
         "Horsea": 3,
         "Teddiursa": 1,
         "Dratini": 1,
@@ -672,14 +672,16 @@
         "Sandy wormadam": 1,
         "Sprigatito": 1,
         "Bidoof": 1,
-        "Frillish": 1
+        "Frillish": 1,
+        "Toedscool": 1,
+        "Espathra": 1
       },
-      "total_spawns": 458,
-      "last_spawn": "2026-07-05T15:58:44.606516"
+      "total_spawns": 462,
+      "last_spawn": "2026-07-05T15:59:24.768747"
     }
   },
   "global": {
-    "total_spawns": 63640,
+    "total_spawns": 63644,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
