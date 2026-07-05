@@ -392,14 +392,18 @@
         "Oddish": 1,
         "Dedenne": 1,
         "Gothita": 1,
-        "Finizen": 2
+        "Finizen": 2,
+        "Machop": 1,
+        "Psyduck": 1,
+        "Monferno": 1,
+        "Pikipek": 1
       },
-      "total_spawns": 19,
-      "last_spawn": "2026-07-05T14:09:24.795999"
+      "total_spawns": 23,
+      "last_spawn": "2026-07-05T14:10:04.598493"
     }
   },
   "global": {
-    "total_spawns": 63161,
+    "total_spawns": 63165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
