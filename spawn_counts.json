@@ -1361,14 +1361,17 @@
         "Unfezant": 1,
         "Fraxure": 1,
         "Zubat": 1,
-        "Drowzee": 1
+        "Drowzee": 1,
+        "Lechonk": 1,
+        "Woobat": 1,
+        "Skrelp": 1
       },
-      "total_spawns": 270,
-      "last_spawn": "2026-07-05T03:31:48.452484"
+      "total_spawns": 273,
+      "last_spawn": "2026-07-05T03:32:18.751529"
     }
   },
   "global": {
-    "total_spawns": 62809,
+    "total_spawns": 62812,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
