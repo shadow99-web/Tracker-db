@@ -568,7 +568,7 @@
         "Aipom": 1,
         "Rellor": 3,
         "Hippopotas": 1,
-        "Chikorita": 2,
+        "Chikorita": 3,
         "Litwick": 5,
         "Metapod": 1,
         "Morgrem": 1,
@@ -628,7 +628,7 @@
         "Shellder": 4,
         "Pawmi": 4,
         "Spoink": 4,
-        "Lileep": 1,
+        "Lileep": 2,
         "Crocalor": 1,
         "Cranidos": 1,
         "Cherrim": 1,
@@ -803,14 +803,15 @@
         "Banette": 1,
         "Tympole": 1,
         "Bunnelby": 1,
-        "Vanillish": 1
+        "Vanillish": 1,
+        "Arrokuda": 1
       },
-      "total_spawns": 911,
-      "last_spawn": "2026-07-05T17:15:44.608332"
+      "total_spawns": 914,
+      "last_spawn": "2026-07-05T17:16:14.674527"
     }
   },
   "global": {
-    "total_spawns": 64095,
+    "total_spawns": 64098,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
