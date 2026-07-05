@@ -720,7 +720,7 @@
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 4,
-        "Bramblin": 14,
+        "Bramblin": 15,
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
         "Binacle": 5,
@@ -926,7 +926,7 @@
         "Buneary": 8,
         "Skiddo": 5,
         "Zigzagoon": 4,
-        "Dj rotom": 9,
+        "Dj rotom": 10,
         "Anorith": 3,
         "Shiinotic": 1,
         "Snover": 6,
@@ -980,7 +980,7 @@
         "Krokorok": 3,
         "Snorunt": 3,
         "Meganium": 1,
-        "Chimchar": 2,
+        "Chimchar": 3,
         "Mewtwo": 1,
         "Pachirisu": 2,
         "Ursaring": 4,
@@ -1342,12 +1342,12 @@
         "Wigglytuff": 1,
         "Audino": 1
       },
-      "total_spawns": 2525,
-      "last_spawn": "2026-07-05T22:49:34.452092"
+      "total_spawns": 2528,
+      "last_spawn": "2026-07-05T22:50:04.860031"
     }
   },
   "global": {
-    "total_spawns": 67402,
+    "total_spawns": 67405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
