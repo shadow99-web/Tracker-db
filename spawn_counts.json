@@ -401,10 +401,10 @@
         "Torracat": 1,
         "Dusclops": 2,
         "Rhyhorn": 3,
-        "Mareep": 1,
+        "Mareep": 2,
         "Klink": 2,
         "Nymble": 3,
-        "Porygon": 4,
+        "Porygon": 5,
         "Abra": 2,
         "Oddish": 6,
         "Dedenne": 1,
@@ -712,14 +712,15 @@
         "Arctozolt": 1,
         "Spheal": 1,
         "Chinchou": 1,
-        "Magmar": 1
+        "Magmar": 1,
+        "Chef dente": 1
       },
-      "total_spawns": 555,
-      "last_spawn": "2026-07-05T16:15:14.503138"
+      "total_spawns": 558,
+      "last_spawn": "2026-07-05T16:15:44.644323"
     }
   },
   "global": {
-    "total_spawns": 63739,
+    "total_spawns": 63742,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
