@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 7,
         "Grubbin": 8,
-        "Scatterbug": 5,
+        "Scatterbug": 6,
         "Skwovet": 3,
         "Applin": 2,
         "Staryu": 1,
@@ -200,7 +200,7 @@
         "Tarountula": 4,
         "Rhyhorn": 6,
         "Aipom": 2,
-        "Grookey": 1,
+        "Grookey": 2,
         "Inkay": 1,
         "Unfezant": 1,
         "Fraxure": 1,
@@ -239,7 +239,7 @@
         "Whismur": 4,
         "Jangmo-o": 3,
         "Lunatone": 1,
-        "Machoke": 1,
+        "Machoke": 2,
         "Luvdisc": 1,
         "Fennekin": 2,
         "Milcery": 5,
@@ -539,8 +539,8 @@
         "Shuckle": 1,
         "White flower floette": 1
       },
-      "total_spawns": 1286,
-      "last_spawn": "2026-07-05T20:39:53.553781"
+      "total_spawns": 1289,
+      "last_spawn": "2026-07-05T20:40:23.663090"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -621,7 +621,7 @@
         "Slowpoke": 2,
         "Seedot": 11,
         "Trapinch": 10,
-        "Hatenna": 9,
+        "Hatenna": 10,
         "Drifloon": 2,
         "Togepi": 8,
         "Snivy": 2,
@@ -840,7 +840,7 @@
         "Veluza": 8,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 5,
+        "Poliwag": 6,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 3,
@@ -1109,14 +1109,15 @@
         "Phantump": 1,
         "Probopass": 1,
         "Copperajah": 1,
-        "Leavanny": 1
+        "Leavanny": 1,
+        "Yellow flower floette": 1
       },
-      "total_spawns": 1763,
-      "last_spawn": "2026-07-05T20:39:54.404439"
+      "total_spawns": 1766,
+      "last_spawn": "2026-07-05T20:40:24.552744"
     }
   },
   "global": {
-    "total_spawns": 65588,
+    "total_spawns": 65594,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
