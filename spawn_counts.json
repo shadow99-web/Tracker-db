@@ -70,7 +70,7 @@
         "Vulpix": 1,
         "Gastly": 6,
         "Aron": 2,
-        "Honedge": 8,
+        "Honedge": 10,
         "Houndour": 1,
         "Machop": 6,
         "Terapagos": 1,
@@ -176,7 +176,7 @@
         "Poliwhirl": 1,
         "Lokix": 2,
         "Flamigo": 2,
-        "Bellsprout": 7,
+        "Bellsprout": 8,
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 2,
@@ -394,10 +394,11 @@
         "Houndoom": 1,
         "Meganium": 2,
         "Rainy castform": 1,
-        "Rabsca": 1
+        "Rabsca": 1,
+        "Misdreavus": 1
       },
-      "total_spawns": 688,
-      "last_spawn": "2026-07-05T19:16:03.765811"
+      "total_spawns": 692,
+      "last_spawn": "2026-07-05T19:16:33.804327"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -897,7 +898,7 @@
     }
   },
   "global": {
-    "total_spawns": 64519,
+    "total_spawns": 64523,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
