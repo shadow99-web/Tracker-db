@@ -458,7 +458,7 @@
         "Charcadet": 2,
         "Sandile": 3,
         "Maushold": 1,
-        "Rattata": 3,
+        "Rattata": 4,
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
@@ -568,14 +568,17 @@
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
-        "Quaxwell": 1
+        "Quaxwell": 1,
+        "Croconaw": 1,
+        "Smoliv": 1,
+        "Lechonk": 1
       },
-      "total_spawns": 238,
-      "last_spawn": "2026-07-05T15:21:24.473435"
+      "total_spawns": 242,
+      "last_spawn": "2026-07-05T15:22:04.572856"
     }
   },
   "global": {
-    "total_spawns": 63411,
+    "total_spawns": 63415,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
