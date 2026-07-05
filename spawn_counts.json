@@ -490,7 +490,7 @@
         "Sewaddle": 5,
         "Mantyke": 1,
         "Slakoth": 8,
-        "Dreepy": 5,
+        "Dreepy": 6,
         "Foongus": 2,
         "Hoppip": 5,
         "Blipbug": 7,
@@ -552,7 +552,7 @@
         "Scatterbug": 4,
         "Taillow": 2,
         "Wimpod": 4,
-        "Rookidee": 4,
+        "Rookidee": 5,
         "Shellos": 1,
         "Roaming gimmighoul": 1,
         "Grotle": 1,
@@ -569,7 +569,7 @@
         "Rellor": 3,
         "Hippopotas": 1,
         "Chikorita": 2,
-        "Litwick": 4,
+        "Litwick": 5,
         "Metapod": 1,
         "Morgrem": 1,
         "Gorebyss": 1,
@@ -803,12 +803,12 @@
         "Banette": 1,
         "Tympole": 1
       },
-      "total_spawns": 905,
-      "last_spawn": "2026-07-05T17:14:44.499410"
+      "total_spawns": 908,
+      "last_spawn": "2026-07-05T17:15:14.518054"
     }
   },
   "global": {
-    "total_spawns": 64089,
+    "total_spawns": 64092,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
