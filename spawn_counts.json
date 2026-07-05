@@ -403,7 +403,7 @@
         "Mareep": 1,
         "Klink": 2,
         "Nymble": 3,
-        "Porygon": 2,
+        "Porygon": 3,
         "Abra": 2,
         "Oddish": 5,
         "Dedenne": 1,
@@ -443,7 +443,7 @@
         "Kilowattrel": 2,
         "Skiploom": 1,
         "Voltorb": 1,
-        "Geodude": 1,
+        "Geodude": 2,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
@@ -614,7 +614,7 @@
         "Barbaracle": 1,
         "Noivern": 1,
         "Clefairy": 1,
-        "Grubbin": 1,
+        "Grubbin": 2,
         "Dustox": 1,
         "Chespin": 1,
         "Armarouge": 1,
@@ -655,14 +655,15 @@
         "Lopunny": 1,
         "Malamar": 1,
         "Pincurchin": 1,
-        "Whirlipede": 1
+        "Whirlipede": 1,
+        "Tinkatuff": 1
       },
-      "total_spawns": 412,
-      "last_spawn": "2026-07-05T15:50:44.672955"
+      "total_spawns": 416,
+      "last_spawn": "2026-07-05T15:51:24.319451"
     }
   },
   "global": {
-    "total_spawns": 63594,
+    "total_spawns": 63598,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
