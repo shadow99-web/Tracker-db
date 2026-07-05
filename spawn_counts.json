@@ -1235,7 +1235,7 @@
         "Salandit": 1,
         "Bruxish": 1,
         "Orbeetle": 1,
-        "Bramblin": 2,
+        "Bramblin": 3,
         "Stufful": 1,
         "Shelgon": 1,
         "Marshtomp": 1,
@@ -1455,14 +1455,16 @@
         "Glimmet": 1,
         "Popplio": 1,
         "Arboliva": 1,
-        "Luxio": 1
+        "Luxio": 1,
+        "Quaxwell": 1,
+        "Swanna": 1
       },
-      "total_spawns": 429,
-      "last_spawn": "2026-07-05T04:02:43.842409"
+      "total_spawns": 432,
+      "last_spawn": "2026-07-05T04:03:14.096518"
     }
   },
   "global": {
-    "total_spawns": 62968,
+    "total_spawns": 62971,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
