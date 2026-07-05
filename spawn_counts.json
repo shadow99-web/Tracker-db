@@ -176,7 +176,7 @@
         "Poliwhirl": 1,
         "Lokix": 1,
         "Flamigo": 1,
-        "Bellsprout": 6,
+        "Bellsprout": 7,
         "Houndstone": 1,
         "Beldum": 1,
         "Kadabra": 2,
@@ -370,8 +370,8 @@
         "Gigalith": 1,
         "Kingambit": 1
       },
-      "total_spawns": 603,
-      "last_spawn": "2026-07-05T14:09:06.015723"
+      "total_spawns": 604,
+      "last_spawn": "2026-07-05T14:11:21.105236"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -402,14 +402,18 @@
         "Eevee": 1,
         "Shroomish": 1,
         "Dachsbun": 1,
-        "Swirlix": 1
+        "Swirlix": 1,
+        "Glimmora": 1,
+        "Meditite": 1,
+        "Pansage": 1,
+        "Whismur": 1
       },
-      "total_spawns": 29,
-      "last_spawn": "2026-07-05T14:11:14.502467"
+      "total_spawns": 33,
+      "last_spawn": "2026-07-05T14:11:54.327150"
     }
   },
   "global": {
-    "total_spawns": 63171,
+    "total_spawns": 63176,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
