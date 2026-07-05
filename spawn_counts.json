@@ -493,7 +493,7 @@
         "Hoppip": 2,
         "Blipbug": 2,
         "Swoobat": 1,
-        "Greavard": 3,
+        "Greavard": 4,
         "Mosslax": 3,
         "Braixen": 1,
         "Skwovet": 1,
@@ -629,14 +629,17 @@
         "Lileep": 1,
         "Crocalor": 1,
         "Cranidos": 1,
-        "Cherrim": 1
+        "Cherrim": 1,
+        "Raboot": 1,
+        "Summer deerling": 1,
+        "Skrelp": 1
       },
-      "total_spawns": 347,
-      "last_spawn": "2026-07-05T15:39:44.598109"
+      "total_spawns": 351,
+      "last_spawn": "2026-07-05T15:40:24.461509"
     }
   },
   "global": {
-    "total_spawns": 63526,
+    "total_spawns": 63530,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
