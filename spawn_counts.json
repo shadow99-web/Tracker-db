@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 4,
         "Wattrel": 4,
-        "Nacli": 5,
+        "Nacli": 6,
         "Feebas": 1,
         "Weedle": 4,
         "Ralts": 4,
@@ -749,14 +749,16 @@
         "Wugtrio": 1,
         "Applin": 1,
         "Venipede": 1,
-        "Toedscruel": 1
+        "Toedscruel": 1,
+        "Dewpider": 1,
+        "Pansear": 1
       },
-      "total_spawns": 694,
-      "last_spawn": "2026-07-05T16:39:04.314141"
+      "total_spawns": 697,
+      "last_spawn": "2026-07-05T16:39:34.419152"
     }
   },
   "global": {
-    "total_spawns": 63878,
+    "total_spawns": 63881,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
