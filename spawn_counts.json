@@ -60,7 +60,7 @@
         "Lillipup": 7,
         "Mosslax": 16,
         "Maushold": 3,
-        "Cubchoo": 9,
+        "Cubchoo": 11,
         "Koffing": 3,
         "Kirlia": 3,
         "Deino": 9,
@@ -157,7 +157,7 @@
         "Pikipek": 14,
         "Spritzee": 1,
         "Stantler": 5,
-        "Impidimp": 14,
+        "Impidimp": 15,
         "Swadloon": 4,
         "Sunny castform": 4,
         "Vullaby": 3,
@@ -671,8 +671,8 @@
         "Obstagoon": 2,
         "Greninja": 1
       },
-      "total_spawns": 2346,
-      "last_spawn": "2026-07-05T22:52:43.500236"
+      "total_spawns": 2349,
+      "last_spawn": "2026-07-05T22:54:43.810004"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -756,7 +756,7 @@
         "Hatenna": 14,
         "Drifloon": 3,
         "Togepi": 9,
-        "Snivy": 3,
+        "Snivy": 4,
         "Bellsprout": 10,
         "Scorbunny": 2,
         "Roggenrola": 16,
@@ -796,7 +796,7 @@
         "Togekiss": 1,
         "Rolycoly": 13,
         "Duskull": 12,
-        "Marill": 5,
+        "Marill": 6,
         "Axew": 7,
         "Tinkatink": 10,
         "Starly": 15,
@@ -806,7 +806,7 @@
         "Flamigo": 12,
         "Stunky": 3,
         "Spinarak": 3,
-        "Gligar": 1,
+        "Gligar": 2,
         "Cubone": 3,
         "Dracovish": 1,
         "Deino": 10,
@@ -1346,12 +1346,12 @@
         "Sudowoodo": 1,
         "Meowstic": 1
       },
-      "total_spawns": 2551,
-      "last_spawn": "2026-07-05T22:54:04.382238"
+      "total_spawns": 2554,
+      "last_spawn": "2026-07-05T22:54:34.361507"
     }
   },
   "global": {
-    "total_spawns": 67436,
+    "total_spawns": 67442,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
