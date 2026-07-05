@@ -427,11 +427,11 @@
         "Jangmo-o": 6,
         "Samurott": 1,
         "Kleavor": 1,
-        "Karrablast": 2,
+        "Karrablast": 3,
         "Timburr": 4,
         "Pidgey": 5,
         "Gimmighoul": 6,
-        "Cetoddle": 8,
+        "Cetoddle": 9,
         "Fidough": 7,
         "Smearguru": 3,
         "Nuzleaf": 2,
@@ -515,7 +515,7 @@
         "Marill": 5,
         "Axew": 3,
         "Tinkatink": 3,
-        "Starly": 7,
+        "Starly": 8,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 13,
@@ -594,7 +594,7 @@
         "Drilbur": 1,
         "Vaporeon": 2,
         "Magneton": 3,
-        "Pupitar": 2,
+        "Pupitar": 3,
         "Durant": 1,
         "Jigglypuff": 2,
         "Steenee": 1,
@@ -681,7 +681,7 @@
         "Amaura": 1,
         "Remoraid": 1,
         "Diglett": 1,
-        "Lotad": 3,
+        "Lotad": 4,
         "Nincada": 2,
         "Tyrogue": 1,
         "Minior": 1,
@@ -748,7 +748,7 @@
         "Sunkern": 1,
         "Wugtrio": 1,
         "Applin": 2,
-        "Venipede": 4,
+        "Venipede": 5,
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 3,
@@ -850,14 +850,15 @@
         "Lickilicky": 1,
         "Dhelmise": 1,
         "Porygon-z": 1,
-        "Centiskorch": 1
+        "Centiskorch": 1,
+        "Pidgeot": 1
       },
-      "total_spawns": 1159,
-      "last_spawn": "2026-07-05T17:44:27.301713"
+      "total_spawns": 1166,
+      "last_spawn": "2026-07-05T17:45:04.668134"
     }
   },
   "global": {
-    "total_spawns": 64347,
+    "total_spawns": 64354,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
