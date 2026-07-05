@@ -15,7 +15,7 @@
         "Vanillite": 18,
         "Weedle": 8,
         "Kabutops": 2,
-        "Poliwag": 10,
+        "Poliwag": 11,
         "Fidough": 5,
         "Charjabug": 2,
         "Hatterene": 1,
@@ -26,12 +26,12 @@
         "Peakychu": 13,
         "Cutiefly": 3,
         "Simipour": 2,
-        "Tynamo": 5,
+        "Tynamo": 6,
         "Palossand": 1,
         "Pyukumuku": 1,
         "Pidgey": 9,
         "Binacle": 3,
-        "Bounsweet": 10,
+        "Bounsweet": 12,
         "Fletchling": 4,
         "Whirlipede": 3,
         "Duskull": 14,
@@ -57,7 +57,7 @@
         "Tirtouga": 4,
         "Hatenna": 8,
         "Shroomish": 3,
-        "Lillipup": 4,
+        "Lillipup": 5,
         "Mosslax": 10,
         "Maushold": 3,
         "Cubchoo": 5,
@@ -191,7 +191,7 @@
         "Wimpod": 5,
         "Comfey": 1,
         "Diggersby": 1,
-        "Klawf": 12,
+        "Klawf": 13,
         "Dj rotom": 6,
         "Chef dente": 11,
         "Hisuian qwilfish": 1,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 1,
-        "Frigibax": 7,
+        "Frigibax": 8,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 1,
@@ -601,10 +601,11 @@
         "Frosmoth": 2,
         "Darumaka": 1,
         "Cubone": 1,
-        "Conkeldurr": 1
+        "Conkeldurr": 1,
+        "Sinistea": 1
       },
-      "total_spawns": 1721,
-      "last_spawn": "2026-07-05T21:17:48.194009"
+      "total_spawns": 1729,
+      "last_spawn": "2026-07-05T21:18:18.220382"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -871,7 +872,7 @@
         "Tadbulb": 8,
         "Lopunny": 2,
         "Malamar": 1,
-        "Pincurchin": 3,
+        "Pincurchin": 4,
         "Whirlipede": 3,
         "Tinkatuff": 3,
         "Baltoy": 5,
@@ -909,7 +910,7 @@
         "Pikachu": 2,
         "Yungoos": 3,
         "Luxio": 3,
-        "Frigibax": 10,
+        "Frigibax": 11,
         "Krokorok": 2,
         "Snorunt": 3,
         "Meganium": 1,
@@ -1028,7 +1029,7 @@
         "Gogoat": 1,
         "Morelull": 1,
         "Dewott": 2,
-        "Kingambit": 1,
+        "Kingambit": 2,
         "Corsola": 1,
         "Gothitelle": 1,
         "Makuhita": 1,
@@ -1211,12 +1212,12 @@
         "Staryu": 1,
         "Golem": 1
       },
-      "total_spawns": 1982,
-      "last_spawn": "2026-07-05T21:17:44.472729"
+      "total_spawns": 1985,
+      "last_spawn": "2026-07-05T21:18:14.474776"
     }
   },
   "global": {
-    "total_spawns": 66242,
+    "total_spawns": 66253,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
