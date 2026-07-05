@@ -90,7 +90,7 @@
         "Pawmi": 7,
         "Sandile": 14,
         "Charmeleon": 3,
-        "Riolu": 2,
+        "Riolu": 4,
         "Gible": 6,
         "Greavard": 12,
         "Snover": 3,
@@ -131,7 +131,7 @@
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 2,
+        "Torchic": 3,
         "Abomasnow": 1,
         "Slugma": 3,
         "Venonat": 2,
@@ -296,7 +296,7 @@
         "Ceruledge": 1,
         "Vanillish": 2,
         "Gimmighoul": 7,
-        "Glimmet": 8,
+        "Glimmet": 9,
         "Popplio": 3,
         "Arboliva": 1,
         "Luxio": 1,
@@ -622,8 +622,8 @@
         "Spoink": 1,
         "Dhelmise": 1
       },
-      "total_spawns": 1879,
-      "last_spawn": "2026-07-05T21:35:13.721131"
+      "total_spawns": 1883,
+      "last_spawn": "2026-07-05T21:35:43.732773"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -748,7 +748,7 @@
         "Rolycoly": 11,
         "Duskull": 5,
         "Marill": 5,
-        "Axew": 5,
+        "Axew": 6,
         "Tinkatink": 8,
         "Starly": 15,
         "Popplio": 2,
@@ -758,7 +758,7 @@
         "Stunky": 2,
         "Spinarak": 3,
         "Gligar": 1,
-        "Cubone": 2,
+        "Cubone": 3,
         "Dracovish": 1,
         "Deino": 8,
         "Honedge": 5,
@@ -1015,7 +1015,7 @@
         "Thwackey": 3,
         "Gabite": 2,
         "Toxel": 4,
-        "Boldore": 3,
+        "Boldore": 4,
         "Prof tangrowth": 5,
         "Corvisquire": 4,
         "Lokix": 4,
@@ -1241,12 +1241,12 @@
         "Conkeldurr": 1,
         "Poochyena": 1
       },
-      "total_spawns": 2085,
-      "last_spawn": "2026-07-05T21:35:14.508495"
+      "total_spawns": 2088,
+      "last_spawn": "2026-07-05T21:35:44.601062"
     }
   },
   "global": {
-    "total_spawns": 66503,
+    "total_spawns": 66510,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
