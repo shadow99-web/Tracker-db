@@ -641,10 +641,10 @@
         "Squirtle": 1,
         "Wingull": 1,
         "Buneary": 1,
-        "Skiddo": 1,
+        "Skiddo": 2,
         "Zigzagoon": 1,
         "Dj rotom": 1,
-        "Anorith": 1,
+        "Anorith": 2,
         "Shiinotic": 1,
         "Snover": 1,
         "Bayleef": 2,
@@ -701,14 +701,15 @@
         "Mewtwo": 1,
         "Pachirisu": 1,
         "Ursaring": 1,
-        "Zweilous": 1
+        "Zweilous": 1,
+        "Amoonguss": 1
       },
-      "total_spawns": 529,
-      "last_spawn": "2026-07-05T16:10:44.498412"
+      "total_spawns": 532,
+      "last_spawn": "2026-07-05T16:11:14.896659"
     }
   },
   "global": {
-    "total_spawns": 63713,
+    "total_spawns": 63716,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
