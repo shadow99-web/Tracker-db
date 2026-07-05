@@ -55,7 +55,7 @@
         "Maschiff": 5,
         "Smoliv": 3,
         "Tirtouga": 3,
-        "Hatenna": 6,
+        "Hatenna": 8,
         "Shroomish": 3,
         "Lillipup": 4,
         "Mosslax": 10,
@@ -67,7 +67,7 @@
         "Dolliv": 1,
         "Feebas": 1,
         "Prof tangrowth": 7,
-        "Vulpix": 1,
+        "Vulpix": 3,
         "Gastly": 10,
         "Aron": 5,
         "Honedge": 16,
@@ -151,7 +151,7 @@
         "Trapinch": 4,
         "Butterfree": 3,
         "Teddiursa": 13,
-        "Roggenrola": 7,
+        "Roggenrola": 9,
         "Litwick": 3,
         "Wooper": 2,
         "Pikipek": 10,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 1,
-        "Whismur": 5,
+        "Whismur": 6,
         "Jangmo-o": 4,
         "Lunatone": 1,
         "Machoke": 2,
@@ -258,7 +258,7 @@
         "Primarina": 1,
         "Skeledirge": 1,
         "Taillow": 3,
-        "Watchog": 1,
+        "Watchog": 2,
         "Porygon": 6,
         "Wooloo": 2,
         "Mawile": 3,
@@ -322,7 +322,7 @@
         "Wishiwashi": 1,
         "Skitty": 3,
         "Finizen": 4,
-        "Swablu": 1,
+        "Swablu": 2,
         "Sunkern": 2,
         "Snubbull": 1,
         "Crocalor": 1,
@@ -576,10 +576,12 @@
         "Murkrow": 2,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 1
+        "Boldore": 1,
+        "Skorupi": 1,
+        "Probopass": 1
       },
-      "total_spawns": 1507,
-      "last_spawn": "2026-07-05T21:06:13.599138"
+      "total_spawns": 1518,
+      "last_spawn": "2026-07-05T21:06:43.765182"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -710,7 +712,7 @@
         "Popplio": 2,
         "Watchog": 2,
         "Bounsweet": 16,
-        "Flamigo": 8,
+        "Flamigo": 9,
         "Stunky": 2,
         "Spinarak": 3,
         "Gligar": 1,
@@ -918,7 +920,7 @@
         "Kabuto": 4,
         "Chewtle": 1,
         "Drakloak": 2,
-        "Pawmo": 2,
+        "Pawmo": 3,
         "Charjabug": 2,
         "Hoothoot": 1,
         "Pom-pom oricorio": 1,
@@ -1174,12 +1176,12 @@
         "Venusaur": 1,
         "Spearow": 1
       },
-      "total_spawns": 1916,
-      "last_spawn": "2026-07-05T21:06:05.321312"
+      "total_spawns": 1918,
+      "last_spawn": "2026-07-05T21:06:24.505389"
     }
   },
   "global": {
-    "total_spawns": 65962,
+    "total_spawns": 65975,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
