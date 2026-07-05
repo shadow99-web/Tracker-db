@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 3,
-        "Shinx": 17,
+        "Shinx": 18,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 5,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 3,
-        "Tinkatink": 6,
+        "Tinkatink": 7,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 2,
@@ -530,10 +530,12 @@
         "Volcanion": 1,
         "Drapion": 1,
         "Wartortle": 1,
-        "Midnight lycanroc": 1
+        "Midnight lycanroc": 1,
+        "Skiploom": 1,
+        "Stakataka": 1
       },
-      "total_spawns": 1267,
-      "last_spawn": "2026-07-05T20:37:48.196864"
+      "total_spawns": 1271,
+      "last_spawn": "2026-07-05T20:38:18.432918"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -625,7 +627,7 @@
         "Nacli": 17,
         "Feebas": 2,
         "Weedle": 10,
-        "Ralts": 9,
+        "Ralts": 10,
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 9,
@@ -813,7 +815,7 @@
         "Kricketot": 3,
         "Golurk": 4,
         "Carracosta": 1,
-        "Fennekin": 4,
+        "Fennekin": 5,
         "Fuecoco": 2,
         "Sandy wormadam": 1,
         "Sprigatito": 2,
@@ -1101,14 +1103,15 @@
         "Floette": 1,
         "Phantump": 1,
         "Probopass": 1,
-        "Copperajah": 1
+        "Copperajah": 1,
+        "Leavanny": 1
       },
-      "total_spawns": 1750,
-      "last_spawn": "2026-07-05T20:37:44.394831"
+      "total_spawns": 1753,
+      "last_spawn": "2026-07-05T20:38:14.479484"
     }
   },
   "global": {
-    "total_spawns": 65556,
+    "total_spawns": 65563,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
