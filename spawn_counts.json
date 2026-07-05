@@ -761,7 +761,7 @@
         "Scorbunny": 2,
         "Roggenrola": 16,
         "Wattrel": 17,
-        "Nacli": 21,
+        "Nacli": 22,
         "Feebas": 2,
         "Weedle": 11,
         "Ralts": 14,
@@ -776,7 +776,7 @@
         "Slakoth": 13,
         "Dreepy": 12,
         "Foongus": 4,
-        "Hoppip": 13,
+        "Hoppip": 14,
         "Blipbug": 10,
         "Swoobat": 1,
         "Greavard": 13,
@@ -1017,7 +1017,7 @@
         "Pom-pom oricorio": 1,
         "Toxapex": 1,
         "Frogadier": 6,
-        "Golett": 2,
+        "Golett": 3,
         "Mismagius": 1,
         "Mudbray": 5,
         "Weepinbell": 1,
@@ -1351,12 +1351,12 @@
         "Trumbeak": 1,
         "Crustle": 1
       },
-      "total_spawns": 2606,
-      "last_spawn": "2026-07-05T23:03:14.522869"
+      "total_spawns": 2609,
+      "last_spawn": "2026-07-05T23:03:44.554287"
     }
   },
   "global": {
-    "total_spawns": 67507,
+    "total_spawns": 67510,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
