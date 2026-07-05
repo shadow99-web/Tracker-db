@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 1,
         "Squirtle": 2,
-        "Shinx": 9,
+        "Shinx": 10,
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 3,
@@ -109,7 +109,7 @@
         "Bayleef": 1,
         "Magnezone": 1,
         "Eevee": 2,
-        "Dreepy": 5,
+        "Dreepy": 7,
         "Treecko": 2,
         "Shroodle": 3,
         "Ride cyclizar": 1,
@@ -409,10 +409,12 @@
         "Lopunny": 1,
         "Chimchar": 1,
         "Gligar": 1,
-        "Quaxly": 1
+        "Quaxly": 1,
+        "Spiky-eared pichu": 1,
+        "Cradily": 2
       },
-      "total_spawns": 744,
-      "last_spawn": "2026-07-05T19:39:33.632219"
+      "total_spawns": 750,
+      "last_spawn": "2026-07-05T19:40:03.695474"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -912,7 +914,7 @@
     }
   },
   "global": {
-    "total_spawns": 64575,
+    "total_spawns": 64581,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
