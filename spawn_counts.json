@@ -12,7 +12,7 @@
         "Braixen": 4,
         "Oddish": 5,
         "Totodile": 3,
-        "Vanillite": 12,
+        "Vanillite": 14,
         "Weedle": 8,
         "Kabutops": 2,
         "Poliwag": 8,
@@ -250,7 +250,7 @@
         "Ambipom": 2,
         "Solrock": 1,
         "Tinkatuff": 1,
-        "Drednaw": 1,
+        "Drednaw": 2,
         "Corvisquire": 2,
         "Croconaw": 3,
         "Makuhita": 1,
@@ -296,7 +296,7 @@
         "Ceruledge": 1,
         "Vanillish": 2,
         "Gimmighoul": 4,
-        "Glimmet": 5,
+        "Glimmet": 6,
         "Popplio": 2,
         "Arboliva": 1,
         "Luxio": 1,
@@ -554,8 +554,8 @@
         "Smeargle": 2,
         "Appletun": 2
       },
-      "total_spawns": 1365,
-      "last_spawn": "2026-07-05T20:51:23.743830"
+      "total_spawns": 1369,
+      "last_spawn": "2026-07-05T20:51:53.808783"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -628,7 +628,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 10,
-        "Sandile": 10,
+        "Sandile": 11,
         "Maushold": 4,
         "Rattata": 5,
         "Riolu": 2,
@@ -682,7 +682,7 @@
         "Marill": 5,
         "Axew": 4,
         "Tinkatink": 6,
-        "Starly": 12,
+        "Starly": 13,
         "Popplio": 2,
         "Watchog": 2,
         "Bounsweet": 15,
@@ -711,7 +711,7 @@
         "Sizzlipede": 5,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 9,
+        "Tynamo": 10,
         "Quaquaval": 4,
         "Rapidash": 1,
         "Maschiff": 10,
@@ -1137,12 +1137,12 @@
         "Gothorita": 1,
         "Simipour": 1
       },
-      "total_spawns": 1829,
-      "last_spawn": "2026-07-05T20:51:16.095432"
+      "total_spawns": 1832,
+      "last_spawn": "2026-07-05T20:51:45.894932"
     }
   },
   "global": {
-    "total_spawns": 65733,
+    "total_spawns": 65740,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
