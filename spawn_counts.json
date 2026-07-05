@@ -74,7 +74,7 @@
         "Houndour": 1,
         "Machop": 8,
         "Terapagos": 1,
-        "Mankey": 1,
+        "Mankey": 2,
         "Torterra": 1,
         "Salandit": 3,
         "Bruxish": 1,
@@ -178,7 +178,7 @@
         "Flamigo": 5,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 7,
+        "Beldum": 9,
         "Kadabra": 4,
         "Grovyle": 3,
         "Dratini": 4,
@@ -432,7 +432,7 @@
         "Frigibax": 10,
         "Iron valiant": 2,
         "Ludicolo": 2,
-        "Scraggy": 1,
+        "Scraggy": 2,
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 1,
@@ -537,7 +537,7 @@
         "Sigilyph": 4,
         "Vibrava": 1,
         "Shuckle": 1,
-        "White flower floette": 1,
+        "White flower floette": 2,
         "Octillery": 2,
         "Pawniard": 1,
         "Brionne": 1,
@@ -594,7 +594,7 @@
         "Gurdurr": 1,
         "Quilava": 1,
         "Wurmple": 4,
-        "Sandshrew": 1,
+        "Sandshrew": 2,
         "Tauros": 1,
         "Golurk": 1,
         "Grimer": 2,
@@ -613,10 +613,11 @@
         "Zweilous": 1,
         "Azurill": 1,
         "Oshawott": 1,
-        "Malamar": 1
+        "Malamar": 1,
+        "Orange flower florges": 1
       },
-      "total_spawns": 1821,
-      "last_spawn": "2026-07-05T21:28:13.800609"
+      "total_spawns": 1828,
+      "last_spawn": "2026-07-05T21:29:23.880668"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -766,7 +767,7 @@
         "Lombre": 2,
         "Wurmple": 6,
         "Peakychu": 7,
-        "Bellibolt": 1,
+        "Bellibolt": 2,
         "Quilladin": 3,
         "Vulpix": 7,
         "Sizzlipede": 7,
@@ -941,7 +942,7 @@
         "Spheal": 6,
         "Chinchou": 2,
         "Magmar": 4,
-        "Chef dente": 4,
+        "Chef dente": 5,
         "Sandygast": 1,
         "Graveler": 4,
         "Duosion": 3,
@@ -1008,7 +1009,7 @@
         "Thwackey": 3,
         "Gabite": 2,
         "Toxel": 4,
-        "Boldore": 1,
+        "Boldore": 2,
         "Prof tangrowth": 4,
         "Corvisquire": 4,
         "Lokix": 4,
@@ -1193,7 +1194,7 @@
         "Milotic": 1,
         "Skarmory": 1,
         "Ferroseed": 1,
-        "Gossifleur": 1,
+        "Gossifleur": 2,
         "Palafin": 1,
         "Gothorita": 1,
         "Simipour": 1,
@@ -1229,12 +1230,12 @@
         "Oricorio": 1,
         "Leafeon": 1
       },
-      "total_spawns": 2045,
-      "last_spawn": "2026-07-05T21:28:44.858159"
+      "total_spawns": 2049,
+      "last_spawn": "2026-07-05T21:29:14.486112"
     }
   },
   "global": {
-    "total_spawns": 66405,
+    "total_spawns": 66416,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
