@@ -357,7 +357,7 @@
         "Barboach": 1,
         "Nosepass": 1,
         "Electrike": 1,
-        "Hoppip": 1,
+        "Hoppip": 2,
         "Slowbro": 1,
         "Gholdengo": 1,
         "Trubbish": 1,
@@ -373,7 +373,7 @@
         "Duraludon": 2,
         "Nidorino": 1,
         "Rayquaza": 10,
-        "Horsea": 1,
+        "Horsea": 2,
         "Reshiram": 1,
         "Celebi": 1,
         "Morelull": 1,
@@ -405,10 +405,11 @@
         "Snivy": 1,
         "Zorua": 2,
         "Minior": 1,
-        "Darmanitan": 1
+        "Darmanitan": 1,
+        "Lopunny": 1
       },
-      "total_spawns": 729,
-      "last_spawn": "2026-07-05T19:37:20.016073"
+      "total_spawns": 732,
+      "last_spawn": "2026-07-05T19:38:13.620350"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -908,7 +909,7 @@
     }
   },
   "global": {
-    "total_spawns": 64560,
+    "total_spawns": 64563,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
