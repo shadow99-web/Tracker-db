@@ -158,10 +158,10 @@
         "Spritzee": 1,
         "Stantler": 1,
         "Impidimp": 2,
-        "Swadloon": 2,
+        "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 1,
-        "Venipede": 4,
+        "Venipede": 5,
         "Pansage": 2,
         "Cetoddle": 4,
         "Togepi": 3,
@@ -264,7 +264,7 @@
         "Mawile": 1,
         "Marill": 1,
         "Lickitung": 1,
-        "Chewtle": 2,
+        "Chewtle": 3,
         "Onix": 1,
         "Dracovish": 2,
         "Slowpoke": 1,
@@ -393,10 +393,11 @@
         "Sentret": 2,
         "Houndoom": 1,
         "Meganium": 2,
-        "Rainy castform": 1
+        "Rainy castform": 1,
+        "Rabsca": 1
       },
-      "total_spawns": 684,
-      "last_spawn": "2026-07-05T19:15:26.021308"
+      "total_spawns": 688,
+      "last_spawn": "2026-07-05T19:16:03.765811"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -896,7 +897,7 @@
     }
   },
   "global": {
-    "total_spawns": 64515,
+    "total_spawns": 64519,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
