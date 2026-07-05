@@ -36,7 +36,7 @@
         "Whirlipede": 3,
         "Duskull": 14,
         "Abra": 11,
-        "Wiglett": 6,
+        "Wiglett": 7,
         "Starly": 16,
         "Caterpie": 5,
         "Mareep": 4,
@@ -109,7 +109,7 @@
         "Bayleef": 2,
         "Magnezone": 1,
         "Eevee": 4,
-        "Dreepy": 13,
+        "Dreepy": 15,
         "Treecko": 6,
         "Shroodle": 4,
         "Ride cyclizar": 1,
@@ -161,7 +161,7 @@
         "Swadloon": 4,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 7,
+        "Venipede": 8,
         "Pansage": 2,
         "Cetoddle": 7,
         "Togepi": 5,
@@ -584,7 +584,7 @@
         "Polteageist": 1,
         "Lombre": 2,
         "Dachsbun": 2,
-        "Primeape": 2,
+        "Primeape": 4,
         "Goldeen": 1,
         "Gouging fire": 2,
         "Cottonee": 1,
@@ -603,8 +603,8 @@
         "Cubone": 1,
         "Conkeldurr": 1
       },
-      "total_spawns": 1705,
-      "last_spawn": "2026-07-05T21:16:43.483248"
+      "total_spawns": 1711,
+      "last_spawn": "2026-07-05T21:17:13.976580"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -693,7 +693,7 @@
         "Scorbunny": 2,
         "Roggenrola": 12,
         "Wattrel": 12,
-        "Nacli": 17,
+        "Nacli": 18,
         "Feebas": 2,
         "Weedle": 10,
         "Ralts": 11,
@@ -831,7 +831,7 @@
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 6,
-        "Grubbin": 10,
+        "Grubbin": 11,
         "Dustox": 2,
         "Chespin": 6,
         "Armarouge": 3,
@@ -1208,14 +1208,15 @@
         "Oinkologne": 1,
         "Clobbopus": 1,
         "Heracross": 1,
-        "Staryu": 1
+        "Staryu": 1,
+        "Golem": 1
       },
-      "total_spawns": 1976,
-      "last_spawn": "2026-07-05T21:16:44.495061"
+      "total_spawns": 1979,
+      "last_spawn": "2026-07-05T21:17:16.546326"
     }
   },
   "global": {
-    "total_spawns": 66220,
+    "total_spawns": 66229,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
