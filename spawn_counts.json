@@ -660,10 +660,11 @@
         "Mabosstiff": 1,
         "Omastar": 1,
         "Gabite": 2,
-        "Tapu fini": 2
+        "Tapu fini": 2,
+        "Gyarados": 2
       },
-      "total_spawns": 2271,
-      "last_spawn": "2026-07-05T22:22:33.594000"
+      "total_spawns": 2273,
+      "last_spawn": "2026-07-05T22:23:23.699567"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -675,7 +676,7 @@
         "Gible": 7,
         "Torracat": 3,
         "Dusclops": 4,
-        "Rhyhorn": 7,
+        "Rhyhorn": 8,
         "Mareep": 9,
         "Klink": 9,
         "Nymble": 12,
@@ -751,7 +752,7 @@
         "Bellsprout": 9,
         "Scorbunny": 2,
         "Roggenrola": 15,
-        "Wattrel": 13,
+        "Wattrel": 14,
         "Nacli": 21,
         "Feebas": 2,
         "Weedle": 11,
@@ -830,7 +831,7 @@
         "Rookidee": 12,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
-        "Grotle": 3,
+        "Grotle": 4,
         "Squawkabilly": 3,
         "Wartortle": 2,
         "Rowlet": 3,
@@ -1309,12 +1310,12 @@
         "Bulbasaur": 1,
         "Stantler": 1
       },
-      "total_spawns": 2367,
-      "last_spawn": "2026-07-05T22:22:54.495065"
+      "total_spawns": 2370,
+      "last_spawn": "2026-07-05T22:23:24.724683"
     }
   },
   "global": {
-    "total_spawns": 67177,
+    "total_spawns": 67182,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
