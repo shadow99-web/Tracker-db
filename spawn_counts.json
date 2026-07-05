@@ -220,7 +220,7 @@
         "Shuppet": 3,
         "Graveler": 1,
         "Duosion": 1,
-        "Orthworm": 1,
+        "Orthworm": 2,
         "Yamask": 1,
         "Nymble": 1,
         "Snorunt": 1,
@@ -383,8 +383,8 @@
         "Klink": 1,
         "Mesprit": 1
       },
-      "total_spawns": 635,
-      "last_spawn": "2026-07-05T15:24:11.597414"
+      "total_spawns": 636,
+      "last_spawn": "2026-07-05T15:26:21.397865"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -433,7 +433,7 @@
         "Nuzleaf": 1,
         "Clauncher": 2,
         "Cetitan": 1,
-        "Bramblin": 2,
+        "Bramblin": 3,
         "Dusk lycanroc": 1,
         "Cutiefly": 1,
         "Binacle": 1,
@@ -583,14 +583,17 @@
         "Espurr": 1,
         "Doduo": 1,
         "Kadabra": 1,
-        "Stretchy tatsugiri": 1
+        "Stretchy tatsugiri": 1,
+        "Dugtrio": 1,
+        "Capsakid": 1,
+        "Tyrunt": 1
       },
-      "total_spawns": 267,
-      "last_spawn": "2026-07-05T15:26:14.499126"
+      "total_spawns": 271,
+      "last_spawn": "2026-07-05T15:26:54.496475"
     }
   },
   "global": {
-    "total_spawns": 63441,
+    "total_spawns": 63446,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
