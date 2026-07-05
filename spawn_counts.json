@@ -15,7 +15,7 @@
         "Vanillite": 8,
         "Weedle": 4,
         "Kabutops": 2,
-        "Poliwag": 5,
+        "Poliwag": 6,
         "Fidough": 2,
         "Charjabug": 1,
         "Hatterene": 1,
@@ -43,7 +43,7 @@
         "Capsakid": 4,
         "Numel": 1,
         "Pawmo": 1,
-        "Wattrel": 2,
+        "Wattrel": 3,
         "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 6,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 1,
         "Pikachu": 2,
-        "Tarountula": 3,
+        "Tarountula": 4,
         "Rhyhorn": 3,
         "Aipom": 2,
         "Grookey": 1,
@@ -415,10 +415,11 @@
         "Burmy": 1,
         "Sewaddle": 1,
         "Shelmet": 1,
-        "Combusken": 1
+        "Combusken": 1,
+        "Croagunk": 1
       },
-      "total_spawns": 773,
-      "last_spawn": "2026-07-05T19:44:33.636714"
+      "total_spawns": 777,
+      "last_spawn": "2026-07-05T19:45:09.398071"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -918,7 +919,7 @@
     }
   },
   "global": {
-    "total_spawns": 64604,
+    "total_spawns": 64608,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
