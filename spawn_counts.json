@@ -431,7 +431,7 @@
         "Timburr": 3,
         "Pidgey": 4,
         "Gimmighoul": 4,
-        "Cetoddle": 5,
+        "Cetoddle": 6,
         "Fidough": 4,
         "Smearguru": 2,
         "Nuzleaf": 2,
@@ -471,7 +471,7 @@
         "Trapinch": 5,
         "Hatenna": 3,
         "Drifloon": 2,
-        "Togepi": 5,
+        "Togepi": 6,
         "Snivy": 1,
         "Bellsprout": 2,
         "Scorbunny": 2,
@@ -551,7 +551,7 @@
         "Sensu oricorio": 2,
         "Scatterbug": 4,
         "Taillow": 2,
-        "Wimpod": 1,
+        "Wimpod": 2,
         "Rookidee": 4,
         "Shellos": 1,
         "Roaming gimmighoul": 1,
@@ -760,12 +760,12 @@
         "Lickitung": 1,
         "Pyroar": 1
       },
-      "total_spawns": 732,
-      "last_spawn": "2026-07-05T16:45:34.601423"
+      "total_spawns": 735,
+      "last_spawn": "2026-07-05T16:46:04.611320"
     }
   },
   "global": {
-    "total_spawns": 63916,
+    "total_spawns": 63919,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
