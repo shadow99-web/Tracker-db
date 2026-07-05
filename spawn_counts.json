@@ -58,7 +58,7 @@
         "Hatenna": 8,
         "Shroomish": 3,
         "Lillipup": 7,
-        "Mosslax": 14,
+        "Mosslax": 15,
         "Maushold": 3,
         "Cubchoo": 5,
         "Koffing": 3,
@@ -83,7 +83,7 @@
         "Stufful": 4,
         "Shelgon": 1,
         "Marshtomp": 7,
-        "Squirtle": 4,
+        "Squirtle": 6,
         "Shinx": 25,
         "Drakloak": 3,
         "Victini": 1,
@@ -117,7 +117,7 @@
         "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 10,
-        "Panpour": 5,
+        "Panpour": 6,
         "Crabrawler": 3,
         "Frogadier": 3,
         "Scovillain": 1,
@@ -157,7 +157,7 @@
         "Pikipek": 12,
         "Spritzee": 1,
         "Stantler": 4,
-        "Impidimp": 12,
+        "Impidimp": 14,
         "Swadloon": 4,
         "Sunny castform": 4,
         "Vullaby": 3,
@@ -298,7 +298,7 @@
         "Gimmighoul": 7,
         "Glimmet": 9,
         "Popplio": 3,
-        "Arboliva": 1,
+        "Arboliva": 2,
         "Luxio": 1,
         "Quaxwell": 2,
         "Swanna": 1,
@@ -376,7 +376,7 @@
         "Horsea": 10,
         "Reshiram": 3,
         "Celebi": 1,
-        "Morelull": 2,
+        "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 2,
         "Slakoth": 3,
@@ -630,10 +630,11 @@
         "Cufant": 1,
         "Mienfoo": 2,
         "Quagsire": 1,
-        "Komala": 1
+        "Komala": 1,
+        "Poochyena": 1
       },
-      "total_spawns": 1998,
-      "last_spawn": "2026-07-05T21:47:53.651349"
+      "total_spawns": 2007,
+      "last_spawn": "2026-07-05T21:48:23.994032"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -693,7 +694,7 @@
         "Treecko": 1,
         "Grimer": 2,
         "Grafaiai": 3,
-        "Gastly": 15,
+        "Gastly": 16,
         "Orthworm": 10,
         "Glimmet": 8,
         "Beldum": 2,
@@ -1228,7 +1229,7 @@
         "Venusaur": 1,
         "Spearow": 1,
         "Emboar": 1,
-        "Nidoqueen": 1,
+        "Nidoqueen": 2,
         "Seel": 1,
         "Kabutops": 1,
         "Unfezant": 1,
@@ -1237,7 +1238,7 @@
         "Oinkologne": 1,
         "Clobbopus": 2,
         "Heracross": 1,
-        "Staryu": 1,
+        "Staryu": 2,
         "Golem": 1,
         "Numel": 2,
         "Noctowl": 1,
@@ -1258,12 +1259,12 @@
         "Ivysaur": 1,
         "Machamp": 1
       },
-      "total_spawns": 2159,
-      "last_spawn": "2026-07-05T21:47:44.980732"
+      "total_spawns": 2162,
+      "last_spawn": "2026-07-05T21:48:14.595424"
     }
   },
   "global": {
-    "total_spawns": 66696,
+    "total_spawns": 66708,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
