@@ -1422,7 +1422,7 @@
         "Lickitung": 1,
         "Chewtle": 2,
         "Onix": 1,
-        "Dracovish": 1,
+        "Dracovish": 2,
         "Slowpoke": 1,
         "Drizzile": 1,
         "Tinkatink": 4,
@@ -1464,7 +1464,7 @@
         "Archen": 2,
         "Blue plumage squawkabilly": 1,
         "Metang": 1,
-        "Larvitar": 1,
+        "Larvitar": 2,
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 1,
@@ -1483,14 +1483,17 @@
         "Snubbull": 1,
         "Crocalor": 1,
         "Magnemite": 1,
-        "Doublade": 1
+        "Doublade": 1,
+        "Sharpedo": 1,
+        "Raboot": 1,
+        "Oinkologne": 1
       },
-      "total_spawns": 498,
-      "last_spawn": "2026-07-05T04:16:07.662765"
+      "total_spawns": 503,
+      "last_spawn": "2026-07-05T04:16:43.565866"
     }
   },
   "global": {
-    "total_spawns": 63037,
+    "total_spawns": 63042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
