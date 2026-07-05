@@ -37,7 +37,7 @@
         "Duskull": 6,
         "Abra": 5,
         "Wiglett": 4,
-        "Starly": 7,
+        "Starly": 8,
         "Caterpie": 3,
         "Mareep": 3,
         "Capsakid": 4,
@@ -300,7 +300,7 @@
         "Popplio": 2,
         "Arboliva": 1,
         "Luxio": 1,
-        "Quaxwell": 1,
+        "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 1,
         "Geodude": 1,
@@ -371,7 +371,7 @@
         "Kingambit": 1,
         "Cresselia": 2,
         "Duraludon": 2,
-        "Nidorino": 1,
+        "Nidorino": 2,
         "Rayquaza": 10,
         "Horsea": 3,
         "Reshiram": 1,
@@ -402,7 +402,7 @@
         "Dubwool": 1,
         "Litleo": 1,
         "Silcoon": 1,
-        "Snivy": 1,
+        "Snivy": 2,
         "Zorua": 2,
         "Minior": 1,
         "Darmanitan": 1,
@@ -421,10 +421,13 @@
         "Crabominable": 2,
         "Krabby": 1,
         "Mimikyu": 2,
-        "Hoothoot": 1
+        "Hoothoot": 1,
+        "Girafarig": 1,
+        "Summer deerling": 1,
+        "Seel": 1
       },
-      "total_spawns": 801,
-      "last_spawn": "2026-07-05T19:47:29.568346"
+      "total_spawns": 808,
+      "last_spawn": "2026-07-05T19:48:08.594509"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -924,7 +927,7 @@
     }
   },
   "global": {
-    "total_spawns": 64632,
+    "total_spawns": 64639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
