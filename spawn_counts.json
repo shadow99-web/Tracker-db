@@ -1340,7 +1340,7 @@
         "Dratini": 1,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 2,
+        "Charcadet": 3,
         "Mudsdale": 2,
         "Meowth": 2,
         "Charmander": 1,
@@ -1367,9 +1367,9 @@
         "Skrelp": 1,
         "Lileep": 1,
         "Drifloon": 1,
-        "Mightyena": 1,
+        "Mightyena": 2,
         "Sandaconda": 1,
-        "Froakie": 1,
+        "Froakie": 2,
         "Kingdra": 1,
         "Chikorita": 1,
         "Donphan": 1,
@@ -1395,14 +1395,15 @@
         "Whismur": 1,
         "Jangmo-o": 1,
         "Lunatone": 1,
-        "Machoke": 1
+        "Machoke": 1,
+        "Luvdisc": 1
       },
-      "total_spawns": 316,
-      "last_spawn": "2026-07-05T03:39:28.416621"
+      "total_spawns": 320,
+      "last_spawn": "2026-07-05T03:40:08.524126"
     }
   },
   "global": {
-    "total_spawns": 62855,
+    "total_spawns": 62859,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
