@@ -37,7 +37,7 @@
         "Duskull": 18,
         "Abra": 16,
         "Wiglett": 8,
-        "Starly": 18,
+        "Starly": 19,
         "Caterpie": 5,
         "Mareep": 6,
         "Capsakid": 10,
@@ -670,8 +670,8 @@
         "Slaking": 1,
         "Obstagoon": 2
       },
-      "total_spawns": 2321,
-      "last_spawn": "2026-07-05T22:40:03.435117"
+      "total_spawns": 2322,
+      "last_spawn": "2026-07-05T22:40:33.695928"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -720,14 +720,14 @@
         "Nuzleaf": 3,
         "Clauncher": 2,
         "Cetitan": 3,
-        "Bramblin": 12,
+        "Bramblin": 13,
         "Dusk lycanroc": 1,
         "Cutiefly": 2,
         "Binacle": 5,
         "Kilowattrel": 3,
         "Skiploom": 3,
         "Voltorb": 6,
-        "Geodude": 18,
+        "Geodude": 19,
         "Treecko": 4,
         "Grimer": 3,
         "Grafaiai": 3,
@@ -1332,14 +1332,15 @@
         "Shedinja": 1,
         "Lunatone": 1,
         "Lapras": 1,
-        "Chesnaught": 1
+        "Chesnaught": 1,
+        "Shuckle": 1
       },
-      "total_spawns": 2470,
-      "last_spawn": "2026-07-05T22:40:14.494552"
+      "total_spawns": 2473,
+      "last_spawn": "2026-07-05T22:40:44.608341"
     }
   },
   "global": {
-    "total_spawns": 67330,
+    "total_spawns": 67334,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
