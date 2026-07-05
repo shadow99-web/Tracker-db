@@ -419,7 +419,7 @@
         "Meditite": 1,
         "Pansage": 1,
         "Whismur": 3,
-        "Jangmo-o": 2,
+        "Jangmo-o": 3,
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 1,
@@ -484,7 +484,7 @@
         "Dratini": 1,
         "Sewaddle": 2,
         "Mantyke": 1,
-        "Slakoth": 2,
+        "Slakoth": 3,
         "Dreepy": 1,
         "Foongus": 1,
         "Hoppip": 2,
@@ -507,7 +507,7 @@
         "Togekiss": 1,
         "Rolycoly": 2,
         "Duskull": 2,
-        "Marill": 1,
+        "Marill": 2,
         "Axew": 1,
         "Tinkatink": 2,
         "Starly": 1,
@@ -571,14 +571,15 @@
         "Quaxwell": 1,
         "Croconaw": 1,
         "Smoliv": 1,
-        "Lechonk": 1
+        "Lechonk": 1,
+        "Clodsire": 1
       },
-      "total_spawns": 242,
-      "last_spawn": "2026-07-05T15:22:04.572856"
+      "total_spawns": 246,
+      "last_spawn": "2026-07-05T15:22:44.802855"
     }
   },
   "global": {
-    "total_spawns": 63415,
+    "total_spawns": 63419,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
