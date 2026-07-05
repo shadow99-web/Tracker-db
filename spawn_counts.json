@@ -12,8 +12,8 @@
         "Braixen": 6,
         "Oddish": 13,
         "Totodile": 3,
-        "Vanillite": 22,
-        "Weedle": 10,
+        "Vanillite": 23,
+        "Weedle": 11,
         "Kabutops": 2,
         "Poliwag": 11,
         "Fidough": 9,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 12,
         "Binacle": 4,
-        "Bounsweet": 12,
+        "Bounsweet": 14,
         "Fletchling": 6,
         "Whirlipede": 4,
         "Duskull": 18,
@@ -668,8 +668,8 @@
         "Inteleon": 2,
         "Milotic": 1
       },
-      "total_spawns": 2300,
-      "last_spawn": "2026-07-05T22:30:24.111851"
+      "total_spawns": 2304,
+      "last_spawn": "2026-07-05T22:30:53.876722"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -799,7 +799,7 @@
         "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
-        "Bounsweet": 18,
+        "Bounsweet": 19,
         "Flamigo": 11,
         "Stunky": 2,
         "Spinarak": 3,
@@ -833,7 +833,7 @@
         "Scatterbug": 16,
         "Taillow": 2,
         "Wimpod": 6,
-        "Rookidee": 12,
+        "Rookidee": 13,
         "Shellos": 1,
         "Roaming gimmighoul": 4,
         "Grotle": 4,
@@ -931,7 +931,7 @@
         "Bayleef": 3,
         "Nosepass": 1,
         "Scovillain": 5,
-        "Sliggoo": 2,
+        "Sliggoo": 3,
         "Silcoon": 5,
         "Tadbulb": 9,
         "Lopunny": 2,
@@ -986,7 +986,7 @@
         "Amoonguss": 1,
         "Varoom": 8,
         "Kirlia": 4,
-        "Minccino": 3,
+        "Minccino": 4,
         "Charmander": 5,
         "Misdreavus": 4,
         "Growlithe": 5,
@@ -1321,12 +1321,12 @@
         "Smoochum": 1,
         "Snorlax": 1
       },
-      "total_spawns": 2411,
-      "last_spawn": "2026-07-05T22:30:14.497606"
+      "total_spawns": 2415,
+      "last_spawn": "2026-07-05T22:30:54.354076"
     }
   },
   "global": {
-    "total_spawns": 67250,
+    "total_spawns": 67258,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
