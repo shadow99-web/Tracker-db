@@ -422,7 +422,7 @@
         "Glimmora": 2,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 5,
+        "Whismur": 6,
         "Jangmo-o": 3,
         "Samurott": 1,
         "Kleavor": 1,
@@ -536,7 +536,7 @@
         "Klawf": 3,
         "Lombre": 2,
         "Wurmple": 1,
-        "Peakychu": 1,
+        "Peakychu": 2,
         "Bellibolt": 1,
         "Quilladin": 1,
         "Vulpix": 1,
@@ -644,14 +644,16 @@
         "Zigzagoon": 1,
         "Dj rotom": 1,
         "Anorith": 1,
-        "Shiinotic": 1
+        "Shiinotic": 1,
+        "Snover": 1,
+        "Bayleef": 1
       },
-      "total_spawns": 379,
-      "last_spawn": "2026-07-05T15:45:14.610459"
+      "total_spawns": 383,
+      "last_spawn": "2026-07-05T15:45:54.599232"
     }
   },
   "global": {
-    "total_spawns": 63561,
+    "total_spawns": 63565,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
