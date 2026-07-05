@@ -423,7 +423,7 @@
         "Glimmora": 3,
         "Meditite": 1,
         "Pansage": 1,
-        "Whismur": 9,
+        "Whismur": 10,
         "Jangmo-o": 4,
         "Samurott": 1,
         "Kleavor": 1,
@@ -539,7 +539,7 @@
         "Wurmple": 2,
         "Peakychu": 4,
         "Bellibolt": 1,
-        "Quilladin": 1,
+        "Quilladin": 2,
         "Vulpix": 1,
         "Sizzlipede": 1,
         "Spiky-eared pichu": 1,
@@ -623,7 +623,7 @@
         "Bagon": 1,
         "Vanilluxe": 1,
         "Woobat": 2,
-        "Goomy": 2,
+        "Goomy": 3,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 2,
@@ -752,14 +752,15 @@
         "Toedscruel": 1,
         "Dewpider": 1,
         "Pansear": 1,
-        "Togetic": 1
+        "Togetic": 1,
+        "Houndstone": 1
       },
-      "total_spawns": 708,
-      "last_spawn": "2026-07-05T16:41:24.412013"
+      "total_spawns": 712,
+      "last_spawn": "2026-07-05T16:42:04.368520"
     }
   },
   "global": {
-    "total_spawns": 63892,
+    "total_spawns": 63896,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
