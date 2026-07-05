@@ -467,7 +467,7 @@
         "Riolu": 2,
         "Aromatisse": 1,
         "Slowpoke": 1,
-        "Seedot": 4,
+        "Seedot": 5,
         "Trapinch": 5,
         "Hatenna": 3,
         "Drifloon": 2,
@@ -575,7 +575,7 @@
         "Gorebyss": 1,
         "Quaxwell": 1,
         "Croconaw": 2,
-        "Smoliv": 2,
+        "Smoliv": 3,
         "Lechonk": 3,
         "Clodsire": 1,
         "Sandaconda": 1,
@@ -754,14 +754,16 @@
         "Pansear": 1,
         "Togetic": 1,
         "Houndstone": 1,
-        "Ponyta": 1
+        "Ponyta": 1,
+        "Drifblim": 1,
+        "Arcanine": 1
       },
-      "total_spawns": 714,
-      "last_spawn": "2026-07-05T16:42:34.506261"
+      "total_spawns": 718,
+      "last_spawn": "2026-07-05T16:43:14.476837"
     }
   },
   "global": {
-    "total_spawns": 63898,
+    "total_spawns": 63902,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
