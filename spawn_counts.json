@@ -395,7 +395,7 @@
       "counts": {
         "Tandemaus": 8,
         "Caterpie": 1,
-        "Flaaffy": 2,
+        "Flaaffy": 3,
         "Bronzor": 1,
         "Gible": 3,
         "Torracat": 1,
@@ -515,7 +515,7 @@
         "Marill": 4,
         "Axew": 2,
         "Tinkatink": 3,
-        "Starly": 5,
+        "Starly": 6,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 8,
@@ -536,7 +536,7 @@
         "Croagunk": 2,
         "Klawf": 3,
         "Lombre": 2,
-        "Wurmple": 2,
+        "Wurmple": 3,
         "Peakychu": 4,
         "Bellibolt": 1,
         "Quilladin": 3,
@@ -787,14 +787,15 @@
         "Charmeleon": 1,
         "Spidops": 1,
         "Dwebble": 1,
-        "Rockruff": 1
+        "Rockruff": 1,
+        "Stunfisk": 1
       },
-      "total_spawns": 854,
-      "last_spawn": "2026-07-05T17:06:04.404703"
+      "total_spawns": 858,
+      "last_spawn": "2026-07-05T17:06:45.073343"
     }
   },
   "global": {
-    "total_spawns": 64038,
+    "total_spawns": 64042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
