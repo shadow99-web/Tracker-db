@@ -1213,7 +1213,7 @@
         "Tirtouga": 2,
         "Hatenna": 2,
         "Shroomish": 2,
-        "Lillipup": 1,
+        "Lillipup": 2,
         "Mosslax": 5,
         "Maushold": 1,
         "Cubchoo": 1,
@@ -1340,7 +1340,7 @@
         "Dratini": 1,
         "Steelix": 1,
         "Sprigatito": 1,
-        "Charcadet": 3,
+        "Charcadet": 4,
         "Mudsdale": 2,
         "Meowth": 2,
         "Charmander": 1,
@@ -1362,7 +1362,7 @@
         "Fraxure": 1,
         "Zubat": 1,
         "Drowzee": 2,
-        "Lechonk": 2,
+        "Lechonk": 3,
         "Woobat": 1,
         "Skrelp": 1,
         "Lileep": 1,
@@ -1410,14 +1410,16 @@
         "Corvisquire": 1,
         "Croconaw": 1,
         "Makuhita": 1,
-        "Machamp": 1
+        "Machamp": 1,
+        "Primarina": 1,
+        "Skeledirge": 1
       },
-      "total_spawns": 341,
-      "last_spawn": "2026-07-05T03:43:23.240134"
+      "total_spawns": 346,
+      "last_spawn": "2026-07-05T03:43:58.247022"
     }
   },
   "global": {
-    "total_spawns": 62880,
+    "total_spawns": 62885,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
