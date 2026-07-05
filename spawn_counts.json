@@ -180,8 +180,8 @@
         "Houndstone": 2,
         "Beldum": 11,
         "Kadabra": 6,
-        "Grovyle": 6,
-        "Dratini": 6,
+        "Grovyle": 7,
+        "Dratini": 8,
         "Steelix": 1,
         "Sprigatito": 3,
         "Charcadet": 18,
@@ -259,12 +259,12 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
-        "Porygon": 8,
+        "Porygon": 9,
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
         "Lickitung": 3,
-        "Chewtle": 4,
+        "Chewtle": 5,
         "Onix": 2,
         "Dracovish": 2,
         "Slowpoke": 2,
@@ -656,8 +656,8 @@
         "Passimian": 1,
         "Jynx": 1
       },
-      "total_spawns": 2216,
-      "last_spawn": "2026-07-05T22:12:13.665140"
+      "total_spawns": 2221,
+      "last_spawn": "2026-07-05T22:12:43.648287"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -730,7 +730,7 @@
         "Archaludon": 1,
         "Grapploct": 1,
         "Charcadet": 12,
-        "Sandile": 13,
+        "Sandile": 14,
         "Maushold": 6,
         "Rattata": 6,
         "Riolu": 3,
@@ -801,7 +801,7 @@
         "Greninja": 1,
         "Dondozo": 10,
         "Lairon": 4,
-        "Zubat": 15,
+        "Zubat": 16,
         "Croagunk": 3,
         "Klawf": 7,
         "Lombre": 2,
@@ -1293,14 +1293,15 @@
         "Lampent": 1,
         "Ursaluna": 1,
         "Mawile": 1,
-        "Brionne": 1
+        "Brionne": 1,
+        "Munchlax": 1
       },
-      "total_spawns": 2302,
-      "last_spawn": "2026-07-05T22:12:04.439155"
+      "total_spawns": 2305,
+      "last_spawn": "2026-07-05T22:12:34.380999"
     }
   },
   "global": {
-    "total_spawns": 67057,
+    "total_spawns": 67065,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
