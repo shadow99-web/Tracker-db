@@ -12,7 +12,7 @@
         "Braixen": 6,
         "Oddish": 13,
         "Totodile": 3,
-        "Vanillite": 27,
+        "Vanillite": 28,
         "Weedle": 12,
         "Kabutops": 2,
         "Poliwag": 11,
@@ -525,7 +525,7 @@
         "Cosmoem": 1,
         "Copperajah": 4,
         "Golett": 1,
-        "Politoed": 2,
+        "Politoed": 3,
         "Droopy tatsugiri": 1,
         "Volcanion": 1,
         "Drapion": 2,
@@ -673,8 +673,8 @@
         "Wash rotom": 1,
         "Igglybuff": 1
       },
-      "total_spawns": 2390,
-      "last_spawn": "2026-07-05T23:15:53.594838"
+      "total_spawns": 2392,
+      "last_spawn": "2026-07-05T23:17:03.695960"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -942,7 +942,7 @@
         "Lopunny": 2,
         "Malamar": 1,
         "Pincurchin": 4,
-        "Whirlipede": 4,
+        "Whirlipede": 5,
         "Tinkatuff": 3,
         "Baltoy": 7,
         "Tarountula": 16,
@@ -1077,7 +1077,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 2,
-        "Fletchling": 12,
+        "Fletchling": 13,
         "Haunter": 3,
         "Sandshrew": 4,
         "Fletchinder": 3,
@@ -1216,7 +1216,7 @@
         "Butterfree": 1,
         "Quaxly": 4,
         "Guzzlord": 1,
-        "Seadra": 1,
+        "Seadra": 2,
         "Pyukumuku": 2,
         "Hatterene": 1,
         "Cleffa": 1,
@@ -1356,14 +1356,15 @@
         "Mienfoo": 1,
         "Rainy castform": 1,
         "Claydol": 1,
-        "Beheeyem": 1
+        "Beheeyem": 1,
+        "Blade aegislash": 1
       },
-      "total_spawns": 2685,
-      "last_spawn": "2026-07-05T23:16:36.199917"
+      "total_spawns": 2689,
+      "last_spawn": "2026-07-05T23:17:14.845776"
     }
   },
   "global": {
-    "total_spawns": 67614,
+    "total_spawns": 67620,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
