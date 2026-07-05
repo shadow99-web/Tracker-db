@@ -425,7 +425,7 @@
         "Timburr": 2,
         "Pidgey": 2,
         "Gimmighoul": 2,
-        "Cetoddle": 1,
+        "Cetoddle": 2,
         "Fidough": 2,
         "Smearguru": 1,
         "Nuzleaf": 1,
@@ -494,7 +494,7 @@
         "Braixen": 1,
         "Skwovet": 1,
         "Magnemite": 1,
-        "Impidimp": 1,
+        "Impidimp": 2,
         "Elgyem": 1,
         "Gastrodon": 1,
         "Shroodle": 2,
@@ -554,14 +554,15 @@
         "Wartortle": 1,
         "Rowlet": 1,
         "Gholdengo": 1,
-        "Machoke": 1
+        "Machoke": 1,
+        "Glameow": 1
       },
-      "total_spawns": 212,
-      "last_spawn": "2026-07-05T15:16:54.498015"
+      "total_spawns": 215,
+      "last_spawn": "2026-07-05T15:17:24.553278"
     }
   },
   "global": {
-    "total_spawns": 63384,
+    "total_spawns": 63387,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
