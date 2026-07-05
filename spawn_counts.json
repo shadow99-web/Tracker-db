@@ -186,7 +186,7 @@
         "Sprigatito": 3,
         "Charcadet": 20,
         "Mudsdale": 2,
-        "Meowth": 7,
+        "Meowth": 9,
         "Charmander": 5,
         "Wimpod": 9,
         "Comfey": 1,
@@ -673,8 +673,8 @@
         "Wash rotom": 1,
         "Igglybuff": 1
       },
-      "total_spawns": 2407,
-      "last_spawn": "2026-07-05T23:22:03.666798"
+      "total_spawns": 2409,
+      "last_spawn": "2026-07-05T23:22:33.700025"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -686,7 +686,7 @@
         "Gible": 9,
         "Torracat": 4,
         "Dusclops": 4,
-        "Rhyhorn": 11,
+        "Rhyhorn": 12,
         "Mareep": 12,
         "Klink": 9,
         "Nymble": 14,
@@ -696,7 +696,7 @@
         "Dedenne": 2,
         "Gothita": 14,
         "Finizen": 13,
-        "Machop": 15,
+        "Machop": 16,
         "Psyduck": 6,
         "Monferno": 3,
         "Pikipek": 9,
@@ -762,7 +762,7 @@
         "Bellsprout": 12,
         "Scorbunny": 2,
         "Roggenrola": 18,
-        "Wattrel": 17,
+        "Wattrel": 18,
         "Nacli": 22,
         "Feebas": 2,
         "Weedle": 11,
@@ -1363,14 +1363,15 @@
         "Heatmor": 1,
         "Hitmontop": 1,
         "Galarian weezing": 1,
-        "Flareon": 1
+        "Flareon": 1,
+        "Volcarona": 1
       },
-      "total_spawns": 2720,
-      "last_spawn": "2026-07-05T23:22:24.593112"
+      "total_spawns": 2724,
+      "last_spawn": "2026-07-05T23:23:05.262284"
     }
   },
   "global": {
-    "total_spawns": 67666,
+    "total_spawns": 67672,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
