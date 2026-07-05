@@ -499,7 +499,7 @@
         "Mosslax": 6,
         "Braixen": 2,
         "Skwovet": 1,
-        "Magnemite": 4,
+        "Magnemite": 5,
         "Impidimp": 7,
         "Elgyem": 2,
         "Gastrodon": 1,
@@ -534,7 +534,7 @@
         "Lairon": 1,
         "Zubat": 8,
         "Croagunk": 2,
-        "Klawf": 3,
+        "Klawf": 4,
         "Lombre": 2,
         "Wurmple": 4,
         "Peakychu": 4,
@@ -549,7 +549,7 @@
         "Rapidash": 1,
         "Maschiff": 4,
         "Sensu oricorio": 2,
-        "Scatterbug": 4,
+        "Scatterbug": 5,
         "Taillow": 2,
         "Wimpod": 4,
         "Rookidee": 6,
@@ -824,14 +824,15 @@
         "Golbat": 1,
         "Shuppet": 1,
         "East sea gastrodon": 1,
-        "Grovyle": 1
+        "Grovyle": 1,
+        "Grumpig": 1
       },
-      "total_spawns": 1004,
-      "last_spawn": "2026-07-05T17:31:14.797688"
+      "total_spawns": 1008,
+      "last_spawn": "2026-07-05T17:31:54.419929"
     }
   },
   "global": {
-    "total_spawns": 64189,
+    "total_spawns": 64193,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
