@@ -730,7 +730,7 @@
         "Grafaiai": 3,
         "Gastly": 19,
         "Orthworm": 12,
-        "Glimmet": 10,
+        "Glimmet": 11,
         "Beldum": 2,
         "Combee": 3,
         "Corphish": 3,
@@ -821,7 +821,7 @@
         "Bellibolt": 3,
         "Quilladin": 3,
         "Vulpix": 7,
-        "Sizzlipede": 7,
+        "Sizzlipede": 8,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 12,
@@ -1203,7 +1203,7 @@
         "Finneon": 2,
         "Debutante trim furfrou": 1,
         "Fraxure": 1,
-        "Tentacool": 1,
+        "Tentacool": 2,
         "Relicanth": 1,
         "Patrat": 2,
         "Cottonee": 2,
@@ -1313,14 +1313,15 @@
         "Chandelure": 1,
         "Bulbasaur": 1,
         "Stantler": 1,
-        "Bewear": 1
+        "Bewear": 1,
+        "Simisear": 1
       },
-      "total_spawns": 2387,
-      "last_spawn": "2026-07-05T22:26:14.348057"
+      "total_spawns": 2391,
+      "last_spawn": "2026-07-05T22:26:56.304725"
     }
   },
   "global": {
-    "total_spawns": 67214,
+    "total_spawns": 67218,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
