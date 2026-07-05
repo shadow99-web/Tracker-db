@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 2,
-        "Anorith": 2,
+        "Anorith": 3,
         "Arctibax": 1,
         "Ralts": 6,
         "Peakychu": 13,
@@ -66,7 +66,7 @@
         "Deino": 4,
         "Dolliv": 1,
         "Feebas": 1,
-        "Prof tangrowth": 5,
+        "Prof tangrowth": 7,
         "Vulpix": 1,
         "Gastly": 10,
         "Aron": 5,
@@ -154,7 +154,7 @@
         "Roggenrola": 7,
         "Litwick": 3,
         "Wooper": 2,
-        "Pikipek": 9,
+        "Pikipek": 10,
         "Spritzee": 1,
         "Stantler": 3,
         "Impidimp": 12,
@@ -176,7 +176,7 @@
         "Poliwhirl": 4,
         "Lokix": 3,
         "Flamigo": 5,
-        "Bellsprout": 10,
+        "Bellsprout": 11,
         "Houndstone": 1,
         "Beldum": 5,
         "Kadabra": 4,
@@ -458,7 +458,7 @@
         "Excadrill": 2,
         "Buizel": 2,
         "Pansear": 1,
-        "Yanma": 3,
+        "Yanma": 4,
         "Galarian moltres": 1,
         "Seismitoad": 2,
         "Galarian articuno": 1,
@@ -518,7 +518,7 @@
         "Bronzong": 1,
         "Foongus": 1,
         "Krookodile": 1,
-        "Espathra": 1,
+        "Espathra": 2,
         "Snom": 1,
         "Nickit": 1,
         "Aromatisse": 1,
@@ -559,10 +559,12 @@
         "Blitzle": 1,
         "Iron crown": 2,
         "Barbaracle": 1,
-        "Nidoqueen": 2
+        "Nidoqueen": 2,
+        "White flower florges": 1,
+        "Hydreigon": 1
       },
-      "total_spawns": 1409,
-      "last_spawn": "2026-07-05T20:59:43.766701"
+      "total_spawns": 1418,
+      "last_spawn": "2026-07-05T21:00:14.400022"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -579,7 +581,7 @@
         "Klink": 8,
         "Nymble": 9,
         "Porygon": 13,
-        "Abra": 12,
+        "Abra": 13,
         "Oddish": 10,
         "Dedenne": 2,
         "Gothita": 9,
@@ -689,7 +691,7 @@
         "Marill": 5,
         "Axew": 5,
         "Tinkatink": 7,
-        "Starly": 14,
+        "Starly": 15,
         "Popplio": 2,
         "Watchog": 2,
         "Bounsweet": 15,
@@ -957,7 +959,7 @@
         "Boldore": 1,
         "Prof tangrowth": 3,
         "Corvisquire": 2,
-        "Lokix": 3,
+        "Lokix": 4,
         "Charmeleon": 4,
         "Spidops": 2,
         "Dwebble": 3,
@@ -1152,12 +1154,12 @@
         "Castform": 1,
         "Palossand": 1
       },
-      "total_spawns": 1878,
-      "last_spawn": "2026-07-05T20:59:34.497198"
+      "total_spawns": 1881,
+      "last_spawn": "2026-07-05T21:00:05.129723"
     }
   },
   "global": {
-    "total_spawns": 65826,
+    "total_spawns": 65838,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
