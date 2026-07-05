@@ -612,7 +612,7 @@
         "Tirtouga": 3,
         "Swablu": 3,
         "Tepig": 2,
-        "Barbaracle": 1,
+        "Barbaracle": 2,
         "Noivern": 2,
         "Clefairy": 3,
         "Grubbin": 4,
@@ -699,7 +699,7 @@
         "Meganium": 1,
         "Chimchar": 1,
         "Mewtwo": 1,
-        "Pachirisu": 1,
+        "Pachirisu": 2,
         "Ursaring": 2,
         "Zweilous": 2,
         "Amoonguss": 1,
@@ -812,14 +812,16 @@
         "Gogoat": 1,
         "Morelull": 1,
         "Dewott": 1,
-        "Kingambit": 1
+        "Kingambit": 1,
+        "Corsola": 1,
+        "Gothitelle": 1
       },
-      "total_spawns": 957,
-      "last_spawn": "2026-07-05T17:23:25.699361"
+      "total_spawns": 961,
+      "last_spawn": "2026-07-05T17:24:04.532029"
     }
   },
   "global": {
-    "total_spawns": 64142,
+    "total_spawns": 64146,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
