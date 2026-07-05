@@ -242,7 +242,7 @@
         "Machoke": 1,
         "Luvdisc": 1,
         "Fennekin": 2,
-        "Milcery": 1,
+        "Milcery": 2,
         "Trumbeak": 1,
         "Bonsly": 1,
         "Growlithe": 1,
@@ -428,8 +428,8 @@
         "Marowak": 2,
         "Haunter": 1
       },
-      "total_spawns": 812,
-      "last_spawn": "2026-07-05T19:49:13.701774"
+      "total_spawns": 813,
+      "last_spawn": "2026-07-05T19:49:53.723235"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -929,7 +929,7 @@
     }
   },
   "global": {
-    "total_spawns": 64643,
+    "total_spawns": 64644,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
