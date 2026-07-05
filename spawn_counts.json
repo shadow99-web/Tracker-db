@@ -12,7 +12,7 @@
         "Braixen": 2,
         "Oddish": 3,
         "Totodile": 2,
-        "Vanillite": 8,
+        "Vanillite": 10,
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 6,
@@ -30,7 +30,7 @@
         "Palossand": 1,
         "Pyukumuku": 1,
         "Pidgey": 3,
-        "Binacle": 1,
+        "Binacle": 2,
         "Bounsweet": 4,
         "Fletchling": 3,
         "Whirlipede": 2,
@@ -220,9 +220,9 @@
         "Shuppet": 3,
         "Graveler": 1,
         "Duosion": 1,
-        "Orthworm": 2,
+        "Orthworm": 3,
         "Yamask": 1,
-        "Nymble": 1,
+        "Nymble": 2,
         "Snorunt": 1,
         "Carvanha": 2,
         "Toxel": 1,
@@ -401,7 +401,7 @@
         "Scorbunny": 1,
         "Dubwool": 1,
         "Litleo": 1,
-        "Silcoon": 1,
+        "Silcoon": 2,
         "Snivy": 2,
         "Zorua": 2,
         "Minior": 1,
@@ -434,10 +434,12 @@
         "Ludicolo": 2,
         "Scraggy": 1,
         "Stoutland": 1,
-        "Elgyem": 1
+        "Elgyem": 1,
+        "Dragonair": 1,
+        "Spheal": 1
       },
-      "total_spawns": 849,
-      "last_spawn": "2026-07-05T19:54:28.314088"
+      "total_spawns": 857,
+      "last_spawn": "2026-07-05T19:55:03.702922"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -937,7 +939,7 @@
     }
   },
   "global": {
-    "total_spawns": 64680,
+    "total_spawns": 64688,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
