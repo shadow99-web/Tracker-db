@@ -468,7 +468,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 6,
-        "Trapinch": 6,
+        "Trapinch": 7,
         "Hatenna": 6,
         "Drifloon": 2,
         "Togepi": 7,
@@ -821,14 +821,17 @@
         "Ceruledge": 1,
         "Swampert": 1,
         "Naclstack": 1,
-        "Golbat": 1
+        "Golbat": 1,
+        "Shuppet": 1,
+        "East sea gastrodon": 1,
+        "Grovyle": 1
       },
-      "total_spawns": 997,
-      "last_spawn": "2026-07-05T17:30:04.825806"
+      "total_spawns": 1001,
+      "last_spawn": "2026-07-05T17:30:44.529176"
     }
   },
   "global": {
-    "total_spawns": 64182,
+    "total_spawns": 64186,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
