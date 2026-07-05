@@ -13,7 +13,7 @@
         "Oddish": 13,
         "Totodile": 3,
         "Vanillite": 23,
-        "Weedle": 11,
+        "Weedle": 12,
         "Kabutops": 2,
         "Poliwag": 11,
         "Fidough": 9,
@@ -55,7 +55,7 @@
         "Maschiff": 6,
         "Smoliv": 4,
         "Tirtouga": 4,
-        "Hatenna": 8,
+        "Hatenna": 10,
         "Shroomish": 3,
         "Lillipup": 7,
         "Mosslax": 16,
@@ -670,8 +670,8 @@
         "Slaking": 1,
         "Obstagoon": 2
       },
-      "total_spawns": 2322,
-      "last_spawn": "2026-07-05T22:40:33.695928"
+      "total_spawns": 2325,
+      "last_spawn": "2026-07-05T22:41:13.594346"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1297,7 +1297,7 @@
         "Machamp": 1,
         "Absol": 1,
         "Floragato": 2,
-        "Blue plumage squawkabilly": 1,
+        "Blue plumage squawkabilly": 2,
         "Petilil": 1,
         "Gloom": 1,
         "Plusle": 1,
@@ -1333,14 +1333,17 @@
         "Lunatone": 1,
         "Lapras": 1,
         "Chesnaught": 1,
-        "Shuckle": 1
+        "Shuckle": 1,
+        "Metang": 1,
+        "Torchic": 1,
+        "Primarina": 1
       },
-      "total_spawns": 2473,
-      "last_spawn": "2026-07-05T22:40:44.608341"
+      "total_spawns": 2477,
+      "last_spawn": "2026-07-05T22:41:24.395632"
     }
   },
   "global": {
-    "total_spawns": 67334,
+    "total_spawns": 67341,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
