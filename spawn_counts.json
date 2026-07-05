@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 5,
         "Wattrel": 4,
-        "Nacli": 6,
+        "Nacli": 7,
         "Feebas": 1,
         "Weedle": 5,
         "Ralts": 5,
@@ -770,14 +770,16 @@
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
-        "Wiglett": 1
+        "Wiglett": 1,
+        "Carkol": 1,
+        "Solosis": 1
       },
-      "total_spawns": 786,
-      "last_spawn": "2026-07-05T16:54:34.420050"
+      "total_spawns": 789,
+      "last_spawn": "2026-07-05T16:55:04.504123"
     }
   },
   "global": {
-    "total_spawns": 63970,
+    "total_spawns": 63973,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
