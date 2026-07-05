@@ -476,7 +476,7 @@
         "Bellsprout": 2,
         "Scorbunny": 2,
         "Roggenrola": 5,
-        "Wattrel": 5,
+        "Wattrel": 6,
         "Nacli": 10,
         "Feebas": 1,
         "Weedle": 7,
@@ -797,14 +797,16 @@
         "Fletchinder": 1,
         "Sinistea": 1,
         "Shinx": 1,
-        "Totodile": 1
+        "Totodile": 1,
+        "Magikarp": 1,
+        "Pumpkaboo": 1
       },
-      "total_spawns": 888,
-      "last_spawn": "2026-07-05T17:11:54.510888"
+      "total_spawns": 891,
+      "last_spawn": "2026-07-05T17:12:24.702065"
     }
   },
   "global": {
-    "total_spawns": 64072,
+    "total_spawns": 64075,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
