@@ -444,7 +444,7 @@
         "Kilowattrel": 2,
         "Skiploom": 3,
         "Voltorb": 5,
-        "Geodude": 4,
+        "Geodude": 5,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 5,
         "Wattrel": 7,
-        "Nacli": 10,
+        "Nacli": 11,
         "Feebas": 1,
         "Weedle": 7,
         "Ralts": 6,
@@ -623,7 +623,7 @@
         "Bagon": 1,
         "Vanilluxe": 1,
         "Woobat": 2,
-        "Goomy": 5,
+        "Goomy": 6,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 4,
@@ -786,7 +786,7 @@
         "Lokix": 1,
         "Charmeleon": 2,
         "Spidops": 1,
-        "Dwebble": 1,
+        "Dwebble": 2,
         "Rockruff": 1,
         "Stunfisk": 1,
         "Spinda": 1,
@@ -822,12 +822,12 @@
         "Swampert": 1,
         "Naclstack": 1
       },
-      "total_spawns": 990,
-      "last_spawn": "2026-07-05T17:28:54.980021"
+      "total_spawns": 994,
+      "last_spawn": "2026-07-05T17:29:34.604987"
     }
   },
   "global": {
-    "total_spawns": 64175,
+    "total_spawns": 64179,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
