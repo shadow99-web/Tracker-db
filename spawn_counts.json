@@ -31,10 +31,10 @@
         "Pyukumuku": 1,
         "Pidgey": 12,
         "Binacle": 4,
-        "Bounsweet": 17,
+        "Bounsweet": 18,
         "Fletchling": 6,
         "Whirlipede": 4,
-        "Duskull": 18,
+        "Duskull": 19,
         "Abra": 16,
         "Wiglett": 8,
         "Starly": 19,
@@ -109,7 +109,7 @@
         "Bayleef": 3,
         "Magnezone": 1,
         "Eevee": 4,
-        "Dreepy": 29,
+        "Dreepy": 31,
         "Treecko": 10,
         "Shroodle": 5,
         "Ride cyclizar": 1,
@@ -673,8 +673,8 @@
         "Wash rotom": 1,
         "Igglybuff": 1
       },
-      "total_spawns": 2398,
-      "last_spawn": "2026-07-05T23:19:43.681305"
+      "total_spawns": 2402,
+      "last_spawn": "2026-07-05T23:20:13.642233"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -759,7 +759,7 @@
         "Drifloon": 3,
         "Togepi": 9,
         "Snivy": 4,
-        "Bellsprout": 11,
+        "Bellsprout": 12,
         "Scorbunny": 2,
         "Roggenrola": 18,
         "Wattrel": 17,
@@ -804,7 +804,7 @@
         "Starly": 15,
         "Popplio": 3,
         "Watchog": 2,
-        "Bounsweet": 20,
+        "Bounsweet": 21,
         "Flamigo": 12,
         "Stunky": 3,
         "Spinarak": 3,
@@ -1206,7 +1206,7 @@
         "Nidorino": 3,
         "Sobble": 3,
         "Vigoroth": 4,
-        "Finneon": 3,
+        "Finneon": 4,
         "Debutante trim furfrou": 1,
         "Fraxure": 1,
         "Tentacool": 3,
@@ -1358,14 +1358,15 @@
         "Claydol": 1,
         "Beheeyem": 1,
         "Blade aegislash": 1,
-        "Togedemaru": 1
+        "Togedemaru": 1,
+        "Sableye": 1
       },
-      "total_spawns": 2703,
-      "last_spawn": "2026-07-05T23:19:34.328613"
+      "total_spawns": 2707,
+      "last_spawn": "2026-07-05T23:20:14.410234"
     }
   },
   "global": {
-    "total_spawns": 67640,
+    "total_spawns": 67648,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
