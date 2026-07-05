@@ -22,7 +22,7 @@
         "Rowlet": 2,
         "Anorith": 3,
         "Arctibax": 1,
-        "Ralts": 6,
+        "Ralts": 8,
         "Peakychu": 15,
         "Cutiefly": 3,
         "Simipour": 2,
@@ -421,7 +421,7 @@
         "Crabominable": 2,
         "Krabby": 1,
         "Mimikyu": 4,
-        "Hoothoot": 2,
+        "Hoothoot": 3,
         "Girafarig": 1,
         "Summer deerling": 1,
         "Seel": 1,
@@ -619,10 +619,11 @@
         "Hangry morpeko": 2,
         "Omanyte": 1,
         "Mamoswine": 1,
-        "Spoink": 1
+        "Spoink": 1,
+        "Dhelmise": 1
       },
-      "total_spawns": 1875,
-      "last_spawn": "2026-07-05T21:34:43.601626"
+      "total_spawns": 1879,
+      "last_spawn": "2026-07-05T21:35:13.721131"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -644,8 +645,8 @@
         "Dedenne": 2,
         "Gothita": 10,
         "Finizen": 12,
-        "Machop": 10,
-        "Psyduck": 5,
+        "Machop": 11,
+        "Psyduck": 6,
         "Monferno": 1,
         "Pikipek": 8,
         "Flittle": 6,
@@ -1237,14 +1238,15 @@
         "Natu": 1,
         "Slugma": 1,
         "Escavalier": 1,
-        "Conkeldurr": 1
+        "Conkeldurr": 1,
+        "Poochyena": 1
       },
-      "total_spawns": 2082,
-      "last_spawn": "2026-07-05T21:34:44.307574"
+      "total_spawns": 2085,
+      "last_spawn": "2026-07-05T21:35:14.508495"
     }
   },
   "global": {
-    "total_spawns": 66496,
+    "total_spawns": 66503,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
