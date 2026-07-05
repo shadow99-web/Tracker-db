@@ -16,7 +16,7 @@
         "Weedle": 4,
         "Kabutops": 2,
         "Poliwag": 8,
-        "Fidough": 2,
+        "Fidough": 3,
         "Charjabug": 2,
         "Hatterene": 1,
         "Rowlet": 2,
@@ -312,7 +312,7 @@
         "Lumineon": 1,
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
-        "Petilil": 1,
+        "Petilil": 2,
         "Bombirdier": 3,
         "Bellibolt": 1,
         "Toedscool": 2,
@@ -385,7 +385,7 @@
         "Azelf": 1,
         "Clodsire": 2,
         "Charizard": 2,
-        "Axew": 3,
+        "Axew": 5,
         "Joltik": 1,
         "Gulpin": 1,
         "Mareanie": 1,
@@ -479,10 +479,12 @@
         "Pignite": 1,
         "Bunnelby": 1,
         "Complete zygarde": 1,
-        "Mudbray": 1
+        "Mudbray": 1,
+        "Spectrier": 1,
+        "Rufflet": 1
       },
-      "total_spawns": 1021,
-      "last_spawn": "2026-07-05T20:11:28.215033"
+      "total_spawns": 1027,
+      "last_spawn": "2026-07-05T20:12:03.797414"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -525,7 +527,7 @@
         "Timburr": 6,
         "Pidgey": 5,
         "Gimmighoul": 6,
-        "Cetoddle": 12,
+        "Cetoddle": 13,
         "Fidough": 11,
         "Smearguru": 4,
         "Nuzleaf": 3,
@@ -619,7 +621,7 @@
         "Gligar": 1,
         "Cubone": 1,
         "Dracovish": 1,
-        "Deino": 5,
+        "Deino": 6,
         "Honedge": 5,
         "Litleo": 2,
         "Steelix": 2,
@@ -753,7 +755,7 @@
         "Whirlipede": 2,
         "Tinkatuff": 2,
         "Baltoy": 5,
-        "Tarountula": 11,
+        "Tarountula": 13,
         "Omastar": 2,
         "Surskit": 1,
         "Wooper": 4,
@@ -797,7 +799,7 @@
         "Ursaring": 2,
         "Zweilous": 2,
         "Amoonguss": 1,
-        "Varoom": 5,
+        "Varoom": 6,
         "Kirlia": 2,
         "Minccino": 2,
         "Charmander": 2,
@@ -859,7 +861,7 @@
         "Roserade": 1,
         "Heliolisk": 1,
         "Doublade": 1,
-        "Electivire": 1,
+        "Electivire": 2,
         "Droopy tatsugiri": 4,
         "Blitzle": 2,
         "Politoed": 1,
@@ -1018,12 +1020,12 @@
         "Debutante trim furfrou": 1,
         "Fraxure": 1
       },
-      "total_spawns": 1476,
-      "last_spawn": "2026-07-05T20:11:37.129184"
+      "total_spawns": 1482,
+      "last_spawn": "2026-07-05T20:12:07.179204"
     }
   },
   "global": {
-    "total_spawns": 65036,
+    "total_spawns": 65048,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
