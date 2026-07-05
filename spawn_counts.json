@@ -1319,7 +1319,7 @@
         "Vullaby": 1,
         "Venipede": 1,
         "Pansage": 2,
-        "Cetoddle": 1,
+        "Cetoddle": 2,
         "Togepi": 1,
         "Tandemaus": 2,
         "Clefairy": 1,
@@ -1436,14 +1436,15 @@
         "Nacli": 2,
         "Pancham": 1,
         "Bulbasaur": 1,
-        "Dewpider": 1
+        "Dewpider": 1,
+        "Yellow plumage squawkabilly": 1
       },
-      "total_spawns": 394,
-      "last_spawn": "2026-07-05T03:55:23.090306"
+      "total_spawns": 396,
+      "last_spawn": "2026-07-05T03:56:03.097131"
     }
   },
   "global": {
-    "total_spawns": 62933,
+    "total_spawns": 62935,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
