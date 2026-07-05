@@ -484,7 +484,7 @@
         "Kangaskhan": 1,
         "Eldegoss": 1,
         "Aron": 6,
-        "Horsea": 8,
+        "Horsea": 9,
         "Teddiursa": 4,
         "Dratini": 1,
         "Sewaddle": 5,
@@ -580,7 +580,7 @@
         "Clodsire": 1,
         "Sandaconda": 1,
         "Ninjask": 1,
-        "Pidove": 3,
+        "Pidove": 4,
         "Larvitar": 3,
         "Munna": 1,
         "Tangela": 2,
@@ -810,14 +810,15 @@
         "Turtwig": 1,
         "Snubbull": 1,
         "Gogoat": 1,
-        "Morelull": 1
+        "Morelull": 1,
+        "Dewott": 1
       },
-      "total_spawns": 946,
-      "last_spawn": "2026-07-05T17:21:34.519770"
+      "total_spawns": 949,
+      "last_spawn": "2026-07-05T17:22:05.398197"
     }
   },
   "global": {
-    "total_spawns": 64131,
+    "total_spawns": 64134,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
