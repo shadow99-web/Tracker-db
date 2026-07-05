@@ -809,7 +809,7 @@
         "Stunky": 3,
         "Spinarak": 3,
         "Gligar": 2,
-        "Cubone": 3,
+        "Cubone": 4,
         "Dracovish": 1,
         "Deino": 10,
         "Honedge": 6,
@@ -833,7 +833,7 @@
         "Tynamo": 12,
         "Quaquaval": 4,
         "Rapidash": 3,
-        "Maschiff": 12,
+        "Maschiff": 13,
         "Sensu oricorio": 3,
         "Scatterbug": 17,
         "Taillow": 4,
@@ -928,7 +928,7 @@
         "Wingull": 1,
         "Buneary": 8,
         "Skiddo": 6,
-        "Zigzagoon": 4,
+        "Zigzagoon": 5,
         "Dj rotom": 11,
         "Anorith": 3,
         "Shiinotic": 1,
@@ -1253,7 +1253,7 @@
         "Ferroseed": 1,
         "Gossifleur": 3,
         "Palafin": 3,
-        "Gothorita": 2,
+        "Gothorita": 3,
         "Simipour": 1,
         "Bronzong": 1,
         "Xatu": 2,
@@ -1357,12 +1357,12 @@
         "Rainy castform": 1,
         "Claydol": 1
       },
-      "total_spawns": 2674,
-      "last_spawn": "2026-07-05T23:14:44.800880"
+      "total_spawns": 2678,
+      "last_spawn": "2026-07-05T23:15:24.402475"
     }
   },
   "global": {
-    "total_spawns": 67601,
+    "total_spawns": 67605,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
