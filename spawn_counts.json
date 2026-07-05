@@ -403,7 +403,7 @@
         "Rhyhorn": 3,
         "Mareep": 3,
         "Klink": 6,
-        "Nymble": 5,
+        "Nymble": 6,
         "Porygon": 8,
         "Abra": 6,
         "Oddish": 8,
@@ -721,7 +721,7 @@
         "Rabsca": 2,
         "Cofagrigus": 1,
         "Hattrem": 1,
-        "Sneasel": 1,
+        "Sneasel": 2,
         "Piplup": 1,
         "Electrike": 2,
         "Kabuto": 1,
@@ -746,7 +746,7 @@
         "Thievul": 1,
         "Gengar": 1,
         "Sunkern": 1,
-        "Wugtrio": 1,
+        "Wugtrio": 2,
         "Applin": 2,
         "Venipede": 5,
         "Toedscruel": 1,
@@ -820,7 +820,7 @@
         "Smeargle": 1,
         "Ceruledge": 1,
         "Swampert": 1,
-        "Naclstack": 1,
+        "Naclstack": 2,
         "Golbat": 3,
         "Shuppet": 1,
         "East sea gastrodon": 1,
@@ -856,14 +856,16 @@
         "Rhydon": 1,
         "Bruxish": 1,
         "Pancham": 1,
-        "Exeggcute": 1
+        "Exeggcute": 1,
+        "Cherubi": 1,
+        "Tangrowth": 1
       },
-      "total_spawns": 1179,
-      "last_spawn": "2026-07-05T17:46:07.205207"
+      "total_spawns": 1185,
+      "last_spawn": "2026-07-05T17:46:37.510502"
     }
   },
   "global": {
-    "total_spawns": 64367,
+    "total_spawns": 64373,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
