@@ -427,7 +427,7 @@
         "Kleavor": 1,
         "Karrablast": 2,
         "Timburr": 2,
-        "Pidgey": 2,
+        "Pidgey": 3,
         "Gimmighoul": 3,
         "Cetoddle": 2,
         "Fidough": 3,
@@ -617,14 +617,17 @@
         "Dustox": 1,
         "Chespin": 1,
         "Armarouge": 1,
-        "Battle cyclizar": 1
+        "Battle cyclizar": 1,
+        "Bagon": 1,
+        "Vanilluxe": 1,
+        "Woobat": 1
       },
-      "total_spawns": 322,
-      "last_spawn": "2026-07-05T15:35:34.620850"
+      "total_spawns": 326,
+      "last_spawn": "2026-07-05T15:36:14.438591"
     }
   },
   "global": {
-    "total_spawns": 63501,
+    "total_spawns": 63505,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
