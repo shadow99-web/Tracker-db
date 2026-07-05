@@ -381,10 +381,11 @@
         "Poltchageist": 1,
         "Slakoth": 1,
         "Klink": 1,
-        "Mesprit": 1
+        "Mesprit": 1,
+        "Azelf": 1
       },
-      "total_spawns": 638,
-      "last_spawn": "2026-07-05T15:30:06.508395"
+      "total_spawns": 639,
+      "last_spawn": "2026-07-05T15:33:48.595920"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -608,14 +609,17 @@
         "Tirtouga": 1,
         "Swablu": 1,
         "Tepig": 1,
-        "Barbaracle": 1
+        "Barbaracle": 1,
+        "Noivern": 1,
+        "Clefairy": 1,
+        "Grubbin": 1
       },
-      "total_spawns": 308,
-      "last_spawn": "2026-07-05T15:33:14.497363"
+      "total_spawns": 311,
+      "last_spawn": "2026-07-05T15:33:44.349960"
     }
   },
   "global": {
-    "total_spawns": 63485,
+    "total_spawns": 63489,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
