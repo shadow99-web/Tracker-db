@@ -415,7 +415,7 @@
         "Monferno": 1,
         "Pikipek": 4,
         "Flittle": 4,
-        "Lillipup": 4,
+        "Lillipup": 5,
         "Eevee": 3,
         "Shroomish": 1,
         "Dachsbun": 2,
@@ -544,7 +544,7 @@
         "Sizzlipede": 3,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
-        "Tynamo": 4,
+        "Tynamo": 5,
         "Quaquaval": 4,
         "Rapidash": 1,
         "Maschiff": 4,
@@ -575,7 +575,7 @@
         "Gorebyss": 1,
         "Quaxwell": 1,
         "Croconaw": 2,
-        "Smoliv": 4,
+        "Smoliv": 5,
         "Lechonk": 5,
         "Clodsire": 1,
         "Sandaconda": 1,
@@ -620,7 +620,7 @@
         "Chespin": 5,
         "Armarouge": 2,
         "Battle cyclizar": 1,
-        "Bagon": 1,
+        "Bagon": 2,
         "Vanilluxe": 1,
         "Woobat": 2,
         "Goomy": 6,
@@ -658,7 +658,7 @@
         "Pincurchin": 1,
         "Whirlipede": 1,
         "Tinkatuff": 1,
-        "Baltoy": 3,
+        "Baltoy": 4,
         "Tarountula": 9,
         "Omastar": 1,
         "Surskit": 1,
@@ -770,7 +770,7 @@
         "Blitzle": 1,
         "Politoed": 1,
         "Nickit": 1,
-        "Wiglett": 3,
+        "Wiglett": 4,
         "Carkol": 2,
         "Solosis": 3,
         "Flapple": 1,
@@ -791,7 +791,7 @@
         "Stunfisk": 1,
         "Spinda": 1,
         "Beautifly": 2,
-        "Fletchling": 3,
+        "Fletchling": 4,
         "Haunter": 1,
         "Sandshrew": 1,
         "Fletchinder": 2,
@@ -860,12 +860,12 @@
         "Cherubi": 1,
         "Tangrowth": 1
       },
-      "total_spawns": 1185,
-      "last_spawn": "2026-07-05T17:46:37.510502"
+      "total_spawns": 1192,
+      "last_spawn": "2026-07-05T17:47:22.405028"
     }
   },
   "global": {
-    "total_spawns": 64373,
+    "total_spawns": 64380,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
