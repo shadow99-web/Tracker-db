@@ -477,7 +477,7 @@
         "Scorbunny": 2,
         "Roggenrola": 2,
         "Wattrel": 4,
-        "Nacli": 2,
+        "Nacli": 3,
         "Feebas": 1,
         "Weedle": 3,
         "Ralts": 3,
@@ -706,14 +706,16 @@
         "Varoom": 1,
         "Kirlia": 1,
         "Minccino": 1,
-        "Charmander": 1
+        "Charmander": 1,
+        "Misdreavus": 1,
+        "Growlithe": 1
       },
-      "total_spawns": 542,
-      "last_spawn": "2026-07-05T16:13:04.440005"
+      "total_spawns": 545,
+      "last_spawn": "2026-07-05T16:13:34.577831"
     }
   },
   "global": {
-    "total_spawns": 63726,
+    "total_spawns": 63729,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
