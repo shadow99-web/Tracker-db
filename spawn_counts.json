@@ -394,7 +394,7 @@
         "Dusclops": 1,
         "Rhyhorn": 2,
         "Mareep": 1,
-        "Klink": 1,
+        "Klink": 2,
         "Nymble": 1,
         "Porygon": 1,
         "Abra": 1,
@@ -455,7 +455,7 @@
         "Charcadet": 1,
         "Sandile": 1,
         "Maushold": 1,
-        "Rattata": 1,
+        "Rattata": 2,
         "Riolu": 1,
         "Aromatisse": 1,
         "Slowpoke": 1,
@@ -485,14 +485,15 @@
         "Dreepy": 1,
         "Foongus": 1,
         "Hoppip": 1,
-        "Blipbug": 1
+        "Blipbug": 1,
+        "Swoobat": 1
       },
-      "total_spawns": 112,
-      "last_spawn": "2026-07-05T14:59:44.337944"
+      "total_spawns": 115,
+      "last_spawn": "2026-07-05T15:00:14.799329"
     }
   },
   "global": {
-    "total_spawns": 63280,
+    "total_spawns": 63283,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
