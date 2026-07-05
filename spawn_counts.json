@@ -22,14 +22,14 @@
         "Rowlet": 2,
         "Anorith": 2,
         "Arctibax": 1,
-        "Ralts": 4,
+        "Ralts": 6,
         "Peakychu": 11,
         "Cutiefly": 3,
         "Simipour": 1,
         "Tynamo": 3,
         "Palossand": 1,
         "Pyukumuku": 1,
-        "Pidgey": 5,
+        "Pidgey": 6,
         "Binacle": 2,
         "Bounsweet": 4,
         "Fletchling": 3,
@@ -347,7 +347,7 @@
         "Chespin": 1,
         "Combee": 2,
         "Cyndaquil": 1,
-        "Grotle": 1,
+        "Grotle": 2,
         "Tinkaton": 1,
         "Bergmite": 1,
         "Klang": 2,
@@ -372,7 +372,7 @@
         "Cresselia": 2,
         "Duraludon": 2,
         "Nidorino": 2,
-        "Rayquaza": 11,
+        "Rayquaza": 12,
         "Horsea": 6,
         "Reshiram": 3,
         "Celebi": 1,
@@ -464,8 +464,8 @@
         "Galarian articuno": 1,
         "Kyurem": 1
       },
-      "total_spawns": 972,
-      "last_spawn": "2026-07-05T20:07:08.509516"
+      "total_spawns": 977,
+      "last_spawn": "2026-07-05T20:07:38.196704"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -529,7 +529,7 @@
         "Orthworm": 8,
         "Glimmet": 8,
         "Beldum": 2,
-        "Combee": 2,
+        "Combee": 3,
         "Corphish": 2,
         "Litten": 4,
         "Infernape": 3,
@@ -550,7 +550,7 @@
         "Drifloon": 2,
         "Togepi": 8,
         "Snivy": 2,
-        "Bellsprout": 6,
+        "Bellsprout": 7,
         "Scorbunny": 2,
         "Roggenrola": 7,
         "Wattrel": 9,
@@ -577,7 +577,7 @@
         "Braixen": 2,
         "Skwovet": 2,
         "Magnemite": 9,
-        "Impidimp": 11,
+        "Impidimp": 12,
         "Elgyem": 2,
         "Gastrodon": 1,
         "Shroodle": 6,
@@ -607,7 +607,7 @@
         "Litleo": 2,
         "Steelix": 2,
         "Greninja": 1,
-        "Dondozo": 6,
+        "Dondozo": 7,
         "Lairon": 2,
         "Zubat": 10,
         "Croagunk": 3,
@@ -751,7 +751,7 @@
         "Sprigatito": 2,
         "Bidoof": 2,
         "Frillish": 2,
-        "Toedscool": 3,
+        "Toedscool": 4,
         "Espathra": 1,
         "Klang": 2,
         "Vespiquen": 4,
@@ -915,7 +915,7 @@
         "Vullaby": 1,
         "Burmy": 1,
         "Nidorina": 1,
-        "Meowth": 2,
+        "Meowth": 3,
         "Shelmet": 1,
         "Electabuzz": 1,
         "Galarian zen darmanitan": 1,
@@ -987,14 +987,15 @@
         "Budew": 1,
         "Cascoon": 1,
         "Dottler": 1,
-        "Mr. mime": 1
+        "Mr. mime": 1,
+        "Slowking": 1
       },
-      "total_spawns": 1426,
-      "last_spawn": "2026-07-05T20:07:07.164810"
+      "total_spawns": 1433,
+      "last_spawn": "2026-07-05T20:07:44.823991"
     }
   },
   "global": {
-    "total_spawns": 64937,
+    "total_spawns": 64949,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
