@@ -380,7 +380,7 @@
       "counts": {
         "Tandemaus": 1,
         "Caterpie": 1,
-        "Flaaffy": 1,
+        "Flaaffy": 2,
         "Bronzor": 1,
         "Gible": 2,
         "Torracat": 1,
@@ -413,7 +413,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 1,
-        "Timburr": 1,
+        "Timburr": 2,
         "Pidgey": 2,
         "Gimmighoul": 1,
         "Cetoddle": 1,
@@ -447,14 +447,15 @@
         "Grapploct": 1,
         "Charcadet": 1,
         "Sandile": 1,
-        "Maushold": 1
+        "Maushold": 1,
+        "Rattata": 1
       },
-      "total_spawns": 76,
-      "last_spawn": "2026-07-05T14:19:24.295950"
+      "total_spawns": 79,
+      "last_spawn": "2026-07-05T14:19:54.418258"
     }
   },
   "global": {
-    "total_spawns": 63224,
+    "total_spawns": 63227,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
