@@ -401,7 +401,7 @@
         "Torracat": 1,
         "Dusclops": 2,
         "Rhyhorn": 3,
-        "Mareep": 2,
+        "Mareep": 3,
         "Klink": 5,
         "Nymble": 5,
         "Porygon": 8,
@@ -433,7 +433,7 @@
         "Gimmighoul": 6,
         "Cetoddle": 8,
         "Fidough": 7,
-        "Smearguru": 2,
+        "Smearguru": 3,
         "Nuzleaf": 2,
         "Clauncher": 2,
         "Cetitan": 1,
@@ -476,7 +476,7 @@
         "Bellsprout": 3,
         "Scorbunny": 2,
         "Roggenrola": 5,
-        "Wattrel": 7,
+        "Wattrel": 8,
         "Nacli": 12,
         "Feebas": 1,
         "Weedle": 7,
@@ -518,7 +518,7 @@
         "Starly": 7,
         "Popplio": 2,
         "Watchog": 1,
-        "Bounsweet": 12,
+        "Bounsweet": 13,
         "Flamigo": 5,
         "Stunky": 1,
         "Spinarak": 2,
@@ -562,7 +562,7 @@
         "Gholdengo": 2,
         "Machoke": 1,
         "Glameow": 3,
-        "Swinub": 8,
+        "Swinub": 9,
         "Marshtomp": 2,
         "Venonat": 1,
         "Aipom": 1,
@@ -737,7 +737,7 @@
         "Mismagius": 1,
         "Mudbray": 2,
         "Weepinbell": 1,
-        "East sea shellos": 3,
+        "East sea shellos": 4,
         "Flygon": 1,
         "Cyclizar": 2,
         "Murkrow": 1,
@@ -801,7 +801,7 @@
         "Magikarp": 2,
         "Pumpkaboo": 1,
         "Banette": 1,
-        "Tympole": 2,
+        "Tympole": 3,
         "Bunnelby": 1,
         "Vanillish": 1,
         "Arrokuda": 1,
@@ -843,12 +843,12 @@
         "Electabuzz": 1,
         "Galarian zen darmanitan": 1
       },
-      "total_spawns": 1099,
-      "last_spawn": "2026-07-05T17:39:27.597831"
+      "total_spawns": 1106,
+      "last_spawn": "2026-07-05T17:40:04.515178"
     }
   },
   "global": {
-    "total_spawns": 64287,
+    "total_spawns": 64294,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
