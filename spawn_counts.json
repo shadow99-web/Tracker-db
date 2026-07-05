@@ -161,7 +161,7 @@
         "Swadloon": 3,
         "Sunny castform": 4,
         "Vullaby": 2,
-        "Venipede": 5,
+        "Venipede": 6,
         "Pansage": 2,
         "Cetoddle": 4,
         "Togepi": 4,
@@ -231,7 +231,7 @@
         "Tangrowth": 1,
         "Sizzlipede": 1,
         "Skuntank": 1,
-        "Palafin": 2,
+        "Palafin": 3,
         "Timburr": 3,
         "Shellos": 1,
         "Arcanine": 1,
@@ -474,10 +474,15 @@
         "Zekrom": 1,
         "Xurkitree": 1,
         "Poipole": 1,
-        "Alolan raichu": 2
+        "Alolan raichu": 2,
+        "Hitmontop": 2,
+        "Pignite": 1,
+        "Bunnelby": 1,
+        "Complete zygarde": 1,
+        "Mudbray": 1
       },
-      "total_spawns": 1009,
-      "last_spawn": "2026-07-05T20:10:23.987720"
+      "total_spawns": 1017,
+      "last_spawn": "2026-07-05T20:10:58.296408"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -557,7 +562,7 @@
         "Aromatisse": 1,
         "Slowpoke": 1,
         "Seedot": 10,
-        "Trapinch": 8,
+        "Trapinch": 9,
         "Hatenna": 8,
         "Drifloon": 2,
         "Togepi": 8,
@@ -702,7 +707,7 @@
         "Swablu": 5,
         "Tepig": 2,
         "Barbaracle": 4,
-        "Noivern": 2,
+        "Noivern": 3,
         "Clefairy": 4,
         "Grubbin": 8,
         "Dustox": 1,
@@ -712,7 +717,7 @@
         "Bagon": 3,
         "Vanilluxe": 1,
         "Woobat": 3,
-        "Goomy": 6,
+        "Goomy": 7,
         "Orbeetle": 1,
         "Shellder": 4,
         "Pawmi": 7,
@@ -777,7 +782,7 @@
         "Veluza": 5,
         "Salandit": 5,
         "Yellow plumage squawkabilly": 1,
-        "Poliwag": 3,
+        "Poliwag": 4,
         "Passimian": 1,
         "Pikachu": 2,
         "Yungoos": 3,
@@ -953,7 +958,7 @@
         "Servine": 1,
         "Zoroark": 1,
         "Aegislash": 1,
-        "Scyther": 1,
+        "Scyther": 2,
         "Azumarill": 1,
         "Rillaboom": 1,
         "Farfetch'd": 1,
@@ -1010,14 +1015,15 @@
         "Sobble": 1,
         "Vigoroth": 1,
         "Finneon": 1,
-        "Debutante trim furfrou": 1
+        "Debutante trim furfrou": 1,
+        "Fraxure": 1
       },
-      "total_spawns": 1465,
-      "last_spawn": "2026-07-05T20:10:27.207966"
+      "total_spawns": 1471,
+      "last_spawn": "2026-07-05T20:10:57.149172"
     }
   },
   "global": {
-    "total_spawns": 65013,
+    "total_spawns": 65027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
