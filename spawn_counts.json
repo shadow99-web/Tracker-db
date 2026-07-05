@@ -23,7 +23,7 @@
         "Anorith": 2,
         "Arctibax": 1,
         "Ralts": 4,
-        "Peakychu": 7,
+        "Peakychu": 9,
         "Cutiefly": 3,
         "Simipour": 1,
         "Tynamo": 1,
@@ -47,7 +47,7 @@
         "Tadbulb": 3,
         "Yanmega": 1,
         "Tympole": 6,
-        "Grubbin": 5,
+        "Grubbin": 6,
         "Scatterbug": 4,
         "Skwovet": 2,
         "Applin": 2,
@@ -373,7 +373,7 @@
         "Duraludon": 2,
         "Nidorino": 1,
         "Rayquaza": 10,
-        "Horsea": 2,
+        "Horsea": 3,
         "Reshiram": 1,
         "Celebi": 1,
         "Morelull": 1,
@@ -416,10 +416,11 @@
         "Sewaddle": 1,
         "Shelmet": 1,
         "Combusken": 1,
-        "Croagunk": 1
+        "Croagunk": 2,
+        "Mothim": 2
       },
-      "total_spawns": 777,
-      "last_spawn": "2026-07-05T19:45:09.398071"
+      "total_spawns": 784,
+      "last_spawn": "2026-07-05T19:45:43.517993"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -919,7 +920,7 @@
     }
   },
   "global": {
-    "total_spawns": 64608,
+    "total_spawns": 64615,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
