@@ -444,7 +444,7 @@
         "Kilowattrel": 2,
         "Skiploom": 1,
         "Voltorb": 1,
-        "Geodude": 2,
+        "Geodude": 3,
         "Treecko": 1,
         "Grimer": 1,
         "Grafaiai": 1,
@@ -673,7 +673,7 @@
         "Sandy wormadam": 1,
         "Sprigatito": 1,
         "Bidoof": 1,
-        "Frillish": 1,
+        "Frillish": 2,
         "Toedscool": 1,
         "Espathra": 1,
         "Klang": 1,
@@ -717,14 +717,15 @@
         "Sandygast": 1,
         "Graveler": 1,
         "Duosion": 1,
-        "Pawniard": 1
+        "Pawniard": 1,
+        "Rabsca": 1
       },
-      "total_spawns": 569,
-      "last_spawn": "2026-07-05T16:17:34.343876"
+      "total_spawns": 572,
+      "last_spawn": "2026-07-05T16:18:04.428220"
     }
   },
   "global": {
-    "total_spawns": 63753,
+    "total_spawns": 63756,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
