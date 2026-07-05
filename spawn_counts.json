@@ -40,7 +40,7 @@
         "Starly": 8,
         "Caterpie": 3,
         "Mareep": 3,
-        "Capsakid": 4,
+        "Capsakid": 5,
         "Numel": 1,
         "Pawmo": 1,
         "Wattrel": 3,
@@ -225,7 +225,7 @@
         "Nymble": 4,
         "Snorunt": 1,
         "Carvanha": 2,
-        "Toxel": 1,
+        "Toxel": 2,
         "Buneary": 1,
         "Gallade": 1,
         "Tangrowth": 1,
@@ -488,7 +488,7 @@
         "Mudkip": 4,
         "Galarian zapdos": 1,
         "Empoleon": 1,
-        "Voltorb": 1,
+        "Voltorb": 2,
         "Hitmonchan": 1,
         "Pidgeot": 1,
         "Alakazam": 1,
@@ -511,8 +511,8 @@
         "Melmetal": 1,
         "Liepard": 1
       },
-      "total_spawns": 1142,
-      "last_spawn": "2026-07-05T20:24:58.285120"
+      "total_spawns": 1145,
+      "last_spawn": "2026-07-05T20:25:28.394075"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -563,7 +563,7 @@
         "Cetitan": 3,
         "Bramblin": 8,
         "Dusk lycanroc": 1,
-        "Cutiefly": 1,
+        "Cutiefly": 2,
         "Binacle": 3,
         "Kilowattrel": 3,
         "Skiploom": 3,
@@ -609,7 +609,7 @@
         "Eldegoss": 1,
         "Aron": 7,
         "Horsea": 15,
-        "Teddiursa": 8,
+        "Teddiursa": 9,
         "Dratini": 2,
         "Sewaddle": 7,
         "Mantyke": 1,
@@ -634,12 +634,12 @@
         "Bombirdier": 7,
         "Wooloo": 4,
         "Togekiss": 1,
-        "Rolycoly": 8,
+        "Rolycoly": 9,
         "Duskull": 5,
         "Marill": 5,
         "Axew": 4,
         "Tinkatink": 5,
-        "Starly": 10,
+        "Starly": 11,
         "Popplio": 2,
         "Watchog": 1,
         "Bounsweet": 14,
@@ -698,7 +698,7 @@
         "Morgrem": 1,
         "Gorebyss": 1,
         "Quaxwell": 2,
-        "Croconaw": 3,
+        "Croconaw": 4,
         "Smoliv": 5,
         "Lechonk": 7,
         "Clodsire": 2,
@@ -830,7 +830,7 @@
         "Varoom": 6,
         "Kirlia": 2,
         "Minccino": 3,
-        "Charmander": 3,
+        "Charmander": 4,
         "Misdreavus": 2,
         "Growlithe": 4,
         "Arctozolt": 3,
@@ -1070,12 +1070,12 @@
         "Tranquill": 1,
         "Mankey": 1
       },
-      "total_spawns": 1632,
-      "last_spawn": "2026-07-05T20:24:57.094435"
+      "total_spawns": 1638,
+      "last_spawn": "2026-07-05T20:25:28.094752"
     }
   },
   "global": {
-    "total_spawns": 65313,
+    "total_spawns": 65322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
