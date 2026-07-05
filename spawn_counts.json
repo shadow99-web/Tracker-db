@@ -401,7 +401,7 @@
         "Torracat": 1,
         "Dusclops": 2,
         "Rhyhorn": 3,
-        "Mareep": 3,
+        "Mareep": 4,
         "Klink": 6,
         "Nymble": 6,
         "Porygon": 10,
@@ -469,13 +469,13 @@
         "Slowpoke": 1,
         "Seedot": 8,
         "Trapinch": 8,
-        "Hatenna": 6,
+        "Hatenna": 7,
         "Drifloon": 2,
         "Togepi": 7,
         "Snivy": 1,
-        "Bellsprout": 5,
+        "Bellsprout": 6,
         "Scorbunny": 2,
-        "Roggenrola": 6,
+        "Roggenrola": 7,
         "Wattrel": 9,
         "Nacli": 13,
         "Feebas": 2,
@@ -767,7 +767,7 @@
         "Doublade": 1,
         "Electivire": 1,
         "Droopy tatsugiri": 4,
-        "Blitzle": 1,
+        "Blitzle": 2,
         "Politoed": 1,
         "Nickit": 1,
         "Wiglett": 4,
@@ -879,14 +879,15 @@
         "Hariyama": 1,
         "Archen": 1,
         "Mabosstiff": 1,
-        "Skuntank": 1
+        "Skuntank": 1,
+        "Glastrier": 1
       },
-      "total_spawns": 1284,
-      "last_spawn": "2026-07-05T17:55:07.416488"
+      "total_spawns": 1290,
+      "last_spawn": "2026-07-05T17:55:37.505953"
     }
   },
   "global": {
-    "total_spawns": 64472,
+    "total_spawns": 64478,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
