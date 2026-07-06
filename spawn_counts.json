@@ -87,7 +87,7 @@
         "Shinx": 28,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 19,
+        "Pawmi": 21,
         "Sandile": 19,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -386,7 +386,7 @@
         "Clodsire": 3,
         "Charizard": 8,
         "Axew": 21,
-        "Joltik": 2,
+        "Joltik": 3,
         "Gulpin": 2,
         "Mareanie": 2,
         "Throh": 3,
@@ -638,7 +638,7 @@
         "Unown k": 2,
         "Elekid": 1,
         "Chingling": 2,
-        "Tangela": 1,
+        "Tangela": 2,
         "Raticate": 1,
         "Weavile": 2,
         "Amped toxtricity": 2,
@@ -702,8 +702,8 @@
         "Spidops": 1,
         "Glimmora": 1
       },
-      "total_spawns": 2729,
-      "last_spawn": "2026-07-06T07:20:43.598274"
+      "total_spawns": 2733,
+      "last_spawn": "2026-07-06T07:21:13.697493"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1416,7 +1416,7 @@
     }
   },
   "global": {
-    "total_spawns": 68261,
+    "total_spawns": 68265,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
