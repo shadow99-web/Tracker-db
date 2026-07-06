@@ -206,7 +206,7 @@
         "Fraxure": 1,
         "Zubat": 12,
         "Drowzee": 3,
-        "Lechonk": 10,
+        "Lechonk": 11,
         "Woobat": 3,
         "Skrelp": 4,
         "Lileep": 2,
@@ -360,7 +360,7 @@
         "Hoppip": 11,
         "Slowbro": 2,
         "Gholdengo": 3,
-        "Trubbish": 6,
+        "Trubbish": 7,
         "Rockruff": 2,
         "Snowy castform": 1,
         "Dusclops": 2,
@@ -389,7 +389,7 @@
         "Joltik": 2,
         "Gulpin": 1,
         "Mareanie": 2,
-        "Throh": 1,
+        "Throh": 2,
         "Sentret": 4,
         "Houndoom": 1,
         "Meganium": 4,
@@ -485,7 +485,7 @@
         "Lairon": 1,
         "Altaria": 1,
         "Attack deoxys": 2,
-        "Mudkip": 8,
+        "Mudkip": 10,
         "Galarian zapdos": 1,
         "Empoleon": 1,
         "Voltorb": 2,
@@ -689,8 +689,8 @@
         "Grapploct": 1,
         "Vanilluxe": 1
       },
-      "total_spawns": 2565,
-      "last_spawn": "2026-07-06T04:47:18.760736"
+      "total_spawns": 2570,
+      "last_spawn": "2026-07-06T04:47:58.295368"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1403,7 +1403,7 @@
     }
   },
   "global": {
-    "total_spawns": 68097,
+    "total_spawns": 68102,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
