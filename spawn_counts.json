@@ -122,7 +122,7 @@
         "Frogadier": 3,
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
-        "Flaaffy": 3,
+        "Flaaffy": 4,
         "Rookidee": 25,
         "Flapple": 4,
         "Bronzor": 4,
@@ -236,7 +236,7 @@
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
-        "Whismur": 14,
+        "Whismur": 15,
         "Jangmo-o": 9,
         "Lunatone": 1,
         "Machoke": 5,
@@ -784,10 +784,11 @@
         "Umbreon": 2,
         "Ninjask": 1,
         "Arctovish": 1,
-        "Ariados": 1
+        "Ariados": 1,
+        "Porygon-z": 1
       },
-      "total_spawns": 4028,
-      "last_spawn": "2026-07-06T19:00:28.912593"
+      "total_spawns": 4031,
+      "last_spawn": "2026-07-06T19:01:53.597919"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1501,7 @@
     }
   },
   "global": {
-    "total_spawns": 69560,
+    "total_spawns": 69563,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
