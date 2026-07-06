@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 8,
         "Mienshao": 2,
-        "Blipbug": 26,
+        "Blipbug": 28,
         "Rellor": 7,
         "Rolycoly": 13,
         "Poliwhirl": 4,
@@ -275,7 +275,7 @@
         "Decidueye": 2,
         "Kricketot": 7,
         "Ledyba": 2,
-        "Chinchou": 4,
+        "Chinchou": 5,
         "Eiscue": 1,
         "Nacli": 11,
         "Pancham": 3,
@@ -295,7 +295,7 @@
         "Dartrix": 3,
         "Ceruledge": 2,
         "Vanillish": 3,
-        "Gimmighoul": 10,
+        "Gimmighoul": 11,
         "Glimmet": 11,
         "Popplio": 3,
         "Arboliva": 2,
@@ -740,10 +740,11 @@
         "Galarian slowbro": 2,
         "Oricorio": 1,
         "Hitmonlee": 1,
-        "Sudowoodo": 1
+        "Sudowoodo": 1,
+        "Yveltal": 2
       },
-      "total_spawns": 3274,
-      "last_spawn": "2026-07-06T09:45:13.552606"
+      "total_spawns": 3280,
+      "last_spawn": "2026-07-06T09:45:43.629164"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1456,7 +1457,7 @@
     }
   },
   "global": {
-    "total_spawns": 68806,
+    "total_spawns": 68812,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
