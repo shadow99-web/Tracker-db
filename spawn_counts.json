@@ -68,7 +68,7 @@
         "Feebas": 6,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 24,
+        "Gastly": 26,
         "Aron": 17,
         "Honedge": 26,
         "Houndour": 1,
@@ -138,7 +138,7 @@
         "Eelektrik": 3,
         "Diglett": 6,
         "Surskit": 6,
-        "Seedot": 12,
+        "Seedot": 13,
         "Jigglypuff": 5,
         "Spearow": 3,
         "Servine": 3,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 5,
-        "Zubat": 15,
+        "Zubat": 16,
         "Drowzee": 5,
         "Lechonk": 14,
         "Woobat": 3,
@@ -518,7 +518,7 @@
         "Bronzong": 2,
         "Foongus": 3,
         "Krookodile": 1,
-        "Espathra": 3,
+        "Espathra": 4,
         "Snom": 4,
         "Nickit": 4,
         "Aromatisse": 1,
@@ -746,7 +746,7 @@
         "Aggron": 1,
         "Regigigas": 1,
         "Bisharp": 1,
-        "Forretress": 1,
+        "Forretress": 2,
         "Swampert": 2,
         "High plain vivillon": 1,
         "Metapod": 2,
@@ -769,10 +769,12 @@
         "Flygon": 1,
         "Archaludon": 1,
         "Snorlax": 2,
-        "Beautifly": 1
+        "Beautifly": 2,
+        "Cinderace": 2,
+        "Cramorant": 1
       },
-      "total_spawns": 3654,
-      "last_spawn": "2026-07-06T12:41:28.499281"
+      "total_spawns": 3664,
+      "last_spawn": "2026-07-06T12:42:04.354734"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1485,7 +1487,7 @@
     }
   },
   "global": {
-    "total_spawns": 69186,
+    "total_spawns": 69196,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
