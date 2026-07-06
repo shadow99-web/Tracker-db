@@ -63,7 +63,7 @@
         "Cubchoo": 11,
         "Koffing": 3,
         "Kirlia": 7,
-        "Deino": 9,
+        "Deino": 10,
         "Dolliv": 1,
         "Feebas": 4,
         "Prof tangrowth": 17,
@@ -128,7 +128,7 @@
         "Bronzor": 1,
         "Swirlix": 5,
         "Varoom": 10,
-        "Ducklett": 3,
+        "Ducklett": 4,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
         "Torchic": 8,
@@ -346,7 +346,7 @@
         "Pidove": 7,
         "Chespin": 1,
         "Combee": 4,
-        "Cyndaquil": 2,
+        "Cyndaquil": 3,
         "Grotle": 4,
         "Tinkaton": 1,
         "Bergmite": 3,
@@ -695,14 +695,14 @@
         "Helioptile": 1,
         "Salamence": 2,
         "Meditite": 1,
-        "Sneasel": 1,
+        "Sneasel": 2,
         "Finneon": 1,
         "Pidgeotto": 1,
         "Hakamo-o": 1,
         "Spidops": 1
       },
-      "total_spawns": 2710,
-      "last_spawn": "2026-07-06T07:18:03.771672"
+      "total_spawns": 2714,
+      "last_spawn": "2026-07-06T07:18:43.697899"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1415,7 +1415,7 @@
     }
   },
   "global": {
-    "total_spawns": 68242,
+    "total_spawns": 68246,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
