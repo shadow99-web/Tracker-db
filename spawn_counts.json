@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 6,
-        "Oddish": 15,
+        "Oddish": 16,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 17,
@@ -165,7 +165,7 @@
         "Pansage": 2,
         "Cetoddle": 9,
         "Togepi": 6,
-        "Tandemaus": 7,
+        "Tandemaus": 8,
         "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 7,
@@ -255,7 +255,7 @@
         "Croconaw": 4,
         "Makuhita": 1,
         "Machamp": 1,
-        "Primarina": 1,
+        "Primarina": 3,
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
@@ -716,8 +716,8 @@
         "Dunsparce": 1,
         "Sobble": 1
       },
-      "total_spawns": 2867,
-      "last_spawn": "2026-07-06T07:35:13.595545"
+      "total_spawns": 2871,
+      "last_spawn": "2026-07-06T07:35:43.666911"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1430,7 +1430,7 @@
     }
   },
   "global": {
-    "total_spawns": 68399,
+    "total_spawns": 68403,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
