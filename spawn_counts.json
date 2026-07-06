@@ -109,14 +109,14 @@
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 12,
-        "Dreepy": 39,
+        "Dreepy": 41,
         "Treecko": 10,
         "Shroodle": 14,
         "Ride cyclizar": 7,
         "Swinub": 22,
         "Rattata": 7,
         "Stonjourner": 1,
-        "Veluza": 23,
+        "Veluza": 24,
         "Panpour": 6,
         "Crabrawler": 4,
         "Frogadier": 3,
@@ -293,7 +293,7 @@
         "Ekans": 2,
         "Brambleghast": 1,
         "Dartrix": 4,
-        "Ceruledge": 4,
+        "Ceruledge": 5,
         "Vanillish": 6,
         "Gimmighoul": 16,
         "Glimmet": 15,
@@ -520,7 +520,7 @@
         "Krookodile": 1,
         "Espathra": 4,
         "Snom": 7,
-        "Nickit": 7,
+        "Nickit": 8,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -835,8 +835,8 @@
         "Togedemaru": 1,
         "Jellicent": 1
       },
-      "total_spawns": 4860,
-      "last_spawn": "2026-07-06T22:44:18.287155"
+      "total_spawns": 4865,
+      "last_spawn": "2026-07-06T22:44:48.451190"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1549,7 +1549,7 @@
     }
   },
   "global": {
-    "total_spawns": 70392,
+    "total_spawns": 70397,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
