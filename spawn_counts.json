@@ -195,7 +195,7 @@
         "Dj rotom": 18,
         "Chef dente": 20,
         "Hisuian qwilfish": 1,
-        "Bagon": 22,
+        "Bagon": 24,
         "Pikachu": 10,
         "Tarountula": 19,
         "Rhyhorn": 21,
@@ -222,7 +222,7 @@
         "Duosion": 5,
         "Orthworm": 24,
         "Yamask": 4,
-        "Nymble": 18,
+        "Nymble": 19,
         "Snorunt": 7,
         "Carvanha": 4,
         "Toxel": 4,
@@ -497,7 +497,7 @@
         "Yellow flower florges": 1,
         "Drilbur": 4,
         "Leavanny": 1,
-        "Magikarp": 8,
+        "Magikarp": 9,
         "Gardevoir": 8,
         "Kubfu": 1,
         "Tyrogue": 4,
@@ -861,10 +861,11 @@
         "Kabuto": 1,
         "Clefable": 1,
         "Mr. mime": 2,
-        "Munchlax": 2
+        "Munchlax": 2,
+        "Qwilfish": 1
       },
-      "total_spawns": 5433,
-      "last_spawn": "2026-07-06T23:50:58.380747"
+      "total_spawns": 5438,
+      "last_spawn": "2026-07-06T23:51:38.300649"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1577,7 +1578,7 @@
     }
   },
   "global": {
-    "total_spawns": 70965,
+    "total_spawns": 70970,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
