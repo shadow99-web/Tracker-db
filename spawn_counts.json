@@ -40,7 +40,7 @@
         "Starly": 25,
         "Caterpie": 7,
         "Mareep": 9,
-        "Capsakid": 12,
+        "Capsakid": 13,
         "Numel": 6,
         "Pawmo": 4,
         "Wattrel": 10,
@@ -246,7 +246,7 @@
         "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
-        "Rhydon": 4,
+        "Rhydon": 5,
         "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 1,
@@ -282,7 +282,7 @@
         "Bulbasaur": 11,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 2,
-        "Hattrem": 4,
+        "Hattrem": 5,
         "Trash wormadam": 1,
         "Purrloin": 2,
         "Zigzagoon": 3,
@@ -615,7 +615,7 @@
         "Oshawott": 1,
         "Malamar": 1,
         "Orange flower florges": 1,
-        "Minun": 3,
+        "Minun": 4,
         "Hangry morpeko": 2,
         "Omanyte": 3,
         "Mamoswine": 2,
@@ -736,10 +736,11 @@
         "Raichu": 1,
         "Meowstic": 1,
         "Zangoose": 1,
-        "Thievul": 1
+        "Thievul": 1,
+        "Galarian slowbro": 2
       },
-      "total_spawns": 3244,
-      "last_spawn": "2026-07-06T09:41:23.524639"
+      "total_spawns": 3250,
+      "last_spawn": "2026-07-06T09:42:03.596173"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1452,7 +1453,7 @@
     }
   },
   "global": {
-    "total_spawns": 68776,
+    "total_spawns": 68782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
