@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 21,
         "Whirlipede": 5,
-        "Duskull": 40,
+        "Duskull": 42,
         "Abra": 25,
         "Wiglett": 16,
         "Starly": 31,
@@ -43,7 +43,7 @@
         "Capsakid": 17,
         "Numel": 8,
         "Pawmo": 8,
-        "Wattrel": 14,
+        "Wattrel": 15,
         "Tadbulb": 23,
         "Yanmega": 1,
         "Tympole": 17,
@@ -183,7 +183,7 @@
         "Grovyle": 9,
         "Dratini": 21,
         "Steelix": 2,
-        "Sprigatito": 11,
+        "Sprigatito": 13,
         "Charcadet": 43,
         "Mudsdale": 6,
         "Meowth": 15,
@@ -664,7 +664,7 @@
         "Gyarados": 2,
         "Lapras": 2,
         "Grimmsnarl": 2,
-        "Sylveon": 2,
+        "Sylveon": 4,
         "Inteleon": 4,
         "Milotic": 1,
         "Slaking": 1,
@@ -845,8 +845,8 @@
         "Slowking": 2,
         "Kecleon": 2
       },
-      "total_spawns": 5018,
-      "last_spawn": "2026-07-06T23:05:28.804876"
+      "total_spawns": 5025,
+      "last_spawn": "2026-07-06T23:06:08.272783"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1559,7 +1559,7 @@
     }
   },
   "global": {
-    "total_spawns": 70550,
+    "total_spawns": 70557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
