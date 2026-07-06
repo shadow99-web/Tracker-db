@@ -16,7 +16,7 @@
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 18,
-        "Fidough": 17,
+        "Fidough": 18,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 7,
@@ -123,7 +123,7 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 4,
-        "Rookidee": 33,
+        "Rookidee": 35,
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 6,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 36,
         "Roggenrola": 26,
-        "Litwick": 12,
+        "Litwick": 13,
         "Wooper": 5,
         "Pikipek": 26,
         "Spritzee": 1,
@@ -437,7 +437,7 @@
         "Elgyem": 1,
         "Dragonair": 3,
         "Spheal": 15,
-        "Amaura": 7,
+        "Amaura": 8,
         "Wailord": 1,
         "Accelgor": 3,
         "Tyrunt": 3,
@@ -816,8 +816,8 @@
         "Seaking": 2,
         "Glalie": 1
       },
-      "total_spawns": 4609,
-      "last_spawn": "2026-07-06T22:19:38.540437"
+      "total_spawns": 4614,
+      "last_spawn": "2026-07-06T22:20:18.449446"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1530,7 +1530,7 @@
     }
   },
   "global": {
-    "total_spawns": 70141,
+    "total_spawns": 70146,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
