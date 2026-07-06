@@ -88,7 +88,7 @@
         "Drakloak": 7,
         "Victini": 1,
         "Pawmi": 41,
-        "Sandile": 31,
+        "Sandile": 33,
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 28,
@@ -511,10 +511,10 @@
         "Melmetal": 1,
         "Liepard": 3,
         "Necrozma": 2,
-        "Dewott": 2,
+        "Dewott": 3,
         "Braviary": 4,
         "Low key toxtricity": 4,
-        "Nidorina": 4,
+        "Nidorina": 5,
         "Bronzong": 2,
         "Foongus": 4,
         "Krookodile": 1,
@@ -859,8 +859,8 @@
         "Whimsicott": 1,
         "Emolga": 1
       },
-      "total_spawns": 5333,
-      "last_spawn": "2026-07-06T23:37:58.157822"
+      "total_spawns": 5337,
+      "last_spawn": "2026-07-06T23:38:28.545016"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1573,7 +1573,7 @@
     }
   },
   "global": {
-    "total_spawns": 70865,
+    "total_spawns": 70869,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
