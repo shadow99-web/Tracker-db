@@ -61,7 +61,7 @@
         "Mosslax": 30,
         "Maushold": 3,
         "Cubchoo": 21,
-        "Koffing": 4,
+        "Koffing": 5,
         "Kirlia": 11,
         "Deino": 15,
         "Dolliv": 5,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 18,
         "Vulpix": 15,
         "Gastly": 38,
-        "Aron": 22,
+        "Aron": 23,
         "Honedge": 36,
         "Houndour": 1,
         "Machop": 16,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 5,
         "Luvdisc": 1,
-        "Fennekin": 11,
+        "Fennekin": 12,
         "Milcery": 13,
         "Trumbeak": 2,
         "Bonsly": 1,
@@ -503,7 +503,7 @@
         "Tyrogue": 4,
         "Nuzleaf": 7,
         "Spinarak": 5,
-        "Goomy": 10,
+        "Goomy": 11,
         "Breloom": 1,
         "Rillaboom": 8,
         "Hippopotas": 2,
@@ -816,7 +816,7 @@
         "Seaking": 2,
         "Glalie": 1,
         "Talonflame": 1,
-        "Silicobra": 1,
+        "Silicobra": 2,
         "Durant": 2,
         "Shaymin": 2,
         "Mantine": 2,
@@ -825,8 +825,8 @@
         "Luxray": 1,
         "Gogoat": 1
       },
-      "total_spawns": 4706,
-      "last_spawn": "2026-07-06T22:29:48.212991"
+      "total_spawns": 4711,
+      "last_spawn": "2026-07-06T22:30:22.546234"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1539,7 +1539,7 @@
     }
   },
   "global": {
-    "total_spawns": 70238,
+    "total_spawns": 70243,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
