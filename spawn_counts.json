@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 15,
         "Binacle": 4,
-        "Bounsweet": 28,
+        "Bounsweet": 29,
         "Fletchling": 16,
         "Whirlipede": 4,
         "Duskull": 32,
@@ -118,7 +118,7 @@
         "Stonjourner": 1,
         "Veluza": 22,
         "Panpour": 6,
-        "Crabrawler": 3,
+        "Crabrawler": 4,
         "Frogadier": 3,
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
@@ -187,7 +187,7 @@
         "Charcadet": 35,
         "Mudsdale": 4,
         "Meowth": 13,
-        "Charmander": 13,
+        "Charmander": 15,
         "Wimpod": 9,
         "Comfey": 3,
         "Diggersby": 2,
@@ -307,7 +307,7 @@
         "Tentacruel": 1,
         "Archen": 11,
         "Blue plumage squawkabilly": 3,
-        "Metang": 5,
+        "Metang": 7,
         "Larvitar": 14,
         "Lumineon": 1,
         "Kilowattrel": 3,
@@ -793,8 +793,8 @@
         "Weezing": 1,
         "Blue flower florges": 1
       },
-      "total_spawns": 4118,
-      "last_spawn": "2026-07-06T19:10:29.527447"
+      "total_spawns": 4124,
+      "last_spawn": "2026-07-06T19:11:10.009225"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1507,7 +1507,7 @@
     }
   },
   "global": {
-    "total_spawns": 69650,
+    "total_spawns": 69656,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
