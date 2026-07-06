@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 7,
-        "Anorith": 3,
+        "Anorith": 4,
         "Arctibax": 3,
         "Ralts": 20,
         "Peakychu": 23,
@@ -261,7 +261,7 @@
         "Watchog": 3,
         "Porygon": 15,
         "Wooloo": 3,
-        "Mawile": 3,
+        "Mawile": 5,
         "Marill": 1,
         "Lickitung": 5,
         "Chewtle": 6,
@@ -598,7 +598,7 @@
         "Tauros": 3,
         "Golurk": 1,
         "Grimer": 3,
-        "Frosmoth": 3,
+        "Frosmoth": 4,
         "Darumaka": 3,
         "Cubone": 1,
         "Conkeldurr": 1,
@@ -759,7 +759,7 @@
         "Indeedee": 3,
         "Beheeyem": 2,
         "Chimecho": 2,
-        "Natu": 1,
+        "Natu": 2,
         "Gorebyss": 1,
         "Eldegoss": 1,
         "Pinsir": 1,
@@ -779,8 +779,8 @@
         "Ferrothorn": 1,
         "Piloswine": 1
       },
-      "total_spawns": 3762,
-      "last_spawn": "2026-07-06T16:12:58.341807"
+      "total_spawns": 3767,
+      "last_spawn": "2026-07-06T16:13:28.316853"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1493,7 +1493,7 @@
     }
   },
   "global": {
-    "total_spawns": 69294,
+    "total_spawns": 69299,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
