@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 8,
         "Wattrel": 14,
-        "Tadbulb": 22,
+        "Tadbulb": 23,
         "Yanmega": 1,
         "Tympole": 17,
         "Grubbin": 21,
@@ -55,7 +55,7 @@
         "Maschiff": 14,
         "Smoliv": 13,
         "Tirtouga": 7,
-        "Hatenna": 36,
+        "Hatenna": 38,
         "Shroomish": 3,
         "Lillipup": 23,
         "Mosslax": 30,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 5,
         "Sigilyph": 6,
-        "Vibrava": 5,
+        "Vibrava": 6,
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 3,
@@ -841,8 +841,8 @@
         "Araquanid": 2,
         "Glaceon": 2
       },
-      "total_spawns": 4965,
-      "last_spawn": "2026-07-06T22:58:28.273689"
+      "total_spawns": 4969,
+      "last_spawn": "2026-07-06T22:58:58.365217"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1555,7 +1555,7 @@
     }
   },
   "global": {
-    "total_spawns": 70497,
+    "total_spawns": 70501,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
