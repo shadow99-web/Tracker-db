@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 7,
         "Mienshao": 2,
-        "Blipbug": 21,
+        "Blipbug": 22,
         "Rellor": 7,
         "Rolycoly": 11,
         "Poliwhirl": 4,
@@ -229,7 +229,7 @@
         "Buneary": 2,
         "Gallade": 5,
         "Tangrowth": 1,
-        "Sizzlipede": 2,
+        "Sizzlipede": 3,
         "Skuntank": 1,
         "Palafin": 6,
         "Timburr": 8,
@@ -326,7 +326,7 @@
         "Sunkern": 3,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 8,
+        "Magnemite": 9,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 4,
@@ -408,7 +408,7 @@
         "Darmanitan": 1,
         "Lopunny": 2,
         "Chimchar": 5,
-        "Gligar": 2,
+        "Gligar": 3,
         "Quaxly": 4,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
@@ -445,7 +445,7 @@
         "Ponyta": 2,
         "Smearguru": 8,
         "Magneton": 2,
-        "Battle cyclizar": 1,
+        "Battle cyclizar": 2,
         "Minccino": 2,
         "Hippowdon": 2,
         "Gloom": 1,
@@ -491,7 +491,7 @@
         "Voltorb": 2,
         "Hitmonchan": 1,
         "Pidgeot": 2,
-        "Alakazam": 3,
+        "Alakazam": 4,
         "Mismagius": 2,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
@@ -520,7 +520,7 @@
         "Krookodile": 1,
         "Espathra": 2,
         "Snom": 4,
-        "Nickit": 2,
+        "Nickit": 3,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 4,
@@ -602,7 +602,7 @@
         "Darumaka": 3,
         "Cubone": 1,
         "Conkeldurr": 1,
-        "Sinistea": 1,
+        "Sinistea": 2,
         "Golbat": 4,
         "Amoonguss": 2,
         "Herdier": 1,
@@ -720,8 +720,8 @@
         "Alolan grimer": 2,
         "Ursaluna": 2
       },
-      "total_spawns": 2915,
-      "last_spawn": "2026-07-06T07:38:28.219652"
+      "total_spawns": 2923,
+      "last_spawn": "2026-07-06T07:39:03.599871"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1434,7 +1434,7 @@
     }
   },
   "global": {
-    "total_spawns": 68447,
+    "total_spawns": 68455,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
