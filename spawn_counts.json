@@ -66,7 +66,7 @@
         "Deino": 17,
         "Dolliv": 5,
         "Feebas": 10,
-        "Prof tangrowth": 21,
+        "Prof tangrowth": 22,
         "Vulpix": 17,
         "Gastly": 44,
         "Aron": 26,
@@ -220,7 +220,7 @@
         "Shuppet": 12,
         "Graveler": 3,
         "Duosion": 5,
-        "Orthworm": 23,
+        "Orthworm": 24,
         "Yamask": 4,
         "Nymble": 18,
         "Snorunt": 7,
@@ -698,7 +698,7 @@
         "Sneasel": 4,
         "Finneon": 4,
         "Pidgeotto": 2,
-        "Hakamo-o": 2,
+        "Hakamo-o": 3,
         "Spidops": 2,
         "Glimmora": 3,
         "Parasect": 1,
@@ -857,8 +857,8 @@
         "Spewpa": 1,
         "Delcatty": 2
       },
-      "total_spawns": 5297,
-      "last_spawn": "2026-07-06T23:33:18.199735"
+      "total_spawns": 5300,
+      "last_spawn": "2026-07-06T23:33:48.443541"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70829,
+    "total_spawns": 70832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
