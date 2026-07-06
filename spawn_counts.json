@@ -195,7 +195,7 @@
         "Dj rotom": 18,
         "Chef dente": 20,
         "Hisuian qwilfish": 1,
-        "Bagon": 24,
+        "Bagon": 26,
         "Pikachu": 10,
         "Tarountula": 19,
         "Rhyhorn": 22,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 2,
         "Electrike": 9,
-        "Hoppip": 19,
+        "Hoppip": 20,
         "Slowbro": 2,
         "Gholdengo": 4,
         "Trubbish": 8,
@@ -429,7 +429,7 @@
         "Haunter": 4,
         "Dottler": 7,
         "Wailmer": 3,
-        "Frigibax": 37,
+        "Frigibax": 40,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 6,
@@ -864,8 +864,8 @@
         "Munchlax": 2,
         "Qwilfish": 2
       },
-      "total_spawns": 5442,
-      "last_spawn": "2026-07-06T23:52:08.614474"
+      "total_spawns": 5448,
+      "last_spawn": "2026-07-06T23:52:48.165852"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1578,7 +1578,7 @@
     }
   },
   "global": {
-    "total_spawns": 70974,
+    "total_spawns": 70980,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
