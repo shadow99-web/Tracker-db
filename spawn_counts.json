@@ -38,7 +38,7 @@
         "Abra": 25,
         "Wiglett": 15,
         "Starly": 31,
-        "Caterpie": 11,
+        "Caterpie": 12,
         "Mareep": 18,
         "Capsakid": 17,
         "Numel": 8,
@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 17,
         "Grubbin": 20,
-        "Scatterbug": 14,
+        "Scatterbug": 15,
         "Skwovet": 8,
         "Applin": 5,
         "Staryu": 3,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 23,
+        "Venipede": 24,
         "Pansage": 3,
         "Cetoddle": 13,
         "Togepi": 13,
@@ -213,7 +213,7 @@
         "Drifloon": 3,
         "Mightyena": 3,
         "Sandaconda": 1,
-        "Froakie": 9,
+        "Froakie": 10,
         "Kingdra": 3,
         "Chikorita": 8,
         "Donphan": 5,
@@ -274,7 +274,7 @@
         "Plusle": 5,
         "Decidueye": 4,
         "Kricketot": 7,
-        "Ledyba": 2,
+        "Ledyba": 3,
         "Chinchou": 5,
         "Eiscue": 1,
         "Nacli": 16,
@@ -835,8 +835,8 @@
         "Togedemaru": 1,
         "Jellicent": 1
       },
-      "total_spawns": 4882,
-      "last_spawn": "2026-07-06T22:47:18.415537"
+      "total_spawns": 4887,
+      "last_spawn": "2026-07-06T22:47:59.909637"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1549,7 +1549,7 @@
     }
   },
   "global": {
-    "total_spawns": 70414,
+    "total_spawns": 70419,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
