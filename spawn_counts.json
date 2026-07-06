@@ -29,7 +29,7 @@
         "Tynamo": 12,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 14,
+        "Pidgey": 15,
         "Binacle": 4,
         "Bounsweet": 28,
         "Fletchling": 16,
@@ -70,7 +70,7 @@
         "Vulpix": 13,
         "Gastly": 32,
         "Aron": 20,
-        "Honedge": 30,
+        "Honedge": 32,
         "Houndour": 1,
         "Machop": 15,
         "Terapagos": 1,
@@ -348,7 +348,7 @@
         "Combee": 4,
         "Cyndaquil": 4,
         "Grotle": 4,
-        "Tinkaton": 1,
+        "Tinkaton": 2,
         "Bergmite": 5,
         "Klang": 3,
         "Tepig": 2,
@@ -790,10 +790,11 @@
         "Coalossal": 2,
         "Steenee": 1,
         "Boltund": 1,
-        "Weezing": 1
+        "Weezing": 1,
+        "Blue flower florges": 1
       },
-      "total_spawns": 4109,
-      "last_spawn": "2026-07-06T19:09:08.848416"
+      "total_spawns": 4114,
+      "last_spawn": "2026-07-06T19:09:48.815954"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1506,7 +1507,7 @@
     }
   },
   "global": {
-    "total_spawns": 69641,
+    "total_spawns": 69646,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
