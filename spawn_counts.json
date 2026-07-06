@@ -184,7 +184,7 @@
         "Dratini": 15,
         "Steelix": 1,
         "Sprigatito": 9,
-        "Charcadet": 29,
+        "Charcadet": 31,
         "Mudsdale": 4,
         "Meowth": 11,
         "Charmander": 11,
@@ -200,7 +200,7 @@
         "Tarountula": 10,
         "Rhyhorn": 13,
         "Aipom": 4,
-        "Grookey": 5,
+        "Grookey": 6,
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 3,
@@ -419,7 +419,7 @@
         "Croagunk": 5,
         "Mothim": 4,
         "Crabominable": 3,
-        "Krabby": 4,
+        "Krabby": 5,
         "Mimikyu": 4,
         "Hoothoot": 4,
         "Girafarig": 1,
@@ -686,7 +686,7 @@
         "Magmar": 2,
         "Dedenne": 2,
         "Serperior": 1,
-        "Grapploct": 1,
+        "Grapploct": 2,
         "Vanilluxe": 1,
         "Dwebble": 3,
         "Banette": 2,
@@ -758,8 +758,8 @@
         "Bewear": 2,
         "Indeedee": 1
       },
-      "total_spawns": 3484,
-      "last_spawn": "2026-07-06T12:22:23.904381"
+      "total_spawns": 3489,
+      "last_spawn": "2026-07-06T12:23:03.522773"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1472,7 +1472,7 @@
     }
   },
   "global": {
-    "total_spawns": 69016,
+    "total_spawns": 69021,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
