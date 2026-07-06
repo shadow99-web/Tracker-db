@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 1,
         "Eevee": 8,
-        "Dreepy": 35,
+        "Dreepy": 37,
         "Treecko": 10,
         "Shroodle": 7,
         "Ride cyclizar": 2,
@@ -313,7 +313,7 @@
         "Kilowattrel": 2,
         "Pumpkaboo": 3,
         "Petilil": 5,
-        "Bombirdier": 10,
+        "Bombirdier": 11,
         "Bellibolt": 5,
         "Toedscool": 6,
         "Paras": 3,
@@ -732,10 +732,11 @@
         "Litten": 1,
         "Gossifleur": 1,
         "Electivire": 1,
-        "Farigiraf": 1
+        "Farigiraf": 1,
+        "Raichu": 1
       },
-      "total_spawns": 3205,
-      "last_spawn": "2026-07-06T09:35:43.500156"
+      "total_spawns": 3209,
+      "last_spawn": "2026-07-06T09:36:13.744441"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1449,7 @@
     }
   },
   "global": {
-    "total_spawns": 68737,
+    "total_spawns": 68741,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
