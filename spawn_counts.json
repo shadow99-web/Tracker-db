@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 7,
         "Wattrel": 13,
-        "Tadbulb": 16,
+        "Tadbulb": 17,
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
@@ -201,11 +201,11 @@
         "Rhyhorn": 14,
         "Aipom": 4,
         "Grookey": 7,
-        "Inkay": 1,
+        "Inkay": 2,
         "Unfezant": 3,
         "Fraxure": 9,
         "Zubat": 17,
-        "Drowzee": 6,
+        "Drowzee": 7,
         "Lechonk": 16,
         "Woobat": 3,
         "Skrelp": 7,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 2,
-        "Gothita": 13,
+        "Gothita": 14,
         "Solosis": 13,
         "Sandygast": 4,
         "Pidove": 11,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 3992,
-      "last_spawn": "2026-07-06T18:39:03.831117"
+      "total_spawns": 3996,
+      "last_spawn": "2026-07-06T18:39:43.497608"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69524,
+    "total_spawns": 69528,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
