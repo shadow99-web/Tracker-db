@@ -53,7 +53,7 @@
         "Applin": 3,
         "Staryu": 2,
         "Maschiff": 12,
-        "Smoliv": 10,
+        "Smoliv": 11,
         "Tirtouga": 6,
         "Hatenna": 30,
         "Shroomish": 3,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 14,
         "Mienshao": 2,
-        "Blipbug": 30,
+        "Blipbug": 32,
         "Rellor": 11,
         "Rolycoly": 18,
         "Poliwhirl": 5,
@@ -178,7 +178,7 @@
         "Flamigo": 10,
         "Bellsprout": 14,
         "Houndstone": 3,
-        "Beldum": 19,
+        "Beldum": 20,
         "Kadabra": 10,
         "Grovyle": 9,
         "Dratini": 19,
@@ -811,10 +811,11 @@
         "Lunala": 1,
         "Sneasler": 4,
         "Swoobat": 1,
-        "Morpeko": 1
+        "Morpeko": 1,
+        "East sea shellos": 1
       },
-      "total_spawns": 4490,
-      "last_spawn": "2026-07-06T22:03:59.510140"
+      "total_spawns": 4495,
+      "last_spawn": "2026-07-06T22:04:38.095390"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1527,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70022,
+    "total_spawns": 70027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
