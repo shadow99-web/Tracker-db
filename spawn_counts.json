@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 24,
         "Totodile": 11,
-        "Vanillite": 44,
+        "Vanillite": 46,
         "Weedle": 27,
         "Kabutops": 2,
         "Poliwag": 24,
@@ -519,7 +519,7 @@
         "Foongus": 4,
         "Krookodile": 1,
         "Espathra": 5,
-        "Snom": 7,
+        "Snom": 8,
         "Nickit": 8,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -745,7 +745,7 @@
         "Illumise": 1,
         "Aggron": 1,
         "Regigigas": 1,
-        "Bisharp": 1,
+        "Bisharp": 2,
         "Forretress": 2,
         "Swampert": 2,
         "High plain vivillon": 1,
@@ -857,8 +857,8 @@
         "Spewpa": 1,
         "Delcatty": 2
       },
-      "total_spawns": 5293,
-      "last_spawn": "2026-07-06T23:32:48.161055"
+      "total_spawns": 5297,
+      "last_spawn": "2026-07-06T23:33:18.199735"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70825,
+    "total_spawns": 70829,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
