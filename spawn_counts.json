@@ -32,7 +32,7 @@
         "Pidgey": 14,
         "Binacle": 4,
         "Bounsweet": 28,
-        "Fletchling": 15,
+        "Fletchling": 16,
         "Whirlipede": 4,
         "Duskull": 32,
         "Abra": 24,
@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 7,
         "Wattrel": 13,
-        "Tadbulb": 17,
+        "Tadbulb": 18,
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
@@ -502,7 +502,7 @@
         "Kubfu": 1,
         "Tyrogue": 3,
         "Nuzleaf": 6,
-        "Spinarak": 3,
+        "Spinarak": 4,
         "Goomy": 9,
         "Breloom": 1,
         "Rillaboom": 6,
@@ -516,7 +516,7 @@
         "Low key toxtricity": 4,
         "Nidorina": 3,
         "Bronzong": 2,
-        "Foongus": 3,
+        "Foongus": 4,
         "Krookodile": 1,
         "Espathra": 4,
         "Snom": 4,
@@ -709,7 +709,7 @@
         "Skiddo": 4,
         "Simisear": 2,
         "Hawlucha": 2,
-        "Stunky": 2,
+        "Stunky": 3,
         "Garbodor": 2,
         "Remoraid": 2,
         "Exeggcute": 3,
@@ -788,8 +788,8 @@
         "Porygon-z": 1,
         "Zapdos": 2
       },
-      "total_spawns": 4038,
-      "last_spawn": "2026-07-06T19:03:30.697087"
+      "total_spawns": 4043,
+      "last_spawn": "2026-07-06T19:04:08.397020"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1502,7 +1502,7 @@
     }
   },
   "global": {
-    "total_spawns": 69570,
+    "total_spawns": 69575,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
