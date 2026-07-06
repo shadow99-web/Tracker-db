@@ -111,7 +111,7 @@
         "Eevee": 8,
         "Dreepy": 35,
         "Treecko": 10,
-        "Shroodle": 5,
+        "Shroodle": 6,
         "Ride cyclizar": 2,
         "Swinub": 14,
         "Rattata": 4,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 24,
         "Roggenrola": 20,
-        "Litwick": 7,
+        "Litwick": 8,
         "Wooper": 2,
         "Pikipek": 20,
         "Spritzee": 1,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 3,
-        "Zubat": 13,
+        "Zubat": 14,
         "Drowzee": 5,
         "Lechonk": 13,
         "Woobat": 3,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
-        "Porygon": 10,
+        "Porygon": 11,
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
@@ -293,7 +293,7 @@
         "Ekans": 2,
         "Brambleghast": 1,
         "Dartrix": 3,
-        "Ceruledge": 1,
+        "Ceruledge": 2,
         "Vanillish": 3,
         "Gimmighoul": 9,
         "Glimmet": 11,
@@ -591,7 +591,7 @@
         "Flareon": 2,
         "Gengar": 2,
         "Spiritomb": 2,
-        "Gurdurr": 1,
+        "Gurdurr": 2,
         "Quilava": 1,
         "Wurmple": 14,
         "Sandshrew": 2,
@@ -725,10 +725,11 @@
         "Sawk": 1,
         "Azumarill": 1,
         "Delphox": 1,
-        "Cranidos": 1
+        "Cranidos": 1,
+        "Tsareena": 1
       },
-      "total_spawns": 3048,
-      "last_spawn": "2026-07-06T07:48:38.595372"
+      "total_spawns": 3055,
+      "last_spawn": "2026-07-06T07:49:14.197871"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1441,7 +1442,7 @@
     }
   },
   "global": {
-    "total_spawns": 68580,
+    "total_spawns": 68587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
