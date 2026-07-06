@@ -198,7 +198,7 @@
         "Bagon": 22,
         "Pikachu": 10,
         "Tarountula": 16,
-        "Rhyhorn": 17,
+        "Rhyhorn": 18,
         "Aipom": 4,
         "Grookey": 8,
         "Inkay": 2,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 5,
         "Klang": 4,
-        "Tepig": 2,
+        "Tepig": 3,
         "Spinda": 1,
         "Phantump": 3,
         "Barboach": 3,
@@ -821,8 +821,8 @@
         "Shaymin": 2,
         "Mantine": 2
       },
-      "total_spawns": 4661,
-      "last_spawn": "2026-07-06T22:25:48.296535"
+      "total_spawns": 4663,
+      "last_spawn": "2026-07-06T22:26:33.597264"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1535,7 +1535,7 @@
     }
   },
   "global": {
-    "total_spawns": 70193,
+    "total_spawns": 70195,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
