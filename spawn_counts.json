@@ -136,7 +136,7 @@
         "Slugma": 5,
         "Venonat": 4,
         "Eelektrik": 3,
-        "Diglett": 5,
+        "Diglett": 6,
         "Surskit": 6,
         "Seedot": 12,
         "Jigglypuff": 5,
@@ -220,7 +220,7 @@
         "Shuppet": 8,
         "Graveler": 1,
         "Duosion": 3,
-        "Orthworm": 15,
+        "Orthworm": 16,
         "Yamask": 2,
         "Nymble": 12,
         "Snorunt": 2,
@@ -232,7 +232,7 @@
         "Sizzlipede": 3,
         "Skuntank": 1,
         "Palafin": 6,
-        "Timburr": 10,
+        "Timburr": 11,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
@@ -615,7 +615,7 @@
         "Oshawott": 1,
         "Malamar": 1,
         "Orange flower florges": 1,
-        "Minun": 2,
+        "Minun": 3,
         "Hangry morpeko": 2,
         "Omanyte": 3,
         "Mamoswine": 2,
@@ -738,8 +738,8 @@
         "Zangoose": 1,
         "Thievul": 1
       },
-      "total_spawns": 3240,
-      "last_spawn": "2026-07-06T09:40:45.702675"
+      "total_spawns": 3244,
+      "last_spawn": "2026-07-06T09:41:23.524639"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1452,7 +1452,7 @@
     }
   },
   "global": {
-    "total_spawns": 68772,
+    "total_spawns": 68776,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
