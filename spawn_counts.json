@@ -22,7 +22,7 @@
         "Rowlet": 3,
         "Anorith": 3,
         "Arctibax": 1,
-        "Ralts": 12,
+        "Ralts": 14,
         "Peakychu": 21,
         "Cutiefly": 3,
         "Simipour": 2,
@@ -62,7 +62,7 @@
         "Maushold": 3,
         "Cubchoo": 11,
         "Koffing": 3,
-        "Kirlia": 6,
+        "Kirlia": 7,
         "Deino": 9,
         "Dolliv": 1,
         "Feebas": 4,
@@ -142,7 +142,7 @@
         "Jigglypuff": 2,
         "Spearow": 3,
         "Servine": 2,
-        "Wugtrio": 5,
+        "Wugtrio": 6,
         "Tranquill": 2,
         "Cetitan": 1,
         "Turtwig": 4,
@@ -476,7 +476,7 @@
         "Poipole": 1,
         "Alolan raichu": 2,
         "Hitmontop": 2,
-        "Pignite": 1,
+        "Pignite": 2,
         "Bunnelby": 2,
         "Complete zygarde": 3,
         "Mudbray": 3,
@@ -681,8 +681,8 @@
         "Okidogi": 2,
         "Wyrdeer": 2
       },
-      "total_spawns": 2502,
-      "last_spawn": "2026-07-06T02:05:38.231779"
+      "total_spawns": 2507,
+      "last_spawn": "2026-07-06T02:06:08.596305"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1395,7 +1395,7 @@
     }
   },
   "global": {
-    "total_spawns": 68034,
+    "total_spawns": 68039,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
