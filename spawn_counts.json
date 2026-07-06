@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 9,
-        "Oddish": 25,
+        "Oddish": 26,
         "Totodile": 12,
         "Vanillite": 46,
         "Weedle": 29,
@@ -38,7 +38,7 @@
         "Abra": 26,
         "Wiglett": 16,
         "Starly": 39,
-        "Caterpie": 14,
+        "Caterpie": 15,
         "Mareep": 19,
         "Capsakid": 20,
         "Numel": 8,
@@ -326,7 +326,7 @@
         "Sunkern": 5,
         "Snubbull": 3,
         "Crocalor": 2,
-        "Magnemite": 18,
+        "Magnemite": 19,
         "Doublade": 2,
         "Sharpedo": 1,
         "Raboot": 8,
@@ -865,8 +865,8 @@
         "Qwilfish": 2,
         "Meowscarada": 1
       },
-      "total_spawns": 5461,
-      "last_spawn": "2026-07-06T23:54:38.210243"
+      "total_spawns": 5464,
+      "last_spawn": "2026-07-06T23:55:08.596381"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 70993,
+    "total_spawns": 70996,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
