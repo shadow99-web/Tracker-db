@@ -12,7 +12,7 @@
         "Braixen": 8,
         "Oddish": 23,
         "Totodile": 7,
-        "Vanillite": 38,
+        "Vanillite": 40,
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 18,
@@ -51,7 +51,7 @@
         "Scatterbug": 14,
         "Skwovet": 8,
         "Applin": 3,
-        "Staryu": 2,
+        "Staryu": 3,
         "Maschiff": 13,
         "Smoliv": 11,
         "Tirtouga": 7,
@@ -295,7 +295,7 @@
         "Dartrix": 3,
         "Ceruledge": 4,
         "Vanillish": 6,
-        "Gimmighoul": 13,
+        "Gimmighoul": 14,
         "Glimmet": 15,
         "Popplio": 5,
         "Arboliva": 2,
@@ -823,10 +823,11 @@
         "Iron bundle": 2,
         "Gourgeist": 1,
         "Luxray": 1,
-        "Gogoat": 1
+        "Gogoat": 1,
+        "Beedrill": 1
       },
-      "total_spawns": 4720,
-      "last_spawn": "2026-07-06T22:31:28.403050"
+      "total_spawns": 4725,
+      "last_spawn": "2026-07-06T22:32:08.375497"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1539,7 +1540,7 @@
     }
   },
   "global": {
-    "total_spawns": 70252,
+    "total_spawns": 70257,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
