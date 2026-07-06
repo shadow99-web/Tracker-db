@@ -184,7 +184,7 @@
         "Dratini": 21,
         "Steelix": 2,
         "Sprigatito": 11,
-        "Charcadet": 41,
+        "Charcadet": 43,
         "Mudsdale": 6,
         "Meowth": 15,
         "Charmander": 17,
@@ -600,7 +600,7 @@
         "Grimer": 3,
         "Frosmoth": 6,
         "Darumaka": 3,
-        "Cubone": 3,
+        "Cubone": 4,
         "Conkeldurr": 1,
         "Sinistea": 4,
         "Golbat": 6,
@@ -788,7 +788,7 @@
         "Porygon-z": 1,
         "Zapdos": 2,
         "Coalossal": 2,
-        "Steenee": 1,
+        "Steenee": 2,
         "Boltund": 1,
         "Weezing": 1,
         "Blue flower florges": 1,
@@ -841,10 +841,11 @@
         "Araquanid": 2,
         "Glaceon": 2,
         "Grumpig": 1,
-        "Roaring moon": 2
+        "Roaring moon": 2,
+        "Slowking": 2
       },
-      "total_spawns": 5004,
-      "last_spawn": "2026-07-06T23:03:48.325583"
+      "total_spawns": 5010,
+      "last_spawn": "2026-07-06T23:04:28.401589"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1557,7 +1558,7 @@
     }
   },
   "global": {
-    "total_spawns": 70536,
+    "total_spawns": 70542,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
