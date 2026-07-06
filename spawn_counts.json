@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 18,
         "Pikachu": 6,
-        "Tarountula": 10,
+        "Tarountula": 11,
         "Rhyhorn": 13,
         "Aipom": 4,
         "Grookey": 6,
@@ -220,11 +220,11 @@
         "Shuppet": 9,
         "Graveler": 2,
         "Duosion": 4,
-        "Orthworm": 17,
+        "Orthworm": 18,
         "Yamask": 3,
         "Nymble": 13,
         "Snorunt": 3,
-        "Carvanha": 3,
+        "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 2,
         "Gallade": 7,
@@ -236,7 +236,7 @@
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
-        "Whismur": 13,
+        "Whismur": 14,
         "Jangmo-o": 8,
         "Lunatone": 1,
         "Machoke": 5,
@@ -295,7 +295,7 @@
         "Dartrix": 3,
         "Ceruledge": 2,
         "Vanillish": 4,
-        "Gimmighoul": 12,
+        "Gimmighoul": 13,
         "Glimmet": 11,
         "Popplio": 3,
         "Arboliva": 2,
@@ -656,7 +656,7 @@
         "Passimian": 2,
         "Jynx": 1,
         "Noctowl": 1,
-        "Munna": 1,
+        "Munna": 2,
         "Mabosstiff": 2,
         "Omastar": 1,
         "Gabite": 2,
@@ -772,10 +772,11 @@
         "Beautifly": 2,
         "Cinderace": 2,
         "Cramorant": 1,
-        "Sandy wormadam": 1
+        "Sandy wormadam": 1,
+        "Haxorus": 2
       },
-      "total_spawns": 3687,
-      "last_spawn": "2026-07-06T12:43:38.278837"
+      "total_spawns": 3695,
+      "last_spawn": "2026-07-06T12:44:13.626856"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1488,7 +1489,7 @@
     }
   },
   "global": {
-    "total_spawns": 69219,
+    "total_spawns": 69227,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
