@@ -61,9 +61,9 @@
         "Mosslax": 30,
         "Maushold": 3,
         "Cubchoo": 21,
-        "Koffing": 5,
+        "Koffing": 6,
         "Kirlia": 11,
-        "Deino": 15,
+        "Deino": 16,
         "Dolliv": 5,
         "Feebas": 10,
         "Prof tangrowth": 18,
@@ -236,7 +236,7 @@
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
-        "Whismur": 19,
+        "Whismur": 21,
         "Jangmo-o": 10,
         "Lunatone": 1,
         "Machoke": 5,
@@ -296,7 +296,7 @@
         "Ceruledge": 4,
         "Vanillish": 6,
         "Gimmighoul": 13,
-        "Glimmet": 14,
+        "Glimmet": 15,
         "Popplio": 5,
         "Arboliva": 2,
         "Luxio": 3,
@@ -825,8 +825,8 @@
         "Luxray": 1,
         "Gogoat": 1
       },
-      "total_spawns": 4711,
-      "last_spawn": "2026-07-06T22:30:22.546234"
+      "total_spawns": 4716,
+      "last_spawn": "2026-07-06T22:30:58.408954"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1539,7 +1539,7 @@
     }
   },
   "global": {
-    "total_spawns": 70243,
+    "total_spawns": 70248,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
