@@ -113,7 +113,7 @@
         "Treecko": 10,
         "Shroodle": 13,
         "Ride cyclizar": 6,
-        "Swinub": 21,
+        "Swinub": 22,
         "Rattata": 7,
         "Stonjourner": 1,
         "Veluza": 22,
@@ -181,7 +181,7 @@
         "Beldum": 19,
         "Kadabra": 10,
         "Grovyle": 9,
-        "Dratini": 17,
+        "Dratini": 19,
         "Steelix": 2,
         "Sprigatito": 11,
         "Charcadet": 37,
@@ -460,7 +460,7 @@
         "Pansear": 2,
         "Yanma": 8,
         "Galarian moltres": 1,
-        "Seismitoad": 2,
+        "Seismitoad": 4,
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
@@ -805,8 +805,8 @@
         "Salazzle": 1,
         "Heracross": 2
       },
-      "total_spawns": 4282,
-      "last_spawn": "2026-07-06T19:41:48.460573"
+      "total_spawns": 4287,
+      "last_spawn": "2026-07-06T19:42:21.100098"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1519,7 +1519,7 @@
     }
   },
   "global": {
-    "total_spawns": 69814,
+    "total_spawns": 69819,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
