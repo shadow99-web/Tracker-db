@@ -68,7 +68,7 @@
         "Feebas": 6,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 27,
+        "Gastly": 28,
         "Aron": 17,
         "Honedge": 26,
         "Houndour": 1,
@@ -112,7 +112,7 @@
         "Dreepy": 39,
         "Treecko": 10,
         "Shroodle": 10,
-        "Ride cyclizar": 3,
+        "Ride cyclizar": 4,
         "Swinub": 16,
         "Rattata": 6,
         "Stonjourner": 1,
@@ -164,7 +164,7 @@
         "Venipede": 16,
         "Pansage": 3,
         "Cetoddle": 13,
-        "Togepi": 10,
+        "Togepi": 11,
         "Tandemaus": 13,
         "Clefairy": 2,
         "Unown q": 1,
@@ -206,7 +206,7 @@
         "Fraxure": 5,
         "Zubat": 16,
         "Drowzee": 5,
-        "Lechonk": 14,
+        "Lechonk": 15,
         "Woobat": 3,
         "Skrelp": 7,
         "Lileep": 4,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 3,
         "Whismur": 13,
-        "Jangmo-o": 7,
+        "Jangmo-o": 8,
         "Lunatone": 1,
         "Machoke": 5,
         "Luvdisc": 1,
@@ -402,7 +402,7 @@
         "Dubwool": 1,
         "Litleo": 3,
         "Silcoon": 4,
-        "Snivy": 2,
+        "Snivy": 3,
         "Zorua": 8,
         "Minior": 1,
         "Darmanitan": 1,
@@ -771,10 +771,11 @@
         "Snorlax": 2,
         "Beautifly": 2,
         "Cinderace": 2,
-        "Cramorant": 1
+        "Cramorant": 1,
+        "Sandy wormadam": 1
       },
-      "total_spawns": 3672,
-      "last_spawn": "2026-07-06T12:42:38.207450"
+      "total_spawns": 3679,
+      "last_spawn": "2026-07-06T12:43:08.231340"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1487,7 +1488,7 @@
     }
   },
   "global": {
-    "total_spawns": 69204,
+    "total_spawns": 69211,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
