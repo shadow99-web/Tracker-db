@@ -16,7 +16,7 @@
         "Weedle": 15,
         "Kabutops": 2,
         "Poliwag": 12,
-        "Fidough": 9,
+        "Fidough": 10,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 3,
@@ -88,7 +88,7 @@
         "Drakloak": 3,
         "Victini": 1,
         "Pawmi": 21,
-        "Sandile": 19,
+        "Sandile": 20,
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 20,
@@ -141,7 +141,7 @@
         "Seedot": 11,
         "Jigglypuff": 4,
         "Spearow": 3,
-        "Servine": 2,
+        "Servine": 3,
         "Wugtrio": 6,
         "Tranquill": 2,
         "Cetitan": 1,
@@ -704,8 +704,8 @@
         "Parasect": 1,
         "Fuecoco": 1
       },
-      "total_spawns": 2744,
-      "last_spawn": "2026-07-06T07:22:53.704151"
+      "total_spawns": 2747,
+      "last_spawn": "2026-07-06T07:23:23.894813"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1418,7 +1418,7 @@
     }
   },
   "global": {
-    "total_spawns": 68276,
+    "total_spawns": 68279,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
