@@ -198,7 +198,7 @@
         "Bagon": 22,
         "Pikachu": 10,
         "Tarountula": 18,
-        "Rhyhorn": 19,
+        "Rhyhorn": 20,
         "Aipom": 4,
         "Grookey": 9,
         "Inkay": 4,
@@ -222,7 +222,7 @@
         "Duosion": 5,
         "Orthworm": 23,
         "Yamask": 4,
-        "Nymble": 17,
+        "Nymble": 18,
         "Snorunt": 7,
         "Carvanha": 4,
         "Toxel": 4,
@@ -317,7 +317,7 @@
         "Bellibolt": 6,
         "Toedscool": 11,
         "Paras": 4,
-        "Fletchinder": 3,
+        "Fletchinder": 4,
         "Staravia": 3,
         "Wishiwashi": 1,
         "Skitty": 13,
@@ -366,12 +366,12 @@
         "Dusclops": 4,
         "Prinplup": 4,
         "Kommo-o": 1,
-        "Vigoroth": 5,
+        "Vigoroth": 6,
         "Gigalith": 2,
         "Kingambit": 2,
         "Cresselia": 4,
         "Duraludon": 8,
-        "Nidorino": 5,
+        "Nidorino": 6,
         "Rayquaza": 15,
         "Horsea": 15,
         "Reshiram": 3,
@@ -849,10 +849,11 @@
         "Wobbuffet": 1,
         "Morgrem": 1,
         "Budew": 1,
-        "Dragapult": 2
+        "Dragapult": 2,
+        "Blue flower floette": 1
       },
-      "total_spawns": 5183,
-      "last_spawn": "2026-07-06T23:18:23.619037"
+      "total_spawns": 5189,
+      "last_spawn": "2026-07-06T23:18:58.208946"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1565,7 +1566,7 @@
     }
   },
   "global": {
-    "total_spawns": 70715,
+    "total_spawns": 70721,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
