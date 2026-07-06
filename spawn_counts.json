@@ -52,7 +52,7 @@
         "Skwovet": 8,
         "Applin": 3,
         "Staryu": 2,
-        "Maschiff": 12,
+        "Maschiff": 13,
         "Smoliv": 11,
         "Tirtouga": 6,
         "Hatenna": 30,
@@ -220,7 +220,7 @@
         "Shuppet": 11,
         "Graveler": 3,
         "Duosion": 4,
-        "Orthworm": 20,
+        "Orthworm": 21,
         "Yamask": 4,
         "Nymble": 14,
         "Snorunt": 5,
@@ -361,7 +361,7 @@
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 8,
-        "Rockruff": 4,
+        "Rockruff": 5,
         "Snowy castform": 1,
         "Dusclops": 4,
         "Prinplup": 3,
@@ -402,7 +402,7 @@
         "Dubwool": 1,
         "Litleo": 4,
         "Silcoon": 5,
-        "Snivy": 3,
+        "Snivy": 4,
         "Zorua": 8,
         "Minior": 1,
         "Darmanitan": 3,
@@ -813,10 +813,10 @@
         "Swoobat": 1,
         "Morpeko": 1,
         "East sea shellos": 1,
-        "Seaking": 1
+        "Seaking": 2
       },
-      "total_spawns": 4574,
-      "last_spawn": "2026-07-06T22:15:06.896395"
+      "total_spawns": 4579,
+      "last_spawn": "2026-07-06T22:15:38.239223"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1529,7 +1529,7 @@
     }
   },
   "global": {
-    "total_spawns": 70106,
+    "total_spawns": 70111,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
