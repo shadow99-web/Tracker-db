@@ -83,7 +83,7 @@
         "Stufful": 6,
         "Shelgon": 1,
         "Marshtomp": 9,
-        "Squirtle": 7,
+        "Squirtle": 8,
         "Shinx": 34,
         "Drakloak": 5,
         "Victini": 1,
@@ -322,7 +322,7 @@
         "Wishiwashi": 1,
         "Skitty": 9,
         "Finizen": 12,
-        "Swablu": 4,
+        "Swablu": 5,
         "Sunkern": 4,
         "Snubbull": 1,
         "Crocalor": 1,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 5,
         "Gligar": 3,
-        "Quaxly": 6,
+        "Quaxly": 7,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -748,10 +748,11 @@
         "Bisharp": 1,
         "Forretress": 1,
         "Swampert": 2,
-        "High plain vivillon": 1
+        "High plain vivillon": 1,
+        "Metapod": 1
       },
-      "total_spawns": 3374,
-      "last_spawn": "2026-07-06T09:57:14.577420"
+      "total_spawns": 3378,
+      "last_spawn": "2026-07-06T09:57:53.700339"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1464,7 +1465,7 @@
     }
   },
   "global": {
-    "total_spawns": 68906,
+    "total_spawns": 68910,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
