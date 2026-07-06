@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 20,
         "Pikachu": 10,
-        "Tarountula": 12,
+        "Tarountula": 13,
         "Rhyhorn": 15,
         "Aipom": 4,
         "Grookey": 7,
@@ -360,7 +360,7 @@
         "Hoppip": 16,
         "Slowbro": 2,
         "Gholdengo": 3,
-        "Trubbish": 7,
+        "Trubbish": 8,
         "Rockruff": 4,
         "Snowy castform": 1,
         "Dusclops": 3,
@@ -693,7 +693,7 @@
         "Pachirisu": 1,
         "Furret": 2,
         "Helioptile": 1,
-        "Salamence": 2,
+        "Salamence": 4,
         "Meditite": 1,
         "Sneasel": 4,
         "Finneon": 2,
@@ -795,8 +795,8 @@
         "Dudunsparce": 1,
         "Kingler": 2
       },
-      "total_spawns": 4149,
-      "last_spawn": "2026-07-06T19:14:08.398466"
+      "total_spawns": 4153,
+      "last_spawn": "2026-07-06T19:14:38.399276"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1509,7 +1509,7 @@
     }
   },
   "global": {
-    "total_spawns": 69681,
+    "total_spawns": 69685,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
