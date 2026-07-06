@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 7,
-        "Oddish": 20,
+        "Oddish": 21,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 23,
@@ -387,7 +387,7 @@
         "Charizard": 8,
         "Axew": 31,
         "Joltik": 5,
-        "Gulpin": 3,
+        "Gulpin": 4,
         "Mareanie": 4,
         "Throh": 3,
         "Sentret": 10,
@@ -781,8 +781,8 @@
         "Granbull": 2,
         "Happiny": 2
       },
-      "total_spawns": 3828,
-      "last_spawn": "2026-07-06T18:10:40.093989"
+      "total_spawns": 3830,
+      "last_spawn": "2026-07-06T18:11:51.160048"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1495,7 +1495,7 @@
     }
   },
   "global": {
-    "total_spawns": 69360,
+    "total_spawns": 69362,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
