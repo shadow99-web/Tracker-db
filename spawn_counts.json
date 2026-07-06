@@ -37,7 +37,7 @@
         "Duskull": 46,
         "Abra": 26,
         "Wiglett": 16,
-        "Starly": 38,
+        "Starly": 39,
         "Caterpie": 13,
         "Mareep": 19,
         "Capsakid": 19,
@@ -146,7 +146,7 @@
         "Tranquill": 5,
         "Cetitan": 4,
         "Turtwig": 8,
-        "Fomantis": 5,
+        "Fomantis": 6,
         "Claydol": 1,
         "Trapinch": 13,
         "Butterfree": 3,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 3,
         "Gothita": 18,
-        "Solosis": 18,
+        "Solosis": 19,
         "Sandygast": 5,
         "Pidove": 13,
         "Chespin": 5,
@@ -859,10 +859,11 @@
         "Whimsicott": 1,
         "Emolga": 1,
         "Kabuto": 1,
-        "Clefable": 1
+        "Clefable": 1,
+        "Mr. mime": 1
       },
-      "total_spawns": 5403,
-      "last_spawn": "2026-07-06T23:47:28.318167"
+      "total_spawns": 5407,
+      "last_spawn": "2026-07-06T23:47:59.013871"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1575,7 +1576,7 @@
     }
   },
   "global": {
-    "total_spawns": 70935,
+    "total_spawns": 70939,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
