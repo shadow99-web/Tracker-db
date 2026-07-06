@@ -32,7 +32,7 @@
         "Pidgey": 14,
         "Binacle": 4,
         "Bounsweet": 28,
-        "Fletchling": 14,
+        "Fletchling": 15,
         "Whirlipede": 4,
         "Duskull": 32,
         "Abra": 24,
@@ -229,7 +229,7 @@
         "Buneary": 2,
         "Gallade": 7,
         "Tangrowth": 2,
-        "Sizzlipede": 4,
+        "Sizzlipede": 5,
         "Skuntank": 1,
         "Palafin": 6,
         "Timburr": 15,
@@ -315,7 +315,7 @@
         "Petilil": 5,
         "Bombirdier": 13,
         "Bellibolt": 6,
-        "Toedscool": 7,
+        "Toedscool": 8,
         "Paras": 4,
         "Fletchinder": 2,
         "Staravia": 1,
@@ -785,10 +785,11 @@
         "Ninjask": 1,
         "Arctovish": 1,
         "Ariados": 1,
-        "Porygon-z": 1
+        "Porygon-z": 1,
+        "Zapdos": 2
       },
-      "total_spawns": 4033,
-      "last_spawn": "2026-07-06T19:02:58.449276"
+      "total_spawns": 4038,
+      "last_spawn": "2026-07-06T19:03:30.697087"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1501,7 +1502,7 @@
     }
   },
   "global": {
-    "total_spawns": 69565,
+    "total_spawns": 69570,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
