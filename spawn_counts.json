@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 7,
         "Wattrel": 13,
-        "Tadbulb": 20,
+        "Tadbulb": 21,
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
@@ -143,7 +143,7 @@
         "Spearow": 4,
         "Servine": 3,
         "Wugtrio": 9,
-        "Tranquill": 4,
+        "Tranquill": 5,
         "Cetitan": 3,
         "Turtwig": 5,
         "Fomantis": 5,
@@ -598,7 +598,7 @@
         "Tauros": 3,
         "Golurk": 1,
         "Grimer": 3,
-        "Frosmoth": 4,
+        "Frosmoth": 6,
         "Darumaka": 3,
         "Cubone": 1,
         "Conkeldurr": 1,
@@ -812,8 +812,8 @@
         "Sneasler": 4,
         "Swoobat": 1
       },
-      "total_spawns": 4469,
-      "last_spawn": "2026-07-06T22:01:18.866428"
+      "total_spawns": 4473,
+      "last_spawn": "2026-07-06T22:01:49.040231"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1526,7 @@
     }
   },
   "global": {
-    "total_spawns": 70001,
+    "total_spawns": 70005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
