@@ -15,7 +15,7 @@
         "Vanillite": 44,
         "Weedle": 27,
         "Kabutops": 2,
-        "Poliwag": 23,
+        "Poliwag": 24,
         "Fidough": 24,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -139,7 +139,7 @@
         "Diglett": 6,
         "Surskit": 6,
         "Seedot": 16,
-        "Jigglypuff": 6,
+        "Jigglypuff": 7,
         "Spearow": 5,
         "Servine": 3,
         "Wugtrio": 9,
@@ -191,9 +191,9 @@
         "Wimpod": 11,
         "Comfey": 5,
         "Diggersby": 2,
-        "Klawf": 31,
+        "Klawf": 32,
         "Dj rotom": 18,
-        "Chef dente": 19,
+        "Chef dente": 20,
         "Hisuian qwilfish": 1,
         "Bagon": 22,
         "Pikachu": 10,
@@ -857,8 +857,8 @@
         "Spewpa": 1,
         "Delcatty": 2
       },
-      "total_spawns": 5281,
-      "last_spawn": "2026-07-06T23:30:58.980409"
+      "total_spawns": 5285,
+      "last_spawn": "2026-07-06T23:31:38.143929"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70813,
+    "total_spawns": 70817,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
