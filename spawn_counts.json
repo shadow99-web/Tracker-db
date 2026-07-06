@@ -58,7 +58,7 @@
         "Hatenna": 14,
         "Shroomish": 3,
         "Lillipup": 12,
-        "Mosslax": 21,
+        "Mosslax": 22,
         "Maushold": 3,
         "Cubchoo": 11,
         "Koffing": 3,
@@ -116,7 +116,7 @@
         "Swinub": 14,
         "Rattata": 4,
         "Stonjourner": 1,
-        "Veluza": 16,
+        "Veluza": 18,
         "Panpour": 6,
         "Crabrawler": 3,
         "Frogadier": 3,
@@ -163,12 +163,12 @@
         "Vullaby": 3,
         "Venipede": 10,
         "Pansage": 2,
-        "Cetoddle": 8,
+        "Cetoddle": 9,
         "Togepi": 6,
         "Tandemaus": 7,
         "Clefairy": 2,
         "Unown q": 1,
-        "Lotad": 6,
+        "Lotad": 7,
         "Mienshao": 2,
         "Blipbug": 20,
         "Rellor": 6,
@@ -184,7 +184,7 @@
         "Dratini": 13,
         "Steelix": 1,
         "Sprigatito": 3,
-        "Charcadet": 23,
+        "Charcadet": 25,
         "Mudsdale": 4,
         "Meowth": 9,
         "Charmander": 7,
@@ -707,10 +707,12 @@
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 1,
-        "Simisear": 2
+        "Simisear": 2,
+        "Hawlucha": 2,
+        "Stunky": 1
       },
-      "total_spawns": 2820,
-      "last_spawn": "2026-07-06T07:31:43.715695"
+      "total_spawns": 2830,
+      "last_spawn": "2026-07-06T07:32:13.797519"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1423,7 +1425,7 @@
     }
   },
   "global": {
-    "total_spawns": 68352,
+    "total_spawns": 68362,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
