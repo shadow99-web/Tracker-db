@@ -57,7 +57,7 @@
         "Tirtouga": 4,
         "Hatenna": 20,
         "Shroomish": 3,
-        "Lillipup": 17,
+        "Lillipup": 18,
         "Mosslax": 22,
         "Maushold": 3,
         "Cubchoo": 15,
@@ -70,7 +70,7 @@
         "Vulpix": 13,
         "Gastly": 24,
         "Aron": 16,
-        "Honedge": 23,
+        "Honedge": 24,
         "Houndour": 1,
         "Machop": 14,
         "Terapagos": 1,
@@ -314,7 +314,7 @@
         "Pumpkaboo": 3,
         "Petilil": 5,
         "Bombirdier": 11,
-        "Bellibolt": 5,
+        "Bellibolt": 6,
         "Toedscool": 6,
         "Paras": 4,
         "Fletchinder": 2,
@@ -518,7 +518,7 @@
         "Bronzong": 2,
         "Foongus": 3,
         "Krookodile": 1,
-        "Espathra": 2,
+        "Espathra": 3,
         "Snom": 4,
         "Nickit": 3,
         "Aromatisse": 1,
@@ -762,8 +762,8 @@
         "Natu": 1,
         "Gorebyss": 1
       },
-      "total_spawns": 3534,
-      "last_spawn": "2026-07-06T12:29:23.497309"
+      "total_spawns": 3538,
+      "last_spawn": "2026-07-06T12:29:53.833338"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1476,7 +1476,7 @@
     }
   },
   "global": {
-    "total_spawns": 69066,
+    "total_spawns": 69070,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
