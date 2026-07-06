@@ -200,7 +200,7 @@
         "Tarountula": 7,
         "Rhyhorn": 10,
         "Aipom": 4,
-        "Grookey": 4,
+        "Grookey": 5,
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 3,
@@ -440,7 +440,7 @@
         "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
-        "Tyrunt": 2,
+        "Tyrunt": 3,
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
         "Smearguru": 8,
@@ -582,7 +582,7 @@
         "Family of three maushold": 1,
         "Scyther": 4,
         "Polteageist": 1,
-        "Lombre": 2,
+        "Lombre": 3,
         "Dachsbun": 3,
         "Primeape": 4,
         "Goldeen": 3,
@@ -701,10 +701,11 @@
         "Hakamo-o": 1,
         "Spidops": 1,
         "Glimmora": 1,
-        "Parasect": 1
+        "Parasect": 1,
+        "Fuecoco": 1
       },
-      "total_spawns": 2740,
-      "last_spawn": "2026-07-06T07:22:14.687144"
+      "total_spawns": 2744,
+      "last_spawn": "2026-07-06T07:22:53.704151"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1417,7 +1418,7 @@
     }
   },
   "global": {
-    "total_spawns": 68272,
+    "total_spawns": 68276,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
