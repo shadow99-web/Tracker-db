@@ -32,7 +32,7 @@
         "Pidgey": 12,
         "Binacle": 4,
         "Bounsweet": 18,
-        "Fletchling": 6,
+        "Fletchling": 7,
         "Whirlipede": 4,
         "Duskull": 20,
         "Abra": 16,
@@ -682,10 +682,12 @@
         "Wyrdeer": 2,
         "Ferroseed": 2,
         "Musharna": 1,
-        "Wingull": 1
+        "Wingull": 1,
+        "Magmar": 1,
+        "Dedenne": 1
       },
-      "total_spawns": 2523,
-      "last_spawn": "2026-07-06T04:41:28.406715"
+      "total_spawns": 2526,
+      "last_spawn": "2026-07-06T04:41:58.807057"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1398,7 +1400,7 @@
     }
   },
   "global": {
-    "total_spawns": 68055,
+    "total_spawns": 68058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
