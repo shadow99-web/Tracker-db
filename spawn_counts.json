@@ -9,7 +9,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 6,
+        "Braixen": 7,
         "Oddish": 18,
         "Totodile": 3,
         "Vanillite": 30,
@@ -154,7 +154,7 @@
         "Roggenrola": 22,
         "Litwick": 9,
         "Wooper": 3,
-        "Pikipek": 20,
+        "Pikipek": 22,
         "Spritzee": 1,
         "Stantler": 6,
         "Impidimp": 21,
@@ -281,7 +281,7 @@
         "Pancham": 3,
         "Bulbasaur": 15,
         "Dewpider": 5,
-        "Yellow plumage squawkabilly": 3,
+        "Yellow plumage squawkabilly": 4,
         "Hattrem": 5,
         "Trash wormadam": 1,
         "Purrloin": 2,
@@ -326,7 +326,7 @@
         "Sunkern": 4,
         "Snubbull": 1,
         "Crocalor": 2,
-        "Magnemite": 11,
+        "Magnemite": 12,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 5,
@@ -386,7 +386,7 @@
         "Clodsire": 3,
         "Charizard": 8,
         "Axew": 31,
-        "Joltik": 4,
+        "Joltik": 5,
         "Gulpin": 3,
         "Mareanie": 4,
         "Throh": 3,
@@ -763,10 +763,11 @@
         "Gorebyss": 1,
         "Eldegoss": 1,
         "Pinsir": 1,
-        "Ivysaur": 1
+        "Ivysaur": 1,
+        "Pa'u oricorio": 1
       },
-      "total_spawns": 3616,
-      "last_spawn": "2026-07-06T12:38:48.173500"
+      "total_spawns": 3623,
+      "last_spawn": "2026-07-06T12:39:18.602990"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1479,7 +1480,7 @@
     }
   },
   "global": {
-    "total_spawns": 69148,
+    "total_spawns": 69155,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
