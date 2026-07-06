@@ -92,7 +92,7 @@
         "Charmeleon": 5,
         "Riolu": 16,
         "Gible": 22,
-        "Greavard": 28,
+        "Greavard": 30,
         "Snover": 7,
         "Piplup": 3,
         "Dondozo": 12,
@@ -123,11 +123,11 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 3,
-        "Rookidee": 21,
+        "Rookidee": 23,
         "Flapple": 4,
         "Bronzor": 4,
         "Swirlix": 6,
-        "Varoom": 14,
+        "Varoom": 16,
         "Ducklett": 4,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -205,7 +205,7 @@
         "Unfezant": 3,
         "Fraxure": 9,
         "Zubat": 17,
-        "Drowzee": 5,
+        "Drowzee": 6,
         "Lechonk": 16,
         "Woobat": 3,
         "Skrelp": 7,
@@ -571,7 +571,7 @@
         "Seadra": 1,
         "Sealeo": 1,
         "Baltoy": 3,
-        "Karrablast": 3,
+        "Karrablast": 4,
         "Volbeat": 1,
         "Murkrow": 3,
         "Venusaur": 2,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 3966,
-      "last_spawn": "2026-07-06T18:36:10.297846"
+      "total_spawns": 3974,
+      "last_spawn": "2026-07-06T18:36:43.717070"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69498,
+    "total_spawns": 69506,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
