@@ -32,7 +32,7 @@
         "Pidgey": 12,
         "Binacle": 4,
         "Bounsweet": 20,
-        "Fletchling": 8,
+        "Fletchling": 9,
         "Whirlipede": 4,
         "Duskull": 22,
         "Abra": 16,
@@ -340,7 +340,7 @@
         "Furfrou": 2,
         "Ursaring": 2,
         "Bidoof": 2,
-        "Gothita": 5,
+        "Gothita": 6,
         "Solosis": 12,
         "Sandygast": 3,
         "Pidove": 6,
@@ -464,7 +464,7 @@
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
-        "Shellder": 2,
+        "Shellder": 3,
         "Chi-yu": 1,
         "Landorus": 1,
         "Absol": 6,
@@ -691,10 +691,11 @@
         "Dwebble": 1,
         "Banette": 2,
         "Pachirisu": 1,
-        "Furret": 2
+        "Furret": 2,
+        "Helioptile": 1
       },
-      "total_spawns": 2635,
-      "last_spawn": "2026-07-06T07:07:43.817357"
+      "total_spawns": 2639,
+      "last_spawn": "2026-07-06T07:08:23.597546"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1407,7 +1408,7 @@
     }
   },
   "global": {
-    "total_spawns": 68167,
+    "total_spawns": 68171,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
