@@ -82,7 +82,7 @@
         "Bramblin": 9,
         "Stufful": 5,
         "Shelgon": 1,
-        "Marshtomp": 7,
+        "Marshtomp": 9,
         "Squirtle": 7,
         "Shinx": 28,
         "Drakloak": 3,
@@ -91,7 +91,7 @@
         "Sandile": 21,
         "Charmeleon": 5,
         "Riolu": 14,
-        "Gible": 20,
+        "Gible": 22,
         "Greavard": 24,
         "Snover": 5,
         "Piplup": 2,
@@ -112,7 +112,7 @@
         "Dreepy": 35,
         "Treecko": 10,
         "Shroodle": 5,
-        "Ride cyclizar": 1,
+        "Ride cyclizar": 2,
         "Swinub": 14,
         "Rattata": 4,
         "Stonjourner": 1,
@@ -706,7 +706,7 @@
         "Loudred": 1,
         "Vespiquen": 1,
         "Gastrodon": 1,
-        "Skiddo": 1,
+        "Skiddo": 2,
         "Simisear": 2,
         "Hawlucha": 2,
         "Stunky": 1,
@@ -716,8 +716,8 @@
         "Dunsparce": 1,
         "Sobble": 1
       },
-      "total_spawns": 2861,
-      "last_spawn": "2026-07-06T07:34:35.497416"
+      "total_spawns": 2867,
+      "last_spawn": "2026-07-06T07:35:13.595545"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1430,7 +1430,7 @@
     }
   },
   "global": {
-    "total_spawns": 68393,
+    "total_spawns": 68399,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
