@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 8,
         "Oddish": 24,
-        "Totodile": 8,
+        "Totodile": 9,
         "Vanillite": 40,
         "Weedle": 25,
         "Kabutops": 2,
@@ -185,7 +185,7 @@
         "Steelix": 2,
         "Sprigatito": 11,
         "Charcadet": 41,
-        "Mudsdale": 4,
+        "Mudsdale": 6,
         "Meowth": 15,
         "Charmander": 17,
         "Wimpod": 11,
@@ -207,7 +207,7 @@
         "Zubat": 18,
         "Drowzee": 7,
         "Lechonk": 21,
-        "Woobat": 3,
+        "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 5,
         "Drifloon": 3,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 3,
-        "Geodude": 14,
+        "Geodude": 15,
         "Tentacruel": 1,
         "Archen": 11,
         "Blue plumage squawkabilly": 4,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 8,
-        "Axew": 49,
+        "Axew": 51,
         "Joltik": 6,
         "Gulpin": 6,
         "Mareanie": 4,
@@ -839,10 +839,10 @@
         "Drampa": 1,
         "Shieldon": 1,
         "Araquanid": 2,
-        "Glaceon": 1
+        "Glaceon": 2
       },
-      "total_spawns": 4952,
-      "last_spawn": "2026-07-06T22:57:08.391485"
+      "total_spawns": 4960,
+      "last_spawn": "2026-07-06T22:57:48.335034"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1555,7 +1555,7 @@
     }
   },
   "global": {
-    "total_spawns": 70484,
+    "total_spawns": 70492,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
