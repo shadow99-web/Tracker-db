@@ -81,7 +81,7 @@
         "Orbeetle": 3,
         "Bramblin": 13,
         "Stufful": 7,
-        "Shelgon": 3,
+        "Shelgon": 5,
         "Marshtomp": 9,
         "Squirtle": 11,
         "Shinx": 38,
@@ -200,7 +200,7 @@
         "Tarountula": 15,
         "Rhyhorn": 17,
         "Aipom": 4,
-        "Grookey": 7,
+        "Grookey": 8,
         "Inkay": 2,
         "Unfezant": 3,
         "Fraxure": 9,
@@ -293,7 +293,7 @@
         "Ekans": 2,
         "Brambleghast": 1,
         "Dartrix": 3,
-        "Ceruledge": 3,
+        "Ceruledge": 4,
         "Vanillish": 5,
         "Gimmighoul": 13,
         "Glimmet": 13,
@@ -315,7 +315,7 @@
         "Petilil": 6,
         "Bombirdier": 13,
         "Bellibolt": 6,
-        "Toedscool": 9,
+        "Toedscool": 10,
         "Paras": 4,
         "Fletchinder": 3,
         "Staravia": 2,
@@ -812,8 +812,8 @@
         "Sneasler": 4,
         "Swoobat": 1
       },
-      "total_spawns": 4453,
-      "last_spawn": "2026-07-06T21:58:58.304678"
+      "total_spawns": 4458,
+      "last_spawn": "2026-07-06T21:59:38.525461"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1526,7 @@
     }
   },
   "global": {
-    "total_spawns": 69985,
+    "total_spawns": 69990,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
