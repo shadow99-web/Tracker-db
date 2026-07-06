@@ -724,7 +724,7 @@
         "Timburr": 15,
         "Pidgey": 10,
         "Gimmighoul": 11,
-        "Cetoddle": 19,
+        "Cetoddle": 20,
         "Fidough": 16,
         "Smearguru": 8,
         "Nuzleaf": 3,
@@ -986,7 +986,7 @@
         "Pikachu": 2,
         "Yungoos": 5,
         "Luxio": 5,
-        "Frigibax": 15,
+        "Frigibax": 16,
         "Krokorok": 3,
         "Snorunt": 4,
         "Meganium": 1,
@@ -1160,7 +1160,7 @@
         "Scyther": 4,
         "Azumarill": 2,
         "Rillaboom": 1,
-        "Farfetch'd": 1,
+        "Farfetch'd": 2,
         "Buizel": 4,
         "Barraskewda": 1,
         "Kommo-o": 2,
@@ -1386,14 +1386,15 @@
         "Manectric": 1,
         "Honchkrow": 1,
         "Krabby": 2,
-        "Corviknight": 1
+        "Corviknight": 1,
+        "Swanna": 1
       },
-      "total_spawns": 2988,
-      "last_spawn": "2026-07-06T00:07:55.418233"
+      "total_spawns": 2992,
+      "last_spawn": "2026-07-06T00:08:34.445850"
     }
   },
   "global": {
-    "total_spawns": 68023,
+    "total_spawns": 68027,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
