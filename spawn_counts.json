@@ -140,7 +140,7 @@
         "Surskit": 6,
         "Seedot": 15,
         "Jigglypuff": 6,
-        "Spearow": 3,
+        "Spearow": 4,
         "Servine": 3,
         "Wugtrio": 9,
         "Tranquill": 4,
@@ -505,7 +505,7 @@
         "Spinarak": 5,
         "Goomy": 9,
         "Breloom": 1,
-        "Rillaboom": 6,
+        "Rillaboom": 7,
         "Hippopotas": 2,
         "Reuniclus": 1,
         "Melmetal": 1,
@@ -739,7 +739,7 @@
         "Thievul": 2,
         "Galarian slowbro": 2,
         "Oricorio": 1,
-        "Hitmonlee": 1,
+        "Hitmonlee": 2,
         "Sudowoodo": 1,
         "Yveltal": 3,
         "Illumise": 1,
@@ -811,8 +811,8 @@
         "Lunala": 1,
         "Sneasler": 4
       },
-      "total_spawns": 4436,
-      "last_spawn": "2026-07-06T21:56:18.150436"
+      "total_spawns": 4439,
+      "last_spawn": "2026-07-06T21:56:48.404480"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1525,7 +1525,7 @@
     }
   },
   "global": {
-    "total_spawns": 69968,
+    "total_spawns": 69971,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
