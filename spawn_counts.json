@@ -53,11 +53,11 @@
         "Applin": 5,
         "Staryu": 3,
         "Maschiff": 15,
-        "Smoliv": 14,
+        "Smoliv": 15,
         "Tirtouga": 8,
         "Hatenna": 38,
         "Shroomish": 3,
-        "Lillipup": 24,
+        "Lillipup": 25,
         "Mosslax": 30,
         "Maushold": 3,
         "Cubchoo": 21,
@@ -84,7 +84,7 @@
         "Shelgon": 5,
         "Marshtomp": 13,
         "Squirtle": 11,
-        "Shinx": 44,
+        "Shinx": 46,
         "Drakloak": 7,
         "Victini": 1,
         "Pawmi": 39,
@@ -123,7 +123,7 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 4,
-        "Rookidee": 41,
+        "Rookidee": 43,
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
@@ -501,7 +501,7 @@
         "Gardevoir": 8,
         "Kubfu": 1,
         "Tyrogue": 4,
-        "Nuzleaf": 7,
+        "Nuzleaf": 8,
         "Spinarak": 6,
         "Goomy": 11,
         "Breloom": 2,
@@ -683,7 +683,7 @@
         "Ferroseed": 2,
         "Musharna": 1,
         "Wingull": 4,
-        "Magmar": 2,
+        "Magmar": 3,
         "Dedenne": 2,
         "Serperior": 2,
         "Grapploct": 2,
@@ -850,8 +850,8 @@
         "Morgrem": 1,
         "Budew": 1
       },
-      "total_spawns": 5139,
-      "last_spawn": "2026-07-06T23:15:13.998285"
+      "total_spawns": 5147,
+      "last_spawn": "2026-07-06T23:15:44.122374"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1564,7 +1564,7 @@
     }
   },
   "global": {
-    "total_spawns": 70671,
+    "total_spawns": 70679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
