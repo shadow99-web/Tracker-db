@@ -15,8 +15,8 @@
         "Vanillite": 30,
         "Weedle": 23,
         "Kabutops": 2,
-        "Poliwag": 14,
-        "Fidough": 13,
+        "Poliwag": 15,
+        "Fidough": 14,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 7,
@@ -176,7 +176,7 @@
         "Poliwhirl": 4,
         "Lokix": 6,
         "Flamigo": 9,
-        "Bellsprout": 12,
+        "Bellsprout": 13,
         "Houndstone": 2,
         "Beldum": 19,
         "Kadabra": 10,
@@ -191,7 +191,7 @@
         "Wimpod": 9,
         "Comfey": 3,
         "Diggersby": 2,
-        "Klawf": 23,
+        "Klawf": 25,
         "Dj rotom": 13,
         "Chef dente": 17,
         "Hisuian qwilfish": 1,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 11,
-        "Finizen": 12,
+        "Finizen": 13,
         "Swablu": 6,
         "Sunkern": 4,
         "Snubbull": 1,
@@ -482,7 +482,7 @@
         "Mudbray": 3,
         "Spectrier": 1,
         "Rufflet": 3,
-        "Lairon": 2,
+        "Lairon": 3,
         "Altaria": 1,
         "Attack deoxys": 2,
         "Mudkip": 10,
@@ -570,7 +570,7 @@
         "Squawkabilly": 4,
         "Seadra": 1,
         "Sealeo": 1,
-        "Baltoy": 2,
+        "Baltoy": 3,
         "Karrablast": 2,
         "Volbeat": 1,
         "Murkrow": 3,
@@ -765,8 +765,8 @@
         "Pinsir": 1,
         "Ivysaur": 1
       },
-      "total_spawns": 3608,
-      "last_spawn": "2026-07-06T12:38:13.753845"
+      "total_spawns": 3616,
+      "last_spawn": "2026-07-06T12:38:48.173500"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1479,7 +1479,7 @@
     }
   },
   "global": {
-    "total_spawns": 69140,
+    "total_spawns": 69148,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
