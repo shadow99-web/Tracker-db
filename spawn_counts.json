@@ -143,7 +143,7 @@
         "Spearow": 3,
         "Servine": 3,
         "Wugtrio": 7,
-        "Tranquill": 2,
+        "Tranquill": 3,
         "Cetitan": 2,
         "Turtwig": 5,
         "Fomantis": 5,
@@ -578,9 +578,9 @@
         "Quaquaval": 1,
         "Boldore": 4,
         "Skorupi": 3,
-        "Probopass": 1,
+        "Probopass": 2,
         "Family of three maushold": 1,
-        "Scyther": 6,
+        "Scyther": 8,
         "Polteageist": 2,
         "Lombre": 5,
         "Dachsbun": 3,
@@ -782,8 +782,8 @@
         "Happiny": 2,
         "Chandelure": 1
       },
-      "total_spawns": 3838,
-      "last_spawn": "2026-07-06T18:24:48.532077"
+      "total_spawns": 3842,
+      "last_spawn": "2026-07-06T18:25:18.733898"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1496,7 +1496,7 @@
     }
   },
   "global": {
-    "total_spawns": 69370,
+    "total_spawns": 69374,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
