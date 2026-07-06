@@ -32,7 +32,7 @@
         "Pidgey": 18,
         "Binacle": 7,
         "Bounsweet": 36,
-        "Fletchling": 21,
+        "Fletchling": 22,
         "Whirlipede": 5,
         "Duskull": 42,
         "Abra": 26,
@@ -43,7 +43,7 @@
         "Capsakid": 17,
         "Numel": 8,
         "Pawmo": 8,
-        "Wattrel": 15,
+        "Wattrel": 16,
         "Tadbulb": 23,
         "Yanmega": 1,
         "Tympole": 17,
@@ -140,7 +140,7 @@
         "Surskit": 6,
         "Seedot": 16,
         "Jigglypuff": 6,
-        "Spearow": 4,
+        "Spearow": 5,
         "Servine": 3,
         "Wugtrio": 9,
         "Tranquill": 5,
@@ -542,9 +542,9 @@
         "Pawniard": 6,
         "Brionne": 4,
         "Zarude": 2,
-        "Yamper": 1,
+        "Yamper": 2,
         "Tropius": 1,
-        "Tatsugiri": 6,
+        "Tatsugiri": 7,
         "Xerneas": 4,
         "Nincada": 6,
         "Audino": 2,
@@ -688,7 +688,7 @@
         "Serperior": 2,
         "Grapploct": 2,
         "Vanilluxe": 2,
-        "Dwebble": 3,
+        "Dwebble": 4,
         "Banette": 2,
         "Pachirisu": 1,
         "Furret": 2,
@@ -847,8 +847,8 @@
         "Tapu lele": 2,
         "Naclstack": 1
       },
-      "total_spawns": 5085,
-      "last_spawn": "2026-07-06T23:11:23.599530"
+      "total_spawns": 5091,
+      "last_spawn": "2026-07-06T23:11:53.705486"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1561,7 +1561,7 @@
     }
   },
   "global": {
-    "total_spawns": 70617,
+    "total_spawns": 70623,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
