@@ -113,7 +113,7 @@
         "Treecko": 10,
         "Shroodle": 12,
         "Ride cyclizar": 4,
-        "Swinub": 20,
+        "Swinub": 21,
         "Rattata": 6,
         "Stonjourner": 1,
         "Veluza": 22,
@@ -123,7 +123,7 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 4,
-        "Rookidee": 25,
+        "Rookidee": 27,
         "Flapple": 4,
         "Bronzor": 4,
         "Swirlix": 6,
@@ -223,7 +223,7 @@
         "Orthworm": 19,
         "Yamask": 3,
         "Nymble": 13,
-        "Snorunt": 3,
+        "Snorunt": 4,
         "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 2,
@@ -283,7 +283,7 @@
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 5,
         "Hattrem": 5,
-        "Trash wormadam": 2,
+        "Trash wormadam": 3,
         "Purrloin": 2,
         "Zigzagoon": 4,
         "Quilladin": 2,
@@ -331,7 +331,7 @@
         "Sharpedo": 1,
         "Raboot": 5,
         "Oinkologne": 3,
-        "Floragato": 3,
+        "Floragato": 4,
         "Larvesta": 17,
         "Magby": 1,
         "Roaming gimmighoul": 9,
@@ -525,7 +525,7 @@
         "Cosmoem": 1,
         "Copperajah": 6,
         "Golett": 3,
-        "Politoed": 3,
+        "Politoed": 5,
         "Droopy tatsugiri": 3,
         "Volcanion": 1,
         "Drapion": 2,
@@ -659,7 +659,7 @@
         "Munna": 2,
         "Mabosstiff": 3,
         "Omastar": 3,
-        "Gabite": 2,
+        "Gabite": 4,
         "Tapu fini": 4,
         "Gyarados": 2,
         "Lapras": 2,
@@ -791,8 +791,8 @@
         "Steenee": 1,
         "Boltund": 1
       },
-      "total_spawns": 4088,
-      "last_spawn": "2026-07-06T19:07:28.051242"
+      "total_spawns": 4098,
+      "last_spawn": "2026-07-06T19:07:58.500746"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1505,7 +1505,7 @@
     }
   },
   "global": {
-    "total_spawns": 69620,
+    "total_spawns": 69630,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
