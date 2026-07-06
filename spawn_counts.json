@@ -43,7 +43,7 @@
         "Capsakid": 12,
         "Numel": 5,
         "Pawmo": 4,
-        "Wattrel": 9,
+        "Wattrel": 10,
         "Tadbulb": 11,
         "Yanmega": 1,
         "Tympole": 12,
@@ -122,7 +122,7 @@
         "Frogadier": 3,
         "Scovillain": 2,
         "White plumage squawkabilly": 6,
-        "Flaaffy": 2,
+        "Flaaffy": 3,
         "Rookidee": 17,
         "Flapple": 4,
         "Bronzor": 1,
@@ -187,7 +187,7 @@
         "Charcadet": 27,
         "Mudsdale": 4,
         "Meowth": 9,
-        "Charmander": 7,
+        "Charmander": 8,
         "Wimpod": 9,
         "Comfey": 1,
         "Diggersby": 2,
@@ -206,7 +206,7 @@
         "Fraxure": 3,
         "Zubat": 13,
         "Drowzee": 5,
-        "Lechonk": 12,
+        "Lechonk": 13,
         "Woobat": 3,
         "Skrelp": 5,
         "Lileep": 2,
@@ -385,10 +385,10 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 25,
+        "Axew": 27,
         "Joltik": 4,
         "Gulpin": 2,
-        "Mareanie": 2,
+        "Mareanie": 3,
         "Throh": 3,
         "Sentret": 6,
         "Houndoom": 1,
@@ -721,8 +721,8 @@
         "Ursaluna": 2,
         "Blastoise": 2
       },
-      "total_spawns": 2939,
-      "last_spawn": "2026-07-06T07:40:08.595604"
+      "total_spawns": 2946,
+      "last_spawn": "2026-07-06T07:40:43.667903"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1435,7 +1435,7 @@
     }
   },
   "global": {
-    "total_spawns": 68471,
+    "total_spawns": 68478,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
