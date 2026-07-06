@@ -74,7 +74,7 @@
         "Houndour": 1,
         "Machop": 14,
         "Terapagos": 1,
-        "Mankey": 4,
+        "Mankey": 5,
         "Torterra": 1,
         "Salandit": 4,
         "Bruxish": 1,
@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 9,
         "Squirtle": 7,
-        "Shinx": 32,
+        "Shinx": 34,
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 27,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 9,
         "Butterfree": 3,
-        "Teddiursa": 28,
+        "Teddiursa": 30,
         "Roggenrola": 22,
         "Litwick": 8,
         "Wooper": 3,
@@ -748,8 +748,8 @@
         "Bisharp": 1,
         "Forretress": 1
       },
-      "total_spawns": 3339,
-      "last_spawn": "2026-07-06T09:52:43.600745"
+      "total_spawns": 3344,
+      "last_spawn": "2026-07-06T09:53:13.896499"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1462,7 +1462,7 @@
     }
   },
   "global": {
-    "total_spawns": 68871,
+    "total_spawns": 68876,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
