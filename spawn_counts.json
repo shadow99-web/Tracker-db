@@ -69,7 +69,7 @@
         "Prof tangrowth": 17,
         "Vulpix": 11,
         "Gastly": 20,
-        "Aron": 11,
+        "Aron": 12,
         "Honedge": 22,
         "Houndour": 1,
         "Machop": 12,
@@ -232,7 +232,7 @@
         "Sizzlipede": 3,
         "Skuntank": 1,
         "Palafin": 6,
-        "Timburr": 9,
+        "Timburr": 10,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
@@ -308,7 +308,7 @@
         "Archen": 9,
         "Blue plumage squawkabilly": 3,
         "Metang": 5,
-        "Larvitar": 9,
+        "Larvitar": 10,
         "Lumineon": 1,
         "Kilowattrel": 2,
         "Pumpkaboo": 3,
@@ -331,7 +331,7 @@
         "Sharpedo": 1,
         "Raboot": 4,
         "Oinkologne": 3,
-        "Floragato": 1,
+        "Floragato": 3,
         "Larvesta": 13,
         "Magby": 1,
         "Roaming gimmighoul": 7,
@@ -502,7 +502,7 @@
         "Kubfu": 1,
         "Tyrogue": 2,
         "Nuzleaf": 4,
-        "Spinarak": 2,
+        "Spinarak": 3,
         "Goomy": 5,
         "Breloom": 1,
         "Rillaboom": 6,
@@ -585,7 +585,7 @@
         "Lombre": 3,
         "Dachsbun": 3,
         "Primeape": 4,
-        "Goldeen": 4,
+        "Goldeen": 5,
         "Gouging fire": 2,
         "Cottonee": 1,
         "Flareon": 2,
@@ -631,7 +631,7 @@
         "Mienfoo": 2,
         "Quagsire": 1,
         "Komala": 1,
-        "Poochyena": 2,
+        "Poochyena": 3,
         "Hero palafin": 1,
         "Klinklang": 1,
         "Lickilicky": 3,
@@ -728,8 +728,8 @@
         "Cranidos": 1,
         "Tsareena": 1
       },
-      "total_spawns": 3063,
-      "last_spawn": "2026-07-06T07:49:48.301893"
+      "total_spawns": 3071,
+      "last_spawn": "2026-07-06T07:50:24.867156"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1442,7 +1442,7 @@
     }
   },
   "global": {
-    "total_spawns": 68595,
+    "total_spawns": 68603,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
