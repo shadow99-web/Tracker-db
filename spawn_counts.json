@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
-        "Whismur": 12,
+        "Whismur": 13,
         "Jangmo-o": 6,
         "Lunatone": 1,
         "Machoke": 4,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 2,
         "Drizzile": 6,
-        "Tinkatink": 10,
+        "Tinkatink": 11,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 2,
@@ -453,7 +453,7 @@
         "Thwackey": 3,
         "Latios": 2,
         "Slurpuff": 1,
-        "Espurr": 2,
+        "Espurr": 4,
         "Pelipper": 1,
         "Excadrill": 2,
         "Buizel": 3,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 1,
-        "Wurmple": 16,
+        "Wurmple": 18,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3165,
-      "last_spawn": "2026-07-06T09:28:23.844773"
+      "total_spawns": 3171,
+      "last_spawn": "2026-07-06T09:29:03.606881"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68697,
+    "total_spawns": 68703,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
