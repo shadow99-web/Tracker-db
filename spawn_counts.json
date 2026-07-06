@@ -55,7 +55,7 @@
         "Maschiff": 8,
         "Smoliv": 9,
         "Tirtouga": 6,
-        "Hatenna": 20,
+        "Hatenna": 22,
         "Shroomish": 3,
         "Lillipup": 19,
         "Mosslax": 22,
@@ -68,8 +68,8 @@
         "Feebas": 6,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 28,
-        "Aron": 17,
+        "Gastly": 30,
+        "Aron": 18,
         "Honedge": 26,
         "Houndour": 1,
         "Machop": 14,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 5,
-        "Zubat": 16,
+        "Zubat": 17,
         "Drowzee": 5,
         "Lechonk": 15,
         "Woobat": 3,
@@ -281,7 +281,7 @@
         "Pancham": 3,
         "Bulbasaur": 15,
         "Dewpider": 5,
-        "Yellow plumage squawkabilly": 4,
+        "Yellow plumage squawkabilly": 5,
         "Hattrem": 5,
         "Trash wormadam": 1,
         "Purrloin": 2,
@@ -357,7 +357,7 @@
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 3,
-        "Hoppip": 15,
+        "Hoppip": 16,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 7,
@@ -774,8 +774,8 @@
         "Cramorant": 1,
         "Sandy wormadam": 1
       },
-      "total_spawns": 3679,
-      "last_spawn": "2026-07-06T12:43:08.231340"
+      "total_spawns": 3687,
+      "last_spawn": "2026-07-06T12:43:38.278837"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1488,7 +1488,7 @@
     }
   },
   "global": {
-    "total_spawns": 69211,
+    "total_spawns": 69219,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
