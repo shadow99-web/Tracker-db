@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 13,
         "Binacle": 4,
-        "Bounsweet": 20,
+        "Bounsweet": 22,
         "Fletchling": 10,
         "Whirlipede": 4,
         "Duskull": 24,
@@ -47,7 +47,7 @@
         "Tadbulb": 11,
         "Yanmega": 1,
         "Tympole": 12,
-        "Grubbin": 12,
+        "Grubbin": 13,
         "Scatterbug": 9,
         "Skwovet": 5,
         "Applin": 3,
@@ -84,7 +84,7 @@
         "Shelgon": 1,
         "Marshtomp": 9,
         "Squirtle": 7,
-        "Shinx": 28,
+        "Shinx": 30,
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 25,
@@ -187,7 +187,7 @@
         "Charcadet": 27,
         "Mudsdale": 4,
         "Meowth": 11,
-        "Charmander": 9,
+        "Charmander": 11,
         "Wimpod": 9,
         "Comfey": 1,
         "Diggersby": 2,
@@ -208,7 +208,7 @@
         "Drowzee": 5,
         "Lechonk": 13,
         "Woobat": 3,
-        "Skrelp": 6,
+        "Skrelp": 7,
         "Lileep": 2,
         "Drifloon": 1,
         "Mightyena": 3,
@@ -232,7 +232,7 @@
         "Sizzlipede": 3,
         "Skuntank": 1,
         "Palafin": 6,
-        "Timburr": 8,
+        "Timburr": 9,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
@@ -725,8 +725,8 @@
         "Sawk": 1,
         "Azumarill": 1
       },
-      "total_spawns": 3016,
-      "last_spawn": "2026-07-06T07:46:28.301652"
+      "total_spawns": 3025,
+      "last_spawn": "2026-07-06T07:46:58.496733"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1439,7 +1439,7 @@
     }
   },
   "global": {
-    "total_spawns": 68548,
+    "total_spawns": 68557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
