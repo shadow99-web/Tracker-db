@@ -39,7 +39,7 @@
         "Wiglett": 14,
         "Starly": 29,
         "Caterpie": 9,
-        "Mareep": 15,
+        "Mareep": 16,
         "Capsakid": 15,
         "Numel": 8,
         "Pawmo": 7,
@@ -72,7 +72,7 @@
         "Aron": 20,
         "Honedge": 34,
         "Houndour": 1,
-        "Machop": 15,
+        "Machop": 16,
         "Terapagos": 1,
         "Mankey": 5,
         "Torterra": 1,
@@ -607,7 +607,7 @@
         "Amoonguss": 4,
         "Herdier": 3,
         "Blissey": 2,
-        "Cinccino": 4,
+        "Cinccino": 6,
         "Alolan vulpix": 2,
         "Glameow": 1,
         "Zweilous": 3,
@@ -798,8 +798,8 @@
         "Cacnea": 1,
         "Sableye": 2
       },
-      "total_spawns": 4196,
-      "last_spawn": "2026-07-06T19:26:08.632313"
+      "total_spawns": 4200,
+      "last_spawn": "2026-07-06T19:26:40.421765"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1512,7 +1512,7 @@
     }
   },
   "global": {
-    "total_spawns": 69728,
+    "total_spawns": 69732,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
