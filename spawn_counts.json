@@ -46,11 +46,11 @@
         "Wattrel": 9,
         "Tadbulb": 9,
         "Yanmega": 1,
-        "Tympole": 9,
+        "Tympole": 10,
         "Grubbin": 9,
         "Scatterbug": 8,
         "Skwovet": 4,
-        "Applin": 2,
+        "Applin": 3,
         "Staryu": 1,
         "Maschiff": 6,
         "Smoliv": 4,
@@ -92,7 +92,7 @@
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 18,
-        "Greavard": 22,
+        "Greavard": 23,
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 5,
@@ -684,10 +684,11 @@
         "Musharna": 1,
         "Wingull": 1,
         "Magmar": 1,
-        "Dedenne": 1
+        "Dedenne": 1,
+        "Serperior": 1
       },
-      "total_spawns": 2526,
-      "last_spawn": "2026-07-06T04:41:58.807057"
+      "total_spawns": 2530,
+      "last_spawn": "2026-07-06T04:42:38.294959"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1400,7 +1401,7 @@
     }
   },
   "global": {
-    "total_spawns": 68058,
+    "total_spawns": 68062,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
