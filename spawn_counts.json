@@ -44,7 +44,7 @@
         "Numel": 5,
         "Pawmo": 4,
         "Wattrel": 9,
-        "Tadbulb": 9,
+        "Tadbulb": 10,
         "Yanmega": 1,
         "Tympole": 10,
         "Grubbin": 11,
@@ -185,7 +185,7 @@
         "Steelix": 1,
         "Sprigatito": 3,
         "Charcadet": 21,
-        "Mudsdale": 2,
+        "Mudsdale": 4,
         "Meowth": 9,
         "Charmander": 7,
         "Wimpod": 9,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 23,
+        "Axew": 24,
         "Joltik": 3,
         "Gulpin": 2,
         "Mareanie": 2,
@@ -703,10 +703,11 @@
         "Glimmora": 1,
         "Parasect": 1,
         "Fuecoco": 1,
-        "Loudred": 1
+        "Loudred": 1,
+        "Vespiquen": 1
       },
-      "total_spawns": 2767,
-      "last_spawn": "2026-07-06T07:25:53.701090"
+      "total_spawns": 2772,
+      "last_spawn": "2026-07-06T07:26:34.012405"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1419,7 +1420,7 @@
     }
   },
   "global": {
-    "total_spawns": 68299,
+    "total_spawns": 68304,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
