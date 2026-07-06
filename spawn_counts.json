@@ -102,7 +102,7 @@
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 5,
-        "Flittle": 17,
+        "Flittle": 18,
         "Armarouge": 4,
         "Clauncher": 4,
         "Tentacool": 4,
@@ -500,7 +500,7 @@
         "Magikarp": 6,
         "Gardevoir": 8,
         "Kubfu": 1,
-        "Tyrogue": 3,
+        "Tyrogue": 4,
         "Nuzleaf": 7,
         "Spinarak": 5,
         "Goomy": 10,
@@ -525,7 +525,7 @@
         "Cosmoem": 1,
         "Copperajah": 6,
         "Golett": 3,
-        "Politoed": 6,
+        "Politoed": 7,
         "Droopy tatsugiri": 3,
         "Volcanion": 1,
         "Drapion": 2,
@@ -813,10 +813,11 @@
         "Swoobat": 1,
         "Morpeko": 1,
         "East sea shellos": 1,
-        "Seaking": 2
+        "Seaking": 2,
+        "Glalie": 1
       },
-      "total_spawns": 4605,
-      "last_spawn": "2026-07-06T22:19:08.135382"
+      "total_spawns": 4609,
+      "last_spawn": "2026-07-06T22:19:38.540437"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1529,7 +1530,7 @@
     }
   },
   "global": {
-    "total_spawns": 70137,
+    "total_spawns": 70141,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
