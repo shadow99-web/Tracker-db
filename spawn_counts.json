@@ -32,7 +32,7 @@
         "Pidgey": 17,
         "Binacle": 6,
         "Bounsweet": 36,
-        "Fletchling": 20,
+        "Fletchling": 21,
         "Whirlipede": 5,
         "Duskull": 38,
         "Abra": 25,
@@ -168,7 +168,7 @@
         "Tandemaus": 15,
         "Clefairy": 5,
         "Unown q": 1,
-        "Lotad": 15,
+        "Lotad": 16,
         "Mienshao": 2,
         "Blipbug": 36,
         "Rellor": 11,
@@ -638,7 +638,7 @@
         "Unown k": 2,
         "Elekid": 2,
         "Chingling": 2,
-        "Tangela": 3,
+        "Tangela": 4,
         "Raticate": 5,
         "Weavile": 2,
         "Amped toxtricity": 2,
@@ -833,10 +833,11 @@
         "Galvantula": 1,
         "Drifblim": 1,
         "Togedemaru": 1,
-        "Jellicent": 1
+        "Jellicent": 1,
+        "Monferno": 1
       },
-      "total_spawns": 4887,
-      "last_spawn": "2026-07-06T22:47:59.909637"
+      "total_spawns": 4891,
+      "last_spawn": "2026-07-06T22:48:38.281434"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1549,7 +1550,7 @@
     }
   },
   "global": {
-    "total_spawns": 70419,
+    "total_spawns": 70423,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
