@@ -696,7 +696,7 @@
         "Mareep": 12,
         "Klink": 11,
         "Nymble": 14,
-        "Porygon": 14,
+        "Porygon": 15,
         "Abra": 19,
         "Oddish": 16,
         "Dedenne": 2,
@@ -811,7 +811,7 @@
         "Popplio": 3,
         "Watchog": 2,
         "Bounsweet": 22,
-        "Flamigo": 14,
+        "Flamigo": 15,
         "Stunky": 4,
         "Spinarak": 4,
         "Gligar": 3,
@@ -873,12 +873,12 @@
         "Sandaconda": 1,
         "Ninjask": 1,
         "Pidove": 8,
-        "Larvitar": 10,
+        "Larvitar": 11,
         "Munna": 1,
         "Tangela": 5,
         "Espurr": 6,
         "Doduo": 5,
-        "Kadabra": 5,
+        "Kadabra": 6,
         "Stretchy tatsugiri": 4,
         "Dugtrio": 2,
         "Capsakid": 13,
@@ -1386,12 +1386,12 @@
         "Honchkrow": 1,
         "Krabby": 1
       },
-      "total_spawns": 2944,
-      "last_spawn": "2026-07-06T00:00:25.481417"
+      "total_spawns": 2948,
+      "last_spawn": "2026-07-06T00:01:04.902239"
     }
   },
   "global": {
-    "total_spawns": 67969,
+    "total_spawns": 67973,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
