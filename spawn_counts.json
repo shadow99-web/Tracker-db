@@ -108,7 +108,7 @@
         "Tentacool": 1,
         "Bayleef": 3,
         "Magnezone": 1,
-        "Eevee": 6,
+        "Eevee": 8,
         "Dreepy": 35,
         "Treecko": 10,
         "Shroodle": 5,
@@ -126,7 +126,7 @@
         "Rookidee": 17,
         "Flapple": 4,
         "Bronzor": 1,
-        "Swirlix": 5,
+        "Swirlix": 6,
         "Varoom": 10,
         "Ducklett": 4,
         "Three-segment dudunsparce": 1,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 14,
         "Pikachu": 6,
-        "Tarountula": 7,
+        "Tarountula": 8,
         "Rhyhorn": 11,
         "Aipom": 4,
         "Grookey": 5,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 7,
-        "Finizen": 6,
+        "Finizen": 7,
         "Swablu": 4,
         "Sunkern": 3,
         "Snubbull": 1,
@@ -355,7 +355,7 @@
         "Spinda": 1,
         "Phantump": 2,
         "Barboach": 3,
-        "Nosepass": 1,
+        "Nosepass": 2,
         "Electrike": 3,
         "Hoppip": 12,
         "Slowbro": 2,
@@ -366,7 +366,7 @@
         "Dusclops": 2,
         "Prinplup": 1,
         "Kommo-o": 1,
-        "Vigoroth": 3,
+        "Vigoroth": 4,
         "Gigalith": 1,
         "Kingambit": 1,
         "Cresselia": 3,
@@ -713,10 +713,11 @@
         "Garbodor": 2,
         "Remoraid": 1,
         "Exeggcute": 1,
-        "Dunsparce": 1
+        "Dunsparce": 1,
+        "Sobble": 1
       },
-      "total_spawns": 2853,
-      "last_spawn": "2026-07-06T07:33:53.797454"
+      "total_spawns": 2861,
+      "last_spawn": "2026-07-06T07:34:35.497416"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1429,7 +1430,7 @@
     }
   },
   "global": {
-    "total_spawns": 68385,
+    "total_spawns": 68393,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
