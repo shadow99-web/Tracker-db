@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 6,
         "Wattrel": 13,
-        "Tadbulb": 15,
+        "Tadbulb": 16,
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
@@ -57,7 +57,7 @@
         "Tirtouga": 6,
         "Hatenna": 24,
         "Shroomish": 3,
-        "Lillipup": 19,
+        "Lillipup": 20,
         "Mosslax": 26,
         "Maushold": 3,
         "Cubchoo": 15,
@@ -84,10 +84,10 @@
         "Shelgon": 3,
         "Marshtomp": 9,
         "Squirtle": 9,
-        "Shinx": 36,
+        "Shinx": 38,
         "Drakloak": 5,
         "Victini": 1,
-        "Pawmi": 31,
+        "Pawmi": 33,
         "Sandile": 25,
         "Charmeleon": 5,
         "Riolu": 16,
@@ -123,7 +123,7 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 3,
-        "Rookidee": 19,
+        "Rookidee": 21,
         "Flapple": 4,
         "Bronzor": 4,
         "Swirlix": 6,
@@ -134,7 +134,7 @@
         "Torchic": 9,
         "Abomasnow": 5,
         "Slugma": 5,
-        "Venonat": 4,
+        "Venonat": 5,
         "Eelektrik": 3,
         "Diglett": 6,
         "Surskit": 6,
@@ -198,7 +198,7 @@
         "Bagon": 18,
         "Pikachu": 8,
         "Tarountula": 11,
-        "Rhyhorn": 13,
+        "Rhyhorn": 14,
         "Aipom": 4,
         "Grookey": 7,
         "Inkay": 1,
@@ -784,8 +784,8 @@
         "Umbreon": 2,
         "Ninjask": 1
       },
-      "total_spawns": 3883,
-      "last_spawn": "2026-07-06T18:28:34.142968"
+      "total_spawns": 3893,
+      "last_spawn": "2026-07-06T18:29:08.250966"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1498,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 69415,
+    "total_spawns": 69425,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
