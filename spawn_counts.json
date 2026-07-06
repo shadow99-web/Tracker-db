@@ -58,7 +58,7 @@
         "Hatenna": 24,
         "Shroomish": 3,
         "Lillipup": 19,
-        "Mosslax": 22,
+        "Mosslax": 24,
         "Maushold": 3,
         "Cubchoo": 15,
         "Koffing": 4,
@@ -183,7 +183,7 @@
         "Grovyle": 9,
         "Dratini": 15,
         "Steelix": 1,
-        "Sprigatito": 9,
+        "Sprigatito": 11,
         "Charcadet": 33,
         "Mudsdale": 4,
         "Meowth": 11,
@@ -196,14 +196,14 @@
         "Chef dente": 17,
         "Hisuian qwilfish": 1,
         "Bagon": 18,
-        "Pikachu": 6,
+        "Pikachu": 8,
         "Tarountula": 11,
         "Rhyhorn": 13,
         "Aipom": 4,
         "Grookey": 6,
         "Inkay": 1,
         "Unfezant": 2,
-        "Fraxure": 6,
+        "Fraxure": 8,
         "Zubat": 17,
         "Drowzee": 5,
         "Lechonk": 15,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 16,
+        "Sewaddle": 17,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 5,
@@ -774,10 +774,11 @@
         "Cramorant": 1,
         "Sandy wormadam": 1,
         "Haxorus": 2,
-        "Lilligant": 1
+        "Lilligant": 1,
+        "Fan rotom": 2
       },
-      "total_spawns": 3704,
-      "last_spawn": "2026-07-06T12:44:48.113797"
+      "total_spawns": 3715,
+      "last_spawn": "2026-07-06T12:45:18.273985"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1490,7 +1491,7 @@
     }
   },
   "global": {
-    "total_spawns": 69236,
+    "total_spawns": 69247,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
