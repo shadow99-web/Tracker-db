@@ -55,7 +55,7 @@
         "Maschiff": 13,
         "Smoliv": 11,
         "Tirtouga": 7,
-        "Hatenna": 30,
+        "Hatenna": 32,
         "Shroomish": 3,
         "Lillipup": 22,
         "Mosslax": 30,
@@ -343,7 +343,7 @@
         "Gothita": 17,
         "Solosis": 16,
         "Sandygast": 4,
-        "Pidove": 11,
+        "Pidove": 12,
         "Chespin": 3,
         "Combee": 4,
         "Cyndaquil": 4,
@@ -657,7 +657,7 @@
         "Jynx": 1,
         "Noctowl": 2,
         "Munna": 2,
-        "Mabosstiff": 3,
+        "Mabosstiff": 4,
         "Omastar": 3,
         "Gabite": 4,
         "Tapu fini": 4,
@@ -825,8 +825,8 @@
         "Luxray": 1,
         "Gogoat": 1
       },
-      "total_spawns": 4716,
-      "last_spawn": "2026-07-06T22:30:58.408954"
+      "total_spawns": 4720,
+      "last_spawn": "2026-07-06T22:31:28.403050"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1539,7 +1539,7 @@
     }
   },
   "global": {
-    "total_spawns": 70248,
+    "total_spawns": 70252,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
