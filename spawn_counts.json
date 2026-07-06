@@ -52,7 +52,7 @@
         "Skwovet": 9,
         "Applin": 5,
         "Staryu": 3,
-        "Maschiff": 15,
+        "Maschiff": 16,
         "Smoliv": 15,
         "Tirtouga": 9,
         "Hatenna": 40,
@@ -610,7 +610,7 @@
         "Cinccino": 6,
         "Alolan vulpix": 2,
         "Glameow": 1,
-        "Zweilous": 4,
+        "Zweilous": 5,
         "Azurill": 4,
         "Oshawott": 2,
         "Malamar": 2,
@@ -664,7 +664,7 @@
         "Gyarados": 2,
         "Lapras": 2,
         "Grimmsnarl": 2,
-        "Sylveon": 4,
+        "Sylveon": 5,
         "Inteleon": 4,
         "Milotic": 1,
         "Slaking": 1,
@@ -677,7 +677,7 @@
         "Pangoro": 1,
         "Galarian zen darmanitan": 2,
         "Basculegion": 4,
-        "Jolteon": 5,
+        "Jolteon": 6,
         "Okidogi": 2,
         "Wyrdeer": 2,
         "Ferroseed": 2,
@@ -862,8 +862,8 @@
         "Clefable": 1,
         "Mr. mime": 2
       },
-      "total_spawns": 5422,
-      "last_spawn": "2026-07-06T23:49:48.243437"
+      "total_spawns": 5426,
+      "last_spawn": "2026-07-06T23:50:18.465668"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1576,7 +1576,7 @@
     }
   },
   "global": {
-    "total_spawns": 70954,
+    "total_spawns": 70958,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
