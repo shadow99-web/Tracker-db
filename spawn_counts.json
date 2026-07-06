@@ -27,7 +27,7 @@
         "Cutiefly": 4,
         "Simipour": 2,
         "Tynamo": 11,
-        "Palossand": 2,
+        "Palossand": 3,
         "Pyukumuku": 1,
         "Pidgey": 13,
         "Binacle": 4,
@@ -66,7 +66,7 @@
         "Deino": 11,
         "Dolliv": 4,
         "Feebas": 6,
-        "Prof tangrowth": 17,
+        "Prof tangrowth": 18,
         "Vulpix": 13,
         "Gastly": 24,
         "Aron": 16,
@@ -752,10 +752,11 @@
         "Metapod": 1,
         "Lampent": 2,
         "Roselia": 1,
-        "Pineco": 1
+        "Pineco": 1,
+        "Maractus": 2
       },
-      "total_spawns": 3450,
-      "last_spawn": "2026-07-06T12:17:53.597683"
+      "total_spawns": 3454,
+      "last_spawn": "2026-07-06T12:18:23.999515"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1468,7 +1469,7 @@
     }
   },
   "global": {
-    "total_spawns": 68982,
+    "total_spawns": 68986,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
