@@ -69,7 +69,7 @@
         "Prof tangrowth": 17,
         "Vulpix": 11,
         "Gastly": 20,
-        "Aron": 10,
+        "Aron": 11,
         "Honedge": 22,
         "Houndour": 1,
         "Machop": 12,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 7,
         "Butterfree": 3,
-        "Teddiursa": 22,
+        "Teddiursa": 24,
         "Roggenrola": 20,
         "Litwick": 7,
         "Wooper": 2,
@@ -161,7 +161,7 @@
         "Swadloon": 5,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 11,
+        "Venipede": 12,
         "Pansage": 3,
         "Cetoddle": 11,
         "Togepi": 7,
@@ -224,7 +224,7 @@
         "Yamask": 2,
         "Nymble": 12,
         "Snorunt": 2,
-        "Carvanha": 2,
+        "Carvanha": 3,
         "Toxel": 4,
         "Buneary": 2,
         "Gallade": 5,
@@ -315,7 +315,7 @@
         "Petilil": 3,
         "Bombirdier": 9,
         "Bellibolt": 5,
-        "Toedscool": 5,
+        "Toedscool": 6,
         "Paras": 2,
         "Fletchinder": 2,
         "Staravia": 1,
@@ -725,8 +725,8 @@
         "Sawk": 1,
         "Azumarill": 1
       },
-      "total_spawns": 3010,
-      "last_spawn": "2026-07-06T07:45:58.202213"
+      "total_spawns": 3016,
+      "last_spawn": "2026-07-06T07:46:28.301652"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1439,7 +1439,7 @@
     }
   },
   "global": {
-    "total_spawns": 68542,
+    "total_spawns": 68548,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
