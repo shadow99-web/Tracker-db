@@ -78,7 +78,7 @@
         "Torterra": 1,
         "Salandit": 6,
         "Bruxish": 1,
-        "Orbeetle": 3,
+        "Orbeetle": 5,
         "Bramblin": 13,
         "Stufful": 7,
         "Shelgon": 5,
@@ -92,7 +92,7 @@
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 26,
-        "Greavard": 32,
+        "Greavard": 34,
         "Snover": 7,
         "Piplup": 5,
         "Dondozo": 15,
@@ -334,7 +334,7 @@
         "Floragato": 5,
         "Larvesta": 17,
         "Magby": 1,
-        "Roaming gimmighoul": 9,
+        "Roaming gimmighoul": 10,
         "Volcarona": 5,
         "Togekiss": 3,
         "Furfrou": 4,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 5,
         "Klang": 4,
-        "Tepig": 4,
+        "Tepig": 5,
         "Spinda": 1,
         "Phantump": 4,
         "Barboach": 3,
@@ -443,7 +443,7 @@
         "Tyrunt": 3,
         "Hisuian typhlosion": 2,
         "Ponyta": 3,
-        "Smearguru": 10,
+        "Smearguru": 11,
         "Magneton": 5,
         "Battle cyclizar": 3,
         "Minccino": 4,
@@ -836,7 +836,7 @@
         "Jellicent": 1,
         "Monferno": 1,
         "Smoochum": 1,
-        "Drampa": 1,
+        "Drampa": 2,
         "Shieldon": 2,
         "Araquanid": 2,
         "Glaceon": 2,
@@ -847,8 +847,8 @@
         "Tapu lele": 2,
         "Naclstack": 1
       },
-      "total_spawns": 5077,
-      "last_spawn": "2026-07-06T23:10:53.595723"
+      "total_spawns": 5085,
+      "last_spawn": "2026-07-06T23:11:23.599530"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1561,7 +1561,7 @@
     }
   },
   "global": {
-    "total_spawns": 70609,
+    "total_spawns": 70617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
