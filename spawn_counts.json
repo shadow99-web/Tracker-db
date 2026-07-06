@@ -903,12 +903,12 @@
         "Komala": 1,
         "Stoutland": 2,
         "Tirtouga": 5,
-        "Swablu": 6,
+        "Swablu": 7,
         "Tepig": 4,
         "Barbaracle": 4,
         "Noivern": 3,
         "Clefairy": 10,
-        "Grubbin": 18,
+        "Grubbin": 19,
         "Dustox": 2,
         "Chespin": 8,
         "Armarouge": 4,
@@ -1176,7 +1176,7 @@
         "Glastrier": 1,
         "Crabrawler": 3,
         "Onix": 2,
-        "Arctibax": 3,
+        "Arctibax": 4,
         "Shelgon": 3,
         "Dracozolt": 1,
         "Stufful": 4,
@@ -1385,15 +1385,15 @@
         "Sealeo": 1,
         "Manectric": 1,
         "Honchkrow": 1,
-        "Krabby": 1,
+        "Krabby": 2,
         "Corviknight": 1
       },
-      "total_spawns": 2984,
-      "last_spawn": "2026-07-06T00:07:14.998206"
+      "total_spawns": 2988,
+      "last_spawn": "2026-07-06T00:07:55.418233"
     }
   },
   "global": {
-    "total_spawns": 68019,
+    "total_spawns": 68023,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
