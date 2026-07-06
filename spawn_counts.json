@@ -104,7 +104,7 @@
         "Doduo": 5,
         "Flittle": 20,
         "Armarouge": 5,
-        "Clauncher": 4,
+        "Clauncher": 5,
         "Tentacool": 4,
         "Bayleef": 4,
         "Magnezone": 2,
@@ -191,7 +191,7 @@
         "Wimpod": 11,
         "Comfey": 5,
         "Diggersby": 2,
-        "Klawf": 32,
+        "Klawf": 33,
         "Dj rotom": 18,
         "Chef dente": 20,
         "Hisuian qwilfish": 1,
@@ -329,7 +329,7 @@
         "Magnemite": 18,
         "Doublade": 2,
         "Sharpedo": 1,
-        "Raboot": 7,
+        "Raboot": 8,
         "Oinkologne": 4,
         "Floragato": 5,
         "Larvesta": 19,
@@ -379,7 +379,7 @@
         "Morelull": 4,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 13,
+        "Slakoth": 14,
         "Klink": 13,
         "Mesprit": 1,
         "Azelf": 2,
@@ -857,8 +857,8 @@
         "Spewpa": 1,
         "Delcatty": 2
       },
-      "total_spawns": 5285,
-      "last_spawn": "2026-07-06T23:31:38.143929"
+      "total_spawns": 5289,
+      "last_spawn": "2026-07-06T23:32:08.296544"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70817,
+    "total_spawns": 70821,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
