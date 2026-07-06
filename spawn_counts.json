@@ -379,7 +379,7 @@
         "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 2,
-        "Slakoth": 4,
+        "Slakoth": 5,
         "Klink": 8,
         "Mesprit": 1,
         "Azelf": 2,
@@ -553,7 +553,7 @@
         "Palpitoad": 2,
         "Smeargle": 2,
         "Appletun": 6,
-        "Arrokuda": 1,
+        "Arrokuda": 2,
         "Toxapex": 2,
         "Pawmot": 1,
         "Blitzle": 2,
@@ -682,7 +682,7 @@
         "Wyrdeer": 2,
         "Ferroseed": 2,
         "Musharna": 1,
-        "Wingull": 1,
+        "Wingull": 2,
         "Magmar": 1,
         "Dedenne": 1,
         "Serperior": 1,
@@ -692,8 +692,8 @@
         "Banette": 2,
         "Pachirisu": 1
       },
-      "total_spawns": 2614,
-      "last_spawn": "2026-07-06T04:52:28.167082"
+      "total_spawns": 2617,
+      "last_spawn": "2026-07-06T04:52:58.201713"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1406,7 +1406,7 @@
     }
   },
   "global": {
-    "total_spawns": 68146,
+    "total_spawns": 68149,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
