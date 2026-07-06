@@ -15,7 +15,7 @@
         "Vanillite": 30,
         "Weedle": 23,
         "Kabutops": 2,
-        "Poliwag": 13,
+        "Poliwag": 14,
         "Fidough": 13,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -299,7 +299,7 @@
         "Glimmet": 11,
         "Popplio": 3,
         "Arboliva": 2,
-        "Luxio": 2,
+        "Luxio": 3,
         "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 2,
@@ -403,7 +403,7 @@
         "Litleo": 3,
         "Silcoon": 4,
         "Snivy": 2,
-        "Zorua": 6,
+        "Zorua": 8,
         "Minior": 1,
         "Darmanitan": 1,
         "Lopunny": 2,
@@ -759,10 +759,11 @@
         "Indeedee": 3,
         "Beheeyem": 2,
         "Chimecho": 2,
-        "Natu": 1
+        "Natu": 1,
+        "Gorebyss": 1
       },
-      "total_spawns": 3521,
-      "last_spawn": "2026-07-06T12:27:25.455378"
+      "total_spawns": 3526,
+      "last_spawn": "2026-07-06T12:28:03.615591"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1475,7 +1476,7 @@
     }
   },
   "global": {
-    "total_spawns": 69053,
+    "total_spawns": 69058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
