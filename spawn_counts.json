@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 13,
         "Binacle": 4,
-        "Bounsweet": 22,
+        "Bounsweet": 24,
         "Fletchling": 10,
         "Whirlipede": 4,
         "Duskull": 24,
@@ -72,7 +72,7 @@
         "Aron": 12,
         "Honedge": 22,
         "Houndour": 1,
-        "Machop": 12,
+        "Machop": 13,
         "Terapagos": 1,
         "Mankey": 3,
         "Torterra": 1,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 1,
-        "Wurmple": 14,
+        "Wurmple": 16,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -731,8 +731,8 @@
         "Camerupt": 1,
         "Litten": 1
       },
-      "total_spawns": 3119,
-      "last_spawn": "2026-07-06T07:57:03.518901"
+      "total_spawns": 3124,
+      "last_spawn": "2026-07-06T07:57:33.644234"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1445,7 +1445,7 @@
     }
   },
   "global": {
-    "total_spawns": 68651,
+    "total_spawns": 68656,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
