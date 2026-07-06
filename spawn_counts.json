@@ -184,7 +184,7 @@
         "Dratini": 19,
         "Steelix": 2,
         "Sprigatito": 11,
-        "Charcadet": 39,
+        "Charcadet": 40,
         "Mudsdale": 4,
         "Meowth": 15,
         "Charmander": 17,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 22,
         "Pikachu": 10,
-        "Tarountula": 15,
+        "Tarountula": 16,
         "Rhyhorn": 17,
         "Aipom": 4,
         "Grookey": 8,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 40,
+        "Axew": 41,
         "Joltik": 5,
         "Gulpin": 4,
         "Mareanie": 4,
@@ -444,7 +444,7 @@
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
         "Smearguru": 9,
-        "Magneton": 2,
+        "Magneton": 3,
         "Battle cyclizar": 3,
         "Minccino": 4,
         "Hippowdon": 2,
@@ -796,7 +796,7 @@
         "Kingler": 2,
         "Aurorus": 2,
         "Cacnea": 2,
-        "Sableye": 2,
+        "Sableye": 4,
         "Persian": 1,
         "Toedscruel": 1,
         "Alolan muk": 2,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4559,
-      "last_spawn": "2026-07-06T22:13:08.200816"
+      "total_spawns": 4565,
+      "last_spawn": "2026-07-06T22:13:48.290662"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70091,
+    "total_spawns": 70097,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
