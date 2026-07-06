@@ -103,7 +103,7 @@
         "Corphish": 3,
         "Doduo": 4,
         "Flittle": 12,
-        "Armarouge": 2,
+        "Armarouge": 3,
         "Clauncher": 2,
         "Tentacool": 1,
         "Bayleef": 3,
@@ -127,7 +127,7 @@
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
-        "Varoom": 8,
+        "Varoom": 10,
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -139,7 +139,7 @@
         "Diglett": 5,
         "Surskit": 4,
         "Seedot": 10,
-        "Jigglypuff": 2,
+        "Jigglypuff": 3,
         "Spearow": 3,
         "Servine": 2,
         "Wugtrio": 6,
@@ -208,7 +208,7 @@
         "Drowzee": 3,
         "Lechonk": 11,
         "Woobat": 3,
-        "Skrelp": 4,
+        "Skrelp": 5,
         "Lileep": 2,
         "Drifloon": 1,
         "Mightyena": 3,
@@ -357,7 +357,7 @@
         "Barboach": 2,
         "Nosepass": 1,
         "Electrike": 2,
-        "Hoppip": 11,
+        "Hoppip": 12,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 7,
@@ -691,8 +691,8 @@
         "Dwebble": 1,
         "Banette": 2
       },
-      "total_spawns": 2591,
-      "last_spawn": "2026-07-06T04:50:48.697639"
+      "total_spawns": 2597,
+      "last_spawn": "2026-07-06T04:51:25.385862"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1405,7 +1405,7 @@
     }
   },
   "global": {
-    "total_spawns": 68123,
+    "total_spawns": 68129,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
