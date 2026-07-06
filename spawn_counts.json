@@ -49,7 +49,7 @@
         "Tympole": 16,
         "Grubbin": 18,
         "Scatterbug": 12,
-        "Skwovet": 6,
+        "Skwovet": 7,
         "Applin": 3,
         "Staryu": 2,
         "Maschiff": 12,
@@ -70,7 +70,7 @@
         "Vulpix": 13,
         "Gastly": 34,
         "Aron": 20,
-        "Honedge": 33,
+        "Honedge": 34,
         "Houndour": 1,
         "Machop": 15,
         "Terapagos": 1,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 8,
         "Kingdra": 1,
-        "Chikorita": 7,
+        "Chikorita": 8,
         "Donphan": 3,
         "Shuppet": 9,
         "Graveler": 3,
@@ -700,7 +700,7 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1,
         "Spidops": 1,
-        "Glimmora": 2,
+        "Glimmora": 3,
         "Parasect": 1,
         "Fuecoco": 3,
         "Loudred": 2,
@@ -798,8 +798,8 @@
         "Cacnea": 1,
         "Sableye": 2
       },
-      "total_spawns": 4192,
-      "last_spawn": "2026-07-06T19:25:38.203222"
+      "total_spawns": 4196,
+      "last_spawn": "2026-07-06T19:26:08.632313"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1512,7 +1512,7 @@
     }
   },
   "global": {
-    "total_spawns": 69724,
+    "total_spawns": 69728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
