@@ -42,7 +42,7 @@
         "Mareep": 17,
         "Capsakid": 16,
         "Numel": 8,
-        "Pawmo": 7,
+        "Pawmo": 8,
         "Wattrel": 13,
         "Tadbulb": 21,
         "Yanmega": 1,
@@ -387,7 +387,7 @@
         "Charizard": 8,
         "Axew": 41,
         "Joltik": 5,
-        "Gulpin": 4,
+        "Gulpin": 5,
         "Mareanie": 4,
         "Throh": 4,
         "Sentret": 10,
@@ -812,10 +812,11 @@
         "Sneasler": 4,
         "Swoobat": 1,
         "Morpeko": 1,
-        "East sea shellos": 1
+        "East sea shellos": 1,
+        "Seaking": 1
       },
-      "total_spawns": 4571,
-      "last_spawn": "2026-07-06T22:14:28.215327"
+      "total_spawns": 4574,
+      "last_spawn": "2026-07-06T22:15:06.896395"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1529,7 @@
     }
   },
   "global": {
-    "total_spawns": 70103,
+    "total_spawns": 70106,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
