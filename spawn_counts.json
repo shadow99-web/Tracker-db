@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 6,
-        "Oddish": 16,
+        "Oddish": 17,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 23,
@@ -652,7 +652,7 @@
         "Bibarel": 1,
         "Debutante trim furfrou": 2,
         "Phanpy": 2,
-        "Patrat": 1,
+        "Patrat": 2,
         "Passimian": 2,
         "Jynx": 1,
         "Noctowl": 1,
@@ -718,7 +718,7 @@
         "Lycanroc": 1,
         "Dustox": 2,
         "Alolan grimer": 2,
-        "Ursaluna": 2,
+        "Ursaluna": 3,
         "Blastoise": 2,
         "Wormadam": 1,
         "Crustle": 1,
@@ -749,8 +749,8 @@
         "Forretress": 1,
         "Swampert": 2
       },
-      "total_spawns": 3358,
-      "last_spawn": "2026-07-06T09:55:03.557409"
+      "total_spawns": 3361,
+      "last_spawn": "2026-07-06T09:55:33.629023"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1463,7 +1463,7 @@
     }
   },
   "global": {
-    "total_spawns": 68890,
+    "total_spawns": 68893,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
