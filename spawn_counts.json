@@ -164,7 +164,7 @@
         "Venipede": 18,
         "Pansage": 3,
         "Cetoddle": 13,
-        "Togepi": 12,
+        "Togepi": 13,
         "Tandemaus": 13,
         "Clefairy": 3,
         "Unown q": 1,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 3,
         "Whismur": 16,
-        "Jangmo-o": 9,
+        "Jangmo-o": 10,
         "Lunatone": 1,
         "Machoke": 5,
         "Luvdisc": 1,
@@ -702,7 +702,7 @@
         "Spidops": 1,
         "Glimmora": 2,
         "Parasect": 1,
-        "Fuecoco": 2,
+        "Fuecoco": 3,
         "Loudred": 2,
         "Vespiquen": 1,
         "Gastrodon": 1,
@@ -720,7 +720,7 @@
         "Alolan grimer": 2,
         "Ursaluna": 4,
         "Blastoise": 4,
-        "Wormadam": 1,
+        "Wormadam": 2,
         "Crustle": 1,
         "Sawk": 1,
         "Azumarill": 1,
@@ -793,8 +793,8 @@
         "Weezing": 1,
         "Blue flower florges": 1
       },
-      "total_spawns": 4114,
-      "last_spawn": "2026-07-06T19:09:48.815954"
+      "total_spawns": 4118,
+      "last_spawn": "2026-07-06T19:10:29.527447"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1507,7 +1507,7 @@
     }
   },
   "global": {
-    "total_spawns": 69646,
+    "total_spawns": 69650,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
