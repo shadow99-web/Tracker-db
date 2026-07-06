@@ -293,7 +293,7 @@
         "Ekans": 2,
         "Brambleghast": 1,
         "Dartrix": 3,
-        "Ceruledge": 2,
+        "Ceruledge": 3,
         "Vanillish": 5,
         "Gimmighoul": 13,
         "Glimmet": 12,
@@ -719,7 +719,7 @@
         "Dustox": 2,
         "Alolan grimer": 2,
         "Ursaluna": 4,
-        "Blastoise": 5,
+        "Blastoise": 6,
         "Wormadam": 2,
         "Crustle": 1,
         "Sawk": 1,
@@ -795,8 +795,8 @@
         "Dudunsparce": 1,
         "Kingler": 2
       },
-      "total_spawns": 4157,
-      "last_spawn": "2026-07-06T19:19:52.580799"
+      "total_spawns": 4159,
+      "last_spawn": "2026-07-06T19:21:28.331509"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1509,7 +1509,7 @@
     }
   },
   "global": {
-    "total_spawns": 69689,
+    "total_spawns": 69691,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
