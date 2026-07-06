@@ -296,7 +296,7 @@
         "Ceruledge": 1,
         "Vanillish": 2,
         "Gimmighoul": 7,
-        "Glimmet": 9,
+        "Glimmet": 10,
         "Popplio": 3,
         "Arboliva": 2,
         "Luxio": 1,
@@ -313,7 +313,7 @@
         "Kilowattrel": 1,
         "Pumpkaboo": 2,
         "Petilil": 3,
-        "Bombirdier": 6,
+        "Bombirdier": 7,
         "Bellibolt": 4,
         "Toedscool": 4,
         "Paras": 2,
@@ -334,7 +334,7 @@
         "Floragato": 1,
         "Larvesta": 13,
         "Magby": 1,
-        "Roaming gimmighoul": 6,
+        "Roaming gimmighoul": 7,
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 2,
@@ -343,7 +343,7 @@
         "Gothita": 6,
         "Solosis": 12,
         "Sandygast": 3,
-        "Pidove": 6,
+        "Pidove": 7,
         "Chespin": 1,
         "Combee": 4,
         "Cyndaquil": 2,
@@ -700,8 +700,8 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1
       },
-      "total_spawns": 2672,
-      "last_spawn": "2026-07-06T07:13:03.881399"
+      "total_spawns": 2676,
+      "last_spawn": "2026-07-06T07:13:43.601214"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1414,7 +1414,7 @@
     }
   },
   "global": {
-    "total_spawns": 68204,
+    "total_spawns": 68208,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
