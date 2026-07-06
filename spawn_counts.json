@@ -68,7 +68,7 @@
         "Feebas": 10,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 34,
+        "Gastly": 35,
         "Aron": 21,
         "Honedge": 34,
         "Houndour": 1,
@@ -429,7 +429,7 @@
         "Haunter": 4,
         "Dottler": 5,
         "Wailmer": 3,
-        "Frigibax": 35,
+        "Frigibax": 37,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 5,
@@ -448,7 +448,7 @@
         "Battle cyclizar": 3,
         "Minccino": 4,
         "Hippowdon": 2,
-        "Gloom": 1,
+        "Gloom": 2,
         "Mew": 4,
         "Thwackey": 3,
         "Latios": 2,
@@ -812,8 +812,8 @@
         "Sneasler": 4,
         "Swoobat": 1
       },
-      "total_spawns": 4473,
-      "last_spawn": "2026-07-06T22:01:49.040231"
+      "total_spawns": 4477,
+      "last_spawn": "2026-07-06T22:02:28.154502"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1526,7 @@
     }
   },
   "global": {
-    "total_spawns": 70005,
+    "total_spawns": 70009,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
