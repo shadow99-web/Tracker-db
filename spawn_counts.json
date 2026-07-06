@@ -60,7 +60,7 @@
         "Lillipup": 21,
         "Mosslax": 26,
         "Maushold": 3,
-        "Cubchoo": 15,
+        "Cubchoo": 16,
         "Koffing": 4,
         "Kirlia": 7,
         "Deino": 12,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 13,
-        "Finizen": 14,
+        "Finizen": 15,
         "Swablu": 6,
         "Sunkern": 4,
         "Snubbull": 1,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 4,
         "Slakoth": 8,
-        "Klink": 10,
+        "Klink": 11,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 3,
@@ -398,7 +398,7 @@
         "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
-        "Scorbunny": 3,
+        "Scorbunny": 4,
         "Dubwool": 1,
         "Litleo": 4,
         "Silcoon": 5,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 3977,
-      "last_spawn": "2026-07-06T18:37:14.919806"
+      "total_spawns": 3981,
+      "last_spawn": "2026-07-06T18:37:53.413906"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69509,
+    "total_spawns": 69513,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
