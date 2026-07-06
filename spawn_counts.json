@@ -184,7 +184,7 @@
         "Dratini": 19,
         "Steelix": 2,
         "Sprigatito": 11,
-        "Charcadet": 37,
+        "Charcadet": 39,
         "Mudsdale": 4,
         "Meowth": 15,
         "Charmander": 17,
@@ -302,7 +302,7 @@
         "Luxio": 3,
         "Quaxwell": 2,
         "Swanna": 3,
-        "Torracat": 2,
+        "Torracat": 3,
         "Geodude": 13,
         "Tentacruel": 1,
         "Archen": 11,
@@ -379,7 +379,7 @@
         "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 9,
+        "Slakoth": 10,
         "Klink": 13,
         "Mesprit": 1,
         "Azelf": 2,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 6,
         "Xerneas": 4,
-        "Nincada": 4,
+        "Nincada": 5,
         "Audino": 2,
         "Mime jr.": 3,
         "Yungoos": 4,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4542,
-      "last_spawn": "2026-07-06T22:10:39.077688"
+      "total_spawns": 4547,
+      "last_spawn": "2026-07-06T22:11:19.699610"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70074,
+    "total_spawns": 70079,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
