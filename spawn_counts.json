@@ -53,7 +53,7 @@
         "Applin": 3,
         "Staryu": 1,
         "Maschiff": 6,
-        "Smoliv": 6,
+        "Smoliv": 7,
         "Tirtouga": 4,
         "Hatenna": 16,
         "Shroomish": 3,
@@ -72,7 +72,7 @@
         "Aron": 10,
         "Honedge": 20,
         "Houndour": 1,
-        "Machop": 11,
+        "Machop": 12,
         "Terapagos": 1,
         "Mankey": 3,
         "Torterra": 1,
@@ -104,7 +104,7 @@
         "Doduo": 4,
         "Flittle": 13,
         "Armarouge": 3,
-        "Clauncher": 2,
+        "Clauncher": 3,
         "Tentacool": 1,
         "Bayleef": 3,
         "Magnezone": 1,
@@ -145,7 +145,7 @@
         "Wugtrio": 6,
         "Tranquill": 2,
         "Cetitan": 1,
-        "Turtwig": 4,
+        "Turtwig": 5,
         "Fomantis": 5,
         "Claydol": 1,
         "Trapinch": 7,
@@ -314,7 +314,7 @@
         "Pumpkaboo": 3,
         "Petilil": 3,
         "Bombirdier": 9,
-        "Bellibolt": 4,
+        "Bellibolt": 5,
         "Toedscool": 5,
         "Paras": 2,
         "Fletchinder": 2,
@@ -706,7 +706,7 @@
         "Loudred": 1,
         "Vespiquen": 1,
         "Gastrodon": 1,
-        "Skiddo": 2,
+        "Skiddo": 3,
         "Simisear": 2,
         "Hawlucha": 2,
         "Stunky": 1,
@@ -722,8 +722,8 @@
         "Blastoise": 2,
         "Wormadam": 1
       },
-      "total_spawns": 2964,
-      "last_spawn": "2026-07-06T07:41:48.401628"
+      "total_spawns": 2970,
+      "last_spawn": "2026-07-06T07:42:18.842416"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1436,7 +1436,7 @@
     }
   },
   "global": {
-    "total_spawns": 68496,
+    "total_spawns": 68502,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
