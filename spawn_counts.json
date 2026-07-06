@@ -26,7 +26,7 @@
         "Peakychu": 25,
         "Cutiefly": 4,
         "Simipour": 2,
-        "Tynamo": 13,
+        "Tynamo": 14,
         "Palossand": 3,
         "Pyukumuku": 1,
         "Pidgey": 17,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 18,
         "Vulpix": 15,
         "Gastly": 38,
-        "Aron": 23,
+        "Aron": 24,
         "Honedge": 36,
         "Houndour": 1,
         "Machop": 16,
@@ -144,7 +144,7 @@
         "Servine": 3,
         "Wugtrio": 9,
         "Tranquill": 5,
-        "Cetitan": 3,
+        "Cetitan": 4,
         "Turtwig": 6,
         "Fomantis": 5,
         "Claydol": 1,
@@ -168,7 +168,7 @@
         "Tandemaus": 14,
         "Clefairy": 5,
         "Unown q": 1,
-        "Lotad": 14,
+        "Lotad": 15,
         "Mienshao": 2,
         "Blipbug": 34,
         "Rellor": 11,
@@ -201,7 +201,7 @@
         "Rhyhorn": 18,
         "Aipom": 4,
         "Grookey": 8,
-        "Inkay": 2,
+        "Inkay": 3,
         "Unfezant": 4,
         "Fraxure": 9,
         "Zubat": 18,
@@ -383,11 +383,11 @@
         "Klink": 13,
         "Mesprit": 1,
         "Azelf": 2,
-        "Clodsire": 3,
+        "Clodsire": 4,
         "Charizard": 8,
         "Axew": 47,
         "Joltik": 5,
-        "Gulpin": 5,
+        "Gulpin": 6,
         "Mareanie": 4,
         "Throh": 4,
         "Sentret": 10,
@@ -826,8 +826,8 @@
         "Gogoat": 1,
         "Beedrill": 1
       },
-      "total_spawns": 4733,
-      "last_spawn": "2026-07-06T22:33:13.717876"
+      "total_spawns": 4740,
+      "last_spawn": "2026-07-06T22:33:48.209321"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1540,7 +1540,7 @@
     }
   },
   "global": {
-    "total_spawns": 70265,
+    "total_spawns": 70272,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
