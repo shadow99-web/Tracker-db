@@ -34,7 +34,7 @@
         "Bounsweet": 24,
         "Fletchling": 12,
         "Whirlipede": 4,
-        "Duskull": 26,
+        "Duskull": 28,
         "Abra": 19,
         "Wiglett": 12,
         "Starly": 27,
@@ -95,7 +95,7 @@
         "Greavard": 28,
         "Snover": 5,
         "Piplup": 3,
-        "Dondozo": 9,
+        "Dondozo": 10,
         "Cyclizar": 5,
         "Froslass": 2,
         "Dodrio": 3,
@@ -395,7 +395,7 @@
         "Meganium": 4,
         "Rainy castform": 3,
         "Rabsca": 2,
-        "Misdreavus": 3,
+        "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 2,
@@ -419,7 +419,7 @@
         "Croagunk": 5,
         "Mothim": 4,
         "Crabominable": 3,
-        "Krabby": 5,
+        "Krabby": 6,
         "Mimikyu": 4,
         "Hoothoot": 4,
         "Girafarig": 1,
@@ -749,7 +749,7 @@
         "Forretress": 1,
         "Swampert": 2,
         "High plain vivillon": 1,
-        "Metapod": 1,
+        "Metapod": 2,
         "Lampent": 3,
         "Roselia": 1,
         "Pineco": 1,
@@ -762,10 +762,11 @@
         "Natu": 1,
         "Gorebyss": 1,
         "Eldegoss": 1,
-        "Pinsir": 1
+        "Pinsir": 1,
+        "Ivysaur": 1
       },
-      "total_spawns": 3601,
-      "last_spawn": "2026-07-06T12:37:43.752795"
+      "total_spawns": 3608,
+      "last_spawn": "2026-07-06T12:38:13.753845"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1478,7 +1479,7 @@
     }
   },
   "global": {
-    "total_spawns": 69133,
+    "total_spawns": 69140,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
