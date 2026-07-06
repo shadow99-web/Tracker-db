@@ -181,7 +181,7 @@
         "Beldum": 21,
         "Kadabra": 10,
         "Grovyle": 9,
-        "Dratini": 19,
+        "Dratini": 21,
         "Steelix": 2,
         "Sprigatito": 11,
         "Charcadet": 41,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 41,
+        "Axew": 43,
         "Joltik": 5,
         "Gulpin": 5,
         "Mareanie": 4,
@@ -525,7 +525,7 @@
         "Cosmoem": 1,
         "Copperajah": 6,
         "Golett": 3,
-        "Politoed": 5,
+        "Politoed": 6,
         "Droopy tatsugiri": 3,
         "Volcanion": 1,
         "Drapion": 2,
@@ -613,7 +613,7 @@
         "Zweilous": 3,
         "Azurill": 4,
         "Oshawott": 2,
-        "Malamar": 1,
+        "Malamar": 2,
         "Orange flower florges": 1,
         "Minun": 6,
         "Hangry morpeko": 2,
@@ -815,8 +815,8 @@
         "East sea shellos": 1,
         "Seaking": 2
       },
-      "total_spawns": 4599,
-      "last_spawn": "2026-07-06T22:18:29.265515"
+      "total_spawns": 4605,
+      "last_spawn": "2026-07-06T22:19:08.135382"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1529,7 +1529,7 @@
     }
   },
   "global": {
-    "total_spawns": 70131,
+    "total_spawns": 70137,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
