@@ -195,7 +195,7 @@
         "Dj rotom": 14,
         "Chef dente": 17,
         "Hisuian qwilfish": 1,
-        "Bagon": 18,
+        "Bagon": 20,
         "Pikachu": 10,
         "Tarountula": 12,
         "Rhyhorn": 14,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 5,
         "Luvdisc": 1,
-        "Fennekin": 10,
+        "Fennekin": 11,
         "Milcery": 11,
         "Trumbeak": 2,
         "Bonsly": 1,
@@ -308,7 +308,7 @@
         "Archen": 11,
         "Blue plumage squawkabilly": 3,
         "Metang": 5,
-        "Larvitar": 13,
+        "Larvitar": 14,
         "Lumineon": 1,
         "Kilowattrel": 3,
         "Pumpkaboo": 3,
@@ -317,7 +317,7 @@
         "Bellibolt": 6,
         "Toedscool": 8,
         "Paras": 4,
-        "Fletchinder": 2,
+        "Fletchinder": 3,
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 13,
@@ -334,7 +334,7 @@
         "Floragato": 3,
         "Larvesta": 17,
         "Magby": 1,
-        "Roaming gimmighoul": 8,
+        "Roaming gimmighoul": 9,
         "Volcarona": 5,
         "Togekiss": 3,
         "Furfrou": 4,
@@ -407,7 +407,7 @@
         "Minior": 1,
         "Darmanitan": 1,
         "Lopunny": 2,
-        "Chimchar": 5,
+        "Chimchar": 6,
         "Gligar": 4,
         "Quaxly": 8,
         "Spiky-eared pichu": 2,
@@ -787,10 +787,11 @@
         "Ariados": 1,
         "Porygon-z": 1,
         "Zapdos": 2,
-        "Coalossal": 2
+        "Coalossal": 2,
+        "Steenee": 1
       },
-      "total_spawns": 4070,
-      "last_spawn": "2026-07-06T19:06:18.545126"
+      "total_spawns": 4078,
+      "last_spawn": "2026-07-06T19:06:53.575977"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1503,7 +1504,7 @@
     }
   },
   "global": {
-    "total_spawns": 69602,
+    "total_spawns": 69610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
