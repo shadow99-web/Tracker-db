@@ -70,7 +70,7 @@
         "Vulpix": 11,
         "Gastly": 20,
         "Aron": 10,
-        "Honedge": 20,
+        "Honedge": 21,
         "Houndour": 1,
         "Machop": 12,
         "Terapagos": 1,
@@ -163,7 +163,7 @@
         "Vullaby": 3,
         "Venipede": 11,
         "Pansage": 2,
-        "Cetoddle": 9,
+        "Cetoddle": 10,
         "Togepi": 7,
         "Tandemaus": 9,
         "Clefairy": 2,
@@ -296,7 +296,7 @@
         "Ceruledge": 1,
         "Vanillish": 2,
         "Gimmighoul": 9,
-        "Glimmet": 10,
+        "Glimmet": 11,
         "Popplio": 3,
         "Arboliva": 2,
         "Luxio": 2,
@@ -388,7 +388,7 @@
         "Axew": 27,
         "Joltik": 4,
         "Gulpin": 2,
-        "Mareanie": 3,
+        "Mareanie": 4,
         "Throh": 3,
         "Sentret": 6,
         "Houndoom": 1,
@@ -497,7 +497,7 @@
         "Yellow flower florges": 1,
         "Drilbur": 2,
         "Leavanny": 1,
-        "Magikarp": 4,
+        "Magikarp": 5,
         "Gardevoir": 6,
         "Kubfu": 1,
         "Tyrogue": 2,
@@ -576,7 +576,7 @@
         "Murkrow": 3,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 1,
+        "Boldore": 2,
         "Skorupi": 2,
         "Probopass": 1,
         "Family of three maushold": 1,
@@ -720,10 +720,11 @@
         "Alolan grimer": 2,
         "Ursaluna": 2,
         "Blastoise": 2,
-        "Wormadam": 1
+        "Wormadam": 1,
+        "Crustle": 1
       },
-      "total_spawns": 2979,
-      "last_spawn": "2026-07-06T07:42:54.193653"
+      "total_spawns": 2986,
+      "last_spawn": "2026-07-06T07:43:28.294445"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1436,7 +1437,7 @@
     }
   },
   "global": {
-    "total_spawns": 68511,
+    "total_spawns": 68518,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
