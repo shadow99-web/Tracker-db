@@ -36,7 +36,7 @@
         "Whirlipede": 4,
         "Duskull": 24,
         "Abra": 16,
-        "Wiglett": 10,
+        "Wiglett": 11,
         "Starly": 27,
         "Caterpie": 7,
         "Mareep": 9,
@@ -357,7 +357,7 @@
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 3,
-        "Hoppip": 14,
+        "Hoppip": 15,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 7,
@@ -576,7 +576,7 @@
         "Murkrow": 3,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 3,
+        "Boldore": 4,
         "Skorupi": 2,
         "Probopass": 1,
         "Family of three maushold": 1,
@@ -607,7 +607,7 @@
         "Amoonguss": 2,
         "Herdier": 1,
         "Blissey": 2,
-        "Cinccino": 2,
+        "Cinccino": 4,
         "Alolan vulpix": 2,
         "Glameow": 1,
         "Zweilous": 1,
@@ -743,8 +743,8 @@
         "Sudowoodo": 1,
         "Yveltal": 2
       },
-      "total_spawns": 3284,
-      "last_spawn": "2026-07-06T09:46:13.737591"
+      "total_spawns": 3289,
+      "last_spawn": "2026-07-06T09:46:44.100211"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1457,7 +1457,7 @@
     }
   },
   "global": {
-    "total_spawns": 68816,
+    "total_spawns": 68821,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
