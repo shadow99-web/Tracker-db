@@ -15,7 +15,7 @@
         "Vanillite": 30,
         "Weedle": 17,
         "Kabutops": 2,
-        "Poliwag": 12,
+        "Poliwag": 13,
         "Fidough": 11,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -87,7 +87,7 @@
         "Shinx": 28,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 21,
+        "Pawmi": 23,
         "Sandile": 21,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -137,7 +137,7 @@
         "Venonat": 3,
         "Eelektrik": 2,
         "Diglett": 5,
-        "Surskit": 4,
+        "Surskit": 5,
         "Seedot": 11,
         "Jigglypuff": 4,
         "Spearow": 3,
@@ -341,7 +341,7 @@
         "Ursaring": 2,
         "Bidoof": 2,
         "Gothita": 7,
-        "Solosis": 12,
+        "Solosis": 13,
         "Sandygast": 3,
         "Pidove": 7,
         "Chespin": 1,
@@ -432,7 +432,7 @@
         "Frigibax": 23,
         "Iron valiant": 2,
         "Ludicolo": 2,
-        "Scraggy": 2,
+        "Scraggy": 3,
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
@@ -653,7 +653,7 @@
         "Debutante trim furfrou": 2,
         "Phanpy": 2,
         "Patrat": 1,
-        "Passimian": 1,
+        "Passimian": 2,
         "Jynx": 1,
         "Noctowl": 1,
         "Munna": 1,
@@ -707,10 +707,10 @@
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 1,
-        "Simisear": 1
+        "Simisear": 2
       },
-      "total_spawns": 2807,
-      "last_spawn": "2026-07-06T07:30:38.395767"
+      "total_spawns": 2815,
+      "last_spawn": "2026-07-06T07:31:09.101213"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1423,7 +1423,7 @@
     }
   },
   "global": {
-    "total_spawns": 68339,
+    "total_spawns": 68347,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
