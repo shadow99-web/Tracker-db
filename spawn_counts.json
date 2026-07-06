@@ -55,7 +55,7 @@
         "Maschiff": 14,
         "Smoliv": 12,
         "Tirtouga": 7,
-        "Hatenna": 32,
+        "Hatenna": 34,
         "Shroomish": 3,
         "Lillipup": 23,
         "Mosslax": 30,
@@ -277,7 +277,7 @@
         "Ledyba": 2,
         "Chinchou": 5,
         "Eiscue": 1,
-        "Nacli": 15,
+        "Nacli": 16,
         "Pancham": 4,
         "Bulbasaur": 17,
         "Dewpider": 5,
@@ -531,7 +531,7 @@
         "Drapion": 2,
         "Wartortle": 3,
         "Midnight lycanroc": 3,
-        "Skiploom": 1,
+        "Skiploom": 2,
         "Stakataka": 1,
         "Cascoon": 5,
         "Sigilyph": 6,
@@ -782,7 +782,7 @@
         "Happiny": 3,
         "Chandelure": 1,
         "Umbreon": 2,
-        "Ninjask": 1,
+        "Ninjask": 2,
         "Arctovish": 2,
         "Ariados": 1,
         "Porygon-z": 1,
@@ -834,8 +834,8 @@
         "Drifblim": 1,
         "Togedemaru": 1
       },
-      "total_spawns": 4844,
-      "last_spawn": "2026-07-06T22:41:58.263935"
+      "total_spawns": 4849,
+      "last_spawn": "2026-07-06T22:42:38.209380"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1548,7 +1548,7 @@
     }
   },
   "global": {
-    "total_spawns": 70376,
+    "total_spawns": 70381,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
