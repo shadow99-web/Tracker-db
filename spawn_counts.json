@@ -277,7 +277,7 @@
         "Ledyba": 2,
         "Chinchou": 3,
         "Eiscue": 1,
-        "Nacli": 9,
+        "Nacli": 10,
         "Pancham": 3,
         "Bulbasaur": 7,
         "Dewpider": 4,
@@ -680,10 +680,10 @@
         "Jolteon": 2,
         "Okidogi": 2,
         "Wyrdeer": 2,
-        "Ferroseed": 1
+        "Ferroseed": 2
       },
-      "total_spawns": 2508,
-      "last_spawn": "2026-07-06T03:47:38.597791"
+      "total_spawns": 2510,
+      "last_spawn": "2026-07-06T04:38:58.400267"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1396,7 +1396,7 @@
     }
   },
   "global": {
-    "total_spawns": 68040,
+    "total_spawns": 68042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
