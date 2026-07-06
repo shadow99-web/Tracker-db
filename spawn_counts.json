@@ -36,7 +36,7 @@
         "Whirlipede": 5,
         "Duskull": 38,
         "Abra": 25,
-        "Wiglett": 15,
+        "Wiglett": 16,
         "Starly": 31,
         "Caterpie": 12,
         "Mareep": 18,
@@ -47,7 +47,7 @@
         "Tadbulb": 22,
         "Yanmega": 1,
         "Tympole": 17,
-        "Grubbin": 20,
+        "Grubbin": 21,
         "Scatterbug": 15,
         "Skwovet": 8,
         "Applin": 5,
@@ -85,7 +85,7 @@
         "Marshtomp": 11,
         "Squirtle": 11,
         "Shinx": 40,
-        "Drakloak": 5,
+        "Drakloak": 7,
         "Victini": 1,
         "Pawmi": 37,
         "Sandile": 29,
@@ -442,7 +442,7 @@
         "Accelgor": 3,
         "Tyrunt": 3,
         "Hisuian typhlosion": 2,
-        "Ponyta": 2,
+        "Ponyta": 3,
         "Smearguru": 10,
         "Magneton": 5,
         "Battle cyclizar": 3,
@@ -837,8 +837,8 @@
         "Monferno": 1,
         "Smoochum": 1
       },
-      "total_spawns": 4911,
-      "last_spawn": "2026-07-06T22:51:28.479085"
+      "total_spawns": 4916,
+      "last_spawn": "2026-07-06T22:52:08.404478"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1551,7 +1551,7 @@
     }
   },
   "global": {
-    "total_spawns": 70443,
+    "total_spawns": 70448,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
