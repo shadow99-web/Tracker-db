@@ -16,7 +16,7 @@
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 19,
-        "Fidough": 20,
+        "Fidough": 21,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 8,
@@ -52,7 +52,7 @@
         "Skwovet": 8,
         "Applin": 5,
         "Staryu": 3,
-        "Maschiff": 13,
+        "Maschiff": 14,
         "Smoliv": 12,
         "Tirtouga": 7,
         "Hatenna": 32,
@@ -157,7 +157,7 @@
         "Pikipek": 26,
         "Spritzee": 1,
         "Stantler": 6,
-        "Impidimp": 29,
+        "Impidimp": 31,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
@@ -206,7 +206,7 @@
         "Fraxure": 9,
         "Zubat": 18,
         "Drowzee": 7,
-        "Lechonk": 18,
+        "Lechonk": 19,
         "Woobat": 3,
         "Skrelp": 8,
         "Lileep": 5,
@@ -450,7 +450,7 @@
         "Hippowdon": 2,
         "Gloom": 2,
         "Mew": 4,
-        "Thwackey": 3,
+        "Thwackey": 4,
         "Latios": 2,
         "Slurpuff": 1,
         "Espurr": 6,
@@ -504,7 +504,7 @@
         "Nuzleaf": 7,
         "Spinarak": 6,
         "Goomy": 11,
-        "Breloom": 1,
+        "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 2,
         "Reuniclus": 1,
@@ -520,7 +520,7 @@
         "Krookodile": 1,
         "Espathra": 4,
         "Snom": 7,
-        "Nickit": 6,
+        "Nickit": 7,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -830,8 +830,8 @@
         "Zeraora": 2,
         "Cobalion": 2
       },
-      "total_spawns": 4804,
-      "last_spawn": "2026-07-06T22:38:43.811124"
+      "total_spawns": 4812,
+      "last_spawn": "2026-07-06T22:39:18.236360"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70336,
+    "total_spawns": 70344,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
