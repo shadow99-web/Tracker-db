@@ -64,7 +64,7 @@
         "Koffing": 4,
         "Kirlia": 9,
         "Deino": 13,
-        "Dolliv": 4,
+        "Dolliv": 5,
         "Feebas": 10,
         "Prof tangrowth": 18,
         "Vulpix": 13,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
-        "Venipede": 19,
+        "Venipede": 20,
         "Pansage": 3,
         "Cetoddle": 13,
         "Togepi": 13,
@@ -296,7 +296,7 @@
         "Ceruledge": 3,
         "Vanillish": 5,
         "Gimmighoul": 13,
-        "Glimmet": 12,
+        "Glimmet": 13,
         "Popplio": 4,
         "Arboliva": 2,
         "Luxio": 3,
@@ -556,7 +556,7 @@
         "Arrokuda": 4,
         "Toxapex": 2,
         "Pawmot": 1,
-        "Blitzle": 3,
+        "Blitzle": 4,
         "Iron crown": 2,
         "Barbaracle": 2,
         "Nidoqueen": 4,
@@ -806,8 +806,8 @@
         "Heracross": 2,
         "Carkol": 1
       },
-      "total_spawns": 4296,
-      "last_spawn": "2026-07-06T19:43:28.404588"
+      "total_spawns": 4300,
+      "last_spawn": "2026-07-06T19:44:08.207894"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1520,7 +1520,7 @@
     }
   },
   "global": {
-    "total_spawns": 69828,
+    "total_spawns": 69832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
