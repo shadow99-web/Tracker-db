@@ -15,7 +15,7 @@
         "Vanillite": 40,
         "Weedle": 27,
         "Kabutops": 2,
-        "Poliwag": 21,
+        "Poliwag": 22,
         "Fidough": 22,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -23,7 +23,7 @@
         "Anorith": 7,
         "Arctibax": 3,
         "Ralts": 32,
-        "Peakychu": 25,
+        "Peakychu": 27,
         "Cutiefly": 5,
         "Simipour": 2,
         "Tynamo": 15,
@@ -52,7 +52,7 @@
         "Skwovet": 9,
         "Applin": 5,
         "Staryu": 3,
-        "Maschiff": 14,
+        "Maschiff": 15,
         "Smoliv": 13,
         "Tirtouga": 7,
         "Hatenna": 38,
@@ -89,7 +89,7 @@
         "Victini": 1,
         "Pawmi": 37,
         "Sandile": 29,
-        "Charmeleon": 5,
+        "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 26,
         "Greavard": 32,
@@ -138,7 +138,7 @@
         "Eelektrik": 4,
         "Diglett": 6,
         "Surskit": 6,
-        "Seedot": 15,
+        "Seedot": 16,
         "Jigglypuff": 6,
         "Spearow": 4,
         "Servine": 3,
@@ -707,7 +707,7 @@
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 6,
-        "Simisear": 4,
+        "Simisear": 6,
         "Hawlucha": 2,
         "Stunky": 4,
         "Garbodor": 2,
@@ -847,8 +847,8 @@
         "Tapu lele": 2,
         "Naclstack": 1
       },
-      "total_spawns": 5060,
-      "last_spawn": "2026-07-06T23:09:48.356088"
+      "total_spawns": 5069,
+      "last_spawn": "2026-07-06T23:10:18.440081"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1561,7 +1561,7 @@
     }
   },
   "global": {
-    "total_spawns": 70592,
+    "total_spawns": 70601,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
