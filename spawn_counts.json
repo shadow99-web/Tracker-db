@@ -13,7 +13,7 @@
         "Oddish": 23,
         "Totodile": 7,
         "Vanillite": 40,
-        "Weedle": 24,
+        "Weedle": 25,
         "Kabutops": 2,
         "Poliwag": 20,
         "Fidough": 21,
@@ -379,7 +379,7 @@
         "Morelull": 4,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 12,
+        "Slakoth": 13,
         "Klink": 13,
         "Mesprit": 1,
         "Azelf": 2,
@@ -703,7 +703,7 @@
         "Glimmora": 3,
         "Parasect": 1,
         "Fuecoco": 3,
-        "Loudred": 3,
+        "Loudred": 4,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 6,
@@ -765,7 +765,7 @@
         "Pinsir": 1,
         "Ivysaur": 1,
         "Pa'u oricorio": 1,
-        "Toucannon": 1,
+        "Toucannon": 2,
         "Flygon": 1,
         "Archaludon": 1,
         "Snorlax": 2,
@@ -830,10 +830,11 @@
         "Zeraora": 2,
         "Cobalion": 2,
         "Greedent": 1,
-        "Galvantula": 1
+        "Galvantula": 1,
+        "Drifblim": 1
       },
-      "total_spawns": 4835,
-      "last_spawn": "2026-07-06T22:40:58.127799"
+      "total_spawns": 4840,
+      "last_spawn": "2026-07-06T22:41:28.208801"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1546,7 +1547,7 @@
     }
   },
   "global": {
-    "total_spawns": 70367,
+    "total_spawns": 70372,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
