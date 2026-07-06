@@ -58,7 +58,7 @@
         "Hatenna": 30,
         "Shroomish": 3,
         "Lillipup": 21,
-        "Mosslax": 26,
+        "Mosslax": 28,
         "Maushold": 3,
         "Cubchoo": 17,
         "Koffing": 4,
@@ -112,7 +112,7 @@
         "Dreepy": 39,
         "Treecko": 10,
         "Shroodle": 12,
-        "Ride cyclizar": 4,
+        "Ride cyclizar": 6,
         "Swinub": 21,
         "Rattata": 7,
         "Stonjourner": 1,
@@ -297,7 +297,7 @@
         "Vanillish": 5,
         "Gimmighoul": 13,
         "Glimmet": 12,
-        "Popplio": 3,
+        "Popplio": 4,
         "Arboliva": 2,
         "Luxio": 3,
         "Quaxwell": 2,
@@ -408,7 +408,7 @@
         "Darmanitan": 3,
         "Lopunny": 2,
         "Chimchar": 6,
-        "Gligar": 4,
+        "Gligar": 5,
         "Quaxly": 8,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
@@ -801,8 +801,8 @@
         "Toedscruel": 1,
         "Alolan muk": 2
       },
-      "total_spawns": 4236,
-      "last_spawn": "2026-07-06T19:31:38.516775"
+      "total_spawns": 4242,
+      "last_spawn": "2026-07-06T19:32:08.606921"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1515,7 +1515,7 @@
     }
   },
   "global": {
-    "total_spawns": 69768,
+    "total_spawns": 69774,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
