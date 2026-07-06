@@ -195,7 +195,7 @@
         "Dj rotom": 13,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
-        "Bagon": 14,
+        "Bagon": 16,
         "Pikachu": 6,
         "Tarountula": 8,
         "Rhyhorn": 11,
@@ -343,7 +343,7 @@
         "Gothita": 9,
         "Solosis": 13,
         "Sandygast": 3,
-        "Pidove": 7,
+        "Pidove": 8,
         "Chespin": 2,
         "Combee": 4,
         "Cyndaquil": 3,
@@ -390,7 +390,7 @@
         "Gulpin": 3,
         "Mareanie": 4,
         "Throh": 3,
-        "Sentret": 8,
+        "Sentret": 10,
         "Houndoom": 1,
         "Meganium": 4,
         "Rainy castform": 3,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3160,
-      "last_spawn": "2026-07-06T09:27:53.697039"
+      "total_spawns": 3165,
+      "last_spawn": "2026-07-06T09:28:23.844773"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68692,
+    "total_spawns": 68697,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
