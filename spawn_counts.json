@@ -220,7 +220,7 @@
         "Shuppet": 12,
         "Graveler": 3,
         "Duosion": 5,
-        "Orthworm": 24,
+        "Orthworm": 25,
         "Yamask": 4,
         "Nymble": 19,
         "Snorunt": 7,
@@ -729,7 +729,7 @@
         "Tsareena": 3,
         "Chansey": 1,
         "Camerupt": 2,
-        "Litten": 2,
+        "Litten": 3,
         "Gossifleur": 3,
         "Electivire": 1,
         "Farigiraf": 2,
@@ -761,7 +761,7 @@
         "Chimecho": 2,
         "Natu": 3,
         "Gorebyss": 1,
-        "Eldegoss": 1,
+        "Eldegoss": 2,
         "Pinsir": 1,
         "Ivysaur": 1,
         "Pa'u oricorio": 1,
@@ -865,8 +865,8 @@
         "Qwilfish": 2,
         "Meowscarada": 1
       },
-      "total_spawns": 5496,
-      "last_spawn": "2026-07-06T23:59:18.652199"
+      "total_spawns": 5499,
+      "last_spawn": "2026-07-06T23:59:51.324196"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 71028,
+    "total_spawns": 71031,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
