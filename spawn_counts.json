@@ -72,7 +72,7 @@
         "Aron": 12,
         "Honedge": 22,
         "Houndour": 1,
-        "Machop": 13,
+        "Machop": 14,
         "Terapagos": 1,
         "Mankey": 3,
         "Torterra": 1,
@@ -111,7 +111,7 @@
         "Eevee": 8,
         "Dreepy": 35,
         "Treecko": 10,
-        "Shroodle": 6,
+        "Shroodle": 7,
         "Ride cyclizar": 2,
         "Swinub": 14,
         "Rattata": 5,
@@ -135,7 +135,7 @@
         "Abomasnow": 3,
         "Slugma": 5,
         "Venonat": 3,
-        "Eelektrik": 2,
+        "Eelektrik": 3,
         "Diglett": 5,
         "Surskit": 6,
         "Seedot": 12,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3186,
-      "last_spawn": "2026-07-06T09:31:13.697097"
+      "total_spawns": 3189,
+      "last_spawn": "2026-07-06T09:31:43.604384"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68718,
+    "total_spawns": 68721,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
