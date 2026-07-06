@@ -58,7 +58,7 @@
         "Hatenna": 14,
         "Shroomish": 3,
         "Lillipup": 11,
-        "Mosslax": 16,
+        "Mosslax": 18,
         "Maushold": 3,
         "Cubchoo": 11,
         "Koffing": 3,
@@ -199,7 +199,7 @@
         "Pikachu": 6,
         "Tarountula": 7,
         "Rhyhorn": 10,
-        "Aipom": 3,
+        "Aipom": 4,
         "Grookey": 4,
         "Inkay": 1,
         "Unfezant": 2,
@@ -299,7 +299,7 @@
         "Glimmet": 10,
         "Popplio": 3,
         "Arboliva": 2,
-        "Luxio": 1,
+        "Luxio": 2,
         "Quaxwell": 2,
         "Swanna": 1,
         "Torracat": 2,
@@ -310,7 +310,7 @@
         "Metang": 5,
         "Larvitar": 8,
         "Lumineon": 1,
-        "Kilowattrel": 1,
+        "Kilowattrel": 2,
         "Pumpkaboo": 2,
         "Petilil": 3,
         "Bombirdier": 7,
@@ -356,7 +356,7 @@
         "Phantump": 2,
         "Barboach": 2,
         "Nosepass": 1,
-        "Electrike": 2,
+        "Electrike": 3,
         "Hoppip": 12,
         "Slowbro": 2,
         "Gholdengo": 3,
@@ -701,8 +701,8 @@
         "Hakamo-o": 1,
         "Spidops": 1
       },
-      "total_spawns": 2696,
-      "last_spawn": "2026-07-06T07:16:24.394118"
+      "total_spawns": 2702,
+      "last_spawn": "2026-07-06T07:17:03.594026"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1415,7 +1415,7 @@
     }
   },
   "global": {
-    "total_spawns": 68228,
+    "total_spawns": 68234,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
