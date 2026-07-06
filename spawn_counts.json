@@ -84,7 +84,7 @@
         "Shelgon": 5,
         "Marshtomp": 13,
         "Squirtle": 11,
-        "Shinx": 42,
+        "Shinx": 44,
         "Drakloak": 7,
         "Victini": 1,
         "Pawmi": 37,
@@ -114,7 +114,7 @@
         "Shroodle": 14,
         "Ride cyclizar": 7,
         "Swinub": 24,
-        "Rattata": 8,
+        "Rattata": 9,
         "Stonjourner": 1,
         "Veluza": 28,
         "Panpour": 6,
@@ -312,7 +312,7 @@
         "Lumineon": 1,
         "Kilowattrel": 5,
         "Pumpkaboo": 4,
-        "Petilil": 7,
+        "Petilil": 8,
         "Bombirdier": 14,
         "Bellibolt": 6,
         "Toedscool": 11,
@@ -326,7 +326,7 @@
         "Sunkern": 5,
         "Snubbull": 3,
         "Crocalor": 2,
-        "Magnemite": 17,
+        "Magnemite": 18,
         "Doublade": 2,
         "Sharpedo": 1,
         "Raboot": 7,
@@ -353,7 +353,7 @@
         "Klang": 4,
         "Tepig": 4,
         "Spinda": 1,
-        "Phantump": 3,
+        "Phantump": 4,
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 6,
@@ -399,7 +399,7 @@
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 5,
-        "Dubwool": 1,
+        "Dubwool": 2,
         "Litleo": 5,
         "Silcoon": 6,
         "Snivy": 4,
@@ -846,8 +846,8 @@
         "Kecleon": 2,
         "Tapu lele": 2
       },
-      "total_spawns": 5044,
-      "last_spawn": "2026-07-06T23:08:38.332322"
+      "total_spawns": 5051,
+      "last_spawn": "2026-07-06T23:09:13.809057"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1560,7 +1560,7 @@
     }
   },
   "global": {
-    "total_spawns": 70576,
+    "total_spawns": 70583,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
