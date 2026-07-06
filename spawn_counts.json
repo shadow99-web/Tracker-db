@@ -36,7 +36,7 @@
         "Whirlipede": 4,
         "Duskull": 24,
         "Abra": 16,
-        "Wiglett": 11,
+        "Wiglett": 12,
         "Starly": 27,
         "Caterpie": 8,
         "Mareep": 11,
@@ -68,7 +68,7 @@
         "Feebas": 4,
         "Prof tangrowth": 17,
         "Vulpix": 13,
-        "Gastly": 20,
+        "Gastly": 22,
         "Aron": 13,
         "Honedge": 22,
         "Houndour": 1,
@@ -395,7 +395,7 @@
         "Meganium": 4,
         "Rainy castform": 3,
         "Rabsca": 2,
-        "Misdreavus": 2,
+        "Misdreavus": 3,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 2,
@@ -431,7 +431,7 @@
         "Wailmer": 3,
         "Frigibax": 27,
         "Iron valiant": 2,
-        "Ludicolo": 2,
+        "Ludicolo": 4,
         "Scraggy": 4,
         "Stoutland": 1,
         "Elgyem": 1,
@@ -748,8 +748,8 @@
         "Bisharp": 1,
         "Forretress": 1
       },
-      "total_spawns": 3348,
-      "last_spawn": "2026-07-06T09:53:53.694518"
+      "total_spawns": 3354,
+      "last_spawn": "2026-07-06T09:54:33.580328"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1462,7 +1462,7 @@
     }
   },
   "global": {
-    "total_spawns": 68880,
+    "total_spawns": 68886,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
