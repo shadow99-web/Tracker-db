@@ -39,7 +39,7 @@
         "Wiglett": 14,
         "Starly": 29,
         "Caterpie": 9,
-        "Mareep": 14,
+        "Mareep": 15,
         "Capsakid": 15,
         "Numel": 8,
         "Pawmo": 7,
@@ -150,9 +150,9 @@
         "Claydol": 1,
         "Trapinch": 12,
         "Butterfree": 3,
-        "Teddiursa": 32,
+        "Teddiursa": 34,
         "Roggenrola": 22,
-        "Litwick": 11,
+        "Litwick": 12,
         "Wooper": 5,
         "Pikipek": 24,
         "Spritzee": 1,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 4024,
-      "last_spawn": "2026-07-06T18:59:58.233711"
+      "total_spawns": 4028,
+      "last_spawn": "2026-07-06T19:00:28.912593"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69556,
+    "total_spawns": 69560,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
