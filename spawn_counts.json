@@ -250,7 +250,7 @@
         "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 3,
-        "Drednaw": 4,
+        "Drednaw": 5,
         "Corvisquire": 6,
         "Croconaw": 5,
         "Makuhita": 1,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 3,
-        "Geodude": 13,
+        "Geodude": 14,
         "Tentacruel": 1,
         "Archen": 11,
         "Blue plumage squawkabilly": 4,
@@ -339,7 +339,7 @@
         "Togekiss": 3,
         "Furfrou": 4,
         "Ursaring": 3,
-        "Bidoof": 2,
+        "Bidoof": 3,
         "Gothita": 18,
         "Solosis": 16,
         "Sandygast": 5,
@@ -476,7 +476,7 @@
         "Poipole": 1,
         "Alolan raichu": 2,
         "Hitmontop": 2,
-        "Pignite": 4,
+        "Pignite": 5,
         "Bunnelby": 4,
         "Complete zygarde": 3,
         "Mudbray": 8,
@@ -682,7 +682,7 @@
         "Wyrdeer": 2,
         "Ferroseed": 2,
         "Musharna": 1,
-        "Wingull": 3,
+        "Wingull": 4,
         "Magmar": 2,
         "Dedenne": 2,
         "Serperior": 2,
@@ -836,8 +836,8 @@
         "Jellicent": 1,
         "Monferno": 1
       },
-      "total_spawns": 4894,
-      "last_spawn": "2026-07-06T22:49:08.696155"
+      "total_spawns": 4899,
+      "last_spawn": "2026-07-06T22:49:48.339037"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1550,7 +1550,7 @@
     }
   },
   "global": {
-    "total_spawns": 70426,
+    "total_spawns": 70431,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
