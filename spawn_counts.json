@@ -109,7 +109,7 @@
         "Bayleef": 3,
         "Magnezone": 1,
         "Eevee": 6,
-        "Dreepy": 33,
+        "Dreepy": 35,
         "Treecko": 10,
         "Shroodle": 5,
         "Ride cyclizar": 1,
@@ -225,7 +225,7 @@
         "Nymble": 10,
         "Snorunt": 2,
         "Carvanha": 2,
-        "Toxel": 3,
+        "Toxel": 4,
         "Buneary": 2,
         "Gallade": 5,
         "Tangrowth": 1,
@@ -524,7 +524,7 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 4,
-        "Golett": 1,
+        "Golett": 2,
         "Politoed": 3,
         "Droopy tatsugiri": 1,
         "Volcanion": 1,
@@ -622,7 +622,7 @@
         "Spoink": 1,
         "Dhelmise": 1,
         "Armaldo": 3,
-        "Krokorok": 1,
+        "Krokorok": 2,
         "Torkoal": 3,
         "Clamperl": 2,
         "Rampardos": 1,
@@ -697,8 +697,8 @@
         "Meditite": 1,
         "Sneasel": 1
       },
-      "total_spawns": 2660,
-      "last_spawn": "2026-07-06T07:11:14.416381"
+      "total_spawns": 2665,
+      "last_spawn": "2026-07-06T07:11:53.705547"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1411,7 +1411,7 @@
     }
   },
   "global": {
-    "total_spawns": 68192,
+    "total_spawns": 68197,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
