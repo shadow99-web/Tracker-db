@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 18,
         "Whirlipede": 5,
-        "Duskull": 34,
+        "Duskull": 36,
         "Abra": 25,
         "Wiglett": 15,
         "Starly": 31,
@@ -157,7 +157,7 @@
         "Pikipek": 26,
         "Spritzee": 1,
         "Stantler": 6,
-        "Impidimp": 27,
+        "Impidimp": 29,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
@@ -209,7 +209,7 @@
         "Lechonk": 17,
         "Woobat": 3,
         "Skrelp": 8,
-        "Lileep": 4,
+        "Lileep": 5,
         "Drifloon": 3,
         "Mightyena": 3,
         "Sandaconda": 1,
@@ -230,7 +230,7 @@
         "Gallade": 9,
         "Tangrowth": 2,
         "Sizzlipede": 5,
-        "Skuntank": 1,
+        "Skuntank": 2,
         "Palafin": 6,
         "Timburr": 16,
         "Shellos": 2,
@@ -394,7 +394,7 @@
         "Houndoom": 1,
         "Meganium": 4,
         "Rainy castform": 3,
-        "Rabsca": 3,
+        "Rabsca": 4,
         "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
@@ -519,7 +519,7 @@
         "Foongus": 4,
         "Krookodile": 1,
         "Espathra": 4,
-        "Snom": 5,
+        "Snom": 6,
         "Nickit": 6,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -713,7 +713,7 @@
         "Garbodor": 2,
         "Remoraid": 2,
         "Exeggcute": 5,
-        "Dunsparce": 2,
+        "Dunsparce": 3,
         "Sobble": 2,
         "Lycanroc": 1,
         "Dustox": 2,
@@ -822,8 +822,8 @@
         "Mantine": 2,
         "Iron bundle": 2
       },
-      "total_spawns": 4674,
-      "last_spawn": "2026-07-06T22:27:33.870346"
+      "total_spawns": 4683,
+      "last_spawn": "2026-07-06T22:28:08.601867"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1536,7 +1536,7 @@
     }
   },
   "global": {
-    "total_spawns": 70206,
+    "total_spawns": 70215,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
