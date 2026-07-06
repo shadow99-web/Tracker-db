@@ -154,7 +154,7 @@
         "Roggenrola": 28,
         "Litwick": 14,
         "Wooper": 5,
-        "Pikipek": 26,
+        "Pikipek": 28,
         "Spritzee": 1,
         "Stantler": 6,
         "Impidimp": 33,
@@ -262,7 +262,7 @@
         "Porygon": 16,
         "Wooloo": 3,
         "Mawile": 5,
-        "Marill": 1,
+        "Marill": 2,
         "Lickitung": 6,
         "Chewtle": 6,
         "Onix": 6,
@@ -342,7 +342,7 @@
         "Bidoof": 2,
         "Gothita": 18,
         "Solosis": 16,
-        "Sandygast": 4,
+        "Sandygast": 5,
         "Pidove": 12,
         "Chespin": 3,
         "Combee": 4,
@@ -356,7 +356,7 @@
         "Phantump": 3,
         "Barboach": 3,
         "Nosepass": 2,
-        "Electrike": 5,
+        "Electrike": 6,
         "Hoppip": 16,
         "Slowbro": 2,
         "Gholdengo": 3,
@@ -835,8 +835,8 @@
         "Togedemaru": 1,
         "Jellicent": 1
       },
-      "total_spawns": 4865,
-      "last_spawn": "2026-07-06T22:44:48.451190"
+      "total_spawns": 4870,
+      "last_spawn": "2026-07-06T22:45:28.875203"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1549,7 +1549,7 @@
     }
   },
   "global": {
-    "total_spawns": 70397,
+    "total_spawns": 70402,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
