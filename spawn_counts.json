@@ -65,7 +65,7 @@
         "Kirlia": 7,
         "Deino": 12,
         "Dolliv": 4,
-        "Feebas": 8,
+        "Feebas": 10,
         "Prof tangrowth": 18,
         "Vulpix": 13,
         "Gastly": 32,
@@ -142,7 +142,7 @@
         "Jigglypuff": 6,
         "Spearow": 3,
         "Servine": 3,
-        "Wugtrio": 7,
+        "Wugtrio": 8,
         "Tranquill": 3,
         "Cetitan": 2,
         "Turtwig": 5,
@@ -153,7 +153,7 @@
         "Teddiursa": 32,
         "Roggenrola": 22,
         "Litwick": 11,
-        "Wooper": 4,
+        "Wooper": 5,
         "Pikipek": 24,
         "Spritzee": 1,
         "Stantler": 6,
@@ -175,7 +175,7 @@
         "Rolycoly": 18,
         "Poliwhirl": 4,
         "Lokix": 8,
-        "Flamigo": 9,
+        "Flamigo": 10,
         "Bellsprout": 13,
         "Houndstone": 2,
         "Beldum": 19,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 4012,
-      "last_spawn": "2026-07-06T18:47:28.501910"
+      "total_spawns": 4017,
+      "last_spawn": "2026-07-06T18:56:37.695564"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69544,
+    "total_spawns": 69549,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
