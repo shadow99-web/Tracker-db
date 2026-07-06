@@ -308,7 +308,7 @@
         "Archen": 9,
         "Blue plumage squawkabilly": 3,
         "Metang": 5,
-        "Larvitar": 8,
+        "Larvitar": 9,
         "Lumineon": 1,
         "Kilowattrel": 2,
         "Pumpkaboo": 3,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 7,
-        "Finizen": 7,
+        "Finizen": 8,
         "Swablu": 4,
         "Sunkern": 3,
         "Snubbull": 1,
@@ -363,7 +363,7 @@
         "Trubbish": 7,
         "Rockruff": 3,
         "Snowy castform": 1,
-        "Dusclops": 2,
+        "Dusclops": 3,
         "Prinplup": 1,
         "Kommo-o": 1,
         "Vigoroth": 4,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 23,
+        "Frigibax": 25,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 4,
@@ -718,10 +718,11 @@
         "Lycanroc": 1,
         "Dustox": 1,
         "Alolan grimer": 2,
-        "Ursaluna": 2
+        "Ursaluna": 2,
+        "Blastoise": 2
       },
-      "total_spawns": 2923,
-      "last_spawn": "2026-07-06T07:39:03.599871"
+      "total_spawns": 2930,
+      "last_spawn": "2026-07-06T07:39:33.801937"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1434,7 +1435,7 @@
     }
   },
   "global": {
-    "total_spawns": 68455,
+    "total_spawns": 68462,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
