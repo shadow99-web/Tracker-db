@@ -34,7 +34,7 @@
         "Bounsweet": 30,
         "Fletchling": 16,
         "Whirlipede": 5,
-        "Duskull": 32,
+        "Duskull": 33,
         "Abra": 24,
         "Wiglett": 14,
         "Starly": 29,
@@ -91,7 +91,7 @@
         "Sandile": 25,
         "Charmeleon": 5,
         "Riolu": 16,
-        "Gible": 22,
+        "Gible": 24,
         "Greavard": 32,
         "Snover": 7,
         "Piplup": 3,
@@ -793,10 +793,11 @@
         "Weezing": 1,
         "Blue flower florges": 1,
         "Dudunsparce": 1,
-        "Kingler": 2
+        "Kingler": 2,
+        "Aurorus": 2
       },
-      "total_spawns": 4163,
-      "last_spawn": "2026-07-06T19:21:58.343626"
+      "total_spawns": 4168,
+      "last_spawn": "2026-07-06T19:22:38.574908"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1509,7 +1510,7 @@
     }
   },
   "global": {
-    "total_spawns": 69695,
+    "total_spawns": 69700,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
