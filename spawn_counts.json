@@ -94,7 +94,7 @@
         "Gible": 22,
         "Greavard": 28,
         "Snover": 5,
-        "Piplup": 2,
+        "Piplup": 3,
         "Dondozo": 9,
         "Cyclizar": 5,
         "Froslass": 2,
@@ -104,11 +104,11 @@
         "Doduo": 4,
         "Flittle": 15,
         "Armarouge": 3,
-        "Clauncher": 3,
+        "Clauncher": 4,
         "Tentacool": 2,
         "Bayleef": 4,
         "Magnezone": 2,
-        "Eevee": 8,
+        "Eevee": 10,
         "Dreepy": 39,
         "Treecko": 10,
         "Shroodle": 9,
@@ -178,7 +178,7 @@
         "Flamigo": 9,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 18,
+        "Beldum": 19,
         "Kadabra": 10,
         "Grovyle": 9,
         "Dratini": 15,
@@ -320,7 +320,7 @@
         "Fletchinder": 2,
         "Staravia": 1,
         "Wishiwashi": 1,
-        "Skitty": 9,
+        "Skitty": 11,
         "Finizen": 12,
         "Swablu": 5,
         "Sunkern": 4,
@@ -754,8 +754,8 @@
         "Roselia": 1,
         "Pineco": 1
       },
-      "total_spawns": 3443,
-      "last_spawn": "2026-07-06T12:17:13.776363"
+      "total_spawns": 3450,
+      "last_spawn": "2026-07-06T12:17:53.597683"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1468,7 +1468,7 @@
     }
   },
   "global": {
-    "total_spawns": 68975,
+    "total_spawns": 68982,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
