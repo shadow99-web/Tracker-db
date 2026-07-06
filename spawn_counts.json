@@ -106,7 +106,7 @@
         "Armarouge": 3,
         "Clauncher": 3,
         "Tentacool": 1,
-        "Bayleef": 3,
+        "Bayleef": 4,
         "Magnezone": 1,
         "Eevee": 8,
         "Dreepy": 35,
@@ -120,12 +120,12 @@
         "Panpour": 6,
         "Crabrawler": 3,
         "Frogadier": 3,
-        "Scovillain": 2,
+        "Scovillain": 3,
         "White plumage squawkabilly": 7,
         "Flaaffy": 3,
         "Rookidee": 17,
         "Flapple": 4,
-        "Bronzor": 2,
+        "Bronzor": 3,
         "Swirlix": 6,
         "Varoom": 12,
         "Ducklett": 4,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3174,
-      "last_spawn": "2026-07-06T09:29:33.649722"
+      "total_spawns": 3177,
+      "last_spawn": "2026-07-06T09:30:04.135090"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68706,
+    "total_spawns": 68709,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
