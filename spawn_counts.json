@@ -15,7 +15,7 @@
         "Vanillite": 36,
         "Weedle": 23,
         "Kabutops": 2,
-        "Poliwag": 15,
+        "Poliwag": 16,
         "Fidough": 15,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -36,7 +36,7 @@
         "Whirlipede": 5,
         "Duskull": 34,
         "Abra": 24,
-        "Wiglett": 14,
+        "Wiglett": 15,
         "Starly": 29,
         "Caterpie": 9,
         "Mareep": 17,
@@ -79,7 +79,7 @@
         "Salandit": 6,
         "Bruxish": 1,
         "Orbeetle": 3,
-        "Bramblin": 12,
+        "Bramblin": 13,
         "Stufful": 7,
         "Shelgon": 3,
         "Marshtomp": 9,
@@ -111,7 +111,7 @@
         "Eevee": 10,
         "Dreepy": 39,
         "Treecko": 10,
-        "Shroodle": 12,
+        "Shroodle": 13,
         "Ride cyclizar": 6,
         "Swinub": 21,
         "Rattata": 7,
@@ -805,8 +805,8 @@
         "Salazzle": 1,
         "Heracross": 2
       },
-      "total_spawns": 4278,
-      "last_spawn": "2026-07-06T19:41:08.540656"
+      "total_spawns": 4282,
+      "last_spawn": "2026-07-06T19:41:48.460573"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1519,7 +1519,7 @@
     }
   },
   "global": {
-    "total_spawns": 69810,
+    "total_spawns": 69814,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
