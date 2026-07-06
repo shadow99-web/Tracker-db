@@ -94,7 +94,7 @@
         "Gible": 24,
         "Greavard": 32,
         "Snover": 7,
-        "Piplup": 4,
+        "Piplup": 5,
         "Dondozo": 14,
         "Cyclizar": 6,
         "Froslass": 2,
@@ -145,7 +145,7 @@
         "Wugtrio": 9,
         "Tranquill": 5,
         "Cetitan": 3,
-        "Turtwig": 5,
+        "Turtwig": 6,
         "Fomantis": 5,
         "Claydol": 1,
         "Trapinch": 13,
@@ -187,7 +187,7 @@
         "Charcadet": 37,
         "Mudsdale": 4,
         "Meowth": 15,
-        "Charmander": 16,
+        "Charmander": 17,
         "Wimpod": 9,
         "Comfey": 3,
         "Diggersby": 2,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 2,
         "Gothita": 16,
-        "Solosis": 14,
+        "Solosis": 15,
         "Sandygast": 4,
         "Pidove": 11,
         "Chespin": 3,
@@ -353,7 +353,7 @@
         "Klang": 4,
         "Tepig": 2,
         "Spinda": 1,
-        "Phantump": 2,
+        "Phantump": 3,
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 5,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4501,
-      "last_spawn": "2026-07-06T22:05:08.356040"
+      "total_spawns": 4506,
+      "last_spawn": "2026-07-06T22:05:48.796551"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70033,
+    "total_spawns": 70038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
