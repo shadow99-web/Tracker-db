@@ -108,7 +108,7 @@
         "Tentacool": 4,
         "Bayleef": 4,
         "Magnezone": 2,
-        "Eevee": 10,
+        "Eevee": 12,
         "Dreepy": 39,
         "Treecko": 10,
         "Shroodle": 13,
@@ -519,7 +519,7 @@
         "Foongus": 4,
         "Krookodile": 1,
         "Espathra": 4,
-        "Snom": 4,
+        "Snom": 5,
         "Nickit": 6,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -611,7 +611,7 @@
         "Alolan vulpix": 2,
         "Glameow": 1,
         "Zweilous": 3,
-        "Azurill": 3,
+        "Azurill": 4,
         "Oshawott": 2,
         "Malamar": 1,
         "Orange flower florges": 1,
@@ -806,8 +806,8 @@
         "Heracross": 2,
         "Carkol": 1
       },
-      "total_spawns": 4300,
-      "last_spawn": "2026-07-06T19:44:08.207894"
+      "total_spawns": 4304,
+      "last_spawn": "2026-07-06T19:44:38.669625"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1520,7 +1520,7 @@
     }
   },
   "global": {
-    "total_spawns": 69832,
+    "total_spawns": 69836,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
