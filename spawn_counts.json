@@ -34,7 +34,7 @@
         "Bounsweet": 20,
         "Fletchling": 7,
         "Whirlipede": 4,
-        "Duskull": 20,
+        "Duskull": 21,
         "Abra": 16,
         "Wiglett": 8,
         "Starly": 21,
@@ -123,7 +123,7 @@
         "Scovillain": 1,
         "White plumage squawkabilly": 4,
         "Flaaffy": 2,
-        "Rookidee": 13,
+        "Rookidee": 15,
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
@@ -334,7 +334,7 @@
         "Floragato": 1,
         "Larvesta": 13,
         "Magby": 1,
-        "Roaming gimmighoul": 5,
+        "Roaming gimmighoul": 6,
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 2,
@@ -631,7 +631,7 @@
         "Mienfoo": 2,
         "Quagsire": 1,
         "Komala": 1,
-        "Poochyena": 1,
+        "Poochyena": 2,
         "Hero palafin": 1,
         "Klinklang": 1,
         "Lickilicky": 3,
@@ -689,8 +689,8 @@
         "Grapploct": 1,
         "Vanilluxe": 1
       },
-      "total_spawns": 2556,
-      "last_spawn": "2026-07-06T04:46:08.364200"
+      "total_spawns": 2561,
+      "last_spawn": "2026-07-06T04:46:48.298854"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1403,7 +1403,7 @@
     }
   },
   "global": {
-    "total_spawns": 68088,
+    "total_spawns": 68093,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
