@@ -295,9 +295,9 @@
         "Dartrix": 3,
         "Ceruledge": 4,
         "Vanillish": 6,
-        "Gimmighoul": 14,
+        "Gimmighoul": 15,
         "Glimmet": 15,
-        "Popplio": 5,
+        "Popplio": 6,
         "Arboliva": 2,
         "Luxio": 3,
         "Quaxwell": 2,
@@ -435,7 +435,7 @@
         "Scraggy": 5,
         "Stoutland": 1,
         "Elgyem": 1,
-        "Dragonair": 3,
+        "Dragonair": 4,
         "Spheal": 15,
         "Amaura": 8,
         "Wailord": 1,
@@ -647,7 +647,7 @@
         "Simisage": 2,
         "Cherubi": 4,
         "Heatmor": 1,
-        "Vikavolt": 2,
+        "Vikavolt": 3,
         "Eelektross": 2,
         "Bibarel": 1,
         "Debutante trim furfrou": 2,
@@ -777,7 +777,7 @@
         "Lilligant": 1,
         "Fan rotom": 2,
         "Ferrothorn": 1,
-        "Piloswine": 2,
+        "Piloswine": 3,
         "Granbull": 2,
         "Happiny": 3,
         "Chandelure": 1,
@@ -824,10 +824,11 @@
         "Gourgeist": 1,
         "Luxray": 1,
         "Gogoat": 1,
-        "Beedrill": 1
+        "Beedrill": 1,
+        "Sandslash": 1
       },
-      "total_spawns": 4740,
-      "last_spawn": "2026-07-06T22:33:48.209321"
+      "total_spawns": 4746,
+      "last_spawn": "2026-07-06T22:34:18.231798"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1540,7 +1541,7 @@
     }
   },
   "global": {
-    "total_spawns": 70272,
+    "total_spawns": 70278,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
