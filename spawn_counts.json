@@ -284,7 +284,7 @@
         "Yellow plumage squawkabilly": 2,
         "Hattrem": 3,
         "Trash wormadam": 1,
-        "Purrloin": 1,
+        "Purrloin": 2,
         "Zigzagoon": 2,
         "Quilladin": 1,
         "Infernape": 3,
@@ -467,7 +467,7 @@
         "Shellder": 2,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 5,
+        "Absol": 6,
         "Calyrex": 1,
         "Kakuna": 2,
         "Shedinja": 2,
@@ -509,7 +509,7 @@
         "Hippopotas": 1,
         "Reuniclus": 1,
         "Melmetal": 1,
-        "Liepard": 2,
+        "Liepard": 3,
         "Necrozma": 1,
         "Dewott": 1,
         "Braviary": 4,
@@ -685,10 +685,11 @@
         "Wingull": 1,
         "Magmar": 1,
         "Dedenne": 1,
-        "Serperior": 1
+        "Serperior": 1,
+        "Grapploct": 1
       },
-      "total_spawns": 2535,
-      "last_spawn": "2026-07-06T04:43:18.168496"
+      "total_spawns": 2539,
+      "last_spawn": "2026-07-06T04:43:48.299575"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1401,7 +1402,7 @@
     }
   },
   "global": {
-    "total_spawns": 68067,
+    "total_spawns": 68071,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
