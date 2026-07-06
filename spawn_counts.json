@@ -153,7 +153,7 @@
         "Teddiursa": 48,
         "Roggenrola": 28,
         "Litwick": 18,
-        "Wooper": 6,
+        "Wooper": 7,
         "Pikipek": 34,
         "Spritzee": 1,
         "Stantler": 7,
@@ -198,7 +198,7 @@
         "Bagon": 24,
         "Pikachu": 10,
         "Tarountula": 19,
-        "Rhyhorn": 21,
+        "Rhyhorn": 22,
         "Aipom": 4,
         "Grookey": 9,
         "Inkay": 4,
@@ -569,7 +569,7 @@
         "Fearow": 2,
         "Squawkabilly": 5,
         "Seadra": 2,
-        "Sealeo": 4,
+        "Sealeo": 5,
         "Baltoy": 3,
         "Karrablast": 4,
         "Volbeat": 2,
@@ -862,10 +862,10 @@
         "Clefable": 1,
         "Mr. mime": 2,
         "Munchlax": 2,
-        "Qwilfish": 1
+        "Qwilfish": 2
       },
-      "total_spawns": 5438,
-      "last_spawn": "2026-07-06T23:51:38.300649"
+      "total_spawns": 5442,
+      "last_spawn": "2026-07-06T23:52:08.614474"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1578,7 +1578,7 @@
     }
   },
   "global": {
-    "total_spawns": 70970,
+    "total_spawns": 70974,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
