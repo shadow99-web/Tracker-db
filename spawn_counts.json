@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 8,
         "Wattrel": 14,
-        "Tadbulb": 21,
+        "Tadbulb": 22,
         "Yanmega": 1,
         "Tympole": 17,
         "Grubbin": 19,
@@ -318,7 +318,7 @@
         "Toedscool": 10,
         "Paras": 4,
         "Fletchinder": 3,
-        "Staravia": 2,
+        "Staravia": 3,
         "Wishiwashi": 1,
         "Skitty": 13,
         "Finizen": 15,
@@ -427,7 +427,7 @@
         "Seel": 9,
         "Marowak": 2,
         "Haunter": 4,
-        "Dottler": 5,
+        "Dottler": 6,
         "Wailmer": 3,
         "Frigibax": 37,
         "Iron valiant": 2,
@@ -572,7 +572,7 @@
         "Sealeo": 4,
         "Baltoy": 3,
         "Karrablast": 4,
-        "Volbeat": 1,
+        "Volbeat": 2,
         "Murkrow": 3,
         "Venusaur": 2,
         "Quaquaval": 1,
@@ -807,7 +807,7 @@
         "Carkol": 1,
         "Zygarde": 2,
         "Dewgong": 1,
-        "Revavroom": 1,
+        "Revavroom": 2,
         "Lunala": 1,
         "Sneasler": 4,
         "Swoobat": 1,
@@ -825,10 +825,12 @@
         "Luxray": 1,
         "Gogoat": 1,
         "Beedrill": 1,
-        "Sandslash": 1
+        "Sandslash": 1,
+        "Pupitar": 1,
+        "Zeraora": 2
       },
-      "total_spawns": 4753,
-      "last_spawn": "2026-07-06T22:34:48.523126"
+      "total_spawns": 4761,
+      "last_spawn": "2026-07-06T22:35:23.611287"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1541,7 +1543,7 @@
     }
   },
   "global": {
-    "total_spawns": 70285,
+    "total_spawns": 70293,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
