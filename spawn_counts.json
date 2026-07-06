@@ -722,7 +722,7 @@
         "Kleavor": 1,
         "Karrablast": 4,
         "Timburr": 14,
-        "Pidgey": 9,
+        "Pidgey": 10,
         "Gimmighoul": 11,
         "Cetoddle": 19,
         "Fidough": 16,
@@ -742,7 +742,7 @@
         "Grimer": 3,
         "Grafaiai": 3,
         "Gastly": 23,
-        "Orthworm": 13,
+        "Orthworm": 14,
         "Glimmet": 11,
         "Beldum": 2,
         "Combee": 6,
@@ -772,7 +772,7 @@
         "Wattrel": 19,
         "Nacli": 23,
         "Feebas": 3,
-        "Weedle": 14,
+        "Weedle": 15,
         "Ralts": 15,
         "Kangaskhan": 1,
         "Eldegoss": 3,
@@ -907,7 +907,7 @@
         "Tepig": 4,
         "Barbaracle": 4,
         "Noivern": 3,
-        "Clefairy": 9,
+        "Clefairy": 10,
         "Grubbin": 18,
         "Dustox": 2,
         "Chespin": 8,
@@ -1388,12 +1388,12 @@
         "Krabby": 1,
         "Corviknight": 1
       },
-      "total_spawns": 2969,
-      "last_spawn": "2026-07-06T00:04:36.017907"
+      "total_spawns": 2973,
+      "last_spawn": "2026-07-06T00:05:14.566268"
     }
   },
   "global": {
-    "total_spawns": 68004,
+    "total_spawns": 68008,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
