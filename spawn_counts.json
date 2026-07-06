@@ -116,7 +116,7 @@
         "Swinub": 24,
         "Rattata": 10,
         "Stonjourner": 1,
-        "Veluza": 30,
+        "Veluza": 31,
         "Panpour": 6,
         "Crabrawler": 4,
         "Frogadier": 4,
@@ -171,7 +171,7 @@
         "Lotad": 17,
         "Mienshao": 2,
         "Blipbug": 40,
-        "Rellor": 11,
+        "Rellor": 12,
         "Rolycoly": 21,
         "Poliwhirl": 6,
         "Lokix": 11,
@@ -261,7 +261,7 @@
         "Watchog": 3,
         "Porygon": 18,
         "Wooloo": 4,
-        "Mawile": 5,
+        "Mawile": 7,
         "Marill": 2,
         "Lickitung": 6,
         "Chewtle": 6,
@@ -858,8 +858,8 @@
         "Delcatty": 2,
         "Whimsicott": 1
       },
-      "total_spawns": 5311,
-      "last_spawn": "2026-07-06T23:35:08.094018"
+      "total_spawns": 5315,
+      "last_spawn": "2026-07-06T23:35:38.224549"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1572,7 +1572,7 @@
     }
   },
   "global": {
-    "total_spawns": 70843,
+    "total_spawns": 70847,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
