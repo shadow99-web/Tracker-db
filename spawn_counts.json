@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
-        "Spheal": 9,
+        "Spheal": 10,
         "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
@@ -603,7 +603,7 @@
         "Cubone": 1,
         "Conkeldurr": 1,
         "Sinistea": 1,
-        "Golbat": 2,
+        "Golbat": 3,
         "Amoonguss": 2,
         "Herdier": 1,
         "Blissey": 2,
@@ -688,10 +688,11 @@
         "Serperior": 1,
         "Grapploct": 1,
         "Vanilluxe": 1,
-        "Dwebble": 1
+        "Dwebble": 1,
+        "Banette": 2
       },
-      "total_spawns": 2587,
-      "last_spawn": "2026-07-06T04:50:18.496288"
+      "total_spawns": 2591,
+      "last_spawn": "2026-07-06T04:50:48.697639"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1404,7 +1405,7 @@
     }
   },
   "global": {
-    "total_spawns": 68119,
+    "total_spawns": 68123,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
