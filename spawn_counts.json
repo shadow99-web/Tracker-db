@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
-        "Porygon": 12,
+        "Porygon": 13,
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 9,
-        "Finizen": 11,
+        "Finizen": 12,
         "Swablu": 4,
         "Sunkern": 4,
         "Snubbull": 1,
@@ -566,7 +566,7 @@
         "Starmie": 2,
         "Farfetch'd": 2,
         "Grafaiai": 2,
-        "Fearow": 1,
+        "Fearow": 2,
         "Squawkabilly": 4,
         "Seadra": 1,
         "Sealeo": 1,
@@ -703,7 +703,7 @@
         "Glimmora": 2,
         "Parasect": 1,
         "Fuecoco": 1,
-        "Loudred": 1,
+        "Loudred": 2,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 3,
@@ -748,8 +748,8 @@
         "Bisharp": 1,
         "Forretress": 1
       },
-      "total_spawns": 3335,
-      "last_spawn": "2026-07-06T09:52:05.501640"
+      "total_spawns": 3339,
+      "last_spawn": "2026-07-06T09:52:43.600745"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1462,7 +1462,7 @@
     }
   },
   "global": {
-    "total_spawns": 68867,
+    "total_spawns": 68871,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
