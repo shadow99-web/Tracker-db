@@ -29,7 +29,7 @@
         "Tynamo": 10,
         "Palossand": 2,
         "Pyukumuku": 1,
-        "Pidgey": 12,
+        "Pidgey": 13,
         "Binacle": 4,
         "Bounsweet": 20,
         "Fletchling": 10,
@@ -161,7 +161,7 @@
         "Swadloon": 5,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 10,
+        "Venipede": 11,
         "Pansage": 2,
         "Cetoddle": 9,
         "Togepi": 6,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 12,
+        "Sewaddle": 13,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 3,
@@ -432,7 +432,7 @@
         "Frigibax": 23,
         "Iron valiant": 2,
         "Ludicolo": 2,
-        "Scraggy": 3,
+        "Scraggy": 4,
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
@@ -492,7 +492,7 @@
         "Hitmonchan": 1,
         "Pidgeot": 2,
         "Alakazam": 3,
-        "Mismagius": 1,
+        "Mismagius": 2,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
         "Drilbur": 2,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 1,
         "Quilava": 1,
-        "Wurmple": 10,
+        "Wurmple": 12,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -715,10 +715,11 @@
         "Exeggcute": 1,
         "Dunsparce": 1,
         "Sobble": 1,
-        "Lycanroc": 1
+        "Lycanroc": 1,
+        "Dustox": 1
       },
-      "total_spawns": 2878,
-      "last_spawn": "2026-07-06T07:36:13.887679"
+      "total_spawns": 2886,
+      "last_spawn": "2026-07-06T07:36:48.497432"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1431,7 +1432,7 @@
     }
   },
   "global": {
-    "total_spawns": 68410,
+    "total_spawns": 68418,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
