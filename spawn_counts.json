@@ -88,7 +88,7 @@
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 31,
-        "Sandile": 24,
+        "Sandile": 25,
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 22,
@@ -123,7 +123,7 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 3,
-        "Rookidee": 17,
+        "Rookidee": 19,
         "Flapple": 4,
         "Bronzor": 4,
         "Swirlix": 6,
@@ -191,7 +191,7 @@
         "Wimpod": 9,
         "Comfey": 3,
         "Diggersby": 2,
-        "Klawf": 21,
+        "Klawf": 23,
         "Dj rotom": 13,
         "Chef dente": 17,
         "Hisuian qwilfish": 1,
@@ -272,7 +272,7 @@
         "Tinkatink": 13,
         "Frillish": 1,
         "Plusle": 1,
-        "Decidueye": 3,
+        "Decidueye": 4,
         "Kricketot": 7,
         "Ledyba": 2,
         "Chinchou": 5,
@@ -617,7 +617,7 @@
         "Orange flower florges": 1,
         "Minun": 4,
         "Hangry morpeko": 2,
-        "Omanyte": 3,
+        "Omanyte": 4,
         "Mamoswine": 2,
         "Spoink": 5,
         "Dhelmise": 1,
@@ -696,7 +696,7 @@
         "Salamence": 2,
         "Meditite": 1,
         "Sneasel": 4,
-        "Finneon": 1,
+        "Finneon": 2,
         "Pidgeotto": 1,
         "Hakamo-o": 1,
         "Spidops": 1,
@@ -712,7 +712,7 @@
         "Stunky": 2,
         "Garbodor": 2,
         "Remoraid": 1,
-        "Exeggcute": 2,
+        "Exeggcute": 3,
         "Dunsparce": 1,
         "Sobble": 2,
         "Lycanroc": 1,
@@ -764,8 +764,8 @@
         "Eldegoss": 1,
         "Pinsir": 1
       },
-      "total_spawns": 3592,
-      "last_spawn": "2026-07-06T12:37:13.726682"
+      "total_spawns": 3601,
+      "last_spawn": "2026-07-06T12:37:43.752795"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1478,7 +1478,7 @@
     }
   },
   "global": {
-    "total_spawns": 69124,
+    "total_spawns": 69133,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
