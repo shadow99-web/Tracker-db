@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 1,
         "Eevee": 8,
-        "Dreepy": 38,
+        "Dreepy": 39,
         "Treecko": 10,
         "Shroodle": 7,
         "Ride cyclizar": 2,
@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 1,
         "Drednaw": 3,
-        "Corvisquire": 5,
+        "Corvisquire": 6,
         "Croconaw": 4,
         "Makuhita": 1,
         "Machamp": 1,
@@ -576,7 +576,7 @@
         "Murkrow": 3,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 2,
+        "Boldore": 3,
         "Skorupi": 2,
         "Probopass": 1,
         "Family of three maushold": 1,
@@ -619,7 +619,7 @@
         "Hangry morpeko": 2,
         "Omanyte": 3,
         "Mamoswine": 2,
-        "Spoink": 3,
+        "Spoink": 4,
         "Dhelmise": 1,
         "Armaldo": 3,
         "Krokorok": 3,
@@ -735,10 +735,11 @@
         "Farigiraf": 1,
         "Raichu": 1,
         "Meowstic": 1,
-        "Zangoose": 1
+        "Zangoose": 1,
+        "Thievul": 1
       },
-      "total_spawns": 3225,
-      "last_spawn": "2026-07-06T09:38:33.765189"
+      "total_spawns": 3230,
+      "last_spawn": "2026-07-06T09:39:13.699280"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1451,7 +1452,7 @@
     }
   },
   "global": {
-    "total_spawns": 68757,
+    "total_spawns": 68762,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
