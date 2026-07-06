@@ -88,7 +88,7 @@
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 37,
-        "Sandile": 27,
+        "Sandile": 29,
         "Charmeleon": 5,
         "Riolu": 16,
         "Gible": 24,
@@ -100,7 +100,7 @@
         "Froslass": 2,
         "Dodrio": 7,
         "Metagross": 4,
-        "Corphish": 3,
+        "Corphish": 4,
         "Doduo": 5,
         "Flittle": 18,
         "Armarouge": 5,
@@ -165,7 +165,7 @@
         "Pansage": 3,
         "Cetoddle": 13,
         "Togepi": 13,
-        "Tandemaus": 14,
+        "Tandemaus": 15,
         "Clefairy": 5,
         "Unown q": 1,
         "Lotad": 15,
@@ -626,7 +626,7 @@
         "Torkoal": 3,
         "Clamperl": 2,
         "Rampardos": 1,
-        "Weepinbell": 2,
+        "Weepinbell": 3,
         "Cufant": 3,
         "Mienfoo": 3,
         "Quagsire": 1,
@@ -830,8 +830,8 @@
         "Zeraora": 2,
         "Cobalion": 2
       },
-      "total_spawns": 4786,
-      "last_spawn": "2026-07-06T22:37:04.061473"
+      "total_spawns": 4791,
+      "last_spawn": "2026-07-06T22:37:38.587605"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70318,
+    "total_spawns": 70323,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
