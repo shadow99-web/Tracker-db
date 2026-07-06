@@ -216,7 +216,7 @@
         "Froakie": 4,
         "Kingdra": 1,
         "Chikorita": 3,
-        "Donphan": 1,
+        "Donphan": 3,
         "Shuppet": 6,
         "Graveler": 1,
         "Duosion": 3,
@@ -232,7 +232,7 @@
         "Sizzlipede": 2,
         "Skuntank": 1,
         "Palafin": 6,
-        "Timburr": 6,
+        "Timburr": 7,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
@@ -540,7 +540,7 @@
         "White flower floette": 2,
         "Octillery": 2,
         "Pawniard": 2,
-        "Brionne": 3,
+        "Brionne": 4,
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
@@ -690,8 +690,8 @@
         "Vanilluxe": 1,
         "Dwebble": 1
       },
-      "total_spawns": 2583,
-      "last_spawn": "2026-07-06T04:49:48.343633"
+      "total_spawns": 2587,
+      "last_spawn": "2026-07-06T04:50:18.496288"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1404,7 +1404,7 @@
     }
   },
   "global": {
-    "total_spawns": 68115,
+    "total_spawns": 68119,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
