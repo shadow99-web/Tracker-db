@@ -102,7 +102,7 @@
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
-        "Flittle": 13,
+        "Flittle": 14,
         "Armarouge": 3,
         "Clauncher": 3,
         "Tentacool": 1,
@@ -157,7 +157,7 @@
         "Pikipek": 20,
         "Spritzee": 1,
         "Stantler": 5,
-        "Impidimp": 19,
+        "Impidimp": 21,
         "Swadloon": 5,
         "Sunny castform": 4,
         "Vullaby": 3,
@@ -288,11 +288,11 @@
         "Zigzagoon": 3,
         "Quilladin": 1,
         "Infernape": 3,
-        "Noibat": 5,
+        "Noibat": 6,
         "Gothorita": 4,
         "Ekans": 2,
         "Brambleghast": 1,
-        "Dartrix": 2,
+        "Dartrix": 3,
         "Ceruledge": 1,
         "Vanillish": 3,
         "Gimmighoul": 9,
@@ -657,7 +657,7 @@
         "Jynx": 1,
         "Noctowl": 1,
         "Munna": 1,
-        "Mabosstiff": 1,
+        "Mabosstiff": 2,
         "Omastar": 1,
         "Gabite": 2,
         "Tapu fini": 4,
@@ -700,7 +700,7 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1,
         "Spidops": 1,
-        "Glimmora": 1,
+        "Glimmora": 2,
         "Parasect": 1,
         "Fuecoco": 1,
         "Loudred": 1,
@@ -723,10 +723,11 @@
         "Wormadam": 1,
         "Crustle": 1,
         "Sawk": 1,
-        "Azumarill": 1
+        "Azumarill": 1,
+        "Delphox": 1
       },
-      "total_spawns": 3033,
-      "last_spawn": "2026-07-06T07:47:33.694538"
+      "total_spawns": 3041,
+      "last_spawn": "2026-07-06T07:48:08.408967"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1439,7 +1440,7 @@
     }
   },
   "global": {
-    "total_spawns": 68565,
+    "total_spawns": 68573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
