@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 8,
-        "Oddish": 22,
+        "Oddish": 23,
         "Totodile": 6,
         "Vanillite": 38,
         "Weedle": 23,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
-        "Venipede": 21,
+        "Venipede": 22,
         "Pansage": 3,
         "Cetoddle": 13,
         "Togepi": 13,
@@ -329,7 +329,7 @@
         "Magnemite": 16,
         "Doublade": 2,
         "Sharpedo": 1,
-        "Raboot": 6,
+        "Raboot": 7,
         "Oinkologne": 4,
         "Floragato": 5,
         "Larvesta": 17,
@@ -815,8 +815,8 @@
         "East sea shellos": 1,
         "Seaking": 2
       },
-      "total_spawns": 4596,
-      "last_spawn": "2026-07-06T22:17:58.899518"
+      "total_spawns": 4599,
+      "last_spawn": "2026-07-06T22:18:29.265515"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1529,7 +1529,7 @@
     }
   },
   "global": {
-    "total_spawns": 70128,
+    "total_spawns": 70131,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
