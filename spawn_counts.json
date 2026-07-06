@@ -83,7 +83,7 @@
         "Stufful": 7,
         "Shelgon": 3,
         "Marshtomp": 9,
-        "Squirtle": 8,
+        "Squirtle": 9,
         "Shinx": 36,
         "Drakloak": 5,
         "Victini": 1,
@@ -283,7 +283,7 @@
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 5,
         "Hattrem": 5,
-        "Trash wormadam": 1,
+        "Trash wormadam": 2,
         "Purrloin": 2,
         "Zigzagoon": 3,
         "Quilladin": 1,
@@ -553,7 +553,7 @@
         "Palpitoad": 3,
         "Smeargle": 2,
         "Appletun": 6,
-        "Arrokuda": 2,
+        "Arrokuda": 3,
         "Toxapex": 2,
         "Pawmot": 1,
         "Blitzle": 3,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 2,
-        "Wurmple": 30,
+        "Wurmple": 31,
         "Sandshrew": 4,
         "Tauros": 3,
         "Golurk": 1,
@@ -783,8 +783,8 @@
         "Chandelure": 1,
         "Umbreon": 2
       },
-      "total_spawns": 3875,
-      "last_spawn": "2026-07-06T18:27:25.596715"
+      "total_spawns": 3879,
+      "last_spawn": "2026-07-06T18:28:03.648033"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1497,7 +1497,7 @@
     }
   },
   "global": {
-    "total_spawns": 69407,
+    "total_spawns": 69411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
