@@ -16,7 +16,7 @@
         "Weedle": 27,
         "Kabutops": 2,
         "Poliwag": 24,
-        "Fidough": 24,
+        "Fidough": 25,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 9,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 3,
-        "Geodude": 16,
+        "Geodude": 17,
         "Tentacruel": 1,
         "Archen": 11,
         "Blue plumage squawkabilly": 4,
@@ -482,7 +482,7 @@
         "Mudbray": 9,
         "Spectrier": 1,
         "Rufflet": 4,
-        "Lairon": 3,
+        "Lairon": 4,
         "Altaria": 2,
         "Attack deoxys": 2,
         "Mudkip": 10,
@@ -859,8 +859,8 @@
         "Whimsicott": 1,
         "Emolga": 1
       },
-      "total_spawns": 5351,
-      "last_spawn": "2026-07-06T23:40:08.416685"
+      "total_spawns": 5354,
+      "last_spawn": "2026-07-06T23:40:38.594912"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1573,7 +1573,7 @@
     }
   },
   "global": {
-    "total_spawns": 70883,
+    "total_spawns": 70886,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
