@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
-        "Scatterbug": 12,
+        "Scatterbug": 13,
         "Skwovet": 7,
         "Applin": 3,
         "Staryu": 2,
@@ -204,7 +204,7 @@
         "Inkay": 2,
         "Unfezant": 3,
         "Fraxure": 9,
-        "Zubat": 17,
+        "Zubat": 18,
         "Drowzee": 7,
         "Lechonk": 17,
         "Woobat": 3,
@@ -804,10 +804,11 @@
         "Masquerain": 2,
         "Salazzle": 1,
         "Heracross": 2,
-        "Carkol": 1
+        "Carkol": 1,
+        "Zygarde": 1
       },
-      "total_spawns": 4314,
-      "last_spawn": "2026-07-06T19:45:58.229371"
+      "total_spawns": 4317,
+      "last_spawn": "2026-07-06T19:46:28.742627"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1520,7 +1521,7 @@
     }
   },
   "global": {
-    "total_spawns": 69846,
+    "total_spawns": 69849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
