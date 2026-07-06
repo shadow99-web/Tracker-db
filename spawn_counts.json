@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 6,
         "Mienshao": 2,
-        "Blipbug": 18,
+        "Blipbug": 19,
         "Rellor": 4,
         "Rolycoly": 9,
         "Poliwhirl": 4,
@@ -679,8 +679,8 @@
         "Basculegion": 2,
         "Jolteon": 2
       },
-      "total_spawns": 2491,
-      "last_spawn": "2026-07-06T00:03:34.145081"
+      "total_spawns": 2492,
+      "last_spawn": "2026-07-06T00:04:04.233182"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -985,7 +985,7 @@
         "Pikachu": 2,
         "Yungoos": 5,
         "Luxio": 5,
-        "Frigibax": 14,
+        "Frigibax": 15,
         "Krokorok": 3,
         "Snorunt": 4,
         "Meganium": 1,
@@ -1075,7 +1075,7 @@
         "Boldore": 6,
         "Prof tangrowth": 7,
         "Corvisquire": 4,
-        "Lokix": 5,
+        "Lokix": 6,
         "Charmeleon": 4,
         "Spidops": 2,
         "Dwebble": 3,
@@ -1384,14 +1384,15 @@
         "Sealeo": 1,
         "Manectric": 1,
         "Honchkrow": 1,
-        "Krabby": 1
+        "Krabby": 1,
+        "Corviknight": 1
       },
-      "total_spawns": 2962,
-      "last_spawn": "2026-07-06T00:03:24.455521"
+      "total_spawns": 2965,
+      "last_spawn": "2026-07-06T00:03:54.577351"
     }
   },
   "global": {
-    "total_spawns": 67992,
+    "total_spawns": 67996,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
