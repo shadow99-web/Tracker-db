@@ -13,9 +13,9 @@
         "Oddish": 23,
         "Totodile": 7,
         "Vanillite": 40,
-        "Weedle": 23,
+        "Weedle": 24,
         "Kabutops": 2,
-        "Poliwag": 19,
+        "Poliwag": 20,
         "Fidough": 21,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -47,7 +47,7 @@
         "Tadbulb": 22,
         "Yanmega": 1,
         "Tympole": 17,
-        "Grubbin": 19,
+        "Grubbin": 20,
         "Scatterbug": 14,
         "Skwovet": 8,
         "Applin": 5,
@@ -68,7 +68,7 @@
         "Feebas": 10,
         "Prof tangrowth": 18,
         "Vulpix": 15,
-        "Gastly": 38,
+        "Gastly": 40,
         "Aron": 24,
         "Honedge": 38,
         "Houndour": 1,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
-        "Venipede": 22,
+        "Venipede": 23,
         "Pansage": 3,
         "Cetoddle": 13,
         "Togepi": 13,
@@ -236,7 +236,7 @@
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
-        "Whismur": 21,
+        "Whismur": 22,
         "Jangmo-o": 10,
         "Lunatone": 1,
         "Machoke": 5,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 2,
-        "Gothita": 17,
+        "Gothita": 18,
         "Solosis": 16,
         "Sandygast": 4,
         "Pidove": 12,
@@ -832,8 +832,8 @@
         "Greedent": 1,
         "Galvantula": 1
       },
-      "total_spawns": 4827,
-      "last_spawn": "2026-07-06T22:40:23.844759"
+      "total_spawns": 4835,
+      "last_spawn": "2026-07-06T22:40:58.127799"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1546,7 +1546,7 @@
     }
   },
   "global": {
-    "total_spawns": 70359,
+    "total_spawns": 70367,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
