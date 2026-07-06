@@ -19,7 +19,7 @@
         "Fidough": 22,
         "Charjabug": 2,
         "Hatterene": 3,
-        "Rowlet": 8,
+        "Rowlet": 9,
         "Anorith": 7,
         "Arctibax": 3,
         "Ralts": 32,
@@ -40,7 +40,7 @@
         "Starly": 31,
         "Caterpie": 12,
         "Mareep": 18,
-        "Capsakid": 17,
+        "Capsakid": 18,
         "Numel": 8,
         "Pawmo": 8,
         "Wattrel": 16,
@@ -164,8 +164,8 @@
         "Venipede": 24,
         "Pansage": 3,
         "Cetoddle": 13,
-        "Togepi": 13,
-        "Tandemaus": 15,
+        "Togepi": 14,
+        "Tandemaus": 16,
         "Clefairy": 5,
         "Unown q": 1,
         "Lotad": 16,
@@ -332,7 +332,7 @@
         "Raboot": 7,
         "Oinkologne": 4,
         "Floragato": 5,
-        "Larvesta": 17,
+        "Larvesta": 19,
         "Magby": 1,
         "Roaming gimmighoul": 10,
         "Volcarona": 5,
@@ -847,8 +847,8 @@
         "Tapu lele": 2,
         "Naclstack": 1
       },
-      "total_spawns": 5091,
-      "last_spawn": "2026-07-06T23:11:53.705486"
+      "total_spawns": 5097,
+      "last_spawn": "2026-07-06T23:12:26.340582"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1561,7 +1561,7 @@
     }
   },
   "global": {
-    "total_spawns": 70623,
+    "total_spawns": 70629,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
