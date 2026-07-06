@@ -16,7 +16,7 @@
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 19,
-        "Fidough": 19,
+        "Fidough": 20,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 8,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 13,
         "Butterfree": 3,
-        "Teddiursa": 36,
+        "Teddiursa": 38,
         "Roggenrola": 28,
         "Litwick": 14,
         "Wooper": 5,
@@ -246,7 +246,7 @@
         "Trumbeak": 3,
         "Bonsly": 1,
         "Growlithe": 4,
-        "Rhydon": 5,
+        "Rhydon": 6,
         "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 3,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 17,
+        "Sewaddle": 18,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 5,
@@ -502,7 +502,7 @@
         "Kubfu": 1,
         "Tyrogue": 4,
         "Nuzleaf": 7,
-        "Spinarak": 5,
+        "Spinarak": 6,
         "Goomy": 11,
         "Breloom": 1,
         "Rillaboom": 8,
@@ -830,8 +830,8 @@
         "Zeraora": 2,
         "Cobalion": 2
       },
-      "total_spawns": 4791,
-      "last_spawn": "2026-07-06T22:37:38.587605"
+      "total_spawns": 4797,
+      "last_spawn": "2026-07-06T22:38:13.531598"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70323,
+    "total_spawns": 70329,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
