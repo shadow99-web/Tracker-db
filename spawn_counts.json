@@ -42,7 +42,7 @@
         "Mareep": 6,
         "Capsakid": 11,
         "Numel": 5,
-        "Pawmo": 3,
+        "Pawmo": 4,
         "Wattrel": 9,
         "Tadbulb": 9,
         "Yanmega": 1,
@@ -343,7 +343,7 @@
         "Gothita": 5,
         "Solosis": 11,
         "Sandygast": 3,
-        "Pidove": 5,
+        "Pidove": 6,
         "Chespin": 1,
         "Combee": 4,
         "Cyndaquil": 2,
@@ -467,7 +467,7 @@
         "Shellder": 2,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 2,
+        "Absol": 4,
         "Calyrex": 1,
         "Kakuna": 2,
         "Shedinja": 2,
@@ -684,8 +684,8 @@
         "Musharna": 1,
         "Wingull": 1
       },
-      "total_spawns": 2519,
-      "last_spawn": "2026-07-06T04:40:58.299902"
+      "total_spawns": 2523,
+      "last_spawn": "2026-07-06T04:41:28.406715"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1398,7 +1398,7 @@
     }
   },
   "global": {
-    "total_spawns": 68051,
+    "total_spawns": 68055,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
