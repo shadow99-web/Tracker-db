@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 24,
         "Whirlipede": 5,
-        "Duskull": 44,
+        "Duskull": 46,
         "Abra": 26,
         "Wiglett": 16,
         "Starly": 35,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 48,
         "Roggenrola": 28,
-        "Litwick": 15,
+        "Litwick": 16,
         "Wooper": 6,
         "Pikipek": 32,
         "Spritzee": 1,
@@ -610,7 +610,7 @@
         "Cinccino": 6,
         "Alolan vulpix": 2,
         "Glameow": 1,
-        "Zweilous": 3,
+        "Zweilous": 4,
         "Azurill": 4,
         "Oshawott": 2,
         "Malamar": 2,
@@ -854,10 +854,11 @@
         "Jumpluff": 1,
         "Basculin": 1,
         "Clobbopus": 1,
-        "Spewpa": 1
+        "Spewpa": 1,
+        "Delcatty": 2
       },
-      "total_spawns": 5266,
-      "last_spawn": "2026-07-06T23:29:20.496905"
+      "total_spawns": 5272,
+      "last_spawn": "2026-07-06T23:29:58.124903"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1570,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70798,
+    "total_spawns": 70804,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
