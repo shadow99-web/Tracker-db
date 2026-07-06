@@ -40,7 +40,7 @@
         "Starly": 31,
         "Caterpie": 12,
         "Mareep": 18,
-        "Capsakid": 18,
+        "Capsakid": 19,
         "Numel": 8,
         "Pawmo": 8,
         "Wattrel": 16,
@@ -153,7 +153,7 @@
         "Teddiursa": 44,
         "Roggenrola": 28,
         "Litwick": 15,
-        "Wooper": 5,
+        "Wooper": 6,
         "Pikipek": 30,
         "Spritzee": 1,
         "Stantler": 7,
@@ -175,7 +175,7 @@
         "Rolycoly": 21,
         "Poliwhirl": 5,
         "Lokix": 11,
-        "Flamigo": 10,
+        "Flamigo": 11,
         "Bellsprout": 14,
         "Houndstone": 3,
         "Beldum": 21,
@@ -222,7 +222,7 @@
         "Duosion": 5,
         "Orthworm": 22,
         "Yamask": 4,
-        "Nymble": 16,
+        "Nymble": 17,
         "Snorunt": 7,
         "Carvanha": 4,
         "Toxel": 4,
@@ -239,7 +239,7 @@
         "Whismur": 22,
         "Jangmo-o": 10,
         "Lunatone": 1,
-        "Machoke": 5,
+        "Machoke": 6,
         "Luvdisc": 1,
         "Fennekin": 12,
         "Milcery": 13,
@@ -526,7 +526,7 @@
         "Copperajah": 6,
         "Golett": 3,
         "Politoed": 7,
-        "Droopy tatsugiri": 3,
+        "Droopy tatsugiri": 4,
         "Volcanion": 1,
         "Drapion": 2,
         "Wartortle": 3,
@@ -847,10 +847,11 @@
         "Tapu lele": 2,
         "Naclstack": 1,
         "Wobbuffet": 1,
-        "Morgrem": 1
+        "Morgrem": 1,
+        "Budew": 1
       },
-      "total_spawns": 5126,
-      "last_spawn": "2026-07-06T23:14:08.268340"
+      "total_spawns": 5133,
+      "last_spawn": "2026-07-06T23:14:43.720615"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1563,7 +1564,7 @@
     }
   },
   "global": {
-    "total_spawns": 70658,
+    "total_spawns": 70665,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
