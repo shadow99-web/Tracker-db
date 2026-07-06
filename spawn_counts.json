@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
-        "Scatterbug": 13,
+        "Scatterbug": 14,
         "Skwovet": 7,
         "Applin": 3,
         "Staryu": 2,
@@ -70,7 +70,7 @@
         "Vulpix": 13,
         "Gastly": 36,
         "Aron": 21,
-        "Honedge": 34,
+        "Honedge": 36,
         "Houndour": 1,
         "Machop": 16,
         "Terapagos": 1,
@@ -124,7 +124,7 @@
         "White plumage squawkabilly": 8,
         "Flaaffy": 4,
         "Rookidee": 31,
-        "Flapple": 4,
+        "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 6,
         "Varoom": 20,
@@ -157,7 +157,7 @@
         "Pikipek": 26,
         "Spritzee": 1,
         "Stantler": 6,
-        "Impidimp": 26,
+        "Impidimp": 27,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
@@ -812,8 +812,8 @@
         "Sneasler": 4,
         "Swoobat": 1
       },
-      "total_spawns": 4481,
-      "last_spawn": "2026-07-06T22:02:58.466249"
+      "total_spawns": 4487,
+      "last_spawn": "2026-07-06T22:03:28.410791"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1526,7 @@
     }
   },
   "global": {
-    "total_spawns": 70013,
+    "total_spawns": 70019,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
