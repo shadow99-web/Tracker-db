@@ -37,7 +37,7 @@
         "Duskull": 46,
         "Abra": 26,
         "Wiglett": 16,
-        "Starly": 37,
+        "Starly": 38,
         "Caterpie": 13,
         "Mareep": 19,
         "Capsakid": 19,
@@ -118,7 +118,7 @@
         "Stonjourner": 1,
         "Veluza": 32,
         "Panpour": 6,
-        "Crabrawler": 4,
+        "Crabrawler": 5,
         "Frogadier": 4,
         "Scovillain": 4,
         "White plumage squawkabilly": 9,
@@ -211,7 +211,7 @@
         "Skrelp": 8,
         "Lileep": 5,
         "Drifloon": 3,
-        "Mightyena": 3,
+        "Mightyena": 4,
         "Sandaconda": 1,
         "Froakie": 12,
         "Kingdra": 3,
@@ -861,8 +861,8 @@
         "Kabuto": 1,
         "Clefable": 1
       },
-      "total_spawns": 5400,
-      "last_spawn": "2026-07-06T23:46:58.294014"
+      "total_spawns": 5403,
+      "last_spawn": "2026-07-06T23:47:28.318167"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1575,7 +1575,7 @@
     }
   },
   "global": {
-    "total_spawns": 70932,
+    "total_spawns": 70935,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
