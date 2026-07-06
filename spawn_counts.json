@@ -35,7 +35,7 @@
         "Fletchling": 13,
         "Whirlipede": 4,
         "Duskull": 30,
-        "Abra": 22,
+        "Abra": 23,
         "Wiglett": 14,
         "Starly": 29,
         "Caterpie": 8,
@@ -58,7 +58,7 @@
         "Hatenna": 24,
         "Shroomish": 3,
         "Lillipup": 19,
-        "Mosslax": 24,
+        "Mosslax": 26,
         "Maushold": 3,
         "Cubchoo": 15,
         "Koffing": 4,
@@ -131,7 +131,7 @@
         "Ducklett": 4,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 8,
+        "Torchic": 9,
         "Abomasnow": 5,
         "Slugma": 5,
         "Venonat": 4,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 3,
         "Whismur": 14,
-        "Jangmo-o": 8,
+        "Jangmo-o": 9,
         "Lunatone": 1,
         "Machoke": 5,
         "Luvdisc": 1,
@@ -655,7 +655,7 @@
         "Patrat": 2,
         "Passimian": 2,
         "Jynx": 1,
-        "Noctowl": 1,
+        "Noctowl": 2,
         "Munna": 2,
         "Mabosstiff": 2,
         "Omastar": 1,
@@ -783,8 +783,8 @@
         "Chandelure": 1,
         "Umbreon": 2
       },
-      "total_spawns": 3869,
-      "last_spawn": "2026-07-06T18:26:53.960333"
+      "total_spawns": 3875,
+      "last_spawn": "2026-07-06T18:27:25.596715"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1497,7 +1497,7 @@
     }
   },
   "global": {
-    "total_spawns": 69401,
+    "total_spawns": 69407,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
