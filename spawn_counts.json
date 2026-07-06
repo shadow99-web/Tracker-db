@@ -94,7 +94,7 @@
         "Gible": 24,
         "Greavard": 32,
         "Snover": 7,
-        "Piplup": 3,
+        "Piplup": 4,
         "Dondozo": 14,
         "Cyclizar": 5,
         "Froslass": 2,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 33,
+        "Axew": 35,
         "Joltik": 5,
         "Gulpin": 4,
         "Mareanie": 4,
@@ -713,7 +713,7 @@
         "Garbodor": 2,
         "Remoraid": 2,
         "Exeggcute": 4,
-        "Dunsparce": 1,
+        "Dunsparce": 2,
         "Sobble": 2,
         "Lycanroc": 1,
         "Dustox": 2,
@@ -796,10 +796,11 @@
         "Kingler": 2,
         "Aurorus": 2,
         "Cacnea": 1,
-        "Sableye": 2
+        "Sableye": 2,
+        "Persian": 1
       },
-      "total_spawns": 4206,
-      "last_spawn": "2026-07-06T19:27:19.467694"
+      "total_spawns": 4211,
+      "last_spawn": "2026-07-06T19:27:58.413877"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1512,7 +1513,7 @@
     }
   },
   "global": {
-    "total_spawns": 69738,
+    "total_spawns": 69743,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
