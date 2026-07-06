@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 21,
         "Whirlipede": 5,
-        "Duskull": 39,
+        "Duskull": 40,
         "Abra": 25,
         "Wiglett": 16,
         "Starly": 31,
@@ -61,7 +61,7 @@
         "Mosslax": 30,
         "Maushold": 3,
         "Cubchoo": 21,
-        "Koffing": 6,
+        "Koffing": 7,
         "Kirlia": 11,
         "Deino": 17,
         "Dolliv": 5,
@@ -204,7 +204,7 @@
         "Inkay": 3,
         "Unfezant": 4,
         "Fraxure": 9,
-        "Zubat": 18,
+        "Zubat": 19,
         "Drowzee": 7,
         "Lechonk": 21,
         "Woobat": 4,
@@ -277,7 +277,7 @@
         "Ledyba": 3,
         "Chinchou": 6,
         "Eiscue": 1,
-        "Nacli": 16,
+        "Nacli": 17,
         "Pancham": 4,
         "Bulbasaur": 19,
         "Dewpider": 5,
@@ -291,7 +291,7 @@
         "Noibat": 7,
         "Gothorita": 5,
         "Ekans": 3,
-        "Brambleghast": 1,
+        "Brambleghast": 3,
         "Dartrix": 4,
         "Ceruledge": 5,
         "Vanillish": 6,
@@ -315,7 +315,7 @@
         "Petilil": 6,
         "Bombirdier": 14,
         "Bellibolt": 6,
-        "Toedscool": 10,
+        "Toedscool": 11,
         "Paras": 4,
         "Fletchinder": 3,
         "Staravia": 3,
@@ -843,8 +843,8 @@
         "Grumpig": 1,
         "Roaring moon": 2
       },
-      "total_spawns": 4976,
-      "last_spawn": "2026-07-06T23:00:08.865566"
+      "total_spawns": 4983,
+      "last_spawn": "2026-07-06T23:00:48.265409"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 70508,
+    "total_spawns": 70515,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
