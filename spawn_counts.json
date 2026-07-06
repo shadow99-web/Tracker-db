@@ -26,7 +26,7 @@
         "Peakychu": 25,
         "Cutiefly": 4,
         "Simipour": 2,
-        "Tynamo": 14,
+        "Tynamo": 15,
         "Palossand": 3,
         "Pyukumuku": 1,
         "Pidgey": 17,
@@ -55,7 +55,7 @@
         "Maschiff": 14,
         "Smoliv": 12,
         "Tirtouga": 7,
-        "Hatenna": 34,
+        "Hatenna": 36,
         "Shroomish": 3,
         "Lillipup": 23,
         "Mosslax": 30,
@@ -119,7 +119,7 @@
         "Veluza": 24,
         "Panpour": 6,
         "Crabrawler": 4,
-        "Frogadier": 3,
+        "Frogadier": 4,
         "Scovillain": 4,
         "White plumage squawkabilly": 8,
         "Flaaffy": 4,
@@ -834,10 +834,11 @@
         "Drifblim": 1,
         "Togedemaru": 1,
         "Jellicent": 1,
-        "Monferno": 1
+        "Monferno": 1,
+        "Smoochum": 1
       },
-      "total_spawns": 4902,
-      "last_spawn": "2026-07-06T22:50:18.596167"
+      "total_spawns": 4907,
+      "last_spawn": "2026-07-06T22:50:58.203204"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1550,7 +1551,7 @@
     }
   },
   "global": {
-    "total_spawns": 70434,
+    "total_spawns": 70439,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
