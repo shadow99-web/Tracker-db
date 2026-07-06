@@ -70,7 +70,7 @@
         "Vulpix": 13,
         "Gastly": 34,
         "Aron": 20,
-        "Honedge": 32,
+        "Honedge": 33,
         "Houndour": 1,
         "Machop": 15,
         "Terapagos": 1,
@@ -88,7 +88,7 @@
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 35,
-        "Sandile": 25,
+        "Sandile": 27,
         "Charmeleon": 5,
         "Riolu": 16,
         "Gible": 24,
@@ -458,7 +458,7 @@
         "Excadrill": 2,
         "Buizel": 3,
         "Pansear": 2,
-        "Yanma": 7,
+        "Yanma": 8,
         "Galarian moltres": 1,
         "Seismitoad": 2,
         "Galarian articuno": 1,
@@ -495,7 +495,7 @@
         "Mismagius": 3,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
-        "Drilbur": 2,
+        "Drilbur": 3,
         "Leavanny": 1,
         "Magikarp": 6,
         "Gardevoir": 8,
@@ -798,8 +798,8 @@
         "Cacnea": 1,
         "Sableye": 2
       },
-      "total_spawns": 4187,
-      "last_spawn": "2026-07-06T19:24:58.622268"
+      "total_spawns": 4192,
+      "last_spawn": "2026-07-06T19:25:38.203222"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1512,7 +1512,7 @@
     }
   },
   "global": {
-    "total_spawns": 69719,
+    "total_spawns": 69724,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
