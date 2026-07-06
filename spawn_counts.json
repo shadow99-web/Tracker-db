@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 7,
         "Oddish": 21,
-        "Totodile": 3,
+        "Totodile": 4,
         "Vanillite": 32,
         "Weedle": 23,
         "Kabutops": 2,
@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 7,
-        "Anorith": 5,
+        "Anorith": 6,
         "Arctibax": 3,
         "Ralts": 20,
         "Peakychu": 23,
@@ -55,7 +55,7 @@
         "Maschiff": 11,
         "Smoliv": 9,
         "Tirtouga": 6,
-        "Hatenna": 24,
+        "Hatenna": 26,
         "Shroomish": 3,
         "Lillipup": 21,
         "Mosslax": 26,
@@ -105,7 +105,7 @@
         "Flittle": 16,
         "Armarouge": 3,
         "Clauncher": 4,
-        "Tentacool": 3,
+        "Tentacool": 4,
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 10,
@@ -168,7 +168,7 @@
         "Tandemaus": 13,
         "Clefairy": 3,
         "Unown q": 1,
-        "Lotad": 11,
+        "Lotad": 12,
         "Mienshao": 2,
         "Blipbug": 28,
         "Rellor": 9,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 18,
         "Pikachu": 10,
-        "Tarountula": 11,
+        "Tarountula": 12,
         "Rhyhorn": 14,
         "Aipom": 4,
         "Grookey": 7,
@@ -788,8 +788,8 @@
         "Porygon-z": 1,
         "Zapdos": 2
       },
-      "total_spawns": 4047,
-      "last_spawn": "2026-07-06T19:04:43.644433"
+      "total_spawns": 4054,
+      "last_spawn": "2026-07-06T19:05:13.911695"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1502,7 +1502,7 @@
     }
   },
   "global": {
-    "total_spawns": 69579,
+    "total_spawns": 69586,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
