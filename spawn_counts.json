@@ -163,7 +163,7 @@
         "Vullaby": 3,
         "Venipede": 11,
         "Pansage": 3,
-        "Cetoddle": 10,
+        "Cetoddle": 11,
         "Togepi": 7,
         "Tandemaus": 9,
         "Clefairy": 2,
@@ -183,7 +183,7 @@
         "Grovyle": 7,
         "Dratini": 13,
         "Steelix": 1,
-        "Sprigatito": 5,
+        "Sprigatito": 7,
         "Charcadet": 27,
         "Mudsdale": 4,
         "Meowth": 11,
@@ -357,7 +357,7 @@
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 3,
-        "Hoppip": 12,
+        "Hoppip": 13,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 7,
@@ -524,7 +524,7 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 4,
-        "Golett": 2,
+        "Golett": 3,
         "Politoed": 3,
         "Droopy tatsugiri": 1,
         "Volcanion": 1,
@@ -550,7 +550,7 @@
         "Audino": 1,
         "Mime jr.": 3,
         "Yungoos": 2,
-        "Palpitoad": 2,
+        "Palpitoad": 3,
         "Smeargle": 2,
         "Appletun": 6,
         "Arrokuda": 2,
@@ -725,8 +725,8 @@
         "Sawk": 1,
         "Azumarill": 1
       },
-      "total_spawns": 2995,
-      "last_spawn": "2026-07-06T07:43:58.796410"
+      "total_spawns": 3001,
+      "last_spawn": "2026-07-06T07:44:38.393952"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1439,7 +1439,7 @@
     }
   },
   "global": {
-    "total_spawns": 68527,
+    "total_spawns": 68533,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
