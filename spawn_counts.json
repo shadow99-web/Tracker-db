@@ -40,7 +40,7 @@
         "Starly": 23,
         "Caterpie": 6,
         "Mareep": 8,
-        "Capsakid": 11,
+        "Capsakid": 12,
         "Numel": 5,
         "Pawmo": 4,
         "Wattrel": 9,
@@ -137,7 +137,7 @@
         "Venonat": 3,
         "Eelektrik": 2,
         "Diglett": 5,
-        "Surskit": 5,
+        "Surskit": 6,
         "Seedot": 11,
         "Jigglypuff": 4,
         "Spearow": 3,
@@ -174,7 +174,7 @@
         "Rellor": 6,
         "Rolycoly": 10,
         "Poliwhirl": 4,
-        "Lokix": 3,
+        "Lokix": 4,
         "Flamigo": 7,
         "Bellsprout": 12,
         "Houndstone": 2,
@@ -340,7 +340,7 @@
         "Furfrou": 2,
         "Ursaring": 2,
         "Bidoof": 2,
-        "Gothita": 7,
+        "Gothita": 8,
         "Solosis": 13,
         "Sandygast": 3,
         "Pidove": 7,
@@ -711,10 +711,12 @@
         "Hawlucha": 2,
         "Stunky": 1,
         "Garbodor": 2,
-        "Remoraid": 1
+        "Remoraid": 1,
+        "Exeggcute": 1,
+        "Dunsparce": 1
       },
-      "total_spawns": 2847,
-      "last_spawn": "2026-07-06T07:33:23.599358"
+      "total_spawns": 2853,
+      "last_spawn": "2026-07-06T07:33:53.797454"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1427,7 +1429,7 @@
     }
   },
   "global": {
-    "total_spawns": 68379,
+    "total_spawns": 68385,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
