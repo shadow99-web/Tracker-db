@@ -154,7 +154,7 @@
         "Roggenrola": 28,
         "Litwick": 16,
         "Wooper": 6,
-        "Pikipek": 32,
+        "Pikipek": 34,
         "Spritzee": 1,
         "Stantler": 7,
         "Impidimp": 35,
@@ -213,7 +213,7 @@
         "Drifloon": 3,
         "Mightyena": 3,
         "Sandaconda": 1,
-        "Froakie": 10,
+        "Froakie": 11,
         "Kingdra": 3,
         "Chikorita": 8,
         "Donphan": 5,
@@ -299,7 +299,7 @@
         "Glimmet": 15,
         "Popplio": 6,
         "Arboliva": 2,
-        "Luxio": 3,
+        "Luxio": 4,
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 3,
@@ -356,7 +356,7 @@
         "Phantump": 4,
         "Barboach": 3,
         "Nosepass": 2,
-        "Electrike": 7,
+        "Electrike": 8,
         "Hoppip": 19,
         "Slowbro": 2,
         "Gholdengo": 4,
@@ -859,8 +859,8 @@
         "Whimsicott": 1,
         "Emolga": 1
       },
-      "total_spawns": 5354,
-      "last_spawn": "2026-07-06T23:40:38.594912"
+      "total_spawns": 5359,
+      "last_spawn": "2026-07-06T23:41:18.163826"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1573,7 +1573,7 @@
     }
   },
   "global": {
-    "total_spawns": 70886,
+    "total_spawns": 70891,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
