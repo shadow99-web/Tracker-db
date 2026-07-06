@@ -16,7 +16,7 @@
         "Weedle": 19,
         "Kabutops": 2,
         "Poliwag": 13,
-        "Fidough": 12,
+        "Fidough": 13,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 3,
@@ -95,7 +95,7 @@
         "Greavard": 26,
         "Snover": 5,
         "Piplup": 2,
-        "Dondozo": 5,
+        "Dondozo": 6,
         "Cyclizar": 4,
         "Froslass": 1,
         "Dodrio": 1,
@@ -125,7 +125,7 @@
         "Flaaffy": 3,
         "Rookidee": 17,
         "Flapple": 4,
-        "Bronzor": 1,
+        "Bronzor": 2,
         "Swirlix": 6,
         "Varoom": 10,
         "Ducklett": 4,
@@ -151,7 +151,7 @@
         "Trapinch": 7,
         "Butterfree": 3,
         "Teddiursa": 22,
-        "Roggenrola": 18,
+        "Roggenrola": 20,
         "Litwick": 7,
         "Wooper": 2,
         "Pikipek": 20,
@@ -186,7 +186,7 @@
         "Sprigatito": 5,
         "Charcadet": 27,
         "Mudsdale": 4,
-        "Meowth": 9,
+        "Meowth": 11,
         "Charmander": 9,
         "Wimpod": 9,
         "Comfey": 1,
@@ -268,7 +268,7 @@
         "Onix": 2,
         "Dracovish": 2,
         "Slowpoke": 2,
-        "Drizzile": 5,
+        "Drizzile": 6,
         "Tinkatink": 9,
         "Frillish": 1,
         "Plusle": 1,
@@ -344,7 +344,7 @@
         "Solosis": 13,
         "Sandygast": 3,
         "Pidove": 7,
-        "Chespin": 1,
+        "Chespin": 2,
         "Combee": 4,
         "Cyndaquil": 3,
         "Grotle": 4,
@@ -722,8 +722,8 @@
         "Blastoise": 2,
         "Wormadam": 1
       },
-      "total_spawns": 2970,
-      "last_spawn": "2026-07-06T07:42:18.842416"
+      "total_spawns": 2979,
+      "last_spawn": "2026-07-06T07:42:54.193653"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1436,7 +1436,7 @@
     }
   },
   "global": {
-    "total_spawns": 68502,
+    "total_spawns": 68511,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
