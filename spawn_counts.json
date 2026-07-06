@@ -63,7 +63,7 @@
         "Cubchoo": 15,
         "Koffing": 4,
         "Kirlia": 7,
-        "Deino": 11,
+        "Deino": 12,
         "Dolliv": 4,
         "Feebas": 6,
         "Prof tangrowth": 18,
@@ -218,7 +218,7 @@
         "Chikorita": 4,
         "Donphan": 3,
         "Shuppet": 9,
-        "Graveler": 2,
+        "Graveler": 3,
         "Duosion": 4,
         "Orthworm": 18,
         "Yamask": 3,
@@ -336,7 +336,7 @@
         "Magby": 1,
         "Roaming gimmighoul": 8,
         "Volcarona": 3,
-        "Togekiss": 2,
+        "Togekiss": 3,
         "Furfrou": 2,
         "Ursaring": 3,
         "Bidoof": 2,
@@ -779,8 +779,8 @@
         "Ferrothorn": 1,
         "Piloswine": 1
       },
-      "total_spawns": 3748,
-      "last_spawn": "2026-07-06T16:11:08.396670"
+      "total_spawns": 3751,
+      "last_spawn": "2026-07-06T16:11:39.972906"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1493,7 +1493,7 @@
     }
   },
   "global": {
-    "total_spawns": 69280,
+    "total_spawns": 69283,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
