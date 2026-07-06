@@ -32,13 +32,13 @@
         "Pidgey": 14,
         "Binacle": 4,
         "Bounsweet": 28,
-        "Fletchling": 13,
+        "Fletchling": 14,
         "Whirlipede": 4,
         "Duskull": 30,
         "Abra": 23,
         "Wiglett": 14,
         "Starly": 29,
-        "Caterpie": 8,
+        "Caterpie": 9,
         "Mareep": 14,
         "Capsakid": 15,
         "Numel": 8,
@@ -148,7 +148,7 @@
         "Turtwig": 5,
         "Fomantis": 5,
         "Claydol": 1,
-        "Trapinch": 10,
+        "Trapinch": 11,
         "Butterfree": 3,
         "Teddiursa": 32,
         "Roggenrola": 22,
@@ -337,7 +337,7 @@
         "Roaming gimmighoul": 8,
         "Volcarona": 5,
         "Togekiss": 3,
-        "Furfrou": 2,
+        "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 2,
         "Gothita": 13,
@@ -364,7 +364,7 @@
         "Rockruff": 4,
         "Snowy castform": 1,
         "Dusclops": 3,
-        "Prinplup": 2,
+        "Prinplup": 3,
         "Kommo-o": 1,
         "Vigoroth": 5,
         "Gigalith": 2,
@@ -587,7 +587,7 @@
         "Primeape": 4,
         "Goldeen": 5,
         "Gouging fire": 2,
-        "Cottonee": 1,
+        "Cottonee": 2,
         "Flareon": 2,
         "Gengar": 2,
         "Spiritomb": 2,
@@ -784,8 +784,8 @@
         "Umbreon": 2,
         "Ninjask": 1
       },
-      "total_spawns": 3919,
-      "last_spawn": "2026-07-06T18:30:45.076550"
+      "total_spawns": 3926,
+      "last_spawn": "2026-07-06T18:31:23.760749"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1498,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 69451,
+    "total_spawns": 69458,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
