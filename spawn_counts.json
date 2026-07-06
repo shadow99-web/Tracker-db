@@ -47,7 +47,7 @@
         "Tadbulb": 24,
         "Yanmega": 1,
         "Tympole": 18,
-        "Grubbin": 23,
+        "Grubbin": 24,
         "Scatterbug": 16,
         "Skwovet": 9,
         "Applin": 5,
@@ -87,7 +87,7 @@
         "Shinx": 50,
         "Drakloak": 7,
         "Victini": 1,
-        "Pawmi": 41,
+        "Pawmi": 43,
         "Sandile": 33,
         "Charmeleon": 7,
         "Riolu": 16,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 2,
         "Farfetch'd": 2,
-        "Grafaiai": 7,
+        "Grafaiai": 8,
         "Fearow": 2,
         "Squawkabilly": 5,
         "Seadra": 2,
@@ -860,10 +860,10 @@
         "Emolga": 1,
         "Kabuto": 1,
         "Clefable": 1,
-        "Mr. mime": 1
+        "Mr. mime": 2
       },
-      "total_spawns": 5407,
-      "last_spawn": "2026-07-06T23:47:59.013871"
+      "total_spawns": 5412,
+      "last_spawn": "2026-07-06T23:48:29.579057"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1576,7 +1576,7 @@
     }
   },
   "global": {
-    "total_spawns": 70939,
+    "total_spawns": 70944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
