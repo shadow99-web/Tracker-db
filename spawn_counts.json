@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 8,
         "Oddish": 23,
-        "Totodile": 6,
+        "Totodile": 7,
         "Vanillite": 38,
         "Weedle": 23,
         "Kabutops": 2,
@@ -23,7 +23,7 @@
         "Anorith": 6,
         "Arctibax": 3,
         "Ralts": 32,
-        "Peakychu": 23,
+        "Peakychu": 24,
         "Cutiefly": 4,
         "Simipour": 2,
         "Tynamo": 13,
@@ -364,7 +364,7 @@
         "Rockruff": 5,
         "Snowy castform": 1,
         "Dusclops": 4,
-        "Prinplup": 3,
+        "Prinplup": 4,
         "Kommo-o": 1,
         "Vigoroth": 5,
         "Gigalith": 2,
@@ -732,7 +732,7 @@
         "Litten": 2,
         "Gossifleur": 3,
         "Electivire": 1,
-        "Farigiraf": 1,
+        "Farigiraf": 2,
         "Raichu": 1,
         "Meowstic": 1,
         "Zangoose": 1,
@@ -819,8 +819,8 @@
         "Silicobra": 1,
         "Durant": 1
       },
-      "total_spawns": 4626,
-      "last_spawn": "2026-07-06T22:21:38.339934"
+      "total_spawns": 4630,
+      "last_spawn": "2026-07-06T22:22:18.497620"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1533,7 +1533,7 @@
     }
   },
   "global": {
-    "total_spawns": 70158,
+    "total_spawns": 70162,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
