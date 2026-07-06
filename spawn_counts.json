@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 16,
         "Binacle": 4,
-        "Bounsweet": 30,
+        "Bounsweet": 32,
         "Fletchling": 16,
         "Whirlipede": 5,
         "Duskull": 34,
@@ -217,7 +217,7 @@
         "Kingdra": 1,
         "Chikorita": 8,
         "Donphan": 3,
-        "Shuppet": 9,
+        "Shuppet": 10,
         "Graveler": 3,
         "Duosion": 4,
         "Orthworm": 20,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 2,
         "Gothita": 14,
-        "Solosis": 13,
+        "Solosis": 14,
         "Sandygast": 4,
         "Pidove": 11,
         "Chespin": 3,
@@ -801,10 +801,11 @@
         "Toedscruel": 1,
         "Alolan muk": 2,
         "Xatu": 1,
-        "Masquerain": 1
+        "Masquerain": 2,
+        "Salazzle": 1
       },
-      "total_spawns": 4268,
-      "last_spawn": "2026-07-06T19:39:58.601401"
+      "total_spawns": 4274,
+      "last_spawn": "2026-07-06T19:40:38.222718"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1517,7 +1518,7 @@
     }
   },
   "global": {
-    "total_spawns": 69800,
+    "total_spawns": 69806,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
