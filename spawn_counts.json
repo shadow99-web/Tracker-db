@@ -49,7 +49,7 @@
         "Tympole": 10,
         "Grubbin": 9,
         "Scatterbug": 8,
-        "Skwovet": 4,
+        "Skwovet": 5,
         "Applin": 3,
         "Staryu": 1,
         "Maschiff": 6,
@@ -92,7 +92,7 @@
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 18,
-        "Greavard": 23,
+        "Greavard": 24,
         "Snover": 3,
         "Piplup": 2,
         "Dondozo": 5,
@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 1,
-        "Zubat": 11,
+        "Zubat": 12,
         "Drowzee": 3,
         "Lechonk": 10,
         "Woobat": 3,
@@ -424,7 +424,7 @@
         "Hoothoot": 3,
         "Girafarig": 1,
         "Summer deerling": 1,
-        "Seel": 3,
+        "Seel": 4,
         "Marowak": 2,
         "Haunter": 2,
         "Dottler": 1,
@@ -467,7 +467,7 @@
         "Shellder": 2,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 4,
+        "Absol": 5,
         "Calyrex": 1,
         "Kakuna": 2,
         "Shedinja": 2,
@@ -687,8 +687,8 @@
         "Dedenne": 1,
         "Serperior": 1
       },
-      "total_spawns": 2530,
-      "last_spawn": "2026-07-06T04:42:38.294959"
+      "total_spawns": 2535,
+      "last_spawn": "2026-07-06T04:43:18.168496"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1401,7 +1401,7 @@
     }
   },
   "global": {
-    "total_spawns": 68062,
+    "total_spawns": 68067,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
