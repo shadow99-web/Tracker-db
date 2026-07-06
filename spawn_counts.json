@@ -134,7 +134,7 @@
         "Torchic": 11,
         "Abomasnow": 5,
         "Slugma": 6,
-        "Venonat": 8,
+        "Venonat": 9,
         "Eelektrik": 4,
         "Diglett": 6,
         "Surskit": 6,
@@ -429,7 +429,7 @@
         "Haunter": 4,
         "Dottler": 7,
         "Wailmer": 3,
-        "Frigibax": 40,
+        "Frigibax": 41,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 6,
@@ -550,7 +550,7 @@
         "Audino": 2,
         "Mime jr.": 3,
         "Yungoos": 5,
-        "Palpitoad": 3,
+        "Palpitoad": 4,
         "Smeargle": 2,
         "Appletun": 6,
         "Arrokuda": 5,
@@ -862,10 +862,11 @@
         "Clefable": 1,
         "Mr. mime": 2,
         "Munchlax": 2,
-        "Qwilfish": 2
+        "Qwilfish": 2,
+        "Meowscarada": 1
       },
-      "total_spawns": 5448,
-      "last_spawn": "2026-07-06T23:52:48.165852"
+      "total_spawns": 5452,
+      "last_spawn": "2026-07-06T23:53:18.194141"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1578,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 70980,
+    "total_spawns": 70984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
