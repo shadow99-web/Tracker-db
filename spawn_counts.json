@@ -164,7 +164,7 @@
         "Venipede": 15,
         "Pansage": 3,
         "Cetoddle": 13,
-        "Togepi": 7,
+        "Togepi": 8,
         "Tandemaus": 12,
         "Clefairy": 2,
         "Unown q": 1,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 3,
         "Drizzile": 6,
-        "Tinkatink": 12,
+        "Tinkatink": 13,
         "Frillish": 1,
         "Plusle": 1,
         "Decidueye": 3,
@@ -346,7 +346,7 @@
         "Pidove": 10,
         "Chespin": 3,
         "Combee": 4,
-        "Cyndaquil": 3,
+        "Cyndaquil": 4,
         "Grotle": 4,
         "Tinkaton": 1,
         "Bergmite": 5,
@@ -719,7 +719,7 @@
         "Dustox": 2,
         "Alolan grimer": 2,
         "Ursaluna": 4,
-        "Blastoise": 3,
+        "Blastoise": 4,
         "Wormadam": 1,
         "Crustle": 1,
         "Sawk": 1,
@@ -761,8 +761,8 @@
         "Chimecho": 2,
         "Natu": 1
       },
-      "total_spawns": 3510,
-      "last_spawn": "2026-07-06T12:25:53.524414"
+      "total_spawns": 3514,
+      "last_spawn": "2026-07-06T12:26:23.600062"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1475,7 +1475,7 @@
     }
   },
   "global": {
-    "total_spawns": 69042,
+    "total_spawns": 69046,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
