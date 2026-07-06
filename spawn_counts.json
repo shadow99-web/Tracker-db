@@ -65,7 +65,7 @@
         "Kirlia": 5,
         "Deino": 9,
         "Dolliv": 1,
-        "Feebas": 3,
+        "Feebas": 4,
         "Prof tangrowth": 15,
         "Vulpix": 9,
         "Gastly": 20,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 6,
         "Mienshao": 2,
-        "Blipbug": 19,
+        "Blipbug": 20,
         "Rellor": 4,
         "Rolycoly": 9,
         "Poliwhirl": 4,
@@ -677,10 +677,11 @@
         "Pangoro": 1,
         "Galarian zen darmanitan": 2,
         "Basculegion": 2,
-        "Jolteon": 2
+        "Jolteon": 2,
+        "Okidogi": 2
       },
-      "total_spawns": 2492,
-      "last_spawn": "2026-07-06T00:04:04.233182"
+      "total_spawns": 2496,
+      "last_spawn": "2026-07-06T00:04:23.415251"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -781,7 +782,7 @@
         "Dratini": 6,
         "Sewaddle": 11,
         "Mantyke": 3,
-        "Slakoth": 17,
+        "Slakoth": 18,
         "Dreepy": 14,
         "Foongus": 5,
         "Hoppip": 14,
@@ -791,7 +792,7 @@
         "Mosslax": 12,
         "Braixen": 2,
         "Skwovet": 3,
-        "Magnemite": 11,
+        "Magnemite": 12,
         "Impidimp": 21,
         "Elgyem": 3,
         "Gastrodon": 1,
@@ -1062,7 +1063,7 @@
         "Blitzle": 3,
         "Politoed": 2,
         "Nickit": 2,
-        "Wiglett": 12,
+        "Wiglett": 13,
         "Carkol": 3,
         "Solosis": 8,
         "Flapple": 3,
@@ -1090,7 +1091,7 @@
         "Sinistea": 3,
         "Shinx": 6,
         "Totodile": 2,
-        "Magikarp": 5,
+        "Magikarp": 6,
         "Pumpkaboo": 3,
         "Banette": 2,
         "Tympole": 12,
@@ -1387,12 +1388,12 @@
         "Krabby": 1,
         "Corviknight": 1
       },
-      "total_spawns": 2965,
-      "last_spawn": "2026-07-06T00:03:54.577351"
+      "total_spawns": 2969,
+      "last_spawn": "2026-07-06T00:04:36.017907"
     }
   },
   "global": {
-    "total_spawns": 67996,
+    "total_spawns": 68004,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
