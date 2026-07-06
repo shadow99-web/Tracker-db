@@ -57,7 +57,7 @@
         "Tirtouga": 8,
         "Hatenna": 40,
         "Shroomish": 3,
-        "Lillipup": 25,
+        "Lillipup": 26,
         "Mosslax": 30,
         "Maushold": 3,
         "Cubchoo": 21,
@@ -191,7 +191,7 @@
         "Wimpod": 11,
         "Comfey": 5,
         "Diggersby": 2,
-        "Klawf": 33,
+        "Klawf": 35,
         "Dj rotom": 18,
         "Chef dente": 20,
         "Hisuian qwilfish": 1,
@@ -495,7 +495,7 @@
         "Mismagius": 3,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
-        "Drilbur": 3,
+        "Drilbur": 4,
         "Leavanny": 1,
         "Magikarp": 7,
         "Gardevoir": 8,
@@ -855,10 +855,11 @@
         "Basculin": 1,
         "Clobbopus": 1,
         "Spewpa": 1,
-        "Delcatty": 2
+        "Delcatty": 2,
+        "Whimsicott": 1
       },
-      "total_spawns": 5306,
-      "last_spawn": "2026-07-06T23:34:28.463293"
+      "total_spawns": 5311,
+      "last_spawn": "2026-07-06T23:35:08.094018"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1572,7 @@
     }
   },
   "global": {
-    "total_spawns": 70838,
+    "total_spawns": 70843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
