@@ -13,7 +13,7 @@
         "Oddish": 16,
         "Totodile": 3,
         "Vanillite": 30,
-        "Weedle": 17,
+        "Weedle": 19,
         "Kabutops": 2,
         "Poliwag": 13,
         "Fidough": 11,
@@ -53,7 +53,7 @@
         "Applin": 3,
         "Staryu": 1,
         "Maschiff": 6,
-        "Smoliv": 5,
+        "Smoliv": 6,
         "Tirtouga": 4,
         "Hatenna": 16,
         "Shroomish": 3,
@@ -183,7 +183,7 @@
         "Grovyle": 7,
         "Dratini": 13,
         "Steelix": 1,
-        "Sprigatito": 3,
+        "Sprigatito": 5,
         "Charcadet": 25,
         "Mudsdale": 4,
         "Meowth": 9,
@@ -567,7 +567,7 @@
         "Farfetch'd": 2,
         "Grafaiai": 2,
         "Fearow": 1,
-        "Squawkabilly": 2,
+        "Squawkabilly": 3,
         "Seadra": 1,
         "Sealeo": 1,
         "Baltoy": 1,
@@ -580,7 +580,7 @@
         "Skorupi": 2,
         "Probopass": 1,
         "Family of three maushold": 1,
-        "Scyther": 4,
+        "Scyther": 6,
         "Polteageist": 2,
         "Lombre": 3,
         "Dachsbun": 3,
@@ -716,10 +716,11 @@
         "Dunsparce": 1,
         "Sobble": 1,
         "Lycanroc": 1,
-        "Dustox": 1
+        "Dustox": 1,
+        "Alolan grimer": 1
       },
-      "total_spawns": 2886,
-      "last_spawn": "2026-07-06T07:36:48.497432"
+      "total_spawns": 2895,
+      "last_spawn": "2026-07-06T07:37:20.962456"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1432,7 +1433,7 @@
     }
   },
   "global": {
-    "total_spawns": 68418,
+    "total_spawns": 68427,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
