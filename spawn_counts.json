@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 18,
         "Grubbin": 23,
-        "Scatterbug": 15,
+        "Scatterbug": 16,
         "Skwovet": 9,
         "Applin": 5,
         "Staryu": 3,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 4,
         "Watchog": 3,
-        "Porygon": 17,
+        "Porygon": 18,
         "Wooloo": 4,
         "Mawile": 5,
         "Marill": 2,
@@ -619,7 +619,7 @@
         "Hangry morpeko": 2,
         "Omanyte": 7,
         "Mamoswine": 2,
-        "Spoink": 7,
+        "Spoink": 8,
         "Dhelmise": 1,
         "Armaldo": 3,
         "Krokorok": 4,
@@ -702,7 +702,7 @@
         "Spidops": 2,
         "Glimmora": 3,
         "Parasect": 1,
-        "Fuecoco": 3,
+        "Fuecoco": 4,
         "Loudred": 6,
         "Vespiquen": 1,
         "Gastrodon": 1,
@@ -857,8 +857,8 @@
         "Spewpa": 1,
         "Delcatty": 2
       },
-      "total_spawns": 5289,
-      "last_spawn": "2026-07-06T23:32:08.296544"
+      "total_spawns": 5293,
+      "last_spawn": "2026-07-06T23:32:48.161055"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70821,
+    "total_spawns": 70825,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
