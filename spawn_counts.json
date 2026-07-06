@@ -375,7 +375,7 @@
         "Rayquaza": 13,
         "Horsea": 13,
         "Reshiram": 3,
-        "Celebi": 21,
+        "Celebi": 23,
         "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 4,
@@ -569,7 +569,7 @@
         "Fearow": 2,
         "Squawkabilly": 5,
         "Seadra": 1,
-        "Sealeo": 1,
+        "Sealeo": 2,
         "Baltoy": 3,
         "Karrablast": 4,
         "Volbeat": 1,
@@ -811,8 +811,8 @@
         "Lunala": 1,
         "Sneasler": 3
       },
-      "total_spawns": 4376,
-      "last_spawn": "2026-07-06T20:14:02.907106"
+      "total_spawns": 4379,
+      "last_spawn": "2026-07-06T20:16:25.844344"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1525,7 +1525,7 @@
     }
   },
   "global": {
-    "total_spawns": 69908,
+    "total_spawns": 69911,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
