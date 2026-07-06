@@ -138,7 +138,7 @@
         "Eelektrik": 2,
         "Diglett": 5,
         "Surskit": 4,
-        "Seedot": 10,
+        "Seedot": 11,
         "Jigglypuff": 4,
         "Spearow": 3,
         "Servine": 2,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 22,
         "Roggenrola": 16,
-        "Litwick": 6,
+        "Litwick": 7,
         "Wooper": 2,
         "Pikipek": 18,
         "Spritzee": 1,
@@ -213,7 +213,7 @@
         "Drifloon": 1,
         "Mightyena": 3,
         "Sandaconda": 1,
-        "Froakie": 5,
+        "Froakie": 6,
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 3,
@@ -403,7 +403,7 @@
         "Litleo": 2,
         "Silcoon": 3,
         "Snivy": 2,
-        "Zorua": 2,
+        "Zorua": 4,
         "Minior": 1,
         "Darmanitan": 1,
         "Lopunny": 2,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 21,
+        "Frigibax": 22,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 2,
@@ -701,8 +701,8 @@
         "Hakamo-o": 1,
         "Spidops": 1
       },
-      "total_spawns": 2718,
-      "last_spawn": "2026-07-06T07:19:23.694590"
+      "total_spawns": 2724,
+      "last_spawn": "2026-07-06T07:20:03.794757"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1415,7 +1415,7 @@
     }
   },
   "global": {
-    "total_spawns": 68250,
+    "total_spawns": 68256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
