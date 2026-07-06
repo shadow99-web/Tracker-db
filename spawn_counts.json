@@ -33,7 +33,7 @@
         "Binacle": 4,
         "Bounsweet": 30,
         "Fletchling": 16,
-        "Whirlipede": 4,
+        "Whirlipede": 5,
         "Duskull": 32,
         "Abra": 24,
         "Wiglett": 14,
@@ -186,7 +186,7 @@
         "Sprigatito": 11,
         "Charcadet": 35,
         "Mudsdale": 4,
-        "Meowth": 13,
+        "Meowth": 15,
         "Charmander": 15,
         "Wimpod": 9,
         "Comfey": 3,
@@ -791,10 +791,12 @@
         "Steenee": 1,
         "Boltund": 1,
         "Weezing": 1,
-        "Blue flower florges": 1
+        "Blue flower florges": 1,
+        "Dudunsparce": 1,
+        "Kingler": 1
       },
-      "total_spawns": 4134,
-      "last_spawn": "2026-07-06T19:12:26.363905"
+      "total_spawns": 4139,
+      "last_spawn": "2026-07-06T19:12:58.367741"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1507,7 +1509,7 @@
     }
   },
   "global": {
-    "total_spawns": 69666,
+    "total_spawns": 69671,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
