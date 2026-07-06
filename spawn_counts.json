@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 21,
         "Whirlipede": 5,
-        "Duskull": 38,
+        "Duskull": 39,
         "Abra": 25,
         "Wiglett": 16,
         "Starly": 31,
@@ -840,10 +840,11 @@
         "Shieldon": 1,
         "Araquanid": 2,
         "Glaceon": 2,
-        "Grumpig": 1
+        "Grumpig": 1,
+        "Roaring moon": 2
       },
-      "total_spawns": 4973,
-      "last_spawn": "2026-07-06T22:59:28.498670"
+      "total_spawns": 4976,
+      "last_spawn": "2026-07-06T23:00:08.865566"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1556,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 70505,
+    "total_spawns": 70508,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
