@@ -38,7 +38,7 @@
         "Abra": 16,
         "Wiglett": 9,
         "Starly": 23,
-        "Caterpie": 5,
+        "Caterpie": 6,
         "Mareep": 8,
         "Capsakid": 11,
         "Numel": 5,
@@ -46,7 +46,7 @@
         "Wattrel": 9,
         "Tadbulb": 10,
         "Yanmega": 1,
-        "Tympole": 10,
+        "Tympole": 12,
         "Grubbin": 11,
         "Scatterbug": 8,
         "Skwovet": 5,
@@ -78,7 +78,7 @@
         "Torterra": 1,
         "Salandit": 3,
         "Bruxish": 1,
-        "Orbeetle": 2,
+        "Orbeetle": 3,
         "Bramblin": 9,
         "Stufful": 5,
         "Shelgon": 1,
@@ -236,7 +236,7 @@
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
-        "Whismur": 11,
+        "Whismur": 12,
         "Jangmo-o": 6,
         "Lunatone": 1,
         "Machoke": 4,
@@ -354,7 +354,7 @@
         "Tepig": 2,
         "Spinda": 1,
         "Phantump": 2,
-        "Barboach": 2,
+        "Barboach": 3,
         "Nosepass": 1,
         "Electrike": 3,
         "Hoppip": 12,
@@ -520,7 +520,7 @@
         "Krookodile": 1,
         "Espathra": 2,
         "Snom": 4,
-        "Nickit": 1,
+        "Nickit": 2,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 4,
@@ -706,10 +706,11 @@
         "Loudred": 1,
         "Vespiquen": 1,
         "Gastrodon": 1,
-        "Skiddo": 1
+        "Skiddo": 1,
+        "Simisear": 1
       },
-      "total_spawns": 2799,
-      "last_spawn": "2026-07-06T07:30:03.893467"
+      "total_spawns": 2807,
+      "last_spawn": "2026-07-06T07:30:38.395767"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1422,7 +1423,7 @@
     }
   },
   "global": {
-    "total_spawns": 68331,
+    "total_spawns": 68339,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
