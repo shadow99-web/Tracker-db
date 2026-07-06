@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 6,
-        "Oddish": 17,
+        "Oddish": 18,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 23,
@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 3,
         "Arctibax": 3,
-        "Ralts": 16,
+        "Ralts": 18,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -88,7 +88,7 @@
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 31,
-        "Sandile": 23,
+        "Sandile": 24,
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 22,
@@ -218,7 +218,7 @@
         "Chikorita": 3,
         "Donphan": 3,
         "Shuppet": 9,
-        "Graveler": 1,
+        "Graveler": 2,
         "Duosion": 4,
         "Orthworm": 17,
         "Yamask": 3,
@@ -764,8 +764,8 @@
         "Eldegoss": 1,
         "Pinsir": 1
       },
-      "total_spawns": 3587,
-      "last_spawn": "2026-07-06T12:36:43.531275"
+      "total_spawns": 3592,
+      "last_spawn": "2026-07-06T12:37:13.726682"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1478,7 +1478,7 @@
     }
   },
   "global": {
-    "total_spawns": 69119,
+    "total_spawns": 69124,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
