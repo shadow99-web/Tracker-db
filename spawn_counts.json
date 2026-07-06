@@ -134,7 +134,7 @@
         "Torchic": 8,
         "Abomasnow": 3,
         "Slugma": 4,
-        "Venonat": 2,
+        "Venonat": 3,
         "Eelektrik": 2,
         "Diglett": 5,
         "Surskit": 4,
@@ -181,7 +181,7 @@
         "Beldum": 15,
         "Kadabra": 6,
         "Grovyle": 7,
-        "Dratini": 11,
+        "Dratini": 13,
         "Steelix": 1,
         "Sprigatito": 3,
         "Charcadet": 21,
@@ -694,10 +694,11 @@
         "Furret": 2,
         "Helioptile": 1,
         "Salamence": 2,
-        "Meditite": 1
+        "Meditite": 1,
+        "Sneasel": 1
       },
-      "total_spawns": 2656,
-      "last_spawn": "2026-07-06T07:10:43.977886"
+      "total_spawns": 2660,
+      "last_spawn": "2026-07-06T07:11:14.416381"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1410,7 +1411,7 @@
     }
   },
   "global": {
-    "total_spawns": 68188,
+    "total_spawns": 68192,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
