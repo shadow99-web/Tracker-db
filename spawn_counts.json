@@ -32,7 +32,7 @@
         "Pidgey": 12,
         "Binacle": 4,
         "Bounsweet": 20,
-        "Fletchling": 7,
+        "Fletchling": 8,
         "Whirlipede": 4,
         "Duskull": 22,
         "Abra": 16,
@@ -79,11 +79,11 @@
         "Salandit": 3,
         "Bruxish": 1,
         "Orbeetle": 1,
-        "Bramblin": 8,
+        "Bramblin": 9,
         "Stufful": 5,
         "Shelgon": 1,
         "Marshtomp": 7,
-        "Squirtle": 6,
+        "Squirtle": 7,
         "Shinx": 28,
         "Drakloak": 3,
         "Victini": 1,
@@ -222,7 +222,7 @@
         "Duosion": 3,
         "Orthworm": 9,
         "Yamask": 2,
-        "Nymble": 9,
+        "Nymble": 10,
         "Snorunt": 2,
         "Carvanha": 2,
         "Toxel": 3,
@@ -689,8 +689,8 @@
         "Grapploct": 1,
         "Vanilluxe": 1
       },
-      "total_spawns": 2570,
-      "last_spawn": "2026-07-06T04:47:58.295368"
+      "total_spawns": 2574,
+      "last_spawn": "2026-07-06T04:48:38.275274"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1403,7 +1403,7 @@
     }
   },
   "global": {
-    "total_spawns": 68102,
+    "total_spawns": 68106,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
