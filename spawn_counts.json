@@ -544,7 +544,7 @@
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
-        "Tatsugiri": 5,
+        "Tatsugiri": 6,
         "Xerneas": 3,
         "Nincada": 4,
         "Audino": 1,
@@ -559,7 +559,7 @@
         "Blitzle": 3,
         "Iron crown": 2,
         "Barbaracle": 2,
-        "Nidoqueen": 3,
+        "Nidoqueen": 4,
         "White flower florges": 1,
         "Hydreigon": 2,
         "Unown x": 2,
@@ -799,10 +799,11 @@
         "Sableye": 2,
         "Persian": 1,
         "Toedscruel": 1,
-        "Alolan muk": 2
+        "Alolan muk": 2,
+        "Xatu": 1
       },
-      "total_spawns": 4261,
-      "last_spawn": "2026-07-06T19:38:48.415187"
+      "total_spawns": 4264,
+      "last_spawn": "2026-07-06T19:39:20.441369"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1515,7 +1516,7 @@
     }
   },
   "global": {
-    "total_spawns": 69793,
+    "total_spawns": 69796,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
