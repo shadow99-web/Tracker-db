@@ -52,10 +52,10 @@
         "Skwovet": 5,
         "Applin": 3,
         "Staryu": 2,
-        "Maschiff": 8,
+        "Maschiff": 9,
         "Smoliv": 9,
         "Tirtouga": 6,
-        "Hatenna": 22,
+        "Hatenna": 24,
         "Shroomish": 3,
         "Lillipup": 19,
         "Mosslax": 22,
@@ -166,7 +166,7 @@
         "Cetoddle": 13,
         "Togepi": 11,
         "Tandemaus": 13,
-        "Clefairy": 2,
+        "Clefairy": 3,
         "Unown q": 1,
         "Lotad": 9,
         "Mienshao": 2,
@@ -203,7 +203,7 @@
         "Grookey": 6,
         "Inkay": 1,
         "Unfezant": 2,
-        "Fraxure": 5,
+        "Fraxure": 6,
         "Zubat": 17,
         "Drowzee": 5,
         "Lechonk": 15,
@@ -305,7 +305,7 @@
         "Torracat": 2,
         "Geodude": 5,
         "Tentacruel": 1,
-        "Archen": 9,
+        "Archen": 11,
         "Blue plumage squawkabilly": 3,
         "Metang": 5,
         "Larvitar": 12,
@@ -630,7 +630,7 @@
         "Cufant": 1,
         "Mienfoo": 2,
         "Quagsire": 1,
-        "Komala": 1,
+        "Komala": 2,
         "Poochyena": 3,
         "Hero palafin": 1,
         "Klinklang": 2,
@@ -773,10 +773,11 @@
         "Cinderace": 2,
         "Cramorant": 1,
         "Sandy wormadam": 1,
-        "Haxorus": 2
+        "Haxorus": 2,
+        "Lilligant": 1
       },
-      "total_spawns": 3695,
-      "last_spawn": "2026-07-06T12:44:13.626856"
+      "total_spawns": 3704,
+      "last_spawn": "2026-07-06T12:44:48.113797"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1489,7 +1490,7 @@
     }
   },
   "global": {
-    "total_spawns": 69227,
+    "total_spawns": 69236,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
