@@ -26,7 +26,7 @@
         "Peakychu": 21,
         "Cutiefly": 3,
         "Simipour": 2,
-        "Tynamo": 7,
+        "Tynamo": 9,
         "Palossand": 2,
         "Pyukumuku": 1,
         "Pidgey": 12,
@@ -62,7 +62,7 @@
         "Maushold": 3,
         "Cubchoo": 11,
         "Koffing": 3,
-        "Kirlia": 5,
+        "Kirlia": 6,
         "Deino": 9,
         "Dolliv": 1,
         "Feebas": 4,
@@ -678,10 +678,11 @@
         "Galarian zen darmanitan": 2,
         "Basculegion": 2,
         "Jolteon": 2,
-        "Okidogi": 2
+        "Okidogi": 2,
+        "Wyrdeer": 2
       },
-      "total_spawns": 2497,
-      "last_spawn": "2026-07-06T02:04:58.243222"
+      "total_spawns": 2502,
+      "last_spawn": "2026-07-06T02:05:38.231779"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1394,7 +1395,7 @@
     }
   },
   "global": {
-    "total_spawns": 68029,
+    "total_spawns": 68034,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
