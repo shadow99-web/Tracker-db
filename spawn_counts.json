@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 3,
         "Arctibax": 3,
-        "Ralts": 18,
+        "Ralts": 20,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -642,7 +642,7 @@
         "Raticate": 5,
         "Weavile": 2,
         "Amped toxtricity": 2,
-        "Scizor": 2,
+        "Scizor": 3,
         "Shiinotic": 7,
         "Simisage": 2,
         "Cherubi": 1,
@@ -775,10 +775,12 @@
         "Sandy wormadam": 1,
         "Haxorus": 2,
         "Lilligant": 1,
-        "Fan rotom": 2
+        "Fan rotom": 2,
+        "Ferrothorn": 1,
+        "Piloswine": 1
       },
-      "total_spawns": 3724,
-      "last_spawn": "2026-07-06T12:45:48.414265"
+      "total_spawns": 3729,
+      "last_spawn": "2026-07-06T12:46:28.129182"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1491,7 +1493,7 @@
     }
   },
   "global": {
-    "total_spawns": 69256,
+    "total_spawns": 69261,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
