@@ -721,7 +721,7 @@
         "Samurott": 1,
         "Kleavor": 1,
         "Karrablast": 4,
-        "Timburr": 14,
+        "Timburr": 15,
         "Pidgey": 10,
         "Gimmighoul": 11,
         "Cetoddle": 19,
@@ -1069,7 +1069,7 @@
         "Flapple": 3,
         "Hippowdon": 1,
         "Helioptile": 1,
-        "Furfrou": 2,
+        "Furfrou": 3,
         "Thwackey": 3,
         "Gabite": 2,
         "Toxel": 5,
@@ -1253,7 +1253,7 @@
         "Leavanny": 1,
         "Yellow flower floette": 2,
         "Mudkip": 1,
-        "Clefable": 1,
+        "Clefable": 2,
         "Revavroom": 2,
         "Milotic": 1,
         "Skarmory": 1,
@@ -1377,7 +1377,7 @@
         "Wailmer": 1,
         "Froslass": 1,
         "Staravia": 1,
-        "Dudunsparce": 1,
+        "Dudunsparce": 2,
         "Dialga": 1,
         "Joltik": 1,
         "Unown s": 1,
@@ -1388,12 +1388,12 @@
         "Krabby": 1,
         "Corviknight": 1
       },
-      "total_spawns": 2980,
-      "last_spawn": "2026-07-06T00:06:35.657108"
+      "total_spawns": 2984,
+      "last_spawn": "2026-07-06T00:07:14.998206"
     }
   },
   "global": {
-    "total_spawns": 68015,
+    "total_spawns": 68019,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
