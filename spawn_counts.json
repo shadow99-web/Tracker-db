@@ -24,7 +24,7 @@
         "Arctibax": 3,
         "Ralts": 32,
         "Peakychu": 25,
-        "Cutiefly": 4,
+        "Cutiefly": 5,
         "Simipour": 2,
         "Tynamo": 15,
         "Palossand": 3,
@@ -84,7 +84,7 @@
         "Shelgon": 5,
         "Marshtomp": 11,
         "Squirtle": 11,
-        "Shinx": 40,
+        "Shinx": 42,
         "Drakloak": 7,
         "Victini": 1,
         "Pawmi": 37,
@@ -839,10 +839,11 @@
         "Drampa": 1,
         "Shieldon": 1,
         "Araquanid": 2,
-        "Glaceon": 2
+        "Glaceon": 2,
+        "Grumpig": 1
       },
-      "total_spawns": 4969,
-      "last_spawn": "2026-07-06T22:58:58.365217"
+      "total_spawns": 4973,
+      "last_spawn": "2026-07-06T22:59:28.498670"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1555,7 +1556,7 @@
     }
   },
   "global": {
-    "total_spawns": 70501,
+    "total_spawns": 70505,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
