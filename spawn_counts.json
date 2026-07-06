@@ -168,7 +168,7 @@
         "Tandemaus": 10,
         "Clefairy": 2,
         "Unown q": 1,
-        "Lotad": 7,
+        "Lotad": 8,
         "Mienshao": 2,
         "Blipbug": 22,
         "Rellor": 7,
@@ -368,7 +368,7 @@
         "Kommo-o": 1,
         "Vigoroth": 4,
         "Gigalith": 1,
-        "Kingambit": 1,
+        "Kingambit": 2,
         "Cresselia": 3,
         "Duraludon": 6,
         "Nidorino": 4,
@@ -503,7 +503,7 @@
         "Tyrogue": 2,
         "Nuzleaf": 6,
         "Spinarak": 3,
-        "Goomy": 5,
+        "Goomy": 6,
         "Breloom": 1,
         "Rillaboom": 6,
         "Hippopotas": 1,
@@ -728,10 +728,11 @@
         "Cranidos": 1,
         "Tsareena": 1,
         "Chansey": 1,
-        "Camerupt": 1
+        "Camerupt": 1,
+        "Litten": 1
       },
-      "total_spawns": 3111,
-      "last_spawn": "2026-07-06T07:55:43.965610"
+      "total_spawns": 3115,
+      "last_spawn": "2026-07-06T07:56:24.176987"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1444,7 +1445,7 @@
     }
   },
   "global": {
-    "total_spawns": 68643,
+    "total_spawns": 68647,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
