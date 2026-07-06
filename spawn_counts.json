@@ -16,7 +16,7 @@
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 16,
-        "Fidough": 15,
+        "Fidough": 16,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 7,
@@ -312,10 +312,10 @@
         "Lumineon": 1,
         "Kilowattrel": 3,
         "Pumpkaboo": 3,
-        "Petilil": 5,
+        "Petilil": 6,
         "Bombirdier": 13,
         "Bellibolt": 6,
-        "Toedscool": 8,
+        "Toedscool": 9,
         "Paras": 4,
         "Fletchinder": 3,
         "Staravia": 2,
@@ -808,8 +808,8 @@
         "Zygarde": 2,
         "Dewgong": 1
       },
-      "total_spawns": 4332,
-      "last_spawn": "2026-07-06T19:51:08.407286"
+      "total_spawns": 4335,
+      "last_spawn": "2026-07-06T19:51:48.218480"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1522,7 +1522,7 @@
     }
   },
   "global": {
-    "total_spawns": 69864,
+    "total_spawns": 69867,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
