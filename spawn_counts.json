@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 8,
         "Wattrel": 16,
-        "Tadbulb": 23,
+        "Tadbulb": 24,
         "Yanmega": 1,
         "Tympole": 18,
         "Grubbin": 23,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 22,
         "Pikachu": 10,
-        "Tarountula": 18,
+        "Tarountula": 19,
         "Rhyhorn": 21,
         "Aipom": 4,
         "Grookey": 9,
@@ -315,7 +315,7 @@
         "Petilil": 8,
         "Bombirdier": 14,
         "Bellibolt": 6,
-        "Toedscool": 11,
+        "Toedscool": 12,
         "Paras": 4,
         "Fletchinder": 4,
         "Staravia": 3,
@@ -437,7 +437,7 @@
         "Elgyem": 1,
         "Dragonair": 4,
         "Spheal": 15,
-        "Amaura": 8,
+        "Amaura": 9,
         "Wailord": 1,
         "Accelgor": 3,
         "Tyrunt": 3,
@@ -859,8 +859,8 @@
         "Whimsicott": 1,
         "Emolga": 1
       },
-      "total_spawns": 5329,
-      "last_spawn": "2026-07-06T23:37:25.308198"
+      "total_spawns": 5333,
+      "last_spawn": "2026-07-06T23:37:58.157822"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1573,7 +1573,7 @@
     }
   },
   "global": {
-    "total_spawns": 70861,
+    "total_spawns": 70865,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
