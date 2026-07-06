@@ -301,7 +301,7 @@
         "Arboliva": 2,
         "Luxio": 3,
         "Quaxwell": 2,
-        "Swanna": 1,
+        "Swanna": 3,
         "Torracat": 2,
         "Geodude": 12,
         "Tentacruel": 1,
@@ -421,7 +421,7 @@
         "Crabominable": 3,
         "Krabby": 6,
         "Mimikyu": 4,
-        "Hoothoot": 5,
+        "Hoothoot": 6,
         "Girafarig": 1,
         "Summer deerling": 1,
         "Seel": 4,
@@ -491,7 +491,7 @@
         "Voltorb": 2,
         "Hitmonchan": 1,
         "Pidgeot": 2,
-        "Alakazam": 4,
+        "Alakazam": 5,
         "Mismagius": 3,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
@@ -576,7 +576,7 @@
         "Murkrow": 3,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 4,
+        "Boldore": 5,
         "Skorupi": 3,
         "Probopass": 3,
         "Family of three maushold": 1,
@@ -736,7 +736,7 @@
         "Raichu": 1,
         "Meowstic": 1,
         "Zangoose": 1,
-        "Thievul": 1,
+        "Thievul": 2,
         "Galarian slowbro": 2,
         "Oricorio": 1,
         "Hitmonlee": 1,
@@ -749,7 +749,7 @@
         "Forretress": 2,
         "Swampert": 2,
         "High plain vivillon": 1,
-        "Metapod": 2,
+        "Metapod": 3,
         "Lampent": 3,
         "Roselia": 2,
         "Pineco": 1,
@@ -789,8 +789,8 @@
         "Zapdos": 2,
         "Coalossal": 2
       },
-      "total_spawns": 4063,
-      "last_spawn": "2026-07-06T19:05:48.402134"
+      "total_spawns": 4070,
+      "last_spawn": "2026-07-06T19:06:18.545126"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1503,7 +1503,7 @@
     }
   },
   "global": {
-    "total_spawns": 69595,
+    "total_spawns": 69602,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
