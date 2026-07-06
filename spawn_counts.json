@@ -64,7 +64,7 @@
         "Koffing": 3,
         "Kirlia": 7,
         "Deino": 10,
-        "Dolliv": 1,
+        "Dolliv": 2,
         "Feebas": 4,
         "Prof tangrowth": 17,
         "Vulpix": 9,
@@ -206,7 +206,7 @@
         "Fraxure": 3,
         "Zubat": 12,
         "Drowzee": 4,
-        "Lechonk": 11,
+        "Lechonk": 12,
         "Woobat": 3,
         "Skrelp": 5,
         "Lileep": 2,
@@ -313,7 +313,7 @@
         "Kilowattrel": 2,
         "Pumpkaboo": 2,
         "Petilil": 3,
-        "Bombirdier": 7,
+        "Bombirdier": 8,
         "Bellibolt": 4,
         "Toedscool": 5,
         "Paras": 2,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 24,
+        "Axew": 25,
         "Joltik": 3,
         "Gulpin": 2,
         "Mareanie": 2,
@@ -456,7 +456,7 @@
         "Espurr": 2,
         "Pelipper": 1,
         "Excadrill": 2,
-        "Buizel": 2,
+        "Buizel": 3,
         "Pansear": 2,
         "Yanma": 6,
         "Galarian moltres": 1,
@@ -706,8 +706,8 @@
         "Loudred": 1,
         "Vespiquen": 1
       },
-      "total_spawns": 2772,
-      "last_spawn": "2026-07-06T07:26:34.012405"
+      "total_spawns": 2777,
+      "last_spawn": "2026-07-06T07:27:13.769953"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1420,7 +1420,7 @@
     }
   },
   "global": {
-    "total_spawns": 68304,
+    "total_spawns": 68309,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
