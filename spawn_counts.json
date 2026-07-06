@@ -47,7 +47,7 @@
         "Tadbulb": 21,
         "Yanmega": 1,
         "Tympole": 17,
-        "Grubbin": 18,
+        "Grubbin": 19,
         "Scatterbug": 14,
         "Skwovet": 8,
         "Applin": 3,
@@ -379,7 +379,7 @@
         "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 10,
+        "Slakoth": 11,
         "Klink": 13,
         "Mesprit": 1,
         "Azelf": 2,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 4,
         "Dubwool": 1,
-        "Litleo": 4,
+        "Litleo": 5,
         "Silcoon": 5,
         "Snivy": 4,
         "Zorua": 8,
@@ -712,7 +712,7 @@
         "Stunky": 4,
         "Garbodor": 2,
         "Remoraid": 2,
-        "Exeggcute": 4,
+        "Exeggcute": 5,
         "Dunsparce": 2,
         "Sobble": 2,
         "Lycanroc": 1,
@@ -815,8 +815,8 @@
         "East sea shellos": 1,
         "Seaking": 2
       },
-      "total_spawns": 4587,
-      "last_spawn": "2026-07-06T22:16:38.405635"
+      "total_spawns": 4591,
+      "last_spawn": "2026-07-06T22:17:22.263360"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1529,7 +1529,7 @@
     }
   },
   "global": {
-    "total_spawns": 70119,
+    "total_spawns": 70123,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
