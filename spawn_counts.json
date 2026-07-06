@@ -49,7 +49,7 @@
         "Tympole": 16,
         "Grubbin": 18,
         "Scatterbug": 14,
-        "Skwovet": 7,
+        "Skwovet": 8,
         "Applin": 3,
         "Staryu": 2,
         "Maschiff": 12,
@@ -67,14 +67,14 @@
         "Dolliv": 5,
         "Feebas": 10,
         "Prof tangrowth": 18,
-        "Vulpix": 13,
+        "Vulpix": 15,
         "Gastly": 36,
         "Aron": 21,
         "Honedge": 36,
         "Houndour": 1,
         "Machop": 16,
         "Terapagos": 1,
-        "Mankey": 5,
+        "Mankey": 6,
         "Torterra": 1,
         "Salandit": 6,
         "Bruxish": 1,
@@ -324,7 +324,7 @@
         "Finizen": 15,
         "Swablu": 6,
         "Sunkern": 4,
-        "Snubbull": 1,
+        "Snubbull": 2,
         "Crocalor": 2,
         "Magnemite": 16,
         "Doublade": 2,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4506,
-      "last_spawn": "2026-07-06T22:05:48.796551"
+      "total_spawns": 4511,
+      "last_spawn": "2026-07-06T22:06:28.476031"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70038,
+    "total_spawns": 70043,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
