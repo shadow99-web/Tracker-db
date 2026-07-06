@@ -539,7 +539,7 @@
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 3,
-        "Pawniard": 4,
+        "Pawniard": 6,
         "Brionne": 4,
         "Zarude": 2,
         "Yamper": 1,
@@ -810,10 +810,11 @@
         "Revavroom": 1,
         "Lunala": 1,
         "Sneasler": 4,
-        "Swoobat": 1
+        "Swoobat": 1,
+        "Morpeko": 1
       },
-      "total_spawns": 4487,
-      "last_spawn": "2026-07-06T22:03:28.410791"
+      "total_spawns": 4490,
+      "last_spawn": "2026-07-06T22:03:59.510140"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1527,7 @@
     }
   },
   "global": {
-    "total_spawns": 70019,
+    "total_spawns": 70022,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
