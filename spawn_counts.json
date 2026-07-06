@@ -67,7 +67,7 @@
         "Dolliv": 2,
         "Feebas": 4,
         "Prof tangrowth": 17,
-        "Vulpix": 9,
+        "Vulpix": 11,
         "Gastly": 20,
         "Aron": 10,
         "Honedge": 20,
@@ -184,7 +184,7 @@
         "Dratini": 13,
         "Steelix": 1,
         "Sprigatito": 5,
-        "Charcadet": 25,
+        "Charcadet": 27,
         "Mudsdale": 4,
         "Meowth": 9,
         "Charmander": 7,
@@ -204,8 +204,8 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 3,
-        "Zubat": 12,
-        "Drowzee": 4,
+        "Zubat": 13,
+        "Drowzee": 5,
         "Lechonk": 12,
         "Woobat": 3,
         "Skrelp": 5,
@@ -416,7 +416,7 @@
         "Sewaddle": 13,
         "Shelmet": 2,
         "Combusken": 2,
-        "Croagunk": 3,
+        "Croagunk": 4,
         "Mothim": 4,
         "Crabominable": 3,
         "Krabby": 3,
@@ -533,7 +533,7 @@
         "Midnight lycanroc": 3,
         "Skiploom": 1,
         "Stakataka": 1,
-        "Cascoon": 2,
+        "Cascoon": 3,
         "Sigilyph": 4,
         "Vibrava": 2,
         "Shuckle": 2,
@@ -619,7 +619,7 @@
         "Hangry morpeko": 2,
         "Omanyte": 3,
         "Mamoswine": 2,
-        "Spoink": 1,
+        "Spoink": 2,
         "Dhelmise": 1,
         "Armaldo": 3,
         "Krokorok": 3,
@@ -721,8 +721,8 @@
         "Ursaluna": 2,
         "Blastoise": 2
       },
-      "total_spawns": 2930,
-      "last_spawn": "2026-07-06T07:39:33.801937"
+      "total_spawns": 2939,
+      "last_spawn": "2026-07-06T07:40:08.595604"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1435,7 +1435,7 @@
     }
   },
   "global": {
-    "total_spawns": 68462,
+    "total_spawns": 68471,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
