@@ -13,7 +13,7 @@
         "Oddish": 15,
         "Totodile": 3,
         "Vanillite": 30,
-        "Weedle": 15,
+        "Weedle": 17,
         "Kabutops": 2,
         "Poliwag": 12,
         "Fidough": 11,
@@ -78,7 +78,7 @@
         "Torterra": 1,
         "Salandit": 3,
         "Bruxish": 1,
-        "Orbeetle": 1,
+        "Orbeetle": 2,
         "Bramblin": 9,
         "Stufful": 5,
         "Shelgon": 1,
@@ -123,7 +123,7 @@
         "Scovillain": 2,
         "White plumage squawkabilly": 6,
         "Flaaffy": 2,
-        "Rookidee": 15,
+        "Rookidee": 17,
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
@@ -708,8 +708,8 @@
         "Gastrodon": 1,
         "Skiddo": 1
       },
-      "total_spawns": 2794,
-      "last_spawn": "2026-07-06T07:29:33.784082"
+      "total_spawns": 2799,
+      "last_spawn": "2026-07-06T07:30:03.893467"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1422,7 +1422,7 @@
     }
   },
   "global": {
-    "total_spawns": 68326,
+    "total_spawns": 68331,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
