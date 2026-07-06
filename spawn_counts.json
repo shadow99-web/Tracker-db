@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 7,
-        "Oddish": 18,
+        "Oddish": 19,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 23,
@@ -98,7 +98,7 @@
         "Dondozo": 10,
         "Cyclizar": 5,
         "Froslass": 2,
-        "Dodrio": 3,
+        "Dodrio": 5,
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 8,
         "Kingdra": 1,
-        "Chikorita": 3,
+        "Chikorita": 4,
         "Donphan": 3,
         "Shuppet": 9,
         "Graveler": 2,
@@ -408,12 +408,12 @@
         "Darmanitan": 1,
         "Lopunny": 2,
         "Chimchar": 5,
-        "Gligar": 3,
+        "Gligar": 4,
         "Quaxly": 8,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 15,
+        "Sewaddle": 16,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 5,
@@ -498,7 +498,7 @@
         "Drilbur": 2,
         "Leavanny": 1,
         "Magikarp": 6,
-        "Gardevoir": 6,
+        "Gardevoir": 7,
         "Kubfu": 1,
         "Tyrogue": 3,
         "Nuzleaf": 6,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 4,
         "Sigilyph": 4,
-        "Vibrava": 3,
+        "Vibrava": 4,
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 2,
@@ -767,8 +767,8 @@
         "Pa'u oricorio": 1,
         "Toucannon": 1
       },
-      "total_spawns": 3631,
-      "last_spawn": "2026-07-06T12:39:53.604006"
+      "total_spawns": 3639,
+      "last_spawn": "2026-07-06T12:40:28.271295"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1481,7 +1481,7 @@
     }
   },
   "global": {
-    "total_spawns": 69163,
+    "total_spawns": 69171,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
