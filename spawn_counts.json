@@ -37,7 +37,7 @@
         "Duskull": 24,
         "Abra": 16,
         "Wiglett": 10,
-        "Starly": 25,
+        "Starly": 27,
         "Caterpie": 7,
         "Mareep": 9,
         "Capsakid": 13,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 17,
         "Vulpix": 13,
         "Gastly": 20,
-        "Aron": 12,
+        "Aron": 13,
         "Honedge": 22,
         "Houndour": 1,
         "Machop": 14,
@@ -279,7 +279,7 @@
         "Eiscue": 1,
         "Nacli": 11,
         "Pancham": 3,
-        "Bulbasaur": 11,
+        "Bulbasaur": 13,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 2,
         "Hattrem": 5,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 1,
-        "Wurmple": 21,
+        "Wurmple": 22,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -741,8 +741,8 @@
         "Oricorio": 1,
         "Hitmonlee": 1
       },
-      "total_spawns": 3254,
-      "last_spawn": "2026-07-06T09:42:43.535740"
+      "total_spawns": 3260,
+      "last_spawn": "2026-07-06T09:43:33.608779"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1455,7 +1455,7 @@
     }
   },
   "global": {
-    "total_spawns": 68786,
+    "total_spawns": 68792,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
