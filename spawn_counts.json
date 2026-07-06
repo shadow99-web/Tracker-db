@@ -39,7 +39,7 @@
         "Wiglett": 11,
         "Starly": 27,
         "Caterpie": 7,
-        "Mareep": 9,
+        "Mareep": 10,
         "Capsakid": 13,
         "Numel": 6,
         "Pawmo": 4,
@@ -60,7 +60,7 @@
         "Lillipup": 16,
         "Mosslax": 22,
         "Maushold": 3,
-        "Cubchoo": 14,
+        "Cubchoo": 15,
         "Koffing": 4,
         "Kirlia": 7,
         "Deino": 11,
@@ -92,7 +92,7 @@
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 22,
-        "Greavard": 26,
+        "Greavard": 28,
         "Snover": 5,
         "Piplup": 2,
         "Dondozo": 7,
@@ -151,7 +151,7 @@
         "Trapinch": 9,
         "Butterfree": 3,
         "Teddiursa": 26,
-        "Roggenrola": 20,
+        "Roggenrola": 22,
         "Litwick": 8,
         "Wooper": 3,
         "Pikipek": 20,
@@ -349,7 +349,7 @@
         "Cyndaquil": 3,
         "Grotle": 4,
         "Tinkaton": 1,
-        "Bergmite": 4,
+        "Bergmite": 5,
         "Klang": 2,
         "Tepig": 2,
         "Spinda": 1,
@@ -744,8 +744,8 @@
         "Yveltal": 2,
         "Illumise": 1
       },
-      "total_spawns": 3293,
-      "last_spawn": "2026-07-06T09:47:23.705247"
+      "total_spawns": 3300,
+      "last_spawn": "2026-07-06T09:48:03.895486"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1458,7 +1458,7 @@
     }
   },
   "global": {
-    "total_spawns": 68825,
+    "total_spawns": 68832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
