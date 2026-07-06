@@ -39,7 +39,7 @@
         "Wiglett": 16,
         "Starly": 35,
         "Caterpie": 13,
-        "Mareep": 18,
+        "Mareep": 19,
         "Capsakid": 19,
         "Numel": 8,
         "Pawmo": 8,
@@ -93,7 +93,7 @@
         "Riolu": 16,
         "Gible": 28,
         "Greavard": 34,
-        "Snover": 7,
+        "Snover": 9,
         "Piplup": 5,
         "Dondozo": 16,
         "Cyclizar": 7,
@@ -116,7 +116,7 @@
         "Swinub": 24,
         "Rattata": 10,
         "Stonjourner": 1,
-        "Veluza": 31,
+        "Veluza": 32,
         "Panpour": 6,
         "Crabrawler": 4,
         "Frogadier": 4,
@@ -291,7 +291,7 @@
         "Noibat": 7,
         "Gothorita": 5,
         "Ekans": 3,
-        "Brambleghast": 3,
+        "Brambleghast": 4,
         "Dartrix": 4,
         "Ceruledge": 6,
         "Vanillish": 6,
@@ -858,8 +858,8 @@
         "Delcatty": 2,
         "Whimsicott": 1
       },
-      "total_spawns": 5315,
-      "last_spawn": "2026-07-06T23:35:38.224549"
+      "total_spawns": 5320,
+      "last_spawn": "2026-07-06T23:36:08.365621"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1572,7 +1572,7 @@
     }
   },
   "global": {
-    "total_spawns": 70847,
+    "total_spawns": 70852,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
