@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 4,
         "Doduo": 5,
-        "Flittle": 20,
+        "Flittle": 21,
         "Armarouge": 5,
         "Clauncher": 5,
         "Tentacool": 4,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 17,
         "Mienshao": 2,
-        "Blipbug": 40,
+        "Blipbug": 42,
         "Rellor": 12,
         "Rolycoly": 21,
         "Poliwhirl": 6,
@@ -829,7 +829,7 @@
         "Pupitar": 2,
         "Zeraora": 2,
         "Cobalion": 2,
-        "Greedent": 1,
+        "Greedent": 2,
         "Galvantula": 1,
         "Drifblim": 1,
         "Togedemaru": 1,
@@ -859,8 +859,8 @@
         "Whimsicott": 1,
         "Emolga": 1
       },
-      "total_spawns": 5337,
-      "last_spawn": "2026-07-06T23:38:28.545016"
+      "total_spawns": 5341,
+      "last_spawn": "2026-07-06T23:38:58.618465"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1573,7 +1573,7 @@
     }
   },
   "global": {
-    "total_spawns": 70869,
+    "total_spawns": 70873,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
