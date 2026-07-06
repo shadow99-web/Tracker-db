@@ -591,9 +591,9 @@
         "Flareon": 2,
         "Gengar": 2,
         "Spiritomb": 2,
-        "Gurdurr": 2,
+        "Gurdurr": 3,
         "Quilava": 2,
-        "Wurmple": 31,
+        "Wurmple": 32,
         "Sandshrew": 4,
         "Tauros": 3,
         "Golurk": 1,
@@ -605,7 +605,7 @@
         "Sinistea": 4,
         "Golbat": 6,
         "Amoonguss": 3,
-        "Herdier": 2,
+        "Herdier": 3,
         "Blissey": 2,
         "Cinccino": 4,
         "Alolan vulpix": 2,
@@ -781,10 +781,11 @@
         "Granbull": 2,
         "Happiny": 2,
         "Chandelure": 1,
-        "Umbreon": 2
+        "Umbreon": 2,
+        "Ninjask": 1
       },
-      "total_spawns": 3879,
-      "last_spawn": "2026-07-06T18:28:03.648033"
+      "total_spawns": 3883,
+      "last_spawn": "2026-07-06T18:28:34.142968"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1497,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 69411,
+    "total_spawns": 69415,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
