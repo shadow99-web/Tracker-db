@@ -88,7 +88,7 @@
         "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 25,
-        "Sandile": 21,
+        "Sandile": 23,
         "Charmeleon": 5,
         "Riolu": 14,
         "Gible": 22,
@@ -195,7 +195,7 @@
         "Dj rotom": 13,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
-        "Bagon": 16,
+        "Bagon": 17,
         "Pikachu": 6,
         "Tarountula": 8,
         "Rhyhorn": 12,
@@ -712,7 +712,7 @@
         "Stunky": 2,
         "Garbodor": 2,
         "Remoraid": 1,
-        "Exeggcute": 1,
+        "Exeggcute": 2,
         "Dunsparce": 1,
         "Sobble": 2,
         "Lycanroc": 1,
@@ -739,10 +739,11 @@
         "Thievul": 1,
         "Galarian slowbro": 2,
         "Oricorio": 1,
-        "Hitmonlee": 1
+        "Hitmonlee": 1,
+        "Sudowoodo": 1
       },
-      "total_spawns": 3264,
-      "last_spawn": "2026-07-06T09:44:03.796745"
+      "total_spawns": 3269,
+      "last_spawn": "2026-07-06T09:44:43.461685"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1455,7 +1456,7 @@
     }
   },
   "global": {
-    "total_spawns": 68796,
+    "total_spawns": 68801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
