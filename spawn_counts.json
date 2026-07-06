@@ -102,7 +102,7 @@
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
-        "Flittle": 14,
+        "Flittle": 15,
         "Armarouge": 3,
         "Clauncher": 3,
         "Tentacool": 1,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 13,
+        "Venipede": 14,
         "Pansage": 3,
         "Cetoddle": 11,
         "Togepi": 7,
@@ -643,7 +643,7 @@
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 2,
-        "Shiinotic": 4,
+        "Shiinotic": 5,
         "Simisage": 2,
         "Cherubi": 1,
         "Heatmor": 1,
@@ -714,7 +714,7 @@
         "Remoraid": 1,
         "Exeggcute": 1,
         "Dunsparce": 1,
-        "Sobble": 1,
+        "Sobble": 2,
         "Lycanroc": 1,
         "Dustox": 2,
         "Alolan grimer": 2,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3182,
-      "last_spawn": "2026-07-06T09:30:43.510080"
+      "total_spawns": 3186,
+      "last_spawn": "2026-07-06T09:31:13.697097"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68714,
+    "total_spawns": 68718,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
