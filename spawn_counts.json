@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 32,
         "Roggenrola": 22,
-        "Litwick": 10,
+        "Litwick": 11,
         "Wooper": 4,
         "Pikipek": 22,
         "Spritzee": 1,
@@ -168,13 +168,13 @@
         "Tandemaus": 13,
         "Clefairy": 3,
         "Unown q": 1,
-        "Lotad": 9,
+        "Lotad": 10,
         "Mienshao": 2,
         "Blipbug": 28,
         "Rellor": 9,
         "Rolycoly": 17,
         "Poliwhirl": 4,
-        "Lokix": 6,
+        "Lokix": 8,
         "Flamigo": 9,
         "Bellsprout": 13,
         "Houndstone": 2,
@@ -279,7 +279,7 @@
         "Eiscue": 1,
         "Nacli": 14,
         "Pancham": 3,
-        "Bulbasaur": 15,
+        "Bulbasaur": 17,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 5,
         "Hattrem": 5,
@@ -782,10 +782,11 @@
         "Happiny": 2,
         "Chandelure": 1,
         "Umbreon": 2,
-        "Ninjask": 1
+        "Ninjask": 1,
+        "Arctovish": 1
       },
-      "total_spawns": 3926,
-      "last_spawn": "2026-07-06T18:31:23.760749"
+      "total_spawns": 3933,
+      "last_spawn": "2026-07-06T18:32:03.804719"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1498,7 +1499,7 @@
     }
   },
   "global": {
-    "total_spawns": 69458,
+    "total_spawns": 69465,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
