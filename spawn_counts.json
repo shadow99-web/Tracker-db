@@ -223,7 +223,7 @@
         "Orthworm": 22,
         "Yamask": 4,
         "Nymble": 14,
-        "Snorunt": 5,
+        "Snorunt": 6,
         "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 3,
@@ -506,7 +506,7 @@
         "Goomy": 11,
         "Breloom": 2,
         "Rillaboom": 8,
-        "Hippopotas": 2,
+        "Hippopotas": 3,
         "Reuniclus": 1,
         "Melmetal": 1,
         "Liepard": 3,
@@ -832,10 +832,11 @@
         "Greedent": 1,
         "Galvantula": 1,
         "Drifblim": 1,
-        "Togedemaru": 1
+        "Togedemaru": 1,
+        "Jellicent": 1
       },
-      "total_spawns": 4849,
-      "last_spawn": "2026-07-06T22:42:38.209380"
+      "total_spawns": 4852,
+      "last_spawn": "2026-07-06T22:43:09.249123"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1548,7 +1549,7 @@
     }
   },
   "global": {
-    "total_spawns": 70381,
+    "total_spawns": 70384,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
