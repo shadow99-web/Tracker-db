@@ -29,7 +29,7 @@
         "Tynamo": 15,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 18,
+        "Pidgey": 19,
         "Binacle": 7,
         "Bounsweet": 36,
         "Fletchling": 22,
@@ -252,7 +252,7 @@
         "Tinkatuff": 3,
         "Drednaw": 5,
         "Corvisquire": 6,
-        "Croconaw": 5,
+        "Croconaw": 6,
         "Makuhita": 1,
         "Machamp": 1,
         "Primarina": 3,
@@ -346,7 +346,7 @@
         "Pidove": 12,
         "Chespin": 4,
         "Combee": 4,
-        "Cyndaquil": 4,
+        "Cyndaquil": 5,
         "Grotle": 4,
         "Tinkaton": 2,
         "Bergmite": 5,
@@ -524,7 +524,7 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
-        "Golett": 3,
+        "Golett": 4,
         "Politoed": 7,
         "Droopy tatsugiri": 4,
         "Volcanion": 1,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 7,
         "Xerneas": 4,
-        "Nincada": 6,
+        "Nincada": 7,
         "Audino": 2,
         "Mime jr.": 3,
         "Yungoos": 5,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 2,
         "Farfetch'd": 2,
-        "Grafaiai": 6,
+        "Grafaiai": 7,
         "Fearow": 2,
         "Squawkabilly": 5,
         "Seadra": 2,
@@ -850,8 +850,8 @@
         "Morgrem": 1,
         "Budew": 1
       },
-      "total_spawns": 5133,
-      "last_spawn": "2026-07-06T23:14:43.720615"
+      "total_spawns": 5139,
+      "last_spawn": "2026-07-06T23:15:13.998285"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1564,7 +1564,7 @@
     }
   },
   "global": {
-    "total_spawns": 70665,
+    "total_spawns": 70671,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
