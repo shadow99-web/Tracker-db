@@ -29,7 +29,7 @@
         "Tynamo": 13,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 16,
+        "Pidgey": 17,
         "Binacle": 4,
         "Bounsweet": 36,
         "Fletchling": 18,
@@ -184,7 +184,7 @@
         "Dratini": 19,
         "Steelix": 2,
         "Sprigatito": 11,
-        "Charcadet": 40,
+        "Charcadet": 41,
         "Mudsdale": 4,
         "Meowth": 15,
         "Charmander": 17,
@@ -221,7 +221,7 @@
         "Graveler": 3,
         "Duosion": 4,
         "Orthworm": 20,
-        "Yamask": 3,
+        "Yamask": 4,
         "Nymble": 14,
         "Snorunt": 5,
         "Carvanha": 4,
@@ -420,7 +420,7 @@
         "Mothim": 4,
         "Crabominable": 3,
         "Krabby": 6,
-        "Mimikyu": 4,
+        "Mimikyu": 6,
         "Hoothoot": 6,
         "Girafarig": 1,
         "Summer deerling": 1,
@@ -726,7 +726,7 @@
         "Azumarill": 1,
         "Delphox": 1,
         "Cranidos": 1,
-        "Tsareena": 1,
+        "Tsareena": 2,
         "Chansey": 1,
         "Camerupt": 2,
         "Litten": 2,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4565,
-      "last_spawn": "2026-07-06T22:13:48.290662"
+      "total_spawns": 4571,
+      "last_spawn": "2026-07-06T22:14:28.215327"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70097,
+    "total_spawns": 70103,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
