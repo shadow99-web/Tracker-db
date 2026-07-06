@@ -198,7 +198,7 @@
         "Bagon": 18,
         "Pikachu": 6,
         "Tarountula": 8,
-        "Rhyhorn": 12,
+        "Rhyhorn": 13,
         "Aipom": 4,
         "Grookey": 5,
         "Inkay": 1,
@@ -610,7 +610,7 @@
         "Cinccino": 4,
         "Alolan vulpix": 2,
         "Glameow": 1,
-        "Zweilous": 2,
+        "Zweilous": 3,
         "Azurill": 2,
         "Oshawott": 2,
         "Malamar": 1,
@@ -752,8 +752,8 @@
         "Metapod": 1,
         "Lampent": 2
       },
-      "total_spawns": 3395,
-      "last_spawn": "2026-07-06T11:28:44.456780"
+      "total_spawns": 3397,
+      "last_spawn": "2026-07-06T12:10:33.719345"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1466,7 +1466,7 @@
     }
   },
   "global": {
-    "total_spawns": 68927,
+    "total_spawns": 68929,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
