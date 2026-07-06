@@ -158,7 +158,7 @@
         "Spritzee": 1,
         "Stantler": 5,
         "Impidimp": 19,
-        "Swadloon": 4,
+        "Swadloon": 5,
         "Sunny castform": 4,
         "Vullaby": 3,
         "Venipede": 10,
@@ -549,7 +549,7 @@
         "Nincada": 2,
         "Audino": 1,
         "Mime jr.": 3,
-        "Yungoos": 1,
+        "Yungoos": 2,
         "Palpitoad": 2,
         "Smeargle": 2,
         "Appletun": 6,
@@ -617,7 +617,7 @@
         "Orange flower florges": 1,
         "Minun": 2,
         "Hangry morpeko": 2,
-        "Omanyte": 2,
+        "Omanyte": 3,
         "Mamoswine": 2,
         "Spoink": 1,
         "Dhelmise": 1,
@@ -705,10 +705,11 @@
         "Fuecoco": 1,
         "Loudred": 1,
         "Vespiquen": 1,
-        "Gastrodon": 1
+        "Gastrodon": 1,
+        "Skiddo": 1
       },
-      "total_spawns": 2790,
-      "last_spawn": "2026-07-06T07:28:55.597276"
+      "total_spawns": 2794,
+      "last_spawn": "2026-07-06T07:29:33.784082"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1421,7 +1422,7 @@
     }
   },
   "global": {
-    "total_spawns": 68322,
+    "total_spawns": 68326,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
