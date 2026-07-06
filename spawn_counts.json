@@ -195,10 +195,10 @@
         "Dj rotom": 10,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
-        "Bagon": 10,
+        "Bagon": 12,
         "Pikachu": 6,
         "Tarountula": 7,
-        "Rhyhorn": 9,
+        "Rhyhorn": 10,
         "Aipom": 3,
         "Grookey": 4,
         "Inkay": 1,
@@ -220,7 +220,7 @@
         "Shuppet": 8,
         "Graveler": 1,
         "Duosion": 3,
-        "Orthworm": 11,
+        "Orthworm": 12,
         "Yamask": 2,
         "Nymble": 10,
         "Snorunt": 2,
@@ -700,8 +700,8 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1
       },
-      "total_spawns": 2684,
-      "last_spawn": "2026-07-06T07:14:43.697872"
+      "total_spawns": 2688,
+      "last_spawn": "2026-07-06T07:15:13.741336"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1414,7 +1414,7 @@
     }
   },
   "global": {
-    "total_spawns": 68216,
+    "total_spawns": 68220,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
