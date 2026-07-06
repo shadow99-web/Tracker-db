@@ -68,7 +68,7 @@
         "Feebas": 4,
         "Prof tangrowth": 17,
         "Vulpix": 13,
-        "Gastly": 22,
+        "Gastly": 24,
         "Aron": 13,
         "Honedge": 22,
         "Houndour": 1,
@@ -175,7 +175,7 @@
         "Rolycoly": 14,
         "Poliwhirl": 4,
         "Lokix": 5,
-        "Flamigo": 8,
+        "Flamigo": 9,
         "Bellsprout": 12,
         "Houndstone": 2,
         "Beldum": 17,
@@ -747,10 +747,11 @@
         "Regigigas": 1,
         "Bisharp": 1,
         "Forretress": 1,
-        "Swampert": 2
+        "Swampert": 2,
+        "High plain vivillon": 1
       },
-      "total_spawns": 3370,
-      "last_spawn": "2026-07-06T09:56:43.611518"
+      "total_spawns": 3374,
+      "last_spawn": "2026-07-06T09:57:14.577420"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1463,7 +1464,7 @@
     }
   },
   "global": {
-    "total_spawns": 68902,
+    "total_spawns": 68906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
