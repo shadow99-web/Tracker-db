@@ -38,7 +38,7 @@
         "Abra": 27,
         "Wiglett": 16,
         "Starly": 39,
-        "Caterpie": 15,
+        "Caterpie": 16,
         "Mareep": 19,
         "Capsakid": 20,
         "Numel": 8,
@@ -525,7 +525,7 @@
         "Cosmoem": 1,
         "Copperajah": 6,
         "Golett": 4,
-        "Politoed": 7,
+        "Politoed": 8,
         "Droopy tatsugiri": 5,
         "Volcanion": 1,
         "Drapion": 2,
@@ -645,7 +645,7 @@
         "Scizor": 4,
         "Shiinotic": 7,
         "Simisage": 2,
-        "Cherubi": 5,
+        "Cherubi": 6,
         "Heatmor": 1,
         "Vikavolt": 4,
         "Eelektross": 2,
@@ -826,7 +826,7 @@
         "Gogoat": 1,
         "Beedrill": 1,
         "Sandslash": 1,
-        "Pupitar": 2,
+        "Pupitar": 3,
         "Zeraora": 2,
         "Cobalion": 2,
         "Greedent": 2,
@@ -865,8 +865,8 @@
         "Qwilfish": 2,
         "Meowscarada": 1
       },
-      "total_spawns": 5480,
-      "last_spawn": "2026-07-06T23:57:19.409889"
+      "total_spawns": 5484,
+      "last_spawn": "2026-07-06T23:58:02.090771"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 71012,
+    "total_spawns": 71016,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
