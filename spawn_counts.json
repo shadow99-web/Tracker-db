@@ -102,7 +102,7 @@
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
-        "Flittle": 12,
+        "Flittle": 13,
         "Armarouge": 3,
         "Clauncher": 2,
         "Tentacool": 1,
@@ -163,7 +163,7 @@
         "Vullaby": 3,
         "Venipede": 9,
         "Pansage": 2,
-        "Cetoddle": 7,
+        "Cetoddle": 8,
         "Togepi": 6,
         "Tandemaus": 7,
         "Clefairy": 2,
@@ -326,7 +326,7 @@
         "Sunkern": 3,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 5,
+        "Magnemite": 6,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 4,
@@ -701,8 +701,8 @@
         "Hakamo-o": 1,
         "Spidops": 1
       },
-      "total_spawns": 2707,
-      "last_spawn": "2026-07-06T07:17:33.714845"
+      "total_spawns": 2710,
+      "last_spawn": "2026-07-06T07:18:03.771672"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1415,7 +1415,7 @@
     }
   },
   "global": {
-    "total_spawns": 68239,
+    "total_spawns": 68242,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
