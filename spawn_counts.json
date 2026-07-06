@@ -157,7 +157,7 @@
         "Pikipek": 26,
         "Spritzee": 1,
         "Stantler": 6,
-        "Impidimp": 32,
+        "Impidimp": 33,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
@@ -310,7 +310,7 @@
         "Metang": 7,
         "Larvitar": 14,
         "Lumineon": 1,
-        "Kilowattrel": 3,
+        "Kilowattrel": 4,
         "Pumpkaboo": 3,
         "Petilil": 6,
         "Bombirdier": 13,
@@ -414,7 +414,7 @@
         "Cradily": 2,
         "Burmy": 1,
         "Sewaddle": 18,
-        "Shelmet": 2,
+        "Shelmet": 3,
         "Combusken": 2,
         "Croagunk": 5,
         "Mothim": 4,
@@ -697,7 +697,7 @@
         "Meditite": 1,
         "Sneasel": 4,
         "Finneon": 4,
-        "Pidgeotto": 1,
+        "Pidgeotto": 2,
         "Hakamo-o": 1,
         "Spidops": 1,
         "Glimmora": 3,
@@ -706,7 +706,7 @@
         "Loudred": 3,
         "Vespiquen": 1,
         "Gastrodon": 1,
-        "Skiddo": 5,
+        "Skiddo": 6,
         "Simisear": 4,
         "Hawlucha": 2,
         "Stunky": 4,
@@ -717,7 +717,7 @@
         "Sobble": 3,
         "Lycanroc": 1,
         "Dustox": 2,
-        "Alolan grimer": 2,
+        "Alolan grimer": 4,
         "Ursaluna": 4,
         "Blastoise": 6,
         "Wormadam": 2,
@@ -828,10 +828,12 @@
         "Sandslash": 1,
         "Pupitar": 1,
         "Zeraora": 2,
-        "Cobalion": 2
+        "Cobalion": 2,
+        "Greedent": 1,
+        "Galvantula": 1
       },
-      "total_spawns": 4818,
-      "last_spawn": "2026-07-06T22:39:48.263308"
+      "total_spawns": 4827,
+      "last_spawn": "2026-07-06T22:40:23.844759"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1546,7 @@
     }
   },
   "global": {
-    "total_spawns": 70350,
+    "total_spawns": 70359,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
