@@ -87,7 +87,7 @@
         "Shinx": 28,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 17,
+        "Pawmi": 18,
         "Sandile": 19,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -219,7 +219,7 @@
         "Donphan": 1,
         "Shuppet": 6,
         "Graveler": 1,
-        "Duosion": 2,
+        "Duosion": 3,
         "Orthworm": 9,
         "Yamask": 2,
         "Nymble": 9,
@@ -481,7 +481,7 @@
         "Complete zygarde": 3,
         "Mudbray": 3,
         "Spectrier": 1,
-        "Rufflet": 2,
+        "Rufflet": 3,
         "Lairon": 1,
         "Altaria": 1,
         "Attack deoxys": 2,
@@ -686,10 +686,11 @@
         "Magmar": 1,
         "Dedenne": 1,
         "Serperior": 1,
-        "Grapploct": 1
+        "Grapploct": 1,
+        "Vanilluxe": 1
       },
-      "total_spawns": 2542,
-      "last_spawn": "2026-07-06T04:44:18.368007"
+      "total_spawns": 2546,
+      "last_spawn": "2026-07-06T04:44:58.128140"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1402,7 +1403,7 @@
     }
   },
   "global": {
-    "total_spawns": 68074,
+    "total_spawns": 68078,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
