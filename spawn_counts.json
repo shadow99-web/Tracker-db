@@ -198,7 +198,7 @@
         "Bagon": 20,
         "Pikachu": 10,
         "Tarountula": 12,
-        "Rhyhorn": 14,
+        "Rhyhorn": 15,
         "Aipom": 4,
         "Grookey": 7,
         "Inkay": 2,
@@ -220,7 +220,7 @@
         "Shuppet": 9,
         "Graveler": 3,
         "Duosion": 4,
-        "Orthworm": 19,
+        "Orthworm": 20,
         "Yamask": 3,
         "Nymble": 13,
         "Snorunt": 4,
@@ -709,7 +709,7 @@
         "Skiddo": 4,
         "Simisear": 2,
         "Hawlucha": 2,
-        "Stunky": 3,
+        "Stunky": 4,
         "Garbodor": 2,
         "Remoraid": 2,
         "Exeggcute": 3,
@@ -793,8 +793,8 @@
         "Weezing": 1,
         "Blue flower florges": 1
       },
-      "total_spawns": 4131,
-      "last_spawn": "2026-07-06T19:11:48.303995"
+      "total_spawns": 4134,
+      "last_spawn": "2026-07-06T19:12:26.363905"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1507,7 +1507,7 @@
     }
   },
   "global": {
-    "total_spawns": 69663,
+    "total_spawns": 69666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
