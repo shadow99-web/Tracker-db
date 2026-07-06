@@ -58,7 +58,7 @@
         "Hatenna": 40,
         "Shroomish": 3,
         "Lillipup": 26,
-        "Mosslax": 30,
+        "Mosslax": 32,
         "Maushold": 3,
         "Cubchoo": 21,
         "Koffing": 7,
@@ -401,7 +401,7 @@
         "Scorbunny": 5,
         "Dubwool": 2,
         "Litleo": 5,
-        "Silcoon": 6,
+        "Silcoon": 7,
         "Snivy": 4,
         "Zorua": 8,
         "Minior": 1,
@@ -455,7 +455,7 @@
         "Slurpuff": 1,
         "Espurr": 6,
         "Pelipper": 1,
-        "Excadrill": 2,
+        "Excadrill": 4,
         "Buizel": 3,
         "Pansear": 2,
         "Yanma": 8,
@@ -709,7 +709,7 @@
         "Skiddo": 7,
         "Simisear": 6,
         "Hawlucha": 2,
-        "Stunky": 4,
+        "Stunky": 5,
         "Garbodor": 2,
         "Remoraid": 2,
         "Exeggcute": 5,
@@ -859,8 +859,8 @@
         "Whimsicott": 1,
         "Emolga": 1
       },
-      "total_spawns": 5341,
-      "last_spawn": "2026-07-06T23:38:58.618465"
+      "total_spawns": 5347,
+      "last_spawn": "2026-07-06T23:39:38.133558"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1573,7 +1573,7 @@
     }
   },
   "global": {
-    "total_spawns": 70873,
+    "total_spawns": 70879,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
