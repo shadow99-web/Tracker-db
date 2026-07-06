@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 8,
         "Oddish": 24,
-        "Totodile": 7,
+        "Totodile": 8,
         "Vanillite": 40,
         "Weedle": 25,
         "Kabutops": 2,
@@ -172,7 +172,7 @@
         "Mienshao": 2,
         "Blipbug": 36,
         "Rellor": 11,
-        "Rolycoly": 20,
+        "Rolycoly": 21,
         "Poliwhirl": 5,
         "Lokix": 11,
         "Flamigo": 10,
@@ -424,7 +424,7 @@
         "Hoothoot": 6,
         "Girafarig": 1,
         "Summer deerling": 1,
-        "Seel": 9,
+        "Seel": 10,
         "Marowak": 2,
         "Haunter": 4,
         "Dottler": 6,
@@ -549,7 +549,7 @@
         "Nincada": 6,
         "Audino": 2,
         "Mime jr.": 3,
-        "Yungoos": 4,
+        "Yungoos": 5,
         "Palpitoad": 3,
         "Smeargle": 2,
         "Appletun": 6,
@@ -837,8 +837,8 @@
         "Monferno": 1,
         "Smoochum": 1
       },
-      "total_spawns": 4919,
-      "last_spawn": "2026-07-06T22:52:38.342187"
+      "total_spawns": 4923,
+      "last_spawn": "2026-07-06T22:53:18.300533"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1551,7 +1551,7 @@
     }
   },
   "global": {
-    "total_spawns": 70451,
+    "total_spawns": 70455,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
