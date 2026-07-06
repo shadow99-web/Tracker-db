@@ -114,7 +114,7 @@
         "Shroodle": 7,
         "Ride cyclizar": 2,
         "Swinub": 14,
-        "Rattata": 5,
+        "Rattata": 6,
         "Stonjourner": 1,
         "Veluza": 18,
         "Panpour": 6,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 8,
         "Mienshao": 2,
-        "Blipbug": 25,
+        "Blipbug": 26,
         "Rellor": 7,
         "Rolycoly": 12,
         "Poliwhirl": 4,
@@ -259,11 +259,11 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
-        "Porygon": 11,
+        "Porygon": 12,
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
-        "Lickitung": 4,
+        "Lickitung": 5,
         "Chewtle": 5,
         "Onix": 2,
         "Dracovish": 2,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3196,
-      "last_spawn": "2026-07-06T09:32:53.522240"
+      "total_spawns": 3200,
+      "last_spawn": "2026-07-06T09:33:23.703487"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68728,
+    "total_spawns": 68732,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
