@@ -80,7 +80,7 @@
         "Bruxish": 1,
         "Orbeetle": 3,
         "Bramblin": 9,
-        "Stufful": 5,
+        "Stufful": 6,
         "Shelgon": 1,
         "Marshtomp": 9,
         "Squirtle": 7,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 1,
-        "Wurmple": 20,
+        "Wurmple": 21,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -737,10 +737,12 @@
         "Meowstic": 1,
         "Zangoose": 1,
         "Thievul": 1,
-        "Galarian slowbro": 2
+        "Galarian slowbro": 2,
+        "Oricorio": 1,
+        "Hitmonlee": 1
       },
-      "total_spawns": 3250,
-      "last_spawn": "2026-07-06T09:42:03.596173"
+      "total_spawns": 3254,
+      "last_spawn": "2026-07-06T09:42:43.535740"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1453,7 +1455,7 @@
     }
   },
   "global": {
-    "total_spawns": 68782,
+    "total_spawns": 68786,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
