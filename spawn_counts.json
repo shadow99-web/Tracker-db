@@ -242,7 +242,7 @@
         "Machoke": 5,
         "Luvdisc": 1,
         "Fennekin": 9,
-        "Milcery": 7,
+        "Milcery": 9,
         "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
@@ -295,7 +295,7 @@
         "Dartrix": 3,
         "Ceruledge": 2,
         "Vanillish": 4,
-        "Gimmighoul": 11,
+        "Gimmighoul": 12,
         "Glimmet": 11,
         "Popplio": 3,
         "Arboliva": 2,
@@ -719,7 +719,7 @@
         "Dustox": 2,
         "Alolan grimer": 2,
         "Ursaluna": 4,
-        "Blastoise": 2,
+        "Blastoise": 3,
         "Wormadam": 1,
         "Crustle": 1,
         "Sawk": 1,
@@ -758,10 +758,11 @@
         "Bewear": 2,
         "Indeedee": 3,
         "Beheeyem": 2,
-        "Chimecho": 1
+        "Chimecho": 2,
+        "Natu": 1
       },
-      "total_spawns": 3504,
-      "last_spawn": "2026-07-06T12:25:14.566266"
+      "total_spawns": 3510,
+      "last_spawn": "2026-07-06T12:25:53.524414"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1474,7 +1475,7 @@
     }
   },
   "global": {
-    "total_spawns": 69036,
+    "total_spawns": 69042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
