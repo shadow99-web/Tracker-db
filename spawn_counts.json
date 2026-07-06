@@ -39,7 +39,7 @@
         "Wiglett": 15,
         "Starly": 31,
         "Caterpie": 11,
-        "Mareep": 17,
+        "Mareep": 18,
         "Capsakid": 16,
         "Numel": 8,
         "Pawmo": 8,
@@ -226,7 +226,7 @@
         "Snorunt": 5,
         "Carvanha": 4,
         "Toxel": 4,
-        "Buneary": 2,
+        "Buneary": 3,
         "Gallade": 9,
         "Tangrowth": 2,
         "Sizzlipede": 5,
@@ -401,7 +401,7 @@
         "Scorbunny": 5,
         "Dubwool": 1,
         "Litleo": 5,
-        "Silcoon": 5,
+        "Silcoon": 6,
         "Snivy": 4,
         "Zorua": 8,
         "Minior": 1,
@@ -476,7 +476,7 @@
         "Poipole": 1,
         "Alolan raichu": 2,
         "Hitmontop": 2,
-        "Pignite": 3,
+        "Pignite": 4,
         "Bunnelby": 4,
         "Complete zygarde": 3,
         "Mudbray": 8,
@@ -553,7 +553,7 @@
         "Palpitoad": 3,
         "Smeargle": 2,
         "Appletun": 6,
-        "Arrokuda": 4,
+        "Arrokuda": 5,
         "Toxapex": 2,
         "Pawmot": 1,
         "Blitzle": 4,
@@ -753,7 +753,7 @@
         "Lampent": 4,
         "Roselia": 2,
         "Pineco": 1,
-        "Maractus": 2,
+        "Maractus": 4,
         "Togetic": 3,
         "Bewear": 2,
         "Indeedee": 3,
@@ -822,10 +822,11 @@
         "Mantine": 2,
         "Iron bundle": 2,
         "Gourgeist": 1,
-        "Luxray": 1
+        "Luxray": 1,
+        "Gogoat": 1
       },
-      "total_spawns": 4698,
-      "last_spawn": "2026-07-06T22:29:13.816461"
+      "total_spawns": 4706,
+      "last_spawn": "2026-07-06T22:29:48.212991"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1538,7 +1539,7 @@
     }
   },
   "global": {
-    "total_spawns": 70230,
+    "total_spawns": 70238,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
