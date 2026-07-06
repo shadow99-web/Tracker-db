@@ -34,11 +34,11 @@
         "Bounsweet": 36,
         "Fletchling": 18,
         "Whirlipede": 5,
-        "Duskull": 37,
+        "Duskull": 38,
         "Abra": 25,
         "Wiglett": 15,
         "Starly": 31,
-        "Caterpie": 9,
+        "Caterpie": 11,
         "Mareep": 17,
         "Capsakid": 16,
         "Numel": 8,
@@ -63,7 +63,7 @@
         "Cubchoo": 21,
         "Koffing": 4,
         "Kirlia": 11,
-        "Deino": 14,
+        "Deino": 15,
         "Dolliv": 5,
         "Feebas": 10,
         "Prof tangrowth": 18,
@@ -323,7 +323,7 @@
         "Skitty": 13,
         "Finizen": 15,
         "Swablu": 6,
-        "Sunkern": 4,
+        "Sunkern": 5,
         "Snubbull": 3,
         "Crocalor": 2,
         "Magnemite": 17,
@@ -372,7 +372,7 @@
         "Cresselia": 4,
         "Duraludon": 8,
         "Nidorino": 5,
-        "Rayquaza": 13,
+        "Rayquaza": 15,
         "Horsea": 14,
         "Reshiram": 3,
         "Celebi": 73,
@@ -821,10 +821,11 @@
         "Shaymin": 2,
         "Mantine": 2,
         "Iron bundle": 2,
-        "Gourgeist": 1
+        "Gourgeist": 1,
+        "Luxray": 1
       },
-      "total_spawns": 4690,
-      "last_spawn": "2026-07-06T22:28:43.782435"
+      "total_spawns": 4698,
+      "last_spawn": "2026-07-06T22:29:13.816461"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1537,7 +1538,7 @@
     }
   },
   "global": {
-    "total_spawns": 70222,
+    "total_spawns": 70230,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
