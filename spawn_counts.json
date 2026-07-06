@@ -108,7 +108,7 @@
         "Tentacool": 1,
         "Bayleef": 3,
         "Magnezone": 1,
-        "Eevee": 4,
+        "Eevee": 5,
         "Dreepy": 33,
         "Treecko": 10,
         "Shroodle": 5,
@@ -127,7 +127,7 @@
         "Flapple": 4,
         "Bronzor": 1,
         "Swirlix": 5,
-        "Varoom": 6,
+        "Varoom": 8,
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -199,7 +199,7 @@
         "Pikachu": 6,
         "Tarountula": 7,
         "Rhyhorn": 9,
-        "Aipom": 2,
+        "Aipom": 3,
         "Grookey": 4,
         "Inkay": 1,
         "Unfezant": 2,
@@ -687,10 +687,11 @@
         "Dedenne": 1,
         "Serperior": 1,
         "Grapploct": 1,
-        "Vanilluxe": 1
+        "Vanilluxe": 1,
+        "Dwebble": 1
       },
-      "total_spawns": 2574,
-      "last_spawn": "2026-07-06T04:48:38.275274"
+      "total_spawns": 2579,
+      "last_spawn": "2026-07-06T04:49:18.147228"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1403,7 +1404,7 @@
     }
   },
   "global": {
-    "total_spawns": 68106,
+    "total_spawns": 68111,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
