@@ -98,7 +98,7 @@
         "Dondozo": 9,
         "Cyclizar": 5,
         "Froslass": 2,
-        "Dodrio": 1,
+        "Dodrio": 3,
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
@@ -209,7 +209,7 @@
         "Lechonk": 14,
         "Woobat": 3,
         "Skrelp": 7,
-        "Lileep": 3,
+        "Lileep": 4,
         "Drifloon": 3,
         "Mightyena": 3,
         "Sandaconda": 1,
@@ -322,7 +322,7 @@
         "Wishiwashi": 1,
         "Skitty": 11,
         "Finizen": 12,
-        "Swablu": 5,
+        "Swablu": 6,
         "Sunkern": 4,
         "Snubbull": 1,
         "Crocalor": 2,
@@ -762,8 +762,8 @@
         "Natu": 1,
         "Gorebyss": 1
       },
-      "total_spawns": 3542,
-      "last_spawn": "2026-07-06T12:30:33.722547"
+      "total_spawns": 3546,
+      "last_spawn": "2026-07-06T12:31:03.797512"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1476,7 +1476,7 @@
     }
   },
   "global": {
-    "total_spawns": 69074,
+    "total_spawns": 69078,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
