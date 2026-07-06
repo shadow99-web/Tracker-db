@@ -34,7 +34,7 @@
         "Bounsweet": 30,
         "Fletchling": 16,
         "Whirlipede": 5,
-        "Duskull": 33,
+        "Duskull": 34,
         "Abra": 24,
         "Wiglett": 14,
         "Starly": 29,
@@ -55,7 +55,7 @@
         "Maschiff": 12,
         "Smoliv": 10,
         "Tirtouga": 6,
-        "Hatenna": 28,
+        "Hatenna": 30,
         "Shroomish": 3,
         "Lillipup": 21,
         "Mosslax": 26,
@@ -63,7 +63,7 @@
         "Cubchoo": 17,
         "Koffing": 4,
         "Kirlia": 7,
-        "Deino": 12,
+        "Deino": 13,
         "Dolliv": 4,
         "Feebas": 10,
         "Prof tangrowth": 18,
@@ -87,7 +87,7 @@
         "Shinx": 38,
         "Drakloak": 5,
         "Victini": 1,
-        "Pawmi": 33,
+        "Pawmi": 35,
         "Sandile": 25,
         "Charmeleon": 5,
         "Riolu": 16,
@@ -794,10 +794,11 @@
         "Blue flower florges": 1,
         "Dudunsparce": 1,
         "Kingler": 2,
-        "Aurorus": 2
+        "Aurorus": 2,
+        "Cacnea": 1
       },
-      "total_spawns": 4168,
-      "last_spawn": "2026-07-06T19:22:38.574908"
+      "total_spawns": 4175,
+      "last_spawn": "2026-07-06T19:23:18.256536"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1510,7 +1511,7 @@
     }
   },
   "global": {
-    "total_spawns": 69700,
+    "total_spawns": 69707,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
