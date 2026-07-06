@@ -131,7 +131,7 @@
         "Ducklett": 3,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 7,
+        "Torchic": 8,
         "Abomasnow": 3,
         "Slugma": 4,
         "Venonat": 2,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
-        "Spheal": 8,
+        "Spheal": 9,
         "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
@@ -611,7 +611,7 @@
         "Alolan vulpix": 2,
         "Glameow": 1,
         "Zweilous": 1,
-        "Azurill": 1,
+        "Azurill": 2,
         "Oshawott": 1,
         "Malamar": 1,
         "Orange flower florges": 1,
@@ -681,10 +681,11 @@
         "Okidogi": 2,
         "Wyrdeer": 2,
         "Ferroseed": 2,
-        "Musharna": 1
+        "Musharna": 1,
+        "Wingull": 1
       },
-      "total_spawns": 2515,
-      "last_spawn": "2026-07-06T04:40:18.407097"
+      "total_spawns": 2519,
+      "last_spawn": "2026-07-06T04:40:58.299902"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1397,7 +1398,7 @@
     }
   },
   "global": {
-    "total_spawns": 68047,
+    "total_spawns": 68051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
