@@ -257,7 +257,7 @@
         "Machamp": 1,
         "Primarina": 3,
         "Skeledirge": 1,
-        "Taillow": 3,
+        "Taillow": 4,
         "Watchog": 3,
         "Porygon": 17,
         "Wooloo": 4,
@@ -295,7 +295,7 @@
         "Dartrix": 4,
         "Ceruledge": 6,
         "Vanillish": 6,
-        "Gimmighoul": 16,
+        "Gimmighoul": 17,
         "Glimmet": 15,
         "Popplio": 6,
         "Arboliva": 2,
@@ -343,8 +343,8 @@
         "Gothita": 18,
         "Solosis": 17,
         "Sandygast": 5,
-        "Pidove": 12,
-        "Chespin": 4,
+        "Pidove": 13,
+        "Chespin": 5,
         "Combee": 4,
         "Cyndaquil": 5,
         "Grotle": 4,
@@ -853,8 +853,8 @@
         "Blue flower floette": 1,
         "Jumpluff": 1
       },
-      "total_spawns": 5199,
-      "last_spawn": "2026-07-06T23:20:28.495985"
+      "total_spawns": 5203,
+      "last_spawn": "2026-07-06T23:21:08.495877"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1567,7 +1567,7 @@
     }
   },
   "global": {
-    "total_spawns": 70731,
+    "total_spawns": 70735,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
