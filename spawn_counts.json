@@ -44,7 +44,7 @@
         "Numel": 8,
         "Pawmo": 7,
         "Wattrel": 13,
-        "Tadbulb": 19,
+        "Tadbulb": 20,
         "Yanmega": 1,
         "Tympole": 16,
         "Grubbin": 18,
@@ -217,7 +217,7 @@
         "Kingdra": 1,
         "Chikorita": 8,
         "Donphan": 3,
-        "Shuppet": 10,
+        "Shuppet": 11,
         "Graveler": 3,
         "Duosion": 4,
         "Orthworm": 20,
@@ -777,7 +777,7 @@
         "Lilligant": 1,
         "Fan rotom": 2,
         "Ferrothorn": 1,
-        "Piloswine": 1,
+        "Piloswine": 2,
         "Granbull": 2,
         "Happiny": 3,
         "Chandelure": 1,
@@ -805,10 +805,11 @@
         "Salazzle": 1,
         "Heracross": 2,
         "Carkol": 1,
-        "Zygarde": 1
+        "Zygarde": 2,
+        "Dewgong": 1
       },
-      "total_spawns": 4317,
-      "last_spawn": "2026-07-06T19:46:28.742627"
+      "total_spawns": 4322,
+      "last_spawn": "2026-07-06T19:49:58.661926"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1521,7 +1522,7 @@
     }
   },
   "global": {
-    "total_spawns": 69849,
+    "total_spawns": 69854,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
