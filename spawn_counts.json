@@ -49,7 +49,7 @@
         "Tympole": 17,
         "Grubbin": 21,
         "Scatterbug": 15,
-        "Skwovet": 8,
+        "Skwovet": 9,
         "Applin": 5,
         "Staryu": 3,
         "Maschiff": 14,
@@ -82,7 +82,7 @@
         "Bramblin": 13,
         "Stufful": 7,
         "Shelgon": 5,
-        "Marshtomp": 11,
+        "Marshtomp": 13,
         "Squirtle": 11,
         "Shinx": 42,
         "Drakloak": 7,
@@ -134,7 +134,7 @@
         "Torchic": 10,
         "Abomasnow": 5,
         "Slugma": 6,
-        "Venonat": 5,
+        "Venonat": 6,
         "Eelektrik": 4,
         "Diglett": 6,
         "Surskit": 6,
@@ -595,7 +595,7 @@
         "Quilava": 2,
         "Wurmple": 34,
         "Sandshrew": 4,
-        "Tauros": 3,
+        "Tauros": 4,
         "Golurk": 1,
         "Grimer": 3,
         "Frosmoth": 6,
@@ -843,8 +843,8 @@
         "Grumpig": 1,
         "Roaring moon": 2
       },
-      "total_spawns": 4983,
-      "last_spawn": "2026-07-06T23:00:48.265409"
+      "total_spawns": 4988,
+      "last_spawn": "2026-07-06T23:01:28.333549"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 70515,
+    "total_spawns": 70520,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
