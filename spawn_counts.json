@@ -37,7 +37,7 @@
         "Duskull": 20,
         "Abra": 16,
         "Wiglett": 8,
-        "Starly": 20,
+        "Starly": 21,
         "Caterpie": 5,
         "Mareep": 6,
         "Capsakid": 10,
@@ -192,7 +192,7 @@
         "Comfey": 1,
         "Diggersby": 2,
         "Klawf": 17,
-        "Dj rotom": 8,
+        "Dj rotom": 9,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
         "Bagon": 10,
@@ -679,8 +679,8 @@
         "Basculegion": 2,
         "Jolteon": 2
       },
-      "total_spawns": 2489,
-      "last_spawn": "2026-07-06T00:01:53.553950"
+      "total_spawns": 2491,
+      "last_spawn": "2026-07-06T00:03:34.145081"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -771,7 +771,7 @@
         "Wattrel": 19,
         "Nacli": 23,
         "Feebas": 3,
-        "Weedle": 13,
+        "Weedle": 14,
         "Ralts": 15,
         "Kangaskhan": 1,
         "Eldegoss": 3,
@@ -872,7 +872,7 @@
         "Clodsire": 5,
         "Sandaconda": 1,
         "Ninjask": 1,
-        "Pidove": 8,
+        "Pidove": 9,
         "Larvitar": 11,
         "Munna": 1,
         "Tangela": 5,
@@ -1101,7 +1101,7 @@
         "Noibat": 1,
         "Turtwig": 3,
         "Snubbull": 3,
-        "Gogoat": 1,
+        "Gogoat": 2,
         "Morelull": 5,
         "Dewott": 4,
         "Kingambit": 3,
@@ -1386,12 +1386,12 @@
         "Honchkrow": 1,
         "Krabby": 1
       },
-      "total_spawns": 2959,
-      "last_spawn": "2026-07-06T00:02:54.494522"
+      "total_spawns": 2962,
+      "last_spawn": "2026-07-06T00:03:24.455521"
     }
   },
   "global": {
-    "total_spawns": 67987,
+    "total_spawns": 67992,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
