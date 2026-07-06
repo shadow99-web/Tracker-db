@@ -29,7 +29,7 @@
         "Tynamo": 15,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 17,
+        "Pidgey": 18,
         "Binacle": 6,
         "Bounsweet": 36,
         "Fletchling": 21,
@@ -66,7 +66,7 @@
         "Deino": 17,
         "Dolliv": 5,
         "Feebas": 10,
-        "Prof tangrowth": 19,
+        "Prof tangrowth": 20,
         "Vulpix": 15,
         "Gastly": 44,
         "Aron": 25,
@@ -116,7 +116,7 @@
         "Swinub": 22,
         "Rattata": 8,
         "Stonjourner": 1,
-        "Veluza": 26,
+        "Veluza": 28,
         "Panpour": 6,
         "Crabrawler": 4,
         "Frogadier": 4,
@@ -843,8 +843,8 @@
         "Grumpig": 1,
         "Roaring moon": 2
       },
-      "total_spawns": 4992,
-      "last_spawn": "2026-07-06T23:01:58.587024"
+      "total_spawns": 4996,
+      "last_spawn": "2026-07-06T23:02:31.939859"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 70524,
+    "total_spawns": 70528,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
