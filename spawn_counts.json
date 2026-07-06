@@ -53,7 +53,7 @@
         "Applin": 3,
         "Staryu": 2,
         "Maschiff": 11,
-        "Smoliv": 9,
+        "Smoliv": 10,
         "Tirtouga": 6,
         "Hatenna": 28,
         "Shroomish": 3,
@@ -68,7 +68,7 @@
         "Feebas": 10,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 32,
+        "Gastly": 34,
         "Aron": 20,
         "Honedge": 32,
         "Houndour": 1,
@@ -168,7 +168,7 @@
         "Tandemaus": 13,
         "Clefairy": 3,
         "Unown q": 1,
-        "Lotad": 12,
+        "Lotad": 13,
         "Mienshao": 2,
         "Blipbug": 30,
         "Rellor": 9,
@@ -730,7 +730,7 @@
         "Chansey": 1,
         "Camerupt": 2,
         "Litten": 2,
-        "Gossifleur": 2,
+        "Gossifleur": 3,
         "Electivire": 1,
         "Farigiraf": 1,
         "Raichu": 1,
@@ -795,8 +795,8 @@
         "Dudunsparce": 1,
         "Kingler": 2
       },
-      "total_spawns": 4144,
-      "last_spawn": "2026-07-06T19:13:28.505918"
+      "total_spawns": 4149,
+      "last_spawn": "2026-07-06T19:14:08.398466"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1509,7 +1509,7 @@
     }
   },
   "global": {
-    "total_spawns": 69676,
+    "total_spawns": 69681,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
