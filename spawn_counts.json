@@ -156,7 +156,7 @@
         "Wooper": 5,
         "Pikipek": 28,
         "Spritzee": 1,
-        "Stantler": 6,
+        "Stantler": 7,
         "Impidimp": 33,
         "Swadloon": 6,
         "Sunny castform": 4,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 15,
         "Mienshao": 2,
-        "Blipbug": 34,
+        "Blipbug": 36,
         "Rellor": 11,
         "Rolycoly": 20,
         "Poliwhirl": 5,
@@ -392,7 +392,7 @@
         "Throh": 4,
         "Sentret": 10,
         "Houndoom": 1,
-        "Meganium": 4,
+        "Meganium": 6,
         "Rainy castform": 3,
         "Rabsca": 4,
         "Misdreavus": 4,
@@ -835,8 +835,8 @@
         "Togedemaru": 1,
         "Jellicent": 1
       },
-      "total_spawns": 4874,
-      "last_spawn": "2026-07-06T22:46:18.287482"
+      "total_spawns": 4879,
+      "last_spawn": "2026-07-06T22:46:48.392901"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1549,7 +1549,7 @@
     }
   },
   "global": {
-    "total_spawns": 70406,
+    "total_spawns": 70411,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
