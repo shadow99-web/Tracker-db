@@ -195,7 +195,7 @@
         "Dj rotom": 10,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
-        "Bagon": 12,
+        "Bagon": 14,
         "Pikachu": 6,
         "Tarountula": 7,
         "Rhyhorn": 11,
@@ -311,7 +311,7 @@
         "Larvitar": 8,
         "Lumineon": 1,
         "Kilowattrel": 2,
-        "Pumpkaboo": 2,
+        "Pumpkaboo": 3,
         "Petilil": 3,
         "Bombirdier": 9,
         "Bellibolt": 4,
@@ -379,7 +379,7 @@
         "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 2,
-        "Slakoth": 6,
+        "Slakoth": 7,
         "Klink": 8,
         "Mesprit": 1,
         "Azelf": 2,
@@ -502,7 +502,7 @@
         "Kubfu": 1,
         "Tyrogue": 2,
         "Nuzleaf": 4,
-        "Spinarak": 1,
+        "Spinarak": 2,
         "Goomy": 4,
         "Breloom": 1,
         "Rillaboom": 6,
@@ -581,7 +581,7 @@
         "Probopass": 1,
         "Family of three maushold": 1,
         "Scyther": 4,
-        "Polteageist": 1,
+        "Polteageist": 2,
         "Lombre": 3,
         "Dachsbun": 3,
         "Primeape": 4,
@@ -683,7 +683,7 @@
         "Ferroseed": 2,
         "Musharna": 1,
         "Wingull": 3,
-        "Magmar": 1,
+        "Magmar": 2,
         "Dedenne": 1,
         "Serperior": 1,
         "Grapploct": 1,
@@ -710,10 +710,11 @@
         "Simisear": 2,
         "Hawlucha": 2,
         "Stunky": 1,
-        "Garbodor": 2
+        "Garbodor": 2,
+        "Remoraid": 1
       },
-      "total_spawns": 2839,
-      "last_spawn": "2026-07-06T07:32:48.375211"
+      "total_spawns": 2847,
+      "last_spawn": "2026-07-06T07:33:23.599358"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1426,7 +1427,7 @@
     }
   },
   "global": {
-    "total_spawns": 68371,
+    "total_spawns": 68379,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
