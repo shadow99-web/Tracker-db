@@ -32,7 +32,7 @@
         "Pidgey": 20,
         "Binacle": 7,
         "Bounsweet": 36,
-        "Fletchling": 23,
+        "Fletchling": 24,
         "Whirlipede": 5,
         "Duskull": 44,
         "Abra": 26,
@@ -91,7 +91,7 @@
         "Sandile": 31,
         "Charmeleon": 7,
         "Riolu": 16,
-        "Gible": 26,
+        "Gible": 28,
         "Greavard": 34,
         "Snover": 7,
         "Piplup": 5,
@@ -129,7 +129,7 @@
         "Swirlix": 7,
         "Varoom": 26,
         "Ducklett": 5,
-        "Three-segment dudunsparce": 1,
+        "Three-segment dudunsparce": 2,
         "Sandy burmy": 1,
         "Torchic": 10,
         "Abomasnow": 5,
@@ -855,8 +855,8 @@
         "Basculin": 1,
         "Clobbopus": 1
       },
-      "total_spawns": 5245,
-      "last_spawn": "2026-07-06T23:26:29.495464"
+      "total_spawns": 5249,
+      "last_spawn": "2026-07-06T23:27:08.214346"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1569,7 +1569,7 @@
     }
   },
   "global": {
-    "total_spawns": 70777,
+    "total_spawns": 70781,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
