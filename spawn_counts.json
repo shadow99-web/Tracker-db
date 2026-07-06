@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 8,
         "Oddish": 24,
-        "Totodile": 10,
+        "Totodile": 11,
         "Vanillite": 42,
         "Weedle": 27,
         "Kabutops": 2,
@@ -67,14 +67,14 @@
         "Dolliv": 5,
         "Feebas": 10,
         "Prof tangrowth": 21,
-        "Vulpix": 15,
+        "Vulpix": 17,
         "Gastly": 44,
         "Aron": 26,
         "Honedge": 42,
         "Houndour": 1,
         "Machop": 17,
         "Terapagos": 1,
-        "Mankey": 7,
+        "Mankey": 8,
         "Torterra": 1,
         "Salandit": 6,
         "Bruxish": 1,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 13,
         "Butterfree": 3,
-        "Teddiursa": 46,
+        "Teddiursa": 48,
         "Roggenrola": 28,
         "Litwick": 15,
         "Wooper": 6,
@@ -854,8 +854,8 @@
         "Jumpluff": 1,
         "Basculin": 1
       },
-      "total_spawns": 5230,
-      "last_spawn": "2026-07-06T23:24:48.560239"
+      "total_spawns": 5236,
+      "last_spawn": "2026-07-06T23:25:28.175021"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1568,7 +1568,7 @@
     }
   },
   "global": {
-    "total_spawns": 70762,
+    "total_spawns": 70768,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
