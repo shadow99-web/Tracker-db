@@ -35,7 +35,7 @@
         "Fletchling": 14,
         "Whirlipede": 4,
         "Duskull": 32,
-        "Abra": 23,
+        "Abra": 24,
         "Wiglett": 14,
         "Starly": 29,
         "Caterpie": 9,
@@ -76,7 +76,7 @@
         "Terapagos": 1,
         "Mankey": 5,
         "Torterra": 1,
-        "Salandit": 5,
+        "Salandit": 6,
         "Bruxish": 1,
         "Orbeetle": 3,
         "Bramblin": 11,
@@ -101,7 +101,7 @@
         "Dodrio": 5,
         "Metagross": 4,
         "Corphish": 3,
-        "Doduo": 4,
+        "Doduo": 5,
         "Flittle": 16,
         "Armarouge": 3,
         "Clauncher": 4,
@@ -427,7 +427,7 @@
         "Seel": 4,
         "Marowak": 2,
         "Haunter": 4,
-        "Dottler": 1,
+        "Dottler": 2,
         "Wailmer": 3,
         "Frigibax": 35,
         "Iron valiant": 2,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 3988,
-      "last_spawn": "2026-07-06T18:38:23.713378"
+      "total_spawns": 3992,
+      "last_spawn": "2026-07-06T18:39:03.831117"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69520,
+    "total_spawns": 69524,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
