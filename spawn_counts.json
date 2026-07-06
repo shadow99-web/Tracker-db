@@ -188,8 +188,8 @@
         "Mudsdale": 4,
         "Meowth": 15,
         "Charmander": 17,
-        "Wimpod": 10,
-        "Comfey": 3,
+        "Wimpod": 11,
+        "Comfey": 5,
         "Diggersby": 2,
         "Klawf": 31,
         "Dj rotom": 17,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 45,
+        "Axew": 47,
         "Joltik": 5,
         "Gulpin": 5,
         "Mareanie": 4,
@@ -398,7 +398,7 @@
         "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
-        "Scorbunny": 4,
+        "Scorbunny": 5,
         "Dubwool": 1,
         "Litleo": 5,
         "Silcoon": 5,
@@ -819,8 +819,8 @@
         "Silicobra": 1,
         "Durant": 2
       },
-      "total_spawns": 4650,
-      "last_spawn": "2026-07-06T22:24:48.249777"
+      "total_spawns": 4656,
+      "last_spawn": "2026-07-06T22:25:18.284484"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1533,7 +1533,7 @@
     }
   },
   "global": {
-    "total_spawns": 70182,
+    "total_spawns": 70188,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
