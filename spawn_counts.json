@@ -42,7 +42,7 @@
         "Mareep": 11,
         "Capsakid": 13,
         "Numel": 6,
-        "Pawmo": 5,
+        "Pawmo": 6,
         "Wattrel": 11,
         "Tadbulb": 13,
         "Yanmega": 1,
@@ -610,7 +610,7 @@
         "Cinccino": 4,
         "Alolan vulpix": 2,
         "Glameow": 1,
-        "Zweilous": 1,
+        "Zweilous": 2,
         "Azurill": 2,
         "Oshawott": 2,
         "Malamar": 1,
@@ -752,8 +752,8 @@
         "Metapod": 1,
         "Lampent": 2
       },
-      "total_spawns": 3393,
-      "last_spawn": "2026-07-06T10:38:33.542806"
+      "total_spawns": 3395,
+      "last_spawn": "2026-07-06T11:28:44.456780"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1466,7 +1466,7 @@
     }
   },
   "global": {
-    "total_spawns": 68925,
+    "total_spawns": 68927,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
