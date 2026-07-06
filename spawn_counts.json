@@ -233,7 +233,7 @@
         "Skuntank": 1,
         "Palafin": 6,
         "Timburr": 14,
-        "Shellos": 1,
+        "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 2,
         "Whismur": 13,
@@ -429,7 +429,7 @@
         "Haunter": 3,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 29,
+        "Frigibax": 31,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 4,
@@ -592,7 +592,7 @@
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 2,
-        "Quilava": 1,
+        "Quilava": 2,
         "Wurmple": 24,
         "Sandshrew": 2,
         "Tauros": 3,
@@ -761,8 +761,8 @@
         "Chimecho": 2,
         "Natu": 1
       },
-      "total_spawns": 3517,
-      "last_spawn": "2026-07-06T12:26:53.650332"
+      "total_spawns": 3521,
+      "last_spawn": "2026-07-06T12:27:25.455378"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1475,7 +1475,7 @@
     }
   },
   "global": {
-    "total_spawns": 69049,
+    "total_spawns": 69053,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
