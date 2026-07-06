@@ -21,7 +21,7 @@
         "Hatterene": 3,
         "Rowlet": 7,
         "Anorith": 3,
-        "Arctibax": 2,
+        "Arctibax": 3,
         "Ralts": 14,
         "Peakychu": 23,
         "Cutiefly": 4,
@@ -316,7 +316,7 @@
         "Bombirdier": 11,
         "Bellibolt": 5,
         "Toedscool": 6,
-        "Paras": 3,
+        "Paras": 4,
         "Fletchinder": 2,
         "Staravia": 1,
         "Wishiwashi": 1,
@@ -350,7 +350,7 @@
         "Grotle": 4,
         "Tinkaton": 1,
         "Bergmite": 5,
-        "Klang": 2,
+        "Klang": 3,
         "Tepig": 2,
         "Spinda": 1,
         "Phantump": 2,
@@ -366,7 +366,7 @@
         "Dusclops": 3,
         "Prinplup": 1,
         "Kommo-o": 1,
-        "Vigoroth": 4,
+        "Vigoroth": 5,
         "Gigalith": 1,
         "Kingambit": 2,
         "Cresselia": 3,
@@ -754,8 +754,8 @@
         "Roselia": 1,
         "Pineco": 1
       },
-      "total_spawns": 3426,
-      "last_spawn": "2026-07-06T12:14:43.979939"
+      "total_spawns": 3430,
+      "last_spawn": "2026-07-06T12:15:33.601060"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1468,7 +1468,7 @@
     }
   },
   "global": {
-    "total_spawns": 68958,
+    "total_spawns": 68962,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
