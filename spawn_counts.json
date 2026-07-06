@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 6,
-        "Oddish": 14,
+        "Oddish": 15,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 15,
@@ -371,7 +371,7 @@
         "Kingambit": 1,
         "Cresselia": 3,
         "Duraludon": 6,
-        "Nidorino": 3,
+        "Nidorino": 4,
         "Rayquaza": 13,
         "Horsea": 11,
         "Reshiram": 3,
@@ -603,7 +603,7 @@
         "Cubone": 1,
         "Conkeldurr": 1,
         "Sinistea": 1,
-        "Golbat": 3,
+        "Golbat": 4,
         "Amoonguss": 2,
         "Herdier": 1,
         "Blissey": 2,
@@ -707,8 +707,8 @@
         "Vespiquen": 1,
         "Gastrodon": 1
       },
-      "total_spawns": 2782,
-      "last_spawn": "2026-07-06T07:27:53.770322"
+      "total_spawns": 2785,
+      "last_spawn": "2026-07-06T07:28:23.699042"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1421,7 +1421,7 @@
     }
   },
   "global": {
-    "total_spawns": 68314,
+    "total_spawns": 68317,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
