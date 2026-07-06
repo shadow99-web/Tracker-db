@@ -373,7 +373,7 @@
         "Duraludon": 6,
         "Nidorino": 4,
         "Rayquaza": 13,
-        "Horsea": 11,
+        "Horsea": 12,
         "Reshiram": 3,
         "Celebi": 1,
         "Morelull": 3,
@@ -421,7 +421,7 @@
         "Crabominable": 3,
         "Krabby": 4,
         "Mimikyu": 4,
-        "Hoothoot": 3,
+        "Hoothoot": 4,
         "Girafarig": 1,
         "Summer deerling": 1,
         "Seel": 4,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
-        "Spheal": 11,
+        "Spheal": 12,
         "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
@@ -730,10 +730,11 @@
         "Chansey": 1,
         "Camerupt": 1,
         "Litten": 1,
-        "Gossifleur": 1
+        "Gossifleur": 1,
+        "Electivire": 1
       },
-      "total_spawns": 3127,
-      "last_spawn": "2026-07-06T07:58:03.668273"
+      "total_spawns": 3131,
+      "last_spawn": "2026-07-06T07:58:43.633114"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1446,7 +1447,7 @@
     }
   },
   "global": {
-    "total_spawns": 68659,
+    "total_spawns": 68663,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
