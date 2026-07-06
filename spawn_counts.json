@@ -39,7 +39,7 @@
         "Wiglett": 11,
         "Starly": 27,
         "Caterpie": 8,
-        "Mareep": 10,
+        "Mareep": 11,
         "Capsakid": 13,
         "Numel": 6,
         "Pawmo": 4,
@@ -87,7 +87,7 @@
         "Shinx": 32,
         "Drakloak": 5,
         "Victini": 1,
-        "Pawmi": 25,
+        "Pawmi": 27,
         "Sandile": 23,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -105,7 +105,7 @@
         "Flittle": 15,
         "Armarouge": 3,
         "Clauncher": 3,
-        "Tentacool": 1,
+        "Tentacool": 2,
         "Bayleef": 4,
         "Magnezone": 1,
         "Eevee": 8,
@@ -217,7 +217,7 @@
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 3,
-        "Shuppet": 8,
+        "Shuppet": 9,
         "Graveler": 1,
         "Duosion": 3,
         "Orthworm": 16,
@@ -741,12 +741,12 @@
         "Oricorio": 1,
         "Hitmonlee": 1,
         "Sudowoodo": 1,
-        "Yveltal": 2,
+        "Yveltal": 3,
         "Illumise": 1,
         "Aggron": 1
       },
-      "total_spawns": 3318,
-      "last_spawn": "2026-07-06T09:50:14.095885"
+      "total_spawns": 3324,
+      "last_spawn": "2026-07-06T09:50:53.612678"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1459,7 +1459,7 @@
     }
   },
   "global": {
-    "total_spawns": 68850,
+    "total_spawns": 68856,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
