@@ -47,7 +47,7 @@
         "Tadbulb": 9,
         "Yanmega": 1,
         "Tympole": 10,
-        "Grubbin": 9,
+        "Grubbin": 10,
         "Scatterbug": 8,
         "Skwovet": 5,
         "Applin": 3,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 19,
+        "Frigibax": 21,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 2,
@@ -693,8 +693,8 @@
         "Pachirisu": 1,
         "Furret": 2
       },
-      "total_spawns": 2622,
-      "last_spawn": "2026-07-06T04:53:38.167616"
+      "total_spawns": 2625,
+      "last_spawn": "2026-07-06T04:57:06.438066"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1407,7 +1407,7 @@
     }
   },
   "global": {
-    "total_spawns": 68154,
+    "total_spawns": 68157,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
