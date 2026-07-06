@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 25,
+        "Varoom": 26,
         "Ducklett": 5,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -173,7 +173,7 @@
         "Blipbug": 38,
         "Rellor": 11,
         "Rolycoly": 21,
-        "Poliwhirl": 5,
+        "Poliwhirl": 6,
         "Lokix": 11,
         "Flamigo": 11,
         "Bellsprout": 14,
@@ -703,7 +703,7 @@
         "Glimmora": 3,
         "Parasect": 1,
         "Fuecoco": 3,
-        "Loudred": 5,
+        "Loudred": 6,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 6,
@@ -852,10 +852,11 @@
         "Dragapult": 2,
         "Blue flower floette": 1,
         "Jumpluff": 1,
-        "Basculin": 1
+        "Basculin": 1,
+        "Clobbopus": 1
       },
-      "total_spawns": 5241,
-      "last_spawn": "2026-07-06T23:25:58.236173"
+      "total_spawns": 5245,
+      "last_spawn": "2026-07-06T23:26:29.495464"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1568,7 +1569,7 @@
     }
   },
   "global": {
-    "total_spawns": 70773,
+    "total_spawns": 70777,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
