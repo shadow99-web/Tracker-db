@@ -13,7 +13,7 @@
         "Oddish": 14,
         "Totodile": 3,
         "Vanillite": 28,
-        "Weedle": 13,
+        "Weedle": 14,
         "Kabutops": 2,
         "Poliwag": 11,
         "Fidough": 9,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 6,
         "Butterfree": 3,
-        "Teddiursa": 20,
+        "Teddiursa": 22,
         "Roggenrola": 14,
         "Litwick": 6,
         "Wooper": 2,
@@ -361,7 +361,7 @@
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 7,
-        "Rockruff": 2,
+        "Rockruff": 3,
         "Snowy castform": 1,
         "Dusclops": 2,
         "Prinplup": 1,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 17,
+        "Frigibax": 19,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 2,
@@ -444,7 +444,7 @@
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
         "Smearguru": 8,
-        "Magneton": 1,
+        "Magneton": 2,
         "Battle cyclizar": 1,
         "Minccino": 2,
         "Hippowdon": 2,
@@ -573,7 +573,7 @@
         "Baltoy": 1,
         "Karrablast": 1,
         "Volbeat": 1,
-        "Murkrow": 2,
+        "Murkrow": 3,
         "Venusaur": 2,
         "Quaquaval": 1,
         "Boldore": 1,
@@ -689,10 +689,11 @@
         "Grapploct": 1,
         "Vanilluxe": 1,
         "Dwebble": 1,
-        "Banette": 2
+        "Banette": 2,
+        "Pachirisu": 1
       },
-      "total_spawns": 2597,
-      "last_spawn": "2026-07-06T04:51:25.385862"
+      "total_spawns": 2606,
+      "last_spawn": "2026-07-06T04:51:58.094589"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1405,7 +1406,7 @@
     }
   },
   "global": {
-    "total_spawns": 68129,
+    "total_spawns": 68138,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
