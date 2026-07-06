@@ -19,7 +19,7 @@
         "Fidough": 13,
         "Charjabug": 2,
         "Hatterene": 3,
-        "Rowlet": 3,
+        "Rowlet": 4,
         "Anorith": 3,
         "Arctibax": 2,
         "Ralts": 14,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 8,
         "Mienshao": 2,
-        "Blipbug": 22,
+        "Blipbug": 24,
         "Rellor": 7,
         "Rolycoly": 12,
         "Poliwhirl": 4,
@@ -516,7 +516,7 @@
         "Low key toxtricity": 2,
         "Nidorina": 3,
         "Bronzong": 2,
-        "Foongus": 2,
+        "Foongus": 3,
         "Krookodile": 1,
         "Espathra": 2,
         "Snom": 4,
@@ -733,8 +733,8 @@
         "Gossifleur": 1,
         "Electivire": 1
       },
-      "total_spawns": 3142,
-      "last_spawn": "2026-07-06T08:07:38.335010"
+      "total_spawns": 3146,
+      "last_spawn": "2026-07-06T08:08:08.875954"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1447,7 +1447,7 @@
     }
   },
   "global": {
-    "total_spawns": 68674,
+    "total_spawns": 68678,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
