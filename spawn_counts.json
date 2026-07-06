@@ -54,7 +54,7 @@
         "Staryu": 2,
         "Maschiff": 8,
         "Smoliv": 9,
-        "Tirtouga": 5,
+        "Tirtouga": 6,
         "Hatenna": 20,
         "Shroomish": 3,
         "Lillipup": 19,
@@ -68,7 +68,7 @@
         "Feebas": 6,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 26,
+        "Gastly": 27,
         "Aron": 17,
         "Honedge": 26,
         "Houndour": 1,
@@ -161,10 +161,10 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
-        "Venipede": 15,
+        "Venipede": 16,
         "Pansage": 3,
         "Cetoddle": 13,
-        "Togepi": 9,
+        "Togepi": 10,
         "Tandemaus": 13,
         "Clefairy": 2,
         "Unown q": 1,
@@ -264,7 +264,7 @@
         "Mawile": 3,
         "Marill": 1,
         "Lickitung": 5,
-        "Chewtle": 5,
+        "Chewtle": 6,
         "Onix": 3,
         "Dracovish": 2,
         "Slowpoke": 3,
@@ -315,7 +315,7 @@
         "Petilil": 5,
         "Bombirdier": 11,
         "Bellibolt": 6,
-        "Toedscool": 6,
+        "Toedscool": 7,
         "Paras": 4,
         "Fletchinder": 2,
         "Staravia": 1,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 2,
-        "Wurmple": 26,
+        "Wurmple": 28,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -773,8 +773,8 @@
         "Cinderace": 2,
         "Cramorant": 1
       },
-      "total_spawns": 3664,
-      "last_spawn": "2026-07-06T12:42:04.354734"
+      "total_spawns": 3672,
+      "last_spawn": "2026-07-06T12:42:38.207450"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1487,7 +1487,7 @@
     }
   },
   "global": {
-    "total_spawns": 69196,
+    "total_spawns": 69204,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
