@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 8,
-        "Anorith": 6,
+        "Anorith": 7,
         "Arctibax": 3,
         "Ralts": 32,
         "Peakychu": 25,
@@ -66,7 +66,7 @@
         "Deino": 16,
         "Dolliv": 5,
         "Feebas": 10,
-        "Prof tangrowth": 18,
+        "Prof tangrowth": 19,
         "Vulpix": 15,
         "Gastly": 40,
         "Aron": 24,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 13,
         "Butterfree": 3,
-        "Teddiursa": 38,
+        "Teddiursa": 40,
         "Roggenrola": 28,
         "Litwick": 14,
         "Wooper": 5,
@@ -310,7 +310,7 @@
         "Metang": 7,
         "Larvitar": 14,
         "Lumineon": 1,
-        "Kilowattrel": 4,
+        "Kilowattrel": 5,
         "Pumpkaboo": 3,
         "Petilil": 6,
         "Bombirdier": 13,
@@ -835,8 +835,8 @@
         "Togedemaru": 1,
         "Jellicent": 1
       },
-      "total_spawns": 4852,
-      "last_spawn": "2026-07-06T22:43:09.249123"
+      "total_spawns": 4857,
+      "last_spawn": "2026-07-06T22:43:48.280829"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1549,7 +1549,7 @@
     }
   },
   "global": {
-    "total_spawns": 70384,
+    "total_spawns": 70389,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
