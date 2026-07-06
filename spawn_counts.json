@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 7,
-        "Oddish": 19,
+        "Oddish": 20,
         "Totodile": 3,
         "Vanillite": 30,
         "Weedle": 23,
@@ -520,7 +520,7 @@
         "Krookodile": 1,
         "Espathra": 4,
         "Snom": 4,
-        "Nickit": 5,
+        "Nickit": 6,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -781,8 +781,8 @@
         "Granbull": 2,
         "Happiny": 2
       },
-      "total_spawns": 3826,
-      "last_spawn": "2026-07-06T18:06:58.841116"
+      "total_spawns": 3828,
+      "last_spawn": "2026-07-06T18:10:40.093989"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1495,7 +1495,7 @@
     }
   },
   "global": {
-    "total_spawns": 69358,
+    "total_spawns": 69360,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
