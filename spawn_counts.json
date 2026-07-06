@@ -488,10 +488,10 @@
         "Mudkip": 10,
         "Galarian zapdos": 1,
         "Empoleon": 1,
-        "Voltorb": 2,
+        "Voltorb": 3,
         "Hitmonchan": 1,
         "Pidgeot": 2,
-        "Alakazam": 7,
+        "Alakazam": 8,
         "Mismagius": 3,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
@@ -735,7 +735,7 @@
         "Farigiraf": 2,
         "Raichu": 1,
         "Meowstic": 1,
-        "Zangoose": 1,
+        "Zangoose": 2,
         "Thievul": 2,
         "Galarian slowbro": 2,
         "Oricorio": 1,
@@ -836,8 +836,8 @@
         "Jellicent": 1,
         "Monferno": 1
       },
-      "total_spawns": 4899,
-      "last_spawn": "2026-07-06T22:49:48.339037"
+      "total_spawns": 4902,
+      "last_spawn": "2026-07-06T22:50:18.596167"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1550,7 +1550,7 @@
     }
   },
   "global": {
-    "total_spawns": 70431,
+    "total_spawns": 70434,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
