@@ -60,7 +60,7 @@
         "Lillipup": 14,
         "Mosslax": 22,
         "Maushold": 3,
-        "Cubchoo": 11,
+        "Cubchoo": 13,
         "Koffing": 4,
         "Kirlia": 7,
         "Deino": 11,
@@ -96,7 +96,7 @@
         "Snover": 5,
         "Piplup": 2,
         "Dondozo": 7,
-        "Cyclizar": 4,
+        "Cyclizar": 5,
         "Froslass": 1,
         "Dodrio": 1,
         "Metagross": 4,
@@ -148,7 +148,7 @@
         "Turtwig": 5,
         "Fomantis": 5,
         "Claydol": 1,
-        "Trapinch": 7,
+        "Trapinch": 8,
         "Butterfree": 3,
         "Teddiursa": 26,
         "Roggenrola": 20,
@@ -729,8 +729,8 @@
         "Tsareena": 1,
         "Chansey": 1
       },
-      "total_spawns": 3095,
-      "last_spawn": "2026-07-06T07:53:23.694824"
+      "total_spawns": 3099,
+      "last_spawn": "2026-07-06T07:53:53.998574"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1443,7 +1443,7 @@
     }
   },
   "global": {
-    "total_spawns": 68627,
+    "total_spawns": 68631,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
