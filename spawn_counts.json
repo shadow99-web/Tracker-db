@@ -427,7 +427,7 @@
         "Seel": 8,
         "Marowak": 2,
         "Haunter": 4,
-        "Dottler": 4,
+        "Dottler": 5,
         "Wailmer": 3,
         "Frigibax": 35,
         "Iron valiant": 2,
@@ -505,7 +505,7 @@
         "Spinarak": 5,
         "Goomy": 9,
         "Breloom": 1,
-        "Rillaboom": 7,
+        "Rillaboom": 8,
         "Hippopotas": 2,
         "Reuniclus": 1,
         "Melmetal": 1,
@@ -547,7 +547,7 @@
         "Tatsugiri": 6,
         "Xerneas": 4,
         "Nincada": 4,
-        "Audino": 1,
+        "Audino": 2,
         "Mime jr.": 3,
         "Yungoos": 4,
         "Palpitoad": 3,
@@ -685,7 +685,7 @@
         "Wingull": 3,
         "Magmar": 2,
         "Dedenne": 2,
-        "Serperior": 1,
+        "Serperior": 2,
         "Grapploct": 2,
         "Vanilluxe": 1,
         "Dwebble": 3,
@@ -811,8 +811,8 @@
         "Lunala": 1,
         "Sneasler": 4
       },
-      "total_spawns": 4439,
-      "last_spawn": "2026-07-06T21:56:48.404480"
+      "total_spawns": 4443,
+      "last_spawn": "2026-07-06T21:57:19.396553"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1525,7 +1525,7 @@
     }
   },
   "global": {
-    "total_spawns": 69971,
+    "total_spawns": 69975,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
