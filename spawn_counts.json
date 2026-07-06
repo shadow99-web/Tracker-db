@@ -23,7 +23,7 @@
         "Anorith": 3,
         "Arctibax": 1,
         "Ralts": 14,
-        "Peakychu": 21,
+        "Peakychu": 23,
         "Cutiefly": 3,
         "Simipour": 2,
         "Tynamo": 10,
@@ -37,7 +37,7 @@
         "Duskull": 24,
         "Abra": 16,
         "Wiglett": 9,
-        "Starly": 23,
+        "Starly": 25,
         "Caterpie": 6,
         "Mareep": 8,
         "Capsakid": 12,
@@ -70,7 +70,7 @@
         "Vulpix": 11,
         "Gastly": 20,
         "Aron": 10,
-        "Honedge": 21,
+        "Honedge": 22,
         "Houndour": 1,
         "Machop": 12,
         "Terapagos": 1,
@@ -162,7 +162,7 @@
         "Sunny castform": 4,
         "Vullaby": 3,
         "Venipede": 11,
-        "Pansage": 2,
+        "Pansage": 3,
         "Cetoddle": 10,
         "Togepi": 7,
         "Tandemaus": 9,
@@ -395,7 +395,7 @@
         "Meganium": 4,
         "Rainy castform": 3,
         "Rabsca": 2,
-        "Misdreavus": 1,
+        "Misdreavus": 2,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 2,
@@ -721,10 +721,12 @@
         "Ursaluna": 2,
         "Blastoise": 2,
         "Wormadam": 1,
-        "Crustle": 1
+        "Crustle": 1,
+        "Sawk": 1,
+        "Azumarill": 1
       },
-      "total_spawns": 2986,
-      "last_spawn": "2026-07-06T07:43:28.294445"
+      "total_spawns": 2995,
+      "last_spawn": "2026-07-06T07:43:58.796410"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1437,7 +1439,7 @@
     }
   },
   "global": {
-    "total_spawns": 68518,
+    "total_spawns": 68527,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
