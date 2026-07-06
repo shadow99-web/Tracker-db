@@ -220,7 +220,7 @@
         "Shuppet": 6,
         "Graveler": 1,
         "Duosion": 2,
-        "Orthworm": 8,
+        "Orthworm": 9,
         "Yamask": 2,
         "Nymble": 9,
         "Snorunt": 2,
@@ -539,7 +539,7 @@
         "Shuckle": 2,
         "White flower floette": 2,
         "Octillery": 2,
-        "Pawniard": 1,
+        "Pawniard": 2,
         "Brionne": 3,
         "Zarude": 2,
         "Yamper": 1,
@@ -680,10 +680,11 @@
         "Jolteon": 2,
         "Okidogi": 2,
         "Wyrdeer": 2,
-        "Ferroseed": 2
+        "Ferroseed": 2,
+        "Musharna": 1
       },
-      "total_spawns": 2512,
-      "last_spawn": "2026-07-06T04:39:48.156872"
+      "total_spawns": 2515,
+      "last_spawn": "2026-07-06T04:40:18.407097"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1396,7 +1397,7 @@
     }
   },
   "global": {
-    "total_spawns": 68044,
+    "total_spawns": 68047,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
