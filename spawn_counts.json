@@ -12,7 +12,7 @@
         "Braixen": 7,
         "Oddish": 21,
         "Totodile": 3,
-        "Vanillite": 30,
+        "Vanillite": 32,
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 15,
@@ -42,7 +42,7 @@
         "Mareep": 14,
         "Capsakid": 15,
         "Numel": 8,
-        "Pawmo": 6,
+        "Pawmo": 7,
         "Wattrel": 13,
         "Tadbulb": 16,
         "Yanmega": 1,
@@ -157,7 +157,7 @@
         "Pikipek": 22,
         "Spritzee": 1,
         "Stantler": 6,
-        "Impidimp": 21,
+        "Impidimp": 23,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
@@ -242,7 +242,7 @@
         "Machoke": 5,
         "Luvdisc": 1,
         "Fennekin": 9,
-        "Milcery": 9,
+        "Milcery": 11,
         "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 4,
         "Slakoth": 8,
-        "Klink": 9,
+        "Klink": 10,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 3,
@@ -538,7 +538,7 @@
         "Vibrava": 5,
         "Shuckle": 2,
         "White flower floette": 3,
-        "Octillery": 2,
+        "Octillery": 3,
         "Pawniard": 4,
         "Brionne": 4,
         "Zarude": 2,
@@ -657,7 +657,7 @@
         "Jynx": 1,
         "Noctowl": 2,
         "Munna": 2,
-        "Mabosstiff": 2,
+        "Mabosstiff": 3,
         "Omastar": 1,
         "Gabite": 2,
         "Tapu fini": 4,
@@ -784,8 +784,8 @@
         "Umbreon": 2,
         "Ninjask": 1
       },
-      "total_spawns": 3909,
-      "last_spawn": "2026-07-06T18:30:09.000144"
+      "total_spawns": 3919,
+      "last_spawn": "2026-07-06T18:30:45.076550"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1498,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 69441,
+    "total_spawns": 69451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
