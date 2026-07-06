@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 3,
         "Arctibax": 3,
-        "Ralts": 14,
+        "Ralts": 16,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -102,7 +102,7 @@
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 4,
-        "Flittle": 15,
+        "Flittle": 16,
         "Armarouge": 3,
         "Clauncher": 4,
         "Tentacool": 2,
@@ -343,7 +343,7 @@
         "Gothita": 11,
         "Solosis": 13,
         "Sandygast": 3,
-        "Pidove": 10,
+        "Pidove": 11,
         "Chespin": 3,
         "Combee": 4,
         "Cyndaquil": 4,
@@ -761,10 +761,11 @@
         "Chimecho": 2,
         "Natu": 1,
         "Gorebyss": 1,
-        "Eldegoss": 1
+        "Eldegoss": 1,
+        "Pinsir": 1
       },
-      "total_spawns": 3582,
-      "last_spawn": "2026-07-06T12:36:03.631502"
+      "total_spawns": 3587,
+      "last_spawn": "2026-07-06T12:36:43.531275"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1477,7 +1478,7 @@
     }
   },
   "global": {
-    "total_spawns": 69114,
+    "total_spawns": 69119,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
