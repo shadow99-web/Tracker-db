@@ -267,7 +267,7 @@
         "Chewtle": 5,
         "Onix": 3,
         "Dracovish": 2,
-        "Slowpoke": 2,
+        "Slowpoke": 3,
         "Drizzile": 6,
         "Tinkatink": 12,
         "Frillish": 1,
@@ -367,7 +367,7 @@
         "Prinplup": 1,
         "Kommo-o": 1,
         "Vigoroth": 5,
-        "Gigalith": 1,
+        "Gigalith": 2,
         "Kingambit": 2,
         "Cresselia": 3,
         "Duraludon": 6,
@@ -619,7 +619,7 @@
         "Hangry morpeko": 2,
         "Omanyte": 3,
         "Mamoswine": 2,
-        "Spoink": 4,
+        "Spoink": 5,
         "Dhelmise": 1,
         "Armaldo": 3,
         "Krokorok": 3,
@@ -753,10 +753,11 @@
         "Lampent": 2,
         "Roselia": 1,
         "Pineco": 1,
-        "Maractus": 2
+        "Maractus": 2,
+        "Togetic": 1
       },
-      "total_spawns": 3454,
-      "last_spawn": "2026-07-06T12:18:23.999515"
+      "total_spawns": 3458,
+      "last_spawn": "2026-07-06T12:19:03.601698"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1469,7 +1470,7 @@
     }
   },
   "global": {
-    "total_spawns": 68986,
+    "total_spawns": 68990,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
