@@ -64,7 +64,7 @@
         "Koffing": 7,
         "Kirlia": 11,
         "Deino": 17,
-        "Dolliv": 5,
+        "Dolliv": 6,
         "Feebas": 10,
         "Prof tangrowth": 22,
         "Vulpix": 17,
@@ -110,7 +110,7 @@
         "Magnezone": 2,
         "Eevee": 18,
         "Dreepy": 45,
-        "Treecko": 10,
+        "Treecko": 12,
         "Shroodle": 17,
         "Ride cyclizar": 7,
         "Swinub": 24,
@@ -379,7 +379,7 @@
         "Morelull": 4,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 14,
+        "Slakoth": 15,
         "Klink": 14,
         "Mesprit": 1,
         "Azelf": 2,
@@ -525,7 +525,7 @@
         "Cosmoem": 1,
         "Copperajah": 6,
         "Golett": 4,
-        "Politoed": 8,
+        "Politoed": 9,
         "Droopy tatsugiri": 5,
         "Volcanion": 1,
         "Drapion": 2,
@@ -714,7 +714,7 @@
         "Remoraid": 2,
         "Exeggcute": 5,
         "Dunsparce": 3,
-        "Sobble": 3,
+        "Sobble": 4,
         "Lycanroc": 1,
         "Dustox": 2,
         "Alolan grimer": 4,
@@ -865,8 +865,8 @@
         "Qwilfish": 2,
         "Meowscarada": 1
       },
-      "total_spawns": 5484,
-      "last_spawn": "2026-07-06T23:58:02.090771"
+      "total_spawns": 5490,
+      "last_spawn": "2026-07-06T23:58:40.212487"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 71016,
+    "total_spawns": 71022,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
