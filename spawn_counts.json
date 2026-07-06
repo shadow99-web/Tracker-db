@@ -35,7 +35,7 @@
         "Fletchling": 17,
         "Whirlipede": 5,
         "Duskull": 34,
-        "Abra": 24,
+        "Abra": 25,
         "Wiglett": 15,
         "Starly": 29,
         "Caterpie": 9,
@@ -198,7 +198,7 @@
         "Bagon": 20,
         "Pikachu": 10,
         "Tarountula": 15,
-        "Rhyhorn": 16,
+        "Rhyhorn": 17,
         "Aipom": 4,
         "Grookey": 7,
         "Inkay": 2,
@@ -329,7 +329,7 @@
         "Magnemite": 15,
         "Doublade": 2,
         "Sharpedo": 1,
-        "Raboot": 5,
+        "Raboot": 6,
         "Oinkologne": 3,
         "Floragato": 5,
         "Larvesta": 17,
@@ -470,7 +470,7 @@
         "Absol": 6,
         "Calyrex": 1,
         "Kakuna": 3,
-        "Shedinja": 2,
+        "Shedinja": 4,
         "Zekrom": 1,
         "Xurkitree": 1,
         "Poipole": 1,
@@ -806,8 +806,8 @@
         "Heracross": 2,
         "Carkol": 1
       },
-      "total_spawns": 4309,
-      "last_spawn": "2026-07-06T19:45:18.302990"
+      "total_spawns": 4314,
+      "last_spawn": "2026-07-06T19:45:58.229371"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1520,7 +1520,7 @@
     }
   },
   "global": {
-    "total_spawns": 69841,
+    "total_spawns": 69846,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
