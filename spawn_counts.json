@@ -160,7 +160,7 @@
         "Impidimp": 21,
         "Swadloon": 6,
         "Sunny castform": 4,
-        "Vullaby": 3,
+        "Vullaby": 4,
         "Venipede": 15,
         "Pansage": 3,
         "Cetoddle": 12,
@@ -227,7 +227,7 @@
         "Carvanha": 3,
         "Toxel": 4,
         "Buneary": 2,
-        "Gallade": 5,
+        "Gallade": 7,
         "Tangrowth": 2,
         "Sizzlipede": 4,
         "Skuntank": 1,
@@ -332,7 +332,7 @@
         "Raboot": 4,
         "Oinkologne": 3,
         "Floragato": 3,
-        "Larvesta": 13,
+        "Larvesta": 15,
         "Magby": 1,
         "Roaming gimmighoul": 8,
         "Volcarona": 3,
@@ -688,7 +688,7 @@
         "Serperior": 1,
         "Grapploct": 1,
         "Vanilluxe": 1,
-        "Dwebble": 2,
+        "Dwebble": 3,
         "Banette": 2,
         "Pachirisu": 1,
         "Furret": 2,
@@ -753,8 +753,8 @@
         "Lampent": 2,
         "Roselia": 1
       },
-      "total_spawns": 3412,
-      "last_spawn": "2026-07-06T12:12:54.207964"
+      "total_spawns": 3418,
+      "last_spawn": "2026-07-06T12:13:33.922729"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1467,7 +1467,7 @@
     }
   },
   "global": {
-    "total_spawns": 68944,
+    "total_spawns": 68950,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
