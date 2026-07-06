@@ -53,7 +53,7 @@
         "Applin": 3,
         "Staryu": 2,
         "Maschiff": 8,
-        "Smoliv": 7,
+        "Smoliv": 8,
         "Tirtouga": 4,
         "Hatenna": 18,
         "Shroomish": 3,
@@ -125,7 +125,7 @@
         "Flaaffy": 3,
         "Rookidee": 17,
         "Flapple": 4,
-        "Bronzor": 3,
+        "Bronzor": 4,
         "Swirlix": 6,
         "Varoom": 12,
         "Ducklett": 4,
@@ -688,7 +688,7 @@
         "Serperior": 1,
         "Grapploct": 1,
         "Vanilluxe": 1,
-        "Dwebble": 1,
+        "Dwebble": 2,
         "Banette": 2,
         "Pachirisu": 1,
         "Furret": 2,
@@ -738,8 +738,8 @@
         "Zangoose": 1,
         "Thievul": 1
       },
-      "total_spawns": 3237,
-      "last_spawn": "2026-07-06T09:40:13.998906"
+      "total_spawns": 3240,
+      "last_spawn": "2026-07-06T09:40:45.702675"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1452,7 +1452,7 @@
     }
   },
   "global": {
-    "total_spawns": 68769,
+    "total_spawns": 68772,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
