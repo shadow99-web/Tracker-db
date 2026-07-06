@@ -163,9 +163,9 @@
         "Vullaby": 4,
         "Venipede": 15,
         "Pansage": 3,
-        "Cetoddle": 12,
+        "Cetoddle": 13,
         "Togepi": 7,
-        "Tandemaus": 11,
+        "Tandemaus": 12,
         "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 8,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 14,
+        "Sewaddle": 15,
         "Shelmet": 2,
         "Combusken": 2,
         "Croagunk": 5,
@@ -750,7 +750,7 @@
         "Swampert": 2,
         "High plain vivillon": 1,
         "Metapod": 1,
-        "Lampent": 2,
+        "Lampent": 3,
         "Roselia": 1,
         "Pineco": 1,
         "Maractus": 2,
@@ -759,8 +759,8 @@
         "Indeedee": 3,
         "Beheeyem": 2
       },
-      "total_spawns": 3497,
-      "last_spawn": "2026-07-06T12:24:03.682661"
+      "total_spawns": 3501,
+      "last_spawn": "2026-07-06T12:24:43.513673"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1473,7 +1473,7 @@
     }
   },
   "global": {
-    "total_spawns": 69029,
+    "total_spawns": 69033,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
