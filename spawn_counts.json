@@ -19,7 +19,7 @@
         "Fidough": 13,
         "Charjabug": 2,
         "Hatterene": 3,
-        "Rowlet": 4,
+        "Rowlet": 5,
         "Anorith": 3,
         "Arctibax": 2,
         "Ralts": 14,
@@ -165,7 +165,7 @@
         "Pansage": 3,
         "Cetoddle": 12,
         "Togepi": 7,
-        "Tandemaus": 10,
+        "Tandemaus": 11,
         "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 8,
@@ -545,7 +545,7 @@
         "Yamper": 1,
         "Tropius": 1,
         "Tatsugiri": 4,
-        "Xerneas": 2,
+        "Xerneas": 3,
         "Nincada": 2,
         "Audino": 1,
         "Mime jr.": 3,
@@ -639,7 +639,7 @@
         "Elekid": 2,
         "Chingling": 2,
         "Tangela": 2,
-        "Raticate": 3,
+        "Raticate": 4,
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 2,
@@ -695,7 +695,7 @@
         "Helioptile": 1,
         "Salamence": 2,
         "Meditite": 1,
-        "Sneasel": 3,
+        "Sneasel": 4,
         "Finneon": 1,
         "Pidgeotto": 1,
         "Hakamo-o": 1,
@@ -744,8 +744,8 @@
         "Yveltal": 2,
         "Illumise": 1
       },
-      "total_spawns": 3303,
-      "last_spawn": "2026-07-06T09:48:33.998046"
+      "total_spawns": 3308,
+      "last_spawn": "2026-07-06T09:49:06.691872"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1458,7 +1458,7 @@
     }
   },
   "global": {
-    "total_spawns": 68835,
+    "total_spawns": 68840,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
