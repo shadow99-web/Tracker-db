@@ -13,7 +13,7 @@
         "Oddish": 24,
         "Totodile": 9,
         "Vanillite": 40,
-        "Weedle": 25,
+        "Weedle": 27,
         "Kabutops": 2,
         "Poliwag": 21,
         "Fidough": 22,
@@ -111,7 +111,7 @@
         "Eevee": 14,
         "Dreepy": 43,
         "Treecko": 10,
-        "Shroodle": 14,
+        "Shroodle": 15,
         "Ride cyclizar": 7,
         "Swinub": 24,
         "Rattata": 9,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 13,
         "Butterfree": 3,
-        "Teddiursa": 40,
+        "Teddiursa": 42,
         "Roggenrola": 28,
         "Litwick": 14,
         "Wooper": 5,
@@ -282,7 +282,7 @@
         "Bulbasaur": 19,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 6,
-        "Hattrem": 6,
+        "Hattrem": 7,
         "Trash wormadam": 3,
         "Purrloin": 2,
         "Zigzagoon": 4,
@@ -479,7 +479,7 @@
         "Pignite": 5,
         "Bunnelby": 4,
         "Complete zygarde": 3,
-        "Mudbray": 8,
+        "Mudbray": 9,
         "Spectrier": 1,
         "Rufflet": 3,
         "Lairon": 3,
@@ -837,17 +837,18 @@
         "Monferno": 1,
         "Smoochum": 1,
         "Drampa": 1,
-        "Shieldon": 1,
+        "Shieldon": 2,
         "Araquanid": 2,
         "Glaceon": 2,
         "Grumpig": 1,
         "Roaring moon": 2,
         "Slowking": 2,
         "Kecleon": 2,
-        "Tapu lele": 2
+        "Tapu lele": 2,
+        "Naclstack": 1
       },
-      "total_spawns": 5051,
-      "last_spawn": "2026-07-06T23:09:13.809057"
+      "total_spawns": 5060,
+      "last_spawn": "2026-07-06T23:09:48.356088"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1560,7 +1561,7 @@
     }
   },
   "global": {
-    "total_spawns": 70583,
+    "total_spawns": 70592,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
