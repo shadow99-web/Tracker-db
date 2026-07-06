@@ -533,7 +533,7 @@
         "Midnight lycanroc": 3,
         "Skiploom": 1,
         "Stakataka": 1,
-        "Cascoon": 3,
+        "Cascoon": 4,
         "Sigilyph": 4,
         "Vibrava": 2,
         "Shuckle": 2,
@@ -716,7 +716,7 @@
         "Dunsparce": 1,
         "Sobble": 1,
         "Lycanroc": 1,
-        "Dustox": 1,
+        "Dustox": 2,
         "Alolan grimer": 2,
         "Ursaluna": 2,
         "Blastoise": 2,
@@ -727,10 +727,11 @@
         "Delphox": 1,
         "Cranidos": 1,
         "Tsareena": 1,
-        "Chansey": 1
+        "Chansey": 1,
+        "Camerupt": 1
       },
-      "total_spawns": 3104,
-      "last_spawn": "2026-07-06T07:54:33.700449"
+      "total_spawns": 3107,
+      "last_spawn": "2026-07-06T07:55:04.094965"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1443,7 +1444,7 @@
     }
   },
   "global": {
-    "total_spawns": 68636,
+    "total_spawns": 68639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
