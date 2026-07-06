@@ -87,7 +87,7 @@
         "Shinx": 28,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 23,
+        "Pawmi": 25,
         "Sandile": 21,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -171,7 +171,7 @@
         "Lotad": 7,
         "Mienshao": 2,
         "Blipbug": 20,
-        "Rellor": 6,
+        "Rellor": 7,
         "Rolycoly": 10,
         "Poliwhirl": 4,
         "Lokix": 4,
@@ -386,14 +386,14 @@
         "Clodsire": 3,
         "Charizard": 8,
         "Axew": 25,
-        "Joltik": 3,
+        "Joltik": 4,
         "Gulpin": 2,
         "Mareanie": 2,
         "Throh": 3,
         "Sentret": 6,
         "Houndoom": 1,
         "Meganium": 4,
-        "Rainy castform": 2,
+        "Rainy castform": 3,
         "Rabsca": 2,
         "Misdreavus": 1,
         "Cursola": 2,
@@ -597,7 +597,7 @@
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
-        "Grimer": 2,
+        "Grimer": 3,
         "Frosmoth": 2,
         "Darumaka": 3,
         "Cubone": 1,
@@ -714,10 +714,11 @@
         "Remoraid": 1,
         "Exeggcute": 1,
         "Dunsparce": 1,
-        "Sobble": 1
+        "Sobble": 1,
+        "Lycanroc": 1
       },
-      "total_spawns": 2871,
-      "last_spawn": "2026-07-06T07:35:43.666911"
+      "total_spawns": 2878,
+      "last_spawn": "2026-07-06T07:36:13.887679"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1430,7 +1431,7 @@
     }
   },
   "global": {
-    "total_spawns": 68403,
+    "total_spawns": 68410,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
