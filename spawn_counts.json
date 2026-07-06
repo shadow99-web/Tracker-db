@@ -85,7 +85,7 @@
         "Marshtomp": 9,
         "Squirtle": 7,
         "Shinx": 28,
-        "Drakloak": 3,
+        "Drakloak": 5,
         "Victini": 1,
         "Pawmi": 25,
         "Sandile": 21,
@@ -164,7 +164,7 @@
         "Venipede": 11,
         "Pansage": 2,
         "Cetoddle": 9,
-        "Togepi": 6,
+        "Togepi": 7,
         "Tandemaus": 8,
         "Clefairy": 2,
         "Unown q": 1,
@@ -172,7 +172,7 @@
         "Mienshao": 2,
         "Blipbug": 20,
         "Rellor": 7,
-        "Rolycoly": 10,
+        "Rolycoly": 11,
         "Poliwhirl": 4,
         "Lokix": 4,
         "Flamigo": 7,
@@ -191,7 +191,7 @@
         "Wimpod": 9,
         "Comfey": 1,
         "Diggersby": 2,
-        "Klawf": 17,
+        "Klawf": 19,
         "Dj rotom": 10,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
@@ -295,7 +295,7 @@
         "Dartrix": 2,
         "Ceruledge": 1,
         "Vanillish": 2,
-        "Gimmighoul": 8,
+        "Gimmighoul": 9,
         "Glimmet": 10,
         "Popplio": 3,
         "Arboliva": 2,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 1,
         "Quilava": 1,
-        "Wurmple": 12,
+        "Wurmple": 14,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -717,10 +717,11 @@
         "Sobble": 1,
         "Lycanroc": 1,
         "Dustox": 1,
-        "Alolan grimer": 1
+        "Alolan grimer": 2,
+        "Ursaluna": 2
       },
-      "total_spawns": 2895,
-      "last_spawn": "2026-07-06T07:37:20.962456"
+      "total_spawns": 2907,
+      "last_spawn": "2026-07-06T07:37:53.848290"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1433,7 +1434,7 @@
     }
   },
   "global": {
-    "total_spawns": 68427,
+    "total_spawns": 68439,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
