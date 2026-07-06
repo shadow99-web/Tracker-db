@@ -32,7 +32,7 @@
         "Pidgey": 17,
         "Binacle": 5,
         "Bounsweet": 36,
-        "Fletchling": 19,
+        "Fletchling": 20,
         "Whirlipede": 5,
         "Duskull": 38,
         "Abra": 25,
@@ -53,11 +53,11 @@
         "Applin": 5,
         "Staryu": 3,
         "Maschiff": 13,
-        "Smoliv": 11,
+        "Smoliv": 12,
         "Tirtouga": 7,
         "Hatenna": 32,
         "Shroomish": 3,
-        "Lillipup": 22,
+        "Lillipup": 23,
         "Mosslax": 30,
         "Maushold": 3,
         "Cubchoo": 21,
@@ -70,7 +70,7 @@
         "Vulpix": 15,
         "Gastly": 38,
         "Aron": 24,
-        "Honedge": 36,
+        "Honedge": 38,
         "Houndour": 1,
         "Machop": 17,
         "Terapagos": 1,
@@ -172,7 +172,7 @@
         "Mienshao": 2,
         "Blipbug": 34,
         "Rellor": 11,
-        "Rolycoly": 19,
+        "Rolycoly": 20,
         "Poliwhirl": 5,
         "Lokix": 11,
         "Flamigo": 10,
@@ -726,7 +726,7 @@
         "Azumarill": 1,
         "Delphox": 1,
         "Cranidos": 1,
-        "Tsareena": 2,
+        "Tsareena": 3,
         "Chansey": 1,
         "Camerupt": 2,
         "Litten": 2,
@@ -830,8 +830,8 @@
         "Zeraora": 2,
         "Cobalion": 2
       },
-      "total_spawns": 4797,
-      "last_spawn": "2026-07-06T22:38:13.531598"
+      "total_spawns": 4804,
+      "last_spawn": "2026-07-06T22:38:43.811124"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70329,
+    "total_spawns": 70336,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
