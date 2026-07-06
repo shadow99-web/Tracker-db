@@ -16,10 +16,10 @@
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 19,
-        "Fidough": 18,
+        "Fidough": 19,
         "Charjabug": 2,
         "Hatterene": 3,
-        "Rowlet": 7,
+        "Rowlet": 8,
         "Anorith": 6,
         "Arctibax": 3,
         "Ralts": 32,
@@ -32,7 +32,7 @@
         "Pidgey": 17,
         "Binacle": 5,
         "Bounsweet": 36,
-        "Fletchling": 18,
+        "Fletchling": 19,
         "Whirlipede": 5,
         "Duskull": 38,
         "Abra": 25,
@@ -50,7 +50,7 @@
         "Grubbin": 19,
         "Scatterbug": 14,
         "Skwovet": 8,
-        "Applin": 3,
+        "Applin": 5,
         "Staryu": 3,
         "Maschiff": 13,
         "Smoliv": 11,
@@ -112,7 +112,7 @@
         "Dreepy": 39,
         "Treecko": 10,
         "Shroodle": 14,
-        "Ride cyclizar": 6,
+        "Ride cyclizar": 7,
         "Swinub": 22,
         "Rattata": 7,
         "Stonjourner": 1,
@@ -133,7 +133,7 @@
         "Sandy burmy": 1,
         "Torchic": 10,
         "Abomasnow": 5,
-        "Slugma": 5,
+        "Slugma": 6,
         "Venonat": 5,
         "Eelektrik": 4,
         "Diglett": 6,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 3,
         "Quilava": 2,
-        "Wurmple": 32,
+        "Wurmple": 34,
         "Sandshrew": 4,
         "Tauros": 3,
         "Golurk": 1,
@@ -830,8 +830,8 @@
         "Zeraora": 2,
         "Cobalion": 2
       },
-      "total_spawns": 4777,
-      "last_spawn": "2026-07-06T22:36:33.697244"
+      "total_spawns": 4786,
+      "last_spawn": "2026-07-06T22:37:04.061473"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70309,
+    "total_spawns": 70318,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
