@@ -72,7 +72,7 @@
         "Aron": 24,
         "Honedge": 36,
         "Houndour": 1,
-        "Machop": 16,
+        "Machop": 17,
         "Terapagos": 1,
         "Mankey": 7,
         "Torterra": 1,
@@ -87,7 +87,7 @@
         "Shinx": 40,
         "Drakloak": 5,
         "Victini": 1,
-        "Pawmi": 35,
+        "Pawmi": 37,
         "Sandile": 27,
         "Charmeleon": 5,
         "Riolu": 16,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 36,
         "Roggenrola": 26,
-        "Litwick": 13,
+        "Litwick": 14,
         "Wooper": 5,
         "Pikipek": 26,
         "Spritzee": 1,
@@ -617,7 +617,7 @@
         "Orange flower florges": 1,
         "Minun": 6,
         "Hangry morpeko": 2,
-        "Omanyte": 5,
+        "Omanyte": 6,
         "Mamoswine": 2,
         "Spoink": 7,
         "Dhelmise": 1,
@@ -706,7 +706,7 @@
         "Loudred": 3,
         "Vespiquen": 1,
         "Gastrodon": 1,
-        "Skiddo": 4,
+        "Skiddo": 5,
         "Simisear": 4,
         "Hawlucha": 2,
         "Stunky": 4,
@@ -714,7 +714,7 @@
         "Remoraid": 2,
         "Exeggcute": 5,
         "Dunsparce": 3,
-        "Sobble": 2,
+        "Sobble": 3,
         "Lycanroc": 1,
         "Dustox": 2,
         "Alolan grimer": 2,
@@ -827,8 +827,8 @@
         "Beedrill": 1,
         "Sandslash": 1
       },
-      "total_spawns": 4746,
-      "last_spawn": "2026-07-06T22:34:18.231798"
+      "total_spawns": 4753,
+      "last_spawn": "2026-07-06T22:34:48.523126"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1541,7 +1541,7 @@
     }
   },
   "global": {
-    "total_spawns": 70278,
+    "total_spawns": 70285,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
