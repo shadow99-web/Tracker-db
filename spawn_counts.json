@@ -227,7 +227,7 @@
         "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 2,
-        "Gallade": 7,
+        "Gallade": 9,
         "Tangrowth": 2,
         "Sizzlipede": 5,
         "Skuntank": 1,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
-        "Porygon": 15,
+        "Porygon": 16,
         "Wooloo": 3,
         "Mawile": 5,
         "Marill": 1,
@@ -331,7 +331,7 @@
         "Sharpedo": 1,
         "Raboot": 5,
         "Oinkologne": 3,
-        "Floragato": 4,
+        "Floragato": 5,
         "Larvesta": 17,
         "Magby": 1,
         "Roaming gimmighoul": 9,
@@ -424,7 +424,7 @@
         "Hoothoot": 6,
         "Girafarig": 1,
         "Summer deerling": 1,
-        "Seel": 4,
+        "Seel": 5,
         "Marowak": 2,
         "Haunter": 4,
         "Dottler": 3,
@@ -789,10 +789,11 @@
         "Zapdos": 2,
         "Coalossal": 2,
         "Steenee": 1,
-        "Boltund": 1
+        "Boltund": 1,
+        "Weezing": 1
       },
-      "total_spawns": 4098,
-      "last_spawn": "2026-07-06T19:07:58.500746"
+      "total_spawns": 4104,
+      "last_spawn": "2026-07-06T19:08:30.906491"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1505,7 +1506,7 @@
     }
   },
   "global": {
-    "total_spawns": 69630,
+    "total_spawns": 69636,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
