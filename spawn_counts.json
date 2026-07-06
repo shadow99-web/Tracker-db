@@ -21,7 +21,7 @@
         "Hatterene": 3,
         "Rowlet": 3,
         "Anorith": 3,
-        "Arctibax": 1,
+        "Arctibax": 2,
         "Ralts": 14,
         "Peakychu": 23,
         "Cutiefly": 3,
@@ -64,7 +64,7 @@
         "Koffing": 4,
         "Kirlia": 7,
         "Deino": 10,
-        "Dolliv": 2,
+        "Dolliv": 3,
         "Feebas": 4,
         "Prof tangrowth": 17,
         "Vulpix": 11,
@@ -76,7 +76,7 @@
         "Terapagos": 1,
         "Mankey": 3,
         "Torterra": 1,
-        "Salandit": 3,
+        "Salandit": 4,
         "Bruxish": 1,
         "Orbeetle": 3,
         "Bramblin": 9,
@@ -127,7 +127,7 @@
         "Flapple": 4,
         "Bronzor": 2,
         "Swirlix": 6,
-        "Varoom": 10,
+        "Varoom": 12,
         "Ducklett": 4,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -156,7 +156,7 @@
         "Wooper": 2,
         "Pikipek": 20,
         "Spritzee": 1,
-        "Stantler": 5,
+        "Stantler": 6,
         "Impidimp": 21,
         "Swadloon": 5,
         "Sunny castform": 4,
@@ -458,7 +458,7 @@
         "Excadrill": 2,
         "Buizel": 3,
         "Pansear": 2,
-        "Yanma": 6,
+        "Yanma": 7,
         "Galarian moltres": 1,
         "Seismitoad": 2,
         "Galarian articuno": 1,
@@ -636,7 +636,7 @@
         "Klinklang": 1,
         "Lickilicky": 3,
         "Unown k": 2,
-        "Elekid": 1,
+        "Elekid": 2,
         "Chingling": 2,
         "Tangela": 2,
         "Raticate": 3,
@@ -728,8 +728,8 @@
         "Cranidos": 1,
         "Tsareena": 1
       },
-      "total_spawns": 3055,
-      "last_spawn": "2026-07-06T07:49:14.197871"
+      "total_spawns": 3063,
+      "last_spawn": "2026-07-06T07:49:48.301893"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1442,7 +1442,7 @@
     }
   },
   "global": {
-    "total_spawns": 68587,
+    "total_spawns": 68595,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
