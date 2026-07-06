@@ -116,7 +116,7 @@
         "Swinub": 22,
         "Rattata": 8,
         "Stonjourner": 1,
-        "Veluza": 24,
+        "Veluza": 26,
         "Panpour": 6,
         "Crabrawler": 4,
         "Frogadier": 4,
@@ -200,13 +200,13 @@
         "Tarountula": 17,
         "Rhyhorn": 19,
         "Aipom": 4,
-        "Grookey": 8,
+        "Grookey": 9,
         "Inkay": 3,
         "Unfezant": 4,
         "Fraxure": 9,
         "Zubat": 19,
         "Drowzee": 7,
-        "Lechonk": 21,
+        "Lechonk": 22,
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 5,
@@ -843,8 +843,8 @@
         "Grumpig": 1,
         "Roaring moon": 2
       },
-      "total_spawns": 4988,
-      "last_spawn": "2026-07-06T23:01:28.333549"
+      "total_spawns": 4992,
+      "last_spawn": "2026-07-06T23:01:58.587024"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 70520,
+    "total_spawns": 70524,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
