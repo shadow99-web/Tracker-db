@@ -60,7 +60,7 @@
         "Lillipup": 21,
         "Mosslax": 28,
         "Maushold": 3,
-        "Cubchoo": 17,
+        "Cubchoo": 19,
         "Koffing": 4,
         "Kirlia": 9,
         "Deino": 14,
@@ -245,7 +245,7 @@
         "Milcery": 13,
         "Trumbeak": 2,
         "Bonsly": 1,
-        "Growlithe": 3,
+        "Growlithe": 4,
         "Rhydon": 5,
         "Ambipom": 3,
         "Solrock": 1,
@@ -806,10 +806,11 @@
         "Heracross": 2,
         "Carkol": 1,
         "Zygarde": 2,
-        "Dewgong": 1
+        "Dewgong": 1,
+        "Revavroom": 1
       },
-      "total_spawns": 4335,
-      "last_spawn": "2026-07-06T19:51:48.218480"
+      "total_spawns": 4339,
+      "last_spawn": "2026-07-06T19:52:19.178584"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1522,7 +1523,7 @@
     }
   },
   "global": {
-    "total_spawns": 69867,
+    "total_spawns": 69871,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
