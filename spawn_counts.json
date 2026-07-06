@@ -222,7 +222,7 @@
         "Duosion": 3,
         "Orthworm": 12,
         "Yamask": 2,
-        "Nymble": 10,
+        "Nymble": 11,
         "Snorunt": 2,
         "Carvanha": 2,
         "Toxel": 4,
@@ -285,7 +285,7 @@
         "Hattrem": 3,
         "Trash wormadam": 1,
         "Purrloin": 2,
-        "Zigzagoon": 2,
+        "Zigzagoon": 3,
         "Quilladin": 1,
         "Infernape": 3,
         "Noibat": 5,
@@ -390,7 +390,7 @@
         "Gulpin": 2,
         "Mareanie": 2,
         "Throh": 3,
-        "Sentret": 5,
+        "Sentret": 6,
         "Houndoom": 1,
         "Meganium": 4,
         "Rainy castform": 2,
@@ -700,10 +700,11 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1,
         "Spidops": 1,
-        "Glimmora": 1
+        "Glimmora": 1,
+        "Parasect": 1
       },
-      "total_spawns": 2736,
-      "last_spawn": "2026-07-06T07:21:43.891780"
+      "total_spawns": 2740,
+      "last_spawn": "2026-07-06T07:22:14.687144"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1416,7 +1417,7 @@
     }
   },
   "global": {
-    "total_spawns": 68268,
+    "total_spawns": 68272,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
