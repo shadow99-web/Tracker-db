@@ -23,7 +23,7 @@
         "Anorith": 6,
         "Arctibax": 3,
         "Ralts": 32,
-        "Peakychu": 24,
+        "Peakychu": 25,
         "Cutiefly": 4,
         "Simipour": 2,
         "Tynamo": 13,
@@ -43,7 +43,7 @@
         "Capsakid": 16,
         "Numel": 8,
         "Pawmo": 8,
-        "Wattrel": 13,
+        "Wattrel": 14,
         "Tadbulb": 21,
         "Yanmega": 1,
         "Tympole": 17,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 6,
-        "Varoom": 22,
+        "Varoom": 23,
         "Ducklett": 5,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -294,7 +294,7 @@
         "Brambleghast": 1,
         "Dartrix": 3,
         "Ceruledge": 4,
-        "Vanillish": 5,
+        "Vanillish": 6,
         "Gimmighoul": 13,
         "Glimmet": 14,
         "Popplio": 5,
@@ -326,7 +326,7 @@
         "Sunkern": 4,
         "Snubbull": 3,
         "Crocalor": 2,
-        "Magnemite": 16,
+        "Magnemite": 17,
         "Doublade": 2,
         "Sharpedo": 1,
         "Raboot": 7,
@@ -819,8 +819,8 @@
         "Silicobra": 1,
         "Durant": 1
       },
-      "total_spawns": 4630,
-      "last_spawn": "2026-07-06T22:22:18.497620"
+      "total_spawns": 4635,
+      "last_spawn": "2026-07-06T22:22:58.399355"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1533,7 +1533,7 @@
     }
   },
   "global": {
-    "total_spawns": 70162,
+    "total_spawns": 70167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
