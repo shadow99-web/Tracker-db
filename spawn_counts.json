@@ -239,7 +239,7 @@
         "Whismur": 13,
         "Jangmo-o": 7,
         "Lunatone": 1,
-        "Machoke": 4,
+        "Machoke": 5,
         "Luvdisc": 1,
         "Fennekin": 9,
         "Milcery": 7,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
-        "Spheal": 12,
+        "Spheal": 13,
         "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 4,
         "Sigilyph": 4,
-        "Vibrava": 2,
+        "Vibrava": 3,
         "Shuckle": 2,
         "White flower floette": 2,
         "Octillery": 2,
@@ -733,10 +733,11 @@
         "Gossifleur": 1,
         "Electivire": 1,
         "Farigiraf": 1,
-        "Raichu": 1
+        "Raichu": 1,
+        "Meowstic": 1
       },
-      "total_spawns": 3209,
-      "last_spawn": "2026-07-06T09:36:13.744441"
+      "total_spawns": 3213,
+      "last_spawn": "2026-07-06T09:36:53.595547"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1449,7 +1450,7 @@
     }
   },
   "global": {
-    "total_spawns": 68741,
+    "total_spawns": 68745,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
