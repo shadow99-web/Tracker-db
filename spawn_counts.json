@@ -12,7 +12,7 @@
         "Braixen": 8,
         "Oddish": 22,
         "Totodile": 6,
-        "Vanillite": 36,
+        "Vanillite": 38,
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 18,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 16,
         "Binacle": 4,
-        "Bounsweet": 34,
+        "Bounsweet": 36,
         "Fletchling": 18,
         "Whirlipede": 5,
         "Duskull": 34,
@@ -178,7 +178,7 @@
         "Flamigo": 10,
         "Bellsprout": 14,
         "Houndstone": 3,
-        "Beldum": 20,
+        "Beldum": 21,
         "Kadabra": 10,
         "Grovyle": 9,
         "Dratini": 19,
@@ -187,7 +187,7 @@
         "Charcadet": 37,
         "Mudsdale": 4,
         "Meowth": 15,
-        "Charmander": 15,
+        "Charmander": 16,
         "Wimpod": 9,
         "Comfey": 3,
         "Diggersby": 2,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4495,
-      "last_spawn": "2026-07-06T22:04:38.095390"
+      "total_spawns": 4501,
+      "last_spawn": "2026-07-06T22:05:08.356040"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70027,
+    "total_spawns": 70033,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
