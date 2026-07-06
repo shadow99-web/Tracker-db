@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 6,
         "Arctibax": 3,
-        "Ralts": 20,
+        "Ralts": 24,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -92,7 +92,7 @@
         "Charmeleon": 5,
         "Riolu": 16,
         "Gible": 22,
-        "Greavard": 30,
+        "Greavard": 32,
         "Snover": 7,
         "Piplup": 3,
         "Dondozo": 13,
@@ -405,7 +405,7 @@
         "Snivy": 3,
         "Zorua": 8,
         "Minior": 1,
-        "Darmanitan": 1,
+        "Darmanitan": 3,
         "Lopunny": 2,
         "Chimchar": 6,
         "Gligar": 4,
@@ -549,7 +549,7 @@
         "Nincada": 4,
         "Audino": 1,
         "Mime jr.": 3,
-        "Yungoos": 3,
+        "Yungoos": 4,
         "Palpitoad": 3,
         "Smeargle": 2,
         "Appletun": 6,
@@ -788,10 +788,11 @@
         "Porygon-z": 1,
         "Zapdos": 2,
         "Coalossal": 2,
-        "Steenee": 1
+        "Steenee": 1,
+        "Boltund": 1
       },
-      "total_spawns": 4078,
-      "last_spawn": "2026-07-06T19:06:53.575977"
+      "total_spawns": 4088,
+      "last_spawn": "2026-07-06T19:07:28.051242"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1504,7 +1505,7 @@
     }
   },
   "global": {
-    "total_spawns": 69610,
+    "total_spawns": 69620,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
