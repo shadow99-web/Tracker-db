@@ -268,7 +268,7 @@
         "Onix": 7,
         "Dracovish": 2,
         "Slowpoke": 3,
-        "Drizzile": 6,
+        "Drizzile": 7,
         "Tinkatink": 17,
         "Frillish": 1,
         "Plusle": 5,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 3,
         "Gothita": 18,
-        "Solosis": 16,
+        "Solosis": 17,
         "Sandygast": 5,
         "Pidove": 12,
         "Chespin": 4,
@@ -373,7 +373,7 @@
         "Duraludon": 8,
         "Nidorino": 5,
         "Rayquaza": 15,
-        "Horsea": 14,
+        "Horsea": 15,
         "Reshiram": 3,
         "Celebi": 73,
         "Morelull": 4,
@@ -585,7 +585,7 @@
         "Lombre": 5,
         "Dachsbun": 4,
         "Primeape": 4,
-        "Goldeen": 5,
+        "Goldeen": 6,
         "Gouging fire": 2,
         "Cottonee": 2,
         "Flareon": 2,
@@ -843,8 +843,8 @@
         "Grumpig": 1,
         "Roaring moon": 2
       },
-      "total_spawns": 5000,
-      "last_spawn": "2026-07-06T23:03:08.467244"
+      "total_spawns": 5004,
+      "last_spawn": "2026-07-06T23:03:48.325583"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1557,7 +1557,7 @@
     }
   },
   "global": {
-    "total_spawns": 70532,
+    "total_spawns": 70536,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
