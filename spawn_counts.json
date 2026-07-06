@@ -37,7 +37,7 @@
         "Duskull": 22,
         "Abra": 16,
         "Wiglett": 9,
-        "Starly": 21,
+        "Starly": 23,
         "Caterpie": 5,
         "Mareep": 8,
         "Capsakid": 11,
@@ -184,7 +184,7 @@
         "Dratini": 13,
         "Steelix": 1,
         "Sprigatito": 3,
-        "Charcadet": 21,
+        "Charcadet": 23,
         "Mudsdale": 4,
         "Meowth": 9,
         "Charmander": 7,
@@ -280,7 +280,7 @@
         "Nacli": 11,
         "Pancham": 3,
         "Bulbasaur": 9,
-        "Dewpider": 4,
+        "Dewpider": 5,
         "Yellow plumage squawkabilly": 2,
         "Hattrem": 3,
         "Trash wormadam": 1,
@@ -707,8 +707,8 @@
         "Vespiquen": 1,
         "Gastrodon": 1
       },
-      "total_spawns": 2785,
-      "last_spawn": "2026-07-06T07:28:23.699042"
+      "total_spawns": 2790,
+      "last_spawn": "2026-07-06T07:28:55.597276"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1421,7 +1421,7 @@
     }
   },
   "global": {
-    "total_spawns": 68317,
+    "total_spawns": 68322,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
