@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 15,
         "Binacle": 4,
-        "Bounsweet": 29,
+        "Bounsweet": 30,
         "Fletchling": 16,
         "Whirlipede": 4,
         "Duskull": 32,
@@ -98,7 +98,7 @@
         "Dondozo": 13,
         "Cyclizar": 5,
         "Froslass": 2,
-        "Dodrio": 5,
+        "Dodrio": 7,
         "Metagross": 4,
         "Corphish": 3,
         "Doduo": 5,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 12,
         "Mienshao": 2,
-        "Blipbug": 28,
+        "Blipbug": 30,
         "Rellor": 9,
         "Rolycoly": 18,
         "Poliwhirl": 4,
@@ -350,7 +350,7 @@
         "Grotle": 4,
         "Tinkaton": 2,
         "Bergmite": 5,
-        "Klang": 3,
+        "Klang": 4,
         "Tepig": 2,
         "Spinda": 1,
         "Phantump": 2,
@@ -604,7 +604,7 @@
         "Conkeldurr": 1,
         "Sinistea": 4,
         "Golbat": 6,
-        "Amoonguss": 3,
+        "Amoonguss": 4,
         "Herdier": 3,
         "Blissey": 2,
         "Cinccino": 4,
@@ -793,8 +793,8 @@
         "Weezing": 1,
         "Blue flower florges": 1
       },
-      "total_spawns": 4124,
-      "last_spawn": "2026-07-06T19:11:10.009225"
+      "total_spawns": 4131,
+      "last_spawn": "2026-07-06T19:11:48.303995"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1507,7 +1507,7 @@
     }
   },
   "global": {
-    "total_spawns": 69656,
+    "total_spawns": 69663,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
