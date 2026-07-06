@@ -113,7 +113,7 @@
         "Treecko": 10,
         "Shroodle": 8,
         "Ride cyclizar": 2,
-        "Swinub": 14,
+        "Swinub": 15,
         "Rattata": 6,
         "Stonjourner": 1,
         "Veluza": 20,
@@ -189,7 +189,7 @@
         "Meowth": 11,
         "Charmander": 11,
         "Wimpod": 9,
-        "Comfey": 1,
+        "Comfey": 3,
         "Diggersby": 2,
         "Klawf": 21,
         "Dj rotom": 13,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 5,
         "Gligar": 3,
-        "Quaxly": 4,
+        "Quaxly": 5,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -745,8 +745,8 @@
         "Illumise": 1,
         "Aggron": 1
       },
-      "total_spawns": 3314,
-      "last_spawn": "2026-07-06T09:49:43.716562"
+      "total_spawns": 3318,
+      "last_spawn": "2026-07-06T09:50:14.095885"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1459,7 +1459,7 @@
     }
   },
   "global": {
-    "total_spawns": 68846,
+    "total_spawns": 68850,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
