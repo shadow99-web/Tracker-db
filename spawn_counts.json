@@ -192,7 +192,7 @@
         "Comfey": 1,
         "Diggersby": 2,
         "Klawf": 19,
-        "Dj rotom": 10,
+        "Dj rotom": 11,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
         "Bagon": 14,
@@ -222,7 +222,7 @@
         "Duosion": 3,
         "Orthworm": 12,
         "Yamask": 2,
-        "Nymble": 11,
+        "Nymble": 12,
         "Snorunt": 2,
         "Carvanha": 2,
         "Toxel": 4,
@@ -338,7 +338,7 @@
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 2,
-        "Ursaring": 2,
+        "Ursaring": 3,
         "Bidoof": 2,
         "Gothita": 8,
         "Solosis": 13,
@@ -497,7 +497,7 @@
         "Yellow flower florges": 1,
         "Drilbur": 2,
         "Leavanny": 1,
-        "Magikarp": 5,
+        "Magikarp": 6,
         "Gardevoir": 6,
         "Kubfu": 1,
         "Tyrogue": 2,
@@ -725,8 +725,8 @@
         "Sawk": 1,
         "Azumarill": 1
       },
-      "total_spawns": 3001,
-      "last_spawn": "2026-07-06T07:44:38.393952"
+      "total_spawns": 3005,
+      "last_spawn": "2026-07-06T07:45:18.424037"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1439,7 +1439,7 @@
     }
   },
   "global": {
-    "total_spawns": 68533,
+    "total_spawns": 68537,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
