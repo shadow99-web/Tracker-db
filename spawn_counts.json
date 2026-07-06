@@ -220,7 +220,7 @@
         "Shuppet": 7,
         "Graveler": 1,
         "Duosion": 3,
-        "Orthworm": 9,
+        "Orthworm": 10,
         "Yamask": 2,
         "Nymble": 10,
         "Snorunt": 2,
@@ -389,7 +389,7 @@
         "Joltik": 2,
         "Gulpin": 1,
         "Mareanie": 2,
-        "Throh": 2,
+        "Throh": 3,
         "Sentret": 4,
         "Houndoom": 1,
         "Meganium": 4,
@@ -648,7 +648,7 @@
         "Cherubi": 1,
         "Heatmor": 1,
         "Vikavolt": 1,
-        "Eelektross": 1,
+        "Eelektross": 2,
         "Bibarel": 1,
         "Debutante trim furfrou": 2,
         "Phanpy": 2,
@@ -690,10 +690,11 @@
         "Vanilluxe": 1,
         "Dwebble": 1,
         "Banette": 2,
-        "Pachirisu": 1
+        "Pachirisu": 1,
+        "Furret": 2
       },
-      "total_spawns": 2617,
-      "last_spawn": "2026-07-06T04:52:58.201713"
+      "total_spawns": 2622,
+      "last_spawn": "2026-07-06T04:53:38.167616"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1406,7 +1407,7 @@
     }
   },
   "global": {
-    "total_spawns": 68149,
+    "total_spawns": 68154,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
