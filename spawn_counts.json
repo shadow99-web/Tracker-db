@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 6,
         "Arctibax": 3,
-        "Ralts": 24,
+        "Ralts": 26,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -157,7 +157,7 @@
         "Pikipek": 24,
         "Spritzee": 1,
         "Stantler": 6,
-        "Impidimp": 23,
+        "Impidimp": 25,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 4,
@@ -803,10 +803,11 @@
         "Xatu": 1,
         "Masquerain": 2,
         "Salazzle": 1,
-        "Heracross": 2
+        "Heracross": 2,
+        "Carkol": 1
       },
-      "total_spawns": 4291,
-      "last_spawn": "2026-07-06T19:42:58.296255"
+      "total_spawns": 4296,
+      "last_spawn": "2026-07-06T19:43:28.404588"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1519,7 +1520,7 @@
     }
   },
   "global": {
-    "total_spawns": 69823,
+    "total_spawns": 69828,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
