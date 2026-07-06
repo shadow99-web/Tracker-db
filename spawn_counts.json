@@ -32,7 +32,7 @@
         "Pidgey": 12,
         "Binacle": 4,
         "Bounsweet": 20,
-        "Fletchling": 9,
+        "Fletchling": 10,
         "Whirlipede": 4,
         "Duskull": 24,
         "Abra": 16,
@@ -44,7 +44,7 @@
         "Numel": 5,
         "Pawmo": 4,
         "Wattrel": 9,
-        "Tadbulb": 10,
+        "Tadbulb": 11,
         "Yanmega": 1,
         "Tympole": 12,
         "Grubbin": 11,
@@ -55,7 +55,7 @@
         "Maschiff": 6,
         "Smoliv": 5,
         "Tirtouga": 4,
-        "Hatenna": 14,
+        "Hatenna": 16,
         "Shroomish": 3,
         "Lillipup": 12,
         "Mosslax": 22,
@@ -198,7 +198,7 @@
         "Bagon": 12,
         "Pikachu": 6,
         "Tarountula": 7,
-        "Rhyhorn": 10,
+        "Rhyhorn": 11,
         "Aipom": 4,
         "Grookey": 5,
         "Inkay": 1,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 4,
         "Luvdisc": 1,
-        "Fennekin": 8,
+        "Fennekin": 9,
         "Milcery": 7,
         "Trumbeak": 2,
         "Bonsly": 1,
@@ -349,7 +349,7 @@
         "Cyndaquil": 3,
         "Grotle": 4,
         "Tinkaton": 1,
-        "Bergmite": 3,
+        "Bergmite": 4,
         "Klang": 2,
         "Tepig": 2,
         "Spinda": 1,
@@ -709,10 +709,11 @@
         "Skiddo": 1,
         "Simisear": 2,
         "Hawlucha": 2,
-        "Stunky": 1
+        "Stunky": 1,
+        "Garbodor": 2
       },
-      "total_spawns": 2830,
-      "last_spawn": "2026-07-06T07:32:13.797519"
+      "total_spawns": 2839,
+      "last_spawn": "2026-07-06T07:32:48.375211"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1425,7 +1426,7 @@
     }
   },
   "global": {
-    "total_spawns": 68362,
+    "total_spawns": 68371,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
