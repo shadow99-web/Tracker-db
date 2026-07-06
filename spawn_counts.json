@@ -91,7 +91,7 @@
         "Sandile": 29,
         "Charmeleon": 5,
         "Riolu": 16,
-        "Gible": 24,
+        "Gible": 26,
         "Greavard": 32,
         "Snover": 7,
         "Piplup": 5,
@@ -223,7 +223,7 @@
         "Orthworm": 22,
         "Yamask": 4,
         "Nymble": 15,
-        "Snorunt": 6,
+        "Snorunt": 7,
         "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 3,
@@ -357,7 +357,7 @@
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 6,
-        "Hoppip": 17,
+        "Hoppip": 18,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 8,
@@ -843,10 +843,11 @@
         "Grumpig": 1,
         "Roaring moon": 2,
         "Slowking": 2,
-        "Kecleon": 2
+        "Kecleon": 2,
+        "Tapu lele": 2
       },
-      "total_spawns": 5034,
-      "last_spawn": "2026-07-06T23:07:28.206444"
+      "total_spawns": 5040,
+      "last_spawn": "2026-07-06T23:07:58.501973"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1559,7 +1560,7 @@
     }
   },
   "global": {
-    "total_spawns": 70566,
+    "total_spawns": 70572,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
