@@ -68,7 +68,7 @@
         "Feebas": 10,
         "Prof tangrowth": 19,
         "Vulpix": 15,
-        "Gastly": 42,
+        "Gastly": 44,
         "Aron": 25,
         "Honedge": 38,
         "Houndour": 1,
@@ -290,7 +290,7 @@
         "Infernape": 3,
         "Noibat": 7,
         "Gothorita": 5,
-        "Ekans": 2,
+        "Ekans": 3,
         "Brambleghast": 1,
         "Dartrix": 4,
         "Ceruledge": 5,
@@ -344,7 +344,7 @@
         "Solosis": 16,
         "Sandygast": 5,
         "Pidove": 12,
-        "Chespin": 3,
+        "Chespin": 4,
         "Combee": 4,
         "Cyndaquil": 4,
         "Grotle": 4,
@@ -357,7 +357,7 @@
         "Barboach": 3,
         "Nosepass": 2,
         "Electrike": 6,
-        "Hoppip": 16,
+        "Hoppip": 17,
         "Slowbro": 2,
         "Gholdengo": 3,
         "Trubbish": 8,
@@ -841,8 +841,8 @@
         "Araquanid": 2,
         "Glaceon": 2
       },
-      "total_spawns": 4960,
-      "last_spawn": "2026-07-06T22:57:48.335034"
+      "total_spawns": 4965,
+      "last_spawn": "2026-07-06T22:58:28.273689"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1555,7 +1555,7 @@
     }
   },
   "global": {
-    "total_spawns": 70492,
+    "total_spawns": 70497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
