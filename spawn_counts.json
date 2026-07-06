@@ -359,7 +359,7 @@
         "Electrike": 7,
         "Hoppip": 19,
         "Slowbro": 2,
-        "Gholdengo": 3,
+        "Gholdengo": 4,
         "Trubbish": 8,
         "Rockruff": 5,
         "Snowy castform": 1,
@@ -535,14 +535,14 @@
         "Stakataka": 1,
         "Cascoon": 6,
         "Sigilyph": 6,
-        "Vibrava": 6,
+        "Vibrava": 7,
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 3,
         "Pawniard": 7,
         "Brionne": 4,
         "Zarude": 2,
-        "Yamper": 2,
+        "Yamper": 3,
         "Tropius": 1,
         "Tatsugiri": 7,
         "Xerneas": 4,
@@ -855,8 +855,8 @@
         "Basculin": 1,
         "Clobbopus": 1
       },
-      "total_spawns": 5249,
-      "last_spawn": "2026-07-06T23:27:08.214346"
+      "total_spawns": 5252,
+      "last_spawn": "2026-07-06T23:27:38.395084"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1569,7 +1569,7 @@
     }
   },
   "global": {
-    "total_spawns": 70781,
+    "total_spawns": 70784,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
