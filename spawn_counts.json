@@ -151,7 +151,7 @@
         "Trapinch": 12,
         "Butterfree": 3,
         "Teddiursa": 34,
-        "Roggenrola": 22,
+        "Roggenrola": 24,
         "Litwick": 12,
         "Wooper": 5,
         "Pikipek": 24,
@@ -206,7 +206,7 @@
         "Fraxure": 9,
         "Zubat": 17,
         "Drowzee": 7,
-        "Lechonk": 16,
+        "Lechonk": 17,
         "Woobat": 3,
         "Skrelp": 7,
         "Lileep": 4,
@@ -232,7 +232,7 @@
         "Sizzlipede": 5,
         "Skuntank": 1,
         "Palafin": 6,
-        "Timburr": 15,
+        "Timburr": 16,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
@@ -750,7 +750,7 @@
         "Swampert": 2,
         "High plain vivillon": 1,
         "Metapod": 3,
-        "Lampent": 3,
+        "Lampent": 4,
         "Roselia": 2,
         "Pineco": 1,
         "Maractus": 2,
@@ -792,8 +792,8 @@
         "Boltund": 1,
         "Weezing": 1
       },
-      "total_spawns": 4104,
-      "last_spawn": "2026-07-06T19:08:30.906491"
+      "total_spawns": 4109,
+      "last_spawn": "2026-07-06T19:09:08.848416"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1506,7 +1506,7 @@
     }
   },
   "global": {
-    "total_spawns": 69636,
+    "total_spawns": 69641,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
