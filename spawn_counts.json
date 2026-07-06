@@ -13,7 +13,7 @@
         "Oddish": 25,
         "Totodile": 12,
         "Vanillite": 46,
-        "Weedle": 27,
+        "Weedle": 29,
         "Kabutops": 2,
         "Poliwag": 25,
         "Fidough": 25,
@@ -54,7 +54,7 @@
         "Staryu": 3,
         "Maschiff": 15,
         "Smoliv": 15,
-        "Tirtouga": 8,
+        "Tirtouga": 9,
         "Hatenna": 40,
         "Shroomish": 3,
         "Lillipup": 26,
@@ -138,7 +138,7 @@
         "Eelektrik": 4,
         "Diglett": 6,
         "Surskit": 6,
-        "Seedot": 16,
+        "Seedot": 17,
         "Jigglypuff": 7,
         "Spearow": 5,
         "Servine": 3,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 4,
         "Petilil": 9,
-        "Bombirdier": 14,
+        "Bombirdier": 15,
         "Bellibolt": 6,
         "Toedscool": 12,
         "Paras": 4,
@@ -862,8 +862,8 @@
         "Clefable": 1,
         "Mr. mime": 2
       },
-      "total_spawns": 5412,
-      "last_spawn": "2026-07-06T23:48:29.579057"
+      "total_spawns": 5417,
+      "last_spawn": "2026-07-06T23:49:08.256121"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1576,7 +1576,7 @@
     }
   },
   "global": {
-    "total_spawns": 70944,
+    "total_spawns": 70949,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
