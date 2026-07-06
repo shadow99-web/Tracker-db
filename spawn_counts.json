@@ -72,7 +72,7 @@
         "Aron": 8,
         "Honedge": 20,
         "Houndour": 1,
-        "Machop": 9,
+        "Machop": 10,
         "Terapagos": 1,
         "Mankey": 3,
         "Torterra": 1,
@@ -113,7 +113,7 @@
         "Treecko": 10,
         "Shroodle": 5,
         "Ride cyclizar": 1,
-        "Swinub": 13,
+        "Swinub": 14,
         "Rattata": 4,
         "Stonjourner": 1,
         "Veluza": 16,
@@ -323,7 +323,7 @@
         "Skitty": 7,
         "Finizen": 6,
         "Swablu": 4,
-        "Sunkern": 2,
+        "Sunkern": 3,
         "Snubbull": 1,
         "Crocalor": 1,
         "Magnemite": 5,
@@ -624,7 +624,7 @@
         "Armaldo": 3,
         "Krokorok": 1,
         "Torkoal": 3,
-        "Clamperl": 1,
+        "Clamperl": 2,
         "Rampardos": 1,
         "Weepinbell": 1,
         "Cufant": 1,
@@ -693,8 +693,8 @@
         "Pachirisu": 1,
         "Furret": 2
       },
-      "total_spawns": 2631,
-      "last_spawn": "2026-07-06T07:07:04.005305"
+      "total_spawns": 2635,
+      "last_spawn": "2026-07-06T07:07:43.817357"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1407,7 +1407,7 @@
     }
   },
   "global": {
-    "total_spawns": 68163,
+    "total_spawns": 68167,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
