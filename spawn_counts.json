@@ -134,7 +134,7 @@
         "Torchic": 8,
         "Abomasnow": 3,
         "Slugma": 5,
-        "Venonat": 3,
+        "Venonat": 4,
         "Eelektrik": 3,
         "Diglett": 5,
         "Surskit": 6,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 8,
         "Mienshao": 2,
-        "Blipbug": 24,
+        "Blipbug": 25,
         "Rellor": 7,
         "Rolycoly": 12,
         "Poliwhirl": 4,
@@ -220,7 +220,7 @@
         "Shuppet": 8,
         "Graveler": 1,
         "Duosion": 3,
-        "Orthworm": 14,
+        "Orthworm": 15,
         "Yamask": 2,
         "Nymble": 12,
         "Snorunt": 2,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 2,
         "Whismur": 13,
-        "Jangmo-o": 6,
+        "Jangmo-o": 7,
         "Lunatone": 1,
         "Machoke": 4,
         "Luvdisc": 1,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3192,
-      "last_spawn": "2026-07-06T09:32:14.899436"
+      "total_spawns": 3196,
+      "last_spawn": "2026-07-06T09:32:53.522240"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68724,
+    "total_spawns": 68728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
