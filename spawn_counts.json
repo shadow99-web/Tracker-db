@@ -161,7 +161,7 @@
         "Swadloon": 4,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 9,
+        "Venipede": 10,
         "Pansage": 2,
         "Cetoddle": 8,
         "Togepi": 6,
@@ -213,7 +213,7 @@
         "Drifloon": 1,
         "Mightyena": 3,
         "Sandaconda": 1,
-        "Froakie": 6,
+        "Froakie": 8,
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 3,
@@ -295,7 +295,7 @@
         "Dartrix": 2,
         "Ceruledge": 1,
         "Vanillish": 2,
-        "Gimmighoul": 7,
+        "Gimmighoul": 8,
         "Glimmet": 10,
         "Popplio": 3,
         "Arboliva": 2,
@@ -340,7 +340,7 @@
         "Furfrou": 2,
         "Ursaring": 2,
         "Bidoof": 2,
-        "Gothita": 6,
+        "Gothita": 7,
         "Solosis": 12,
         "Sandygast": 3,
         "Pidove": 7,
@@ -705,8 +705,8 @@
         "Fuecoco": 1,
         "Loudred": 1
       },
-      "total_spawns": 2762,
-      "last_spawn": "2026-07-06T07:25:13.818607"
+      "total_spawns": 2767,
+      "last_spawn": "2026-07-06T07:25:53.701090"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1419,7 +1419,7 @@
     }
   },
   "global": {
-    "total_spawns": 68294,
+    "total_spawns": 68299,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
