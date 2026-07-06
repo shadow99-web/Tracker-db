@@ -162,7 +162,7 @@
         "Sunny castform": 4,
         "Vullaby": 5,
         "Venipede": 24,
-        "Pansage": 3,
+        "Pansage": 4,
         "Cetoddle": 14,
         "Togepi": 16,
         "Tandemaus": 16,
@@ -512,7 +512,7 @@
         "Liepard": 3,
         "Necrozma": 2,
         "Dewott": 3,
-        "Braviary": 6,
+        "Braviary": 8,
         "Low key toxtricity": 4,
         "Nidorina": 5,
         "Bronzong": 2,
@@ -539,7 +539,7 @@
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 3,
-        "Pawniard": 7,
+        "Pawniard": 8,
         "Brionne": 4,
         "Zarude": 2,
         "Yamper": 3,
@@ -645,7 +645,7 @@
         "Scizor": 4,
         "Shiinotic": 7,
         "Simisage": 2,
-        "Cherubi": 4,
+        "Cherubi": 5,
         "Heatmor": 1,
         "Vikavolt": 4,
         "Eelektross": 2,
@@ -861,8 +861,8 @@
         "Kabuto": 1,
         "Clefable": 1
       },
-      "total_spawns": 5395,
-      "last_spawn": "2026-07-06T23:46:18.252499"
+      "total_spawns": 5400,
+      "last_spawn": "2026-07-06T23:46:58.294014"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1575,7 +1575,7 @@
     }
   },
   "global": {
-    "total_spawns": 70927,
+    "total_spawns": 70932,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
