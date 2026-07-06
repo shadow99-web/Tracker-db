@@ -180,7 +180,7 @@
         "Houndstone": 3,
         "Beldum": 21,
         "Kadabra": 10,
-        "Grovyle": 10,
+        "Grovyle": 11,
         "Dratini": 21,
         "Steelix": 2,
         "Sprigatito": 13,
@@ -334,7 +334,7 @@
         "Floragato": 5,
         "Larvesta": 19,
         "Magby": 1,
-        "Roaming gimmighoul": 10,
+        "Roaming gimmighoul": 11,
         "Volcarona": 5,
         "Togekiss": 3,
         "Furfrou": 4,
@@ -792,7 +792,7 @@
         "Boltund": 1,
         "Weezing": 1,
         "Blue flower florges": 1,
-        "Dudunsparce": 1,
+        "Dudunsparce": 2,
         "Kingler": 2,
         "Aurorus": 2,
         "Cacnea": 2,
@@ -850,10 +850,11 @@
         "Morgrem": 1,
         "Budew": 1,
         "Dragapult": 2,
-        "Blue flower floette": 1
+        "Blue flower floette": 1,
+        "Jumpluff": 1
       },
-      "total_spawns": 5195,
-      "last_spawn": "2026-07-06T23:19:58.318994"
+      "total_spawns": 5199,
+      "last_spawn": "2026-07-06T23:20:28.495985"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1566,7 +1567,7 @@
     }
   },
   "global": {
-    "total_spawns": 70727,
+    "total_spawns": 70731,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
