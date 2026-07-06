@@ -22,7 +22,7 @@
         "Rowlet": 9,
         "Anorith": 7,
         "Arctibax": 3,
-        "Ralts": 32,
+        "Ralts": 34,
         "Peakychu": 27,
         "Cutiefly": 5,
         "Simipour": 2,
@@ -32,12 +32,12 @@
         "Pidgey": 19,
         "Binacle": 7,
         "Bounsweet": 36,
-        "Fletchling": 22,
+        "Fletchling": 23,
         "Whirlipede": 5,
         "Duskull": 44,
         "Abra": 26,
         "Wiglett": 16,
-        "Starly": 31,
+        "Starly": 33,
         "Caterpie": 12,
         "Mareep": 18,
         "Capsakid": 19,
@@ -121,7 +121,7 @@
         "Crabrawler": 4,
         "Frogadier": 4,
         "Scovillain": 4,
-        "White plumage squawkabilly": 8,
+        "White plumage squawkabilly": 9,
         "Flaaffy": 4,
         "Rookidee": 43,
         "Flapple": 6,
@@ -164,7 +164,7 @@
         "Venipede": 24,
         "Pansage": 3,
         "Cetoddle": 13,
-        "Togepi": 14,
+        "Togepi": 15,
         "Tandemaus": 16,
         "Clefairy": 5,
         "Unown q": 1,
@@ -585,7 +585,7 @@
         "Lombre": 5,
         "Dachsbun": 5,
         "Primeape": 4,
-        "Goldeen": 6,
+        "Goldeen": 7,
         "Gouging fire": 2,
         "Cottonee": 2,
         "Flareon": 2,
@@ -851,8 +851,8 @@
         "Budew": 1,
         "Dragapult": 2
       },
-      "total_spawns": 5175,
-      "last_spawn": "2026-07-06T23:17:53.540808"
+      "total_spawns": 5183,
+      "last_spawn": "2026-07-06T23:18:23.619037"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1565,7 +1565,7 @@
     }
   },
   "global": {
-    "total_spawns": 70707,
+    "total_spawns": 70715,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
