@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 7,
         "Oddish": 21,
-        "Totodile": 4,
+        "Totodile": 5,
         "Vanillite": 34,
         "Weedle": 23,
         "Kabutops": 2,
@@ -135,7 +135,7 @@
         "Abomasnow": 5,
         "Slugma": 5,
         "Venonat": 5,
-        "Eelektrik": 3,
+        "Eelektrik": 4,
         "Diglett": 6,
         "Surskit": 6,
         "Seedot": 14,
@@ -168,7 +168,7 @@
         "Tandemaus": 13,
         "Clefairy": 3,
         "Unown q": 1,
-        "Lotad": 13,
+        "Lotad": 14,
         "Mienshao": 2,
         "Blipbug": 30,
         "Rellor": 9,
@@ -795,10 +795,11 @@
         "Dudunsparce": 1,
         "Kingler": 2,
         "Aurorus": 2,
-        "Cacnea": 1
+        "Cacnea": 1,
+        "Sableye": 2
       },
-      "total_spawns": 4175,
-      "last_spawn": "2026-07-06T19:23:18.256536"
+      "total_spawns": 4180,
+      "last_spawn": "2026-07-06T19:23:58.232719"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1511,7 +1512,7 @@
     }
   },
   "global": {
-    "total_spawns": 69707,
+    "total_spawns": 69712,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
