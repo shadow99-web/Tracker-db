@@ -12,7 +12,7 @@
         "Braixen": 7,
         "Oddish": 21,
         "Totodile": 5,
-        "Vanillite": 34,
+        "Vanillite": 36,
         "Weedle": 23,
         "Kabutops": 2,
         "Poliwag": 15,
@@ -177,7 +177,7 @@
         "Lokix": 8,
         "Flamigo": 10,
         "Bellsprout": 13,
-        "Houndstone": 2,
+        "Houndstone": 3,
         "Beldum": 19,
         "Kadabra": 10,
         "Grovyle": 9,
@@ -242,7 +242,7 @@
         "Machoke": 5,
         "Luvdisc": 1,
         "Fennekin": 11,
-        "Milcery": 11,
+        "Milcery": 13,
         "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
@@ -799,8 +799,8 @@
         "Sableye": 2,
         "Persian": 1
       },
-      "total_spawns": 4215,
-      "last_spawn": "2026-07-06T19:28:38.351975"
+      "total_spawns": 4220,
+      "last_spawn": "2026-07-06T19:29:08.400287"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1513,7 +1513,7 @@
     }
   },
   "global": {
-    "total_spawns": 69747,
+    "total_spawns": 69752,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
