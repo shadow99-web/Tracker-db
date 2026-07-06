@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 6,
         "Arctibax": 3,
-        "Ralts": 26,
+        "Ralts": 28,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 16,
         "Binacle": 4,
-        "Bounsweet": 32,
+        "Bounsweet": 33,
         "Fletchling": 17,
         "Whirlipede": 5,
         "Duskull": 34,
@@ -297,7 +297,7 @@
         "Vanillish": 5,
         "Gimmighoul": 13,
         "Glimmet": 13,
-        "Popplio": 4,
+        "Popplio": 5,
         "Arboliva": 2,
         "Luxio": 3,
         "Quaxwell": 2,
@@ -795,7 +795,7 @@
         "Dudunsparce": 1,
         "Kingler": 2,
         "Aurorus": 2,
-        "Cacnea": 1,
+        "Cacnea": 2,
         "Sableye": 2,
         "Persian": 1,
         "Toedscruel": 1,
@@ -808,8 +808,8 @@
         "Zygarde": 2,
         "Dewgong": 1
       },
-      "total_spawns": 4322,
-      "last_spawn": "2026-07-06T19:49:58.661926"
+      "total_spawns": 4327,
+      "last_spawn": "2026-07-06T19:50:38.272948"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1522,7 +1522,7 @@
     }
   },
   "global": {
-    "total_spawns": 69854,
+    "total_spawns": 69859,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
