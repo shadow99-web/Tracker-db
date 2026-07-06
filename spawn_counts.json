@@ -15,7 +15,7 @@
         "Vanillite": 40,
         "Weedle": 25,
         "Kabutops": 2,
-        "Poliwag": 20,
+        "Poliwag": 21,
         "Fidough": 21,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -448,7 +448,7 @@
         "Battle cyclizar": 3,
         "Minccino": 4,
         "Hippowdon": 2,
-        "Gloom": 2,
+        "Gloom": 3,
         "Mew": 4,
         "Thwackey": 4,
         "Latios": 2,
@@ -838,10 +838,11 @@
         "Smoochum": 1,
         "Drampa": 1,
         "Shieldon": 1,
-        "Araquanid": 1
+        "Araquanid": 2,
+        "Glaceon": 1
       },
-      "total_spawns": 4948,
-      "last_spawn": "2026-07-06T22:56:38.153323"
+      "total_spawns": 4952,
+      "last_spawn": "2026-07-06T22:57:08.391485"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1554,7 +1555,7 @@
     }
   },
   "global": {
-    "total_spawns": 70480,
+    "total_spawns": 70484,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
