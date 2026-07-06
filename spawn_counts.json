@@ -51,7 +51,7 @@
         "Scatterbug": 9,
         "Skwovet": 5,
         "Applin": 3,
-        "Staryu": 1,
+        "Staryu": 2,
         "Maschiff": 8,
         "Smoliv": 7,
         "Tirtouga": 4,
@@ -172,7 +172,7 @@
         "Mienshao": 2,
         "Blipbug": 26,
         "Rellor": 7,
-        "Rolycoly": 12,
+        "Rolycoly": 13,
         "Poliwhirl": 4,
         "Lokix": 4,
         "Flamigo": 8,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 1,
-        "Wurmple": 18,
+        "Wurmple": 20,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3200,
-      "last_spawn": "2026-07-06T09:33:23.703487"
+      "total_spawns": 3204,
+      "last_spawn": "2026-07-06T09:33:54.399307"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68732,
+    "total_spawns": 68736,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
