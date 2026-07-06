@@ -779,7 +779,7 @@
         "Horsea": 20,
         "Teddiursa": 21,
         "Dratini": 6,
-        "Sewaddle": 10,
+        "Sewaddle": 11,
         "Mantyke": 3,
         "Slakoth": 17,
         "Dreepy": 14,
@@ -833,7 +833,7 @@
         "Bellibolt": 3,
         "Quilladin": 3,
         "Vulpix": 8,
-        "Sizzlipede": 8,
+        "Sizzlipede": 9,
         "Spiky-eared pichu": 1,
         "Swadloon": 1,
         "Tynamo": 14,
@@ -993,7 +993,7 @@
         "Mewtwo": 1,
         "Pachirisu": 2,
         "Ursaring": 4,
-        "Zweilous": 2,
+        "Zweilous": 3,
         "Amoonguss": 1,
         "Varoom": 9,
         "Kirlia": 4,
@@ -1012,7 +1012,7 @@
         "Pawniard": 5,
         "Rabsca": 4,
         "Cofagrigus": 2,
-        "Hattrem": 4,
+        "Hattrem": 5,
         "Sneasel": 3,
         "Piplup": 4,
         "Electrike": 6,
@@ -1386,12 +1386,12 @@
         "Honchkrow": 1,
         "Krabby": 1
       },
-      "total_spawns": 2955,
-      "last_spawn": "2026-07-06T00:02:16.610942"
+      "total_spawns": 2959,
+      "last_spawn": "2026-07-06T00:02:54.494522"
     }
   },
   "global": {
-    "total_spawns": 67983,
+    "total_spawns": 67987,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
