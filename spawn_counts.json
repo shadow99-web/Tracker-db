@@ -171,12 +171,12 @@
         "Lotad": 14,
         "Mienshao": 2,
         "Blipbug": 30,
-        "Rellor": 9,
+        "Rellor": 10,
         "Rolycoly": 18,
         "Poliwhirl": 5,
         "Lokix": 8,
         "Flamigo": 10,
-        "Bellsprout": 13,
+        "Bellsprout": 14,
         "Houndstone": 3,
         "Beldum": 19,
         "Kadabra": 10,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 2,
         "Farfetch'd": 2,
-        "Grafaiai": 4,
+        "Grafaiai": 5,
         "Fearow": 2,
         "Squawkabilly": 5,
         "Seadra": 1,
@@ -812,8 +812,8 @@
         "Sneasler": 4,
         "Swoobat": 1
       },
-      "total_spawns": 4463,
-      "last_spawn": "2026-07-06T22:00:18.242469"
+      "total_spawns": 4466,
+      "last_spawn": "2026-07-06T22:00:48.382506"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1526,7 @@
     }
   },
   "global": {
-    "total_spawns": 69995,
+    "total_spawns": 69998,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
