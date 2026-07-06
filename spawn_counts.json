@@ -39,7 +39,7 @@
         "Wiglett": 14,
         "Starly": 29,
         "Caterpie": 9,
-        "Mareep": 16,
+        "Mareep": 17,
         "Capsakid": 15,
         "Numel": 8,
         "Pawmo": 7,
@@ -128,7 +128,7 @@
         "Bronzor": 4,
         "Swirlix": 6,
         "Varoom": 18,
-        "Ducklett": 4,
+        "Ducklett": 5,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
         "Torchic": 10,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 20,
         "Pikachu": 10,
-        "Tarountula": 13,
+        "Tarountula": 14,
         "Rhyhorn": 16,
         "Aipom": 4,
         "Grookey": 7,
@@ -798,10 +798,11 @@
         "Cacnea": 1,
         "Sableye": 2,
         "Persian": 1,
-        "Toedscruel": 1
+        "Toedscruel": 1,
+        "Alolan muk": 2
       },
-      "total_spawns": 4227,
-      "last_spawn": "2026-07-06T19:30:18.663300"
+      "total_spawns": 4232,
+      "last_spawn": "2026-07-06T19:30:58.400806"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1514,7 +1515,7 @@
     }
   },
   "global": {
-    "total_spawns": 69759,
+    "total_spawns": 69764,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
