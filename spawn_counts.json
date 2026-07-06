@@ -82,7 +82,7 @@
         "Bramblin": 13,
         "Stufful": 7,
         "Shelgon": 5,
-        "Marshtomp": 9,
+        "Marshtomp": 11,
         "Squirtle": 11,
         "Shinx": 40,
         "Drakloak": 5,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 6,
-        "Varoom": 20,
+        "Varoom": 22,
         "Ducklett": 5,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 43,
+        "Axew": 45,
         "Joltik": 5,
         "Gulpin": 5,
         "Mareanie": 4,
@@ -600,7 +600,7 @@
         "Grimer": 3,
         "Frosmoth": 6,
         "Darumaka": 3,
-        "Cubone": 1,
+        "Cubone": 2,
         "Conkeldurr": 1,
         "Sinistea": 4,
         "Golbat": 6,
@@ -816,8 +816,8 @@
         "Seaking": 2,
         "Glalie": 1
       },
-      "total_spawns": 4614,
-      "last_spawn": "2026-07-06T22:20:18.449446"
+      "total_spawns": 4621,
+      "last_spawn": "2026-07-06T22:20:58.261638"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1530,7 +1530,7 @@
     }
   },
   "global": {
-    "total_spawns": 70146,
+    "total_spawns": 70153,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
