@@ -46,9 +46,9 @@
         "Wattrel": 11,
         "Tadbulb": 13,
         "Yanmega": 1,
-        "Tympole": 14,
+        "Tympole": 15,
         "Grubbin": 14,
-        "Scatterbug": 9,
+        "Scatterbug": 10,
         "Skwovet": 5,
         "Applin": 3,
         "Staryu": 2,
@@ -210,7 +210,7 @@
         "Woobat": 3,
         "Skrelp": 7,
         "Lileep": 3,
-        "Drifloon": 2,
+        "Drifloon": 3,
         "Mightyena": 3,
         "Sandaconda": 1,
         "Froakie": 8,
@@ -249,7 +249,7 @@
         "Rhydon": 5,
         "Ambipom": 3,
         "Solrock": 1,
-        "Tinkatuff": 1,
+        "Tinkatuff": 2,
         "Drednaw": 3,
         "Corvisquire": 6,
         "Croconaw": 4,
@@ -748,8 +748,8 @@
         "Bisharp": 1,
         "Forretress": 1
       },
-      "total_spawns": 3344,
-      "last_spawn": "2026-07-06T09:53:13.896499"
+      "total_spawns": 3348,
+      "last_spawn": "2026-07-06T09:53:53.694518"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1462,7 +1462,7 @@
     }
   },
   "global": {
-    "total_spawns": 68876,
+    "total_spawns": 68880,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
