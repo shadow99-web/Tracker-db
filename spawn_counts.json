@@ -69,7 +69,7 @@
         "Prof tangrowth": 18,
         "Vulpix": 13,
         "Gastly": 32,
-        "Aron": 19,
+        "Aron": 20,
         "Honedge": 30,
         "Houndour": 1,
         "Machop": 14,
@@ -327,7 +327,7 @@
         "Snubbull": 1,
         "Crocalor": 2,
         "Magnemite": 13,
-        "Doublade": 1,
+        "Doublade": 2,
         "Sharpedo": 1,
         "Raboot": 5,
         "Oinkologne": 3,
@@ -783,10 +783,11 @@
         "Chandelure": 1,
         "Umbreon": 2,
         "Ninjask": 1,
-        "Arctovish": 1
+        "Arctovish": 1,
+        "Ariados": 1
       },
-      "total_spawns": 3952,
-      "last_spawn": "2026-07-06T18:34:33.528349"
+      "total_spawns": 3955,
+      "last_spawn": "2026-07-06T18:35:03.827992"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1499,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69484,
+    "total_spawns": 69487,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
