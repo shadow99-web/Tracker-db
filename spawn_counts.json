@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 12,
         "Grubbin": 12,
-        "Scatterbug": 8,
+        "Scatterbug": 9,
         "Skwovet": 5,
         "Applin": 3,
         "Staryu": 1,
@@ -326,7 +326,7 @@
         "Sunkern": 3,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 9,
+        "Magnemite": 10,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 4,
@@ -390,7 +390,7 @@
         "Gulpin": 2,
         "Mareanie": 4,
         "Throh": 3,
-        "Sentret": 6,
+        "Sentret": 8,
         "Houndoom": 1,
         "Meganium": 4,
         "Rainy castform": 3,
@@ -603,7 +603,7 @@
         "Cubone": 1,
         "Conkeldurr": 1,
         "Sinistea": 2,
-        "Golbat": 4,
+        "Golbat": 5,
         "Amoonguss": 2,
         "Herdier": 1,
         "Blissey": 2,
@@ -725,8 +725,8 @@
         "Sawk": 1,
         "Azumarill": 1
       },
-      "total_spawns": 3005,
-      "last_spawn": "2026-07-06T07:45:18.424037"
+      "total_spawns": 3010,
+      "last_spawn": "2026-07-06T07:45:58.202213"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1439,7 +1439,7 @@
     }
   },
   "global": {
-    "total_spawns": 68537,
+    "total_spawns": 68542,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
