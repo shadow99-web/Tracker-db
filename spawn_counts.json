@@ -37,7 +37,7 @@
         "Duskull": 28,
         "Abra": 19,
         "Wiglett": 13,
-        "Starly": 28,
+        "Starly": 29,
         "Caterpie": 8,
         "Mareep": 13,
         "Capsakid": 15,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 18,
         "Vulpix": 13,
         "Gastly": 32,
-        "Aron": 18,
+        "Aron": 19,
         "Honedge": 26,
         "Houndour": 1,
         "Machop": 14,
@@ -200,7 +200,7 @@
         "Tarountula": 11,
         "Rhyhorn": 13,
         "Aipom": 4,
-        "Grookey": 6,
+        "Grookey": 7,
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 9,
@@ -593,12 +593,12 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 2,
-        "Wurmple": 28,
+        "Wurmple": 30,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
         "Grimer": 3,
-        "Frosmoth": 2,
+        "Frosmoth": 3,
         "Darumaka": 3,
         "Cubone": 1,
         "Conkeldurr": 1,
@@ -779,8 +779,8 @@
         "Ferrothorn": 1,
         "Piloswine": 1
       },
-      "total_spawns": 3756,
-      "last_spawn": "2026-07-06T16:12:18.211215"
+      "total_spawns": 3762,
+      "last_spawn": "2026-07-06T16:12:58.341807"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1493,7 +1493,7 @@
     }
   },
   "global": {
-    "total_spawns": 69288,
+    "total_spawns": 69294,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
