@@ -93,7 +93,7 @@
         "Riolu": 14,
         "Gible": 18,
         "Greavard": 24,
-        "Snover": 3,
+        "Snover": 5,
         "Piplup": 2,
         "Dondozo": 5,
         "Cyclizar": 4,
@@ -171,7 +171,7 @@
         "Lotad": 6,
         "Mienshao": 2,
         "Blipbug": 20,
-        "Rellor": 4,
+        "Rellor": 5,
         "Rolycoly": 9,
         "Poliwhirl": 4,
         "Lokix": 3,
@@ -205,7 +205,7 @@
         "Unfezant": 2,
         "Fraxure": 3,
         "Zubat": 12,
-        "Drowzee": 3,
+        "Drowzee": 4,
         "Lechonk": 11,
         "Woobat": 3,
         "Skrelp": 5,
@@ -259,7 +259,7 @@
         "Skeledirge": 1,
         "Taillow": 3,
         "Watchog": 3,
-        "Porygon": 9,
+        "Porygon": 10,
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
@@ -700,8 +700,8 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1
       },
-      "total_spawns": 2688,
-      "last_spawn": "2026-07-06T07:15:13.741336"
+      "total_spawns": 2693,
+      "last_spawn": "2026-07-06T07:15:53.996108"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1414,7 +1414,7 @@
     }
   },
   "global": {
-    "total_spawns": 68220,
+    "total_spawns": 68225,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
