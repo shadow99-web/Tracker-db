@@ -184,7 +184,7 @@
         "Dratini": 15,
         "Steelix": 2,
         "Sprigatito": 11,
-        "Charcadet": 33,
+        "Charcadet": 35,
         "Mudsdale": 4,
         "Meowth": 13,
         "Charmander": 13,
@@ -277,7 +277,7 @@
         "Ledyba": 2,
         "Chinchou": 5,
         "Eiscue": 1,
-        "Nacli": 11,
+        "Nacli": 14,
         "Pancham": 3,
         "Bulbasaur": 15,
         "Dewpider": 5,
@@ -285,7 +285,7 @@
         "Hattrem": 5,
         "Trash wormadam": 2,
         "Purrloin": 2,
-        "Zigzagoon": 3,
+        "Zigzagoon": 4,
         "Quilladin": 1,
         "Infernape": 3,
         "Noibat": 7,
@@ -313,7 +313,7 @@
         "Kilowattrel": 3,
         "Pumpkaboo": 3,
         "Petilil": 5,
-        "Bombirdier": 11,
+        "Bombirdier": 12,
         "Bellibolt": 6,
         "Toedscool": 7,
         "Paras": 4,
@@ -432,7 +432,7 @@
         "Frigibax": 35,
         "Iron valiant": 2,
         "Ludicolo": 4,
-        "Scraggy": 4,
+        "Scraggy": 5,
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
@@ -633,7 +633,7 @@
         "Komala": 2,
         "Poochyena": 3,
         "Hero palafin": 1,
-        "Klinklang": 2,
+        "Klinklang": 3,
         "Lickilicky": 5,
         "Unown k": 2,
         "Elekid": 2,
@@ -784,8 +784,8 @@
         "Umbreon": 2,
         "Ninjask": 1
       },
-      "total_spawns": 3893,
-      "last_spawn": "2026-07-06T18:29:08.250966"
+      "total_spawns": 3902,
+      "last_spawn": "2026-07-06T18:29:38.307056"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1498,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 69425,
+    "total_spawns": 69434,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
