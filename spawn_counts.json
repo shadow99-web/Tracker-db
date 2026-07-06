@@ -32,7 +32,7 @@
         "Pidgey": 16,
         "Binacle": 4,
         "Bounsweet": 34,
-        "Fletchling": 17,
+        "Fletchling": 18,
         "Whirlipede": 5,
         "Duskull": 34,
         "Abra": 25,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 18,
         "Vulpix": 13,
         "Gastly": 34,
-        "Aron": 20,
+        "Aron": 21,
         "Honedge": 34,
         "Houndour": 1,
         "Machop": 16,
@@ -759,7 +759,7 @@
         "Indeedee": 3,
         "Beheeyem": 2,
         "Chimecho": 2,
-        "Natu": 2,
+        "Natu": 3,
         "Gorebyss": 1,
         "Eldegoss": 1,
         "Pinsir": 1,
@@ -812,8 +812,8 @@
         "Sneasler": 4,
         "Swoobat": 1
       },
-      "total_spawns": 4450,
-      "last_spawn": "2026-07-06T21:58:28.210016"
+      "total_spawns": 4453,
+      "last_spawn": "2026-07-06T21:58:58.304678"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1526,7 +1526,7 @@
     }
   },
   "global": {
-    "total_spawns": 69982,
+    "total_spawns": 69985,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
