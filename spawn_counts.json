@@ -22,7 +22,7 @@
         "Rowlet": 7,
         "Anorith": 6,
         "Arctibax": 3,
-        "Ralts": 28,
+        "Ralts": 30,
         "Peakychu": 23,
         "Cutiefly": 4,
         "Simipour": 2,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 16,
         "Binacle": 4,
-        "Bounsweet": 33,
+        "Bounsweet": 34,
         "Fletchling": 17,
         "Whirlipede": 5,
         "Duskull": 34,
@@ -477,7 +477,7 @@
         "Alolan raichu": 2,
         "Hitmontop": 2,
         "Pignite": 3,
-        "Bunnelby": 3,
+        "Bunnelby": 4,
         "Complete zygarde": 3,
         "Mudbray": 6,
         "Spectrier": 1,
@@ -703,7 +703,7 @@
         "Glimmora": 3,
         "Parasect": 1,
         "Fuecoco": 3,
-        "Loudred": 2,
+        "Loudred": 3,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 4,
@@ -808,8 +808,8 @@
         "Zygarde": 2,
         "Dewgong": 1
       },
-      "total_spawns": 4327,
-      "last_spawn": "2026-07-06T19:50:38.272948"
+      "total_spawns": 4332,
+      "last_spawn": "2026-07-06T19:51:08.407286"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1522,7 +1522,7 @@
     }
   },
   "global": {
-    "total_spawns": 69859,
+    "total_spawns": 69864,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
