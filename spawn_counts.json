@@ -174,7 +174,7 @@
         "Rellor": 7,
         "Rolycoly": 14,
         "Poliwhirl": 4,
-        "Lokix": 5,
+        "Lokix": 6,
         "Flamigo": 9,
         "Bellsprout": 12,
         "Houndstone": 2,
@@ -429,7 +429,7 @@
         "Haunter": 3,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 27,
+        "Frigibax": 29,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 4,
@@ -626,7 +626,7 @@
         "Torkoal": 3,
         "Clamperl": 2,
         "Rampardos": 1,
-        "Weepinbell": 1,
+        "Weepinbell": 2,
         "Cufant": 1,
         "Mienfoo": 2,
         "Quagsire": 1,
@@ -754,10 +754,11 @@
         "Roselia": 1,
         "Pineco": 1,
         "Maractus": 2,
-        "Togetic": 1
+        "Togetic": 1,
+        "Bewear": 2
       },
-      "total_spawns": 3467,
-      "last_spawn": "2026-07-06T12:20:03.879666"
+      "total_spawns": 3473,
+      "last_spawn": "2026-07-06T12:20:43.701699"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1470,7 +1471,7 @@
     }
   },
   "global": {
-    "total_spawns": 68999,
+    "total_spawns": 69005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
