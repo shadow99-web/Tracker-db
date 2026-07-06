@@ -16,7 +16,7 @@
         "Weedle": 19,
         "Kabutops": 2,
         "Poliwag": 13,
-        "Fidough": 11,
+        "Fidough": 12,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 3,
@@ -165,14 +165,14 @@
         "Pansage": 2,
         "Cetoddle": 9,
         "Togepi": 7,
-        "Tandemaus": 8,
+        "Tandemaus": 9,
         "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 7,
         "Mienshao": 2,
         "Blipbug": 22,
         "Rellor": 7,
-        "Rolycoly": 11,
+        "Rolycoly": 12,
         "Poliwhirl": 4,
         "Lokix": 4,
         "Flamigo": 7,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 7,
-        "Finizen": 8,
+        "Finizen": 9,
         "Swablu": 4,
         "Sunkern": 3,
         "Snubbull": 1,
@@ -429,7 +429,7 @@
         "Haunter": 2,
         "Dottler": 1,
         "Wailmer": 3,
-        "Frigibax": 25,
+        "Frigibax": 27,
         "Iron valiant": 2,
         "Ludicolo": 2,
         "Scraggy": 4,
@@ -719,10 +719,11 @@
         "Dustox": 1,
         "Alolan grimer": 2,
         "Ursaluna": 2,
-        "Blastoise": 2
+        "Blastoise": 2,
+        "Wormadam": 1
       },
-      "total_spawns": 2957,
-      "last_spawn": "2026-07-06T07:41:18.194088"
+      "total_spawns": 2964,
+      "last_spawn": "2026-07-06T07:41:48.401628"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1435,7 +1436,7 @@
     }
   },
   "global": {
-    "total_spawns": 68489,
+    "total_spawns": 68496,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
