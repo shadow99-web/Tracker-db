@@ -213,7 +213,7 @@
         "Drifloon": 1,
         "Mightyena": 3,
         "Sandaconda": 1,
-        "Froakie": 4,
+        "Froakie": 5,
         "Kingdra": 1,
         "Chikorita": 3,
         "Donphan": 3,
@@ -315,7 +315,7 @@
         "Petilil": 3,
         "Bombirdier": 7,
         "Bellibolt": 4,
-        "Toedscool": 4,
+        "Toedscool": 5,
         "Paras": 2,
         "Fletchinder": 1,
         "Staravia": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 3,
-        "Spheal": 10,
+        "Spheal": 11,
         "Amaura": 3,
         "Wailord": 1,
         "Accelgor": 2,
@@ -622,7 +622,7 @@
         "Spoink": 1,
         "Dhelmise": 1,
         "Armaldo": 3,
-        "Krokorok": 2,
+        "Krokorok": 3,
         "Torkoal": 3,
         "Clamperl": 2,
         "Rampardos": 1,
@@ -701,8 +701,8 @@
         "Hakamo-o": 1,
         "Spidops": 1
       },
-      "total_spawns": 2714,
-      "last_spawn": "2026-07-06T07:18:43.697899"
+      "total_spawns": 2718,
+      "last_spawn": "2026-07-06T07:19:23.694590"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1415,7 +1415,7 @@
     }
   },
   "global": {
-    "total_spawns": 68246,
+    "total_spawns": 68250,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
