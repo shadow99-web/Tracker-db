@@ -219,7 +219,7 @@
         "Donphan": 5,
         "Shuppet": 12,
         "Graveler": 3,
-        "Duosion": 4,
+        "Duosion": 5,
         "Orthworm": 22,
         "Yamask": 4,
         "Nymble": 14,
@@ -673,7 +673,7 @@
         "Wash rotom": 1,
         "Igglybuff": 1,
         "Garchomp": 4,
-        "Wigglytuff": 1,
+        "Wigglytuff": 3,
         "Pangoro": 1,
         "Galarian zen darmanitan": 2,
         "Basculegion": 4,
@@ -826,7 +826,7 @@
         "Gogoat": 1,
         "Beedrill": 1,
         "Sandslash": 1,
-        "Pupitar": 1,
+        "Pupitar": 2,
         "Zeraora": 2,
         "Cobalion": 2,
         "Greedent": 1,
@@ -845,8 +845,8 @@
         "Slowking": 2,
         "Kecleon": 2
       },
-      "total_spawns": 5014,
-      "last_spawn": "2026-07-06T23:04:58.575880"
+      "total_spawns": 5018,
+      "last_spawn": "2026-07-06T23:05:28.804876"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1559,7 +1559,7 @@
     }
   },
   "global": {
-    "total_spawns": 70546,
+    "total_spawns": 70550,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
