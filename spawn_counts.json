@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 22,
         "Whirlipede": 5,
-        "Duskull": 42,
+        "Duskull": 43,
         "Abra": 26,
         "Wiglett": 16,
         "Starly": 31,
@@ -87,7 +87,7 @@
         "Shinx": 44,
         "Drakloak": 7,
         "Victini": 1,
-        "Pawmi": 37,
+        "Pawmi": 39,
         "Sandile": 29,
         "Charmeleon": 7,
         "Riolu": 16,
@@ -99,7 +99,7 @@
         "Cyclizar": 6,
         "Froslass": 2,
         "Dodrio": 7,
-        "Metagross": 4,
+        "Metagross": 6,
         "Corphish": 4,
         "Doduo": 5,
         "Flittle": 19,
@@ -111,10 +111,10 @@
         "Eevee": 14,
         "Dreepy": 43,
         "Treecko": 10,
-        "Shroodle": 15,
+        "Shroodle": 16,
         "Ride cyclizar": 7,
         "Swinub": 24,
-        "Rattata": 9,
+        "Rattata": 10,
         "Stonjourner": 1,
         "Veluza": 28,
         "Panpour": 6,
@@ -222,7 +222,7 @@
         "Duosion": 5,
         "Orthworm": 22,
         "Yamask": 4,
-        "Nymble": 15,
+        "Nymble": 16,
         "Snorunt": 7,
         "Carvanha": 4,
         "Toxel": 4,
@@ -845,10 +845,11 @@
         "Slowking": 2,
         "Kecleon": 2,
         "Tapu lele": 2,
-        "Naclstack": 1
+        "Naclstack": 1,
+        "Wobbuffet": 1
       },
-      "total_spawns": 5107,
-      "last_spawn": "2026-07-06T23:12:58.418275"
+      "total_spawns": 5116,
+      "last_spawn": "2026-07-06T23:13:33.738582"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1561,7 +1562,7 @@
     }
   },
   "global": {
-    "total_spawns": 70639,
+    "total_spawns": 70648,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
