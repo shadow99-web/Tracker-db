@@ -95,7 +95,7 @@
         "Greavard": 26,
         "Snover": 5,
         "Piplup": 2,
-        "Dondozo": 6,
+        "Dondozo": 7,
         "Cyclizar": 4,
         "Froslass": 1,
         "Dodrio": 1,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 7,
         "Butterfree": 3,
-        "Teddiursa": 24,
+        "Teddiursa": 26,
         "Roggenrola": 20,
         "Litwick": 8,
         "Wooper": 2,
@@ -158,14 +158,14 @@
         "Spritzee": 1,
         "Stantler": 6,
         "Impidimp": 21,
-        "Swadloon": 5,
+        "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 3,
         "Venipede": 12,
         "Pansage": 3,
         "Cetoddle": 11,
         "Togepi": 7,
-        "Tandemaus": 9,
+        "Tandemaus": 10,
         "Clefairy": 2,
         "Unown q": 1,
         "Lotad": 7,
@@ -210,7 +210,7 @@
         "Woobat": 3,
         "Skrelp": 7,
         "Lileep": 2,
-        "Drifloon": 1,
+        "Drifloon": 2,
         "Mightyena": 3,
         "Sandaconda": 1,
         "Froakie": 8,
@@ -321,7 +321,7 @@
         "Staravia": 1,
         "Wishiwashi": 1,
         "Skitty": 7,
-        "Finizen": 9,
+        "Finizen": 10,
         "Swablu": 4,
         "Sunkern": 4,
         "Snubbull": 1,
@@ -544,7 +544,7 @@
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
-        "Tatsugiri": 2,
+        "Tatsugiri": 3,
         "Xerneas": 2,
         "Nincada": 2,
         "Audino": 1,
@@ -728,8 +728,8 @@
         "Cranidos": 1,
         "Tsareena": 1
       },
-      "total_spawns": 3071,
-      "last_spawn": "2026-07-06T07:50:24.867156"
+      "total_spawns": 3079,
+      "last_spawn": "2026-07-06T07:50:58.400513"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1442,7 +1442,7 @@
     }
   },
   "global": {
-    "total_spawns": 68603,
+    "total_spawns": 68611,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
