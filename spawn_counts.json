@@ -57,7 +57,7 @@
         "Tirtouga": 5,
         "Hatenna": 20,
         "Shroomish": 3,
-        "Lillipup": 18,
+        "Lillipup": 19,
         "Mosslax": 22,
         "Maushold": 3,
         "Cubchoo": 15,
@@ -113,7 +113,7 @@
         "Treecko": 10,
         "Shroodle": 9,
         "Ride cyclizar": 3,
-        "Swinub": 15,
+        "Swinub": 16,
         "Rattata": 6,
         "Stonjourner": 1,
         "Veluza": 20,
@@ -148,7 +148,7 @@
         "Turtwig": 5,
         "Fomantis": 5,
         "Claydol": 1,
-        "Trapinch": 9,
+        "Trapinch": 10,
         "Butterfree": 3,
         "Teddiursa": 32,
         "Roggenrola": 22,
@@ -498,7 +498,7 @@
         "Drilbur": 2,
         "Leavanny": 1,
         "Magikarp": 6,
-        "Gardevoir": 7,
+        "Gardevoir": 8,
         "Kubfu": 1,
         "Tyrogue": 3,
         "Nuzleaf": 6,
@@ -638,7 +638,7 @@
         "Unown k": 2,
         "Elekid": 2,
         "Chingling": 2,
-        "Tangela": 2,
+        "Tangela": 3,
         "Raticate": 5,
         "Weavile": 2,
         "Amped toxtricity": 2,
@@ -765,10 +765,12 @@
         "Pinsir": 1,
         "Ivysaur": 1,
         "Pa'u oricorio": 1,
-        "Toucannon": 1
+        "Toucannon": 1,
+        "Flygon": 1,
+        "Archaludon": 1
       },
-      "total_spawns": 3639,
-      "last_spawn": "2026-07-06T12:40:28.271295"
+      "total_spawns": 3646,
+      "last_spawn": "2026-07-06T12:40:58.477561"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1481,7 +1483,7 @@
     }
   },
   "global": {
-    "total_spawns": 69171,
+    "total_spawns": 69178,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
