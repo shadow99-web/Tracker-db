@@ -15,7 +15,7 @@
         "Vanillite": 40,
         "Weedle": 23,
         "Kabutops": 2,
-        "Poliwag": 18,
+        "Poliwag": 19,
         "Fidough": 18,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -40,7 +40,7 @@
         "Starly": 31,
         "Caterpie": 11,
         "Mareep": 18,
-        "Capsakid": 16,
+        "Capsakid": 17,
         "Numel": 8,
         "Pawmo": 8,
         "Wattrel": 14,
@@ -151,7 +151,7 @@
         "Trapinch": 13,
         "Butterfree": 3,
         "Teddiursa": 36,
-        "Roggenrola": 26,
+        "Roggenrola": 28,
         "Litwick": 14,
         "Wooper": 5,
         "Pikipek": 26,
@@ -232,7 +232,7 @@
         "Sizzlipede": 5,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 17,
+        "Timburr": 18,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
@@ -292,7 +292,7 @@
         "Gothorita": 5,
         "Ekans": 2,
         "Brambleghast": 1,
-        "Dartrix": 3,
+        "Dartrix": 4,
         "Ceruledge": 4,
         "Vanillish": 6,
         "Gimmighoul": 15,
@@ -386,7 +386,7 @@
         "Clodsire": 4,
         "Charizard": 8,
         "Axew": 47,
-        "Joltik": 5,
+        "Joltik": 6,
         "Gulpin": 6,
         "Mareanie": 4,
         "Throh": 4,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 6,
         "Xerneas": 4,
-        "Nincada": 5,
+        "Nincada": 6,
         "Audino": 2,
         "Mime jr.": 3,
         "Yungoos": 4,
@@ -830,8 +830,8 @@
         "Zeraora": 2,
         "Cobalion": 2
       },
-      "total_spawns": 4769,
-      "last_spawn": "2026-07-06T22:35:58.379179"
+      "total_spawns": 4777,
+      "last_spawn": "2026-07-06T22:36:33.697244"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1544,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70301,
+    "total_spawns": 70309,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
