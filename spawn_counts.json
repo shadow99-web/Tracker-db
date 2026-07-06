@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 18,
         "Pikachu": 6,
-        "Tarountula": 8,
+        "Tarountula": 9,
         "Rhyhorn": 13,
         "Aipom": 4,
         "Grookey": 5,
@@ -326,7 +326,7 @@
         "Sunkern": 4,
         "Snubbull": 1,
         "Crocalor": 1,
-        "Magnemite": 10,
+        "Magnemite": 11,
         "Doublade": 1,
         "Sharpedo": 1,
         "Raboot": 4,
@@ -334,7 +334,7 @@
         "Floragato": 3,
         "Larvesta": 13,
         "Magby": 1,
-        "Roaming gimmighoul": 7,
+        "Roaming gimmighoul": 8,
         "Volcarona": 3,
         "Togekiss": 1,
         "Furfrou": 2,
@@ -750,10 +750,11 @@
         "Swampert": 2,
         "High plain vivillon": 1,
         "Metapod": 1,
-        "Lampent": 2
+        "Lampent": 2,
+        "Roselia": 1
       },
-      "total_spawns": 3408,
-      "last_spawn": "2026-07-06T12:12:14.897943"
+      "total_spawns": 3412,
+      "last_spawn": "2026-07-06T12:12:54.207964"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1466,7 +1467,7 @@
     }
   },
   "global": {
-    "total_spawns": 68940,
+    "total_spawns": 68944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
