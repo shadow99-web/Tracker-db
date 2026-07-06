@@ -40,7 +40,7 @@
         "Starly": 21,
         "Caterpie": 5,
         "Mareep": 6,
-        "Capsakid": 10,
+        "Capsakid": 11,
         "Numel": 5,
         "Pawmo": 3,
         "Wattrel": 9,
@@ -495,7 +495,7 @@
         "Mismagius": 1,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
-        "Drilbur": 1,
+        "Drilbur": 2,
         "Leavanny": 1,
         "Magikarp": 4,
         "Gardevoir": 6,
@@ -682,8 +682,8 @@
         "Wyrdeer": 2,
         "Ferroseed": 2
       },
-      "total_spawns": 2510,
-      "last_spawn": "2026-07-06T04:38:58.400267"
+      "total_spawns": 2512,
+      "last_spawn": "2026-07-06T04:39:48.156872"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1396,7 +1396,7 @@
     }
   },
   "global": {
-    "total_spawns": 68042,
+    "total_spawns": 68044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
