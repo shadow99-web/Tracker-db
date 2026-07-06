@@ -394,7 +394,7 @@
         "Houndoom": 1,
         "Meganium": 4,
         "Rainy castform": 3,
-        "Rabsca": 2,
+        "Rabsca": 3,
         "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
@@ -503,7 +503,7 @@
         "Tyrogue": 3,
         "Nuzleaf": 6,
         "Spinarak": 5,
-        "Goomy": 9,
+        "Goomy": 10,
         "Breloom": 1,
         "Rillaboom": 8,
         "Hippopotas": 2,
@@ -645,7 +645,7 @@
         "Scizor": 4,
         "Shiinotic": 7,
         "Simisage": 2,
-        "Cherubi": 2,
+        "Cherubi": 4,
         "Heatmor": 1,
         "Vikavolt": 2,
         "Eelektross": 2,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4516,
-      "last_spawn": "2026-07-06T22:07:08.422292"
+      "total_spawns": 4520,
+      "last_spawn": "2026-07-06T22:07:48.329685"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70048,
+    "total_spawns": 70052,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
