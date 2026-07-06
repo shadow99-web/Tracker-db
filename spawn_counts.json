@@ -66,7 +66,7 @@
         "Deino": 9,
         "Dolliv": 1,
         "Feebas": 4,
-        "Prof tangrowth": 16,
+        "Prof tangrowth": 17,
         "Vulpix": 9,
         "Gastly": 20,
         "Aron": 8,
@@ -151,7 +151,7 @@
         "Trapinch": 6,
         "Butterfree": 3,
         "Teddiursa": 22,
-        "Roggenrola": 14,
+        "Roggenrola": 16,
         "Litwick": 6,
         "Wooper": 2,
         "Pikipek": 18,
@@ -263,7 +263,7 @@
         "Wooloo": 3,
         "Mawile": 3,
         "Marill": 1,
-        "Lickitung": 3,
+        "Lickitung": 4,
         "Chewtle": 5,
         "Onix": 2,
         "Dracovish": 2,
@@ -370,7 +370,7 @@
         "Gigalith": 1,
         "Kingambit": 1,
         "Cresselia": 3,
-        "Duraludon": 5,
+        "Duraludon": 6,
         "Nidorino": 3,
         "Rayquaza": 13,
         "Horsea": 11,
@@ -700,8 +700,8 @@
         "Pidgeotto": 1,
         "Hakamo-o": 1
       },
-      "total_spawns": 2679,
-      "last_spawn": "2026-07-06T07:14:13.649238"
+      "total_spawns": 2684,
+      "last_spawn": "2026-07-06T07:14:43.697872"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1414,7 +1414,7 @@
     }
   },
   "global": {
-    "total_spawns": 68211,
+    "total_spawns": 68216,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
