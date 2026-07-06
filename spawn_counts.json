@@ -39,7 +39,7 @@
         "Wiglett": 8,
         "Starly": 21,
         "Caterpie": 5,
-        "Mareep": 6,
+        "Mareep": 7,
         "Capsakid": 11,
         "Numel": 5,
         "Pawmo": 4,
@@ -401,7 +401,7 @@
         "Scorbunny": 2,
         "Dubwool": 1,
         "Litleo": 2,
-        "Silcoon": 2,
+        "Silcoon": 3,
         "Snivy": 2,
         "Zorua": 2,
         "Minior": 1,
@@ -692,10 +692,11 @@
         "Banette": 2,
         "Pachirisu": 1,
         "Furret": 2,
-        "Helioptile": 1
+        "Helioptile": 1,
+        "Salamence": 2
       },
-      "total_spawns": 2639,
-      "last_spawn": "2026-07-06T07:08:23.597546"
+      "total_spawns": 2643,
+      "last_spawn": "2026-07-06T07:08:54.041561"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1408,7 +1409,7 @@
     }
   },
   "global": {
-    "total_spawns": 68171,
+    "total_spawns": 68175,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
