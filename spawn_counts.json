@@ -324,7 +324,7 @@
         "Finizen": 15,
         "Swablu": 6,
         "Sunkern": 4,
-        "Snubbull": 2,
+        "Snubbull": 3,
         "Crocalor": 2,
         "Magnemite": 16,
         "Doublade": 2,
@@ -389,7 +389,7 @@
         "Joltik": 5,
         "Gulpin": 4,
         "Mareanie": 4,
-        "Throh": 3,
+        "Throh": 4,
         "Sentret": 10,
         "Houndoom": 1,
         "Meganium": 4,
@@ -439,7 +439,7 @@
         "Spheal": 14,
         "Amaura": 7,
         "Wailord": 1,
-        "Accelgor": 2,
+        "Accelgor": 3,
         "Tyrunt": 3,
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
@@ -569,7 +569,7 @@
         "Fearow": 2,
         "Squawkabilly": 5,
         "Seadra": 1,
-        "Sealeo": 3,
+        "Sealeo": 4,
         "Baltoy": 3,
         "Karrablast": 4,
         "Volbeat": 1,
@@ -814,8 +814,8 @@
         "Morpeko": 1,
         "East sea shellos": 1
       },
-      "total_spawns": 4547,
-      "last_spawn": "2026-07-06T22:11:19.699610"
+      "total_spawns": 4551,
+      "last_spawn": "2026-07-06T22:11:58.319499"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1528,7 +1528,7 @@
     }
   },
   "global": {
-    "total_spawns": 70079,
+    "total_spawns": 70083,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
