@@ -55,7 +55,7 @@
         "Maschiff": 11,
         "Smoliv": 9,
         "Tirtouga": 6,
-        "Hatenna": 26,
+        "Hatenna": 28,
         "Shroomish": 3,
         "Lillipup": 21,
         "Mosslax": 26,
@@ -223,7 +223,7 @@
         "Orthworm": 20,
         "Yamask": 3,
         "Nymble": 13,
-        "Snorunt": 4,
+        "Snorunt": 5,
         "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 2,
@@ -712,7 +712,7 @@
         "Stunky": 4,
         "Garbodor": 2,
         "Remoraid": 2,
-        "Exeggcute": 3,
+        "Exeggcute": 4,
         "Dunsparce": 1,
         "Sobble": 2,
         "Lycanroc": 1,
@@ -793,10 +793,10 @@
         "Weezing": 1,
         "Blue flower florges": 1,
         "Dudunsparce": 1,
-        "Kingler": 1
+        "Kingler": 2
       },
-      "total_spawns": 4139,
-      "last_spawn": "2026-07-06T19:12:58.367741"
+      "total_spawns": 4144,
+      "last_spawn": "2026-07-06T19:13:28.505918"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1509,7 +1509,7 @@
     }
   },
   "global": {
-    "total_spawns": 69671,
+    "total_spawns": 69676,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
