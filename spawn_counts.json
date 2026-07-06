@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 7,
-        "Anorith": 4,
+        "Anorith": 5,
         "Arctibax": 3,
         "Ralts": 20,
         "Peakychu": 23,
@@ -131,14 +131,14 @@
         "Ducklett": 4,
         "Three-segment dudunsparce": 1,
         "Sandy burmy": 1,
-        "Torchic": 9,
+        "Torchic": 10,
         "Abomasnow": 5,
         "Slugma": 5,
         "Venonat": 5,
         "Eelektrik": 3,
         "Diglett": 6,
         "Surskit": 6,
-        "Seedot": 13,
+        "Seedot": 14,
         "Jigglypuff": 6,
         "Spearow": 3,
         "Servine": 3,
@@ -427,7 +427,7 @@
         "Seel": 4,
         "Marowak": 2,
         "Haunter": 4,
-        "Dottler": 2,
+        "Dottler": 3,
         "Wailmer": 3,
         "Frigibax": 35,
         "Iron valiant": 2,
@@ -658,7 +658,7 @@
         "Noctowl": 2,
         "Munna": 2,
         "Mabosstiff": 3,
-        "Omastar": 2,
+        "Omastar": 3,
         "Gabite": 2,
         "Tapu fini": 4,
         "Gyarados": 2,
@@ -786,8 +786,8 @@
         "Arctovish": 1,
         "Ariados": 1
       },
-      "total_spawns": 4003,
-      "last_spawn": "2026-07-06T18:46:18.410976"
+      "total_spawns": 4008,
+      "last_spawn": "2026-07-06T18:46:58.498785"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1500,7 +1500,7 @@
     }
   },
   "global": {
-    "total_spawns": 69535,
+    "total_spawns": 69540,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
