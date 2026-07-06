@@ -16,7 +16,7 @@
         "Weedle": 27,
         "Kabutops": 2,
         "Poliwag": 22,
-        "Fidough": 23,
+        "Fidough": 24,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 9,
@@ -84,7 +84,7 @@
         "Shelgon": 5,
         "Marshtomp": 13,
         "Squirtle": 11,
-        "Shinx": 46,
+        "Shinx": 48,
         "Drakloak": 7,
         "Victini": 1,
         "Pawmi": 39,
@@ -267,7 +267,7 @@
         "Chewtle": 6,
         "Onix": 8,
         "Dracovish": 2,
-        "Slowpoke": 3,
+        "Slowpoke": 4,
         "Drizzile": 7,
         "Tinkatink": 18,
         "Frillish": 1,
@@ -848,10 +848,11 @@
         "Naclstack": 1,
         "Wobbuffet": 1,
         "Morgrem": 1,
-        "Budew": 1
+        "Budew": 1,
+        "Dragapult": 2
       },
-      "total_spawns": 5154,
-      "last_spawn": "2026-07-06T23:16:18.109713"
+      "total_spawns": 5160,
+      "last_spawn": "2026-07-06T23:16:48.391031"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1564,7 +1565,7 @@
     }
   },
   "global": {
-    "total_spawns": 70686,
+    "total_spawns": 70692,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
