@@ -87,7 +87,7 @@
         "Shinx": 28,
         "Drakloak": 3,
         "Victini": 1,
-        "Pawmi": 18,
+        "Pawmi": 19,
         "Sandile": 19,
         "Charmeleon": 5,
         "Riolu": 14,
@@ -246,7 +246,7 @@
         "Trumbeak": 2,
         "Bonsly": 1,
         "Growlithe": 3,
-        "Rhydon": 2,
+        "Rhydon": 3,
         "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 1,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 3,
         "Charizard": 8,
-        "Axew": 19,
+        "Axew": 20,
         "Joltik": 2,
         "Gulpin": 1,
         "Mareanie": 2,
@@ -689,8 +689,8 @@
         "Grapploct": 1,
         "Vanilluxe": 1
       },
-      "total_spawns": 2546,
-      "last_spawn": "2026-07-06T04:44:58.128140"
+      "total_spawns": 2549,
+      "last_spawn": "2026-07-06T04:45:28.399325"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1403,7 +1403,7 @@
     }
   },
   "global": {
-    "total_spawns": 68078,
+    "total_spawns": 68081,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
