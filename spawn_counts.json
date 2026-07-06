@@ -375,7 +375,7 @@
         "Rayquaza": 13,
         "Horsea": 13,
         "Reshiram": 3,
-        "Celebi": 15,
+        "Celebi": 21,
         "Morelull": 3,
         "Unown": 3,
         "Poltchageist": 4,
@@ -811,8 +811,8 @@
         "Lunala": 1,
         "Sneasler": 3
       },
-      "total_spawns": 4370,
-      "last_spawn": "2026-07-06T20:13:32.265465"
+      "total_spawns": 4376,
+      "last_spawn": "2026-07-06T20:14:02.907106"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1525,7 +1525,7 @@
     }
   },
   "global": {
-    "total_spawns": 69902,
+    "total_spawns": 69908,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
