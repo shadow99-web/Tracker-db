@@ -206,7 +206,7 @@
         "Fraxure": 9,
         "Zubat": 18,
         "Drowzee": 7,
-        "Lechonk": 20,
+        "Lechonk": 21,
         "Woobat": 3,
         "Skrelp": 8,
         "Lileep": 5,
@@ -657,7 +657,7 @@
         "Jynx": 1,
         "Noctowl": 2,
         "Munna": 2,
-        "Mabosstiff": 4,
+        "Mabosstiff": 5,
         "Omastar": 3,
         "Gabite": 4,
         "Tapu fini": 4,
@@ -837,10 +837,11 @@
         "Monferno": 1,
         "Smoochum": 1,
         "Drampa": 1,
-        "Shieldon": 1
+        "Shieldon": 1,
+        "Araquanid": 1
       },
-      "total_spawns": 4945,
-      "last_spawn": "2026-07-06T22:55:58.496551"
+      "total_spawns": 4948,
+      "last_spawn": "2026-07-06T22:56:38.153323"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1553,7 +1554,7 @@
     }
   },
   "global": {
-    "total_spawns": 70477,
+    "total_spawns": 70480,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
