@@ -178,7 +178,7 @@
         "Flamigo": 7,
         "Bellsprout": 12,
         "Houndstone": 2,
-        "Beldum": 15,
+        "Beldum": 17,
         "Kadabra": 8,
         "Grovyle": 7,
         "Dratini": 15,
@@ -220,7 +220,7 @@
         "Shuppet": 8,
         "Graveler": 1,
         "Duosion": 3,
-        "Orthworm": 13,
+        "Orthworm": 14,
         "Yamask": 2,
         "Nymble": 12,
         "Snorunt": 2,
@@ -501,7 +501,7 @@
         "Gardevoir": 6,
         "Kubfu": 1,
         "Tyrogue": 2,
-        "Nuzleaf": 5,
+        "Nuzleaf": 6,
         "Spinarak": 3,
         "Goomy": 5,
         "Breloom": 1,
@@ -571,7 +571,7 @@
         "Seadra": 1,
         "Sealeo": 1,
         "Baltoy": 2,
-        "Karrablast": 1,
+        "Karrablast": 2,
         "Volbeat": 1,
         "Murkrow": 3,
         "Venusaur": 2,
@@ -729,8 +729,8 @@
         "Tsareena": 1,
         "Chansey": 1
       },
-      "total_spawns": 3099,
-      "last_spawn": "2026-07-06T07:53:53.998574"
+      "total_spawns": 3104,
+      "last_spawn": "2026-07-06T07:54:33.700449"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1443,7 +1443,7 @@
     }
   },
   "global": {
-    "total_spawns": 68631,
+    "total_spawns": 68636,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
