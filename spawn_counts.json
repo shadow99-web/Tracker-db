@@ -38,7 +38,7 @@
         "Abra": 26,
         "Wiglett": 16,
         "Starly": 33,
-        "Caterpie": 12,
+        "Caterpie": 13,
         "Mareep": 18,
         "Capsakid": 19,
         "Numel": 8,
@@ -66,7 +66,7 @@
         "Deino": 17,
         "Dolliv": 5,
         "Feebas": 10,
-        "Prof tangrowth": 20,
+        "Prof tangrowth": 21,
         "Vulpix": 15,
         "Gastly": 44,
         "Aron": 26,
@@ -236,7 +236,7 @@
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
-        "Whismur": 22,
+        "Whismur": 23,
         "Jangmo-o": 10,
         "Lunatone": 1,
         "Machoke": 6,
@@ -851,10 +851,11 @@
         "Budew": 1,
         "Dragapult": 2,
         "Blue flower floette": 1,
-        "Jumpluff": 1
+        "Jumpluff": 1,
+        "Basculin": 1
       },
-      "total_spawns": 5203,
-      "last_spawn": "2026-07-06T23:21:08.495877"
+      "total_spawns": 5207,
+      "last_spawn": "2026-07-06T23:21:48.250934"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1567,7 +1568,7 @@
     }
   },
   "global": {
-    "total_spawns": 70735,
+    "total_spawns": 70739,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
