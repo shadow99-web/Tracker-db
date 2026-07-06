@@ -34,7 +34,7 @@
         "Bounsweet": 36,
         "Fletchling": 18,
         "Whirlipede": 5,
-        "Duskull": 36,
+        "Duskull": 37,
         "Abra": 25,
         "Wiglett": 15,
         "Starly": 31,
@@ -206,7 +206,7 @@
         "Fraxure": 9,
         "Zubat": 18,
         "Drowzee": 7,
-        "Lechonk": 17,
+        "Lechonk": 18,
         "Woobat": 3,
         "Skrelp": 8,
         "Lileep": 5,
@@ -497,7 +497,7 @@
         "Yellow flower florges": 1,
         "Drilbur": 3,
         "Leavanny": 1,
-        "Magikarp": 6,
+        "Magikarp": 7,
         "Gardevoir": 8,
         "Kubfu": 1,
         "Tyrogue": 4,
@@ -568,7 +568,7 @@
         "Grafaiai": 5,
         "Fearow": 2,
         "Squawkabilly": 5,
-        "Seadra": 1,
+        "Seadra": 2,
         "Sealeo": 4,
         "Baltoy": 3,
         "Karrablast": 4,
@@ -583,7 +583,7 @@
         "Scyther": 8,
         "Polteageist": 2,
         "Lombre": 5,
-        "Dachsbun": 3,
+        "Dachsbun": 4,
         "Primeape": 4,
         "Goldeen": 5,
         "Gouging fire": 2,
@@ -600,7 +600,7 @@
         "Grimer": 3,
         "Frosmoth": 6,
         "Darumaka": 3,
-        "Cubone": 2,
+        "Cubone": 3,
         "Conkeldurr": 1,
         "Sinistea": 4,
         "Golbat": 6,
@@ -820,10 +820,11 @@
         "Durant": 2,
         "Shaymin": 2,
         "Mantine": 2,
-        "Iron bundle": 2
+        "Iron bundle": 2,
+        "Gourgeist": 1
       },
-      "total_spawns": 4683,
-      "last_spawn": "2026-07-06T22:28:08.601867"
+      "total_spawns": 4690,
+      "last_spawn": "2026-07-06T22:28:43.782435"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1536,7 +1537,7 @@
     }
   },
   "global": {
-    "total_spawns": 70215,
+    "total_spawns": 70222,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
