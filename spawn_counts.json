@@ -108,7 +108,7 @@
         "Tentacool": 1,
         "Bayleef": 3,
         "Magnezone": 1,
-        "Eevee": 5,
+        "Eevee": 6,
         "Dreepy": 33,
         "Treecko": 10,
         "Shroodle": 5,
@@ -288,7 +288,7 @@
         "Zigzagoon": 2,
         "Quilladin": 1,
         "Infernape": 3,
-        "Noibat": 4,
+        "Noibat": 5,
         "Gothorita": 4,
         "Ekans": 2,
         "Brambleghast": 1,
@@ -341,7 +341,7 @@
         "Ursaring": 2,
         "Bidoof": 2,
         "Gothita": 5,
-        "Solosis": 11,
+        "Solosis": 12,
         "Sandygast": 3,
         "Pidove": 6,
         "Chespin": 1,
@@ -583,7 +583,7 @@
         "Scyther": 4,
         "Polteageist": 1,
         "Lombre": 2,
-        "Dachsbun": 2,
+        "Dachsbun": 3,
         "Primeape": 4,
         "Goldeen": 3,
         "Gouging fire": 2,
@@ -690,8 +690,8 @@
         "Vanilluxe": 1,
         "Dwebble": 1
       },
-      "total_spawns": 2579,
-      "last_spawn": "2026-07-06T04:49:18.147228"
+      "total_spawns": 2583,
+      "last_spawn": "2026-07-06T04:49:48.343633"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1404,7 +1404,7 @@
     }
   },
   "global": {
-    "total_spawns": 68111,
+    "total_spawns": 68115,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
