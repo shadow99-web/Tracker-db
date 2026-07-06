@@ -103,7 +103,7 @@
         "Corphish": 3,
         "Doduo": 5,
         "Flittle": 18,
-        "Armarouge": 4,
+        "Armarouge": 5,
         "Clauncher": 4,
         "Tentacool": 4,
         "Bayleef": 4,
@@ -265,7 +265,7 @@
         "Marill": 1,
         "Lickitung": 6,
         "Chewtle": 6,
-        "Onix": 5,
+        "Onix": 6,
         "Dracovish": 2,
         "Slowpoke": 3,
         "Drizzile": 6,
@@ -289,7 +289,7 @@
         "Quilladin": 2,
         "Infernape": 3,
         "Noibat": 7,
-        "Gothorita": 4,
+        "Gothorita": 5,
         "Ekans": 2,
         "Brambleghast": 1,
         "Dartrix": 3,
@@ -444,7 +444,7 @@
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
         "Smearguru": 9,
-        "Magneton": 4,
+        "Magneton": 5,
         "Battle cyclizar": 3,
         "Minccino": 4,
         "Hippowdon": 2,
@@ -519,7 +519,7 @@
         "Foongus": 4,
         "Krookodile": 1,
         "Espathra": 4,
-        "Snom": 6,
+        "Snom": 7,
         "Nickit": 6,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -687,7 +687,7 @@
         "Dedenne": 2,
         "Serperior": 2,
         "Grapploct": 2,
-        "Vanilluxe": 1,
+        "Vanilluxe": 2,
         "Dwebble": 3,
         "Banette": 2,
         "Pachirisu": 1,
@@ -827,10 +827,11 @@
         "Beedrill": 1,
         "Sandslash": 1,
         "Pupitar": 1,
-        "Zeraora": 2
+        "Zeraora": 2,
+        "Cobalion": 2
       },
-      "total_spawns": 4761,
-      "last_spawn": "2026-07-06T22:35:23.611287"
+      "total_spawns": 4769,
+      "last_spawn": "2026-07-06T22:35:58.379179"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1543,7 +1544,7 @@
     }
   },
   "global": {
-    "total_spawns": 70293,
+    "total_spawns": 70301,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
