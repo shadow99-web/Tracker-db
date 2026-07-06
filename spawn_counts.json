@@ -204,7 +204,7 @@
         "Inkay": 1,
         "Unfezant": 2,
         "Fraxure": 3,
-        "Zubat": 14,
+        "Zubat": 15,
         "Drowzee": 5,
         "Lechonk": 13,
         "Woobat": 3,
@@ -228,7 +228,7 @@
         "Toxel": 4,
         "Buneary": 2,
         "Gallade": 5,
-        "Tangrowth": 1,
+        "Tangrowth": 2,
         "Sizzlipede": 3,
         "Skuntank": 1,
         "Palafin": 6,
@@ -313,7 +313,7 @@
         "Kilowattrel": 2,
         "Pumpkaboo": 3,
         "Petilil": 3,
-        "Bombirdier": 9,
+        "Bombirdier": 10,
         "Bellibolt": 5,
         "Toedscool": 6,
         "Paras": 2,
@@ -544,7 +544,7 @@
         "Zarude": 2,
         "Yamper": 1,
         "Tropius": 1,
-        "Tatsugiri": 3,
+        "Tatsugiri": 4,
         "Xerneas": 2,
         "Nincada": 2,
         "Audino": 1,
@@ -733,8 +733,8 @@
         "Gossifleur": 1,
         "Electivire": 1
       },
-      "total_spawns": 3131,
-      "last_spawn": "2026-07-06T07:58:43.633114"
+      "total_spawns": 3135,
+      "last_spawn": "2026-07-06T07:59:23.454261"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1447,7 +1447,7 @@
     }
   },
   "global": {
-    "total_spawns": 68663,
+    "total_spawns": 68667,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
