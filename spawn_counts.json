@@ -364,7 +364,7 @@
         "Rockruff": 4,
         "Snowy castform": 1,
         "Dusclops": 3,
-        "Prinplup": 1,
+        "Prinplup": 2,
         "Kommo-o": 1,
         "Vigoroth": 5,
         "Gigalith": 2,
@@ -633,7 +633,7 @@
         "Komala": 1,
         "Poochyena": 3,
         "Hero palafin": 1,
-        "Klinklang": 1,
+        "Klinklang": 2,
         "Lickilicky": 5,
         "Unown k": 2,
         "Elekid": 2,
@@ -757,10 +757,11 @@
         "Togetic": 1,
         "Bewear": 2,
         "Indeedee": 3,
-        "Beheeyem": 2
+        "Beheeyem": 2,
+        "Chimecho": 1
       },
-      "total_spawns": 3501,
-      "last_spawn": "2026-07-06T12:24:43.513673"
+      "total_spawns": 3504,
+      "last_spawn": "2026-07-06T12:25:14.566266"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1473,7 +1474,7 @@
     }
   },
   "global": {
-    "total_spawns": 69033,
+    "total_spawns": 69036,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
