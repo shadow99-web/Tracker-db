@@ -32,7 +32,7 @@
         "Pidgey": 13,
         "Binacle": 4,
         "Bounsweet": 24,
-        "Fletchling": 10,
+        "Fletchling": 11,
         "Whirlipede": 4,
         "Duskull": 24,
         "Abra": 16,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 2,
         "Quilava": 1,
-        "Wurmple": 22,
+        "Wurmple": 24,
         "Sandshrew": 2,
         "Tauros": 3,
         "Golurk": 1,
@@ -602,7 +602,7 @@
         "Darumaka": 3,
         "Cubone": 1,
         "Conkeldurr": 1,
-        "Sinistea": 3,
+        "Sinistea": 4,
         "Golbat": 5,
         "Amoonguss": 2,
         "Herdier": 1,
@@ -718,7 +718,7 @@
         "Lycanroc": 1,
         "Dustox": 2,
         "Alolan grimer": 2,
-        "Ursaluna": 3,
+        "Ursaluna": 4,
         "Blastoise": 2,
         "Wormadam": 1,
         "Crustle": 1,
@@ -749,8 +749,8 @@
         "Forretress": 1,
         "Swampert": 2
       },
-      "total_spawns": 3361,
-      "last_spawn": "2026-07-06T09:55:33.629023"
+      "total_spawns": 3366,
+      "last_spawn": "2026-07-06T09:56:03.983109"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1463,7 +1463,7 @@
     }
   },
   "global": {
-    "total_spawns": 68893,
+    "total_spawns": 68898,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
