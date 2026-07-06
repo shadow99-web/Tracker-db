@@ -111,7 +111,7 @@
         "Eevee": 8,
         "Dreepy": 39,
         "Treecko": 10,
-        "Shroodle": 8,
+        "Shroodle": 9,
         "Ride cyclizar": 2,
         "Swinub": 15,
         "Rattata": 6,
@@ -150,7 +150,7 @@
         "Claydol": 1,
         "Trapinch": 9,
         "Butterfree": 3,
-        "Teddiursa": 26,
+        "Teddiursa": 28,
         "Roggenrola": 22,
         "Litwick": 8,
         "Wooper": 3,
@@ -232,7 +232,7 @@
         "Sizzlipede": 3,
         "Skuntank": 1,
         "Palafin": 6,
-        "Timburr": 11,
+        "Timburr": 12,
         "Shellos": 1,
         "Arcanine": 1,
         "Sliggoo": 2,
@@ -743,10 +743,13 @@
         "Sudowoodo": 1,
         "Yveltal": 3,
         "Illumise": 1,
-        "Aggron": 1
+        "Aggron": 1,
+        "Regigigas": 1,
+        "Bisharp": 1,
+        "Forretress": 1
       },
-      "total_spawns": 3324,
-      "last_spawn": "2026-07-06T09:50:53.612678"
+      "total_spawns": 3331,
+      "last_spawn": "2026-07-06T09:51:33.720970"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1459,7 +1462,7 @@
     }
   },
   "global": {
-    "total_spawns": 68856,
+    "total_spawns": 68863,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
