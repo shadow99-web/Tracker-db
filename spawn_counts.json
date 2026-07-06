@@ -29,7 +29,7 @@
         "Tynamo": 11,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 13,
+        "Pidgey": 14,
         "Binacle": 4,
         "Bounsweet": 28,
         "Fletchling": 13,
@@ -308,7 +308,7 @@
         "Archen": 11,
         "Blue plumage squawkabilly": 3,
         "Metang": 5,
-        "Larvitar": 12,
+        "Larvitar": 13,
         "Lumineon": 1,
         "Kilowattrel": 3,
         "Pumpkaboo": 3,
@@ -398,7 +398,7 @@
         "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
-        "Scorbunny": 2,
+        "Scorbunny": 3,
         "Dubwool": 1,
         "Litleo": 4,
         "Silcoon": 5,
@@ -513,7 +513,7 @@
         "Necrozma": 1,
         "Dewott": 2,
         "Braviary": 4,
-        "Low key toxtricity": 2,
+        "Low key toxtricity": 4,
         "Nidorina": 3,
         "Bronzong": 2,
         "Foongus": 3,
@@ -549,7 +549,7 @@
         "Nincada": 4,
         "Audino": 1,
         "Mime jr.": 3,
-        "Yungoos": 2,
+        "Yungoos": 3,
         "Palpitoad": 3,
         "Smeargle": 2,
         "Appletun": 6,
@@ -628,7 +628,7 @@
         "Rampardos": 1,
         "Weepinbell": 2,
         "Cufant": 1,
-        "Mienfoo": 2,
+        "Mienfoo": 3,
         "Quagsire": 1,
         "Komala": 2,
         "Poochyena": 3,
@@ -784,8 +784,8 @@
         "Umbreon": 2,
         "Ninjask": 1
       },
-      "total_spawns": 3902,
-      "last_spawn": "2026-07-06T18:29:38.307056"
+      "total_spawns": 3909,
+      "last_spawn": "2026-07-06T18:30:09.000144"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1498,7 +1498,7 @@
     }
   },
   "global": {
-    "total_spawns": 69434,
+    "total_spawns": 69441,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
