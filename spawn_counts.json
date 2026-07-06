@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 14,
         "Mienshao": 2,
-        "Blipbug": 32,
+        "Blipbug": 33,
         "Rellor": 11,
         "Rolycoly": 19,
         "Poliwhirl": 5,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 12,
         "Milcery": 13,
-        "Trumbeak": 2,
+        "Trumbeak": 3,
         "Bonsly": 1,
         "Growlithe": 4,
         "Rhydon": 5,
@@ -444,7 +444,7 @@
         "Hisuian typhlosion": 2,
         "Ponyta": 2,
         "Smearguru": 9,
-        "Magneton": 3,
+        "Magneton": 4,
         "Battle cyclizar": 3,
         "Minccino": 4,
         "Hippowdon": 2,
@@ -826,8 +826,8 @@
         "Gogoat": 1,
         "Beedrill": 1
       },
-      "total_spawns": 4725,
-      "last_spawn": "2026-07-06T22:32:08.375497"
+      "total_spawns": 4728,
+      "last_spawn": "2026-07-06T22:32:38.646944"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1540,7 +1540,7 @@
     }
   },
   "global": {
-    "total_spawns": 70257,
+    "total_spawns": 70260,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
