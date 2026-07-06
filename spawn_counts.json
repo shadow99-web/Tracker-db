@@ -232,7 +232,7 @@
         "Sizzlipede": 5,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 18,
+        "Timburr": 19,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
@@ -250,7 +250,7 @@
         "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 3,
-        "Drednaw": 3,
+        "Drednaw": 4,
         "Corvisquire": 6,
         "Croconaw": 5,
         "Makuhita": 1,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 5,
         "Klang": 4,
-        "Tepig": 3,
+        "Tepig": 4,
         "Spinda": 1,
         "Phantump": 3,
         "Barboach": 3,
@@ -836,8 +836,8 @@
         "Jellicent": 1,
         "Monferno": 1
       },
-      "total_spawns": 4891,
-      "last_spawn": "2026-07-06T22:48:38.281434"
+      "total_spawns": 4894,
+      "last_spawn": "2026-07-06T22:49:08.696155"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1550,7 +1550,7 @@
     }
   },
   "global": {
-    "total_spawns": 70423,
+    "total_spawns": 70426,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
