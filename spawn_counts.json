@@ -52,7 +52,7 @@
         "Skwovet": 5,
         "Applin": 3,
         "Staryu": 1,
-        "Maschiff": 7,
+        "Maschiff": 8,
         "Smoliv": 7,
         "Tirtouga": 4,
         "Hatenna": 16,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 3,
-        "Venipede": 14,
+        "Venipede": 15,
         "Pansage": 3,
         "Cetoddle": 11,
         "Togepi": 7,
@@ -539,7 +539,7 @@
         "Shuckle": 2,
         "White flower floette": 2,
         "Octillery": 2,
-        "Pawniard": 2,
+        "Pawniard": 3,
         "Brionne": 4,
         "Zarude": 2,
         "Yamper": 1,
@@ -734,8 +734,8 @@
         "Electivire": 1,
         "Farigiraf": 1
       },
-      "total_spawns": 3189,
-      "last_spawn": "2026-07-06T09:31:43.604384"
+      "total_spawns": 3192,
+      "last_spawn": "2026-07-06T09:32:14.899436"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1448,7 +1448,7 @@
     }
   },
   "global": {
-    "total_spawns": 68721,
+    "total_spawns": 68724,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
