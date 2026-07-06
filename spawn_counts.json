@@ -46,7 +46,7 @@
         "Wattrel": 10,
         "Tadbulb": 12,
         "Yanmega": 1,
-        "Tympole": 12,
+        "Tympole": 13,
         "Grubbin": 14,
         "Scatterbug": 9,
         "Skwovet": 5,
@@ -192,7 +192,7 @@
         "Comfey": 1,
         "Diggersby": 2,
         "Klawf": 19,
-        "Dj rotom": 11,
+        "Dj rotom": 12,
         "Chef dente": 15,
         "Hisuian qwilfish": 1,
         "Bagon": 14,
@@ -282,7 +282,7 @@
         "Bulbasaur": 9,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 2,
-        "Hattrem": 3,
+        "Hattrem": 4,
         "Trash wormadam": 1,
         "Purrloin": 2,
         "Zigzagoon": 3,
@@ -501,7 +501,7 @@
         "Gardevoir": 6,
         "Kubfu": 1,
         "Tyrogue": 2,
-        "Nuzleaf": 4,
+        "Nuzleaf": 5,
         "Spinarak": 3,
         "Goomy": 5,
         "Breloom": 1,
@@ -728,8 +728,8 @@
         "Cranidos": 1,
         "Tsareena": 1
       },
-      "total_spawns": 3079,
-      "last_spawn": "2026-07-06T07:50:58.400513"
+      "total_spawns": 3083,
+      "last_spawn": "2026-07-06T07:51:33.659845"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1442,7 +1442,7 @@
     }
   },
   "global": {
-    "total_spawns": 68611,
+    "total_spawns": 68615,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
