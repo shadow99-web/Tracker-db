@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 48,
         "Roggenrola": 28,
-        "Litwick": 18,
+        "Litwick": 19,
         "Wooper": 7,
         "Pikipek": 34,
         "Spritzee": 1,
@@ -346,7 +346,7 @@
         "Pidove": 13,
         "Chespin": 5,
         "Combee": 4,
-        "Cyndaquil": 5,
+        "Cyndaquil": 6,
         "Grotle": 4,
         "Tinkaton": 2,
         "Bergmite": 5,
@@ -443,7 +443,7 @@
         "Tyrunt": 3,
         "Hisuian typhlosion": 2,
         "Ponyta": 4,
-        "Smearguru": 11,
+        "Smearguru": 12,
         "Magneton": 5,
         "Battle cyclizar": 3,
         "Minccino": 4,
@@ -457,7 +457,7 @@
         "Pelipper": 1,
         "Excadrill": 4,
         "Buizel": 3,
-        "Pansear": 2,
+        "Pansear": 3,
         "Yanma": 8,
         "Galarian moltres": 2,
         "Seismitoad": 4,
@@ -865,8 +865,8 @@
         "Qwilfish": 2,
         "Meowscarada": 1
       },
-      "total_spawns": 5464,
-      "last_spawn": "2026-07-06T23:55:08.596381"
+      "total_spawns": 5468,
+      "last_spawn": "2026-07-06T23:55:48.196795"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 70996,
+    "total_spawns": 71000,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
