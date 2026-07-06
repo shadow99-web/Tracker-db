@@ -29,7 +29,7 @@
         "Tynamo": 13,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 15,
+        "Pidgey": 16,
         "Binacle": 4,
         "Bounsweet": 30,
         "Fletchling": 16,
@@ -479,7 +479,7 @@
         "Pignite": 3,
         "Bunnelby": 3,
         "Complete zygarde": 3,
-        "Mudbray": 5,
+        "Mudbray": 6,
         "Spectrier": 1,
         "Rufflet": 3,
         "Lairon": 3,
@@ -696,7 +696,7 @@
         "Salamence": 4,
         "Meditite": 1,
         "Sneasel": 4,
-        "Finneon": 2,
+        "Finneon": 3,
         "Pidgeotto": 1,
         "Hakamo-o": 1,
         "Spidops": 1,
@@ -800,10 +800,11 @@
         "Persian": 1,
         "Toedscruel": 1,
         "Alolan muk": 2,
-        "Xatu": 1
+        "Xatu": 1,
+        "Masquerain": 1
       },
-      "total_spawns": 4264,
-      "last_spawn": "2026-07-06T19:39:20.441369"
+      "total_spawns": 4268,
+      "last_spawn": "2026-07-06T19:39:58.601401"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1516,7 +1517,7 @@
     }
   },
   "global": {
-    "total_spawns": 69796,
+    "total_spawns": 69800,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
