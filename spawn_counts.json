@@ -9,10 +9,10 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 8,
+        "Braixen": 9,
         "Oddish": 24,
         "Totodile": 11,
-        "Vanillite": 43,
+        "Vanillite": 44,
         "Weedle": 27,
         "Kabutops": 2,
         "Poliwag": 23,
@@ -269,7 +269,7 @@
         "Dracovish": 2,
         "Slowpoke": 4,
         "Drizzile": 7,
-        "Tinkatink": 18,
+        "Tinkatink": 20,
         "Frillish": 1,
         "Plusle": 5,
         "Decidueye": 4,
@@ -857,8 +857,8 @@
         "Spewpa": 1,
         "Delcatty": 2
       },
-      "total_spawns": 5277,
-      "last_spawn": "2026-07-06T23:30:28.149288"
+      "total_spawns": 5281,
+      "last_spawn": "2026-07-06T23:30:58.980409"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1571,7 +1571,7 @@
     }
   },
   "global": {
-    "total_spawns": 70809,
+    "total_spawns": 70813,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
