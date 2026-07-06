@@ -793,7 +793,7 @@
         "Braixen": 2,
         "Skwovet": 3,
         "Magnemite": 12,
-        "Impidimp": 22,
+        "Impidimp": 23,
         "Elgyem": 3,
         "Gastrodon": 1,
         "Shroodle": 16,
@@ -964,7 +964,7 @@
         "Fennekin": 6,
         "Fuecoco": 4,
         "Sandy wormadam": 1,
-        "Sprigatito": 3,
+        "Sprigatito": 4,
         "Bidoof": 2,
         "Frillish": 6,
         "Toedscool": 14,
@@ -1359,7 +1359,7 @@
         "Magby": 1,
         "Trumbeak": 2,
         "Crustle": 1,
-        "Lilligant": 2,
+        "Lilligant": 3,
         "Mienfoo": 1,
         "Rainy castform": 1,
         "Claydol": 1,
@@ -1388,12 +1388,12 @@
         "Krabby": 1,
         "Corviknight": 1
       },
-      "total_spawns": 2977,
-      "last_spawn": "2026-07-06T00:05:54.695212"
+      "total_spawns": 2980,
+      "last_spawn": "2026-07-06T00:06:35.657108"
     }
   },
   "global": {
-    "total_spawns": 68012,
+    "total_spawns": 68015,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
