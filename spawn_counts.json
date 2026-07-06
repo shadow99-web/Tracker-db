@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 4,
         "Slakoth": 9,
-        "Klink": 12,
+        "Klink": 13,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 3,
@@ -533,7 +533,7 @@
         "Midnight lycanroc": 3,
         "Skiploom": 1,
         "Stakataka": 1,
-        "Cascoon": 4,
+        "Cascoon": 5,
         "Sigilyph": 4,
         "Vibrava": 5,
         "Shuckle": 2,
@@ -802,10 +802,11 @@
         "Alolan muk": 2,
         "Xatu": 1,
         "Masquerain": 2,
-        "Salazzle": 1
+        "Salazzle": 1,
+        "Heracross": 2
       },
-      "total_spawns": 4274,
-      "last_spawn": "2026-07-06T19:40:38.222718"
+      "total_spawns": 4278,
+      "last_spawn": "2026-07-06T19:41:08.540656"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1518,7 +1519,7 @@
     }
   },
   "global": {
-    "total_spawns": 69806,
+    "total_spawns": 69810,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
