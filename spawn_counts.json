@@ -12,7 +12,7 @@
         "Braixen": 8,
         "Oddish": 24,
         "Totodile": 10,
-        "Vanillite": 40,
+        "Vanillite": 42,
         "Weedle": 27,
         "Kabutops": 2,
         "Poliwag": 23,
@@ -96,7 +96,7 @@
         "Snover": 7,
         "Piplup": 5,
         "Dondozo": 15,
-        "Cyclizar": 6,
+        "Cyclizar": 7,
         "Froslass": 2,
         "Dodrio": 7,
         "Metagross": 6,
@@ -116,7 +116,7 @@
         "Swinub": 24,
         "Rattata": 10,
         "Stonjourner": 1,
-        "Veluza": 29,
+        "Veluza": 30,
         "Panpour": 6,
         "Crabrawler": 4,
         "Frogadier": 4,
@@ -580,7 +580,7 @@
         "Skorupi": 3,
         "Probopass": 3,
         "Family of three maushold": 1,
-        "Scyther": 8,
+        "Scyther": 10,
         "Polteageist": 2,
         "Lombre": 5,
         "Dachsbun": 5,
@@ -854,8 +854,8 @@
         "Jumpluff": 1,
         "Basculin": 1
       },
-      "total_spawns": 5224,
-      "last_spawn": "2026-07-06T23:24:18.107543"
+      "total_spawns": 5230,
+      "last_spawn": "2026-07-06T23:24:48.560239"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1568,7 +1568,7 @@
     }
   },
   "global": {
-    "total_spawns": 70756,
+    "total_spawns": 70762,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
