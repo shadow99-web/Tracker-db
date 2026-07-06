@@ -35,7 +35,7 @@
         "Fletchling": 11,
         "Whirlipede": 4,
         "Duskull": 26,
-        "Abra": 18,
+        "Abra": 19,
         "Wiglett": 12,
         "Starly": 27,
         "Caterpie": 8,
@@ -203,7 +203,7 @@
         "Grookey": 6,
         "Inkay": 1,
         "Unfezant": 2,
-        "Fraxure": 3,
+        "Fraxure": 5,
         "Zubat": 15,
         "Drowzee": 5,
         "Lechonk": 14,
@@ -756,11 +756,11 @@
         "Maractus": 2,
         "Togetic": 1,
         "Bewear": 2,
-        "Indeedee": 2,
+        "Indeedee": 3,
         "Beheeyem": 2
       },
-      "total_spawns": 3493,
-      "last_spawn": "2026-07-06T12:23:33.596036"
+      "total_spawns": 3497,
+      "last_spawn": "2026-07-06T12:24:03.682661"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1473,7 +1473,7 @@
     }
   },
   "global": {
-    "total_spawns": 69025,
+    "total_spawns": 69029,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
