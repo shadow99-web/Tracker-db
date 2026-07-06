@@ -68,7 +68,7 @@
         "Feebas": 6,
         "Prof tangrowth": 18,
         "Vulpix": 13,
-        "Gastly": 30,
+        "Gastly": 32,
         "Aron": 18,
         "Honedge": 26,
         "Houndour": 1,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 32,
         "Roggenrola": 22,
-        "Litwick": 9,
+        "Litwick": 10,
         "Wooper": 3,
         "Pikipek": 22,
         "Spritzee": 1,
@@ -182,7 +182,7 @@
         "Kadabra": 10,
         "Grovyle": 9,
         "Dratini": 15,
-        "Steelix": 1,
+        "Steelix": 2,
         "Sprigatito": 11,
         "Charcadet": 33,
         "Mudsdale": 4,
@@ -203,7 +203,7 @@
         "Grookey": 6,
         "Inkay": 1,
         "Unfezant": 2,
-        "Fraxure": 8,
+        "Fraxure": 9,
         "Zubat": 17,
         "Drowzee": 5,
         "Lechonk": 15,
@@ -320,7 +320,7 @@
         "Fletchinder": 2,
         "Staravia": 1,
         "Wishiwashi": 1,
-        "Skitty": 11,
+        "Skitty": 13,
         "Finizen": 13,
         "Swablu": 6,
         "Sunkern": 4,
@@ -643,7 +643,7 @@
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 2,
-        "Shiinotic": 5,
+        "Shiinotic": 7,
         "Simisage": 2,
         "Cherubi": 1,
         "Heatmor": 1,
@@ -777,8 +777,8 @@
         "Lilligant": 1,
         "Fan rotom": 2
       },
-      "total_spawns": 3715,
-      "last_spawn": "2026-07-06T12:45:18.273985"
+      "total_spawns": 3724,
+      "last_spawn": "2026-07-06T12:45:48.414265"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1491,7 +1491,7 @@
     }
   },
   "global": {
-    "total_spawns": 69247,
+    "total_spawns": 69256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
