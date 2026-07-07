@@ -55,7 +55,7 @@
         "Maschiff": 21,
         "Smoliv": 22,
         "Tirtouga": 11,
-        "Hatenna": 42,
+        "Hatenna": 44,
         "Shroomish": 4,
         "Lillipup": 30,
         "Mosslax": 40,
@@ -65,7 +65,7 @@
         "Kirlia": 13,
         "Deino": 23,
         "Dolliv": 6,
-        "Feebas": 14,
+        "Feebas": 16,
         "Prof tangrowth": 24,
         "Vulpix": 19,
         "Gastly": 46,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 52,
         "Rellor": 14,
-        "Rolycoly": 28,
+        "Rolycoly": 29,
         "Poliwhirl": 8,
         "Lokix": 11,
         "Flamigo": 11,
@@ -192,7 +192,7 @@
         "Comfey": 9,
         "Diggersby": 2,
         "Klawf": 39,
-        "Dj rotom": 19,
+        "Dj rotom": 20,
         "Chef dente": 28,
         "Hisuian qwilfish": 1,
         "Bagon": 28,
@@ -900,8 +900,8 @@
         "Crawdaunt": 2,
         "Castform": 1
       },
-      "total_spawns": 6682,
-      "last_spawn": "2026-07-07T08:35:08.654278"
+      "total_spawns": 6688,
+      "last_spawn": "2026-07-07T08:35:48.663347"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1614,7 +1614,7 @@
     }
   },
   "global": {
-    "total_spawns": 72214,
+    "total_spawns": 72220,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
