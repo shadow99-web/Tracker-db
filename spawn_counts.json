@@ -143,7 +143,7 @@
         "Spearow": 7,
         "Servine": 3,
         "Wugtrio": 9,
-        "Tranquill": 7,
+        "Tranquill": 8,
         "Cetitan": 5,
         "Turtwig": 12,
         "Fomantis": 6,
@@ -401,7 +401,7 @@
         "Scorbunny": 6,
         "Dubwool": 2,
         "Litleo": 8,
-        "Silcoon": 8,
+        "Silcoon": 9,
         "Snivy": 6,
         "Zorua": 8,
         "Minior": 1,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6591,
-      "last_spawn": "2026-07-07T07:05:49.476115"
+      "total_spawns": 6593,
+      "last_spawn": "2026-07-07T07:16:01.360177"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72123,
+    "total_spawns": 72125,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
