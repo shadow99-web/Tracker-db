@@ -29,7 +29,7 @@
         "Tynamo": 20,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 23,
+        "Pidgey": 24,
         "Binacle": 8,
         "Bounsweet": 40,
         "Fletchling": 31,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 29,
+        "Venipede": 30,
         "Pansage": 5,
         "Cetoddle": 18,
         "Togepi": 22,
@@ -315,7 +315,7 @@
         "Petilil": 9,
         "Bombirdier": 22,
         "Bellibolt": 7,
-        "Toedscool": 17,
+        "Toedscool": 18,
         "Paras": 5,
         "Fletchinder": 5,
         "Staravia": 4,
@@ -445,10 +445,10 @@
         "Ponyta": 5,
         "Smearguru": 12,
         "Magneton": 5,
-        "Battle cyclizar": 4,
+        "Battle cyclizar": 5,
         "Minccino": 4,
         "Hippowdon": 2,
-        "Gloom": 5,
+        "Gloom": 6,
         "Mew": 4,
         "Thwackey": 5,
         "Latios": 2,
@@ -892,10 +892,11 @@
         "Stunfisk": 1,
         "Escavalier": 1,
         "Muk": 1,
-        "Pirouette meloetta": 2
+        "Pirouette meloetta": 2,
+        "Trash burmy": 1
       },
-      "total_spawns": 6383,
-      "last_spawn": "2026-07-07T05:11:38.812511"
+      "total_spawns": 6389,
+      "last_spawn": "2026-07-07T05:12:20.096852"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1608,7 +1609,7 @@
     }
   },
   "global": {
-    "total_spawns": 71915,
+    "total_spawns": 71921,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
