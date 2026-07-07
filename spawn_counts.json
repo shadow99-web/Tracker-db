@@ -91,7 +91,7 @@
         "Sandile": 35,
         "Charmeleon": 7,
         "Riolu": 16,
-        "Gible": 32,
+        "Gible": 33,
         "Greavard": 42,
         "Snover": 9,
         "Piplup": 5,
@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 20,
-        "Dreepy": 60,
+        "Dreepy": 61,
         "Treecko": 12,
         "Shroodle": 22,
         "Ride cyclizar": 10,
@@ -336,7 +336,7 @@
         "Magby": 1,
         "Roaming gimmighoul": 14,
         "Volcarona": 5,
-        "Togekiss": 4,
+        "Togekiss": 5,
         "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 3,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 6,
         "Dubwool": 2,
-        "Litleo": 6,
+        "Litleo": 7,
         "Silcoon": 8,
         "Snivy": 6,
         "Zorua": 8,
@@ -700,7 +700,7 @@
         "Pidgeotto": 3,
         "Hakamo-o": 3,
         "Spidops": 2,
-        "Glimmora": 5,
+        "Glimmora": 6,
         "Parasect": 1,
         "Fuecoco": 5,
         "Loudred": 6,
@@ -891,8 +891,8 @@
         "Ninetales": 2,
         "Stunfisk": 1
       },
-      "total_spawns": 6215,
-      "last_spawn": "2026-07-07T03:34:48.308981"
+      "total_spawns": 6220,
+      "last_spawn": "2026-07-07T03:35:28.138038"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1605,7 +1605,7 @@
     }
   },
   "global": {
-    "total_spawns": 71747,
+    "total_spawns": 71752,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
