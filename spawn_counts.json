@@ -91,7 +91,7 @@
         "Sandile": 35,
         "Charmeleon": 7,
         "Riolu": 16,
-        "Gible": 33,
+        "Gible": 34,
         "Greavard": 42,
         "Snover": 9,
         "Piplup": 5,
@@ -308,7 +308,7 @@
         "Archen": 15,
         "Blue plumage squawkabilly": 4,
         "Metang": 7,
-        "Larvitar": 19,
+        "Larvitar": 20,
         "Lumineon": 1,
         "Kilowattrel": 6,
         "Pumpkaboo": 5,
@@ -438,7 +438,7 @@
         "Dragonair": 4,
         "Spheal": 17,
         "Amaura": 9,
-        "Wailord": 1,
+        "Wailord": 2,
         "Accelgor": 3,
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
@@ -709,7 +709,7 @@
         "Skiddo": 7,
         "Simisear": 8,
         "Hawlucha": 2,
-        "Stunky": 6,
+        "Stunky": 7,
         "Garbodor": 2,
         "Remoraid": 2,
         "Exeggcute": 7,
@@ -891,8 +891,8 @@
         "Ninetales": 2,
         "Stunfisk": 1
       },
-      "total_spawns": 6220,
-      "last_spawn": "2026-07-07T03:35:28.138038"
+      "total_spawns": 6224,
+      "last_spawn": "2026-07-07T03:35:58.565232"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1605,7 +1605,7 @@
     }
   },
   "global": {
-    "total_spawns": 71752,
+    "total_spawns": 71756,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
