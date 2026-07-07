@@ -22,7 +22,7 @@
         "Rowlet": 9,
         "Anorith": 7,
         "Arctibax": 3,
-        "Ralts": 38,
+        "Ralts": 40,
         "Peakychu": 31,
         "Cutiefly": 6,
         "Simipour": 2,
@@ -308,7 +308,7 @@
         "Archen": 11,
         "Blue plumage squawkabilly": 4,
         "Metang": 7,
-        "Larvitar": 14,
+        "Larvitar": 15,
         "Lumineon": 1,
         "Kilowattrel": 6,
         "Pumpkaboo": 4,
@@ -567,7 +567,7 @@
         "Farfetch'd": 2,
         "Grafaiai": 8,
         "Fearow": 2,
-        "Squawkabilly": 5,
+        "Squawkabilly": 6,
         "Seadra": 2,
         "Sealeo": 5,
         "Baltoy": 3,
@@ -863,10 +863,11 @@
         "Mr. mime": 2,
         "Munchlax": 2,
         "Qwilfish": 2,
-        "Meowscarada": 1
+        "Meowscarada": 1,
+        "Galarian corsola": 1
       },
-      "total_spawns": 5522,
-      "last_spawn": "2026-07-07T00:02:58.164276"
+      "total_spawns": 5527,
+      "last_spawn": "2026-07-07T00:03:38.895040"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1580,7 @@
     }
   },
   "global": {
-    "total_spawns": 71054,
+    "total_spawns": 71059,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
