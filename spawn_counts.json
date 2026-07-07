@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 25,
         "Binacle": 8,
-        "Bounsweet": 40,
+        "Bounsweet": 42,
         "Fletchling": 31,
         "Whirlipede": 8,
         "Duskull": 54,
@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 6,
         "Drednaw": 5,
-        "Corvisquire": 6,
+        "Corvisquire": 7,
         "Croconaw": 7,
         "Makuhita": 2,
         "Machamp": 3,
@@ -703,7 +703,7 @@
         "Glimmora": 7,
         "Parasect": 2,
         "Fuecoco": 6,
-        "Loudred": 6,
+        "Loudred": 7,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 7,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6494,
-      "last_spawn": "2026-07-07T05:26:43.455101"
+      "total_spawns": 6498,
+      "last_spawn": "2026-07-07T05:27:19.724341"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72026,
+    "total_spawns": 72030,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
