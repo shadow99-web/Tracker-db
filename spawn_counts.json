@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 19,
         "Grubbin": 27,
-        "Scatterbug": 18,
+        "Scatterbug": 19,
         "Skwovet": 10,
         "Applin": 6,
         "Staryu": 3,
@@ -121,7 +121,7 @@
         "Crabrawler": 6,
         "Frogadier": 4,
         "Scovillain": 5,
-        "White plumage squawkabilly": 10,
+        "White plumage squawkabilly": 11,
         "Flaaffy": 4,
         "Rookidee": 47,
         "Flapple": 6,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 5,
         "Petilil": 10,
-        "Bombirdier": 22,
+        "Bombirdier": 23,
         "Bellibolt": 7,
         "Toedscool": 20,
         "Paras": 5,
@@ -895,10 +895,11 @@
         "Pirouette meloetta": 2,
         "Trash burmy": 1,
         "Lanturn": 2,
-        "Golem": 1
+        "Golem": 1,
+        "Barraskewda": 1
       },
-      "total_spawns": 6522,
-      "last_spawn": "2026-07-07T05:30:43.925419"
+      "total_spawns": 6526,
+      "last_spawn": "2026-07-07T05:31:18.359373"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1611,7 +1612,7 @@
     }
   },
   "global": {
-    "total_spawns": 72054,
+    "total_spawns": 72058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
