@@ -54,7 +54,7 @@
         "Staryu": 3,
         "Maschiff": 21,
         "Smoliv": 19,
-        "Tirtouga": 9,
+        "Tirtouga": 10,
         "Hatenna": 42,
         "Shroomish": 4,
         "Lillipup": 30,
@@ -116,7 +116,7 @@
         "Swinub": 26,
         "Rattata": 12,
         "Stonjourner": 1,
-        "Veluza": 36,
+        "Veluza": 38,
         "Panpour": 7,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -221,7 +221,7 @@
         "Graveler": 4,
         "Duosion": 6,
         "Orthworm": 27,
-        "Yamask": 4,
+        "Yamask": 5,
         "Nymble": 22,
         "Snorunt": 7,
         "Carvanha": 4,
@@ -295,7 +295,7 @@
         "Dartrix": 7,
         "Ceruledge": 6,
         "Vanillish": 7,
-        "Gimmighoul": 17,
+        "Gimmighoul": 18,
         "Glimmet": 15,
         "Popplio": 7,
         "Arboliva": 2,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6275,
-      "last_spawn": "2026-07-07T03:42:38.722416"
+      "total_spawns": 6280,
+      "last_spawn": "2026-07-07T03:43:18.597926"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71807,
+    "total_spawns": 71812,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
