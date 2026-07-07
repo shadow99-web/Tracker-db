@@ -76,7 +76,7 @@
         "Terapagos": 1,
         "Mankey": 8,
         "Torterra": 1,
-        "Salandit": 6,
+        "Salandit": 7,
         "Bruxish": 1,
         "Orbeetle": 5,
         "Bramblin": 15,
@@ -84,7 +84,7 @@
         "Shelgon": 7,
         "Marshtomp": 13,
         "Squirtle": 11,
-        "Shinx": 52,
+        "Shinx": 54,
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 45,
@@ -255,7 +255,7 @@
         "Croconaw": 6,
         "Makuhita": 1,
         "Machamp": 1,
-        "Primarina": 4,
+        "Primarina": 5,
         "Skeledirge": 1,
         "Taillow": 4,
         "Watchog": 3,
@@ -315,7 +315,7 @@
         "Petilil": 9,
         "Bombirdier": 17,
         "Bellibolt": 6,
-        "Toedscool": 13,
+        "Toedscool": 14,
         "Paras": 4,
         "Fletchinder": 5,
         "Staravia": 3,
@@ -619,7 +619,7 @@
         "Hangry morpeko": 2,
         "Omanyte": 7,
         "Mamoswine": 2,
-        "Spoink": 8,
+        "Spoink": 9,
         "Dhelmise": 1,
         "Armaldo": 3,
         "Krokorok": 4,
@@ -873,8 +873,8 @@
         "Centiskorch": 2,
         "Swellow": 1
       },
-      "total_spawns": 5670,
-      "last_spawn": "2026-07-07T00:22:38.904706"
+      "total_spawns": 5676,
+      "last_spawn": "2026-07-07T00:23:18.382171"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1587,7 +1587,7 @@
     }
   },
   "global": {
-    "total_spawns": 71202,
+    "total_spawns": 71208,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
