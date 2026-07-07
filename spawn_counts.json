@@ -154,7 +154,7 @@
         "Roggenrola": 36,
         "Litwick": 23,
         "Wooper": 7,
-        "Pikipek": 37,
+        "Pikipek": 38,
         "Spritzee": 2,
         "Stantler": 8,
         "Impidimp": 41,
@@ -168,7 +168,7 @@
         "Tandemaus": 19,
         "Clefairy": 6,
         "Unown q": 1,
-        "Lotad": 19,
+        "Lotad": 20,
         "Mienshao": 2,
         "Blipbug": 48,
         "Rellor": 14,
@@ -408,7 +408,7 @@
         "Darmanitan": 3,
         "Lopunny": 2,
         "Chimchar": 9,
-        "Gligar": 6,
+        "Gligar": 7,
         "Quaxly": 9,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
@@ -618,7 +618,7 @@
         "Minun": 6,
         "Hangry morpeko": 2,
         "Omanyte": 7,
-        "Mamoswine": 2,
+        "Mamoswine": 3,
         "Spoink": 9,
         "Dhelmise": 1,
         "Armaldo": 5,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6284,
-      "last_spawn": "2026-07-07T03:43:58.143483"
+      "total_spawns": 6288,
+      "last_spawn": "2026-07-07T03:44:28.283265"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71816,
+    "total_spawns": 71820,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
