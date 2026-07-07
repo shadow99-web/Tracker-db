@@ -18,7 +18,7 @@
         "Poliwag": 27,
         "Fidough": 28,
         "Charjabug": 2,
-        "Hatterene": 3,
+        "Hatterene": 5,
         "Rowlet": 10,
         "Anorith": 9,
         "Arctibax": 4,
@@ -187,7 +187,7 @@
         "Charcadet": 53,
         "Mudsdale": 8,
         "Meowth": 15,
-        "Charmander": 17,
+        "Charmander": 19,
         "Wimpod": 11,
         "Comfey": 7,
         "Diggersby": 2,
@@ -259,7 +259,7 @@
         "Skeledirge": 2,
         "Taillow": 6,
         "Watchog": 3,
-        "Porygon": 19,
+        "Porygon": 20,
         "Wooloo": 6,
         "Mawile": 7,
         "Marill": 2,
@@ -364,7 +364,7 @@
         "Rockruff": 6,
         "Snowy castform": 1,
         "Dusclops": 8,
-        "Prinplup": 5,
+        "Prinplup": 6,
         "Kommo-o": 1,
         "Vigoroth": 8,
         "Gigalith": 2,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6244,
-      "last_spawn": "2026-07-07T03:38:58.387327"
+      "total_spawns": 6250,
+      "last_spawn": "2026-07-07T03:39:48.220057"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71776,
+    "total_spawns": 71782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
