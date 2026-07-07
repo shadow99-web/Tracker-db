@@ -19,7 +19,7 @@
         "Fidough": 30,
         "Charjabug": 3,
         "Hatterene": 5,
-        "Rowlet": 10,
+        "Rowlet": 11,
         "Anorith": 9,
         "Arctibax": 4,
         "Ralts": 44,
@@ -847,7 +847,7 @@
         "Tapu lele": 2,
         "Naclstack": 2,
         "Wobbuffet": 1,
-        "Morgrem": 2,
+        "Morgrem": 3,
         "Budew": 1,
         "Dragapult": 2,
         "Blue flower floette": 1,
@@ -900,8 +900,8 @@
         "Crawdaunt": 2,
         "Castform": 1
       },
-      "total_spawns": 6688,
-      "last_spawn": "2026-07-07T08:35:48.663347"
+      "total_spawns": 6690,
+      "last_spawn": "2026-07-07T08:45:58.235742"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -965,7 +965,7 @@
         "Orthworm": 14,
         "Glimmet": 11,
         "Beldum": 2,
-        "Combee": 6,
+        "Combee": 7,
         "Corphish": 3,
         "Litten": 5,
         "Infernape": 3,
@@ -1609,12 +1609,12 @@
         "Corviknight": 1,
         "Swanna": 1
       },
-      "total_spawns": 2993,
-      "last_spawn": "2026-07-06T00:08:44.750716"
+      "total_spawns": 2994,
+      "last_spawn": "2026-07-07T08:35:57.894625"
     }
   },
   "global": {
-    "total_spawns": 72220,
+    "total_spawns": 72223,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
