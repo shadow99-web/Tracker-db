@@ -113,7 +113,7 @@
         "Treecko": 12,
         "Shroodle": 17,
         "Ride cyclizar": 8,
-        "Swinub": 24,
+        "Swinub": 25,
         "Rattata": 11,
         "Stonjourner": 1,
         "Veluza": 34,
@@ -305,7 +305,7 @@
         "Torracat": 4,
         "Geodude": 17,
         "Tentacruel": 1,
-        "Archen": 11,
+        "Archen": 13,
         "Blue plumage squawkabilly": 4,
         "Metang": 7,
         "Larvitar": 15,
@@ -553,7 +553,7 @@
         "Palpitoad": 4,
         "Smeargle": 2,
         "Appletun": 6,
-        "Arrokuda": 5,
+        "Arrokuda": 6,
         "Toxapex": 2,
         "Pawmot": 1,
         "Blitzle": 4,
@@ -871,10 +871,11 @@
         "Falinks": 1,
         "Scolipede": 1,
         "Centiskorch": 2,
-        "Swellow": 1
+        "Swellow": 1,
+        "Kangaskhan": 1
       },
-      "total_spawns": 5686,
-      "last_spawn": "2026-07-07T00:24:28.385543"
+      "total_spawns": 5691,
+      "last_spawn": "2026-07-07T00:25:08.213250"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1587,7 +1588,7 @@
     }
   },
   "global": {
-    "total_spawns": 71218,
+    "total_spawns": 71223,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
