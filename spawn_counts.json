@@ -16,7 +16,7 @@
         "Weedle": 33,
         "Kabutops": 2,
         "Poliwag": 26,
-        "Fidough": 26,
+        "Fidough": 27,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 9,
@@ -34,7 +34,7 @@
         "Bounsweet": 38,
         "Fletchling": 28,
         "Whirlipede": 6,
-        "Duskull": 50,
+        "Duskull": 52,
         "Abra": 28,
         "Wiglett": 16,
         "Starly": 45,
@@ -92,7 +92,7 @@
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 32,
-        "Greavard": 39,
+        "Greavard": 40,
         "Snover": 9,
         "Piplup": 5,
         "Dondozo": 16,
@@ -200,7 +200,7 @@
         "Tarountula": 20,
         "Rhyhorn": 24,
         "Aipom": 4,
-        "Grookey": 11,
+        "Grookey": 12,
         "Inkay": 4,
         "Unfezant": 4,
         "Fraxure": 9,
@@ -253,7 +253,7 @@
         "Drednaw": 5,
         "Corvisquire": 6,
         "Croconaw": 6,
-        "Makuhita": 1,
+        "Makuhita": 2,
         "Machamp": 1,
         "Primarina": 5,
         "Skeledirge": 2,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5857,
-      "last_spawn": "2026-07-07T00:47:51.476995"
+      "total_spawns": 5863,
+      "last_spawn": "2026-07-07T00:48:28.298508"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71389,
+    "total_spawns": 71395,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
