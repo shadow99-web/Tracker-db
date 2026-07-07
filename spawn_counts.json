@@ -29,7 +29,7 @@
         "Tynamo": 20,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 22,
+        "Pidgey": 23,
         "Binacle": 8,
         "Bounsweet": 40,
         "Fletchling": 31,
@@ -94,7 +94,7 @@
         "Gible": 34,
         "Greavard": 42,
         "Snover": 9,
-        "Piplup": 5,
+        "Piplup": 6,
         "Dondozo": 17,
         "Cyclizar": 10,
         "Froslass": 2,
@@ -139,7 +139,7 @@
         "Diglett": 6,
         "Surskit": 6,
         "Seedot": 18,
-        "Jigglypuff": 9,
+        "Jigglypuff": 10,
         "Spearow": 6,
         "Servine": 3,
         "Wugtrio": 9,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 4,
-        "Spheal": 17,
+        "Spheal": 18,
         "Amaura": 9,
         "Wailord": 2,
         "Accelgor": 3,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6318,
-      "last_spawn": "2026-07-07T04:49:18.234068"
+      "total_spawns": 6322,
+      "last_spawn": "2026-07-07T04:49:58.156682"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71850,
+    "total_spawns": 71854,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
