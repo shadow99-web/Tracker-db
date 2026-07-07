@@ -76,7 +76,7 @@
         "Terapagos": 1,
         "Mankey": 9,
         "Torterra": 1,
-        "Salandit": 7,
+        "Salandit": 8,
         "Bruxish": 2,
         "Orbeetle": 5,
         "Bramblin": 16,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 5,
         "Doduo": 6,
-        "Flittle": 24,
+        "Flittle": 25,
         "Armarouge": 6,
         "Clauncher": 5,
         "Tentacool": 4,
@@ -467,7 +467,7 @@
         "Shellder": 4,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 8,
+        "Absol": 10,
         "Calyrex": 1,
         "Kakuna": 4,
         "Shedinja": 4,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6490,
-      "last_spawn": "2026-07-07T05:26:03.816579"
+      "total_spawns": 6494,
+      "last_spawn": "2026-07-07T05:26:43.455101"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72022,
+    "total_spawns": 72026,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
