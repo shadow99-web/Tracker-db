@@ -26,7 +26,7 @@
         "Peakychu": 31,
         "Cutiefly": 6,
         "Simipour": 2,
-        "Tynamo": 19,
+        "Tynamo": 20,
         "Palossand": 3,
         "Pyukumuku": 1,
         "Pidgey": 21,
@@ -70,7 +70,7 @@
         "Vulpix": 19,
         "Gastly": 46,
         "Aron": 27,
-        "Honedge": 44,
+        "Honedge": 46,
         "Houndour": 1,
         "Machop": 20,
         "Terapagos": 1,
@@ -84,10 +84,10 @@
         "Shelgon": 7,
         "Marshtomp": 13,
         "Squirtle": 12,
-        "Shinx": 59,
+        "Shinx": 60,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 47,
+        "Pawmi": 49,
         "Sandile": 35,
         "Charmeleon": 7,
         "Riolu": 16,
@@ -886,8 +886,8 @@
         "Sunshine cherrim": 2,
         "Cloyster": 1
       },
-      "total_spawns": 6051,
-      "last_spawn": "2026-07-07T02:22:48.129056"
+      "total_spawns": 6057,
+      "last_spawn": "2026-07-07T02:23:18.358610"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1600,7 +1600,7 @@
     }
   },
   "global": {
-    "total_spawns": 71583,
+    "total_spawns": 71589,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
