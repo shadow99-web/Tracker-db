@@ -571,7 +571,7 @@
         "Seadra": 2,
         "Sealeo": 5,
         "Baltoy": 3,
-        "Karrablast": 5,
+        "Karrablast": 6,
         "Volbeat": 2,
         "Murkrow": 4,
         "Venusaur": 2,
@@ -733,7 +733,7 @@
         "Gossifleur": 3,
         "Electivire": 2,
         "Farigiraf": 2,
-        "Raichu": 1,
+        "Raichu": 2,
         "Meowstic": 2,
         "Zangoose": 2,
         "Thievul": 3,
@@ -877,10 +877,11 @@
         "Emboar": 1,
         "Cacturne": 2,
         "Kricketune": 1,
-        "Gliscor": 2
+        "Gliscor": 2,
+        "Hariyama": 2
       },
-      "total_spawns": 5894,
-      "last_spawn": "2026-07-07T00:52:38.201794"
+      "total_spawns": 5898,
+      "last_spawn": "2026-07-07T00:53:08.291770"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1594,7 @@
     }
   },
   "global": {
-    "total_spawns": 71426,
+    "total_spawns": 71430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
