@@ -15,7 +15,7 @@
         "Vanillite": 52,
         "Weedle": 33,
         "Kabutops": 2,
-        "Poliwag": 25,
+        "Poliwag": 26,
         "Fidough": 25,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -37,7 +37,7 @@
         "Duskull": 50,
         "Abra": 28,
         "Wiglett": 16,
-        "Starly": 43,
+        "Starly": 45,
         "Caterpie": 17,
         "Mareep": 23,
         "Capsakid": 22,
@@ -516,7 +516,7 @@
         "Low key toxtricity": 4,
         "Nidorina": 5,
         "Bronzong": 2,
-        "Foongus": 4,
+        "Foongus": 5,
         "Krookodile": 2,
         "Espathra": 5,
         "Snom": 9,
@@ -877,10 +877,10 @@
         "Emboar": 1,
         "Cacturne": 2,
         "Kricketune": 1,
-        "Gliscor": 1
+        "Gliscor": 2
       },
-      "total_spawns": 5827,
-      "last_spawn": "2026-07-07T00:43:28.433582"
+      "total_spawns": 5832,
+      "last_spawn": "2026-07-07T00:44:08.371335"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71359,
+    "total_spawns": 71364,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
