@@ -69,7 +69,7 @@
         "Prof tangrowth": 23,
         "Vulpix": 19,
         "Gastly": 46,
-        "Aron": 27,
+        "Aron": 28,
         "Honedge": 46,
         "Houndour": 1,
         "Machop": 20,
@@ -178,7 +178,7 @@
         "Flamigo": 11,
         "Bellsprout": 15,
         "Houndstone": 5,
-        "Beldum": 25,
+        "Beldum": 27,
         "Kadabra": 12,
         "Grovyle": 19,
         "Dratini": 27,
@@ -639,7 +639,7 @@
         "Elekid": 2,
         "Chingling": 2,
         "Tangela": 5,
-        "Raticate": 5,
+        "Raticate": 6,
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 4,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6325,
-      "last_spawn": "2026-07-07T04:50:28.240068"
+      "total_spawns": 6329,
+      "last_spawn": "2026-07-07T04:50:58.468821"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71857,
+    "total_spawns": 71861,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
