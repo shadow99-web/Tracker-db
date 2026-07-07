@@ -277,7 +277,7 @@
         "Ledyba": 5,
         "Chinchou": 6,
         "Eiscue": 1,
-        "Nacli": 18,
+        "Nacli": 19,
         "Pancham": 5,
         "Bulbasaur": 25,
         "Dewpider": 5,
@@ -327,7 +327,7 @@
         "Snubbull": 4,
         "Crocalor": 2,
         "Magnemite": 21,
-        "Doublade": 3,
+        "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
         "Oinkologne": 4,
@@ -609,7 +609,7 @@
         "Blissey": 4,
         "Cinccino": 6,
         "Alolan vulpix": 2,
-        "Glameow": 2,
+        "Glameow": 3,
         "Zweilous": 5,
         "Azurill": 5,
         "Oshawott": 4,
@@ -847,7 +847,7 @@
         "Tapu lele": 2,
         "Naclstack": 2,
         "Wobbuffet": 1,
-        "Morgrem": 1,
+        "Morgrem": 2,
         "Budew": 1,
         "Dragapult": 2,
         "Blue flower floette": 1,
@@ -891,8 +891,8 @@
         "Ninetales": 2,
         "Stunfisk": 1
       },
-      "total_spawns": 6227,
-      "last_spawn": "2026-07-07T03:36:28.576994"
+      "total_spawns": 6231,
+      "last_spawn": "2026-07-07T03:37:08.325237"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1605,7 +1605,7 @@
     }
   },
   "global": {
-    "total_spawns": 71759,
+    "total_spawns": 71763,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
