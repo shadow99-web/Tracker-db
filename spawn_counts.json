@@ -84,13 +84,13 @@
         "Shelgon": 7,
         "Marshtomp": 15,
         "Squirtle": 12,
-        "Shinx": 65,
+        "Shinx": 66,
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 51,
         "Sandile": 37,
         "Charmeleon": 7,
-        "Riolu": 16,
+        "Riolu": 18,
         "Gible": 38,
         "Greavard": 42,
         "Snover": 9,
@@ -130,7 +130,7 @@
         "Varoom": 38,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
-        "Sandy burmy": 2,
+        "Sandy burmy": 3,
         "Torchic": 13,
         "Abomasnow": 5,
         "Slugma": 7,
@@ -211,7 +211,7 @@
         "Skrelp": 8,
         "Lileep": 6,
         "Drifloon": 4,
-        "Mightyena": 5,
+        "Mightyena": 6,
         "Sandaconda": 1,
         "Froakie": 14,
         "Kingdra": 3,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 5,
         "Klang": 4,
-        "Tepig": 7,
+        "Tepig": 8,
         "Spinda": 1,
         "Phantump": 5,
         "Barboach": 4,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6610,
-      "last_spawn": "2026-07-07T07:52:08.401625"
+      "total_spawns": 6616,
+      "last_spawn": "2026-07-07T07:52:48.410705"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72142,
+    "total_spawns": 72148,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
