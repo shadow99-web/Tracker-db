@@ -96,7 +96,7 @@
         "Snover": 9,
         "Piplup": 5,
         "Dondozo": 17,
-        "Cyclizar": 9,
+        "Cyclizar": 10,
         "Froslass": 2,
         "Dodrio": 7,
         "Metagross": 6,
@@ -193,7 +193,7 @@
         "Diggersby": 2,
         "Klawf": 39,
         "Dj rotom": 19,
-        "Chef dente": 23,
+        "Chef dente": 24,
         "Hisuian qwilfish": 1,
         "Bagon": 28,
         "Pikachu": 12,
@@ -220,7 +220,7 @@
         "Shuppet": 12,
         "Graveler": 4,
         "Duosion": 6,
-        "Orthworm": 27,
+        "Orthworm": 28,
         "Yamask": 5,
         "Nymble": 22,
         "Snorunt": 7,
@@ -540,7 +540,7 @@
         "White flower floette": 3,
         "Octillery": 3,
         "Pawniard": 8,
-        "Brionne": 4,
+        "Brionne": 5,
         "Zarude": 2,
         "Yamper": 6,
         "Tropius": 1,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6311,
-      "last_spawn": "2026-07-07T04:27:38.908769"
+      "total_spawns": 6315,
+      "last_spawn": "2026-07-07T04:31:51.232512"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71843,
+    "total_spawns": 71847,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
