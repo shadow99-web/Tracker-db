@@ -84,7 +84,7 @@
         "Shelgon": 7,
         "Marshtomp": 15,
         "Squirtle": 12,
-        "Shinx": 62,
+        "Shinx": 64,
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 49,
@@ -206,7 +206,7 @@
         "Fraxure": 11,
         "Zubat": 22,
         "Drowzee": 9,
-        "Lechonk": 24,
+        "Lechonk": 25,
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 5,
@@ -279,7 +279,7 @@
         "Eiscue": 1,
         "Nacli": 19,
         "Pancham": 6,
-        "Bulbasaur": 25,
+        "Bulbasaur": 26,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 7,
         "Hattrem": 7,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 1,
         "Dragonair": 4,
-        "Spheal": 19,
+        "Spheal": 20,
         "Amaura": 9,
         "Wailord": 2,
         "Accelgor": 3,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6450,
-      "last_spawn": "2026-07-07T05:20:33.662378"
+      "total_spawns": 6455,
+      "last_spawn": "2026-07-07T05:21:13.530613"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 71982,
+    "total_spawns": 71987,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
