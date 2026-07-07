@@ -32,10 +32,10 @@
         "Pidgey": 21,
         "Binacle": 8,
         "Bounsweet": 38,
-        "Fletchling": 28,
+        "Fletchling": 29,
         "Whirlipede": 6,
         "Duskull": 52,
-        "Abra": 28,
+        "Abra": 29,
         "Wiglett": 16,
         "Starly": 47,
         "Caterpie": 18,
@@ -379,7 +379,7 @@
         "Morelull": 5,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 18,
+        "Slakoth": 19,
         "Klink": 14,
         "Mesprit": 1,
         "Azelf": 2,
@@ -881,8 +881,8 @@
         "Hariyama": 2,
         "Hisuian zoroark": 2
       },
-      "total_spawns": 5920,
-      "last_spawn": "2026-07-07T02:02:58.244715"
+      "total_spawns": 5923,
+      "last_spawn": "2026-07-07T02:03:38.241923"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1595,7 +1595,7 @@
     }
   },
   "global": {
-    "total_spawns": 71452,
+    "total_spawns": 71455,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
