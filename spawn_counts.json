@@ -53,7 +53,7 @@
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 21,
-        "Smoliv": 16,
+        "Smoliv": 17,
         "Tirtouga": 9,
         "Hatenna": 40,
         "Shroomish": 3,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 36,
+        "Varoom": 37,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 2,
@@ -285,7 +285,7 @@
         "Hattrem": 7,
         "Trash wormadam": 3,
         "Purrloin": 2,
-        "Zigzagoon": 5,
+        "Zigzagoon": 6,
         "Quilladin": 3,
         "Infernape": 3,
         "Noibat": 7,
@@ -588,7 +588,7 @@
         "Goldeen": 7,
         "Gouging fire": 2,
         "Cottonee": 2,
-        "Flareon": 2,
+        "Flareon": 4,
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 3,
@@ -887,8 +887,8 @@
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6102,
-      "last_spawn": "2026-07-07T02:29:18.286592"
+      "total_spawns": 6107,
+      "last_spawn": "2026-07-07T02:29:58.893707"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71634,
+    "total_spawns": 71639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
