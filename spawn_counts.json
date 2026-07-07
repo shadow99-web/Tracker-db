@@ -198,7 +198,7 @@
         "Bagon": 26,
         "Pikachu": 10,
         "Tarountula": 20,
-        "Rhyhorn": 22,
+        "Rhyhorn": 23,
         "Aipom": 4,
         "Grookey": 11,
         "Inkay": 4,
@@ -612,7 +612,7 @@
         "Glameow": 2,
         "Zweilous": 5,
         "Azurill": 4,
-        "Oshawott": 2,
+        "Oshawott": 3,
         "Malamar": 3,
         "Orange flower florges": 1,
         "Minun": 6,
@@ -870,10 +870,11 @@
         "Typhlosion": 2,
         "Falinks": 1,
         "Scolipede": 1,
-        "Centiskorch": 2
+        "Centiskorch": 2,
+        "Swellow": 1
       },
-      "total_spawns": 5650,
-      "last_spawn": "2026-07-07T00:19:48.318000"
+      "total_spawns": 5653,
+      "last_spawn": "2026-07-07T00:20:18.406525"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1587,7 @@
     }
   },
   "global": {
-    "total_spawns": 71182,
+    "total_spawns": 71185,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
