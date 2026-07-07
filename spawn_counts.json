@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 18,
-        "Dreepy": 55,
+        "Dreepy": 57,
         "Treecko": 12,
         "Shroodle": 20,
         "Ride cyclizar": 9,
@@ -249,7 +249,7 @@
         "Rhydon": 6,
         "Ambipom": 3,
         "Solrock": 1,
-        "Tinkatuff": 4,
+        "Tinkatuff": 5,
         "Drednaw": 5,
         "Corvisquire": 6,
         "Croconaw": 6,
@@ -600,7 +600,7 @@
         "Grimer": 4,
         "Frosmoth": 6,
         "Darumaka": 4,
-        "Cubone": 4,
+        "Cubone": 5,
         "Conkeldurr": 1,
         "Sinistea": 6,
         "Golbat": 6,
@@ -622,7 +622,7 @@
         "Spoink": 9,
         "Dhelmise": 1,
         "Armaldo": 3,
-        "Krokorok": 4,
+        "Krokorok": 5,
         "Torkoal": 3,
         "Clamperl": 2,
         "Rampardos": 2,
@@ -882,8 +882,8 @@
         "Hisuian zoroark": 2,
         "Huntail": 2
       },
-      "total_spawns": 6014,
-      "last_spawn": "2026-07-07T02:17:48.617860"
+      "total_spawns": 6019,
+      "last_spawn": "2026-07-07T02:18:28.356754"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1596,7 +1596,7 @@
     }
   },
   "global": {
-    "total_spawns": 71546,
+    "total_spawns": 71551,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
