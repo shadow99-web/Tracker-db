@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 28,
         "Totodile": 13,
-        "Vanillite": 54,
+        "Vanillite": 56,
         "Weedle": 35,
         "Kabutops": 2,
         "Poliwag": 27,
@@ -37,7 +37,7 @@
         "Duskull": 52,
         "Abra": 29,
         "Wiglett": 16,
-        "Starly": 48,
+        "Starly": 49,
         "Caterpie": 20,
         "Mareep": 24,
         "Capsakid": 22,
@@ -77,7 +77,7 @@
         "Mankey": 9,
         "Torterra": 1,
         "Salandit": 7,
-        "Bruxish": 1,
+        "Bruxish": 2,
         "Orbeetle": 5,
         "Bramblin": 16,
         "Stufful": 7,
@@ -218,7 +218,7 @@
         "Chikorita": 9,
         "Donphan": 5,
         "Shuppet": 12,
-        "Graveler": 3,
+        "Graveler": 4,
         "Duosion": 6,
         "Orthworm": 26,
         "Yamask": 4,
@@ -259,7 +259,7 @@
         "Skeledirge": 2,
         "Taillow": 5,
         "Watchog": 3,
-        "Porygon": 18,
+        "Porygon": 19,
         "Wooloo": 5,
         "Mawile": 7,
         "Marill": 2,
@@ -887,8 +887,8 @@
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6087,
-      "last_spawn": "2026-07-07T02:27:28.596576"
+      "total_spawns": 6093,
+      "last_spawn": "2026-07-07T02:28:08.698862"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71619,
+    "total_spawns": 71625,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
