@@ -58,7 +58,7 @@
         "Hatenna": 42,
         "Shroomish": 4,
         "Lillipup": 30,
-        "Mosslax": 38,
+        "Mosslax": 40,
         "Maushold": 4,
         "Cubchoo": 29,
         "Koffing": 8,
@@ -87,7 +87,7 @@
         "Shinx": 66,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 51,
+        "Pawmi": 53,
         "Sandile": 37,
         "Charmeleon": 7,
         "Riolu": 18,
@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 6,
         "Drednaw": 5,
-        "Corvisquire": 7,
+        "Corvisquire": 8,
         "Croconaw": 7,
         "Makuhita": 2,
         "Machamp": 3,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6637,
-      "last_spawn": "2026-07-07T08:03:58.418763"
+      "total_spawns": 6642,
+      "last_spawn": "2026-07-07T08:04:28.590767"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72169,
+    "total_spawns": 72174,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
