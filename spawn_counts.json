@@ -143,7 +143,7 @@
         "Spearow": 7,
         "Servine": 3,
         "Wugtrio": 9,
-        "Tranquill": 6,
+        "Tranquill": 7,
         "Cetitan": 5,
         "Turtwig": 12,
         "Fomantis": 6,
@@ -222,7 +222,7 @@
         "Duosion": 6,
         "Orthworm": 28,
         "Yamask": 5,
-        "Nymble": 24,
+        "Nymble": 25,
         "Snorunt": 7,
         "Carvanha": 6,
         "Toxel": 4,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6589,
-      "last_spawn": "2026-07-07T06:50:29.857239"
+      "total_spawns": 6591,
+      "last_spawn": "2026-07-07T07:05:49.476115"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72121,
+    "total_spawns": 72123,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
