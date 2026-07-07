@@ -13,7 +13,7 @@
         "Oddish": 26,
         "Totodile": 12,
         "Vanillite": 46,
-        "Weedle": 29,
+        "Weedle": 31,
         "Kabutops": 2,
         "Poliwag": 25,
         "Fidough": 25,
@@ -70,7 +70,7 @@
         "Vulpix": 17,
         "Gastly": 44,
         "Aron": 27,
-        "Honedge": 42,
+        "Honedge": 44,
         "Houndour": 1,
         "Machop": 17,
         "Terapagos": 1,
@@ -677,11 +677,11 @@
         "Pangoro": 1,
         "Galarian zen darmanitan": 2,
         "Basculegion": 4,
-        "Jolteon": 7,
+        "Jolteon": 8,
         "Okidogi": 2,
         "Wyrdeer": 2,
         "Ferroseed": 2,
-        "Musharna": 1,
+        "Musharna": 2,
         "Wingull": 4,
         "Magmar": 3,
         "Dedenne": 2,
@@ -865,8 +865,8 @@
         "Qwilfish": 2,
         "Meowscarada": 1
       },
-      "total_spawns": 5509,
-      "last_spawn": "2026-07-07T00:01:08.257380"
+      "total_spawns": 5515,
+      "last_spawn": "2026-07-07T00:01:38.266207"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1579,7 +1579,7 @@
     }
   },
   "global": {
-    "total_spawns": 71041,
+    "total_spawns": 71047,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
