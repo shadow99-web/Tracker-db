@@ -127,14 +127,14 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 37,
+        "Varoom": 38,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 2,
         "Torchic": 13,
         "Abomasnow": 5,
         "Slugma": 6,
-        "Venonat": 9,
+        "Venonat": 10,
         "Eelektrik": 4,
         "Diglett": 6,
         "Surskit": 6,
@@ -145,7 +145,7 @@
         "Wugtrio": 9,
         "Tranquill": 5,
         "Cetitan": 5,
-        "Turtwig": 8,
+        "Turtwig": 9,
         "Fomantis": 6,
         "Claydol": 1,
         "Trapinch": 15,
@@ -621,7 +621,7 @@
         "Mamoswine": 2,
         "Spoink": 9,
         "Dhelmise": 1,
-        "Armaldo": 3,
+        "Armaldo": 4,
         "Krokorok": 5,
         "Torkoal": 3,
         "Clamperl": 2,
@@ -882,13 +882,13 @@
         "Hisuian zoroark": 2,
         "Huntail": 2,
         "Vivillon": 1,
-        "Leafeon": 2,
+        "Leafeon": 4,
         "Sunshine cherrim": 2,
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6107,
-      "last_spawn": "2026-07-07T02:29:58.893707"
+      "total_spawns": 6113,
+      "last_spawn": "2026-07-07T02:30:38.236081"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71639,
+    "total_spawns": 71645,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
