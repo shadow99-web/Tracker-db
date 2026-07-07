@@ -53,7 +53,7 @@
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 21,
-        "Smoliv": 21,
+        "Smoliv": 22,
         "Tirtouga": 11,
         "Hatenna": 42,
         "Shroomish": 4,
@@ -74,7 +74,7 @@
         "Houndour": 1,
         "Machop": 22,
         "Terapagos": 1,
-        "Mankey": 9,
+        "Mankey": 10,
         "Torterra": 1,
         "Salandit": 8,
         "Bruxish": 2,
@@ -84,7 +84,7 @@
         "Shelgon": 7,
         "Marshtomp": 15,
         "Squirtle": 12,
-        "Shinx": 64,
+        "Shinx": 65,
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 51,
@@ -157,7 +157,7 @@
         "Pikipek": 41,
         "Spritzee": 2,
         "Stantler": 9,
-        "Impidimp": 43,
+        "Impidimp": 45,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 22,
         "Mienshao": 3,
-        "Blipbug": 51,
+        "Blipbug": 52,
         "Rellor": 14,
         "Rolycoly": 28,
         "Poliwhirl": 8,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6604,
-      "last_spawn": "2026-07-07T07:51:29.960480"
+      "total_spawns": 6610,
+      "last_spawn": "2026-07-07T07:52:08.401625"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72136,
+    "total_spawns": 72142,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
