@@ -114,7 +114,7 @@
         "Shroodle": 22,
         "Ride cyclizar": 10,
         "Swinub": 26,
-        "Rattata": 12,
+        "Rattata": 13,
         "Stonjourner": 1,
         "Veluza": 38,
         "Panpour": 7,
@@ -428,7 +428,7 @@
         "Marowak": 4,
         "Haunter": 7,
         "Dottler": 8,
-        "Wailmer": 4,
+        "Wailmer": 5,
         "Frigibax": 51,
         "Iron valiant": 2,
         "Ludicolo": 4,
@@ -520,7 +520,7 @@
         "Krookodile": 2,
         "Espathra": 5,
         "Snom": 10,
-        "Nickit": 10,
+        "Nickit": 11,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6322,
-      "last_spawn": "2026-07-07T04:49:58.156682"
+      "total_spawns": 6325,
+      "last_spawn": "2026-07-07T04:50:28.240068"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71854,
+    "total_spawns": 71857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
