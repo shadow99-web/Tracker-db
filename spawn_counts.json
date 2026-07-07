@@ -50,7 +50,7 @@
         "Grubbin": 26,
         "Scatterbug": 16,
         "Skwovet": 10,
-        "Applin": 5,
+        "Applin": 6,
         "Staryu": 3,
         "Maschiff": 20,
         "Smoliv": 16,
@@ -108,7 +108,7 @@
         "Tentacool": 4,
         "Bayleef": 4,
         "Magnezone": 2,
-        "Eevee": 18,
+        "Eevee": 20,
         "Dreepy": 57,
         "Treecko": 12,
         "Shroodle": 21,
@@ -659,7 +659,7 @@
         "Munna": 2,
         "Mabosstiff": 5,
         "Omastar": 3,
-        "Gabite": 6,
+        "Gabite": 8,
         "Tapu fini": 4,
         "Gyarados": 2,
         "Lapras": 2,
@@ -884,10 +884,11 @@
         "Vivillon": 1,
         "Leafeon": 2,
         "Sunshine cherrim": 2,
-        "Cloyster": 1
+        "Cloyster": 1,
+        "Cleffa": 1
       },
-      "total_spawns": 6061,
-      "last_spawn": "2026-07-07T02:23:48.448349"
+      "total_spawns": 6067,
+      "last_spawn": "2026-07-07T02:24:28.278136"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1600,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71593,
+    "total_spawns": 71599,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
