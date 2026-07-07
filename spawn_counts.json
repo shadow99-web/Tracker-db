@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 20,
         "Binacle": 7,
-        "Bounsweet": 36,
+        "Bounsweet": 37,
         "Fletchling": 25,
         "Whirlipede": 6,
         "Duskull": 48,
@@ -112,7 +112,7 @@
         "Dreepy": 45,
         "Treecko": 12,
         "Shroodle": 17,
-        "Ride cyclizar": 7,
+        "Ride cyclizar": 8,
         "Swinub": 24,
         "Rattata": 10,
         "Stonjourner": 1,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 3,
         "Quilava": 2,
-        "Wurmple": 34,
+        "Wurmple": 36,
         "Sandshrew": 6,
         "Tauros": 4,
         "Golurk": 1,
@@ -868,10 +868,11 @@
         "Corsola": 1,
         "Psyduck": 2,
         "Typhlosion": 2,
-        "Falinks": 1
+        "Falinks": 1,
+        "Scolipede": 1
       },
-      "total_spawns": 5600,
-      "last_spawn": "2026-07-07T00:13:19.681353"
+      "total_spawns": 5605,
+      "last_spawn": "2026-07-07T00:13:58.210046"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1584,7 +1585,7 @@
     }
   },
   "global": {
-    "total_spawns": 71132,
+    "total_spawns": 71137,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
