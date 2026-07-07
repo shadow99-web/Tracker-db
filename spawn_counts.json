@@ -224,7 +224,7 @@
         "Yamask": 5,
         "Nymble": 23,
         "Snorunt": 7,
-        "Carvanha": 4,
+        "Carvanha": 5,
         "Toxel": 4,
         "Buneary": 5,
         "Gallade": 11,
@@ -274,7 +274,7 @@
         "Plusle": 7,
         "Decidueye": 5,
         "Kricketot": 8,
-        "Ledyba": 6,
+        "Ledyba": 7,
         "Chinchou": 6,
         "Eiscue": 1,
         "Nacli": 19,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6584,
-      "last_spawn": "2026-07-07T06:07:45.663689"
+      "total_spawns": 6586,
+      "last_spawn": "2026-07-07T06:09:27.091186"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72116,
+    "total_spawns": 72118,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
