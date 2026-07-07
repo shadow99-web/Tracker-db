@@ -46,14 +46,14 @@
         "Wattrel": 16,
         "Tadbulb": 27,
         "Yanmega": 1,
-        "Tympole": 19,
+        "Tympole": 20,
         "Grubbin": 27,
         "Scatterbug": 19,
         "Skwovet": 10,
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 21,
-        "Smoliv": 19,
+        "Smoliv": 20,
         "Tirtouga": 11,
         "Hatenna": 42,
         "Shroomish": 4,
@@ -91,7 +91,7 @@
         "Sandile": 37,
         "Charmeleon": 7,
         "Riolu": 16,
-        "Gible": 36,
+        "Gible": 38,
         "Greavard": 42,
         "Snover": 9,
         "Piplup": 6,
@@ -117,7 +117,7 @@
         "Rattata": 14,
         "Stonjourner": 1,
         "Veluza": 38,
-        "Panpour": 7,
+        "Panpour": 8,
         "Crabrawler": 6,
         "Frogadier": 4,
         "Scovillain": 5,
@@ -188,7 +188,7 @@
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 19,
-        "Wimpod": 12,
+        "Wimpod": 13,
         "Comfey": 9,
         "Diggersby": 2,
         "Klawf": 39,
@@ -667,7 +667,7 @@
         "Sylveon": 6,
         "Inteleon": 4,
         "Milotic": 1,
-        "Slaking": 1,
+        "Slaking": 3,
         "Obstagoon": 2,
         "Greninja": 4,
         "Wash rotom": 1,
@@ -898,8 +898,8 @@
         "Golem": 1,
         "Barraskewda": 1
       },
-      "total_spawns": 6546,
-      "last_spawn": "2026-07-07T05:32:58.317071"
+      "total_spawns": 6554,
+      "last_spawn": "2026-07-07T05:33:28.493965"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1612,7 +1612,7 @@
     }
   },
   "global": {
-    "total_spawns": 72078,
+    "total_spawns": 72086,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
