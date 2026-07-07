@@ -180,7 +180,7 @@
         "Houndstone": 3,
         "Beldum": 21,
         "Kadabra": 10,
-        "Grovyle": 11,
+        "Grovyle": 13,
         "Dratini": 25,
         "Steelix": 2,
         "Sprigatito": 13,
@@ -346,7 +346,7 @@
         "Pidove": 13,
         "Chespin": 5,
         "Combee": 4,
-        "Cyndaquil": 6,
+        "Cyndaquil": 7,
         "Grotle": 4,
         "Tinkaton": 2,
         "Bergmite": 5,
@@ -613,7 +613,7 @@
         "Zweilous": 5,
         "Azurill": 4,
         "Oshawott": 2,
-        "Malamar": 2,
+        "Malamar": 3,
         "Orange flower florges": 1,
         "Minun": 6,
         "Hangry morpeko": 2,
@@ -872,8 +872,8 @@
         "Scolipede": 1,
         "Centiskorch": 2
       },
-      "total_spawns": 5618,
-      "last_spawn": "2026-07-07T00:15:48.218594"
+      "total_spawns": 5622,
+      "last_spawn": "2026-07-07T00:16:20.104045"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1586,7 @@
     }
   },
   "global": {
-    "total_spawns": 71150,
+    "total_spawns": 71154,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
