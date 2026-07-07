@@ -53,7 +53,7 @@
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 21,
-        "Smoliv": 20,
+        "Smoliv": 21,
         "Tirtouga": 11,
         "Hatenna": 42,
         "Shroomish": 4,
@@ -332,7 +332,7 @@
         "Raboot": 10,
         "Oinkologne": 4,
         "Floragato": 5,
-        "Larvesta": 19,
+        "Larvesta": 21,
         "Magby": 1,
         "Roaming gimmighoul": 16,
         "Volcarona": 5,
@@ -416,7 +416,7 @@
         "Sewaddle": 22,
         "Shelmet": 5,
         "Combusken": 2,
-        "Croagunk": 6,
+        "Croagunk": 7,
         "Mothim": 4,
         "Crabominable": 5,
         "Krabby": 7,
@@ -479,7 +479,7 @@
         "Pignite": 5,
         "Bunnelby": 5,
         "Complete zygarde": 3,
-        "Mudbray": 10,
+        "Mudbray": 11,
         "Spectrier": 1,
         "Rufflet": 5,
         "Lairon": 6,
@@ -518,7 +518,7 @@
         "Bronzong": 2,
         "Foongus": 6,
         "Krookodile": 2,
-        "Espathra": 6,
+        "Espathra": 7,
         "Snom": 10,
         "Nickit": 12,
         "Aromatisse": 1,
@@ -898,8 +898,8 @@
         "Golem": 1,
         "Barraskewda": 1
       },
-      "total_spawns": 6554,
-      "last_spawn": "2026-07-07T05:33:28.493965"
+      "total_spawns": 6560,
+      "last_spawn": "2026-07-07T05:34:03.694029"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1612,7 +1612,7 @@
     }
   },
   "global": {
-    "total_spawns": 72086,
+    "total_spawns": 72092,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
