@@ -16,7 +16,7 @@
         "Weedle": 35,
         "Kabutops": 2,
         "Poliwag": 27,
-        "Fidough": 28,
+        "Fidough": 29,
         "Charjabug": 3,
         "Hatterene": 5,
         "Rowlet": 10,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 9,
-        "Hoppip": 24,
+        "Hoppip": 25,
         "Slowbro": 2,
         "Gholdengo": 4,
         "Trubbish": 8,
@@ -429,7 +429,7 @@
         "Haunter": 7,
         "Dottler": 8,
         "Wailmer": 5,
-        "Frigibax": 51,
+        "Frigibax": 53,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 6,
@@ -816,7 +816,7 @@
         "Seaking": 2,
         "Glalie": 1,
         "Talonflame": 1,
-        "Silicobra": 2,
+        "Silicobra": 3,
         "Durant": 3,
         "Shaymin": 4,
         "Mantine": 2,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6498,
-      "last_spawn": "2026-07-07T05:27:19.724341"
+      "total_spawns": 6503,
+      "last_spawn": "2026-07-07T05:27:53.570273"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72030,
+    "total_spawns": 72035,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
