@@ -47,7 +47,7 @@
         "Tadbulb": 24,
         "Yanmega": 1,
         "Tympole": 18,
-        "Grubbin": 24,
+        "Grubbin": 25,
         "Scatterbug": 16,
         "Skwovet": 9,
         "Applin": 5,
@@ -148,7 +148,7 @@
         "Turtwig": 8,
         "Fomantis": 6,
         "Claydol": 1,
-        "Trapinch": 13,
+        "Trapinch": 14,
         "Butterfree": 3,
         "Teddiursa": 48,
         "Roggenrola": 30,
@@ -164,7 +164,7 @@
         "Venipede": 26,
         "Pansage": 4,
         "Cetoddle": 15,
-        "Togepi": 18,
+        "Togepi": 19,
         "Tandemaus": 17,
         "Clefairy": 5,
         "Unown q": 1,
@@ -235,7 +235,7 @@
         "Timburr": 19,
         "Shellos": 2,
         "Arcanine": 1,
-        "Sliggoo": 3,
+        "Sliggoo": 4,
         "Whismur": 25,
         "Jangmo-o": 10,
         "Lunatone": 1,
@@ -875,8 +875,8 @@
         "Kangaskhan": 2,
         "Jirachi": 2
       },
-      "total_spawns": 5707,
-      "last_spawn": "2026-07-07T00:27:20.405530"
+      "total_spawns": 5711,
+      "last_spawn": "2026-07-07T00:27:58.250192"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1589,7 +1589,7 @@
     }
   },
   "global": {
-    "total_spawns": 71239,
+    "total_spawns": 71243,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
