@@ -398,7 +398,7 @@
         "Misdreavus": 4,
         "Cursola": 2,
         "Carbink": 2,
-        "Scorbunny": 5,
+        "Scorbunny": 6,
         "Dubwool": 2,
         "Litleo": 5,
         "Silcoon": 7,
@@ -551,7 +551,7 @@
         "Mime jr.": 3,
         "Yungoos": 5,
         "Palpitoad": 4,
-        "Smeargle": 2,
+        "Smeargle": 4,
         "Appletun": 6,
         "Arrokuda": 6,
         "Toxapex": 2,
@@ -773,7 +773,7 @@
         "Cinderace": 4,
         "Cramorant": 1,
         "Sandy wormadam": 1,
-        "Haxorus": 2,
+        "Haxorus": 4,
         "Lilligant": 1,
         "Fan rotom": 2,
         "Ferrothorn": 1,
@@ -837,7 +837,7 @@
         "Monferno": 2,
         "Smoochum": 1,
         "Drampa": 2,
-        "Shieldon": 2,
+        "Shieldon": 3,
         "Araquanid": 2,
         "Glaceon": 2,
         "Grumpig": 1,
@@ -876,8 +876,8 @@
         "Jirachi": 2,
         "Emboar": 1
       },
-      "total_spawns": 5758,
-      "last_spawn": "2026-07-07T00:34:28.268156"
+      "total_spawns": 5764,
+      "last_spawn": "2026-07-07T00:35:08.313889"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1590,7 +1590,7 @@
     }
   },
   "global": {
-    "total_spawns": 71290,
+    "total_spawns": 71296,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
