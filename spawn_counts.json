@@ -29,7 +29,7 @@
         "Tynamo": 20,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 24,
+        "Pidgey": 25,
         "Binacle": 8,
         "Bounsweet": 40,
         "Fletchling": 31,
@@ -164,7 +164,7 @@
         "Venipede": 30,
         "Pansage": 5,
         "Cetoddle": 19,
-        "Togepi": 23,
+        "Togepi": 24,
         "Tandemaus": 19,
         "Clefairy": 6,
         "Unown q": 1,
@@ -520,7 +520,7 @@
         "Krookodile": 2,
         "Espathra": 6,
         "Snom": 10,
-        "Nickit": 11,
+        "Nickit": 12,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -817,7 +817,7 @@
         "Glalie": 1,
         "Talonflame": 1,
         "Silicobra": 2,
-        "Durant": 2,
+        "Durant": 3,
         "Shaymin": 4,
         "Mantine": 2,
         "Iron bundle": 2,
@@ -895,8 +895,8 @@
         "Pirouette meloetta": 2,
         "Trash burmy": 1
       },
-      "total_spawns": 6408,
-      "last_spawn": "2026-07-07T05:14:34.401405"
+      "total_spawns": 6412,
+      "last_spawn": "2026-07-07T05:15:13.550205"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1609,7 +1609,7 @@
     }
   },
   "global": {
-    "total_spawns": 71940,
+    "total_spawns": 71944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
