@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 22,
         "Mienshao": 3,
-        "Blipbug": 50,
+        "Blipbug": 51,
         "Rellor": 14,
         "Rolycoly": 28,
         "Poliwhirl": 8,
@@ -479,7 +479,7 @@
         "Pignite": 5,
         "Bunnelby": 5,
         "Complete zygarde": 3,
-        "Mudbray": 11,
+        "Mudbray": 12,
         "Spectrier": 1,
         "Rufflet": 5,
         "Lairon": 6,
@@ -606,7 +606,7 @@
         "Golbat": 7,
         "Amoonguss": 4,
         "Herdier": 5,
-        "Blissey": 4,
+        "Blissey": 6,
         "Cinccino": 6,
         "Alolan vulpix": 2,
         "Glameow": 3,
@@ -802,7 +802,7 @@
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 2,
-        "Salazzle": 1,
+        "Salazzle": 2,
         "Heracross": 2,
         "Carkol": 2,
         "Zygarde": 2,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6599,
-      "last_spawn": "2026-07-07T07:50:48.330296"
+      "total_spawns": 6604,
+      "last_spawn": "2026-07-07T07:51:29.960480"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72131,
+    "total_spawns": 72136,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
