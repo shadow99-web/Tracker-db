@@ -91,7 +91,7 @@
         "Sandile": 37,
         "Charmeleon": 7,
         "Riolu": 18,
-        "Gible": 38,
+        "Gible": 39,
         "Greavard": 42,
         "Snover": 9,
         "Piplup": 6,
@@ -143,7 +143,7 @@
         "Spearow": 7,
         "Servine": 3,
         "Wugtrio": 9,
-        "Tranquill": 8,
+        "Tranquill": 9,
         "Cetitan": 6,
         "Turtwig": 13,
         "Fomantis": 6,
@@ -175,7 +175,7 @@
         "Rolycoly": 29,
         "Poliwhirl": 8,
         "Lokix": 11,
-        "Flamigo": 11,
+        "Flamigo": 12,
         "Bellsprout": 15,
         "Houndstone": 5,
         "Beldum": 27,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6724,
-      "last_spawn": "2026-07-07T08:50:48.223926"
+      "total_spawns": 6727,
+      "last_spawn": "2026-07-07T08:51:18.301773"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72257,
+    "total_spawns": 72260,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
