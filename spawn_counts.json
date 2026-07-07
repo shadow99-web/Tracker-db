@@ -52,7 +52,7 @@
         "Skwovet": 9,
         "Applin": 5,
         "Staryu": 3,
-        "Maschiff": 16,
+        "Maschiff": 17,
         "Smoliv": 15,
         "Tirtouga": 9,
         "Hatenna": 40,
@@ -116,7 +116,7 @@
         "Swinub": 24,
         "Rattata": 10,
         "Stonjourner": 1,
-        "Veluza": 32,
+        "Veluza": 34,
         "Panpour": 6,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -725,7 +725,7 @@
         "Sawk": 1,
         "Azumarill": 1,
         "Delphox": 1,
-        "Cranidos": 1,
+        "Cranidos": 2,
         "Tsareena": 3,
         "Chansey": 1,
         "Camerupt": 2,
@@ -867,10 +867,10 @@
         "Galarian corsola": 2,
         "Corsola": 1,
         "Psyduck": 2,
-        "Typhlosion": 1
+        "Typhlosion": 2
       },
-      "total_spawns": 5564,
-      "last_spawn": "2026-07-07T00:08:18.196678"
+      "total_spawns": 5569,
+      "last_spawn": "2026-07-07T00:08:48.300206"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1583,7 +1583,7 @@
     }
   },
   "global": {
-    "total_spawns": 71096,
+    "total_spawns": 71101,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
