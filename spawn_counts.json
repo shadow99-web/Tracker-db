@@ -140,7 +140,7 @@
         "Surskit": 6,
         "Seedot": 19,
         "Jigglypuff": 10,
-        "Spearow": 6,
+        "Spearow": 7,
         "Servine": 3,
         "Wugtrio": 9,
         "Tranquill": 6,
@@ -157,7 +157,7 @@
         "Pikipek": 41,
         "Spritzee": 2,
         "Stantler": 9,
-        "Impidimp": 41,
+        "Impidimp": 43,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
@@ -699,7 +699,7 @@
         "Finneon": 4,
         "Pidgeotto": 3,
         "Hakamo-o": 3,
-        "Spidops": 2,
+        "Spidops": 3,
         "Glimmora": 7,
         "Parasect": 2,
         "Fuecoco": 6,
@@ -751,7 +751,7 @@
         "High plain vivillon": 1,
         "Metapod": 6,
         "Lampent": 5,
-        "Roselia": 3,
+        "Roselia": 4,
         "Pineco": 4,
         "Maractus": 4,
         "Togetic": 3,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6511,
-      "last_spawn": "2026-07-07T05:29:04.395393"
+      "total_spawns": 6516,
+      "last_spawn": "2026-07-07T05:29:43.796689"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72043,
+    "total_spawns": 72048,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
