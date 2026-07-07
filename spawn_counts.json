@@ -13,7 +13,7 @@
         "Oddish": 26,
         "Totodile": 12,
         "Vanillite": 52,
-        "Weedle": 32,
+        "Weedle": 33,
         "Kabutops": 2,
         "Poliwag": 25,
         "Fidough": 25,
@@ -363,7 +363,7 @@
         "Trubbish": 8,
         "Rockruff": 6,
         "Snowy castform": 1,
-        "Dusclops": 5,
+        "Dusclops": 6,
         "Prinplup": 5,
         "Kommo-o": 1,
         "Vigoroth": 7,
@@ -686,7 +686,7 @@
         "Magmar": 3,
         "Dedenne": 2,
         "Serperior": 2,
-        "Grapploct": 2,
+        "Grapploct": 3,
         "Vanilluxe": 2,
         "Dwebble": 4,
         "Banette": 2,
@@ -872,10 +872,11 @@
         "Scolipede": 1,
         "Centiskorch": 2,
         "Swellow": 1,
-        "Kangaskhan": 2
+        "Kangaskhan": 2,
+        "Jirachi": 2
       },
-      "total_spawns": 5695,
-      "last_spawn": "2026-07-07T00:25:38.334304"
+      "total_spawns": 5700,
+      "last_spawn": "2026-07-07T00:26:08.446616"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1588,7 +1589,7 @@
     }
   },
   "global": {
-    "total_spawns": 71227,
+    "total_spawns": 71232,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
