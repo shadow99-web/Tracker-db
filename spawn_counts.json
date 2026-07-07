@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 26,
         "Totodile": 12,
-        "Vanillite": 47,
+        "Vanillite": 48,
         "Weedle": 31,
         "Kabutops": 2,
         "Poliwag": 25,
@@ -35,7 +35,7 @@
         "Fletchling": 25,
         "Whirlipede": 6,
         "Duskull": 48,
-        "Abra": 27,
+        "Abra": 28,
         "Wiglett": 16,
         "Starly": 39,
         "Caterpie": 17,
@@ -165,7 +165,7 @@
         "Pansage": 4,
         "Cetoddle": 14,
         "Togepi": 18,
-        "Tandemaus": 16,
+        "Tandemaus": 17,
         "Clefairy": 5,
         "Unown q": 1,
         "Lotad": 18,
@@ -379,7 +379,7 @@
         "Morelull": 4,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 16,
+        "Slakoth": 17,
         "Klink": 14,
         "Mesprit": 1,
         "Azelf": 2,
@@ -872,8 +872,8 @@
         "Scolipede": 1,
         "Centiskorch": 2
       },
-      "total_spawns": 5614,
-      "last_spawn": "2026-07-07T00:15:18.232622"
+      "total_spawns": 5618,
+      "last_spawn": "2026-07-07T00:15:48.218594"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1586,7 @@
     }
   },
   "global": {
-    "total_spawns": 71146,
+    "total_spawns": 71150,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
