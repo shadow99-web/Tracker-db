@@ -144,7 +144,7 @@
         "Servine": 3,
         "Wugtrio": 9,
         "Tranquill": 5,
-        "Cetitan": 4,
+        "Cetitan": 5,
         "Turtwig": 8,
         "Fomantis": 6,
         "Claydol": 1,
@@ -305,7 +305,7 @@
         "Torracat": 4,
         "Geodude": 17,
         "Tentacruel": 1,
-        "Archen": 14,
+        "Archen": 15,
         "Blue plumage squawkabilly": 4,
         "Metang": 7,
         "Larvitar": 17,
@@ -366,7 +366,7 @@
         "Dusclops": 6,
         "Prinplup": 5,
         "Kommo-o": 1,
-        "Vigoroth": 7,
+        "Vigoroth": 8,
         "Gigalith": 2,
         "Kingambit": 2,
         "Cresselia": 4,
@@ -597,12 +597,12 @@
         "Sandshrew": 6,
         "Tauros": 4,
         "Golurk": 1,
-        "Grimer": 3,
+        "Grimer": 4,
         "Frosmoth": 6,
         "Darumaka": 4,
         "Cubone": 4,
         "Conkeldurr": 1,
-        "Sinistea": 4,
+        "Sinistea": 5,
         "Golbat": 6,
         "Amoonguss": 4,
         "Herdier": 5,
@@ -876,8 +876,8 @@
         "Jirachi": 2,
         "Emboar": 1
       },
-      "total_spawns": 5748,
-      "last_spawn": "2026-07-07T00:33:18.461884"
+      "total_spawns": 5753,
+      "last_spawn": "2026-07-07T00:33:58.188937"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1590,7 +1590,7 @@
     }
   },
   "global": {
-    "total_spawns": 71280,
+    "total_spawns": 71285,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
