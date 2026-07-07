@@ -148,7 +148,7 @@
         "Turtwig": 12,
         "Fomantis": 6,
         "Claydol": 1,
-        "Trapinch": 16,
+        "Trapinch": 17,
         "Butterfree": 5,
         "Teddiursa": 54,
         "Roggenrola": 36,
@@ -296,7 +296,7 @@
         "Ceruledge": 6,
         "Vanillish": 7,
         "Gimmighoul": 20,
-        "Glimmet": 15,
+        "Glimmet": 16,
         "Popplio": 7,
         "Arboliva": 2,
         "Luxio": 4,
@@ -563,7 +563,7 @@
         "White flower florges": 1,
         "Hydreigon": 2,
         "Unown x": 2,
-        "Starmie": 2,
+        "Starmie": 3,
         "Farfetch'd": 2,
         "Grafaiai": 10,
         "Fearow": 2,
@@ -571,7 +571,7 @@
         "Seadra": 2,
         "Sealeo": 5,
         "Baltoy": 4,
-        "Karrablast": 7,
+        "Karrablast": 8,
         "Volbeat": 3,
         "Murkrow": 4,
         "Venusaur": 2,
@@ -800,7 +800,7 @@
         "Persian": 1,
         "Toedscruel": 2,
         "Alolan muk": 2,
-        "Xatu": 1,
+        "Xatu": 2,
         "Masquerain": 2,
         "Salazzle": 1,
         "Heracross": 2,
@@ -898,8 +898,8 @@
         "Golem": 1,
         "Barraskewda": 1
       },
-      "total_spawns": 6534,
-      "last_spawn": "2026-07-07T05:31:53.611670"
+      "total_spawns": 6539,
+      "last_spawn": "2026-07-07T05:32:25.775693"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1612,7 +1612,7 @@
     }
   },
   "global": {
-    "total_spawns": 72066,
+    "total_spawns": 72071,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
