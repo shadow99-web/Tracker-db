@@ -58,7 +58,7 @@
         "Hatenna": 40,
         "Shroomish": 3,
         "Lillipup": 28,
-        "Mosslax": 32,
+        "Mosslax": 34,
         "Maushold": 4,
         "Cubchoo": 25,
         "Koffing": 7,
@@ -456,7 +456,7 @@
         "Espurr": 6,
         "Pelipper": 1,
         "Excadrill": 6,
-        "Buizel": 3,
+        "Buizel": 4,
         "Pansear": 3,
         "Yanma": 8,
         "Galarian moltres": 2,
@@ -671,7 +671,7 @@
         "Obstagoon": 2,
         "Greninja": 4,
         "Wash rotom": 1,
-        "Igglybuff": 1,
+        "Igglybuff": 3,
         "Garchomp": 4,
         "Wigglytuff": 3,
         "Pangoro": 1,
@@ -694,7 +694,7 @@
         "Furret": 2,
         "Helioptile": 2,
         "Salamence": 4,
-        "Meditite": 1,
+        "Meditite": 2,
         "Sneasel": 5,
         "Finneon": 4,
         "Pidgeotto": 2,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5866,
-      "last_spawn": "2026-07-07T00:48:58.797817"
+      "total_spawns": 5872,
+      "last_spawn": "2026-07-07T00:49:38.510398"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71398,
+    "total_spawns": 71404,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
