@@ -32,7 +32,7 @@
         "Pidgey": 22,
         "Binacle": 8,
         "Bounsweet": 40,
-        "Fletchling": 30,
+        "Fletchling": 31,
         "Whirlipede": 8,
         "Duskull": 54,
         "Abra": 30,
@@ -314,7 +314,7 @@
         "Pumpkaboo": 5,
         "Petilil": 9,
         "Bombirdier": 22,
-        "Bellibolt": 6,
+        "Bellibolt": 7,
         "Toedscool": 16,
         "Paras": 5,
         "Fletchinder": 5,
@@ -599,7 +599,7 @@
         "Golurk": 1,
         "Grimer": 5,
         "Frosmoth": 6,
-        "Darumaka": 4,
+        "Darumaka": 5,
         "Cubone": 5,
         "Conkeldurr": 2,
         "Sinistea": 6,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6296,
-      "last_spawn": "2026-07-07T03:45:38.224138"
+      "total_spawns": 6299,
+      "last_spawn": "2026-07-07T03:47:25.080545"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71828,
+    "total_spawns": 71831,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
