@@ -32,7 +32,7 @@
         "Pidgey": 25,
         "Binacle": 8,
         "Bounsweet": 42,
-        "Fletchling": 31,
+        "Fletchling": 32,
         "Whirlipede": 8,
         "Duskull": 54,
         "Abra": 30,
@@ -232,7 +232,7 @@
         "Sizzlipede": 6,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 21,
+        "Timburr": 22,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 4,
@@ -326,7 +326,7 @@
         "Sunkern": 6,
         "Snubbull": 4,
         "Crocalor": 2,
-        "Magnemite": 22,
+        "Magnemite": 23,
         "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -334,7 +334,7 @@
         "Floragato": 5,
         "Larvesta": 19,
         "Magby": 1,
-        "Roaming gimmighoul": 14,
+        "Roaming gimmighoul": 16,
         "Volcarona": 5,
         "Togekiss": 5,
         "Furfrou": 4,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6506,
-      "last_spawn": "2026-07-07T05:28:23.731508"
+      "total_spawns": 6511,
+      "last_spawn": "2026-07-07T05:29:04.395393"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72038,
+    "total_spawns": 72043,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
