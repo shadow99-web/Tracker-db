@@ -154,10 +154,10 @@
         "Roggenrola": 32,
         "Litwick": 22,
         "Wooper": 7,
-        "Pikipek": 35,
+        "Pikipek": 36,
         "Spritzee": 2,
         "Stantler": 8,
-        "Impidimp": 37,
+        "Impidimp": 39,
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
@@ -184,7 +184,7 @@
         "Dratini": 27,
         "Steelix": 2,
         "Sprigatito": 13,
-        "Charcadet": 47,
+        "Charcadet": 49,
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 17,
@@ -206,7 +206,7 @@
         "Fraxure": 9,
         "Zubat": 21,
         "Drowzee": 8,
-        "Lechonk": 23,
+        "Lechonk": 24,
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 5,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 1
       },
-      "total_spawns": 5805,
-      "last_spawn": "2026-07-07T00:40:28.312783"
+      "total_spawns": 5811,
+      "last_spawn": "2026-07-07T00:41:08.606952"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71337,
+    "total_spawns": 71343,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
