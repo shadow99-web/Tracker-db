@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 9,
-        "Anorith": 7,
+        "Anorith": 8,
         "Arctibax": 3,
         "Ralts": 40,
         "Peakychu": 31,
@@ -32,13 +32,13 @@
         "Pidgey": 20,
         "Binacle": 7,
         "Bounsweet": 36,
-        "Fletchling": 24,
+        "Fletchling": 25,
         "Whirlipede": 6,
         "Duskull": 48,
         "Abra": 27,
         "Wiglett": 16,
         "Starly": 39,
-        "Caterpie": 16,
+        "Caterpie": 17,
         "Mareep": 19,
         "Capsakid": 20,
         "Numel": 8,
@@ -91,7 +91,7 @@
         "Sandile": 33,
         "Charmeleon": 7,
         "Riolu": 16,
-        "Gible": 31,
+        "Gible": 32,
         "Greavard": 36,
         "Snover": 9,
         "Piplup": 5,
@@ -870,8 +870,8 @@
         "Typhlosion": 2,
         "Falinks": 1
       },
-      "total_spawns": 5590,
-      "last_spawn": "2026-07-07T00:11:38.528001"
+      "total_spawns": 5594,
+      "last_spawn": "2026-07-07T00:12:09.095342"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1584,7 +1584,7 @@
     }
   },
   "global": {
-    "total_spawns": 71122,
+    "total_spawns": 71126,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
