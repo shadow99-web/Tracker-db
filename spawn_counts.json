@@ -154,7 +154,7 @@
         "Roggenrola": 36,
         "Litwick": 23,
         "Wooper": 7,
-        "Pikipek": 36,
+        "Pikipek": 37,
         "Spritzee": 2,
         "Stantler": 8,
         "Impidimp": 41,
@@ -273,7 +273,7 @@
         "Frillish": 1,
         "Plusle": 7,
         "Decidueye": 5,
-        "Kricketot": 7,
+        "Kricketot": 8,
         "Ledyba": 5,
         "Chinchou": 6,
         "Eiscue": 1,
@@ -631,7 +631,7 @@
         "Mienfoo": 4,
         "Quagsire": 2,
         "Komala": 3,
-        "Poochyena": 4,
+        "Poochyena": 5,
         "Hero palafin": 2,
         "Klinklang": 3,
         "Lickilicky": 5,
@@ -890,10 +890,11 @@
         "Continental vivillon": 1,
         "Ninetales": 2,
         "Stunfisk": 1,
-        "Escavalier": 1
+        "Escavalier": 1,
+        "Muk": 1
       },
-      "total_spawns": 6280,
-      "last_spawn": "2026-07-07T03:43:18.597926"
+      "total_spawns": 6284,
+      "last_spawn": "2026-07-07T03:43:58.143483"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71812,
+    "total_spawns": 71816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
