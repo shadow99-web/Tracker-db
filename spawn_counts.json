@@ -163,7 +163,7 @@
         "Vullaby": 5,
         "Venipede": 27,
         "Pansage": 4,
-        "Cetoddle": 15,
+        "Cetoddle": 16,
         "Togepi": 19,
         "Tandemaus": 18,
         "Clefairy": 5,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 3,
         "Gothita": 18,
-        "Solosis": 19,
+        "Solosis": 20,
         "Sandygast": 7,
         "Pidove": 13,
         "Chespin": 6,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 10,
-        "Axew": 55,
+        "Axew": 57,
         "Joltik": 6,
         "Gulpin": 6,
         "Mareanie": 4,
@@ -736,7 +736,7 @@
         "Raichu": 1,
         "Meowstic": 2,
         "Zangoose": 2,
-        "Thievul": 2,
+        "Thievul": 3,
         "Galarian slowbro": 2,
         "Oricorio": 2,
         "Hitmonlee": 2,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5835,
-      "last_spawn": "2026-07-07T00:44:38.406189"
+      "total_spawns": 5840,
+      "last_spawn": "2026-07-07T00:45:18.316724"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71367,
+    "total_spawns": 71372,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
