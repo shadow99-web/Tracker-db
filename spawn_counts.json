@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 5,
         "Petilil": 10,
-        "Bombirdier": 23,
+        "Bombirdier": 24,
         "Bellibolt": 7,
         "Toedscool": 20,
         "Paras": 5,
@@ -857,7 +857,7 @@
         "Spewpa": 2,
         "Delcatty": 2,
         "Whimsicott": 1,
-        "Emolga": 3,
+        "Emolga": 5,
         "Kabuto": 2,
         "Clefable": 2,
         "Mr. mime": 2,
@@ -896,10 +896,11 @@
         "Trash burmy": 1,
         "Lanturn": 2,
         "Golem": 1,
-        "Barraskewda": 1
+        "Barraskewda": 1,
+        "Crawdaunt": 1
       },
-      "total_spawns": 6566,
-      "last_spawn": "2026-07-07T05:35:03.830521"
+      "total_spawns": 6570,
+      "last_spawn": "2026-07-07T05:35:47.652149"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1612,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72098,
+    "total_spawns": 72102,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
