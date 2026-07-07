@@ -87,7 +87,7 @@
         "Shinx": 50,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 43,
+        "Pawmi": 45,
         "Sandile": 33,
         "Charmeleon": 7,
         "Riolu": 16,
@@ -263,7 +263,7 @@
         "Wooloo": 4,
         "Mawile": 7,
         "Marill": 2,
-        "Lickitung": 6,
+        "Lickitung": 7,
         "Chewtle": 6,
         "Onix": 8,
         "Dracovish": 2,
@@ -379,7 +379,7 @@
         "Morelull": 4,
         "Unown": 3,
         "Poltchageist": 4,
-        "Slakoth": 15,
+        "Slakoth": 16,
         "Klink": 14,
         "Mesprit": 1,
         "Azelf": 2,
@@ -864,10 +864,11 @@
         "Munchlax": 2,
         "Qwilfish": 2,
         "Meowscarada": 1,
-        "Galarian corsola": 2
+        "Galarian corsola": 2,
+        "Corsola": 1
       },
-      "total_spawns": 5546,
-      "last_spawn": "2026-07-07T00:05:58.391739"
+      "total_spawns": 5551,
+      "last_spawn": "2026-07-07T00:06:38.359750"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1580,7 +1581,7 @@
     }
   },
   "global": {
-    "total_spawns": 71078,
+    "total_spawns": 71083,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
