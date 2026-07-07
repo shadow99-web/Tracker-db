@@ -29,7 +29,7 @@
         "Tynamo": 17,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 20,
+        "Pidgey": 21,
         "Binacle": 7,
         "Bounsweet": 38,
         "Fletchling": 27,
@@ -72,7 +72,7 @@
         "Aron": 27,
         "Honedge": 44,
         "Houndour": 1,
-        "Machop": 18,
+        "Machop": 19,
         "Terapagos": 1,
         "Mankey": 8,
         "Torterra": 1,
@@ -272,9 +272,9 @@
         "Tinkatink": 21,
         "Frillish": 1,
         "Plusle": 7,
-        "Decidueye": 4,
+        "Decidueye": 5,
         "Kricketot": 7,
-        "Ledyba": 3,
+        "Ledyba": 4,
         "Chinchou": 6,
         "Eiscue": 1,
         "Nacli": 17,
@@ -875,8 +875,8 @@
         "Kangaskhan": 2,
         "Jirachi": 2
       },
-      "total_spawns": 5724,
-      "last_spawn": "2026-07-07T00:30:08.450562"
+      "total_spawns": 5728,
+      "last_spawn": "2026-07-07T00:30:48.425955"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1589,7 +1589,7 @@
     }
   },
   "global": {
-    "total_spawns": 71256,
+    "total_spawns": 71260,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
