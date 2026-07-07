@@ -105,7 +105,7 @@
         "Flittle": 25,
         "Armarouge": 6,
         "Clauncher": 5,
-        "Tentacool": 4,
+        "Tentacool": 5,
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 22,
@@ -206,7 +206,7 @@
         "Fraxure": 11,
         "Zubat": 22,
         "Drowzee": 9,
-        "Lechonk": 25,
+        "Lechonk": 26,
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 6,
@@ -315,7 +315,7 @@
         "Petilil": 10,
         "Bombirdier": 24,
         "Bellibolt": 7,
-        "Toedscool": 21,
+        "Toedscool": 22,
         "Paras": 5,
         "Fletchinder": 6,
         "Staravia": 4,
@@ -585,7 +585,7 @@
         "Lombre": 5,
         "Dachsbun": 6,
         "Primeape": 4,
-        "Goldeen": 7,
+        "Goldeen": 8,
         "Gouging fire": 2,
         "Cottonee": 2,
         "Flareon": 6,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6629,
-      "last_spawn": "2026-07-07T08:02:50.101169"
+      "total_spawns": 6633,
+      "last_spawn": "2026-07-07T08:03:28.198156"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72161,
+    "total_spawns": 72165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
