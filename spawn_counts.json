@@ -40,7 +40,7 @@
         "Starly": 51,
         "Caterpie": 20,
         "Mareep": 24,
-        "Capsakid": 23,
+        "Capsakid": 24,
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 16,
@@ -180,7 +180,7 @@
         "Houndstone": 5,
         "Beldum": 25,
         "Kadabra": 12,
-        "Grovyle": 17,
+        "Grovyle": 19,
         "Dratini": 27,
         "Steelix": 2,
         "Sprigatito": 13,
@@ -725,9 +725,9 @@
         "Sawk": 1,
         "Azumarill": 1,
         "Delphox": 1,
-        "Cranidos": 2,
+        "Cranidos": 3,
         "Tsareena": 3,
-        "Chansey": 1,
+        "Chansey": 2,
         "Camerupt": 2,
         "Litten": 3,
         "Gossifleur": 3,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6258,
-      "last_spawn": "2026-07-07T03:40:48.747086"
+      "total_spawns": 6263,
+      "last_spawn": "2026-07-07T03:41:28.356612"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71790,
+    "total_spawns": 71795,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
