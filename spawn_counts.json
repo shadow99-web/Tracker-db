@@ -37,7 +37,7 @@
         "Duskull": 54,
         "Abra": 30,
         "Wiglett": 16,
-        "Starly": 51,
+        "Starly": 52,
         "Caterpie": 20,
         "Mareep": 24,
         "Capsakid": 24,
@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 20,
-        "Dreepy": 61,
+        "Dreepy": 63,
         "Treecko": 12,
         "Shroodle": 22,
         "Ride cyclizar": 10,
@@ -867,7 +867,7 @@
         "Galarian corsola": 2,
         "Corsola": 1,
         "Psyduck": 2,
-        "Typhlosion": 2,
+        "Typhlosion": 4,
         "Falinks": 1,
         "Scolipede": 1,
         "Centiskorch": 2,
@@ -878,7 +878,7 @@
         "Cacturne": 2,
         "Kricketune": 1,
         "Gliscor": 2,
-        "Hariyama": 2,
+        "Hariyama": 4,
         "Hisuian zoroark": 2,
         "Huntail": 2,
         "Vivillon": 1,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6263,
-      "last_spawn": "2026-07-07T03:41:28.356612"
+      "total_spawns": 6270,
+      "last_spawn": "2026-07-07T03:42:08.219878"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71795,
+    "total_spawns": 71802,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
