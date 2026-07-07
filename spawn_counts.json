@@ -13,7 +13,7 @@
         "Oddish": 26,
         "Totodile": 13,
         "Vanillite": 52,
-        "Weedle": 34,
+        "Weedle": 35,
         "Kabutops": 2,
         "Poliwag": 26,
         "Fidough": 27,
@@ -164,7 +164,7 @@
         "Venipede": 27,
         "Pansage": 4,
         "Cetoddle": 16,
-        "Togepi": 20,
+        "Togepi": 21,
         "Tandemaus": 18,
         "Clefairy": 5,
         "Unown q": 1,
@@ -343,7 +343,7 @@
         "Gothita": 19,
         "Solosis": 20,
         "Sandygast": 7,
-        "Pidove": 13,
+        "Pidove": 14,
         "Chespin": 6,
         "Combee": 4,
         "Cyndaquil": 7,
@@ -445,7 +445,7 @@
         "Ponyta": 4,
         "Smearguru": 12,
         "Magneton": 5,
-        "Battle cyclizar": 3,
+        "Battle cyclizar": 4,
         "Minccino": 4,
         "Hippowdon": 2,
         "Gloom": 3,
@@ -858,7 +858,7 @@
         "Delcatty": 2,
         "Whimsicott": 1,
         "Emolga": 1,
-        "Kabuto": 1,
+        "Kabuto": 2,
         "Clefable": 2,
         "Mr. mime": 2,
         "Munchlax": 2,
@@ -881,8 +881,8 @@
         "Hariyama": 2,
         "Hisuian zoroark": 2
       },
-      "total_spawns": 5949,
-      "last_spawn": "2026-07-07T02:07:08.696743"
+      "total_spawns": 5954,
+      "last_spawn": "2026-07-07T02:07:48.209399"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1595,7 +1595,7 @@
     }
   },
   "global": {
-    "total_spawns": 71481,
+    "total_spawns": 71486,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
