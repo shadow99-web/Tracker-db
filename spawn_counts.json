@@ -38,7 +38,7 @@
         "Abra": 28,
         "Wiglett": 16,
         "Starly": 45,
-        "Caterpie": 17,
+        "Caterpie": 18,
         "Mareep": 24,
         "Capsakid": 22,
         "Numel": 9,
@@ -67,7 +67,7 @@
         "Dolliv": 6,
         "Feebas": 12,
         "Prof tangrowth": 22,
-        "Vulpix": 18,
+        "Vulpix": 19,
         "Gastly": 44,
         "Aron": 27,
         "Honedge": 44,
@@ -277,7 +277,7 @@
         "Ledyba": 4,
         "Chinchou": 6,
         "Eiscue": 1,
-        "Nacli": 17,
+        "Nacli": 18,
         "Pancham": 5,
         "Bulbasaur": 25,
         "Dewpider": 5,
@@ -329,7 +329,7 @@
         "Magnemite": 19,
         "Doublade": 3,
         "Sharpedo": 1,
-        "Raboot": 8,
+        "Raboot": 9,
         "Oinkologne": 4,
         "Floragato": 5,
         "Larvesta": 19,
@@ -702,7 +702,7 @@
         "Spidops": 2,
         "Glimmora": 3,
         "Parasect": 1,
-        "Fuecoco": 4,
+        "Fuecoco": 5,
         "Loudred": 6,
         "Vespiquen": 1,
         "Gastrodon": 1,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5877,
-      "last_spawn": "2026-07-07T00:50:18.385518"
+      "total_spawns": 5882,
+      "last_spawn": "2026-07-07T00:50:58.199617"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71409,
+    "total_spawns": 71414,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
