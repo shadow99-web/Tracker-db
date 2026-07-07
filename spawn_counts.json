@@ -44,7 +44,7 @@
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 16,
-        "Tadbulb": 27,
+        "Tadbulb": 28,
         "Yanmega": 1,
         "Tympole": 20,
         "Grubbin": 27,
@@ -429,7 +429,7 @@
         "Haunter": 7,
         "Dottler": 8,
         "Wailmer": 5,
-        "Frigibax": 53,
+        "Frigibax": 55,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 6,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 7,
         "Sigilyph": 6,
-        "Vibrava": 8,
+        "Vibrava": 9,
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 3,
@@ -555,7 +555,7 @@
         "Appletun": 6,
         "Arrokuda": 6,
         "Toxapex": 2,
-        "Pawmot": 1,
+        "Pawmot": 2,
         "Blitzle": 4,
         "Iron crown": 2,
         "Barbaracle": 2,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6616,
-      "last_spawn": "2026-07-07T07:52:48.410705"
+      "total_spawns": 6621,
+      "last_spawn": "2026-07-07T07:53:28.265158"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72148,
+    "total_spawns": 72153,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
