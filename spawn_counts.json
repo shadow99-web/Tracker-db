@@ -16,7 +16,7 @@
         "Weedle": 33,
         "Kabutops": 2,
         "Poliwag": 26,
-        "Fidough": 25,
+        "Fidough": 26,
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 9,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 32,
+        "Varoom": 34,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 1,
@@ -292,7 +292,7 @@
         "Gothorita": 5,
         "Ekans": 4,
         "Brambleghast": 4,
-        "Dartrix": 5,
+        "Dartrix": 6,
         "Ceruledge": 6,
         "Vanillish": 6,
         "Gimmighoul": 17,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5840,
-      "last_spawn": "2026-07-07T00:45:18.316724"
+      "total_spawns": 5844,
+      "last_spawn": "2026-07-07T00:45:48.439532"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71372,
+    "total_spawns": 71376,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
