@@ -29,7 +29,7 @@
         "Tynamo": 20,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 21,
+        "Pidgey": 22,
         "Binacle": 8,
         "Bounsweet": 40,
         "Fletchling": 29,
@@ -203,7 +203,7 @@
         "Grookey": 12,
         "Inkay": 4,
         "Unfezant": 4,
-        "Fraxure": 9,
+        "Fraxure": 11,
         "Zubat": 22,
         "Drowzee": 9,
         "Lechonk": 24,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 3,
         "Gothita": 20,
-        "Solosis": 22,
+        "Solosis": 23,
         "Sandygast": 7,
         "Pidove": 14,
         "Chespin": 6,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
-        "Sewaddle": 19,
+        "Sewaddle": 20,
         "Shelmet": 5,
         "Combusken": 2,
         "Croagunk": 6,
@@ -887,8 +887,8 @@
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6067,
-      "last_spawn": "2026-07-07T02:24:28.278136"
+      "total_spawns": 6072,
+      "last_spawn": "2026-07-07T02:25:08.441257"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71599,
+    "total_spawns": 71604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
