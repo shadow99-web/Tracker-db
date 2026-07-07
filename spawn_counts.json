@@ -20,7 +20,7 @@
         "Charjabug": 2,
         "Hatterene": 3,
         "Rowlet": 9,
-        "Anorith": 8,
+        "Anorith": 9,
         "Arctibax": 3,
         "Ralts": 40,
         "Peakychu": 31,
@@ -286,7 +286,7 @@
         "Trash wormadam": 3,
         "Purrloin": 2,
         "Zigzagoon": 5,
-        "Quilladin": 2,
+        "Quilladin": 3,
         "Infernape": 3,
         "Noibat": 7,
         "Gothorita": 5,
@@ -401,7 +401,7 @@
         "Scorbunny": 6,
         "Dubwool": 2,
         "Litleo": 5,
-        "Silcoon": 7,
+        "Silcoon": 8,
         "Snivy": 5,
         "Zorua": 8,
         "Minior": 1,
@@ -519,7 +519,7 @@
         "Foongus": 4,
         "Krookodile": 2,
         "Espathra": 5,
-        "Snom": 8,
+        "Snom": 9,
         "Nickit": 10,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -769,7 +769,7 @@
         "Flygon": 1,
         "Archaludon": 1,
         "Snorlax": 2,
-        "Beautifly": 3,
+        "Beautifly": 4,
         "Cinderace": 4,
         "Cramorant": 1,
         "Sandy wormadam": 1,
@@ -877,8 +877,8 @@
         "Emboar": 1,
         "Cacturne": 2
       },
-      "total_spawns": 5787,
-      "last_spawn": "2026-07-07T00:38:08.361246"
+      "total_spawns": 5792,
+      "last_spawn": "2026-07-07T00:38:48.284245"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1591,7 +1591,7 @@
     }
   },
   "global": {
-    "total_spawns": 71319,
+    "total_spawns": 71324,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
