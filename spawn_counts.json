@@ -38,7 +38,7 @@
         "Abra": 29,
         "Wiglett": 16,
         "Starly": 47,
-        "Caterpie": 18,
+        "Caterpie": 19,
         "Mareep": 24,
         "Capsakid": 22,
         "Numel": 9,
@@ -92,7 +92,7 @@
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 32,
-        "Greavard": 41,
+        "Greavard": 42,
         "Snover": 9,
         "Piplup": 5,
         "Dondozo": 16,
@@ -101,7 +101,7 @@
         "Dodrio": 7,
         "Metagross": 6,
         "Corphish": 5,
-        "Doduo": 5,
+        "Doduo": 6,
         "Flittle": 24,
         "Armarouge": 6,
         "Clauncher": 5,
@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 18,
-        "Dreepy": 53,
+        "Dreepy": 54,
         "Treecko": 12,
         "Shroodle": 20,
         "Ride cyclizar": 8,
@@ -638,7 +638,7 @@
         "Unown k": 2,
         "Elekid": 2,
         "Chingling": 2,
-        "Tangela": 4,
+        "Tangela": 5,
         "Raticate": 5,
         "Weavile": 2,
         "Amped toxtricity": 2,
@@ -881,8 +881,8 @@
         "Hariyama": 2,
         "Hisuian zoroark": 2
       },
-      "total_spawns": 5933,
-      "last_spawn": "2026-07-07T02:05:18.352825"
+      "total_spawns": 5938,
+      "last_spawn": "2026-07-07T02:05:58.335159"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1595,7 +1595,7 @@
     }
   },
   "global": {
-    "total_spawns": 71465,
+    "total_spawns": 71470,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
