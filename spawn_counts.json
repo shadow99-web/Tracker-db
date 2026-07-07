@@ -95,7 +95,7 @@
         "Greavard": 42,
         "Snover": 9,
         "Piplup": 5,
-        "Dondozo": 16,
+        "Dondozo": 17,
         "Cyclizar": 8,
         "Froslass": 2,
         "Dodrio": 7,
@@ -373,7 +373,7 @@
         "Duraludon": 8,
         "Nidorino": 7,
         "Rayquaza": 15,
-        "Horsea": 15,
+        "Horsea": 16,
         "Reshiram": 3,
         "Celebi": 73,
         "Morelull": 5,
@@ -879,10 +879,11 @@
         "Kricketune": 1,
         "Gliscor": 2,
         "Hariyama": 2,
-        "Hisuian zoroark": 2
+        "Hisuian zoroark": 2,
+        "Huntail": 2
       },
-      "total_spawns": 6002,
-      "last_spawn": "2026-07-07T02:16:08.202272"
+      "total_spawns": 6006,
+      "last_spawn": "2026-07-07T02:16:38.498501"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1595,7 +1596,7 @@
     }
   },
   "global": {
-    "total_spawns": 71534,
+    "total_spawns": 71538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
