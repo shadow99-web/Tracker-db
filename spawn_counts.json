@@ -37,7 +37,7 @@
         "Duskull": 54,
         "Abra": 30,
         "Wiglett": 16,
-        "Starly": 52,
+        "Starly": 53,
         "Caterpie": 20,
         "Mareep": 24,
         "Capsakid": 24,
@@ -254,7 +254,7 @@
         "Corvisquire": 6,
         "Croconaw": 7,
         "Makuhita": 2,
-        "Machamp": 1,
+        "Machamp": 3,
         "Primarina": 5,
         "Skeledirge": 2,
         "Taillow": 6,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 3,
-        "Gothita": 20,
+        "Gothita": 21,
         "Solosis": 24,
         "Sandygast": 7,
         "Pidove": 14,
@@ -426,7 +426,7 @@
         "Summer deerling": 1,
         "Seel": 10,
         "Marowak": 4,
-        "Haunter": 6,
+        "Haunter": 7,
         "Dottler": 8,
         "Wailmer": 4,
         "Frigibax": 49,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6270,
-      "last_spawn": "2026-07-07T03:42:08.219878"
+      "total_spawns": 6275,
+      "last_spawn": "2026-07-07T03:42:38.722416"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71802,
+    "total_spawns": 71807,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
