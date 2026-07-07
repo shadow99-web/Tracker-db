@@ -155,7 +155,7 @@
         "Litwick": 22,
         "Wooper": 7,
         "Pikipek": 34,
-        "Spritzee": 1,
+        "Spritzee": 2,
         "Stantler": 8,
         "Impidimp": 37,
         "Swadloon": 6,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 10,
-        "Axew": 53,
+        "Axew": 55,
         "Joltik": 6,
         "Gulpin": 6,
         "Mareanie": 4,
@@ -854,7 +854,7 @@
         "Jumpluff": 1,
         "Basculin": 1,
         "Clobbopus": 1,
-        "Spewpa": 1,
+        "Spewpa": 2,
         "Delcatty": 2,
         "Whimsicott": 1,
         "Emolga": 1,
@@ -877,8 +877,8 @@
         "Emboar": 1,
         "Cacturne": 2
       },
-      "total_spawns": 5792,
-      "last_spawn": "2026-07-07T00:38:48.284245"
+      "total_spawns": 5796,
+      "last_spawn": "2026-07-07T00:39:18.299528"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1591,7 +1591,7 @@
     }
   },
   "global": {
-    "total_spawns": 71324,
+    "total_spawns": 71328,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
