@@ -39,7 +39,7 @@
         "Wiglett": 16,
         "Starly": 41,
         "Caterpie": 17,
-        "Mareep": 22,
+        "Mareep": 23,
         "Capsakid": 21,
         "Numel": 9,
         "Pawmo": 8,
@@ -178,7 +178,7 @@
         "Flamigo": 11,
         "Bellsprout": 14,
         "Houndstone": 4,
-        "Beldum": 23,
+        "Beldum": 25,
         "Kadabra": 10,
         "Grovyle": 15,
         "Dratini": 25,
@@ -511,7 +511,7 @@
         "Melmetal": 1,
         "Liepard": 3,
         "Necrozma": 2,
-        "Dewott": 3,
+        "Dewott": 4,
         "Braviary": 8,
         "Low key toxtricity": 4,
         "Nidorina": 5,
@@ -752,7 +752,7 @@
         "Metapod": 5,
         "Lampent": 5,
         "Roselia": 2,
-        "Pineco": 2,
+        "Pineco": 3,
         "Maractus": 4,
         "Togetic": 3,
         "Bewear": 2,
@@ -876,8 +876,8 @@
         "Jirachi": 2,
         "Emboar": 1
       },
-      "total_spawns": 5774,
-      "last_spawn": "2026-07-07T00:36:18.333758"
+      "total_spawns": 5779,
+      "last_spawn": "2026-07-07T00:36:58.242369"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1590,7 +1590,7 @@
     }
   },
   "global": {
-    "total_spawns": 71306,
+    "total_spawns": 71311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
