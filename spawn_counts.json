@@ -329,7 +329,7 @@
         "Magnemite": 21,
         "Doublade": 3,
         "Sharpedo": 1,
-        "Raboot": 9,
+        "Raboot": 10,
         "Oinkologne": 4,
         "Floragato": 5,
         "Larvesta": 19,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 6,
         "Dubwool": 2,
-        "Litleo": 5,
+        "Litleo": 6,
         "Silcoon": 8,
         "Snivy": 6,
         "Zorua": 8,
@@ -655,7 +655,7 @@
         "Patrat": 2,
         "Passimian": 3,
         "Jynx": 1,
-        "Noctowl": 3,
+        "Noctowl": 4,
         "Munna": 2,
         "Mabosstiff": 5,
         "Omastar": 3,
@@ -888,10 +888,11 @@
         "Cleffa": 1,
         "Linoone": 2,
         "Continental vivillon": 1,
-        "Ninetales": 2
+        "Ninetales": 2,
+        "Stunfisk": 1
       },
-      "total_spawns": 6203,
-      "last_spawn": "2026-07-07T03:32:48.419611"
+      "total_spawns": 6207,
+      "last_spawn": "2026-07-07T03:33:28.167286"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1604,7 +1605,7 @@
     }
   },
   "global": {
-    "total_spawns": 71735,
+    "total_spawns": 71739,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
