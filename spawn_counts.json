@@ -32,7 +32,7 @@
         "Pidgey": 22,
         "Binacle": 8,
         "Bounsweet": 40,
-        "Fletchling": 29,
+        "Fletchling": 30,
         "Whirlipede": 6,
         "Duskull": 54,
         "Abra": 29,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 27,
+        "Venipede": 28,
         "Pansage": 4,
         "Cetoddle": 17,
         "Togepi": 22,
@@ -176,7 +176,7 @@
         "Poliwhirl": 7,
         "Lokix": 11,
         "Flamigo": 11,
-        "Bellsprout": 14,
+        "Bellsprout": 15,
         "Houndstone": 5,
         "Beldum": 25,
         "Kadabra": 12,
@@ -740,7 +740,7 @@
         "Galarian slowbro": 2,
         "Oricorio": 2,
         "Hitmonlee": 2,
-        "Sudowoodo": 1,
+        "Sudowoodo": 2,
         "Yveltal": 3,
         "Illumise": 1,
         "Aggron": 1,
@@ -889,8 +889,8 @@
         "Linoone": 2,
         "Continental vivillon": 1
       },
-      "total_spawns": 6142,
-      "last_spawn": "2026-07-07T02:34:18.602851"
+      "total_spawns": 6146,
+      "last_spawn": "2026-07-07T02:34:58.153540"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1603,7 +1603,7 @@
     }
   },
   "global": {
-    "total_spawns": 71674,
+    "total_spawns": 71678,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
