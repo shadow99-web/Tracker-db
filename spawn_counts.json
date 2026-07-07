@@ -40,7 +40,7 @@
         "Starly": 43,
         "Caterpie": 17,
         "Mareep": 23,
-        "Capsakid": 21,
+        "Capsakid": 22,
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 16,
@@ -114,7 +114,7 @@
         "Shroodle": 20,
         "Ride cyclizar": 8,
         "Swinub": 25,
-        "Rattata": 11,
+        "Rattata": 12,
         "Stonjourner": 1,
         "Veluza": 34,
         "Panpour": 7,
@@ -154,7 +154,7 @@
         "Roggenrola": 32,
         "Litwick": 22,
         "Wooper": 7,
-        "Pikipek": 34,
+        "Pikipek": 35,
         "Spritzee": 2,
         "Stantler": 8,
         "Impidimp": 37,
@@ -876,10 +876,11 @@
         "Jirachi": 2,
         "Emboar": 1,
         "Cacturne": 2,
-        "Kricketune": 1
+        "Kricketune": 1,
+        "Gliscor": 1
       },
-      "total_spawns": 5801,
-      "last_spawn": "2026-07-07T00:39:48.396625"
+      "total_spawns": 5805,
+      "last_spawn": "2026-07-07T00:40:28.312783"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1592,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71333,
+    "total_spawns": 71337,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
