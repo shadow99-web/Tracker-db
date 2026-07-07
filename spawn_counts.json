@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 45,
-        "Sandile": 34,
+        "Sandile": 35,
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 32,
@@ -114,7 +114,7 @@
         "Shroodle": 17,
         "Ride cyclizar": 8,
         "Swinub": 24,
-        "Rattata": 10,
+        "Rattata": 11,
         "Stonjourner": 1,
         "Veluza": 34,
         "Panpour": 7,
@@ -236,7 +236,7 @@
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 3,
-        "Whismur": 24,
+        "Whismur": 25,
         "Jangmo-o": 10,
         "Lunatone": 1,
         "Machoke": 7,
@@ -714,7 +714,7 @@
         "Remoraid": 2,
         "Exeggcute": 5,
         "Dunsparce": 3,
-        "Sobble": 4,
+        "Sobble": 5,
         "Lycanroc": 1,
         "Dustox": 2,
         "Alolan grimer": 4,
@@ -872,8 +872,8 @@
         "Scolipede": 1,
         "Centiskorch": 2
       },
-      "total_spawns": 5646,
-      "last_spawn": "2026-07-07T00:19:18.277234"
+      "total_spawns": 5650,
+      "last_spawn": "2026-07-07T00:19:48.318000"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1586,7 @@
     }
   },
   "global": {
-    "total_spawns": 71178,
+    "total_spawns": 71182,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
