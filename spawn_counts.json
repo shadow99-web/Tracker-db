@@ -23,7 +23,7 @@
         "Anorith": 9,
         "Arctibax": 4,
         "Ralts": 44,
-        "Peakychu": 31,
+        "Peakychu": 33,
         "Cutiefly": 7,
         "Simipour": 2,
         "Tynamo": 22,
@@ -69,8 +69,8 @@
         "Prof tangrowth": 23,
         "Vulpix": 19,
         "Gastly": 46,
-        "Aron": 28,
-        "Honedge": 46,
+        "Aron": 29,
+        "Honedge": 48,
         "Houndour": 1,
         "Machop": 22,
         "Terapagos": 1,
@@ -503,7 +503,7 @@
         "Tyrogue": 5,
         "Nuzleaf": 8,
         "Spinarak": 7,
-        "Goomy": 13,
+        "Goomy": 14,
         "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 6,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6484,
-      "last_spawn": "2026-07-07T05:25:23.901276"
+      "total_spawns": 6490,
+      "last_spawn": "2026-07-07T05:26:03.816579"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72016,
+    "total_spawns": 72022,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
