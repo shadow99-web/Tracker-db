@@ -211,7 +211,7 @@
         "Skrelp": 8,
         "Lileep": 5,
         "Drifloon": 3,
-        "Mightyena": 4,
+        "Mightyena": 5,
         "Sandaconda": 1,
         "Froakie": 12,
         "Kingdra": 3,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 8,
         "Gligar": 6,
-        "Quaxly": 8,
+        "Quaxly": 9,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -514,7 +514,7 @@
         "Dewott": 4,
         "Braviary": 8,
         "Low key toxtricity": 4,
-        "Nidorina": 5,
+        "Nidorina": 6,
         "Bronzong": 2,
         "Foongus": 5,
         "Krookodile": 2,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5863,
-      "last_spawn": "2026-07-07T00:48:28.298508"
+      "total_spawns": 5866,
+      "last_spawn": "2026-07-07T00:48:58.797817"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71395,
+    "total_spawns": 71398,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
