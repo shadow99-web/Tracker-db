@@ -181,7 +181,7 @@
         "Beldum": 21,
         "Kadabra": 10,
         "Grovyle": 11,
-        "Dratini": 23,
+        "Dratini": 24,
         "Steelix": 2,
         "Sprigatito": 13,
         "Charcadet": 45,
@@ -317,7 +317,7 @@
         "Bellibolt": 6,
         "Toedscool": 12,
         "Paras": 4,
-        "Fletchinder": 4,
+        "Fletchinder": 5,
         "Staravia": 3,
         "Wishiwashi": 2,
         "Skitty": 13,
@@ -573,7 +573,7 @@
         "Baltoy": 3,
         "Karrablast": 4,
         "Volbeat": 2,
-        "Murkrow": 3,
+        "Murkrow": 4,
         "Venusaur": 2,
         "Quaquaval": 1,
         "Boldore": 8,
@@ -605,7 +605,7 @@
         "Sinistea": 4,
         "Golbat": 6,
         "Amoonguss": 4,
-        "Herdier": 4,
+        "Herdier": 5,
         "Blissey": 2,
         "Cinccino": 6,
         "Alolan vulpix": 2,
@@ -866,8 +866,8 @@
         "Meowscarada": 1,
         "Galarian corsola": 2
       },
-      "total_spawns": 5537,
-      "last_spawn": "2026-07-07T00:04:48.374925"
+      "total_spawns": 5541,
+      "last_spawn": "2026-07-07T00:05:28.263194"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1580,7 +1580,7 @@
     }
   },
   "global": {
-    "total_spawns": 71069,
+    "total_spawns": 71073,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
