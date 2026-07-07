@@ -181,7 +181,7 @@
         "Beldum": 21,
         "Kadabra": 10,
         "Grovyle": 11,
-        "Dratini": 24,
+        "Dratini": 25,
         "Steelix": 2,
         "Sprigatito": 13,
         "Charcadet": 45,
@@ -278,7 +278,7 @@
         "Chinchou": 6,
         "Eiscue": 1,
         "Nacli": 17,
-        "Pancham": 4,
+        "Pancham": 5,
         "Bulbasaur": 21,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 6,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 4,
         "Petilil": 9,
-        "Bombirdier": 15,
+        "Bombirdier": 16,
         "Bellibolt": 6,
         "Toedscool": 12,
         "Paras": 4,
@@ -781,7 +781,7 @@
         "Granbull": 2,
         "Happiny": 3,
         "Chandelure": 1,
-        "Umbreon": 2,
+        "Umbreon": 4,
         "Ninjask": 2,
         "Arctovish": 2,
         "Ariados": 1,
@@ -866,8 +866,8 @@
         "Meowscarada": 1,
         "Galarian corsola": 2
       },
-      "total_spawns": 5541,
-      "last_spawn": "2026-07-07T00:05:28.263194"
+      "total_spawns": 5546,
+      "last_spawn": "2026-07-07T00:05:58.391739"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1580,7 +1580,7 @@
     }
   },
   "global": {
-    "total_spawns": 71073,
+    "total_spawns": 71078,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
