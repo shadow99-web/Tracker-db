@@ -40,7 +40,7 @@
         "Starly": 51,
         "Caterpie": 20,
         "Mareep": 24,
-        "Capsakid": 22,
+        "Capsakid": 23,
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 16,
@@ -60,7 +60,7 @@
         "Lillipup": 30,
         "Mosslax": 36,
         "Maushold": 4,
-        "Cubchoo": 27,
+        "Cubchoo": 29,
         "Koffing": 7,
         "Kirlia": 11,
         "Deino": 21,
@@ -123,7 +123,7 @@
         "Scovillain": 4,
         "White plumage squawkabilly": 10,
         "Flaaffy": 4,
-        "Rookidee": 46,
+        "Rookidee": 47,
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
@@ -139,7 +139,7 @@
         "Diglett": 6,
         "Surskit": 6,
         "Seedot": 18,
-        "Jigglypuff": 8,
+        "Jigglypuff": 9,
         "Spearow": 6,
         "Servine": 3,
         "Wugtrio": 9,
@@ -890,8 +890,8 @@
         "Continental vivillon": 1,
         "Ninetales": 2
       },
-      "total_spawns": 6198,
-      "last_spawn": "2026-07-07T03:32:18.260133"
+      "total_spawns": 6203,
+      "last_spawn": "2026-07-07T03:32:48.419611"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1604,7 +1604,7 @@
     }
   },
   "global": {
-    "total_spawns": 71730,
+    "total_spawns": 71735,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
