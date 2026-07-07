@@ -54,7 +54,7 @@
         "Staryu": 3,
         "Maschiff": 21,
         "Smoliv": 19,
-        "Tirtouga": 10,
+        "Tirtouga": 11,
         "Hatenna": 42,
         "Shroomish": 4,
         "Lillipup": 30,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 5,
         "Petilil": 9,
-        "Bombirdier": 21,
+        "Bombirdier": 22,
         "Bellibolt": 6,
         "Toedscool": 16,
         "Paras": 5,
@@ -826,7 +826,7 @@
         "Gogoat": 1,
         "Beedrill": 1,
         "Sandslash": 1,
-        "Pupitar": 3,
+        "Pupitar": 4,
         "Zeraora": 2,
         "Cobalion": 2,
         "Greedent": 2,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6288,
-      "last_spawn": "2026-07-07T03:44:28.283265"
+      "total_spawns": 6291,
+      "last_spawn": "2026-07-07T03:44:58.314906"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71820,
+    "total_spawns": 71823,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
