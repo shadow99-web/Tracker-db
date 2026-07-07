@@ -65,7 +65,7 @@
         "Kirlia": 11,
         "Deino": 17,
         "Dolliv": 6,
-        "Feebas": 10,
+        "Feebas": 11,
         "Prof tangrowth": 22,
         "Vulpix": 17,
         "Gastly": 44,
@@ -109,7 +109,7 @@
         "Bayleef": 4,
         "Magnezone": 2,
         "Eevee": 18,
-        "Dreepy": 45,
+        "Dreepy": 47,
         "Treecko": 12,
         "Shroodle": 17,
         "Ride cyclizar": 8,
@@ -520,7 +520,7 @@
         "Krookodile": 2,
         "Espathra": 5,
         "Snom": 8,
-        "Nickit": 8,
+        "Nickit": 9,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -872,8 +872,8 @@
         "Scolipede": 1,
         "Centiskorch": 2
       },
-      "total_spawns": 5632,
-      "last_spawn": "2026-07-07T00:17:28.239091"
+      "total_spawns": 5636,
+      "last_spawn": "2026-07-07T00:17:58.509683"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1586,7 @@
     }
   },
   "global": {
-    "total_spawns": 71164,
+    "total_spawns": 71168,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
