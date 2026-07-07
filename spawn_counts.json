@@ -108,7 +108,7 @@
         "Tentacool": 4,
         "Bayleef": 4,
         "Magnezone": 2,
-        "Eevee": 20,
+        "Eevee": 22,
         "Dreepy": 63,
         "Treecko": 12,
         "Shroodle": 22,
@@ -133,7 +133,7 @@
         "Sandy burmy": 2,
         "Torchic": 13,
         "Abomasnow": 5,
-        "Slugma": 6,
+        "Slugma": 7,
         "Venonat": 10,
         "Eelektrik": 4,
         "Diglett": 7,
@@ -343,7 +343,7 @@
         "Gothita": 21,
         "Solosis": 24,
         "Sandygast": 7,
-        "Pidove": 14,
+        "Pidove": 15,
         "Chespin": 6,
         "Combee": 4,
         "Cyndaquil": 7,
@@ -407,7 +407,7 @@
         "Minior": 1,
         "Darmanitan": 3,
         "Lopunny": 2,
-        "Chimchar": 10,
+        "Chimchar": 11,
         "Gligar": 8,
         "Quaxly": 9,
         "Spiky-eared pichu": 2,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6439,
-      "last_spawn": "2026-07-07T05:19:13.699373"
+      "total_spawns": 6444,
+      "last_spawn": "2026-07-07T05:19:53.763971"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 71971,
+    "total_spawns": 71976,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
