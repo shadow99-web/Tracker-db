@@ -549,7 +549,7 @@
         "Nincada": 9,
         "Audino": 2,
         "Mime jr.": 3,
-        "Yungoos": 5,
+        "Yungoos": 6,
         "Palpitoad": 5,
         "Smeargle": 4,
         "Appletun": 6,
@@ -603,7 +603,7 @@
         "Cubone": 5,
         "Conkeldurr": 2,
         "Sinistea": 6,
-        "Golbat": 6,
+        "Golbat": 7,
         "Amoonguss": 4,
         "Herdier": 5,
         "Blissey": 4,
@@ -730,7 +730,7 @@
         "Chansey": 2,
         "Camerupt": 2,
         "Litten": 3,
-        "Gossifleur": 3,
+        "Gossifleur": 4,
         "Electivire": 2,
         "Farigiraf": 2,
         "Raichu": 2,
@@ -898,8 +898,8 @@
         "Golem": 1,
         "Barraskewda": 1
       },
-      "total_spawns": 6560,
-      "last_spawn": "2026-07-07T05:34:03.694029"
+      "total_spawns": 6563,
+      "last_spawn": "2026-07-07T05:34:33.727011"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1612,7 +1612,7 @@
     }
   },
   "global": {
-    "total_spawns": 72092,
+    "total_spawns": 72095,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
