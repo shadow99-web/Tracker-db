@@ -145,7 +145,7 @@
         "Wugtrio": 9,
         "Tranquill": 5,
         "Cetitan": 5,
-        "Turtwig": 9,
+        "Turtwig": 10,
         "Fomantis": 6,
         "Claydol": 1,
         "Trapinch": 16,
@@ -341,7 +341,7 @@
         "Ursaring": 3,
         "Bidoof": 3,
         "Gothita": 20,
-        "Solosis": 23,
+        "Solosis": 24,
         "Sandygast": 7,
         "Pidove": 14,
         "Chespin": 6,
@@ -426,7 +426,7 @@
         "Summer deerling": 1,
         "Seel": 10,
         "Marowak": 4,
-        "Haunter": 5,
+        "Haunter": 6,
         "Dottler": 8,
         "Wailmer": 4,
         "Frigibax": 49,
@@ -891,8 +891,8 @@
         "Ninetales": 2,
         "Stunfisk": 1
       },
-      "total_spawns": 6224,
-      "last_spawn": "2026-07-07T03:35:58.565232"
+      "total_spawns": 6227,
+      "last_spawn": "2026-07-07T03:36:28.576994"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1605,7 +1605,7 @@
     }
   },
   "global": {
-    "total_spawns": 71756,
+    "total_spawns": 71759,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
