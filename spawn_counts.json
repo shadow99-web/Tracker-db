@@ -37,7 +37,7 @@
         "Duskull": 50,
         "Abra": 28,
         "Wiglett": 16,
-        "Starly": 41,
+        "Starly": 43,
         "Caterpie": 17,
         "Mareep": 23,
         "Capsakid": 21,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 30,
+        "Varoom": 32,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 1,
@@ -875,10 +875,11 @@
         "Kangaskhan": 2,
         "Jirachi": 2,
         "Emboar": 1,
-        "Cacturne": 2
+        "Cacturne": 2,
+        "Kricketune": 1
       },
-      "total_spawns": 5796,
-      "last_spawn": "2026-07-07T00:39:18.299528"
+      "total_spawns": 5801,
+      "last_spawn": "2026-07-07T00:39:48.396625"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1591,7 +1592,7 @@
     }
   },
   "global": {
-    "total_spawns": 71328,
+    "total_spawns": 71333,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
