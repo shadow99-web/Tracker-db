@@ -34,12 +34,12 @@
         "Bounsweet": 38,
         "Fletchling": 25,
         "Whirlipede": 6,
-        "Duskull": 49,
+        "Duskull": 50,
         "Abra": 28,
         "Wiglett": 16,
         "Starly": 39,
         "Caterpie": 17,
-        "Mareep": 19,
+        "Mareep": 21,
         "Capsakid": 20,
         "Numel": 8,
         "Pawmo": 8,
@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 45,
-        "Sandile": 33,
+        "Sandile": 34,
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 32,
@@ -506,7 +506,7 @@
         "Goomy": 11,
         "Breloom": 2,
         "Rillaboom": 8,
-        "Hippopotas": 3,
+        "Hippopotas": 4,
         "Reuniclus": 1,
         "Melmetal": 1,
         "Liepard": 3,
@@ -872,8 +872,8 @@
         "Scolipede": 1,
         "Centiskorch": 2
       },
-      "total_spawns": 5641,
-      "last_spawn": "2026-07-07T00:18:40.502931"
+      "total_spawns": 5646,
+      "last_spawn": "2026-07-07T00:19:18.277234"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1586,7 @@
     }
   },
   "global": {
-    "total_spawns": 71173,
+    "total_spawns": 71178,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
