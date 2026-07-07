@@ -48,7 +48,7 @@
         "Yanmega": 1,
         "Tympole": 19,
         "Grubbin": 27,
-        "Scatterbug": 16,
+        "Scatterbug": 17,
         "Skwovet": 10,
         "Applin": 6,
         "Staryu": 3,
@@ -63,7 +63,7 @@
         "Cubchoo": 29,
         "Koffing": 8,
         "Kirlia": 11,
-        "Deino": 21,
+        "Deino": 22,
         "Dolliv": 6,
         "Feebas": 12,
         "Prof tangrowth": 23,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 6,
         "Dubwool": 2,
-        "Litleo": 7,
+        "Litleo": 8,
         "Silcoon": 8,
         "Snivy": 6,
         "Zorua": 8,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6255,
-      "last_spawn": "2026-07-07T03:40:18.701814"
+      "total_spawns": 6258,
+      "last_spawn": "2026-07-07T03:40:48.747086"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71787,
+    "total_spawns": 71790,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
