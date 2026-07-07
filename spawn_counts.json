@@ -149,7 +149,7 @@
         "Fomantis": 6,
         "Claydol": 1,
         "Trapinch": 16,
-        "Butterfree": 3,
+        "Butterfree": 5,
         "Teddiursa": 54,
         "Roggenrola": 36,
         "Litwick": 24,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 30,
+        "Venipede": 31,
         "Pansage": 6,
         "Cetoddle": 19,
         "Togepi": 24,
@@ -317,7 +317,7 @@
         "Bellibolt": 7,
         "Toedscool": 19,
         "Paras": 5,
-        "Fletchinder": 5,
+        "Fletchinder": 6,
         "Staravia": 4,
         "Wishiwashi": 3,
         "Skitty": 13,
@@ -343,7 +343,7 @@
         "Gothita": 21,
         "Solosis": 24,
         "Sandygast": 7,
-        "Pidove": 15,
+        "Pidove": 16,
         "Chespin": 6,
         "Combee": 4,
         "Cyndaquil": 7,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6476,
-      "last_spawn": "2026-07-07T05:24:04.281798"
+      "total_spawns": 6481,
+      "last_spawn": "2026-07-07T05:24:43.745168"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 72008,
+    "total_spawns": 72013,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
