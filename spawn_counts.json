@@ -55,7 +55,7 @@
         "Maschiff": 21,
         "Smoliv": 22,
         "Tirtouga": 11,
-        "Hatenna": 47,
+        "Hatenna": 48,
         "Shroomish": 4,
         "Lillipup": 30,
         "Mosslax": 40,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 31,
+        "Venipede": 32,
         "Pansage": 6,
         "Cetoddle": 20,
         "Togepi": 26,
@@ -210,7 +210,7 @@
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 6,
-        "Drifloon": 4,
+        "Drifloon": 5,
         "Mightyena": 6,
         "Sandaconda": 1,
         "Froakie": 14,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 11,
         "Gligar": 8,
-        "Quaxly": 10,
+        "Quaxly": 11,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -683,7 +683,7 @@
         "Ferroseed": 2,
         "Musharna": 2,
         "Wingull": 5,
-        "Magmar": 4,
+        "Magmar": 5,
         "Dedenne": 2,
         "Serperior": 2,
         "Grapploct": 3,
@@ -900,8 +900,8 @@
         "Crawdaunt": 2,
         "Castform": 1
       },
-      "total_spawns": 6700,
-      "last_spawn": "2026-07-07T08:47:18.285929"
+      "total_spawns": 6705,
+      "last_spawn": "2026-07-07T08:47:58.188347"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1614,7 +1614,7 @@
     }
   },
   "global": {
-    "total_spawns": 72233,
+    "total_spawns": 72238,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
