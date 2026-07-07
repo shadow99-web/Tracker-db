@@ -39,7 +39,7 @@
         "Wiglett": 16,
         "Starly": 39,
         "Caterpie": 17,
-        "Mareep": 21,
+        "Mareep": 22,
         "Capsakid": 20,
         "Numel": 8,
         "Pawmo": 8,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 4,
         "Doduo": 5,
-        "Flittle": 23,
+        "Flittle": 24,
         "Armarouge": 5,
         "Clauncher": 5,
         "Tentacool": 4,
@@ -695,7 +695,7 @@
         "Helioptile": 2,
         "Salamence": 4,
         "Meditite": 1,
-        "Sneasel": 4,
+        "Sneasel": 5,
         "Finneon": 4,
         "Pidgeotto": 2,
         "Hakamo-o": 3,
@@ -873,8 +873,8 @@
         "Centiskorch": 2,
         "Swellow": 1
       },
-      "total_spawns": 5662,
-      "last_spawn": "2026-07-07T00:21:28.327428"
+      "total_spawns": 5665,
+      "last_spawn": "2026-07-07T00:21:58.595636"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1587,7 +1587,7 @@
     }
   },
   "global": {
-    "total_spawns": 71194,
+    "total_spawns": 71197,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
