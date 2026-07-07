@@ -163,7 +163,7 @@
         "Vullaby": 5,
         "Venipede": 28,
         "Pansage": 5,
-        "Cetoddle": 17,
+        "Cetoddle": 18,
         "Togepi": 22,
         "Tandemaus": 19,
         "Clefairy": 6,
@@ -220,7 +220,7 @@
         "Shuppet": 12,
         "Graveler": 4,
         "Duosion": 6,
-        "Orthworm": 26,
+        "Orthworm": 27,
         "Yamask": 4,
         "Nymble": 22,
         "Snorunt": 7,
@@ -749,7 +749,7 @@
         "Forretress": 2,
         "Swampert": 2,
         "High plain vivillon": 1,
-        "Metapod": 5,
+        "Metapod": 6,
         "Lampent": 5,
         "Roselia": 2,
         "Pineco": 3,
@@ -887,10 +887,11 @@
         "Cloyster": 1,
         "Cleffa": 1,
         "Linoone": 2,
-        "Continental vivillon": 1
+        "Continental vivillon": 1,
+        "Ninetales": 2
       },
-      "total_spawns": 6157,
-      "last_spawn": "2026-07-07T03:26:30.162413"
+      "total_spawns": 6162,
+      "last_spawn": "2026-07-07T03:27:08.196650"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1603,7 +1604,7 @@
     }
   },
   "global": {
-    "total_spawns": 71689,
+    "total_spawns": 71694,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
