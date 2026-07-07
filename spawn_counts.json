@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 9,
-        "Oddish": 26,
+        "Oddish": 27,
         "Totodile": 13,
         "Vanillite": 52,
         "Weedle": 35,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 21,
         "Binacle": 8,
-        "Bounsweet": 39,
+        "Bounsweet": 40,
         "Fletchling": 29,
         "Whirlipede": 6,
         "Duskull": 52,
@@ -318,7 +318,7 @@
         "Toedscool": 15,
         "Paras": 5,
         "Fletchinder": 5,
-        "Staravia": 3,
+        "Staravia": 4,
         "Wishiwashi": 2,
         "Skitty": 13,
         "Finizen": 17,
@@ -388,7 +388,7 @@
         "Axew": 59,
         "Joltik": 6,
         "Gulpin": 6,
-        "Mareanie": 4,
+        "Mareanie": 5,
         "Throh": 4,
         "Sentret": 12,
         "Houndoom": 1,
@@ -712,7 +712,7 @@
         "Stunky": 6,
         "Garbodor": 2,
         "Remoraid": 2,
-        "Exeggcute": 5,
+        "Exeggcute": 6,
         "Dunsparce": 3,
         "Sobble": 5,
         "Lycanroc": 1,
@@ -881,8 +881,8 @@
         "Hariyama": 2,
         "Hisuian zoroark": 2
       },
-      "total_spawns": 5979,
-      "last_spawn": "2026-07-07T02:11:48.711266"
+      "total_spawns": 5984,
+      "last_spawn": "2026-07-07T02:12:28.332485"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1595,7 +1595,7 @@
     }
   },
   "global": {
-    "total_spawns": 71511,
+    "total_spawns": 71516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
