@@ -188,7 +188,7 @@
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 19,
-        "Wimpod": 14,
+        "Wimpod": 15,
         "Comfey": 9,
         "Diggersby": 2,
         "Klawf": 39,
@@ -274,7 +274,7 @@
         "Plusle": 7,
         "Decidueye": 5,
         "Kricketot": 8,
-        "Ledyba": 5,
+        "Ledyba": 6,
         "Chinchou": 6,
         "Eiscue": 1,
         "Nacli": 19,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6582,
-      "last_spawn": "2026-07-07T06:05:34.605184"
+      "total_spawns": 6584,
+      "last_spawn": "2026-07-07T06:07:45.663689"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72114,
+    "total_spawns": 72116,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
