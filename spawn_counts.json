@@ -83,7 +83,7 @@
         "Stufful": 7,
         "Shelgon": 7,
         "Marshtomp": 13,
-        "Squirtle": 11,
+        "Squirtle": 12,
         "Shinx": 54,
         "Drakloak": 9,
         "Victini": 1,
@@ -96,14 +96,14 @@
         "Snover": 9,
         "Piplup": 5,
         "Dondozo": 16,
-        "Cyclizar": 7,
+        "Cyclizar": 8,
         "Froslass": 2,
         "Dodrio": 7,
         "Metagross": 6,
         "Corphish": 5,
         "Doduo": 5,
         "Flittle": 24,
-        "Armarouge": 5,
+        "Armarouge": 6,
         "Clauncher": 5,
         "Tentacool": 4,
         "Bayleef": 4,
@@ -632,7 +632,7 @@
         "Quagsire": 1,
         "Komala": 2,
         "Poochyena": 4,
-        "Hero palafin": 1,
+        "Hero palafin": 2,
         "Klinklang": 3,
         "Lickilicky": 5,
         "Unown k": 2,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5844,
-      "last_spawn": "2026-07-07T00:45:48.439532"
+      "total_spawns": 5848,
+      "last_spawn": "2026-07-07T00:46:28.651353"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71376,
+    "total_spawns": 71380,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
