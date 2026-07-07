@@ -26,7 +26,7 @@
         "Peakychu": 31,
         "Cutiefly": 6,
         "Simipour": 2,
-        "Tynamo": 17,
+        "Tynamo": 18,
         "Palossand": 3,
         "Pyukumuku": 1,
         "Pidgey": 21,
@@ -67,7 +67,7 @@
         "Dolliv": 6,
         "Feebas": 12,
         "Prof tangrowth": 22,
-        "Vulpix": 17,
+        "Vulpix": 18,
         "Gastly": 44,
         "Aron": 27,
         "Honedge": 44,
@@ -571,7 +571,7 @@
         "Seadra": 2,
         "Sealeo": 5,
         "Baltoy": 3,
-        "Karrablast": 4,
+        "Karrablast": 5,
         "Volbeat": 2,
         "Murkrow": 4,
         "Venusaur": 2,
@@ -606,7 +606,7 @@
         "Golbat": 6,
         "Amoonguss": 4,
         "Herdier": 5,
-        "Blissey": 2,
+        "Blissey": 4,
         "Cinccino": 6,
         "Alolan vulpix": 2,
         "Glameow": 2,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 2
       },
-      "total_spawns": 5872,
-      "last_spawn": "2026-07-07T00:49:38.510398"
+      "total_spawns": 5877,
+      "last_spawn": "2026-07-07T00:50:18.385518"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71404,
+    "total_spawns": 71409,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
