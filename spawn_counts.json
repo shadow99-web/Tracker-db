@@ -571,7 +571,7 @@
         "Seadra": 2,
         "Sealeo": 5,
         "Baltoy": 4,
-        "Karrablast": 6,
+        "Karrablast": 7,
         "Volbeat": 3,
         "Murkrow": 4,
         "Venusaur": 2,
@@ -623,7 +623,7 @@
         "Dhelmise": 1,
         "Armaldo": 5,
         "Krokorok": 6,
-        "Torkoal": 3,
+        "Torkoal": 5,
         "Clamperl": 2,
         "Rampardos": 2,
         "Weepinbell": 6,
@@ -651,7 +651,7 @@
         "Eelektross": 2,
         "Bibarel": 1,
         "Debutante trim furfrou": 2,
-        "Phanpy": 2,
+        "Phanpy": 3,
         "Patrat": 2,
         "Passimian": 3,
         "Jynx": 1,
@@ -751,7 +751,7 @@
         "High plain vivillon": 1,
         "Metapod": 6,
         "Lampent": 5,
-        "Roselia": 2,
+        "Roselia": 3,
         "Pineco": 4,
         "Maractus": 4,
         "Togetic": 3,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6463,
-      "last_spawn": "2026-07-07T05:22:22.977536"
+      "total_spawns": 6468,
+      "last_spawn": "2026-07-07T05:22:53.682918"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 71995,
+    "total_spawns": 72000,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
