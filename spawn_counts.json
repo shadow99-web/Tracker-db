@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 49,
-        "Sandile": 35,
+        "Sandile": 36,
         "Charmeleon": 7,
         "Riolu": 16,
         "Gible": 34,
@@ -763,7 +763,7 @@
         "Gorebyss": 1,
         "Eldegoss": 2,
         "Pinsir": 2,
-        "Ivysaur": 2,
+        "Ivysaur": 3,
         "Pa'u oricorio": 1,
         "Toucannon": 2,
         "Flygon": 2,
@@ -894,8 +894,8 @@
         "Muk": 1,
         "Pirouette meloetta": 2
       },
-      "total_spawns": 6340,
-      "last_spawn": "2026-07-07T04:57:46.764903"
+      "total_spawns": 6342,
+      "last_spawn": "2026-07-07T05:02:50.552026"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1608,7 +1608,7 @@
     }
   },
   "global": {
-    "total_spawns": 71872,
+    "total_spawns": 71874,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
