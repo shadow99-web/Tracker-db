@@ -395,7 +395,7 @@
         "Meganium": 6,
         "Rainy castform": 3,
         "Rabsca": 6,
-        "Misdreavus": 4,
+        "Misdreavus": 5,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 6,
@@ -458,7 +458,7 @@
         "Excadrill": 6,
         "Buizel": 4,
         "Pansear": 3,
-        "Yanma": 8,
+        "Yanma": 9,
         "Galarian moltres": 2,
         "Seismitoad": 4,
         "Galarian articuno": 1,
@@ -533,7 +533,7 @@
         "Midnight lycanroc": 3,
         "Skiploom": 4,
         "Stakataka": 1,
-        "Cascoon": 6,
+        "Cascoon": 7,
         "Sigilyph": 6,
         "Vibrava": 8,
         "Shuckle": 2,
@@ -891,10 +891,11 @@
         "Ninetales": 2,
         "Stunfisk": 1,
         "Escavalier": 1,
-        "Muk": 1
+        "Muk": 1,
+        "Pirouette meloetta": 2
       },
-      "total_spawns": 6333,
-      "last_spawn": "2026-07-07T04:51:38.404117"
+      "total_spawns": 6338,
+      "last_spawn": "2026-07-07T04:52:26.092902"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1608,7 @@
     }
   },
   "global": {
-    "total_spawns": 71865,
+    "total_spawns": 71870,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
