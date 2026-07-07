@@ -181,7 +181,7 @@
         "Beldum": 25,
         "Kadabra": 10,
         "Grovyle": 15,
-        "Dratini": 25,
+        "Dratini": 27,
         "Steelix": 2,
         "Sprigatito": 13,
         "Charcadet": 47,
@@ -520,7 +520,7 @@
         "Krookodile": 2,
         "Espathra": 5,
         "Snom": 8,
-        "Nickit": 9,
+        "Nickit": 10,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 6,
@@ -769,7 +769,7 @@
         "Flygon": 1,
         "Archaludon": 1,
         "Snorlax": 2,
-        "Beautifly": 2,
+        "Beautifly": 3,
         "Cinderace": 4,
         "Cramorant": 1,
         "Sandy wormadam": 1,
@@ -877,8 +877,8 @@
         "Emboar": 1,
         "Cacturne": 2
       },
-      "total_spawns": 5783,
-      "last_spawn": "2026-07-07T00:37:28.369414"
+      "total_spawns": 5787,
+      "last_spawn": "2026-07-07T00:38:08.361246"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1591,7 +1591,7 @@
     }
   },
   "global": {
-    "total_spawns": 71315,
+    "total_spawns": 71319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
