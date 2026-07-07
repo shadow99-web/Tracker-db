@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 27,
         "Totodile": 13,
-        "Vanillite": 52,
+        "Vanillite": 54,
         "Weedle": 35,
         "Kabutops": 2,
         "Poliwag": 26,
@@ -38,7 +38,7 @@
         "Abra": 29,
         "Wiglett": 16,
         "Starly": 47,
-        "Caterpie": 19,
+        "Caterpie": 20,
         "Mareep": 24,
         "Capsakid": 22,
         "Numel": 9,
@@ -84,7 +84,7 @@
         "Shelgon": 7,
         "Marshtomp": 13,
         "Squirtle": 12,
-        "Shinx": 56,
+        "Shinx": 58,
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 47,
@@ -111,7 +111,7 @@
         "Eevee": 18,
         "Dreepy": 57,
         "Treecko": 12,
-        "Shroodle": 20,
+        "Shroodle": 21,
         "Ride cyclizar": 9,
         "Swinub": 25,
         "Rattata": 12,
@@ -882,8 +882,8 @@
         "Hisuian zoroark": 2,
         "Huntail": 2
       },
-      "total_spawns": 6019,
-      "last_spawn": "2026-07-07T02:18:28.356754"
+      "total_spawns": 6025,
+      "last_spawn": "2026-07-07T02:19:08.474695"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1596,7 +1596,7 @@
     }
   },
   "global": {
-    "total_spawns": 71551,
+    "total_spawns": 71557,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
