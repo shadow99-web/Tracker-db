@@ -169,7 +169,7 @@
         "Clefairy": 6,
         "Unown q": 1,
         "Lotad": 20,
-        "Mienshao": 2,
+        "Mienshao": 3,
         "Blipbug": 48,
         "Rellor": 14,
         "Rolycoly": 25,
@@ -309,7 +309,7 @@
         "Blue plumage squawkabilly": 4,
         "Metang": 7,
         "Larvitar": 20,
-        "Lumineon": 1,
+        "Lumineon": 2,
         "Kilowattrel": 6,
         "Pumpkaboo": 5,
         "Petilil": 9,
@@ -454,7 +454,7 @@
         "Latios": 2,
         "Slurpuff": 1,
         "Espurr": 6,
-        "Pelipper": 1,
+        "Pelipper": 2,
         "Excadrill": 6,
         "Buizel": 4,
         "Pansear": 3,
@@ -804,7 +804,7 @@
         "Masquerain": 2,
         "Salazzle": 1,
         "Heracross": 2,
-        "Carkol": 1,
+        "Carkol": 2,
         "Zygarde": 2,
         "Dewgong": 1,
         "Revavroom": 3,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6329,
-      "last_spawn": "2026-07-07T04:50:58.468821"
+      "total_spawns": 6333,
+      "last_spawn": "2026-07-07T04:51:38.404117"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71861,
+    "total_spawns": 71865,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
