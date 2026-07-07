@@ -294,7 +294,7 @@
         "Brambleghast": 4,
         "Dartrix": 9,
         "Ceruledge": 6,
-        "Vanillish": 7,
+        "Vanillish": 8,
         "Gimmighoul": 20,
         "Glimmet": 16,
         "Popplio": 7,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 10,
-        "Axew": 63,
+        "Axew": 65,
         "Joltik": 7,
         "Gulpin": 6,
         "Mareanie": 5,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 11,
         "Gligar": 8,
-        "Quaxly": 9,
+        "Quaxly": 10,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6633,
-      "last_spawn": "2026-07-07T08:03:28.198156"
+      "total_spawns": 6637,
+      "last_spawn": "2026-07-07T08:03:58.418763"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72165,
+    "total_spawns": 72169,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
