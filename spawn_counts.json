@@ -87,7 +87,7 @@
         "Shinx": 64,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 50,
+        "Pawmi": 51,
         "Sandile": 37,
         "Charmeleon": 7,
         "Riolu": 16,
@@ -244,7 +244,7 @@
         "Fennekin": 14,
         "Milcery": 15,
         "Trumbeak": 5,
-        "Bonsly": 1,
+        "Bonsly": 2,
         "Growlithe": 5,
         "Rhydon": 6,
         "Ambipom": 3,
@@ -899,8 +899,8 @@
         "Barraskewda": 1,
         "Crawdaunt": 2
       },
-      "total_spawns": 6576,
-      "last_spawn": "2026-07-07T05:58:49.572577"
+      "total_spawns": 6578,
+      "last_spawn": "2026-07-07T06:01:33.197771"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1613,7 +1613,7 @@
     }
   },
   "global": {
-    "total_spawns": 72108,
+    "total_spawns": 72110,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
