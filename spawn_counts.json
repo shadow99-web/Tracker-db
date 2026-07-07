@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 9,
         "Oddish": 28,
-        "Totodile": 13,
+        "Totodile": 14,
         "Vanillite": 56,
         "Weedle": 35,
         "Kabutops": 2,
@@ -162,7 +162,7 @@
         "Sunny castform": 4,
         "Vullaby": 5,
         "Venipede": 28,
-        "Pansage": 4,
+        "Pansage": 5,
         "Cetoddle": 17,
         "Togepi": 22,
         "Tandemaus": 19,
@@ -226,7 +226,7 @@
         "Snorunt": 7,
         "Carvanha": 4,
         "Toxel": 4,
-        "Buneary": 4,
+        "Buneary": 5,
         "Gallade": 11,
         "Tangrowth": 2,
         "Sizzlipede": 6,
@@ -889,8 +889,8 @@
         "Linoone": 2,
         "Continental vivillon": 1
       },
-      "total_spawns": 6154,
-      "last_spawn": "2026-07-07T03:25:58.229873"
+      "total_spawns": 6157,
+      "last_spawn": "2026-07-07T03:26:30.162413"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1603,7 +1603,7 @@
     }
   },
   "global": {
-    "total_spawns": 71686,
+    "total_spawns": 71689,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
