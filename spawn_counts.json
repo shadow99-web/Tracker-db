@@ -227,7 +227,7 @@
         "Carvanha": 4,
         "Toxel": 4,
         "Buneary": 4,
-        "Gallade": 9,
+        "Gallade": 10,
         "Tangrowth": 2,
         "Sizzlipede": 6,
         "Skuntank": 2,
@@ -302,7 +302,7 @@
         "Luxio": 4,
         "Quaxwell": 2,
         "Swanna": 3,
-        "Torracat": 3,
+        "Torracat": 4,
         "Geodude": 17,
         "Tentacruel": 1,
         "Archen": 11,
@@ -366,7 +366,7 @@
         "Dusclops": 5,
         "Prinplup": 5,
         "Kommo-o": 1,
-        "Vigoroth": 6,
+        "Vigoroth": 7,
         "Gigalith": 2,
         "Kingambit": 2,
         "Cresselia": 4,
@@ -792,7 +792,7 @@
         "Boltund": 1,
         "Weezing": 1,
         "Blue flower florges": 1,
-        "Dudunsparce": 2,
+        "Dudunsparce": 3,
         "Kingler": 2,
         "Aurorus": 2,
         "Cacnea": 2,
@@ -872,8 +872,8 @@
         "Scolipede": 1,
         "Centiskorch": 2
       },
-      "total_spawns": 5622,
-      "last_spawn": "2026-07-07T00:16:20.104045"
+      "total_spawns": 5626,
+      "last_spawn": "2026-07-07T00:16:58.175743"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1586,7 +1586,7 @@
     }
   },
   "global": {
-    "total_spawns": 71154,
+    "total_spawns": 71158,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
