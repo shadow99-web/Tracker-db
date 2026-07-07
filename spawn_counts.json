@@ -260,7 +260,7 @@
         "Taillow": 4,
         "Watchog": 3,
         "Porygon": 18,
-        "Wooloo": 4,
+        "Wooloo": 5,
         "Mawile": 7,
         "Marill": 2,
         "Lickitung": 7,
@@ -315,7 +315,7 @@
         "Petilil": 9,
         "Bombirdier": 16,
         "Bellibolt": 6,
-        "Toedscool": 12,
+        "Toedscool": 13,
         "Paras": 4,
         "Fletchinder": 5,
         "Staravia": 3,
@@ -455,7 +455,7 @@
         "Slurpuff": 1,
         "Espurr": 6,
         "Pelipper": 1,
-        "Excadrill": 4,
+        "Excadrill": 6,
         "Buizel": 3,
         "Pansear": 3,
         "Yanma": 8,
@@ -867,10 +867,11 @@
         "Galarian corsola": 2,
         "Corsola": 1,
         "Psyduck": 2,
-        "Typhlosion": 2
+        "Typhlosion": 2,
+        "Falinks": 1
       },
-      "total_spawns": 5572,
-      "last_spawn": "2026-07-07T00:09:18.506814"
+      "total_spawns": 5577,
+      "last_spawn": "2026-07-07T00:09:58.209058"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1583,7 +1584,7 @@
     }
   },
   "global": {
-    "total_spawns": 71104,
+    "total_spawns": 71109,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
