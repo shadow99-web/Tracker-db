@@ -91,7 +91,7 @@
         "Sandile": 33,
         "Charmeleon": 7,
         "Riolu": 16,
-        "Gible": 29,
+        "Gible": 31,
         "Greavard": 36,
         "Snover": 9,
         "Piplup": 5,
@@ -152,7 +152,7 @@
         "Butterfree": 3,
         "Teddiursa": 48,
         "Roggenrola": 30,
-        "Litwick": 21,
+        "Litwick": 22,
         "Wooper": 7,
         "Pikipek": 34,
         "Spritzee": 1,
@@ -734,7 +734,7 @@
         "Electivire": 1,
         "Farigiraf": 2,
         "Raichu": 1,
-        "Meowstic": 1,
+        "Meowstic": 2,
         "Zangoose": 2,
         "Thievul": 2,
         "Galarian slowbro": 2,
@@ -870,8 +870,8 @@
         "Typhlosion": 2,
         "Falinks": 1
       },
-      "total_spawns": 5586,
-      "last_spawn": "2026-07-07T00:11:08.179591"
+      "total_spawns": 5590,
+      "last_spawn": "2026-07-07T00:11:38.528001"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1584,7 +1584,7 @@
     }
   },
   "global": {
-    "total_spawns": 71118,
+    "total_spawns": 71122,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
