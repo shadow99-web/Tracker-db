@@ -249,7 +249,7 @@
         "Rhydon": 6,
         "Ambipom": 3,
         "Solrock": 1,
-        "Tinkatuff": 5,
+        "Tinkatuff": 6,
         "Drednaw": 5,
         "Corvisquire": 6,
         "Croconaw": 6,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 2,
         "Farfetch'd": 2,
-        "Grafaiai": 8,
+        "Grafaiai": 9,
         "Fearow": 2,
         "Squawkabilly": 6,
         "Seadra": 2,
@@ -700,7 +700,7 @@
         "Pidgeotto": 3,
         "Hakamo-o": 3,
         "Spidops": 2,
-        "Glimmora": 4,
+        "Glimmora": 5,
         "Parasect": 1,
         "Fuecoco": 5,
         "Loudred": 6,
@@ -762,7 +762,7 @@
         "Natu": 4,
         "Gorebyss": 1,
         "Eldegoss": 2,
-        "Pinsir": 1,
+        "Pinsir": 2,
         "Ivysaur": 1,
         "Pa'u oricorio": 1,
         "Toucannon": 2,
@@ -887,8 +887,8 @@
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6080,
-      "last_spawn": "2026-07-07T02:26:18.529380"
+      "total_spawns": 6084,
+      "last_spawn": "2026-07-07T02:26:58.570243"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71612,
+    "total_spawns": 71616,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
