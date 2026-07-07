@@ -17,7 +17,7 @@
         "Kabutops": 2,
         "Poliwag": 27,
         "Fidough": 28,
-        "Charjabug": 2,
+        "Charjabug": 3,
         "Hatterene": 5,
         "Rowlet": 10,
         "Anorith": 9,
@@ -72,7 +72,7 @@
         "Aron": 28,
         "Honedge": 46,
         "Houndour": 1,
-        "Machop": 20,
+        "Machop": 21,
         "Terapagos": 1,
         "Mankey": 9,
         "Torterra": 1,
@@ -210,7 +210,7 @@
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 5,
-        "Drifloon": 3,
+        "Drifloon": 4,
         "Mightyena": 5,
         "Sandaconda": 1,
         "Froakie": 14,
@@ -264,7 +264,7 @@
         "Mawile": 7,
         "Marill": 2,
         "Lickitung": 7,
-        "Chewtle": 6,
+        "Chewtle": 7,
         "Onix": 8,
         "Dracovish": 2,
         "Slowpoke": 5,
@@ -355,7 +355,7 @@
         "Spinda": 1,
         "Phantump": 4,
         "Barboach": 4,
-        "Nosepass": 2,
+        "Nosepass": 3,
         "Electrike": 9,
         "Hoppip": 24,
         "Slowbro": 2,
@@ -714,8 +714,8 @@
         "Remoraid": 2,
         "Exeggcute": 7,
         "Dunsparce": 3,
-        "Sobble": 5,
-        "Lycanroc": 1,
+        "Sobble": 6,
+        "Lycanroc": 2,
         "Dustox": 2,
         "Alolan grimer": 4,
         "Ursaluna": 4,
@@ -894,8 +894,8 @@
         "Muk": 1,
         "Pirouette meloetta": 2
       },
-      "total_spawns": 6365,
-      "last_spawn": "2026-07-07T05:10:28.449961"
+      "total_spawns": 6372,
+      "last_spawn": "2026-07-07T05:11:03.752212"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1608,7 +1608,7 @@
     }
   },
   "global": {
-    "total_spawns": 71897,
+    "total_spawns": 71904,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
