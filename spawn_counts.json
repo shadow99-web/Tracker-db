@@ -57,10 +57,10 @@
         "Tirtouga": 9,
         "Hatenna": 40,
         "Shroomish": 3,
-        "Lillipup": 27,
+        "Lillipup": 28,
         "Mosslax": 32,
         "Maushold": 4,
-        "Cubchoo": 21,
+        "Cubchoo": 23,
         "Koffing": 7,
         "Kirlia": 11,
         "Deino": 18,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 12,
         "Milcery": 15,
-        "Trumbeak": 3,
+        "Trumbeak": 4,
         "Bonsly": 1,
         "Growlithe": 5,
         "Rhydon": 6,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 2,
         "Electrike": 9,
-        "Hoppip": 22,
+        "Hoppip": 23,
         "Slowbro": 2,
         "Gholdengo": 4,
         "Trubbish": 8,
@@ -879,8 +879,8 @@
         "Kricketune": 1,
         "Gliscor": 1
       },
-      "total_spawns": 5811,
-      "last_spawn": "2026-07-07T00:41:08.606952"
+      "total_spawns": 5816,
+      "last_spawn": "2026-07-07T00:41:48.361169"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1593,7 +1593,7 @@
     }
   },
   "global": {
-    "total_spawns": 71343,
+    "total_spawns": 71348,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
