@@ -46,8 +46,8 @@
         "Wattrel": 16,
         "Tadbulb": 24,
         "Yanmega": 1,
-        "Tympole": 18,
-        "Grubbin": 25,
+        "Tympole": 19,
+        "Grubbin": 26,
         "Scatterbug": 16,
         "Skwovet": 9,
         "Applin": 5,
@@ -807,7 +807,7 @@
         "Carkol": 1,
         "Zygarde": 2,
         "Dewgong": 1,
-        "Revavroom": 2,
+        "Revavroom": 3,
         "Lunala": 1,
         "Sneasler": 4,
         "Swoobat": 1,
@@ -875,8 +875,8 @@
         "Kangaskhan": 2,
         "Jirachi": 2
       },
-      "total_spawns": 5721,
-      "last_spawn": "2026-07-07T00:29:38.321954"
+      "total_spawns": 5724,
+      "last_spawn": "2026-07-07T00:30:08.450562"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1589,7 +1589,7 @@
     }
   },
   "global": {
-    "total_spawns": 71253,
+    "total_spawns": 71256,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
