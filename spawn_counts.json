@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 8,
         "Luvdisc": 1,
-        "Fennekin": 14,
+        "Fennekin": 15,
         "Milcery": 15,
         "Trumbeak": 5,
         "Bonsly": 3,
@@ -249,7 +249,7 @@
         "Rhydon": 6,
         "Ambipom": 3,
         "Solrock": 1,
-        "Tinkatuff": 6,
+        "Tinkatuff": 7,
         "Drednaw": 5,
         "Corvisquire": 8,
         "Croconaw": 7,
@@ -863,7 +863,7 @@
         "Mr. mime": 2,
         "Munchlax": 4,
         "Qwilfish": 2,
-        "Meowscarada": 1,
+        "Meowscarada": 2,
         "Galarian corsola": 2,
         "Corsola": 1,
         "Psyduck": 4,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6721,
-      "last_spawn": "2026-07-07T08:50:18.190517"
+      "total_spawns": 6724,
+      "last_spawn": "2026-07-07T08:50:48.223926"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72254,
+    "total_spawns": 72257,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
