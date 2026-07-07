@@ -44,7 +44,7 @@
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 16,
-        "Tadbulb": 25,
+        "Tadbulb": 27,
         "Yanmega": 1,
         "Tympole": 19,
         "Grubbin": 27,
@@ -82,7 +82,7 @@
         "Bramblin": 16,
         "Stufful": 9,
         "Shelgon": 7,
-        "Marshtomp": 14,
+        "Marshtomp": 15,
         "Squirtle": 12,
         "Shinx": 60,
         "Drakloak": 9,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6300,
-      "last_spawn": "2026-07-07T03:51:54.494884"
+      "total_spawns": 6303,
+      "last_spawn": "2026-07-07T04:10:19.970704"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71832,
+    "total_spawns": 71835,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
