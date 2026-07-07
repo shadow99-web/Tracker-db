@@ -601,7 +601,7 @@
         "Frosmoth": 6,
         "Darumaka": 4,
         "Cubone": 5,
-        "Conkeldurr": 1,
+        "Conkeldurr": 2,
         "Sinistea": 6,
         "Golbat": 6,
         "Amoonguss": 4,
@@ -712,7 +712,7 @@
         "Stunky": 6,
         "Garbodor": 2,
         "Remoraid": 2,
-        "Exeggcute": 6,
+        "Exeggcute": 7,
         "Dunsparce": 3,
         "Sobble": 5,
         "Lycanroc": 1,
@@ -883,10 +883,11 @@
         "Huntail": 2,
         "Vivillon": 1,
         "Leafeon": 2,
-        "Sunshine cherrim": 1
+        "Sunshine cherrim": 2,
+        "Cloyster": 1
       },
-      "total_spawns": 6043,
-      "last_spawn": "2026-07-07T02:21:28.282050"
+      "total_spawns": 6047,
+      "last_spawn": "2026-07-07T02:22:08.336716"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1599,7 +1600,7 @@
     }
   },
   "global": {
-    "total_spawns": 71575,
+    "total_spawns": 71579,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
