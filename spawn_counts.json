@@ -315,7 +315,7 @@
         "Petilil": 10,
         "Bombirdier": 22,
         "Bellibolt": 7,
-        "Toedscool": 19,
+        "Toedscool": 20,
         "Paras": 5,
         "Fletchinder": 6,
         "Staravia": 4,
@@ -823,7 +823,7 @@
         "Iron bundle": 2,
         "Gourgeist": 1,
         "Luxray": 2,
-        "Gogoat": 1,
+        "Gogoat": 2,
         "Beedrill": 1,
         "Sandslash": 1,
         "Pupitar": 4,
@@ -894,10 +894,11 @@
         "Muk": 1,
         "Pirouette meloetta": 2,
         "Trash burmy": 1,
-        "Lanturn": 2
+        "Lanturn": 2,
+        "Golem": 1
       },
-      "total_spawns": 6516,
-      "last_spawn": "2026-07-07T05:29:43.796689"
+      "total_spawns": 6519,
+      "last_spawn": "2026-07-07T05:30:13.852969"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1611,7 @@
     }
   },
   "global": {
-    "total_spawns": 72048,
+    "total_spawns": 72051,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
