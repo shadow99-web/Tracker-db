@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 9,
         "Oddish": 28,
-        "Totodile": 14,
+        "Totodile": 15,
         "Vanillite": 62,
         "Weedle": 35,
         "Kabutops": 2,
@@ -165,7 +165,7 @@
         "Pansage": 6,
         "Cetoddle": 19,
         "Togepi": 24,
-        "Tandemaus": 19,
+        "Tandemaus": 20,
         "Clefairy": 6,
         "Unown q": 1,
         "Lotad": 21,
@@ -259,7 +259,7 @@
         "Skeledirge": 2,
         "Taillow": 6,
         "Watchog": 3,
-        "Porygon": 20,
+        "Porygon": 22,
         "Wooloo": 6,
         "Mawile": 7,
         "Marill": 2,
@@ -278,7 +278,7 @@
         "Chinchou": 6,
         "Eiscue": 1,
         "Nacli": 19,
-        "Pancham": 5,
+        "Pancham": 6,
         "Bulbasaur": 25,
         "Dewpider": 5,
         "Yellow plumage squawkabilly": 7,
@@ -378,7 +378,7 @@
         "Celebi": 78,
         "Morelull": 5,
         "Unown": 3,
-        "Poltchageist": 4,
+        "Poltchageist": 5,
         "Slakoth": 22,
         "Klink": 15,
         "Mesprit": 1,
@@ -896,8 +896,8 @@
         "Trash burmy": 1,
         "Lanturn": 2
       },
-      "total_spawns": 6444,
-      "last_spawn": "2026-07-07T05:19:53.763971"
+      "total_spawns": 6450,
+      "last_spawn": "2026-07-07T05:20:33.662378"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1610,7 +1610,7 @@
     }
   },
   "global": {
-    "total_spawns": 71976,
+    "total_spawns": 71982,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
