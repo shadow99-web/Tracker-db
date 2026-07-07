@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 28,
         "Totodile": 14,
-        "Vanillite": 56,
+        "Vanillite": 58,
         "Weedle": 35,
         "Kabutops": 2,
         "Poliwag": 27,
@@ -232,7 +232,7 @@
         "Sizzlipede": 6,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 19,
+        "Timburr": 20,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 4,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 10,
-        "Axew": 61,
+        "Axew": 63,
         "Joltik": 7,
         "Gulpin": 6,
         "Mareanie": 5,
@@ -892,8 +892,8 @@
         "Stunfisk": 1,
         "Escavalier": 1
       },
-      "total_spawns": 6250,
-      "last_spawn": "2026-07-07T03:39:48.220057"
+      "total_spawns": 6255,
+      "last_spawn": "2026-07-07T03:40:18.701814"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1606,7 +1606,7 @@
     }
   },
   "global": {
-    "total_spawns": 71782,
+    "total_spawns": 71787,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
