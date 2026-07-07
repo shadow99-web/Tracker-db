@@ -464,7 +464,7 @@
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
-        "Shellder": 3,
+        "Shellder": 4,
         "Chi-yu": 1,
         "Landorus": 1,
         "Absol": 6,
@@ -491,7 +491,7 @@
         "Voltorb": 4,
         "Hitmonchan": 2,
         "Pidgeot": 2,
-        "Alakazam": 8,
+        "Alakazam": 9,
         "Mismagius": 3,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
@@ -859,7 +859,7 @@
         "Whimsicott": 1,
         "Emolga": 1,
         "Kabuto": 1,
-        "Clefable": 1,
+        "Clefable": 2,
         "Mr. mime": 2,
         "Munchlax": 2,
         "Qwilfish": 2,
@@ -881,8 +881,8 @@
         "Hariyama": 2,
         "Hisuian zoroark": 2
       },
-      "total_spawns": 5926,
-      "last_spawn": "2026-07-07T02:04:08.646809"
+      "total_spawns": 5929,
+      "last_spawn": "2026-07-07T02:04:48.197451"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1595,7 +1595,7 @@
     }
   },
   "global": {
-    "total_spawns": 71458,
+    "total_spawns": 71461,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
