@@ -69,7 +69,7 @@
         "Prof tangrowth": 23,
         "Vulpix": 19,
         "Gastly": 46,
-        "Aron": 29,
+        "Aron": 30,
         "Honedge": 48,
         "Houndour": 1,
         "Machop": 22,
@@ -121,7 +121,7 @@
         "Crabrawler": 6,
         "Frogadier": 4,
         "Scovillain": 5,
-        "White plumage squawkabilly": 11,
+        "White plumage squawkabilly": 12,
         "Flaaffy": 4,
         "Rookidee": 49,
         "Flapple": 6,
@@ -188,7 +188,7 @@
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 19,
-        "Wimpod": 11,
+        "Wimpod": 12,
         "Comfey": 9,
         "Diggersby": 2,
         "Klawf": 39,
@@ -268,7 +268,7 @@
         "Onix": 9,
         "Dracovish": 2,
         "Slowpoke": 5,
-        "Drizzile": 7,
+        "Drizzile": 8,
         "Tinkatink": 23,
         "Frillish": 1,
         "Plusle": 7,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 4,
-        "Geodude": 19,
+        "Geodude": 20,
         "Tentacruel": 1,
         "Archen": 15,
         "Blue plumage squawkabilly": 5,
@@ -469,7 +469,7 @@
         "Landorus": 1,
         "Absol": 10,
         "Calyrex": 1,
-        "Kakuna": 4,
+        "Kakuna": 5,
         "Shedinja": 4,
         "Zekrom": 1,
         "Xurkitree": 1,
@@ -891,15 +891,15 @@
         "Ninetales": 2,
         "Stunfisk": 1,
         "Escavalier": 1,
-        "Muk": 1,
+        "Muk": 2,
         "Pirouette meloetta": 2,
         "Trash burmy": 1,
         "Lanturn": 2,
         "Golem": 1,
         "Barraskewda": 1
       },
-      "total_spawns": 6539,
-      "last_spawn": "2026-07-07T05:32:25.775693"
+      "total_spawns": 6546,
+      "last_spawn": "2026-07-07T05:32:58.317071"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1612,7 +1612,7 @@
     }
   },
   "global": {
-    "total_spawns": 72071,
+    "total_spawns": 72078,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
