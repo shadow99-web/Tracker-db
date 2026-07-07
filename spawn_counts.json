@@ -15,7 +15,7 @@
         "Vanillite": 54,
         "Weedle": 35,
         "Kabutops": 2,
-        "Poliwag": 26,
+        "Poliwag": 27,
         "Fidough": 27,
         "Charjabug": 2,
         "Hatterene": 3,
@@ -219,7 +219,7 @@
         "Donphan": 5,
         "Shuppet": 12,
         "Graveler": 3,
-        "Duosion": 5,
+        "Duosion": 6,
         "Orthworm": 26,
         "Yamask": 4,
         "Nymble": 22,
@@ -363,7 +363,7 @@
         "Trubbish": 8,
         "Rockruff": 6,
         "Snowy castform": 1,
-        "Dusclops": 7,
+        "Dusclops": 8,
         "Prinplup": 5,
         "Kommo-o": 1,
         "Vigoroth": 8,
@@ -426,7 +426,7 @@
         "Summer deerling": 1,
         "Seel": 10,
         "Marowak": 4,
-        "Haunter": 4,
+        "Haunter": 5,
         "Dottler": 8,
         "Wailmer": 4,
         "Frigibax": 49,
@@ -887,8 +887,8 @@
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6072,
-      "last_spawn": "2026-07-07T02:25:08.441257"
+      "total_spawns": 6076,
+      "last_spawn": "2026-07-07T02:25:48.496889"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71604,
+    "total_spawns": 71608,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
