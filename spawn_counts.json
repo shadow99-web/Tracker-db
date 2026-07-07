@@ -37,9 +37,9 @@
         "Duskull": 54,
         "Abra": 30,
         "Wiglett": 16,
-        "Starly": 53,
+        "Starly": 55,
         "Caterpie": 20,
-        "Mareep": 24,
+        "Mareep": 25,
         "Capsakid": 24,
         "Numel": 9,
         "Pawmo": 8,
@@ -58,7 +58,7 @@
         "Hatenna": 42,
         "Shroomish": 4,
         "Lillipup": 30,
-        "Mosslax": 36,
+        "Mosslax": 38,
         "Maushold": 4,
         "Cubchoo": 29,
         "Koffing": 8,
@@ -518,7 +518,7 @@
         "Bronzong": 2,
         "Foongus": 6,
         "Krookodile": 2,
-        "Espathra": 5,
+        "Espathra": 6,
         "Snom": 10,
         "Nickit": 11,
         "Aromatisse": 1,
@@ -895,8 +895,8 @@
         "Pirouette meloetta": 2,
         "Trash burmy": 1
       },
-      "total_spawns": 6399,
-      "last_spawn": "2026-07-07T05:13:24.520963"
+      "total_spawns": 6405,
+      "last_spawn": "2026-07-07T05:14:03.559120"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1609,7 +1609,7 @@
     }
   },
   "global": {
-    "total_spawns": 71931,
+    "total_spawns": 71937,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
