@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 29,
+        "Varoom": 30,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 1,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 26,
+        "Venipede": 27,
         "Pansage": 4,
         "Cetoddle": 15,
         "Togepi": 19,
@@ -239,7 +239,7 @@
         "Whismur": 26,
         "Jangmo-o": 10,
         "Lunatone": 1,
-        "Machoke": 7,
+        "Machoke": 8,
         "Luvdisc": 1,
         "Fennekin": 12,
         "Milcery": 15,
@@ -285,7 +285,7 @@
         "Hattrem": 7,
         "Trash wormadam": 3,
         "Purrloin": 2,
-        "Zigzagoon": 4,
+        "Zigzagoon": 5,
         "Quilladin": 2,
         "Infernape": 3,
         "Noibat": 7,
@@ -873,10 +873,11 @@
         "Centiskorch": 2,
         "Swellow": 1,
         "Kangaskhan": 2,
-        "Jirachi": 2
+        "Jirachi": 2,
+        "Emboar": 1
       },
-      "total_spawns": 5740,
-      "last_spawn": "2026-07-07T00:32:08.215821"
+      "total_spawns": 5745,
+      "last_spawn": "2026-07-07T00:32:48.308682"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1589,7 +1590,7 @@
     }
   },
   "global": {
-    "total_spawns": 71272,
+    "total_spawns": 71277,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
