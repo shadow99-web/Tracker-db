@@ -13,7 +13,7 @@
         "Oddish": 30,
         "Totodile": 15,
         "Vanillite": 62,
-        "Weedle": 35,
+        "Weedle": 36,
         "Kabutops": 2,
         "Poliwag": 27,
         "Fidough": 30,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 22,
         "Mienshao": 3,
-        "Blipbug": 53,
+        "Blipbug": 54,
         "Rellor": 14,
         "Rolycoly": 29,
         "Poliwhirl": 8,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6735,
-      "last_spawn": "2026-07-07T09:08:51.909404"
+      "total_spawns": 6737,
+      "last_spawn": "2026-07-07T09:29:17.533819"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72268,
+    "total_spawns": 72270,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
