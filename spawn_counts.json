@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 28,
         "Totodile": 14,
-        "Vanillite": 58,
+        "Vanillite": 60,
         "Weedle": 35,
         "Kabutops": 2,
         "Poliwag": 27,
@@ -172,7 +172,7 @@
         "Mienshao": 2,
         "Blipbug": 48,
         "Rellor": 14,
-        "Rolycoly": 24,
+        "Rolycoly": 25,
         "Poliwhirl": 7,
         "Lokix": 11,
         "Flamigo": 11,
@@ -326,7 +326,7 @@
         "Sunkern": 6,
         "Snubbull": 4,
         "Crocalor": 2,
-        "Magnemite": 21,
+        "Magnemite": 22,
         "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -408,7 +408,7 @@
         "Darmanitan": 3,
         "Lopunny": 2,
         "Chimchar": 9,
-        "Gligar": 7,
+        "Gligar": 8,
         "Quaxly": 9,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
@@ -893,8 +893,8 @@
         "Escavalier": 1,
         "Muk": 1
       },
-      "total_spawns": 6291,
-      "last_spawn": "2026-07-07T03:44:58.314906"
+      "total_spawns": 6296,
+      "last_spawn": "2026-07-07T03:45:38.224138"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1607,7 +1607,7 @@
     }
   },
   "global": {
-    "total_spawns": 71823,
+    "total_spawns": 71828,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
