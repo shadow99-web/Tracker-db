@@ -37,7 +37,7 @@
         "Duskull": 52,
         "Abra": 29,
         "Wiglett": 16,
-        "Starly": 49,
+        "Starly": 51,
         "Caterpie": 20,
         "Mareep": 24,
         "Capsakid": 22,
@@ -57,7 +57,7 @@
         "Tirtouga": 9,
         "Hatenna": 40,
         "Shroomish": 3,
-        "Lillipup": 29,
+        "Lillipup": 30,
         "Mosslax": 36,
         "Maushold": 4,
         "Cubchoo": 25,
@@ -163,7 +163,7 @@
         "Vullaby": 5,
         "Venipede": 27,
         "Pansage": 4,
-        "Cetoddle": 16,
+        "Cetoddle": 17,
         "Togepi": 22,
         "Tandemaus": 18,
         "Clefairy": 6,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 12,
         "Milcery": 15,
-        "Trumbeak": 4,
+        "Trumbeak": 5,
         "Bonsly": 1,
         "Growlithe": 5,
         "Rhydon": 6,
@@ -887,8 +887,8 @@
         "Cloyster": 1,
         "Cleffa": 1
       },
-      "total_spawns": 6093,
-      "last_spawn": "2026-07-07T02:28:08.698862"
+      "total_spawns": 6098,
+      "last_spawn": "2026-07-07T02:28:48.199486"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1601,7 +1601,7 @@
     }
   },
   "global": {
-    "total_spawns": 71625,
+    "total_spawns": 71630,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
