@@ -55,7 +55,7 @@
         "Maschiff": 21,
         "Smoliv": 22,
         "Tirtouga": 11,
-        "Hatenna": 44,
+        "Hatenna": 47,
         "Shroomish": 4,
         "Lillipup": 30,
         "Mosslax": 40,
@@ -133,7 +133,7 @@
         "Sandy burmy": 3,
         "Torchic": 14,
         "Abomasnow": 5,
-        "Slugma": 7,
+        "Slugma": 8,
         "Venonat": 10,
         "Eelektrik": 4,
         "Diglett": 7,
@@ -428,7 +428,7 @@
         "Marowak": 4,
         "Haunter": 7,
         "Dottler": 8,
-        "Wailmer": 5,
+        "Wailmer": 6,
         "Frigibax": 55,
         "Iron valiant": 2,
         "Ludicolo": 4,
@@ -809,7 +809,7 @@
         "Dewgong": 1,
         "Revavroom": 3,
         "Lunala": 1,
-        "Sneasler": 5,
+        "Sneasler": 6,
         "Swoobat": 1,
         "Morpeko": 1,
         "East sea shellos": 1,
@@ -900,8 +900,8 @@
         "Crawdaunt": 2,
         "Castform": 1
       },
-      "total_spawns": 6694,
-      "last_spawn": "2026-07-07T08:46:38.395544"
+      "total_spawns": 6700,
+      "last_spawn": "2026-07-07T08:47:18.285929"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1614,7 +1614,7 @@
     }
   },
   "global": {
-    "total_spawns": 72227,
+    "total_spawns": 72233,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
