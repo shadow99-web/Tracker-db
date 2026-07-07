@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 26,
         "Totodile": 12,
-        "Vanillite": 50,
+        "Vanillite": 52,
         "Weedle": 31,
         "Kabutops": 2,
         "Poliwag": 25,
@@ -256,7 +256,7 @@
         "Makuhita": 1,
         "Machamp": 1,
         "Primarina": 5,
-        "Skeledirge": 1,
+        "Skeledirge": 2,
         "Taillow": 4,
         "Watchog": 3,
         "Porygon": 18,
@@ -390,7 +390,7 @@
         "Gulpin": 6,
         "Mareanie": 4,
         "Throh": 4,
-        "Sentret": 10,
+        "Sentret": 12,
         "Houndoom": 1,
         "Meganium": 6,
         "Rainy castform": 3,
@@ -429,7 +429,7 @@
         "Haunter": 4,
         "Dottler": 7,
         "Wailmer": 4,
-        "Frigibax": 45,
+        "Frigibax": 47,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 6,
@@ -873,8 +873,8 @@
         "Centiskorch": 2,
         "Swellow": 1
       },
-      "total_spawns": 5679,
-      "last_spawn": "2026-07-07T00:23:48.444116"
+      "total_spawns": 5686,
+      "last_spawn": "2026-07-07T00:24:28.385543"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1587,7 +1587,7 @@
     }
   },
   "global": {
-    "total_spawns": 71211,
+    "total_spawns": 71218,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
