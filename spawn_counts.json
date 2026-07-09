@@ -23,7 +23,7 @@
         "Anorith": 9,
         "Arctibax": 4,
         "Ralts": 44,
-        "Peakychu": 34,
+        "Peakychu": 35,
         "Cutiefly": 8,
         "Simipour": 3,
         "Tynamo": 23,
@@ -91,7 +91,7 @@
         "Sandile": 39,
         "Charmeleon": 7,
         "Riolu": 18,
-        "Gible": 42,
+        "Gible": 44,
         "Greavard": 44,
         "Snover": 9,
         "Piplup": 8,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 5,
         "Doduo": 6,
-        "Flittle": 29,
+        "Flittle": 30,
         "Armarouge": 6,
         "Clauncher": 5,
         "Tentacool": 5,
@@ -163,8 +163,8 @@
         "Vullaby": 5,
         "Venipede": 33,
         "Pansage": 6,
-        "Cetoddle": 22,
-        "Togepi": 26,
+        "Cetoddle": 23,
+        "Togepi": 27,
         "Tandemaus": 21,
         "Clefairy": 6,
         "Unown q": 1,
@@ -210,7 +210,7 @@
         "Woobat": 4,
         "Skrelp": 8,
         "Lileep": 6,
-        "Drifloon": 5,
+        "Drifloon": 6,
         "Mightyena": 6,
         "Sandaconda": 1,
         "Froakie": 16,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 6,
         "Petilil": 11,
-        "Bombirdier": 24,
+        "Bombirdier": 25,
         "Bellibolt": 7,
         "Toedscool": 23,
         "Paras": 5,
@@ -903,10 +903,11 @@
         "Whiscash": 2,
         "Exploud": 1,
         "Staraptor": 1,
-        "Galarian ponyta": 2
+        "Galarian ponyta": 2,
+        "Scrafty": 1
       },
-      "total_spawns": 6912,
-      "last_spawn": "2026-07-09T17:14:33.798777"
+      "total_spawns": 6921,
+      "last_spawn": "2026-07-09T17:15:08.344118"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1619,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72445,
+    "total_spawns": 72454,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
