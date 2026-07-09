@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 4,
-        "Geodude": 22,
+        "Geodude": 23,
         "Tentacruel": 1,
         "Archen": 15,
         "Blue plumage squawkabilly": 5,
@@ -379,7 +379,7 @@
         "Morelull": 6,
         "Unown": 3,
         "Poltchageist": 5,
-        "Slakoth": 22,
+        "Slakoth": 23,
         "Klink": 15,
         "Mesprit": 1,
         "Azelf": 2,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 11,
         "Gligar": 8,
-        "Quaxly": 11,
+        "Quaxly": 12,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -833,7 +833,7 @@
         "Galvantula": 1,
         "Drifblim": 1,
         "Togedemaru": 1,
-        "Jellicent": 1,
+        "Jellicent": 2,
         "Monferno": 2,
         "Smoochum": 1,
         "Drampa": 4,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6951,
-      "last_spawn": "2026-07-09T17:17:18.219193"
+      "total_spawns": 6955,
+      "last_spawn": "2026-07-09T17:17:53.551524"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72484,
+    "total_spawns": 72488,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
