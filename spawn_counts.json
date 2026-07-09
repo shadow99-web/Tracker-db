@@ -198,7 +198,7 @@
         "Bagon": 28,
         "Pikachu": 12,
         "Tarountula": 23,
-        "Rhyhorn": 25,
+        "Rhyhorn": 26,
         "Aipom": 4,
         "Grookey": 15,
         "Inkay": 4,
@@ -356,7 +356,7 @@
         "Phantump": 5,
         "Barboach": 4,
         "Nosepass": 3,
-        "Electrike": 9,
+        "Electrike": 10,
         "Hoppip": 25,
         "Slowbro": 2,
         "Gholdengo": 4,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6776,
-      "last_spawn": "2026-07-09T16:20:41.856686"
+      "total_spawns": 6778,
+      "last_spawn": "2026-07-09T16:40:05.490347"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72309,
+    "total_spawns": 72311,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
