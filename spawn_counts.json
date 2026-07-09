@@ -30,7 +30,7 @@
         "Palossand": 3,
         "Pyukumuku": 1,
         "Pidgey": 25,
-        "Binacle": 8,
+        "Binacle": 9,
         "Bounsweet": 42,
         "Fletchling": 33,
         "Whirlipede": 8,
@@ -222,7 +222,7 @@
         "Duosion": 6,
         "Orthworm": 28,
         "Yamask": 5,
-        "Nymble": 26,
+        "Nymble": 27,
         "Snorunt": 7,
         "Carvanha": 6,
         "Toxel": 4,
@@ -312,7 +312,7 @@
         "Lumineon": 2,
         "Kilowattrel": 6,
         "Pumpkaboo": 5,
-        "Petilil": 10,
+        "Petilil": 11,
         "Bombirdier": 24,
         "Bellibolt": 7,
         "Toedscool": 22,
@@ -857,7 +857,7 @@
         "Spewpa": 2,
         "Delcatty": 2,
         "Whimsicott": 1,
-        "Emolga": 5,
+        "Emolga": 6,
         "Kabuto": 2,
         "Clefable": 2,
         "Mr. mime": 2,
@@ -903,8 +903,8 @@
         "Whiscash": 1,
         "Exploud": 1
       },
-      "total_spawns": 6815,
-      "last_spawn": "2026-07-09T17:02:43.845283"
+      "total_spawns": 6819,
+      "last_spawn": "2026-07-09T17:03:30.158954"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1617,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72348,
+    "total_spawns": 72352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
