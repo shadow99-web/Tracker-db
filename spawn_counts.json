@@ -19,7 +19,7 @@
         "Fidough": 30,
         "Charjabug": 3,
         "Hatterene": 5,
-        "Rowlet": 11,
+        "Rowlet": 12,
         "Anorith": 9,
         "Arctibax": 4,
         "Ralts": 44,
@@ -157,7 +157,7 @@
         "Pikipek": 45,
         "Spritzee": 3,
         "Stantler": 10,
-        "Impidimp": 46,
+        "Impidimp": 47,
         "Swadloon": 7,
         "Sunny castform": 4,
         "Vullaby": 5,
@@ -706,7 +706,7 @@
         "Loudred": 8,
         "Vespiquen": 1,
         "Gastrodon": 1,
-        "Skiddo": 7,
+        "Skiddo": 8,
         "Simisear": 8,
         "Hawlucha": 2,
         "Stunky": 8,
@@ -904,10 +904,11 @@
         "Exploud": 1,
         "Staraptor": 1,
         "Galarian ponyta": 2,
-        "Scrafty": 1
+        "Scrafty": 1,
+        "Orange flower floette": 1
       },
-      "total_spawns": 7009,
-      "last_spawn": "2026-07-09T17:25:23.530679"
+      "total_spawns": 7013,
+      "last_spawn": "2026-07-09T17:25:53.597372"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72542,
+    "total_spawns": 72546,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
