@@ -11,7 +11,7 @@
       "counts": {
         "Braixen": 9,
         "Oddish": 32,
-        "Totodile": 15,
+        "Totodile": 16,
         "Vanillite": 62,
         "Weedle": 41,
         "Kabutops": 2,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 48,
+        "Varoom": 49,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 3,
@@ -557,7 +557,7 @@
         "Toxapex": 2,
         "Pawmot": 2,
         "Blitzle": 5,
-        "Iron crown": 2,
+        "Iron crown": 4,
         "Barbaracle": 2,
         "Nidoqueen": 4,
         "White flower florges": 1,
@@ -834,7 +834,7 @@
         "Drifblim": 1,
         "Togedemaru": 1,
         "Jellicent": 2,
-        "Monferno": 2,
+        "Monferno": 3,
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 4,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7092,
-      "last_spawn": "2026-07-09T18:26:53.769541"
+      "total_spawns": 7097,
+      "last_spawn": "2026-07-09T18:27:33.861793"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72625,
+    "total_spawns": 72630,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
