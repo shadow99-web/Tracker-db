@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 9,
-        "Oddish": 30,
+        "Oddish": 31,
         "Totodile": 15,
         "Vanillite": 62,
         "Weedle": 41,
@@ -67,7 +67,7 @@
         "Dolliv": 6,
         "Feebas": 16,
         "Prof tangrowth": 24,
-        "Vulpix": 19,
+        "Vulpix": 21,
         "Gastly": 46,
         "Aron": 31,
         "Honedge": 48,
@@ -289,14 +289,14 @@
         "Quilladin": 4,
         "Infernape": 3,
         "Noibat": 7,
-        "Gothorita": 5,
+        "Gothorita": 6,
         "Ekans": 5,
         "Brambleghast": 5,
         "Dartrix": 9,
         "Ceruledge": 7,
         "Vanillish": 8,
         "Gimmighoul": 23,
-        "Glimmet": 16,
+        "Glimmet": 17,
         "Popplio": 8,
         "Arboliva": 2,
         "Luxio": 4,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 7000,
-      "last_spawn": "2026-07-09T17:24:03.966752"
+      "total_spawns": 7005,
+      "last_spawn": "2026-07-09T17:24:43.721827"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72533,
+    "total_spawns": 72538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
