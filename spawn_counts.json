@@ -13,7 +13,7 @@
         "Oddish": 30,
         "Totodile": 15,
         "Vanillite": 62,
-        "Weedle": 39,
+        "Weedle": 41,
         "Kabutops": 2,
         "Poliwag": 27,
         "Fidough": 30,
@@ -32,7 +32,7 @@
         "Pidgey": 25,
         "Binacle": 10,
         "Bounsweet": 42,
-        "Fletchling": 34,
+        "Fletchling": 35,
         "Whirlipede": 8,
         "Duskull": 56,
         "Abra": 30,
@@ -163,7 +163,7 @@
         "Vullaby": 5,
         "Venipede": 33,
         "Pansage": 6,
-        "Cetoddle": 21,
+        "Cetoddle": 22,
         "Togepi": 26,
         "Tandemaus": 21,
         "Clefairy": 6,
@@ -176,7 +176,7 @@
         "Poliwhirl": 8,
         "Lokix": 12,
         "Flamigo": 12,
-        "Bellsprout": 15,
+        "Bellsprout": 16,
         "Houndstone": 5,
         "Beldum": 27,
         "Kadabra": 12,
@@ -629,7 +629,7 @@
         "Weepinbell": 6,
         "Cufant": 4,
         "Mienfoo": 4,
-        "Quagsire": 2,
+        "Quagsire": 3,
         "Komala": 3,
         "Poochyena": 6,
         "Hero palafin": 2,
@@ -685,7 +685,7 @@
         "Wingull": 5,
         "Magmar": 5,
         "Dedenne": 2,
-        "Serperior": 2,
+        "Serperior": 3,
         "Grapploct": 3,
         "Vanilluxe": 2,
         "Dwebble": 4,
@@ -889,7 +889,7 @@
         "Linoone": 2,
         "Continental vivillon": 1,
         "Ninetales": 2,
-        "Stunfisk": 1,
+        "Stunfisk": 2,
         "Escavalier": 1,
         "Muk": 2,
         "Pirouette meloetta": 2,
@@ -904,8 +904,8 @@
         "Exploud": 1,
         "Staraptor": 1
       },
-      "total_spawns": 6897,
-      "last_spawn": "2026-07-09T17:13:31.589708"
+      "total_spawns": 6905,
+      "last_spawn": "2026-07-09T17:14:03.708169"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1618,7 +1618,7 @@
     }
   },
   "global": {
-    "total_spawns": 72430,
+    "total_spawns": 72438,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
