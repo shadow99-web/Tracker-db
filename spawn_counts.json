@@ -196,7 +196,7 @@
         "Chef dente": 28,
         "Hisuian qwilfish": 1,
         "Bagon": 28,
-        "Pikachu": 15,
+        "Pikachu": 16,
         "Tarountula": 25,
         "Rhyhorn": 29,
         "Aipom": 4,
@@ -349,7 +349,7 @@
         "Cyndaquil": 7,
         "Grotle": 4,
         "Tinkaton": 2,
-        "Bergmite": 5,
+        "Bergmite": 6,
         "Klang": 4,
         "Tepig": 8,
         "Spinda": 1,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 3,
         "Quilava": 3,
-        "Wurmple": 42,
+        "Wurmple": 44,
         "Sandshrew": 9,
         "Tauros": 4,
         "Golurk": 1,
@@ -907,10 +907,11 @@
         "Scrafty": 1,
         "Orange flower floette": 1,
         "Galarian meowth": 2,
-        "Stretchy tatsugiri": 1
+        "Stretchy tatsugiri": 1,
+        "Magmortar": 2
       },
-      "total_spawns": 7110,
-      "last_spawn": "2026-07-09T18:40:33.606717"
+      "total_spawns": 7116,
+      "last_spawn": "2026-07-09T18:41:03.641529"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1623,7 +1624,7 @@
     }
   },
   "global": {
-    "total_spawns": 72643,
+    "total_spawns": 72649,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
