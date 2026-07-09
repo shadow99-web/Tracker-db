@@ -52,7 +52,7 @@
         "Skwovet": 10,
         "Applin": 6,
         "Staryu": 3,
-        "Maschiff": 24,
+        "Maschiff": 25,
         "Smoliv": 26,
         "Tirtouga": 11,
         "Hatenna": 50,
@@ -884,7 +884,7 @@
         "Vivillon": 1,
         "Leafeon": 4,
         "Sunshine cherrim": 2,
-        "Cloyster": 1,
+        "Cloyster": 2,
         "Cleffa": 1,
         "Linoone": 2,
         "Continental vivillon": 1,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7212,
-      "last_spawn": "2026-07-09T19:50:13.894514"
+      "total_spawns": 7214,
+      "last_spawn": "2026-07-09T19:52:46.391702"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72745,
+    "total_spawns": 72747,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
