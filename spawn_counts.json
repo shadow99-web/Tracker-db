@@ -52,7 +52,7 @@
         "Skwovet": 10,
         "Applin": 6,
         "Staryu": 3,
-        "Maschiff": 21,
+        "Maschiff": 22,
         "Smoliv": 23,
         "Tirtouga": 11,
         "Hatenna": 48,
@@ -116,7 +116,7 @@
         "Swinub": 27,
         "Rattata": 14,
         "Stonjourner": 1,
-        "Veluza": 39,
+        "Veluza": 40,
         "Panpour": 8,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 38,
+        "Varoom": 40,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 3,
@@ -145,7 +145,7 @@
         "Wugtrio": 9,
         "Tranquill": 9,
         "Cetitan": 6,
-        "Turtwig": 13,
+        "Turtwig": 14,
         "Fomantis": 6,
         "Claydol": 1,
         "Trapinch": 17,
@@ -423,7 +423,7 @@
         "Mimikyu": 6,
         "Hoothoot": 8,
         "Girafarig": 2,
-        "Summer deerling": 1,
+        "Summer deerling": 2,
         "Seel": 10,
         "Marowak": 4,
         "Haunter": 7,
@@ -903,8 +903,8 @@
         "Whiscash": 1,
         "Exploud": 1
       },
-      "total_spawns": 6843,
-      "last_spawn": "2026-07-09T17:06:13.945836"
+      "total_spawns": 6849,
+      "last_spawn": "2026-07-09T17:06:53.590627"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1617,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72376,
+    "total_spawns": 72382,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
