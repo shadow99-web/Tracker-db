@@ -43,7 +43,7 @@
         "Capsakid": 24,
         "Numel": 9,
         "Pawmo": 8,
-        "Wattrel": 16,
+        "Wattrel": 17,
         "Tadbulb": 28,
         "Yanmega": 1,
         "Tympole": 20,
@@ -657,7 +657,7 @@
         "Jynx": 1,
         "Noctowl": 4,
         "Munna": 2,
-        "Mabosstiff": 5,
+        "Mabosstiff": 6,
         "Omastar": 3,
         "Gabite": 8,
         "Tapu fini": 4,
@@ -703,7 +703,7 @@
         "Glimmora": 7,
         "Parasect": 3,
         "Fuecoco": 7,
-        "Loudred": 7,
+        "Loudred": 8,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 7,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6780,
-      "last_spawn": "2026-07-09T16:56:43.585590"
+      "total_spawns": 6783,
+      "last_spawn": "2026-07-09T16:57:13.765623"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72313,
+    "total_spawns": 72316,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
