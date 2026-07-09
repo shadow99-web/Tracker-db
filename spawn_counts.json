@@ -356,7 +356,7 @@
         "Phantump": 5,
         "Barboach": 4,
         "Nosepass": 3,
-        "Electrike": 10,
+        "Electrike": 11,
         "Hoppip": 25,
         "Slowbro": 2,
         "Gholdengo": 4,
@@ -434,7 +434,7 @@
         "Ludicolo": 4,
         "Scraggy": 6,
         "Stoutland": 1,
-        "Elgyem": 1,
+        "Elgyem": 2,
         "Dragonair": 4,
         "Spheal": 21,
         "Amaura": 9,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6778,
-      "last_spawn": "2026-07-09T16:40:05.490347"
+      "total_spawns": 6780,
+      "last_spawn": "2026-07-09T16:56:43.585590"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72311,
+    "total_spawns": 72313,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
