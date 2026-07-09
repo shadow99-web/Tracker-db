@@ -53,7 +53,7 @@
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 21,
-        "Smoliv": 22,
+        "Smoliv": 23,
         "Tirtouga": 11,
         "Hatenna": 48,
         "Shroomish": 4,
@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 63,
         "Treecko": 12,
-        "Shroodle": 24,
+        "Shroodle": 25,
         "Ride cyclizar": 10,
         "Swinub": 27,
         "Rattata": 14,
@@ -659,7 +659,7 @@
         "Munna": 2,
         "Mabosstiff": 6,
         "Omastar": 3,
-        "Gabite": 9,
+        "Gabite": 10,
         "Tapu fini": 4,
         "Gyarados": 2,
         "Lapras": 4,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6806,
-      "last_spawn": "2026-07-09T17:01:13.559566"
+      "total_spawns": 6809,
+      "last_spawn": "2026-07-09T17:01:43.606241"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72339,
+    "total_spawns": 72342,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
