@@ -53,7 +53,7 @@
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 23,
-        "Smoliv": 23,
+        "Smoliv": 24,
         "Tirtouga": 11,
         "Hatenna": 50,
         "Shroomish": 5,
@@ -547,7 +547,7 @@
         "Tatsugiri": 7,
         "Xerneas": 4,
         "Nincada": 10,
-        "Audino": 2,
+        "Audino": 3,
         "Mime jr.": 3,
         "Yungoos": 7,
         "Palpitoad": 7,
@@ -627,7 +627,7 @@
         "Clamperl": 2,
         "Rampardos": 2,
         "Weepinbell": 6,
-        "Cufant": 4,
+        "Cufant": 5,
         "Mienfoo": 4,
         "Quagsire": 3,
         "Komala": 3,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7074,
-      "last_spawn": "2026-07-09T17:33:58.165159"
+      "total_spawns": 7077,
+      "last_spawn": "2026-07-09T17:43:38.150635"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72607,
+    "total_spawns": 72610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
