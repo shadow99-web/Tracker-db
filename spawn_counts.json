@@ -171,7 +171,7 @@
         "Lotad": 22,
         "Mienshao": 3,
         "Blipbug": 54,
-        "Rellor": 14,
+        "Rellor": 15,
         "Rolycoly": 29,
         "Poliwhirl": 8,
         "Lokix": 12,
@@ -256,7 +256,7 @@
         "Makuhita": 2,
         "Machamp": 3,
         "Primarina": 5,
-        "Skeledirge": 2,
+        "Skeledirge": 3,
         "Taillow": 6,
         "Watchog": 3,
         "Porygon": 23,
@@ -900,10 +900,11 @@
         "Crawdaunt": 2,
         "Castform": 1,
         "Chesnaught": 2,
-        "Whiscash": 1
+        "Whiscash": 1,
+        "Exploud": 1
       },
-      "total_spawns": 6812,
-      "last_spawn": "2026-07-09T17:02:13.626206"
+      "total_spawns": 6815,
+      "last_spawn": "2026-07-09T17:02:43.845283"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72345,
+    "total_spawns": 72348,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
