@@ -44,7 +44,7 @@
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 17,
-        "Tadbulb": 28,
+        "Tadbulb": 29,
         "Yanmega": 1,
         "Tympole": 20,
         "Grubbin": 27,
@@ -161,7 +161,7 @@
         "Swadloon": 6,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 32,
+        "Venipede": 33,
         "Pansage": 6,
         "Cetoddle": 21,
         "Togepi": 26,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 22,
         "Mienshao": 3,
-        "Blipbug": 54,
+        "Blipbug": 56,
         "Rellor": 15,
         "Rolycoly": 29,
         "Poliwhirl": 8,
@@ -903,8 +903,8 @@
         "Whiscash": 1,
         "Exploud": 1
       },
-      "total_spawns": 6826,
-      "last_spawn": "2026-07-09T17:04:04.005144"
+      "total_spawns": 6830,
+      "last_spawn": "2026-07-09T17:04:34.258931"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1617,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72359,
+    "total_spawns": 72363,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
