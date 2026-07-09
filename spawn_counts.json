@@ -19,7 +19,7 @@
         "Fidough": 30,
         "Charjabug": 3,
         "Hatterene": 5,
-        "Rowlet": 12,
+        "Rowlet": 13,
         "Anorith": 9,
         "Arctibax": 4,
         "Ralts": 44,
@@ -37,7 +37,7 @@
         "Duskull": 58,
         "Abra": 30,
         "Wiglett": 18,
-        "Starly": 60,
+        "Starly": 61,
         "Caterpie": 21,
         "Mareep": 26,
         "Capsakid": 25,
@@ -116,7 +116,7 @@
         "Swinub": 27,
         "Rattata": 15,
         "Stonjourner": 1,
-        "Veluza": 40,
+        "Veluza": 42,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -198,7 +198,7 @@
         "Bagon": 28,
         "Pikachu": 12,
         "Tarountula": 24,
-        "Rhyhorn": 28,
+        "Rhyhorn": 29,
         "Aipom": 4,
         "Grookey": 15,
         "Inkay": 5,
@@ -434,7 +434,7 @@
         "Ludicolo": 4,
         "Scraggy": 6,
         "Stoutland": 1,
-        "Elgyem": 3,
+        "Elgyem": 4,
         "Dragonair": 4,
         "Spheal": 21,
         "Amaura": 9,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7020,
-      "last_spawn": "2026-07-09T17:26:55.101644"
+      "total_spawns": 7026,
+      "last_spawn": "2026-07-09T17:27:33.676449"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72553,
+    "total_spawns": 72559,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
