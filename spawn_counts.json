@@ -701,7 +701,7 @@
         "Hakamo-o": 3,
         "Spidops": 5,
         "Glimmora": 7,
-        "Parasect": 2,
+        "Parasect": 3,
         "Fuecoco": 7,
         "Loudred": 7,
         "Vespiquen": 1,
@@ -836,7 +836,7 @@
         "Jellicent": 1,
         "Monferno": 2,
         "Smoochum": 1,
-        "Drampa": 3,
+        "Drampa": 4,
         "Shieldon": 4,
         "Araquanid": 2,
         "Glaceon": 2,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6760,
-      "last_spawn": "2026-07-09T16:09:23.056679"
+      "total_spawns": 6762,
+      "last_spawn": "2026-07-09T16:10:03.234179"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72293,
+    "total_spawns": 72295,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
