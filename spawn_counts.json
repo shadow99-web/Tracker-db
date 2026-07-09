@@ -66,7 +66,7 @@
         "Deino": 23,
         "Dolliv": 6,
         "Feebas": 16,
-        "Prof tangrowth": 24,
+        "Prof tangrowth": 25,
         "Vulpix": 21,
         "Gastly": 46,
         "Aron": 31,
@@ -403,7 +403,7 @@
         "Litleo": 8,
         "Silcoon": 10,
         "Snivy": 6,
-        "Zorua": 8,
+        "Zorua": 9,
         "Minior": 1,
         "Darmanitan": 3,
         "Lopunny": 2,
@@ -538,7 +538,7 @@
         "Vibrava": 9,
         "Shuckle": 2,
         "White flower floette": 3,
-        "Octillery": 3,
+        "Octillery": 4,
         "Pawniard": 9,
         "Brionne": 6,
         "Zarude": 2,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 7,
         "Xerneas": 4,
-        "Nincada": 9,
+        "Nincada": 10,
         "Audino": 2,
         "Mime jr.": 3,
         "Yungoos": 7,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7055,
-      "last_spawn": "2026-07-09T17:31:08.195444"
+      "total_spawns": 7059,
+      "last_spawn": "2026-07-09T17:31:48.389956"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72588,
+    "total_spawns": 72592,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
