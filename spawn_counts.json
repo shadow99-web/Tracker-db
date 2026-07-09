@@ -37,7 +37,7 @@
         "Duskull": 56,
         "Abra": 30,
         "Wiglett": 16,
-        "Starly": 57,
+        "Starly": 59,
         "Caterpie": 21,
         "Mareep": 26,
         "Capsakid": 25,
@@ -213,7 +213,7 @@
         "Drifloon": 5,
         "Mightyena": 6,
         "Sandaconda": 1,
-        "Froakie": 14,
+        "Froakie": 16,
         "Kingdra": 3,
         "Chikorita": 12,
         "Donphan": 5,
@@ -826,7 +826,7 @@
         "Gogoat": 2,
         "Beedrill": 1,
         "Sandslash": 1,
-        "Pupitar": 4,
+        "Pupitar": 5,
         "Zeraora": 2,
         "Cobalion": 2,
         "Greedent": 4,
@@ -904,8 +904,8 @@
         "Exploud": 1,
         "Staraptor": 1
       },
-      "total_spawns": 6892,
-      "last_spawn": "2026-07-09T17:12:53.920123"
+      "total_spawns": 6897,
+      "last_spawn": "2026-07-09T17:13:31.589708"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1618,7 +1618,7 @@
     }
   },
   "global": {
-    "total_spawns": 72425,
+    "total_spawns": 72430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
