@@ -137,7 +137,7 @@
         "Venonat": 10,
         "Eelektrik": 4,
         "Diglett": 7,
-        "Surskit": 6,
+        "Surskit": 7,
         "Seedot": 19,
         "Jigglypuff": 10,
         "Spearow": 7,
@@ -201,7 +201,7 @@
         "Rhyhorn": 26,
         "Aipom": 4,
         "Grookey": 15,
-        "Inkay": 4,
+        "Inkay": 5,
         "Unfezant": 4,
         "Fraxure": 11,
         "Zubat": 22,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 14,
         "Kingdra": 3,
-        "Chikorita": 11,
+        "Chikorita": 12,
         "Donphan": 5,
         "Shuppet": 13,
         "Graveler": 4,
@@ -434,7 +434,7 @@
         "Ludicolo": 4,
         "Scraggy": 6,
         "Stoutland": 1,
-        "Elgyem": 2,
+        "Elgyem": 3,
         "Dragonair": 4,
         "Spheal": 21,
         "Amaura": 9,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6798,
-      "last_spawn": "2026-07-09T17:00:03.761680"
+      "total_spawns": 6802,
+      "last_spawn": "2026-07-09T17:00:43.515953"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72331,
+    "total_spawns": 72335,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
