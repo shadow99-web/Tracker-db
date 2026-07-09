@@ -23,7 +23,7 @@
         "Anorith": 9,
         "Arctibax": 4,
         "Ralts": 44,
-        "Peakychu": 33,
+        "Peakychu": 34,
         "Cutiefly": 8,
         "Simipour": 3,
         "Tynamo": 23,
@@ -114,7 +114,7 @@
         "Shroodle": 26,
         "Ride cyclizar": 10,
         "Swinub": 27,
-        "Rattata": 14,
+        "Rattata": 15,
         "Stonjourner": 1,
         "Veluza": 40,
         "Panpour": 8,
@@ -291,7 +291,7 @@
         "Noibat": 7,
         "Gothorita": 5,
         "Ekans": 5,
-        "Brambleghast": 4,
+        "Brambleghast": 5,
         "Dartrix": 9,
         "Ceruledge": 7,
         "Vanillish": 8,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 3,
-        "Gothita": 21,
+        "Gothita": 22,
         "Solosis": 27,
         "Sandygast": 7,
         "Pidove": 17,
@@ -477,7 +477,7 @@
         "Alolan raichu": 2,
         "Hitmontop": 2,
         "Pignite": 5,
-        "Bunnelby": 5,
+        "Bunnelby": 6,
         "Complete zygarde": 3,
         "Mudbray": 12,
         "Spectrier": 1,
@@ -902,10 +902,11 @@
         "Chesnaught": 2,
         "Whiscash": 2,
         "Exploud": 1,
-        "Staraptor": 1
+        "Staraptor": 1,
+        "Galarian ponyta": 2
       },
-      "total_spawns": 6905,
-      "last_spawn": "2026-07-09T17:14:03.708169"
+      "total_spawns": 6912,
+      "last_spawn": "2026-07-09T17:14:33.798777"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1618,7 +1619,7 @@
     }
   },
   "global": {
-    "total_spawns": 72438,
+    "total_spawns": 72445,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
