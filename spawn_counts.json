@@ -37,8 +37,8 @@
         "Duskull": 54,
         "Abra": 30,
         "Wiglett": 16,
-        "Starly": 55,
-        "Caterpie": 20,
+        "Starly": 57,
+        "Caterpie": 21,
         "Mareep": 25,
         "Capsakid": 24,
         "Numel": 9,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 5,
         "Doduo": 6,
-        "Flittle": 26,
+        "Flittle": 27,
         "Armarouge": 6,
         "Clauncher": 5,
         "Tentacool": 5,
@@ -729,7 +729,7 @@
         "Tsareena": 3,
         "Chansey": 2,
         "Camerupt": 2,
-        "Litten": 3,
+        "Litten": 4,
         "Gossifleur": 5,
         "Electivire": 2,
         "Farigiraf": 2,
@@ -903,8 +903,8 @@
         "Whiscash": 1,
         "Exploud": 1
       },
-      "total_spawns": 6849,
-      "last_spawn": "2026-07-09T17:06:53.590627"
+      "total_spawns": 6854,
+      "last_spawn": "2026-07-09T17:07:33.981551"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1617,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72382,
+    "total_spawns": 72387,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
