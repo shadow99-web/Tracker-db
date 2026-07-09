@@ -699,7 +699,7 @@
         "Finneon": 4,
         "Pidgeotto": 3,
         "Hakamo-o": 3,
-        "Spidops": 4,
+        "Spidops": 5,
         "Glimmora": 7,
         "Parasect": 2,
         "Fuecoco": 7,
@@ -792,7 +792,7 @@
         "Boltund": 1,
         "Weezing": 1,
         "Blue flower florges": 1,
-        "Dudunsparce": 4,
+        "Dudunsparce": 5,
         "Kingler": 2,
         "Aurorus": 2,
         "Cacnea": 2,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6758,
-      "last_spawn": "2026-07-09T16:08:43.018208"
+      "total_spawns": 6760,
+      "last_spawn": "2026-07-09T16:09:23.056679"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72291,
+    "total_spawns": 72293,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
