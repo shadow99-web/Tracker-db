@@ -37,7 +37,7 @@
         "Duskull": 58,
         "Abra": 30,
         "Wiglett": 18,
-        "Starly": 59,
+        "Starly": 60,
         "Caterpie": 21,
         "Mareep": 26,
         "Capsakid": 25,
@@ -239,7 +239,7 @@
         "Whismur": 27,
         "Jangmo-o": 10,
         "Lunatone": 1,
-        "Machoke": 10,
+        "Machoke": 11,
         "Luvdisc": 1,
         "Fennekin": 15,
         "Milcery": 17,
@@ -267,7 +267,7 @@
         "Chewtle": 8,
         "Onix": 9,
         "Dracovish": 3,
-        "Slowpoke": 5,
+        "Slowpoke": 6,
         "Drizzile": 8,
         "Tinkatink": 24,
         "Frillish": 1,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7017,
-      "last_spawn": "2026-07-09T17:26:23.852057"
+      "total_spawns": 7020,
+      "last_spawn": "2026-07-09T17:26:55.101644"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72550,
+    "total_spawns": 72553,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
