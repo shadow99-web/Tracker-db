@@ -530,7 +530,7 @@
         "Volcanion": 1,
         "Drapion": 3,
         "Wartortle": 4,
-        "Midnight lycanroc": 3,
+        "Midnight lycanroc": 4,
         "Skiploom": 5,
         "Stakataka": 1,
         "Cascoon": 7,
@@ -694,7 +694,7 @@
         "Furret": 4,
         "Helioptile": 3,
         "Salamence": 4,
-        "Meditite": 3,
+        "Meditite": 4,
         "Sneasel": 6,
         "Finneon": 4,
         "Pidgeotto": 4,
@@ -908,8 +908,8 @@
         "Orange flower floette": 1,
         "Galarian meowth": 2
       },
-      "total_spawns": 7103,
-      "last_spawn": "2026-07-09T18:33:34.150627"
+      "total_spawns": 7105,
+      "last_spawn": "2026-07-09T18:39:55.875212"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1622,7 +1622,7 @@
     }
   },
   "global": {
-    "total_spawns": 72636,
+    "total_spawns": 72638,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
