@@ -44,7 +44,7 @@
         "Numel": 9,
         "Pawmo": 9,
         "Wattrel": 17,
-        "Tadbulb": 29,
+        "Tadbulb": 30,
         "Yanmega": 1,
         "Tympole": 22,
         "Grubbin": 27,
@@ -174,7 +174,7 @@
         "Rellor": 15,
         "Rolycoly": 29,
         "Poliwhirl": 8,
-        "Lokix": 12,
+        "Lokix": 13,
         "Flamigo": 13,
         "Bellsprout": 16,
         "Houndstone": 5,
@@ -556,7 +556,7 @@
         "Arrokuda": 6,
         "Toxapex": 2,
         "Pawmot": 2,
-        "Blitzle": 4,
+        "Blitzle": 5,
         "Iron crown": 2,
         "Barbaracle": 2,
         "Nidoqueen": 4,
@@ -580,7 +580,7 @@
         "Skorupi": 5,
         "Probopass": 3,
         "Family of three maushold": 1,
-        "Scyther": 10,
+        "Scyther": 12,
         "Polteageist": 2,
         "Lombre": 5,
         "Dachsbun": 6,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7026,
-      "last_spawn": "2026-07-09T17:27:33.676449"
+      "total_spawns": 7031,
+      "last_spawn": "2026-07-09T17:28:13.565378"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72559,
+    "total_spawns": 72564,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
