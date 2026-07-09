@@ -154,7 +154,7 @@
         "Roggenrola": 40,
         "Litwick": 26,
         "Wooper": 9,
-        "Pikipek": 45,
+        "Pikipek": 47,
         "Spritzee": 5,
         "Stantler": 11,
         "Impidimp": 47,
@@ -171,7 +171,7 @@
         "Lotad": 24,
         "Mienshao": 3,
         "Blipbug": 56,
-        "Rellor": 15,
+        "Rellor": 16,
         "Rolycoly": 32,
         "Poliwhirl": 8,
         "Lokix": 13,
@@ -323,7 +323,7 @@
         "Skitty": 13,
         "Finizen": 21,
         "Swablu": 6,
-        "Sunkern": 7,
+        "Sunkern": 8,
         "Snubbull": 4,
         "Crocalor": 2,
         "Magnemite": 23,
@@ -353,7 +353,7 @@
         "Klang": 4,
         "Tepig": 8,
         "Spinda": 1,
-        "Phantump": 5,
+        "Phantump": 7,
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 11,
@@ -583,7 +583,7 @@
         "Scyther": 12,
         "Polteageist": 2,
         "Lombre": 5,
-        "Dachsbun": 6,
+        "Dachsbun": 7,
         "Primeape": 4,
         "Goldeen": 9,
         "Gouging fire": 2,
@@ -699,7 +699,7 @@
         "Finneon": 4,
         "Pidgeotto": 4,
         "Hakamo-o": 3,
-        "Spidops": 6,
+        "Spidops": 7,
         "Glimmora": 7,
         "Parasect": 3,
         "Fuecoco": 7,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7150,
-      "last_spawn": "2026-07-09T18:45:43.800953"
+      "total_spawns": 7158,
+      "last_spawn": "2026-07-09T18:46:18.357612"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72683,
+    "total_spawns": 72691,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
