@@ -13,7 +13,7 @@
         "Oddish": 30,
         "Totodile": 15,
         "Vanillite": 62,
-        "Weedle": 37,
+        "Weedle": 39,
         "Kabutops": 2,
         "Poliwag": 27,
         "Fidough": 30,
@@ -121,7 +121,7 @@
         "Crabrawler": 6,
         "Frogadier": 4,
         "Scovillain": 5,
-        "White plumage squawkabilly": 14,
+        "White plumage squawkabilly": 15,
         "Flaaffy": 4,
         "Rookidee": 51,
         "Flapple": 6,
@@ -181,7 +181,7 @@
         "Beldum": 27,
         "Kadabra": 12,
         "Grovyle": 19,
-        "Dratini": 27,
+        "Dratini": 29,
         "Steelix": 2,
         "Sprigatito": 13,
         "Charcadet": 57,
@@ -219,7 +219,7 @@
         "Donphan": 5,
         "Shuppet": 13,
         "Graveler": 4,
-        "Duosion": 6,
+        "Duosion": 7,
         "Orthworm": 28,
         "Yamask": 5,
         "Nymble": 27,
@@ -903,8 +903,8 @@
         "Whiscash": 1,
         "Exploud": 1
       },
-      "total_spawns": 6830,
-      "last_spawn": "2026-07-09T17:04:34.258931"
+      "total_spawns": 6836,
+      "last_spawn": "2026-07-09T17:05:13.591541"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1617,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72363,
+    "total_spawns": 72369,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
