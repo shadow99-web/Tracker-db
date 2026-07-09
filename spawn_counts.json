@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 55,
-        "Sandile": 39,
+        "Sandile": 41,
         "Charmeleon": 9,
         "Riolu": 18,
         "Gible": 46,
@@ -106,7 +106,7 @@
         "Armarouge": 7,
         "Clauncher": 5,
         "Tentacool": 5,
-        "Bayleef": 5,
+        "Bayleef": 6,
         "Magnezone": 2,
         "Eevee": 22,
         "Dreepy": 63,
@@ -154,7 +154,7 @@
         "Roggenrola": 40,
         "Litwick": 26,
         "Wooper": 9,
-        "Pikipek": 47,
+        "Pikipek": 49,
         "Spritzee": 5,
         "Stantler": 11,
         "Impidimp": 47,
@@ -739,7 +739,7 @@
         "Thievul": 3,
         "Galarian slowbro": 2,
         "Oricorio": 2,
-        "Hitmonlee": 2,
+        "Hitmonlee": 3,
         "Sudowoodo": 2,
         "Yveltal": 3,
         "Illumise": 1,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7168,
-      "last_spawn": "2026-07-09T18:47:29.053016"
+      "total_spawns": 7174,
+      "last_spawn": "2026-07-09T18:48:08.340727"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72701,
+    "total_spawns": 72707,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
