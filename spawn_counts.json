@@ -55,9 +55,9 @@
         "Maschiff": 22,
         "Smoliv": 23,
         "Tirtouga": 11,
-        "Hatenna": 48,
-        "Shroomish": 4,
-        "Lillipup": 30,
+        "Hatenna": 50,
+        "Shroomish": 5,
+        "Lillipup": 31,
         "Mosslax": 40,
         "Maushold": 4,
         "Cubchoo": 29,
@@ -585,7 +585,7 @@
         "Lombre": 5,
         "Dachsbun": 6,
         "Primeape": 4,
-        "Goldeen": 8,
+        "Goldeen": 9,
         "Gouging fire": 2,
         "Cottonee": 3,
         "Flareon": 6,
@@ -680,7 +680,7 @@
         "Jolteon": 10,
         "Okidogi": 2,
         "Wyrdeer": 2,
-        "Ferroseed": 2,
+        "Ferroseed": 3,
         "Musharna": 2,
         "Wingull": 5,
         "Magmar": 5,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6938,
-      "last_spawn": "2026-07-09T17:16:13.787375"
+      "total_spawns": 6944,
+      "last_spawn": "2026-07-09T17:16:48.204498"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72471,
+    "total_spawns": 72477,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
