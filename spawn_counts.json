@@ -92,7 +92,7 @@
         "Charmeleon": 9,
         "Riolu": 18,
         "Gible": 46,
-        "Greavard": 51,
+        "Greavard": 52,
         "Snover": 11,
         "Piplup": 9,
         "Dondozo": 18,
@@ -858,7 +858,7 @@
         "Delcatty": 2,
         "Whimsicott": 1,
         "Emolga": 6,
-        "Kabuto": 2,
+        "Kabuto": 4,
         "Clefable": 2,
         "Mr. mime": 2,
         "Munchlax": 4,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7220,
-      "last_spawn": "2026-07-09T20:06:02.999615"
+      "total_spawns": 7223,
+      "last_spawn": "2026-07-09T20:14:25.791724"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72753,
+    "total_spawns": 72756,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
