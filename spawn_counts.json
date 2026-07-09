@@ -34,7 +34,7 @@
         "Bounsweet": 44,
         "Fletchling": 36,
         "Whirlipede": 8,
-        "Duskull": 58,
+        "Duskull": 60,
         "Abra": 30,
         "Wiglett": 18,
         "Starly": 61,
@@ -232,7 +232,7 @@
         "Sizzlipede": 6,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 23,
+        "Timburr": 24,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 4,
@@ -334,7 +334,7 @@
         "Floragato": 5,
         "Larvesta": 21,
         "Magby": 1,
-        "Roaming gimmighoul": 16,
+        "Roaming gimmighoul": 17,
         "Volcarona": 5,
         "Togekiss": 5,
         "Furfrou": 4,
@@ -460,7 +460,7 @@
         "Pansear": 3,
         "Yanma": 9,
         "Galarian moltres": 2,
-        "Seismitoad": 7,
+        "Seismitoad": 8,
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
@@ -519,7 +519,7 @@
         "Foongus": 6,
         "Krookodile": 2,
         "Espathra": 7,
-        "Snom": 10,
+        "Snom": 11,
         "Nickit": 12,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7046,
-      "last_spawn": "2026-07-09T17:29:53.822427"
+      "total_spawns": 7052,
+      "last_spawn": "2026-07-09T17:30:38.174181"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72579,
+    "total_spawns": 72585,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
