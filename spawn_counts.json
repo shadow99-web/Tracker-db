@@ -29,20 +29,20 @@
         "Tynamo": 23,
         "Palossand": 3,
         "Pyukumuku": 1,
-        "Pidgey": 25,
+        "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 42,
+        "Bounsweet": 44,
         "Fletchling": 35,
         "Whirlipede": 8,
         "Duskull": 56,
         "Abra": 30,
-        "Wiglett": 16,
+        "Wiglett": 17,
         "Starly": 59,
         "Caterpie": 21,
         "Mareep": 26,
         "Capsakid": 25,
         "Numel": 9,
-        "Pawmo": 8,
+        "Pawmo": 9,
         "Wattrel": 17,
         "Tadbulb": 29,
         "Yanmega": 1,
@@ -191,7 +191,7 @@
         "Wimpod": 15,
         "Comfey": 9,
         "Diggersby": 2,
-        "Klawf": 39,
+        "Klawf": 41,
         "Dj rotom": 20,
         "Chef dente": 28,
         "Hisuian qwilfish": 1,
@@ -779,7 +779,7 @@
         "Ferrothorn": 1,
         "Piloswine": 3,
         "Granbull": 2,
-        "Happiny": 3,
+        "Happiny": 4,
         "Chandelure": 1,
         "Umbreon": 4,
         "Ninjask": 2,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6921,
-      "last_spawn": "2026-07-09T17:15:08.344118"
+      "total_spawns": 6929,
+      "last_spawn": "2026-07-09T17:15:38.367809"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72454,
+    "total_spawns": 72462,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
