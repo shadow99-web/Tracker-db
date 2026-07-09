@@ -92,7 +92,7 @@
         "Charmeleon": 7,
         "Riolu": 18,
         "Gible": 40,
-        "Greavard": 42,
+        "Greavard": 43,
         "Snover": 9,
         "Piplup": 8,
         "Dondozo": 18,
@@ -386,7 +386,7 @@
         "Clodsire": 4,
         "Charizard": 10,
         "Axew": 67,
-        "Joltik": 7,
+        "Joltik": 8,
         "Gulpin": 6,
         "Mareanie": 5,
         "Throh": 4,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6771,
-      "last_spawn": "2026-07-09T16:12:43.250427"
+      "total_spawns": 6773,
+      "last_spawn": "2026-07-09T16:13:22.972051"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72304,
+    "total_spawns": 72306,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
