@@ -93,7 +93,7 @@
         "Riolu": 18,
         "Gible": 44,
         "Greavard": 46,
-        "Snover": 10,
+        "Snover": 11,
         "Piplup": 8,
         "Dondozo": 18,
         "Cyclizar": 11,
@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 63,
         "Treecko": 12,
-        "Shroodle": 26,
+        "Shroodle": 27,
         "Ride cyclizar": 10,
         "Swinub": 27,
         "Rattata": 15,
@@ -213,7 +213,7 @@
         "Drifloon": 6,
         "Mightyena": 6,
         "Sandaconda": 1,
-        "Froakie": 16,
+        "Froakie": 18,
         "Kingdra": 3,
         "Chikorita": 12,
         "Donphan": 5,
@@ -275,7 +275,7 @@
         "Decidueye": 5,
         "Kricketot": 8,
         "Ledyba": 7,
-        "Chinchou": 6,
+        "Chinchou": 7,
         "Eiscue": 1,
         "Nacli": 21,
         "Pancham": 6,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6970,
-      "last_spawn": "2026-07-09T17:20:13.600159"
+      "total_spawns": 6975,
+      "last_spawn": "2026-07-09T17:20:43.869244"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72503,
+    "total_spawns": 72508,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
