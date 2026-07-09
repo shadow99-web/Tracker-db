@@ -89,7 +89,7 @@
         "Victini": 1,
         "Pawmi": 53,
         "Sandile": 39,
-        "Charmeleon": 7,
+        "Charmeleon": 9,
         "Riolu": 18,
         "Gible": 44,
         "Greavard": 46,
@@ -103,7 +103,7 @@
         "Corphish": 5,
         "Doduo": 6,
         "Flittle": 30,
-        "Armarouge": 6,
+        "Armarouge": 7,
         "Clauncher": 5,
         "Tentacool": 5,
         "Bayleef": 5,
@@ -259,7 +259,7 @@
         "Skeledirge": 3,
         "Taillow": 6,
         "Watchog": 3,
-        "Porygon": 23,
+        "Porygon": 24,
         "Wooloo": 6,
         "Mawile": 7,
         "Marill": 6,
@@ -690,7 +690,7 @@
         "Vanilluxe": 2,
         "Dwebble": 4,
         "Banette": 2,
-        "Pachirisu": 1,
+        "Pachirisu": 2,
         "Furret": 4,
         "Helioptile": 3,
         "Salamence": 4,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6995,
-      "last_spawn": "2026-07-09T17:23:32.148405"
+      "total_spawns": 7000,
+      "last_spawn": "2026-07-09T17:24:03.966752"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72528,
+    "total_spawns": 72533,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
