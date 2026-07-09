@@ -117,7 +117,7 @@
         "Rattata": 15,
         "Stonjourner": 1,
         "Veluza": 40,
-        "Panpour": 8,
+        "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
         "Scovillain": 5,
@@ -145,7 +145,7 @@
         "Wugtrio": 9,
         "Tranquill": 9,
         "Cetitan": 6,
-        "Turtwig": 14,
+        "Turtwig": 15,
         "Fomantis": 6,
         "Claydol": 1,
         "Trapinch": 17,
@@ -166,7 +166,7 @@
         "Cetoddle": 23,
         "Togepi": 27,
         "Tandemaus": 21,
-        "Clefairy": 6,
+        "Clefairy": 7,
         "Unown q": 1,
         "Lotad": 23,
         "Mienshao": 3,
@@ -732,7 +732,7 @@
         "Litten": 4,
         "Gossifleur": 5,
         "Electivire": 2,
-        "Farigiraf": 2,
+        "Farigiraf": 3,
         "Raichu": 2,
         "Meowstic": 2,
         "Zangoose": 2,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6975,
-      "last_spawn": "2026-07-09T17:20:43.869244"
+      "total_spawns": 6979,
+      "last_spawn": "2026-07-09T17:21:24.047499"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72508,
+    "total_spawns": 72512,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
