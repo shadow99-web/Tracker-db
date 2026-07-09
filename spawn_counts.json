@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 4,
         "Dragonair": 4,
-        "Spheal": 21,
+        "Spheal": 22,
         "Amaura": 9,
         "Wailord": 2,
         "Accelgor": 3,
@@ -460,7 +460,7 @@
         "Pansear": 3,
         "Yanma": 9,
         "Galarian moltres": 2,
-        "Seismitoad": 4,
+        "Seismitoad": 6,
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 3,
         "Farfetch'd": 2,
-        "Grafaiai": 10,
+        "Grafaiai": 12,
         "Fearow": 2,
         "Squawkabilly": 6,
         "Seadra": 4,
@@ -907,8 +907,8 @@
         "Scrafty": 1,
         "Orange flower floette": 1
       },
-      "total_spawns": 7036,
-      "last_spawn": "2026-07-09T17:28:43.690409"
+      "total_spawns": 7041,
+      "last_spawn": "2026-07-09T17:29:14.221943"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1621,7 +1621,7 @@
     }
   },
   "global": {
-    "total_spawns": 72569,
+    "total_spawns": 72574,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
