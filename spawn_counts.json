@@ -184,7 +184,7 @@
         "Dratini": 27,
         "Steelix": 2,
         "Sprigatito": 13,
-        "Charcadet": 56,
+        "Charcadet": 57,
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 19,
@@ -829,7 +829,7 @@
         "Pupitar": 4,
         "Zeraora": 2,
         "Cobalion": 2,
-        "Greedent": 2,
+        "Greedent": 3,
         "Galvantula": 1,
         "Drifblim": 1,
         "Togedemaru": 1,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6747,
-      "last_spawn": "2026-07-09T15:15:04.334559"
+      "total_spawns": 6749,
+      "last_spawn": "2026-07-09T15:17:22.483149"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72280,
+    "total_spawns": 72282,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
