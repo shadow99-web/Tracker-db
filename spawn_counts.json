@@ -34,7 +34,7 @@
         "Bounsweet": 44,
         "Fletchling": 36,
         "Whirlipede": 8,
-        "Duskull": 56,
+        "Duskull": 58,
         "Abra": 30,
         "Wiglett": 17,
         "Starly": 59,
@@ -52,7 +52,7 @@
         "Skwovet": 10,
         "Applin": 6,
         "Staryu": 3,
-        "Maschiff": 22,
+        "Maschiff": 23,
         "Smoliv": 23,
         "Tirtouga": 11,
         "Hatenna": 50,
@@ -429,7 +429,7 @@
         "Haunter": 7,
         "Dottler": 9,
         "Wailmer": 6,
-        "Frigibax": 55,
+        "Frigibax": 56,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 6,
@@ -515,7 +515,7 @@
         "Braviary": 8,
         "Low key toxtricity": 4,
         "Nidorina": 9,
-        "Bronzong": 2,
+        "Bronzong": 3,
         "Foongus": 6,
         "Krookodile": 2,
         "Espathra": 7,
@@ -576,7 +576,7 @@
         "Murkrow": 4,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 9,
+        "Boldore": 10,
         "Skorupi": 5,
         "Probopass": 3,
         "Family of three maushold": 1,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6979,
-      "last_spawn": "2026-07-09T17:21:24.047499"
+      "total_spawns": 6985,
+      "last_spawn": "2026-07-09T17:22:03.633053"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72512,
+    "total_spawns": 72518,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
