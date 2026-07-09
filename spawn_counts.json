@@ -549,7 +549,7 @@
         "Nincada": 9,
         "Audino": 2,
         "Mime jr.": 3,
-        "Yungoos": 6,
+        "Yungoos": 7,
         "Palpitoad": 7,
         "Smeargle": 4,
         "Appletun": 6,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 3,
         "Quilava": 3,
-        "Wurmple": 40,
+        "Wurmple": 42,
         "Sandshrew": 7,
         "Tauros": 4,
         "Golurk": 1,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6762,
-      "last_spawn": "2026-07-09T16:10:03.234179"
+      "total_spawns": 6765,
+      "last_spawn": "2026-07-09T16:10:43.524191"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72295,
+    "total_spawns": 72298,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
