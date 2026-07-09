@@ -39,7 +39,7 @@
         "Wiglett": 16,
         "Starly": 57,
         "Caterpie": 21,
-        "Mareep": 25,
+        "Mareep": 26,
         "Capsakid": 25,
         "Numel": 9,
         "Pawmo": 8,
@@ -464,7 +464,7 @@
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
-        "Shellder": 6,
+        "Shellder": 7,
         "Chi-yu": 1,
         "Landorus": 1,
         "Absol": 10,
@@ -876,7 +876,7 @@
         "Jirachi": 2,
         "Emboar": 2,
         "Cacturne": 2,
-        "Kricketune": 1,
+        "Kricketune": 2,
         "Gliscor": 2,
         "Hariyama": 4,
         "Hisuian zoroark": 2,
@@ -904,8 +904,8 @@
         "Exploud": 1,
         "Staraptor": 1
       },
-      "total_spawns": 6880,
-      "last_spawn": "2026-07-09T17:11:13.555191"
+      "total_spawns": 6883,
+      "last_spawn": "2026-07-09T17:11:43.622111"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1618,7 +1618,7 @@
     }
   },
   "global": {
-    "total_spawns": 72413,
+    "total_spawns": 72416,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
