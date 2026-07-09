@@ -92,7 +92,7 @@
         "Charmeleon": 7,
         "Riolu": 18,
         "Gible": 40,
-        "Greavard": 43,
+        "Greavard": 44,
         "Snover": 9,
         "Piplup": 8,
         "Dondozo": 18,
@@ -198,7 +198,7 @@
         "Bagon": 28,
         "Pikachu": 12,
         "Tarountula": 23,
-        "Rhyhorn": 24,
+        "Rhyhorn": 25,
         "Aipom": 4,
         "Grookey": 15,
         "Inkay": 4,
@@ -464,7 +464,7 @@
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
-        "Shellder": 5,
+        "Shellder": 6,
         "Chi-yu": 1,
         "Landorus": 1,
         "Absol": 10,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6773,
-      "last_spawn": "2026-07-09T16:13:22.972051"
+      "total_spawns": 6776,
+      "last_spawn": "2026-07-09T16:20:41.856686"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72306,
+    "total_spawns": 72309,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
