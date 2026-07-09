@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 5,
         "Slakoth": 23,
-        "Klink": 16,
+        "Klink": 17,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 4,
@@ -476,7 +476,7 @@
         "Poipole": 1,
         "Alolan raichu": 2,
         "Hitmontop": 2,
-        "Pignite": 5,
+        "Pignite": 7,
         "Bunnelby": 7,
         "Complete zygarde": 3,
         "Mudbray": 12,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 7,
         "Xerneas": 4,
-        "Nincada": 10,
+        "Nincada": 11,
         "Audino": 3,
         "Mime jr.": 3,
         "Yungoos": 7,
@@ -834,7 +834,7 @@
         "Drifblim": 1,
         "Togedemaru": 1,
         "Jellicent": 2,
-        "Monferno": 3,
+        "Monferno": 4,
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 4,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7188,
-      "last_spawn": "2026-07-09T18:50:28.477714"
+      "total_spawns": 7193,
+      "last_spawn": "2026-07-09T18:51:00.099629"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72721,
+    "total_spawns": 72726,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
