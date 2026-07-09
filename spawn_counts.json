@@ -92,7 +92,7 @@
         "Charmeleon": 7,
         "Riolu": 18,
         "Gible": 44,
-        "Greavard": 44,
+        "Greavard": 46,
         "Snover": 9,
         "Piplup": 8,
         "Dondozo": 18,
@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 45,
+        "Varoom": 46,
         "Ducklett": 5,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 3,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 3,
         "Bidoof": 3,
-        "Gothita": 22,
+        "Gothita": 23,
         "Solosis": 27,
         "Sandygast": 7,
         "Pidove": 17,
@@ -695,7 +695,7 @@
         "Helioptile": 3,
         "Salamence": 4,
         "Meditite": 2,
-        "Sneasel": 5,
+        "Sneasel": 6,
         "Finneon": 4,
         "Pidgeotto": 4,
         "Hakamo-o": 3,
@@ -906,8 +906,8 @@
         "Galarian ponyta": 2,
         "Scrafty": 1
       },
-      "total_spawns": 6961,
-      "last_spawn": "2026-07-09T17:19:03.698529"
+      "total_spawns": 6966,
+      "last_spawn": "2026-07-09T17:19:34.561767"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1620,7 +1620,7 @@
     }
   },
   "global": {
-    "total_spawns": 72494,
+    "total_spawns": 72499,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
