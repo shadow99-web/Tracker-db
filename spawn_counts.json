@@ -43,7 +43,7 @@
         "Capsakid": 26,
         "Numel": 9,
         "Pawmo": 9,
-        "Wattrel": 17,
+        "Wattrel": 18,
         "Tadbulb": 30,
         "Yanmega": 1,
         "Tympole": 22,
@@ -280,7 +280,7 @@
         "Nacli": 22,
         "Pancham": 6,
         "Bulbasaur": 29,
-        "Dewpider": 6,
+        "Dewpider": 7,
         "Yellow plumage squawkabilly": 7,
         "Hattrem": 7,
         "Trash wormadam": 4,
@@ -622,7 +622,7 @@
         "Spoink": 10,
         "Dhelmise": 1,
         "Armaldo": 5,
-        "Krokorok": 6,
+        "Krokorok": 7,
         "Torkoal": 5,
         "Clamperl": 2,
         "Rampardos": 2,
@@ -908,10 +908,11 @@
         "Orange flower floette": 1,
         "Galarian meowth": 2,
         "Stretchy tatsugiri": 2,
-        "Magmortar": 2
+        "Magmortar": 2,
+        "Swalot": 2
       },
-      "total_spawns": 7145,
-      "last_spawn": "2026-07-09T18:45:04.429649"
+      "total_spawns": 7150,
+      "last_spawn": "2026-07-09T18:45:43.800953"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1624,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72678,
+    "total_spawns": 72683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
