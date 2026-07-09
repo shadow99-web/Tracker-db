@@ -32,7 +32,7 @@
         "Pidgey": 25,
         "Binacle": 9,
         "Bounsweet": 42,
-        "Fletchling": 33,
+        "Fletchling": 34,
         "Whirlipede": 8,
         "Duskull": 54,
         "Abra": 30,
@@ -40,7 +40,7 @@
         "Starly": 57,
         "Caterpie": 21,
         "Mareep": 25,
-        "Capsakid": 24,
+        "Capsakid": 25,
         "Numel": 9,
         "Pawmo": 8,
         "Wattrel": 17,
@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 63,
         "Treecko": 12,
-        "Shroodle": 25,
+        "Shroodle": 26,
         "Ride cyclizar": 10,
         "Swinub": 27,
         "Rattata": 14,
@@ -371,7 +371,7 @@
         "Kingambit": 2,
         "Cresselia": 4,
         "Duraludon": 8,
-        "Nidorino": 7,
+        "Nidorino": 8,
         "Rayquaza": 15,
         "Horsea": 18,
         "Reshiram": 3,
@@ -903,8 +903,8 @@
         "Whiscash": 1,
         "Exploud": 1
       },
-      "total_spawns": 6859,
-      "last_spawn": "2026-07-09T17:08:13.794852"
+      "total_spawns": 6863,
+      "last_spawn": "2026-07-09T17:08:53.675219"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1617,7 +1617,7 @@
     }
   },
   "global": {
-    "total_spawns": 72392,
+    "total_spawns": 72396,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
