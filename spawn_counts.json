@@ -246,7 +246,7 @@
         "Trumbeak": 5,
         "Bonsly": 3,
         "Growlithe": 5,
-        "Rhydon": 6,
+        "Rhydon": 7,
         "Ambipom": 3,
         "Solrock": 1,
         "Tinkatuff": 7,
@@ -481,7 +481,7 @@
         "Complete zygarde": 3,
         "Mudbray": 12,
         "Spectrier": 1,
-        "Rufflet": 5,
+        "Rufflet": 6,
         "Lairon": 6,
         "Altaria": 2,
         "Attack deoxys": 2,
@@ -526,9 +526,9 @@
         "Copperajah": 6,
         "Golett": 5,
         "Politoed": 11,
-        "Droopy tatsugiri": 6,
+        "Droopy tatsugiri": 7,
         "Volcanion": 1,
-        "Drapion": 2,
+        "Drapion": 3,
         "Wartortle": 4,
         "Midnight lycanroc": 3,
         "Skiploom": 4,
@@ -902,8 +902,8 @@
         "Chesnaught": 2,
         "Whiscash": 1
       },
-      "total_spawns": 6783,
-      "last_spawn": "2026-07-09T16:57:13.765623"
+      "total_spawns": 6787,
+      "last_spawn": "2026-07-09T16:57:53.691327"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1616,7 +1616,7 @@
     }
   },
   "global": {
-    "total_spawns": 72316,
+    "total_spawns": 72320,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
