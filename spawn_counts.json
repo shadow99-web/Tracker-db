@@ -113,7 +113,7 @@
         "Treecko": 16,
         "Shroodle": 32,
         "Ride cyclizar": 10,
-        "Swinub": 30,
+        "Swinub": 31,
         "Rattata": 17,
         "Stonjourner": 1,
         "Veluza": 54,
@@ -151,7 +151,7 @@
         "Trapinch": 21,
         "Butterfree": 5,
         "Teddiursa": 58,
-        "Roggenrola": 45,
+        "Roggenrola": 46,
         "Litwick": 28,
         "Wooper": 9,
         "Pikipek": 57,
@@ -302,7 +302,7 @@
         "Luxio": 4,
         "Quaxwell": 2,
         "Swanna": 3,
-        "Torracat": 6,
+        "Torracat": 7,
         "Geodude": 25,
         "Tentacruel": 1,
         "Archen": 19,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 26,
+        "Gothita": 27,
         "Solosis": 32,
         "Sandygast": 7,
         "Pidove": 19,
@@ -927,10 +927,11 @@
         "Clawitzer": 1,
         "Giratina": 2,
         "Heliolisk": 1,
-        "Skarmory": 2
+        "Skarmory": 2,
+        "Beartic": 1
       },
-      "total_spawns": 7867,
-      "last_spawn": "2026-07-10T17:26:05.848648"
+      "total_spawns": 7872,
+      "last_spawn": "2026-07-10T17:26:43.793573"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1643,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73400,
+    "total_spawns": 73405,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
