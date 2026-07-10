@@ -40,13 +40,13 @@
         "Starly": 61,
         "Caterpie": 22,
         "Mareep": 26,
-        "Capsakid": 26,
+        "Capsakid": 27,
         "Numel": 9,
         "Pawmo": 9,
         "Wattrel": 18,
         "Tadbulb": 32,
         "Yanmega": 1,
-        "Tympole": 22,
+        "Tympole": 23,
         "Grubbin": 27,
         "Scatterbug": 20,
         "Skwovet": 10,
@@ -116,7 +116,7 @@
         "Swinub": 27,
         "Rattata": 16,
         "Stonjourner": 1,
-        "Veluza": 45,
+        "Veluza": 46,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -195,7 +195,7 @@
         "Dj rotom": 21,
         "Chef dente": 28,
         "Hisuian qwilfish": 1,
-        "Bagon": 28,
+        "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 25,
         "Rhyhorn": 29,
@@ -326,7 +326,7 @@
         "Sunkern": 8,
         "Snubbull": 4,
         "Crocalor": 2,
-        "Magnemite": 23,
+        "Magnemite": 24,
         "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 18,
+        "Smearguru": 19,
         "Magneton": 5,
         "Battle cyclizar": 5,
         "Minccino": 4,
@@ -467,7 +467,7 @@
         "Shellder": 7,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 10,
+        "Absol": 12,
         "Calyrex": 1,
         "Kakuna": 5,
         "Shedinja": 4,
@@ -916,8 +916,8 @@
         "Avalugg": 1,
         "Carnivine": 1
       },
-      "total_spawns": 7361,
-      "last_spawn": "2026-07-10T05:23:53.486188"
+      "total_spawns": 7370,
+      "last_spawn": "2026-07-10T05:24:23.934509"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72894,
+    "total_spawns": 72903,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
