@@ -71,7 +71,7 @@
         "Gastly": 60,
         "Aron": 36,
         "Honedge": 56,
-        "Houndour": 6,
+        "Houndour": 7,
         "Machop": 29,
         "Terapagos": 1,
         "Mankey": 11,
@@ -123,7 +123,7 @@
         "Scovillain": 9,
         "White plumage squawkabilly": 15,
         "Flaaffy": 4,
-        "Rookidee": 63,
+        "Rookidee": 65,
         "Flapple": 10,
         "Bronzor": 6,
         "Swirlix": 8,
@@ -752,7 +752,7 @@
         "Metapod": 8,
         "Lampent": 5,
         "Roselia": 4,
-        "Pineco": 5,
+        "Pineco": 6,
         "Maractus": 4,
         "Togetic": 4,
         "Bewear": 4,
@@ -801,7 +801,7 @@
         "Toedscruel": 8,
         "Alolan muk": 2,
         "Xatu": 2,
-        "Masquerain": 2,
+        "Masquerain": 4,
         "Salazzle": 2,
         "Heracross": 2,
         "Carkol": 3,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8935,
-      "last_spawn": "2026-07-10T19:47:08.512073"
+      "total_spawns": 8941,
+      "last_spawn": "2026-07-10T19:47:48.467214"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74468,
+    "total_spawns": 74474,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
