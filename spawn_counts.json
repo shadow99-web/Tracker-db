@@ -12,7 +12,7 @@
         "Braixen": 10,
         "Oddish": 37,
         "Totodile": 16,
-        "Vanillite": 74,
+        "Vanillite": 75,
         "Weedle": 49,
         "Kabutops": 2,
         "Poliwag": 29,
@@ -116,7 +116,7 @@
         "Swinub": 31,
         "Rattata": 19,
         "Stonjourner": 1,
-        "Veluza": 54,
+        "Veluza": 56,
         "Panpour": 10,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -178,7 +178,7 @@
         "Flamigo": 18,
         "Bellsprout": 19,
         "Houndstone": 5,
-        "Beldum": 33,
+        "Beldum": 35,
         "Kadabra": 12,
         "Grovyle": 19,
         "Dratini": 37,
@@ -659,7 +659,7 @@
         "Munna": 3,
         "Mabosstiff": 6,
         "Omastar": 3,
-        "Gabite": 10,
+        "Gabite": 12,
         "Tapu fini": 4,
         "Gyarados": 3,
         "Lapras": 6,
@@ -935,8 +935,8 @@
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2
       },
-      "total_spawns": 8326,
-      "last_spawn": "2026-07-10T18:13:28.438988"
+      "total_spawns": 8333,
+      "last_spawn": "2026-07-10T18:14:03.543039"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73859,
+    "total_spawns": 73866,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
