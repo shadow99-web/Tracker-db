@@ -13,7 +13,7 @@
         "Oddish": 36,
         "Totodile": 16,
         "Vanillite": 70,
-        "Weedle": 45,
+        "Weedle": 46,
         "Kabutops": 2,
         "Poliwag": 29,
         "Fidough": 35,
@@ -46,7 +46,7 @@
         "Wattrel": 21,
         "Tadbulb": 35,
         "Yanmega": 2,
-        "Tympole": 25,
+        "Tympole": 26,
         "Grubbin": 27,
         "Scatterbug": 23,
         "Skwovet": 11,
@@ -117,7 +117,7 @@
         "Rattata": 18,
         "Stonjourner": 1,
         "Veluza": 54,
-        "Panpour": 9,
+        "Panpour": 10,
         "Crabrawler": 6,
         "Frogadier": 4,
         "Scovillain": 8,
@@ -519,7 +519,7 @@
         "Foongus": 8,
         "Krookodile": 2,
         "Espathra": 8,
-        "Snom": 11,
+        "Snom": 12,
         "Nickit": 12,
         "Aromatisse": 1,
         "Cosmoem": 1,
@@ -779,7 +779,7 @@
         "Ferrothorn": 1,
         "Piloswine": 4,
         "Granbull": 2,
-        "Happiny": 4,
+        "Happiny": 5,
         "Chandelure": 1,
         "Umbreon": 4,
         "Ninjask": 2,
@@ -878,7 +878,7 @@
         "Cacturne": 2,
         "Kricketune": 2,
         "Gliscor": 3,
-        "Hariyama": 4,
+        "Hariyama": 5,
         "Hisuian zoroark": 2,
         "Huntail": 2,
         "Vivillon": 1,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7897,
-      "last_spawn": "2026-07-10T17:29:03.706415"
+      "total_spawns": 7903,
+      "last_spawn": "2026-07-10T17:29:43.596660"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73430,
+    "total_spawns": 73436,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
