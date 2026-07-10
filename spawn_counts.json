@@ -40,13 +40,13 @@
         "Starly": 63,
         "Caterpie": 28,
         "Mareep": 30,
-        "Capsakid": 32,
+        "Capsakid": 33,
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 24,
         "Tadbulb": 38,
         "Yanmega": 2,
-        "Tympole": 27,
+        "Tympole": 28,
         "Grubbin": 27,
         "Scatterbug": 30,
         "Skwovet": 12,
@@ -123,7 +123,7 @@
         "Scovillain": 9,
         "White plumage squawkabilly": 15,
         "Flaaffy": 4,
-        "Rookidee": 59,
+        "Rookidee": 60,
         "Flapple": 8,
         "Bronzor": 5,
         "Swirlix": 7,
@@ -260,7 +260,7 @@
         "Taillow": 7,
         "Watchog": 3,
         "Porygon": 29,
-        "Wooloo": 8,
+        "Wooloo": 9,
         "Mawile": 7,
         "Marill": 7,
         "Lickitung": 7,
@@ -936,8 +936,8 @@
         "Summer sawsbuck": 2,
         "White-striped basculin": 1
       },
-      "total_spawns": 8369,
-      "last_spawn": "2026-07-10T18:19:03.798143"
+      "total_spawns": 8373,
+      "last_spawn": "2026-07-10T18:19:43.861537"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1650,7 +1650,7 @@
     }
   },
   "global": {
-    "total_spawns": 73902,
+    "total_spawns": 73906,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
