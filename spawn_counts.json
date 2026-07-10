@@ -29,7 +29,7 @@
         "Tynamo": 27,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 27,
+        "Pidgey": 28,
         "Binacle": 11,
         "Bounsweet": 60,
         "Fletchling": 42,
@@ -114,7 +114,7 @@
         "Shroodle": 33,
         "Ride cyclizar": 10,
         "Swinub": 31,
-        "Rattata": 19,
+        "Rattata": 20,
         "Stonjourner": 1,
         "Veluza": 56,
         "Panpour": 10,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 30,
-        "Jangmo-o": 14,
+        "Jangmo-o": 15,
         "Lunatone": 1,
         "Machoke": 11,
         "Luvdisc": 1,
@@ -625,7 +625,7 @@
         "Krokorok": 9,
         "Torkoal": 7,
         "Clamperl": 2,
-        "Rampardos": 2,
+        "Rampardos": 3,
         "Weepinbell": 7,
         "Cufant": 5,
         "Mienfoo": 6,
@@ -935,8 +935,8 @@
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2
       },
-      "total_spawns": 8348,
-      "last_spawn": "2026-07-10T18:15:53.881830"
+      "total_spawns": 8352,
+      "last_spawn": "2026-07-10T18:16:33.712193"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73881,
+    "total_spawns": 73885,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
