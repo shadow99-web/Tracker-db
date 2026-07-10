@@ -54,7 +54,7 @@
         "Staryu": 3,
         "Maschiff": 25,
         "Smoliv": 28,
-        "Tirtouga": 12,
+        "Tirtouga": 13,
         "Hatenna": 54,
         "Shroomish": 5,
         "Lillipup": 33,
@@ -277,7 +277,7 @@
         "Ledyba": 8,
         "Chinchou": 8,
         "Eiscue": 1,
-        "Nacli": 23,
+        "Nacli": 24,
         "Pancham": 6,
         "Bulbasaur": 29,
         "Dewpider": 8,
@@ -295,7 +295,7 @@
         "Dartrix": 9,
         "Ceruledge": 8,
         "Vanillish": 8,
-        "Gimmighoul": 25,
+        "Gimmighoul": 26,
         "Glimmet": 18,
         "Popplio": 9,
         "Arboliva": 2,
@@ -516,7 +516,7 @@
         "Low key toxtricity": 6,
         "Nidorina": 10,
         "Bronzong": 3,
-        "Foongus": 6,
+        "Foongus": 7,
         "Krookodile": 2,
         "Espathra": 8,
         "Snom": 11,
@@ -921,8 +921,8 @@
         "Dandy trim furfrou": 2,
         "Vaporeon": 2
       },
-      "total_spawns": 7606,
-      "last_spawn": "2026-07-10T08:34:18.482692"
+      "total_spawns": 7610,
+      "last_spawn": "2026-07-10T08:34:58.296675"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1635,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 73139,
+    "total_spawns": 73143,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
