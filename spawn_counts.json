@@ -90,8 +90,8 @@
         "Pawmi": 55,
         "Sandile": 41,
         "Charmeleon": 9,
-        "Riolu": 18,
-        "Gible": 47,
+        "Riolu": 20,
+        "Gible": 48,
         "Greavard": 54,
         "Snover": 15,
         "Piplup": 9,
@@ -116,7 +116,7 @@
         "Swinub": 27,
         "Rattata": 16,
         "Stonjourner": 1,
-        "Veluza": 44,
+        "Veluza": 45,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -128,7 +128,7 @@
         "Bronzor": 4,
         "Swirlix": 7,
         "Varoom": 50,
-        "Ducklett": 5,
+        "Ducklett": 6,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 3,
         "Torchic": 14,
@@ -181,7 +181,7 @@
         "Beldum": 27,
         "Kadabra": 12,
         "Grovyle": 19,
-        "Dratini": 29,
+        "Dratini": 31,
         "Steelix": 2,
         "Sprigatito": 15,
         "Charcadet": 57,
@@ -442,7 +442,7 @@
         "Accelgor": 3,
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
-        "Ponyta": 5,
+        "Ponyta": 6,
         "Smearguru": 18,
         "Magneton": 5,
         "Battle cyclizar": 5,
@@ -913,10 +913,11 @@
         "Arctozolt": 1,
         "Floette": 1,
         "Zoroark": 2,
-        "Avalugg": 1
+        "Avalugg": 1,
+        "Carnivine": 1
       },
-      "total_spawns": 7352,
-      "last_spawn": "2026-07-10T05:23:18.314591"
+      "total_spawns": 7361,
+      "last_spawn": "2026-07-10T05:23:53.486188"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1629,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72885,
+    "total_spawns": 72894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
