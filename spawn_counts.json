@@ -110,7 +110,7 @@
         "Magnezone": 3,
         "Eevee": 28,
         "Dreepy": 71,
-        "Treecko": 20,
+        "Treecko": 22,
         "Shroodle": 36,
         "Ride cyclizar": 11,
         "Swinub": 33,
@@ -509,7 +509,7 @@
         "Hippopotas": 7,
         "Reuniclus": 2,
         "Melmetal": 1,
-        "Liepard": 3,
+        "Liepard": 4,
         "Necrozma": 4,
         "Dewott": 8,
         "Braviary": 8,
@@ -573,7 +573,7 @@
         "Baltoy": 6,
         "Karrablast": 11,
         "Volbeat": 3,
-        "Murkrow": 5,
+        "Murkrow": 6,
         "Venusaur": 2,
         "Quaquaval": 1,
         "Boldore": 12,
@@ -955,8 +955,8 @@
         "Turtonator": 1,
         "Cofagrigus": 1
       },
-      "total_spawns": 9200,
-      "last_spawn": "2026-07-10T22:44:58.402475"
+      "total_spawns": 9204,
+      "last_spawn": "2026-07-10T22:45:28.423263"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1669,7 +1669,7 @@
     }
   },
   "global": {
-    "total_spawns": 74733,
+    "total_spawns": 74737,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
