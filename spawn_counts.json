@@ -35,7 +35,7 @@
         "Fletchling": 39,
         "Whirlipede": 9,
         "Duskull": 60,
-        "Abra": 30,
+        "Abra": 31,
         "Wiglett": 21,
         "Starly": 61,
         "Caterpie": 24,
@@ -152,7 +152,7 @@
         "Butterfree": 5,
         "Teddiursa": 56,
         "Roggenrola": 44,
-        "Litwick": 26,
+        "Litwick": 27,
         "Wooper": 9,
         "Pikipek": 57,
         "Spritzee": 6,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 5,
         "Slakoth": 25,
-        "Klink": 17,
+        "Klink": 18,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 4,
@@ -580,7 +580,7 @@
         "Skorupi": 5,
         "Probopass": 3,
         "Family of three maushold": 1,
-        "Scyther": 14,
+        "Scyther": 16,
         "Polteageist": 2,
         "Lombre": 5,
         "Dachsbun": 7,
@@ -920,8 +920,8 @@
         "Crobat": 2,
         "Dandy trim furfrou": 2
       },
-      "total_spawns": 7552,
-      "last_spawn": "2026-07-10T08:27:08.258469"
+      "total_spawns": 7557,
+      "last_spawn": "2026-07-10T08:27:48.256295"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1634,7 +1634,7 @@
     }
   },
   "global": {
-    "total_spawns": 73085,
+    "total_spawns": 73090,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
