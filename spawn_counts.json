@@ -14,7 +14,7 @@
         "Totodile": 16,
         "Vanillite": 76,
         "Weedle": 51,
-        "Kabutops": 3,
+        "Kabutops": 4,
         "Poliwag": 31,
         "Fidough": 40,
         "Charjabug": 3,
@@ -175,7 +175,7 @@
         "Rolycoly": 43,
         "Poliwhirl": 9,
         "Lokix": 13,
-        "Flamigo": 20,
+        "Flamigo": 21,
         "Bellsprout": 19,
         "Houndstone": 6,
         "Beldum": 41,
@@ -692,7 +692,7 @@
         "Banette": 2,
         "Pachirisu": 2,
         "Furret": 4,
-        "Helioptile": 5,
+        "Helioptile": 6,
         "Salamence": 4,
         "Meditite": 4,
         "Sneasel": 7,
@@ -953,8 +953,8 @@
         "Aerodactyl": 1,
         "Gothitelle": 2
       },
-      "total_spawns": 9143,
-      "last_spawn": "2026-07-10T20:17:58.347533"
+      "total_spawns": 9146,
+      "last_spawn": "2026-07-10T20:18:32.092061"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1667,7 +1667,7 @@
     }
   },
   "global": {
-    "total_spawns": 74676,
+    "total_spawns": 74679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
