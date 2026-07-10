@@ -147,7 +147,7 @@
         "Cetitan": 6,
         "Turtwig": 16,
         "Fomantis": 8,
-        "Claydol": 1,
+        "Claydol": 2,
         "Trapinch": 20,
         "Butterfree": 5,
         "Teddiursa": 58,
@@ -156,7 +156,7 @@
         "Wooper": 9,
         "Pikipek": 57,
         "Spritzee": 6,
-        "Stantler": 13,
+        "Stantler": 14,
         "Impidimp": 47,
         "Swadloon": 9,
         "Sunny castform": 4,
@@ -606,7 +606,7 @@
         "Golbat": 9,
         "Amoonguss": 4,
         "Herdier": 5,
-        "Blissey": 6,
+        "Blissey": 8,
         "Cinccino": 7,
         "Alolan vulpix": 2,
         "Glameow": 3,
@@ -922,8 +922,8 @@
         "Vaporeon": 2,
         "Hypno": 1
       },
-      "total_spawns": 7713,
-      "last_spawn": "2026-07-10T09:39:58.282265"
+      "total_spawns": 7717,
+      "last_spawn": "2026-07-10T09:40:29.333390"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1636,7 +1636,7 @@
     }
   },
   "global": {
-    "total_spawns": 73246,
+    "total_spawns": 73250,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
