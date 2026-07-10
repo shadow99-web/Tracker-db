@@ -85,7 +85,7 @@
         "Marshtomp": 17,
         "Squirtle": 14,
         "Shinx": 80,
-        "Drakloak": 15,
+        "Drakloak": 17,
         "Victini": 1,
         "Pawmi": 73,
         "Sandile": 63,
@@ -121,7 +121,7 @@
         "Crabrawler": 6,
         "Frogadier": 5,
         "Scovillain": 9,
-        "White plumage squawkabilly": 15,
+        "White plumage squawkabilly": 16,
         "Flaaffy": 4,
         "Rookidee": 65,
         "Flapple": 10,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 5,
         "Charizard": 10,
-        "Axew": 90,
+        "Axew": 91,
         "Joltik": 9,
         "Gulpin": 7,
         "Mareanie": 7,
@@ -665,7 +665,7 @@
         "Lapras": 6,
         "Grimmsnarl": 2,
         "Sylveon": 10,
-        "Inteleon": 4,
+        "Inteleon": 6,
         "Milotic": 1,
         "Slaking": 3,
         "Obstagoon": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8990,
-      "last_spawn": "2026-07-10T19:54:08.254564"
+      "total_spawns": 8996,
+      "last_spawn": "2026-07-10T19:54:38.374316"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74523,
+    "total_spawns": 74529,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
