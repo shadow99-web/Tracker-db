@@ -70,7 +70,7 @@
         "Vulpix": 21,
         "Gastly": 54,
         "Aron": 32,
-        "Honedge": 49,
+        "Honedge": 50,
         "Houndour": 3,
         "Machop": 25,
         "Terapagos": 1,
@@ -198,7 +198,7 @@
         "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 27,
-        "Rhyhorn": 33,
+        "Rhyhorn": 34,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 5,
@@ -922,8 +922,8 @@
         "Vaporeon": 2,
         "Hypno": 1
       },
-      "total_spawns": 7743,
-      "last_spawn": "2026-07-10T10:02:01.613066"
+      "total_spawns": 7745,
+      "last_spawn": "2026-07-10T10:09:08.885213"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1636,7 +1636,7 @@
     }
   },
   "global": {
-    "total_spawns": 73276,
+    "total_spawns": 73278,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
