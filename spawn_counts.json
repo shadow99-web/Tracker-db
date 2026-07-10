@@ -47,7 +47,7 @@
         "Tadbulb": 39,
         "Yanmega": 3,
         "Tympole": 28,
-        "Grubbin": 28,
+        "Grubbin": 29,
         "Scatterbug": 33,
         "Skwovet": 14,
         "Applin": 7,
@@ -62,7 +62,7 @@
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
-        "Kirlia": 17,
+        "Kirlia": 19,
         "Deino": 26,
         "Dolliv": 6,
         "Feebas": 16,
@@ -346,7 +346,7 @@
         "Pidove": 22,
         "Chespin": 11,
         "Combee": 5,
-        "Cyndaquil": 8,
+        "Cyndaquil": 9,
         "Grotle": 5,
         "Tinkaton": 2,
         "Bergmite": 7,
@@ -946,8 +946,8 @@
         "Baxcalibur": 1,
         "Pom-pom oricorio": 1
       },
-      "total_spawns": 8707,
-      "last_spawn": "2026-07-10T19:15:58.246360"
+      "total_spawns": 8711,
+      "last_spawn": "2026-07-10T19:16:28.322764"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1660,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 74240,
+    "total_spawns": 74244,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
