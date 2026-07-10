@@ -44,7 +44,7 @@
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 21,
-        "Tadbulb": 35,
+        "Tadbulb": 36,
         "Yanmega": 2,
         "Tympole": 26,
         "Grubbin": 27,
@@ -181,7 +181,7 @@
         "Beldum": 29,
         "Kadabra": 12,
         "Grovyle": 19,
-        "Dratini": 33,
+        "Dratini": 35,
         "Steelix": 3,
         "Sprigatito": 21,
         "Charcadet": 63,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 7,
-        "Geodude": 25,
+        "Geodude": 26,
         "Tentacruel": 1,
         "Archen": 19,
         "Blue plumage squawkabilly": 5,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 5,
         "Dragonair": 5,
-        "Spheal": 25,
+        "Spheal": 26,
         "Amaura": 10,
         "Wailord": 3,
         "Accelgor": 3,
@@ -597,7 +597,7 @@
         "Sandshrew": 12,
         "Tauros": 4,
         "Golurk": 1,
-        "Grimer": 6,
+        "Grimer": 7,
         "Frosmoth": 6,
         "Darumaka": 6,
         "Cubone": 7,
@@ -638,7 +638,7 @@
         "Unown k": 2,
         "Elekid": 3,
         "Chingling": 2,
-        "Tangela": 8,
+        "Tangela": 9,
         "Raticate": 7,
         "Weavile": 2,
         "Amped toxtricity": 2,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8006,
-      "last_spawn": "2026-07-10T17:38:43.879789"
+      "total_spawns": 8013,
+      "last_spawn": "2026-07-10T17:39:24.786984"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73539,
+    "total_spawns": 73546,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
