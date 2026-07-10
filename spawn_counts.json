@@ -657,7 +657,7 @@
         "Jynx": 1,
         "Noctowl": 4,
         "Munna": 4,
-        "Mabosstiff": 6,
+        "Mabosstiff": 7,
         "Omastar": 3,
         "Gabite": 12,
         "Tapu fini": 4,
@@ -762,7 +762,7 @@
         "Natu": 6,
         "Gorebyss": 2,
         "Eldegoss": 3,
-        "Pinsir": 3,
+        "Pinsir": 4,
         "Ivysaur": 10,
         "Pa'u oricorio": 1,
         "Toucannon": 3,
@@ -845,7 +845,7 @@
         "Slowking": 2,
         "Kecleon": 2,
         "Tapu lele": 2,
-        "Naclstack": 2,
+        "Naclstack": 3,
         "Wobbuffet": 1,
         "Morgrem": 5,
         "Budew": 3,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9106,
-      "last_spawn": "2026-07-10T20:11:58.290616"
+      "total_spawns": 9109,
+      "last_spawn": "2026-07-10T20:12:38.174438"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74639,
+    "total_spawns": 74642,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
