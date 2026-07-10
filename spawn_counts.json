@@ -108,13 +108,13 @@
         "Tentacool": 6,
         "Bayleef": 8,
         "Magnezone": 2,
-        "Eevee": 24,
+        "Eevee": 26,
         "Dreepy": 69,
         "Treecko": 20,
         "Shroodle": 34,
         "Ride cyclizar": 10,
         "Swinub": 31,
-        "Rattata": 21,
+        "Rattata": 22,
         "Stonjourner": 1,
         "Veluza": 56,
         "Panpour": 10,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 32,
         "Pikachu": 18,
-        "Tarountula": 30,
+        "Tarountula": 31,
         "Rhyhorn": 39,
         "Aipom": 6,
         "Grookey": 16,
@@ -804,7 +804,7 @@
         "Masquerain": 2,
         "Salazzle": 2,
         "Heracross": 2,
-        "Carkol": 2,
+        "Carkol": 3,
         "Zygarde": 2,
         "Dewgong": 1,
         "Revavroom": 4,
@@ -939,8 +939,8 @@
         "Victreebel": 1,
         "Galarian yamask": 2
       },
-      "total_spawns": 8467,
-      "last_spawn": "2026-07-10T18:32:04.037581"
+      "total_spawns": 8472,
+      "last_spawn": "2026-07-10T18:32:43.496452"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1653,7 +1653,7 @@
     }
   },
   "global": {
-    "total_spawns": 74000,
+    "total_spawns": 74005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
