@@ -58,7 +58,7 @@
         "Hatenna": 66,
         "Shroomish": 5,
         "Lillipup": 37,
-        "Mosslax": 55,
+        "Mosslax": 56,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -71,7 +71,7 @@
         "Gastly": 58,
         "Aron": 32,
         "Honedge": 54,
-        "Houndour": 4,
+        "Houndour": 5,
         "Machop": 27,
         "Terapagos": 1,
         "Mankey": 11,
@@ -379,7 +379,7 @@
         "Morelull": 8,
         "Unown": 3,
         "Poltchageist": 5,
-        "Slakoth": 28,
+        "Slakoth": 29,
         "Klink": 19,
         "Mesprit": 1,
         "Azelf": 2,
@@ -627,7 +627,7 @@
         "Clamperl": 2,
         "Rampardos": 3,
         "Weepinbell": 7,
-        "Cufant": 5,
+        "Cufant": 6,
         "Mienfoo": 6,
         "Quagsire": 3,
         "Komala": 3,
@@ -933,10 +933,11 @@
         "Cherrim": 1,
         "Ampharos": 1,
         "Blue-striped basculin": 1,
-        "Summer sawsbuck": 2
+        "Summer sawsbuck": 2,
+        "White-striped basculin": 1
       },
-      "total_spawns": 8360,
-      "last_spawn": "2026-07-10T18:17:43.627453"
+      "total_spawns": 8365,
+      "last_spawn": "2026-07-10T18:18:32.004409"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1650,7 @@
     }
   },
   "global": {
-    "total_spawns": 73893,
+    "total_spawns": 73898,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
