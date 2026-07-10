@@ -43,14 +43,14 @@
         "Capsakid": 27,
         "Numel": 9,
         "Pawmo": 9,
-        "Wattrel": 18,
+        "Wattrel": 19,
         "Tadbulb": 32,
         "Yanmega": 1,
         "Tympole": 23,
         "Grubbin": 27,
         "Scatterbug": 20,
         "Skwovet": 10,
-        "Applin": 6,
+        "Applin": 7,
         "Staryu": 3,
         "Maschiff": 25,
         "Smoliv": 27,
@@ -116,7 +116,7 @@
         "Swinub": 27,
         "Rattata": 16,
         "Stonjourner": 1,
-        "Veluza": 46,
+        "Veluza": 48,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -429,7 +429,7 @@
         "Haunter": 7,
         "Dottler": 9,
         "Wailmer": 6,
-        "Frigibax": 61,
+        "Frigibax": 63,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 7,
@@ -594,7 +594,7 @@
         "Gurdurr": 3,
         "Quilava": 3,
         "Wurmple": 46,
-        "Sandshrew": 9,
+        "Sandshrew": 10,
         "Tauros": 4,
         "Golurk": 1,
         "Grimer": 6,
@@ -763,7 +763,7 @@
         "Gorebyss": 1,
         "Eldegoss": 2,
         "Pinsir": 3,
-        "Ivysaur": 5,
+        "Ivysaur": 6,
         "Pa'u oricorio": 1,
         "Toucannon": 2,
         "Flygon": 3,
@@ -907,7 +907,7 @@
         "Scrafty": 1,
         "Orange flower floette": 1,
         "Galarian meowth": 2,
-        "Stretchy tatsugiri": 2,
+        "Stretchy tatsugiri": 3,
         "Magmortar": 2,
         "Swalot": 2,
         "Arctozolt": 1,
@@ -916,8 +916,8 @@
         "Avalugg": 1,
         "Carnivine": 1
       },
-      "total_spawns": 7370,
-      "last_spawn": "2026-07-10T05:24:23.934509"
+      "total_spawns": 7379,
+      "last_spawn": "2026-07-10T05:24:58.863024"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72903,
+    "total_spawns": 72912,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
