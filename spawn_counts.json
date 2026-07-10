@@ -51,7 +51,7 @@
         "Scatterbug": 27,
         "Skwovet": 11,
         "Applin": 7,
-        "Staryu": 3,
+        "Staryu": 4,
         "Maschiff": 26,
         "Smoliv": 30,
         "Tirtouga": 13,
@@ -114,7 +114,7 @@
         "Shroodle": 33,
         "Ride cyclizar": 10,
         "Swinub": 31,
-        "Rattata": 18,
+        "Rattata": 19,
         "Stonjourner": 1,
         "Veluza": 54,
         "Panpour": 10,
@@ -198,7 +198,7 @@
         "Bagon": 32,
         "Pikachu": 16,
         "Tarountula": 29,
-        "Rhyhorn": 36,
+        "Rhyhorn": 37,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 6,
@@ -259,7 +259,7 @@
         "Skeledirge": 3,
         "Taillow": 6,
         "Watchog": 3,
-        "Porygon": 27,
+        "Porygon": 28,
         "Wooloo": 8,
         "Mawile": 7,
         "Marill": 7,
@@ -281,7 +281,7 @@
         "Pancham": 7,
         "Bulbasaur": 29,
         "Dewpider": 8,
-        "Yellow plumage squawkabilly": 7,
+        "Yellow plumage squawkabilly": 8,
         "Hattrem": 7,
         "Trash wormadam": 4,
         "Purrloin": 3,
@@ -622,7 +622,7 @@
         "Spoink": 11,
         "Dhelmise": 1,
         "Armaldo": 5,
-        "Krokorok": 8,
+        "Krokorok": 9,
         "Torkoal": 7,
         "Clamperl": 2,
         "Rampardos": 2,
@@ -714,7 +714,7 @@
         "Remoraid": 4,
         "Exeggcute": 7,
         "Dunsparce": 4,
-        "Sobble": 8,
+        "Sobble": 9,
         "Lycanroc": 2,
         "Dustox": 3,
         "Alolan grimer": 6,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8134,
-      "last_spawn": "2026-07-10T17:49:33.553108"
+      "total_spawns": 8141,
+      "last_spawn": "2026-07-10T17:50:05.574494"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73667,
+    "total_spawns": 73674,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
