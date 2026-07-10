@@ -82,7 +82,7 @@
         "Bramblin": 22,
         "Stufful": 11,
         "Shelgon": 13,
-        "Marshtomp": 17,
+        "Marshtomp": 19,
         "Squirtle": 14,
         "Shinx": 80,
         "Drakloak": 17,
@@ -106,7 +106,7 @@
         "Armarouge": 8,
         "Clauncher": 5,
         "Tentacool": 7,
-        "Bayleef": 10,
+        "Bayleef": 11,
         "Magnezone": 2,
         "Eevee": 28,
         "Dreepy": 71,
@@ -205,7 +205,7 @@
         "Unfezant": 4,
         "Fraxure": 13,
         "Zubat": 28,
-        "Drowzee": 13,
+        "Drowzee": 14,
         "Lechonk": 37,
         "Woobat": 6,
         "Skrelp": 11,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9080,
-      "last_spawn": "2026-07-10T20:08:28.217300"
+      "total_spawns": 9084,
+      "last_spawn": "2026-07-10T20:08:58.298459"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74613,
+    "total_spawns": 74617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
