@@ -84,7 +84,7 @@
         "Shelgon": 13,
         "Marshtomp": 17,
         "Squirtle": 14,
-        "Shinx": 78,
+        "Shinx": 80,
         "Drakloak": 15,
         "Victini": 1,
         "Pawmi": 73,
@@ -113,7 +113,7 @@
         "Treecko": 20,
         "Shroodle": 35,
         "Ride cyclizar": 10,
-        "Swinub": 31,
+        "Swinub": 32,
         "Rattata": 25,
         "Stonjourner": 1,
         "Veluza": 60,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 5,
         "Charizard": 10,
-        "Axew": 87,
+        "Axew": 89,
         "Joltik": 9,
         "Gulpin": 7,
         "Mareanie": 7,
@@ -570,7 +570,7 @@
         "Squawkabilly": 10,
         "Seadra": 5,
         "Sealeo": 7,
-        "Baltoy": 4,
+        "Baltoy": 5,
         "Karrablast": 10,
         "Volbeat": 3,
         "Murkrow": 5,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8977,
-      "last_spawn": "2026-07-10T19:52:28.191131"
+      "total_spawns": 8983,
+      "last_spawn": "2026-07-10T19:53:08.191578"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74510,
+    "total_spawns": 74516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
