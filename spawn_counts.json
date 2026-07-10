@@ -123,7 +123,7 @@
         "Scovillain": 6,
         "White plumage squawkabilly": 15,
         "Flaaffy": 4,
-        "Rookidee": 54,
+        "Rookidee": 55,
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 6,
         "Petilil": 11,
-        "Bombirdier": 26,
+        "Bombirdier": 27,
         "Bellibolt": 7,
         "Toedscool": 24,
         "Paras": 5,
@@ -395,7 +395,7 @@
         "Meganium": 6,
         "Rainy castform": 3,
         "Rabsca": 7,
-        "Misdreavus": 6,
+        "Misdreavus": 7,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 8,
@@ -919,10 +919,11 @@
         "Medicham": 2,
         "Crobat": 2,
         "Dandy trim furfrou": 2,
-        "Vaporeon": 2
+        "Vaporeon": 2,
+        "Hypno": 1
       },
-      "total_spawns": 7678,
-      "last_spawn": "2026-07-10T09:35:08.122502"
+      "total_spawns": 7682,
+      "last_spawn": "2026-07-10T09:35:38.242984"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1635,7 +1636,7 @@
     }
   },
   "global": {
-    "total_spawns": 73211,
+    "total_spawns": 73215,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
