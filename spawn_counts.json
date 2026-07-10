@@ -71,7 +71,7 @@
         "Gastly": 54,
         "Aron": 32,
         "Honedge": 50,
-        "Houndour": 3,
+        "Houndour": 4,
         "Machop": 25,
         "Terapagos": 1,
         "Mankey": 10,
@@ -594,7 +594,7 @@
         "Gurdurr": 4,
         "Quilava": 3,
         "Wurmple": 46,
-        "Sandshrew": 11,
+        "Sandshrew": 12,
         "Tauros": 4,
         "Golurk": 1,
         "Grimer": 6,
@@ -612,7 +612,7 @@
         "Glameow": 3,
         "Zweilous": 6,
         "Azurill": 5,
-        "Oshawott": 5,
+        "Oshawott": 6,
         "Malamar": 4,
         "Orange flower florges": 1,
         "Minun": 6,
@@ -927,8 +927,8 @@
         "Clawitzer": 1,
         "Giratina": 2
       },
-      "total_spawns": 7822,
-      "last_spawn": "2026-07-10T17:20:03.700521"
+      "total_spawns": 7825,
+      "last_spawn": "2026-07-10T17:20:33.761798"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1641,7 +1641,7 @@
     }
   },
   "global": {
-    "total_spawns": 73355,
+    "total_spawns": 73358,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
