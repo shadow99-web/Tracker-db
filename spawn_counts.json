@@ -100,7 +100,7 @@
         "Froslass": 2,
         "Dodrio": 7,
         "Metagross": 6,
-        "Corphish": 6,
+        "Corphish": 7,
         "Doduo": 8,
         "Flittle": 33,
         "Armarouge": 7,
@@ -198,7 +198,7 @@
         "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 26,
-        "Rhyhorn": 31,
+        "Rhyhorn": 32,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 5,
@@ -259,7 +259,7 @@
         "Skeledirge": 3,
         "Taillow": 6,
         "Watchog": 3,
-        "Porygon": 24,
+        "Porygon": 25,
         "Wooloo": 8,
         "Mawile": 7,
         "Marill": 7,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 3,
         "Farfetch'd": 2,
-        "Grafaiai": 14,
+        "Grafaiai": 16,
         "Fearow": 2,
         "Squawkabilly": 8,
         "Seadra": 5,
@@ -921,8 +921,8 @@
         "Dandy trim furfrou": 2,
         "Vaporeon": 2
       },
-      "total_spawns": 7623,
-      "last_spawn": "2026-07-10T08:36:38.398074"
+      "total_spawns": 7628,
+      "last_spawn": "2026-07-10T08:37:18.444488"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1635,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 73156,
+    "total_spawns": 73161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
