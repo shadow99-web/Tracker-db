@@ -198,14 +198,14 @@
         "Bagon": 34,
         "Pikachu": 18,
         "Tarountula": 32,
-        "Rhyhorn": 39,
+        "Rhyhorn": 40,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 13,
         "Zubat": 27,
-        "Drowzee": 11,
+        "Drowzee": 12,
         "Lechonk": 37,
         "Woobat": 6,
         "Skrelp": 9,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 5,
         "Charizard": 10,
-        "Axew": 85,
+        "Axew": 87,
         "Joltik": 9,
         "Gulpin": 7,
         "Mareanie": 7,
@@ -408,7 +408,7 @@
         "Darmanitan": 3,
         "Lopunny": 2,
         "Chimchar": 13,
-        "Gligar": 8,
+        "Gligar": 9,
         "Quaxly": 15,
         "Spiky-eared pichu": 2,
         "Cradily": 6,
@@ -947,8 +947,8 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1
       },
-      "total_spawns": 8756,
-      "last_spawn": "2026-07-10T19:22:38.250512"
+      "total_spawns": 8761,
+      "last_spawn": "2026-07-10T19:23:18.130838"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74289,
+    "total_spawns": 74294,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
