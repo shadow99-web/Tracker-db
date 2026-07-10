@@ -137,7 +137,7 @@
         "Venonat": 11,
         "Eelektrik": 6,
         "Diglett": 7,
-        "Surskit": 7,
+        "Surskit": 8,
         "Seedot": 22,
         "Jigglypuff": 11,
         "Spearow": 8,
@@ -315,7 +315,7 @@
         "Petilil": 11,
         "Bombirdier": 28,
         "Bellibolt": 7,
-        "Toedscool": 25,
+        "Toedscool": 26,
         "Paras": 5,
         "Fletchinder": 11,
         "Staravia": 6,
@@ -567,7 +567,7 @@
         "Farfetch'd": 2,
         "Grafaiai": 20,
         "Fearow": 2,
-        "Squawkabilly": 9,
+        "Squawkabilly": 10,
         "Seadra": 5,
         "Sealeo": 6,
         "Baltoy": 4,
@@ -872,7 +872,7 @@
         "Scolipede": 1,
         "Centiskorch": 2,
         "Swellow": 5,
-        "Kangaskhan": 4,
+        "Kangaskhan": 6,
         "Jirachi": 2,
         "Emboar": 2,
         "Cacturne": 2,
@@ -912,7 +912,7 @@
         "Swalot": 2,
         "Arctozolt": 1,
         "Floette": 1,
-        "Zoroark": 2,
+        "Zoroark": 4,
         "Avalugg": 1,
         "Carnivine": 1,
         "Yellow flower floette": 1,
@@ -931,8 +931,8 @@
         "Beartic": 1,
         "Electrode": 1
       },
-      "total_spawns": 7967,
-      "last_spawn": "2026-07-10T17:35:13.531657"
+      "total_spawns": 7974,
+      "last_spawn": "2026-07-10T17:35:43.587802"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1645,7 +1645,7 @@
     }
   },
   "global": {
-    "total_spawns": 73500,
+    "total_spawns": 73507,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
