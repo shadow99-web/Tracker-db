@@ -55,7 +55,7 @@
         "Maschiff": 25,
         "Smoliv": 28,
         "Tirtouga": 12,
-        "Hatenna": 52,
+        "Hatenna": 54,
         "Shroomish": 5,
         "Lillipup": 33,
         "Mosslax": 42,
@@ -101,7 +101,7 @@
         "Dodrio": 7,
         "Metagross": 6,
         "Corphish": 6,
-        "Doduo": 7,
+        "Doduo": 8,
         "Flittle": 32,
         "Armarouge": 7,
         "Clauncher": 5,
@@ -634,7 +634,7 @@
         "Poochyena": 6,
         "Hero palafin": 2,
         "Klinklang": 3,
-        "Lickilicky": 7,
+        "Lickilicky": 9,
         "Unown k": 2,
         "Elekid": 3,
         "Chingling": 2,
@@ -920,8 +920,8 @@
         "Crobat": 2,
         "Dandy trim furfrou": 2
       },
-      "total_spawns": 7568,
-      "last_spawn": "2026-07-10T08:29:38.316887"
+      "total_spawns": 7573,
+      "last_spawn": "2026-07-10T08:30:08.576588"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1634,7 +1634,7 @@
     }
   },
   "global": {
-    "total_spawns": 73101,
+    "total_spawns": 73106,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
