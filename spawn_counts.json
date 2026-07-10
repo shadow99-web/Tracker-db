@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 9,
-        "Oddish": 35,
+        "Oddish": 36,
         "Totodile": 16,
         "Vanillite": 70,
         "Weedle": 45,
@@ -57,8 +57,8 @@
         "Tirtouga": 13,
         "Hatenna": 54,
         "Shroomish": 5,
-        "Lillipup": 33,
-        "Mosslax": 46,
+        "Lillipup": 34,
+        "Mosslax": 48,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -152,7 +152,7 @@
         "Butterfree": 5,
         "Teddiursa": 58,
         "Roggenrola": 44,
-        "Litwick": 27,
+        "Litwick": 28,
         "Wooper": 9,
         "Pikipek": 57,
         "Spritzee": 6,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 12,
-        "Hoppip": 31,
+        "Hoppip": 32,
         "Slowbro": 4,
         "Gholdengo": 5,
         "Trubbish": 8,
@@ -763,7 +763,7 @@
         "Gorebyss": 1,
         "Eldegoss": 3,
         "Pinsir": 3,
-        "Ivysaur": 6,
+        "Ivysaur": 7,
         "Pa'u oricorio": 1,
         "Toucannon": 2,
         "Flygon": 4,
@@ -794,7 +794,7 @@
         "Blue flower florges": 1,
         "Dudunsparce": 5,
         "Kingler": 2,
-        "Aurorus": 3,
+        "Aurorus": 4,
         "Cacnea": 2,
         "Sableye": 4,
         "Persian": 1,
@@ -877,7 +877,7 @@
         "Emboar": 2,
         "Cacturne": 2,
         "Kricketune": 2,
-        "Gliscor": 2,
+        "Gliscor": 3,
         "Hariyama": 4,
         "Hisuian zoroark": 2,
         "Huntail": 2,
@@ -929,8 +929,8 @@
         "Heliolisk": 1,
         "Skarmory": 2
       },
-      "total_spawns": 7849,
-      "last_spawn": "2026-07-10T17:23:28.240849"
+      "total_spawns": 7858,
+      "last_spawn": "2026-07-10T17:24:03.922294"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1643,7 +1643,7 @@
     }
   },
   "global": {
-    "total_spawns": 73382,
+    "total_spawns": 73391,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
