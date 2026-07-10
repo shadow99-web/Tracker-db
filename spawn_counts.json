@@ -195,8 +195,8 @@
         "Dj rotom": 25,
         "Chef dente": 32,
         "Hisuian qwilfish": 1,
-        "Bagon": 36,
-        "Pikachu": 18,
+        "Bagon": 38,
+        "Pikachu": 20,
         "Tarountula": 33,
         "Rhyhorn": 42,
         "Aipom": 6,
@@ -296,7 +296,7 @@
         "Ceruledge": 8,
         "Vanillish": 10,
         "Gimmighoul": 28,
-        "Glimmet": 23,
+        "Glimmet": 24,
         "Popplio": 11,
         "Arboliva": 2,
         "Luxio": 4,
@@ -405,7 +405,7 @@
         "Snivy": 6,
         "Zorua": 14,
         "Minior": 1,
-        "Darmanitan": 3,
+        "Darmanitan": 4,
         "Lopunny": 3,
         "Chimchar": 13,
         "Gligar": 9,
@@ -565,7 +565,7 @@
         "Unown x": 2,
         "Starmie": 3,
         "Farfetch'd": 2,
-        "Grafaiai": 23,
+        "Grafaiai": 24,
         "Fearow": 2,
         "Squawkabilly": 10,
         "Seadra": 5,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8950,
-      "last_spawn": "2026-07-10T19:49:01.037675"
+      "total_spawns": 8957,
+      "last_spawn": "2026-07-10T19:49:38.285822"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74483,
+    "total_spawns": 74490,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
