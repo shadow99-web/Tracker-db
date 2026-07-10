@@ -23,7 +23,7 @@
         "Anorith": 10,
         "Arctibax": 10,
         "Ralts": 58,
-        "Peakychu": 39,
+        "Peakychu": 41,
         "Cutiefly": 12,
         "Simipour": 4,
         "Tynamo": 29,
@@ -127,7 +127,7 @@
         "Flapple": 10,
         "Bronzor": 6,
         "Swirlix": 9,
-        "Varoom": 61,
+        "Varoom": 62,
         "Ducklett": 9,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 3,
@@ -501,7 +501,7 @@
         "Gardevoir": 10,
         "Kubfu": 1,
         "Tyrogue": 6,
-        "Nuzleaf": 10,
+        "Nuzleaf": 11,
         "Spinarak": 8,
         "Goomy": 23,
         "Breloom": 2,
@@ -568,7 +568,7 @@
         "Grafaiai": 24,
         "Fearow": 2,
         "Squawkabilly": 10,
-        "Seadra": 5,
+        "Seadra": 6,
         "Sealeo": 7,
         "Baltoy": 6,
         "Karrablast": 11,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9101,
-      "last_spawn": "2026-07-10T20:11:28.185233"
+      "total_spawns": 9106,
+      "last_spawn": "2026-07-10T20:11:58.290616"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74634,
+    "total_spawns": 74639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
