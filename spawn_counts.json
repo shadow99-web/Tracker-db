@@ -69,7 +69,7 @@
         "Prof tangrowth": 28,
         "Vulpix": 27,
         "Gastly": 64,
-        "Aron": 37,
+        "Aron": 38,
         "Honedge": 56,
         "Houndour": 7,
         "Machop": 29,
@@ -222,7 +222,7 @@
         "Duosion": 7,
         "Orthworm": 33,
         "Yamask": 8,
-        "Nymble": 32,
+        "Nymble": 33,
         "Snorunt": 9,
         "Carvanha": 6,
         "Toxel": 4,
@@ -807,7 +807,7 @@
         "Carkol": 4,
         "Zygarde": 2,
         "Dewgong": 1,
-        "Revavroom": 5,
+        "Revavroom": 6,
         "Lunala": 1,
         "Sneasler": 6,
         "Swoobat": 3,
@@ -955,10 +955,11 @@
         "Turtonator": 1,
         "Cofagrigus": 1,
         "Incineroar": 1,
-        "Hisuian voltorb": 2
+        "Hisuian voltorb": 2,
+        "Alolan ninetales": 1
       },
-      "total_spawns": 9328,
-      "last_spawn": "2026-07-10T23:30:38.253962"
+      "total_spawns": 9332,
+      "last_spawn": "2026-07-10T23:31:18.304069"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1671,7 +1672,7 @@
     }
   },
   "global": {
-    "total_spawns": 74861,
+    "total_spawns": 74865,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
