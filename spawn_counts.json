@@ -145,7 +145,7 @@
         "Wugtrio": 10,
         "Tranquill": 11,
         "Cetitan": 8,
-        "Turtwig": 17,
+        "Turtwig": 18,
         "Fomantis": 9,
         "Claydol": 2,
         "Trapinch": 28,
@@ -421,7 +421,7 @@
         "Crabominable": 5,
         "Krabby": 7,
         "Mimikyu": 6,
-        "Hoothoot": 8,
+        "Hoothoot": 9,
         "Girafarig": 2,
         "Summer deerling": 3,
         "Seel": 11,
@@ -537,7 +537,7 @@
         "Sigilyph": 6,
         "Vibrava": 11,
         "Shuckle": 2,
-        "White flower floette": 3,
+        "White flower floette": 4,
         "Octillery": 5,
         "Pawniard": 11,
         "Brionne": 10,
@@ -730,7 +730,7 @@
         "Chansey": 2,
         "Camerupt": 3,
         "Litten": 7,
-        "Gossifleur": 7,
+        "Gossifleur": 8,
         "Electivire": 2,
         "Farigiraf": 3,
         "Raichu": 2,
@@ -950,8 +950,8 @@
         "Druddigon": 2,
         "Galarian mr. mime": 2
       },
-      "total_spawns": 8855,
-      "last_spawn": "2026-07-10T19:36:08.452021"
+      "total_spawns": 8859,
+      "last_spawn": "2026-07-10T19:36:48.186334"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1664,7 +1664,7 @@
     }
   },
   "global": {
-    "total_spawns": 74388,
+    "total_spawns": 74392,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
