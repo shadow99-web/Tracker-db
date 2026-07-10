@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 36,
         "Totodile": 16,
-        "Vanillite": 70,
+        "Vanillite": 72,
         "Weedle": 47,
         "Kabutops": 2,
         "Poliwag": 29,
@@ -55,7 +55,7 @@
         "Maschiff": 26,
         "Smoliv": 30,
         "Tirtouga": 13,
-        "Hatenna": 56,
+        "Hatenna": 58,
         "Shroomish": 5,
         "Lillipup": 35,
         "Mosslax": 50,
@@ -70,7 +70,7 @@
         "Vulpix": 21,
         "Gastly": 56,
         "Aron": 32,
-        "Honedge": 52,
+        "Honedge": 53,
         "Houndour": 4,
         "Machop": 25,
         "Terapagos": 1,
@@ -154,7 +154,7 @@
         "Roggenrola": 46,
         "Litwick": 28,
         "Wooper": 9,
-        "Pikipek": 57,
+        "Pikipek": 59,
         "Spritzee": 6,
         "Stantler": 14,
         "Impidimp": 47,
@@ -308,7 +308,7 @@
         "Archen": 21,
         "Blue plumage squawkabilly": 5,
         "Metang": 7,
-        "Larvitar": 21,
+        "Larvitar": 22,
         "Lumineon": 2,
         "Kilowattrel": 6,
         "Pumpkaboo": 6,
@@ -730,7 +730,7 @@
         "Chansey": 2,
         "Camerupt": 3,
         "Litten": 6,
-        "Gossifleur": 6,
+        "Gossifleur": 7,
         "Electivire": 2,
         "Farigiraf": 3,
         "Raichu": 2,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8096,
-      "last_spawn": "2026-07-10T17:46:43.883337"
+      "total_spawns": 8105,
+      "last_spawn": "2026-07-10T17:47:23.527564"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73629,
+    "total_spawns": 73638,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
