@@ -284,7 +284,7 @@
         "Yellow plumage squawkabilly": 9,
         "Hattrem": 9,
         "Trash wormadam": 4,
-        "Purrloin": 3,
+        "Purrloin": 4,
         "Zigzagoon": 11,
         "Quilladin": 6,
         "Infernape": 3,
@@ -354,7 +354,7 @@
         "Tepig": 12,
         "Spinda": 1,
         "Phantump": 11,
-        "Barboach": 4,
+        "Barboach": 5,
         "Nosepass": 5,
         "Electrike": 16,
         "Hoppip": 40,
@@ -495,7 +495,7 @@
         "Mismagius": 4,
         "Dada zarude": 1,
         "Yellow flower florges": 1,
-        "Drilbur": 5,
+        "Drilbur": 6,
         "Leavanny": 1,
         "Magikarp": 11,
         "Gardevoir": 10,
@@ -958,8 +958,8 @@
         "Hisuian voltorb": 2,
         "Alolan ninetales": 2
       },
-      "total_spawns": 9340,
-      "last_spawn": "2026-07-10T23:32:28.230499"
+      "total_spawns": 9343,
+      "last_spawn": "2026-07-10T23:32:58.327438"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1672,7 +1672,7 @@
     }
   },
   "global": {
-    "total_spawns": 74873,
+    "total_spawns": 74876,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
