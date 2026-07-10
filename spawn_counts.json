@@ -148,7 +148,7 @@
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
-        "Trapinch": 25,
+        "Trapinch": 26,
         "Butterfree": 5,
         "Teddiursa": 64,
         "Roggenrola": 46,
@@ -714,7 +714,7 @@
         "Remoraid": 4,
         "Exeggcute": 7,
         "Dunsparce": 4,
-        "Sobble": 10,
+        "Sobble": 11,
         "Lycanroc": 2,
         "Dustox": 3,
         "Alolan grimer": 6,
@@ -934,10 +934,11 @@
         "Ampharos": 1,
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2,
-        "White-striped basculin": 1
+        "White-striped basculin": 1,
+        "Annihilape": 1
       },
-      "total_spawns": 8387,
-      "last_spawn": "2026-07-10T18:21:33.591908"
+      "total_spawns": 8390,
+      "last_spawn": "2026-07-10T18:22:13.989217"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1650,7 +1651,7 @@
     }
   },
   "global": {
-    "total_spawns": 73920,
+    "total_spawns": 73923,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
