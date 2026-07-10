@@ -188,7 +188,7 @@
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 19,
-        "Wimpod": 15,
+        "Wimpod": 17,
         "Comfey": 9,
         "Diggersby": 2,
         "Klawf": 45,
@@ -409,7 +409,7 @@
         "Lopunny": 2,
         "Chimchar": 13,
         "Gligar": 8,
-        "Quaxly": 12,
+        "Quaxly": 13,
         "Spiky-eared pichu": 2,
         "Cradily": 2,
         "Burmy": 1,
@@ -467,7 +467,7 @@
         "Shellder": 7,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 14,
+        "Absol": 16,
         "Calyrex": 1,
         "Kakuna": 5,
         "Shedinja": 4,
@@ -919,8 +919,8 @@
         "Medicham": 2,
         "Crobat": 2
       },
-      "total_spawns": 7516,
-      "last_spawn": "2026-07-10T08:22:28.183854"
+      "total_spawns": 7521,
+      "last_spawn": "2026-07-10T08:22:58.348404"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1633,7 +1633,7 @@
     }
   },
   "global": {
-    "total_spawns": 73049,
+    "total_spawns": 73054,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
