@@ -58,7 +58,7 @@
         "Hatenna": 68,
         "Shroomish": 5,
         "Lillipup": 41,
-        "Mosslax": 68,
+        "Mosslax": 70,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 33,
-        "Jangmo-o": 20,
+        "Jangmo-o": 21,
         "Lunatone": 1,
         "Machoke": 13,
         "Luvdisc": 1,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 27,
+        "Smearguru": 28,
         "Magneton": 6,
         "Battle cyclizar": 8,
         "Minccino": 6,
@@ -956,8 +956,8 @@
         "Cofagrigus": 1,
         "Incineroar": 1
       },
-      "total_spawns": 9271,
-      "last_spawn": "2026-07-10T23:22:58.460634"
+      "total_spawns": 9275,
+      "last_spawn": "2026-07-10T23:23:32.915241"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1670,7 +1670,7 @@
     }
   },
   "global": {
-    "total_spawns": 74804,
+    "total_spawns": 74808,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
