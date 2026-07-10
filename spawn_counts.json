@@ -71,7 +71,7 @@
         "Gastly": 52,
         "Aron": 32,
         "Honedge": 48,
-        "Houndour": 2,
+        "Houndour": 3,
         "Machop": 24,
         "Terapagos": 1,
         "Mankey": 10,
@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 65,
         "Treecko": 16,
-        "Shroodle": 30,
+        "Shroodle": 31,
         "Ride cyclizar": 10,
         "Swinub": 29,
         "Rattata": 16,
@@ -198,7 +198,7 @@
         "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 26,
-        "Rhyhorn": 32,
+        "Rhyhorn": 33,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 5,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 22,
+        "Smearguru": 23,
         "Magneton": 5,
         "Battle cyclizar": 6,
         "Minccino": 4,
@@ -921,8 +921,8 @@
         "Dandy trim furfrou": 2,
         "Vaporeon": 2
       },
-      "total_spawns": 7670,
-      "last_spawn": "2026-07-10T09:33:49.289108"
+      "total_spawns": 7674,
+      "last_spawn": "2026-07-10T09:34:28.305490"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1635,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 73203,
+    "total_spawns": 73207,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
