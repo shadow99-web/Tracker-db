@@ -47,7 +47,7 @@
         "Tadbulb": 43,
         "Yanmega": 3,
         "Tympole": 30,
-        "Grubbin": 31,
+        "Grubbin": 32,
         "Scatterbug": 34,
         "Skwovet": 15,
         "Applin": 8,
@@ -313,7 +313,7 @@
         "Kilowattrel": 7,
         "Pumpkaboo": 6,
         "Petilil": 12,
-        "Bombirdier": 32,
+        "Bombirdier": 33,
         "Bellibolt": 9,
         "Toedscool": 27,
         "Paras": 5,
@@ -810,7 +810,7 @@
         "Revavroom": 5,
         "Lunala": 1,
         "Sneasler": 6,
-        "Swoobat": 2,
+        "Swoobat": 3,
         "Morpeko": 2,
         "East sea shellos": 2,
         "Seaking": 4,
@@ -908,7 +908,7 @@
         "Orange flower floette": 1,
         "Galarian meowth": 2,
         "Stretchy tatsugiri": 6,
-        "Magmortar": 2,
+        "Magmortar": 3,
         "Swalot": 2,
         "Arctozolt": 1,
         "Floette": 1,
@@ -956,8 +956,8 @@
         "Cofagrigus": 1,
         "Incineroar": 1
       },
-      "total_spawns": 9293,
-      "last_spawn": "2026-07-10T23:26:00.412369"
+      "total_spawns": 9297,
+      "last_spawn": "2026-07-10T23:26:38.186612"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1670,7 +1670,7 @@
     }
   },
   "global": {
-    "total_spawns": 74826,
+    "total_spawns": 74830,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
