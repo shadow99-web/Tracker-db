@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 9,
         "Doduo": 10,
-        "Flittle": 40,
+        "Flittle": 41,
         "Armarouge": 8,
         "Clauncher": 5,
         "Tentacool": 7,
@@ -373,7 +373,7 @@
         "Duraludon": 10,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 29,
+        "Horsea": 30,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
@@ -436,7 +436,7 @@
         "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 5,
-        "Spheal": 31,
+        "Spheal": 32,
         "Amaura": 10,
         "Wailord": 4,
         "Accelgor": 3,
@@ -704,7 +704,7 @@
         "Parasect": 4,
         "Fuecoco": 9,
         "Loudred": 9,
-        "Vespiquen": 2,
+        "Vespiquen": 3,
         "Gastrodon": 1,
         "Skiddo": 10,
         "Simisear": 10,
@@ -957,8 +957,8 @@
         "Incineroar": 1,
         "Hisuian voltorb": 2
       },
-      "total_spawns": 9316,
-      "last_spawn": "2026-07-10T23:28:48.372127"
+      "total_spawns": 9320,
+      "last_spawn": "2026-07-10T23:29:28.486230"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1671,7 +1671,7 @@
     }
   },
   "global": {
-    "total_spawns": 74849,
+    "total_spawns": 74853,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
