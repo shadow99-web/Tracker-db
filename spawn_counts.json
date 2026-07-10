@@ -108,7 +108,7 @@
         "Tentacool": 6,
         "Bayleef": 8,
         "Magnezone": 2,
-        "Eevee": 22,
+        "Eevee": 24,
         "Dreepy": 67,
         "Treecko": 20,
         "Shroodle": 33,
@@ -152,7 +152,7 @@
         "Butterfree": 5,
         "Teddiursa": 62,
         "Roggenrola": 46,
-        "Litwick": 30,
+        "Litwick": 31,
         "Wooper": 9,
         "Pikipek": 59,
         "Spritzee": 7,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 20,
         "Milcery": 17,
-        "Trumbeak": 6,
+        "Trumbeak": 7,
         "Bonsly": 3,
         "Growlithe": 6,
         "Rhydon": 7,
@@ -252,7 +252,7 @@
         "Tinkatuff": 7,
         "Drednaw": 5,
         "Corvisquire": 10,
-        "Croconaw": 8,
+        "Croconaw": 9,
         "Makuhita": 5,
         "Machamp": 3,
         "Primarina": 5,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8181,
-      "last_spawn": "2026-07-10T17:53:43.731912"
+      "total_spawns": 8186,
+      "last_spawn": "2026-07-10T17:54:23.641986"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73714,
+    "total_spawns": 73719,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
