@@ -116,7 +116,7 @@
         "Swinub": 30,
         "Rattata": 17,
         "Stonjourner": 1,
-        "Veluza": 53,
+        "Veluza": 54,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -485,7 +485,7 @@
         "Lairon": 7,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 12,
+        "Mudkip": 14,
         "Galarian zapdos": 1,
         "Empoleon": 1,
         "Voltorb": 5,
@@ -662,7 +662,7 @@
         "Gabite": 10,
         "Tapu fini": 4,
         "Gyarados": 2,
-        "Lapras": 4,
+        "Lapras": 6,
         "Grimmsnarl": 2,
         "Sylveon": 8,
         "Inteleon": 4,
@@ -766,7 +766,7 @@
         "Ivysaur": 6,
         "Pa'u oricorio": 1,
         "Toucannon": 2,
-        "Flygon": 3,
+        "Flygon": 4,
         "Archaludon": 1,
         "Snorlax": 4,
         "Beautifly": 5,
@@ -926,8 +926,8 @@
         "Blaziken": 2,
         "Clawitzer": 1
       },
-      "total_spawns": 7786,
-      "last_spawn": "2026-07-10T17:05:58.290056"
+      "total_spawns": 7792,
+      "last_spawn": "2026-07-10T17:06:28.442700"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73319,
+    "total_spawns": 73325,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
