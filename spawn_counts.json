@@ -57,7 +57,7 @@
         "Tirtouga": 13,
         "Hatenna": 66,
         "Shroomish": 5,
-        "Lillipup": 40,
+        "Lillipup": 41,
         "Mosslax": 66,
         "Maushold": 5,
         "Cubchoo": 29,
@@ -205,7 +205,7 @@
         "Unfezant": 4,
         "Fraxure": 13,
         "Zubat": 27,
-        "Drowzee": 12,
+        "Drowzee": 13,
         "Lechonk": 37,
         "Woobat": 6,
         "Skrelp": 10,
@@ -947,10 +947,11 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1,
         "Walrein": 1,
-        "Druddigon": 2
+        "Druddigon": 2,
+        "Galarian mr. mime": 2
       },
-      "total_spawns": 8851,
-      "last_spawn": "2026-07-10T19:35:38.200170"
+      "total_spawns": 8855,
+      "last_spawn": "2026-07-10T19:36:08.452021"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1663,7 +1664,7 @@
     }
   },
   "global": {
-    "total_spawns": 74384,
+    "total_spawns": 74388,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
