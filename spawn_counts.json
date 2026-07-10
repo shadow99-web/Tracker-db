@@ -29,7 +29,7 @@
         "Tynamo": 28,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 28,
+        "Pidgey": 29,
         "Binacle": 12,
         "Bounsweet": 62,
         "Fletchling": 42,
@@ -255,7 +255,7 @@
         "Croconaw": 9,
         "Makuhita": 5,
         "Machamp": 3,
-        "Primarina": 6,
+        "Primarina": 7,
         "Skeledirge": 3,
         "Taillow": 7,
         "Watchog": 3,
@@ -274,7 +274,7 @@
         "Plusle": 11,
         "Decidueye": 5,
         "Kricketot": 12,
-        "Ledyba": 9,
+        "Ledyba": 10,
         "Chinchou": 8,
         "Eiscue": 1,
         "Nacli": 25,
@@ -944,10 +944,11 @@
         "Bellossom": 2,
         "Feraligatr": 2,
         "Baxcalibur": 1,
-        "Pom-pom oricorio": 1
+        "Pom-pom oricorio": 1,
+        "Pyroar": 1
       },
-      "total_spawns": 8720,
-      "last_spawn": "2026-07-10T19:17:38.144458"
+      "total_spawns": 8724,
+      "last_spawn": "2026-07-10T19:18:08.769838"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1660,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74253,
+    "total_spawns": 74257,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
