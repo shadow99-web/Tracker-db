@@ -113,7 +113,7 @@
         "Treecko": 20,
         "Shroodle": 35,
         "Ride cyclizar": 10,
-        "Swinub": 32,
+        "Swinub": 33,
         "Rattata": 25,
         "Stonjourner": 1,
         "Veluza": 60,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 64,
         "Rellor": 23,
-        "Rolycoly": 41,
+        "Rolycoly": 42,
         "Poliwhirl": 9,
         "Lokix": 13,
         "Flamigo": 20,
@@ -429,7 +429,7 @@
         "Haunter": 10,
         "Dottler": 9,
         "Wailmer": 9,
-        "Frigibax": 83,
+        "Frigibax": 85,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 9,
@@ -788,7 +788,7 @@
         "Porygon-z": 3,
         "Zapdos": 2,
         "Coalossal": 2,
-        "Steenee": 4,
+        "Steenee": 5,
         "Boltund": 1,
         "Weezing": 1,
         "Blue flower florges": 1,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8996,
-      "last_spawn": "2026-07-10T19:54:38.374316"
+      "total_spawns": 9001,
+      "last_spawn": "2026-07-10T19:55:18.579152"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74529,
+    "total_spawns": 74534,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
