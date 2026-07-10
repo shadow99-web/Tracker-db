@@ -48,7 +48,7 @@
         "Yanmega": 3,
         "Tympole": 28,
         "Grubbin": 28,
-        "Scatterbug": 32,
+        "Scatterbug": 33,
         "Skwovet": 14,
         "Applin": 7,
         "Staryu": 4,
@@ -135,7 +135,7 @@
         "Abomasnow": 5,
         "Slugma": 13,
         "Venonat": 13,
-        "Eelektrik": 6,
+        "Eelektrik": 7,
         "Diglett": 7,
         "Surskit": 9,
         "Seedot": 23,
@@ -203,7 +203,7 @@
         "Grookey": 16,
         "Inkay": 6,
         "Unfezant": 4,
-        "Fraxure": 12,
+        "Fraxure": 13,
         "Zubat": 27,
         "Drowzee": 11,
         "Lechonk": 36,
@@ -222,7 +222,7 @@
         "Duosion": 7,
         "Orthworm": 32,
         "Yamask": 8,
-        "Nymble": 30,
+        "Nymble": 31,
         "Snorunt": 8,
         "Carvanha": 6,
         "Toxel": 4,
@@ -946,8 +946,8 @@
         "Baxcalibur": 1,
         "Pom-pom oricorio": 1
       },
-      "total_spawns": 8692,
-      "last_spawn": "2026-07-10T19:13:48.117442"
+      "total_spawns": 8696,
+      "last_spawn": "2026-07-10T19:14:18.177076"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1660,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 74225,
+    "total_spawns": 74229,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
