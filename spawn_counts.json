@@ -40,7 +40,7 @@
         "Starly": 67,
         "Caterpie": 34,
         "Mareep": 32,
-        "Capsakid": 35,
+        "Capsakid": 36,
         "Numel": 11,
         "Pawmo": 9,
         "Wattrel": 27,
@@ -90,7 +90,7 @@
         "Pawmi": 77,
         "Sandile": 65,
         "Charmeleon": 13,
-        "Riolu": 22,
+        "Riolu": 24,
         "Gible": 52,
         "Greavard": 70,
         "Snover": 17,
@@ -110,7 +110,7 @@
         "Magnezone": 3,
         "Eevee": 28,
         "Dreepy": 73,
-        "Treecko": 24,
+        "Treecko": 26,
         "Shroodle": 36,
         "Ride cyclizar": 11,
         "Swinub": 33,
@@ -958,8 +958,8 @@
         "Hisuian voltorb": 2,
         "Alolan ninetales": 2
       },
-      "total_spawns": 9343,
-      "last_spawn": "2026-07-10T23:32:58.327438"
+      "total_spawns": 9348,
+      "last_spawn": "2026-07-10T23:33:33.463514"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1672,7 +1672,7 @@
     }
   },
   "global": {
-    "total_spawns": 74876,
+    "total_spawns": 74881,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
