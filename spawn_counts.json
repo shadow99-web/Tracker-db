@@ -40,7 +40,7 @@
         "Starly": 65,
         "Caterpie": 33,
         "Mareep": 32,
-        "Capsakid": 34,
+        "Capsakid": 35,
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 27,
@@ -91,7 +91,7 @@
         "Sandile": 63,
         "Charmeleon": 13,
         "Riolu": 22,
-        "Gible": 48,
+        "Gible": 49,
         "Greavard": 68,
         "Snover": 17,
         "Piplup": 12,
@@ -726,7 +726,7 @@
         "Azumarill": 1,
         "Delphox": 2,
         "Cranidos": 8,
-        "Tsareena": 3,
+        "Tsareena": 4,
         "Chansey": 2,
         "Camerupt": 3,
         "Litten": 7,
@@ -914,7 +914,7 @@
         "Floette": 1,
         "Zoroark": 4,
         "Avalugg": 1,
-        "Carnivine": 1,
+        "Carnivine": 2,
         "Yellow flower floette": 1,
         "Medicham": 2,
         "Crobat": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9019,
-      "last_spawn": "2026-07-10T19:57:39.736414"
+      "total_spawns": 9023,
+      "last_spawn": "2026-07-10T19:58:18.436174"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74552,
+    "total_spawns": 74556,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
