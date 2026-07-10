@@ -16,7 +16,7 @@
         "Weedle": 45,
         "Kabutops": 2,
         "Poliwag": 29,
-        "Fidough": 31,
+        "Fidough": 32,
         "Charjabug": 3,
         "Hatterene": 5,
         "Rowlet": 14,
@@ -88,8 +88,8 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 61,
-        "Sandile": 46,
-        "Charmeleon": 9,
+        "Sandile": 47,
+        "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
         "Greavard": 54,
@@ -232,7 +232,7 @@
         "Sizzlipede": 7,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 26,
+        "Timburr": 27,
         "Shellos": 3,
         "Arcanine": 1,
         "Sliggoo": 4,
@@ -825,7 +825,7 @@
         "Luxray": 2,
         "Gogoat": 2,
         "Beedrill": 1,
-        "Sandslash": 2,
+        "Sandslash": 3,
         "Pupitar": 5,
         "Zeraora": 2,
         "Cobalion": 2,
@@ -922,8 +922,8 @@
         "Vaporeon": 2,
         "Hypno": 1
       },
-      "total_spawns": 7689,
-      "last_spawn": "2026-07-10T09:36:48.210434"
+      "total_spawns": 7695,
+      "last_spawn": "2026-07-10T09:37:28.734508"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1636,7 +1636,7 @@
     }
   },
   "global": {
-    "total_spawns": 73222,
+    "total_spawns": 73228,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
