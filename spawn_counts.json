@@ -134,7 +134,7 @@
         "Torchic": 14,
         "Abomasnow": 5,
         "Slugma": 10,
-        "Venonat": 11,
+        "Venonat": 12,
         "Eelektrik": 6,
         "Diglett": 7,
         "Surskit": 8,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 11,
         "Luvdisc": 1,
-        "Fennekin": 15,
+        "Fennekin": 16,
         "Milcery": 17,
         "Trumbeak": 6,
         "Bonsly": 3,
@@ -277,7 +277,7 @@
         "Ledyba": 9,
         "Chinchou": 8,
         "Eiscue": 1,
-        "Nacli": 24,
+        "Nacli": 25,
         "Pancham": 7,
         "Bulbasaur": 29,
         "Dewpider": 8,
@@ -360,7 +360,7 @@
         "Hoppip": 32,
         "Slowbro": 4,
         "Gholdengo": 5,
-        "Trubbish": 8,
+        "Trubbish": 9,
         "Rockruff": 6,
         "Snowy castform": 2,
         "Dusclops": 10,
@@ -929,10 +929,11 @@
         "Heliolisk": 1,
         "Skarmory": 2,
         "Beartic": 1,
-        "Electrode": 1
+        "Electrode": 1,
+        "Cherrim": 1
       },
-      "total_spawns": 7974,
-      "last_spawn": "2026-07-10T17:35:43.587802"
+      "total_spawns": 7979,
+      "last_spawn": "2026-07-10T17:36:13.677714"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1645,7 +1646,7 @@
     }
   },
   "global": {
-    "total_spawns": 73507,
+    "total_spawns": 73512,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
