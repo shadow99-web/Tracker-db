@@ -63,7 +63,7 @@
         "Cubchoo": 29,
         "Koffing": 10,
         "Kirlia": 17,
-        "Deino": 23,
+        "Deino": 24,
         "Dolliv": 6,
         "Feebas": 16,
         "Prof tangrowth": 25,
@@ -229,7 +229,7 @@
         "Buneary": 6,
         "Gallade": 13,
         "Tangrowth": 2,
-        "Sizzlipede": 7,
+        "Sizzlipede": 8,
         "Skuntank": 2,
         "Palafin": 7,
         "Timburr": 27,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 6,
         "Petilil": 11,
-        "Bombirdier": 28,
+        "Bombirdier": 29,
         "Bellibolt": 7,
         "Toedscool": 26,
         "Paras": 5,
@@ -446,7 +446,7 @@
         "Smearguru": 24,
         "Magneton": 5,
         "Battle cyclizar": 6,
-        "Minccino": 4,
+        "Minccino": 5,
         "Hippowdon": 2,
         "Gloom": 6,
         "Mew": 4,
@@ -533,7 +533,7 @@
         "Midnight lycanroc": 4,
         "Skiploom": 5,
         "Stakataka": 1,
-        "Cascoon": 7,
+        "Cascoon": 8,
         "Sigilyph": 6,
         "Vibrava": 11,
         "Shuckle": 2,
@@ -930,10 +930,11 @@
         "Skarmory": 2,
         "Beartic": 1,
         "Electrode": 1,
-        "Cherrim": 1
+        "Cherrim": 1,
+        "Ampharos": 1
       },
-      "total_spawns": 7993,
-      "last_spawn": "2026-07-10T17:37:33.815282"
+      "total_spawns": 7999,
+      "last_spawn": "2026-07-10T17:38:13.440383"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1646,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73526,
+    "total_spawns": 73532,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
