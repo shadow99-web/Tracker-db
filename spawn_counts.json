@@ -182,7 +182,7 @@
         "Kadabra": 12,
         "Grovyle": 19,
         "Dratini": 37,
-        "Steelix": 3,
+        "Steelix": 4,
         "Sprigatito": 21,
         "Charcadet": 63,
         "Mudsdale": 8,
@@ -540,7 +540,7 @@
         "White flower floette": 3,
         "Octillery": 4,
         "Pawniard": 9,
-        "Brionne": 7,
+        "Brionne": 9,
         "Zarude": 2,
         "Yamper": 6,
         "Tropius": 1,
@@ -604,7 +604,7 @@
         "Conkeldurr": 3,
         "Sinistea": 6,
         "Golbat": 9,
-        "Amoonguss": 4,
+        "Amoonguss": 5,
         "Herdier": 6,
         "Blissey": 8,
         "Cinccino": 7,
@@ -664,7 +664,7 @@
         "Gyarados": 2,
         "Lapras": 6,
         "Grimmsnarl": 2,
-        "Sylveon": 8,
+        "Sylveon": 10,
         "Inteleon": 4,
         "Milotic": 1,
         "Slaking": 3,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8150,
-      "last_spawn": "2026-07-10T17:50:44.470974"
+      "total_spawns": 8156,
+      "last_spawn": "2026-07-10T17:51:23.648764"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73683,
+    "total_spawns": 73689,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
