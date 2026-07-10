@@ -323,7 +323,7 @@
         "Skitty": 13,
         "Finizen": 23,
         "Swablu": 6,
-        "Sunkern": 8,
+        "Sunkern": 9,
         "Snubbull": 4,
         "Crocalor": 2,
         "Magnemite": 24,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 21,
+        "Smearguru": 22,
         "Magneton": 5,
         "Battle cyclizar": 6,
         "Minccino": 4,
@@ -703,7 +703,7 @@
         "Glimmora": 7,
         "Parasect": 3,
         "Fuecoco": 7,
-        "Loudred": 8,
+        "Loudred": 9,
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 8,
@@ -915,10 +915,11 @@
         "Zoroark": 2,
         "Avalugg": 1,
         "Carnivine": 1,
-        "Yellow flower floette": 1
+        "Yellow flower floette": 1,
+        "Medicham": 1
       },
-      "total_spawns": 7469,
-      "last_spawn": "2026-07-10T08:15:48.545194"
+      "total_spawns": 7473,
+      "last_spawn": "2026-07-10T08:16:28.236207"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1631,7 +1632,7 @@
     }
   },
   "global": {
-    "total_spawns": 73002,
+    "total_spawns": 73006,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
