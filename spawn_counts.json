@@ -53,7 +53,7 @@
         "Applin": 6,
         "Staryu": 3,
         "Maschiff": 25,
-        "Smoliv": 26,
+        "Smoliv": 27,
         "Tirtouga": 11,
         "Hatenna": 50,
         "Shroomish": 5,
@@ -155,7 +155,7 @@
         "Litwick": 26,
         "Wooper": 9,
         "Pikipek": 49,
-        "Spritzee": 5,
+        "Spritzee": 6,
         "Stantler": 11,
         "Impidimp": 47,
         "Swadloon": 7,
@@ -209,7 +209,7 @@
         "Lechonk": 29,
         "Woobat": 6,
         "Skrelp": 8,
-        "Lileep": 6,
+        "Lileep": 7,
         "Drifloon": 6,
         "Mightyena": 6,
         "Sandaconda": 1,
@@ -295,7 +295,7 @@
         "Dartrix": 9,
         "Ceruledge": 7,
         "Vanillish": 8,
-        "Gimmighoul": 23,
+        "Gimmighoul": 24,
         "Glimmet": 17,
         "Popplio": 8,
         "Arboliva": 2,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 23,
+        "Gothita": 24,
         "Solosis": 30,
         "Sandygast": 7,
         "Pidove": 17,
@@ -503,7 +503,7 @@
         "Tyrogue": 6,
         "Nuzleaf": 10,
         "Spinarak": 7,
-        "Goomy": 16,
+        "Goomy": 17,
         "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 7,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 7,
         "Sigilyph": 6,
-        "Vibrava": 9,
+        "Vibrava": 10,
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 4,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7246,
-      "last_spawn": "2026-07-10T05:16:13.815351"
+      "total_spawns": 7253,
+      "last_spawn": "2026-07-10T05:16:48.642291"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72779,
+    "total_spawns": 72786,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
