@@ -38,7 +38,7 @@
         "Abra": 33,
         "Wiglett": 21,
         "Starly": 63,
-        "Caterpie": 25,
+        "Caterpie": 26,
         "Mareep": 27,
         "Capsakid": 31,
         "Numel": 10,
@@ -134,7 +134,7 @@
         "Torchic": 14,
         "Abomasnow": 5,
         "Slugma": 10,
-        "Venonat": 10,
+        "Venonat": 11,
         "Eelektrik": 6,
         "Diglett": 7,
         "Surskit": 7,
@@ -669,7 +669,7 @@
         "Milotic": 1,
         "Slaking": 3,
         "Obstagoon": 2,
-        "Greninja": 4,
+        "Greninja": 5,
         "Wash rotom": 1,
         "Igglybuff": 3,
         "Garchomp": 4,
@@ -927,8 +927,8 @@
         "Clawitzer": 1,
         "Giratina": 2
       },
-      "total_spawns": 7825,
-      "last_spawn": "2026-07-10T17:20:33.761798"
+      "total_spawns": 7828,
+      "last_spawn": "2026-07-10T17:21:04.061984"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1641,7 +1641,7 @@
     }
   },
   "global": {
-    "total_spawns": 73358,
+    "total_spawns": 73361,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
