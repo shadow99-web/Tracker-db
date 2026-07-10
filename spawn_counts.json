@@ -127,7 +127,7 @@
         "Flapple": 6,
         "Bronzor": 4,
         "Swirlix": 7,
-        "Varoom": 51,
+        "Varoom": 52,
         "Ducklett": 6,
         "Three-segment dudunsparce": 2,
         "Sandy burmy": 3,
@@ -291,7 +291,7 @@
         "Noibat": 7,
         "Gothorita": 6,
         "Ekans": 5,
-        "Brambleghast": 5,
+        "Brambleghast": 6,
         "Dartrix": 9,
         "Ceruledge": 7,
         "Vanillish": 8,
@@ -513,7 +513,7 @@
         "Necrozma": 4,
         "Dewott": 6,
         "Braviary": 8,
-        "Low key toxtricity": 4,
+        "Low key toxtricity": 6,
         "Nidorina": 10,
         "Bronzong": 3,
         "Foongus": 6,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 7,
         "Sigilyph": 6,
-        "Vibrava": 10,
+        "Vibrava": 11,
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 4,
@@ -591,7 +591,7 @@
         "Flareon": 6,
         "Gengar": 2,
         "Spiritomb": 2,
-        "Gurdurr": 3,
+        "Gurdurr": 4,
         "Quilava": 3,
         "Wurmple": 46,
         "Sandshrew": 10,
@@ -919,8 +919,8 @@
         "Medicham": 2,
         "Crobat": 2
       },
-      "total_spawns": 7505,
-      "last_spawn": "2026-07-10T08:21:08.613198"
+      "total_spawns": 7511,
+      "last_spawn": "2026-07-10T08:21:48.375766"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1633,7 +1633,7 @@
     }
   },
   "global": {
-    "total_spawns": 73038,
+    "total_spawns": 73044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
