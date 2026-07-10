@@ -116,7 +116,7 @@
         "Swinub": 27,
         "Rattata": 16,
         "Stonjourner": 1,
-        "Veluza": 42,
+        "Veluza": 44,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -151,7 +151,7 @@
         "Trapinch": 17,
         "Butterfree": 5,
         "Teddiursa": 56,
-        "Roggenrola": 40,
+        "Roggenrola": 42,
         "Litwick": 26,
         "Wooper": 9,
         "Pikipek": 53,
@@ -296,7 +296,7 @@
         "Ceruledge": 7,
         "Vanillish": 8,
         "Gimmighoul": 24,
-        "Glimmet": 17,
+        "Glimmet": 18,
         "Popplio": 9,
         "Arboliva": 2,
         "Luxio": 4,
@@ -341,7 +341,7 @@
         "Ursaring": 4,
         "Bidoof": 3,
         "Gothita": 24,
-        "Solosis": 30,
+        "Solosis": 31,
         "Sandygast": 7,
         "Pidove": 17,
         "Chespin": 8,
@@ -429,7 +429,7 @@
         "Haunter": 7,
         "Dottler": 9,
         "Wailmer": 6,
-        "Frigibax": 59,
+        "Frigibax": 61,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 7,
@@ -571,7 +571,7 @@
         "Seadra": 4,
         "Sealeo": 5,
         "Baltoy": 4,
-        "Karrablast": 8,
+        "Karrablast": 9,
         "Volbeat": 3,
         "Murkrow": 4,
         "Venusaur": 2,
@@ -755,7 +755,7 @@
         "Pineco": 4,
         "Maractus": 4,
         "Togetic": 4,
-        "Bewear": 3,
+        "Bewear": 4,
         "Indeedee": 3,
         "Beheeyem": 2,
         "Chimecho": 2,
@@ -915,8 +915,8 @@
         "Zoroark": 2,
         "Avalugg": 1
       },
-      "total_spawns": 7334,
-      "last_spawn": "2026-07-10T05:22:13.840224"
+      "total_spawns": 7344,
+      "last_spawn": "2026-07-10T05:22:44.245311"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1629,7 +1629,7 @@
     }
   },
   "global": {
-    "total_spawns": 72867,
+    "total_spawns": 72877,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
