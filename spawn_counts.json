@@ -79,7 +79,7 @@
         "Salandit": 8,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 19,
+        "Bramblin": 20,
         "Stufful": 11,
         "Shelgon": 9,
         "Marshtomp": 15,
@@ -296,7 +296,7 @@
         "Ceruledge": 8,
         "Vanillish": 9,
         "Gimmighoul": 27,
-        "Glimmet": 19,
+        "Glimmet": 20,
         "Popplio": 9,
         "Arboliva": 2,
         "Luxio": 4,
@@ -324,7 +324,7 @@
         "Finizen": 24,
         "Swablu": 7,
         "Sunkern": 10,
-        "Snubbull": 4,
+        "Snubbull": 5,
         "Crocalor": 2,
         "Magnemite": 28,
         "Doublade": 4,
@@ -386,7 +386,7 @@
         "Clodsire": 4,
         "Charizard": 10,
         "Axew": 75,
-        "Joltik": 8,
+        "Joltik": 9,
         "Gulpin": 6,
         "Mareanie": 6,
         "Throh": 4,
@@ -429,7 +429,7 @@
         "Haunter": 8,
         "Dottler": 9,
         "Wailmer": 7,
-        "Frigibax": 65,
+        "Frigibax": 67,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 8,
@@ -467,7 +467,7 @@
         "Shellder": 8,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 16,
+        "Absol": 18,
         "Calyrex": 1,
         "Kakuna": 5,
         "Shedinja": 4,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8081,
-      "last_spawn": "2026-07-10T17:45:34.415004"
+      "total_spawns": 8089,
+      "last_spawn": "2026-07-10T17:46:13.632883"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73614,
+    "total_spawns": 73622,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
