@@ -178,7 +178,7 @@
         "Flamigo": 20,
         "Bellsprout": 19,
         "Houndstone": 6,
-        "Beldum": 35,
+        "Beldum": 37,
         "Kadabra": 12,
         "Grovyle": 19,
         "Dratini": 37,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 25,
+        "Smearguru": 26,
         "Magneton": 5,
         "Battle cyclizar": 8,
         "Minccino": 6,
@@ -620,7 +620,7 @@
         "Omanyte": 7,
         "Mamoswine": 3,
         "Spoink": 12,
-        "Dhelmise": 1,
+        "Dhelmise": 2,
         "Armaldo": 5,
         "Krokorok": 9,
         "Torkoal": 7,
@@ -947,8 +947,8 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1
       },
-      "total_spawns": 8752,
-      "last_spawn": "2026-07-10T19:22:08.214093"
+      "total_spawns": 8756,
+      "last_spawn": "2026-07-10T19:22:38.250512"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74285,
+    "total_spawns": 74289,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
