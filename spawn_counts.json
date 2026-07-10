@@ -150,7 +150,7 @@
         "Claydol": 2,
         "Trapinch": 28,
         "Butterfree": 5,
-        "Teddiursa": 66,
+        "Teddiursa": 67,
         "Roggenrola": 48,
         "Litwick": 34,
         "Wooper": 9,
@@ -343,7 +343,7 @@
         "Gothita": 28,
         "Solosis": 38,
         "Sandygast": 7,
-        "Pidove": 22,
+        "Pidove": 23,
         "Chespin": 11,
         "Combee": 5,
         "Cyndaquil": 9,
@@ -429,7 +429,7 @@
         "Haunter": 10,
         "Dottler": 9,
         "Wailmer": 9,
-        "Frigibax": 81,
+        "Frigibax": 83,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 8,
@@ -949,10 +949,11 @@
         "Walrein": 1,
         "Druddigon": 2,
         "Galarian mr. mime": 2,
-        "Arbok": 1
+        "Arbok": 1,
+        "Aerodactyl": 1
       },
-      "total_spawns": 8909,
-      "last_spawn": "2026-07-10T19:43:29.162466"
+      "total_spawns": 8914,
+      "last_spawn": "2026-07-10T19:44:08.263428"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1665,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74442,
+    "total_spawns": 74447,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
