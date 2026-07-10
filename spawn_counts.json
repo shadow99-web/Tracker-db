@@ -34,7 +34,7 @@
         "Bounsweet": 56,
         "Fletchling": 39,
         "Whirlipede": 10,
-        "Duskull": 62,
+        "Duskull": 64,
         "Abra": 34,
         "Wiglett": 21,
         "Starly": 63,
@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 61,
-        "Sandile": 47,
+        "Sandile": 49,
         "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
@@ -143,14 +143,14 @@
         "Spearow": 8,
         "Servine": 3,
         "Wugtrio": 9,
-        "Tranquill": 9,
+        "Tranquill": 10,
         "Cetitan": 6,
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
         "Trapinch": 21,
         "Butterfree": 5,
-        "Teddiursa": 60,
+        "Teddiursa": 62,
         "Roggenrola": 46,
         "Litwick": 28,
         "Wooper": 9,
@@ -414,7 +414,7 @@
         "Cradily": 4,
         "Burmy": 1,
         "Sewaddle": 23,
-        "Shelmet": 7,
+        "Shelmet": 8,
         "Combusken": 3,
         "Croagunk": 8,
         "Mothim": 4,
@@ -486,7 +486,7 @@
         "Altaria": 6,
         "Attack deoxys": 2,
         "Mudkip": 14,
-        "Galarian zapdos": 1,
+        "Galarian zapdos": 2,
         "Empoleon": 1,
         "Voltorb": 6,
         "Hitmonchan": 3,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7916,
-      "last_spawn": "2026-07-10T17:30:43.829393"
+      "total_spawns": 7925,
+      "last_spawn": "2026-07-10T17:31:23.518586"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73449,
+    "total_spawns": 73458,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
