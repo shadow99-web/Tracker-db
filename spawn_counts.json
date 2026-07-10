@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 56,
+        "Bounsweet": 58,
         "Fletchling": 40,
         "Whirlipede": 10,
         "Duskull": 66,
@@ -178,7 +178,7 @@
         "Flamigo": 17,
         "Bellsprout": 18,
         "Houndstone": 5,
-        "Beldum": 31,
+        "Beldum": 33,
         "Kadabra": 12,
         "Grovyle": 19,
         "Dratini": 37,
@@ -546,7 +546,7 @@
         "Tropius": 1,
         "Tatsugiri": 7,
         "Xerneas": 4,
-        "Nincada": 11,
+        "Nincada": 12,
         "Audino": 3,
         "Mime jr.": 3,
         "Yungoos": 8,
@@ -605,7 +605,7 @@
         "Sinistea": 6,
         "Golbat": 9,
         "Amoonguss": 4,
-        "Herdier": 5,
+        "Herdier": 6,
         "Blissey": 8,
         "Cinccino": 7,
         "Alolan vulpix": 2,
@@ -833,7 +833,7 @@
         "Galvantula": 1,
         "Drifblim": 1,
         "Togedemaru": 1,
-        "Jellicent": 2,
+        "Jellicent": 3,
         "Monferno": 4,
         "Smoochum": 1,
         "Drampa": 4,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8089,
-      "last_spawn": "2026-07-10T17:46:13.632883"
+      "total_spawns": 8096,
+      "last_spawn": "2026-07-10T17:46:43.883337"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73622,
+    "total_spawns": 73629,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
