@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 9,
-        "Oddish": 33,
+        "Oddish": 34,
         "Totodile": 16,
         "Vanillite": 70,
         "Weedle": 45,
@@ -35,12 +35,12 @@
         "Fletchling": 39,
         "Whirlipede": 9,
         "Duskull": 62,
-        "Abra": 31,
+        "Abra": 32,
         "Wiglett": 21,
         "Starly": 63,
         "Caterpie": 24,
         "Mareep": 27,
-        "Capsakid": 29,
+        "Capsakid": 30,
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 21,
@@ -435,7 +435,7 @@
         "Scraggy": 8,
         "Stoutland": 1,
         "Elgyem": 4,
-        "Dragonair": 4,
+        "Dragonair": 5,
         "Spheal": 25,
         "Amaura": 10,
         "Wailord": 2,
@@ -921,8 +921,8 @@
         "Dandy trim furfrou": 2,
         "Vaporeon": 2
       },
-      "total_spawns": 7640,
-      "last_spawn": "2026-07-10T09:29:38.395641"
+      "total_spawns": 7644,
+      "last_spawn": "2026-07-10T09:30:18.160648"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1635,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 73173,
+    "total_spawns": 73177,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
