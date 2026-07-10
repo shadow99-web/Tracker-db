@@ -15,7 +15,7 @@
         "Vanillite": 76,
         "Weedle": 53,
         "Kabutops": 4,
-        "Poliwag": 31,
+        "Poliwag": 32,
         "Fidough": 40,
         "Charjabug": 3,
         "Hatterene": 7,
@@ -112,7 +112,7 @@
         "Dreepy": 71,
         "Treecko": 20,
         "Shroodle": 36,
-        "Ride cyclizar": 10,
+        "Ride cyclizar": 11,
         "Swinub": 33,
         "Rattata": 25,
         "Stonjourner": 2,
@@ -260,7 +260,7 @@
         "Taillow": 8,
         "Watchog": 3,
         "Porygon": 34,
-        "Wooloo": 9,
+        "Wooloo": 10,
         "Mawile": 7,
         "Marill": 9,
         "Lickitung": 7,
@@ -952,10 +952,11 @@
         "Arbok": 1,
         "Aerodactyl": 1,
         "Gothitelle": 2,
-        "Turtonator": 1
+        "Turtonator": 1,
+        "Cofagrigus": 1
       },
-      "total_spawns": 9180,
-      "last_spawn": "2026-07-10T20:23:18.363820"
+      "total_spawns": 9184,
+      "last_spawn": "2026-07-10T20:23:58.230410"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1668,7 +1669,7 @@
     }
   },
   "global": {
-    "total_spawns": 74713,
+    "total_spawns": 74717,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
