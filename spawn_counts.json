@@ -57,7 +57,7 @@
         "Tirtouga": 13,
         "Hatenna": 66,
         "Shroomish": 5,
-        "Lillipup": 38,
+        "Lillipup": 39,
         "Mosslax": 60,
         "Maushold": 5,
         "Cubchoo": 29,
@@ -177,7 +177,7 @@
         "Lokix": 13,
         "Flamigo": 18,
         "Bellsprout": 19,
-        "Houndstone": 5,
+        "Houndstone": 6,
         "Beldum": 35,
         "Kadabra": 12,
         "Grovyle": 19,
@@ -192,7 +192,7 @@
         "Comfey": 9,
         "Diggersby": 2,
         "Klawf": 49,
-        "Dj rotom": 23,
+        "Dj rotom": 24,
         "Chef dente": 32,
         "Hisuian qwilfish": 1,
         "Bagon": 32,
@@ -539,7 +539,7 @@
         "Shuckle": 2,
         "White flower floette": 3,
         "Octillery": 5,
-        "Pawniard": 10,
+        "Pawniard": 11,
         "Brionne": 10,
         "Zarude": 2,
         "Yamper": 6,
@@ -747,7 +747,7 @@
         "Regigigas": 1,
         "Bisharp": 2,
         "Forretress": 2,
-        "Swampert": 2,
+        "Swampert": 4,
         "High plain vivillon": 1,
         "Metapod": 8,
         "Lampent": 5,
@@ -944,8 +944,8 @@
         "Bellossom": 1,
         "Feraligatr": 2
       },
-      "total_spawns": 8565,
-      "last_spawn": "2026-07-10T18:56:08.243080"
+      "total_spawns": 8571,
+      "last_spawn": "2026-07-10T18:56:38.306616"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1658,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 74098,
+    "total_spawns": 74104,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
