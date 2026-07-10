@@ -38,7 +38,7 @@
         "Abra": 30,
         "Wiglett": 21,
         "Starly": 61,
-        "Caterpie": 22,
+        "Caterpie": 23,
         "Mareep": 26,
         "Capsakid": 27,
         "Numel": 10,
@@ -171,7 +171,7 @@
         "Lotad": 24,
         "Mienshao": 3,
         "Blipbug": 56,
-        "Rellor": 16,
+        "Rellor": 17,
         "Rolycoly": 35,
         "Poliwhirl": 9,
         "Lokix": 13,
@@ -269,12 +269,12 @@
         "Dracovish": 3,
         "Slowpoke": 6,
         "Drizzile": 9,
-        "Tinkatink": 24,
+        "Tinkatink": 25,
         "Frillish": 1,
         "Plusle": 7,
         "Decidueye": 5,
         "Kricketot": 8,
-        "Ledyba": 7,
+        "Ledyba": 8,
         "Chinchou": 8,
         "Eiscue": 1,
         "Nacli": 23,
@@ -916,8 +916,8 @@
         "Avalugg": 1,
         "Carnivine": 1
       },
-      "total_spawns": 7407,
-      "last_spawn": "2026-07-10T05:27:08.354168"
+      "total_spawns": 7411,
+      "last_spawn": "2026-07-10T05:27:43.751354"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72940,
+    "total_spawns": 72944,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
