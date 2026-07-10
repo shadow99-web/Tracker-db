@@ -144,7 +144,7 @@
         "Servine": 3,
         "Wugtrio": 9,
         "Tranquill": 10,
-        "Cetitan": 6,
+        "Cetitan": 7,
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
@@ -161,7 +161,7 @@
         "Swadloon": 9,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 39,
+        "Venipede": 40,
         "Pansage": 7,
         "Cetoddle": 26,
         "Togepi": 34,
@@ -343,14 +343,14 @@
         "Gothita": 27,
         "Solosis": 32,
         "Sandygast": 7,
-        "Pidove": 19,
+        "Pidove": 20,
         "Chespin": 11,
         "Combee": 5,
         "Cyndaquil": 8,
         "Grotle": 4,
         "Tinkaton": 2,
         "Bergmite": 7,
-        "Klang": 4,
+        "Klang": 5,
         "Tepig": 9,
         "Spinda": 1,
         "Phantump": 7,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7930,
-      "last_spawn": "2026-07-10T17:31:53.626774"
+      "total_spawns": 7934,
+      "last_spawn": "2026-07-10T17:32:23.872968"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73463,
+    "total_spawns": 73467,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
