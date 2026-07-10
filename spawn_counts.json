@@ -89,7 +89,7 @@
         "Victini": 1,
         "Pawmi": 65,
         "Sandile": 55,
-        "Charmeleon": 11,
+        "Charmeleon": 12,
         "Riolu": 22,
         "Gible": 48,
         "Greavard": 64,
@@ -388,7 +388,7 @@
         "Axew": 83,
         "Joltik": 9,
         "Gulpin": 6,
-        "Mareanie": 6,
+        "Mareanie": 7,
         "Throh": 4,
         "Sentret": 16,
         "Houndoom": 2,
@@ -709,7 +709,7 @@
         "Skiddo": 9,
         "Simisear": 8,
         "Hawlucha": 2,
-        "Stunky": 9,
+        "Stunky": 10,
         "Garbodor": 2,
         "Remoraid": 4,
         "Exeggcute": 7,
@@ -932,10 +932,11 @@
         "Electrode": 1,
         "Cherrim": 1,
         "Ampharos": 1,
-        "Blue-striped basculin": 1
+        "Blue-striped basculin": 1,
+        "Summer sawsbuck": 2
       },
-      "total_spawns": 8303,
-      "last_spawn": "2026-07-10T18:10:43.643607"
+      "total_spawns": 8308,
+      "last_spawn": "2026-07-10T18:11:23.498557"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1648,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73836,
+    "total_spawns": 73841,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
