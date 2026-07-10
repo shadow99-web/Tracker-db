@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 3,
         "Maschiff": 26,
-        "Smoliv": 28,
+        "Smoliv": 29,
         "Tirtouga": 13,
         "Hatenna": 54,
         "Shroomish": 5,
@@ -87,8 +87,8 @@
         "Shinx": 68,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 61,
-        "Sandile": 51,
+        "Pawmi": 63,
+        "Sandile": 53,
         "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
@@ -139,7 +139,7 @@
         "Diglett": 7,
         "Surskit": 8,
         "Seedot": 22,
-        "Jigglypuff": 11,
+        "Jigglypuff": 12,
         "Spearow": 8,
         "Servine": 3,
         "Wugtrio": 9,
@@ -175,7 +175,7 @@
         "Rolycoly": 37,
         "Poliwhirl": 9,
         "Lokix": 13,
-        "Flamigo": 16,
+        "Flamigo": 17,
         "Bellsprout": 18,
         "Houndstone": 5,
         "Beldum": 29,
@@ -853,7 +853,7 @@
         "Blue flower floette": 1,
         "Jumpluff": 1,
         "Basculin": 1,
-        "Clobbopus": 2,
+        "Clobbopus": 3,
         "Spewpa": 3,
         "Delcatty": 2,
         "Whimsicott": 1,
@@ -932,8 +932,8 @@
         "Electrode": 1,
         "Cherrim": 1
       },
-      "total_spawns": 7985,
-      "last_spawn": "2026-07-10T17:36:53.611711"
+      "total_spawns": 7993,
+      "last_spawn": "2026-07-10T17:37:33.815282"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1646,7 +1646,7 @@
     }
   },
   "global": {
-    "total_spawns": 73518,
+    "total_spawns": 73526,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
