@@ -87,11 +87,11 @@
         "Shinx": 80,
         "Drakloak": 17,
         "Victini": 1,
-        "Pawmi": 75,
+        "Pawmi": 77,
         "Sandile": 65,
         "Charmeleon": 13,
         "Riolu": 22,
-        "Gible": 51,
+        "Gible": 52,
         "Greavard": 68,
         "Snover": 17,
         "Piplup": 12,
@@ -277,7 +277,7 @@
         "Ledyba": 11,
         "Chinchou": 8,
         "Eiscue": 1,
-        "Nacli": 25,
+        "Nacli": 26,
         "Pancham": 8,
         "Bulbasaur": 31,
         "Dewpider": 10,
@@ -558,7 +558,7 @@
         "Pawmot": 2,
         "Blitzle": 7,
         "Iron crown": 4,
-        "Barbaracle": 2,
+        "Barbaracle": 3,
         "Nidoqueen": 4,
         "White flower florges": 1,
         "Hydreigon": 2,
@@ -847,7 +847,7 @@
         "Tapu lele": 2,
         "Naclstack": 2,
         "Wobbuffet": 1,
-        "Morgrem": 4,
+        "Morgrem": 5,
         "Budew": 3,
         "Dragapult": 4,
         "Blue flower floette": 1,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9091,
-      "last_spawn": "2026-07-10T20:10:08.370803"
+      "total_spawns": 9097,
+      "last_spawn": "2026-07-10T20:10:48.324979"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74624,
+    "total_spawns": 74630,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
