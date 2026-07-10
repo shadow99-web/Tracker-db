@@ -21,7 +21,7 @@
         "Hatterene": 5,
         "Rowlet": 13,
         "Anorith": 9,
-        "Arctibax": 5,
+        "Arctibax": 6,
         "Ralts": 50,
         "Peakychu": 35,
         "Cutiefly": 9,
@@ -43,7 +43,7 @@
         "Capsakid": 27,
         "Numel": 9,
         "Pawmo": 9,
-        "Wattrel": 19,
+        "Wattrel": 20,
         "Tadbulb": 32,
         "Yanmega": 1,
         "Tympole": 23,
@@ -135,7 +135,7 @@
         "Abomasnow": 5,
         "Slugma": 10,
         "Venonat": 10,
-        "Eelektrik": 5,
+        "Eelektrik": 6,
         "Diglett": 7,
         "Surskit": 7,
         "Seedot": 20,
@@ -156,7 +156,7 @@
         "Wooper": 9,
         "Pikipek": 53,
         "Spritzee": 6,
-        "Stantler": 11,
+        "Stantler": 12,
         "Impidimp": 47,
         "Swadloon": 7,
         "Sunny castform": 4,
@@ -221,7 +221,7 @@
         "Graveler": 4,
         "Duosion": 7,
         "Orthworm": 31,
-        "Yamask": 5,
+        "Yamask": 6,
         "Nymble": 27,
         "Snorunt": 8,
         "Carvanha": 6,
@@ -236,7 +236,7 @@
         "Shellos": 3,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 28,
+        "Whismur": 29,
         "Jangmo-o": 11,
         "Lunatone": 1,
         "Machoke": 11,
@@ -407,7 +407,7 @@
         "Minior": 1,
         "Darmanitan": 3,
         "Lopunny": 2,
-        "Chimchar": 11,
+        "Chimchar": 13,
         "Gligar": 8,
         "Quaxly": 12,
         "Spiky-eared pichu": 2,
@@ -916,8 +916,8 @@
         "Avalugg": 1,
         "Carnivine": 1
       },
-      "total_spawns": 7379,
-      "last_spawn": "2026-07-10T05:24:58.863024"
+      "total_spawns": 7387,
+      "last_spawn": "2026-07-10T05:25:33.524704"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72912,
+    "total_spawns": 72920,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
