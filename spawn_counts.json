@@ -58,7 +58,7 @@
         "Hatenna": 66,
         "Shroomish": 5,
         "Lillipup": 40,
-        "Mosslax": 62,
+        "Mosslax": 63,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -126,7 +126,7 @@
         "Rookidee": 63,
         "Flapple": 8,
         "Bronzor": 5,
-        "Swirlix": 7,
+        "Swirlix": 8,
         "Varoom": 58,
         "Ducklett": 8,
         "Three-segment dudunsparce": 3,
@@ -195,7 +195,7 @@
         "Dj rotom": 24,
         "Chef dente": 32,
         "Hisuian qwilfish": 1,
-        "Bagon": 32,
+        "Bagon": 34,
         "Pikachu": 18,
         "Tarountula": 31,
         "Rhyhorn": 39,
@@ -763,7 +763,7 @@
         "Gorebyss": 2,
         "Eldegoss": 3,
         "Pinsir": 3,
-        "Ivysaur": 9,
+        "Ivysaur": 10,
         "Pa'u oricorio": 1,
         "Toucannon": 3,
         "Flygon": 4,
@@ -945,8 +945,8 @@
         "Feraligatr": 2,
         "Baxcalibur": 1
       },
-      "total_spawns": 8670,
-      "last_spawn": "2026-07-10T19:10:38.731100"
+      "total_spawns": 8675,
+      "last_spawn": "2026-07-10T19:11:18.353215"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1659,7 +1659,7 @@
     }
   },
   "global": {
-    "total_spawns": 74203,
+    "total_spawns": 74208,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
