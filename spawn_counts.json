@@ -158,7 +158,7 @@
         "Spritzee": 6,
         "Stantler": 14,
         "Impidimp": 47,
-        "Swadloon": 9,
+        "Swadloon": 10,
         "Sunny castform": 4,
         "Vullaby": 5,
         "Venipede": 40,
@@ -303,7 +303,7 @@
         "Quaxwell": 2,
         "Swanna": 3,
         "Torracat": 7,
-        "Geodude": 26,
+        "Geodude": 27,
         "Tentacruel": 1,
         "Archen": 21,
         "Blue plumage squawkabilly": 5,
@@ -628,7 +628,7 @@
         "Rampardos": 2,
         "Weepinbell": 7,
         "Cufant": 5,
-        "Mienfoo": 5,
+        "Mienfoo": 6,
         "Quagsire": 3,
         "Komala": 3,
         "Poochyena": 6,
@@ -725,7 +725,7 @@
         "Sawk": 1,
         "Azumarill": 1,
         "Delphox": 1,
-        "Cranidos": 6,
+        "Cranidos": 7,
         "Tsareena": 3,
         "Chansey": 2,
         "Camerupt": 3,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8047,
-      "last_spawn": "2026-07-10T17:42:13.829766"
+      "total_spawns": 8051,
+      "last_spawn": "2026-07-10T17:42:45.416938"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73580,
+    "total_spawns": 73584,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
