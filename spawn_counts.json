@@ -16,7 +16,7 @@
         "Weedle": 47,
         "Kabutops": 2,
         "Poliwag": 29,
-        "Fidough": 35,
+        "Fidough": 36,
         "Charjabug": 3,
         "Hatterene": 7,
         "Rowlet": 14,
@@ -183,7 +183,7 @@
         "Grovyle": 19,
         "Dratini": 33,
         "Steelix": 3,
-        "Sprigatito": 19,
+        "Sprigatito": 21,
         "Charcadet": 63,
         "Mudsdale": 8,
         "Meowth": 15,
@@ -205,7 +205,7 @@
         "Unfezant": 4,
         "Fraxure": 11,
         "Zubat": 23,
-        "Drowzee": 9,
+        "Drowzee": 10,
         "Lechonk": 32,
         "Woobat": 6,
         "Skrelp": 8,
@@ -350,7 +350,7 @@
         "Grotle": 4,
         "Tinkaton": 2,
         "Bergmite": 7,
-        "Klang": 5,
+        "Klang": 6,
         "Tepig": 9,
         "Spinda": 1,
         "Phantump": 7,
@@ -416,7 +416,7 @@
         "Sewaddle": 23,
         "Shelmet": 8,
         "Combusken": 3,
-        "Croagunk": 8,
+        "Croagunk": 9,
         "Mothim": 4,
         "Crabominable": 5,
         "Krabby": 7,
@@ -446,7 +446,7 @@
         "Smearguru": 24,
         "Magneton": 5,
         "Battle cyclizar": 6,
-        "Minccino": 5,
+        "Minccino": 6,
         "Hippowdon": 2,
         "Gloom": 6,
         "Mew": 4,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 7999,
-      "last_spawn": "2026-07-10T17:38:13.440383"
+      "total_spawns": 8006,
+      "last_spawn": "2026-07-10T17:38:43.879789"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73532,
+    "total_spawns": 73539,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
