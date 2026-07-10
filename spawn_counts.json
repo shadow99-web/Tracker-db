@@ -13,7 +13,7 @@
         "Oddish": 38,
         "Totodile": 16,
         "Vanillite": 76,
-        "Weedle": 49,
+        "Weedle": 51,
         "Kabutops": 2,
         "Poliwag": 29,
         "Fidough": 37,
@@ -52,7 +52,7 @@
         "Skwovet": 12,
         "Applin": 7,
         "Staryu": 4,
-        "Maschiff": 26,
+        "Maschiff": 27,
         "Smoliv": 30,
         "Tirtouga": 13,
         "Hatenna": 66,
@@ -273,7 +273,7 @@
         "Frillish": 3,
         "Plusle": 11,
         "Decidueye": 5,
-        "Kricketot": 10,
+        "Kricketot": 11,
         "Ledyba": 9,
         "Chinchou": 8,
         "Eiscue": 1,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 7,
-        "Tepig": 11,
+        "Tepig": 12,
         "Spinda": 1,
         "Phantump": 7,
         "Barboach": 4,
@@ -942,8 +942,8 @@
         "Unown u": 2,
         "Blaze breed tauros": 2
       },
-      "total_spawns": 8535,
-      "last_spawn": "2026-07-10T18:53:03.607002"
+      "total_spawns": 8540,
+      "last_spawn": "2026-07-10T18:53:56.731909"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1656,7 +1656,7 @@
     }
   },
   "global": {
-    "total_spawns": 74068,
+    "total_spawns": 74073,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
