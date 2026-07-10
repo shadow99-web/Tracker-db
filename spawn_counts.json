@@ -13,7 +13,7 @@
         "Oddish": 36,
         "Totodile": 16,
         "Vanillite": 74,
-        "Weedle": 47,
+        "Weedle": 49,
         "Kabutops": 2,
         "Poliwag": 29,
         "Fidough": 36,
@@ -38,8 +38,8 @@
         "Abra": 35,
         "Wiglett": 21,
         "Starly": 63,
-        "Caterpie": 26,
-        "Mareep": 28,
+        "Caterpie": 27,
+        "Mareep": 29,
         "Capsakid": 31,
         "Numel": 10,
         "Pawmo": 9,
@@ -165,7 +165,7 @@
         "Pansage": 7,
         "Cetoddle": 27,
         "Togepi": 35,
-        "Tandemaus": 28,
+        "Tandemaus": 29,
         "Clefairy": 7,
         "Unown q": 1,
         "Lotad": 26,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 10,
-        "Axew": 77,
+        "Axew": 79,
         "Joltik": 9,
         "Gulpin": 6,
         "Mareanie": 6,
@@ -583,7 +583,7 @@
         "Scyther": 22,
         "Polteageist": 2,
         "Lombre": 5,
-        "Dachsbun": 7,
+        "Dachsbun": 8,
         "Primeape": 4,
         "Goldeen": 9,
         "Gouging fire": 2,
@@ -834,7 +834,7 @@
         "Drifblim": 1,
         "Togedemaru": 1,
         "Jellicent": 3,
-        "Monferno": 4,
+        "Monferno": 5,
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 4,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8141,
-      "last_spawn": "2026-07-10T17:50:05.574494"
+      "total_spawns": 8150,
+      "last_spawn": "2026-07-10T17:50:44.470974"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73674,
+    "total_spawns": 73683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
