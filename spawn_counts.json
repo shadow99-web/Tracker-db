@@ -44,7 +44,7 @@
         "Numel": 9,
         "Pawmo": 9,
         "Wattrel": 18,
-        "Tadbulb": 30,
+        "Tadbulb": 31,
         "Yanmega": 1,
         "Tympole": 22,
         "Grubbin": 27,
@@ -93,7 +93,7 @@
         "Riolu": 18,
         "Gible": 46,
         "Greavard": 54,
-        "Snover": 11,
+        "Snover": 13,
         "Piplup": 9,
         "Dondozo": 18,
         "Cyclizar": 11,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 5,
         "Doduo": 7,
-        "Flittle": 30,
+        "Flittle": 31,
         "Armarouge": 7,
         "Clauncher": 5,
         "Tentacool": 5,
@@ -164,7 +164,7 @@
         "Venipede": 34,
         "Pansage": 6,
         "Cetoddle": 25,
-        "Togepi": 29,
+        "Togepi": 30,
         "Tandemaus": 21,
         "Clefairy": 7,
         "Unown q": 1,
@@ -232,7 +232,7 @@
         "Sizzlipede": 6,
         "Skuntank": 2,
         "Palafin": 6,
-        "Timburr": 24,
+        "Timburr": 25,
         "Shellos": 2,
         "Arcanine": 1,
         "Sliggoo": 4,
@@ -334,7 +334,7 @@
         "Floragato": 5,
         "Larvesta": 21,
         "Magby": 1,
-        "Roaming gimmighoul": 18,
+        "Roaming gimmighoul": 19,
         "Volcarona": 5,
         "Togekiss": 6,
         "Furfrou": 4,
@@ -728,7 +728,7 @@
         "Cranidos": 4,
         "Tsareena": 3,
         "Chansey": 2,
-        "Camerupt": 2,
+        "Camerupt": 3,
         "Litten": 4,
         "Gossifleur": 5,
         "Electivire": 2,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7253,
-      "last_spawn": "2026-07-10T05:16:48.642291"
+      "total_spawns": 7261,
+      "last_spawn": "2026-07-10T05:17:23.536891"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72786,
+    "total_spawns": 72794,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
