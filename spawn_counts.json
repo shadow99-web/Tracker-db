@@ -43,7 +43,7 @@
         "Capsakid": 34,
         "Numel": 10,
         "Pawmo": 9,
-        "Wattrel": 25,
+        "Wattrel": 26,
         "Tadbulb": 40,
         "Yanmega": 3,
         "Tympole": 28,
@@ -356,7 +356,7 @@
         "Phantump": 7,
         "Barboach": 4,
         "Nosepass": 3,
-        "Electrike": 14,
+        "Electrike": 15,
         "Hoppip": 36,
         "Slowbro": 4,
         "Gholdengo": 6,
@@ -448,7 +448,7 @@
         "Battle cyclizar": 8,
         "Minccino": 6,
         "Hippowdon": 2,
-        "Gloom": 7,
+        "Gloom": 8,
         "Mew": 4,
         "Thwackey": 6,
         "Latios": 2,
@@ -738,7 +738,7 @@
         "Zangoose": 2,
         "Thievul": 3,
         "Galarian slowbro": 4,
-        "Oricorio": 2,
+        "Oricorio": 3,
         "Hitmonlee": 3,
         "Sudowoodo": 3,
         "Yveltal": 3,
@@ -947,8 +947,8 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1
       },
-      "total_spawns": 8783,
-      "last_spawn": "2026-07-10T19:26:08.487717"
+      "total_spawns": 8787,
+      "last_spawn": "2026-07-10T19:26:48.645629"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74316,
+    "total_spawns": 74320,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
