@@ -113,7 +113,7 @@
         "Treecko": 16,
         "Shroodle": 31,
         "Ride cyclizar": 10,
-        "Swinub": 29,
+        "Swinub": 30,
         "Rattata": 17,
         "Stonjourner": 1,
         "Veluza": 52,
@@ -198,7 +198,7 @@
         "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 27,
-        "Rhyhorn": 35,
+        "Rhyhorn": 36,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 5,
@@ -371,7 +371,7 @@
         "Kingambit": 2,
         "Cresselia": 4,
         "Duraludon": 8,
-        "Nidorino": 8,
+        "Nidorino": 9,
         "Rayquaza": 15,
         "Horsea": 20,
         "Reshiram": 3,
@@ -923,8 +923,8 @@
         "Hypno": 1,
         "Tyranitar": 2
       },
-      "total_spawns": 7757,
-      "last_spawn": "2026-07-10T13:40:38.188080"
+      "total_spawns": 7760,
+      "last_spawn": "2026-07-10T13:41:08.246297"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1637,7 +1637,7 @@
     }
   },
   "global": {
-    "total_spawns": 73290,
+    "total_spawns": 73293,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
