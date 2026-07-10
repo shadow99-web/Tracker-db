@@ -83,7 +83,7 @@
         "Stufful": 11,
         "Shelgon": 9,
         "Marshtomp": 15,
-        "Squirtle": 12,
+        "Squirtle": 13,
         "Shinx": 66,
         "Drakloak": 9,
         "Victini": 1,
@@ -114,7 +114,7 @@
         "Shroodle": 32,
         "Ride cyclizar": 10,
         "Swinub": 31,
-        "Rattata": 17,
+        "Rattata": 18,
         "Stonjourner": 1,
         "Veluza": 54,
         "Panpour": 9,
@@ -150,7 +150,7 @@
         "Claydol": 2,
         "Trapinch": 21,
         "Butterfree": 5,
-        "Teddiursa": 58,
+        "Teddiursa": 60,
         "Roggenrola": 46,
         "Litwick": 28,
         "Wooper": 9,
@@ -464,7 +464,7 @@
         "Galarian articuno": 1,
         "Kyurem": 1,
         "Electabuzz": 2,
-        "Shellder": 7,
+        "Shellder": 8,
         "Chi-yu": 1,
         "Landorus": 1,
         "Absol": 16,
@@ -838,7 +838,7 @@
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 4,
-        "Araquanid": 2,
+        "Araquanid": 4,
         "Glaceon": 2,
         "Grumpig": 1,
         "Roaring moon": 2,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7878,
-      "last_spawn": "2026-07-10T17:27:23.678936"
+      "total_spawns": 7885,
+      "last_spawn": "2026-07-10T17:27:53.716512"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73411,
+    "total_spawns": 73418,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
