@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 25,
         "Vulpix": 21,
-        "Gastly": 57,
+        "Gastly": 58,
         "Aron": 32,
         "Honedge": 54,
         "Houndour": 4,
@@ -220,7 +220,7 @@
         "Shuppet": 13,
         "Graveler": 4,
         "Duosion": 7,
-        "Orthworm": 31,
+        "Orthworm": 32,
         "Yamask": 7,
         "Nymble": 29,
         "Snorunt": 8,
@@ -271,7 +271,7 @@
         "Drizzile": 9,
         "Tinkatink": 26,
         "Frillish": 3,
-        "Plusle": 9,
+        "Plusle": 11,
         "Decidueye": 5,
         "Kricketot": 9,
         "Ledyba": 9,
@@ -297,7 +297,7 @@
         "Vanillish": 9,
         "Gimmighoul": 27,
         "Glimmet": 20,
-        "Popplio": 9,
+        "Popplio": 10,
         "Arboliva": 2,
         "Luxio": 4,
         "Quaxwell": 2,
@@ -448,7 +448,7 @@
         "Battle cyclizar": 7,
         "Minccino": 6,
         "Hippowdon": 2,
-        "Gloom": 6,
+        "Gloom": 7,
         "Mew": 4,
         "Thwackey": 6,
         "Latios": 2,
@@ -549,7 +549,7 @@
         "Nincada": 12,
         "Audino": 3,
         "Mime jr.": 3,
-        "Yungoos": 8,
+        "Yungoos": 9,
         "Palpitoad": 7,
         "Smeargle": 4,
         "Appletun": 6,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8167,
-      "last_spawn": "2026-07-10T17:52:33.575004"
+      "total_spawns": 8174,
+      "last_spawn": "2026-07-10T17:53:03.621282"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73700,
+    "total_spawns": 73707,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
