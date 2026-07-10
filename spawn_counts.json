@@ -218,7 +218,7 @@
         "Chikorita": 17,
         "Donphan": 7,
         "Shuppet": 13,
-        "Graveler": 5,
+        "Graveler": 6,
         "Duosion": 7,
         "Orthworm": 32,
         "Yamask": 8,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 29,
+        "Gothita": 30,
         "Solosis": 38,
         "Sandygast": 7,
         "Pidove": 23,
@@ -373,7 +373,7 @@
         "Duraludon": 10,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 27,
+        "Horsea": 28,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
@@ -704,7 +704,7 @@
         "Parasect": 3,
         "Fuecoco": 9,
         "Loudred": 9,
-        "Vespiquen": 1,
+        "Vespiquen": 2,
         "Gastrodon": 1,
         "Skiddo": 10,
         "Simisear": 10,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9054,
-      "last_spawn": "2026-07-10T20:02:38.568866"
+      "total_spawns": 9058,
+      "last_spawn": "2026-07-10T20:03:20.988673"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74587,
+    "total_spawns": 74591,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
