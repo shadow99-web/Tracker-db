@@ -105,7 +105,7 @@
         "Flittle": 40,
         "Armarouge": 8,
         "Clauncher": 5,
-        "Tentacool": 6,
+        "Tentacool": 7,
         "Bayleef": 10,
         "Magnezone": 2,
         "Eevee": 28,
@@ -229,7 +229,7 @@
         "Buneary": 7,
         "Gallade": 13,
         "Tangrowth": 2,
-        "Sizzlipede": 9,
+        "Sizzlipede": 10,
         "Skuntank": 2,
         "Palafin": 8,
         "Timburr": 28,
@@ -355,7 +355,7 @@
         "Spinda": 1,
         "Phantump": 9,
         "Barboach": 4,
-        "Nosepass": 4,
+        "Nosepass": 5,
         "Electrike": 15,
         "Hoppip": 37,
         "Slowbro": 4,
@@ -393,7 +393,7 @@
         "Sentret": 18,
         "Houndoom": 3,
         "Meganium": 8,
-        "Rainy castform": 4,
+        "Rainy castform": 5,
         "Rabsca": 8,
         "Misdreavus": 9,
         "Cursola": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9029,
-      "last_spawn": "2026-07-10T19:58:58.259509"
+      "total_spawns": 9033,
+      "last_spawn": "2026-07-10T19:59:38.258444"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74562,
+    "total_spawns": 74566,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
