@@ -109,7 +109,7 @@
         "Bayleef": 11,
         "Magnezone": 3,
         "Eevee": 28,
-        "Dreepy": 71,
+        "Dreepy": 72,
         "Treecko": 24,
         "Shroodle": 36,
         "Ride cyclizar": 11,
@@ -291,7 +291,7 @@
         "Noibat": 9,
         "Gothorita": 7,
         "Ekans": 7,
-        "Brambleghast": 8,
+        "Brambleghast": 9,
         "Dartrix": 11,
         "Ceruledge": 8,
         "Vanillish": 10,
@@ -853,7 +853,7 @@
         "Blue flower floette": 1,
         "Jumpluff": 2,
         "Basculin": 2,
-        "Clobbopus": 3,
+        "Clobbopus": 4,
         "Spewpa": 6,
         "Delcatty": 2,
         "Whimsicott": 3,
@@ -908,7 +908,7 @@
         "Orange flower floette": 1,
         "Galarian meowth": 2,
         "Stretchy tatsugiri": 6,
-        "Magmortar": 3,
+        "Magmortar": 4,
         "Swalot": 2,
         "Arctozolt": 1,
         "Floette": 1,
@@ -956,8 +956,8 @@
         "Cofagrigus": 1,
         "Incineroar": 1
       },
-      "total_spawns": 9297,
-      "last_spawn": "2026-07-10T23:26:38.186612"
+      "total_spawns": 9301,
+      "last_spawn": "2026-07-10T23:27:08.209613"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1670,7 +1670,7 @@
     }
   },
   "global": {
-    "total_spawns": 74830,
+    "total_spawns": 74834,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
