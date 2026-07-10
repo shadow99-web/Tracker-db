@@ -88,7 +88,7 @@
         "Drakloak": 13,
         "Victini": 1,
         "Pawmi": 71,
-        "Sandile": 59,
+        "Sandile": 60,
         "Charmeleon": 13,
         "Riolu": 22,
         "Gible": 48,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 13,
-        "Hoppip": 33,
+        "Hoppip": 34,
         "Slowbro": 4,
         "Gholdengo": 5,
         "Trubbish": 10,
@@ -571,7 +571,7 @@
         "Seadra": 5,
         "Sealeo": 7,
         "Baltoy": 4,
-        "Karrablast": 9,
+        "Karrablast": 10,
         "Volbeat": 3,
         "Murkrow": 5,
         "Venusaur": 2,
@@ -699,7 +699,7 @@
         "Finneon": 4,
         "Pidgeotto": 4,
         "Hakamo-o": 4,
-        "Spidops": 8,
+        "Spidops": 9,
         "Glimmora": 8,
         "Parasect": 3,
         "Fuecoco": 9,
@@ -860,7 +860,7 @@
         "Emolga": 6,
         "Kabuto": 4,
         "Clefable": 2,
-        "Mr. mime": 3,
+        "Mr. mime": 4,
         "Munchlax": 4,
         "Qwilfish": 2,
         "Meowscarada": 2,
@@ -945,8 +945,8 @@
         "Feraligatr": 2,
         "Baxcalibur": 1
       },
-      "total_spawns": 8628,
-      "last_spawn": "2026-07-10T19:04:18.239133"
+      "total_spawns": 8633,
+      "last_spawn": "2026-07-10T19:04:58.336243"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1659,7 +1659,7 @@
     }
   },
   "global": {
-    "total_spawns": 74161,
+    "total_spawns": 74166,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
