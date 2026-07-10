@@ -138,7 +138,7 @@
         "Eelektrik": 6,
         "Diglett": 7,
         "Surskit": 7,
-        "Seedot": 21,
+        "Seedot": 22,
         "Jigglypuff": 11,
         "Spearow": 8,
         "Servine": 3,
@@ -148,7 +148,7 @@
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
-        "Trapinch": 20,
+        "Trapinch": 21,
         "Butterfree": 5,
         "Teddiursa": 58,
         "Roggenrola": 44,
@@ -213,7 +213,7 @@
         "Drifloon": 6,
         "Mightyena": 6,
         "Sandaconda": 1,
-        "Froakie": 18,
+        "Froakie": 20,
         "Kingdra": 3,
         "Chikorita": 14,
         "Donphan": 7,
@@ -669,7 +669,7 @@
         "Milotic": 1,
         "Slaking": 3,
         "Obstagoon": 2,
-        "Greninja": 5,
+        "Greninja": 6,
         "Wash rotom": 1,
         "Igglybuff": 3,
         "Garchomp": 4,
@@ -925,10 +925,11 @@
         "Sensu oricorio": 1,
         "Blaziken": 2,
         "Clawitzer": 1,
-        "Giratina": 2
+        "Giratina": 2,
+        "Heliolisk": 1
       },
-      "total_spawns": 7828,
-      "last_spawn": "2026-07-10T17:21:04.061984"
+      "total_spawns": 7834,
+      "last_spawn": "2026-07-10T17:21:43.698426"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1641,7 +1642,7 @@
     }
   },
   "global": {
-    "total_spawns": 73361,
+    "total_spawns": 73367,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
