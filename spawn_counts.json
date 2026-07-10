@@ -356,7 +356,7 @@
         "Phantump": 7,
         "Barboach": 4,
         "Nosepass": 3,
-        "Electrike": 12,
+        "Electrike": 13,
         "Hoppip": 32,
         "Slowbro": 4,
         "Gholdengo": 5,
@@ -376,7 +376,7 @@
         "Horsea": 25,
         "Reshiram": 3,
         "Celebi": 78,
-        "Morelull": 7,
+        "Morelull": 8,
         "Unown": 3,
         "Poltchageist": 5,
         "Slakoth": 27,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 8,
         "Dubwool": 2,
-        "Litleo": 12,
+        "Litleo": 13,
         "Silcoon": 11,
         "Snivy": 6,
         "Zorua": 12,
@@ -934,8 +934,8 @@
         "Ampharos": 1,
         "Blue-striped basculin": 1
       },
-      "total_spawns": 8222,
-      "last_spawn": "2026-07-10T17:59:13.727976"
+      "total_spawns": 8225,
+      "last_spawn": "2026-07-10T17:59:43.771414"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1648,7 +1648,7 @@
     }
   },
   "global": {
-    "total_spawns": 73755,
+    "total_spawns": 73758,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
