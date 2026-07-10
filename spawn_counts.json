@@ -87,9 +87,9 @@
         "Shinx": 70,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 65,
+        "Pawmi": 67,
         "Sandile": 55,
-        "Charmeleon": 12,
+        "Charmeleon": 13,
         "Riolu": 22,
         "Gible": 48,
         "Greavard": 64,
@@ -155,7 +155,7 @@
         "Litwick": 31,
         "Wooper": 9,
         "Pikipek": 59,
-        "Spritzee": 7,
+        "Spritzee": 8,
         "Stantler": 15,
         "Impidimp": 47,
         "Swadloon": 10,
@@ -707,7 +707,7 @@
         "Vespiquen": 1,
         "Gastrodon": 1,
         "Skiddo": 9,
-        "Simisear": 8,
+        "Simisear": 9,
         "Hawlucha": 2,
         "Stunky": 10,
         "Garbodor": 2,
@@ -935,8 +935,8 @@
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2
       },
-      "total_spawns": 8308,
-      "last_spawn": "2026-07-10T18:11:23.498557"
+      "total_spawns": 8313,
+      "last_spawn": "2026-07-10T18:11:53.545087"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73841,
+    "total_spawns": 73846,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
