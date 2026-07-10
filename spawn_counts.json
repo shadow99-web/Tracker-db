@@ -109,7 +109,7 @@
         "Bayleef": 8,
         "Magnezone": 2,
         "Eevee": 24,
-        "Dreepy": 67,
+        "Dreepy": 69,
         "Treecko": 20,
         "Shroodle": 33,
         "Ride cyclizar": 10,
@@ -140,7 +140,7 @@
         "Surskit": 8,
         "Seedot": 23,
         "Jigglypuff": 12,
-        "Spearow": 8,
+        "Spearow": 9,
         "Servine": 3,
         "Wugtrio": 10,
         "Tranquill": 10,
@@ -204,7 +204,7 @@
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 11,
-        "Zubat": 25,
+        "Zubat": 26,
         "Drowzee": 10,
         "Lechonk": 34,
         "Woobat": 6,
@@ -370,7 +370,7 @@
         "Gigalith": 2,
         "Kingambit": 2,
         "Cresselia": 4,
-        "Duraludon": 8,
+        "Duraludon": 10,
         "Nidorino": 9,
         "Rayquaza": 15,
         "Horsea": 26,
@@ -936,8 +936,8 @@
         "Summer sawsbuck": 2,
         "White-striped basculin": 1
       },
-      "total_spawns": 8381,
-      "last_spawn": "2026-07-10T18:20:53.949447"
+      "total_spawns": 8387,
+      "last_spawn": "2026-07-10T18:21:33.591908"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1650,7 +1650,7 @@
     }
   },
   "global": {
-    "total_spawns": 73914,
+    "total_spawns": 73920,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
