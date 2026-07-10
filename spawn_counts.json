@@ -15,7 +15,7 @@
         "Vanillite": 66,
         "Weedle": 45,
         "Kabutops": 2,
-        "Poliwag": 27,
+        "Poliwag": 28,
         "Fidough": 31,
         "Charjabug": 3,
         "Hatterene": 5,
@@ -59,7 +59,7 @@
         "Shroomish": 5,
         "Lillipup": 33,
         "Mosslax": 42,
-        "Maushold": 4,
+        "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
         "Kirlia": 17,
@@ -227,7 +227,7 @@
         "Carvanha": 6,
         "Toxel": 4,
         "Buneary": 6,
-        "Gallade": 11,
+        "Gallade": 13,
         "Tangrowth": 2,
         "Sizzlipede": 6,
         "Skuntank": 2,
@@ -573,7 +573,7 @@
         "Baltoy": 4,
         "Karrablast": 9,
         "Volbeat": 3,
-        "Murkrow": 4,
+        "Murkrow": 5,
         "Venusaur": 2,
         "Quaquaval": 1,
         "Boldore": 10,
@@ -917,8 +917,8 @@
         "Carnivine": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 7430,
-      "last_spawn": "2026-07-10T05:29:58.220326"
+      "total_spawns": 7435,
+      "last_spawn": "2026-07-10T05:55:18.301765"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1631,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 72963,
+    "total_spawns": 72968,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
