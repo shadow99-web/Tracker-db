@@ -16,7 +16,7 @@
         "Weedle": 51,
         "Kabutops": 3,
         "Poliwag": 30,
-        "Fidough": 38,
+        "Fidough": 39,
         "Charjabug": 3,
         "Hatterene": 7,
         "Rowlet": 15,
@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 4,
         "Maschiff": 27,
-        "Smoliv": 31,
+        "Smoliv": 32,
         "Tirtouga": 13,
         "Hatenna": 66,
         "Shroomish": 5,
@@ -136,7 +136,7 @@
         "Slugma": 13,
         "Venonat": 13,
         "Eelektrik": 7,
-        "Diglett": 7,
+        "Diglett": 8,
         "Surskit": 9,
         "Seedot": 23,
         "Jigglypuff": 12,
@@ -152,7 +152,7 @@
         "Butterfree": 5,
         "Teddiursa": 66,
         "Roggenrola": 48,
-        "Litwick": 33,
+        "Litwick": 34,
         "Wooper": 9,
         "Pikipek": 59,
         "Spritzee": 8,
@@ -947,8 +947,8 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1
       },
-      "total_spawns": 8736,
-      "last_spawn": "2026-07-10T19:19:48.373776"
+      "total_spawns": 8740,
+      "last_spawn": "2026-07-10T19:20:28.230576"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74269,
+    "total_spawns": 74273,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
