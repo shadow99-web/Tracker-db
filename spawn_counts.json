@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 33,
         "Totodile": 16,
-        "Vanillite": 68,
+        "Vanillite": 70,
         "Weedle": 45,
         "Kabutops": 2,
         "Poliwag": 28,
@@ -32,7 +32,7 @@
         "Pidgey": 26,
         "Binacle": 10,
         "Bounsweet": 50,
-        "Fletchling": 38,
+        "Fletchling": 39,
         "Whirlipede": 9,
         "Duskull": 60,
         "Abra": 30,
@@ -46,9 +46,9 @@
         "Wattrel": 21,
         "Tadbulb": 32,
         "Yanmega": 1,
-        "Tympole": 24,
+        "Tympole": 25,
         "Grubbin": 27,
-        "Scatterbug": 20,
+        "Scatterbug": 21,
         "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 57,
-        "Sandile": 41,
+        "Sandile": 43,
         "Charmeleon": 9,
         "Riolu": 20,
         "Gible": 48,
@@ -798,7 +798,7 @@
         "Cacnea": 2,
         "Sableye": 4,
         "Persian": 1,
-        "Toedscruel": 4,
+        "Toedscruel": 5,
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 2,
@@ -810,7 +810,7 @@
         "Revavroom": 3,
         "Lunala": 1,
         "Sneasler": 6,
-        "Swoobat": 1,
+        "Swoobat": 2,
         "Morpeko": 1,
         "East sea shellos": 2,
         "Seaking": 2,
@@ -918,10 +918,10 @@
         "Yellow flower floette": 1,
         "Medicham": 2,
         "Crobat": 2,
-        "Dandy trim furfrou": 1
+        "Dandy trim furfrou": 2
       },
-      "total_spawns": 7528,
-      "last_spawn": "2026-07-10T08:24:08.136666"
+      "total_spawns": 7538,
+      "last_spawn": "2026-07-10T08:25:18.533597"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1634,7 +1634,7 @@
     }
   },
   "global": {
-    "total_spawns": 73061,
+    "total_spawns": 73071,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
