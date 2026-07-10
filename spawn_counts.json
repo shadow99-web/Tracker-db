@@ -52,7 +52,7 @@
         "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
-        "Maschiff": 25,
+        "Maschiff": 26,
         "Smoliv": 28,
         "Tirtouga": 13,
         "Hatenna": 54,
@@ -326,7 +326,7 @@
         "Sunkern": 9,
         "Snubbull": 4,
         "Crocalor": 2,
-        "Magnemite": 25,
+        "Magnemite": 26,
         "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 12,
-        "Hoppip": 29,
+        "Hoppip": 30,
         "Slowbro": 4,
         "Gholdengo": 5,
         "Trubbish": 8,
@@ -922,8 +922,8 @@
         "Vaporeon": 2,
         "Hypno": 1
       },
-      "total_spawns": 7700,
-      "last_spawn": "2026-07-10T09:38:08.159842"
+      "total_spawns": 7703,
+      "last_spawn": "2026-07-10T09:38:38.274896"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1636,7 +1636,7 @@
     }
   },
   "global": {
-    "total_spawns": 73233,
+    "total_spawns": 73236,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
