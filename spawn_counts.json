@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 32,
         "Binacle": 12,
-        "Bounsweet": 62,
+        "Bounsweet": 64,
         "Fletchling": 44,
         "Whirlipede": 10,
         "Duskull": 70,
@@ -204,7 +204,7 @@
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 13,
-        "Zubat": 27,
+        "Zubat": 28,
         "Drowzee": 13,
         "Lechonk": 37,
         "Woobat": 6,
@@ -226,7 +226,7 @@
         "Snorunt": 9,
         "Carvanha": 6,
         "Toxel": 4,
-        "Buneary": 6,
+        "Buneary": 7,
         "Gallade": 13,
         "Tangrowth": 2,
         "Sizzlipede": 9,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8966,
-      "last_spawn": "2026-07-10T19:50:48.251763"
+      "total_spawns": 8970,
+      "last_spawn": "2026-07-10T19:51:18.303966"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74499,
+    "total_spawns": 74503,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
