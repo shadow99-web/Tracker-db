@@ -30,7 +30,7 @@
         "Palossand": 4,
         "Pyukumuku": 1,
         "Pidgey": 26,
-        "Binacle": 10,
+        "Binacle": 11,
         "Bounsweet": 58,
         "Fletchling": 42,
         "Whirlipede": 10,
@@ -94,7 +94,7 @@
         "Gible": 48,
         "Greavard": 64,
         "Snover": 17,
-        "Piplup": 10,
+        "Piplup": 11,
         "Dondozo": 24,
         "Cyclizar": 12,
         "Froslass": 2,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 6,
         "Burmy": 1,
-        "Sewaddle": 23,
+        "Sewaddle": 24,
         "Shelmet": 9,
         "Combusken": 3,
         "Croagunk": 9,
@@ -592,7 +592,7 @@
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 4,
-        "Quilava": 3,
+        "Quilava": 4,
         "Wurmple": 48,
         "Sandshrew": 12,
         "Tauros": 4,
@@ -934,8 +934,8 @@
         "Ampharos": 1,
         "Blue-striped basculin": 1
       },
-      "total_spawns": 8270,
-      "last_spawn": "2026-07-10T18:05:53.978113"
+      "total_spawns": 8274,
+      "last_spawn": "2026-07-10T18:06:33.687145"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1648,7 +1648,7 @@
     }
   },
   "global": {
-    "total_spawns": 73803,
+    "total_spawns": 73807,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
