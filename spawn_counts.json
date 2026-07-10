@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 51,
+        "Bounsweet": 52,
         "Fletchling": 39,
         "Whirlipede": 10,
         "Duskull": 62,
@@ -40,7 +40,7 @@
         "Starly": 63,
         "Caterpie": 25,
         "Mareep": 27,
-        "Capsakid": 30,
+        "Capsakid": 31,
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 21,
@@ -48,7 +48,7 @@
         "Yanmega": 2,
         "Tympole": 25,
         "Grubbin": 27,
-        "Scatterbug": 21,
+        "Scatterbug": 22,
         "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
@@ -481,7 +481,7 @@
         "Complete zygarde": 3,
         "Mudbray": 12,
         "Spectrier": 1,
-        "Rufflet": 6,
+        "Rufflet": 7,
         "Lairon": 7,
         "Altaria": 6,
         "Attack deoxys": 2,
@@ -599,7 +599,7 @@
         "Golurk": 1,
         "Grimer": 6,
         "Frosmoth": 6,
-        "Darumaka": 5,
+        "Darumaka": 6,
         "Cubone": 5,
         "Conkeldurr": 3,
         "Sinistea": 6,
@@ -926,8 +926,8 @@
         "Blaziken": 2,
         "Clawitzer": 1
       },
-      "total_spawns": 7802,
-      "last_spawn": "2026-07-10T17:07:48.411472"
+      "total_spawns": 7807,
+      "last_spawn": "2026-07-10T17:08:35.283758"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73335,
+    "total_spawns": 73340,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
