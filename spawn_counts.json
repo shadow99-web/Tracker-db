@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 33,
         "Totodile": 16,
-        "Vanillite": 66,
+        "Vanillite": 68,
         "Weedle": 45,
         "Kabutops": 2,
         "Poliwag": 28,
@@ -20,7 +20,7 @@
         "Charjabug": 3,
         "Hatterene": 5,
         "Rowlet": 13,
-        "Anorith": 9,
+        "Anorith": 10,
         "Arctibax": 8,
         "Ralts": 50,
         "Peakychu": 35,
@@ -199,7 +199,7 @@
         "Pikachu": 16,
         "Tarountula": 25,
         "Rhyhorn": 29,
-        "Aipom": 5,
+        "Aipom": 6,
         "Grookey": 15,
         "Inkay": 5,
         "Unfezant": 4,
@@ -467,7 +467,7 @@
         "Shellder": 7,
         "Chi-yu": 1,
         "Landorus": 1,
-        "Absol": 12,
+        "Absol": 14,
         "Calyrex": 1,
         "Kakuna": 5,
         "Shedinja": 4,
@@ -917,8 +917,8 @@
         "Carnivine": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 7463,
-      "last_spawn": "2026-07-10T08:15:08.387503"
+      "total_spawns": 7469,
+      "last_spawn": "2026-07-10T08:15:48.545194"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1631,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 72996,
+    "total_spawns": 73002,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
