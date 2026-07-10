@@ -48,7 +48,7 @@
         "Yanmega": 2,
         "Tympole": 26,
         "Grubbin": 27,
-        "Scatterbug": 26,
+        "Scatterbug": 27,
         "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
@@ -95,7 +95,7 @@
         "Greavard": 58,
         "Snover": 15,
         "Piplup": 10,
-        "Dondozo": 21,
+        "Dondozo": 22,
         "Cyclizar": 12,
         "Froslass": 2,
         "Dodrio": 7,
@@ -155,7 +155,7 @@
         "Litwick": 28,
         "Wooper": 9,
         "Pikipek": 59,
-        "Spritzee": 6,
+        "Spritzee": 7,
         "Stantler": 14,
         "Impidimp": 47,
         "Swadloon": 10,
@@ -401,7 +401,7 @@
         "Scorbunny": 8,
         "Dubwool": 2,
         "Litleo": 12,
-        "Silcoon": 10,
+        "Silcoon": 11,
         "Snivy": 6,
         "Zorua": 12,
         "Minior": 1,
@@ -588,7 +588,7 @@
         "Goldeen": 9,
         "Gouging fire": 2,
         "Cottonee": 4,
-        "Flareon": 7,
+        "Flareon": 8,
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 4,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8112,
-      "last_spawn": "2026-07-10T17:47:53.776741"
+      "total_spawns": 8117,
+      "last_spawn": "2026-07-10T17:48:30.865381"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73645,
+    "total_spawns": 73650,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
