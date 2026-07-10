@@ -58,7 +58,7 @@
         "Hatenna": 54,
         "Shroomish": 5,
         "Lillipup": 34,
-        "Mosslax": 49,
+        "Mosslax": 50,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 7,
         "Doduo": 8,
-        "Flittle": 34,
+        "Flittle": 35,
         "Armarouge": 7,
         "Clauncher": 5,
         "Tentacool": 5,
@@ -184,7 +184,7 @@
         "Dratini": 33,
         "Steelix": 3,
         "Sprigatito": 17,
-        "Charcadet": 61,
+        "Charcadet": 63,
         "Mudsdale": 8,
         "Meowth": 15,
         "Charmander": 19,
@@ -326,7 +326,7 @@
         "Sunkern": 10,
         "Snubbull": 4,
         "Crocalor": 2,
-        "Magnemite": 26,
+        "Magnemite": 27,
         "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -379,7 +379,7 @@
         "Morelull": 6,
         "Unown": 3,
         "Poltchageist": 5,
-        "Slakoth": 26,
+        "Slakoth": 27,
         "Klink": 18,
         "Mesprit": 1,
         "Azelf": 2,
@@ -400,7 +400,7 @@
         "Carbink": 2,
         "Scorbunny": 8,
         "Dubwool": 2,
-        "Litleo": 11,
+        "Litleo": 12,
         "Silcoon": 10,
         "Snivy": 6,
         "Zorua": 12,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7909,
-      "last_spawn": "2026-07-10T17:30:13.642189"
+      "total_spawns": 7916,
+      "last_spawn": "2026-07-10T17:30:43.829393"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73442,
+    "total_spawns": 73449,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
