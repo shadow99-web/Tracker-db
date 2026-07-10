@@ -46,7 +46,7 @@
         "Wattrel": 21,
         "Tadbulb": 32,
         "Yanmega": 1,
-        "Tympole": 23,
+        "Tympole": 24,
         "Grubbin": 27,
         "Scatterbug": 20,
         "Skwovet": 10,
@@ -164,7 +164,7 @@
         "Venipede": 36,
         "Pansage": 6,
         "Cetoddle": 25,
-        "Togepi": 31,
+        "Togepi": 32,
         "Tandemaus": 23,
         "Clefairy": 7,
         "Unown q": 1,
@@ -191,7 +191,7 @@
         "Wimpod": 15,
         "Comfey": 9,
         "Diggersby": 2,
-        "Klawf": 43,
+        "Klawf": 45,
         "Dj rotom": 21,
         "Chef dente": 28,
         "Hisuian qwilfish": 1,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 19,
+        "Smearguru": 20,
         "Magneton": 5,
         "Battle cyclizar": 5,
         "Minccino": 4,
@@ -916,8 +916,8 @@
         "Avalugg": 1,
         "Carnivine": 1
       },
-      "total_spawns": 7414,
-      "last_spawn": "2026-07-10T05:28:14.005882"
+      "total_spawns": 7419,
+      "last_spawn": "2026-07-10T05:28:53.526004"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72947,
+    "total_spawns": 72952,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
