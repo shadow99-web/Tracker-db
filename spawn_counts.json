@@ -35,7 +35,7 @@
         "Fletchling": 42,
         "Whirlipede": 10,
         "Duskull": 68,
-        "Abra": 39,
+        "Abra": 40,
         "Wiglett": 21,
         "Starly": 65,
         "Caterpie": 32,
@@ -208,7 +208,7 @@
         "Drowzee": 12,
         "Lechonk": 37,
         "Woobat": 6,
-        "Skrelp": 9,
+        "Skrelp": 10,
         "Lileep": 8,
         "Drifloon": 6,
         "Mightyena": 6,
@@ -576,7 +576,7 @@
         "Murkrow": 5,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 11,
+        "Boldore": 12,
         "Skorupi": 5,
         "Probopass": 4,
         "Family of three maushold": 1,
@@ -746,7 +746,7 @@
         "Aggron": 2,
         "Regigigas": 1,
         "Bisharp": 2,
-        "Forretress": 2,
+        "Forretress": 3,
         "Swampert": 4,
         "High plain vivillon": 1,
         "Metapod": 8,
@@ -948,8 +948,8 @@
         "Pyroar": 1,
         "Walrein": 1
       },
-      "total_spawns": 8796,
-      "last_spawn": "2026-07-10T19:28:08.353560"
+      "total_spawns": 8800,
+      "last_spawn": "2026-07-10T19:28:48.181217"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1662,7 +1662,7 @@
     }
   },
   "global": {
-    "total_spawns": 74329,
+    "total_spawns": 74333,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
