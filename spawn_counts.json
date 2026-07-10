@@ -40,7 +40,7 @@
         "Starly": 65,
         "Caterpie": 31,
         "Mareep": 31,
-        "Capsakid": 33,
+        "Capsakid": 34,
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 24,
@@ -175,7 +175,7 @@
         "Rolycoly": 40,
         "Poliwhirl": 9,
         "Lokix": 13,
-        "Flamigo": 18,
+        "Flamigo": 19,
         "Bellsprout": 19,
         "Houndstone": 6,
         "Beldum": 35,
@@ -203,7 +203,7 @@
         "Grookey": 16,
         "Inkay": 6,
         "Unfezant": 4,
-        "Fraxure": 11,
+        "Fraxure": 12,
         "Zubat": 27,
         "Drowzee": 11,
         "Lechonk": 36,
@@ -946,8 +946,8 @@
         "Baxcalibur": 1,
         "Pom-pom oricorio": 1
       },
-      "total_spawns": 8689,
-      "last_spawn": "2026-07-10T19:13:18.092535"
+      "total_spawns": 8692,
+      "last_spawn": "2026-07-10T19:13:48.117442"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1660,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 74222,
+    "total_spawns": 74225,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
