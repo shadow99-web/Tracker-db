@@ -343,7 +343,7 @@
         "Gothita": 31,
         "Solosis": 39,
         "Sandygast": 7,
-        "Pidove": 23,
+        "Pidove": 24,
         "Chespin": 11,
         "Combee": 5,
         "Cyndaquil": 10,
@@ -433,7 +433,7 @@
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 9,
-        "Stoutland": 1,
+        "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 5,
         "Spheal": 31,
@@ -600,7 +600,7 @@
         "Grimer": 7,
         "Frosmoth": 6,
         "Darumaka": 6,
-        "Cubone": 8,
+        "Cubone": 9,
         "Conkeldurr": 3,
         "Sinistea": 6,
         "Golbat": 10,
@@ -953,10 +953,11 @@
         "Aerodactyl": 1,
         "Gothitelle": 2,
         "Turtonator": 1,
-        "Cofagrigus": 1
+        "Cofagrigus": 1,
+        "Incineroar": 1
       },
-      "total_spawns": 9231,
-      "last_spawn": "2026-07-10T22:49:28.664491"
+      "total_spawns": 9235,
+      "last_spawn": "2026-07-10T22:52:48.422421"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1669,7 +1670,7 @@
     }
   },
   "global": {
-    "total_spawns": 74764,
+    "total_spawns": 74768,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
