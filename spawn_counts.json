@@ -41,7 +41,7 @@
         "Caterpie": 33,
         "Mareep": 32,
         "Capsakid": 35,
-        "Numel": 10,
+        "Numel": 11,
         "Pawmo": 9,
         "Wattrel": 27,
         "Tadbulb": 40,
@@ -191,7 +191,7 @@
         "Wimpod": 19,
         "Comfey": 9,
         "Diggersby": 3,
-        "Klawf": 53,
+        "Klawf": 54,
         "Dj rotom": 26,
         "Chef dente": 32,
         "Hisuian qwilfish": 1,
@@ -578,7 +578,7 @@
         "Quaquaval": 1,
         "Boldore": 12,
         "Skorupi": 6,
-        "Probopass": 4,
+        "Probopass": 5,
         "Family of three maushold": 1,
         "Scyther": 24,
         "Polteageist": 2,
@@ -849,7 +849,7 @@
         "Wobbuffet": 1,
         "Morgrem": 4,
         "Budew": 3,
-        "Dragapult": 2,
+        "Dragapult": 4,
         "Blue flower floette": 1,
         "Jumpluff": 2,
         "Basculin": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9071,
-      "last_spawn": "2026-07-10T20:05:08.512078"
+      "total_spawns": 9076,
+      "last_spawn": "2026-07-10T20:07:58.147048"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74604,
+    "total_spawns": 74609,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
