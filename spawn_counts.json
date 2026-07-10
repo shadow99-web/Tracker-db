@@ -161,7 +161,7 @@
         "Swadloon": 10,
         "Sunny castform": 4,
         "Vullaby": 6,
-        "Venipede": 48,
+        "Venipede": 49,
         "Pansage": 10,
         "Cetoddle": 27,
         "Togepi": 43,
@@ -291,8 +291,8 @@
         "Noibat": 9,
         "Gothorita": 7,
         "Ekans": 6,
-        "Brambleghast": 7,
-        "Dartrix": 10,
+        "Brambleghast": 8,
+        "Dartrix": 11,
         "Ceruledge": 8,
         "Vanillish": 10,
         "Gimmighoul": 28,
@@ -804,7 +804,7 @@
         "Masquerain": 4,
         "Salazzle": 2,
         "Heracross": 2,
-        "Carkol": 3,
+        "Carkol": 4,
         "Zygarde": 2,
         "Dewgong": 1,
         "Revavroom": 5,
@@ -955,8 +955,8 @@
         "Turtonator": 1,
         "Cofagrigus": 1
       },
-      "total_spawns": 9204,
-      "last_spawn": "2026-07-10T22:45:28.423263"
+      "total_spawns": 9208,
+      "last_spawn": "2026-07-10T22:46:08.301221"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1669,7 +1669,7 @@
     }
   },
   "global": {
-    "total_spawns": 74737,
+    "total_spawns": 74741,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
