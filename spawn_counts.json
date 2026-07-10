@@ -92,7 +92,7 @@
         "Charmeleon": 13,
         "Riolu": 22,
         "Gible": 48,
-        "Greavard": 66,
+        "Greavard": 67,
         "Snover": 17,
         "Piplup": 11,
         "Dondozo": 26,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 30,
-        "Jangmo-o": 15,
+        "Jangmo-o": 17,
         "Lunatone": 1,
         "Machoke": 11,
         "Luvdisc": 1,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 6,
         "Petilil": 11,
-        "Bombirdier": 30,
+        "Bombirdier": 31,
         "Bellibolt": 7,
         "Toedscool": 26,
         "Paras": 5,
@@ -944,8 +944,8 @@
         "Bellossom": 1,
         "Feraligatr": 2
       },
-      "total_spawns": 8581,
-      "last_spawn": "2026-07-10T18:57:48.351773"
+      "total_spawns": 8585,
+      "last_spawn": "2026-07-10T18:58:28.353501"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1658,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 74114,
+    "total_spawns": 74118,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
