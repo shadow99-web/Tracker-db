@@ -168,7 +168,7 @@
         "Tandemaus": 29,
         "Clefairy": 7,
         "Unown q": 1,
-        "Lotad": 29,
+        "Lotad": 30,
         "Mienshao": 3,
         "Blipbug": 64,
         "Rellor": 23,
@@ -379,7 +379,7 @@
         "Morelull": 10,
         "Unown": 3,
         "Poltchageist": 5,
-        "Slakoth": 31,
+        "Slakoth": 32,
         "Klink": 19,
         "Mesprit": 1,
         "Azelf": 2,
@@ -448,7 +448,7 @@
         "Battle cyclizar": 8,
         "Minccino": 6,
         "Hippowdon": 2,
-        "Gloom": 8,
+        "Gloom": 9,
         "Mew": 4,
         "Thwackey": 6,
         "Latios": 2,
@@ -511,7 +511,7 @@
         "Melmetal": 1,
         "Liepard": 3,
         "Necrozma": 4,
-        "Dewott": 7,
+        "Dewott": 8,
         "Braviary": 8,
         "Low key toxtricity": 6,
         "Nidorina": 10,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8962,
-      "last_spawn": "2026-07-10T19:50:08.559638"
+      "total_spawns": 8966,
+      "last_spawn": "2026-07-10T19:50:48.251763"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74495,
+    "total_spawns": 74499,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
