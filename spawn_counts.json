@@ -58,7 +58,7 @@
         "Hatenna": 54,
         "Shroomish": 5,
         "Lillipup": 33,
-        "Mosslax": 45,
+        "Mosslax": 46,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -920,10 +920,11 @@
         "Crobat": 2,
         "Dandy trim furfrou": 2,
         "Vaporeon": 2,
-        "Hypno": 1
+        "Hypno": 1,
+        "Tyranitar": 1
       },
-      "total_spawns": 7747,
-      "last_spawn": "2026-07-10T10:12:08.571317"
+      "total_spawns": 7749,
+      "last_spawn": "2026-07-10T11:50:57.804764"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1636,7 +1637,7 @@
     }
   },
   "global": {
-    "total_spawns": 73280,
+    "total_spawns": 73282,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
