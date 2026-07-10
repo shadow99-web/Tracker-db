@@ -101,7 +101,7 @@
         "Dodrio": 7,
         "Metagross": 6,
         "Corphish": 7,
-        "Doduo": 8,
+        "Doduo": 9,
         "Flittle": 35,
         "Armarouge": 7,
         "Clauncher": 5,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 20,
         "Kingdra": 3,
-        "Chikorita": 16,
+        "Chikorita": 17,
         "Donphan": 7,
         "Shuppet": 13,
         "Graveler": 5,
@@ -300,7 +300,7 @@
         "Popplio": 10,
         "Arboliva": 2,
         "Luxio": 4,
-        "Quaxwell": 3,
+        "Quaxwell": 4,
         "Swanna": 3,
         "Torracat": 8,
         "Geodude": 28,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 6,
         "Burmy": 1,
-        "Sewaddle": 24,
+        "Sewaddle": 25,
         "Shelmet": 9,
         "Combusken": 3,
         "Croagunk": 9,
@@ -935,8 +935,8 @@
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2
       },
-      "total_spawns": 8352,
-      "last_spawn": "2026-07-10T18:16:33.712193"
+      "total_spawns": 8356,
+      "last_spawn": "2026-07-10T18:17:13.562942"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73885,
+    "total_spawns": 73889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
