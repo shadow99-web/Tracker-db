@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 10,
-        "Oddish": 37,
+        "Oddish": 38,
         "Totodile": 16,
         "Vanillite": 76,
         "Weedle": 49,
@@ -85,7 +85,7 @@
         "Marshtomp": 17,
         "Squirtle": 13,
         "Shinx": 70,
-        "Drakloak": 9,
+        "Drakloak": 11,
         "Victini": 1,
         "Pawmi": 69,
         "Sandile": 57,
@@ -279,7 +279,7 @@
         "Eiscue": 1,
         "Nacli": 25,
         "Pancham": 7,
-        "Bulbasaur": 29,
+        "Bulbasaur": 31,
         "Dewpider": 8,
         "Yellow plumage squawkabilly": 9,
         "Hattrem": 8,
@@ -326,7 +326,7 @@
         "Sunkern": 10,
         "Snubbull": 5,
         "Crocalor": 2,
-        "Magnemite": 28,
+        "Magnemite": 29,
         "Doublade": 4,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -937,10 +937,10 @@
         "White-striped basculin": 1,
         "Annihilape": 1,
         "Victreebel": 1,
-        "Galarian yamask": 1
+        "Galarian yamask": 2
       },
-      "total_spawns": 8444,
-      "last_spawn": "2026-07-10T18:29:13.657430"
+      "total_spawns": 8451,
+      "last_spawn": "2026-07-10T18:29:53.514120"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1653,7 +1653,7 @@
     }
   },
   "global": {
-    "total_spawns": 73977,
+    "total_spawns": 73984,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
