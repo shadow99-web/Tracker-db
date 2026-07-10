@@ -429,7 +429,7 @@
         "Haunter": 10,
         "Dottler": 10,
         "Wailmer": 9,
-        "Frigibax": 87,
+        "Frigibax": 89,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 10,
@@ -884,7 +884,7 @@
         "Vivillon": 1,
         "Leafeon": 4,
         "Sunshine cherrim": 2,
-        "Cloyster": 3,
+        "Cloyster": 4,
         "Cleffa": 1,
         "Linoone": 2,
         "Continental vivillon": 1,
@@ -954,10 +954,11 @@
         "Gothitelle": 2,
         "Turtonator": 1,
         "Cofagrigus": 1,
-        "Incineroar": 1
+        "Incineroar": 1,
+        "Hisuian voltorb": 2
       },
-      "total_spawns": 9311,
-      "last_spawn": "2026-07-10T23:28:18.345412"
+      "total_spawns": 9316,
+      "last_spawn": "2026-07-10T23:28:48.372127"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1670,7 +1671,7 @@
     }
   },
   "global": {
-    "total_spawns": 74844,
+    "total_spawns": 74849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
