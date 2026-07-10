@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 11,
-        "Bounsweet": 58,
+        "Bounsweet": 60,
         "Fletchling": 42,
         "Whirlipede": 10,
         "Duskull": 66,
@@ -236,7 +236,7 @@
         "Shellos": 3,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 29,
+        "Whismur": 30,
         "Jangmo-o": 14,
         "Lunatone": 1,
         "Machoke": 11,
@@ -281,7 +281,7 @@
         "Pancham": 7,
         "Bulbasaur": 29,
         "Dewpider": 8,
-        "Yellow plumage squawkabilly": 8,
+        "Yellow plumage squawkabilly": 9,
         "Hattrem": 8,
         "Trash wormadam": 4,
         "Purrloin": 3,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 7,
-        "Tepig": 10,
+        "Tepig": 11,
         "Spinda": 1,
         "Phantump": 7,
         "Barboach": 4,
@@ -401,7 +401,7 @@
         "Scorbunny": 8,
         "Dubwool": 2,
         "Litleo": 13,
-        "Silcoon": 11,
+        "Silcoon": 12,
         "Snivy": 6,
         "Zorua": 12,
         "Minior": 1,
@@ -592,7 +592,7 @@
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 4,
-        "Quilava": 4,
+        "Quilava": 5,
         "Wurmple": 48,
         "Sandshrew": 12,
         "Tauros": 4,
@@ -688,7 +688,7 @@
         "Serperior": 3,
         "Grapploct": 3,
         "Vanilluxe": 3,
-        "Dwebble": 6,
+        "Dwebble": 7,
         "Banette": 2,
         "Pachirisu": 2,
         "Furret": 4,
@@ -795,7 +795,7 @@
         "Dudunsparce": 5,
         "Kingler": 2,
         "Aurorus": 4,
-        "Cacnea": 2,
+        "Cacnea": 3,
         "Sableye": 4,
         "Persian": 1,
         "Toedscruel": 6,
@@ -934,8 +934,8 @@
         "Ampharos": 1,
         "Blue-striped basculin": 1
       },
-      "total_spawns": 8274,
-      "last_spawn": "2026-07-10T18:06:33.687145"
+      "total_spawns": 8283,
+      "last_spawn": "2026-07-10T18:07:53.618411"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1648,7 +1648,7 @@
     }
   },
   "global": {
-    "total_spawns": 73807,
+    "total_spawns": 73816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
