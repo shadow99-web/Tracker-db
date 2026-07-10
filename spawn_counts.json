@@ -35,11 +35,11 @@
         "Fletchling": 39,
         "Whirlipede": 10,
         "Duskull": 62,
-        "Abra": 33,
+        "Abra": 34,
         "Wiglett": 21,
         "Starly": 63,
         "Caterpie": 26,
-        "Mareep": 27,
+        "Mareep": 28,
         "Capsakid": 31,
         "Numel": 10,
         "Pawmo": 9,
@@ -70,7 +70,7 @@
         "Vulpix": 21,
         "Gastly": 54,
         "Aron": 32,
-        "Honedge": 50,
+        "Honedge": 52,
         "Houndour": 4,
         "Machop": 25,
         "Terapagos": 1,
@@ -204,7 +204,7 @@
         "Inkay": 5,
         "Unfezant": 4,
         "Fraxure": 11,
-        "Zubat": 22,
+        "Zubat": 23,
         "Drowzee": 9,
         "Lechonk": 32,
         "Woobat": 6,
@@ -373,7 +373,7 @@
         "Duraludon": 8,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 22,
+        "Horsea": 23,
         "Reshiram": 3,
         "Celebi": 78,
         "Morelull": 6,
@@ -523,7 +523,7 @@
         "Nickit": 12,
         "Aromatisse": 1,
         "Cosmoem": 1,
-        "Copperajah": 6,
+        "Copperajah": 8,
         "Golett": 5,
         "Politoed": 11,
         "Droopy tatsugiri": 9,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7889,
-      "last_spawn": "2026-07-10T17:28:33.666649"
+      "total_spawns": 7897,
+      "last_spawn": "2026-07-10T17:29:03.706415"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73422,
+    "total_spawns": 73430,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
