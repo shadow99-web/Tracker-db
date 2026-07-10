@@ -29,7 +29,7 @@
         "Tynamo": 27,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 26,
+        "Pidgey": 27,
         "Binacle": 11,
         "Bounsweet": 60,
         "Fletchling": 42,
@@ -58,7 +58,7 @@
         "Hatenna": 66,
         "Shroomish": 5,
         "Lillipup": 37,
-        "Mosslax": 53,
+        "Mosslax": 54,
         "Maushold": 5,
         "Cubchoo": 29,
         "Koffing": 10,
@@ -148,7 +148,7 @@
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
-        "Trapinch": 24,
+        "Trapinch": 25,
         "Butterfree": 5,
         "Teddiursa": 64,
         "Roggenrola": 46,
@@ -643,7 +643,7 @@
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 4,
-        "Shiinotic": 7,
+        "Shiinotic": 9,
         "Simisage": 4,
         "Cherubi": 6,
         "Heatmor": 1,
@@ -848,7 +848,7 @@
         "Naclstack": 2,
         "Wobbuffet": 1,
         "Morgrem": 4,
-        "Budew": 2,
+        "Budew": 3,
         "Dragapult": 2,
         "Blue flower floette": 1,
         "Jumpluff": 2,
@@ -935,8 +935,8 @@
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2
       },
-      "total_spawns": 8338,
-      "last_spawn": "2026-07-10T18:14:33.787475"
+      "total_spawns": 8344,
+      "last_spawn": "2026-07-10T18:15:14.002504"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73871,
+    "total_spawns": 73877,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
