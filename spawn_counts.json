@@ -16,7 +16,7 @@
         "Weedle": 45,
         "Kabutops": 2,
         "Poliwag": 29,
-        "Fidough": 34,
+        "Fidough": 35,
         "Charjabug": 3,
         "Hatterene": 7,
         "Rowlet": 14,
@@ -44,7 +44,7 @@
         "Numel": 10,
         "Pawmo": 9,
         "Wattrel": 21,
-        "Tadbulb": 34,
+        "Tadbulb": 35,
         "Yanmega": 2,
         "Tympole": 25,
         "Grubbin": 27,
@@ -116,7 +116,7 @@
         "Swinub": 30,
         "Rattata": 17,
         "Stonjourner": 1,
-        "Veluza": 52,
+        "Veluza": 53,
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
@@ -702,7 +702,7 @@
         "Spidops": 7,
         "Glimmora": 7,
         "Parasect": 3,
-        "Fuecoco": 7,
+        "Fuecoco": 8,
         "Loudred": 9,
         "Vespiquen": 1,
         "Gastrodon": 1,
@@ -926,8 +926,8 @@
         "Blaziken": 2,
         "Clawitzer": 1
       },
-      "total_spawns": 7782,
-      "last_spawn": "2026-07-10T17:05:18.354624"
+      "total_spawns": 7786,
+      "last_spawn": "2026-07-10T17:05:58.290056"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73315,
+    "total_spawns": 73319,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
