@@ -302,7 +302,7 @@
         "Luxio": 4,
         "Quaxwell": 2,
         "Swanna": 3,
-        "Torracat": 5,
+        "Torracat": 6,
         "Geodude": 25,
         "Tentacruel": 1,
         "Archen": 19,
@@ -373,7 +373,7 @@
         "Duraludon": 8,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 20,
+        "Horsea": 21,
         "Reshiram": 3,
         "Celebi": 78,
         "Morelull": 6,
@@ -411,7 +411,7 @@
         "Gligar": 8,
         "Quaxly": 13,
         "Spiky-eared pichu": 2,
-        "Cradily": 2,
+        "Cradily": 4,
         "Burmy": 1,
         "Sewaddle": 22,
         "Shelmet": 7,
@@ -594,7 +594,7 @@
         "Gurdurr": 4,
         "Quilava": 3,
         "Wurmple": 46,
-        "Sandshrew": 10,
+        "Sandshrew": 11,
         "Tauros": 4,
         "Golurk": 1,
         "Grimer": 6,
@@ -926,8 +926,8 @@
         "Blaziken": 2,
         "Clawitzer": 1
       },
-      "total_spawns": 7792,
-      "last_spawn": "2026-07-10T17:06:28.442700"
+      "total_spawns": 7797,
+      "last_spawn": "2026-07-10T17:07:08.975131"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73325,
+    "total_spawns": 73330,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
