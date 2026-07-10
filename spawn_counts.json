@@ -44,13 +44,13 @@
         "Numel": 11,
         "Pawmo": 9,
         "Wattrel": 27,
-        "Tadbulb": 40,
+        "Tadbulb": 41,
         "Yanmega": 3,
         "Tympole": 29,
         "Grubbin": 31,
         "Scatterbug": 33,
         "Skwovet": 14,
-        "Applin": 7,
+        "Applin": 8,
         "Staryu": 4,
         "Maschiff": 28,
         "Smoliv": 37,
@@ -111,7 +111,7 @@
         "Eevee": 28,
         "Dreepy": 71,
         "Treecko": 20,
-        "Shroodle": 35,
+        "Shroodle": 36,
         "Ride cyclizar": 10,
         "Swinub": 33,
         "Rattata": 25,
@@ -269,7 +269,7 @@
         "Dracovish": 3,
         "Slowpoke": 7,
         "Drizzile": 10,
-        "Tinkatink": 30,
+        "Tinkatink": 31,
         "Frillish": 3,
         "Plusle": 11,
         "Decidueye": 5,
@@ -953,8 +953,8 @@
         "Aerodactyl": 1,
         "Gothitelle": 2
       },
-      "total_spawns": 9146,
-      "last_spawn": "2026-07-10T20:18:32.092061"
+      "total_spawns": 9150,
+      "last_spawn": "2026-07-10T20:19:08.307487"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1667,7 +1667,7 @@
     }
   },
   "global": {
-    "total_spawns": 74679,
+    "total_spawns": 74683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
