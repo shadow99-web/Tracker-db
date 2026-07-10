@@ -30,7 +30,7 @@
         "Palossand": 4,
         "Pyukumuku": 1,
         "Pidgey": 28,
-        "Binacle": 11,
+        "Binacle": 12,
         "Bounsweet": 62,
         "Fletchling": 42,
         "Whirlipede": 10,
@@ -108,7 +108,7 @@
         "Tentacool": 6,
         "Bayleef": 9,
         "Magnezone": 2,
-        "Eevee": 26,
+        "Eevee": 27,
         "Dreepy": 69,
         "Treecko": 20,
         "Shroodle": 34,
@@ -193,7 +193,7 @@
         "Diggersby": 2,
         "Klawf": 49,
         "Dj rotom": 23,
-        "Chef dente": 31,
+        "Chef dente": 32,
         "Hisuian qwilfish": 1,
         "Bagon": 32,
         "Pikachu": 18,
@@ -428,7 +428,7 @@
         "Marowak": 4,
         "Haunter": 9,
         "Dottler": 9,
-        "Wailmer": 7,
+        "Wailmer": 8,
         "Frigibax": 67,
         "Iron valiant": 2,
         "Ludicolo": 4,
@@ -940,10 +940,10 @@
         "Galarian yamask": 2,
         "Zebstrika": 2,
         "Unown u": 2,
-        "Blaze breed tauros": 1
+        "Blaze breed tauros": 2
       },
-      "total_spawns": 8517,
-      "last_spawn": "2026-07-10T18:39:03.671108"
+      "total_spawns": 8522,
+      "last_spawn": "2026-07-10T18:46:12.269321"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1656,7 +1656,7 @@
     }
   },
   "global": {
-    "total_spawns": 74050,
+    "total_spawns": 74055,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
