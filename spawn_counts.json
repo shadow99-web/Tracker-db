@@ -22,7 +22,7 @@
         "Rowlet": 13,
         "Anorith": 9,
         "Arctibax": 4,
-        "Ralts": 48,
+        "Ralts": 50,
         "Peakychu": 35,
         "Cutiefly": 9,
         "Simipour": 3,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 44,
+        "Bounsweet": 46,
         "Fletchling": 38,
         "Whirlipede": 9,
         "Duskull": 60,
@@ -175,7 +175,7 @@
         "Rolycoly": 34,
         "Poliwhirl": 9,
         "Lokix": 13,
-        "Flamigo": 13,
+        "Flamigo": 14,
         "Bellsprout": 17,
         "Houndstone": 5,
         "Beldum": 27,
@@ -233,7 +233,7 @@
         "Skuntank": 2,
         "Palafin": 6,
         "Timburr": 25,
-        "Shellos": 2,
+        "Shellos": 3,
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 28,
@@ -286,7 +286,7 @@
         "Trash wormadam": 4,
         "Purrloin": 2,
         "Zigzagoon": 9,
-        "Quilladin": 4,
+        "Quilladin": 5,
         "Infernape": 3,
         "Noibat": 7,
         "Gothorita": 6,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 4,
-        "Tepig": 8,
+        "Tepig": 9,
         "Spinda": 1,
         "Phantump": 7,
         "Barboach": 4,
@@ -717,7 +717,7 @@
         "Sobble": 8,
         "Lycanroc": 2,
         "Dustox": 3,
-        "Alolan grimer": 4,
+        "Alolan grimer": 6,
         "Ursaluna": 4,
         "Blastoise": 8,
         "Wormadam": 2,
@@ -911,8 +911,8 @@
         "Magmortar": 2,
         "Swalot": 2
       },
-      "total_spawns": 7285,
-      "last_spawn": "2026-07-10T05:18:58.703832"
+      "total_spawns": 7295,
+      "last_spawn": "2026-07-10T05:19:33.545214"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1625,7 @@
     }
   },
   "global": {
-    "total_spawns": 72818,
+    "total_spawns": 72828,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
