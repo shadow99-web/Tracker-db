@@ -87,7 +87,7 @@
         "Shinx": 70,
         "Drakloak": 9,
         "Victini": 1,
-        "Pawmi": 67,
+        "Pawmi": 68,
         "Sandile": 57,
         "Charmeleon": 13,
         "Riolu": 22,
@@ -103,7 +103,7 @@
         "Corphish": 7,
         "Doduo": 9,
         "Flittle": 35,
-        "Armarouge": 7,
+        "Armarouge": 8,
         "Clauncher": 5,
         "Tentacool": 6,
         "Bayleef": 8,
@@ -877,7 +877,7 @@
         "Emboar": 2,
         "Cacturne": 2,
         "Kricketune": 2,
-        "Gliscor": 3,
+        "Gliscor": 4,
         "Hariyama": 5,
         "Hisuian zoroark": 2,
         "Huntail": 2,
@@ -937,8 +937,8 @@
         "White-striped basculin": 1,
         "Annihilape": 1
       },
-      "total_spawns": 8405,
-      "last_spawn": "2026-07-10T18:23:53.770758"
+      "total_spawns": 8408,
+      "last_spawn": "2026-07-10T18:24:24.235241"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1651,7 +1651,7 @@
     }
   },
   "global": {
-    "total_spawns": 73938,
+    "total_spawns": 73941,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
