@@ -274,7 +274,7 @@
         "Plusle": 11,
         "Decidueye": 5,
         "Kricketot": 12,
-        "Ledyba": 10,
+        "Ledyba": 11,
         "Chinchou": 8,
         "Eiscue": 1,
         "Nacli": 25,
@@ -570,7 +570,7 @@
         "Squawkabilly": 10,
         "Seadra": 5,
         "Sealeo": 7,
-        "Baltoy": 5,
+        "Baltoy": 6,
         "Karrablast": 10,
         "Volbeat": 3,
         "Murkrow": 5,
@@ -815,7 +815,7 @@
         "East sea shellos": 2,
         "Seaking": 4,
         "Glalie": 1,
-        "Talonflame": 1,
+        "Talonflame": 2,
         "Silicobra": 3,
         "Durant": 3,
         "Shaymin": 4,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9033,
-      "last_spawn": "2026-07-10T19:59:38.258444"
+      "total_spawns": 9036,
+      "last_spawn": "2026-07-10T20:00:08.351805"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74566,
+    "total_spawns": 74569,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
