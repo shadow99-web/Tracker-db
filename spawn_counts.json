@@ -19,7 +19,7 @@
         "Fidough": 37,
         "Charjabug": 3,
         "Hatterene": 7,
-        "Rowlet": 14,
+        "Rowlet": 15,
         "Anorith": 10,
         "Arctibax": 10,
         "Ralts": 56,
@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 8,
         "Doduo": 9,
-        "Flittle": 37,
+        "Flittle": 38,
         "Armarouge": 8,
         "Clauncher": 5,
         "Tentacool": 6,
@@ -379,7 +379,7 @@
         "Morelull": 9,
         "Unown": 3,
         "Poltchageist": 5,
-        "Slakoth": 29,
+        "Slakoth": 30,
         "Klink": 19,
         "Mesprit": 1,
         "Azelf": 2,
@@ -423,7 +423,7 @@
         "Mimikyu": 6,
         "Hoothoot": 8,
         "Girafarig": 2,
-        "Summer deerling": 2,
+        "Summer deerling": 3,
         "Seel": 11,
         "Marowak": 4,
         "Haunter": 9,
@@ -945,8 +945,8 @@
         "Feraligatr": 2,
         "Baxcalibur": 1
       },
-      "total_spawns": 8658,
-      "last_spawn": "2026-07-10T19:08:48.375958"
+      "total_spawns": 8662,
+      "last_spawn": "2026-07-10T19:09:28.825653"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1659,7 +1659,7 @@
     }
   },
   "global": {
-    "total_spawns": 74191,
+    "total_spawns": 74195,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
