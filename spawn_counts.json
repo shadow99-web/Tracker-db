@@ -35,7 +35,7 @@
         "Fletchling": 39,
         "Whirlipede": 10,
         "Duskull": 64,
-        "Abra": 34,
+        "Abra": 35,
         "Wiglett": 21,
         "Starly": 63,
         "Caterpie": 26,
@@ -57,7 +57,7 @@
         "Tirtouga": 13,
         "Hatenna": 54,
         "Shroomish": 5,
-        "Lillipup": 34,
+        "Lillipup": 35,
         "Mosslax": 50,
         "Maushold": 5,
         "Cubchoo": 29,
@@ -278,7 +278,7 @@
         "Chinchou": 8,
         "Eiscue": 1,
         "Nacli": 24,
-        "Pancham": 6,
+        "Pancham": 7,
         "Bulbasaur": 29,
         "Dewpider": 8,
         "Yellow plumage squawkabilly": 7,
@@ -486,7 +486,7 @@
         "Altaria": 6,
         "Attack deoxys": 2,
         "Mudkip": 14,
-        "Galarian zapdos": 2,
+        "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
         "Hitmonchan": 3,
@@ -600,7 +600,7 @@
         "Grimer": 6,
         "Frosmoth": 6,
         "Darumaka": 6,
-        "Cubone": 5,
+        "Cubone": 6,
         "Conkeldurr": 3,
         "Sinistea": 6,
         "Golbat": 9,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7925,
-      "last_spawn": "2026-07-10T17:31:23.518586"
+      "total_spawns": 7930,
+      "last_spawn": "2026-07-10T17:31:53.626774"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73458,
+    "total_spawns": 73463,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
