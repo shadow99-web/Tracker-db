@@ -55,7 +55,7 @@
         "Maschiff": 25,
         "Smoliv": 27,
         "Tirtouga": 12,
-        "Hatenna": 50,
+        "Hatenna": 51,
         "Shroomish": 5,
         "Lillipup": 32,
         "Mosslax": 42,
@@ -93,7 +93,7 @@
         "Riolu": 18,
         "Gible": 46,
         "Greavard": 54,
-        "Snover": 14,
+        "Snover": 15,
         "Piplup": 9,
         "Dondozo": 18,
         "Cyclizar": 11,
@@ -154,14 +154,14 @@
         "Roggenrola": 40,
         "Litwick": 26,
         "Wooper": 9,
-        "Pikipek": 51,
+        "Pikipek": 53,
         "Spritzee": 6,
         "Stantler": 11,
         "Impidimp": 47,
         "Swadloon": 7,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 34,
+        "Venipede": 35,
         "Pansage": 6,
         "Cetoddle": 25,
         "Togepi": 30,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 56,
         "Rellor": 16,
-        "Rolycoly": 34,
+        "Rolycoly": 35,
         "Poliwhirl": 9,
         "Lokix": 13,
         "Flamigo": 14,
@@ -453,7 +453,7 @@
         "Thwackey": 5,
         "Latios": 2,
         "Slurpuff": 1,
-        "Espurr": 6,
+        "Espurr": 8,
         "Pelipper": 2,
         "Excadrill": 6,
         "Buizel": 4,
@@ -911,10 +911,11 @@
         "Magmortar": 2,
         "Swalot": 2,
         "Arctozolt": 1,
-        "Floette": 1
+        "Floette": 1,
+        "Zoroark": 2
       },
-      "total_spawns": 7316,
-      "last_spawn": "2026-07-10T05:21:08.276621"
+      "total_spawns": 7326,
+      "last_spawn": "2026-07-10T05:21:38.343855"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1627,7 +1628,7 @@
     }
   },
   "global": {
-    "total_spawns": 72849,
+    "total_spawns": 72859,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
