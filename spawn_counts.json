@@ -34,7 +34,7 @@
         "Bounsweet": 56,
         "Fletchling": 40,
         "Whirlipede": 10,
-        "Duskull": 64,
+        "Duskull": 66,
         "Abra": 35,
         "Wiglett": 21,
         "Starly": 63,
@@ -181,7 +181,7 @@
         "Beldum": 31,
         "Kadabra": 12,
         "Grovyle": 19,
-        "Dratini": 36,
+        "Dratini": 37,
         "Steelix": 3,
         "Sprigatito": 21,
         "Charcadet": 63,
@@ -241,7 +241,7 @@
         "Lunatone": 1,
         "Machoke": 11,
         "Luvdisc": 1,
-        "Fennekin": 17,
+        "Fennekin": 18,
         "Milcery": 17,
         "Trumbeak": 6,
         "Bonsly": 3,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 24,
+        "Smearguru": 25,
         "Magneton": 5,
         "Battle cyclizar": 6,
         "Minccino": 6,
@@ -619,7 +619,7 @@
         "Hangry morpeko": 2,
         "Omanyte": 7,
         "Mamoswine": 3,
-        "Spoink": 10,
+        "Spoink": 11,
         "Dhelmise": 1,
         "Armaldo": 5,
         "Krokorok": 8,
@@ -821,7 +821,7 @@
         "Shaymin": 4,
         "Mantine": 2,
         "Iron bundle": 2,
-        "Gourgeist": 1,
+        "Gourgeist": 2,
         "Luxray": 2,
         "Gogoat": 2,
         "Beedrill": 2,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8057,
-      "last_spawn": "2026-07-10T17:43:23.635811"
+      "total_spawns": 8064,
+      "last_spawn": "2026-07-10T17:43:53.764823"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73590,
+    "total_spawns": 73597,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
