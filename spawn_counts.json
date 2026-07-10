@@ -74,7 +74,7 @@
         "Houndour": 4,
         "Machop": 25,
         "Terapagos": 1,
-        "Mankey": 10,
+        "Mankey": 11,
         "Torterra": 1,
         "Salandit": 8,
         "Bruxish": 2,
@@ -84,7 +84,7 @@
         "Shelgon": 9,
         "Marshtomp": 15,
         "Squirtle": 13,
-        "Shinx": 67,
+        "Shinx": 68,
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 61,
@@ -148,7 +148,7 @@
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
-        "Trapinch": 21,
+        "Trapinch": 22,
         "Butterfree": 5,
         "Teddiursa": 62,
         "Roggenrola": 46,
@@ -163,12 +163,12 @@
         "Vullaby": 5,
         "Venipede": 40,
         "Pansage": 7,
-        "Cetoddle": 26,
+        "Cetoddle": 27,
         "Togepi": 34,
         "Tandemaus": 26,
         "Clefairy": 7,
         "Unown q": 1,
-        "Lotad": 25,
+        "Lotad": 26,
         "Mienshao": 3,
         "Blipbug": 58,
         "Rellor": 19,
@@ -296,7 +296,7 @@
         "Ceruledge": 8,
         "Vanillish": 9,
         "Gimmighoul": 27,
-        "Glimmet": 18,
+        "Glimmet": 19,
         "Popplio": 9,
         "Arboliva": 2,
         "Luxio": 4,
@@ -931,8 +931,8 @@
         "Beartic": 1,
         "Electrode": 1
       },
-      "total_spawns": 7947,
-      "last_spawn": "2026-07-10T17:33:33.663646"
+      "total_spawns": 7953,
+      "last_spawn": "2026-07-10T17:34:03.784080"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1645,7 +1645,7 @@
     }
   },
   "global": {
-    "total_spawns": 73480,
+    "total_spawns": 73486,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
