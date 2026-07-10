@@ -49,7 +49,7 @@
         "Tympole": 28,
         "Grubbin": 28,
         "Scatterbug": 32,
-        "Skwovet": 13,
+        "Skwovet": 14,
         "Applin": 7,
         "Staryu": 4,
         "Maschiff": 27,
@@ -171,7 +171,7 @@
         "Lotad": 28,
         "Mienshao": 3,
         "Blipbug": 64,
-        "Rellor": 21,
+        "Rellor": 22,
         "Rolycoly": 40,
         "Poliwhirl": 9,
         "Lokix": 13,
@@ -530,7 +530,7 @@
         "Volcanion": 1,
         "Drapion": 3,
         "Wartortle": 5,
-        "Midnight lycanroc": 5,
+        "Midnight lycanroc": 6,
         "Skiploom": 6,
         "Stakataka": 1,
         "Cascoon": 9,
@@ -943,10 +943,11 @@
         "Blaze breed tauros": 2,
         "Bellossom": 2,
         "Feraligatr": 2,
-        "Baxcalibur": 1
+        "Baxcalibur": 1,
+        "Pom-pom oricorio": 1
       },
-      "total_spawns": 8681,
-      "last_spawn": "2026-07-10T19:12:00.091023"
+      "total_spawns": 8685,
+      "last_spawn": "2026-07-10T19:12:38.461175"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1659,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 74214,
+    "total_spawns": 74218,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
