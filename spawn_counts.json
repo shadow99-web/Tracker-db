@@ -91,7 +91,7 @@
         "Sandile": 63,
         "Charmeleon": 13,
         "Riolu": 22,
-        "Gible": 49,
+        "Gible": 50,
         "Greavard": 68,
         "Snover": 17,
         "Piplup": 12,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 32,
-        "Jangmo-o": 17,
+        "Jangmo-o": 18,
         "Lunatone": 1,
         "Machoke": 12,
         "Luvdisc": 1,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 5,
         "Slakoth": 32,
-        "Klink": 19,
+        "Klink": 20,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 5,
@@ -399,7 +399,7 @@
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 8,
-        "Dubwool": 2,
+        "Dubwool": 3,
         "Litleo": 13,
         "Silcoon": 13,
         "Snivy": 6,
@@ -429,7 +429,7 @@
         "Haunter": 10,
         "Dottler": 9,
         "Wailmer": 9,
-        "Frigibax": 85,
+        "Frigibax": 87,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 9,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9023,
-      "last_spawn": "2026-07-10T19:58:18.436174"
+      "total_spawns": 9029,
+      "last_spawn": "2026-07-10T19:58:58.259509"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74556,
+    "total_spawns": 74562,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
