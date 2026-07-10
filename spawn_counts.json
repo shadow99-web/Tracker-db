@@ -115,7 +115,7 @@
         "Ride cyclizar": 10,
         "Swinub": 33,
         "Rattata": 25,
-        "Stonjourner": 1,
+        "Stonjourner": 2,
         "Veluza": 60,
         "Panpour": 10,
         "Crabrawler": 6,
@@ -288,7 +288,7 @@
         "Zigzagoon": 11,
         "Quilladin": 6,
         "Infernape": 3,
-        "Noibat": 7,
+        "Noibat": 8,
         "Gothorita": 7,
         "Ekans": 6,
         "Brambleghast": 7,
@@ -353,7 +353,7 @@
         "Klang": 7,
         "Tepig": 12,
         "Spinda": 1,
-        "Phantump": 8,
+        "Phantump": 9,
         "Barboach": 4,
         "Nosepass": 4,
         "Electrike": 15,
@@ -612,7 +612,7 @@
         "Glameow": 4,
         "Zweilous": 6,
         "Azurill": 5,
-        "Oshawott": 6,
+        "Oshawott": 7,
         "Malamar": 4,
         "Orange flower florges": 1,
         "Minun": 6,
@@ -623,7 +623,7 @@
         "Dhelmise": 2,
         "Armaldo": 5,
         "Krokorok": 10,
-        "Torkoal": 9,
+        "Torkoal": 11,
         "Clamperl": 2,
         "Rampardos": 3,
         "Weepinbell": 7,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9009,
-      "last_spawn": "2026-07-10T19:56:29.264542"
+      "total_spawns": 9015,
+      "last_spawn": "2026-07-10T19:57:08.367095"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74542,
+    "total_spawns": 74548,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
