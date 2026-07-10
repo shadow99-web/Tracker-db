@@ -34,7 +34,7 @@
         "Bounsweet": 62,
         "Fletchling": 43,
         "Whirlipede": 10,
-        "Duskull": 68,
+        "Duskull": 70,
         "Abra": 41,
         "Wiglett": 21,
         "Starly": 65,
@@ -101,7 +101,7 @@
         "Dodrio": 7,
         "Metagross": 6,
         "Corphish": 8,
-        "Doduo": 9,
+        "Doduo": 10,
         "Flittle": 39,
         "Armarouge": 8,
         "Clauncher": 5,
@@ -198,7 +198,7 @@
         "Bagon": 36,
         "Pikachu": 18,
         "Tarountula": 33,
-        "Rhyhorn": 41,
+        "Rhyhorn": 42,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 6,
@@ -731,7 +731,7 @@
         "Camerupt": 3,
         "Litten": 7,
         "Gossifleur": 8,
-        "Electivire": 2,
+        "Electivire": 3,
         "Farigiraf": 3,
         "Raichu": 2,
         "Meowstic": 3,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8919,
-      "last_spawn": "2026-07-10T19:44:38.526774"
+      "total_spawns": 8924,
+      "last_spawn": "2026-07-10T19:45:18.398533"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74452,
+    "total_spawns": 74457,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
