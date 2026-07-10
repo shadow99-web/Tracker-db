@@ -92,7 +92,7 @@
         "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
-        "Greavard": 56,
+        "Greavard": 58,
         "Snover": 15,
         "Piplup": 9,
         "Dondozo": 20,
@@ -362,7 +362,7 @@
         "Gholdengo": 5,
         "Trubbish": 8,
         "Rockruff": 6,
-        "Snowy castform": 1,
+        "Snowy castform": 2,
         "Dusclops": 10,
         "Prinplup": 6,
         "Kommo-o": 1,
@@ -794,7 +794,7 @@
         "Blue flower florges": 1,
         "Dudunsparce": 5,
         "Kingler": 2,
-        "Aurorus": 2,
+        "Aurorus": 3,
         "Cacnea": 2,
         "Sableye": 4,
         "Persian": 1,
@@ -926,10 +926,11 @@
         "Blaziken": 2,
         "Clawitzer": 1,
         "Giratina": 2,
-        "Heliolisk": 1
+        "Heliolisk": 1,
+        "Skarmory": 2
       },
-      "total_spawns": 7843,
-      "last_spawn": "2026-07-10T17:22:53.692297"
+      "total_spawns": 7849,
+      "last_spawn": "2026-07-10T17:23:28.240849"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1642,7 +1643,7 @@
     }
   },
   "global": {
-    "total_spawns": 73376,
+    "total_spawns": 73382,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
