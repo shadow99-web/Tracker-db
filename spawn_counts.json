@@ -114,7 +114,7 @@
         "Shroodle": 34,
         "Ride cyclizar": 10,
         "Swinub": 31,
-        "Rattata": 23,
+        "Rattata": 24,
         "Stonjourner": 1,
         "Veluza": 60,
         "Panpour": 10,
@@ -376,7 +376,7 @@
         "Horsea": 26,
         "Reshiram": 3,
         "Celebi": 80,
-        "Morelull": 9,
+        "Morelull": 10,
         "Unown": 3,
         "Poltchageist": 5,
         "Slakoth": 30,
@@ -406,7 +406,7 @@
         "Zorua": 12,
         "Minior": 1,
         "Darmanitan": 3,
-        "Lopunny": 2,
+        "Lopunny": 3,
         "Chimchar": 13,
         "Gligar": 9,
         "Quaxly": 15,
@@ -945,10 +945,11 @@
         "Feraligatr": 2,
         "Baxcalibur": 1,
         "Pom-pom oricorio": 1,
-        "Pyroar": 1
+        "Pyroar": 1,
+        "Walrein": 1
       },
-      "total_spawns": 8792,
-      "last_spawn": "2026-07-10T19:27:28.189198"
+      "total_spawns": 8796,
+      "last_spawn": "2026-07-10T19:28:08.353560"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1662,7 @@
     }
   },
   "global": {
-    "total_spawns": 74325,
+    "total_spawns": 74329,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
