@@ -43,7 +43,7 @@
         "Capsakid": 34,
         "Numel": 10,
         "Pawmo": 9,
-        "Wattrel": 24,
+        "Wattrel": 25,
         "Tadbulb": 39,
         "Yanmega": 3,
         "Tympole": 28,
@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 4,
         "Maschiff": 27,
-        "Smoliv": 30,
+        "Smoliv": 31,
         "Tirtouga": 13,
         "Hatenna": 66,
         "Shroomish": 5,
@@ -87,7 +87,7 @@
         "Shinx": 74,
         "Drakloak": 13,
         "Victini": 1,
-        "Pawmi": 71,
+        "Pawmi": 73,
         "Sandile": 61,
         "Charmeleon": 13,
         "Riolu": 22,
@@ -946,8 +946,8 @@
         "Baxcalibur": 1,
         "Pom-pom oricorio": 1
       },
-      "total_spawns": 8711,
-      "last_spawn": "2026-07-10T19:16:28.322764"
+      "total_spawns": 8715,
+      "last_spawn": "2026-07-10T19:16:58.371878"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1660,7 +1660,7 @@
     }
   },
   "global": {
-    "total_spawns": 74244,
+    "total_spawns": 74248,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
