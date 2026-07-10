@@ -26,7 +26,7 @@
         "Peakychu": 37,
         "Cutiefly": 11,
         "Simipour": 3,
-        "Tynamo": 25,
+        "Tynamo": 26,
         "Palossand": 4,
         "Pyukumuku": 1,
         "Pidgey": 26,
@@ -95,7 +95,7 @@
         "Greavard": 64,
         "Snover": 15,
         "Piplup": 10,
-        "Dondozo": 23,
+        "Dondozo": 24,
         "Cyclizar": 12,
         "Froslass": 2,
         "Dodrio": 7,
@@ -176,7 +176,7 @@
         "Poliwhirl": 9,
         "Lokix": 13,
         "Flamigo": 18,
-        "Bellsprout": 18,
+        "Bellsprout": 19,
         "Houndstone": 5,
         "Beldum": 33,
         "Kadabra": 12,
@@ -931,10 +931,11 @@
         "Beartic": 1,
         "Electrode": 1,
         "Cherrim": 1,
-        "Ampharos": 1
+        "Ampharos": 1,
+        "Blue-striped basculin": 1
       },
-      "total_spawns": 8198,
-      "last_spawn": "2026-07-10T17:55:53.759993"
+      "total_spawns": 8202,
+      "last_spawn": "2026-07-10T17:56:33.570162"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1648,7 @@
     }
   },
   "global": {
-    "total_spawns": 73731,
+    "total_spawns": 73735,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
