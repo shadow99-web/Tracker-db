@@ -34,8 +34,8 @@
         "Bounsweet": 62,
         "Fletchling": 42,
         "Whirlipede": 10,
-        "Duskull": 66,
-        "Abra": 38,
+        "Duskull": 68,
+        "Abra": 39,
         "Wiglett": 21,
         "Starly": 65,
         "Caterpie": 31,
@@ -252,7 +252,7 @@
         "Tinkatuff": 8,
         "Drednaw": 5,
         "Corvisquire": 10,
-        "Croconaw": 9,
+        "Croconaw": 10,
         "Makuhita": 5,
         "Machamp": 3,
         "Primarina": 7,
@@ -947,8 +947,8 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1
       },
-      "total_spawns": 8732,
-      "last_spawn": "2026-07-10T19:19:18.283116"
+      "total_spawns": 8736,
+      "last_spawn": "2026-07-10T19:19:48.373776"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74265,
+    "total_spawns": 74269,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
