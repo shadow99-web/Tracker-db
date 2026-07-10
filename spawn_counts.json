@@ -43,7 +43,7 @@
         "Capsakid": 31,
         "Numel": 10,
         "Pawmo": 9,
-        "Wattrel": 21,
+        "Wattrel": 22,
         "Tadbulb": 36,
         "Yanmega": 2,
         "Tympole": 26,
@@ -55,7 +55,7 @@
         "Maschiff": 26,
         "Smoliv": 30,
         "Tirtouga": 13,
-        "Hatenna": 54,
+        "Hatenna": 56,
         "Shroomish": 5,
         "Lillipup": 35,
         "Mosslax": 50,
@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 25,
         "Vulpix": 21,
-        "Gastly": 54,
+        "Gastly": 56,
         "Aron": 32,
         "Honedge": 52,
         "Houndour": 4,
@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 63,
-        "Sandile": 53,
+        "Sandile": 54,
         "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
@@ -231,7 +231,7 @@
         "Tangrowth": 2,
         "Sizzlipede": 8,
         "Skuntank": 2,
-        "Palafin": 7,
+        "Palafin": 8,
         "Timburr": 27,
         "Shellos": 3,
         "Arcanine": 1,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8033,
-      "last_spawn": "2026-07-10T17:41:13.470035"
+      "total_spawns": 8040,
+      "last_spawn": "2026-07-10T17:41:43.479689"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73566,
+    "total_spawns": 73573,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
