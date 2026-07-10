@@ -100,7 +100,7 @@
         "Froslass": 2,
         "Dodrio": 7,
         "Metagross": 6,
-        "Corphish": 5,
+        "Corphish": 6,
         "Doduo": 7,
         "Flittle": 31,
         "Armarouge": 7,
@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 65,
         "Treecko": 14,
-        "Shroodle": 29,
+        "Shroodle": 30,
         "Ride cyclizar": 10,
         "Swinub": 29,
         "Rattata": 16,
@@ -198,7 +198,7 @@
         "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 26,
-        "Rhyhorn": 29,
+        "Rhyhorn": 30,
         "Aipom": 6,
         "Grookey": 15,
         "Inkay": 5,
@@ -379,7 +379,7 @@
         "Morelull": 6,
         "Unown": 3,
         "Poltchageist": 5,
-        "Slakoth": 24,
+        "Slakoth": 25,
         "Klink": 17,
         "Mesprit": 1,
         "Azelf": 2,
@@ -919,8 +919,8 @@
         "Medicham": 2,
         "Crobat": 2
       },
-      "total_spawns": 7492,
-      "last_spawn": "2026-07-10T08:19:18.579109"
+      "total_spawns": 7496,
+      "last_spawn": "2026-07-10T08:19:58.534761"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1633,7 +1633,7 @@
     }
   },
   "global": {
-    "total_spawns": 73025,
+    "total_spawns": 73029,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
