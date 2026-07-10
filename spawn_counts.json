@@ -26,7 +26,7 @@
         "Peakychu": 39,
         "Cutiefly": 11,
         "Simipour": 3,
-        "Tynamo": 27,
+        "Tynamo": 28,
         "Palossand": 4,
         "Pyukumuku": 1,
         "Pidgey": 28,
@@ -114,7 +114,7 @@
         "Shroodle": 34,
         "Ride cyclizar": 10,
         "Swinub": 31,
-        "Rattata": 22,
+        "Rattata": 23,
         "Stonjourner": 1,
         "Veluza": 56,
         "Panpour": 10,
@@ -206,7 +206,7 @@
         "Fraxure": 11,
         "Zubat": 26,
         "Drowzee": 10,
-        "Lechonk": 34,
+        "Lechonk": 35,
         "Woobat": 6,
         "Skrelp": 9,
         "Lileep": 8,
@@ -939,10 +939,11 @@
         "Victreebel": 1,
         "Galarian yamask": 2,
         "Zebstrika": 2,
-        "Unown u": 1
+        "Unown u": 2,
+        "Blaze breed tauros": 1
       },
-      "total_spawns": 8512,
-      "last_spawn": "2026-07-10T18:38:23.737471"
+      "total_spawns": 8517,
+      "last_spawn": "2026-07-10T18:39:03.671108"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1655,7 +1656,7 @@
     }
   },
   "global": {
-    "total_spawns": 74045,
+    "total_spawns": 74050,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
