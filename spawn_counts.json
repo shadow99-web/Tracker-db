@@ -569,7 +569,7 @@
         "Fearow": 2,
         "Squawkabilly": 10,
         "Seadra": 5,
-        "Sealeo": 6,
+        "Sealeo": 7,
         "Baltoy": 4,
         "Karrablast": 9,
         "Volbeat": 3,
@@ -798,7 +798,7 @@
         "Cacnea": 3,
         "Sableye": 4,
         "Persian": 1,
-        "Toedscruel": 7,
+        "Toedscruel": 8,
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 2,
@@ -813,7 +813,7 @@
         "Swoobat": 2,
         "Morpeko": 1,
         "East sea shellos": 2,
-        "Seaking": 2,
+        "Seaking": 4,
         "Glalie": 1,
         "Talonflame": 1,
         "Silicobra": 3,
@@ -940,8 +940,8 @@
         "Galarian yamask": 2,
         "Zebstrika": 2
       },
-      "total_spawns": 8488,
-      "last_spawn": "2026-07-10T18:35:03.789952"
+      "total_spawns": 8492,
+      "last_spawn": "2026-07-10T18:35:35.384176"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1654,7 +1654,7 @@
     }
   },
   "global": {
-    "total_spawns": 74021,
+    "total_spawns": 74025,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
