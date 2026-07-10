@@ -69,7 +69,7 @@
         "Prof tangrowth": 27,
         "Vulpix": 27,
         "Gastly": 60,
-        "Aron": 34,
+        "Aron": 35,
         "Honedge": 56,
         "Houndour": 6,
         "Machop": 28,
@@ -111,7 +111,7 @@
         "Eevee": 28,
         "Dreepy": 69,
         "Treecko": 20,
-        "Shroodle": 34,
+        "Shroodle": 35,
         "Ride cyclizar": 10,
         "Swinub": 31,
         "Rattata": 24,
@@ -429,7 +429,7 @@
         "Haunter": 9,
         "Dottler": 9,
         "Wailmer": 9,
-        "Frigibax": 73,
+        "Frigibax": 75,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 8,
@@ -927,7 +927,7 @@
         "Clawitzer": 1,
         "Giratina": 2,
         "Heliolisk": 1,
-        "Skarmory": 2,
+        "Skarmory": 3,
         "Beartic": 1,
         "Electrode": 2,
         "Cherrim": 1,
@@ -948,8 +948,8 @@
         "Pyroar": 1,
         "Walrein": 1
       },
-      "total_spawns": 8803,
-      "last_spawn": "2026-07-10T19:29:18.419478"
+      "total_spawns": 8808,
+      "last_spawn": "2026-07-10T19:29:58.432567"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1662,7 +1662,7 @@
     }
   },
   "global": {
-    "total_spawns": 74336,
+    "total_spawns": 74341,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
