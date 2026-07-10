@@ -43,7 +43,7 @@
         "Capsakid": 27,
         "Numel": 9,
         "Pawmo": 9,
-        "Wattrel": 20,
+        "Wattrel": 21,
         "Tadbulb": 32,
         "Yanmega": 1,
         "Tympole": 23,
@@ -120,7 +120,7 @@
         "Panpour": 9,
         "Crabrawler": 6,
         "Frogadier": 4,
-        "Scovillain": 5,
+        "Scovillain": 6,
         "White plumage squawkabilly": 15,
         "Flaaffy": 4,
         "Rookidee": 53,
@@ -161,7 +161,7 @@
         "Swadloon": 7,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 35,
+        "Venipede": 36,
         "Pansage": 6,
         "Cetoddle": 25,
         "Togepi": 31,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 18,
         "Kingdra": 3,
-        "Chikorita": 12,
+        "Chikorita": 13,
         "Donphan": 7,
         "Shuppet": 13,
         "Graveler": 4,
@@ -341,7 +341,7 @@
         "Ursaring": 4,
         "Bidoof": 3,
         "Gothita": 25,
-        "Solosis": 31,
+        "Solosis": 32,
         "Sandygast": 7,
         "Pidove": 17,
         "Chespin": 8,
@@ -356,7 +356,7 @@
         "Phantump": 7,
         "Barboach": 4,
         "Nosepass": 3,
-        "Electrike": 11,
+        "Electrike": 12,
         "Hoppip": 27,
         "Slowbro": 4,
         "Gholdengo": 5,
@@ -503,7 +503,7 @@
         "Tyrogue": 6,
         "Nuzleaf": 10,
         "Spinarak": 7,
-        "Goomy": 17,
+        "Goomy": 18,
         "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 7,
@@ -916,8 +916,8 @@
         "Avalugg": 1,
         "Carnivine": 1
       },
-      "total_spawns": 7394,
-      "last_spawn": "2026-07-10T05:26:03.966597"
+      "total_spawns": 7401,
+      "last_spawn": "2026-07-10T05:26:38.224453"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1630,7 @@
     }
   },
   "global": {
-    "total_spawns": 72927,
+    "total_spawns": 72934,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
