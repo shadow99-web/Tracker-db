@@ -21,7 +21,7 @@
         "Hatterene": 5,
         "Rowlet": 13,
         "Anorith": 9,
-        "Arctibax": 6,
+        "Arctibax": 7,
         "Ralts": 50,
         "Peakychu": 35,
         "Cutiefly": 9,
@@ -49,7 +49,7 @@
         "Tympole": 24,
         "Grubbin": 27,
         "Scatterbug": 20,
-        "Skwovet": 10,
+        "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
         "Maschiff": 25,
@@ -317,11 +317,11 @@
         "Bellibolt": 7,
         "Toedscool": 23,
         "Paras": 5,
-        "Fletchinder": 9,
+        "Fletchinder": 10,
         "Staravia": 6,
         "Wishiwashi": 3,
         "Skitty": 13,
-        "Finizen": 22,
+        "Finizen": 23,
         "Swablu": 6,
         "Sunkern": 8,
         "Snubbull": 4,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 12,
-        "Hoppip": 27,
+        "Hoppip": 29,
         "Slowbro": 4,
         "Gholdengo": 5,
         "Trubbish": 8,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 20,
+        "Smearguru": 21,
         "Magneton": 5,
         "Battle cyclizar": 5,
         "Minccino": 4,
@@ -917,8 +917,8 @@
         "Carnivine": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 7423,
-      "last_spawn": "2026-07-10T05:29:23.860742"
+      "total_spawns": 7430,
+      "last_spawn": "2026-07-10T05:29:58.220326"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1631,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 72956,
+    "total_spawns": 72963,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
