@@ -36,7 +36,7 @@
         "Whirlipede": 10,
         "Duskull": 72,
         "Abra": 41,
-        "Wiglett": 23,
+        "Wiglett": 24,
         "Starly": 67,
         "Caterpie": 34,
         "Mareep": 32,
@@ -79,7 +79,7 @@
         "Salandit": 11,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 22,
+        "Bramblin": 23,
         "Stufful": 11,
         "Shelgon": 13,
         "Marshtomp": 19,
@@ -318,7 +318,7 @@
         "Toedscool": 27,
         "Paras": 5,
         "Fletchinder": 14,
-        "Staravia": 7,
+        "Staravia": 8,
         "Wishiwashi": 3,
         "Skitty": 13,
         "Finizen": 29,
@@ -436,7 +436,7 @@
         "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 5,
-        "Spheal": 32,
+        "Spheal": 33,
         "Amaura": 10,
         "Wailord": 4,
         "Accelgor": 3,
@@ -957,8 +957,8 @@
         "Incineroar": 1,
         "Hisuian voltorb": 2
       },
-      "total_spawns": 9320,
-      "last_spawn": "2026-07-10T23:29:28.486230"
+      "total_spawns": 9324,
+      "last_spawn": "2026-07-10T23:30:08.215634"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1671,7 +1671,7 @@
     }
   },
   "global": {
-    "total_spawns": 74853,
+    "total_spawns": 74857,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
