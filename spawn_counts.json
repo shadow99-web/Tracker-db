@@ -164,7 +164,7 @@
         "Venipede": 47,
         "Pansage": 8,
         "Cetoddle": 27,
-        "Togepi": 41,
+        "Togepi": 42,
         "Tandemaus": 29,
         "Clefairy": 7,
         "Unown q": 1,
@@ -291,7 +291,7 @@
         "Noibat": 7,
         "Gothorita": 7,
         "Ekans": 6,
-        "Brambleghast": 6,
+        "Brambleghast": 7,
         "Dartrix": 10,
         "Ceruledge": 8,
         "Vanillish": 10,
@@ -312,7 +312,7 @@
         "Lumineon": 2,
         "Kilowattrel": 7,
         "Pumpkaboo": 6,
-        "Petilil": 11,
+        "Petilil": 12,
         "Bombirdier": 32,
         "Bellibolt": 9,
         "Toedscool": 27,
@@ -438,7 +438,7 @@
         "Dragonair": 5,
         "Spheal": 30,
         "Amaura": 10,
-        "Wailord": 3,
+        "Wailord": 4,
         "Accelgor": 3,
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8924,
-      "last_spawn": "2026-07-10T19:45:18.398533"
+      "total_spawns": 8928,
+      "last_spawn": "2026-07-10T19:45:58.310104"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74457,
+    "total_spawns": 74461,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
