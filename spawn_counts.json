@@ -161,7 +161,7 @@
         "Swadloon": 9,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 38,
+        "Venipede": 39,
         "Pansage": 7,
         "Cetoddle": 26,
         "Togepi": 32,
@@ -193,7 +193,7 @@
         "Diggersby": 2,
         "Klawf": 47,
         "Dj rotom": 23,
-        "Chef dente": 29,
+        "Chef dente": 30,
         "Hisuian qwilfish": 1,
         "Bagon": 30,
         "Pikachu": 16,
@@ -924,10 +924,11 @@
         "Tyranitar": 2,
         "Sensu oricorio": 1,
         "Blaziken": 2,
-        "Clawitzer": 1
+        "Clawitzer": 1,
+        "Giratina": 1
       },
-      "total_spawns": 7815,
-      "last_spawn": "2026-07-10T17:09:38.245249"
+      "total_spawns": 7818,
+      "last_spawn": "2026-07-10T17:10:08.517881"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1641,7 @@
     }
   },
   "global": {
-    "total_spawns": 73348,
+    "total_spawns": 73351,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
