@@ -16,7 +16,7 @@
         "Weedle": 45,
         "Kabutops": 2,
         "Poliwag": 29,
-        "Fidough": 33,
+        "Fidough": 34,
         "Charjabug": 3,
         "Hatterene": 7,
         "Rowlet": 14,
@@ -38,7 +38,7 @@
         "Abra": 33,
         "Wiglett": 21,
         "Starly": 63,
-        "Caterpie": 24,
+        "Caterpie": 25,
         "Mareep": 27,
         "Capsakid": 30,
         "Numel": 10,
@@ -824,7 +824,7 @@
         "Gourgeist": 1,
         "Luxray": 2,
         "Gogoat": 2,
-        "Beedrill": 1,
+        "Beedrill": 2,
         "Sandslash": 3,
         "Pupitar": 5,
         "Zeraora": 2,
@@ -923,10 +923,11 @@
         "Hypno": 1,
         "Tyranitar": 2,
         "Sensu oricorio": 1,
-        "Blaziken": 2
+        "Blaziken": 2,
+        "Clawitzer": 1
       },
-      "total_spawns": 7778,
-      "last_spawn": "2026-07-10T17:04:38.438975"
+      "total_spawns": 7782,
+      "last_spawn": "2026-07-10T17:05:18.354624"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1639,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73311,
+    "total_spawns": 73315,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
