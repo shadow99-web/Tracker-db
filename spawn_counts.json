@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 3,
         "Maschiff": 25,
-        "Smoliv": 27,
+        "Smoliv": 28,
         "Tirtouga": 12,
         "Hatenna": 52,
         "Shroomish": 5,
@@ -198,7 +198,7 @@
         "Bagon": 30,
         "Pikachu": 16,
         "Tarountula": 26,
-        "Rhyhorn": 30,
+        "Rhyhorn": 31,
         "Aipom": 6,
         "Grookey": 16,
         "Inkay": 5,
@@ -215,7 +215,7 @@
         "Sandaconda": 1,
         "Froakie": 18,
         "Kingdra": 3,
-        "Chikorita": 13,
+        "Chikorita": 14,
         "Donphan": 7,
         "Shuppet": 13,
         "Graveler": 4,
@@ -917,10 +917,11 @@
         "Carnivine": 1,
         "Yellow flower floette": 1,
         "Medicham": 2,
-        "Crobat": 2
+        "Crobat": 2,
+        "Dandy trim furfrou": 1
       },
-      "total_spawns": 7524,
-      "last_spawn": "2026-07-10T08:23:31.023234"
+      "total_spawns": 7528,
+      "last_spawn": "2026-07-10T08:24:08.136666"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1633,7 +1634,7 @@
     }
   },
   "global": {
-    "total_spawns": 73057,
+    "total_spawns": 73061,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
