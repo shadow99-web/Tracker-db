@@ -29,7 +29,7 @@
         "Tynamo": 28,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 29,
+        "Pidgey": 30,
         "Binacle": 12,
         "Bounsweet": 62,
         "Fletchling": 42,
@@ -67,7 +67,7 @@
         "Dolliv": 6,
         "Feebas": 16,
         "Prof tangrowth": 27,
-        "Vulpix": 26,
+        "Vulpix": 27,
         "Gastly": 60,
         "Aron": 34,
         "Honedge": 56,
@@ -88,7 +88,7 @@
         "Drakloak": 15,
         "Victini": 1,
         "Pawmi": 73,
-        "Sandile": 61,
+        "Sandile": 63,
         "Charmeleon": 13,
         "Riolu": 22,
         "Gible": 48,
@@ -592,7 +592,7 @@
         "Gengar": 4,
         "Spiritomb": 2,
         "Gurdurr": 4,
-        "Quilava": 5,
+        "Quilava": 7,
         "Wurmple": 50,
         "Sandshrew": 12,
         "Tauros": 4,
@@ -947,8 +947,8 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 1
       },
-      "total_spawns": 8777,
-      "last_spawn": "2026-07-10T19:25:38.191799"
+      "total_spawns": 8783,
+      "last_spawn": "2026-07-10T19:26:08.487717"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1661,7 +1661,7 @@
     }
   },
   "global": {
-    "total_spawns": 74310,
+    "total_spawns": 74316,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
