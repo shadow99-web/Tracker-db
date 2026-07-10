@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 32,
         "Binacle": 12,
-        "Bounsweet": 64,
+        "Bounsweet": 66,
         "Fletchling": 46,
         "Whirlipede": 10,
         "Duskull": 72,
@@ -44,7 +44,7 @@
         "Numel": 11,
         "Pawmo": 9,
         "Wattrel": 27,
-        "Tadbulb": 42,
+        "Tadbulb": 43,
         "Yanmega": 3,
         "Tympole": 29,
         "Grubbin": 31,
@@ -92,7 +92,7 @@
         "Charmeleon": 13,
         "Riolu": 22,
         "Gible": 52,
-        "Greavard": 68,
+        "Greavard": 70,
         "Snover": 17,
         "Piplup": 12,
         "Dondozo": 27,
@@ -956,8 +956,8 @@
         "Cofagrigus": 1,
         "Incineroar": 1
       },
-      "total_spawns": 9261,
-      "last_spawn": "2026-07-10T23:21:48.266109"
+      "total_spawns": 9266,
+      "last_spawn": "2026-07-10T23:22:18.383073"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1670,7 +1670,7 @@
     }
   },
   "global": {
-    "total_spawns": 74794,
+    "total_spawns": 74799,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
