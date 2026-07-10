@@ -183,7 +183,7 @@
         "Grovyle": 19,
         "Dratini": 33,
         "Steelix": 3,
-        "Sprigatito": 17,
+        "Sprigatito": 19,
         "Charcadet": 63,
         "Mudsdale": 8,
         "Meowth": 15,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 4,
         "Charizard": 10,
-        "Axew": 71,
+        "Axew": 73,
         "Joltik": 8,
         "Gulpin": 6,
         "Mareanie": 6,
@@ -411,7 +411,7 @@
         "Gligar": 8,
         "Quaxly": 13,
         "Spiky-eared pichu": 2,
-        "Cradily": 4,
+        "Cradily": 6,
         "Burmy": 1,
         "Sewaddle": 23,
         "Shelmet": 8,
@@ -679,7 +679,7 @@
         "Basculegion": 4,
         "Jolteon": 10,
         "Okidogi": 4,
-        "Wyrdeer": 2,
+        "Wyrdeer": 4,
         "Ferroseed": 5,
         "Musharna": 2,
         "Wingull": 5,
@@ -760,7 +760,7 @@
         "Beheeyem": 4,
         "Chimecho": 2,
         "Natu": 4,
-        "Gorebyss": 1,
+        "Gorebyss": 2,
         "Eldegoss": 3,
         "Pinsir": 3,
         "Ivysaur": 7,
@@ -931,8 +931,8 @@
         "Beartic": 1,
         "Electrode": 1
       },
-      "total_spawns": 7953,
-      "last_spawn": "2026-07-10T17:34:03.784080"
+      "total_spawns": 7962,
+      "last_spawn": "2026-07-10T17:34:35.537944"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1645,7 +1645,7 @@
     }
   },
   "global": {
-    "total_spawns": 73486,
+    "total_spawns": 73495,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
