@@ -284,7 +284,7 @@
         "Yellow plumage squawkabilly": 7,
         "Hattrem": 7,
         "Trash wormadam": 4,
-        "Purrloin": 2,
+        "Purrloin": 3,
         "Zigzagoon": 10,
         "Quilladin": 5,
         "Infernape": 3,
@@ -503,7 +503,7 @@
         "Tyrogue": 6,
         "Nuzleaf": 10,
         "Spinarak": 7,
-        "Goomy": 18,
+        "Goomy": 19,
         "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 7,
@@ -907,17 +907,18 @@
         "Scrafty": 1,
         "Orange flower floette": 1,
         "Galarian meowth": 2,
-        "Stretchy tatsugiri": 3,
+        "Stretchy tatsugiri": 4,
         "Magmortar": 2,
         "Swalot": 2,
         "Arctozolt": 1,
         "Floette": 1,
         "Zoroark": 2,
         "Avalugg": 1,
-        "Carnivine": 1
+        "Carnivine": 1,
+        "Yellow flower floette": 1
       },
-      "total_spawns": 7419,
-      "last_spawn": "2026-07-10T05:28:53.526004"
+      "total_spawns": 7423,
+      "last_spawn": "2026-07-10T05:29:23.860742"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1630,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 72952,
+    "total_spawns": 72956,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
