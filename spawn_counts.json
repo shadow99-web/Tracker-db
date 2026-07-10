@@ -48,8 +48,8 @@
         "Yanmega": 3,
         "Tympole": 28,
         "Grubbin": 28,
-        "Scatterbug": 31,
-        "Skwovet": 12,
+        "Scatterbug": 32,
+        "Skwovet": 13,
         "Applin": 7,
         "Staryu": 4,
         "Maschiff": 27,
@@ -134,7 +134,7 @@
         "Torchic": 15,
         "Abomasnow": 5,
         "Slugma": 12,
-        "Venonat": 12,
+        "Venonat": 13,
         "Eelektrik": 6,
         "Diglett": 7,
         "Surskit": 9,
@@ -945,8 +945,8 @@
         "Feraligatr": 2,
         "Baxcalibur": 1
       },
-      "total_spawns": 8637,
-      "last_spawn": "2026-07-10T19:05:28.478072"
+      "total_spawns": 8640,
+      "last_spawn": "2026-07-10T19:05:58.568486"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1659,7 +1659,7 @@
     }
   },
   "global": {
-    "total_spawns": 74170,
+    "total_spawns": 74173,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
