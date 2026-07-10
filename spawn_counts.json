@@ -395,7 +395,7 @@
         "Meganium": 8,
         "Rainy castform": 3,
         "Rabsca": 7,
-        "Misdreavus": 7,
+        "Misdreavus": 8,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 8,
@@ -713,7 +713,7 @@
         "Garbodor": 2,
         "Remoraid": 3,
         "Exeggcute": 7,
-        "Dunsparce": 3,
+        "Dunsparce": 4,
         "Sobble": 8,
         "Lycanroc": 2,
         "Dustox": 3,
@@ -848,7 +848,7 @@
         "Naclstack": 2,
         "Wobbuffet": 1,
         "Morgrem": 4,
-        "Budew": 1,
+        "Budew": 2,
         "Dragapult": 2,
         "Blue flower floette": 1,
         "Jumpluff": 1,
@@ -926,8 +926,8 @@
         "Blaziken": 2,
         "Clawitzer": 1
       },
-      "total_spawns": 7812,
-      "last_spawn": "2026-07-10T17:09:08.218663"
+      "total_spawns": 7815,
+      "last_spawn": "2026-07-10T17:09:38.245249"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73345,
+    "total_spawns": 73348,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
