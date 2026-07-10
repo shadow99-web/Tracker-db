@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 8,
         "Surskit": 9,
-        "Seedot": 24,
+        "Seedot": 25,
         "Jigglypuff": 12,
         "Spearow": 9,
         "Servine": 5,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 33,
-        "Jangmo-o": 18,
+        "Jangmo-o": 19,
         "Lunatone": 1,
         "Machoke": 12,
         "Luvdisc": 1,
@@ -253,7 +253,7 @@
         "Drednaw": 5,
         "Corvisquire": 10,
         "Croconaw": 11,
-        "Makuhita": 5,
+        "Makuhita": 6,
         "Machamp": 3,
         "Primarina": 7,
         "Skeledirge": 3,
@@ -341,7 +341,7 @@
         "Ursaring": 4,
         "Bidoof": 3,
         "Gothita": 30,
-        "Solosis": 38,
+        "Solosis": 39,
         "Sandygast": 7,
         "Pidove": 23,
         "Chespin": 11,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9058,
-      "last_spawn": "2026-07-10T20:03:20.988673"
+      "total_spawns": 9062,
+      "last_spawn": "2026-07-10T20:03:58.158318"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74591,
+    "total_spawns": 74595,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
