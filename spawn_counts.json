@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 32,
         "Totodile": 16,
-        "Vanillite": 64,
+        "Vanillite": 66,
         "Weedle": 45,
         "Kabutops": 2,
         "Poliwag": 27,
@@ -54,7 +54,7 @@
         "Staryu": 3,
         "Maschiff": 25,
         "Smoliv": 27,
-        "Tirtouga": 11,
+        "Tirtouga": 12,
         "Hatenna": 50,
         "Shroomish": 5,
         "Lillipup": 32,
@@ -79,7 +79,7 @@
         "Salandit": 8,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 16,
+        "Bramblin": 17,
         "Stufful": 10,
         "Shelgon": 7,
         "Marshtomp": 15,
@@ -93,7 +93,7 @@
         "Riolu": 18,
         "Gible": 46,
         "Greavard": 54,
-        "Snover": 13,
+        "Snover": 14,
         "Piplup": 9,
         "Dondozo": 18,
         "Cyclizar": 11,
@@ -165,7 +165,7 @@
         "Pansage": 6,
         "Cetoddle": 25,
         "Togepi": 30,
-        "Tandemaus": 22,
+        "Tandemaus": 23,
         "Clefairy": 7,
         "Unown q": 1,
         "Lotad": 24,
@@ -199,7 +199,7 @@
         "Pikachu": 16,
         "Tarountula": 25,
         "Rhyhorn": 29,
-        "Aipom": 4,
+        "Aipom": 5,
         "Grookey": 15,
         "Inkay": 5,
         "Unfezant": 4,
@@ -910,10 +910,11 @@
         "Stretchy tatsugiri": 2,
         "Magmortar": 2,
         "Swalot": 2,
-        "Arctozolt": 1
+        "Arctozolt": 1,
+        "Floette": 1
       },
-      "total_spawns": 7308,
-      "last_spawn": "2026-07-10T05:20:34.013504"
+      "total_spawns": 7316,
+      "last_spawn": "2026-07-10T05:21:08.276621"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1626,7 +1627,7 @@
     }
   },
   "global": {
-    "total_spawns": 72841,
+    "total_spawns": 72849,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
