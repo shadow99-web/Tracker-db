@@ -94,7 +94,7 @@
         "Gible": 48,
         "Greavard": 58,
         "Snover": 15,
-        "Piplup": 9,
+        "Piplup": 10,
         "Dondozo": 20,
         "Cyclizar": 12,
         "Froslass": 2,
@@ -270,7 +270,7 @@
         "Slowpoke": 6,
         "Drizzile": 9,
         "Tinkatink": 26,
-        "Frillish": 1,
+        "Frillish": 2,
         "Plusle": 9,
         "Decidueye": 5,
         "Kricketot": 9,
@@ -438,7 +438,7 @@
         "Dragonair": 5,
         "Spheal": 25,
         "Amaura": 10,
-        "Wailord": 2,
+        "Wailord": 3,
         "Accelgor": 3,
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
@@ -485,7 +485,7 @@
         "Lairon": 7,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 14,
+        "Mudkip": 16,
         "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
@@ -578,7 +578,7 @@
         "Quaquaval": 1,
         "Boldore": 10,
         "Skorupi": 5,
-        "Probopass": 3,
+        "Probopass": 4,
         "Family of three maushold": 1,
         "Scyther": 22,
         "Polteageist": 2,
@@ -932,8 +932,8 @@
         "Electrode": 1,
         "Cherrim": 1
       },
-      "total_spawns": 7979,
-      "last_spawn": "2026-07-10T17:36:13.677714"
+      "total_spawns": 7985,
+      "last_spawn": "2026-07-10T17:36:53.611711"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1646,7 +1646,7 @@
     }
   },
   "global": {
-    "total_spawns": 73512,
+    "total_spawns": 73518,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
