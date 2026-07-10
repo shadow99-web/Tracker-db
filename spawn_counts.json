@@ -32,7 +32,7 @@
         "Pidgey": 32,
         "Binacle": 12,
         "Bounsweet": 64,
-        "Fletchling": 44,
+        "Fletchling": 45,
         "Whirlipede": 10,
         "Duskull": 70,
         "Abra": 41,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 64,
         "Rellor": 24,
-        "Rolycoly": 42,
+        "Rolycoly": 43,
         "Poliwhirl": 9,
         "Lokix": 13,
         "Flamigo": 20,
@@ -531,7 +531,7 @@
         "Drapion": 3,
         "Wartortle": 6,
         "Midnight lycanroc": 7,
-        "Skiploom": 6,
+        "Skiploom": 7,
         "Stakataka": 1,
         "Cascoon": 10,
         "Sigilyph": 6,
@@ -950,10 +950,11 @@
         "Druddigon": 2,
         "Galarian mr. mime": 2,
         "Arbok": 1,
-        "Aerodactyl": 1
+        "Aerodactyl": 1,
+        "Gothitelle": 2
       },
-      "total_spawns": 9138,
-      "last_spawn": "2026-07-10T20:17:18.282207"
+      "total_spawns": 9143,
+      "last_spawn": "2026-07-10T20:17:58.347533"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1667,7 @@
     }
   },
   "global": {
-    "total_spawns": 74671,
+    "total_spawns": 74676,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
