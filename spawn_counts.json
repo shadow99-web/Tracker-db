@@ -63,7 +63,7 @@
         "Cubchoo": 29,
         "Koffing": 10,
         "Kirlia": 17,
-        "Deino": 25,
+        "Deino": 26,
         "Dolliv": 6,
         "Feebas": 16,
         "Prof tangrowth": 25,
@@ -503,7 +503,7 @@
         "Tyrogue": 6,
         "Nuzleaf": 10,
         "Spinarak": 8,
-        "Goomy": 20,
+        "Goomy": 21,
         "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 7,
@@ -777,7 +777,7 @@
         "Lilligant": 1,
         "Fan rotom": 2,
         "Ferrothorn": 1,
-        "Piloswine": 4,
+        "Piloswine": 5,
         "Granbull": 2,
         "Happiny": 5,
         "Chandelure": 1,
@@ -831,7 +831,7 @@
         "Cobalion": 2,
         "Greedent": 4,
         "Galvantula": 1,
-        "Drifblim": 1,
+        "Drifblim": 2,
         "Togedemaru": 1,
         "Jellicent": 3,
         "Monferno": 5,
@@ -935,8 +935,8 @@
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2
       },
-      "total_spawns": 8344,
-      "last_spawn": "2026-07-10T18:15:14.002504"
+      "total_spawns": 8348,
+      "last_spawn": "2026-07-10T18:15:53.881830"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1649,7 +1649,7 @@
     }
   },
   "global": {
-    "total_spawns": 73877,
+    "total_spawns": 73881,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
