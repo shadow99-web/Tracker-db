@@ -102,11 +102,11 @@
         "Metagross": 6,
         "Corphish": 8,
         "Doduo": 9,
-        "Flittle": 35,
+        "Flittle": 36,
         "Armarouge": 8,
         "Clauncher": 5,
         "Tentacool": 6,
-        "Bayleef": 9,
+        "Bayleef": 10,
         "Magnezone": 2,
         "Eevee": 28,
         "Dreepy": 69,
@@ -711,7 +711,7 @@
         "Hawlucha": 4,
         "Stunky": 10,
         "Garbodor": 2,
-        "Remoraid": 4,
+        "Remoraid": 5,
         "Exeggcute": 7,
         "Dunsparce": 4,
         "Sobble": 11,
@@ -795,7 +795,7 @@
         "Dudunsparce": 7,
         "Kingler": 2,
         "Aurorus": 4,
-        "Cacnea": 3,
+        "Cacnea": 4,
         "Sableye": 4,
         "Persian": 1,
         "Toedscruel": 8,
@@ -944,8 +944,8 @@
         "Bellossom": 1,
         "Feraligatr": 2
       },
-      "total_spawns": 8589,
-      "last_spawn": "2026-07-10T18:58:58.365678"
+      "total_spawns": 8593,
+      "last_spawn": "2026-07-10T18:59:38.278715"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1658,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 74122,
+    "total_spawns": 74126,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
