@@ -113,7 +113,7 @@
         "Treecko": 14,
         "Shroodle": 29,
         "Ride cyclizar": 10,
-        "Swinub": 28,
+        "Swinub": 29,
         "Rattata": 16,
         "Stonjourner": 1,
         "Veluza": 48,
@@ -146,7 +146,7 @@
         "Tranquill": 9,
         "Cetitan": 6,
         "Turtwig": 16,
-        "Fomantis": 7,
+        "Fomantis": 8,
         "Claydol": 1,
         "Trapinch": 17,
         "Butterfree": 5,
@@ -161,8 +161,8 @@
         "Swadloon": 7,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 36,
-        "Pansage": 6,
+        "Venipede": 37,
+        "Pansage": 7,
         "Cetoddle": 25,
         "Togepi": 32,
         "Tandemaus": 23,
@@ -917,8 +917,8 @@
         "Carnivine": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 7439,
-      "last_spawn": "2026-07-10T08:12:08.666731"
+      "total_spawns": 7443,
+      "last_spawn": "2026-07-10T08:12:48.372847"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1631,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 72972,
+    "total_spawns": 72976,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
