@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 28,
         "Vulpix": 27,
-        "Gastly": 61,
+        "Gastly": 62,
         "Aron": 36,
         "Honedge": 56,
         "Houndour": 7,
@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 8,
         "Surskit": 9,
-        "Seedot": 25,
+        "Seedot": 26,
         "Jigglypuff": 12,
         "Spearow": 9,
         "Servine": 5,
@@ -701,7 +701,7 @@
         "Hakamo-o": 4,
         "Spidops": 9,
         "Glimmora": 8,
-        "Parasect": 3,
+        "Parasect": 4,
         "Fuecoco": 9,
         "Loudred": 9,
         "Vespiquen": 2,
@@ -867,7 +867,7 @@
         "Galarian corsola": 2,
         "Corsola": 1,
         "Psyduck": 6,
-        "Typhlosion": 4,
+        "Typhlosion": 6,
         "Falinks": 2,
         "Scolipede": 2,
         "Centiskorch": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9066,
-      "last_spawn": "2026-07-10T20:04:38.310079"
+      "total_spawns": 9071,
+      "last_spawn": "2026-07-10T20:05:08.512078"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74599,
+    "total_spawns": 74604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
