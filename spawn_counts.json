@@ -125,7 +125,7 @@
         "Flaaffy": 4,
         "Rookidee": 55,
         "Flapple": 6,
-        "Bronzor": 4,
+        "Bronzor": 5,
         "Swirlix": 7,
         "Varoom": 56,
         "Ducklett": 7,
@@ -231,7 +231,7 @@
         "Tangrowth": 2,
         "Sizzlipede": 7,
         "Skuntank": 2,
-        "Palafin": 6,
+        "Palafin": 7,
         "Timburr": 27,
         "Shellos": 3,
         "Arcanine": 1,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 23,
+        "Smearguru": 24,
         "Magneton": 5,
         "Battle cyclizar": 6,
         "Minccino": 4,
@@ -695,7 +695,7 @@
         "Helioptile": 4,
         "Salamence": 4,
         "Meditite": 4,
-        "Sneasel": 6,
+        "Sneasel": 7,
         "Finneon": 4,
         "Pidgeotto": 4,
         "Hakamo-o": 3,
@@ -930,8 +930,8 @@
         "Skarmory": 2,
         "Beartic": 1
       },
-      "total_spawns": 7885,
-      "last_spawn": "2026-07-10T17:27:53.716512"
+      "total_spawns": 7889,
+      "last_spawn": "2026-07-10T17:28:33.666649"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1644,7 @@
     }
   },
   "global": {
-    "total_spawns": 73418,
+    "total_spawns": 73422,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
