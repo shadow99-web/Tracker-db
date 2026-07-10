@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 67,
         "Treecko": 18,
-        "Shroodle": 32,
+        "Shroodle": 33,
         "Ride cyclizar": 10,
         "Swinub": 31,
         "Rattata": 18,
@@ -148,7 +148,7 @@
         "Turtwig": 16,
         "Fomantis": 9,
         "Claydol": 2,
-        "Trapinch": 22,
+        "Trapinch": 23,
         "Butterfree": 5,
         "Teddiursa": 62,
         "Roggenrola": 46,
@@ -221,7 +221,7 @@
         "Graveler": 4,
         "Duosion": 7,
         "Orthworm": 31,
-        "Yamask": 6,
+        "Yamask": 7,
         "Nymble": 28,
         "Snorunt": 8,
         "Carvanha": 6,
@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 7,
         "Drednaw": 5,
-        "Corvisquire": 9,
+        "Corvisquire": 10,
         "Croconaw": 8,
         "Makuhita": 5,
         "Machamp": 3,
@@ -600,7 +600,7 @@
         "Grimer": 6,
         "Frosmoth": 6,
         "Darumaka": 6,
-        "Cubone": 6,
+        "Cubone": 7,
         "Conkeldurr": 3,
         "Sinistea": 6,
         "Golbat": 9,
@@ -931,8 +931,8 @@
         "Beartic": 1,
         "Electrode": 1
       },
-      "total_spawns": 7962,
-      "last_spawn": "2026-07-10T17:34:35.537944"
+      "total_spawns": 7967,
+      "last_spawn": "2026-07-10T17:35:13.531657"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1645,7 +1645,7 @@
     }
   },
   "global": {
-    "total_spawns": 73495,
+    "total_spawns": 73500,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
