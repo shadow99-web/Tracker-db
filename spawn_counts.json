@@ -114,7 +114,7 @@
         "Shroodle": 31,
         "Ride cyclizar": 10,
         "Swinub": 29,
-        "Rattata": 16,
+        "Rattata": 17,
         "Stonjourner": 1,
         "Veluza": 50,
         "Panpour": 9,
@@ -191,7 +191,7 @@
         "Wimpod": 17,
         "Comfey": 9,
         "Diggersby": 2,
-        "Klawf": 45,
+        "Klawf": 46,
         "Dj rotom": 22,
         "Chef dente": 29,
         "Hisuian qwilfish": 1,
@@ -737,7 +737,7 @@
         "Meowstic": 2,
         "Zangoose": 2,
         "Thievul": 3,
-        "Galarian slowbro": 2,
+        "Galarian slowbro": 4,
         "Oricorio": 2,
         "Hitmonlee": 3,
         "Sudowoodo": 2,
@@ -922,8 +922,8 @@
         "Vaporeon": 2,
         "Hypno": 1
       },
-      "total_spawns": 7703,
-      "last_spawn": "2026-07-10T09:38:38.274896"
+      "total_spawns": 7707,
+      "last_spawn": "2026-07-10T09:39:08.320837"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1636,7 +1636,7 @@
     }
   },
   "global": {
-    "total_spawns": 73236,
+    "total_spawns": 73240,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
