@@ -32,7 +32,7 @@
         "Pidgey": 31,
         "Binacle": 12,
         "Bounsweet": 62,
-        "Fletchling": 42,
+        "Fletchling": 43,
         "Whirlipede": 10,
         "Duskull": 68,
         "Abra": 41,
@@ -190,7 +190,7 @@
         "Charmander": 19,
         "Wimpod": 17,
         "Comfey": 9,
-        "Diggersby": 2,
+        "Diggersby": 3,
         "Klawf": 51,
         "Dj rotom": 25,
         "Chef dente": 32,
@@ -324,7 +324,7 @@
         "Finizen": 26,
         "Swablu": 7,
         "Sunkern": 11,
-        "Snubbull": 5,
+        "Snubbull": 6,
         "Crocalor": 2,
         "Magnemite": 30,
         "Doublade": 4,
@@ -444,7 +444,7 @@
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
         "Smearguru": 26,
-        "Magneton": 5,
+        "Magneton": 6,
         "Battle cyclizar": 8,
         "Minccino": 6,
         "Hippowdon": 2,
@@ -949,8 +949,8 @@
         "Walrein": 1,
         "Druddigon": 2
       },
-      "total_spawns": 8847,
-      "last_spawn": "2026-07-10T19:34:59.026979"
+      "total_spawns": 8851,
+      "last_spawn": "2026-07-10T19:35:38.200170"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1663,7 +1663,7 @@
     }
   },
   "global": {
-    "total_spawns": 74380,
+    "total_spawns": 74384,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
