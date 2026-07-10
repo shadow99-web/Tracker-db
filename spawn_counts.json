@@ -55,9 +55,9 @@
         "Maschiff": 26,
         "Smoliv": 30,
         "Tirtouga": 13,
-        "Hatenna": 58,
+        "Hatenna": 60,
         "Shroomish": 5,
-        "Lillipup": 35,
+        "Lillipup": 36,
         "Mosslax": 50,
         "Maushold": 5,
         "Cubchoo": 29,
@@ -105,7 +105,7 @@
         "Flittle": 35,
         "Armarouge": 7,
         "Clauncher": 5,
-        "Tentacool": 5,
+        "Tentacool": 6,
         "Bayleef": 8,
         "Magnezone": 2,
         "Eevee": 22,
@@ -161,7 +161,7 @@
         "Swadloon": 10,
         "Sunny castform": 4,
         "Vullaby": 5,
-        "Venipede": 40,
+        "Venipede": 42,
         "Pansage": 7,
         "Cetoddle": 27,
         "Togepi": 35,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8156,
-      "last_spawn": "2026-07-10T17:51:23.648764"
+      "total_spawns": 8162,
+      "last_spawn": "2026-07-10T17:51:53.956270"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73689,
+    "total_spawns": 73695,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
