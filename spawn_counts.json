@@ -94,7 +94,7 @@
         "Gible": 48,
         "Greavard": 68,
         "Snover": 17,
-        "Piplup": 11,
+        "Piplup": 12,
         "Dondozo": 27,
         "Cyclizar": 13,
         "Froslass": 2,
@@ -490,7 +490,7 @@
         "Empoleon": 1,
         "Voltorb": 6,
         "Hitmonchan": 3,
-        "Pidgeot": 2,
+        "Pidgeot": 3,
         "Alakazam": 9,
         "Mismagius": 4,
         "Dada zarude": 1,
@@ -680,7 +680,7 @@
         "Jolteon": 10,
         "Okidogi": 4,
         "Wyrdeer": 4,
-        "Ferroseed": 5,
+        "Ferroseed": 6,
         "Musharna": 3,
         "Wingull": 6,
         "Magmar": 7,
@@ -854,7 +854,7 @@
         "Jumpluff": 2,
         "Basculin": 1,
         "Clobbopus": 3,
-        "Spewpa": 5,
+        "Spewpa": 6,
         "Delcatty": 2,
         "Whimsicott": 2,
         "Emolga": 6,
@@ -951,8 +951,8 @@
         "Galarian mr. mime": 2,
         "Arbok": 1
       },
-      "total_spawns": 8894,
-      "last_spawn": "2026-07-10T19:41:08.536694"
+      "total_spawns": 8898,
+      "last_spawn": "2026-07-10T19:41:48.248333"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1665,7 +1665,7 @@
     }
   },
   "global": {
-    "total_spawns": 74427,
+    "total_spawns": 74431,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
