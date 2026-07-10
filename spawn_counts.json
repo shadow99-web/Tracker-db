@@ -38,7 +38,7 @@
         "Abra": 36,
         "Wiglett": 21,
         "Starly": 63,
-        "Caterpie": 29,
+        "Caterpie": 30,
         "Mareep": 31,
         "Capsakid": 33,
         "Numel": 10,
@@ -752,7 +752,7 @@
         "Metapod": 8,
         "Lampent": 5,
         "Roselia": 4,
-        "Pineco": 4,
+        "Pineco": 5,
         "Maractus": 4,
         "Togetic": 4,
         "Bewear": 4,
@@ -839,7 +839,7 @@
         "Drampa": 4,
         "Shieldon": 4,
         "Araquanid": 6,
-        "Glaceon": 3,
+        "Glaceon": 4,
         "Grumpig": 1,
         "Roaring moon": 2,
         "Slowking": 2,
@@ -942,8 +942,8 @@
         "Unown u": 2,
         "Blaze breed tauros": 2
       },
-      "total_spawns": 8532,
-      "last_spawn": "2026-07-10T18:52:32.097609"
+      "total_spawns": 8535,
+      "last_spawn": "2026-07-10T18:53:03.607002"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1656,7 +1656,7 @@
     }
   },
   "global": {
-    "total_spawns": 74065,
+    "total_spawns": 74068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
