@@ -71,7 +71,7 @@
         "Gastly": 58,
         "Aron": 33,
         "Honedge": 54,
-        "Houndour": 5,
+        "Houndour": 6,
         "Machop": 27,
         "Terapagos": 1,
         "Mankey": 11,
@@ -129,7 +129,7 @@
         "Swirlix": 7,
         "Varoom": 56,
         "Ducklett": 8,
-        "Three-segment dudunsparce": 2,
+        "Three-segment dudunsparce": 3,
         "Sandy burmy": 3,
         "Torchic": 15,
         "Abomasnow": 5,
@@ -162,7 +162,7 @@
         "Sunny castform": 4,
         "Vullaby": 5,
         "Venipede": 44,
-        "Pansage": 7,
+        "Pansage": 8,
         "Cetoddle": 27,
         "Togepi": 37,
         "Tandemaus": 29,
@@ -307,7 +307,7 @@
         "Tentacruel": 1,
         "Archen": 21,
         "Blue plumage squawkabilly": 5,
-        "Metang": 7,
+        "Metang": 8,
         "Larvitar": 22,
         "Lumineon": 2,
         "Kilowattrel": 6,
@@ -938,8 +938,8 @@
         "Annihilape": 1,
         "Victreebel": 1
       },
-      "total_spawns": 8430,
-      "last_spawn": "2026-07-10T18:27:27.274737"
+      "total_spawns": 8434,
+      "last_spawn": "2026-07-10T18:28:04.628392"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1652,7 +1652,7 @@
     }
   },
   "global": {
-    "total_spawns": 73963,
+    "total_spawns": 73967,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
