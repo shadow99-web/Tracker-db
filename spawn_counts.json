@@ -12,7 +12,7 @@
         "Braixen": 9,
         "Oddish": 36,
         "Totodile": 16,
-        "Vanillite": 72,
+        "Vanillite": 74,
         "Weedle": 47,
         "Kabutops": 2,
         "Poliwag": 29,
@@ -48,7 +48,7 @@
         "Yanmega": 2,
         "Tympole": 26,
         "Grubbin": 27,
-        "Scatterbug": 25,
+        "Scatterbug": 26,
         "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
@@ -70,7 +70,7 @@
         "Vulpix": 21,
         "Gastly": 56,
         "Aron": 32,
-        "Honedge": 53,
+        "Honedge": 54,
         "Houndour": 4,
         "Machop": 25,
         "Terapagos": 1,
@@ -95,7 +95,7 @@
         "Greavard": 58,
         "Snover": 15,
         "Piplup": 10,
-        "Dondozo": 20,
+        "Dondozo": 21,
         "Cyclizar": 12,
         "Froslass": 2,
         "Dodrio": 7,
@@ -138,7 +138,7 @@
         "Eelektrik": 6,
         "Diglett": 7,
         "Surskit": 8,
-        "Seedot": 22,
+        "Seedot": 23,
         "Jigglypuff": 12,
         "Spearow": 8,
         "Servine": 3,
@@ -588,7 +588,7 @@
         "Goldeen": 9,
         "Gouging fire": 2,
         "Cottonee": 4,
-        "Flareon": 6,
+        "Flareon": 7,
         "Gengar": 2,
         "Spiritomb": 2,
         "Gurdurr": 4,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8105,
-      "last_spawn": "2026-07-10T17:47:23.527564"
+      "total_spawns": 8112,
+      "last_spawn": "2026-07-10T17:47:53.776741"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73638,
+    "total_spawns": 73645,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
