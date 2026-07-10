@@ -76,7 +76,7 @@
         "Terapagos": 1,
         "Mankey": 11,
         "Torterra": 1,
-        "Salandit": 10,
+        "Salandit": 11,
         "Bruxish": 2,
         "Orbeetle": 7,
         "Bramblin": 21,
@@ -124,7 +124,7 @@
         "White plumage squawkabilly": 15,
         "Flaaffy": 4,
         "Rookidee": 63,
-        "Flapple": 8,
+        "Flapple": 10,
         "Bronzor": 6,
         "Swirlix": 8,
         "Varoom": 60,
@@ -150,7 +150,7 @@
         "Claydol": 2,
         "Trapinch": 28,
         "Butterfree": 5,
-        "Teddiursa": 67,
+        "Teddiursa": 68,
         "Roggenrola": 48,
         "Litwick": 34,
         "Wooper": 9,
@@ -432,7 +432,7 @@
         "Frigibax": 83,
         "Iron valiant": 2,
         "Ludicolo": 4,
-        "Scraggy": 8,
+        "Scraggy": 9,
         "Stoutland": 1,
         "Elgyem": 5,
         "Dragonair": 5,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 8914,
-      "last_spawn": "2026-07-10T19:44:08.263428"
+      "total_spawns": 8919,
+      "last_spawn": "2026-07-10T19:44:38.526774"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74447,
+    "total_spawns": 74452,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
