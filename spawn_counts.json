@@ -360,7 +360,7 @@
         "Hoppip": 33,
         "Slowbro": 4,
         "Gholdengo": 5,
-        "Trubbish": 9,
+        "Trubbish": 10,
         "Rockruff": 6,
         "Snowy castform": 2,
         "Dusclops": 10,
@@ -485,7 +485,7 @@
         "Lairon": 7,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 16,
+        "Mudkip": 18,
         "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
@@ -587,7 +587,7 @@
         "Primeape": 4,
         "Goldeen": 9,
         "Gouging fire": 2,
-        "Cottonee": 4,
+        "Cottonee": 5,
         "Flareon": 8,
         "Gengar": 2,
         "Spiritomb": 2,
@@ -938,8 +938,8 @@
         "Annihilape": 1,
         "Victreebel": 1
       },
-      "total_spawns": 8426,
-      "last_spawn": "2026-07-10T18:26:54.202282"
+      "total_spawns": 8430,
+      "last_spawn": "2026-07-10T18:27:27.274737"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1652,7 +1652,7 @@
     }
   },
   "global": {
-    "total_spawns": 73959,
+    "total_spawns": 73963,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
