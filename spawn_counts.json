@@ -111,7 +111,7 @@
         "Eevee": 22,
         "Dreepy": 67,
         "Treecko": 16,
-        "Shroodle": 31,
+        "Shroodle": 32,
         "Ride cyclizar": 10,
         "Swinub": 30,
         "Rattata": 17,
@@ -323,7 +323,7 @@
         "Skitty": 13,
         "Finizen": 23,
         "Swablu": 6,
-        "Sunkern": 9,
+        "Sunkern": 10,
         "Snubbull": 4,
         "Crocalor": 2,
         "Magnemite": 26,
@@ -503,7 +503,7 @@
         "Tyrogue": 6,
         "Nuzleaf": 10,
         "Spinarak": 7,
-        "Goomy": 19,
+        "Goomy": 20,
         "Breloom": 2,
         "Rillaboom": 8,
         "Hippopotas": 7,
@@ -925,10 +925,10 @@
         "Sensu oricorio": 1,
         "Blaziken": 2,
         "Clawitzer": 1,
-        "Giratina": 1
+        "Giratina": 2
       },
-      "total_spawns": 7818,
-      "last_spawn": "2026-07-10T17:10:08.517881"
+      "total_spawns": 7822,
+      "last_spawn": "2026-07-10T17:20:03.700521"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1641,7 +1641,7 @@
     }
   },
   "global": {
-    "total_spawns": 73351,
+    "total_spawns": 73355,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
