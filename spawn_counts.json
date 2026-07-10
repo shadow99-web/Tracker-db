@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 3,
         "Maschiff": 26,
-        "Smoliv": 29,
+        "Smoliv": 30,
         "Tirtouga": 13,
         "Hatenna": 54,
         "Shroomish": 5,
@@ -305,7 +305,7 @@
         "Torracat": 7,
         "Geodude": 26,
         "Tentacruel": 1,
-        "Archen": 19,
+        "Archen": 21,
         "Blue plumage squawkabilly": 5,
         "Metang": 7,
         "Larvitar": 21,
@@ -322,7 +322,7 @@
         "Wishiwashi": 3,
         "Skitty": 13,
         "Finizen": 23,
-        "Swablu": 6,
+        "Swablu": 7,
         "Sunkern": 10,
         "Snubbull": 4,
         "Crocalor": 2,
@@ -364,7 +364,7 @@
         "Rockruff": 6,
         "Snowy castform": 2,
         "Dusclops": 10,
-        "Prinplup": 7,
+        "Prinplup": 8,
         "Kommo-o": 1,
         "Vigoroth": 9,
         "Gigalith": 2,
@@ -524,7 +524,7 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 8,
-        "Golett": 5,
+        "Golett": 6,
         "Politoed": 11,
         "Droopy tatsugiri": 9,
         "Volcanion": 1,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8027,
-      "last_spawn": "2026-07-10T17:40:34.368736"
+      "total_spawns": 8033,
+      "last_spawn": "2026-07-10T17:41:13.470035"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73560,
+    "total_spawns": 73566,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
