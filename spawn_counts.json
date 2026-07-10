@@ -39,7 +39,7 @@
         "Wiglett": 21,
         "Starly": 63,
         "Caterpie": 29,
-        "Mareep": 30,
+        "Mareep": 31,
         "Capsakid": 33,
         "Numel": 10,
         "Pawmo": 9,
@@ -321,7 +321,7 @@
         "Staravia": 6,
         "Wishiwashi": 3,
         "Skitty": 13,
-        "Finizen": 24,
+        "Finizen": 25,
         "Swablu": 7,
         "Sunkern": 10,
         "Snubbull": 5,
@@ -937,10 +937,11 @@
         "White-striped basculin": 1,
         "Annihilape": 1,
         "Victreebel": 1,
-        "Galarian yamask": 2
+        "Galarian yamask": 2,
+        "Zebstrika": 2
       },
-      "total_spawns": 8472,
-      "last_spawn": "2026-07-10T18:32:43.496452"
+      "total_spawns": 8476,
+      "last_spawn": "2026-07-10T18:33:13.952202"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1653,7 +1654,7 @@
     }
   },
   "global": {
-    "total_spawns": 74005,
+    "total_spawns": 74009,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
