@@ -269,7 +269,7 @@
         "Dracovish": 3,
         "Slowpoke": 7,
         "Drizzile": 9,
-        "Tinkatink": 28,
+        "Tinkatink": 29,
         "Frillish": 3,
         "Plusle": 11,
         "Decidueye": 5,
@@ -627,7 +627,7 @@
         "Clamperl": 2,
         "Rampardos": 3,
         "Weepinbell": 7,
-        "Cufant": 6,
+        "Cufant": 7,
         "Mienfoo": 6,
         "Quagsire": 3,
         "Komala": 3,
@@ -798,7 +798,7 @@
         "Cacnea": 3,
         "Sableye": 4,
         "Persian": 1,
-        "Toedscruel": 6,
+        "Toedscruel": 7,
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 2,
@@ -838,7 +838,7 @@
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 4,
-        "Araquanid": 4,
+        "Araquanid": 6,
         "Glaceon": 2,
         "Grumpig": 1,
         "Roaring moon": 2,
@@ -940,8 +940,8 @@
         "Galarian yamask": 2,
         "Zebstrika": 2
       },
-      "total_spawns": 8476,
-      "last_spawn": "2026-07-10T18:33:13.952202"
+      "total_spawns": 8481,
+      "last_spawn": "2026-07-10T18:33:53.768913"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1654,7 +1654,7 @@
     }
   },
   "global": {
-    "total_spawns": 74009,
+    "total_spawns": 74014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
