@@ -48,7 +48,7 @@
         "Yanmega": 2,
         "Tympole": 27,
         "Grubbin": 27,
-        "Scatterbug": 29,
+        "Scatterbug": 30,
         "Skwovet": 12,
         "Applin": 7,
         "Staryu": 4,
@@ -66,7 +66,7 @@
         "Deino": 26,
         "Dolliv": 6,
         "Feebas": 16,
-        "Prof tangrowth": 25,
+        "Prof tangrowth": 26,
         "Vulpix": 21,
         "Gastly": 58,
         "Aron": 32,
@@ -347,7 +347,7 @@
         "Chespin": 11,
         "Combee": 5,
         "Cyndaquil": 8,
-        "Grotle": 4,
+        "Grotle": 5,
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 7,
@@ -395,7 +395,7 @@
         "Meganium": 8,
         "Rainy castform": 3,
         "Rabsca": 7,
-        "Misdreavus": 8,
+        "Misdreavus": 9,
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 8,
@@ -936,8 +936,8 @@
         "Summer sawsbuck": 2,
         "White-striped basculin": 1
       },
-      "total_spawns": 8365,
-      "last_spawn": "2026-07-10T18:18:32.004409"
+      "total_spawns": 8369,
+      "last_spawn": "2026-07-10T18:19:03.798143"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1650,7 +1650,7 @@
     }
   },
   "global": {
-    "total_spawns": 73898,
+    "total_spawns": 73902,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
