@@ -43,7 +43,7 @@
         "Capsakid": 31,
         "Numel": 10,
         "Pawmo": 9,
-        "Wattrel": 23,
+        "Wattrel": 24,
         "Tadbulb": 38,
         "Yanmega": 2,
         "Tympole": 26,
@@ -55,7 +55,7 @@
         "Maschiff": 26,
         "Smoliv": 30,
         "Tirtouga": 13,
-        "Hatenna": 62,
+        "Hatenna": 64,
         "Shroomish": 5,
         "Lillipup": 36,
         "Mosslax": 50,
@@ -540,7 +540,7 @@
         "White flower floette": 3,
         "Octillery": 4,
         "Pawniard": 9,
-        "Brionne": 9,
+        "Brionne": 10,
         "Zarude": 2,
         "Yamper": 6,
         "Tropius": 1,
@@ -934,8 +934,8 @@
         "Ampharos": 1,
         "Blue-striped basculin": 1
       },
-      "total_spawns": 8229,
-      "last_spawn": "2026-07-10T18:00:23.548952"
+      "total_spawns": 8233,
+      "last_spawn": "2026-07-10T18:00:54.411573"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1648,7 +1648,7 @@
     }
   },
   "global": {
-    "total_spawns": 73762,
+    "total_spawns": 73766,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
