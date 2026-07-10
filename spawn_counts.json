@@ -165,7 +165,7 @@
         "Pansage": 6,
         "Cetoddle": 25,
         "Togepi": 30,
-        "Tandemaus": 21,
+        "Tandemaus": 22,
         "Clefairy": 7,
         "Unown q": 1,
         "Lotad": 24,
@@ -297,7 +297,7 @@
         "Vanillish": 8,
         "Gimmighoul": 24,
         "Glimmet": 17,
-        "Popplio": 8,
+        "Popplio": 9,
         "Arboliva": 2,
         "Luxio": 4,
         "Quaxwell": 2,
@@ -436,7 +436,7 @@
         "Stoutland": 1,
         "Elgyem": 4,
         "Dragonair": 4,
-        "Spheal": 23,
+        "Spheal": 24,
         "Amaura": 10,
         "Wailord": 2,
         "Accelgor": 3,
@@ -847,7 +847,7 @@
         "Tapu lele": 2,
         "Naclstack": 2,
         "Wobbuffet": 1,
-        "Morgrem": 3,
+        "Morgrem": 4,
         "Budew": 1,
         "Dragapult": 2,
         "Blue flower floette": 1,
@@ -909,10 +909,11 @@
         "Galarian meowth": 2,
         "Stretchy tatsugiri": 2,
         "Magmortar": 2,
-        "Swalot": 2
+        "Swalot": 2,
+        "Arctozolt": 1
       },
-      "total_spawns": 7295,
-      "last_spawn": "2026-07-10T05:19:33.545214"
+      "total_spawns": 7300,
+      "last_spawn": "2026-07-10T05:20:03.714557"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1625,7 +1626,7 @@
     }
   },
   "global": {
-    "total_spawns": 72828,
+    "total_spawns": 72833,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
