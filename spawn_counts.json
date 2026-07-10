@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 25,
         "Vulpix": 21,
-        "Gastly": 48,
+        "Gastly": 49,
         "Aron": 32,
         "Honedge": 48,
         "Houndour": 2,
@@ -511,7 +511,7 @@
         "Melmetal": 1,
         "Liepard": 3,
         "Necrozma": 4,
-        "Dewott": 6,
+        "Dewott": 7,
         "Braviary": 8,
         "Low key toxtricity": 6,
         "Nidorina": 10,
@@ -601,7 +601,7 @@
         "Frosmoth": 6,
         "Darumaka": 5,
         "Cubone": 5,
-        "Conkeldurr": 2,
+        "Conkeldurr": 3,
         "Sinistea": 6,
         "Golbat": 9,
         "Amoonguss": 4,
@@ -921,8 +921,8 @@
         "Dandy trim furfrou": 2,
         "Vaporeon": 2
       },
-      "total_spawns": 7610,
-      "last_spawn": "2026-07-10T08:34:58.296675"
+      "total_spawns": 7613,
+      "last_spawn": "2026-07-10T08:35:28.588978"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1635,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 73143,
+    "total_spawns": 73146,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
