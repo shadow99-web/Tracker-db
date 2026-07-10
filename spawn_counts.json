@@ -22,7 +22,7 @@
         "Rowlet": 14,
         "Anorith": 10,
         "Arctibax": 10,
-        "Ralts": 53,
+        "Ralts": 54,
         "Peakychu": 39,
         "Cutiefly": 11,
         "Simipour": 3,
@@ -143,7 +143,7 @@
         "Spearow": 9,
         "Servine": 4,
         "Wugtrio": 10,
-        "Tranquill": 10,
+        "Tranquill": 11,
         "Cetitan": 8,
         "Turtwig": 17,
         "Fomantis": 9,
@@ -550,8 +550,8 @@
         "Audino": 3,
         "Mime jr.": 3,
         "Yungoos": 9,
-        "Palpitoad": 7,
-        "Smeargle": 4,
+        "Palpitoad": 8,
+        "Smeargle": 6,
         "Appletun": 8,
         "Arrokuda": 6,
         "Toxapex": 4,
@@ -656,7 +656,7 @@
         "Passimian": 3,
         "Jynx": 1,
         "Noctowl": 4,
-        "Munna": 3,
+        "Munna": 4,
         "Mabosstiff": 6,
         "Omastar": 3,
         "Gabite": 12,
@@ -944,8 +944,8 @@
         "Bellossom": 2,
         "Feraligatr": 2
       },
-      "total_spawns": 8597,
-      "last_spawn": "2026-07-10T19:00:09.646684"
+      "total_spawns": 8603,
+      "last_spawn": "2026-07-10T19:00:48.311031"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1658,7 +1658,7 @@
     }
   },
   "global": {
-    "total_spawns": 74130,
+    "total_spawns": 74136,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
