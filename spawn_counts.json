@@ -325,7 +325,7 @@
         "Swablu": 7,
         "Sunkern": 11,
         "Snubbull": 6,
-        "Crocalor": 2,
+        "Crocalor": 3,
         "Magnemite": 33,
         "Doublade": 4,
         "Sharpedo": 1,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 5,
         "Electrike": 16,
-        "Hoppip": 39,
+        "Hoppip": 40,
         "Slowbro": 5,
         "Gholdengo": 6,
         "Trubbish": 11,
@@ -432,7 +432,7 @@
         "Frigibax": 87,
         "Iron valiant": 2,
         "Ludicolo": 4,
-        "Scraggy": 9,
+        "Scraggy": 10,
         "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 5,
@@ -485,7 +485,7 @@
         "Lairon": 8,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 18,
+        "Mudkip": 20,
         "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
@@ -956,8 +956,8 @@
         "Cofagrigus": 1,
         "Incineroar": 1
       },
-      "total_spawns": 9288,
-      "last_spawn": "2026-07-10T23:25:18.513634"
+      "total_spawns": 9293,
+      "last_spawn": "2026-07-10T23:26:00.412369"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1670,7 +1670,7 @@
     }
   },
   "global": {
-    "total_spawns": 74821,
+    "total_spawns": 74826,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
