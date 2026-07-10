@@ -48,7 +48,7 @@
         "Yanmega": 2,
         "Tympole": 26,
         "Grubbin": 27,
-        "Scatterbug": 23,
+        "Scatterbug": 24,
         "Skwovet": 11,
         "Applin": 7,
         "Staryu": 3,
@@ -88,7 +88,7 @@
         "Drakloak": 9,
         "Victini": 1,
         "Pawmi": 61,
-        "Sandile": 49,
+        "Sandile": 51,
         "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
@@ -110,7 +110,7 @@
         "Magnezone": 2,
         "Eevee": 22,
         "Dreepy": 67,
-        "Treecko": 16,
+        "Treecko": 18,
         "Shroodle": 32,
         "Ride cyclizar": 10,
         "Swinub": 31,
@@ -124,7 +124,7 @@
         "White plumage squawkabilly": 15,
         "Flaaffy": 4,
         "Rookidee": 55,
-        "Flapple": 6,
+        "Flapple": 8,
         "Bronzor": 5,
         "Swirlix": 7,
         "Varoom": 56,
@@ -313,7 +313,7 @@
         "Kilowattrel": 6,
         "Pumpkaboo": 6,
         "Petilil": 11,
-        "Bombirdier": 27,
+        "Bombirdier": 28,
         "Bellibolt": 7,
         "Toedscool": 25,
         "Paras": 5,
@@ -928,10 +928,11 @@
         "Giratina": 2,
         "Heliolisk": 1,
         "Skarmory": 2,
-        "Beartic": 1
+        "Beartic": 1,
+        "Electrode": 1
       },
-      "total_spawns": 7934,
-      "last_spawn": "2026-07-10T17:32:23.872968"
+      "total_spawns": 7943,
+      "last_spawn": "2026-07-10T17:33:03.578992"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1644,7 +1645,7 @@
     }
   },
   "global": {
-    "total_spawns": 73467,
+    "total_spawns": 73476,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
