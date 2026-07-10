@@ -18,7 +18,7 @@
         "Poliwag": 29,
         "Fidough": 33,
         "Charjabug": 3,
-        "Hatterene": 5,
+        "Hatterene": 7,
         "Rowlet": 14,
         "Anorith": 10,
         "Arctibax": 9,
@@ -92,7 +92,7 @@
         "Charmeleon": 11,
         "Riolu": 20,
         "Gible": 48,
-        "Greavard": 55,
+        "Greavard": 56,
         "Snover": 15,
         "Piplup": 9,
         "Dondozo": 20,
@@ -175,7 +175,7 @@
         "Rolycoly": 36,
         "Poliwhirl": 9,
         "Lokix": 13,
-        "Flamigo": 15,
+        "Flamigo": 16,
         "Bellsprout": 17,
         "Houndstone": 5,
         "Beldum": 29,
@@ -428,7 +428,7 @@
         "Marowak": 4,
         "Haunter": 8,
         "Dottler": 9,
-        "Wailmer": 6,
+        "Wailmer": 7,
         "Frigibax": 65,
         "Iron valiant": 2,
         "Ludicolo": 4,
@@ -921,10 +921,11 @@
         "Dandy trim furfrou": 2,
         "Vaporeon": 2,
         "Hypno": 1,
-        "Tyranitar": 2
+        "Tyranitar": 2,
+        "Sensu oricorio": 1
       },
-      "total_spawns": 7763,
-      "last_spawn": "2026-07-10T13:41:38.283379"
+      "total_spawns": 7769,
+      "last_spawn": "2026-07-10T13:42:18.597671"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1637,7 +1638,7 @@
     }
   },
   "global": {
-    "total_spawns": 73296,
+    "total_spawns": 73302,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
