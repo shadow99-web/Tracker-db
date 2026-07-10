@@ -164,7 +164,7 @@
         "Venipede": 39,
         "Pansage": 7,
         "Cetoddle": 26,
-        "Togepi": 32,
+        "Togepi": 33,
         "Tandemaus": 26,
         "Clefairy": 7,
         "Unown q": 1,
@@ -176,7 +176,7 @@
         "Poliwhirl": 9,
         "Lokix": 13,
         "Flamigo": 16,
-        "Bellsprout": 17,
+        "Bellsprout": 18,
         "Houndstone": 5,
         "Beldum": 29,
         "Kadabra": 12,
@@ -488,7 +488,7 @@
         "Mudkip": 14,
         "Galarian zapdos": 1,
         "Empoleon": 1,
-        "Voltorb": 5,
+        "Voltorb": 6,
         "Hitmonchan": 3,
         "Pidgeot": 2,
         "Alakazam": 9,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 4,
         "Quilava": 3,
-        "Wurmple": 46,
+        "Wurmple": 48,
         "Sandshrew": 12,
         "Tauros": 4,
         "Golurk": 1,
@@ -929,8 +929,8 @@
         "Heliolisk": 1,
         "Skarmory": 2
       },
-      "total_spawns": 7858,
-      "last_spawn": "2026-07-10T17:24:03.922294"
+      "total_spawns": 7863,
+      "last_spawn": "2026-07-10T17:24:44.279510"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1643,7 +1643,7 @@
     }
   },
   "global": {
-    "total_spawns": 73391,
+    "total_spawns": 73396,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
