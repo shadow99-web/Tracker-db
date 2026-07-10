@@ -38,7 +38,7 @@
         "Abra": 41,
         "Wiglett": 21,
         "Starly": 65,
-        "Caterpie": 33,
+        "Caterpie": 34,
         "Mareep": 32,
         "Capsakid": 35,
         "Numel": 11,
@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 4,
         "Maschiff": 28,
-        "Smoliv": 35,
+        "Smoliv": 36,
         "Tirtouga": 13,
         "Hatenna": 68,
         "Shroomish": 5,
@@ -204,7 +204,7 @@
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 13,
-        "Zubat": 28,
+        "Zubat": 29,
         "Drowzee": 14,
         "Lechonk": 37,
         "Woobat": 6,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9119,
-      "last_spawn": "2026-07-10T20:14:18.200414"
+      "total_spawns": 9122,
+      "last_spawn": "2026-07-10T20:14:48.320124"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74652,
+    "total_spawns": 74655,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
