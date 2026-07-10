@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 50,
+        "Bounsweet": 51,
         "Fletchling": 39,
         "Whirlipede": 10,
         "Duskull": 62,
@@ -373,7 +373,7 @@
         "Duraludon": 8,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 21,
+        "Horsea": 22,
         "Reshiram": 3,
         "Celebi": 78,
         "Morelull": 6,
@@ -567,7 +567,7 @@
         "Farfetch'd": 2,
         "Grafaiai": 20,
         "Fearow": 2,
-        "Squawkabilly": 8,
+        "Squawkabilly": 9,
         "Seadra": 5,
         "Sealeo": 6,
         "Baltoy": 4,
@@ -580,7 +580,7 @@
         "Skorupi": 5,
         "Probopass": 3,
         "Family of three maushold": 1,
-        "Scyther": 18,
+        "Scyther": 20,
         "Polteageist": 2,
         "Lombre": 5,
         "Dachsbun": 7,
@@ -926,8 +926,8 @@
         "Blaziken": 2,
         "Clawitzer": 1
       },
-      "total_spawns": 7797,
-      "last_spawn": "2026-07-10T17:07:08.975131"
+      "total_spawns": 7802,
+      "last_spawn": "2026-07-10T17:07:48.411472"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1640,7 +1640,7 @@
     }
   },
   "global": {
-    "total_spawns": 73330,
+    "total_spawns": 73335,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
