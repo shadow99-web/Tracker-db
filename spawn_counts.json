@@ -526,7 +526,7 @@
         "Copperajah": 6,
         "Golett": 5,
         "Politoed": 11,
-        "Droopy tatsugiri": 8,
+        "Droopy tatsugiri": 9,
         "Volcanion": 1,
         "Drapion": 3,
         "Wartortle": 5,
@@ -622,7 +622,7 @@
         "Spoink": 10,
         "Dhelmise": 1,
         "Armaldo": 5,
-        "Krokorok": 7,
+        "Krokorok": 8,
         "Torkoal": 5,
         "Clamperl": 2,
         "Rampardos": 2,
@@ -918,10 +918,11 @@
         "Yellow flower floette": 1,
         "Medicham": 2,
         "Crobat": 2,
-        "Dandy trim furfrou": 2
+        "Dandy trim furfrou": 2,
+        "Vaporeon": 2
       },
-      "total_spawns": 7598,
-      "last_spawn": "2026-07-10T08:33:08.365929"
+      "total_spawns": 7602,
+      "last_spawn": "2026-07-10T08:33:38.497210"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1634,7 +1635,7 @@
     }
   },
   "global": {
-    "total_spawns": 73131,
+    "total_spawns": 73135,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
