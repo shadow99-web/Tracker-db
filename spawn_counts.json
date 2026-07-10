@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 52,
+        "Bounsweet": 53,
         "Fletchling": 39,
         "Whirlipede": 10,
         "Duskull": 62,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 30,
         "Pikachu": 16,
-        "Tarountula": 27,
+        "Tarountula": 28,
         "Rhyhorn": 36,
         "Aipom": 6,
         "Grookey": 16,
@@ -357,7 +357,7 @@
         "Barboach": 4,
         "Nosepass": 3,
         "Electrike": 12,
-        "Hoppip": 30,
+        "Hoppip": 31,
         "Slowbro": 4,
         "Gholdengo": 5,
         "Trubbish": 8,
@@ -702,7 +702,7 @@
         "Spidops": 7,
         "Glimmora": 7,
         "Parasect": 3,
-        "Fuecoco": 8,
+        "Fuecoco": 9,
         "Loudred": 9,
         "Vespiquen": 1,
         "Gastrodon": 1,
@@ -928,8 +928,8 @@
         "Giratina": 2,
         "Heliolisk": 1
       },
-      "total_spawns": 7834,
-      "last_spawn": "2026-07-10T17:21:43.698426"
+      "total_spawns": 7838,
+      "last_spawn": "2026-07-10T17:22:23.546261"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1642,7 +1642,7 @@
     }
   },
   "global": {
-    "total_spawns": 73367,
+    "total_spawns": 73371,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
