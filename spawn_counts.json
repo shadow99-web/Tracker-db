@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 12,
-        "Oddish": 39,
+        "Oddish": 40,
         "Totodile": 16,
         "Vanillite": 76,
         "Weedle": 51,
@@ -53,7 +53,7 @@
         "Applin": 7,
         "Staryu": 4,
         "Maschiff": 28,
-        "Smoliv": 36,
+        "Smoliv": 37,
         "Tirtouga": 13,
         "Hatenna": 68,
         "Shroomish": 5,
@@ -334,7 +334,7 @@
         "Floragato": 5,
         "Larvesta": 21,
         "Magby": 2,
-        "Roaming gimmighoul": 19,
+        "Roaming gimmighoul": 20,
         "Volcarona": 5,
         "Togekiss": 6,
         "Furfrou": 4,
@@ -456,7 +456,7 @@
         "Espurr": 12,
         "Pelipper": 2,
         "Excadrill": 6,
-        "Buizel": 4,
+        "Buizel": 5,
         "Pansear": 3,
         "Yanma": 10,
         "Galarian moltres": 2,
@@ -952,8 +952,8 @@
         "Arbok": 1,
         "Aerodactyl": 1
       },
-      "total_spawns": 9129,
-      "last_spawn": "2026-07-10T20:15:58.584235"
+      "total_spawns": 9133,
+      "last_spawn": "2026-07-10T20:16:38.420792"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1666,7 +1666,7 @@
     }
   },
   "global": {
-    "total_spawns": 74662,
+    "total_spawns": 74666,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
