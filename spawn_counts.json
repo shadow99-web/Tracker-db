@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 9,
-        "Oddish": 32,
+        "Oddish": 33,
         "Totodile": 16,
         "Vanillite": 66,
         "Weedle": 45,
@@ -21,7 +21,7 @@
         "Hatterene": 5,
         "Rowlet": 13,
         "Anorith": 9,
-        "Arctibax": 7,
+        "Arctibax": 8,
         "Ralts": 50,
         "Peakychu": 35,
         "Cutiefly": 9,
@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 26,
         "Binacle": 10,
-        "Bounsweet": 48,
+        "Bounsweet": 50,
         "Fletchling": 38,
         "Whirlipede": 9,
         "Duskull": 60,
@@ -917,8 +917,8 @@
         "Carnivine": 1,
         "Yellow flower floette": 1
       },
-      "total_spawns": 7454,
-      "last_spawn": "2026-07-10T08:14:08.200309"
+      "total_spawns": 7458,
+      "last_spawn": "2026-07-10T08:14:38.277146"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1631,7 +1631,7 @@
     }
   },
   "global": {
-    "total_spawns": 72987,
+    "total_spawns": 72991,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
