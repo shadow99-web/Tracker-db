@@ -24,7 +24,7 @@
         "Arctibax": 9,
         "Ralts": 52,
         "Peakychu": 37,
-        "Cutiefly": 10,
+        "Cutiefly": 11,
         "Simipour": 3,
         "Tynamo": 25,
         "Palossand": 4,
@@ -90,9 +90,9 @@
         "Pawmi": 65,
         "Sandile": 55,
         "Charmeleon": 11,
-        "Riolu": 20,
+        "Riolu": 22,
         "Gible": 48,
-        "Greavard": 62,
+        "Greavard": 64,
         "Snover": 15,
         "Piplup": 10,
         "Dondozo": 23,
@@ -933,8 +933,8 @@
         "Cherrim": 1,
         "Ampharos": 1
       },
-      "total_spawns": 8193,
-      "last_spawn": "2026-07-10T17:55:23.754745"
+      "total_spawns": 8198,
+      "last_spawn": "2026-07-10T17:55:53.759993"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1647,7 +1647,7 @@
     }
   },
   "global": {
-    "total_spawns": 73726,
+    "total_spawns": 73731,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
