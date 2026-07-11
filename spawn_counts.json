@@ -145,7 +145,7 @@
         "Wugtrio": 12,
         "Tranquill": 12,
         "Cetitan": 11,
-        "Turtwig": 22,
+        "Turtwig": 23,
         "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 33,
@@ -176,7 +176,7 @@
         "Poliwhirl": 10,
         "Lokix": 15,
         "Flamigo": 27,
-        "Bellsprout": 25,
+        "Bellsprout": 26,
         "Houndstone": 6,
         "Beldum": 53,
         "Kadabra": 22,
@@ -342,7 +342,7 @@
         "Bidoof": 3,
         "Gothita": 40,
         "Solosis": 49,
-        "Sandygast": 8,
+        "Sandygast": 9,
         "Pidove": 35,
         "Chespin": 13,
         "Combee": 7,
@@ -377,7 +377,7 @@
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
-        "Unown": 3,
+        "Unown": 5,
         "Poltchageist": 7,
         "Slakoth": 44,
         "Klink": 26,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11206,
-      "last_spawn": "2026-07-11T17:03:08.177673"
+      "total_spawns": 11211,
+      "last_spawn": "2026-07-11T17:03:43.965048"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82322,
+    "total_spawns": 82327,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
