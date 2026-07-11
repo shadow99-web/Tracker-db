@@ -62,7 +62,7 @@
         "Maushold": 7,
         "Cubchoo": 35,
         "Koffing": 11,
-        "Kirlia": 29,
+        "Kirlia": 31,
         "Deino": 33,
         "Dolliv": 11,
         "Feebas": 18,
@@ -102,7 +102,7 @@
         "Metagross": 10,
         "Corphish": 10,
         "Doduo": 11,
-        "Flittle": 49,
+        "Flittle": 50,
         "Armarouge": 10,
         "Clauncher": 8,
         "Tentacool": 8,
@@ -149,7 +149,7 @@
         "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 36,
-        "Butterfree": 7,
+        "Butterfree": 9,
         "Teddiursa": 82,
         "Roggenrola": 58,
         "Litwick": 42,
@@ -554,7 +554,7 @@
         "Smeargle": 10,
         "Appletun": 8,
         "Arrokuda": 8,
-        "Toxapex": 6,
+        "Toxapex": 8,
         "Pawmot": 2,
         "Blitzle": 10,
         "Iron crown": 4,
@@ -1003,10 +1003,11 @@
         "Shiftry": 1,
         "Garganacl": 1,
         "Dugtrio": 2,
-        "Deoxys": 2
+        "Deoxys": 2,
+        "Bastiodon": 2
       },
-      "total_spawns": 12032,
-      "last_spawn": "2026-07-11T19:25:48.338257"
+      "total_spawns": 12041,
+      "last_spawn": "2026-07-11T19:26:28.246603"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1930,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83148,
+    "total_spawns": 83157,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
