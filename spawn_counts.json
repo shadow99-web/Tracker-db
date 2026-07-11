@@ -1035,7 +1035,7 @@
         "Treecko": 14,
         "Grimer": 9,
         "Grafaiai": 9,
-        "Gastly": 47,
+        "Gastly": 48,
         "Orthworm": 32,
         "Glimmet": 43,
         "Beldum": 25,
@@ -1105,7 +1105,7 @@
         "Starly": 41,
         "Popplio": 11,
         "Watchog": 3,
-        "Bounsweet": 53,
+        "Bounsweet": 54,
         "Flamigo": 30,
         "Stunky": 13,
         "Spinarak": 12,
@@ -1258,7 +1258,7 @@
         "Fennekin": 12,
         "Fuecoco": 10,
         "Sandy wormadam": 4,
-        "Sprigatito": 13,
+        "Sprigatito": 14,
         "Bidoof": 7,
         "Frillish": 13,
         "Toedscool": 31,
@@ -1891,14 +1891,15 @@
         "Milcery": 1,
         "Sharpedo": 1,
         "Thundurus": 1,
-        "Girafarig": 1
+        "Girafarig": 1,
+        "Frost rotom": 1
       },
-      "total_spawns": 8560,
-      "last_spawn": "2026-07-11T13:43:23.224953"
+      "total_spawns": 8564,
+      "last_spawn": "2026-07-11T13:44:03.069946"
     }
   },
   "global": {
-    "total_spawns": 81599,
+    "total_spawns": 81603,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
