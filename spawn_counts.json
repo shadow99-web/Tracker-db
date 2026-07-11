@@ -23,7 +23,7 @@
         "Anorith": 12,
         "Arctibax": 11,
         "Ralts": 70,
-        "Peakychu": 49,
+        "Peakychu": 50,
         "Cutiefly": 13,
         "Simipour": 4,
         "Tynamo": 37,
@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 32,
         "Vulpix": 27,
-        "Gastly": 78,
+        "Gastly": 80,
         "Aron": 45,
         "Honedge": 60,
         "Houndour": 9,
@@ -984,10 +984,11 @@
         "Carracosta": 1,
         "Pichu": 1,
         "Rapidash": 2,
-        "Manectric": 1
+        "Manectric": 1,
+        "Perrserker": 2
       },
-      "total_spawns": 11106,
-      "last_spawn": "2026-07-11T16:49:33.697308"
+      "total_spawns": 11111,
+      "last_spawn": "2026-07-11T16:50:03.846694"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1911,7 +1912,7 @@
     }
   },
   "global": {
-    "total_spawns": 82222,
+    "total_spawns": 82227,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
