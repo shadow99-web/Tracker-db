@@ -34,7 +34,7 @@
         "Bounsweet": 74,
         "Fletchling": 46,
         "Whirlipede": 10,
-        "Duskull": 80,
+        "Duskull": 81,
         "Abra": 41,
         "Wiglett": 26,
         "Starly": 71,
@@ -112,7 +112,7 @@
         "Dreepy": 83,
         "Treecko": 28,
         "Shroodle": 42,
-        "Ride cyclizar": 11,
+        "Ride cyclizar": 12,
         "Swinub": 33,
         "Rattata": 29,
         "Stonjourner": 2,
@@ -426,13 +426,13 @@
         "Summer deerling": 3,
         "Seel": 11,
         "Marowak": 4,
-        "Haunter": 11,
+        "Haunter": 12,
         "Dottler": 10,
         "Wailmer": 9,
         "Frigibax": 99,
         "Iron valiant": 2,
         "Ludicolo": 4,
-        "Scraggy": 11,
+        "Scraggy": 12,
         "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 8,
@@ -503,7 +503,7 @@
         "Tyrogue": 6,
         "Nuzleaf": 11,
         "Spinarak": 8,
-        "Goomy": 26,
+        "Goomy": 27,
         "Breloom": 3,
         "Rillaboom": 8,
         "Hippopotas": 7,
@@ -883,7 +883,7 @@
         "Huntail": 2,
         "Vivillon": 1,
         "Leafeon": 8,
-        "Sunshine cherrim": 3,
+        "Sunshine cherrim": 4,
         "Cloyster": 4,
         "Cleffa": 1,
         "Linoone": 2,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10205,
-      "last_spawn": "2026-07-11T11:25:28.351895"
+      "total_spawns": 10211,
+      "last_spawn": "2026-07-11T11:25:58.397478"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1843,7 +1843,7 @@
     }
   },
   "global": {
-    "total_spawns": 79044,
+    "total_spawns": 79050,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
