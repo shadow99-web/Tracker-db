@@ -62,7 +62,7 @@
         "Maushold": 5,
         "Cubchoo": 31,
         "Koffing": 11,
-        "Kirlia": 25,
+        "Kirlia": 26,
         "Deino": 30,
         "Dolliv": 11,
         "Feebas": 16,
@@ -184,7 +184,7 @@
         "Dratini": 43,
         "Steelix": 4,
         "Sprigatito": 31,
-        "Charcadet": 81,
+        "Charcadet": 83,
         "Mudsdale": 10,
         "Meowth": 15,
         "Charmander": 29,
@@ -278,7 +278,7 @@
         "Chinchou": 9,
         "Eiscue": 1,
         "Nacli": 32,
-        "Pancham": 9,
+        "Pancham": 11,
         "Bulbasaur": 33,
         "Dewpider": 13,
         "Yellow plumage squawkabilly": 13,
@@ -978,10 +978,11 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2,
         "Nidoking": 2,
-        "Samurott": 1
+        "Samurott": 1,
+        "Dusknoir": 1
       },
-      "total_spawns": 10767,
-      "last_spawn": "2026-07-11T15:05:53.698795"
+      "total_spawns": 10773,
+      "last_spawn": "2026-07-11T15:06:33.576792"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1905,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 81883,
+    "total_spawns": 81889,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
