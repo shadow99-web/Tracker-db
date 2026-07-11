@@ -145,7 +145,7 @@
         "Wugtrio": 13,
         "Tranquill": 12,
         "Cetitan": 11,
-        "Turtwig": 23,
+        "Turtwig": 24,
         "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 33,
@@ -163,7 +163,7 @@
         "Vullaby": 8,
         "Venipede": 60,
         "Pansage": 14,
-        "Cetoddle": 38,
+        "Cetoddle": 39,
         "Togepi": 53,
         "Tandemaus": 37,
         "Clefairy": 8,
@@ -515,7 +515,7 @@
         "Braviary": 8,
         "Low key toxtricity": 6,
         "Nidorina": 11,
-        "Bronzong": 4,
+        "Bronzong": 5,
         "Foongus": 10,
         "Krookodile": 2,
         "Espathra": 11,
@@ -989,10 +989,11 @@
         "Poliwrath": 1,
         "Golisopod": 2,
         "Zygarde cell": 2,
-        "Dracozolt": 1
+        "Dracozolt": 1,
+        "Unown e": 2
       },
-      "total_spawns": 11426,
-      "last_spawn": "2026-07-11T17:32:53.787783"
+      "total_spawns": 11431,
+      "last_spawn": "2026-07-11T17:33:33.646348"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1916,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 82542,
+    "total_spawns": 82547,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
