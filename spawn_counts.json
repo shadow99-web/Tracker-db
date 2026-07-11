@@ -138,7 +138,7 @@
         "Eelektrik": 8,
         "Diglett": 10,
         "Surskit": 11,
-        "Seedot": 40,
+        "Seedot": 41,
         "Jigglypuff": 13,
         "Spearow": 11,
         "Servine": 8,
@@ -181,7 +181,7 @@
         "Beldum": 57,
         "Kadabra": 22,
         "Grovyle": 21,
-        "Dratini": 49,
+        "Dratini": 51,
         "Steelix": 4,
         "Sprigatito": 43,
         "Charcadet": 91,
@@ -583,7 +583,7 @@
         "Scyther": 32,
         "Polteageist": 3,
         "Lombre": 8,
-        "Dachsbun": 11,
+        "Dachsbun": 12,
         "Primeape": 4,
         "Goldeen": 13,
         "Gouging fire": 2,
@@ -732,7 +732,7 @@
         "Litten": 13,
         "Gossifleur": 11,
         "Electivire": 3,
-        "Farigiraf": 7,
+        "Farigiraf": 8,
         "Raichu": 2,
         "Meowstic": 3,
         "Zangoose": 2,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12302,
-      "last_spawn": "2026-07-11T20:00:49.110094"
+      "total_spawns": 12307,
+      "last_spawn": "2026-07-11T20:02:14.806156"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83418,
+    "total_spawns": 83423,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
