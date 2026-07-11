@@ -32,7 +32,7 @@
         "Pidgey": 49,
         "Binacle": 13,
         "Bounsweet": 84,
-        "Fletchling": 50,
+        "Fletchling": 51,
         "Whirlipede": 11,
         "Duskull": 94,
         "Abra": 48,
@@ -293,7 +293,7 @@
         "Ekans": 9,
         "Brambleghast": 11,
         "Dartrix": 16,
-        "Ceruledge": 9,
+        "Ceruledge": 10,
         "Vanillish": 13,
         "Gimmighoul": 41,
         "Glimmet": 32,
@@ -414,7 +414,7 @@
         "Cradily": 8,
         "Burmy": 1,
         "Sewaddle": 31,
-        "Shelmet": 10,
+        "Shelmet": 11,
         "Combusken": 5,
         "Croagunk": 12,
         "Mothim": 10,
@@ -632,7 +632,7 @@
         "Quagsire": 3,
         "Komala": 3,
         "Poochyena": 9,
-        "Hero palafin": 2,
+        "Hero palafin": 3,
         "Klinklang": 3,
         "Lickilicky": 9,
         "Unown k": 2,
@@ -845,7 +845,7 @@
         "Slowking": 2,
         "Kecleon": 4,
         "Tapu lele": 2,
-        "Naclstack": 5,
+        "Naclstack": 6,
         "Wobbuffet": 2,
         "Morgrem": 5,
         "Budew": 3,
@@ -1003,8 +1003,8 @@
         "Shiftry": 1,
         "Garganacl": 1
       },
-      "total_spawns": 11918,
-      "last_spawn": "2026-07-11T19:02:13.572624"
+      "total_spawns": 11923,
+      "last_spawn": "2026-07-11T19:02:48.791625"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1928,7 +1928,7 @@
     }
   },
   "global": {
-    "total_spawns": 83034,
+    "total_spawns": 83039,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
