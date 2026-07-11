@@ -195,7 +195,7 @@
         "Dj rotom": 31,
         "Chef dente": 40,
         "Hisuian qwilfish": 1,
-        "Bagon": 57,
+        "Bagon": 58,
         "Pikachu": 24,
         "Tarountula": 51,
         "Rhyhorn": 52,
@@ -285,7 +285,7 @@
         "Hattrem": 12,
         "Trash wormadam": 6,
         "Purrloin": 6,
-        "Zigzagoon": 13,
+        "Zigzagoon": 14,
         "Quilladin": 10,
         "Infernape": 4,
         "Noibat": 11,
@@ -600,7 +600,7 @@
         "Grimer": 11,
         "Frosmoth": 6,
         "Darumaka": 9,
-        "Cubone": 9,
+        "Cubone": 10,
         "Conkeldurr": 3,
         "Sinistea": 7,
         "Golbat": 10,
@@ -1002,10 +1002,11 @@
         "Dipplin": 1,
         "Shiftry": 1,
         "Garganacl": 1,
-        "Dugtrio": 2
+        "Dugtrio": 2,
+        "Deoxys": 1
       },
-      "total_spawns": 11975,
-      "last_spawn": "2026-07-11T19:08:48.346417"
+      "total_spawns": 11979,
+      "last_spawn": "2026-07-11T19:09:18.476413"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1929,7 +1930,7 @@
     }
   },
   "global": {
-    "total_spawns": 83091,
+    "total_spawns": 83095,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
