@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 34,
         "Binacle": 12,
-        "Bounsweet": 68,
+        "Bounsweet": 70,
         "Fletchling": 46,
         "Whirlipede": 10,
         "Duskull": 74,
@@ -116,7 +116,7 @@
         "Swinub": 33,
         "Rattata": 27,
         "Stonjourner": 2,
-        "Veluza": 64,
+        "Veluza": 65,
         "Panpour": 10,
         "Crabrawler": 6,
         "Frogadier": 5,
@@ -213,7 +213,7 @@
         "Drifloon": 7,
         "Mightyena": 6,
         "Sandaconda": 1,
-        "Froakie": 23,
+        "Froakie": 24,
         "Kingdra": 3,
         "Chikorita": 18,
         "Donphan": 7,
@@ -341,7 +341,7 @@
         "Ursaring": 4,
         "Bidoof": 3,
         "Gothita": 31,
-        "Solosis": 39,
+        "Solosis": 40,
         "Sandygast": 8,
         "Pidove": 28,
         "Chespin": 11,
@@ -443,7 +443,7 @@
         "Tyrunt": 4,
         "Hisuian typhlosion": 2,
         "Ponyta": 6,
-        "Smearguru": 29,
+        "Smearguru": 30,
         "Magneton": 6,
         "Battle cyclizar": 8,
         "Minccino": 6,
@@ -960,8 +960,8 @@
         "Mandibuzz": 1,
         "Magcargo": 1
       },
-      "total_spawns": 9577,
-      "last_spawn": "2026-07-11T07:55:40.209406"
+      "total_spawns": 9583,
+      "last_spawn": "2026-07-11T07:56:18.095117"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1674,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 75110,
+    "total_spawns": 75116,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
