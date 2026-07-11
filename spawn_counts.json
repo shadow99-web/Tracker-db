@@ -47,7 +47,7 @@
         "Tadbulb": 47,
         "Yanmega": 3,
         "Tympole": 36,
-        "Grubbin": 35,
+        "Grubbin": 36,
         "Scatterbug": 38,
         "Skwovet": 15,
         "Applin": 8,
@@ -121,7 +121,7 @@
         "Crabrawler": 6,
         "Frogadier": 5,
         "Scovillain": 9,
-        "White plumage squawkabilly": 20,
+        "White plumage squawkabilly": 21,
         "Flaaffy": 6,
         "Rookidee": 71,
         "Flapple": 12,
@@ -162,7 +162,7 @@
         "Sunny castform": 4,
         "Vullaby": 7,
         "Venipede": 55,
-        "Pansage": 12,
+        "Pansage": 13,
         "Cetoddle": 33,
         "Togepi": 48,
         "Tandemaus": 34,
@@ -876,7 +876,7 @@
         "Jirachi": 2,
         "Emboar": 2,
         "Cacturne": 2,
-        "Kricketune": 2,
+        "Kricketune": 3,
         "Gliscor": 4,
         "Hariyama": 5,
         "Hisuian zoroark": 2,
@@ -970,8 +970,8 @@
         "Defense deoxys": 2,
         "Galarian stunfisk": 2
       },
-      "total_spawns": 10357,
-      "last_spawn": "2026-07-11T11:44:33.873706"
+      "total_spawns": 10361,
+      "last_spawn": "2026-07-11T11:45:13.719482"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1851,7 +1851,7 @@
     }
   },
   "global": {
-    "total_spawns": 79455,
+    "total_spawns": 79459,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
