@@ -744,7 +744,7 @@
         "Yveltal": 3,
         "Illumise": 1,
         "Aggron": 2,
-        "Regigigas": 1,
+        "Regigigas": 2,
         "Bisharp": 2,
         "Forretress": 4,
         "Swampert": 4,
@@ -974,8 +974,8 @@
         "Palkia": 1,
         "Heatran": 1
       },
-      "total_spawns": 10499,
-      "last_spawn": "2026-07-11T13:42:40.009475"
+      "total_spawns": 10500,
+      "last_spawn": "2026-07-11T13:42:59.709360"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1139,7 +1139,7 @@
         "Scatterbug": 36,
         "Taillow": 10,
         "Wimpod": 12,
-        "Rookidee": 46,
+        "Rookidee": 47,
         "Shellos": 9,
         "Roaming gimmighoul": 16,
         "Grotle": 9,
@@ -1381,7 +1381,7 @@
         "Fletchling": 49,
         "Haunter": 9,
         "Sandshrew": 8,
-        "Fletchinder": 7,
+        "Fletchinder": 8,
         "Sinistea": 8,
         "Shinx": 33,
         "Totodile": 9,
@@ -1402,7 +1402,7 @@
         "Kingambit": 4,
         "Corsola": 4,
         "Gothitelle": 5,
-        "Makuhita": 10,
+        "Makuhita": 11,
         "Barboach": 6,
         "Smeargle": 4,
         "Ceruledge": 13,
@@ -1780,7 +1780,7 @@
         "Dragonite": 3,
         "Masquerain": 3,
         "Trevenant": 2,
-        "Sigilyph": 3,
+        "Sigilyph": 4,
         "Moltres": 1,
         "Sceptile": 3,
         "Bergmite": 5,
@@ -1883,7 +1883,7 @@
         "Crawdaunt": 1,
         "Galvantula": 1,
         "Ninetales": 1,
-        "Armaldo": 1,
+        "Armaldo": 2,
         "Blissey": 1,
         "Alolan grimer": 1,
         "Alolan sandshrew": 1,
@@ -1893,12 +1893,12 @@
         "Thundurus": 1,
         "Girafarig": 1
       },
-      "total_spawns": 8555,
-      "last_spawn": "2026-07-11T13:42:43.002767"
+      "total_spawns": 8560,
+      "last_spawn": "2026-07-11T13:43:23.224953"
     }
   },
   "global": {
-    "total_spawns": 81593,
+    "total_spawns": 81599,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
