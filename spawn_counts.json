@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 38,
         "Binacle": 12,
-        "Bounsweet": 76,
+        "Bounsweet": 78,
         "Fletchling": 46,
         "Whirlipede": 11,
         "Duskull": 84,
@@ -440,7 +440,7 @@
         "Amaura": 12,
         "Wailord": 4,
         "Accelgor": 4,
-        "Tyrunt": 4,
+        "Tyrunt": 5,
         "Hisuian typhlosion": 2,
         "Ponyta": 7,
         "Smearguru": 34,
@@ -463,7 +463,7 @@
         "Seismitoad": 8,
         "Galarian articuno": 1,
         "Kyurem": 1,
-        "Electabuzz": 3,
+        "Electabuzz": 4,
         "Shellder": 9,
         "Chi-yu": 1,
         "Landorus": 1,
@@ -540,7 +540,7 @@
         "White flower floette": 4,
         "Octillery": 5,
         "Pawniard": 12,
-        "Brionne": 10,
+        "Brionne": 11,
         "Zarude": 2,
         "Yamper": 8,
         "Tropius": 1,
@@ -971,8 +971,8 @@
         "Galarian stunfisk": 2,
         "Tyrantrum": 2
       },
-      "total_spawns": 10452,
-      "last_spawn": "2026-07-11T12:00:13.825840"
+      "total_spawns": 10457,
+      "last_spawn": "2026-07-11T12:00:53.564341"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1861,7 +1861,7 @@
     }
   },
   "global": {
-    "total_spawns": 79911,
+    "total_spawns": 79916,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
