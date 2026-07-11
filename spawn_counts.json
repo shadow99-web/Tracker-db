@@ -15,7 +15,7 @@
         "Vanillite": 100,
         "Weedle": 67,
         "Kabutops": 6,
-        "Poliwag": 40,
+        "Poliwag": 41,
         "Fidough": 46,
         "Charjabug": 3,
         "Hatterene": 9,
@@ -140,7 +140,7 @@
         "Surskit": 11,
         "Seedot": 38,
         "Jigglypuff": 12,
-        "Spearow": 10,
+        "Spearow": 11,
         "Servine": 7,
         "Wugtrio": 13,
         "Tranquill": 12,
@@ -201,7 +201,7 @@
         "Rhyhorn": 51,
         "Aipom": 12,
         "Grookey": 19,
-        "Inkay": 6,
+        "Inkay": 7,
         "Unfezant": 4,
         "Fraxure": 17,
         "Zubat": 35,
@@ -220,7 +220,7 @@
         "Shuppet": 14,
         "Graveler": 9,
         "Duosion": 8,
-        "Orthworm": 36,
+        "Orthworm": 37,
         "Yamask": 8,
         "Nymble": 45,
         "Snorunt": 11,
@@ -991,8 +991,8 @@
         "Zygarde cell": 2,
         "Dracozolt": 1
       },
-      "total_spawns": 11415,
-      "last_spawn": "2026-07-11T17:31:13.959976"
+      "total_spawns": 11419,
+      "last_spawn": "2026-07-11T17:31:53.518652"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1916,7 +1916,7 @@
     }
   },
   "global": {
-    "total_spawns": 82531,
+    "total_spawns": 82535,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
