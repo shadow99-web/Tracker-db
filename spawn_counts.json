@@ -81,7 +81,7 @@
         "Orbeetle": 7,
         "Bramblin": 23,
         "Stufful": 11,
-        "Shelgon": 13,
+        "Shelgon": 15,
         "Marshtomp": 19,
         "Squirtle": 15,
         "Shinx": 80,
@@ -148,9 +148,9 @@
         "Turtwig": 18,
         "Fomantis": 9,
         "Claydol": 2,
-        "Trapinch": 29,
+        "Trapinch": 30,
         "Butterfree": 5,
-        "Teddiursa": 71,
+        "Teddiursa": 72,
         "Roggenrola": 50,
         "Litwick": 37,
         "Wooper": 9,
@@ -656,7 +656,7 @@
         "Passimian": 3,
         "Jynx": 1,
         "Noctowl": 4,
-        "Munna": 4,
+        "Munna": 5,
         "Mabosstiff": 7,
         "Omastar": 3,
         "Gabite": 12,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9450,
-      "last_spawn": "2026-07-11T04:42:28.198230"
+      "total_spawns": 9455,
+      "last_spawn": "2026-07-11T04:42:58.228243"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74983,
+    "total_spawns": 74988,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
