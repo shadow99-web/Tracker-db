@@ -161,7 +161,7 @@
         "Swadloon": 11,
         "Sunny castform": 5,
         "Vullaby": 8,
-        "Venipede": 57,
+        "Venipede": 58,
         "Pansage": 13,
         "Cetoddle": 35,
         "Togepi": 49,
@@ -308,7 +308,7 @@
         "Archen": 25,
         "Blue plumage squawkabilly": 10,
         "Metang": 13,
-        "Larvitar": 26,
+        "Larvitar": 27,
         "Lumineon": 3,
         "Kilowattrel": 8,
         "Pumpkaboo": 9,
@@ -822,7 +822,7 @@
         "Mantine": 2,
         "Iron bundle": 2,
         "Gourgeist": 3,
-        "Luxray": 2,
+        "Luxray": 3,
         "Gogoat": 2,
         "Beedrill": 3,
         "Sandslash": 4,
@@ -834,7 +834,7 @@
         "Drifblim": 2,
         "Togedemaru": 1,
         "Jellicent": 3,
-        "Monferno": 7,
+        "Monferno": 8,
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 7,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11028,
-      "last_spawn": "2026-07-11T16:37:03.656765"
+      "total_spawns": 11032,
+      "last_spawn": "2026-07-11T16:37:43.595029"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82144,
+    "total_spawns": 82148,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
