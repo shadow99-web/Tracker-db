@@ -39,7 +39,7 @@
         "Wiglett": 24,
         "Starly": 69,
         "Caterpie": 34,
-        "Mareep": 32,
+        "Mareep": 33,
         "Capsakid": 36,
         "Numel": 11,
         "Pawmo": 9,
@@ -110,7 +110,7 @@
         "Magnezone": 3,
         "Eevee": 28,
         "Dreepy": 73,
-        "Treecko": 27,
+        "Treecko": 28,
         "Shroodle": 36,
         "Ride cyclizar": 11,
         "Swinub": 33,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 7,
-        "Tepig": 12,
+        "Tepig": 13,
         "Spinda": 1,
         "Phantump": 11,
         "Barboach": 5,
@@ -399,7 +399,7 @@
         "Cursola": 2,
         "Carbink": 2,
         "Scorbunny": 8,
-        "Dubwool": 3,
+        "Dubwool": 4,
         "Litleo": 14,
         "Silcoon": 13,
         "Snivy": 6,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9515,
-      "last_spawn": "2026-07-11T07:46:58.322023"
+      "total_spawns": 9519,
+      "last_spawn": "2026-07-11T07:47:38.473757"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75048,
+    "total_spawns": 75052,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
