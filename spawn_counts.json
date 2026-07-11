@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 40,
         "Binacle": 12,
-        "Bounsweet": 78,
+        "Bounsweet": 80,
         "Fletchling": 46,
         "Whirlipede": 11,
         "Duskull": 88,
@@ -416,7 +416,7 @@
         "Sewaddle": 29,
         "Shelmet": 9,
         "Combusken": 5,
-        "Croagunk": 11,
+        "Croagunk": 12,
         "Mothim": 6,
         "Crabominable": 5,
         "Krabby": 8,
@@ -710,7 +710,7 @@
         "Simisear": 10,
         "Hawlucha": 4,
         "Stunky": 11,
-        "Garbodor": 4,
+        "Garbodor": 6,
         "Remoraid": 6,
         "Exeggcute": 8,
         "Dunsparce": 5,
@@ -977,8 +977,8 @@
         "Blade aegislash": 1,
         "Delibird": 1
       },
-      "total_spawns": 10662,
-      "last_spawn": "2026-07-11T14:52:13.671283"
+      "total_spawns": 10667,
+      "last_spawn": "2026-07-11T14:52:43.737619"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1902,7 +1902,7 @@
     }
   },
   "global": {
-    "total_spawns": 81778,
+    "total_spawns": 81783,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
