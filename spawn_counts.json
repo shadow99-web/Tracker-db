@@ -62,7 +62,7 @@
         "Maushold": 5,
         "Cubchoo": 31,
         "Koffing": 11,
-        "Kirlia": 26,
+        "Kirlia": 27,
         "Deino": 30,
         "Dolliv": 11,
         "Feebas": 16,
@@ -144,7 +144,7 @@
         "Servine": 7,
         "Wugtrio": 12,
         "Tranquill": 11,
-        "Cetitan": 10,
+        "Cetitan": 11,
         "Turtwig": 19,
         "Fomantis": 10,
         "Claydol": 2,
@@ -178,7 +178,7 @@
         "Flamigo": 26,
         "Bellsprout": 24,
         "Houndstone": 6,
-        "Beldum": 49,
+        "Beldum": 50,
         "Kadabra": 20,
         "Grovyle": 21,
         "Dratini": 43,
@@ -311,13 +311,13 @@
         "Larvitar": 26,
         "Lumineon": 3,
         "Kilowattrel": 8,
-        "Pumpkaboo": 8,
+        "Pumpkaboo": 9,
         "Petilil": 14,
         "Bombirdier": 38,
         "Bellibolt": 9,
         "Toedscool": 34,
         "Paras": 7,
-        "Fletchinder": 16,
+        "Fletchinder": 17,
         "Staravia": 10,
         "Wishiwashi": 3,
         "Skitty": 15,
@@ -981,8 +981,8 @@
         "Samurott": 1,
         "Dusknoir": 1
       },
-      "total_spawns": 10773,
-      "last_spawn": "2026-07-11T15:06:33.576792"
+      "total_spawns": 10778,
+      "last_spawn": "2026-07-11T15:07:13.523112"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1906,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 81889,
+    "total_spawns": 81894,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
