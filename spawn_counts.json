@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 88,
         "Abra": 42,
-        "Wiglett": 31,
+        "Wiglett": 32,
         "Starly": 75,
         "Caterpie": 38,
         "Mareep": 36,
@@ -92,7 +92,7 @@
         "Charmeleon": 19,
         "Riolu": 26,
         "Gible": 58,
-        "Greavard": 78,
+        "Greavard": 80,
         "Snover": 17,
         "Piplup": 14,
         "Dondozo": 35,
@@ -338,7 +338,7 @@
         "Volcarona": 5,
         "Togekiss": 6,
         "Furfrou": 4,
-        "Ursaring": 4,
+        "Ursaring": 5,
         "Bidoof": 3,
         "Gothita": 40,
         "Solosis": 48,
@@ -592,7 +592,7 @@
         "Gengar": 6,
         "Spiritomb": 2,
         "Gurdurr": 5,
-        "Quilava": 9,
+        "Quilava": 10,
         "Wurmple": 64,
         "Sandshrew": 12,
         "Tauros": 5,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10928,
-      "last_spawn": "2026-07-11T16:19:23.624053"
+      "total_spawns": 10933,
+      "last_spawn": "2026-07-11T16:20:03.648715"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82044,
+    "total_spawns": 82049,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
