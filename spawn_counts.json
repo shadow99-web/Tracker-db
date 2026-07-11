@@ -19,7 +19,7 @@
         "Fidough": 41,
         "Charjabug": 3,
         "Hatterene": 7,
-        "Rowlet": 15,
+        "Rowlet": 16,
         "Anorith": 10,
         "Arctibax": 10,
         "Ralts": 64,
@@ -127,7 +127,7 @@
         "Flapple": 10,
         "Bronzor": 7,
         "Swirlix": 9,
-        "Varoom": 64,
+        "Varoom": 66,
         "Ducklett": 9,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 3,
@@ -222,7 +222,7 @@
         "Duosion": 7,
         "Orthworm": 34,
         "Yamask": 8,
-        "Nymble": 34,
+        "Nymble": 35,
         "Snorunt": 10,
         "Carvanha": 6,
         "Toxel": 4,
@@ -789,7 +789,7 @@
         "Zapdos": 2,
         "Coalossal": 2,
         "Steenee": 6,
-        "Boltund": 1,
+        "Boltund": 2,
         "Weezing": 1,
         "Blue flower florges": 1,
         "Dudunsparce": 8,
@@ -961,8 +961,8 @@
         "Magcargo": 1,
         "Miltank": 2
       },
-      "total_spawns": 9686,
-      "last_spawn": "2026-07-11T08:06:38.426409"
+      "total_spawns": 9691,
+      "last_spawn": "2026-07-11T08:07:18.376568"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1675,7 +1675,7 @@
     }
   },
   "global": {
-    "total_spawns": 75219,
+    "total_spawns": 75224,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
