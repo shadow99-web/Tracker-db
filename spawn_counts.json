@@ -990,13 +990,13 @@
         "Klink": 28,
         "Nymble": 26,
         "Porygon": 28,
-        "Abra": 39,
+        "Abra": 40,
         "Oddish": 32,
         "Dedenne": 3,
         "Gothita": 36,
         "Finizen": 34,
         "Machop": 33,
-        "Psyduck": 9,
+        "Psyduck": 10,
         "Monferno": 7,
         "Pikipek": 35,
         "Flittle": 25,
@@ -1270,7 +1270,7 @@
         "Nincada": 8,
         "Tyrogue": 6,
         "Minior": 3,
-        "Veluza": 31,
+        "Veluza": 32,
         "Salandit": 9,
         "Yellow plumage squawkabilly": 5,
         "Poliwag": 30,
@@ -1442,7 +1442,7 @@
         "Bruxish": 2,
         "Pancham": 8,
         "Exeggcute": 7,
-        "Cherubi": 8,
+        "Cherubi": 9,
         "Tangrowth": 2,
         "Frosmoth": 1,
         "Farigiraf": 7,
@@ -1857,14 +1857,16 @@
         "Cornerstone mask ogerpon": 1,
         "Alolan ninetales": 1,
         "Yanmega": 1,
-        "Staraptor": 1
+        "Staraptor": 1,
+        "Medicham": 1,
+        "Hisuian zoroark": 1
       },
-      "total_spawns": 7081,
-      "last_spawn": "2026-07-11T12:51:26.682494"
+      "total_spawns": 7087,
+      "last_spawn": "2026-07-11T12:51:57.767842"
     }
   },
   "global": {
-    "total_spawns": 80113,
+    "total_spawns": 80119,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
