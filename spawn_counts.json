@@ -36,10 +36,10 @@
         "Whirlipede": 11,
         "Duskull": 90,
         "Abra": 44,
-        "Wiglett": 33,
+        "Wiglett": 34,
         "Starly": 81,
         "Caterpie": 38,
-        "Mareep": 37,
+        "Mareep": 38,
         "Capsakid": 47,
         "Numel": 12,
         "Pawmo": 12,
@@ -79,7 +79,7 @@
         "Salandit": 11,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 25,
+        "Bramblin": 26,
         "Stufful": 14,
         "Shelgon": 17,
         "Marshtomp": 25,
@@ -703,7 +703,7 @@
         "Glimmora": 9,
         "Parasect": 4,
         "Fuecoco": 11,
-        "Loudred": 9,
+        "Loudred": 10,
         "Vespiquen": 4,
         "Gastrodon": 1,
         "Skiddo": 11,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11247,
-      "last_spawn": "2026-07-11T17:08:43.641306"
+      "total_spawns": 11251,
+      "last_spawn": "2026-07-11T17:09:23.626478"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82363,
+    "total_spawns": 82367,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
