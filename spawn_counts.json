@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 30,
         "Vulpix": 27,
-        "Gastly": 70,
+        "Gastly": 72,
         "Aron": 39,
         "Honedge": 58,
         "Houndour": 8,
@@ -142,7 +142,7 @@
         "Jigglypuff": 12,
         "Spearow": 10,
         "Servine": 6,
-        "Wugtrio": 11,
+        "Wugtrio": 12,
         "Tranquill": 11,
         "Cetitan": 9,
         "Turtwig": 18,
@@ -176,7 +176,7 @@
         "Poliwhirl": 10,
         "Lokix": 14,
         "Flamigo": 24,
-        "Bellsprout": 22,
+        "Bellsprout": 23,
         "Houndstone": 6,
         "Beldum": 47,
         "Kadabra": 20,
@@ -199,7 +199,7 @@
         "Pikachu": 22,
         "Tarountula": 39,
         "Rhyhorn": 45,
-        "Aipom": 8,
+        "Aipom": 9,
         "Grookey": 18,
         "Inkay": 6,
         "Unfezant": 4,
@@ -580,7 +580,7 @@
         "Skorupi": 7,
         "Probopass": 5,
         "Family of three maushold": 1,
-        "Scyther": 26,
+        "Scyther": 28,
         "Polteageist": 2,
         "Lombre": 6,
         "Dachsbun": 11,
@@ -720,7 +720,7 @@
         "Alolan grimer": 6,
         "Ursaluna": 4,
         "Blastoise": 8,
-        "Wormadam": 2,
+        "Wormadam": 3,
         "Crustle": 4,
         "Sawk": 1,
         "Azumarill": 1,
@@ -947,7 +947,7 @@
         "Pom-pom oricorio": 1,
         "Pyroar": 3,
         "Walrein": 1,
-        "Druddigon": 2,
+        "Druddigon": 4,
         "Galarian mr. mime": 2,
         "Arbok": 1,
         "Aerodactyl": 1,
@@ -968,8 +968,8 @@
         "Alolan sandshrew": 2,
         "Fezandipiti": 2
       },
-      "total_spawns": 10165,
-      "last_spawn": "2026-07-11T11:22:44.019568"
+      "total_spawns": 10175,
+      "last_spawn": "2026-07-11T11:23:18.193138"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1842,7 +1842,7 @@
     }
   },
   "global": {
-    "total_spawns": 79004,
+    "total_spawns": 79014,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
