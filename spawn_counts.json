@@ -22,7 +22,7 @@
         "Rowlet": 16,
         "Anorith": 12,
         "Arctibax": 12,
-        "Ralts": 74,
+        "Ralts": 76,
         "Peakychu": 57,
         "Cutiefly": 13,
         "Simipour": 4,
@@ -291,7 +291,7 @@
         "Noibat": 10,
         "Gothorita": 8,
         "Ekans": 8,
-        "Brambleghast": 10,
+        "Brambleghast": 11,
         "Dartrix": 16,
         "Ceruledge": 9,
         "Vanillish": 12,
@@ -936,7 +936,7 @@
         "Summer sawsbuck": 2,
         "White-striped basculin": 2,
         "Annihilape": 2,
-        "Victreebel": 1,
+        "Victreebel": 2,
         "Galarian yamask": 2,
         "Zebstrika": 4,
         "Unown u": 2,
@@ -996,8 +996,8 @@
         "Alolan golem": 2,
         "Roserade": 1
       },
-      "total_spawns": 11697,
-      "last_spawn": "2026-07-11T18:33:38.326235"
+      "total_spawns": 11701,
+      "last_spawn": "2026-07-11T18:34:08.411275"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1921,7 +1921,7 @@
     }
   },
   "global": {
-    "total_spawns": 82813,
+    "total_spawns": 82817,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
