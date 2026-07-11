@@ -49,7 +49,7 @@
         "Tympole": 36,
         "Grubbin": 37,
         "Scatterbug": 39,
-        "Skwovet": 16,
+        "Skwovet": 17,
         "Applin": 8,
         "Staryu": 4,
         "Maschiff": 32,
@@ -350,7 +350,7 @@
         "Grotle": 7,
         "Tinkaton": 2,
         "Bergmite": 7,
-        "Klang": 8,
+        "Klang": 9,
         "Tepig": 15,
         "Spinda": 1,
         "Phantump": 11,
@@ -695,7 +695,7 @@
         "Helioptile": 7,
         "Salamence": 4,
         "Meditite": 7,
-        "Sneasel": 8,
+        "Sneasel": 9,
         "Finneon": 5,
         "Pidgeotto": 6,
         "Hakamo-o": 4,
@@ -974,8 +974,8 @@
         "Palkia": 1,
         "Heatran": 1
       },
-      "total_spawns": 10520,
-      "last_spawn": "2026-07-11T14:32:43.839238"
+      "total_spawns": 10523,
+      "last_spawn": "2026-07-11T14:33:13.887491"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1899,7 +1899,7 @@
     }
   },
   "global": {
-    "total_spawns": 81636,
+    "total_spawns": 81639,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
