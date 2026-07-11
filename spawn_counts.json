@@ -127,7 +127,7 @@
         "Flapple": 10,
         "Bronzor": 7,
         "Swirlix": 9,
-        "Varoom": 66,
+        "Varoom": 67,
         "Ducklett": 9,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 3,
@@ -206,7 +206,7 @@
         "Fraxure": 15,
         "Zubat": 30,
         "Drowzee": 15,
-        "Lechonk": 41,
+        "Lechonk": 42,
         "Woobat": 7,
         "Skrelp": 11,
         "Lileep": 9,
@@ -311,7 +311,7 @@
         "Larvitar": 25,
         "Lumineon": 2,
         "Kilowattrel": 7,
-        "Pumpkaboo": 6,
+        "Pumpkaboo": 7,
         "Petilil": 14,
         "Bombirdier": 34,
         "Bellibolt": 9,
@@ -962,8 +962,8 @@
         "Miltank": 2,
         "Ribombee": 2
       },
-      "total_spawns": 9723,
-      "last_spawn": "2026-07-11T10:23:23.855371"
+      "total_spawns": 9726,
+      "last_spawn": "2026-07-11T10:23:53.567484"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1037,7 +1037,7 @@
         "Grapploct": 2,
         "Charcadet": 13,
         "Sandile": 15,
-        "Maushold": 6,
+        "Maushold": 7,
         "Rattata": 8,
         "Riolu": 3,
         "Aromatisse": 1,
@@ -1151,7 +1151,7 @@
         "Quaxwell": 3,
         "Croconaw": 7,
         "Smoliv": 10,
-        "Lechonk": 12,
+        "Lechonk": 13,
         "Clodsire": 5,
         "Sandaconda": 1,
         "Ninjask": 1,
@@ -1197,7 +1197,7 @@
         "Battle cyclizar": 5,
         "Bagon": 5,
         "Vanilluxe": 2,
-        "Woobat": 3,
+        "Woobat": 4,
         "Goomy": 10,
         "Orbeetle": 1,
         "Shellder": 4,
@@ -1669,14 +1669,15 @@
         "Honchkrow": 1,
         "Krabby": 2,
         "Corviknight": 1,
-        "Swanna": 1
+        "Swanna": 1,
+        "Jynx": 1
       },
-      "total_spawns": 2994,
-      "last_spawn": "2026-07-07T08:35:57.894625"
+      "total_spawns": 2998,
+      "last_spawn": "2026-07-11T10:23:54.640476"
     }
   },
   "global": {
-    "total_spawns": 75256,
+    "total_spawns": 75263,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
