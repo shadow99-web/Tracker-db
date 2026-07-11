@@ -29,7 +29,7 @@
         "Tynamo": 37,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 43,
+        "Pidgey": 44,
         "Binacle": 12,
         "Bounsweet": 80,
         "Fletchling": 47,
@@ -84,7 +84,7 @@
         "Shelgon": 15,
         "Marshtomp": 23,
         "Squirtle": 16,
-        "Shinx": 88,
+        "Shinx": 90,
         "Drakloak": 17,
         "Victini": 1,
         "Pawmi": 87,
@@ -168,7 +168,7 @@
         "Tandemaus": 35,
         "Clefairy": 8,
         "Unown q": 1,
-        "Lotad": 38,
+        "Lotad": 39,
         "Mienshao": 3,
         "Blipbug": 74,
         "Rellor": 34,
@@ -414,7 +414,7 @@
         "Cradily": 8,
         "Burmy": 1,
         "Sewaddle": 30,
-        "Shelmet": 9,
+        "Shelmet": 10,
         "Combusken": 5,
         "Croagunk": 12,
         "Mothim": 6,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10940,
-      "last_spawn": "2026-07-11T16:21:03.828861"
+      "total_spawns": 10945,
+      "last_spawn": "2026-07-11T16:21:44.081564"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82056,
+    "total_spawns": 82061,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
