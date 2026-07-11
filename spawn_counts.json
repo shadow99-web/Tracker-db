@@ -13,7 +13,7 @@
         "Oddish": 54,
         "Totodile": 18,
         "Vanillite": 104,
-        "Weedle": 73,
+        "Weedle": 74,
         "Kabutops": 6,
         "Poliwag": 41,
         "Fidough": 47,
@@ -92,7 +92,7 @@
         "Charmeleon": 19,
         "Riolu": 26,
         "Gible": 62,
-        "Greavard": 84,
+        "Greavard": 86,
         "Snover": 19,
         "Piplup": 15,
         "Dondozo": 38,
@@ -187,7 +187,7 @@
         "Charcadet": 91,
         "Mudsdale": 10,
         "Meowth": 17,
-        "Charmander": 31,
+        "Charmander": 33,
         "Wimpod": 21,
         "Comfey": 13,
         "Diggersby": 3,
@@ -634,7 +634,7 @@
         "Poochyena": 9,
         "Hero palafin": 3,
         "Klinklang": 3,
-        "Lickilicky": 9,
+        "Lickilicky": 11,
         "Unown k": 2,
         "Elekid": 3,
         "Chingling": 3,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12139,
-      "last_spawn": "2026-07-11T19:39:39.056391"
+      "total_spawns": 12146,
+      "last_spawn": "2026-07-11T19:40:18.059455"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83255,
+    "total_spawns": 83262,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
