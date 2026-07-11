@@ -117,7 +117,7 @@
         "Rattata": 30,
         "Stonjourner": 2,
         "Veluza": 72,
-        "Panpour": 12,
+        "Panpour": 13,
         "Crabrawler": 6,
         "Frogadier": 5,
         "Scovillain": 9,
@@ -141,7 +141,7 @@
         "Seedot": 35,
         "Jigglypuff": 12,
         "Spearow": 10,
-        "Servine": 6,
+        "Servine": 7,
         "Wugtrio": 12,
         "Tranquill": 11,
         "Cetitan": 10,
@@ -505,7 +505,7 @@
         "Spinarak": 8,
         "Goomy": 29,
         "Breloom": 3,
-        "Rillaboom": 8,
+        "Rillaboom": 10,
         "Hippopotas": 7,
         "Reuniclus": 2,
         "Melmetal": 1,
@@ -580,7 +580,7 @@
         "Skorupi": 7,
         "Probopass": 5,
         "Family of three maushold": 1,
-        "Scyther": 30,
+        "Scyther": 32,
         "Polteageist": 2,
         "Lombre": 6,
         "Dachsbun": 11,
@@ -971,8 +971,8 @@
         "Galarian stunfisk": 2,
         "Tyrantrum": 2
       },
-      "total_spawns": 10477,
-      "last_spawn": "2026-07-11T12:03:43.861925"
+      "total_spawns": 10483,
+      "last_spawn": "2026-07-11T12:04:23.691037"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1861,7 +1861,7 @@
     }
   },
   "global": {
-    "total_spawns": 79936,
+    "total_spawns": 79942,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
