@@ -35,7 +35,7 @@
         "Fletchling": 47,
         "Whirlipede": 11,
         "Duskull": 88,
-        "Abra": 42,
+        "Abra": 43,
         "Wiglett": 33,
         "Starly": 81,
         "Caterpie": 38,
@@ -222,7 +222,7 @@
         "Duosion": 8,
         "Orthworm": 36,
         "Yamask": 8,
-        "Nymble": 43,
+        "Nymble": 44,
         "Snorunt": 11,
         "Carvanha": 7,
         "Toxel": 7,
@@ -303,7 +303,7 @@
         "Quaxwell": 4,
         "Swanna": 3,
         "Torracat": 11,
-        "Geodude": 38,
+        "Geodude": 39,
         "Tentacruel": 1,
         "Archen": 25,
         "Blue plumage squawkabilly": 10,
@@ -453,7 +453,7 @@
         "Thwackey": 8,
         "Latios": 2,
         "Slurpuff": 2,
-        "Espurr": 14,
+        "Espurr": 16,
         "Pelipper": 2,
         "Excadrill": 6,
         "Buizel": 8,
@@ -985,8 +985,8 @@
         "Pichu": 1,
         "Rapidash": 2
       },
-      "total_spawns": 11077,
-      "last_spawn": "2026-07-11T16:45:25.289368"
+      "total_spawns": 11082,
+      "last_spawn": "2026-07-11T16:46:03.855488"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1910,7 +1910,7 @@
     }
   },
   "global": {
-    "total_spawns": 82193,
+    "total_spawns": 82198,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
