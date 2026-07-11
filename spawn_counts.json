@@ -54,7 +54,7 @@
         "Staryu": 5,
         "Maschiff": 37,
         "Smoliv": 50,
-        "Tirtouga": 18,
+        "Tirtouga": 20,
         "Hatenna": 86,
         "Shroomish": 8,
         "Lillipup": 53,
@@ -214,7 +214,7 @@
         "Mightyena": 6,
         "Sandaconda": 3,
         "Froakie": 30,
-        "Kingdra": 5,
+        "Kingdra": 7,
         "Chikorita": 20,
         "Donphan": 7,
         "Shuppet": 16,
@@ -725,7 +725,7 @@
         "Sawk": 1,
         "Azumarill": 3,
         "Delphox": 2,
-        "Cranidos": 11,
+        "Cranidos": 12,
         "Tsareena": 5,
         "Chansey": 6,
         "Camerupt": 5,
@@ -834,7 +834,7 @@
         "Drifblim": 2,
         "Togedemaru": 1,
         "Jellicent": 5,
-        "Monferno": 8,
+        "Monferno": 9,
         "Smoochum": 2,
         "Drampa": 4,
         "Shieldon": 8,
@@ -1005,10 +1005,10 @@
         "Dugtrio": 2,
         "Deoxys": 2,
         "Bastiodon": 2,
-        "Sceptile": 1
+        "Sceptile": 2
       },
-      "total_spawns": 12242,
-      "last_spawn": "2026-07-11T19:52:58.226674"
+      "total_spawns": 12249,
+      "last_spawn": "2026-07-11T19:53:28.235465"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83358,
+    "total_spawns": 83365,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
