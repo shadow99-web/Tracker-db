@@ -39,7 +39,7 @@
         "Wiglett": 38,
         "Starly": 83,
         "Caterpie": 40,
-        "Mareep": 39,
+        "Mareep": 40,
         "Capsakid": 49,
         "Numel": 15,
         "Pawmo": 13,
@@ -163,7 +163,7 @@
         "Vullaby": 9,
         "Venipede": 60,
         "Pansage": 15,
-        "Cetoddle": 40,
+        "Cetoddle": 41,
         "Togepi": 57,
         "Tandemaus": 37,
         "Clefairy": 9,
@@ -362,7 +362,7 @@
         "Gholdengo": 9,
         "Trubbish": 13,
         "Rockruff": 9,
-        "Snowy castform": 2,
+        "Snowy castform": 3,
         "Dusclops": 16,
         "Prinplup": 15,
         "Kommo-o": 3,
@@ -417,7 +417,7 @@
         "Shelmet": 10,
         "Combusken": 5,
         "Croagunk": 12,
-        "Mothim": 8,
+        "Mothim": 9,
         "Crabominable": 5,
         "Krabby": 9,
         "Mimikyu": 6,
@@ -1001,8 +1001,8 @@
         "Regirock": 2,
         "Dipplin": 1
       },
-      "total_spawns": 11849,
-      "last_spawn": "2026-07-11T18:53:28.264379"
+      "total_spawns": 11853,
+      "last_spawn": "2026-07-11T18:54:13.451321"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 82965,
+    "total_spawns": 82969,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
