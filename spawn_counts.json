@@ -339,14 +339,14 @@
         "Togekiss": 7,
         "Furfrou": 4,
         "Ursaring": 5,
-        "Bidoof": 4,
+        "Bidoof": 5,
         "Gothita": 41,
         "Solosis": 53,
         "Sandygast": 9,
         "Pidove": 35,
         "Chespin": 14,
         "Combee": 7,
-        "Cyndaquil": 15,
+        "Cyndaquil": 16,
         "Grotle": 7,
         "Tinkaton": 2,
         "Bergmite": 11,
@@ -417,7 +417,7 @@
         "Shelmet": 10,
         "Combusken": 5,
         "Croagunk": 12,
-        "Mothim": 9,
+        "Mothim": 10,
         "Crabominable": 5,
         "Krabby": 9,
         "Mimikyu": 6,
@@ -1001,8 +1001,8 @@
         "Regirock": 2,
         "Dipplin": 1
       },
-      "total_spawns": 11853,
-      "last_spawn": "2026-07-11T18:54:13.451321"
+      "total_spawns": 11856,
+      "last_spawn": "2026-07-11T18:54:53.485924"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 82969,
+    "total_spawns": 82972,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
