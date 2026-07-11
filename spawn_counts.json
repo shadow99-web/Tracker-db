@@ -106,7 +106,7 @@
         "Armarouge": 10,
         "Clauncher": 7,
         "Tentacool": 8,
-        "Bayleef": 11,
+        "Bayleef": 12,
         "Magnezone": 3,
         "Eevee": 30,
         "Dreepy": 83,
@@ -144,7 +144,7 @@
         "Servine": 6,
         "Wugtrio": 12,
         "Tranquill": 11,
-        "Cetitan": 9,
+        "Cetitan": 10,
         "Turtwig": 18,
         "Fomantis": 10,
         "Claydol": 2,
@@ -223,7 +223,7 @@
         "Orthworm": 35,
         "Yamask": 8,
         "Nymble": 38,
-        "Snorunt": 10,
+        "Snorunt": 11,
         "Carvanha": 6,
         "Toxel": 4,
         "Buneary": 8,
@@ -236,7 +236,7 @@
         "Shellos": 3,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 39,
+        "Whismur": 40,
         "Jangmo-o": 25,
         "Lunatone": 1,
         "Machoke": 16,
@@ -394,7 +394,7 @@
         "Houndoom": 3,
         "Meganium": 10,
         "Rainy castform": 5,
-        "Rabsca": 10,
+        "Rabsca": 11,
         "Misdreavus": 10,
         "Cursola": 2,
         "Carbink": 2,
@@ -528,7 +528,7 @@
         "Politoed": 13,
         "Droopy tatsugiri": 11,
         "Volcanion": 1,
-        "Drapion": 3,
+        "Drapion": 4,
         "Wartortle": 6,
         "Midnight lycanroc": 8,
         "Skiploom": 7,
@@ -968,8 +968,8 @@
         "Alolan sandshrew": 2,
         "Fezandipiti": 2
       },
-      "total_spawns": 10175,
-      "last_spawn": "2026-07-11T11:23:18.193138"
+      "total_spawns": 10181,
+      "last_spawn": "2026-07-11T11:23:53.556270"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1842,7 +1842,7 @@
     }
   },
   "global": {
-    "total_spawns": 79014,
+    "total_spawns": 79020,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
