@@ -50,7 +50,7 @@
         "Grubbin": 37,
         "Scatterbug": 39,
         "Skwovet": 17,
-        "Applin": 8,
+        "Applin": 9,
         "Staryu": 4,
         "Maschiff": 32,
         "Smoliv": 43,
@@ -58,7 +58,7 @@
         "Hatenna": 80,
         "Shroomish": 6,
         "Lillipup": 47,
-        "Mosslax": 82,
+        "Mosslax": 83,
         "Maushold": 5,
         "Cubchoo": 31,
         "Koffing": 11,
@@ -148,7 +148,7 @@
         "Turtwig": 19,
         "Fomantis": 10,
         "Claydol": 2,
-        "Trapinch": 32,
+        "Trapinch": 33,
         "Butterfree": 5,
         "Teddiursa": 76,
         "Roggenrola": 50,
@@ -285,7 +285,7 @@
         "Hattrem": 10,
         "Trash wormadam": 6,
         "Purrloin": 5,
-        "Zigzagoon": 12,
+        "Zigzagoon": 13,
         "Quilladin": 8,
         "Infernape": 4,
         "Noibat": 9,
@@ -975,8 +975,8 @@
         "Heatran": 1,
         "Ditto": 2
       },
-      "total_spawns": 10549,
-      "last_spawn": "2026-07-11T14:36:53.988123"
+      "total_spawns": 10553,
+      "last_spawn": "2026-07-11T14:37:33.841563"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1900,7 +1900,7 @@
     }
   },
   "global": {
-    "total_spawns": 81665,
+    "total_spawns": 81669,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
