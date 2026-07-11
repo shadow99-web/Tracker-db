@@ -150,7 +150,7 @@
         "Claydol": 2,
         "Trapinch": 33,
         "Butterfree": 7,
-        "Teddiursa": 80,
+        "Teddiursa": 82,
         "Roggenrola": 58,
         "Litwick": 41,
         "Wooper": 9,
@@ -220,7 +220,7 @@
         "Shuppet": 14,
         "Graveler": 9,
         "Duosion": 8,
-        "Orthworm": 37,
+        "Orthworm": 38,
         "Yamask": 8,
         "Nymble": 45,
         "Snorunt": 11,
@@ -567,7 +567,7 @@
         "Farfetch'd": 2,
         "Grafaiai": 28,
         "Fearow": 2,
-        "Squawkabilly": 13,
+        "Squawkabilly": 14,
         "Seadra": 6,
         "Sealeo": 7,
         "Baltoy": 8,
@@ -961,7 +961,7 @@
         "Magcargo": 2,
         "Miltank": 2,
         "Ribombee": 4,
-        "Dragalge": 2,
+        "Dragalge": 4,
         "Exeggutor": 1,
         "Klefki": 3,
         "Lucario": 2,
@@ -992,8 +992,8 @@
         "Dracozolt": 1,
         "Unown e": 2
       },
-      "total_spawns": 11464,
-      "last_spawn": "2026-07-11T17:43:43.928530"
+      "total_spawns": 11470,
+      "last_spawn": "2026-07-11T17:44:23.951760"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1917,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 82580,
+    "total_spawns": 82586,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
