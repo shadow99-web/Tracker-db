@@ -709,7 +709,7 @@
         "Skiddo": 11,
         "Simisear": 10,
         "Hawlucha": 4,
-        "Stunky": 11,
+        "Stunky": 12,
         "Garbodor": 6,
         "Remoraid": 6,
         "Exeggcute": 8,
@@ -725,7 +725,7 @@
         "Sawk": 1,
         "Azumarill": 1,
         "Delphox": 2,
-        "Cranidos": 9,
+        "Cranidos": 10,
         "Tsareena": 4,
         "Chansey": 6,
         "Camerupt": 5,
@@ -898,7 +898,7 @@
         "Golem": 2,
         "Barraskewda": 1,
         "Crawdaunt": 3,
-        "Castform": 2,
+        "Castform": 3,
         "Chesnaught": 2,
         "Whiscash": 2,
         "Exploud": 2,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10977,
-      "last_spawn": "2026-07-11T16:25:43.597168"
+      "total_spawns": 10980,
+      "last_spawn": "2026-07-11T16:26:13.702215"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82093,
+    "total_spawns": 82096,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
