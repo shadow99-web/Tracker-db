@@ -70,7 +70,7 @@
         "Vulpix": 29,
         "Gastly": 86,
         "Aron": 49,
-        "Honedge": 68,
+        "Honedge": 69,
         "Houndour": 11,
         "Machop": 34,
         "Terapagos": 1,
@@ -119,7 +119,7 @@
         "Veluza": 82,
         "Panpour": 14,
         "Crabrawler": 7,
-        "Frogadier": 7,
+        "Frogadier": 8,
         "Scovillain": 9,
         "White plumage squawkabilly": 23,
         "Flaaffy": 6,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 7,
         "Charizard": 10,
-        "Axew": 103,
+        "Axew": 105,
         "Joltik": 12,
         "Gulpin": 8,
         "Mareanie": 9,
@@ -788,7 +788,7 @@
         "Porygon-z": 3,
         "Zapdos": 2,
         "Coalossal": 6,
-        "Steenee": 6,
+        "Steenee": 7,
         "Boltund": 3,
         "Weezing": 1,
         "Blue flower florges": 1,
@@ -994,8 +994,8 @@
         "Latias": 2,
         "Cryogonal": 2
       },
-      "total_spawns": 11614,
-      "last_spawn": "2026-07-11T18:03:23.701663"
+      "total_spawns": 11619,
+      "last_spawn": "2026-07-11T18:04:03.596097"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1919,7 +1919,7 @@
     }
   },
   "global": {
-    "total_spawns": 82730,
+    "total_spawns": 82735,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
