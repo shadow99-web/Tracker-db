@@ -111,7 +111,7 @@
         "Eevee": 30,
         "Dreepy": 77,
         "Treecko": 28,
-        "Shroodle": 37,
+        "Shroodle": 38,
         "Ride cyclizar": 11,
         "Swinub": 33,
         "Rattata": 28,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 6,
         "Charizard": 10,
-        "Axew": 95,
+        "Axew": 97,
         "Joltik": 10,
         "Gulpin": 7,
         "Mareanie": 8,
@@ -959,10 +959,11 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1,
         "Magcargo": 1,
-        "Miltank": 2
+        "Miltank": 2,
+        "Ribombee": 1
       },
-      "total_spawns": 9707,
-      "last_spawn": "2026-07-11T10:20:53.617277"
+      "total_spawns": 9711,
+      "last_spawn": "2026-07-11T10:21:23.667988"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1675,7 +1676,7 @@
     }
   },
   "global": {
-    "total_spawns": 75240,
+    "total_spawns": 75244,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
