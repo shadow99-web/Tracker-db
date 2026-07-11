@@ -48,7 +48,7 @@
         "Yanmega": 3,
         "Tympole": 37,
         "Grubbin": 39,
-        "Scatterbug": 41,
+        "Scatterbug": 42,
         "Skwovet": 17,
         "Applin": 9,
         "Staryu": 4,
@@ -159,7 +159,7 @@
         "Stantler": 17,
         "Impidimp": 63,
         "Swadloon": 11,
-        "Sunny castform": 4,
+        "Sunny castform": 5,
         "Vullaby": 8,
         "Venipede": 57,
         "Pansage": 13,
@@ -824,7 +824,7 @@
         "Gourgeist": 3,
         "Luxray": 2,
         "Gogoat": 2,
-        "Beedrill": 2,
+        "Beedrill": 3,
         "Sandslash": 4,
         "Pupitar": 6,
         "Zeraora": 2,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10878,
-      "last_spawn": "2026-07-11T15:20:13.636533"
+      "total_spawns": 10881,
+      "last_spawn": "2026-07-11T15:20:43.799042"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 81994,
+    "total_spawns": 81997,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
