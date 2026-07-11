@@ -43,7 +43,7 @@
         "Capsakid": 47,
         "Numel": 12,
         "Pawmo": 12,
-        "Wattrel": 41,
+        "Wattrel": 42,
         "Tadbulb": 51,
         "Yanmega": 3,
         "Tympole": 41,
@@ -53,7 +53,7 @@
         "Applin": 10,
         "Staryu": 4,
         "Maschiff": 37,
-        "Smoliv": 46,
+        "Smoliv": 47,
         "Tirtouga": 16,
         "Hatenna": 84,
         "Shroomish": 8,
@@ -154,7 +154,7 @@
         "Roggenrola": 58,
         "Litwick": 41,
         "Wooper": 9,
-        "Pikipek": 67,
+        "Pikipek": 69,
         "Spritzee": 9,
         "Stantler": 17,
         "Impidimp": 63,
@@ -991,8 +991,8 @@
         "Zygarde cell": 2,
         "Dracozolt": 1
       },
-      "total_spawns": 11422,
-      "last_spawn": "2026-07-11T17:32:23.660222"
+      "total_spawns": 11426,
+      "last_spawn": "2026-07-11T17:32:53.787783"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1916,7 +1916,7 @@
     }
   },
   "global": {
-    "total_spawns": 82538,
+    "total_spawns": 82542,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
