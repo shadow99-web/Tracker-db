@@ -29,7 +29,7 @@
         "Tynamo": 34,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 37,
+        "Pidgey": 38,
         "Binacle": 12,
         "Bounsweet": 74,
         "Fletchling": 46,
@@ -43,7 +43,7 @@
         "Capsakid": 37,
         "Numel": 12,
         "Pawmo": 11,
-        "Wattrel": 30,
+        "Wattrel": 31,
         "Tadbulb": 46,
         "Yanmega": 3,
         "Tympole": 35,
@@ -58,7 +58,7 @@
         "Hatenna": 76,
         "Shroomish": 6,
         "Lillipup": 45,
-        "Mosslax": 81,
+        "Mosslax": 82,
         "Maushold": 5,
         "Cubchoo": 31,
         "Koffing": 10,
@@ -164,8 +164,8 @@
         "Venipede": 54,
         "Pansage": 12,
         "Cetoddle": 33,
-        "Togepi": 46,
-        "Tandemaus": 32,
+        "Togepi": 47,
+        "Tandemaus": 33,
         "Clefairy": 8,
         "Unown q": 1,
         "Lotad": 34,
@@ -195,7 +195,7 @@
         "Dj rotom": 28,
         "Chef dente": 36,
         "Hisuian qwilfish": 1,
-        "Bagon": 44,
+        "Bagon": 46,
         "Pikachu": 22,
         "Tarountula": 39,
         "Rhyhorn": 45,
@@ -373,7 +373,7 @@
         "Duraludon": 10,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 34,
+        "Horsea": 35,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 4,
         "Quilava": 9,
-        "Wurmple": 54,
+        "Wurmple": 56,
         "Sandshrew": 12,
         "Tauros": 4,
         "Golurk": 2,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10189,
-      "last_spawn": "2026-07-11T11:24:23.708250"
+      "total_spawns": 10199,
+      "last_spawn": "2026-07-11T11:24:58.261213"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1843,7 +1843,7 @@
     }
   },
   "global": {
-    "total_spawns": 79028,
+    "total_spawns": 79038,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
