@@ -15,7 +15,7 @@
         "Vanillite": 92,
         "Weedle": 65,
         "Kabutops": 5,
-        "Poliwag": 37,
+        "Poliwag": 38,
         "Fidough": 45,
         "Charjabug": 3,
         "Hatterene": 9,
@@ -72,7 +72,7 @@
         "Aron": 44,
         "Honedge": 60,
         "Houndour": 9,
-        "Machop": 31,
+        "Machop": 32,
         "Terapagos": 1,
         "Mankey": 13,
         "Torterra": 1,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 5,
         "Quilava": 9,
-        "Wurmple": 62,
+        "Wurmple": 63,
         "Sandshrew": 12,
         "Tauros": 5,
         "Golurk": 3,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10893,
-      "last_spawn": "2026-07-11T15:22:33.786267"
+      "total_spawns": 10896,
+      "last_spawn": "2026-07-11T15:27:45.312550"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82009,
+    "total_spawns": 82012,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
