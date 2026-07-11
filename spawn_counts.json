@@ -58,7 +58,7 @@
         "Hatenna": 84,
         "Shroomish": 8,
         "Lillipup": 53,
-        "Mosslax": 91,
+        "Mosslax": 92,
         "Maushold": 7,
         "Cubchoo": 35,
         "Koffing": 11,
@@ -88,7 +88,7 @@
         "Drakloak": 21,
         "Victini": 1,
         "Pawmi": 92,
-        "Sandile": 87,
+        "Sandile": 89,
         "Charmeleon": 19,
         "Riolu": 26,
         "Gible": 60,
@@ -123,7 +123,7 @@
         "Scovillain": 10,
         "White plumage squawkabilly": 23,
         "Flaaffy": 6,
-        "Rookidee": 85,
+        "Rookidee": 86,
         "Flapple": 12,
         "Bronzor": 9,
         "Swirlix": 11,
@@ -429,7 +429,7 @@
         "Haunter": 13,
         "Dottler": 10,
         "Wailmer": 9,
-        "Frigibax": 107,
+        "Frigibax": 109,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 16,
@@ -1000,10 +1000,11 @@
         "Unown h": 2,
         "Regirock": 2,
         "Dipplin": 1,
-        "Shiftry": 1
+        "Shiftry": 1,
+        "Garganacl": 1
       },
-      "total_spawns": 11870,
-      "last_spawn": "2026-07-11T18:56:38.559948"
+      "total_spawns": 11877,
+      "last_spawn": "2026-07-11T18:57:18.228259"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1927,7 +1928,7 @@
     }
   },
   "global": {
-    "total_spawns": 82986,
+    "total_spawns": 82993,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
