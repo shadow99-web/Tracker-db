@@ -82,7 +82,7 @@
         "Bramblin": 23,
         "Stufful": 11,
         "Shelgon": 15,
-        "Marshtomp": 21,
+        "Marshtomp": 23,
         "Squirtle": 15,
         "Shinx": 84,
         "Drakloak": 17,
@@ -108,7 +108,7 @@
         "Tentacool": 7,
         "Bayleef": 11,
         "Magnezone": 3,
-        "Eevee": 28,
+        "Eevee": 29,
         "Dreepy": 77,
         "Treecko": 28,
         "Shroodle": 37,
@@ -432,7 +432,7 @@
         "Frigibax": 91,
         "Iron valiant": 2,
         "Ludicolo": 4,
-        "Scraggy": 10,
+        "Scraggy": 11,
         "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 6,
@@ -840,7 +840,7 @@
         "Shieldon": 4,
         "Araquanid": 6,
         "Glaceon": 4,
-        "Grumpig": 2,
+        "Grumpig": 3,
         "Roaring moon": 2,
         "Slowking": 2,
         "Kecleon": 2,
@@ -961,8 +961,8 @@
         "Magcargo": 1,
         "Miltank": 2
       },
-      "total_spawns": 9671,
-      "last_spawn": "2026-07-11T08:04:48.482473"
+      "total_spawns": 9676,
+      "last_spawn": "2026-07-11T08:05:28.427284"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1675,7 +1675,7 @@
     }
   },
   "global": {
-    "total_spawns": 75204,
+    "total_spawns": 75209,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
