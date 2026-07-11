@@ -110,7 +110,7 @@
         "Magnezone": 4,
         "Eevee": 32,
         "Dreepy": 89,
-        "Treecko": 30,
+        "Treecko": 32,
         "Shroodle": 51,
         "Ride cyclizar": 14,
         "Swinub": 34,
@@ -134,7 +134,7 @@
         "Torchic": 18,
         "Abomasnow": 9,
         "Slugma": 18,
-        "Venonat": 15,
+        "Venonat": 16,
         "Eelektrik": 8,
         "Diglett": 10,
         "Surskit": 11,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 42,
         "Mienshao": 3,
-        "Blipbug": 74,
+        "Blipbug": 76,
         "Rellor": 36,
         "Rolycoly": 52,
         "Poliwhirl": 12,
@@ -195,7 +195,7 @@
         "Dj rotom": 31,
         "Chef dente": 40,
         "Hisuian qwilfish": 1,
-        "Bagon": 56,
+        "Bagon": 57,
         "Pikachu": 24,
         "Tarountula": 51,
         "Rhyhorn": 52,
@@ -436,7 +436,7 @@
         "Stoutland": 3,
         "Elgyem": 12,
         "Dragonair": 8,
-        "Spheal": 40,
+        "Spheal": 41,
         "Amaura": 14,
         "Wailord": 4,
         "Accelgor": 4,
@@ -581,7 +581,7 @@
         "Probopass": 5,
         "Family of three maushold": 2,
         "Scyther": 32,
-        "Polteageist": 2,
+        "Polteageist": 3,
         "Lombre": 8,
         "Dachsbun": 11,
         "Primeape": 4,
@@ -1004,8 +1004,8 @@
         "Garganacl": 1,
         "Dugtrio": 2
       },
-      "total_spawns": 11967,
-      "last_spawn": "2026-07-11T19:08:08.410171"
+      "total_spawns": 11975,
+      "last_spawn": "2026-07-11T19:08:48.346417"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1929,7 +1929,7 @@
     }
   },
   "global": {
-    "total_spawns": 83083,
+    "total_spawns": 83091,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
