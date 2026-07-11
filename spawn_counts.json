@@ -44,7 +44,7 @@
         "Numel": 11,
         "Pawmo": 9,
         "Wattrel": 27,
-        "Tadbulb": 43,
+        "Tadbulb": 44,
         "Yanmega": 3,
         "Tympole": 30,
         "Grubbin": 33,
@@ -200,7 +200,7 @@
         "Tarountula": 35,
         "Rhyhorn": 43,
         "Aipom": 7,
-        "Grookey": 16,
+        "Grookey": 17,
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 13,
@@ -222,7 +222,7 @@
         "Duosion": 7,
         "Orthworm": 33,
         "Yamask": 8,
-        "Nymble": 33,
+        "Nymble": 34,
         "Snorunt": 9,
         "Carvanha": 6,
         "Toxel": 4,
@@ -922,7 +922,7 @@
         "Vaporeon": 4,
         "Hypno": 1,
         "Tyranitar": 2,
-        "Sensu oricorio": 1,
+        "Sensu oricorio": 2,
         "Blaziken": 2,
         "Clawitzer": 1,
         "Giratina": 2,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9488,
-      "last_spawn": "2026-07-11T07:43:18.227528"
+      "total_spawns": 9492,
+      "last_spawn": "2026-07-11T07:43:58.399063"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75021,
+    "total_spawns": 75025,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
