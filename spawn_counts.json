@@ -143,7 +143,7 @@
         "Spearow": 11,
         "Servine": 7,
         "Wugtrio": 13,
-        "Tranquill": 12,
+        "Tranquill": 13,
         "Cetitan": 11,
         "Turtwig": 24,
         "Fomantis": 10,
@@ -213,7 +213,7 @@
         "Drifloon": 8,
         "Mightyena": 6,
         "Sandaconda": 3,
-        "Froakie": 28,
+        "Froakie": 30,
         "Kingdra": 5,
         "Chikorita": 20,
         "Donphan": 7,
@@ -587,7 +587,7 @@
         "Primeape": 4,
         "Goldeen": 12,
         "Gouging fire": 2,
-        "Cottonee": 7,
+        "Cottonee": 8,
         "Flareon": 8,
         "Gengar": 6,
         "Spiritomb": 2,
@@ -992,8 +992,8 @@
         "Dracozolt": 1,
         "Unown e": 2
       },
-      "total_spawns": 11502,
-      "last_spawn": "2026-07-11T17:48:53.714584"
+      "total_spawns": 11506,
+      "last_spawn": "2026-07-11T17:49:23.727647"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1917,7 +1917,7 @@
     }
   },
   "global": {
-    "total_spawns": 82618,
+    "total_spawns": 82622,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
