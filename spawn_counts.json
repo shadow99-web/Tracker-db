@@ -29,7 +29,7 @@
         "Tynamo": 37,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 41,
+        "Pidgey": 42,
         "Binacle": 12,
         "Bounsweet": 80,
         "Fletchling": 47,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 32,
         "Vulpix": 27,
         "Gastly": 78,
-        "Aron": 44,
+        "Aron": 45,
         "Honedge": 60,
         "Houndour": 9,
         "Machop": 32,
@@ -145,7 +145,7 @@
         "Wugtrio": 12,
         "Tranquill": 12,
         "Cetitan": 11,
-        "Turtwig": 19,
+        "Turtwig": 20,
         "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 33,
@@ -698,7 +698,7 @@
         "Sneasel": 9,
         "Finneon": 5,
         "Pidgeotto": 7,
-        "Hakamo-o": 4,
+        "Hakamo-o": 5,
         "Spidops": 12,
         "Glimmora": 9,
         "Parasect": 4,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10920,
-      "last_spawn": "2026-07-11T15:59:14.011258"
+      "total_spawns": 10924,
+      "last_spawn": "2026-07-11T16:05:01.238218"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82036,
+    "total_spawns": 82040,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
