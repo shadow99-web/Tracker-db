@@ -146,7 +146,7 @@
         "Tranquill": 11,
         "Cetitan": 8,
         "Turtwig": 18,
-        "Fomantis": 9,
+        "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 30,
         "Butterfree": 5,
@@ -203,7 +203,7 @@
         "Grookey": 17,
         "Inkay": 6,
         "Unfezant": 4,
-        "Fraxure": 13,
+        "Fraxure": 15,
         "Zubat": 29,
         "Drowzee": 15,
         "Lechonk": 40,
@@ -305,7 +305,7 @@
         "Torracat": 9,
         "Geodude": 32,
         "Tentacruel": 1,
-        "Archen": 21,
+        "Archen": 23,
         "Blue plumage squawkabilly": 5,
         "Metang": 9,
         "Larvitar": 25,
@@ -524,7 +524,7 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 8,
-        "Golett": 7,
+        "Golett": 8,
         "Politoed": 13,
         "Droopy tatsugiri": 10,
         "Volcanion": 1,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9502,
-      "last_spawn": "2026-07-11T07:45:18.241837"
+      "total_spawns": 9508,
+      "last_spawn": "2026-07-11T07:45:58.144730"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75035,
+    "total_spawns": 75041,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
