@@ -35,7 +35,7 @@
         "Fletchling": 48,
         "Whirlipede": 11,
         "Duskull": 92,
-        "Abra": 45,
+        "Abra": 46,
         "Wiglett": 37,
         "Starly": 81,
         "Caterpie": 40,
@@ -610,7 +610,7 @@
         "Cinccino": 8,
         "Alolan vulpix": 2,
         "Glameow": 4,
-        "Zweilous": 6,
+        "Zweilous": 7,
         "Azurill": 5,
         "Oshawott": 8,
         "Malamar": 4,
@@ -752,7 +752,7 @@
         "Metapod": 11,
         "Lampent": 6,
         "Roselia": 5,
-        "Pineco": 7,
+        "Pineco": 8,
         "Maractus": 6,
         "Togetic": 8,
         "Bewear": 4,
@@ -993,8 +993,8 @@
         "Unown e": 2,
         "Latias": 2
       },
-      "total_spawns": 11538,
-      "last_spawn": "2026-07-11T17:53:43.951010"
+      "total_spawns": 11541,
+      "last_spawn": "2026-07-11T17:54:23.497845"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1918,7 +1918,7 @@
     }
   },
   "global": {
-    "total_spawns": 82654,
+    "total_spawns": 82657,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
