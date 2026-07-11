@@ -694,7 +694,7 @@
         "Furret": 6,
         "Helioptile": 7,
         "Salamence": 4,
-        "Meditite": 5,
+        "Meditite": 7,
         "Sneasel": 8,
         "Finneon": 5,
         "Pidgeotto": 6,
@@ -974,8 +974,8 @@
         "Palkia": 1,
         "Heatran": 1
       },
-      "total_spawns": 10500,
-      "last_spawn": "2026-07-11T13:42:59.709360"
+      "total_spawns": 10502,
+      "last_spawn": "2026-07-11T13:44:54.270773"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1087,7 +1087,7 @@
         "Braixen": 9,
         "Skwovet": 8,
         "Magnemite": 30,
-        "Impidimp": 56,
+        "Impidimp": 57,
         "Elgyem": 8,
         "Gastrodon": 1,
         "Shroodle": 41,
@@ -1332,7 +1332,7 @@
         "Cyndaquil": 12,
         "Thievul": 2,
         "Gengar": 3,
-        "Sunkern": 11,
+        "Sunkern": 12,
         "Wugtrio": 9,
         "Applin": 9,
         "Venipede": 43,
@@ -1493,7 +1493,7 @@
         "Raticate": 3,
         "Arbok": 3,
         "Ditto": 3,
-        "Alolan meowth": 2,
+        "Alolan meowth": 3,
         "Budew": 2,
         "Cascoon": 10,
         "Dottler": 6,
@@ -1813,7 +1813,7 @@
         "Krookodile": 2,
         "Hydreigon": 1,
         "Elekid": 2,
-        "Hisuian zorua": 1,
+        "Hisuian zorua": 2,
         "Type": 1,
         "Roselia": 6,
         "Hero palafin": 4,
@@ -1894,12 +1894,12 @@
         "Girafarig": 1,
         "Frost rotom": 1
       },
-      "total_spawns": 8568,
-      "last_spawn": "2026-07-11T13:44:42.887136"
+      "total_spawns": 8572,
+      "last_spawn": "2026-07-11T13:45:23.120688"
     }
   },
   "global": {
-    "total_spawns": 81607,
+    "total_spawns": 81613,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
