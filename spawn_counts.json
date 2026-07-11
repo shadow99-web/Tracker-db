@@ -37,7 +37,7 @@
         "Duskull": 88,
         "Abra": 42,
         "Wiglett": 33,
-        "Starly": 79,
+        "Starly": 81,
         "Caterpie": 38,
         "Mareep": 36,
         "Capsakid": 44,
@@ -197,7 +197,7 @@
         "Hisuian qwilfish": 1,
         "Bagon": 50,
         "Pikachu": 22,
-        "Tarountula": 43,
+        "Tarountula": 44,
         "Rhyhorn": 50,
         "Aipom": 9,
         "Grookey": 19,
@@ -787,7 +787,7 @@
         "Ariados": 1,
         "Porygon-z": 3,
         "Zapdos": 2,
-        "Coalossal": 3,
+        "Coalossal": 4,
         "Steenee": 6,
         "Boltund": 3,
         "Weezing": 1,
@@ -804,7 +804,7 @@
         "Masquerain": 4,
         "Salazzle": 3,
         "Heracross": 2,
-        "Carkol": 5,
+        "Carkol": 6,
         "Zygarde": 2,
         "Dewgong": 1,
         "Revavroom": 7,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11011,
-      "last_spawn": "2026-07-11T16:31:03.778517"
+      "total_spawns": 11016,
+      "last_spawn": "2026-07-11T16:31:33.795022"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82127,
+    "total_spawns": 82132,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
