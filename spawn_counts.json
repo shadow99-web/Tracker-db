@@ -12,7 +12,7 @@
         "Braixen": 13,
         "Oddish": 47,
         "Totodile": 16,
-        "Vanillite": 84,
+        "Vanillite": 86,
         "Weedle": 63,
         "Kabutops": 4,
         "Poliwag": 36,
@@ -23,7 +23,7 @@
         "Anorith": 12,
         "Arctibax": 10,
         "Ralts": 66,
-        "Peakychu": 45,
+        "Peakychu": 46,
         "Cutiefly": 13,
         "Simipour": 4,
         "Tynamo": 34,
@@ -34,13 +34,13 @@
         "Bounsweet": 74,
         "Fletchling": 46,
         "Whirlipede": 10,
-        "Duskull": 81,
+        "Duskull": 82,
         "Abra": 41,
         "Wiglett": 26,
         "Starly": 71,
         "Caterpie": 35,
         "Mareep": 34,
-        "Capsakid": 37,
+        "Capsakid": 38,
         "Numel": 12,
         "Pawmo": 11,
         "Wattrel": 32,
@@ -53,7 +53,7 @@
         "Applin": 8,
         "Staryu": 4,
         "Maschiff": 30,
-        "Smoliv": 40,
+        "Smoliv": 41,
         "Tirtouga": 13,
         "Hatenna": 76,
         "Shroomish": 6,
@@ -347,7 +347,7 @@
         "Chespin": 11,
         "Combee": 6,
         "Cyndaquil": 12,
-        "Grotle": 6,
+        "Grotle": 7,
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 8,
@@ -638,7 +638,7 @@
         "Unown k": 2,
         "Elekid": 3,
         "Chingling": 2,
-        "Tangela": 11,
+        "Tangela": 12,
         "Raticate": 7,
         "Weavile": 2,
         "Amped toxtricity": 2,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10211,
-      "last_spawn": "2026-07-11T11:25:58.397478"
+      "total_spawns": 10219,
+      "last_spawn": "2026-07-11T11:26:28.499657"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1843,7 +1843,7 @@
     }
   },
   "global": {
-    "total_spawns": 79050,
+    "total_spawns": 79058,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
