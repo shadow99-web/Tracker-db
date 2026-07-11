@@ -222,7 +222,7 @@
         "Duosion": 8,
         "Orthworm": 36,
         "Yamask": 8,
-        "Nymble": 41,
+        "Nymble": 42,
         "Snorunt": 11,
         "Carvanha": 7,
         "Toxel": 7,
@@ -295,7 +295,7 @@
         "Dartrix": 16,
         "Ceruledge": 9,
         "Vanillish": 11,
-        "Gimmighoul": 36,
+        "Gimmighoul": 37,
         "Glimmet": 29,
         "Popplio": 13,
         "Arboliva": 2,
@@ -577,7 +577,7 @@
         "Venusaur": 2,
         "Quaquaval": 1,
         "Boldore": 13,
-        "Skorupi": 8,
+        "Skorupi": 9,
         "Probopass": 5,
         "Family of three maushold": 2,
         "Scyther": 32,
@@ -729,7 +729,7 @@
         "Tsareena": 4,
         "Chansey": 6,
         "Camerupt": 5,
-        "Litten": 8,
+        "Litten": 9,
         "Gossifleur": 8,
         "Electivire": 3,
         "Farigiraf": 5,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11016,
-      "last_spawn": "2026-07-11T16:31:33.795022"
+      "total_spawns": 11020,
+      "last_spawn": "2026-07-11T16:32:13.587711"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82132,
+    "total_spawns": 82136,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
