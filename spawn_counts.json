@@ -14,7 +14,7 @@
         "Totodile": 16,
         "Vanillite": 92,
         "Weedle": 65,
-        "Kabutops": 4,
+        "Kabutops": 5,
         "Poliwag": 36,
         "Fidough": 44,
         "Charjabug": 3,
@@ -43,7 +43,7 @@
         "Capsakid": 40,
         "Numel": 12,
         "Pawmo": 11,
-        "Wattrel": 38,
+        "Wattrel": 39,
         "Tadbulb": 48,
         "Yanmega": 3,
         "Tympole": 37,
@@ -751,7 +751,7 @@
         "High plain vivillon": 1,
         "Metapod": 8,
         "Lampent": 6,
-        "Roselia": 4,
+        "Roselia": 5,
         "Pineco": 7,
         "Maractus": 4,
         "Togetic": 7,
@@ -821,7 +821,7 @@
         "Shaymin": 4,
         "Mantine": 2,
         "Iron bundle": 2,
-        "Gourgeist": 2,
+        "Gourgeist": 3,
         "Luxray": 2,
         "Gogoat": 2,
         "Beedrill": 2,
@@ -976,8 +976,8 @@
         "Ditto": 2,
         "Blade aegislash": 1
       },
-      "total_spawns": 10604,
-      "last_spawn": "2026-07-11T14:44:16.192599"
+      "total_spawns": 10608,
+      "last_spawn": "2026-07-11T14:44:53.720848"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1901,7 +1901,7 @@
     }
   },
   "global": {
-    "total_spawns": 81720,
+    "total_spawns": 81724,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
