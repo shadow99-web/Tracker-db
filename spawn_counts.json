@@ -99,7 +99,7 @@
         "Cyclizar": 15,
         "Froslass": 2,
         "Dodrio": 11,
-        "Metagross": 8,
+        "Metagross": 10,
         "Corphish": 10,
         "Doduo": 11,
         "Flittle": 49,
@@ -132,7 +132,7 @@
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 4,
         "Torchic": 18,
-        "Abomasnow": 7,
+        "Abomasnow": 9,
         "Slugma": 18,
         "Venonat": 15,
         "Eelektrik": 7,
@@ -326,7 +326,7 @@
         "Sunkern": 12,
         "Snubbull": 7,
         "Crocalor": 3,
-        "Magnemite": 38,
+        "Magnemite": 39,
         "Doublade": 9,
         "Sharpedo": 3,
         "Raboot": 11,
@@ -576,7 +576,7 @@
         "Murkrow": 6,
         "Venusaur": 2,
         "Quaquaval": 1,
-        "Boldore": 14,
+        "Boldore": 15,
         "Skorupi": 9,
         "Probopass": 5,
         "Family of three maushold": 2,
@@ -996,8 +996,8 @@
         "Alolan golem": 2,
         "Roserade": 1
       },
-      "total_spawns": 11710,
-      "last_spawn": "2026-07-11T18:35:18.626782"
+      "total_spawns": 11716,
+      "last_spawn": "2026-07-11T18:35:58.324832"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1921,7 +1921,7 @@
     }
   },
   "global": {
-    "total_spawns": 82826,
+    "total_spawns": 82832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
