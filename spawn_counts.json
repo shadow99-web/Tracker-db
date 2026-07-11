@@ -12,7 +12,7 @@
         "Braixen": 16,
         "Oddish": 47,
         "Totodile": 17,
-        "Vanillite": 94,
+        "Vanillite": 96,
         "Weedle": 67,
         "Kabutops": 5,
         "Poliwag": 38,
@@ -222,7 +222,7 @@
         "Duosion": 8,
         "Orthworm": 36,
         "Yamask": 8,
-        "Nymble": 42,
+        "Nymble": 43,
         "Snorunt": 11,
         "Carvanha": 7,
         "Toxel": 7,
@@ -825,7 +825,7 @@
         "Luxray": 3,
         "Gogoat": 2,
         "Beedrill": 3,
-        "Sandslash": 4,
+        "Sandslash": 5,
         "Pupitar": 6,
         "Zeraora": 2,
         "Cobalion": 2,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11053,
-      "last_spawn": "2026-07-11T16:40:43.612629"
+      "total_spawns": 11057,
+      "last_spawn": "2026-07-11T16:41:13.669086"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82169,
+    "total_spawns": 82173,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
