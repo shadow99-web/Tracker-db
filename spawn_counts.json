@@ -40,9 +40,9 @@
         "Starly": 83,
         "Caterpie": 40,
         "Mareep": 40,
-        "Capsakid": 49,
+        "Capsakid": 50,
         "Numel": 15,
-        "Pawmo": 14,
+        "Pawmo": 15,
         "Wattrel": 46,
         "Tadbulb": 51,
         "Yanmega": 4,
@@ -220,7 +220,7 @@
         "Shuppet": 16,
         "Graveler": 9,
         "Duosion": 8,
-        "Orthworm": 40,
+        "Orthworm": 41,
         "Yamask": 8,
         "Nymble": 47,
         "Snorunt": 11,
@@ -403,7 +403,7 @@
         "Litleo": 15,
         "Silcoon": 14,
         "Snivy": 10,
-        "Zorua": 20,
+        "Zorua": 22,
         "Minior": 1,
         "Darmanitan": 7,
         "Lopunny": 3,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12217,
-      "last_spawn": "2026-07-11T19:49:18.551017"
+      "total_spawns": 12222,
+      "last_spawn": "2026-07-11T19:49:58.259633"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83333,
+    "total_spawns": 83338,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
