@@ -119,9 +119,9 @@
         "Veluza": 74,
         "Panpour": 14,
         "Crabrawler": 6,
-        "Frogadier": 6,
+        "Frogadier": 7,
         "Scovillain": 9,
-        "White plumage squawkabilly": 22,
+        "White plumage squawkabilly": 23,
         "Flaaffy": 6,
         "Rookidee": 77,
         "Flapple": 12,
@@ -315,7 +315,7 @@
         "Petilil": 15,
         "Bombirdier": 39,
         "Bellibolt": 10,
-        "Toedscool": 34,
+        "Toedscool": 35,
         "Paras": 7,
         "Fletchinder": 18,
         "Staravia": 12,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 7,
         "Charizard": 10,
-        "Axew": 99,
+        "Axew": 101,
         "Joltik": 12,
         "Gulpin": 7,
         "Mareanie": 9,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10984,
-      "last_spawn": "2026-07-11T16:26:43.727387"
+      "total_spawns": 10989,
+      "last_spawn": "2026-07-11T16:27:23.719620"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82100,
+    "total_spawns": 82105,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
