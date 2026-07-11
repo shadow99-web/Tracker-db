@@ -42,7 +42,7 @@
         "Mareep": 40,
         "Capsakid": 49,
         "Numel": 15,
-        "Pawmo": 13,
+        "Pawmo": 14,
         "Wattrel": 46,
         "Tadbulb": 51,
         "Yanmega": 4,
@@ -127,7 +127,7 @@
         "Flapple": 14,
         "Bronzor": 10,
         "Swirlix": 11,
-        "Varoom": 78,
+        "Varoom": 80,
         "Ducklett": 11,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 4,
@@ -926,7 +926,7 @@
         "Blaziken": 2,
         "Clawitzer": 1,
         "Giratina": 3,
-        "Heliolisk": 2,
+        "Heliolisk": 3,
         "Skarmory": 4,
         "Beartic": 2,
         "Electrode": 2,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12182,
-      "last_spawn": "2026-07-11T19:44:38.534346"
+      "total_spawns": 12186,
+      "last_spawn": "2026-07-11T19:45:10.279214"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83298,
+    "total_spawns": 83302,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
