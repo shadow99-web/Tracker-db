@@ -89,14 +89,14 @@
         "Victini": 1,
         "Pawmi": 83,
         "Sandile": 75,
-        "Charmeleon": 17,
+        "Charmeleon": 19,
         "Riolu": 24,
         "Gible": 56,
         "Greavard": 76,
         "Snover": 17,
         "Piplup": 14,
         "Dondozo": 31,
-        "Cyclizar": 14,
+        "Cyclizar": 15,
         "Froslass": 2,
         "Dodrio": 9,
         "Metagross": 6,
@@ -408,7 +408,7 @@
         "Darmanitan": 7,
         "Lopunny": 3,
         "Chimchar": 13,
-        "Gligar": 9,
+        "Gligar": 10,
         "Quaxly": 16,
         "Spiky-eared pichu": 2,
         "Cradily": 8,
@@ -551,7 +551,7 @@
         "Mime jr.": 3,
         "Yungoos": 13,
         "Palpitoad": 10,
-        "Smeargle": 6,
+        "Smeargle": 7,
         "Appletun": 8,
         "Arrokuda": 7,
         "Toxapex": 6,
@@ -971,8 +971,8 @@
         "Galarian stunfisk": 2,
         "Tyrantrum": 2
       },
-      "total_spawns": 10460,
-      "last_spawn": "2026-07-11T12:01:23.743495"
+      "total_spawns": 10465,
+      "last_spawn": "2026-07-11T12:02:05.565577"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1861,7 +1861,7 @@
     }
   },
   "global": {
-    "total_spawns": 79919,
+    "total_spawns": 79924,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
