@@ -43,7 +43,7 @@
         "Capsakid": 49,
         "Numel": 15,
         "Pawmo": 13,
-        "Wattrel": 45,
+        "Wattrel": 46,
         "Tadbulb": 51,
         "Yanmega": 4,
         "Tympole": 44,
@@ -74,7 +74,7 @@
         "Houndour": 13,
         "Machop": 34,
         "Terapagos": 1,
-        "Mankey": 13,
+        "Mankey": 14,
         "Torterra": 3,
         "Salandit": 11,
         "Bruxish": 2,
@@ -84,7 +84,7 @@
         "Shelgon": 17,
         "Marshtomp": 27,
         "Squirtle": 17,
-        "Shinx": 92,
+        "Shinx": 94,
         "Drakloak": 21,
         "Victini": 1,
         "Pawmi": 92,
@@ -116,7 +116,7 @@
         "Swinub": 34,
         "Rattata": 32,
         "Stonjourner": 2,
-        "Veluza": 82,
+        "Veluza": 83,
         "Panpour": 14,
         "Crabrawler": 7,
         "Frogadier": 8,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12044,
-      "last_spawn": "2026-07-11T19:26:58.289362"
+      "total_spawns": 12049,
+      "last_spawn": "2026-07-11T19:27:38.100578"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83160,
+    "total_spawns": 83165,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
