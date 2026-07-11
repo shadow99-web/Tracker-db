@@ -94,7 +94,7 @@
         "Gible": 52,
         "Greavard": 72,
         "Snover": 17,
-        "Piplup": 12,
+        "Piplup": 13,
         "Dondozo": 28,
         "Cyclizar": 14,
         "Froslass": 2,
@@ -116,7 +116,7 @@
         "Swinub": 33,
         "Rattata": 27,
         "Stonjourner": 2,
-        "Veluza": 66,
+        "Veluza": 67,
         "Panpour": 10,
         "Crabrawler": 6,
         "Frogadier": 5,
@@ -157,7 +157,7 @@
         "Pikipek": 61,
         "Spritzee": 8,
         "Stantler": 16,
-        "Impidimp": 52,
+        "Impidimp": 53,
         "Swadloon": 10,
         "Sunny castform": 4,
         "Vullaby": 7,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 64,
         "Rellor": 26,
-        "Rolycoly": 43,
+        "Rolycoly": 44,
         "Poliwhirl": 10,
         "Lokix": 13,
         "Flamigo": 22,
@@ -212,7 +212,7 @@
         "Lileep": 9,
         "Drifloon": 7,
         "Mightyena": 6,
-        "Sandaconda": 1,
+        "Sandaconda": 3,
         "Froakie": 24,
         "Kingdra": 3,
         "Chikorita": 18,
@@ -327,7 +327,7 @@
         "Snubbull": 6,
         "Crocalor": 3,
         "Magnemite": 34,
-        "Doublade": 5,
+        "Doublade": 6,
         "Sharpedo": 1,
         "Raboot": 10,
         "Oinkologne": 6,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 32,
+        "Gothita": 33,
         "Solosis": 40,
         "Sandygast": 8,
         "Pidove": 28,
@@ -916,7 +916,7 @@
         "Avalugg": 1,
         "Carnivine": 2,
         "Yellow flower floette": 1,
-        "Medicham": 2,
+        "Medicham": 4,
         "Crobat": 2,
         "Dandy trim furfrou": 2,
         "Vaporeon": 4,
@@ -960,8 +960,8 @@
         "Mandibuzz": 1,
         "Magcargo": 1
       },
-      "total_spawns": 9599,
-      "last_spawn": "2026-07-11T07:57:53.555376"
+      "total_spawns": 9609,
+      "last_spawn": "2026-07-11T07:58:28.166042"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1674,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 75132,
+    "total_spawns": 75142,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
