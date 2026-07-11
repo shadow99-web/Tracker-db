@@ -137,7 +137,7 @@
         "Venonat": 15,
         "Eelektrik": 7,
         "Diglett": 9,
-        "Surskit": 10,
+        "Surskit": 11,
         "Seedot": 38,
         "Jigglypuff": 12,
         "Spearow": 10,
@@ -524,7 +524,7 @@
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 8,
-        "Golett": 9,
+        "Golett": 10,
         "Politoed": 13,
         "Droopy tatsugiri": 12,
         "Volcanion": 1,
@@ -587,7 +587,7 @@
         "Primeape": 4,
         "Goldeen": 12,
         "Gouging fire": 2,
-        "Cottonee": 6,
+        "Cottonee": 7,
         "Flareon": 8,
         "Gengar": 6,
         "Spiritomb": 2,
@@ -934,7 +934,7 @@
         "Ampharos": 2,
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2,
-        "White-striped basculin": 1,
+        "White-striped basculin": 2,
         "Annihilape": 2,
         "Victreebel": 1,
         "Galarian yamask": 2,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11347,
-      "last_spawn": "2026-07-11T17:21:34.302048"
+      "total_spawns": 11351,
+      "last_spawn": "2026-07-11T17:22:13.579207"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82463,
+    "total_spawns": 82467,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
