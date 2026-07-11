@@ -218,7 +218,7 @@
         "Chikorita": 19,
         "Donphan": 7,
         "Shuppet": 13,
-        "Graveler": 7,
+        "Graveler": 8,
         "Duosion": 7,
         "Orthworm": 35,
         "Yamask": 8,
@@ -357,7 +357,7 @@
         "Barboach": 5,
         "Nosepass": 5,
         "Electrike": 20,
-        "Hoppip": 42,
+        "Hoppip": 43,
         "Slowbro": 5,
         "Gholdengo": 8,
         "Trubbish": 12,
@@ -890,7 +890,7 @@
         "Continental vivillon": 1,
         "Ninetales": 2,
         "Stunfisk": 2,
-        "Escavalier": 1,
+        "Escavalier": 2,
         "Muk": 2,
         "Pirouette meloetta": 2,
         "Trash burmy": 1,
@@ -970,8 +970,8 @@
         "Defense deoxys": 2,
         "Galarian stunfisk": 2
       },
-      "total_spawns": 10361,
-      "last_spawn": "2026-07-11T11:45:13.719482"
+      "total_spawns": 10364,
+      "last_spawn": "2026-07-11T11:45:43.699969"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1037,7 +1037,7 @@
         "Beldum": 17,
         "Combee": 12,
         "Corphish": 10,
-        "Litten": 12,
+        "Litten": 13,
         "Infernape": 3,
         "Arboliva": 3,
         "Comfey": 3,
@@ -1083,7 +1083,7 @@
         "Braixen": 8,
         "Skwovet": 7,
         "Magnemite": 21,
-        "Impidimp": 44,
+        "Impidimp": 45,
         "Elgyem": 5,
         "Gastrodon": 1,
         "Shroodle": 28,
@@ -1773,7 +1773,7 @@
         "Scizor": 1,
         "Venomoth": 2,
         "Feraligatr": 2,
-        "Dragonite": 2,
+        "Dragonite": 3,
         "Masquerain": 2,
         "Trevenant": 2,
         "Sigilyph": 2,
@@ -1846,12 +1846,12 @@
         "Kingler": 2,
         "Annihilape": 1
       },
-      "total_spawns": 6559,
-      "last_spawn": "2026-07-11T11:34:17.905269"
+      "total_spawns": 6562,
+      "last_spawn": "2026-07-11T11:45:47.049520"
     }
   },
   "global": {
-    "total_spawns": 79459,
+    "total_spawns": 79465,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
