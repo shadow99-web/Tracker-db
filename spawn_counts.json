@@ -144,7 +144,7 @@
         "Servine": 5,
         "Wugtrio": 10,
         "Tranquill": 11,
-        "Cetitan": 8,
+        "Cetitan": 9,
         "Turtwig": 18,
         "Fomantis": 10,
         "Claydol": 2,
@@ -163,7 +163,7 @@
         "Vullaby": 7,
         "Venipede": 51,
         "Pansage": 11,
-        "Cetoddle": 29,
+        "Cetoddle": 30,
         "Togepi": 44,
         "Tandemaus": 30,
         "Clefairy": 8,
@@ -485,7 +485,7 @@
         "Lairon": 8,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 22,
+        "Mudkip": 23,
         "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
@@ -957,10 +957,11 @@
         "Incineroar": 1,
         "Hisuian voltorb": 2,
         "Alolan ninetales": 2,
-        "Mandibuzz": 1
+        "Mandibuzz": 1,
+        "Magcargo": 1
       },
-      "total_spawns": 9558,
-      "last_spawn": "2026-07-11T07:53:18.317899"
+      "total_spawns": 9562,
+      "last_spawn": "2026-07-11T07:53:58.168269"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 75091,
+    "total_spawns": 75095,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
