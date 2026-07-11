@@ -56,7 +56,7 @@
         "Smoliv": 43,
         "Tirtouga": 16,
         "Hatenna": 80,
-        "Shroomish": 6,
+        "Shroomish": 7,
         "Lillipup": 47,
         "Mosslax": 84,
         "Maushold": 5,
@@ -80,7 +80,7 @@
         "Bruxish": 2,
         "Orbeetle": 7,
         "Bramblin": 24,
-        "Stufful": 13,
+        "Stufful": 14,
         "Shelgon": 15,
         "Marshtomp": 23,
         "Squirtle": 16,
@@ -111,7 +111,7 @@
         "Eevee": 30,
         "Dreepy": 83,
         "Treecko": 28,
-        "Shroodle": 43,
+        "Shroodle": 44,
         "Ride cyclizar": 12,
         "Swinub": 34,
         "Rattata": 31,
@@ -397,7 +397,7 @@
         "Rabsca": 11,
         "Misdreavus": 10,
         "Cursola": 2,
-        "Carbink": 2,
+        "Carbink": 3,
         "Scorbunny": 9,
         "Dubwool": 4,
         "Litleo": 15,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10696,
-      "last_spawn": "2026-07-11T14:56:13.881440"
+      "total_spawns": 10700,
+      "last_spawn": "2026-07-11T14:56:53.494498"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81812,
+    "total_spawns": 81816,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
