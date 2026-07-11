@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 92,
         "Abra": 48,
-        "Wiglett": 37,
+        "Wiglett": 38,
         "Starly": 83,
         "Caterpie": 40,
         "Mareep": 39,
@@ -326,7 +326,7 @@
         "Sunkern": 12,
         "Snubbull": 7,
         "Crocalor": 3,
-        "Magnemite": 39,
+        "Magnemite": 40,
         "Doublade": 9,
         "Sharpedo": 3,
         "Raboot": 11,
@@ -996,10 +996,11 @@
         "Alolan golem": 2,
         "Roserade": 1,
         "Kartana": 2,
-        "Chatot": 1
+        "Chatot": 1,
+        "Unown h": 2
       },
-      "total_spawns": 11772,
-      "last_spawn": "2026-07-11T18:44:28.661857"
+      "total_spawns": 11776,
+      "last_spawn": "2026-07-11T18:45:08.611916"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1923,7 +1924,7 @@
     }
   },
   "global": {
-    "total_spawns": 82888,
+    "total_spawns": 82892,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
