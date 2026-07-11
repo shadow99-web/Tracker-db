@@ -58,7 +58,7 @@
         "Hatenna": 86,
         "Shroomish": 8,
         "Lillipup": 53,
-        "Mosslax": 94,
+        "Mosslax": 96,
         "Maushold": 7,
         "Cubchoo": 35,
         "Koffing": 11,
@@ -488,7 +488,7 @@
         "Mudkip": 28,
         "Galarian zapdos": 3,
         "Empoleon": 3,
-        "Voltorb": 10,
+        "Voltorb": 11,
         "Hitmonchan": 4,
         "Pidgeot": 5,
         "Alakazam": 10,
@@ -512,7 +512,7 @@
         "Liepard": 4,
         "Necrozma": 4,
         "Dewott": 12,
-        "Braviary": 8,
+        "Braviary": 10,
         "Low key toxtricity": 6,
         "Nidorina": 11,
         "Bronzong": 5,
@@ -622,7 +622,7 @@
         "Spoink": 12,
         "Dhelmise": 2,
         "Armaldo": 5,
-        "Krokorok": 12,
+        "Krokorok": 13,
         "Torkoal": 13,
         "Clamperl": 5,
         "Rampardos": 3,
@@ -817,7 +817,7 @@
         "Glalie": 2,
         "Talonflame": 3,
         "Silicobra": 5,
-        "Durant": 4,
+        "Durant": 5,
         "Shaymin": 4,
         "Mantine": 2,
         "Iron bundle": 2,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12206,
-      "last_spawn": "2026-07-11T19:48:08.627064"
+      "total_spawns": 12213,
+      "last_spawn": "2026-07-11T19:48:48.128289"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83322,
+    "total_spawns": 83329,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
