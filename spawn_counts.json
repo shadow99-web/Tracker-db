@@ -206,7 +206,7 @@
         "Fraxure": 19,
         "Zubat": 37,
         "Drowzee": 19,
-        "Lechonk": 50,
+        "Lechonk": 51,
         "Woobat": 11,
         "Skrelp": 13,
         "Lileep": 12,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 45,
-        "Jangmo-o": 32,
+        "Jangmo-o": 33,
         "Lunatone": 1,
         "Machoke": 18,
         "Luvdisc": 1,
@@ -254,7 +254,7 @@
         "Corvisquire": 14,
         "Croconaw": 12,
         "Makuhita": 8,
-        "Machamp": 4,
+        "Machamp": 5,
         "Primarina": 9,
         "Skeledirge": 4,
         "Taillow": 10,
@@ -718,7 +718,7 @@
         "Lycanroc": 3,
         "Dustox": 3,
         "Alolan grimer": 6,
-        "Ursaluna": 4,
+        "Ursaluna": 5,
         "Blastoise": 10,
         "Wormadam": 3,
         "Crustle": 4,
@@ -998,10 +998,11 @@
         "Kartana": 2,
         "Chatot": 1,
         "Unown h": 2,
-        "Regirock": 2
+        "Regirock": 2,
+        "Dipplin": 1
       },
-      "total_spawns": 11786,
-      "last_spawn": "2026-07-11T18:46:18.602609"
+      "total_spawns": 11791,
+      "last_spawn": "2026-07-11T18:46:58.252824"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1925,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 82902,
+    "total_spawns": 82907,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
