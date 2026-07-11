@@ -302,7 +302,7 @@
         "Luxio": 4,
         "Quaxwell": 4,
         "Swanna": 3,
-        "Torracat": 9,
+        "Torracat": 10,
         "Geodude": 38,
         "Tentacruel": 1,
         "Archen": 25,
@@ -714,12 +714,12 @@
         "Remoraid": 6,
         "Exeggcute": 8,
         "Dunsparce": 5,
-        "Sobble": 13,
+        "Sobble": 14,
         "Lycanroc": 3,
         "Dustox": 3,
         "Alolan grimer": 6,
         "Ursaluna": 4,
-        "Blastoise": 8,
+        "Blastoise": 10,
         "Wormadam": 3,
         "Crustle": 4,
         "Sawk": 1,
@@ -931,7 +931,7 @@
         "Beartic": 2,
         "Electrode": 2,
         "Cherrim": 1,
-        "Ampharos": 1,
+        "Ampharos": 2,
         "Blue-striped basculin": 1,
         "Summer sawsbuck": 2,
         "White-striped basculin": 1,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10954,
-      "last_spawn": "2026-07-11T16:22:55.305574"
+      "total_spawns": 10959,
+      "last_spawn": "2026-07-11T16:23:28.091100"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82070,
+    "total_spawns": 82075,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
