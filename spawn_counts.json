@@ -808,7 +808,7 @@
         "Zygarde": 2,
         "Dewgong": 1,
         "Revavroom": 6,
-        "Lunala": 1,
+        "Lunala": 3,
         "Sneasler": 6,
         "Swoobat": 3,
         "Morpeko": 2,
@@ -972,8 +972,8 @@
         "Tyrantrum": 2,
         "Purugly": 1
       },
-      "total_spawns": 10495,
-      "last_spawn": "2026-07-11T12:54:20.661864"
+      "total_spawns": 10497,
+      "last_spawn": "2026-07-11T13:41:05.915787"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -988,8 +988,8 @@
         "Rhyhorn": 41,
         "Mareep": 36,
         "Klink": 36,
-        "Nymble": 35,
-        "Porygon": 36,
+        "Nymble": 36,
+        "Porygon": 37,
         "Abra": 46,
         "Oddish": 39,
         "Dedenne": 3,
@@ -1035,7 +1035,7 @@
         "Grafaiai": 9,
         "Gastly": 47,
         "Orthworm": 31,
-        "Glimmet": 42,
+        "Glimmet": 43,
         "Beldum": 25,
         "Combee": 13,
         "Corphish": 12,
@@ -1103,7 +1103,7 @@
         "Starly": 41,
         "Popplio": 11,
         "Watchog": 3,
-        "Bounsweet": 52,
+        "Bounsweet": 53,
         "Flamigo": 30,
         "Stunky": 13,
         "Spinarak": 12,
@@ -1117,7 +1117,7 @@
         "Greninja": 2,
         "Dondozo": 35,
         "Lairon": 8,
-        "Zubat": 42,
+        "Zubat": 43,
         "Croagunk": 10,
         "Klawf": 32,
         "Lombre": 5,
@@ -1149,7 +1149,7 @@
         "Glameow": 16,
         "Swinub": 43,
         "Marshtomp": 10,
-        "Venonat": 12,
+        "Venonat": 13,
         "Aipom": 15,
         "Rellor": 37,
         "Hippopotas": 13,
@@ -1234,7 +1234,7 @@
         "Snover": 12,
         "Bayleef": 6,
         "Nosepass": 8,
-        "Scovillain": 16,
+        "Scovillain": 17,
         "Sliggoo": 10,
         "Silcoon": 11,
         "Tadbulb": 32,
@@ -1248,7 +1248,7 @@
         "Omastar": 3,
         "Surskit": 11,
         "Wooper": 5,
-        "Tatsugiri": 12,
+        "Tatsugiri": 13,
         "Oranguru": 4,
         "Kricketot": 5,
         "Golurk": 6,
@@ -1342,7 +1342,7 @@
         "Ponyta": 9,
         "Drifblim": 6,
         "Arcanine": 2,
-        "Lickitung": 8,
+        "Lickitung": 9,
         "Pyroar": 1,
         "Oshawott": 10,
         "Bisharp": 3,
@@ -1376,7 +1376,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 5,
-        "Fletchling": 48,
+        "Fletchling": 49,
         "Haunter": 9,
         "Sandshrew": 8,
         "Fletchinder": 7,
@@ -1519,7 +1519,7 @@
         "Pyukumuku": 2,
         "Hatterene": 4,
         "Cleffa": 2,
-        "Brambleghast": 6,
+        "Brambleghast": 7,
         "Victreebel": 2,
         "Vibrava": 9,
         "Yamper": 15,
@@ -1891,12 +1891,12 @@
         "Thundurus": 1,
         "Girafarig": 1
       },
-      "total_spawns": 8518,
-      "last_spawn": "2026-07-11T13:40:40.909933"
+      "total_spawns": 8529,
+      "last_spawn": "2026-07-11T13:41:11.071368"
     }
   },
   "global": {
-    "total_spawns": 81552,
+    "total_spawns": 81565,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
