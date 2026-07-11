@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 5,
         "Quilava": 13,
-        "Wurmple": 66,
+        "Wurmple": 68,
         "Sandshrew": 12,
         "Tauros": 5,
         "Golurk": 3,
@@ -605,7 +605,7 @@
         "Sinistea": 7,
         "Golbat": 10,
         "Amoonguss": 5,
-        "Herdier": 10,
+        "Herdier": 11,
         "Blissey": 8,
         "Cinccino": 8,
         "Alolan vulpix": 2,
@@ -764,7 +764,7 @@
         "Eldegoss": 4,
         "Pinsir": 4,
         "Ivysaur": 13,
-        "Pa'u oricorio": 1,
+        "Pa'u oricorio": 2,
         "Toucannon": 3,
         "Flygon": 5,
         "Archaludon": 1,
@@ -787,7 +787,7 @@
         "Ariados": 1,
         "Porygon-z": 3,
         "Zapdos": 2,
-        "Coalossal": 4,
+        "Coalossal": 6,
         "Steenee": 6,
         "Boltund": 3,
         "Weezing": 1,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11282,
-      "last_spawn": "2026-07-11T17:12:53.721832"
+      "total_spawns": 11288,
+      "last_spawn": "2026-07-11T17:13:34.563831"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82398,
+    "total_spawns": 82404,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
