@@ -55,7 +55,7 @@
         "Maschiff": 32,
         "Smoliv": 43,
         "Tirtouga": 13,
-        "Hatenna": 78,
+        "Hatenna": 80,
         "Shroomish": 6,
         "Lillipup": 47,
         "Mosslax": 82,
@@ -64,12 +64,12 @@
         "Koffing": 10,
         "Kirlia": 21,
         "Deino": 28,
-        "Dolliv": 10,
+        "Dolliv": 11,
         "Feebas": 16,
         "Prof tangrowth": 30,
         "Vulpix": 27,
         "Gastly": 72,
-        "Aron": 41,
+        "Aron": 42,
         "Honedge": 60,
         "Houndour": 8,
         "Machop": 31,
@@ -95,7 +95,7 @@
         "Greavard": 76,
         "Snover": 17,
         "Piplup": 13,
-        "Dondozo": 30,
+        "Dondozo": 31,
         "Cyclizar": 14,
         "Froslass": 2,
         "Dodrio": 9,
@@ -970,8 +970,8 @@
         "Defense deoxys": 2,
         "Galarian stunfisk": 2
       },
-      "total_spawns": 10407,
-      "last_spawn": "2026-07-11T11:53:33.591348"
+      "total_spawns": 10412,
+      "last_spawn": "2026-07-11T11:54:13.662945"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1860,7 +1860,7 @@
     }
   },
   "global": {
-    "total_spawns": 79866,
+    "total_spawns": 79871,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
