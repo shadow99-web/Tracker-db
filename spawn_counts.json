@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 16,
-        "Oddish": 47,
+        "Oddish": 48,
         "Totodile": 17,
         "Vanillite": 96,
         "Weedle": 67,
@@ -55,7 +55,7 @@
         "Maschiff": 37,
         "Smoliv": 46,
         "Tirtouga": 16,
-        "Hatenna": 82,
+        "Hatenna": 84,
         "Shroomish": 8,
         "Lillipup": 51,
         "Mosslax": 88,
@@ -407,7 +407,7 @@
         "Minior": 1,
         "Darmanitan": 7,
         "Lopunny": 3,
-        "Chimchar": 13,
+        "Chimchar": 14,
         "Gligar": 10,
         "Quaxly": 18,
         "Spiky-eared pichu": 2,
@@ -498,7 +498,7 @@
         "Drilbur": 6,
         "Leavanny": 1,
         "Magikarp": 13,
-        "Gardevoir": 14,
+        "Gardevoir": 16,
         "Kubfu": 1,
         "Tyrogue": 7,
         "Nuzleaf": 12,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11288,
-      "last_spawn": "2026-07-11T17:13:34.563831"
+      "total_spawns": 11294,
+      "last_spawn": "2026-07-11T17:14:13.576388"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82404,
+    "total_spawns": 82410,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
