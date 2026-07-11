@@ -1014,7 +1014,7 @@
         "Kleavor": 1,
         "Karrablast": 8,
         "Timburr": 35,
-        "Pidgey": 24,
+        "Pidgey": 25,
         "Gimmighoul": 29,
         "Cetoddle": 36,
         "Fidough": 30,
@@ -1056,7 +1056,7 @@
         "Trapinch": 33,
         "Hatenna": 31,
         "Drifloon": 13,
-        "Togepi": 31,
+        "Togepi": 32,
         "Snivy": 8,
         "Bellsprout": 35,
         "Scorbunny": 11,
@@ -1110,7 +1110,7 @@
         "Gligar": 10,
         "Cubone": 9,
         "Dracovish": 3,
-        "Deino": 25,
+        "Deino": 26,
         "Honedge": 32,
         "Litleo": 10,
         "Steelix": 3,
@@ -1154,7 +1154,7 @@
         "Rellor": 32,
         "Hippopotas": 11,
         "Chikorita": 16,
-        "Litwick": 39,
+        "Litwick": 40,
         "Metapod": 8,
         "Morgrem": 8,
         "Gorebyss": 2,
@@ -1278,7 +1278,7 @@
         "Pikachu": 3,
         "Yungoos": 7,
         "Luxio": 9,
-        "Frigibax": 35,
+        "Frigibax": 36,
         "Krokorok": 8,
         "Snorunt": 11,
         "Meganium": 1,
@@ -1376,7 +1376,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 4,
-        "Fletchling": 37,
+        "Fletchling": 38,
         "Haunter": 7,
         "Sandshrew": 7,
         "Fletchinder": 6,
@@ -1856,14 +1856,15 @@
         "Granbull": 2,
         "Cornerstone mask ogerpon": 1,
         "Alolan ninetales": 1,
-        "Yanmega": 1
+        "Yanmega": 1,
+        "Staraptor": 1
       },
-      "total_spawns": 7038,
-      "last_spawn": "2026-07-11T12:47:10.975925"
+      "total_spawns": 7045,
+      "last_spawn": "2026-07-11T12:47:51.227983"
     }
   },
   "global": {
-    "total_spawns": 80070,
+    "total_spawns": 80077,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
