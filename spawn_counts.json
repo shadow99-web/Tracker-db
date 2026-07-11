@@ -60,7 +60,7 @@
         "Lillipup": 50,
         "Mosslax": 86,
         "Maushold": 6,
-        "Cubchoo": 31,
+        "Cubchoo": 33,
         "Koffing": 11,
         "Kirlia": 27,
         "Deino": 32,
@@ -236,7 +236,7 @@
         "Shellos": 4,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 44,
+        "Whismur": 45,
         "Jangmo-o": 30,
         "Lunatone": 1,
         "Machoke": 17,
@@ -270,7 +270,7 @@
         "Slowpoke": 8,
         "Drizzile": 10,
         "Tinkatink": 38,
-        "Frillish": 4,
+        "Frillish": 5,
         "Plusle": 13,
         "Decidueye": 6,
         "Kricketot": 14,
@@ -983,10 +983,11 @@
         "Gumshoos": 2,
         "Carracosta": 1,
         "Pichu": 1,
-        "Rapidash": 2
+        "Rapidash": 2,
+        "Manectric": 1
       },
-      "total_spawns": 11097,
-      "last_spawn": "2026-07-11T16:48:23.899923"
+      "total_spawns": 11102,
+      "last_spawn": "2026-07-11T16:49:03.636021"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1910,7 +1911,7 @@
     }
   },
   "global": {
-    "total_spawns": 82213,
+    "total_spawns": 82218,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
