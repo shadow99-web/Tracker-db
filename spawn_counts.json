@@ -52,7 +52,7 @@
         "Skwovet": 17,
         "Applin": 9,
         "Staryu": 4,
-        "Maschiff": 33,
+        "Maschiff": 34,
         "Smoliv": 45,
         "Tirtouga": 16,
         "Hatenna": 82,
@@ -112,7 +112,7 @@
         "Dreepy": 85,
         "Treecko": 28,
         "Shroodle": 45,
-        "Ride cyclizar": 12,
+        "Ride cyclizar": 13,
         "Swinub": 34,
         "Rattata": 31,
         "Stonjourner": 2,
@@ -138,12 +138,12 @@
         "Eelektrik": 7,
         "Diglett": 9,
         "Surskit": 10,
-        "Seedot": 37,
+        "Seedot": 38,
         "Jigglypuff": 12,
         "Spearow": 10,
         "Servine": 7,
         "Wugtrio": 12,
-        "Tranquill": 11,
+        "Tranquill": 12,
         "Cetitan": 11,
         "Turtwig": 19,
         "Fomantis": 10,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10862,
-      "last_spawn": "2026-07-11T15:17:45.931832"
+      "total_spawns": 10866,
+      "last_spawn": "2026-07-11T15:18:23.642328"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 81978,
+    "total_spawns": 81982,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
