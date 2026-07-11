@@ -181,13 +181,13 @@
         "Beldum": 55,
         "Kadabra": 22,
         "Grovyle": 21,
-        "Dratini": 47,
+        "Dratini": 48,
         "Steelix": 4,
         "Sprigatito": 41,
         "Charcadet": 91,
         "Mudsdale": 10,
         "Meowth": 17,
-        "Charmander": 29,
+        "Charmander": 31,
         "Wimpod": 21,
         "Comfey": 13,
         "Diggersby": 3,
@@ -206,7 +206,7 @@
         "Fraxure": 19,
         "Zubat": 38,
         "Drowzee": 19,
-        "Lechonk": 51,
+        "Lechonk": 52,
         "Woobat": 11,
         "Skrelp": 13,
         "Lileep": 13,
@@ -436,7 +436,7 @@
         "Stoutland": 3,
         "Elgyem": 12,
         "Dragonair": 8,
-        "Spheal": 41,
+        "Spheal": 42,
         "Amaura": 14,
         "Wailord": 4,
         "Accelgor": 4,
@@ -1005,8 +1005,8 @@
         "Dugtrio": 2,
         "Deoxys": 2
       },
-      "total_spawns": 12000,
-      "last_spawn": "2026-07-11T19:12:19.983280"
+      "total_spawns": 12005,
+      "last_spawn": "2026-07-11T19:12:58.258455"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1930,7 +1930,7 @@
     }
   },
   "global": {
-    "total_spawns": 83116,
+    "total_spawns": 83121,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
