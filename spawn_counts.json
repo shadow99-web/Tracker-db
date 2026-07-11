@@ -23,7 +23,7 @@
         "Anorith": 12,
         "Arctibax": 12,
         "Ralts": 72,
-        "Peakychu": 55,
+        "Peakychu": 56,
         "Cutiefly": 13,
         "Simipour": 4,
         "Tynamo": 38,
@@ -286,7 +286,7 @@
         "Trash wormadam": 6,
         "Purrloin": 6,
         "Zigzagoon": 13,
-        "Quilladin": 9,
+        "Quilladin": 10,
         "Infernape": 4,
         "Noibat": 10,
         "Gothorita": 8,
@@ -991,10 +991,11 @@
         "Zygarde cell": 2,
         "Dracozolt": 1,
         "Unown e": 2,
-        "Latias": 2
+        "Latias": 2,
+        "Cryogonal": 2
       },
-      "total_spawns": 11553,
-      "last_spawn": "2026-07-11T17:56:03.545649"
+      "total_spawns": 11557,
+      "last_spawn": "2026-07-11T17:56:33.992294"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1918,7 +1919,7 @@
     }
   },
   "global": {
-    "total_spawns": 82669,
+    "total_spawns": 82673,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
