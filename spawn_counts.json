@@ -62,7 +62,7 @@
         "Maushold": 5,
         "Cubchoo": 31,
         "Koffing": 11,
-        "Kirlia": 23,
+        "Kirlia": 25,
         "Deino": 29,
         "Dolliv": 11,
         "Feebas": 16,
@@ -311,7 +311,7 @@
         "Larvitar": 26,
         "Lumineon": 3,
         "Kilowattrel": 8,
-        "Pumpkaboo": 7,
+        "Pumpkaboo": 8,
         "Petilil": 14,
         "Bombirdier": 37,
         "Bellibolt": 9,
@@ -379,7 +379,7 @@
         "Morelull": 10,
         "Unown": 3,
         "Poltchageist": 7,
-        "Slakoth": 41,
+        "Slakoth": 43,
         "Klink": 24,
         "Mesprit": 1,
         "Azelf": 2,
@@ -645,7 +645,7 @@
         "Scizor": 4,
         "Shiinotic": 17,
         "Simisage": 6,
-        "Cherubi": 8,
+        "Cherubi": 9,
         "Heatmor": 1,
         "Vikavolt": 5,
         "Eelektross": 2,
@@ -976,8 +976,8 @@
         "Ditto": 2,
         "Blade aegislash": 1
       },
-      "total_spawns": 10598,
-      "last_spawn": "2026-07-11T14:43:43.571028"
+      "total_spawns": 10604,
+      "last_spawn": "2026-07-11T14:44:16.192599"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1901,7 +1901,7 @@
     }
   },
   "global": {
-    "total_spawns": 81714,
+    "total_spawns": 81720,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
