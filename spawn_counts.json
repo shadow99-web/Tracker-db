@@ -133,7 +133,7 @@
         "Sandy burmy": 4,
         "Torchic": 17,
         "Abomasnow": 7,
-        "Slugma": 16,
+        "Slugma": 17,
         "Venonat": 15,
         "Eelektrik": 7,
         "Diglett": 9,
@@ -158,7 +158,7 @@
         "Spritzee": 9,
         "Stantler": 17,
         "Impidimp": 63,
-        "Swadloon": 11,
+        "Swadloon": 12,
         "Sunny castform": 5,
         "Vullaby": 8,
         "Venipede": 59,
@@ -446,7 +446,7 @@
         "Smearguru": 34,
         "Magneton": 7,
         "Battle cyclizar": 8,
-        "Minccino": 8,
+        "Minccino": 10,
         "Hippowdon": 2,
         "Gloom": 13,
         "Mew": 4,
@@ -988,10 +988,11 @@
         "Perrserker": 2,
         "Poliwrath": 1,
         "Golisopod": 2,
-        "Zygarde cell": 2
+        "Zygarde cell": 2,
+        "Dracozolt": 1
       },
-      "total_spawns": 11370,
-      "last_spawn": "2026-07-11T17:25:04.014977"
+      "total_spawns": 11375,
+      "last_spawn": "2026-07-11T17:25:43.572811"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1916,7 @@
     }
   },
   "global": {
-    "total_spawns": 82486,
+    "total_spawns": 82491,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
