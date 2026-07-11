@@ -38,7 +38,7 @@
         "Abra": 41,
         "Wiglett": 27,
         "Starly": 73,
-        "Caterpie": 37,
+        "Caterpie": 38,
         "Mareep": 35,
         "Capsakid": 40,
         "Numel": 12,
@@ -236,7 +236,7 @@
         "Shellos": 3,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 41,
+        "Whismur": 42,
         "Jangmo-o": 26,
         "Lunatone": 1,
         "Machoke": 16,
@@ -682,7 +682,7 @@
         "Wyrdeer": 4,
         "Ferroseed": 6,
         "Musharna": 3,
-        "Wingull": 6,
+        "Wingull": 7,
         "Magmar": 9,
         "Dedenne": 2,
         "Serperior": 3,
@@ -971,8 +971,8 @@
         "Galarian stunfisk": 2,
         "Tyrantrum": 2
       },
-      "total_spawns": 10437,
-      "last_spawn": "2026-07-11T11:57:53.509254"
+      "total_spawns": 10440,
+      "last_spawn": "2026-07-11T11:58:33.446435"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1861,7 +1861,7 @@
     }
   },
   "global": {
-    "total_spawns": 79896,
+    "total_spawns": 79899,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
