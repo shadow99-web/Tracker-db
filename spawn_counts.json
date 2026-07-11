@@ -43,12 +43,12 @@
         "Capsakid": 39,
         "Numel": 12,
         "Pawmo": 11,
-        "Wattrel": 33,
+        "Wattrel": 34,
         "Tadbulb": 46,
         "Yanmega": 3,
         "Tympole": 35,
         "Grubbin": 34,
-        "Scatterbug": 37,
+        "Scatterbug": 38,
         "Skwovet": 15,
         "Applin": 8,
         "Staryu": 4,
@@ -204,7 +204,7 @@
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 17,
-        "Zubat": 32,
+        "Zubat": 33,
         "Drowzee": 15,
         "Lechonk": 44,
         "Woobat": 9,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 40,
-        "Jangmo-o": 25,
+        "Jangmo-o": 26,
         "Lunatone": 1,
         "Machoke": 16,
         "Luvdisc": 1,
@@ -970,8 +970,8 @@
         "Defense deoxys": 2,
         "Galarian stunfisk": 2
       },
-      "total_spawns": 10320,
-      "last_spawn": "2026-07-11T11:39:13.782590"
+      "total_spawns": 10324,
+      "last_spawn": "2026-07-11T11:39:53.562759"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1851,7 +1851,7 @@
     }
   },
   "global": {
-    "total_spawns": 79418,
+    "total_spawns": 79422,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
