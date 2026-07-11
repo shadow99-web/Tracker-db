@@ -34,7 +34,7 @@
         "Bounsweet": 68,
         "Fletchling": 46,
         "Whirlipede": 10,
-        "Duskull": 72,
+        "Duskull": 74,
         "Abra": 41,
         "Wiglett": 24,
         "Starly": 69,
@@ -178,7 +178,7 @@
         "Flamigo": 22,
         "Bellsprout": 20,
         "Houndstone": 6,
-        "Beldum": 41,
+        "Beldum": 43,
         "Kadabra": 16,
         "Grovyle": 19,
         "Dratini": 41,
@@ -312,7 +312,7 @@
         "Lumineon": 2,
         "Kilowattrel": 7,
         "Pumpkaboo": 6,
-        "Petilil": 12,
+        "Petilil": 13,
         "Bombirdier": 33,
         "Bellibolt": 9,
         "Toedscool": 28,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 6,
         "Slakoth": 34,
-        "Klink": 21,
+        "Klink": 22,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 5,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9492,
-      "last_spawn": "2026-07-11T07:43:58.399063"
+      "total_spawns": 9498,
+      "last_spawn": "2026-07-11T07:44:38.269769"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75025,
+    "total_spawns": 75031,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
