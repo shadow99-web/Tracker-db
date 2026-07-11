@@ -13,7 +13,7 @@
         "Oddish": 47,
         "Totodile": 17,
         "Vanillite": 94,
-        "Weedle": 65,
+        "Weedle": 67,
         "Kabutops": 5,
         "Poliwag": 38,
         "Fidough": 45,
@@ -312,7 +312,7 @@
         "Lumineon": 3,
         "Kilowattrel": 8,
         "Pumpkaboo": 9,
-        "Petilil": 14,
+        "Petilil": 15,
         "Bombirdier": 38,
         "Bellibolt": 10,
         "Toedscool": 34,
@@ -501,7 +501,7 @@
         "Gardevoir": 14,
         "Kubfu": 1,
         "Tyrogue": 7,
-        "Nuzleaf": 11,
+        "Nuzleaf": 12,
         "Spinarak": 9,
         "Goomy": 30,
         "Breloom": 3,
@@ -597,7 +597,7 @@
         "Sandshrew": 12,
         "Tauros": 5,
         "Golurk": 3,
-        "Grimer": 8,
+        "Grimer": 9,
         "Frosmoth": 6,
         "Darumaka": 8,
         "Cubone": 9,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10945,
-      "last_spawn": "2026-07-11T16:21:44.081564"
+      "total_spawns": 10950,
+      "last_spawn": "2026-07-11T16:22:23.656917"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82061,
+    "total_spawns": 82066,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
