@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 45,
         "Binacle": 13,
-        "Bounsweet": 81,
+        "Bounsweet": 82,
         "Fletchling": 47,
         "Whirlipede": 11,
         "Duskull": 90,
@@ -70,7 +70,7 @@
         "Vulpix": 29,
         "Gastly": 82,
         "Aron": 45,
-        "Honedge": 62,
+        "Honedge": 64,
         "Houndour": 10,
         "Machop": 34,
         "Terapagos": 1,
@@ -84,7 +84,7 @@
         "Shelgon": 17,
         "Marshtomp": 25,
         "Squirtle": 17,
-        "Shinx": 90,
+        "Shinx": 92,
         "Drakloak": 19,
         "Victini": 1,
         "Pawmi": 87,
@@ -815,7 +815,7 @@
         "East sea shellos": 2,
         "Seaking": 4,
         "Glalie": 1,
-        "Talonflame": 2,
+        "Talonflame": 3,
         "Silicobra": 5,
         "Durant": 4,
         "Shaymin": 4,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11276,
-      "last_spawn": "2026-07-11T17:12:23.698493"
+      "total_spawns": 11282,
+      "last_spawn": "2026-07-11T17:12:53.721832"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82392,
+    "total_spawns": 82398,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
