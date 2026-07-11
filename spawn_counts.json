@@ -29,7 +29,7 @@
         "Tynamo": 36,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 39,
+        "Pidgey": 40,
         "Binacle": 12,
         "Bounsweet": 78,
         "Fletchling": 46,
@@ -44,7 +44,7 @@
         "Numel": 12,
         "Pawmo": 11,
         "Wattrel": 37,
-        "Tadbulb": 47,
+        "Tadbulb": 48,
         "Yanmega": 3,
         "Tympole": 37,
         "Grubbin": 37,
@@ -379,7 +379,7 @@
         "Morelull": 10,
         "Unown": 3,
         "Poltchageist": 7,
-        "Slakoth": 40,
+        "Slakoth": 41,
         "Klink": 24,
         "Mesprit": 1,
         "Azelf": 2,
@@ -973,10 +973,11 @@
         "Purugly": 1,
         "Palkia": 1,
         "Heatran": 1,
-        "Ditto": 2
+        "Ditto": 2,
+        "Blade aegislash": 1
       },
-      "total_spawns": 10584,
-      "last_spawn": "2026-07-11T14:41:44.739178"
+      "total_spawns": 10588,
+      "last_spawn": "2026-07-11T14:42:26.074176"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1900,7 +1901,7 @@
     }
   },
   "global": {
-    "total_spawns": 81700,
+    "total_spawns": 81704,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
