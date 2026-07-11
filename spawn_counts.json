@@ -53,7 +53,7 @@
         "Applin": 10,
         "Staryu": 4,
         "Maschiff": 37,
-        "Smoliv": 49,
+        "Smoliv": 50,
         "Tirtouga": 17,
         "Hatenna": 84,
         "Shroomish": 8,
@@ -173,7 +173,7 @@
         "Blipbug": 74,
         "Rellor": 35,
         "Rolycoly": 52,
-        "Poliwhirl": 11,
+        "Poliwhirl": 12,
         "Lokix": 15,
         "Flamigo": 29,
         "Bellsprout": 27,
@@ -299,7 +299,7 @@
         "Glimmet": 32,
         "Popplio": 14,
         "Arboliva": 2,
-        "Luxio": 6,
+        "Luxio": 7,
         "Quaxwell": 5,
         "Swanna": 3,
         "Torracat": 12,
@@ -373,7 +373,7 @@
         "Duraludon": 10,
         "Nidorino": 12,
         "Rayquaza": 15,
-        "Horsea": 42,
+        "Horsea": 43,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
@@ -999,10 +999,11 @@
         "Chatot": 1,
         "Unown h": 2,
         "Regirock": 2,
-        "Dipplin": 1
+        "Dipplin": 1,
+        "Shiftry": 1
       },
-      "total_spawns": 11856,
-      "last_spawn": "2026-07-11T18:54:53.485924"
+      "total_spawns": 11861,
+      "last_spawn": "2026-07-11T18:55:28.417850"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1926,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 82972,
+    "total_spawns": 82977,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
