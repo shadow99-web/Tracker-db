@@ -74,7 +74,7 @@
         "Houndour": 9,
         "Machop": 31,
         "Terapagos": 1,
-        "Mankey": 12,
+        "Mankey": 13,
         "Torterra": 1,
         "Salandit": 11,
         "Bruxish": 2,
@@ -282,7 +282,7 @@
         "Bulbasaur": 33,
         "Dewpider": 13,
         "Yellow plumage squawkabilly": 13,
-        "Hattrem": 10,
+        "Hattrem": 11,
         "Trash wormadam": 6,
         "Purrloin": 5,
         "Zigzagoon": 13,
@@ -357,7 +357,7 @@
         "Barboach": 5,
         "Nosepass": 7,
         "Electrike": 20,
-        "Hoppip": 43,
+        "Hoppip": 44,
         "Slowbro": 5,
         "Gholdengo": 8,
         "Trubbish": 13,
@@ -960,7 +960,7 @@
         "Mandibuzz": 1,
         "Magcargo": 1,
         "Miltank": 2,
-        "Ribombee": 2,
+        "Ribombee": 3,
         "Dragalge": 2,
         "Exeggutor": 1,
         "Klefki": 2,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10841,
-      "last_spawn": "2026-07-11T15:14:44.214658"
+      "total_spawns": 10845,
+      "last_spawn": "2026-07-11T15:15:24.037700"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 81957,
+    "total_spawns": 81961,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
