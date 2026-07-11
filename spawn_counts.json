@@ -37,7 +37,7 @@
         "Duskull": 88,
         "Abra": 42,
         "Wiglett": 31,
-        "Starly": 73,
+        "Starly": 74,
         "Caterpie": 38,
         "Mareep": 36,
         "Capsakid": 41,
@@ -289,11 +289,11 @@
         "Quilladin": 8,
         "Infernape": 4,
         "Noibat": 9,
-        "Gothorita": 7,
+        "Gothorita": 8,
         "Ekans": 7,
         "Brambleghast": 10,
         "Dartrix": 15,
-        "Ceruledge": 8,
+        "Ceruledge": 9,
         "Vanillish": 11,
         "Gimmighoul": 35,
         "Glimmet": 28,
@@ -355,7 +355,7 @@
         "Spinda": 1,
         "Phantump": 11,
         "Barboach": 5,
-        "Nosepass": 6,
+        "Nosepass": 7,
         "Electrike": 20,
         "Hoppip": 43,
         "Slowbro": 5,
@@ -981,8 +981,8 @@
         "Samurott": 1,
         "Dusknoir": 1
       },
-      "total_spawns": 10789,
-      "last_spawn": "2026-07-11T15:08:13.762906"
+      "total_spawns": 10793,
+      "last_spawn": "2026-07-11T15:08:53.495193"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1906,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 81905,
+    "total_spawns": 81909,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
