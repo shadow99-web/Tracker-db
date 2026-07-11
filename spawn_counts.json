@@ -29,7 +29,7 @@
         "Tynamo": 37,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 40,
+        "Pidgey": 41,
         "Binacle": 12,
         "Bounsweet": 80,
         "Fletchling": 46,
@@ -267,7 +267,7 @@
         "Chewtle": 9,
         "Onix": 14,
         "Dracovish": 3,
-        "Slowpoke": 7,
+        "Slowpoke": 8,
         "Drizzile": 10,
         "Tinkatink": 38,
         "Frillish": 4,
@@ -318,7 +318,7 @@
         "Toedscool": 34,
         "Paras": 7,
         "Fletchinder": 18,
-        "Staravia": 11,
+        "Staravia": 12,
         "Wishiwashi": 3,
         "Skitty": 15,
         "Finizen": 35,
@@ -364,7 +364,7 @@
         "Rockruff": 9,
         "Snowy castform": 2,
         "Dusclops": 14,
-        "Prinplup": 12,
+        "Prinplup": 14,
         "Kommo-o": 3,
         "Vigoroth": 9,
         "Gigalith": 3,
@@ -804,7 +804,7 @@
         "Masquerain": 4,
         "Salazzle": 3,
         "Heracross": 2,
-        "Carkol": 4,
+        "Carkol": 5,
         "Zygarde": 2,
         "Dewgong": 1,
         "Revavroom": 6,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10856,
-      "last_spawn": "2026-07-11T15:17:03.696721"
+      "total_spawns": 10862,
+      "last_spawn": "2026-07-11T15:17:45.931832"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 81972,
+    "total_spawns": 81978,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
