@@ -53,7 +53,7 @@
         "Applin": 10,
         "Staryu": 4,
         "Maschiff": 37,
-        "Smoliv": 47,
+        "Smoliv": 49,
         "Tirtouga": 16,
         "Hatenna": 84,
         "Shroomish": 8,
@@ -244,7 +244,7 @@
         "Fennekin": 23,
         "Milcery": 21,
         "Trumbeak": 10,
-        "Bonsly": 6,
+        "Bonsly": 7,
         "Growlithe": 7,
         "Rhydon": 9,
         "Ambipom": 4,
@@ -321,7 +321,7 @@
         "Staravia": 12,
         "Wishiwashi": 3,
         "Skitty": 17,
-        "Finizen": 35,
+        "Finizen": 36,
         "Swablu": 10,
         "Sunkern": 12,
         "Snubbull": 7,
@@ -837,7 +837,7 @@
         "Monferno": 8,
         "Smoochum": 1,
         "Drampa": 4,
-        "Shieldon": 7,
+        "Shieldon": 8,
         "Araquanid": 8,
         "Glaceon": 4,
         "Grumpig": 3,
@@ -994,10 +994,11 @@
         "Latias": 2,
         "Cryogonal": 2,
         "Alolan golem": 2,
-        "Roserade": 1
+        "Roserade": 1,
+        "Kartana": 2
       },
-      "total_spawns": 11719,
-      "last_spawn": "2026-07-11T18:36:28.688859"
+      "total_spawns": 11726,
+      "last_spawn": "2026-07-11T18:38:08.260387"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1921,7 +1922,7 @@
     }
   },
   "global": {
-    "total_spawns": 82835,
+    "total_spawns": 82842,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
