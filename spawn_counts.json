@@ -102,7 +102,7 @@
         "Metagross": 6,
         "Corphish": 10,
         "Doduo": 11,
-        "Flittle": 47,
+        "Flittle": 48,
         "Armarouge": 10,
         "Clauncher": 7,
         "Tentacool": 8,
@@ -476,7 +476,7 @@
         "Poipole": 1,
         "Alolan raichu": 2,
         "Hitmontop": 2,
-        "Pignite": 13,
+        "Pignite": 14,
         "Bunnelby": 9,
         "Complete zygarde": 3,
         "Mudbray": 17,
@@ -982,10 +982,11 @@
         "Dusknoir": 1,
         "Gumshoos": 2,
         "Carracosta": 1,
-        "Pichu": 1
+        "Pichu": 1,
+        "Rapidash": 1
       },
-      "total_spawns": 11061,
-      "last_spawn": "2026-07-11T16:41:53.761673"
+      "total_spawns": 11064,
+      "last_spawn": "2026-07-11T16:42:23.807904"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1910,7 @@
     }
   },
   "global": {
-    "total_spawns": 82177,
+    "total_spawns": 82180,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
