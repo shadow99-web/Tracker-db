@@ -35,7 +35,7 @@
         "Fletchling": 47,
         "Whirlipede": 11,
         "Duskull": 88,
-        "Abra": 43,
+        "Abra": 44,
         "Wiglett": 33,
         "Starly": 81,
         "Caterpie": 38,
@@ -111,7 +111,7 @@
         "Eevee": 30,
         "Dreepy": 85,
         "Treecko": 28,
-        "Shroodle": 46,
+        "Shroodle": 47,
         "Ride cyclizar": 13,
         "Swinub": 34,
         "Rattata": 31,
@@ -277,7 +277,7 @@
         "Ledyba": 12,
         "Chinchou": 9,
         "Eiscue": 1,
-        "Nacli": 33,
+        "Nacli": 34,
         "Pancham": 11,
         "Bulbasaur": 35,
         "Dewpider": 13,
@@ -592,7 +592,7 @@
         "Gengar": 6,
         "Spiritomb": 2,
         "Gurdurr": 5,
-        "Quilava": 11,
+        "Quilava": 13,
         "Wurmple": 66,
         "Sandshrew": 12,
         "Tauros": 5,
@@ -988,8 +988,8 @@
         "Perrserker": 2,
         "Poliwrath": 1
       },
-      "total_spawns": 11143,
-      "last_spawn": "2026-07-11T16:54:13.630290"
+      "total_spawns": 11148,
+      "last_spawn": "2026-07-11T16:54:53.656004"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1913,7 +1913,7 @@
     }
   },
   "global": {
-    "total_spawns": 82259,
+    "total_spawns": 82264,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
