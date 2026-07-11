@@ -49,7 +49,7 @@
         "Tympole": 44,
         "Grubbin": 41,
         "Scatterbug": 45,
-        "Skwovet": 17,
+        "Skwovet": 18,
         "Applin": 10,
         "Staryu": 4,
         "Maschiff": 37,
@@ -168,7 +168,7 @@
         "Tandemaus": 37,
         "Clefairy": 8,
         "Unown q": 1,
-        "Lotad": 41,
+        "Lotad": 42,
         "Mienshao": 3,
         "Blipbug": 74,
         "Rellor": 35,
@@ -443,7 +443,7 @@
         "Tyrunt": 5,
         "Hisuian typhlosion": 2,
         "Ponyta": 8,
-        "Smearguru": 35,
+        "Smearguru": 36,
         "Magneton": 7,
         "Battle cyclizar": 8,
         "Minccino": 16,
@@ -609,7 +609,7 @@
         "Blissey": 8,
         "Cinccino": 8,
         "Alolan vulpix": 2,
-        "Glameow": 4,
+        "Glameow": 5,
         "Zweilous": 7,
         "Azurill": 5,
         "Oshawott": 8,
@@ -998,8 +998,8 @@
         "Kartana": 2,
         "Chatot": 1
       },
-      "total_spawns": 11755,
-      "last_spawn": "2026-07-11T18:41:58.337515"
+      "total_spawns": 11759,
+      "last_spawn": "2026-07-11T18:42:38.326246"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1923,7 +1923,7 @@
     }
   },
   "global": {
-    "total_spawns": 82871,
+    "total_spawns": 82875,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
