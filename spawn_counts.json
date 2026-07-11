@@ -83,7 +83,7 @@
         "Stufful": 14,
         "Shelgon": 17,
         "Marshtomp": 25,
-        "Squirtle": 16,
+        "Squirtle": 17,
         "Shinx": 90,
         "Drakloak": 19,
         "Victini": 1,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 7,
         "Slakoth": 44,
-        "Klink": 25,
+        "Klink": 26,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 7,
@@ -897,10 +897,10 @@
         "Lanturn": 4,
         "Golem": 2,
         "Barraskewda": 1,
-        "Crawdaunt": 3,
+        "Crawdaunt": 4,
         "Castform": 3,
         "Chesnaught": 2,
-        "Whiscash": 2,
+        "Whiscash": 3,
         "Exploud": 2,
         "Staraptor": 1,
         "Galarian ponyta": 2,
@@ -988,8 +988,8 @@
         "Perrserker": 2,
         "Poliwrath": 1
       },
-      "total_spawns": 11155,
-      "last_spawn": "2026-07-11T16:56:03.736566"
+      "total_spawns": 11159,
+      "last_spawn": "2026-07-11T16:56:43.594640"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1913,7 +1913,7 @@
     }
   },
   "global": {
-    "total_spawns": 82271,
+    "total_spawns": 82275,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
