@@ -258,7 +258,7 @@
         "Primarina": 9,
         "Skeledirge": 3,
         "Taillow": 9,
-        "Watchog": 3,
+        "Watchog": 4,
         "Porygon": 38,
         "Wooloo": 12,
         "Mawile": 7,
@@ -295,7 +295,7 @@
         "Dartrix": 14,
         "Ceruledge": 8,
         "Vanillish": 11,
-        "Gimmighoul": 33,
+        "Gimmighoul": 35,
         "Glimmet": 27,
         "Popplio": 13,
         "Arboliva": 2,
@@ -487,7 +487,7 @@
         "Attack deoxys": 2,
         "Mudkip": 26,
         "Galarian zapdos": 3,
-        "Empoleon": 2,
+        "Empoleon": 3,
         "Voltorb": 6,
         "Hitmonchan": 4,
         "Pidgeot": 4,
@@ -692,7 +692,7 @@
         "Banette": 2,
         "Pachirisu": 2,
         "Furret": 6,
-        "Helioptile": 8,
+        "Helioptile": 9,
         "Salamence": 4,
         "Meditite": 7,
         "Sneasel": 9,
@@ -975,10 +975,11 @@
         "Heatran": 1,
         "Ditto": 2,
         "Blade aegislash": 1,
-        "Delibird": 1
+        "Delibird": 1,
+        "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10670,
-      "last_spawn": "2026-07-11T14:53:13.821762"
+      "total_spawns": 10677,
+      "last_spawn": "2026-07-11T14:53:53.522654"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1902,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81786,
+    "total_spawns": 81793,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
