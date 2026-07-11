@@ -116,7 +116,7 @@
         "Swinub": 33,
         "Rattata": 29,
         "Stonjourner": 2,
-        "Veluza": 70,
+        "Veluza": 72,
         "Panpour": 12,
         "Crabrawler": 6,
         "Frogadier": 5,
@@ -145,7 +145,7 @@
         "Wugtrio": 12,
         "Tranquill": 11,
         "Cetitan": 10,
-        "Turtwig": 18,
+        "Turtwig": 19,
         "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 32,
@@ -321,7 +321,7 @@
         "Staravia": 10,
         "Wishiwashi": 3,
         "Skitty": 15,
-        "Finizen": 34,
+        "Finizen": 35,
         "Swablu": 9,
         "Sunkern": 11,
         "Snubbull": 6,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10269,
-      "last_spawn": "2026-07-11T11:32:13.687968"
+      "total_spawns": 10273,
+      "last_spawn": "2026-07-11T11:32:43.715957"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1031,7 +1031,7 @@
         "Grimer": 6,
         "Grafaiai": 7,
         "Gastly": 37,
-        "Orthworm": 21,
+        "Orthworm": 22,
         "Glimmet": 34,
         "Beldum": 17,
         "Combee": 12,
@@ -1081,7 +1081,7 @@
         "Mosslax": 25,
         "Braixen": 8,
         "Skwovet": 7,
-        "Magnemite": 20,
+        "Magnemite": 21,
         "Impidimp": 44,
         "Elgyem": 5,
         "Gastrodon": 1,
@@ -1102,7 +1102,7 @@
         "Watchog": 3,
         "Bounsweet": 40,
         "Flamigo": 23,
-        "Stunky": 9,
+        "Stunky": 10,
         "Spinarak": 10,
         "Gligar": 9,
         "Cubone": 9,
@@ -1131,11 +1131,11 @@
         "Rapidash": 4,
         "Maschiff": 30,
         "Sensu oricorio": 5,
-        "Scatterbug": 30,
+        "Scatterbug": 31,
         "Taillow": 7,
         "Wimpod": 11,
         "Rookidee": 35,
-        "Shellos": 3,
+        "Shellos": 4,
         "Roaming gimmighoul": 16,
         "Grotle": 9,
         "Squawkabilly": 10,
@@ -1157,7 +1157,7 @@
         "Gorebyss": 2,
         "Quaxwell": 7,
         "Croconaw": 11,
-        "Smoliv": 29,
+        "Smoliv": 30,
         "Lechonk": 33,
         "Clodsire": 8,
         "Sandaconda": 1,
@@ -1199,7 +1199,7 @@
         "Clefairy": 13,
         "Grubbin": 34,
         "Dustox": 2,
-        "Chespin": 11,
+        "Chespin": 12,
         "Armarouge": 5,
         "Battle cyclizar": 12,
         "Bagon": 23,
@@ -1706,7 +1706,7 @@
         "Sunshine cherrim": 3,
         "Lanturn": 2,
         "Mandibuzz": 1,
-        "Ledyba": 8,
+        "Ledyba": 9,
         "Serperior": 2,
         "Chingling": 2,
         "Garganacl": 3,
@@ -1842,14 +1842,15 @@
         "Azurill": 1,
         "Mightyena": 1,
         "Seviper": 1,
-        "Kingler": 2
+        "Kingler": 2,
+        "Annihilape": 1
       },
-      "total_spawns": 6531,
-      "last_spawn": "2026-07-11T11:32:12.030402"
+      "total_spawns": 6540,
+      "last_spawn": "2026-07-11T11:32:42.956770"
     }
   },
   "global": {
-    "total_spawns": 79339,
+    "total_spawns": 79352,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
