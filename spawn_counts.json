@@ -40,7 +40,7 @@
         "Starly": 75,
         "Caterpie": 38,
         "Mareep": 36,
-        "Capsakid": 41,
+        "Capsakid": 42,
         "Numel": 12,
         "Pawmo": 12,
         "Wattrel": 40,
@@ -205,7 +205,7 @@
         "Unfezant": 4,
         "Fraxure": 17,
         "Zubat": 35,
-        "Drowzee": 15,
+        "Drowzee": 16,
         "Lechonk": 47,
         "Woobat": 9,
         "Skrelp": 12,
@@ -364,7 +364,7 @@
         "Rockruff": 9,
         "Snowy castform": 2,
         "Dusclops": 14,
-        "Prinplup": 11,
+        "Prinplup": 12,
         "Kommo-o": 3,
         "Vigoroth": 9,
         "Gigalith": 3,
@@ -424,7 +424,7 @@
         "Hoothoot": 9,
         "Girafarig": 2,
         "Summer deerling": 3,
-        "Seel": 12,
+        "Seel": 13,
         "Marowak": 4,
         "Haunter": 13,
         "Dottler": 10,
@@ -434,7 +434,7 @@
         "Ludicolo": 4,
         "Scraggy": 12,
         "Stoutland": 2,
-        "Elgyem": 7,
+        "Elgyem": 8,
         "Dragonair": 8,
         "Spheal": 35,
         "Amaura": 13,
@@ -981,8 +981,8 @@
         "Samurott": 1,
         "Dusknoir": 1
       },
-      "total_spawns": 10801,
-      "last_spawn": "2026-07-11T15:09:54.016599"
+      "total_spawns": 10806,
+      "last_spawn": "2026-07-11T15:10:25.452957"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1906,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 81917,
+    "total_spawns": 81922,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
