@@ -13,7 +13,7 @@
         "Oddish": 50,
         "Totodile": 18,
         "Vanillite": 104,
-        "Weedle": 69,
+        "Weedle": 71,
         "Kabutops": 6,
         "Poliwag": 41,
         "Fidough": 47,
@@ -353,7 +353,7 @@
         "Klang": 11,
         "Tepig": 16,
         "Spinda": 1,
-        "Phantump": 14,
+        "Phantump": 15,
         "Barboach": 5,
         "Nosepass": 7,
         "Electrike": 21,
@@ -526,7 +526,7 @@
         "Copperajah": 8,
         "Golett": 10,
         "Politoed": 13,
-        "Droopy tatsugiri": 12,
+        "Droopy tatsugiri": 13,
         "Volcanion": 1,
         "Drapion": 4,
         "Wartortle": 7,
@@ -1001,10 +1001,11 @@
         "Regirock": 2,
         "Dipplin": 1,
         "Shiftry": 1,
-        "Garganacl": 1
+        "Garganacl": 1,
+        "Dugtrio": 2
       },
-      "total_spawns": 11937,
-      "last_spawn": "2026-07-11T19:03:58.148741"
+      "total_spawns": 11943,
+      "last_spawn": "2026-07-11T19:04:28.924326"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1928,7 +1929,7 @@
     }
   },
   "global": {
-    "total_spawns": 83053,
+    "total_spawns": 83059,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
