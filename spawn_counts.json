@@ -46,7 +46,7 @@
         "Wattrel": 41,
         "Tadbulb": 51,
         "Yanmega": 3,
-        "Tympole": 40,
+        "Tympole": 41,
         "Grubbin": 39,
         "Scatterbug": 43,
         "Skwovet": 17,
@@ -402,7 +402,7 @@
         "Dubwool": 4,
         "Litleo": 15,
         "Silcoon": 14,
-        "Snivy": 9,
+        "Snivy": 10,
         "Zorua": 18,
         "Minior": 1,
         "Darmanitan": 7,
@@ -753,7 +753,7 @@
         "Lampent": 6,
         "Roselia": 5,
         "Pineco": 7,
-        "Maractus": 4,
+        "Maractus": 6,
         "Togetic": 7,
         "Bewear": 4,
         "Indeedee": 3,
@@ -826,7 +826,7 @@
         "Gogoat": 2,
         "Beedrill": 3,
         "Sandslash": 5,
-        "Pupitar": 6,
+        "Pupitar": 7,
         "Zeraora": 2,
         "Cobalion": 2,
         "Greedent": 4,
@@ -988,8 +988,8 @@
         "Perrserker": 2,
         "Poliwrath": 1
       },
-      "total_spawns": 11134,
-      "last_spawn": "2026-07-11T16:53:09.545607"
+      "total_spawns": 11139,
+      "last_spawn": "2026-07-11T16:53:43.571022"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1913,7 +1913,7 @@
     }
   },
   "global": {
-    "total_spawns": 82250,
+    "total_spawns": 82255,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
