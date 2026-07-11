@@ -231,7 +231,7 @@
         "Tangrowth": 2,
         "Sizzlipede": 10,
         "Skuntank": 2,
-        "Palafin": 8,
+        "Palafin": 9,
         "Timburr": 30,
         "Shellos": 3,
         "Arcanine": 1,
@@ -357,7 +357,7 @@
         "Barboach": 5,
         "Nosepass": 5,
         "Electrike": 18,
-        "Hoppip": 40,
+        "Hoppip": 41,
         "Slowbro": 5,
         "Gholdengo": 6,
         "Trubbish": 11,
@@ -498,7 +498,7 @@
         "Drilbur": 6,
         "Leavanny": 1,
         "Magikarp": 11,
-        "Gardevoir": 10,
+        "Gardevoir": 12,
         "Kubfu": 1,
         "Tyrogue": 6,
         "Nuzleaf": 11,
@@ -652,7 +652,7 @@
         "Bibarel": 2,
         "Debutante trim furfrou": 2,
         "Phanpy": 6,
-        "Patrat": 2,
+        "Patrat": 3,
         "Passimian": 3,
         "Jynx": 1,
         "Noctowl": 4,
@@ -882,7 +882,7 @@
         "Hisuian zoroark": 2,
         "Huntail": 2,
         "Vivillon": 1,
-        "Leafeon": 7,
+        "Leafeon": 8,
         "Sunshine cherrim": 2,
         "Cloyster": 4,
         "Cleffa": 1,
@@ -961,8 +961,8 @@
         "Magcargo": 1,
         "Miltank": 2
       },
-      "total_spawns": 9661,
-      "last_spawn": "2026-07-11T08:03:38.336803"
+      "total_spawns": 9667,
+      "last_spawn": "2026-07-11T08:04:18.346767"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1675,7 +1675,7 @@
     }
   },
   "global": {
-    "total_spawns": 75194,
+    "total_spawns": 75200,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
