@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 6,
         "Slakoth": 34,
-        "Klink": 20,
+        "Klink": 21,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 5,
@@ -485,7 +485,7 @@
         "Lairon": 8,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 21,
+        "Mudkip": 22,
         "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
@@ -696,7 +696,7 @@
         "Salamence": 4,
         "Meditite": 4,
         "Sneasel": 7,
-        "Finneon": 4,
+        "Finneon": 5,
         "Pidgeotto": 5,
         "Hakamo-o": 4,
         "Spidops": 9,
@@ -798,7 +798,7 @@
         "Cacnea": 5,
         "Sableye": 4,
         "Persian": 1,
-        "Toedscruel": 8,
+        "Toedscruel": 9,
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 4,
@@ -945,7 +945,7 @@
         "Feraligatr": 2,
         "Baxcalibur": 2,
         "Pom-pom oricorio": 1,
-        "Pyroar": 1,
+        "Pyroar": 2,
         "Walrein": 1,
         "Druddigon": 2,
         "Galarian mr. mime": 2,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9430,
-      "last_spawn": "2026-07-11T04:40:08.485673"
+      "total_spawns": 9435,
+      "last_spawn": "2026-07-11T04:40:48.309236"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74963,
+    "total_spawns": 74968,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
