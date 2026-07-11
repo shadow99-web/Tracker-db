@@ -26,7 +26,7 @@
         "Peakychu": 49,
         "Cutiefly": 13,
         "Simipour": 4,
-        "Tynamo": 36,
+        "Tynamo": 37,
         "Palossand": 4,
         "Pyukumuku": 1,
         "Pidgey": 40,
@@ -265,7 +265,7 @@
         "Marill": 10,
         "Lickitung": 7,
         "Chewtle": 9,
-        "Onix": 13,
+        "Onix": 14,
         "Dracovish": 3,
         "Slowpoke": 7,
         "Drizzile": 10,
@@ -313,7 +313,7 @@
         "Kilowattrel": 8,
         "Pumpkaboo": 8,
         "Petilil": 14,
-        "Bombirdier": 37,
+        "Bombirdier": 38,
         "Bellibolt": 9,
         "Toedscool": 34,
         "Paras": 7,
@@ -974,10 +974,11 @@
         "Palkia": 1,
         "Heatran": 1,
         "Ditto": 2,
-        "Blade aegislash": 1
+        "Blade aegislash": 1,
+        "Delibird": 1
       },
-      "total_spawns": 10655,
-      "last_spawn": "2026-07-11T14:51:03.684985"
+      "total_spawns": 10659,
+      "last_spawn": "2026-07-11T14:51:43.528097"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1901,7 +1902,7 @@
     }
   },
   "global": {
-    "total_spawns": 81771,
+    "total_spawns": 81775,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
