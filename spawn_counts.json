@@ -46,7 +46,7 @@
         "Wattrel": 37,
         "Tadbulb": 47,
         "Yanmega": 3,
-        "Tympole": 36,
+        "Tympole": 37,
         "Grubbin": 37,
         "Scatterbug": 39,
         "Skwovet": 17,
@@ -239,7 +239,7 @@
         "Whismur": 44,
         "Jangmo-o": 27,
         "Lunatone": 1,
-        "Machoke": 16,
+        "Machoke": 17,
         "Luvdisc": 1,
         "Fennekin": 22,
         "Milcery": 17,
@@ -732,7 +732,7 @@
         "Litten": 8,
         "Gossifleur": 8,
         "Electivire": 3,
-        "Farigiraf": 3,
+        "Farigiraf": 4,
         "Raichu": 2,
         "Meowstic": 3,
         "Zangoose": 2,
@@ -858,7 +858,7 @@
         "Delcatty": 2,
         "Whimsicott": 3,
         "Emolga": 6,
-        "Kabuto": 4,
+        "Kabuto": 5,
         "Clefable": 2,
         "Mr. mime": 4,
         "Munchlax": 4,
@@ -975,8 +975,8 @@
         "Heatran": 1,
         "Ditto": 2
       },
-      "total_spawns": 10576,
-      "last_spawn": "2026-07-11T14:40:33.897777"
+      "total_spawns": 10580,
+      "last_spawn": "2026-07-11T14:41:13.656077"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1900,7 +1900,7 @@
     }
   },
   "global": {
-    "total_spawns": 81692,
+    "total_spawns": 81696,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
