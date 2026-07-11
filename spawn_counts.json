@@ -187,7 +187,7 @@
         "Charcadet": 79,
         "Mudsdale": 10,
         "Meowth": 15,
-        "Charmander": 26,
+        "Charmander": 28,
         "Wimpod": 19,
         "Comfey": 11,
         "Diggersby": 3,
@@ -291,7 +291,7 @@
         "Noibat": 9,
         "Gothorita": 7,
         "Ekans": 7,
-        "Brambleghast": 9,
+        "Brambleghast": 10,
         "Dartrix": 14,
         "Ceruledge": 8,
         "Vanillish": 11,
@@ -437,7 +437,7 @@
         "Elgyem": 7,
         "Dragonair": 8,
         "Spheal": 34,
-        "Amaura": 12,
+        "Amaura": 13,
         "Wailord": 4,
         "Accelgor": 4,
         "Tyrunt": 5,
@@ -837,7 +837,7 @@
         "Monferno": 6,
         "Smoochum": 1,
         "Drampa": 4,
-        "Shieldon": 6,
+        "Shieldon": 7,
         "Araquanid": 6,
         "Glaceon": 4,
         "Grumpig": 3,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10681,
-      "last_spawn": "2026-07-11T14:54:23.618591"
+      "total_spawns": 10686,
+      "last_spawn": "2026-07-11T14:55:03.450711"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81797,
+    "total_spawns": 81802,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
