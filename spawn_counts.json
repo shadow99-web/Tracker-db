@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 88,
         "Abra": 42,
-        "Wiglett": 32,
+        "Wiglett": 33,
         "Starly": 79,
         "Caterpie": 38,
         "Mareep": 36,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 74,
         "Rellor": 34,
-        "Rolycoly": 49,
+        "Rolycoly": 50,
         "Poliwhirl": 10,
         "Lokix": 15,
         "Flamigo": 26,
@@ -183,7 +183,7 @@
         "Grovyle": 21,
         "Dratini": 43,
         "Steelix": 4,
-        "Sprigatito": 32,
+        "Sprigatito": 33,
         "Charcadet": 85,
         "Mudsdale": 10,
         "Meowth": 15,
@@ -559,7 +559,7 @@
         "Blitzle": 10,
         "Iron crown": 4,
         "Barbaracle": 6,
-        "Nidoqueen": 5,
+        "Nidoqueen": 6,
         "White flower florges": 1,
         "Hydreigon": 2,
         "Unown x": 2,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11000,
-      "last_spawn": "2026-07-11T16:29:03.506583"
+      "total_spawns": 11004,
+      "last_spawn": "2026-07-11T16:30:03.688291"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82116,
+    "total_spawns": 82120,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
