@@ -63,7 +63,7 @@
         "Cubchoo": 33,
         "Koffing": 11,
         "Kirlia": 27,
-        "Deino": 32,
+        "Deino": 33,
         "Dolliv": 11,
         "Feebas": 16,
         "Prof tangrowth": 32,
@@ -82,7 +82,7 @@
         "Bramblin": 25,
         "Stufful": 14,
         "Shelgon": 17,
-        "Marshtomp": 23,
+        "Marshtomp": 24,
         "Squirtle": 16,
         "Shinx": 90,
         "Drakloak": 19,
@@ -127,7 +127,7 @@
         "Flapple": 12,
         "Bronzor": 7,
         "Swirlix": 9,
-        "Varoom": 76,
+        "Varoom": 78,
         "Ducklett": 9,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 4,
@@ -907,7 +907,7 @@
         "Scrafty": 1,
         "Orange flower floette": 2,
         "Galarian meowth": 2,
-        "Stretchy tatsugiri": 6,
+        "Stretchy tatsugiri": 7,
         "Magmortar": 4,
         "Swalot": 4,
         "Arctozolt": 1,
@@ -987,8 +987,8 @@
         "Manectric": 1,
         "Perrserker": 2
       },
-      "total_spawns": 11117,
-      "last_spawn": "2026-07-11T16:50:43.846439"
+      "total_spawns": 11122,
+      "last_spawn": "2026-07-11T16:51:23.561773"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1912,7 +1912,7 @@
     }
   },
   "global": {
-    "total_spawns": 82233,
+    "total_spawns": 82238,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
