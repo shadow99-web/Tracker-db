@@ -458,7 +458,7 @@
         "Excadrill": 6,
         "Buizel": 6,
         "Pansear": 4,
-        "Yanma": 10,
+        "Yanma": 11,
         "Galarian moltres": 2,
         "Seismitoad": 8,
         "Galarian articuno": 1,
@@ -866,7 +866,7 @@
         "Meowscarada": 3,
         "Galarian corsola": 2,
         "Corsola": 1,
-        "Psyduck": 8,
+        "Psyduck": 10,
         "Typhlosion": 8,
         "Falinks": 2,
         "Scolipede": 2,
@@ -977,10 +977,11 @@
         "Blade aegislash": 1,
         "Delibird": 1,
         "Wellspring mask ogerpon": 2,
-        "Nidoking": 2
+        "Nidoking": 2,
+        "Samurott": 1
       },
-      "total_spawns": 10727,
-      "last_spawn": "2026-07-11T15:00:33.923264"
+      "total_spawns": 10731,
+      "last_spawn": "2026-07-11T15:01:08.451664"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1904,7 +1905,7 @@
     }
   },
   "global": {
-    "total_spawns": 81843,
+    "total_spawns": 81847,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
