@@ -92,7 +92,7 @@
         "Charmeleon": 17,
         "Riolu": 24,
         "Gible": 52,
-        "Greavard": 70,
+        "Greavard": 72,
         "Snover": 17,
         "Piplup": 12,
         "Dondozo": 27,
@@ -136,7 +136,7 @@
         "Slugma": 15,
         "Venonat": 13,
         "Eelektrik": 7,
-        "Diglett": 8,
+        "Diglett": 9,
         "Surskit": 10,
         "Seedot": 30,
         "Jigglypuff": 12,
@@ -539,7 +539,7 @@
         "Shuckle": 2,
         "White flower floette": 4,
         "Octillery": 5,
-        "Pawniard": 11,
+        "Pawniard": 12,
         "Brionne": 10,
         "Zarude": 2,
         "Yamper": 7,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9455,
-      "last_spawn": "2026-07-11T04:42:58.228243"
+      "total_spawns": 9459,
+      "last_spawn": "2026-07-11T04:43:30.757676"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74988,
+    "total_spawns": 74992,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
