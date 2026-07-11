@@ -34,7 +34,7 @@
         "Bounsweet": 74,
         "Fletchling": 46,
         "Whirlipede": 11,
-        "Duskull": 82,
+        "Duskull": 84,
         "Abra": 41,
         "Wiglett": 26,
         "Starly": 71,
@@ -132,7 +132,7 @@
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 3,
         "Torchic": 17,
-        "Abomasnow": 5,
+        "Abomasnow": 6,
         "Slugma": 16,
         "Venonat": 14,
         "Eelektrik": 7,
@@ -171,7 +171,7 @@
         "Lotad": 36,
         "Mienshao": 3,
         "Blipbug": 72,
-        "Rellor": 31,
+        "Rellor": 32,
         "Rolycoly": 45,
         "Poliwhirl": 10,
         "Lokix": 14,
@@ -967,10 +967,11 @@
         "Lucario": 2,
         "Alolan sandshrew": 2,
         "Fezandipiti": 2,
-        "Defense deoxys": 2
+        "Defense deoxys": 2,
+        "Galarian stunfisk": 2
       },
-      "total_spawns": 10309,
-      "last_spawn": "2026-07-11T11:38:07.211963"
+      "total_spawns": 10315,
+      "last_spawn": "2026-07-11T11:38:43.530031"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1850,7 +1851,7 @@
     }
   },
   "global": {
-    "total_spawns": 79407,
+    "total_spawns": 79413,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
