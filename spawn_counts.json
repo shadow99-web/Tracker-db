@@ -67,7 +67,7 @@
         "Dolliv": 11,
         "Feebas": 16,
         "Prof tangrowth": 33,
-        "Vulpix": 29,
+        "Vulpix": 31,
         "Gastly": 86,
         "Aron": 52,
         "Honedge": 72,
@@ -162,7 +162,7 @@
         "Sunny castform": 5,
         "Vullaby": 9,
         "Venipede": 60,
-        "Pansage": 14,
+        "Pansage": 15,
         "Cetoddle": 40,
         "Togepi": 57,
         "Tandemaus": 37,
@@ -198,13 +198,13 @@
         "Bagon": 56,
         "Pikachu": 24,
         "Tarountula": 51,
-        "Rhyhorn": 51,
+        "Rhyhorn": 52,
         "Aipom": 13,
         "Grookey": 19,
         "Inkay": 8,
         "Unfezant": 4,
         "Fraxure": 19,
-        "Zubat": 37,
+        "Zubat": 38,
         "Drowzee": 19,
         "Lechonk": 51,
         "Woobat": 11,
@@ -363,7 +363,7 @@
         "Trubbish": 13,
         "Rockruff": 9,
         "Snowy castform": 2,
-        "Dusclops": 14,
+        "Dusclops": 16,
         "Prinplup": 15,
         "Kommo-o": 3,
         "Vigoroth": 10,
@@ -983,7 +983,7 @@
         "Gumshoos": 2,
         "Carracosta": 1,
         "Pichu": 1,
-        "Rapidash": 2,
+        "Rapidash": 4,
         "Manectric": 1,
         "Perrserker": 2,
         "Poliwrath": 1,
@@ -1001,8 +1001,8 @@
         "Regirock": 2,
         "Dipplin": 1
       },
-      "total_spawns": 11825,
-      "last_spawn": "2026-07-11T18:51:33.551661"
+      "total_spawns": 11834,
+      "last_spawn": "2026-07-11T18:52:08.361982"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 82941,
+    "total_spawns": 82950,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
