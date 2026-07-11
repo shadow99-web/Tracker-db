@@ -13,7 +13,7 @@
         "Oddish": 54,
         "Totodile": 18,
         "Vanillite": 104,
-        "Weedle": 74,
+        "Weedle": 75,
         "Kabutops": 6,
         "Poliwag": 41,
         "Fidough": 47,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 35,
         "Vulpix": 31,
         "Gastly": 88,
-        "Aron": 52,
+        "Aron": 54,
         "Honedge": 72,
         "Houndour": 13,
         "Machop": 34,
@@ -79,7 +79,7 @@
         "Salandit": 11,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 33,
+        "Bramblin": 34,
         "Stufful": 14,
         "Shelgon": 17,
         "Marshtomp": 27,
@@ -281,7 +281,7 @@
         "Pancham": 12,
         "Bulbasaur": 35,
         "Dewpider": 15,
-        "Yellow plumage squawkabilly": 13,
+        "Yellow plumage squawkabilly": 14,
         "Hattrem": 12,
         "Trash wormadam": 6,
         "Purrloin": 6,
@@ -858,7 +858,7 @@
         "Delcatty": 2,
         "Whimsicott": 3,
         "Emolga": 6,
-        "Kabuto": 8,
+        "Kabuto": 9,
         "Clefable": 2,
         "Mr. mime": 4,
         "Munchlax": 4,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12146,
-      "last_spawn": "2026-07-11T19:40:18.059455"
+      "total_spawns": 12152,
+      "last_spawn": "2026-07-11T19:40:48.197892"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83262,
+    "total_spawns": 83268,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
