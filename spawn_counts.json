@@ -292,7 +292,7 @@
         "Gothorita": 7,
         "Ekans": 7,
         "Brambleghast": 10,
-        "Dartrix": 14,
+        "Dartrix": 15,
         "Ceruledge": 8,
         "Vanillish": 11,
         "Gimmighoul": 35,
@@ -373,7 +373,7 @@
         "Duraludon": 10,
         "Nidorino": 10,
         "Rayquaza": 15,
-        "Horsea": 37,
+        "Horsea": 38,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
@@ -450,7 +450,7 @@
         "Hippowdon": 2,
         "Gloom": 11,
         "Mew": 4,
-        "Thwackey": 7,
+        "Thwackey": 8,
         "Latios": 2,
         "Slurpuff": 2,
         "Espurr": 14,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10720,
-      "last_spawn": "2026-07-11T14:59:33.642928"
+      "total_spawns": 10723,
+      "last_spawn": "2026-07-11T15:00:03.849622"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81836,
+    "total_spawns": 81839,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
