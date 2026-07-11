@@ -58,7 +58,7 @@
         "Hatenna": 76,
         "Shroomish": 6,
         "Lillipup": 45,
-        "Mosslax": 80,
+        "Mosslax": 81,
         "Maushold": 5,
         "Cubchoo": 31,
         "Koffing": 10,
@@ -181,7 +181,7 @@
         "Beldum": 47,
         "Kadabra": 20,
         "Grovyle": 21,
-        "Dratini": 41,
+        "Dratini": 43,
         "Steelix": 4,
         "Sprigatito": 31,
         "Charcadet": 77,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 22,
         "Milcery": 17,
-        "Trumbeak": 8,
+        "Trumbeak": 9,
         "Bonsly": 5,
         "Growlithe": 6,
         "Rhydon": 8,
@@ -315,7 +315,7 @@
         "Petilil": 14,
         "Bombirdier": 35,
         "Bellibolt": 9,
-        "Toedscool": 32,
+        "Toedscool": 33,
         "Paras": 5,
         "Fletchinder": 16,
         "Staravia": 9,
@@ -825,7 +825,7 @@
         "Luxray": 2,
         "Gogoat": 2,
         "Beedrill": 2,
-        "Sandslash": 3,
+        "Sandslash": 4,
         "Pupitar": 6,
         "Zeraora": 2,
         "Cobalion": 2,
@@ -966,10 +966,11 @@
         "Klefki": 1,
         "Lucario": 2,
         "Alolan sandshrew": 2,
-        "Fezandipiti": 2
+        "Fezandipiti": 2,
+        "Defense deoxys": 2
       },
-      "total_spawns": 10181,
-      "last_spawn": "2026-07-11T11:23:53.556270"
+      "total_spawns": 10189,
+      "last_spawn": "2026-07-11T11:24:23.708250"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1842,7 +1843,7 @@
     }
   },
   "global": {
-    "total_spawns": 79020,
+    "total_spawns": 79028,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
