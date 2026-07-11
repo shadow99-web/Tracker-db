@@ -32,7 +32,7 @@
         "Pidgey": 49,
         "Binacle": 13,
         "Bounsweet": 84,
-        "Fletchling": 49,
+        "Fletchling": 50,
         "Whirlipede": 11,
         "Duskull": 92,
         "Abra": 47,
@@ -70,7 +70,7 @@
         "Vulpix": 29,
         "Gastly": 86,
         "Aron": 49,
-        "Honedge": 70,
+        "Honedge": 71,
         "Houndour": 11,
         "Machop": 34,
         "Terapagos": 1,
@@ -99,7 +99,7 @@
         "Cyclizar": 15,
         "Froslass": 2,
         "Dodrio": 11,
-        "Metagross": 6,
+        "Metagross": 8,
         "Corphish": 10,
         "Doduo": 11,
         "Flittle": 49,
@@ -173,7 +173,7 @@
         "Blipbug": 74,
         "Rellor": 35,
         "Rolycoly": 51,
-        "Poliwhirl": 10,
+        "Poliwhirl": 11,
         "Lokix": 15,
         "Flamigo": 29,
         "Bellsprout": 27,
@@ -995,8 +995,8 @@
         "Cryogonal": 2,
         "Alolan golem": 2
       },
-      "total_spawns": 11667,
-      "last_spawn": "2026-07-11T18:29:38.380949"
+      "total_spawns": 11672,
+      "last_spawn": "2026-07-11T18:30:23.000434"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1920,7 +1920,7 @@
     }
   },
   "global": {
-    "total_spawns": 82783,
+    "total_spawns": 82788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
