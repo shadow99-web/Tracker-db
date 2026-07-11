@@ -89,7 +89,7 @@
         "Victini": 1,
         "Pawmi": 77,
         "Sandile": 65,
-        "Charmeleon": 13,
+        "Charmeleon": 14,
         "Riolu": 24,
         "Gible": 52,
         "Greavard": 70,
@@ -116,7 +116,7 @@
         "Swinub": 33,
         "Rattata": 26,
         "Stonjourner": 2,
-        "Veluza": 63,
+        "Veluza": 64,
         "Panpour": 10,
         "Crabrawler": 6,
         "Frogadier": 5,
@@ -834,7 +834,7 @@
         "Drifblim": 2,
         "Togedemaru": 1,
         "Jellicent": 3,
-        "Monferno": 5,
+        "Monferno": 6,
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 4,
@@ -882,7 +882,7 @@
         "Hisuian zoroark": 2,
         "Huntail": 2,
         "Vivillon": 1,
-        "Leafeon": 4,
+        "Leafeon": 6,
         "Sunshine cherrim": 2,
         "Cloyster": 4,
         "Cleffa": 1,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9380,
-      "last_spawn": "2026-07-11T03:30:48.107295"
+      "total_spawns": 9385,
+      "last_spawn": "2026-07-11T03:31:20.322793"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74913,
+    "total_spawns": 74918,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
