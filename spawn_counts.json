@@ -165,7 +165,7 @@
         "Pansage": 13,
         "Cetoddle": 34,
         "Togepi": 48,
-        "Tandemaus": 34,
+        "Tandemaus": 35,
         "Clefairy": 8,
         "Unown q": 1,
         "Lotad": 38,
@@ -589,13 +589,13 @@
         "Gouging fire": 2,
         "Cottonee": 6,
         "Flareon": 8,
-        "Gengar": 4,
+        "Gengar": 6,
         "Spiritomb": 2,
         "Gurdurr": 5,
         "Quilava": 9,
         "Wurmple": 60,
         "Sandshrew": 12,
-        "Tauros": 4,
+        "Tauros": 5,
         "Golurk": 3,
         "Grimer": 7,
         "Frosmoth": 6,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10716,
-      "last_spawn": "2026-07-11T14:59:03.583398"
+      "total_spawns": 10720,
+      "last_spawn": "2026-07-11T14:59:33.642928"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81832,
+    "total_spawns": 81836,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
