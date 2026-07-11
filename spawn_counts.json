@@ -15,7 +15,7 @@
         "Vanillite": 76,
         "Weedle": 57,
         "Kabutops": 4,
-        "Poliwag": 32,
+        "Poliwag": 33,
         "Fidough": 41,
         "Charjabug": 3,
         "Hatterene": 7,
@@ -379,7 +379,7 @@
         "Morelull": 10,
         "Unown": 3,
         "Poltchageist": 6,
-        "Slakoth": 33,
+        "Slakoth": 34,
         "Klink": 20,
         "Mesprit": 1,
         "Azelf": 2,
@@ -485,7 +485,7 @@
         "Lairon": 8,
         "Altaria": 6,
         "Attack deoxys": 2,
-        "Mudkip": 20,
+        "Mudkip": 21,
         "Galarian zapdos": 3,
         "Empoleon": 1,
         "Voltorb": 6,
@@ -553,7 +553,7 @@
         "Palpitoad": 9,
         "Smeargle": 6,
         "Appletun": 8,
-        "Arrokuda": 6,
+        "Arrokuda": 7,
         "Toxapex": 4,
         "Pawmot": 2,
         "Blitzle": 8,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9426,
-      "last_spawn": "2026-07-11T04:39:18.599627"
+      "total_spawns": 9430,
+      "last_spawn": "2026-07-11T04:40:08.485673"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74959,
+    "total_spawns": 74963,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
