@@ -104,7 +104,7 @@
         "Doduo": 10,
         "Flittle": 41,
         "Armarouge": 8,
-        "Clauncher": 5,
+        "Clauncher": 6,
         "Tentacool": 7,
         "Bayleef": 11,
         "Magnezone": 3,
@@ -206,7 +206,7 @@
         "Fraxure": 15,
         "Zubat": 29,
         "Drowzee": 15,
-        "Lechonk": 40,
+        "Lechonk": 41,
         "Woobat": 7,
         "Skrelp": 11,
         "Lileep": 9,
@@ -426,7 +426,7 @@
         "Summer deerling": 3,
         "Seel": 11,
         "Marowak": 4,
-        "Haunter": 10,
+        "Haunter": 11,
         "Dottler": 10,
         "Wailmer": 9,
         "Frigibax": 89,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9508,
-      "last_spawn": "2026-07-11T07:45:58.144730"
+      "total_spawns": 9511,
+      "last_spawn": "2026-07-11T07:46:28.253527"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75041,
+    "total_spawns": 75044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
