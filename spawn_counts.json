@@ -61,7 +61,7 @@
         "Mosslax": 82,
         "Maushold": 5,
         "Cubchoo": 31,
-        "Koffing": 10,
+        "Koffing": 11,
         "Kirlia": 23,
         "Deino": 28,
         "Dolliv": 11,
@@ -95,7 +95,7 @@
         "Greavard": 76,
         "Snover": 17,
         "Piplup": 14,
-        "Dondozo": 31,
+        "Dondozo": 32,
         "Cyclizar": 15,
         "Froslass": 2,
         "Dodrio": 9,
@@ -222,7 +222,7 @@
         "Duosion": 8,
         "Orthworm": 36,
         "Yamask": 8,
-        "Nymble": 38,
+        "Nymble": 39,
         "Snorunt": 11,
         "Carvanha": 7,
         "Toxel": 6,
@@ -612,7 +612,7 @@
         "Glameow": 4,
         "Zweilous": 6,
         "Azurill": 5,
-        "Oshawott": 7,
+        "Oshawott": 8,
         "Malamar": 4,
         "Orange flower florges": 1,
         "Minun": 6,
@@ -973,10 +973,10 @@
         "Purugly": 1,
         "Palkia": 1,
         "Heatran": 1,
-        "Ditto": 1
+        "Ditto": 2
       },
-      "total_spawns": 10539,
-      "last_spawn": "2026-07-11T14:35:35.432425"
+      "total_spawns": 10544,
+      "last_spawn": "2026-07-11T14:36:13.867209"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1900,7 +1900,7 @@
     }
   },
   "global": {
-    "total_spawns": 81655,
+    "total_spawns": 81660,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
