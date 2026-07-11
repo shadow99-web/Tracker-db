@@ -68,7 +68,7 @@
         "Feebas": 16,
         "Prof tangrowth": 30,
         "Vulpix": 27,
-        "Gastly": 72,
+        "Gastly": 74,
         "Aron": 43,
         "Honedge": 60,
         "Houndour": 8,
@@ -161,9 +161,9 @@
         "Swadloon": 11,
         "Sunny castform": 4,
         "Vullaby": 7,
-        "Venipede": 55,
+        "Venipede": 56,
         "Pansage": 13,
-        "Cetoddle": 33,
+        "Cetoddle": 34,
         "Togepi": 48,
         "Tandemaus": 34,
         "Clefairy": 8,
@@ -969,10 +969,11 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2,
         "Galarian stunfisk": 2,
-        "Tyrantrum": 2
+        "Tyrantrum": 2,
+        "Purugly": 1
       },
-      "total_spawns": 10487,
-      "last_spawn": "2026-07-11T12:05:03.678550"
+      "total_spawns": 10492,
+      "last_spawn": "2026-07-11T12:05:59.973857"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1861,7 +1862,7 @@
     }
   },
   "global": {
-    "total_spawns": 79946,
+    "total_spawns": 79951,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
