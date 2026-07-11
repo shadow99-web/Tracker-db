@@ -13,7 +13,7 @@
         "Oddish": 43,
         "Totodile": 16,
         "Vanillite": 78,
-        "Weedle": 57,
+        "Weedle": 59,
         "Kabutops": 4,
         "Poliwag": 34,
         "Fidough": 41,
@@ -41,7 +41,7 @@
         "Caterpie": 34,
         "Mareep": 33,
         "Capsakid": 36,
-        "Numel": 11,
+        "Numel": 12,
         "Pawmo": 9,
         "Wattrel": 27,
         "Tadbulb": 44,
@@ -958,10 +958,11 @@
         "Hisuian voltorb": 2,
         "Alolan ninetales": 2,
         "Mandibuzz": 1,
-        "Magcargo": 1
+        "Magcargo": 1,
+        "Miltank": 1
       },
-      "total_spawns": 9640,
-      "last_spawn": "2026-07-11T08:00:38.321393"
+      "total_spawns": 9644,
+      "last_spawn": "2026-07-11T08:01:10.107692"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1674,7 +1675,7 @@
     }
   },
   "global": {
-    "total_spawns": 75173,
+    "total_spawns": 75177,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
