@@ -145,7 +145,7 @@
         "Wugtrio": 13,
         "Tranquill": 13,
         "Cetitan": 11,
-        "Turtwig": 24,
+        "Turtwig": 25,
         "Fomantis": 10,
         "Claydol": 2,
         "Trapinch": 34,
@@ -209,7 +209,7 @@
         "Lechonk": 51,
         "Woobat": 11,
         "Skrelp": 13,
-        "Lileep": 12,
+        "Lileep": 13,
         "Drifloon": 8,
         "Mightyena": 6,
         "Sandaconda": 3,
@@ -300,7 +300,7 @@
         "Popplio": 14,
         "Arboliva": 2,
         "Luxio": 6,
-        "Quaxwell": 4,
+        "Quaxwell": 5,
         "Swanna": 3,
         "Torracat": 12,
         "Geodude": 40,
@@ -332,7 +332,7 @@
         "Raboot": 11,
         "Oinkologne": 6,
         "Floragato": 7,
-        "Larvesta": 28,
+        "Larvesta": 29,
         "Magby": 2,
         "Roaming gimmighoul": 25,
         "Volcarona": 5,
@@ -350,7 +350,7 @@
         "Grotle": 7,
         "Tinkaton": 2,
         "Bergmite": 11,
-        "Klang": 10,
+        "Klang": 11,
         "Tepig": 16,
         "Spinda": 1,
         "Phantump": 11,
@@ -424,7 +424,7 @@
         "Hoothoot": 10,
         "Girafarig": 2,
         "Summer deerling": 3,
-        "Seel": 13,
+        "Seel": 14,
         "Marowak": 4,
         "Haunter": 13,
         "Dottler": 10,
@@ -585,7 +585,7 @@
         "Lombre": 8,
         "Dachsbun": 11,
         "Primeape": 4,
-        "Goldeen": 12,
+        "Goldeen": 13,
         "Gouging fire": 2,
         "Cottonee": 9,
         "Flareon": 8,
@@ -1001,8 +1001,8 @@
         "Regirock": 2,
         "Dipplin": 1
       },
-      "total_spawns": 11842,
-      "last_spawn": "2026-07-11T18:52:48.310213"
+      "total_spawns": 11849,
+      "last_spawn": "2026-07-11T18:53:28.264379"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1926,7 +1926,7 @@
     }
   },
   "global": {
-    "total_spawns": 82958,
+    "total_spawns": 82965,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
