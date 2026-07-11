@@ -140,7 +140,7 @@
         "Surskit": 10,
         "Seedot": 30,
         "Jigglypuff": 12,
-        "Spearow": 9,
+        "Spearow": 10,
         "Servine": 5,
         "Wugtrio": 10,
         "Tranquill": 11,
@@ -343,7 +343,7 @@
         "Gothita": 31,
         "Solosis": 39,
         "Sandygast": 8,
-        "Pidove": 26,
+        "Pidove": 27,
         "Chespin": 11,
         "Combee": 6,
         "Cyndaquil": 11,
@@ -867,7 +867,7 @@
         "Galarian corsola": 2,
         "Corsola": 1,
         "Psyduck": 6,
-        "Typhlosion": 6,
+        "Typhlosion": 8,
         "Falinks": 2,
         "Scolipede": 2,
         "Centiskorch": 2,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9528,
-      "last_spawn": "2026-07-11T07:48:58.581597"
+      "total_spawns": 9532,
+      "last_spawn": "2026-07-11T07:49:28.608387"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75061,
+    "total_spawns": 75065,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
