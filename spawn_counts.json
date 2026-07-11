@@ -251,7 +251,7 @@
         "Solrock": 1,
         "Tinkatuff": 9,
         "Drednaw": 5,
-        "Corvisquire": 13,
+        "Corvisquire": 14,
         "Croconaw": 12,
         "Makuhita": 8,
         "Machamp": 3,
@@ -290,7 +290,7 @@
         "Infernape": 4,
         "Noibat": 10,
         "Gothorita": 8,
-        "Ekans": 8,
+        "Ekans": 9,
         "Brambleghast": 11,
         "Dartrix": 16,
         "Ceruledge": 9,
@@ -723,14 +723,14 @@
         "Wormadam": 3,
         "Crustle": 4,
         "Sawk": 1,
-        "Azumarill": 2,
+        "Azumarill": 3,
         "Delphox": 2,
         "Cranidos": 11,
         "Tsareena": 5,
         "Chansey": 6,
         "Camerupt": 5,
         "Litten": 12,
-        "Gossifleur": 10,
+        "Gossifleur": 11,
         "Electivire": 3,
         "Farigiraf": 5,
         "Raichu": 2,
@@ -997,8 +997,8 @@
         "Roserade": 1,
         "Kartana": 2
       },
-      "total_spawns": 11738,
-      "last_spawn": "2026-07-11T18:39:38.426627"
+      "total_spawns": 11742,
+      "last_spawn": "2026-07-11T18:40:18.208162"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1922,7 +1922,7 @@
     }
   },
   "global": {
-    "total_spawns": 82854,
+    "total_spawns": 82858,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
