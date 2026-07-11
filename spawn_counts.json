@@ -50,7 +50,7 @@
         "Grubbin": 40,
         "Scatterbug": 44,
         "Skwovet": 17,
-        "Applin": 9,
+        "Applin": 10,
         "Staryu": 4,
         "Maschiff": 37,
         "Smoliv": 46,
@@ -163,7 +163,7 @@
         "Vullaby": 8,
         "Venipede": 60,
         "Pansage": 14,
-        "Cetoddle": 37,
+        "Cetoddle": 38,
         "Togepi": 53,
         "Tandemaus": 37,
         "Clefairy": 8,
@@ -341,7 +341,7 @@
         "Ursaring": 5,
         "Bidoof": 4,
         "Gothita": 41,
-        "Solosis": 49,
+        "Solosis": 50,
         "Sandygast": 9,
         "Pidove": 35,
         "Chespin": 13,
@@ -991,8 +991,8 @@
         "Zygarde cell": 2,
         "Dracozolt": 1
       },
-      "total_spawns": 11419,
-      "last_spawn": "2026-07-11T17:31:53.518652"
+      "total_spawns": 11422,
+      "last_spawn": "2026-07-11T17:32:23.660222"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1916,7 +1916,7 @@
     }
   },
   "global": {
-    "total_spawns": 82535,
+    "total_spawns": 82538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
