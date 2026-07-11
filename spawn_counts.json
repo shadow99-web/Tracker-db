@@ -41,7 +41,7 @@
         "Caterpie": 40,
         "Mareep": 39,
         "Capsakid": 47,
-        "Numel": 12,
+        "Numel": 13,
         "Pawmo": 13,
         "Wattrel": 44,
         "Tadbulb": 51,
@@ -70,7 +70,7 @@
         "Vulpix": 29,
         "Gastly": 86,
         "Aron": 49,
-        "Honedge": 69,
+        "Honedge": 70,
         "Houndour": 11,
         "Machop": 34,
         "Terapagos": 1,
@@ -436,7 +436,7 @@
         "Stoutland": 3,
         "Elgyem": 12,
         "Dragonair": 8,
-        "Spheal": 39,
+        "Spheal": 40,
         "Amaura": 14,
         "Wailord": 4,
         "Accelgor": 4,
@@ -730,7 +730,7 @@
         "Chansey": 6,
         "Camerupt": 5,
         "Litten": 12,
-        "Gossifleur": 9,
+        "Gossifleur": 10,
         "Electivire": 3,
         "Farigiraf": 5,
         "Raichu": 2,
@@ -833,7 +833,7 @@
         "Galvantula": 1,
         "Drifblim": 2,
         "Togedemaru": 1,
-        "Jellicent": 3,
+        "Jellicent": 4,
         "Monferno": 8,
         "Smoochum": 1,
         "Drampa": 4,
@@ -994,8 +994,8 @@
         "Latias": 2,
         "Cryogonal": 2
       },
-      "total_spawns": 11619,
-      "last_spawn": "2026-07-11T18:04:03.596097"
+      "total_spawns": 11624,
+      "last_spawn": "2026-07-11T18:21:51.982810"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1919,7 +1919,7 @@
     }
   },
   "global": {
-    "total_spawns": 82735,
+    "total_spawns": 82740,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
