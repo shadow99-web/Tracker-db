@@ -12,7 +12,7 @@
         "Braixen": 17,
         "Oddish": 50,
         "Totodile": 18,
-        "Vanillite": 100,
+        "Vanillite": 102,
         "Weedle": 69,
         "Kabutops": 6,
         "Poliwag": 41,
@@ -58,7 +58,7 @@
         "Hatenna": 84,
         "Shroomish": 8,
         "Lillipup": 53,
-        "Mosslax": 90,
+        "Mosslax": 91,
         "Maushold": 7,
         "Cubchoo": 35,
         "Koffing": 11,
@@ -317,7 +317,7 @@
         "Bellibolt": 15,
         "Toedscool": 38,
         "Paras": 8,
-        "Fletchinder": 19,
+        "Fletchinder": 20,
         "Staravia": 14,
         "Wishiwashi": 3,
         "Skitty": 17,
@@ -946,7 +946,7 @@
         "Baxcalibur": 2,
         "Pom-pom oricorio": 1,
         "Pyroar": 3,
-        "Walrein": 1,
+        "Walrein": 2,
         "Druddigon": 4,
         "Galarian mr. mime": 2,
         "Arbok": 1,
@@ -1002,8 +1002,8 @@
         "Dipplin": 1,
         "Shiftry": 1
       },
-      "total_spawns": 11865,
-      "last_spawn": "2026-07-11T18:55:58.581205"
+      "total_spawns": 11870,
+      "last_spawn": "2026-07-11T18:56:38.559948"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1927,7 +1927,7 @@
     }
   },
   "global": {
-    "total_spawns": 82981,
+    "total_spawns": 82986,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
