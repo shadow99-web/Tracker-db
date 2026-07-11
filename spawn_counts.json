@@ -21,7 +21,7 @@
         "Hatterene": 9,
         "Rowlet": 16,
         "Anorith": 12,
-        "Arctibax": 11,
+        "Arctibax": 12,
         "Ralts": 70,
         "Peakychu": 55,
         "Cutiefly": 13,
@@ -729,7 +729,7 @@
         "Tsareena": 4,
         "Chansey": 6,
         "Camerupt": 5,
-        "Litten": 10,
+        "Litten": 11,
         "Gossifleur": 8,
         "Electivire": 3,
         "Farigiraf": 5,
@@ -763,7 +763,7 @@
         "Gorebyss": 2,
         "Eldegoss": 4,
         "Pinsir": 4,
-        "Ivysaur": 11,
+        "Ivysaur": 12,
         "Pa'u oricorio": 1,
         "Toucannon": 3,
         "Flygon": 5,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11230,
-      "last_spawn": "2026-07-11T17:06:13.662723"
+      "total_spawns": 11233,
+      "last_spawn": "2026-07-11T17:06:43.733874"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82346,
+    "total_spawns": 82349,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
