@@ -29,7 +29,7 @@
         "Tynamo": 32,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 34,
+        "Pidgey": 35,
         "Binacle": 12,
         "Bounsweet": 70,
         "Fletchling": 46,
@@ -96,7 +96,7 @@
         "Snover": 17,
         "Piplup": 12,
         "Dondozo": 28,
-        "Cyclizar": 13,
+        "Cyclizar": 14,
         "Froslass": 2,
         "Dodrio": 9,
         "Metagross": 6,
@@ -157,12 +157,12 @@
         "Pikipek": 61,
         "Spritzee": 8,
         "Stantler": 16,
-        "Impidimp": 51,
+        "Impidimp": 52,
         "Swadloon": 10,
         "Sunny castform": 4,
         "Vullaby": 7,
         "Venipede": 51,
-        "Pansage": 11,
+        "Pansage": 12,
         "Cetoddle": 30,
         "Togepi": 44,
         "Tandemaus": 30,
@@ -189,7 +189,7 @@
         "Meowth": 15,
         "Charmander": 21,
         "Wimpod": 19,
-        "Comfey": 9,
+        "Comfey": 11,
         "Diggersby": 3,
         "Klawf": 55,
         "Dj rotom": 27,
@@ -350,7 +350,7 @@
         "Grotle": 6,
         "Tinkaton": 2,
         "Bergmite": 7,
-        "Klang": 7,
+        "Klang": 8,
         "Tepig": 13,
         "Spinda": 1,
         "Phantump": 11,
@@ -436,7 +436,7 @@
         "Stoutland": 2,
         "Elgyem": 6,
         "Dragonair": 6,
-        "Spheal": 33,
+        "Spheal": 34,
         "Amaura": 10,
         "Wailord": 4,
         "Accelgor": 3,
@@ -960,8 +960,8 @@
         "Mandibuzz": 1,
         "Magcargo": 1
       },
-      "total_spawns": 9591,
-      "last_spawn": "2026-07-11T07:57:18.237528"
+      "total_spawns": 9599,
+      "last_spawn": "2026-07-11T07:57:53.555376"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1674,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 75124,
+    "total_spawns": 75132,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
