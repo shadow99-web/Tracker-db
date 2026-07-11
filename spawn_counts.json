@@ -43,7 +43,7 @@
         "Capsakid": 47,
         "Numel": 14,
         "Pawmo": 13,
-        "Wattrel": 44,
+        "Wattrel": 45,
         "Tadbulb": 51,
         "Yanmega": 4,
         "Tympole": 42,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 33,
         "Vulpix": 29,
         "Gastly": 86,
-        "Aron": 50,
+        "Aron": 51,
         "Honedge": 72,
         "Houndour": 11,
         "Machop": 34,
@@ -220,7 +220,7 @@
         "Shuppet": 15,
         "Graveler": 9,
         "Duosion": 8,
-        "Orthworm": 39,
+        "Orthworm": 40,
         "Yamask": 8,
         "Nymble": 45,
         "Snorunt": 11,
@@ -539,7 +539,7 @@
         "Shuckle": 3,
         "White flower floette": 4,
         "Octillery": 7,
-        "Pawniard": 13,
+        "Pawniard": 14,
         "Brionne": 11,
         "Zarude": 2,
         "Yamper": 8,
@@ -757,7 +757,7 @@
         "Togetic": 8,
         "Bewear": 4,
         "Indeedee": 4,
-        "Beheeyem": 4,
+        "Beheeyem": 6,
         "Chimecho": 2,
         "Natu": 7,
         "Gorebyss": 2,
@@ -995,8 +995,8 @@
         "Cryogonal": 2,
         "Alolan golem": 2
       },
-      "total_spawns": 11687,
-      "last_spawn": "2026-07-11T18:32:18.573180"
+      "total_spawns": 11693,
+      "last_spawn": "2026-07-11T18:33:01.317376"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1920,7 +1920,7 @@
     }
   },
   "global": {
-    "total_spawns": 82803,
+    "total_spawns": 82809,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
