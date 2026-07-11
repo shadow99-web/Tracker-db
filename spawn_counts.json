@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 8,
         "Surskit": 9,
-        "Seedot": 29,
+        "Seedot": 30,
         "Jigglypuff": 12,
         "Spearow": 9,
         "Servine": 5,
@@ -303,7 +303,7 @@
         "Quaxwell": 4,
         "Swanna": 3,
         "Torracat": 9,
-        "Geodude": 31,
+        "Geodude": 32,
         "Tentacruel": 1,
         "Archen": 21,
         "Blue plumage squawkabilly": 5,
@@ -332,7 +332,7 @@
         "Raboot": 10,
         "Oinkologne": 6,
         "Floragato": 5,
-        "Larvesta": 21,
+        "Larvesta": 23,
         "Magby": 2,
         "Roaming gimmighoul": 20,
         "Volcarona": 5,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9390,
-      "last_spawn": "2026-07-11T04:32:59.131026"
+      "total_spawns": 9394,
+      "last_spawn": "2026-07-11T04:33:31.858950"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74923,
+    "total_spawns": 74927,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
