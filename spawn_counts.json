@@ -63,7 +63,7 @@
         "Cubchoo": 31,
         "Koffing": 11,
         "Kirlia": 27,
-        "Deino": 31,
+        "Deino": 32,
         "Dolliv": 11,
         "Feebas": 16,
         "Prof tangrowth": 32,
@@ -183,7 +183,7 @@
         "Grovyle": 21,
         "Dratini": 43,
         "Steelix": 4,
-        "Sprigatito": 31,
+        "Sprigatito": 32,
         "Charcadet": 85,
         "Mudsdale": 10,
         "Meowth": 15,
@@ -192,12 +192,12 @@
         "Comfey": 11,
         "Diggersby": 3,
         "Klawf": 65,
-        "Dj rotom": 29,
+        "Dj rotom": 30,
         "Chef dente": 37,
         "Hisuian qwilfish": 1,
         "Bagon": 50,
         "Pikachu": 22,
-        "Tarountula": 41,
+        "Tarountula": 42,
         "Rhyhorn": 50,
         "Aipom": 9,
         "Grookey": 19,
@@ -981,10 +981,11 @@
         "Samurott": 1,
         "Dusknoir": 1,
         "Gumshoos": 2,
-        "Carracosta": 1
+        "Carracosta": 1,
+        "Pichu": 1
       },
-      "total_spawns": 10995,
-      "last_spawn": "2026-07-11T16:28:23.852860"
+      "total_spawns": 11000,
+      "last_spawn": "2026-07-11T16:29:03.506583"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82111,
+    "total_spawns": 82116,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
