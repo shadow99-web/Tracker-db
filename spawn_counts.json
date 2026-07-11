@@ -31,8 +31,8 @@
         "Pyukumuku": 1,
         "Pidgey": 49,
         "Binacle": 13,
-        "Bounsweet": 84,
-        "Fletchling": 51,
+        "Bounsweet": 85,
+        "Fletchling": 52,
         "Whirlipede": 11,
         "Duskull": 94,
         "Abra": 48,
@@ -288,7 +288,7 @@
         "Zigzagoon": 13,
         "Quilladin": 10,
         "Infernape": 4,
-        "Noibat": 10,
+        "Noibat": 11,
         "Gothorita": 8,
         "Ekans": 9,
         "Brambleghast": 11,
@@ -353,7 +353,7 @@
         "Klang": 11,
         "Tepig": 16,
         "Spinda": 1,
-        "Phantump": 11,
+        "Phantump": 13,
         "Barboach": 5,
         "Nosepass": 7,
         "Electrike": 21,
@@ -520,7 +520,7 @@
         "Krookodile": 2,
         "Espathra": 11,
         "Snom": 15,
-        "Nickit": 13,
+        "Nickit": 14,
         "Aromatisse": 1,
         "Cosmoem": 1,
         "Copperajah": 8,
@@ -533,7 +533,7 @@
         "Midnight lycanroc": 8,
         "Skiploom": 10,
         "Stakataka": 1,
-        "Cascoon": 17,
+        "Cascoon": 18,
         "Sigilyph": 6,
         "Vibrava": 15,
         "Shuckle": 3,
@@ -1003,8 +1003,8 @@
         "Shiftry": 1,
         "Garganacl": 1
       },
-      "total_spawns": 11923,
-      "last_spawn": "2026-07-11T19:02:48.791625"
+      "total_spawns": 11930,
+      "last_spawn": "2026-07-11T19:03:28.132536"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1928,7 +1928,7 @@
     }
   },
   "global": {
-    "total_spawns": 83039,
+    "total_spawns": 83046,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
