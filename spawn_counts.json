@@ -436,7 +436,7 @@
         "Stoutland": 2,
         "Elgyem": 10,
         "Dragonair": 8,
-        "Spheal": 36,
+        "Spheal": 37,
         "Amaura": 13,
         "Wailord": 4,
         "Accelgor": 4,
@@ -889,7 +889,7 @@
         "Linoone": 2,
         "Continental vivillon": 1,
         "Ninetales": 2,
-        "Stunfisk": 2,
+        "Stunfisk": 3,
         "Escavalier": 2,
         "Muk": 2,
         "Pirouette meloetta": 2,
@@ -986,10 +986,11 @@
         "Rapidash": 2,
         "Manectric": 1,
         "Perrserker": 2,
-        "Poliwrath": 1
+        "Poliwrath": 1,
+        "Golisopod": 2
       },
-      "total_spawns": 11159,
-      "last_spawn": "2026-07-11T16:56:43.594640"
+      "total_spawns": 11163,
+      "last_spawn": "2026-07-11T16:57:13.852570"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1913,7 +1914,7 @@
     }
   },
   "global": {
-    "total_spawns": 82275,
+    "total_spawns": 82279,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
