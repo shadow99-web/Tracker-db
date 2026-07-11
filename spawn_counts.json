@@ -429,7 +429,7 @@
         "Haunter": 13,
         "Dottler": 10,
         "Wailmer": 9,
-        "Frigibax": 102,
+        "Frigibax": 103,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 12,
@@ -448,7 +448,7 @@
         "Battle cyclizar": 8,
         "Minccino": 8,
         "Hippowdon": 2,
-        "Gloom": 11,
+        "Gloom": 12,
         "Mew": 4,
         "Thwackey": 8,
         "Latios": 2,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10914,
-      "last_spawn": "2026-07-11T15:58:00.747368"
+      "total_spawns": 10916,
+      "last_spawn": "2026-07-11T15:58:43.702242"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82030,
+    "total_spawns": 82032,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
