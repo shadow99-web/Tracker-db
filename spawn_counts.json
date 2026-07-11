@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 90,
         "Abra": 44,
-        "Wiglett": 34,
+        "Wiglett": 35,
         "Starly": 81,
         "Caterpie": 39,
         "Mareep": 38,
@@ -277,7 +277,7 @@
         "Ledyba": 12,
         "Chinchou": 9,
         "Eiscue": 1,
-        "Nacli": 34,
+        "Nacli": 36,
         "Pancham": 11,
         "Bulbasaur": 35,
         "Dewpider": 13,
@@ -872,7 +872,7 @@
         "Scolipede": 3,
         "Centiskorch": 2,
         "Swellow": 6,
-        "Kangaskhan": 6,
+        "Kangaskhan": 8,
         "Jirachi": 2,
         "Emboar": 2,
         "Cacturne": 2,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11339,
-      "last_spawn": "2026-07-11T17:20:23.648238"
+      "total_spawns": 11344,
+      "last_spawn": "2026-07-11T17:21:03.547396"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82455,
+    "total_spawns": 82460,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
