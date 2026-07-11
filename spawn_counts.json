@@ -43,7 +43,7 @@
         "Capsakid": 37,
         "Numel": 12,
         "Pawmo": 11,
-        "Wattrel": 31,
+        "Wattrel": 32,
         "Tadbulb": 46,
         "Yanmega": 3,
         "Tympole": 35,
@@ -204,7 +204,7 @@
         "Inkay": 6,
         "Unfezant": 4,
         "Fraxure": 15,
-        "Zubat": 31,
+        "Zubat": 32,
         "Drowzee": 15,
         "Lechonk": 44,
         "Woobat": 8,
@@ -295,7 +295,7 @@
         "Dartrix": 12,
         "Ceruledge": 8,
         "Vanillish": 11,
-        "Gimmighoul": 29,
+        "Gimmighoul": 30,
         "Glimmet": 26,
         "Popplio": 12,
         "Arboliva": 2,
@@ -315,10 +315,10 @@
         "Petilil": 14,
         "Bombirdier": 35,
         "Bellibolt": 9,
-        "Toedscool": 33,
+        "Toedscool": 34,
         "Paras": 5,
         "Fletchinder": 16,
-        "Staravia": 9,
+        "Staravia": 10,
         "Wishiwashi": 3,
         "Skitty": 15,
         "Finizen": 34,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 33,
+        "Gothita": 34,
         "Solosis": 45,
         "Sandygast": 8,
         "Pidove": 29,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10199,
-      "last_spawn": "2026-07-11T11:24:58.261213"
+      "total_spawns": 10205,
+      "last_spawn": "2026-07-11T11:25:28.351895"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1843,7 +1843,7 @@
     }
   },
   "global": {
-    "total_spawns": 79038,
+    "total_spawns": 79044,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
