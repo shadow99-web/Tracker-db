@@ -92,7 +92,7 @@
         "Charmeleon": 19,
         "Riolu": 26,
         "Gible": 60,
-        "Greavard": 81,
+        "Greavard": 82,
         "Snover": 17,
         "Piplup": 14,
         "Dondozo": 35,
@@ -179,7 +179,7 @@
         "Bellsprout": 25,
         "Houndstone": 6,
         "Beldum": 53,
-        "Kadabra": 20,
+        "Kadabra": 22,
         "Grovyle": 21,
         "Dratini": 45,
         "Steelix": 4,
@@ -199,7 +199,7 @@
         "Pikachu": 22,
         "Tarountula": 44,
         "Rhyhorn": 51,
-        "Aipom": 9,
+        "Aipom": 10,
         "Grookey": 19,
         "Inkay": 6,
         "Unfezant": 4,
@@ -987,10 +987,11 @@
         "Manectric": 1,
         "Perrserker": 2,
         "Poliwrath": 1,
-        "Golisopod": 2
+        "Golisopod": 2,
+        "Zygarde cell": 1
       },
-      "total_spawns": 11183,
-      "last_spawn": "2026-07-11T17:00:13.629096"
+      "total_spawns": 11188,
+      "last_spawn": "2026-07-11T17:00:43.808676"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1914,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82299,
+    "total_spawns": 82304,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
