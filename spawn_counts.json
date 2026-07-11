@@ -13,7 +13,7 @@
         "Oddish": 52,
         "Totodile": 18,
         "Vanillite": 104,
-        "Weedle": 71,
+        "Weedle": 73,
         "Kabutops": 6,
         "Poliwag": 41,
         "Fidough": 47,
@@ -51,7 +51,7 @@
         "Scatterbug": 45,
         "Skwovet": 18,
         "Applin": 10,
-        "Staryu": 4,
+        "Staryu": 5,
         "Maschiff": 37,
         "Smoliv": 50,
         "Tirtouga": 18,
@@ -331,7 +331,7 @@
         "Sharpedo": 3,
         "Raboot": 11,
         "Oinkologne": 7,
-        "Floragato": 9,
+        "Floragato": 10,
         "Larvesta": 29,
         "Magby": 2,
         "Roaming gimmighoul": 27,
@@ -436,7 +436,7 @@
         "Stoutland": 3,
         "Elgyem": 12,
         "Dragonair": 8,
-        "Spheal": 42,
+        "Spheal": 43,
         "Amaura": 14,
         "Wailord": 4,
         "Accelgor": 4,
@@ -1006,8 +1006,8 @@
         "Deoxys": 2,
         "Bastiodon": 2
       },
-      "total_spawns": 12059,
-      "last_spawn": "2026-07-11T19:28:48.497394"
+      "total_spawns": 12064,
+      "last_spawn": "2026-07-11T19:29:28.148176"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1931,7 +1931,7 @@
     }
   },
   "global": {
-    "total_spawns": 83175,
+    "total_spawns": 83180,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
