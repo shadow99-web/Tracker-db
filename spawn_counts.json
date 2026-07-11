@@ -42,7 +42,7 @@
         "Mareep": 36,
         "Capsakid": 40,
         "Numel": 12,
-        "Pawmo": 11,
+        "Pawmo": 12,
         "Wattrel": 39,
         "Tadbulb": 48,
         "Yanmega": 3,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 44,
-        "Jangmo-o": 27,
+        "Jangmo-o": 28,
         "Lunatone": 1,
         "Machoke": 17,
         "Luvdisc": 1,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 38,
+        "Gothita": 39,
         "Solosis": 46,
         "Sandygast": 8,
         "Pidove": 29,
@@ -538,7 +538,7 @@
         "Vibrava": 14,
         "Shuckle": 3,
         "White flower floette": 4,
-        "Octillery": 5,
+        "Octillery": 6,
         "Pawniard": 12,
         "Brionne": 11,
         "Zarude": 2,
@@ -976,8 +976,8 @@
         "Ditto": 2,
         "Blade aegislash": 1
       },
-      "total_spawns": 10635,
-      "last_spawn": "2026-07-11T14:48:33.650673"
+      "total_spawns": 10639,
+      "last_spawn": "2026-07-11T14:49:13.879366"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1901,7 +1901,7 @@
     }
   },
   "global": {
-    "total_spawns": 81751,
+    "total_spawns": 81755,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
