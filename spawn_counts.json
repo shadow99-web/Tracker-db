@@ -195,10 +195,10 @@
         "Dj rotom": 29,
         "Chef dente": 36,
         "Hisuian qwilfish": 1,
-        "Bagon": 48,
+        "Bagon": 49,
         "Pikachu": 22,
         "Tarountula": 39,
-        "Rhyhorn": 48,
+        "Rhyhorn": 49,
         "Aipom": 9,
         "Grookey": 18,
         "Inkay": 6,
@@ -759,7 +759,7 @@
         "Indeedee": 3,
         "Beheeyem": 4,
         "Chimecho": 2,
-        "Natu": 6,
+        "Natu": 7,
         "Gorebyss": 2,
         "Eldegoss": 4,
         "Pinsir": 4,
@@ -802,7 +802,7 @@
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 4,
-        "Salazzle": 2,
+        "Salazzle": 3,
         "Heracross": 2,
         "Carkol": 4,
         "Zygarde": 2,
@@ -976,8 +976,8 @@
         "Ditto": 2,
         "Blade aegislash": 1
       },
-      "total_spawns": 10608,
-      "last_spawn": "2026-07-11T14:44:53.720848"
+      "total_spawns": 10612,
+      "last_spawn": "2026-07-11T14:45:33.628113"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1901,7 +1901,7 @@
     }
   },
   "global": {
-    "total_spawns": 81724,
+    "total_spawns": 81728,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
