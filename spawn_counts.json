@@ -48,7 +48,7 @@
         "Yanmega": 3,
         "Tympole": 30,
         "Grubbin": 33,
-        "Scatterbug": 34,
+        "Scatterbug": 35,
         "Skwovet": 15,
         "Applin": 8,
         "Staryu": 4,
@@ -237,7 +237,7 @@
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 34,
-        "Jangmo-o": 23,
+        "Jangmo-o": 24,
         "Lunatone": 1,
         "Machoke": 15,
         "Luvdisc": 1,
@@ -363,7 +363,7 @@
         "Trubbish": 11,
         "Rockruff": 8,
         "Snowy castform": 2,
-        "Dusclops": 11,
+        "Dusclops": 12,
         "Prinplup": 9,
         "Kommo-o": 3,
         "Vigoroth": 9,
@@ -714,7 +714,7 @@
         "Remoraid": 6,
         "Exeggcute": 7,
         "Dunsparce": 5,
-        "Sobble": 11,
+        "Sobble": 12,
         "Lycanroc": 2,
         "Dustox": 3,
         "Alolan grimer": 6,
@@ -960,8 +960,8 @@
         "Mandibuzz": 1,
         "Magcargo": 1
       },
-      "total_spawns": 9587,
-      "last_spawn": "2026-07-11T07:56:48.162817"
+      "total_spawns": 9591,
+      "last_spawn": "2026-07-11T07:57:18.237528"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1674,7 +1674,7 @@
     }
   },
   "global": {
-    "total_spawns": 75120,
+    "total_spawns": 75124,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
