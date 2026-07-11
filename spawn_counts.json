@@ -37,7 +37,7 @@
         "Duskull": 80,
         "Abra": 41,
         "Wiglett": 26,
-        "Starly": 69,
+        "Starly": 71,
         "Caterpie": 35,
         "Mareep": 34,
         "Capsakid": 37,
@@ -64,7 +64,7 @@
         "Koffing": 10,
         "Kirlia": 21,
         "Deino": 28,
-        "Dolliv": 7,
+        "Dolliv": 8,
         "Feebas": 16,
         "Prof tangrowth": 30,
         "Vulpix": 27,
@@ -222,7 +222,7 @@
         "Duosion": 7,
         "Orthworm": 35,
         "Yamask": 8,
-        "Nymble": 37,
+        "Nymble": 38,
         "Snorunt": 10,
         "Carvanha": 6,
         "Toxel": 4,
@@ -271,7 +271,7 @@
         "Drizzile": 10,
         "Tinkatink": 36,
         "Frillish": 3,
-        "Plusle": 11,
+        "Plusle": 13,
         "Decidueye": 5,
         "Kricketot": 13,
         "Ledyba": 12,
@@ -373,7 +373,7 @@
         "Duraludon": 10,
         "Nidorino": 9,
         "Rayquaza": 15,
-        "Horsea": 33,
+        "Horsea": 34,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 10,
@@ -558,7 +558,7 @@
         "Pawmot": 2,
         "Blitzle": 8,
         "Iron crown": 4,
-        "Barbaracle": 3,
+        "Barbaracle": 4,
         "Nidoqueen": 5,
         "White flower florges": 1,
         "Hydreigon": 2,
@@ -968,8 +968,8 @@
         "Alolan sandshrew": 2,
         "Fezandipiti": 2
       },
-      "total_spawns": 10157,
-      "last_spawn": "2026-07-11T11:22:13.837618"
+      "total_spawns": 10165,
+      "last_spawn": "2026-07-11T11:22:44.019568"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1842,7 +1842,7 @@
     }
   },
   "global": {
-    "total_spawns": 78996,
+    "total_spawns": 79004,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
