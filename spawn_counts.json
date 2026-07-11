@@ -274,7 +274,7 @@
         "Plusle": 13,
         "Decidueye": 6,
         "Kricketot": 14,
-        "Ledyba": 15,
+        "Ledyba": 16,
         "Chinchou": 9,
         "Eiscue": 2,
         "Nacli": 38,
@@ -798,7 +798,7 @@
         "Cacnea": 7,
         "Sableye": 6,
         "Persian": 1,
-        "Toedscruel": 11,
+        "Toedscruel": 12,
         "Alolan muk": 2,
         "Xatu": 2,
         "Masquerain": 4,
@@ -814,7 +814,7 @@
         "Morpeko": 2,
         "East sea shellos": 3,
         "Seaking": 4,
-        "Glalie": 1,
+        "Glalie": 2,
         "Talonflame": 3,
         "Silicobra": 5,
         "Durant": 4,
@@ -951,7 +951,7 @@
         "Galarian mr. mime": 2,
         "Arbok": 1,
         "Aerodactyl": 1,
-        "Gothitelle": 3,
+        "Gothitelle": 4,
         "Turtonator": 2,
         "Cofagrigus": 1,
         "Incineroar": 1,
@@ -1003,10 +1003,10 @@
         "Shiftry": 1,
         "Garganacl": 1,
         "Dugtrio": 2,
-        "Deoxys": 1
+        "Deoxys": 2
       },
-      "total_spawns": 11979,
-      "last_spawn": "2026-07-11T19:09:18.476413"
+      "total_spawns": 11984,
+      "last_spawn": "2026-07-11T19:09:58.180974"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1930,7 +1930,7 @@
     }
   },
   "global": {
-    "total_spawns": 83095,
+    "total_spawns": 83100,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
