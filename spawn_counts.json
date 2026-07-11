@@ -22,7 +22,7 @@
         "Rowlet": 16,
         "Anorith": 12,
         "Arctibax": 12,
-        "Ralts": 73,
+        "Ralts": 74,
         "Peakychu": 57,
         "Cutiefly": 13,
         "Simipour": 4,
@@ -195,7 +195,7 @@
         "Dj rotom": 31,
         "Chef dente": 39,
         "Hisuian qwilfish": 1,
-        "Bagon": 54,
+        "Bagon": 56,
         "Pikachu": 24,
         "Tarountula": 50,
         "Rhyhorn": 51,
@@ -203,7 +203,7 @@
         "Grookey": 19,
         "Inkay": 7,
         "Unfezant": 4,
-        "Fraxure": 17,
+        "Fraxure": 19,
         "Zubat": 37,
         "Drowzee": 19,
         "Lechonk": 49,
@@ -992,10 +992,11 @@
         "Dracozolt": 1,
         "Unown e": 2,
         "Latias": 2,
-        "Cryogonal": 2
+        "Cryogonal": 2,
+        "Alolan golem": 2
       },
-      "total_spawns": 11660,
-      "last_spawn": "2026-07-11T18:29:08.327493"
+      "total_spawns": 11667,
+      "last_spawn": "2026-07-11T18:29:38.380949"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1919,7 +1920,7 @@
     }
   },
   "global": {
-    "total_spawns": 82776,
+    "total_spawns": 82783,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
