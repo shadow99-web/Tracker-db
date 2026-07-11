@@ -46,7 +46,7 @@
         "Wattrel": 45,
         "Tadbulb": 51,
         "Yanmega": 4,
-        "Tympole": 42,
+        "Tympole": 43,
         "Grubbin": 41,
         "Scatterbug": 45,
         "Skwovet": 17,
@@ -419,7 +419,7 @@
         "Croagunk": 12,
         "Mothim": 6,
         "Crabominable": 5,
-        "Krabby": 8,
+        "Krabby": 9,
         "Mimikyu": 6,
         "Hoothoot": 10,
         "Girafarig": 2,
@@ -503,7 +503,7 @@
         "Tyrogue": 7,
         "Nuzleaf": 13,
         "Spinarak": 10,
-        "Goomy": 30,
+        "Goomy": 31,
         "Breloom": 3,
         "Rillaboom": 10,
         "Hippopotas": 8,
@@ -995,10 +995,11 @@
         "Cryogonal": 2,
         "Alolan golem": 2,
         "Roserade": 1,
-        "Kartana": 2
+        "Kartana": 2,
+        "Chatot": 1
       },
-      "total_spawns": 11746,
-      "last_spawn": "2026-07-11T18:40:48.441716"
+      "total_spawns": 11750,
+      "last_spawn": "2026-07-11T18:41:24.236589"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1922,7 +1923,7 @@
     }
   },
   "global": {
-    "total_spawns": 82862,
+    "total_spawns": 82866,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
