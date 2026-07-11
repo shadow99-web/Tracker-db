@@ -46,7 +46,7 @@
         "Wattrel": 40,
         "Tadbulb": 49,
         "Yanmega": 3,
-        "Tympole": 38,
+        "Tympole": 39,
         "Grubbin": 39,
         "Scatterbug": 42,
         "Skwovet": 17,
@@ -429,7 +429,7 @@
         "Haunter": 13,
         "Dottler": 10,
         "Wailmer": 9,
-        "Frigibax": 101,
+        "Frigibax": 102,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 12,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10912,
-      "last_spawn": "2026-07-11T15:53:52.263918"
+      "total_spawns": 10914,
+      "last_spawn": "2026-07-11T15:58:00.747368"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 82028,
+    "total_spawns": 82030,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
