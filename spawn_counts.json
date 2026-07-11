@@ -100,7 +100,7 @@
         "Froslass": 2,
         "Dodrio": 9,
         "Metagross": 6,
-        "Corphish": 9,
+        "Corphish": 10,
         "Doduo": 10,
         "Flittle": 47,
         "Armarouge": 10,
@@ -233,7 +233,7 @@
         "Skuntank": 3,
         "Palafin": 9,
         "Timburr": 33,
-        "Shellos": 3,
+        "Shellos": 4,
         "Arcanine": 1,
         "Sliggoo": 4,
         "Whismur": 44,
@@ -395,7 +395,7 @@
         "Meganium": 10,
         "Rainy castform": 5,
         "Rabsca": 11,
-        "Misdreavus": 10,
+        "Misdreavus": 11,
         "Cursola": 2,
         "Carbink": 3,
         "Scorbunny": 9,
@@ -866,7 +866,7 @@
         "Meowscarada": 3,
         "Galarian corsola": 2,
         "Corsola": 1,
-        "Psyduck": 10,
+        "Psyduck": 12,
         "Typhlosion": 8,
         "Falinks": 2,
         "Scolipede": 2,
@@ -980,8 +980,8 @@
         "Nidoking": 2,
         "Samurott": 1
       },
-      "total_spawns": 10750,
-      "last_spawn": "2026-07-11T15:03:35.976903"
+      "total_spawns": 10755,
+      "last_spawn": "2026-07-11T15:04:13.534056"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1905,7 +1905,7 @@
     }
   },
   "global": {
-    "total_spawns": 81866,
+    "total_spawns": 81871,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
