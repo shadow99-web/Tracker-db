@@ -58,7 +58,7 @@
         "Hatenna": 82,
         "Shroomish": 7,
         "Lillipup": 49,
-        "Mosslax": 84,
+        "Mosslax": 86,
         "Maushold": 6,
         "Cubchoo": 31,
         "Koffing": 11,
@@ -345,7 +345,7 @@
         "Sandygast": 8,
         "Pidove": 30,
         "Chespin": 13,
-        "Combee": 6,
+        "Combee": 7,
         "Cyndaquil": 14,
         "Grotle": 7,
         "Tinkaton": 2,
@@ -531,7 +531,7 @@
         "Drapion": 4,
         "Wartortle": 7,
         "Midnight lycanroc": 8,
-        "Skiploom": 8,
+        "Skiploom": 9,
         "Stakataka": 1,
         "Cascoon": 14,
         "Sigilyph": 6,
@@ -725,7 +725,7 @@
         "Sawk": 1,
         "Azumarill": 1,
         "Delphox": 2,
-        "Cranidos": 10,
+        "Cranidos": 11,
         "Tsareena": 4,
         "Chansey": 6,
         "Camerupt": 5,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11040,
-      "last_spawn": "2026-07-11T16:38:53.853561"
+      "total_spawns": 11045,
+      "last_spawn": "2026-07-11T16:39:33.629001"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82156,
+    "total_spawns": 82161,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
