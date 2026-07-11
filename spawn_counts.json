@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 9,
         "Surskit": 10,
-        "Seedot": 35,
+        "Seedot": 36,
         "Jigglypuff": 12,
         "Spearow": 10,
         "Servine": 7,
@@ -171,7 +171,7 @@
         "Lotad": 38,
         "Mienshao": 3,
         "Blipbug": 74,
-        "Rellor": 33,
+        "Rellor": 34,
         "Rolycoly": 47,
         "Poliwhirl": 10,
         "Lokix": 15,
@@ -206,7 +206,7 @@
         "Fraxure": 17,
         "Zubat": 34,
         "Drowzee": 15,
-        "Lechonk": 45,
+        "Lechonk": 46,
         "Woobat": 9,
         "Skrelp": 12,
         "Lileep": 11,
@@ -426,7 +426,7 @@
         "Summer deerling": 3,
         "Seel": 11,
         "Marowak": 4,
-        "Haunter": 12,
+        "Haunter": 13,
         "Dottler": 10,
         "Wailmer": 9,
         "Frigibax": 101,
@@ -458,7 +458,7 @@
         "Excadrill": 6,
         "Buizel": 6,
         "Pansear": 4,
-        "Yanma": 11,
+        "Yanma": 12,
         "Galarian moltres": 2,
         "Seismitoad": 8,
         "Galarian articuno": 1,
@@ -749,7 +749,7 @@
         "Forretress": 4,
         "Swampert": 4,
         "High plain vivillon": 1,
-        "Metapod": 9,
+        "Metapod": 10,
         "Lampent": 6,
         "Roselia": 5,
         "Pineco": 7,
@@ -980,8 +980,8 @@
         "Nidoking": 2,
         "Samurott": 1
       },
-      "total_spawns": 10731,
-      "last_spawn": "2026-07-11T15:01:08.451664"
+      "total_spawns": 10737,
+      "last_spawn": "2026-07-11T15:01:43.603200"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1905,7 +1905,7 @@
     }
   },
   "global": {
-    "total_spawns": 81847,
+    "total_spawns": 81853,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
