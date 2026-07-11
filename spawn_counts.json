@@ -44,7 +44,7 @@
         "Numel": 12,
         "Pawmo": 12,
         "Wattrel": 40,
-        "Tadbulb": 50,
+        "Tadbulb": 51,
         "Yanmega": 3,
         "Tympole": 40,
         "Grubbin": 39,
@@ -481,7 +481,7 @@
         "Complete zygarde": 3,
         "Mudbray": 17,
         "Spectrier": 1,
-        "Rufflet": 10,
+        "Rufflet": 11,
         "Lairon": 9,
         "Altaria": 6,
         "Attack deoxys": 2,
@@ -984,8 +984,8 @@
         "Carracosta": 1,
         "Pichu": 1
       },
-      "total_spawns": 11026,
-      "last_spawn": "2026-07-11T16:35:58.048710"
+      "total_spawns": 11028,
+      "last_spawn": "2026-07-11T16:37:03.656765"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1909,7 +1909,7 @@
     }
   },
   "global": {
-    "total_spawns": 82142,
+    "total_spawns": 82144,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
