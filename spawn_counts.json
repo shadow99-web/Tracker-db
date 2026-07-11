@@ -13,7 +13,7 @@
         "Oddish": 47,
         "Totodile": 16,
         "Vanillite": 86,
-        "Weedle": 63,
+        "Weedle": 65,
         "Kabutops": 4,
         "Poliwag": 36,
         "Fidough": 43,
@@ -38,7 +38,7 @@
         "Abra": 41,
         "Wiglett": 26,
         "Starly": 71,
-        "Caterpie": 35,
+        "Caterpie": 36,
         "Mareep": 34,
         "Capsakid": 38,
         "Numel": 12,
@@ -295,7 +295,7 @@
         "Dartrix": 12,
         "Ceruledge": 8,
         "Vanillish": 11,
-        "Gimmighoul": 30,
+        "Gimmighoul": 31,
         "Glimmet": 26,
         "Popplio": 12,
         "Arboliva": 2,
@@ -631,7 +631,7 @@
         "Mienfoo": 9,
         "Quagsire": 3,
         "Komala": 3,
-        "Poochyena": 6,
+        "Poochyena": 7,
         "Hero palafin": 2,
         "Klinklang": 3,
         "Lickilicky": 9,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10264,
-      "last_spawn": "2026-07-11T11:31:23.511082"
+      "total_spawns": 10269,
+      "last_spawn": "2026-07-11T11:32:13.687968"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -992,7 +992,7 @@
         "Dedenne": 3,
         "Gothita": 30,
         "Finizen": 32,
-        "Machop": 31,
+        "Machop": 32,
         "Psyduck": 9,
         "Monferno": 6,
         "Pikipek": 31,
@@ -1058,7 +1058,7 @@
         "Bellsprout": 34,
         "Scorbunny": 10,
         "Roggenrola": 32,
-        "Wattrel": 41,
+        "Wattrel": 42,
         "Nacli": 36,
         "Feebas": 8,
         "Weedle": 34,
@@ -1270,7 +1270,7 @@
         "Veluza": 31,
         "Salandit": 9,
         "Yellow plumage squawkabilly": 5,
-        "Poliwag": 27,
+        "Poliwag": 28,
         "Passimian": 3,
         "Pikachu": 3,
         "Yungoos": 7,
@@ -1475,7 +1475,7 @@
         "Houndoom": 3,
         "Shieldon": 9,
         "Panpour": 9,
-        "Yanma": 4,
+        "Yanma": 6,
         "Vileplume": 1,
         "Gurdurr": 7,
         "Mamoswine": 3,
@@ -1500,7 +1500,7 @@
         "Quilava": 5,
         "Drowzee": 4,
         "Nidorino": 5,
-        "Sobble": 12,
+        "Sobble": 14,
         "Vigoroth": 7,
         "Finneon": 7,
         "Debutante trim furfrou": 1,
@@ -1698,7 +1698,7 @@
         "Pidgeotto": 2,
         "Drizzile": 3,
         "Tentacruel": 1,
-        "Kakuna": 1,
+        "Kakuna": 3,
         "Illumise": 5,
         "Alakazam": 1,
         "Rampardos": 1,
@@ -1841,14 +1841,15 @@
         "Volcanion": 2,
         "Azurill": 1,
         "Mightyena": 1,
-        "Seviper": 1
+        "Seviper": 1,
+        "Kingler": 2
       },
-      "total_spawns": 6520,
-      "last_spawn": "2026-07-11T11:31:43.075207"
+      "total_spawns": 6531,
+      "last_spawn": "2026-07-11T11:32:12.030402"
     }
   },
   "global": {
-    "total_spawns": 79323,
+    "total_spawns": 79339,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
