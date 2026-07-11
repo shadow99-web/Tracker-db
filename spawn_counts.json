@@ -47,7 +47,7 @@
         "Tadbulb": 51,
         "Yanmega": 4,
         "Tympole": 44,
-        "Grubbin": 41,
+        "Grubbin": 42,
         "Scatterbug": 45,
         "Skwovet": 18,
         "Applin": 10,
@@ -123,8 +123,8 @@
         "Scovillain": 10,
         "White plumage squawkabilly": 23,
         "Flaaffy": 6,
-        "Rookidee": 86,
-        "Flapple": 12,
+        "Rookidee": 87,
+        "Flapple": 14,
         "Bronzor": 9,
         "Swirlix": 11,
         "Varoom": 78,
@@ -383,7 +383,7 @@
         "Klink": 27,
         "Mesprit": 1,
         "Azelf": 2,
-        "Clodsire": 7,
+        "Clodsire": 8,
         "Charizard": 10,
         "Axew": 107,
         "Joltik": 12,
@@ -677,7 +677,7 @@
         "Pangoro": 3,
         "Galarian zen darmanitan": 2,
         "Basculegion": 4,
-        "Jolteon": 10,
+        "Jolteon": 12,
         "Okidogi": 4,
         "Wyrdeer": 4,
         "Ferroseed": 6,
@@ -1003,8 +1003,8 @@
         "Shiftry": 1,
         "Garganacl": 1
       },
-      "total_spawns": 11877,
-      "last_spawn": "2026-07-11T18:57:18.228259"
+      "total_spawns": 11884,
+      "last_spawn": "2026-07-11T18:57:59.932224"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1928,7 +1928,7 @@
     }
   },
   "global": {
-    "total_spawns": 82993,
+    "total_spawns": 83000,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
