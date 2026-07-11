@@ -53,7 +53,7 @@
         "Applin": 8,
         "Staryu": 4,
         "Maschiff": 29,
-        "Smoliv": 38,
+        "Smoliv": 39,
         "Tirtouga": 13,
         "Hatenna": 74,
         "Shroomish": 5,
@@ -239,7 +239,7 @@
         "Whismur": 33,
         "Jangmo-o": 22,
         "Lunatone": 1,
-        "Machoke": 13,
+        "Machoke": 14,
         "Luvdisc": 1,
         "Fennekin": 22,
         "Milcery": 17,
@@ -326,7 +326,7 @@
         "Sunkern": 11,
         "Snubbull": 6,
         "Crocalor": 3,
-        "Magnemite": 33,
+        "Magnemite": 34,
         "Doublade": 5,
         "Sharpedo": 1,
         "Raboot": 10,
@@ -788,7 +788,7 @@
         "Porygon-z": 3,
         "Zapdos": 2,
         "Coalossal": 2,
-        "Steenee": 5,
+        "Steenee": 6,
         "Boltund": 1,
         "Weezing": 1,
         "Blue flower florges": 1,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9468,
-      "last_spawn": "2026-07-11T04:44:38.646211"
+      "total_spawns": 9472,
+      "last_spawn": "2026-07-11T04:45:12.346158"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 75001,
+    "total_spawns": 75005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
