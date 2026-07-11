@@ -13,7 +13,7 @@
         "Oddish": 50,
         "Totodile": 17,
         "Vanillite": 100,
-        "Weedle": 67,
+        "Weedle": 69,
         "Kabutops": 6,
         "Poliwag": 41,
         "Fidough": 46,
@@ -128,7 +128,7 @@
         "Bronzor": 8,
         "Swirlix": 11,
         "Varoom": 78,
-        "Ducklett": 10,
+        "Ducklett": 11,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 4,
         "Torchic": 17,
@@ -341,7 +341,7 @@
         "Ursaring": 5,
         "Bidoof": 4,
         "Gothita": 41,
-        "Solosis": 51,
+        "Solosis": 52,
         "Sandygast": 9,
         "Pidove": 35,
         "Chespin": 14,
@@ -838,7 +838,7 @@
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 7,
-        "Araquanid": 6,
+        "Araquanid": 8,
         "Glaceon": 4,
         "Grumpig": 3,
         "Roaring moon": 2,
@@ -993,8 +993,8 @@
         "Unown e": 2,
         "Latias": 2
       },
-      "total_spawns": 11519,
-      "last_spawn": "2026-07-11T17:51:03.831386"
+      "total_spawns": 11525,
+      "last_spawn": "2026-07-11T17:51:46.112147"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1918,7 +1918,7 @@
     }
   },
   "global": {
-    "total_spawns": 82635,
+    "total_spawns": 82641,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
