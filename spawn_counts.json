@@ -53,7 +53,7 @@
         "Applin": 9,
         "Staryu": 4,
         "Maschiff": 33,
-        "Smoliv": 44,
+        "Smoliv": 45,
         "Tirtouga": 16,
         "Hatenna": 82,
         "Shroomish": 7,
@@ -395,7 +395,7 @@
         "Meganium": 10,
         "Rainy castform": 5,
         "Rabsca": 11,
-        "Misdreavus": 11,
+        "Misdreavus": 12,
         "Cursola": 2,
         "Carbink": 3,
         "Scorbunny": 9,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 8,
         "Burmy": 1,
-        "Sewaddle": 29,
+        "Sewaddle": 30,
         "Shelmet": 9,
         "Combusken": 5,
         "Croagunk": 12,
@@ -772,7 +772,7 @@
         "Beautifly": 5,
         "Cinderace": 4,
         "Cramorant": 1,
-        "Sandy wormadam": 1,
+        "Sandy wormadam": 2,
         "Haxorus": 4,
         "Lilligant": 2,
         "Fan rotom": 2,
@@ -960,7 +960,7 @@
         "Mandibuzz": 1,
         "Magcargo": 1,
         "Miltank": 2,
-        "Ribombee": 3,
+        "Ribombee": 4,
         "Dragalge": 2,
         "Exeggutor": 1,
         "Klefki": 2,
@@ -983,8 +983,8 @@
         "Gumshoos": 2,
         "Carracosta": 1
       },
-      "total_spawns": 10845,
-      "last_spawn": "2026-07-11T15:15:24.037700"
+      "total_spawns": 10850,
+      "last_spawn": "2026-07-11T15:16:03.617101"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1908,7 +1908,7 @@
     }
   },
   "global": {
-    "total_spawns": 81961,
+    "total_spawns": 81966,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
