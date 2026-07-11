@@ -351,11 +351,11 @@
         "Tinkaton": 2,
         "Bergmite": 7,
         "Klang": 9,
-        "Tepig": 15,
+        "Tepig": 16,
         "Spinda": 1,
         "Phantump": 11,
         "Barboach": 5,
-        "Nosepass": 5,
+        "Nosepass": 6,
         "Electrike": 20,
         "Hoppip": 43,
         "Slowbro": 5,
@@ -380,7 +380,7 @@
         "Unown": 3,
         "Poltchageist": 7,
         "Slakoth": 43,
-        "Klink": 24,
+        "Klink": 25,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 7,
@@ -702,7 +702,7 @@
         "Spidops": 12,
         "Glimmora": 9,
         "Parasect": 4,
-        "Fuecoco": 10,
+        "Fuecoco": 11,
         "Loudred": 9,
         "Vespiquen": 4,
         "Gastrodon": 1,
@@ -976,8 +976,8 @@
         "Ditto": 2,
         "Blade aegislash": 1
       },
-      "total_spawns": 10639,
-      "last_spawn": "2026-07-11T14:49:13.879366"
+      "total_spawns": 10643,
+      "last_spawn": "2026-07-11T14:49:53.561517"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1901,7 +1901,7 @@
     }
   },
   "global": {
-    "total_spawns": 81755,
+    "total_spawns": 81759,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
