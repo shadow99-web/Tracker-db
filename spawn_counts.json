@@ -991,7 +991,7 @@
         "Nymble": 26,
         "Porygon": 28,
         "Abra": 39,
-        "Oddish": 31,
+        "Oddish": 32,
         "Dedenne": 3,
         "Gothita": 35,
         "Finizen": 34,
@@ -1034,7 +1034,7 @@
         "Grimer": 6,
         "Grafaiai": 8,
         "Gastly": 38,
-        "Orthworm": 25,
+        "Orthworm": 26,
         "Glimmet": 37,
         "Beldum": 17,
         "Combee": 12,
@@ -1376,7 +1376,7 @@
         "Stunfisk": 2,
         "Spinda": 3,
         "Beautifly": 4,
-        "Fletchling": 36,
+        "Fletchling": 37,
         "Haunter": 7,
         "Sandshrew": 7,
         "Fletchinder": 6,
@@ -1858,12 +1858,12 @@
         "Alolan ninetales": 1,
         "Yanmega": 1
       },
-      "total_spawns": 7035,
-      "last_spawn": "2026-07-11T12:33:40.953962"
+      "total_spawns": 7038,
+      "last_spawn": "2026-07-11T12:47:10.975925"
     }
   },
   "global": {
-    "total_spawns": 80067,
+    "total_spawns": 80070,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
