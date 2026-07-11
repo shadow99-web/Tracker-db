@@ -47,7 +47,7 @@
         "Tadbulb": 48,
         "Yanmega": 3,
         "Tympole": 37,
-        "Grubbin": 38,
+        "Grubbin": 39,
         "Scatterbug": 41,
         "Skwovet": 17,
         "Applin": 9,
@@ -55,7 +55,7 @@
         "Maschiff": 32,
         "Smoliv": 43,
         "Tirtouga": 16,
-        "Hatenna": 81,
+        "Hatenna": 82,
         "Shroomish": 7,
         "Lillipup": 47,
         "Mosslax": 84,
@@ -349,7 +349,7 @@
         "Cyndaquil": 12,
         "Grotle": 7,
         "Tinkaton": 2,
-        "Bergmite": 7,
+        "Bergmite": 8,
         "Klang": 9,
         "Tepig": 16,
         "Spinda": 1,
@@ -938,7 +938,7 @@
         "Annihilape": 2,
         "Victreebel": 1,
         "Galarian yamask": 2,
-        "Zebstrika": 2,
+        "Zebstrika": 4,
         "Unown u": 2,
         "Blaze breed tauros": 2,
         "Bellossom": 3,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10711,
-      "last_spawn": "2026-07-11T14:58:33.513705"
+      "total_spawns": 10716,
+      "last_spawn": "2026-07-11T14:59:03.583398"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81827,
+    "total_spawns": 81832,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
