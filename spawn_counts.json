@@ -12,7 +12,7 @@
         "Braixen": 16,
         "Oddish": 48,
         "Totodile": 17,
-        "Vanillite": 97,
+        "Vanillite": 98,
         "Weedle": 67,
         "Kabutops": 6,
         "Poliwag": 40,
@@ -48,7 +48,7 @@
         "Yanmega": 3,
         "Tympole": 41,
         "Grubbin": 40,
-        "Scatterbug": 43,
+        "Scatterbug": 44,
         "Skwovet": 17,
         "Applin": 9,
         "Staryu": 4,
@@ -205,7 +205,7 @@
         "Unfezant": 4,
         "Fraxure": 17,
         "Zubat": 35,
-        "Drowzee": 17,
+        "Drowzee": 18,
         "Lechonk": 48,
         "Woobat": 10,
         "Skrelp": 13,
@@ -490,7 +490,7 @@
         "Empoleon": 3,
         "Voltorb": 10,
         "Hitmonchan": 4,
-        "Pidgeot": 4,
+        "Pidgeot": 5,
         "Alakazam": 10,
         "Mismagius": 5,
         "Dada zarude": 1,
@@ -990,8 +990,8 @@
         "Golisopod": 2,
         "Zygarde cell": 2
       },
-      "total_spawns": 11366,
-      "last_spawn": "2026-07-11T17:24:33.689201"
+      "total_spawns": 11370,
+      "last_spawn": "2026-07-11T17:25:04.014977"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1915,7 +1915,7 @@
     }
   },
   "global": {
-    "total_spawns": 82482,
+    "total_spawns": 82486,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
