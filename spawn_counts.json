@@ -518,7 +518,7 @@
         "Bronzong": 3,
         "Foongus": 10,
         "Krookodile": 2,
-        "Espathra": 10,
+        "Espathra": 11,
         "Snom": 15,
         "Nickit": 13,
         "Aromatisse": 1,
@@ -593,13 +593,13 @@
         "Spiritomb": 2,
         "Gurdurr": 5,
         "Quilava": 11,
-        "Wurmple": 64,
+        "Wurmple": 66,
         "Sandshrew": 12,
         "Tauros": 5,
         "Golurk": 3,
         "Grimer": 9,
         "Frosmoth": 6,
-        "Darumaka": 8,
+        "Darumaka": 9,
         "Cubone": 9,
         "Conkeldurr": 3,
         "Sinistea": 6,
@@ -985,8 +985,8 @@
         "Pichu": 1,
         "Rapidash": 2
       },
-      "total_spawns": 11082,
-      "last_spawn": "2026-07-11T16:46:03.855488"
+      "total_spawns": 11086,
+      "last_spawn": "2026-07-11T16:46:43.567198"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1910,7 +1910,7 @@
     }
   },
   "global": {
-    "total_spawns": 82198,
+    "total_spawns": 82202,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
