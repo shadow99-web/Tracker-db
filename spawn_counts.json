@@ -1046,7 +1046,7 @@
         "Archaludon": 1,
         "Grapploct": 4,
         "Charcadet": 32,
-        "Sandile": 33,
+        "Sandile": 34,
         "Maushold": 10,
         "Rattata": 18,
         "Riolu": 5,
@@ -1092,7 +1092,7 @@
         "Clawitzer": 4,
         "Poliwrath": 1,
         "Combusken": 6,
-        "Bombirdier": 28,
+        "Bombirdier": 29,
         "Wooloo": 8,
         "Togekiss": 4,
         "Rolycoly": 40,
@@ -1165,7 +1165,7 @@
         "Clodsire": 9,
         "Sandaconda": 1,
         "Ninjask": 3,
-        "Pidove": 24,
+        "Pidove": 25,
         "Larvitar": 23,
         "Munna": 6,
         "Tangela": 9,
@@ -1176,7 +1176,7 @@
         "Dugtrio": 3,
         "Capsakid": 36,
         "Tyrunt": 11,
-        "Drilbur": 8,
+        "Drilbur": 9,
         "Vaporeon": 3,
         "Magneton": 10,
         "Pupitar": 7,
@@ -1299,7 +1299,7 @@
         "Chinchou": 7,
         "Magmar": 9,
         "Chef dente": 25,
-        "Sandygast": 4,
+        "Sandygast": 5,
         "Graveler": 9,
         "Duosion": 7,
         "Pawniard": 6,
@@ -1639,7 +1639,7 @@
         "Metang": 2,
         "Torchic": 7,
         "Primarina": 3,
-        "Hakamo-o": 7,
+        "Hakamo-o": 8,
         "Purrloin": 7,
         "Wigglytuff": 3,
         "Audino": 2,
@@ -1859,12 +1859,12 @@
         "Yanmega": 1,
         "Staraptor": 1
       },
-      "total_spawns": 7057,
-      "last_spawn": "2026-07-11T12:49:11.304893"
+      "total_spawns": 7063,
+      "last_spawn": "2026-07-11T12:49:47.008328"
     }
   },
   "global": {
-    "total_spawns": 80089,
+    "total_spawns": 80095,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
