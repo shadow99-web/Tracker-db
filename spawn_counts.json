@@ -91,7 +91,7 @@
         "Sandile": 89,
         "Charmeleon": 19,
         "Riolu": 26,
-        "Gible": 60,
+        "Gible": 62,
         "Greavard": 84,
         "Snover": 19,
         "Piplup": 15,
@@ -243,7 +243,7 @@
         "Luvdisc": 1,
         "Fennekin": 23,
         "Milcery": 21,
-        "Trumbeak": 10,
+        "Trumbeak": 11,
         "Bonsly": 8,
         "Growlithe": 7,
         "Rhydon": 9,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 5,
         "Bidoof": 5,
-        "Gothita": 42,
+        "Gothita": 43,
         "Solosis": 53,
         "Sandygast": 9,
         "Pidove": 35,
@@ -714,7 +714,7 @@
         "Remoraid": 7,
         "Exeggcute": 8,
         "Dunsparce": 5,
-        "Sobble": 15,
+        "Sobble": 16,
         "Lycanroc": 3,
         "Dustox": 3,
         "Alolan grimer": 6,
@@ -991,7 +991,7 @@
         "Zygarde cell": 2,
         "Dracozolt": 1,
         "Unown e": 2,
-        "Latias": 2,
+        "Latias": 4,
         "Cryogonal": 2,
         "Alolan golem": 2,
         "Roserade": 1,
@@ -1004,8 +1004,8 @@
         "Garganacl": 1,
         "Dugtrio": 2
       },
-      "total_spawns": 11960,
-      "last_spawn": "2026-07-11T19:07:33.595517"
+      "total_spawns": 11967,
+      "last_spawn": "2026-07-11T19:08:08.410171"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1929,7 +1929,7 @@
     }
   },
   "global": {
-    "total_spawns": 83076,
+    "total_spawns": 83083,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
