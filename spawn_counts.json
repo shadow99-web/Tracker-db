@@ -23,7 +23,7 @@
         "Anorith": 12,
         "Arctibax": 10,
         "Ralts": 66,
-        "Peakychu": 46,
+        "Peakychu": 48,
         "Cutiefly": 13,
         "Simipour": 4,
         "Tynamo": 34,
@@ -79,7 +79,7 @@
         "Salandit": 11,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 23,
+        "Bramblin": 24,
         "Stufful": 12,
         "Shelgon": 15,
         "Marshtomp": 23,
@@ -161,7 +161,7 @@
         "Swadloon": 11,
         "Sunny castform": 4,
         "Vullaby": 7,
-        "Venipede": 54,
+        "Venipede": 55,
         "Pansage": 12,
         "Cetoddle": 33,
         "Togepi": 47,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 34,
         "Mienshao": 3,
-        "Blipbug": 70,
+        "Blipbug": 72,
         "Rellor": 30,
         "Rolycoly": 45,
         "Poliwhirl": 10,
@@ -599,7 +599,7 @@
         "Golurk": 2,
         "Grimer": 7,
         "Frosmoth": 6,
-        "Darumaka": 7,
+        "Darumaka": 8,
         "Cubone": 9,
         "Conkeldurr": 3,
         "Sinistea": 6,
@@ -643,7 +643,7 @@
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 4,
-        "Shiinotic": 15,
+        "Shiinotic": 17,
         "Simisage": 6,
         "Cherubi": 8,
         "Heatmor": 1,
@@ -761,7 +761,7 @@
         "Chimecho": 2,
         "Natu": 6,
         "Gorebyss": 2,
-        "Eldegoss": 3,
+        "Eldegoss": 4,
         "Pinsir": 4,
         "Ivysaur": 11,
         "Pa'u oricorio": 1,
@@ -969,8 +969,8 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2
       },
-      "total_spawns": 10219,
-      "last_spawn": "2026-07-11T11:26:28.499657"
+      "total_spawns": 10229,
+      "last_spawn": "2026-07-11T11:27:03.762713"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1843,7 +1843,7 @@
     }
   },
   "global": {
-    "total_spawns": 79058,
+    "total_spawns": 79068,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
