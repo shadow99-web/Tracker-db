@@ -35,7 +35,7 @@
         "Fletchling": 46,
         "Whirlipede": 11,
         "Duskull": 86,
-        "Abra": 41,
+        "Abra": 42,
         "Wiglett": 28,
         "Starly": 73,
         "Caterpie": 38,
@@ -170,7 +170,7 @@
         "Unown q": 1,
         "Lotad": 37,
         "Mienshao": 3,
-        "Blipbug": 72,
+        "Blipbug": 74,
         "Rellor": 33,
         "Rolycoly": 46,
         "Poliwhirl": 10,
@@ -259,7 +259,7 @@
         "Skeledirge": 3,
         "Taillow": 9,
         "Watchog": 3,
-        "Porygon": 37,
+        "Porygon": 38,
         "Wooloo": 12,
         "Mawile": 7,
         "Marill": 10,
@@ -533,7 +533,7 @@
         "Midnight lycanroc": 8,
         "Skiploom": 8,
         "Stakataka": 1,
-        "Cascoon": 12,
+        "Cascoon": 13,
         "Sigilyph": 6,
         "Vibrava": 14,
         "Shuckle": 3,
@@ -975,8 +975,8 @@
         "Heatran": 1,
         "Ditto": 2
       },
-      "total_spawns": 10558,
-      "last_spawn": "2026-07-11T14:38:07.563446"
+      "total_spawns": 10563,
+      "last_spawn": "2026-07-11T14:38:43.579784"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1900,7 +1900,7 @@
     }
   },
   "global": {
-    "total_spawns": 81674,
+    "total_spawns": 81679,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
