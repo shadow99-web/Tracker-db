@@ -57,7 +57,7 @@
         "Tirtouga": 16,
         "Hatenna": 82,
         "Shroomish": 7,
-        "Lillipup": 47,
+        "Lillipup": 48,
         "Mosslax": 84,
         "Maushold": 5,
         "Cubchoo": 31,
@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 9,
         "Surskit": 10,
-        "Seedot": 36,
+        "Seedot": 37,
         "Jigglypuff": 12,
         "Spearow": 10,
         "Servine": 7,
@@ -669,7 +669,7 @@
         "Milotic": 1,
         "Slaking": 3,
         "Obstagoon": 2,
-        "Greninja": 6,
+        "Greninja": 8,
         "Wash rotom": 1,
         "Igglybuff": 5,
         "Garchomp": 4,
@@ -922,7 +922,7 @@
         "Vaporeon": 6,
         "Hypno": 1,
         "Tyranitar": 2,
-        "Sensu oricorio": 2,
+        "Sensu oricorio": 3,
         "Blaziken": 2,
         "Clawitzer": 1,
         "Giratina": 3,
@@ -981,8 +981,8 @@
         "Samurott": 1,
         "Dusknoir": 1
       },
-      "total_spawns": 10810,
-      "last_spawn": "2026-07-11T15:11:03.761115"
+      "total_spawns": 10815,
+      "last_spawn": "2026-07-11T15:11:43.741277"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1906,7 +1906,7 @@
     }
   },
   "global": {
-    "total_spawns": 81926,
+    "total_spawns": 81931,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
