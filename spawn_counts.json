@@ -32,7 +32,7 @@
         "Pidgey": 49,
         "Binacle": 13,
         "Bounsweet": 86,
-        "Fletchling": 52,
+        "Fletchling": 53,
         "Whirlipede": 11,
         "Duskull": 96,
         "Abra": 49,
@@ -236,7 +236,7 @@
         "Shellos": 4,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 46,
+        "Whismur": 47,
         "Jangmo-o": 33,
         "Lunatone": 1,
         "Machoke": 19,
@@ -264,7 +264,7 @@
         "Mawile": 9,
         "Marill": 11,
         "Lickitung": 8,
-        "Chewtle": 9,
+        "Chewtle": 10,
         "Onix": 15,
         "Dracovish": 3,
         "Slowpoke": 8,
@@ -537,7 +537,7 @@
         "Sigilyph": 6,
         "Vibrava": 15,
         "Shuckle": 3,
-        "White flower floette": 4,
+        "White flower floette": 5,
         "Octillery": 7,
         "Pawniard": 14,
         "Brionne": 11,
@@ -1005,8 +1005,8 @@
         "Dugtrio": 2,
         "Deoxys": 2
       },
-      "total_spawns": 12024,
-      "last_spawn": "2026-07-11T19:24:28.160400"
+      "total_spawns": 12028,
+      "last_spawn": "2026-07-11T19:25:08.387994"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1930,7 +1930,7 @@
     }
   },
   "global": {
-    "total_spawns": 83140,
+    "total_spawns": 83144,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
