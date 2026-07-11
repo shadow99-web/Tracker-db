@@ -9,7 +9,7 @@
     "1443875856803168360": {
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
-        "Braixen": 14,
+        "Braixen": 15,
         "Oddish": 47,
         "Totodile": 16,
         "Vanillite": 90,
@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 9,
         "Surskit": 10,
-        "Seedot": 34,
+        "Seedot": 35,
         "Jigglypuff": 12,
         "Spearow": 10,
         "Servine": 6,
@@ -402,7 +402,7 @@
         "Dubwool": 4,
         "Litleo": 14,
         "Silcoon": 14,
-        "Snivy": 7,
+        "Snivy": 8,
         "Zorua": 16,
         "Minior": 1,
         "Darmanitan": 7,
@@ -551,7 +551,7 @@
         "Mime jr.": 3,
         "Yungoos": 13,
         "Palpitoad": 10,
-        "Smeargle": 7,
+        "Smeargle": 8,
         "Appletun": 8,
         "Arrokuda": 7,
         "Toxapex": 6,
@@ -926,7 +926,7 @@
         "Blaziken": 2,
         "Clawitzer": 1,
         "Giratina": 2,
-        "Heliolisk": 1,
+        "Heliolisk": 2,
         "Skarmory": 4,
         "Beartic": 2,
         "Electrode": 2,
@@ -971,8 +971,8 @@
         "Galarian stunfisk": 2,
         "Tyrantrum": 2
       },
-      "total_spawns": 10465,
-      "last_spawn": "2026-07-11T12:02:05.565577"
+      "total_spawns": 10470,
+      "last_spawn": "2026-07-11T12:02:43.588206"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1861,7 +1861,7 @@
     }
   },
   "global": {
-    "total_spawns": 79924,
+    "total_spawns": 79929,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
