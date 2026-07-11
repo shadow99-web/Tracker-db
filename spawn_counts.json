@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 92,
         "Abra": 45,
-        "Wiglett": 36,
+        "Wiglett": 37,
         "Starly": 81,
         "Caterpie": 40,
         "Mareep": 38,
@@ -138,7 +138,7 @@
         "Eelektrik": 7,
         "Diglett": 9,
         "Surskit": 11,
-        "Seedot": 38,
+        "Seedot": 39,
         "Jigglypuff": 12,
         "Spearow": 11,
         "Servine": 7,
@@ -341,7 +341,7 @@
         "Ursaring": 5,
         "Bidoof": 4,
         "Gothita": 41,
-        "Solosis": 50,
+        "Solosis": 51,
         "Sandygast": 9,
         "Pidove": 35,
         "Chespin": 14,
@@ -368,7 +368,7 @@
         "Kommo-o": 3,
         "Vigoroth": 10,
         "Gigalith": 4,
-        "Kingambit": 2,
+        "Kingambit": 3,
         "Cresselia": 4,
         "Duraludon": 10,
         "Nidorino": 10,
@@ -993,8 +993,8 @@
         "Unown e": 2,
         "Latias": 2
       },
-      "total_spawns": 11515,
-      "last_spawn": "2026-07-11T17:50:23.967401"
+      "total_spawns": 11519,
+      "last_spawn": "2026-07-11T17:51:03.831386"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1918,7 +1918,7 @@
     }
   },
   "global": {
-    "total_spawns": 82631,
+    "total_spawns": 82635,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
