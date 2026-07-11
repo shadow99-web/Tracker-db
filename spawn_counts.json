@@ -48,7 +48,7 @@
         "Yanmega": 3,
         "Tympole": 37,
         "Grubbin": 38,
-        "Scatterbug": 39,
+        "Scatterbug": 40,
         "Skwovet": 17,
         "Applin": 9,
         "Staryu": 4,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 4,
         "Bidoof": 3,
-        "Gothita": 39,
+        "Gothita": 40,
         "Solosis": 47,
         "Sandygast": 8,
         "Pidove": 29,
@@ -834,7 +834,7 @@
         "Drifblim": 2,
         "Togedemaru": 1,
         "Jellicent": 3,
-        "Monferno": 6,
+        "Monferno": 7,
         "Smoochum": 1,
         "Drampa": 4,
         "Shieldon": 7,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10703,
-      "last_spawn": "2026-07-11T14:57:23.586594"
+      "total_spawns": 10706,
+      "last_spawn": "2026-07-11T14:57:53.675513"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81819,
+    "total_spawns": 81822,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
