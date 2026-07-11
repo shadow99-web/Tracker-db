@@ -970,10 +970,12 @@
         "Defense deoxys": 2,
         "Galarian stunfisk": 2,
         "Tyrantrum": 2,
-        "Purugly": 1
+        "Purugly": 1,
+        "Palkia": 1,
+        "Heatran": 1
       },
-      "total_spawns": 10497,
-      "last_spawn": "2026-07-11T13:41:05.915787"
+      "total_spawns": 10499,
+      "last_spawn": "2026-07-11T13:42:40.009475"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1029,7 +1031,7 @@
         "Kilowattrel": 14,
         "Skiploom": 9,
         "Voltorb": 15,
-        "Geodude": 37,
+        "Geodude": 38,
         "Treecko": 14,
         "Grimer": 9,
         "Grafaiai": 9,
@@ -1074,7 +1076,7 @@
         "Dratini": 29,
         "Sewaddle": 43,
         "Mantyke": 5,
-        "Slakoth": 40,
+        "Slakoth": 41,
         "Dreepy": 31,
         "Foongus": 15,
         "Hoppip": 40,
@@ -1128,7 +1130,7 @@
         "Vulpix": 12,
         "Sizzlipede": 20,
         "Spiky-eared pichu": 1,
-        "Swadloon": 7,
+        "Swadloon": 8,
         "Tynamo": 40,
         "Quaquaval": 7,
         "Rapidash": 5,
@@ -1161,7 +1163,7 @@
         "Quaxwell": 8,
         "Croconaw": 16,
         "Smoliv": 38,
-        "Lechonk": 38,
+        "Lechonk": 39,
         "Clodsire": 10,
         "Sandaconda": 1,
         "Ninjask": 3,
@@ -1448,7 +1450,7 @@
         "Farigiraf": 9,
         "Servine": 10,
         "Zoroark": 2,
-        "Aegislash": 4,
+        "Aegislash": 5,
         "Scyther": 9,
         "Azumarill": 2,
         "Rillaboom": 1,
@@ -1501,7 +1503,7 @@
         "Froakie": 7,
         "Inkay": 10,
         "Quilava": 8,
-        "Drowzee": 7,
+        "Drowzee": 8,
         "Nidorino": 9,
         "Sobble": 16,
         "Vigoroth": 8,
@@ -1891,12 +1893,12 @@
         "Thundurus": 1,
         "Girafarig": 1
       },
-      "total_spawns": 8549,
-      "last_spawn": "2026-07-11T13:42:11.156957"
+      "total_spawns": 8555,
+      "last_spawn": "2026-07-11T13:42:43.002767"
     }
   },
   "global": {
-    "total_spawns": 81585,
+    "total_spawns": 81593,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
