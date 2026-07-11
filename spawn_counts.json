@@ -31,7 +31,7 @@
         "Pyukumuku": 1,
         "Pidgey": 49,
         "Binacle": 13,
-        "Bounsweet": 85,
+        "Bounsweet": 86,
         "Fletchling": 52,
         "Whirlipede": 11,
         "Duskull": 94,
@@ -94,7 +94,7 @@
         "Gible": 60,
         "Greavard": 82,
         "Snover": 19,
-        "Piplup": 14,
+        "Piplup": 15,
         "Dondozo": 37,
         "Cyclizar": 16,
         "Froslass": 2,
@@ -261,7 +261,7 @@
         "Watchog": 4,
         "Porygon": 43,
         "Wooloo": 15,
-        "Mawile": 7,
+        "Mawile": 9,
         "Marill": 11,
         "Lickitung": 8,
         "Chewtle": 9,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 5,
         "Bidoof": 5,
-        "Gothita": 41,
+        "Gothita": 42,
         "Solosis": 53,
         "Sandygast": 9,
         "Pidove": 35,
@@ -353,7 +353,7 @@
         "Klang": 11,
         "Tepig": 16,
         "Spinda": 1,
-        "Phantump": 13,
+        "Phantump": 14,
         "Barboach": 5,
         "Nosepass": 7,
         "Electrike": 21,
@@ -408,7 +408,7 @@
         "Darmanitan": 7,
         "Lopunny": 3,
         "Chimchar": 15,
-        "Gligar": 10,
+        "Gligar": 11,
         "Quaxly": 20,
         "Spiky-eared pichu": 2,
         "Cradily": 8,
@@ -1003,8 +1003,8 @@
         "Shiftry": 1,
         "Garganacl": 1
       },
-      "total_spawns": 11930,
-      "last_spawn": "2026-07-11T19:03:28.132536"
+      "total_spawns": 11937,
+      "last_spawn": "2026-07-11T19:03:58.148741"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1928,7 +1928,7 @@
     }
   },
   "global": {
-    "total_spawns": 83046,
+    "total_spawns": 83053,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
