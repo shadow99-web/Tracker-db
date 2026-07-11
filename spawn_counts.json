@@ -79,7 +79,7 @@
         "Salandit": 11,
         "Bruxish": 2,
         "Orbeetle": 7,
-        "Bramblin": 24,
+        "Bramblin": 25,
         "Stufful": 14,
         "Shelgon": 15,
         "Marshtomp": 23,
@@ -296,7 +296,7 @@
         "Ceruledge": 8,
         "Vanillish": 11,
         "Gimmighoul": 35,
-        "Glimmet": 27,
+        "Glimmet": 28,
         "Popplio": 13,
         "Arboliva": 2,
         "Luxio": 4,
@@ -976,10 +976,11 @@
         "Ditto": 2,
         "Blade aegislash": 1,
         "Delibird": 1,
-        "Wellspring mask ogerpon": 2
+        "Wellspring mask ogerpon": 2,
+        "Nidoking": 2
       },
-      "total_spawns": 10723,
-      "last_spawn": "2026-07-11T15:00:03.849622"
+      "total_spawns": 10727,
+      "last_spawn": "2026-07-11T15:00:33.923264"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1904,7 @@
     }
   },
   "global": {
-    "total_spawns": 81839,
+    "total_spawns": 81843,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
