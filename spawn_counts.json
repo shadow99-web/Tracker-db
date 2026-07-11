@@ -107,7 +107,7 @@
         "Clauncher": 7,
         "Tentacool": 8,
         "Bayleef": 12,
-        "Magnezone": 3,
+        "Magnezone": 4,
         "Eevee": 30,
         "Dreepy": 83,
         "Treecko": 28,
@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 72,
         "Rellor": 33,
-        "Rolycoly": 45,
+        "Rolycoly": 46,
         "Poliwhirl": 10,
         "Lokix": 14,
         "Flamigo": 25,
@@ -313,7 +313,7 @@
         "Kilowattrel": 8,
         "Pumpkaboo": 7,
         "Petilil": 14,
-        "Bombirdier": 36,
+        "Bombirdier": 37,
         "Bellibolt": 9,
         "Toedscool": 34,
         "Paras": 7,
@@ -974,8 +974,8 @@
         "Palkia": 1,
         "Heatran": 1
       },
-      "total_spawns": 10527,
-      "last_spawn": "2026-07-11T14:33:53.597495"
+      "total_spawns": 10530,
+      "last_spawn": "2026-07-11T14:34:23.779273"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1899,7 +1899,7 @@
     }
   },
   "global": {
-    "total_spawns": 81643,
+    "total_spawns": 81646,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
