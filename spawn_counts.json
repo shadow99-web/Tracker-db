@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 88,
         "Abra": 42,
-        "Wiglett": 29,
+        "Wiglett": 30,
         "Starly": 73,
         "Caterpie": 38,
         "Mareep": 36,
@@ -47,7 +47,7 @@
         "Tadbulb": 48,
         "Yanmega": 3,
         "Tympole": 37,
-        "Grubbin": 37,
+        "Grubbin": 38,
         "Scatterbug": 39,
         "Skwovet": 17,
         "Applin": 9,
@@ -134,7 +134,7 @@
         "Torchic": 17,
         "Abomasnow": 7,
         "Slugma": 16,
-        "Venonat": 14,
+        "Venonat": 15,
         "Eelektrik": 7,
         "Diglett": 9,
         "Surskit": 10,
@@ -978,8 +978,8 @@
         "Delibird": 1,
         "Wellspring mask ogerpon": 2
       },
-      "total_spawns": 10700,
-      "last_spawn": "2026-07-11T14:56:53.494498"
+      "total_spawns": 10703,
+      "last_spawn": "2026-07-11T14:57:23.586594"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1903,7 +1903,7 @@
     }
   },
   "global": {
-    "total_spawns": 81816,
+    "total_spawns": 81819,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
