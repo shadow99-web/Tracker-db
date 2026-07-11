@@ -181,7 +181,7 @@
         "Beldum": 41,
         "Kadabra": 16,
         "Grovyle": 19,
-        "Dratini": 39,
+        "Dratini": 41,
         "Steelix": 4,
         "Sprigatito": 29,
         "Charcadet": 65,
@@ -284,7 +284,7 @@
         "Yellow plumage squawkabilly": 9,
         "Hattrem": 10,
         "Trash wormadam": 4,
-        "Purrloin": 4,
+        "Purrloin": 5,
         "Zigzagoon": 11,
         "Quilladin": 6,
         "Infernape": 3,
@@ -343,7 +343,7 @@
         "Gothita": 31,
         "Solosis": 39,
         "Sandygast": 7,
-        "Pidove": 24,
+        "Pidove": 25,
         "Chespin": 11,
         "Combee": 5,
         "Cyndaquil": 11,
@@ -909,7 +909,7 @@
         "Galarian meowth": 2,
         "Stretchy tatsugiri": 6,
         "Magmortar": 4,
-        "Swalot": 2,
+        "Swalot": 4,
         "Arctozolt": 1,
         "Floette": 1,
         "Zoroark": 4,
@@ -959,8 +959,8 @@
         "Alolan ninetales": 2,
         "Mandibuzz": 1
       },
-      "total_spawns": 9406,
-      "last_spawn": "2026-07-11T04:35:08.305312"
+      "total_spawns": 9412,
+      "last_spawn": "2026-07-11T04:35:48.209676"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1673,7 +1673,7 @@
     }
   },
   "global": {
-    "total_spawns": 74939,
+    "total_spawns": 74945,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
