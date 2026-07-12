@@ -296,14 +296,14 @@
         "Ceruledge": 10,
         "Vanillish": 13,
         "Gimmighoul": 43,
-        "Glimmet": 33,
+        "Glimmet": 34,
         "Popplio": 15,
         "Arboliva": 2,
         "Luxio": 7,
         "Quaxwell": 5,
         "Swanna": 3,
         "Torracat": 14,
-        "Geodude": 43,
+        "Geodude": 44,
         "Tentacruel": 1,
         "Archen": 31,
         "Blue plumage squawkabilly": 10,
@@ -421,7 +421,7 @@
         "Crabominable": 5,
         "Krabby": 9,
         "Mimikyu": 6,
-        "Hoothoot": 10,
+        "Hoothoot": 11,
         "Girafarig": 2,
         "Summer deerling": 3,
         "Seel": 14,
@@ -672,7 +672,7 @@
         "Greninja": 8,
         "Wash rotom": 1,
         "Igglybuff": 5,
-        "Garchomp": 5,
+        "Garchomp": 6,
         "Wigglytuff": 5,
         "Pangoro": 3,
         "Galarian zen darmanitan": 2,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12500,
-      "last_spawn": "2026-07-12T03:49:48.210937"
+      "total_spawns": 12504,
+      "last_spawn": "2026-07-12T03:50:18.222289"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83616,
+    "total_spawns": 83620,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
