@@ -53,7 +53,7 @@
         "Applin": 10,
         "Staryu": 5,
         "Maschiff": 39,
-        "Smoliv": 52,
+        "Smoliv": 53,
         "Tirtouga": 20,
         "Hatenna": 94,
         "Shroomish": 8,
@@ -69,7 +69,7 @@
         "Prof tangrowth": 36,
         "Vulpix": 31,
         "Gastly": 90,
-        "Aron": 56,
+        "Aron": 57,
         "Honedge": 86,
         "Houndour": 13,
         "Machop": 40,
@@ -220,7 +220,7 @@
         "Shuppet": 17,
         "Graveler": 9,
         "Duosion": 10,
-        "Orthworm": 44,
+        "Orthworm": 45,
         "Yamask": 9,
         "Nymble": 52,
         "Snorunt": 11,
@@ -827,7 +827,7 @@
         "Beedrill": 3,
         "Sandslash": 6,
         "Pupitar": 9,
-        "Zeraora": 2,
+        "Zeraora": 4,
         "Cobalion": 2,
         "Greedent": 4,
         "Galvantula": 1,
@@ -1013,8 +1013,8 @@
         "Pincurchin": 1,
         "Rhyperior": 1
       },
-      "total_spawns": 13041,
-      "last_spawn": "2026-07-12T12:23:05.719801"
+      "total_spawns": 13046,
+      "last_spawn": "2026-07-12T12:23:38.200991"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 88486,
+    "total_spawns": 88491,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
