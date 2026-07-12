@@ -403,7 +403,7 @@
         "Litleo": 15,
         "Silcoon": 15,
         "Snivy": 11,
-        "Zorua": 22,
+        "Zorua": 24,
         "Minior": 1,
         "Darmanitan": 7,
         "Lopunny": 3,
@@ -665,7 +665,7 @@
         "Lapras": 6,
         "Grimmsnarl": 4,
         "Sylveon": 10,
-        "Inteleon": 6,
+        "Inteleon": 7,
         "Milotic": 1,
         "Slaking": 3,
         "Obstagoon": 2,
@@ -958,7 +958,7 @@
         "Hisuian voltorb": 2,
         "Alolan ninetales": 2,
         "Mandibuzz": 2,
-        "Magcargo": 2,
+        "Magcargo": 3,
         "Miltank": 2,
         "Ribombee": 6,
         "Dragalge": 4,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12490,
-      "last_spawn": "2026-07-12T03:48:38.142699"
+      "total_spawns": 12494,
+      "last_spawn": "2026-07-12T03:49:08.206123"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83606,
+    "total_spawns": 83610,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
