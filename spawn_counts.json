@@ -1069,7 +1069,7 @@
         "Skiploom": 12,
         "Voltorb": 17,
         "Geodude": 46,
-        "Treecko": 16,
+        "Treecko": 17,
         "Grimer": 12,
         "Grafaiai": 10,
         "Gastly": 56,
@@ -1113,7 +1113,7 @@
         "Dratini": 37,
         "Sewaddle": 54,
         "Mantyke": 6,
-        "Slakoth": 54,
+        "Slakoth": 55,
         "Dreepy": 44,
         "Foongus": 17,
         "Hoppip": 52,
@@ -1317,7 +1317,7 @@
         "Pikachu": 6,
         "Yungoos": 13,
         "Luxio": 14,
-        "Frigibax": 50,
+        "Frigibax": 51,
         "Krokorok": 12,
         "Snorunt": 13,
         "Meganium": 1,
@@ -1327,7 +1327,7 @@
         "Ursaring": 11,
         "Zweilous": 6,
         "Amoonguss": 5,
-        "Varoom": 36,
+        "Varoom": 37,
         "Kirlia": 16,
         "Minccino": 12,
         "Charmander": 24,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11060,
-      "last_spawn": "2026-07-12T11:12:06.374716"
+      "total_spawns": 11064,
+      "last_spawn": "2026-07-12T11:12:46.191447"
     }
   },
   "global": {
-    "total_spawns": 86570,
+    "total_spawns": 86574,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
