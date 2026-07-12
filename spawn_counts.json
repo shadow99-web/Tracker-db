@@ -46,7 +46,7 @@
         "Wattrel": 51,
         "Tadbulb": 55,
         "Yanmega": 4,
-        "Tympole": 46,
+        "Tympole": 47,
         "Grubbin": 48,
         "Scatterbug": 49,
         "Skwovet": 18,
@@ -140,7 +140,7 @@
         "Surskit": 11,
         "Seedot": 44,
         "Jigglypuff": 13,
-        "Spearow": 11,
+        "Spearow": 12,
         "Servine": 8,
         "Wugtrio": 14,
         "Tranquill": 15,
@@ -620,7 +620,7 @@
         "Omanyte": 9,
         "Mamoswine": 6,
         "Spoink": 12,
-        "Dhelmise": 2,
+        "Dhelmise": 3,
         "Armaldo": 5,
         "Krokorok": 14,
         "Torkoal": 13,
@@ -777,7 +777,7 @@
         "Lilligant": 2,
         "Fan rotom": 4,
         "Ferrothorn": 1,
-        "Piloswine": 13,
+        "Piloswine": 14,
         "Granbull": 4,
         "Happiny": 7,
         "Chandelure": 2,
@@ -1015,8 +1015,8 @@
         "Alomomola": 1,
         "Mantyke": 1
       },
-      "total_spawns": 13406,
-      "last_spawn": "2026-07-12T14:16:48.428553"
+      "total_spawns": 13410,
+      "last_spawn": "2026-07-12T14:17:28.134608"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1997,7 +1997,7 @@
     }
   },
   "global": {
-    "total_spawns": 88851,
+    "total_spawns": 88855,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
