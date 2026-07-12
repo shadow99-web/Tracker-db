@@ -224,7 +224,7 @@
         "Yamask": 8,
         "Nymble": 51,
         "Snorunt": 11,
-        "Carvanha": 7,
+        "Carvanha": 8,
         "Toxel": 9,
         "Buneary": 10,
         "Gallade": 19,
@@ -268,7 +268,7 @@
         "Onix": 15,
         "Dracovish": 3,
         "Slowpoke": 8,
-        "Drizzile": 13,
+        "Drizzile": 14,
         "Tinkatink": 41,
         "Frillish": 7,
         "Plusle": 13,
@@ -310,7 +310,7 @@
         "Metang": 13,
         "Larvitar": 33,
         "Lumineon": 3,
-        "Kilowattrel": 9,
+        "Kilowattrel": 10,
         "Pumpkaboo": 9,
         "Petilil": 17,
         "Bombirdier": 42,
@@ -340,7 +340,7 @@
         "Furfrou": 4,
         "Ursaring": 6,
         "Bidoof": 5,
-        "Gothita": 48,
+        "Gothita": 49,
         "Solosis": 54,
         "Sandygast": 9,
         "Pidove": 36,
@@ -1008,8 +1008,8 @@
         "Sceptile": 2,
         "Floatzel": 1
       },
-      "total_spawns": 12613,
-      "last_spawn": "2026-07-12T05:15:49.371954"
+      "total_spawns": 12617,
+      "last_spawn": "2026-07-12T05:16:28.172222"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1933,7 +1933,7 @@
     }
   },
   "global": {
-    "total_spawns": 83729,
+    "total_spawns": 83733,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
