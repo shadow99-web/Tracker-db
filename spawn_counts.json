@@ -32,7 +32,7 @@
         "Pidgey": 60,
         "Binacle": 15,
         "Bounsweet": 94,
-        "Fletchling": 57,
+        "Fletchling": 58,
         "Whirlipede": 14,
         "Duskull": 112,
         "Abra": 51,
@@ -50,7 +50,7 @@
         "Grubbin": 49,
         "Scatterbug": 49,
         "Skwovet": 18,
-        "Applin": 10,
+        "Applin": 11,
         "Staryu": 7,
         "Maschiff": 40,
         "Smoliv": 54,
@@ -183,7 +183,7 @@
         "Grovyle": 23,
         "Dratini": 53,
         "Steelix": 4,
-        "Sprigatito": 47,
+        "Sprigatito": 49,
         "Charcadet": 95,
         "Mudsdale": 12,
         "Meowth": 21,
@@ -328,7 +328,7 @@
         "Crocalor": 4,
         "Magnemite": 48,
         "Doublade": 9,
-        "Sharpedo": 3,
+        "Sharpedo": 5,
         "Raboot": 12,
         "Oinkologne": 10,
         "Floragato": 15,
@@ -899,7 +899,7 @@
         "Barraskewda": 1,
         "Crawdaunt": 4,
         "Castform": 3,
-        "Chesnaught": 4,
+        "Chesnaught": 6,
         "Whiscash": 3,
         "Exploud": 3,
         "Staraptor": 1,
@@ -1016,8 +1016,8 @@
         "Mantyke": 1,
         "Dragonite": 2
       },
-      "total_spawns": 13579,
-      "last_spawn": "2026-07-12T14:43:48.396696"
+      "total_spawns": 13587,
+      "last_spawn": "2026-07-12T14:44:28.224099"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1998,7 +1998,7 @@
     }
   },
   "global": {
-    "total_spawns": 89024,
+    "total_spawns": 89032,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
