@@ -1030,7 +1030,7 @@
         "Nymble": 48,
         "Porygon": 45,
         "Abra": 60,
-        "Oddish": 51,
+        "Oddish": 52,
         "Dedenne": 3,
         "Gothita": 58,
         "Finizen": 57,
@@ -1095,7 +1095,7 @@
         "Trapinch": 49,
         "Hatenna": 54,
         "Drifloon": 14,
-        "Togepi": 50,
+        "Togepi": 51,
         "Snivy": 15,
         "Bellsprout": 57,
         "Scorbunny": 14,
@@ -1204,7 +1204,7 @@
         "Clodsire": 13,
         "Sandaconda": 2,
         "Ninjask": 5,
-        "Pidove": 44,
+        "Pidove": 45,
         "Larvitar": 33,
         "Munna": 11,
         "Tangela": 12,
@@ -1683,7 +1683,7 @@
         "Wigglytuff": 5,
         "Audino": 3,
         "Larvesta": 11,
-        "Sudowoodo": 5,
+        "Sudowoodo": 6,
         "Meowstic": 5,
         "Torterra": 6,
         "Charizard": 4,
@@ -1750,7 +1750,7 @@
         "Mandibuzz": 4,
         "Ledyba": 12,
         "Serperior": 2,
-        "Chingling": 2,
+        "Chingling": 3,
         "Garganacl": 6,
         "Fancy vivillon": 1,
         "Chimecho": 2,
@@ -1931,7 +1931,7 @@
         "Girafarig": 1,
         "Frost rotom": 2,
         "Dubwool": 2,
-        "Espeon": 3,
+        "Espeon": 4,
         "Hitmonlee": 2,
         "Tinkaton": 2,
         "Garchomp": 1,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11088,
-      "last_spawn": "2026-07-12T11:15:36.484404"
+      "total_spawns": 11094,
+      "last_spawn": "2026-07-12T11:16:10.144660"
     }
   },
   "global": {
-    "total_spawns": 86598,
+    "total_spawns": 86604,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
