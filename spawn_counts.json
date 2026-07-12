@@ -38,9 +38,9 @@
         "Abra": 50,
         "Wiglett": 40,
         "Starly": 89,
-        "Caterpie": 41,
+        "Caterpie": 42,
         "Mareep": 40,
-        "Capsakid": 52,
+        "Capsakid": 53,
         "Numel": 15,
         "Pawmo": 18,
         "Wattrel": 47,
@@ -456,7 +456,7 @@
         "Espurr": 16,
         "Pelipper": 2,
         "Excadrill": 8,
-        "Buizel": 9,
+        "Buizel": 10,
         "Pansear": 5,
         "Yanma": 14,
         "Galarian moltres": 2,
@@ -694,7 +694,7 @@
         "Furret": 6,
         "Helioptile": 11,
         "Salamence": 4,
-        "Meditite": 8,
+        "Meditite": 9,
         "Sneasel": 11,
         "Finneon": 6,
         "Pidgeotto": 9,
@@ -1008,8 +1008,8 @@
         "Sceptile": 2,
         "Floatzel": 1
       },
-      "total_spawns": 12650,
-      "last_spawn": "2026-07-12T05:20:50.430961"
+      "total_spawns": 12654,
+      "last_spawn": "2026-07-12T05:21:28.358281"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1933,7 +1933,7 @@
     }
   },
   "global": {
-    "total_spawns": 83766,
+    "total_spawns": 83770,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
