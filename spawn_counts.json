@@ -44,7 +44,7 @@
         "Numel": 15,
         "Pawmo": 18,
         "Wattrel": 49,
-        "Tadbulb": 53,
+        "Tadbulb": 54,
         "Yanmega": 4,
         "Tympole": 45,
         "Grubbin": 47,
@@ -117,7 +117,7 @@
         "Rattata": 36,
         "Stonjourner": 2,
         "Veluza": 86,
-        "Panpour": 14,
+        "Panpour": 15,
         "Crabrawler": 7,
         "Frogadier": 9,
         "Scovillain": 10,
@@ -246,7 +246,7 @@
         "Trumbeak": 12,
         "Bonsly": 8,
         "Growlithe": 8,
-        "Rhydon": 9,
+        "Rhydon": 10,
         "Ambipom": 4,
         "Solrock": 1,
         "Tinkatuff": 9,
@@ -429,7 +429,7 @@
         "Haunter": 13,
         "Dottler": 12,
         "Wailmer": 9,
-        "Frigibax": 112,
+        "Frigibax": 113,
         "Iron valiant": 2,
         "Ludicolo": 4,
         "Scraggy": 18,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12806,
-      "last_spawn": "2026-07-12T05:42:08.133978"
+      "total_spawns": 12810,
+      "last_spawn": "2026-07-12T05:42:38.184126"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83922,
+    "total_spawns": 83926,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
