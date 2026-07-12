@@ -1054,7 +1054,7 @@
         "Karrablast": 14,
         "Timburr": 50,
         "Pidgey": 32,
-        "Gimmighoul": 44,
+        "Gimmighoul": 45,
         "Cetoddle": 47,
         "Fidough": 49,
         "Smearguru": 29,
@@ -1087,7 +1087,7 @@
         "Charcadet": 50,
         "Sandile": 59,
         "Maushold": 12,
-        "Rattata": 36,
+        "Rattata": 37,
         "Riolu": 15,
         "Aromatisse": 4,
         "Slowpoke": 10,
@@ -1208,7 +1208,7 @@
         "Larvitar": 33,
         "Munna": 11,
         "Tangela": 12,
-        "Espurr": 12,
+        "Espurr": 13,
         "Doduo": 15,
         "Kadabra": 12,
         "Stretchy tatsugiri": 13,
@@ -1219,7 +1219,7 @@
         "Vaporeon": 4,
         "Magneton": 17,
         "Pupitar": 12,
-        "Durant": 4,
+        "Durant": 5,
         "Jigglypuff": 14,
         "Steenee": 12,
         "Mareanie": 12,
@@ -1337,7 +1337,7 @@
         "Spheal": 38,
         "Chinchou": 14,
         "Magmar": 14,
-        "Chef dente": 40,
+        "Chef dente": 41,
         "Sandygast": 9,
         "Graveler": 14,
         "Duosion": 16,
@@ -1357,7 +1357,7 @@
         "Pom-pom oricorio": 1,
         "Toxapex": 4,
         "Frogadier": 17,
-        "Golett": 13,
+        "Golett": 14,
         "Mismagius": 4,
         "Mudbray": 16,
         "Weepinbell": 12,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11127,
-      "last_spawn": "2026-07-12T11:19:00.138406"
+      "total_spawns": 11133,
+      "last_spawn": "2026-07-12T11:19:39.996726"
     }
   },
   "global": {
-    "total_spawns": 86637,
+    "total_spawns": 86643,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
