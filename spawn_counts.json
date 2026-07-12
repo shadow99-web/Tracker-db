@@ -91,7 +91,7 @@
         "Sandile": 97,
         "Charmeleon": 21,
         "Riolu": 28,
-        "Gible": 72,
+        "Gible": 74,
         "Greavard": 92,
         "Snover": 19,
         "Piplup": 15,
@@ -219,7 +219,7 @@
         "Donphan": 7,
         "Shuppet": 17,
         "Graveler": 9,
-        "Duosion": 9,
+        "Duosion": 10,
         "Orthworm": 44,
         "Yamask": 9,
         "Nymble": 52,
@@ -543,7 +543,7 @@
         "Brionne": 11,
         "Zarude": 2,
         "Yamper": 8,
-        "Tropius": 2,
+        "Tropius": 3,
         "Tatsugiri": 10,
         "Xerneas": 4,
         "Nincada": 20,
@@ -1011,8 +1011,8 @@
         "Bouffalant": 1,
         "Galarian farfetch'd": 2
       },
-      "total_spawns": 12932,
-      "last_spawn": "2026-07-12T08:01:28.118915"
+      "total_spawns": 12936,
+      "last_spawn": "2026-07-12T08:02:00.361481"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1936,7 +1936,7 @@
     }
   },
   "global": {
-    "total_spawns": 84048,
+    "total_spawns": 84052,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
