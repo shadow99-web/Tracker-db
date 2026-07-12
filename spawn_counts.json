@@ -108,7 +108,7 @@
         "Tentacool": 8,
         "Bayleef": 13,
         "Magnezone": 5,
-        "Eevee": 38,
+        "Eevee": 40,
         "Dreepy": 91,
         "Treecko": 32,
         "Shroodle": 53,
@@ -278,7 +278,7 @@
         "Chinchou": 9,
         "Eiscue": 2,
         "Nacli": 42,
-        "Pancham": 13,
+        "Pancham": 14,
         "Bulbasaur": 35,
         "Dewpider": 15,
         "Yellow plumage squawkabilly": 14,
@@ -950,7 +950,7 @@
         "Druddigon": 4,
         "Galarian mr. mime": 2,
         "Arbok": 1,
-        "Aerodactyl": 2,
+        "Aerodactyl": 3,
         "Gothitelle": 5,
         "Turtonator": 2,
         "Cofagrigus": 1,
@@ -1008,8 +1008,8 @@
         "Sceptile": 2,
         "Floatzel": 1
       },
-      "total_spawns": 12625,
-      "last_spawn": "2026-07-12T05:17:38.105999"
+      "total_spawns": 12629,
+      "last_spawn": "2026-07-12T05:18:09.717205"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1933,7 +1933,7 @@
     }
   },
   "global": {
-    "total_spawns": 83741,
+    "total_spawns": 83745,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
