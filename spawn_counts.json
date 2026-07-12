@@ -101,7 +101,7 @@
         "Dodrio": 11,
         "Metagross": 10,
         "Corphish": 10,
-        "Doduo": 11,
+        "Doduo": 12,
         "Flittle": 53,
         "Armarouge": 12,
         "Clauncher": 8,
@@ -402,7 +402,7 @@
         "Dubwool": 4,
         "Litleo": 15,
         "Silcoon": 15,
-        "Snivy": 13,
+        "Snivy": 14,
         "Zorua": 24,
         "Minior": 1,
         "Darmanitan": 7,
@@ -700,7 +700,7 @@
         "Pidgeotto": 9,
         "Hakamo-o": 8,
         "Spidops": 13,
-        "Glimmora": 13,
+        "Glimmora": 14,
         "Parasect": 5,
         "Fuecoco": 13,
         "Loudred": 10,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12810,
-      "last_spawn": "2026-07-12T05:42:38.184126"
+      "total_spawns": 12813,
+      "last_spawn": "2026-07-12T05:43:08.184985"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83926,
+    "total_spawns": 83929,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
