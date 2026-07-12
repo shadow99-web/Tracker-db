@@ -1024,7 +1024,7 @@
         "Gible": 37,
         "Torracat": 16,
         "Dusclops": 12,
-        "Rhyhorn": 52,
+        "Rhyhorn": 53,
         "Mareep": 51,
         "Klink": 44,
         "Nymble": 48,
@@ -1047,7 +1047,7 @@
         "Glimmora": 14,
         "Meditite": 15,
         "Pansage": 8,
-        "Whismur": 70,
+        "Whismur": 71,
         "Jangmo-o": 32,
         "Samurott": 4,
         "Kleavor": 1,
@@ -1110,7 +1110,7 @@
         "Aron": 41,
         "Horsea": 52,
         "Teddiursa": 57,
-        "Dratini": 37,
+        "Dratini": 38,
         "Sewaddle": 54,
         "Mantyke": 6,
         "Slakoth": 55,
@@ -1195,11 +1195,11 @@
         "Chikorita": 25,
         "Litwick": 58,
         "Metapod": 11,
-        "Morgrem": 12,
+        "Morgrem": 13,
         "Gorebyss": 2,
         "Quaxwell": 10,
         "Croconaw": 19,
-        "Smoliv": 46,
+        "Smoliv": 47,
         "Lechonk": 50,
         "Clodsire": 13,
         "Sandaconda": 2,
@@ -1364,7 +1364,7 @@
         "East sea shellos": 9,
         "Flygon": 2,
         "Cyclizar": 16,
-        "Murkrow": 18,
+        "Murkrow": 19,
         "Drednaw": 4,
         "Cyndaquil": 18,
         "Thievul": 3,
@@ -1444,7 +1444,7 @@
         "Smeargle": 4,
         "Ceruledge": 18,
         "Swampert": 3,
-        "Naclstack": 20,
+        "Naclstack": 21,
         "Golbat": 17,
         "Shuppet": 18,
         "East sea gastrodon": 2,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11074,
-      "last_spawn": "2026-07-12T11:14:26.319792"
+      "total_spawns": 11081,
+      "last_spawn": "2026-07-12T11:15:00.006081"
     }
   },
   "global": {
-    "total_spawns": 86584,
+    "total_spawns": 86591,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
