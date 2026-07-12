@@ -29,7 +29,7 @@
         "Tynamo": 40,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 52,
+        "Pidgey": 53,
         "Binacle": 13,
         "Bounsweet": 86,
         "Fletchling": 53,
@@ -179,7 +179,7 @@
         "Bellsprout": 27,
         "Houndstone": 6,
         "Beldum": 57,
-        "Kadabra": 23,
+        "Kadabra": 24,
         "Grovyle": 21,
         "Dratini": 51,
         "Steelix": 4,
@@ -357,7 +357,7 @@
         "Barboach": 6,
         "Nosepass": 7,
         "Electrike": 21,
-        "Hoppip": 46,
+        "Hoppip": 47,
         "Slowbro": 6,
         "Gholdengo": 10,
         "Trubbish": 14,
@@ -781,7 +781,7 @@
         "Granbull": 4,
         "Happiny": 6,
         "Chandelure": 1,
-        "Umbreon": 6,
+        "Umbreon": 8,
         "Ninjask": 4,
         "Arctovish": 2,
         "Ariados": 1,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12330,
-      "last_spawn": "2026-07-12T01:25:58.223455"
+      "total_spawns": 12335,
+      "last_spawn": "2026-07-12T01:26:28.562337"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83446,
+    "total_spawns": 83451,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
