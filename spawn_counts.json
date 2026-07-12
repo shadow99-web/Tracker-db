@@ -13,7 +13,7 @@
         "Oddish": 57,
         "Totodile": 18,
         "Vanillite": 104,
-        "Weedle": 75,
+        "Weedle": 77,
         "Kabutops": 6,
         "Poliwag": 42,
         "Fidough": 51,
@@ -38,7 +38,7 @@
         "Abra": 50,
         "Wiglett": 40,
         "Starly": 89,
-        "Caterpie": 40,
+        "Caterpie": 41,
         "Mareep": 40,
         "Capsakid": 52,
         "Numel": 15,
@@ -70,7 +70,7 @@
         "Vulpix": 31,
         "Gastly": 88,
         "Aron": 55,
-        "Honedge": 74,
+        "Honedge": 75,
         "Houndour": 13,
         "Machop": 35,
         "Terapagos": 1,
@@ -1008,8 +1008,8 @@
         "Sceptile": 2,
         "Floatzel": 1
       },
-      "total_spawns": 12604,
-      "last_spawn": "2026-07-12T05:14:48.274962"
+      "total_spawns": 12608,
+      "last_spawn": "2026-07-12T05:15:18.399639"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1933,7 +1933,7 @@
     }
   },
   "global": {
-    "total_spawns": 83720,
+    "total_spawns": 83724,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
