@@ -151,7 +151,7 @@
         "Trapinch": 42,
         "Butterfree": 9,
         "Teddiursa": 90,
-        "Roggenrola": 68,
+        "Roggenrola": 70,
         "Litwick": 46,
         "Wooper": 15,
         "Pikipek": 81,
@@ -277,7 +277,7 @@
         "Ledyba": 18,
         "Chinchou": 10,
         "Eiscue": 2,
-        "Nacli": 48,
+        "Nacli": 49,
         "Pancham": 14,
         "Bulbasaur": 37,
         "Dewpider": 15,
@@ -1012,10 +1012,11 @@
         "Galarian farfetch'd": 2,
         "Pincurchin": 1,
         "Rhyperior": 1,
-        "Alomomola": 1
+        "Alomomola": 1,
+        "Mantyke": 1
       },
-      "total_spawns": 13247,
-      "last_spawn": "2026-07-12T13:55:08.138011"
+      "total_spawns": 13251,
+      "last_spawn": "2026-07-12T13:55:38.337655"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1996,7 +1997,7 @@
     }
   },
   "global": {
-    "total_spawns": 88692,
+    "total_spawns": 88696,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
