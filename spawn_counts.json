@@ -130,7 +130,7 @@
         "Varoom": 88,
         "Ducklett": 11,
         "Three-segment dudunsparce": 3,
-        "Sandy burmy": 4,
+        "Sandy burmy": 5,
         "Torchic": 21,
         "Abomasnow": 9,
         "Slugma": 18,
@@ -150,7 +150,7 @@
         "Claydol": 2,
         "Trapinch": 42,
         "Butterfree": 9,
-        "Teddiursa": 86,
+        "Teddiursa": 88,
         "Roggenrola": 68,
         "Litwick": 46,
         "Wooper": 15,
@@ -1011,10 +1011,11 @@
         "Bouffalant": 1,
         "Galarian farfetch'd": 2,
         "Pincurchin": 1,
-        "Rhyperior": 1
+        "Rhyperior": 1,
+        "Alomomola": 1
       },
-      "total_spawns": 13172,
-      "last_spawn": "2026-07-12T13:45:48.215251"
+      "total_spawns": 13176,
+      "last_spawn": "2026-07-12T13:46:20.196568"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1995,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 88617,
+    "total_spawns": 88621,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
