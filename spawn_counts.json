@@ -70,7 +70,7 @@
         "Vulpix": 31,
         "Gastly": 88,
         "Aron": 55,
-        "Honedge": 81,
+        "Honedge": 82,
         "Houndour": 13,
         "Machop": 37,
         "Terapagos": 1,
@@ -126,7 +126,7 @@
         "Rookidee": 93,
         "Flapple": 14,
         "Bronzor": 10,
-        "Swirlix": 12,
+        "Swirlix": 13,
         "Varoom": 84,
         "Ducklett": 11,
         "Three-segment dudunsparce": 3,
@@ -143,7 +143,7 @@
         "Spearow": 11,
         "Servine": 8,
         "Wugtrio": 13,
-        "Tranquill": 14,
+        "Tranquill": 15,
         "Cetitan": 11,
         "Turtwig": 27,
         "Fomantis": 11,
@@ -321,7 +321,7 @@
         "Staravia": 14,
         "Wishiwashi": 3,
         "Skitty": 17,
-        "Finizen": 42,
+        "Finizen": 43,
         "Swablu": 10,
         "Sunkern": 12,
         "Snubbull": 7,
@@ -1009,8 +1009,8 @@
         "Floatzel": 1,
         "Hisuian decidueye": 2
       },
-      "total_spawns": 12755,
-      "last_spawn": "2026-07-12T05:35:08.323875"
+      "total_spawns": 12759,
+      "last_spawn": "2026-07-12T05:35:38.330778"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83871,
+    "total_spawns": 83875,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
