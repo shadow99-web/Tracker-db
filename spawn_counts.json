@@ -88,7 +88,7 @@
         "Drakloak": 21,
         "Victini": 1,
         "Pawmi": 102,
-        "Sandile": 99,
+        "Sandile": 101,
         "Charmeleon": 21,
         "Riolu": 28,
         "Gible": 74,
@@ -175,7 +175,7 @@
         "Rolycoly": 56,
         "Poliwhirl": 14,
         "Lokix": 16,
-        "Flamigo": 32,
+        "Flamigo": 33,
         "Bellsprout": 29,
         "Houndstone": 6,
         "Beldum": 61,
@@ -662,7 +662,7 @@
         "Gabite": 16,
         "Tapu fini": 4,
         "Gyarados": 3,
-        "Lapras": 6,
+        "Lapras": 8,
         "Grimmsnarl": 4,
         "Sylveon": 10,
         "Inteleon": 8,
@@ -914,7 +914,7 @@
         "Floette": 3,
         "Zoroark": 5,
         "Avalugg": 1,
-        "Carnivine": 2,
+        "Carnivine": 3,
         "Yellow flower floette": 1,
         "Medicham": 4,
         "Crobat": 4,
@@ -1013,8 +1013,8 @@
         "Pincurchin": 1,
         "Rhyperior": 1
       },
-      "total_spawns": 13054,
-      "last_spawn": "2026-07-12T12:24:48.255529"
+      "total_spawns": 13060,
+      "last_spawn": "2026-07-12T12:25:28.096056"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 88499,
+    "total_spawns": 88505,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
