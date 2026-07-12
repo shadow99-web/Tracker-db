@@ -195,7 +195,7 @@
         "Dj rotom": 32,
         "Chef dente": 42,
         "Hisuian qwilfish": 1,
-        "Bagon": 64,
+        "Bagon": 66,
         "Pikachu": 28,
         "Tarountula": 54,
         "Rhyhorn": 55,
@@ -329,7 +329,7 @@
         "Magnemite": 44,
         "Doublade": 9,
         "Sharpedo": 3,
-        "Raboot": 11,
+        "Raboot": 12,
         "Oinkologne": 10,
         "Floragato": 13,
         "Larvesta": 29,
@@ -723,7 +723,7 @@
         "Wormadam": 3,
         "Crustle": 4,
         "Sawk": 2,
-        "Azumarill": 3,
+        "Azumarill": 4,
         "Delphox": 2,
         "Cranidos": 14,
         "Tsareena": 5,
@@ -740,7 +740,7 @@
         "Galarian slowbro": 4,
         "Oricorio": 3,
         "Hitmonlee": 5,
-        "Sudowoodo": 3,
+        "Sudowoodo": 4,
         "Yveltal": 3,
         "Illumise": 2,
         "Aggron": 2,
@@ -1013,8 +1013,8 @@
         "Pincurchin": 1,
         "Rhyperior": 1
       },
-      "total_spawns": 13102,
-      "last_spawn": "2026-07-12T12:31:18.560853"
+      "total_spawns": 13107,
+      "last_spawn": "2026-07-12T12:31:58.603397"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 88547,
+    "total_spawns": 88552,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
