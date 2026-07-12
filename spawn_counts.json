@@ -371,7 +371,7 @@
         "Kingambit": 3,
         "Cresselia": 4,
         "Duraludon": 10,
-        "Nidorino": 12,
+        "Nidorino": 13,
         "Rayquaza": 15,
         "Horsea": 45,
         "Reshiram": 3,
@@ -443,7 +443,7 @@
         "Tyrunt": 5,
         "Hisuian typhlosion": 2,
         "Ponyta": 8,
-        "Smearguru": 39,
+        "Smearguru": 40,
         "Magneton": 7,
         "Battle cyclizar": 9,
         "Minccino": 16,
@@ -700,7 +700,7 @@
         "Pidgeotto": 8,
         "Hakamo-o": 8,
         "Spidops": 13,
-        "Glimmora": 10,
+        "Glimmora": 11,
         "Parasect": 5,
         "Fuecoco": 13,
         "Loudred": 10,
@@ -789,7 +789,7 @@
         "Zapdos": 2,
         "Coalossal": 6,
         "Steenee": 8,
-        "Boltund": 3,
+        "Boltund": 4,
         "Weezing": 1,
         "Blue flower florges": 1,
         "Dudunsparce": 13,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12414,
-      "last_spawn": "2026-07-12T01:51:38.460135"
+      "total_spawns": 12418,
+      "last_spawn": "2026-07-12T01:52:18.324147"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83530,
+    "total_spawns": 83534,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
