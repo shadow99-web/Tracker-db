@@ -70,7 +70,7 @@
         "Vulpix": 31,
         "Gastly": 88,
         "Aron": 55,
-        "Honedge": 82,
+        "Honedge": 84,
         "Houndour": 13,
         "Machop": 38,
         "Terapagos": 1,
@@ -120,7 +120,7 @@
         "Panpour": 15,
         "Crabrawler": 7,
         "Frogadier": 9,
-        "Scovillain": 10,
+        "Scovillain": 11,
         "White plumage squawkabilly": 24,
         "Flaaffy": 7,
         "Rookidee": 93,
@@ -379,7 +379,7 @@
         "Morelull": 12,
         "Unown": 5,
         "Poltchageist": 8,
-        "Slakoth": 53,
+        "Slakoth": 54,
         "Klink": 29,
         "Mesprit": 1,
         "Azelf": 2,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12871,
-      "last_spawn": "2026-07-12T05:51:28.376239"
+      "total_spawns": 12875,
+      "last_spawn": "2026-07-12T05:51:58.443613"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83987,
+    "total_spawns": 83991,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
