@@ -1088,7 +1088,7 @@
         "Sandile": 59,
         "Maushold": 12,
         "Rattata": 36,
-        "Riolu": 14,
+        "Riolu": 15,
         "Aromatisse": 4,
         "Slowpoke": 10,
         "Seedot": 61,
@@ -1705,7 +1705,7 @@
         "Volcarona": 5,
         "Carvanha": 10,
         "Pelipper": 3,
-        "Wailmer": 17,
+        "Wailmer": 18,
         "Froslass": 4,
         "Staravia": 18,
         "Dudunsparce": 12,
@@ -1971,14 +1971,15 @@
         "Gourgeist": 1,
         "Icy snow vivillon": 1,
         "Great tusk": 1,
-        "Breloom": 1
+        "Breloom": 1,
+        "Beedrill": 1
       },
-      "total_spawns": 11025,
-      "last_spawn": "2026-07-12T11:06:06.374464"
+      "total_spawns": 11028,
+      "last_spawn": "2026-07-12T11:06:36.480190"
     }
   },
   "global": {
-    "total_spawns": 86535,
+    "total_spawns": 86538,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
