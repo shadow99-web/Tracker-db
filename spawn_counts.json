@@ -35,7 +35,7 @@
         "Fletchling": 54,
         "Whirlipede": 11,
         "Duskull": 98,
-        "Abra": 49,
+        "Abra": 50,
         "Wiglett": 40,
         "Starly": 87,
         "Caterpie": 40,
@@ -47,7 +47,7 @@
         "Tadbulb": 52,
         "Yanmega": 4,
         "Tympole": 45,
-        "Grubbin": 46,
+        "Grubbin": 47,
         "Scatterbug": 47,
         "Skwovet": 18,
         "Applin": 10,
@@ -376,7 +376,7 @@
         "Horsea": 46,
         "Reshiram": 3,
         "Celebi": 80,
-        "Morelull": 10,
+        "Morelull": 11,
         "Unown": 5,
         "Poltchageist": 7,
         "Slakoth": 50,
@@ -513,7 +513,7 @@
         "Necrozma": 4,
         "Dewott": 12,
         "Braviary": 10,
-        "Low key toxtricity": 9,
+        "Low key toxtricity": 10,
         "Nidorina": 11,
         "Bronzong": 5,
         "Foongus": 10,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12520,
-      "last_spawn": "2026-07-12T03:52:38.332212"
+      "total_spawns": 12524,
+      "last_spawn": "2026-07-12T03:53:12.937536"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83636,
+    "total_spawns": 83640,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
