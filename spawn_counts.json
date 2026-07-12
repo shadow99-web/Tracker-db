@@ -59,7 +59,7 @@
         "Shroomish": 8,
         "Lillipup": 53,
         "Mosslax": 100,
-        "Maushold": 7,
+        "Maushold": 8,
         "Cubchoo": 35,
         "Koffing": 11,
         "Kirlia": 31,
@@ -108,7 +108,7 @@
         "Tentacool": 8,
         "Bayleef": 12,
         "Magnezone": 5,
-        "Eevee": 36,
+        "Eevee": 38,
         "Dreepy": 89,
         "Treecko": 32,
         "Shroodle": 52,
@@ -136,7 +136,7 @@
         "Slugma": 18,
         "Venonat": 17,
         "Eelektrik": 8,
-        "Diglett": 10,
+        "Diglett": 11,
         "Surskit": 11,
         "Seedot": 42,
         "Jigglypuff": 13,
@@ -557,7 +557,7 @@
         "Toxapex": 8,
         "Pawmot": 2,
         "Blitzle": 10,
-        "Iron crown": 4,
+        "Iron crown": 6,
         "Barbaracle": 6,
         "Nidoqueen": 6,
         "White flower florges": 1,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12375,
-      "last_spawn": "2026-07-12T01:46:38.500524"
+      "total_spawns": 12381,
+      "last_spawn": "2026-07-12T01:47:18.200046"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83491,
+    "total_spawns": 83497,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
