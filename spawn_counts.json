@@ -199,7 +199,7 @@
         "Pikachu": 28,
         "Tarountula": 54,
         "Rhyhorn": 55,
-        "Aipom": 13,
+        "Aipom": 14,
         "Grookey": 19,
         "Inkay": 9,
         "Unfezant": 5,
@@ -295,7 +295,7 @@
         "Dartrix": 16,
         "Ceruledge": 10,
         "Vanillish": 13,
-        "Gimmighoul": 46,
+        "Gimmighoul": 47,
         "Glimmet": 37,
         "Popplio": 16,
         "Arboliva": 2,
@@ -351,7 +351,7 @@
         "Tinkaton": 2,
         "Bergmite": 12,
         "Klang": 11,
-        "Tepig": 18,
+        "Tepig": 19,
         "Spinda": 1,
         "Phantump": 17,
         "Barboach": 8,
@@ -1009,10 +1009,11 @@
         "Floatzel": 2,
         "Hisuian decidueye": 2,
         "Bouffalant": 1,
-        "Galarian farfetch'd": 2
+        "Galarian farfetch'd": 2,
+        "Pincurchin": 1
       },
-      "total_spawns": 13013,
-      "last_spawn": "2026-07-12T12:18:04.979832"
+      "total_spawns": 13017,
+      "last_spawn": "2026-07-12T12:18:38.246316"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1993,7 +1994,7 @@
     }
   },
   "global": {
-    "total_spawns": 88458,
+    "total_spawns": 88462,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
