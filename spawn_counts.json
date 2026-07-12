@@ -398,7 +398,7 @@
         "Misdreavus": 13,
         "Cursola": 2,
         "Carbink": 3,
-        "Scorbunny": 11,
+        "Scorbunny": 12,
         "Dubwool": 4,
         "Litleo": 15,
         "Silcoon": 15,
@@ -822,7 +822,7 @@
         "Mantine": 2,
         "Iron bundle": 2,
         "Gourgeist": 3,
-        "Luxray": 3,
+        "Luxray": 4,
         "Gogoat": 2,
         "Beedrill": 3,
         "Sandslash": 6,
@@ -927,7 +927,7 @@
         "Clawitzer": 1,
         "Giratina": 3,
         "Heliolisk": 3,
-        "Skarmory": 4,
+        "Skarmory": 5,
         "Beartic": 2,
         "Electrode": 2,
         "Cherrim": 2,
@@ -1009,8 +1009,8 @@
         "Floatzel": 1,
         "Hisuian decidueye": 2
       },
-      "total_spawns": 12682,
-      "last_spawn": "2026-07-12T05:25:18.180870"
+      "total_spawns": 12685,
+      "last_spawn": "2026-07-12T05:25:48.258405"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83798,
+    "total_spawns": 83801,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
