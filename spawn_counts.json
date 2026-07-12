@@ -34,7 +34,7 @@
         "Bounsweet": 88,
         "Fletchling": 54,
         "Whirlipede": 11,
-        "Duskull": 96,
+        "Duskull": 98,
         "Abra": 49,
         "Wiglett": 39,
         "Starly": 87,
@@ -113,7 +113,7 @@
         "Treecko": 32,
         "Shroodle": 52,
         "Ride cyclizar": 15,
-        "Swinub": 38,
+        "Swinub": 39,
         "Rattata": 35,
         "Stonjourner": 2,
         "Veluza": 86,
@@ -344,7 +344,7 @@
         "Solosis": 54,
         "Sandygast": 9,
         "Pidove": 35,
-        "Chespin": 14,
+        "Chespin": 15,
         "Combee": 7,
         "Cyndaquil": 19,
         "Grotle": 7,
@@ -665,14 +665,14 @@
         "Lapras": 6,
         "Grimmsnarl": 4,
         "Sylveon": 10,
-        "Inteleon": 7,
+        "Inteleon": 8,
         "Milotic": 1,
         "Slaking": 3,
         "Obstagoon": 2,
         "Greninja": 8,
         "Wash rotom": 1,
         "Igglybuff": 5,
-        "Garchomp": 4,
+        "Garchomp": 5,
         "Wigglytuff": 5,
         "Pangoro": 3,
         "Galarian zen darmanitan": 2,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12494,
-      "last_spawn": "2026-07-12T03:49:08.206123"
+      "total_spawns": 12500,
+      "last_spawn": "2026-07-12T03:49:48.210937"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83610,
+    "total_spawns": 83616,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
