@@ -15,7 +15,7 @@
         "Vanillite": 104,
         "Weedle": 79,
         "Kabutops": 6,
-        "Poliwag": 42,
+        "Poliwag": 43,
         "Fidough": 51,
         "Charjabug": 3,
         "Hatterene": 11,
@@ -72,7 +72,7 @@
         "Aron": 55,
         "Honedge": 82,
         "Houndour": 13,
-        "Machop": 37,
+        "Machop": 38,
         "Terapagos": 1,
         "Mankey": 15,
         "Torterra": 3,
@@ -150,7 +150,7 @@
         "Claydol": 2,
         "Trapinch": 39,
         "Butterfree": 9,
-        "Teddiursa": 84,
+        "Teddiursa": 86,
         "Roggenrola": 66,
         "Litwick": 45,
         "Wooper": 15,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12860,
-      "last_spawn": "2026-07-12T05:49:38.140229"
+      "total_spawns": 12864,
+      "last_spawn": "2026-07-12T05:50:08.299566"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83976,
+    "total_spawns": 83980,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
