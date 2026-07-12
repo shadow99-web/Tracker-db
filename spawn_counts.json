@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 22,
-        "Oddish": 59,
+        "Oddish": 60,
         "Totodile": 18,
         "Vanillite": 104,
         "Weedle": 79,
@@ -373,7 +373,7 @@
         "Duraludon": 12,
         "Nidorino": 14,
         "Rayquaza": 15,
-        "Horsea": 46,
+        "Horsea": 47,
         "Reshiram": 3,
         "Celebi": 80,
         "Morelull": 12,
@@ -578,7 +578,7 @@
         "Quaquaval": 1,
         "Boldore": 16,
         "Skorupi": 9,
-        "Probopass": 6,
+        "Probopass": 7,
         "Family of three maushold": 2,
         "Scyther": 32,
         "Polteageist": 3,
@@ -853,7 +853,7 @@
         "Blue flower floette": 1,
         "Jumpluff": 3,
         "Basculin": 3,
-        "Clobbopus": 6,
+        "Clobbopus": 7,
         "Spewpa": 6,
         "Delcatty": 2,
         "Whimsicott": 3,
@@ -1011,8 +1011,8 @@
         "Bouffalant": 1,
         "Galarian farfetch'd": 2
       },
-      "total_spawns": 12909,
-      "last_spawn": "2026-07-12T05:56:48.180363"
+      "total_spawns": 12913,
+      "last_spawn": "2026-07-12T05:57:28.230432"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1936,7 +1936,7 @@
     }
   },
   "global": {
-    "total_spawns": 84025,
+    "total_spawns": 84029,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
