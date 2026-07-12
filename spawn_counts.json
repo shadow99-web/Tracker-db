@@ -48,7 +48,7 @@
         "Yanmega": 4,
         "Tympole": 45,
         "Grubbin": 47,
-        "Scatterbug": 47,
+        "Scatterbug": 48,
         "Skwovet": 18,
         "Applin": 10,
         "Staryu": 5,
@@ -70,7 +70,7 @@
         "Vulpix": 31,
         "Gastly": 88,
         "Aron": 55,
-        "Honedge": 75,
+        "Honedge": 76,
         "Houndour": 13,
         "Machop": 35,
         "Terapagos": 1,
@@ -379,7 +379,7 @@
         "Morelull": 11,
         "Unown": 5,
         "Poltchageist": 7,
-        "Slakoth": 50,
+        "Slakoth": 51,
         "Klink": 28,
         "Mesprit": 1,
         "Azelf": 2,
@@ -938,7 +938,7 @@
         "Annihilape": 2,
         "Victreebel": 2,
         "Galarian yamask": 2,
-        "Zebstrika": 4,
+        "Zebstrika": 6,
         "Unown u": 2,
         "Blaze breed tauros": 2,
         "Bellossom": 3,
@@ -1008,8 +1008,8 @@
         "Sceptile": 2,
         "Floatzel": 1
       },
-      "total_spawns": 12608,
-      "last_spawn": "2026-07-12T05:15:18.399639"
+      "total_spawns": 12613,
+      "last_spawn": "2026-07-12T05:15:49.371954"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1933,7 +1933,7 @@
     }
   },
   "global": {
-    "total_spawns": 83724,
+    "total_spawns": 83729,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
