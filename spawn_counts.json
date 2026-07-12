@@ -1123,7 +1123,7 @@
         "Mosslax": 40,
         "Braixen": 10,
         "Skwovet": 8,
-        "Magnemite": 39,
+        "Magnemite": 40,
         "Impidimp": 68,
         "Elgyem": 11,
         "Gastrodon": 1,
@@ -1173,7 +1173,7 @@
         "Rapidash": 6,
         "Maschiff": 60,
         "Sensu oricorio": 5,
-        "Scatterbug": 51,
+        "Scatterbug": 52,
         "Taillow": 14,
         "Wimpod": 16,
         "Rookidee": 54,
@@ -1215,7 +1215,7 @@
         "Dugtrio": 3,
         "Capsakid": 55,
         "Tyrunt": 15,
-        "Drilbur": 14,
+        "Drilbur": 15,
         "Vaporeon": 4,
         "Magneton": 17,
         "Pupitar": 12,
@@ -1442,8 +1442,8 @@
         "Makuhita": 12,
         "Barboach": 7,
         "Smeargle": 4,
-        "Ceruledge": 18,
-        "Swampert": 3,
+        "Ceruledge": 19,
+        "Swampert": 4,
         "Naclstack": 21,
         "Golbat": 17,
         "Shuppet": 18,
@@ -1538,7 +1538,7 @@
         "Slowking": 5,
         "Goldeen": 15,
         "Froakie": 15,
-        "Inkay": 15,
+        "Inkay": 16,
         "Quilava": 15,
         "Drowzee": 12,
         "Nidorino": 10,
@@ -1804,7 +1804,7 @@
         "Linoone": 3,
         "Meowscarada": 3,
         "Mudsdale": 2,
-        "Mime jr.": 4,
+        "Mime jr.": 5,
         "Throh": 2,
         "Iron leaves": 1,
         "Hangry morpeko": 1,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11094,
-      "last_spawn": "2026-07-12T11:16:10.144660"
+      "total_spawns": 11101,
+      "last_spawn": "2026-07-12T11:16:46.532516"
     }
   },
   "global": {
-    "total_spawns": 86604,
+    "total_spawns": 86611,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
