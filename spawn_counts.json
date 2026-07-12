@@ -1146,11 +1146,11 @@
         "Flamigo": 40,
         "Stunky": 16,
         "Spinarak": 13,
-        "Gligar": 15,
+        "Gligar": 16,
         "Cubone": 11,
         "Dracovish": 4,
         "Deino": 36,
-        "Honedge": 47,
+        "Honedge": 48,
         "Litleo": 21,
         "Steelix": 3,
         "Greninja": 5,
@@ -1258,7 +1258,7 @@
         "Cherrim": 1,
         "Raboot": 6,
         "Summer deerling": 13,
-        "Skrelp": 11,
+        "Skrelp": 12,
         "Spewpa": 25,
         "Fomantis": 14,
         "Forretress": 1,
@@ -1315,7 +1315,7 @@
         "Poliwag": 44,
         "Passimian": 4,
         "Pikachu": 6,
-        "Yungoos": 13,
+        "Yungoos": 14,
         "Luxio": 14,
         "Frigibax": 51,
         "Krokorok": 12,
@@ -1444,9 +1444,9 @@
         "Smeargle": 4,
         "Ceruledge": 19,
         "Swampert": 4,
-        "Naclstack": 21,
+        "Naclstack": 22,
         "Golbat": 17,
-        "Shuppet": 18,
+        "Shuppet": 19,
         "East sea gastrodon": 2,
         "Grovyle": 20,
         "Grumpig": 5,
@@ -1462,7 +1462,7 @@
         "Vullaby": 8,
         "Burmy": 4,
         "Nidorina": 8,
-        "Meowth": 11,
+        "Meowth": 12,
         "Shelmet": 6,
         "Electabuzz": 10,
         "Galarian zen darmanitan": 1,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11101,
-      "last_spawn": "2026-07-12T11:16:46.532516"
+      "total_spawns": 11108,
+      "last_spawn": "2026-07-12T11:17:21.121732"
     }
   },
   "global": {
-    "total_spawns": 86611,
+    "total_spawns": 86618,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
