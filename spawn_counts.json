@@ -22,7 +22,7 @@
         "Rowlet": 19,
         "Anorith": 12,
         "Arctibax": 12,
-        "Ralts": 92,
+        "Ralts": 93,
         "Peakychu": 63,
         "Cutiefly": 13,
         "Simipour": 4,
@@ -34,7 +34,7 @@
         "Bounsweet": 92,
         "Fletchling": 54,
         "Whirlipede": 11,
-        "Duskull": 98,
+        "Duskull": 100,
         "Abra": 50,
         "Wiglett": 41,
         "Starly": 89,
@@ -44,7 +44,7 @@
         "Numel": 15,
         "Pawmo": 18,
         "Wattrel": 47,
-        "Tadbulb": 52,
+        "Tadbulb": 53,
         "Yanmega": 4,
         "Tympole": 45,
         "Grubbin": 47,
@@ -89,7 +89,7 @@
         "Victini": 1,
         "Pawmi": 97,
         "Sandile": 93,
-        "Charmeleon": 20,
+        "Charmeleon": 21,
         "Riolu": 26,
         "Gible": 66,
         "Greavard": 88,
@@ -932,7 +932,7 @@
         "Electrode": 2,
         "Cherrim": 2,
         "Ampharos": 2,
-        "Blue-striped basculin": 1,
+        "Blue-striped basculin": 2,
         "Summer sawsbuck": 2,
         "White-striped basculin": 2,
         "Annihilape": 2,
@@ -1009,8 +1009,8 @@
         "Floatzel": 1,
         "Hisuian decidueye": 2
       },
-      "total_spawns": 12672,
-      "last_spawn": "2026-07-12T05:23:58.140128"
+      "total_spawns": 12678,
+      "last_spawn": "2026-07-12T05:24:38.244251"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83788,
+    "total_spawns": 83794,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
