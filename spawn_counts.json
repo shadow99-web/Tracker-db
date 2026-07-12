@@ -77,7 +77,7 @@
         "Mankey": 16,
         "Torterra": 5,
         "Salandit": 12,
-        "Bruxish": 2,
+        "Bruxish": 3,
         "Orbeetle": 9,
         "Bramblin": 35,
         "Stufful": 14,
@@ -148,7 +148,7 @@
         "Turtwig": 27,
         "Fomantis": 12,
         "Claydol": 2,
-        "Trapinch": 45,
+        "Trapinch": 46,
         "Butterfree": 9,
         "Teddiursa": 90,
         "Roggenrola": 74,
@@ -209,7 +209,7 @@
         "Lechonk": 57,
         "Woobat": 13,
         "Skrelp": 14,
-        "Lileep": 15,
+        "Lileep": 16,
         "Drifloon": 12,
         "Mightyena": 7,
         "Sandaconda": 3,
@@ -612,7 +612,7 @@
         "Glameow": 6,
         "Zweilous": 9,
         "Azurill": 5,
-        "Oshawott": 9,
+        "Oshawott": 10,
         "Malamar": 5,
         "Orange flower florges": 1,
         "Minun": 6,
@@ -1017,8 +1017,8 @@
         "Dragonite": 2,
         "Archeops": 1
       },
-      "total_spawns": 13781,
-      "last_spawn": "2026-07-12T16:48:51.154209"
+      "total_spawns": 13785,
+      "last_spawn": "2026-07-12T16:49:28.445981"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -2025,7 +2025,7 @@
     }
   },
   "global": {
-    "total_spawns": 91241,
+    "total_spawns": 91245,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
