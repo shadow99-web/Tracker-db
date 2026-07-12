@@ -36,7 +36,7 @@
         "Whirlipede": 11,
         "Duskull": 98,
         "Abra": 50,
-        "Wiglett": 40,
+        "Wiglett": 41,
         "Starly": 89,
         "Caterpie": 42,
         "Mareep": 40,
@@ -148,7 +148,7 @@
         "Turtwig": 27,
         "Fomantis": 11,
         "Claydol": 2,
-        "Trapinch": 38,
+        "Trapinch": 39,
         "Butterfree": 9,
         "Teddiursa": 84,
         "Roggenrola": 64,
@@ -349,7 +349,7 @@
         "Cyndaquil": 19,
         "Grotle": 7,
         "Tinkaton": 2,
-        "Bergmite": 11,
+        "Bergmite": 12,
         "Klang": 11,
         "Tepig": 18,
         "Spinda": 1,
@@ -1007,10 +1007,10 @@
         "Bastiodon": 2,
         "Sceptile": 2,
         "Floatzel": 1,
-        "Hisuian decidueye": 1
+        "Hisuian decidueye": 2
       },
-      "total_spawns": 12662,
-      "last_spawn": "2026-07-12T05:22:48.202976"
+      "total_spawns": 12666,
+      "last_spawn": "2026-07-12T05:23:20.350610"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83778,
+    "total_spawns": 83782,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
