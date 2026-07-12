@@ -291,7 +291,7 @@
         "Noibat": 11,
         "Gothorita": 8,
         "Ekans": 9,
-        "Brambleghast": 11,
+        "Brambleghast": 12,
         "Dartrix": 16,
         "Ceruledge": 10,
         "Vanillish": 13,
@@ -506,7 +506,7 @@
         "Goomy": 31,
         "Breloom": 4,
         "Rillaboom": 10,
-        "Hippopotas": 8,
+        "Hippopotas": 9,
         "Reuniclus": 2,
         "Melmetal": 1,
         "Liepard": 5,
@@ -625,7 +625,7 @@
         "Krokorok": 14,
         "Torkoal": 13,
         "Clamperl": 5,
-        "Rampardos": 3,
+        "Rampardos": 4,
         "Weepinbell": 10,
         "Cufant": 9,
         "Mienfoo": 11,
@@ -792,7 +792,7 @@
         "Boltund": 4,
         "Weezing": 1,
         "Blue flower florges": 2,
-        "Dudunsparce": 13,
+        "Dudunsparce": 14,
         "Kingler": 2,
         "Aurorus": 4,
         "Cacnea": 7,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12507,
-      "last_spawn": "2026-07-12T03:50:48.765336"
+      "total_spawns": 12511,
+      "last_spawn": "2026-07-12T03:51:28.367756"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83623,
+    "total_spawns": 83627,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
