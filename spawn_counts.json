@@ -172,7 +172,7 @@
         "Mienshao": 3,
         "Blipbug": 80,
         "Rellor": 39,
-        "Rolycoly": 54,
+        "Rolycoly": 55,
         "Poliwhirl": 14,
         "Lokix": 16,
         "Flamigo": 32,
@@ -220,7 +220,7 @@
         "Shuppet": 17,
         "Graveler": 9,
         "Duosion": 9,
-        "Orthworm": 43,
+        "Orthworm": 44,
         "Yamask": 9,
         "Nymble": 52,
         "Snorunt": 11,
@@ -711,7 +711,7 @@
         "Hawlucha": 4,
         "Stunky": 16,
         "Garbodor": 6,
-        "Remoraid": 9,
+        "Remoraid": 10,
         "Exeggcute": 9,
         "Dunsparce": 5,
         "Sobble": 16,
@@ -845,7 +845,7 @@
         "Slowking": 2,
         "Kecleon": 4,
         "Tapu lele": 2,
-        "Naclstack": 7,
+        "Naclstack": 8,
         "Wobbuffet": 2,
         "Morgrem": 5,
         "Budew": 3,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12900,
-      "last_spawn": "2026-07-12T05:55:28.515813"
+      "total_spawns": 12904,
+      "last_spawn": "2026-07-12T05:56:08.399950"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 84016,
+    "total_spawns": 84020,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
