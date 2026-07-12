@@ -87,7 +87,7 @@
         "Shinx": 98,
         "Drakloak": 21,
         "Victini": 1,
-        "Pawmi": 96,
+        "Pawmi": 97,
         "Sandile": 93,
         "Charmeleon": 19,
         "Riolu": 26,
@@ -165,7 +165,7 @@
         "Pansage": 15,
         "Cetoddle": 42,
         "Togepi": 58,
-        "Tandemaus": 38,
+        "Tandemaus": 39,
         "Clefairy": 10,
         "Unown q": 1,
         "Lotad": 43,
@@ -477,7 +477,7 @@
         "Alolan raichu": 2,
         "Hitmontop": 3,
         "Pignite": 14,
-        "Bunnelby": 9,
+        "Bunnelby": 10,
         "Complete zygarde": 3,
         "Mudbray": 20,
         "Spectrier": 1,
@@ -1005,10 +1005,11 @@
         "Dugtrio": 2,
         "Deoxys": 2,
         "Bastiodon": 2,
-        "Sceptile": 2
+        "Sceptile": 2,
+        "Floatzel": 1
       },
-      "total_spawns": 12600,
-      "last_spawn": "2026-07-12T05:14:08.197197"
+      "total_spawns": 12604,
+      "last_spawn": "2026-07-12T05:14:48.274962"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1933,7 @@
     }
   },
   "global": {
-    "total_spawns": 83716,
+    "total_spawns": 83720,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
