@@ -40,7 +40,7 @@
         "Starly": 93,
         "Caterpie": 42,
         "Mareep": 41,
-        "Capsakid": 54,
+        "Capsakid": 55,
         "Numel": 16,
         "Pawmo": 18,
         "Wattrel": 49,
@@ -134,7 +134,7 @@
         "Torchic": 21,
         "Abomasnow": 9,
         "Slugma": 18,
-        "Venonat": 18,
+        "Venonat": 19,
         "Eelektrik": 8,
         "Diglett": 12,
         "Surskit": 11,
@@ -195,7 +195,7 @@
         "Dj rotom": 32,
         "Chef dente": 44,
         "Hisuian qwilfish": 1,
-        "Bagon": 66,
+        "Bagon": 68,
         "Pikachu": 28,
         "Tarountula": 55,
         "Rhyhorn": 56,
@@ -929,7 +929,7 @@
         "Heliolisk": 3,
         "Skarmory": 5,
         "Beartic": 2,
-        "Electrode": 3,
+        "Electrode": 4,
         "Cherrim": 2,
         "Ampharos": 2,
         "Blue-striped basculin": 2,
@@ -1014,8 +1014,8 @@
         "Rhyperior": 1,
         "Alomomola": 1
       },
-      "total_spawns": 13242,
-      "last_spawn": "2026-07-12T13:54:28.385400"
+      "total_spawns": 13247,
+      "last_spawn": "2026-07-12T13:55:08.138011"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1996,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 88687,
+    "total_spawns": 88692,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
