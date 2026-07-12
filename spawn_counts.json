@@ -236,7 +236,7 @@
         "Shellos": 4,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 47,
+        "Whismur": 48,
         "Jangmo-o": 33,
         "Lunatone": 1,
         "Machoke": 20,
@@ -455,7 +455,7 @@
         "Slurpuff": 2,
         "Espurr": 16,
         "Pelipper": 2,
-        "Excadrill": 6,
+        "Excadrill": 8,
         "Buizel": 9,
         "Pansear": 5,
         "Yanma": 14,
@@ -551,7 +551,7 @@
         "Mime jr.": 4,
         "Yungoos": 15,
         "Palpitoad": 12,
-        "Smeargle": 10,
+        "Smeargle": 12,
         "Appletun": 10,
         "Arrokuda": 8,
         "Toxapex": 8,
@@ -654,7 +654,7 @@
         "Phanpy": 9,
         "Patrat": 4,
         "Passimian": 3,
-        "Jynx": 1,
+        "Jynx": 2,
         "Noctowl": 4,
         "Munna": 6,
         "Mabosstiff": 8,
@@ -873,7 +873,7 @@
         "Centiskorch": 2,
         "Swellow": 6,
         "Kangaskhan": 8,
-        "Jirachi": 3,
+        "Jirachi": 4,
         "Emboar": 2,
         "Cacturne": 2,
         "Kricketune": 3,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12560,
-      "last_spawn": "2026-07-12T03:57:58.227866"
+      "total_spawns": 12567,
+      "last_spawn": "2026-07-12T03:58:38.180285"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83676,
+    "total_spawns": 83683,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
