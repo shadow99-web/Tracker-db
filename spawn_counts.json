@@ -43,7 +43,7 @@
         "Capsakid": 55,
         "Numel": 16,
         "Pawmo": 18,
-        "Wattrel": 49,
+        "Wattrel": 50,
         "Tadbulb": 55,
         "Yanmega": 4,
         "Tympole": 46,
@@ -88,7 +88,7 @@
         "Drakloak": 21,
         "Victini": 1,
         "Pawmi": 103,
-        "Sandile": 103,
+        "Sandile": 105,
         "Charmeleon": 21,
         "Riolu": 28,
         "Gible": 78,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 9,
         "Charizard": 12,
-        "Axew": 119,
+        "Axew": 121,
         "Joltik": 16,
         "Gulpin": 9,
         "Mareanie": 10,
@@ -1015,8 +1015,8 @@
         "Alomomola": 1,
         "Mantyke": 1
       },
-      "total_spawns": 13310,
-      "last_spawn": "2026-07-12T14:03:08.487252"
+      "total_spawns": 13315,
+      "last_spawn": "2026-07-12T14:03:38.566247"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1997,7 +1997,7 @@
     }
   },
   "global": {
-    "total_spawns": 88755,
+    "total_spawns": 88760,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
