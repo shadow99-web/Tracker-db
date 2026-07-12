@@ -15,7 +15,7 @@
         "Vanillite": 108,
         "Weedle": 81,
         "Kabutops": 7,
-        "Poliwag": 44,
+        "Poliwag": 45,
         "Fidough": 53,
         "Charjabug": 3,
         "Hatterene": 13,
@@ -283,7 +283,7 @@
         "Dewpider": 17,
         "Yellow plumage squawkabilly": 16,
         "Hattrem": 13,
-        "Trash wormadam": 6,
+        "Trash wormadam": 7,
         "Purrloin": 8,
         "Zigzagoon": 14,
         "Quilladin": 11,
@@ -1014,10 +1014,11 @@
         "Rhyperior": 1,
         "Alomomola": 1,
         "Mantyke": 1,
-        "Dragonite": 2
+        "Dragonite": 2,
+        "Archeops": 1
       },
-      "total_spawns": 13594,
-      "last_spawn": "2026-07-12T14:45:38.333555"
+      "total_spawns": 13597,
+      "last_spawn": "2026-07-12T14:46:08.791728"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1998,7 +1999,7 @@
     }
   },
   "global": {
-    "total_spawns": 89039,
+    "total_spawns": 89042,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
