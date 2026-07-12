@@ -10,7 +10,7 @@
       "name": "PokeMania Arcadia \u00ae",
       "counts": {
         "Braixen": 24,
-        "Oddish": 61,
+        "Oddish": 62,
         "Totodile": 18,
         "Vanillite": 114,
         "Weedle": 83,
@@ -70,9 +70,9 @@
         "Vulpix": 37,
         "Gastly": 90,
         "Aron": 60,
-        "Honedge": 89,
+        "Honedge": 90,
         "Houndour": 13,
-        "Machop": 42,
+        "Machop": 43,
         "Terapagos": 1,
         "Mankey": 16,
         "Torterra": 5,
@@ -334,7 +334,7 @@
         "Floragato": 15,
         "Larvesta": 31,
         "Magby": 2,
-        "Roaming gimmighoul": 37,
+        "Roaming gimmighoul": 38,
         "Volcarona": 11,
         "Togekiss": 7,
         "Furfrou": 4,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 9,
         "Charizard": 12,
-        "Axew": 129,
+        "Axew": 131,
         "Joltik": 16,
         "Gulpin": 10,
         "Mareanie": 10,
@@ -1017,8 +1017,8 @@
         "Dragonite": 2,
         "Archeops": 1
       },
-      "total_spawns": 13788,
-      "last_spawn": "2026-07-12T16:50:08.814840"
+      "total_spawns": 13794,
+      "last_spawn": "2026-07-12T16:50:48.412134"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -2025,7 +2025,7 @@
     }
   },
   "global": {
-    "total_spawns": 91248,
+    "total_spawns": 91254,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
