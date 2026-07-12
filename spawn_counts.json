@@ -64,7 +64,7 @@
         "Koffing": 11,
         "Kirlia": 31,
         "Deino": 37,
-        "Dolliv": 12,
+        "Dolliv": 13,
         "Feebas": 20,
         "Prof tangrowth": 36,
         "Vulpix": 31,
@@ -92,7 +92,7 @@
         "Charmeleon": 21,
         "Riolu": 26,
         "Gible": 72,
-        "Greavard": 90,
+        "Greavard": 92,
         "Snover": 19,
         "Piplup": 15,
         "Dondozo": 38,
@@ -288,7 +288,7 @@
         "Zigzagoon": 14,
         "Quilladin": 11,
         "Infernape": 4,
-        "Noibat": 11,
+        "Noibat": 12,
         "Gothorita": 8,
         "Ekans": 10,
         "Brambleghast": 12,
@@ -343,7 +343,7 @@
         "Gothita": 50,
         "Solosis": 55,
         "Sandygast": 9,
-        "Pidove": 37,
+        "Pidove": 38,
         "Chespin": 15,
         "Combee": 7,
         "Cyndaquil": 19,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12875,
-      "last_spawn": "2026-07-12T05:51:58.443613"
+      "total_spawns": 12880,
+      "last_spawn": "2026-07-12T05:52:38.095694"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83991,
+    "total_spawns": 83996,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
