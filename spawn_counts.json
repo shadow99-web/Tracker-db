@@ -90,7 +90,7 @@
         "Pawmi": 100,
         "Sandile": 97,
         "Charmeleon": 21,
-        "Riolu": 26,
+        "Riolu": 28,
         "Gible": 72,
         "Greavard": 92,
         "Snover": 19,
@@ -268,7 +268,7 @@
         "Onix": 15,
         "Dracovish": 3,
         "Slowpoke": 8,
-        "Drizzile": 14,
+        "Drizzile": 15,
         "Tinkatink": 41,
         "Frillish": 7,
         "Plusle": 13,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 9,
         "Charizard": 10,
-        "Axew": 111,
+        "Axew": 112,
         "Joltik": 15,
         "Gulpin": 8,
         "Mareanie": 10,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12880,
-      "last_spawn": "2026-07-12T05:52:38.095694"
+      "total_spawns": 12884,
+      "last_spawn": "2026-07-12T05:53:08.324113"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83996,
+    "total_spawns": 84000,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
