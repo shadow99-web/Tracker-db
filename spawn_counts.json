@@ -136,7 +136,7 @@
         "Slugma": 18,
         "Venonat": 18,
         "Eelektrik": 8,
-        "Diglett": 11,
+        "Diglett": 12,
         "Surskit": 11,
         "Seedot": 44,
         "Jigglypuff": 13,
@@ -196,7 +196,7 @@
         "Chef dente": 41,
         "Hisuian qwilfish": 1,
         "Bagon": 64,
-        "Pikachu": 26,
+        "Pikachu": 28,
         "Tarountula": 54,
         "Rhyhorn": 55,
         "Aipom": 13,
@@ -511,7 +511,7 @@
         "Melmetal": 1,
         "Liepard": 5,
         "Necrozma": 4,
-        "Dewott": 12,
+        "Dewott": 13,
         "Braviary": 10,
         "Low key toxtricity": 12,
         "Nidorina": 11,
@@ -570,7 +570,7 @@
         "Squawkabilly": 14,
         "Seadra": 7,
         "Sealeo": 9,
-        "Baltoy": 11,
+        "Baltoy": 12,
         "Karrablast": 13,
         "Volbeat": 3,
         "Murkrow": 6,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12786,
-      "last_spawn": "2026-07-12T05:39:08.630898"
+      "total_spawns": 12791,
+      "last_spawn": "2026-07-12T05:39:48.213638"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 83902,
+    "total_spawns": 83907,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
