@@ -87,7 +87,7 @@
         "Shinx": 98,
         "Drakloak": 21,
         "Victini": 1,
-        "Pawmi": 97,
+        "Pawmi": 98,
         "Sandile": 95,
         "Charmeleon": 21,
         "Riolu": 26,
@@ -221,7 +221,7 @@
         "Graveler": 9,
         "Duosion": 9,
         "Orthworm": 42,
-        "Yamask": 8,
+        "Yamask": 9,
         "Nymble": 51,
         "Snorunt": 11,
         "Carvanha": 8,
@@ -379,7 +379,7 @@
         "Morelull": 11,
         "Unown": 5,
         "Poltchageist": 7,
-        "Slakoth": 51,
+        "Slakoth": 52,
         "Klink": 28,
         "Mesprit": 1,
         "Azelf": 2,
@@ -402,7 +402,7 @@
         "Dubwool": 4,
         "Litleo": 15,
         "Silcoon": 15,
-        "Snivy": 12,
+        "Snivy": 13,
         "Zorua": 24,
         "Minior": 1,
         "Darmanitan": 7,
@@ -1009,8 +1009,8 @@
         "Floatzel": 1,
         "Hisuian decidueye": 2
       },
-      "total_spawns": 12722,
-      "last_spawn": "2026-07-12T05:30:28.535275"
+      "total_spawns": 12726,
+      "last_spawn": "2026-07-12T05:31:08.389609"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83838,
+    "total_spawns": 83842,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
