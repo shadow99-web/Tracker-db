@@ -179,7 +179,7 @@
         "Bellsprout": 30,
         "Houndstone": 6,
         "Beldum": 63,
-        "Kadabra": 26,
+        "Kadabra": 28,
         "Grovyle": 21,
         "Dratini": 53,
         "Steelix": 4,
@@ -198,7 +198,7 @@
         "Bagon": 66,
         "Pikachu": 28,
         "Tarountula": 55,
-        "Rhyhorn": 55,
+        "Rhyhorn": 56,
         "Aipom": 14,
         "Grookey": 19,
         "Inkay": 9,
@@ -593,7 +593,7 @@
         "Spiritomb": 2,
         "Gurdurr": 6,
         "Quilava": 17,
-        "Wurmple": 80,
+        "Wurmple": 82,
         "Sandshrew": 13,
         "Tauros": 5,
         "Golurk": 3,
@@ -734,7 +734,7 @@
         "Electivire": 3,
         "Farigiraf": 8,
         "Raichu": 2,
-        "Meowstic": 3,
+        "Meowstic": 4,
         "Zangoose": 2,
         "Thievul": 5,
         "Galarian slowbro": 4,
@@ -1014,8 +1014,8 @@
         "Rhyperior": 1,
         "Alomomola": 1
       },
-      "total_spawns": 13222,
-      "last_spawn": "2026-07-12T13:52:08.331817"
+      "total_spawns": 13228,
+      "last_spawn": "2026-07-12T13:52:48.295285"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1996,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 88667,
+    "total_spawns": 88673,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
