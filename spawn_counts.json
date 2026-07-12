@@ -15,7 +15,7 @@
         "Vanillite": 106,
         "Weedle": 79,
         "Kabutops": 6,
-        "Poliwag": 43,
+        "Poliwag": 44,
         "Fidough": 52,
         "Charjabug": 3,
         "Hatterene": 13,
@@ -33,7 +33,7 @@
         "Binacle": 14,
         "Bounsweet": 94,
         "Fletchling": 56,
-        "Whirlipede": 13,
+        "Whirlipede": 14,
         "Duskull": 108,
         "Abra": 51,
         "Wiglett": 45,
@@ -753,7 +753,7 @@
         "Lampent": 7,
         "Roselia": 6,
         "Pineco": 9,
-        "Maractus": 6,
+        "Maractus": 8,
         "Togetic": 10,
         "Bewear": 6,
         "Indeedee": 5,
@@ -1014,8 +1014,8 @@
         "Rhyperior": 1,
         "Alomomola": 1
       },
-      "total_spawns": 13213,
-      "last_spawn": "2026-07-12T13:50:58.309080"
+      "total_spawns": 13217,
+      "last_spawn": "2026-07-12T13:51:28.344822"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1996,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 88658,
+    "total_spawns": 88662,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
