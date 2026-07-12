@@ -53,7 +53,7 @@
         "Applin": 10,
         "Staryu": 5,
         "Maschiff": 39,
-        "Smoliv": 51,
+        "Smoliv": 52,
         "Tirtouga": 20,
         "Hatenna": 92,
         "Shroomish": 8,
@@ -176,7 +176,7 @@
         "Poliwhirl": 14,
         "Lokix": 16,
         "Flamigo": 32,
-        "Bellsprout": 28,
+        "Bellsprout": 29,
         "Houndstone": 6,
         "Beldum": 61,
         "Kadabra": 26,
@@ -642,7 +642,7 @@
         "Raticate": 10,
         "Weavile": 2,
         "Amped toxtricity": 2,
-        "Scizor": 4,
+        "Scizor": 6,
         "Shiinotic": 17,
         "Simisage": 6,
         "Cherubi": 11,
@@ -694,7 +694,7 @@
         "Furret": 6,
         "Helioptile": 12,
         "Salamence": 4,
-        "Meditite": 9,
+        "Meditite": 10,
         "Sneasel": 11,
         "Finneon": 6,
         "Pidgeotto": 9,
@@ -1013,8 +1013,8 @@
         "Pincurchin": 1,
         "Rhyperior": 1
       },
-      "total_spawns": 13022,
-      "last_spawn": "2026-07-12T12:19:18.555300"
+      "total_spawns": 13027,
+      "last_spawn": "2026-07-12T12:19:58.161618"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 88467,
+    "total_spawns": 88472,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
