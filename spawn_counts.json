@@ -13,7 +13,7 @@
         "Oddish": 58,
         "Totodile": 18,
         "Vanillite": 104,
-        "Weedle": 77,
+        "Weedle": 79,
         "Kabutops": 6,
         "Poliwag": 42,
         "Fidough": 51,
@@ -89,7 +89,7 @@
         "Victini": 1,
         "Pawmi": 97,
         "Sandile": 93,
-        "Charmeleon": 19,
+        "Charmeleon": 20,
         "Riolu": 26,
         "Gible": 66,
         "Greavard": 88,
@@ -751,7 +751,7 @@
         "High plain vivillon": 1,
         "Metapod": 15,
         "Lampent": 7,
-        "Roselia": 5,
+        "Roselia": 6,
         "Pineco": 9,
         "Maractus": 6,
         "Togetic": 9,
@@ -793,7 +793,7 @@
         "Weezing": 1,
         "Blue flower florges": 2,
         "Dudunsparce": 15,
-        "Kingler": 2,
+        "Kingler": 4,
         "Aurorus": 4,
         "Cacnea": 7,
         "Sableye": 6,
@@ -1009,8 +1009,8 @@
         "Floatzel": 1,
         "Hisuian decidueye": 2
       },
-      "total_spawns": 12666,
-      "last_spawn": "2026-07-12T05:23:20.350610"
+      "total_spawns": 12672,
+      "last_spawn": "2026-07-12T05:23:58.140128"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83782,
+    "total_spawns": 83788,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
