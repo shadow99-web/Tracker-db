@@ -326,7 +326,7 @@
         "Sunkern": 12,
         "Snubbull": 9,
         "Crocalor": 4,
-        "Magnemite": 41,
+        "Magnemite": 42,
         "Doublade": 9,
         "Sharpedo": 3,
         "Raboot": 11,
@@ -376,7 +376,7 @@
         "Horsea": 48,
         "Reshiram": 3,
         "Celebi": 80,
-        "Morelull": 13,
+        "Morelull": 14,
         "Unown": 5,
         "Poltchageist": 8,
         "Slakoth": 55,
@@ -1011,8 +1011,8 @@
         "Bouffalant": 1,
         "Galarian farfetch'd": 2
       },
-      "total_spawns": 12960,
-      "last_spawn": "2026-07-12T08:41:41.446680"
+      "total_spawns": 12962,
+      "last_spawn": "2026-07-12T08:45:31.358305"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1936,7 +1936,7 @@
     }
   },
   "global": {
-    "total_spawns": 84076,
+    "total_spawns": 84078,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
