@@ -40,7 +40,7 @@
         "Starly": 93,
         "Caterpie": 45,
         "Mareep": 42,
-        "Capsakid": 55,
+        "Capsakid": 56,
         "Numel": 16,
         "Pawmo": 18,
         "Wattrel": 51,
@@ -67,7 +67,7 @@
         "Dolliv": 13,
         "Feebas": 20,
         "Prof tangrowth": 38,
-        "Vulpix": 34,
+        "Vulpix": 35,
         "Gastly": 90,
         "Aron": 60,
         "Honedge": 88,
@@ -303,7 +303,7 @@
         "Quaxwell": 7,
         "Swanna": 3,
         "Torracat": 16,
-        "Geodude": 46,
+        "Geodude": 47,
         "Tentacruel": 1,
         "Archen": 33,
         "Blue plumage squawkabilly": 11,
@@ -379,7 +379,7 @@
         "Morelull": 14,
         "Unown": 5,
         "Poltchageist": 8,
-        "Slakoth": 60,
+        "Slakoth": 61,
         "Klink": 31,
         "Mesprit": 1,
         "Azelf": 2,
@@ -899,7 +899,7 @@
         "Barraskewda": 1,
         "Crawdaunt": 4,
         "Castform": 3,
-        "Chesnaught": 2,
+        "Chesnaught": 4,
         "Whiscash": 3,
         "Exploud": 3,
         "Staraptor": 1,
@@ -1016,8 +1016,8 @@
         "Mantyke": 1,
         "Dragonite": 2
       },
-      "total_spawns": 13560,
-      "last_spawn": "2026-07-12T14:41:18.371420"
+      "total_spawns": 13566,
+      "last_spawn": "2026-07-12T14:41:58.718791"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1998,7 +1998,7 @@
     }
   },
   "global": {
-    "total_spawns": 89005,
+    "total_spawns": 89011,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
