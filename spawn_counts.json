@@ -39,7 +39,7 @@
         "Wiglett": 45,
         "Starly": 93,
         "Caterpie": 45,
-        "Mareep": 41,
+        "Mareep": 42,
         "Capsakid": 55,
         "Numel": 16,
         "Pawmo": 18,
@@ -240,7 +240,7 @@
         "Jangmo-o": 34,
         "Lunatone": 1,
         "Machoke": 21,
-        "Luvdisc": 1,
+        "Luvdisc": 2,
         "Fennekin": 26,
         "Milcery": 27,
         "Trumbeak": 12,
@@ -677,7 +677,7 @@
         "Pangoro": 3,
         "Galarian zen darmanitan": 2,
         "Basculegion": 4,
-        "Jolteon": 14,
+        "Jolteon": 15,
         "Okidogi": 4,
         "Wyrdeer": 4,
         "Ferroseed": 7,
@@ -1016,8 +1016,8 @@
         "Mantyke": 1,
         "Dragonite": 2
       },
-      "total_spawns": 13548,
-      "last_spawn": "2026-07-12T14:39:28.379327"
+      "total_spawns": 13551,
+      "last_spawn": "2026-07-12T14:39:58.536578"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1998,7 +1998,7 @@
     }
   },
   "global": {
-    "total_spawns": 88993,
+    "total_spawns": 88996,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
