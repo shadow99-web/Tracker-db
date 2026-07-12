@@ -24,7 +24,7 @@
         "Arctibax": 12,
         "Ralts": 98,
         "Peakychu": 67,
-        "Cutiefly": 13,
+        "Cutiefly": 14,
         "Simipour": 5,
         "Tynamo": 44,
         "Palossand": 4,
@@ -55,7 +55,7 @@
         "Maschiff": 40,
         "Smoliv": 54,
         "Tirtouga": 21,
-        "Hatenna": 101,
+        "Hatenna": 102,
         "Shroomish": 8,
         "Lillipup": 55,
         "Mosslax": 112,
@@ -70,7 +70,7 @@
         "Vulpix": 33,
         "Gastly": 90,
         "Aron": 60,
-        "Honedge": 86,
+        "Honedge": 88,
         "Houndour": 13,
         "Machop": 40,
         "Terapagos": 1,
@@ -657,7 +657,7 @@
         "Jynx": 2,
         "Noctowl": 4,
         "Munna": 6,
-        "Mabosstiff": 8,
+        "Mabosstiff": 9,
         "Omastar": 3,
         "Gabite": 16,
         "Tapu fini": 4,
@@ -1013,10 +1013,11 @@
         "Pincurchin": 1,
         "Rhyperior": 1,
         "Alomomola": 1,
-        "Mantyke": 1
+        "Mantyke": 1,
+        "Dragonite": 2
       },
-      "total_spawns": 13537,
-      "last_spawn": "2026-07-12T14:38:19.348399"
+      "total_spawns": 13544,
+      "last_spawn": "2026-07-12T14:38:58.298578"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1997,7 +1998,7 @@
     }
   },
   "global": {
-    "total_spawns": 88982,
+    "total_spawns": 88989,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
