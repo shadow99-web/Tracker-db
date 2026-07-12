@@ -113,7 +113,7 @@
         "Treecko": 32,
         "Shroodle": 54,
         "Ride cyclizar": 15,
-        "Swinub": 39,
+        "Swinub": 40,
         "Rattata": 37,
         "Stonjourner": 2,
         "Veluza": 86,
@@ -161,7 +161,7 @@
         "Swadloon": 12,
         "Sunny castform": 5,
         "Vullaby": 11,
-        "Venipede": 62,
+        "Venipede": 63,
         "Pansage": 15,
         "Cetoddle": 44,
         "Togepi": 58,
@@ -222,7 +222,7 @@
         "Duosion": 9,
         "Orthworm": 43,
         "Yamask": 9,
-        "Nymble": 51,
+        "Nymble": 52,
         "Snorunt": 11,
         "Carvanha": 8,
         "Toxel": 10,
@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 9,
         "Charizard": 10,
-        "Axew": 112,
+        "Axew": 113,
         "Joltik": 15,
         "Gulpin": 8,
         "Mareanie": 10,
@@ -784,7 +784,7 @@
         "Umbreon": 8,
         "Ninjask": 4,
         "Arctovish": 2,
-        "Ariados": 1,
+        "Ariados": 2,
         "Porygon-z": 3,
         "Zapdos": 2,
         "Coalossal": 6,
@@ -1010,8 +1010,8 @@
         "Hisuian decidueye": 2,
         "Bouffalant": 1
       },
-      "total_spawns": 12884,
-      "last_spawn": "2026-07-12T05:53:08.324113"
+      "total_spawns": 12889,
+      "last_spawn": "2026-07-12T05:53:48.169743"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1935,7 +1935,7 @@
     }
   },
   "global": {
-    "total_spawns": 84000,
+    "total_spawns": 84005,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
