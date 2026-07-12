@@ -1092,7 +1092,7 @@
         "Aromatisse": 4,
         "Slowpoke": 10,
         "Seedot": 61,
-        "Trapinch": 49,
+        "Trapinch": 50,
         "Hatenna": 54,
         "Drifloon": 14,
         "Togepi": 51,
@@ -1176,7 +1176,7 @@
         "Scatterbug": 52,
         "Taillow": 14,
         "Wimpod": 16,
-        "Rookidee": 54,
+        "Rookidee": 55,
         "Shellos": 12,
         "Roaming gimmighoul": 22,
         "Grotle": 12,
@@ -1200,7 +1200,7 @@
         "Quaxwell": 10,
         "Croconaw": 19,
         "Smoliv": 47,
-        "Lechonk": 50,
+        "Lechonk": 51,
         "Clodsire": 13,
         "Sandaconda": 2,
         "Ninjask": 5,
@@ -1688,7 +1688,7 @@
         "Torterra": 6,
         "Charizard": 4,
         "Magby": 2,
-        "Trumbeak": 9,
+        "Trumbeak": 10,
         "Crustle": 2,
         "Lilligant": 6,
         "Mienfoo": 11,
@@ -1703,7 +1703,7 @@
         "Galarian weezing": 2,
         "Flareon": 2,
         "Volcarona": 5,
-        "Carvanha": 10,
+        "Carvanha": 11,
         "Pelipper": 3,
         "Wailmer": 18,
         "Froslass": 4,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11122,
-      "last_spawn": "2026-07-12T11:18:29.895110"
+      "total_spawns": 11127,
+      "last_spawn": "2026-07-12T11:19:00.138406"
     }
   },
   "global": {
-    "total_spawns": 86632,
+    "total_spawns": 86637,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
