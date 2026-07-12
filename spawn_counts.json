@@ -103,7 +103,7 @@
         "Corphish": 10,
         "Doduo": 11,
         "Flittle": 53,
-        "Armarouge": 10,
+        "Armarouge": 11,
         "Clauncher": 8,
         "Tentacool": 8,
         "Bayleef": 13,
@@ -127,7 +127,7 @@
         "Flapple": 14,
         "Bronzor": 10,
         "Swirlix": 11,
-        "Varoom": 82,
+        "Varoom": 84,
         "Ducklett": 11,
         "Three-segment dudunsparce": 3,
         "Sandy burmy": 4,
@@ -639,7 +639,7 @@
         "Elekid": 3,
         "Chingling": 3,
         "Tangela": 13,
-        "Raticate": 9,
+        "Raticate": 10,
         "Weavile": 2,
         "Amped toxtricity": 2,
         "Scizor": 4,
@@ -700,7 +700,7 @@
         "Pidgeotto": 9,
         "Hakamo-o": 8,
         "Spidops": 13,
-        "Glimmora": 11,
+        "Glimmora": 12,
         "Parasect": 5,
         "Fuecoco": 13,
         "Loudred": 10,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12573,
-      "last_spawn": "2026-07-12T03:59:08.560376"
+      "total_spawns": 12578,
+      "last_spawn": "2026-07-12T05:11:18.196371"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83689,
+    "total_spawns": 83694,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
