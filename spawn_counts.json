@@ -29,7 +29,7 @@
         "Tynamo": 41,
         "Palossand": 4,
         "Pyukumuku": 1,
-        "Pidgey": 56,
+        "Pidgey": 57,
         "Binacle": 14,
         "Bounsweet": 92,
         "Fletchling": 54,
@@ -413,7 +413,7 @@
         "Spiky-eared pichu": 2,
         "Cradily": 8,
         "Burmy": 1,
-        "Sewaddle": 32,
+        "Sewaddle": 33,
         "Shelmet": 11,
         "Combusken": 5,
         "Croagunk": 13,
@@ -516,7 +516,7 @@
         "Low key toxtricity": 10,
         "Nidorina": 11,
         "Bronzong": 5,
-        "Foongus": 10,
+        "Foongus": 11,
         "Krookodile": 2,
         "Espathra": 12,
         "Snom": 15,
@@ -1006,10 +1006,11 @@
         "Deoxys": 2,
         "Bastiodon": 2,
         "Sceptile": 2,
-        "Floatzel": 1
+        "Floatzel": 1,
+        "Hisuian decidueye": 1
       },
-      "total_spawns": 12658,
-      "last_spawn": "2026-07-12T05:22:08.306913"
+      "total_spawns": 12662,
+      "last_spawn": "2026-07-12T05:22:48.202976"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1933,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83774,
+    "total_spawns": 83778,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
