@@ -36,7 +36,7 @@
         "Whirlipede": 13,
         "Duskull": 108,
         "Abra": 51,
-        "Wiglett": 44,
+        "Wiglett": 45,
         "Starly": 93,
         "Caterpie": 42,
         "Mareep": 41,
@@ -44,7 +44,7 @@
         "Numel": 15,
         "Pawmo": 18,
         "Wattrel": 49,
-        "Tadbulb": 54,
+        "Tadbulb": 55,
         "Yanmega": 4,
         "Tympole": 46,
         "Grubbin": 48,
@@ -688,7 +688,7 @@
         "Serperior": 3,
         "Grapploct": 4,
         "Vanilluxe": 3,
-        "Dwebble": 8,
+        "Dwebble": 9,
         "Banette": 2,
         "Pachirisu": 3,
         "Furret": 6,
@@ -816,7 +816,7 @@
         "Seaking": 4,
         "Glalie": 2,
         "Talonflame": 3,
-        "Silicobra": 6,
+        "Silicobra": 7,
         "Durant": 5,
         "Shaymin": 4,
         "Mantine": 2,
@@ -1014,8 +1014,8 @@
         "Rhyperior": 1,
         "Alomomola": 1
       },
-      "total_spawns": 13182,
-      "last_spawn": "2026-07-12T13:47:00.340491"
+      "total_spawns": 13186,
+      "last_spawn": "2026-07-12T13:47:38.114432"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1996,7 +1996,7 @@
     }
   },
   "global": {
-    "total_spawns": 88627,
+    "total_spawns": 88631,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
