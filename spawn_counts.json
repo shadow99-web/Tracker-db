@@ -70,7 +70,7 @@
         "Vulpix": 31,
         "Gastly": 88,
         "Aron": 55,
-        "Honedge": 78,
+        "Honedge": 80,
         "Houndour": 13,
         "Machop": 35,
         "Terapagos": 1,
@@ -163,7 +163,7 @@
         "Vullaby": 11,
         "Venipede": 62,
         "Pansage": 15,
-        "Cetoddle": 42,
+        "Cetoddle": 43,
         "Togepi": 58,
         "Tandemaus": 39,
         "Clefairy": 11,
@@ -370,7 +370,7 @@
         "Gigalith": 4,
         "Kingambit": 3,
         "Cresselia": 4,
-        "Duraludon": 10,
+        "Duraludon": 12,
         "Nidorino": 13,
         "Rayquaza": 15,
         "Horsea": 46,
@@ -1009,8 +1009,8 @@
         "Floatzel": 1,
         "Hisuian decidueye": 2
       },
-      "total_spawns": 12690,
-      "last_spawn": "2026-07-12T05:26:28.449312"
+      "total_spawns": 12695,
+      "last_spawn": "2026-07-12T05:26:58.604756"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1934,7 +1934,7 @@
     }
   },
   "global": {
-    "total_spawns": 83806,
+    "total_spawns": 83811,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
