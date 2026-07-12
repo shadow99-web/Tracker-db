@@ -1061,14 +1061,14 @@
         "Nuzleaf": 11,
         "Clauncher": 15,
         "Cetitan": 17,
-        "Bramblin": 59,
+        "Bramblin": 60,
         "Dusk lycanroc": 2,
         "Cutiefly": 7,
         "Binacle": 14,
         "Kilowattrel": 16,
         "Skiploom": 12,
         "Voltorb": 17,
-        "Geodude": 45,
+        "Geodude": 46,
         "Treecko": 16,
         "Grimer": 12,
         "Grafaiai": 10,
@@ -1416,7 +1416,7 @@
         "Spinda": 3,
         "Beautifly": 6,
         "Fletchling": 61,
-        "Haunter": 11,
+        "Haunter": 12,
         "Sandshrew": 11,
         "Fletchinder": 8,
         "Sinistea": 14,
@@ -1777,7 +1777,7 @@
         "Yamask": 10,
         "Dunsparce": 7,
         "Gardevoir": 3,
-        "Mothim": 5,
+        "Mothim": 6,
         "Swalot": 4,
         "Skeledirge": 2,
         "Gorging cramorant": 1,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11047,
-      "last_spawn": "2026-07-12T11:09:46.510525"
+      "total_spawns": 11051,
+      "last_spawn": "2026-07-12T11:10:26.160078"
     }
   },
   "global": {
-    "total_spawns": 86557,
+    "total_spawns": 86561,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
