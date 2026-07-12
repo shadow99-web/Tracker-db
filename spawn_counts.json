@@ -44,7 +44,7 @@
         "Numel": 15,
         "Pawmo": 16,
         "Wattrel": 47,
-        "Tadbulb": 51,
+        "Tadbulb": 52,
         "Yanmega": 4,
         "Tympole": 45,
         "Grubbin": 46,
@@ -116,7 +116,7 @@
         "Swinub": 37,
         "Rattata": 35,
         "Stonjourner": 2,
-        "Veluza": 84,
+        "Veluza": 86,
         "Panpour": 14,
         "Crabrawler": 7,
         "Frogadier": 8,
@@ -338,7 +338,7 @@
         "Volcarona": 7,
         "Togekiss": 7,
         "Furfrou": 4,
-        "Ursaring": 5,
+        "Ursaring": 6,
         "Bidoof": 5,
         "Gothita": 45,
         "Solosis": 54,
@@ -386,7 +386,7 @@
         "Clodsire": 8,
         "Charizard": 10,
         "Axew": 109,
-        "Joltik": 14,
+        "Joltik": 15,
         "Gulpin": 8,
         "Mareanie": 9,
         "Throh": 6,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12395,
-      "last_spawn": "2026-07-12T01:49:08.600861"
+      "total_spawns": 12400,
+      "last_spawn": "2026-07-12T01:49:48.648585"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83511,
+    "total_spawns": 83516,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
