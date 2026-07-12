@@ -32,7 +32,7 @@
         "Pidgey": 54,
         "Binacle": 13,
         "Bounsweet": 88,
-        "Fletchling": 53,
+        "Fletchling": 54,
         "Whirlipede": 11,
         "Duskull": 96,
         "Abra": 49,
@@ -154,7 +154,7 @@
         "Roggenrola": 60,
         "Litwick": 45,
         "Wooper": 15,
-        "Pikipek": 75,
+        "Pikipek": 77,
         "Spritzee": 10,
         "Stantler": 17,
         "Impidimp": 71,
@@ -445,7 +445,7 @@
         "Ponyta": 8,
         "Smearguru": 38,
         "Magneton": 7,
-        "Battle cyclizar": 8,
+        "Battle cyclizar": 9,
         "Minccino": 16,
         "Hippowdon": 2,
         "Gloom": 14,
@@ -699,7 +699,7 @@
         "Finneon": 6,
         "Pidgeotto": 8,
         "Hakamo-o": 8,
-        "Spidops": 12,
+        "Spidops": 13,
         "Glimmora": 10,
         "Parasect": 5,
         "Fuecoco": 13,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12390,
-      "last_spawn": "2026-07-12T01:48:28.354402"
+      "total_spawns": 12395,
+      "last_spawn": "2026-07-12T01:49:08.600861"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83506,
+    "total_spawns": 83511,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
