@@ -58,7 +58,7 @@
         "Hatenna": 88,
         "Shroomish": 8,
         "Lillipup": 53,
-        "Mosslax": 100,
+        "Mosslax": 101,
         "Maushold": 8,
         "Cubchoo": 35,
         "Koffing": 11,
@@ -151,7 +151,7 @@
         "Trapinch": 38,
         "Butterfree": 9,
         "Teddiursa": 82,
-        "Roggenrola": 62,
+        "Roggenrola": 64,
         "Litwick": 45,
         "Wooper": 15,
         "Pikipek": 77,
@@ -168,7 +168,7 @@
         "Tandemaus": 38,
         "Clefairy": 10,
         "Unown q": 1,
-        "Lotad": 42,
+        "Lotad": 43,
         "Mienshao": 3,
         "Blipbug": 80,
         "Rellor": 38,
@@ -457,7 +457,7 @@
         "Pelipper": 2,
         "Excadrill": 6,
         "Buizel": 9,
-        "Pansear": 4,
+        "Pansear": 5,
         "Yanma": 14,
         "Galarian moltres": 2,
         "Seismitoad": 8,
@@ -470,7 +470,7 @@
         "Absol": 20,
         "Calyrex": 1,
         "Kakuna": 8,
-        "Shedinja": 7,
+        "Shedinja": 8,
         "Zekrom": 1,
         "Xurkitree": 1,
         "Poipole": 1,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12465,
-      "last_spawn": "2026-07-12T02:00:18.620125"
+      "total_spawns": 12471,
+      "last_spawn": "2026-07-12T02:00:58.450373"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83581,
+    "total_spawns": 83587,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
