@@ -380,7 +380,7 @@
         "Unown": 5,
         "Poltchageist": 8,
         "Slakoth": 61,
-        "Klink": 31,
+        "Klink": 32,
         "Mesprit": 1,
         "Azelf": 2,
         "Clodsire": 9,
@@ -535,7 +535,7 @@
         "Stakataka": 1,
         "Cascoon": 19,
         "Sigilyph": 6,
-        "Vibrava": 16,
+        "Vibrava": 17,
         "Shuckle": 3,
         "White flower floette": 5,
         "Octillery": 7,
@@ -654,7 +654,7 @@
         "Phanpy": 12,
         "Patrat": 5,
         "Passimian": 4,
-        "Jynx": 2,
+        "Jynx": 3,
         "Noctowl": 4,
         "Munna": 6,
         "Mabosstiff": 9,
@@ -1015,10 +1015,11 @@
         "Alomomola": 1,
         "Mantyke": 1,
         "Dragonite": 2,
-        "Archeops": 1
+        "Archeops": 1,
+        "Dialga": 2
       },
-      "total_spawns": 13798,
-      "last_spawn": "2026-07-12T16:51:18.432408"
+      "total_spawns": 13803,
+      "last_spawn": "2026-07-12T16:51:58.138751"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -2025,7 +2026,7 @@
     }
   },
   "global": {
-    "total_spawns": 91258,
+    "total_spawns": 91263,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
