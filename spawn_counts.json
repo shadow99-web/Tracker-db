@@ -162,7 +162,7 @@
         "Sunny castform": 5,
         "Vullaby": 11,
         "Venipede": 64,
-        "Pansage": 15,
+        "Pansage": 16,
         "Cetoddle": 44,
         "Togepi": 59,
         "Tandemaus": 40,
@@ -379,7 +379,7 @@
         "Morelull": 14,
         "Unown": 5,
         "Poltchageist": 8,
-        "Slakoth": 57,
+        "Slakoth": 58,
         "Klink": 30,
         "Mesprit": 1,
         "Azelf": 2,
@@ -503,7 +503,7 @@
         "Tyrogue": 8,
         "Nuzleaf": 14,
         "Spinarak": 11,
-        "Goomy": 32,
+        "Goomy": 33,
         "Breloom": 4,
         "Rillaboom": 10,
         "Hippopotas": 10,
@@ -969,7 +969,7 @@
         "Fezandipiti": 2,
         "Defense deoxys": 2,
         "Galarian stunfisk": 2,
-        "Tyrantrum": 2,
+        "Tyrantrum": 4,
         "Purugly": 1,
         "Palkia": 1,
         "Heatran": 1,
@@ -1013,8 +1013,8 @@
         "Pincurchin": 1,
         "Rhyperior": 1
       },
-      "total_spawns": 13167,
-      "last_spawn": "2026-07-12T13:45:08.428891"
+      "total_spawns": 13172,
+      "last_spawn": "2026-07-12T13:45:48.215251"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1995,7 +1995,7 @@
     }
   },
   "global": {
-    "total_spawns": 88612,
+    "total_spawns": 88617,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
