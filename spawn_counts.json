@@ -1037,7 +1037,7 @@
         "Machop": 46,
         "Psyduck": 13,
         "Monferno": 16,
-        "Pikipek": 49,
+        "Pikipek": 50,
         "Flittle": 37,
         "Lillipup": 44,
         "Eevee": 9,
@@ -1056,7 +1056,7 @@
         "Pidgey": 32,
         "Gimmighoul": 44,
         "Cetoddle": 47,
-        "Fidough": 48,
+        "Fidough": 49,
         "Smearguru": 29,
         "Nuzleaf": 11,
         "Clauncher": 15,
@@ -1177,9 +1177,9 @@
         "Taillow": 14,
         "Wimpod": 16,
         "Rookidee": 54,
-        "Shellos": 11,
+        "Shellos": 12,
         "Roaming gimmighoul": 22,
-        "Grotle": 11,
+        "Grotle": 12,
         "Squawkabilly": 16,
         "Wartortle": 7,
         "Rowlet": 19,
@@ -1234,7 +1234,7 @@
         "Komala": 4,
         "Stoutland": 4,
         "Tirtouga": 9,
-        "Swablu": 18,
+        "Swablu": 19,
         "Tepig": 14,
         "Barbaracle": 7,
         "Noivern": 4,
@@ -1293,7 +1293,7 @@
         "Golurk": 7,
         "Carracosta": 5,
         "Fennekin": 18,
-        "Fuecoco": 15,
+        "Fuecoco": 16,
         "Sandy wormadam": 4,
         "Sprigatito": 17,
         "Bidoof": 8,
@@ -1481,7 +1481,7 @@
         "Bruxish": 2,
         "Pancham": 10,
         "Exeggcute": 11,
-        "Cherubi": 11,
+        "Cherubi": 12,
         "Tangrowth": 4,
         "Frosmoth": 1,
         "Farigiraf": 15,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11108,
-      "last_spawn": "2026-07-12T11:17:21.121732"
+      "total_spawns": 11115,
+      "last_spawn": "2026-07-12T11:17:56.303483"
     }
   },
   "global": {
-    "total_spawns": 86618,
+    "total_spawns": 86625,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
