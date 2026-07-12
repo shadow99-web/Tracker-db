@@ -1104,7 +1104,7 @@
         "Nacli": 58,
         "Feebas": 9,
         "Weedle": 51,
-        "Ralts": 53,
+        "Ralts": 54,
         "Kangaskhan": 2,
         "Eldegoss": 4,
         "Aron": 41,
@@ -1318,7 +1318,7 @@
         "Yungoos": 13,
         "Luxio": 14,
         "Frigibax": 50,
-        "Krokorok": 11,
+        "Krokorok": 12,
         "Snorunt": 13,
         "Meganium": 1,
         "Chimchar": 10,
@@ -1550,7 +1550,7 @@
         "Tentacool": 11,
         "Relicanth": 4,
         "Patrat": 10,
-        "Cottonee": 14,
+        "Cottonee": 15,
         "Butterfree": 3,
         "Quaxly": 19,
         "Guzzlord": 1,
@@ -1974,12 +1974,12 @@
         "Breloom": 1,
         "Beedrill": 1
       },
-      "total_spawns": 11040,
-      "last_spawn": "2026-07-12T11:08:36.244286"
+      "total_spawns": 11043,
+      "last_spawn": "2026-07-12T11:09:07.000488"
     }
   },
   "global": {
-    "total_spawns": 86550,
+    "total_spawns": 86553,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
