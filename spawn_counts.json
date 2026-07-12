@@ -143,7 +143,7 @@
         "Spearow": 11,
         "Servine": 8,
         "Wugtrio": 13,
-        "Tranquill": 13,
+        "Tranquill": 14,
         "Cetitan": 11,
         "Turtwig": 26,
         "Fomantis": 11,
@@ -305,7 +305,7 @@
         "Torracat": 14,
         "Geodude": 42,
         "Tentacruel": 1,
-        "Archen": 27,
+        "Archen": 29,
         "Blue plumage squawkabilly": 10,
         "Metang": 13,
         "Larvitar": 33,
@@ -443,7 +443,7 @@
         "Tyrunt": 5,
         "Hisuian typhlosion": 2,
         "Ponyta": 8,
-        "Smearguru": 38,
+        "Smearguru": 39,
         "Magneton": 7,
         "Battle cyclizar": 9,
         "Minccino": 16,
@@ -754,7 +754,7 @@
         "Roselia": 5,
         "Pineco": 9,
         "Maractus": 6,
-        "Togetic": 8,
+        "Togetic": 9,
         "Bewear": 6,
         "Indeedee": 5,
         "Beheeyem": 6,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12400,
-      "last_spawn": "2026-07-12T01:49:48.648585"
+      "total_spawns": 12405,
+      "last_spawn": "2026-07-12T01:50:28.346856"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83516,
+    "total_spawns": 83521,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
