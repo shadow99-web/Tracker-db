@@ -385,7 +385,7 @@
         "Azelf": 2,
         "Clodsire": 9,
         "Charizard": 10,
-        "Axew": 109,
+        "Axew": 111,
         "Joltik": 15,
         "Gulpin": 8,
         "Mareanie": 9,
@@ -470,7 +470,7 @@
         "Absol": 20,
         "Calyrex": 1,
         "Kakuna": 8,
-        "Shedinja": 6,
+        "Shedinja": 7,
         "Zekrom": 1,
         "Xurkitree": 1,
         "Poipole": 1,
@@ -750,7 +750,7 @@
         "Swampert": 4,
         "High plain vivillon": 1,
         "Metapod": 15,
-        "Lampent": 6,
+        "Lampent": 7,
         "Roselia": 5,
         "Pineco": 9,
         "Maractus": 6,
@@ -1007,8 +1007,8 @@
         "Bastiodon": 2,
         "Sceptile": 2
       },
-      "total_spawns": 12461,
-      "last_spawn": "2026-07-12T01:59:48.508330"
+      "total_spawns": 12465,
+      "last_spawn": "2026-07-12T02:00:18.620125"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1932,7 +1932,7 @@
     }
   },
   "global": {
-    "total_spawns": 83577,
+    "total_spawns": 83581,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
