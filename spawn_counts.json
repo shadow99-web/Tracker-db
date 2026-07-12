@@ -48,7 +48,7 @@
         "Yanmega": 4,
         "Tympole": 45,
         "Grubbin": 47,
-        "Scatterbug": 48,
+        "Scatterbug": 49,
         "Skwovet": 18,
         "Applin": 10,
         "Staryu": 5,
@@ -236,7 +236,7 @@
         "Shellos": 4,
         "Arcanine": 1,
         "Sliggoo": 4,
-        "Whismur": 49,
+        "Whismur": 50,
         "Jangmo-o": 33,
         "Lunatone": 1,
         "Machoke": 21,
@@ -1011,8 +1011,8 @@
         "Bouffalant": 1,
         "Galarian farfetch'd": 2
       },
-      "total_spawns": 12925,
-      "last_spawn": "2026-07-12T07:58:47.103407"
+      "total_spawns": 12927,
+      "last_spawn": "2026-07-12T08:00:48.176538"
     },
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
@@ -1936,7 +1936,7 @@
     }
   },
   "global": {
-    "total_spawns": 84041,
+    "total_spawns": 84043,
     "started": "2026-06-16T01:43:23.208892"
   }
 }
