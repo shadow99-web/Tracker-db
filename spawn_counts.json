@@ -53,7 +53,7 @@
         "Bounsweet": 6,
         "Solosis": 3,
         "Froakie": 1,
-        "Hoppip": 3,
+        "Hoppip": 4,
         "Clobbopus": 1,
         "Zubat": 4,
         "Koffing": 2,
@@ -167,7 +167,7 @@
         "Turtwig": 3,
         "Cetoddle": 4,
         "Dreepy": 5,
-        "Bramblin": 1,
+        "Bramblin": 2,
         "Voltorb": 1,
         "Starly": 4,
         "Corviknight": 2,
@@ -210,7 +210,7 @@
         "Drifloon": 1,
         "Luxray": 1,
         "Gloom": 3,
-        "Morelull": 2,
+        "Morelull": 3,
         "Noibat": 2,
         "Ducklett": 1,
         "Bunnelby": 1,
@@ -412,14 +412,15 @@
         "Magikarp": 1,
         "Clamperl": 1,
         "Corphish": 1,
-        "Trumbeak": 1
+        "Trumbeak": 1,
+        "Seadra": 1
       },
-      "total_spawns": 750,
-      "last_spawn": "2026-10-02T16:55:05.318723"
+      "total_spawns": 754,
+      "last_spawn": "2026-10-02T16:55:42.720074"
     }
   },
   "global": {
-    "total_spawns": 750,
+    "total_spawns": 754,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
