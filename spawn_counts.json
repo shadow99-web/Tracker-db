@@ -231,7 +231,7 @@
         "Eevee": 4,
         "Carracosta": 1,
         "Bagon": 2,
-        "Toedscruel": 1,
+        "Toedscruel": 2,
         "Luxio": 2,
         "Zweilous": 2,
         "Rookidee": 2,
@@ -425,14 +425,16 @@
         "Noivern": 1,
         "Thievul": 1,
         "Low key toxtricity": 1,
-        "Roserade": 1
+        "Roserade": 1,
+        "Numel": 1,
+        "Stantler": 1
       },
-      "total_spawns": 791,
-      "last_spawn": "2026-10-02T17:01:52.877622"
+      "total_spawns": 794,
+      "last_spawn": "2026-10-02T17:02:23.309485"
     }
   },
   "global": {
-    "total_spawns": 791,
+    "total_spawns": 794,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
