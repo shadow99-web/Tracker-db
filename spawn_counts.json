@@ -165,7 +165,7 @@
         "Pancham": 1,
         "Milotic": 1,
         "Turtwig": 3,
-        "Cetoddle": 1,
+        "Cetoddle": 2,
         "Dreepy": 2,
         "Bramblin": 1,
         "Voltorb": 1,
@@ -194,7 +194,7 @@
         "Sandy wormadam": 1,
         "Battle cyclizar": 2,
         "Steenee": 1,
-        "Teddiursa": 2,
+        "Teddiursa": 3,
         "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
@@ -325,14 +325,16 @@
         "Goomy": 1,
         "Skiploom": 1,
         "Pikipek": 1,
-        "Buizel": 1
+        "Buizel": 1,
+        "Taillow": 1,
+        "Snorlax": 1
       },
-      "total_spawns": 521,
-      "last_spawn": "2026-10-02T16:16:03.557209"
+      "total_spawns": 525,
+      "last_spawn": "2026-10-02T16:16:42.693306"
     }
   },
   "global": {
-    "total_spawns": 521,
+    "total_spawns": 525,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
