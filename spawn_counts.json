@@ -114,7 +114,7 @@
         "Chinchou": 2,
         "Poliwhirl": 1,
         "Dhelmise": 1,
-        "Klawf": 3,
+        "Klawf": 4,
         "Toxapex": 1,
         "Wurmple": 4,
         "Gligar": 2,
@@ -137,7 +137,7 @@
         "Sudowoodo": 1,
         "Smearguru": 5,
         "Dusclops": 1,
-        "Vullaby": 1,
+        "Vullaby": 2,
         "Tauros": 1,
         "Panpour": 1,
         "Growlithe": 1,
@@ -305,7 +305,7 @@
         "Wooloo": 1,
         "Applin": 1,
         "Carkol": 1,
-        "Swinub": 2,
+        "Swinub": 3,
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 1,
@@ -368,12 +368,12 @@
         "Cufant": 1,
         "Passimian": 1
       },
-      "total_spawns": 628,
-      "last_spawn": "2026-10-02T16:34:23.762620"
+      "total_spawns": 631,
+      "last_spawn": "2026-10-02T16:35:02.750946"
     }
   },
   "global": {
-    "total_spawns": 628,
+    "total_spawns": 631,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
