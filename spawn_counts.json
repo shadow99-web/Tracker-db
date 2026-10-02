@@ -157,7 +157,7 @@
         "Fletchling": 1,
         "Litleo": 2,
         "Venipede": 2,
-        "Poliwag": 2,
+        "Poliwag": 3,
         "Skrelp": 1,
         "Duskull": 4,
         "Dondozo": 1,
@@ -237,7 +237,7 @@
         "Rookidee": 2,
         "Horsea": 1,
         "Popplio": 1,
-        "Sandile": 4,
+        "Sandile": 5,
         "Cloyster": 2,
         "Kilowattrel": 1,
         "Tangela": 1,
@@ -352,14 +352,15 @@
         "Slakoth": 1,
         "Cacturne": 1,
         "Snivy": 1,
-        "Armarouge": 1
+        "Armarouge": 1,
+        "Noctowl": 1
       },
-      "total_spawns": 591,
-      "last_spawn": "2026-10-02T16:28:12.660290"
+      "total_spawns": 594,
+      "last_spawn": "2026-10-02T16:28:42.700750"
     }
   },
   "global": {
-    "total_spawns": 591,
+    "total_spawns": 594,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
