@@ -29,7 +29,7 @@
         "Rufflet": 2,
         "Dratini": 2,
         "Impidimp": 4,
-        "Tadbulb": 1,
+        "Tadbulb": 2,
         "Clauncher": 2,
         "Vanillish": 2,
         "Pawmo": 1,
@@ -261,14 +261,14 @@
         "Girafarig": 1,
         "Flittle": 2,
         "Wimpod": 2,
-        "Orthworm": 1,
+        "Orthworm": 2,
         "Beldum": 1,
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 2,
         "Wiglett": 6,
         "Archen": 1,
-        "Amaura": 1,
+        "Amaura": 2,
         "Manaphy": 1,
         "Centiskorch": 1,
         "Typhlosion": 1,
@@ -421,14 +421,15 @@
         "Blissey": 1,
         "White flower florges": 1,
         "Basculin": 1,
-        "Oricorio": 1
+        "Oricorio": 1,
+        "Noivern": 1
       },
-      "total_spawns": 773,
-      "last_spawn": "2026-10-02T16:58:53.237981"
+      "total_spawns": 777,
+      "last_spawn": "2026-10-02T16:59:32.998992"
     }
   },
   "global": {
-    "total_spawns": 773,
+    "total_spawns": 777,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
