@@ -55,13 +55,13 @@
         "Froakie": 1,
         "Hoppip": 3,
         "Clobbopus": 1,
-        "Zubat": 2,
+        "Zubat": 3,
         "Koffing": 2,
         "Yanma": 1,
         "Kabuto": 2,
         "Seviper": 1,
         "Scrafty": 1,
-        "Pawmi": 1,
+        "Pawmi": 2,
         "Salandit": 2,
         "Ivysaur": 1,
         "Tynamo": 2,
@@ -77,7 +77,7 @@
         "Trubbish": 1,
         "Scatterbug": 4,
         "Durant": 2,
-        "Fidough": 2,
+        "Fidough": 3,
         "Vanillite": 2,
         "Rellor": 2,
         "Toxel": 3,
@@ -141,7 +141,7 @@
         "Tauros": 1,
         "Panpour": 1,
         "Growlithe": 1,
-        "Greavard": 3,
+        "Greavard": 4,
         "Abra": 1,
         "Chef dente": 1,
         "Spritzee": 2,
@@ -246,7 +246,7 @@
         "Quaxly": 2,
         "Dewott": 2,
         "Rolycoly": 1,
-        "Caterpie": 1,
+        "Caterpie": 2,
         "Remoraid": 1,
         "Feebas": 2,
         "Inkay": 1,
@@ -276,7 +276,7 @@
         "Furret": 1,
         "Rhyhorn": 1,
         "Golisopod": 1,
-        "Tympole": 1,
+        "Tympole": 2,
         "Arctozolt": 1,
         "Pidgey": 3,
         "Totodile": 1,
@@ -286,14 +286,15 @@
         "Karrablast": 1,
         "Quilladin": 1,
         "Deino": 1,
-        "Pawniard": 1
+        "Pawniard": 1,
+        "Rabsca": 1
       },
-      "total_spawns": 424,
-      "last_spawn": "2026-10-02T16:01:33.546579"
+      "total_spawns": 431,
+      "last_spawn": "2026-10-02T16:02:07.696820"
     }
   },
   "global": {
-    "total_spawns": 424,
+    "total_spawns": 431,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
