@@ -11,7 +11,7 @@
       "counts": {
         "Klink": 1,
         "Ekans": 2,
-        "Rattata": 1,
+        "Rattata": 2,
         "Sizzlipede": 1,
         "Mosslax": 2,
         "Lickilicky": 1,
@@ -43,7 +43,7 @@
         "Treecko": 2,
         "Ralts": 3,
         "Swirlix": 1,
-        "Togepi": 2,
+        "Togepi": 3,
         "Vibrava": 1,
         "Hatterene": 1,
         "Palpitoad": 1,
@@ -164,14 +164,19 @@
         "Mankey": 1,
         "Pancham": 1,
         "Milotic": 1,
-        "Turtwig": 1
+        "Turtwig": 1,
+        "Cetoddle": 1,
+        "Dreepy": 1,
+        "Bramblin": 1,
+        "Voltorb": 1,
+        "Starly": 1
       },
-      "total_spawns": 202,
-      "last_spawn": "2026-10-02T15:42:48.473996"
+      "total_spawns": 209,
+      "last_spawn": "2026-10-02T15:43:22.868877"
     }
   },
   "global": {
-    "total_spawns": 202,
+    "total_spawns": 209,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
