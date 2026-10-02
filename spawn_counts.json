@@ -13,7 +13,7 @@
         "Ekans": 3,
         "Rattata": 2,
         "Sizzlipede": 1,
-        "Mosslax": 3,
+        "Mosslax": 4,
         "Lickilicky": 1,
         "Gible": 4,
         "Dachsbun": 1,
@@ -364,14 +364,16 @@
         "Metang": 1,
         "Tarountula": 1,
         "Ledian": 1,
-        "Diglett": 1
+        "Diglett": 1,
+        "Cufant": 1,
+        "Passimian": 1
       },
-      "total_spawns": 621,
-      "last_spawn": "2026-10-02T16:33:12.952596"
+      "total_spawns": 624,
+      "last_spawn": "2026-10-02T16:33:43.222074"
     }
   },
   "global": {
-    "total_spawns": 621,
+    "total_spawns": 624,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
