@@ -97,17 +97,17 @@
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 1,
-        "Lechonk": 3,
+        "Lechonk": 4,
         "Skitty": 2,
         "Skwovet": 1,
         "Cyndaquil": 1,
         "Steelix": 1,
-        "Stufful": 1,
+        "Stufful": 2,
         "Hisuian zorua": 1,
         "Lugia": 1,
         "Wingull": 1,
         "Dj rotom": 1,
-        "Gimmighoul": 2,
+        "Gimmighoul": 3,
         "Magnemite": 2,
         "Porygon": 1,
         "Larvitar": 2,
@@ -172,7 +172,7 @@
         "Starly": 2,
         "Corviknight": 1,
         "Hisuian qwilfish": 1,
-        "Grubbin": 3,
+        "Grubbin": 4,
         "Chikorita": 1,
         "Sunkern": 1,
         "Chespin": 1,
@@ -247,14 +247,17 @@
         "Dewott": 1,
         "Rolycoly": 1,
         "Caterpie": 1,
-        "Remoraid": 1
+        "Remoraid": 1,
+        "Feebas": 1,
+        "Inkay": 1,
+        "Droopy tatsugiri": 1
       },
-      "total_spawns": 337,
-      "last_spawn": "2026-10-02T15:54:18.087983"
+      "total_spawns": 344,
+      "last_spawn": "2026-10-02T15:54:52.856102"
     }
   },
   "global": {
-    "total_spawns": 337,
+    "total_spawns": 344,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
