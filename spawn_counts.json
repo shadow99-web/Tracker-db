@@ -92,7 +92,7 @@
         "Togetic": 1,
         "Snom": 2,
         "Mabosstiff": 1,
-        "Litwick": 2,
+        "Litwick": 3,
         "Servine": 2,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
@@ -255,7 +255,7 @@
         "Glaceon": 1,
         "Snowy castform": 1,
         "Litten": 1,
-        "Mareep": 1,
+        "Mareep": 2,
         "Exploud": 1,
         "Farfetch'd": 1,
         "Girafarig": 1,
@@ -303,14 +303,16 @@
         "Crobat": 1,
         "Castform": 1,
         "Wooloo": 1,
-        "Applin": 1
+        "Applin": 1,
+        "Carkol": 1,
+        "Swinub": 1
       },
-      "total_spawns": 461,
-      "last_spawn": "2026-10-02T16:05:42.983984"
+      "total_spawns": 465,
+      "last_spawn": "2026-10-02T16:06:23.026866"
     }
   },
   "global": {
-    "total_spawns": 461,
+    "total_spawns": 465,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
