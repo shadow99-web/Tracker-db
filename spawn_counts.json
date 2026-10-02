@@ -26,7 +26,7 @@
         "Fomantis": 3,
         "Tinkatink": 3,
         "Vigoroth": 4,
-        "Rufflet": 1,
+        "Rufflet": 2,
         "Dratini": 2,
         "Impidimp": 4,
         "Tadbulb": 1,
@@ -401,14 +401,17 @@
         "Golurk": 1,
         "Grovyle": 1,
         "Shuppet": 1,
-        "Crustle": 1
+        "Crustle": 1,
+        "Conkeldurr": 1,
+        "Lokix": 1,
+        "Cherrim": 1
       },
-      "total_spawns": 728,
-      "last_spawn": "2026-10-02T16:51:12.868613"
+      "total_spawns": 732,
+      "last_spawn": "2026-10-02T16:51:53.214796"
     }
   },
   "global": {
-    "total_spawns": 728,
+    "total_spawns": 732,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
