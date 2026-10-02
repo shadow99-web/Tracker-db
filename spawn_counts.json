@@ -122,7 +122,7 @@
         "Veluza": 3,
         "Pidove": 3,
         "Shinx": 4,
-        "Espathra": 2,
+        "Espathra": 3,
         "Amoonguss": 1,
         "Starmie": 1,
         "Flamigo": 3,
@@ -343,7 +343,7 @@
         "Clodsire": 1,
         "Spewpa": 2,
         "Goldeen": 1,
-        "Weedle": 1,
+        "Weedle": 2,
         "Marshtomp": 1,
         "Quaxwell": 1,
         "Shelmet": 1,
@@ -380,14 +380,16 @@
         "Cottonee": 1,
         "Tirtouga": 1,
         "Magmar": 1,
-        "Venonat": 1
+        "Venonat": 1,
+        "Cubchoo": 1,
+        "Tyrogue": 1
       },
-      "total_spawns": 679,
-      "last_spawn": "2026-10-02T16:43:02.819918"
+      "total_spawns": 683,
+      "last_spawn": "2026-10-02T16:43:43.240539"
     }
   },
   "global": {
-    "total_spawns": 679,
+    "total_spawns": 683,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
