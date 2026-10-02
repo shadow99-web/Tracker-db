@@ -13,7 +13,7 @@
         "Ekans": 2,
         "Rattata": 1,
         "Sizzlipede": 1,
-        "Mosslax": 1,
+        "Mosslax": 2,
         "Lickilicky": 1,
         "Gible": 2,
         "Dachsbun": 1,
@@ -149,14 +149,20 @@
         "Magmortar": 1,
         "Roaming gimmighoul": 1,
         "Jangmo-o": 1,
-        "Swanna": 1
+        "Swanna": 1,
+        "Surskit": 1,
+        "Hattrem": 1,
+        "Cryogonal": 1,
+        "Sliggoo": 1,
+        "Fletchling": 1,
+        "Litleo": 1
       },
-      "total_spawns": 183,
-      "last_spawn": "2026-10-02T15:41:12.847147"
+      "total_spawns": 190,
+      "last_spawn": "2026-10-02T15:41:47.586354"
     }
   },
   "global": {
-    "total_spawns": 183,
+    "total_spawns": 190,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
