@@ -16,7 +16,7 @@
         "Mosslax": 5,
         "Lickilicky": 1,
         "Gible": 5,
-        "Dachsbun": 1,
+        "Dachsbun": 2,
         "Meowth": 1,
         "Grookey": 2,
         "Hatenna": 4,
@@ -245,7 +245,7 @@
         "Klefki": 1,
         "Quaxly": 3,
         "Dewott": 2,
-        "Rolycoly": 2,
+        "Rolycoly": 3,
         "Caterpie": 2,
         "Remoraid": 3,
         "Feebas": 2,
@@ -266,7 +266,7 @@
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 3,
-        "Wiglett": 6,
+        "Wiglett": 7,
         "Archen": 1,
         "Amaura": 2,
         "Manaphy": 1,
@@ -450,14 +450,15 @@
         "Golduck": 1,
         "Tinkatuff": 1,
         "Tyrunt": 1,
-        "Ariados": 1
+        "Ariados": 1,
+        "Spiritomb": 1
       },
-      "total_spawns": 872,
-      "last_spawn": "2026-10-02T17:15:26.710117"
+      "total_spawns": 876,
+      "last_spawn": "2026-10-02T17:16:02.926904"
     }
   },
   "global": {
-    "total_spawns": 872,
+    "total_spawns": 876,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
