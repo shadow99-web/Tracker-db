@@ -109,7 +109,7 @@
         "Dj rotom": 1,
         "Gimmighoul": 6,
         "Magnemite": 5,
-        "Porygon": 2,
+        "Porygon": 3,
         "Larvitar": 2,
         "Chinchou": 2,
         "Poliwhirl": 1,
@@ -266,7 +266,7 @@
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 2,
-        "Wiglett": 4,
+        "Wiglett": 5,
         "Archen": 1,
         "Amaura": 1,
         "Manaphy": 1,
@@ -325,7 +325,7 @@
         "Goomy": 1,
         "Skiploom": 1,
         "Pikipek": 1,
-        "Buizel": 2,
+        "Buizel": 3,
         "Taillow": 1,
         "Snorlax": 1,
         "Nidorina": 1,
@@ -399,14 +399,15 @@
         "Bruxish": 1,
         "Hero palafin": 1,
         "Golurk": 1,
-        "Grovyle": 1
+        "Grovyle": 1,
+        "Shuppet": 1
       },
-      "total_spawns": 720,
-      "last_spawn": "2026-10-02T16:49:54.740577"
+      "total_spawns": 724,
+      "last_spawn": "2026-10-02T16:50:33.075058"
     }
   },
   "global": {
-    "total_spawns": 720,
+    "total_spawns": 724,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
