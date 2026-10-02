@@ -70,7 +70,7 @@
         "Chingling": 1,
         "Oddish": 5,
         "Pansear": 1,
-        "Roggenrola": 2,
+        "Roggenrola": 3,
         "Bibarel": 1,
         "Braixen": 1,
         "Shroomish": 1,
@@ -342,14 +342,16 @@
         "Slowpoke": 2,
         "Clodsire": 1,
         "Spewpa": 1,
-        "Goldeen": 1
+        "Goldeen": 1,
+        "Weedle": 1,
+        "Marshtomp": 1
       },
-      "total_spawns": 558,
-      "last_spawn": "2026-10-02T16:22:23.165328"
+      "total_spawns": 561,
+      "last_spawn": "2026-10-02T16:22:53.296837"
     }
   },
   "global": {
-    "total_spawns": 558,
+    "total_spawns": 561,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
