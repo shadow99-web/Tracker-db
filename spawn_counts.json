@@ -70,7 +70,7 @@
         "Chingling": 1,
         "Oddish": 5,
         "Pansear": 2,
-        "Roggenrola": 4,
+        "Roggenrola": 5,
         "Bibarel": 1,
         "Braixen": 1,
         "Shroomish": 1,
@@ -169,7 +169,7 @@
         "Dreepy": 3,
         "Bramblin": 1,
         "Voltorb": 1,
-        "Starly": 3,
+        "Starly": 4,
         "Corviknight": 2,
         "Hisuian qwilfish": 1,
         "Grubbin": 4,
@@ -351,7 +351,7 @@
         "Jumpluff": 1,
         "Slakoth": 1,
         "Cacturne": 1,
-        "Snivy": 1,
+        "Snivy": 2,
         "Armarouge": 1,
         "Noctowl": 1,
         "Rhydon": 1,
@@ -360,14 +360,15 @@
         "Frosmoth": 1,
         "Elekid": 1,
         "Carvanha": 1,
-        "Tepig": 1
+        "Tepig": 1,
+        "Metang": 1
       },
-      "total_spawns": 611,
-      "last_spawn": "2026-10-02T16:31:32.818732"
+      "total_spawns": 615,
+      "last_spawn": "2026-10-02T16:32:12.715016"
     }
   },
   "global": {
-    "total_spawns": 611,
+    "total_spawns": 615,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
