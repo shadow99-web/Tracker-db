@@ -97,7 +97,7 @@
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 1,
-        "Lechonk": 2,
+        "Lechonk": 3,
         "Skitty": 2,
         "Skwovet": 1,
         "Cyndaquil": 1,
@@ -178,7 +178,7 @@
         "Chespin": 1,
         "Cacnea": 1,
         "Trapinch": 1,
-        "Slurpuff": 1,
+        "Slurpuff": 2,
         "Magneton": 1,
         "Crocalor": 1,
         "Poochyena": 1,
@@ -201,14 +201,19 @@
         "Mienfoo": 1,
         "Wailord": 1,
         "Kadabra": 1,
-        "Monferno": 1
+        "Monferno": 1,
+        "Bombirdier": 1,
+        "East sea gastrodon": 1,
+        "Krokorok": 1,
+        "Prof tangrowth": 1,
+        "Minccino": 1
       },
-      "total_spawns": 267,
-      "last_spawn": "2026-10-02T15:48:23.913596"
+      "total_spawns": 274,
+      "last_spawn": "2026-10-02T15:48:57.646711"
     }
   },
   "global": {
-    "total_spawns": 267,
+    "total_spawns": 274,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
