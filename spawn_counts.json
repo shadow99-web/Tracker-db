@@ -23,7 +23,7 @@
         "Gastly": 1,
         "Gothita": 1,
         "Dada zarude": 1,
-        "Fomantis": 1,
+        "Fomantis": 2,
         "Tinkatink": 2,
         "Vigoroth": 1,
         "Rufflet": 1,
@@ -59,14 +59,19 @@
         "Koffing": 1,
         "Yanma": 1,
         "Kabuto": 1,
-        "Seviper": 1
+        "Seviper": 1,
+        "Scrafty": 1,
+        "Pawmi": 1,
+        "Salandit": 1,
+        "Ivysaur": 1,
+        "Tynamo": 1
       },
-      "total_spawns": 55,
-      "last_spawn": "2026-10-02T15:30:13.190625"
+      "total_spawns": 61,
+      "last_spawn": "2026-10-02T15:30:43.740052"
     }
   },
   "global": {
-    "total_spawns": 55,
+    "total_spawns": 61,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
