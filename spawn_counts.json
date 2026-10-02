@@ -87,7 +87,7 @@
         "Bellibolt": 2,
         "Nymble": 1,
         "Axew": 3,
-        "Sewaddle": 3,
+        "Sewaddle": 4,
         "Bellsprout": 3,
         "Togetic": 1,
         "Snom": 2,
@@ -97,7 +97,7 @@
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 2,
-        "Lechonk": 4,
+        "Lechonk": 5,
         "Skitty": 2,
         "Skwovet": 2,
         "Cyndaquil": 1,
@@ -141,14 +141,14 @@
         "Tauros": 1,
         "Panpour": 1,
         "Growlithe": 1,
-        "Greavard": 2,
+        "Greavard": 3,
         "Abra": 1,
         "Chef dente": 1,
         "Spritzee": 2,
         "Capsakid": 1,
         "Magmortar": 1,
         "Roaming gimmighoul": 2,
-        "Jangmo-o": 1,
+        "Jangmo-o": 2,
         "Swanna": 1,
         "Surskit": 1,
         "Hattrem": 1,
@@ -209,7 +209,7 @@
         "Minccino": 1,
         "Drifloon": 1,
         "Luxray": 1,
-        "Gloom": 1,
+        "Gloom": 2,
         "Morelull": 2,
         "Noibat": 2,
         "Ducklett": 1,
@@ -222,7 +222,7 @@
         "Gothorita": 1,
         "Tentacool": 1,
         "Whismur": 1,
-        "Toedscool": 1,
+        "Toedscool": 2,
         "Incineroar": 2,
         "Arctibax": 1,
         "Meowstic": 1,
@@ -285,14 +285,15 @@
         "Crawdaunt": 1,
         "Karrablast": 1,
         "Quilladin": 1,
-        "Deino": 1
+        "Deino": 1,
+        "Pawniard": 1
       },
-      "total_spawns": 417,
-      "last_spawn": "2026-10-02T16:00:57.646192"
+      "total_spawns": 424,
+      "last_spawn": "2026-10-02T16:01:33.546579"
     }
   },
   "global": {
-    "total_spawns": 417,
+    "total_spawns": 424,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
