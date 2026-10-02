@@ -65,7 +65,7 @@
         "Salandit": 3,
         "Ivysaur": 1,
         "Tynamo": 3,
-        "Sandshrew": 3,
+        "Sandshrew": 4,
         "Varoom": 2,
         "Chingling": 1,
         "Oddish": 5,
@@ -165,7 +165,7 @@
         "Pancham": 1,
         "Milotic": 1,
         "Turtwig": 3,
-        "Cetoddle": 3,
+        "Cetoddle": 4,
         "Dreepy": 5,
         "Bramblin": 1,
         "Voltorb": 1,
@@ -404,14 +404,16 @@
         "Crustle": 1,
         "Conkeldurr": 1,
         "Lokix": 1,
-        "Cherrim": 1
+        "Cherrim": 1,
+        "Xatu": 1,
+        "Corvisquire": 1
       },
-      "total_spawns": 732,
-      "last_spawn": "2026-10-02T16:51:53.214796"
+      "total_spawns": 736,
+      "last_spawn": "2026-10-02T16:52:32.869378"
     }
   },
   "global": {
-    "total_spawns": 732,
+    "total_spawns": 736,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
