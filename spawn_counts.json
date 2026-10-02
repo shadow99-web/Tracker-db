@@ -30,7 +30,7 @@
         "Dratini": 2,
         "Impidimp": 2,
         "Tadbulb": 1,
-        "Clauncher": 1,
+        "Clauncher": 2,
         "Vanillish": 2,
         "Pawmo": 1,
         "Munna": 1,
@@ -195,7 +195,7 @@
         "Battle cyclizar": 1,
         "Steenee": 1,
         "Teddiursa": 1,
-        "Spinarak": 1,
+        "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
         "Mienfoo": 1,
@@ -211,7 +211,7 @@
         "Luxray": 1,
         "Gloom": 1,
         "Morelull": 1,
-        "Noibat": 1,
+        "Noibat": 2,
         "Ducklett": 1,
         "Bunnelby": 1,
         "Perrserker": 1,
@@ -237,14 +237,17 @@
         "Rookidee": 2,
         "Horsea": 1,
         "Popplio": 1,
-        "Sandile": 1
+        "Sandile": 1,
+        "Cloyster": 1,
+        "Kilowattrel": 1,
+        "Tangela": 1
       },
-      "total_spawns": 318,
-      "last_spawn": "2026-10-02T15:52:42.893168"
+      "total_spawns": 324,
+      "last_spawn": "2026-10-02T15:53:13.357634"
     }
   },
   "global": {
-    "total_spawns": 318,
+    "total_spawns": 324,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
