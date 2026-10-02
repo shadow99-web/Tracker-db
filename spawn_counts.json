@@ -66,7 +66,7 @@
         "Ivysaur": 1,
         "Tynamo": 3,
         "Sandshrew": 4,
-        "Varoom": 2,
+        "Varoom": 3,
         "Chingling": 1,
         "Oddish": 5,
         "Pansear": 2,
@@ -221,7 +221,7 @@
         "Bergmite": 2,
         "Gothorita": 2,
         "Tentacool": 1,
-        "Whismur": 2,
+        "Whismur": 3,
         "Toedscool": 3,
         "Incineroar": 3,
         "Arctibax": 2,
@@ -266,7 +266,7 @@
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 2,
-        "Wiglett": 5,
+        "Wiglett": 6,
         "Archen": 1,
         "Amaura": 1,
         "Manaphy": 1,
@@ -415,14 +415,15 @@
         "Trumbeak": 1,
         "Seadra": 1,
         "Staryu": 1,
-        "Hitmontop": 1
+        "Hitmontop": 1,
+        "Doublade": 1
       },
-      "total_spawns": 761,
-      "last_spawn": "2026-10-02T16:56:53.967986"
+      "total_spawns": 765,
+      "last_spawn": "2026-10-02T16:57:33.214440"
     }
   },
   "global": {
-    "total_spawns": 761,
+    "total_spawns": 765,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
