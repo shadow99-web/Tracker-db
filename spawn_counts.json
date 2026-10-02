@@ -81,7 +81,7 @@
         "Vanillite": 4,
         "Rellor": 3,
         "Toxel": 3,
-        "Maschiff": 3,
+        "Maschiff": 4,
         "Probopass": 1,
         "Lickitung": 1,
         "Bellibolt": 3,
@@ -92,7 +92,7 @@
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
-        "Litwick": 7,
+        "Litwick": 8,
         "Servine": 3,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
@@ -438,14 +438,15 @@
         "Houndstone": 1,
         "Torkoal": 1,
         "Hakamo-o": 1,
-        "Woobat": 1
+        "Woobat": 1,
+        "Cascoon": 1
       },
-      "total_spawns": 832,
-      "last_spawn": "2026-10-02T17:08:42.999062"
+      "total_spawns": 835,
+      "last_spawn": "2026-10-02T17:09:13.012580"
     }
   },
   "global": {
-    "total_spawns": 832,
+    "total_spawns": 835,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
