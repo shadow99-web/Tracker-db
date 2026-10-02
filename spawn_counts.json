@@ -29,7 +29,7 @@
         "Rufflet": 2,
         "Dratini": 2,
         "Impidimp": 5,
-        "Tadbulb": 3,
+        "Tadbulb": 4,
         "Clauncher": 2,
         "Vanillish": 2,
         "Pawmo": 1,
@@ -305,7 +305,7 @@
         "Wooloo": 1,
         "Applin": 2,
         "Carkol": 1,
-        "Swinub": 3,
+        "Swinub": 4,
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 1,
@@ -433,7 +433,7 @@
         "Staraptor": 1,
         "Thwackey": 1,
         "Dudunsparce": 1,
-        "Kricketune": 1,
+        "Kricketune": 2,
         "Ceruledge": 1,
         "Houndstone": 1,
         "Torkoal": 1,
@@ -454,12 +454,12 @@
         "Spiritomb": 1,
         "Ride cyclizar": 1
       },
-      "total_spawns": 887,
-      "last_spawn": "2026-10-02T17:17:52.779283"
+      "total_spawns": 890,
+      "last_spawn": "2026-10-02T17:18:23.364124"
     }
   },
   "global": {
-    "total_spawns": 887,
+    "total_spawns": 890,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
