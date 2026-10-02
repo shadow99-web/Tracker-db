@@ -31,7 +31,7 @@
         "Impidimp": 1,
         "Tadbulb": 1,
         "Clauncher": 1,
-        "Vanillish": 1,
+        "Vanillish": 2,
         "Pawmo": 1,
         "Munna": 1,
         "Buneary": 1,
@@ -41,7 +41,7 @@
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 1,
-        "Ralts": 2,
+        "Ralts": 3,
         "Swirlix": 1,
         "Togepi": 1,
         "Vibrava": 1,
@@ -71,14 +71,19 @@
         "Oddish": 1,
         "Pansear": 1,
         "Roggenrola": 1,
-        "Bibarel": 1
+        "Bibarel": 1,
+        "Braixen": 1,
+        "Shroomish": 1,
+        "Trubbish": 1,
+        "Scatterbug": 1,
+        "Durant": 1
       },
-      "total_spawns": 68,
-      "last_spawn": "2026-10-02T15:31:18.856133"
+      "total_spawns": 75,
+      "last_spawn": "2026-10-02T15:31:52.696078"
     }
   },
   "global": {
-    "total_spawns": 68,
+    "total_spawns": 75,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
