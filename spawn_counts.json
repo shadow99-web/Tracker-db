@@ -135,7 +135,7 @@
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 2,
+        "Smearguru": 3,
         "Dusclops": 1,
         "Vullaby": 1,
         "Tauros": 1,
@@ -224,7 +224,7 @@
         "Whismur": 1,
         "Toedscool": 2,
         "Incineroar": 2,
-        "Arctibax": 1,
+        "Arctibax": 2,
         "Meowstic": 1,
         "Pumpkaboo": 1,
         "Pansage": 1,
@@ -294,14 +294,18 @@
         "Relicanth": 1,
         "Bulbasaur": 1,
         "Helioptile": 1,
-        "Gurdurr": 1
+        "Gurdurr": 1,
+        "Drilbur": 1,
+        "Poison arceus": 1,
+        "Klang": 1,
+        "Frogadier": 1
       },
-      "total_spawns": 443,
-      "last_spawn": "2026-10-02T16:03:08.036630"
+      "total_spawns": 449,
+      "last_spawn": "2026-10-02T16:03:42.716792"
     }
   },
   "global": {
-    "total_spawns": 443,
+    "total_spawns": 449,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
