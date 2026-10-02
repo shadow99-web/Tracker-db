@@ -92,7 +92,7 @@
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
-        "Litwick": 6,
+        "Litwick": 7,
         "Servine": 3,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
@@ -433,14 +433,17 @@
         "Staraptor": 1,
         "Thwackey": 1,
         "Dudunsparce": 1,
-        "Kricketune": 1
+        "Kricketune": 1,
+        "Ceruledge": 1,
+        "Houndstone": 1,
+        "Torkoal": 1
       },
-      "total_spawns": 817,
-      "last_spawn": "2026-10-02T17:06:13.560169"
+      "total_spawns": 821,
+      "last_spawn": "2026-10-02T17:06:52.787515"
     }
   },
   "global": {
-    "total_spawns": 817,
+    "total_spawns": 821,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
