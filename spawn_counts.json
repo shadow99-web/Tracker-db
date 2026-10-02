@@ -183,7 +183,7 @@
         "Crocalor": 1,
         "Poochyena": 2,
         "Machop": 2,
-        "Zigzagoon": 1,
+        "Zigzagoon": 2,
         "Prinplup": 2,
         "Peakychu": 1,
         "Seel": 1,
@@ -237,7 +237,7 @@
         "Rookidee": 2,
         "Horsea": 1,
         "Popplio": 1,
-        "Sandile": 1,
+        "Sandile": 2,
         "Cloyster": 1,
         "Kilowattrel": 1,
         "Tangela": 1,
@@ -271,14 +271,18 @@
         "Amaura": 1,
         "Manaphy": 1,
         "Centiskorch": 1,
-        "Typhlosion": 1
+        "Typhlosion": 1,
+        "Skorupi": 1,
+        "Furret": 1,
+        "Rhyhorn": 1,
+        "Golisopod": 1
       },
-      "total_spawns": 385,
-      "last_spawn": "2026-10-02T15:58:17.694122"
+      "total_spawns": 391,
+      "last_spawn": "2026-10-02T15:58:48.158009"
     }
   },
   "global": {
-    "total_spawns": 385,
+    "total_spawns": 391,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
