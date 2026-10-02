@@ -108,7 +108,7 @@
         "Wingull": 1,
         "Dj rotom": 1,
         "Gimmighoul": 6,
-        "Magnemite": 4,
+        "Magnemite": 5,
         "Porygon": 2,
         "Larvitar": 2,
         "Chinchou": 2,
@@ -157,7 +157,7 @@
         "Fletchling": 2,
         "Litleo": 2,
         "Venipede": 4,
-        "Poliwag": 3,
+        "Poliwag": 4,
         "Skrelp": 1,
         "Duskull": 4,
         "Dondozo": 1,
@@ -352,7 +352,7 @@
         "Slakoth": 3,
         "Cacturne": 1,
         "Snivy": 3,
-        "Armarouge": 1,
+        "Armarouge": 2,
         "Noctowl": 1,
         "Rhydon": 1,
         "Mudbray": 1,
@@ -388,14 +388,15 @@
         "Palafin": 1,
         "Makuhita": 1,
         "Bonsly": 1,
-        "Electrike": 1
+        "Electrike": 1,
+        "Yellow plumage squawkabilly": 1
       },
-      "total_spawns": 693,
-      "last_spawn": "2026-10-02T16:45:25.199931"
+      "total_spawns": 697,
+      "last_spawn": "2026-10-02T16:46:02.790466"
     }
   },
   "global": {
-    "total_spawns": 693,
+    "total_spawns": 697,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
