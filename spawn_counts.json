@@ -181,8 +181,8 @@
         "Slurpuff": 2,
         "Magneton": 2,
         "Crocalor": 1,
-        "Poochyena": 1,
-        "Machop": 1,
+        "Poochyena": 2,
+        "Machop": 2,
         "Zigzagoon": 1,
         "Prinplup": 2,
         "Peakychu": 1,
@@ -205,12 +205,12 @@
         "Bombirdier": 2,
         "East sea gastrodon": 1,
         "Krokorok": 1,
-        "Prof tangrowth": 1,
+        "Prof tangrowth": 2,
         "Minccino": 1,
         "Drifloon": 1,
         "Luxray": 1,
         "Gloom": 1,
-        "Morelull": 1,
+        "Morelull": 2,
         "Noibat": 2,
         "Ducklett": 1,
         "Bunnelby": 1,
@@ -244,7 +244,7 @@
         "Finneon": 1,
         "Klefki": 1,
         "Quaxly": 1,
-        "Dewott": 1,
+        "Dewott": 2,
         "Rolycoly": 1,
         "Caterpie": 1,
         "Remoraid": 1,
@@ -265,14 +265,16 @@
         "Beldum": 1,
         "Charcadet": 1,
         "Honedge": 1,
-        "Sealeo": 1
+        "Sealeo": 1,
+        "Wiglett": 1,
+        "Archen": 1
       },
-      "total_spawns": 371,
-      "last_spawn": "2026-10-02T15:57:07.980836"
+      "total_spawns": 378,
+      "last_spawn": "2026-10-02T15:57:44.502475"
     }
   },
   "global": {
-    "total_spawns": 371,
+    "total_spawns": 378,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
