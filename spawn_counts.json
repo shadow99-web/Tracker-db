@@ -20,7 +20,7 @@
         "Meowth": 1,
         "Grookey": 2,
         "Hatenna": 4,
-        "Gastly": 4,
+        "Gastly": 5,
         "Gothita": 3,
         "Dada zarude": 1,
         "Fomantis": 3,
@@ -109,7 +109,7 @@
         "Dj rotom": 1,
         "Gimmighoul": 6,
         "Magnemite": 6,
-        "Porygon": 3,
+        "Porygon": 4,
         "Larvitar": 2,
         "Chinchou": 2,
         "Poliwhirl": 1,
@@ -147,7 +147,7 @@
         "Spritzee": 2,
         "Capsakid": 1,
         "Magmortar": 1,
-        "Roaming gimmighoul": 2,
+        "Roaming gimmighoul": 3,
         "Jangmo-o": 2,
         "Swanna": 1,
         "Surskit": 2,
@@ -427,12 +427,12 @@
         "Low key toxtricity": 1,
         "Roserade": 1
       },
-      "total_spawns": 788,
-      "last_spawn": "2026-10-02T17:01:22.712786"
+      "total_spawns": 791,
+      "last_spawn": "2026-10-02T17:01:52.877622"
     }
   },
   "global": {
-    "total_spawns": 788,
+    "total_spawns": 791,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
