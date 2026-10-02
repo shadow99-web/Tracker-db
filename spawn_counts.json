@@ -195,7 +195,7 @@
         "Battle cyclizar": 3,
         "Steenee": 1,
         "Teddiursa": 7,
-        "Spinarak": 2,
+        "Spinarak": 3,
         "Orange flower floette": 1,
         "Appletun": 1,
         "Mienfoo": 4,
@@ -226,7 +226,7 @@
         "Incineroar": 3,
         "Arctibax": 2,
         "Meowstic": 1,
-        "Pumpkaboo": 1,
+        "Pumpkaboo": 2,
         "Pansage": 2,
         "Eevee": 4,
         "Carracosta": 1,
@@ -457,7 +457,7 @@
         "Dragonair": 2,
         "Nosepass": 1,
         "Burmy": 1,
-        "Annihilape": 1,
+        "Annihilape": 2,
         "Breloom": 1,
         "Hariyama": 2,
         "Graveler": 1,
@@ -466,14 +466,15 @@
         "Feraligatr": 1,
         "Hoopa": 1,
         "Snubbull": 1,
-        "Combusken": 1
+        "Combusken": 1,
+        "Gyarados": 1
       },
-      "total_spawns": 944,
-      "last_spawn": "2026-10-02T17:27:22.844075"
+      "total_spawns": 948,
+      "last_spawn": "2026-10-02T17:28:03.452001"
     }
   },
   "global": {
-    "total_spawns": 944,
+    "total_spawns": 948,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
