@@ -49,7 +49,7 @@
         "Palpitoad": 2,
         "Smoliv": 3,
         "Marowak": 1,
-        "Lotad": 3,
+        "Lotad": 4,
         "Bounsweet": 6,
         "Solosis": 3,
         "Froakie": 1,
@@ -75,7 +75,7 @@
         "Braixen": 1,
         "Shroomish": 1,
         "Trubbish": 1,
-        "Scatterbug": 4,
+        "Scatterbug": 5,
         "Durant": 2,
         "Fidough": 3,
         "Vanillite": 3,
@@ -194,7 +194,7 @@
         "Sandy wormadam": 1,
         "Battle cyclizar": 2,
         "Steenee": 1,
-        "Teddiursa": 3,
+        "Teddiursa": 4,
         "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
@@ -354,14 +354,15 @@
         "Snivy": 1,
         "Armarouge": 1,
         "Noctowl": 1,
-        "Rhydon": 1
+        "Rhydon": 1,
+        "Mudbray": 1
       },
-      "total_spawns": 600,
-      "last_spawn": "2026-10-02T16:29:42.882923"
+      "total_spawns": 604,
+      "last_spawn": "2026-10-02T16:30:22.744491"
     }
   },
   "global": {
-    "total_spawns": 600,
+    "total_spawns": 604,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
