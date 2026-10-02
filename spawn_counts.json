@@ -126,7 +126,7 @@
         "Amoonguss": 1,
         "Starmie": 1,
         "Flamigo": 3,
-        "Timburr": 2,
+        "Timburr": 3,
         "Family of three maushold": 1,
         "Wynaut": 1,
         "Phantump": 1,
@@ -156,7 +156,7 @@
         "Sliggoo": 2,
         "Fletchling": 2,
         "Litleo": 2,
-        "Venipede": 3,
+        "Venipede": 4,
         "Poliwag": 3,
         "Skrelp": 1,
         "Duskull": 4,
@@ -260,7 +260,7 @@
         "Farfetch'd": 2,
         "Girafarig": 1,
         "Flittle": 2,
-        "Wimpod": 1,
+        "Wimpod": 2,
         "Orthworm": 1,
         "Beldum": 1,
         "Charcadet": 1,
@@ -309,7 +309,7 @@
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 1,
-        "Seedot": 3,
+        "Seedot": 4,
         "Hippopotas": 1,
         "Lillipup": 2,
         "Weepinbell": 1,
@@ -371,12 +371,12 @@
         "Lileep": 1,
         "Cetitan": 1
       },
-      "total_spawns": 652,
-      "last_spawn": "2026-10-02T16:38:32.789935"
+      "total_spawns": 656,
+      "last_spawn": "2026-10-02T16:39:12.700078"
     }
   },
   "global": {
-    "total_spawns": 652,
+    "total_spawns": 656,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
