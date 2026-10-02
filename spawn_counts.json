@@ -78,7 +78,7 @@
         "Scatterbug": 4,
         "Durant": 2,
         "Fidough": 3,
-        "Vanillite": 2,
+        "Vanillite": 3,
         "Rellor": 2,
         "Toxel": 3,
         "Maschiff": 2,
@@ -99,7 +99,7 @@
         "Tranquill": 2,
         "Lechonk": 5,
         "Skitty": 2,
-        "Skwovet": 2,
+        "Skwovet": 3,
         "Cyndaquil": 1,
         "Steelix": 1,
         "Stufful": 3,
@@ -131,7 +131,7 @@
         "Wynaut": 1,
         "Phantump": 1,
         "Tandemaus": 1,
-        "Gengar": 1,
+        "Gengar": 2,
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
@@ -340,14 +340,15 @@
         "Blipbug": 1,
         "Pincurchin": 1,
         "Slowpoke": 1,
-        "Clodsire": 1
+        "Clodsire": 1,
+        "Spewpa": 1
       },
-      "total_spawns": 551,
-      "last_spawn": "2026-10-02T16:21:03.362691"
+      "total_spawns": 555,
+      "last_spawn": "2026-10-02T16:21:42.887271"
     }
   },
   "global": {
-    "total_spawns": 551,
+    "total_spawns": 555,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
