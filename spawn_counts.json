@@ -55,7 +55,7 @@
         "Froakie": 1,
         "Hoppip": 4,
         "Clobbopus": 1,
-        "Zubat": 4,
+        "Zubat": 5,
         "Koffing": 2,
         "Yanma": 2,
         "Kabuto": 4,
@@ -93,7 +93,7 @@
         "Snom": 3,
         "Mabosstiff": 1,
         "Litwick": 6,
-        "Servine": 2,
+        "Servine": 3,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 2,
@@ -353,7 +353,7 @@
         "Cacturne": 1,
         "Snivy": 3,
         "Armarouge": 2,
-        "Noctowl": 1,
+        "Noctowl": 2,
         "Rhydon": 1,
         "Mudbray": 1,
         "Cyclizar": 1,
@@ -417,12 +417,12 @@
         "Staryu": 1,
         "Hitmontop": 1
       },
-      "total_spawns": 758,
-      "last_spawn": "2026-10-02T16:56:22.884330"
+      "total_spawns": 761,
+      "last_spawn": "2026-10-02T16:56:53.967986"
     }
   },
   "global": {
-    "total_spawns": 758,
+    "total_spawns": 761,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
