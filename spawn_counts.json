@@ -64,7 +64,7 @@
         "Pawmi": 2,
         "Salandit": 3,
         "Ivysaur": 1,
-        "Tynamo": 3,
+        "Tynamo": 4,
         "Sandshrew": 4,
         "Varoom": 3,
         "Chingling": 1,
@@ -204,7 +204,7 @@
         "Monferno": 1,
         "Bombirdier": 2,
         "East sea gastrodon": 1,
-        "Krokorok": 1,
+        "Krokorok": 2,
         "Prof tangrowth": 4,
         "Minccino": 1,
         "Drifloon": 1,
@@ -419,14 +419,16 @@
         "Doublade": 1,
         "Morgrem": 1,
         "Blissey": 1,
-        "White flower florges": 1
+        "White flower florges": 1,
+        "Basculin": 1,
+        "Oricorio": 1
       },
-      "total_spawns": 769,
-      "last_spawn": "2026-10-02T16:58:13.016973"
+      "total_spawns": 773,
+      "last_spawn": "2026-10-02T16:58:53.237981"
     }
   },
   "global": {
-    "total_spawns": 769,
+    "total_spawns": 773,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
