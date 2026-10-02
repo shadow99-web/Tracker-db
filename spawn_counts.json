@@ -135,7 +135,7 @@
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 3,
+        "Smearguru": 4,
         "Dusclops": 1,
         "Vullaby": 1,
         "Tauros": 1,
@@ -151,7 +151,7 @@
         "Jangmo-o": 2,
         "Swanna": 1,
         "Surskit": 1,
-        "Hattrem": 1,
+        "Hattrem": 2,
         "Cryogonal": 1,
         "Sliggoo": 1,
         "Fletchling": 1,
@@ -305,7 +305,7 @@
         "Wooloo": 1,
         "Applin": 1,
         "Carkol": 1,
-        "Swinub": 1,
+        "Swinub": 2,
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 1,
@@ -315,14 +315,15 @@
         "Weepinbell": 1,
         "Skeledirge": 1,
         "Floragato": 1,
-        "Nacli": 1
+        "Nacli": 1,
+        "Pidgeotto": 1
       },
-      "total_spawns": 499,
-      "last_spawn": "2026-10-02T16:12:23.083946"
+      "total_spawns": 503,
+      "last_spawn": "2026-10-02T16:13:03.342273"
     }
   },
   "global": {
-    "total_spawns": 499,
+    "total_spawns": 503,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
