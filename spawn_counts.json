@@ -198,7 +198,7 @@
         "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
-        "Mienfoo": 2,
+        "Mienfoo": 3,
         "Wailord": 2,
         "Kadabra": 3,
         "Monferno": 1,
@@ -255,7 +255,7 @@
         "Glaceon": 2,
         "Snowy castform": 1,
         "Litten": 2,
-        "Mareep": 3,
+        "Mareep": 4,
         "Exploud": 1,
         "Farfetch'd": 2,
         "Girafarig": 1,
@@ -363,14 +363,15 @@
         "Tepig": 1,
         "Metang": 1,
         "Tarountula": 1,
-        "Ledian": 1
+        "Ledian": 1,
+        "Diglett": 1
       },
-      "total_spawns": 618,
-      "last_spawn": "2026-10-02T16:32:42.894263"
+      "total_spawns": 621,
+      "last_spawn": "2026-10-02T16:33:12.952596"
     }
   },
   "global": {
-    "total_spawns": 618,
+    "total_spawns": 621,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
