@@ -37,7 +37,7 @@
         "Buneary": 2,
         "Wattrel": 3,
         "Cubone": 2,
-        "Geodude": 4,
+        "Geodude": 5,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 3,
@@ -69,7 +69,7 @@
         "Varoom": 2,
         "Chingling": 1,
         "Oddish": 5,
-        "Pansear": 1,
+        "Pansear": 2,
         "Roggenrola": 3,
         "Bibarel": 1,
         "Braixen": 1,
@@ -344,14 +344,15 @@
         "Spewpa": 1,
         "Goldeen": 1,
         "Weedle": 1,
-        "Marshtomp": 1
+        "Marshtomp": 1,
+        "Quaxwell": 1
       },
-      "total_spawns": 564,
-      "last_spawn": "2026-10-02T16:23:32.758625"
+      "total_spawns": 567,
+      "last_spawn": "2026-10-02T16:24:03.378882"
     }
   },
   "global": {
-    "total_spawns": 564,
+    "total_spawns": 567,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
