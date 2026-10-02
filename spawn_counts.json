@@ -57,7 +57,7 @@
         "Clobbopus": 1,
         "Zubat": 3,
         "Koffing": 2,
-        "Yanma": 1,
+        "Yanma": 2,
         "Kabuto": 3,
         "Seviper": 1,
         "Scrafty": 1,
@@ -274,7 +274,7 @@
         "Typhlosion": 1,
         "Skorupi": 1,
         "Furret": 1,
-        "Rhyhorn": 1,
+        "Rhyhorn": 2,
         "Golisopod": 1,
         "Tympole": 2,
         "Arctozolt": 1,
@@ -312,14 +312,16 @@
         "Seedot": 2,
         "Hippopotas": 1,
         "Lillipup": 1,
-        "Weepinbell": 1
+        "Weepinbell": 1,
+        "Skeledirge": 1,
+        "Floragato": 1
       },
-      "total_spawns": 489,
-      "last_spawn": "2026-10-02T16:10:43.206646"
+      "total_spawns": 493,
+      "last_spawn": "2026-10-02T16:11:22.840581"
     }
   },
   "global": {
-    "total_spawns": 489,
+    "total_spawns": 493,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
