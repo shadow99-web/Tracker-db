@@ -159,14 +159,14 @@
         "Venipede": 2,
         "Poliwag": 2,
         "Skrelp": 1,
-        "Duskull": 2,
+        "Duskull": 3,
         "Dondozo": 1,
         "Mankey": 1,
         "Pancham": 1,
         "Milotic": 1,
         "Turtwig": 3,
         "Cetoddle": 1,
-        "Dreepy": 1,
+        "Dreepy": 2,
         "Bramblin": 1,
         "Voltorb": 1,
         "Starly": 3,
@@ -228,7 +228,7 @@
         "Meowstic": 1,
         "Pumpkaboo": 1,
         "Pansage": 1,
-        "Eevee": 2,
+        "Eevee": 3,
         "Carracosta": 1,
         "Bagon": 1,
         "Toedscruel": 1,
@@ -291,14 +291,17 @@
         "Frigibax": 1,
         "Pikachu": 1,
         "Fennekin": 1,
-        "Relicanth": 1
+        "Relicanth": 1,
+        "Bulbasaur": 1,
+        "Helioptile": 1,
+        "Gurdurr": 1
       },
-      "total_spawns": 437,
-      "last_spawn": "2026-10-02T16:02:37.876393"
+      "total_spawns": 443,
+      "last_spawn": "2026-10-02T16:03:08.036630"
     }
   },
   "global": {
-    "total_spawns": 437,
+    "total_spawns": 443,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
