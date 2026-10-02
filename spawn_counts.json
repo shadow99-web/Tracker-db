@@ -64,7 +64,7 @@
         "Pawmi": 2,
         "Salandit": 3,
         "Ivysaur": 1,
-        "Tynamo": 5,
+        "Tynamo": 6,
         "Sandshrew": 4,
         "Varoom": 3,
         "Chingling": 1,
@@ -375,7 +375,7 @@
         "Spoink": 1,
         "Machoke": 1,
         "Yamper": 1,
-        "Petilil": 1,
+        "Petilil": 2,
         "Shedinja": 1,
         "Cottonee": 1,
         "Tirtouga": 1,
@@ -430,14 +430,16 @@
         "Stantler": 1,
         "Sobble": 1,
         "Joltik": 1,
-        "Staraptor": 1
+        "Staraptor": 1,
+        "Thwackey": 1,
+        "Dudunsparce": 1
       },
-      "total_spawns": 810,
-      "last_spawn": "2026-10-02T17:05:03.716965"
+      "total_spawns": 814,
+      "last_spawn": "2026-10-02T17:05:42.876774"
     }
   },
   "global": {
-    "total_spawns": 810,
+    "total_spawns": 814,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
