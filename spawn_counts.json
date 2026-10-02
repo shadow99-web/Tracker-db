@@ -43,7 +43,7 @@
         "Treecko": 3,
         "Ralts": 3,
         "Swirlix": 1,
-        "Togepi": 4,
+        "Togepi": 5,
         "Vibrava": 1,
         "Hatterene": 1,
         "Palpitoad": 1,
@@ -125,7 +125,7 @@
         "Espathra": 1,
         "Amoonguss": 1,
         "Starmie": 1,
-        "Flamigo": 2,
+        "Flamigo": 3,
         "Timburr": 1,
         "Family of three maushold": 1,
         "Wynaut": 1,
@@ -135,7 +135,7 @@
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 1,
+        "Smearguru": 2,
         "Dusclops": 1,
         "Vullaby": 1,
         "Tauros": 1,
@@ -228,7 +228,7 @@
         "Meowstic": 1,
         "Pumpkaboo": 1,
         "Pansage": 1,
-        "Eevee": 1,
+        "Eevee": 2,
         "Carracosta": 1,
         "Bagon": 1,
         "Toedscruel": 1,
@@ -240,14 +240,17 @@
         "Sandile": 1,
         "Cloyster": 1,
         "Kilowattrel": 1,
-        "Tangela": 1
+        "Tangela": 1,
+        "Finneon": 1,
+        "Klefki": 1,
+        "Quaxly": 1
       },
-      "total_spawns": 324,
-      "last_spawn": "2026-10-02T15:53:13.357634"
+      "total_spawns": 331,
+      "last_spawn": "2026-10-02T15:53:47.605140"
     }
   },
   "global": {
-    "total_spawns": 324,
+    "total_spawns": 331,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
