@@ -125,8 +125,8 @@
         "Espathra": 3,
         "Amoonguss": 1,
         "Starmie": 1,
-        "Flamigo": 3,
-        "Timburr": 3,
+        "Flamigo": 4,
+        "Timburr": 4,
         "Family of three maushold": 1,
         "Wynaut": 1,
         "Phantump": 1,
@@ -393,14 +393,15 @@
         "Baltoy": 1,
         "Jynx": 1,
         "Spearow": 1,
-        "Wobbuffet": 1
+        "Wobbuffet": 1,
+        "Paras": 1
       },
-      "total_spawns": 710,
-      "last_spawn": "2026-10-02T16:48:12.743508"
+      "total_spawns": 713,
+      "last_spawn": "2026-10-02T16:48:42.976696"
     }
   },
   "global": {
-    "total_spawns": 710,
+    "total_spawns": 713,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
