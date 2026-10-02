@@ -83,7 +83,7 @@
         "Toxel": 3,
         "Maschiff": 4,
         "Probopass": 1,
-        "Lickitung": 1,
+        "Lickitung": 2,
         "Bellibolt": 3,
         "Nymble": 2,
         "Axew": 5,
@@ -108,7 +108,7 @@
         "Wingull": 1,
         "Dj rotom": 1,
         "Gimmighoul": 8,
-        "Magnemite": 6,
+        "Magnemite": 7,
         "Porygon": 4,
         "Larvitar": 3,
         "Chinchou": 2,
@@ -463,14 +463,16 @@
         "Graveler": 1,
         "Pupitar": 1,
         "Emolga": 1,
-        "Feraligatr": 1
+        "Feraligatr": 1,
+        "Hoopa": 1,
+        "Snubbull": 1
       },
-      "total_spawns": 933,
-      "last_spawn": "2026-10-02T17:25:33.826701"
+      "total_spawns": 937,
+      "last_spawn": "2026-10-02T17:26:15.538399"
     }
   },
   "global": {
-    "total_spawns": 933,
+    "total_spawns": 937,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
