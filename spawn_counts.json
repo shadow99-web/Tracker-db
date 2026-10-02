@@ -173,11 +173,11 @@
         "Corviknight": 2,
         "Hisuian qwilfish": 1,
         "Grubbin": 4,
-        "Chikorita": 1,
+        "Chikorita": 2,
         "Sunkern": 1,
         "Chespin": 2,
         "Cacnea": 2,
-        "Trapinch": 1,
+        "Trapinch": 2,
         "Slurpuff": 2,
         "Magneton": 2,
         "Crocalor": 1,
@@ -311,14 +311,15 @@
         "Chimchar": 1,
         "Seedot": 2,
         "Hippopotas": 1,
-        "Lillipup": 1
+        "Lillipup": 1,
+        "Weepinbell": 1
       },
-      "total_spawns": 486,
-      "last_spawn": "2026-10-02T16:10:12.879636"
+      "total_spawns": 489,
+      "last_spawn": "2026-10-02T16:10:43.206646"
     }
   },
   "global": {
-    "total_spawns": 486,
+    "total_spawns": 489,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
