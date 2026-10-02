@@ -177,7 +177,7 @@
         "Sunkern": 1,
         "Chespin": 3,
         "Cacnea": 2,
-        "Trapinch": 2,
+        "Trapinch": 3,
         "Slurpuff": 2,
         "Magneton": 2,
         "Crocalor": 1,
@@ -406,7 +406,7 @@
         "Lokix": 1,
         "Cherrim": 1,
         "Xatu": 1,
-        "Corvisquire": 2,
+        "Corvisquire": 3,
         "Brambleghast": 1,
         "Pachirisu": 1,
         "Magikarp": 1,
@@ -454,7 +454,7 @@
         "Spiritomb": 1,
         "Ride cyclizar": 1,
         "Nuzleaf": 1,
-        "Dragonair": 1,
+        "Dragonair": 2,
         "Nosepass": 1,
         "Burmy": 1,
         "Annihilape": 1,
@@ -465,14 +465,15 @@
         "Emolga": 1,
         "Feraligatr": 1,
         "Hoopa": 1,
-        "Snubbull": 1
+        "Snubbull": 1,
+        "Combusken": 1
       },
-      "total_spawns": 937,
-      "last_spawn": "2026-10-02T17:26:15.538399"
+      "total_spawns": 941,
+      "last_spawn": "2026-10-02T17:26:52.710141"
     }
   },
   "global": {
-    "total_spawns": 937,
+    "total_spawns": 941,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
