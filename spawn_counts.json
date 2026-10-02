@@ -51,7 +51,7 @@
         "Marowak": 1,
         "Lotad": 5,
         "Bounsweet": 6,
-        "Solosis": 4,
+        "Solosis": 5,
         "Froakie": 1,
         "Hoppip": 4,
         "Clobbopus": 1,
@@ -120,7 +120,7 @@
         "Gligar": 2,
         "Grumpig": 1,
         "Veluza": 4,
-        "Pidove": 4,
+        "Pidove": 5,
         "Shinx": 4,
         "Espathra": 3,
         "Amoonguss": 1,
@@ -143,7 +143,7 @@
         "Growlithe": 1,
         "Greavard": 4,
         "Abra": 3,
-        "Chef dente": 4,
+        "Chef dente": 5,
         "Spritzee": 2,
         "Capsakid": 2,
         "Magmortar": 1,
@@ -156,7 +156,7 @@
         "Sliggoo": 2,
         "Fletchling": 2,
         "Litleo": 2,
-        "Venipede": 4,
+        "Venipede": 5,
         "Poliwag": 4,
         "Skrelp": 2,
         "Duskull": 6,
@@ -453,12 +453,12 @@
         "Ariados": 1,
         "Spiritomb": 1
       },
-      "total_spawns": 876,
-      "last_spawn": "2026-10-02T17:16:02.926904"
+      "total_spawns": 880,
+      "last_spawn": "2026-10-02T17:16:42.657330"
     }
   },
   "global": {
-    "total_spawns": 876,
+    "total_spawns": 880,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
