@@ -50,7 +50,7 @@
         "Smoliv": 2,
         "Marowak": 1,
         "Lotad": 2,
-        "Bounsweet": 5,
+        "Bounsweet": 6,
         "Solosis": 3,
         "Froakie": 1,
         "Hoppip": 3,
@@ -66,7 +66,7 @@
         "Ivysaur": 1,
         "Tynamo": 2,
         "Sandshrew": 2,
-        "Varoom": 1,
+        "Varoom": 2,
         "Chingling": 1,
         "Oddish": 5,
         "Pansear": 1,
@@ -233,7 +233,7 @@
         "Bagon": 1,
         "Toedscruel": 1,
         "Luxio": 2,
-        "Zweilous": 1,
+        "Zweilous": 2,
         "Rookidee": 2,
         "Horsea": 1,
         "Popplio": 1,
@@ -339,14 +339,15 @@
         "Lumineon": 1,
         "Blipbug": 1,
         "Pincurchin": 1,
-        "Slowpoke": 1
+        "Slowpoke": 1,
+        "Clodsire": 1
       },
-      "total_spawns": 547,
-      "last_spawn": "2026-10-02T16:20:23.811766"
+      "total_spawns": 551,
+      "last_spawn": "2026-10-02T16:21:03.362691"
     }
   },
   "global": {
-    "total_spawns": 547,
+    "total_spawns": 551,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
