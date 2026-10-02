@@ -337,7 +337,7 @@
         "Grotle": 1,
         "Spheal": 1,
         "Lumineon": 1,
-        "Blipbug": 2,
+        "Blipbug": 3,
         "Pincurchin": 1,
         "Slowpoke": 2,
         "Clodsire": 1,
@@ -422,14 +422,17 @@
         "White flower florges": 1,
         "Basculin": 1,
         "Oricorio": 1,
-        "Noivern": 1
+        "Noivern": 1,
+        "Thievul": 1,
+        "Low key toxtricity": 1,
+        "Roserade": 1
       },
-      "total_spawns": 784,
-      "last_spawn": "2026-10-02T17:00:42.960174"
+      "total_spawns": 788,
+      "last_spawn": "2026-10-02T17:01:22.712786"
     }
   },
   "global": {
-    "total_spawns": 784,
+    "total_spawns": 788,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
