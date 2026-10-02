@@ -182,7 +182,7 @@
         "Magneton": 2,
         "Crocalor": 1,
         "Poochyena": 2,
-        "Machop": 4,
+        "Machop": 5,
         "Zigzagoon": 3,
         "Prinplup": 2,
         "Peakychu": 4,
@@ -221,7 +221,7 @@
         "Bergmite": 2,
         "Gothorita": 2,
         "Tentacool": 2,
-        "Whismur": 5,
+        "Whismur": 6,
         "Toedscool": 5,
         "Incineroar": 3,
         "Arctibax": 2,
@@ -288,7 +288,7 @@
         "Deino": 2,
         "Pawniard": 1,
         "Rabsca": 2,
-        "Frigibax": 1,
+        "Frigibax": 2,
         "Pikachu": 2,
         "Fennekin": 2,
         "Relicanth": 1,
@@ -309,7 +309,7 @@
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 2,
-        "Seedot": 5,
+        "Seedot": 6,
         "Hippopotas": 1,
         "Lillipup": 3,
         "Weepinbell": 1,
@@ -474,12 +474,12 @@
         "Elgyem": 1,
         "Ursaring": 1
       },
-      "total_spawns": 960,
-      "last_spawn": "2026-10-02T17:30:02.864415"
+      "total_spawns": 964,
+      "last_spawn": "2026-10-02T17:30:42.821917"
     }
   },
   "global": {
-    "total_spawns": 960,
+    "total_spawns": 964,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
