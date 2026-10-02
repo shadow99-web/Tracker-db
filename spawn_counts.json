@@ -11,7 +11,7 @@
       "counts": {
         "Klink": 1,
         "Ekans": 3,
-        "Rattata": 2,
+        "Rattata": 3,
         "Sizzlipede": 1,
         "Mosslax": 5,
         "Lickilicky": 1,
@@ -37,7 +37,7 @@
         "Buneary": 2,
         "Wattrel": 4,
         "Cubone": 2,
-        "Geodude": 6,
+        "Geodude": 7,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 3,
@@ -351,7 +351,7 @@
         "Jumpluff": 1,
         "Slakoth": 3,
         "Cacturne": 1,
-        "Snivy": 3,
+        "Snivy": 4,
         "Armarouge": 2,
         "Noctowl": 2,
         "Rhydon": 1,
@@ -427,14 +427,15 @@
         "Low key toxtricity": 1,
         "Roserade": 1,
         "Numel": 1,
-        "Stantler": 1
+        "Stantler": 1,
+        "Sobble": 1
       },
-      "total_spawns": 794,
-      "last_spawn": "2026-10-02T17:02:23.309485"
+      "total_spawns": 798,
+      "last_spawn": "2026-10-02T17:03:05.573745"
     }
   },
   "global": {
-    "total_spawns": 794,
+    "total_spawns": 798,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
