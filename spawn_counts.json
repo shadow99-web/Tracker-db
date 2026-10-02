@@ -37,7 +37,7 @@
         "Buneary": 2,
         "Wattrel": 3,
         "Cubone": 2,
-        "Geodude": 5,
+        "Geodude": 6,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 3,
@@ -47,7 +47,7 @@
         "Vibrava": 1,
         "Hatterene": 1,
         "Palpitoad": 2,
-        "Smoliv": 2,
+        "Smoliv": 3,
         "Marowak": 1,
         "Lotad": 3,
         "Bounsweet": 6,
@@ -289,7 +289,7 @@
         "Pawniard": 1,
         "Rabsca": 1,
         "Frigibax": 1,
-        "Pikachu": 1,
+        "Pikachu": 2,
         "Fennekin": 1,
         "Relicanth": 1,
         "Bulbasaur": 1,
@@ -351,14 +351,15 @@
         "Jumpluff": 1,
         "Slakoth": 1,
         "Cacturne": 1,
-        "Snivy": 1
+        "Snivy": 1,
+        "Armarouge": 1
       },
-      "total_spawns": 587,
-      "last_spawn": "2026-10-02T16:27:33.643588"
+      "total_spawns": 591,
+      "last_spawn": "2026-10-02T16:28:12.660290"
     }
   },
   "global": {
-    "total_spawns": 587,
+    "total_spawns": 591,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
