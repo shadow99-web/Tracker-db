@@ -37,10 +37,10 @@
         "Buneary": 1,
         "Wattrel": 2,
         "Cubone": 1,
-        "Geodude": 2,
+        "Geodude": 3,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
-        "Treecko": 2,
+        "Treecko": 3,
         "Ralts": 3,
         "Swirlix": 1,
         "Togepi": 3,
@@ -116,7 +116,7 @@
         "Dhelmise": 1,
         "Klawf": 1,
         "Toxapex": 1,
-        "Wurmple": 2,
+        "Wurmple": 3,
         "Gligar": 1,
         "Grumpig": 1,
         "Veluza": 1,
@@ -172,7 +172,7 @@
         "Starly": 2,
         "Corviknight": 1,
         "Hisuian qwilfish": 1,
-        "Grubbin": 2,
+        "Grubbin": 3,
         "Chikorita": 1,
         "Sunkern": 1,
         "Chespin": 1,
@@ -181,14 +181,17 @@
         "Slurpuff": 1,
         "Magneton": 1,
         "Crocalor": 1,
-        "Poochyena": 1
+        "Poochyena": 1,
+        "Machop": 1,
+        "Zigzagoon": 1,
+        "Prinplup": 1
       },
-      "total_spawns": 235,
-      "last_spawn": "2026-10-02T15:45:37.698010"
+      "total_spawns": 242,
+      "last_spawn": "2026-10-02T15:46:12.935452"
     }
   },
   "global": {
-    "total_spawns": 235,
+    "total_spawns": 242,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
