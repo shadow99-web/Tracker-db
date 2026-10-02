@@ -13,7 +13,7 @@
         "Ekans": 2,
         "Rattata": 2,
         "Sizzlipede": 1,
-        "Mosslax": 2,
+        "Mosslax": 3,
         "Lickilicky": 1,
         "Gible": 2,
         "Dachsbun": 1,
@@ -53,7 +53,7 @@
         "Bounsweet": 1,
         "Solosis": 3,
         "Froakie": 1,
-        "Hoppip": 2,
+        "Hoppip": 3,
         "Clobbopus": 1,
         "Zubat": 2,
         "Koffing": 2,
@@ -147,7 +147,7 @@
         "Spritzee": 1,
         "Capsakid": 1,
         "Magmortar": 1,
-        "Roaming gimmighoul": 1,
+        "Roaming gimmighoul": 2,
         "Jangmo-o": 1,
         "Swanna": 1,
         "Surskit": 1,
@@ -194,14 +194,17 @@
         "Sandy wormadam": 1,
         "Battle cyclizar": 1,
         "Steenee": 1,
-        "Teddiursa": 1
+        "Teddiursa": 1,
+        "Spinarak": 1,
+        "Orange flower floette": 1,
+        "Appletun": 1
       },
-      "total_spawns": 255,
-      "last_spawn": "2026-10-02T15:47:17.633437"
+      "total_spawns": 261,
+      "last_spawn": "2026-10-02T15:47:47.778470"
     }
   },
   "global": {
-    "total_spawns": 255,
+    "total_spawns": 261,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
