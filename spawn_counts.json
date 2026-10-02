@@ -51,7 +51,7 @@
         "Marowak": 1,
         "Lotad": 1,
         "Bounsweet": 1,
-        "Solosis": 1,
+        "Solosis": 3,
         "Froakie": 1,
         "Hoppip": 2,
         "Clobbopus": 1,
@@ -84,10 +84,10 @@
         "Maschiff": 1,
         "Probopass": 1,
         "Lickitung": 1,
-        "Bellibolt": 1,
+        "Bellibolt": 2,
         "Nymble": 1,
         "Axew": 2,
-        "Sewaddle": 2,
+        "Sewaddle": 3,
         "Bellsprout": 1,
         "Togetic": 1,
         "Snom": 2,
@@ -169,21 +169,23 @@
         "Dreepy": 1,
         "Bramblin": 1,
         "Voltorb": 1,
-        "Starly": 1,
+        "Starly": 2,
         "Corviknight": 1,
         "Hisuian qwilfish": 1,
         "Grubbin": 2,
         "Chikorita": 1,
         "Sunkern": 1,
         "Chespin": 1,
-        "Cacnea": 1
+        "Cacnea": 1,
+        "Trapinch": 1,
+        "Slurpuff": 1
       },
-      "total_spawns": 221,
-      "last_spawn": "2026-10-02T15:44:30.041180"
+      "total_spawns": 228,
+      "last_spawn": "2026-10-02T15:45:02.921158"
     }
   },
   "global": {
-    "total_spawns": 221,
+    "total_spawns": 228,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
