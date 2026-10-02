@@ -79,7 +79,7 @@
         "Durant": 2,
         "Fidough": 1,
         "Vanillite": 1,
-        "Rellor": 1,
+        "Rellor": 2,
         "Toxel": 2,
         "Maschiff": 1,
         "Probopass": 1,
@@ -130,14 +130,19 @@
         "Family of three maushold": 1,
         "Wynaut": 1,
         "Phantump": 1,
-        "Tandemaus": 1
+        "Tandemaus": 1,
+        "Gengar": 1,
+        "Boldore": 1,
+        "Malamar": 1,
+        "Sudowoodo": 1,
+        "Smearguru": 1
       },
-      "total_spawns": 151,
-      "last_spawn": "2026-10-02T15:38:32.686817"
+      "total_spawns": 157,
+      "last_spawn": "2026-10-02T15:39:03.140638"
     }
   },
   "global": {
-    "total_spawns": 151,
+    "total_spawns": 157,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
