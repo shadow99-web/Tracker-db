@@ -41,7 +41,7 @@
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 3,
-        "Ralts": 3,
+        "Ralts": 4,
         "Swirlix": 1,
         "Togepi": 8,
         "Vibrava": 1,
@@ -234,7 +234,7 @@
         "Toedscruel": 2,
         "Luxio": 2,
         "Zweilous": 2,
-        "Rookidee": 2,
+        "Rookidee": 3,
         "Horsea": 2,
         "Popplio": 2,
         "Sandile": 5,
@@ -432,14 +432,15 @@
         "Joltik": 1,
         "Staraptor": 1,
         "Thwackey": 1,
-        "Dudunsparce": 1
+        "Dudunsparce": 1,
+        "Kricketune": 1
       },
-      "total_spawns": 814,
-      "last_spawn": "2026-10-02T17:05:42.876774"
+      "total_spawns": 817,
+      "last_spawn": "2026-10-02T17:06:13.560169"
     }
   },
   "global": {
-    "total_spawns": 814,
+    "total_spawns": 817,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
