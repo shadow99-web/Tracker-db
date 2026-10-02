@@ -43,7 +43,7 @@
         "Treecko": 3,
         "Ralts": 3,
         "Swirlix": 1,
-        "Togepi": 3,
+        "Togepi": 4,
         "Vibrava": 1,
         "Hatterene": 1,
         "Palpitoad": 1,
@@ -206,14 +206,19 @@
         "East sea gastrodon": 1,
         "Krokorok": 1,
         "Prof tangrowth": 1,
-        "Minccino": 1
+        "Minccino": 1,
+        "Drifloon": 1,
+        "Luxray": 1,
+        "Gloom": 1,
+        "Morelull": 1,
+        "Noibat": 1
       },
-      "total_spawns": 274,
-      "last_spawn": "2026-10-02T15:48:57.646711"
+      "total_spawns": 280,
+      "last_spawn": "2026-10-02T15:49:27.788607"
     }
   },
   "global": {
-    "total_spawns": 274,
+    "total_spawns": 280,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
