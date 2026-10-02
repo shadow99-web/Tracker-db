@@ -266,7 +266,7 @@
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 3,
-        "Wiglett": 7,
+        "Wiglett": 8,
         "Archen": 1,
         "Amaura": 2,
         "Manaphy": 1,
@@ -460,14 +460,17 @@
         "Annihilape": 1,
         "Breloom": 1,
         "Hariyama": 2,
-        "Graveler": 1
+        "Graveler": 1,
+        "Pupitar": 1,
+        "Emolga": 1,
+        "Feraligatr": 1
       },
-      "total_spawns": 926,
-      "last_spawn": "2026-10-02T17:24:23.777725"
+      "total_spawns": 930,
+      "last_spawn": "2026-10-02T17:25:03.597479"
     }
   },
   "global": {
-    "total_spawns": 926,
+    "total_spawns": 930,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
