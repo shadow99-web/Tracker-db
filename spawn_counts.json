@@ -80,7 +80,7 @@
         "Fidough": 1,
         "Vanillite": 1,
         "Rellor": 2,
-        "Toxel": 2,
+        "Toxel": 3,
         "Maschiff": 1,
         "Probopass": 1,
         "Lickitung": 1,
@@ -92,7 +92,7 @@
         "Togetic": 1,
         "Snom": 2,
         "Mabosstiff": 1,
-        "Litwick": 1,
+        "Litwick": 2,
         "Servine": 1,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
@@ -169,14 +169,19 @@
         "Dreepy": 1,
         "Bramblin": 1,
         "Voltorb": 1,
-        "Starly": 1
+        "Starly": 1,
+        "Corviknight": 1,
+        "Hisuian qwilfish": 1,
+        "Grubbin": 1,
+        "Chikorita": 1,
+        "Sunkern": 1
       },
-      "total_spawns": 209,
-      "last_spawn": "2026-10-02T15:43:22.868877"
+      "total_spawns": 216,
+      "last_spawn": "2026-10-02T15:43:58.216741"
     }
   },
   "global": {
-    "total_spawns": 209,
+    "total_spawns": 216,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
