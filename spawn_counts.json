@@ -37,7 +37,7 @@
         "Buneary": 2,
         "Wattrel": 3,
         "Cubone": 2,
-        "Geodude": 3,
+        "Geodude": 4,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 3,
@@ -159,7 +159,7 @@
         "Venipede": 2,
         "Poliwag": 2,
         "Skrelp": 1,
-        "Duskull": 3,
+        "Duskull": 4,
         "Dondozo": 1,
         "Mankey": 1,
         "Pancham": 1,
@@ -259,7 +259,7 @@
         "Exploud": 1,
         "Farfetch'd": 1,
         "Girafarig": 1,
-        "Flittle": 1,
+        "Flittle": 2,
         "Wimpod": 1,
         "Orthworm": 1,
         "Beldum": 1,
@@ -316,12 +316,12 @@
         "Skeledirge": 1,
         "Floragato": 1
       },
-      "total_spawns": 493,
-      "last_spawn": "2026-10-02T16:11:22.840581"
+      "total_spawns": 496,
+      "last_spawn": "2026-10-02T16:11:53.027277"
     }
   },
   "global": {
-    "total_spawns": 493,
+    "total_spawns": 496,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
