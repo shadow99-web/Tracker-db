@@ -81,7 +81,7 @@
         "Vanillite": 3,
         "Rellor": 3,
         "Toxel": 3,
-        "Maschiff": 2,
+        "Maschiff": 3,
         "Probopass": 1,
         "Lickitung": 1,
         "Bellibolt": 2,
@@ -391,14 +391,16 @@
         "Electrike": 1,
         "Yellow plumage squawkabilly": 1,
         "Baltoy": 1,
-        "Jynx": 1
+        "Jynx": 1,
+        "Spearow": 1,
+        "Wobbuffet": 1
       },
-      "total_spawns": 707,
-      "last_spawn": "2026-10-02T16:47:42.686806"
+      "total_spawns": 710,
+      "last_spawn": "2026-10-02T16:48:12.743508"
     }
   },
   "global": {
-    "total_spawns": 707,
+    "total_spawns": 710,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
