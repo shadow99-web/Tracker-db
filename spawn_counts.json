@@ -58,7 +58,7 @@
         "Zubat": 3,
         "Koffing": 2,
         "Yanma": 2,
-        "Kabuto": 3,
+        "Kabuto": 4,
         "Seviper": 1,
         "Scrafty": 1,
         "Pawmi": 2,
@@ -79,7 +79,7 @@
         "Durant": 2,
         "Fidough": 3,
         "Vanillite": 3,
-        "Rellor": 2,
+        "Rellor": 3,
         "Toxel": 3,
         "Maschiff": 2,
         "Probopass": 1,
@@ -88,7 +88,7 @@
         "Nymble": 1,
         "Axew": 3,
         "Sewaddle": 5,
-        "Bellsprout": 4,
+        "Bellsprout": 5,
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
@@ -346,12 +346,12 @@
         "Weedle": 1,
         "Marshtomp": 1
       },
-      "total_spawns": 561,
-      "last_spawn": "2026-10-02T16:22:53.296837"
+      "total_spawns": 564,
+      "last_spawn": "2026-10-02T16:23:32.758625"
     }
   },
   "global": {
-    "total_spawns": 561,
+    "total_spawns": 564,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
