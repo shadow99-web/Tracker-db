@@ -311,7 +311,7 @@
         "Chimchar": 1,
         "Seedot": 2,
         "Hippopotas": 1,
-        "Lillipup": 1,
+        "Lillipup": 2,
         "Weepinbell": 1,
         "Skeledirge": 1,
         "Floragato": 1,
@@ -345,14 +345,16 @@
         "Goldeen": 1,
         "Weedle": 1,
         "Marshtomp": 1,
-        "Quaxwell": 1
+        "Quaxwell": 1,
+        "Shelmet": 1,
+        "Smeargle": 1
       },
-      "total_spawns": 570,
-      "last_spawn": "2026-10-02T16:24:42.736836"
+      "total_spawns": 573,
+      "last_spawn": "2026-10-02T16:25:13.027202"
     }
   },
   "global": {
-    "total_spawns": 570,
+    "total_spawns": 573,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
