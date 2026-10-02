@@ -93,7 +93,7 @@
         "Snom": 3,
         "Mabosstiff": 1,
         "Litwick": 9,
-        "Servine": 4,
+        "Servine": 5,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 2,
@@ -194,7 +194,7 @@
         "Sandy wormadam": 1,
         "Battle cyclizar": 3,
         "Steenee": 1,
-        "Teddiursa": 6,
+        "Teddiursa": 7,
         "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
@@ -221,7 +221,7 @@
         "Bergmite": 2,
         "Gothorita": 2,
         "Tentacool": 2,
-        "Whismur": 4,
+        "Whismur": 5,
         "Toedscool": 5,
         "Incineroar": 3,
         "Arctibax": 2,
@@ -453,14 +453,15 @@
         "Ariados": 1,
         "Spiritomb": 1,
         "Ride cyclizar": 1,
-        "Nuzleaf": 1
+        "Nuzleaf": 1,
+        "Dragonair": 1
       },
-      "total_spawns": 893,
-      "last_spawn": "2026-10-02T17:18:58.624734"
+      "total_spawns": 897,
+      "last_spawn": "2026-10-02T17:19:34.175160"
     }
   },
   "global": {
-    "total_spawns": 893,
+    "total_spawns": 897,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
