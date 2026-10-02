@@ -125,7 +125,7 @@
         "Espathra": 3,
         "Amoonguss": 1,
         "Starmie": 1,
-        "Flamigo": 6,
+        "Flamigo": 7,
         "Timburr": 5,
         "Family of three maushold": 1,
         "Wynaut": 1,
@@ -155,7 +155,7 @@
         "Cryogonal": 1,
         "Sliggoo": 2,
         "Fletchling": 2,
-        "Litleo": 2,
+        "Litleo": 3,
         "Venipede": 5,
         "Poliwag": 4,
         "Skrelp": 2,
@@ -342,7 +342,7 @@
         "Slowpoke": 2,
         "Clodsire": 1,
         "Spewpa": 2,
-        "Goldeen": 1,
+        "Goldeen": 2,
         "Weedle": 2,
         "Marshtomp": 1,
         "Quaxwell": 1,
@@ -465,12 +465,12 @@
         "Emolga": 1,
         "Feraligatr": 1
       },
-      "total_spawns": 930,
-      "last_spawn": "2026-10-02T17:25:03.597479"
+      "total_spawns": 933,
+      "last_spawn": "2026-10-02T17:25:33.826701"
     }
   },
   "global": {
-    "total_spawns": 930,
+    "total_spawns": 933,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
