@@ -15,7 +15,7 @@
         "Sizzlipede": 1,
         "Mosslax": 5,
         "Lickilicky": 1,
-        "Gible": 4,
+        "Gible": 5,
         "Dachsbun": 1,
         "Meowth": 1,
         "Grookey": 2,
@@ -220,7 +220,7 @@
         "Kricketot": 1,
         "Bergmite": 2,
         "Gothorita": 2,
-        "Tentacool": 1,
+        "Tentacool": 2,
         "Whismur": 4,
         "Toedscool": 5,
         "Incineroar": 3,
@@ -440,14 +440,15 @@
         "Hakamo-o": 1,
         "Woobat": 1,
         "Cascoon": 1,
-        "Trash burmy": 1
+        "Trash burmy": 1,
+        "La reine trim furfrou": 1
       },
-      "total_spawns": 842,
-      "last_spawn": "2026-10-02T17:10:22.750420"
+      "total_spawns": 845,
+      "last_spawn": "2026-10-02T17:10:52.863637"
     }
   },
   "global": {
-    "total_spawns": 842,
+    "total_spawns": 845,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
