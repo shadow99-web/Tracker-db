@@ -157,7 +157,7 @@
         "Fletchling": 1,
         "Litleo": 1,
         "Venipede": 2,
-        "Poliwag": 1,
+        "Poliwag": 2,
         "Skrelp": 1,
         "Duskull": 1,
         "Dondozo": 1,
@@ -221,14 +221,18 @@
         "Bergmite": 1,
         "Gothorita": 1,
         "Tentacool": 1,
-        "Whismur": 1
+        "Whismur": 1,
+        "Toedscool": 1,
+        "Incineroar": 1,
+        "Arctibax": 1,
+        "Meowstic": 1
       },
-      "total_spawns": 294,
-      "last_spawn": "2026-10-02T15:50:38.042653"
+      "total_spawns": 299,
+      "last_spawn": "2026-10-02T15:51:08.167263"
     }
   },
   "global": {
-    "total_spawns": 294,
+    "total_spawns": 299,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
