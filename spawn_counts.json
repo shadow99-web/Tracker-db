@@ -20,7 +20,7 @@
         "Meowth": 1,
         "Grookey": 2,
         "Hatenna": 4,
-        "Gastly": 5,
+        "Gastly": 6,
         "Gothita": 3,
         "Dada zarude": 1,
         "Fomantis": 3,
@@ -158,7 +158,7 @@
         "Litleo": 2,
         "Venipede": 4,
         "Poliwag": 4,
-        "Skrelp": 1,
+        "Skrelp": 2,
         "Duskull": 6,
         "Dondozo": 3,
         "Mankey": 1,
@@ -446,14 +446,15 @@
         "Whirlipede": 1,
         "Mareanie": 1,
         "Ponyta": 1,
-        "Claydol": 1
+        "Claydol": 1,
+        "Golduck": 1
       },
-      "total_spawns": 858,
-      "last_spawn": "2026-10-02T17:13:03.833937"
+      "total_spawns": 861,
+      "last_spawn": "2026-10-02T17:13:34.515608"
     }
   },
   "global": {
-    "total_spawns": 858,
+    "total_spawns": 861,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
