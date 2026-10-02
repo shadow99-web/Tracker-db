@@ -294,20 +294,23 @@
         "Relicanth": 1,
         "Bulbasaur": 1,
         "Helioptile": 1,
-        "Gurdurr": 1,
+        "Gurdurr": 2,
         "Drilbur": 1,
         "Poison arceus": 1,
         "Klang": 1,
         "Frogadier": 1,
         "Torracat": 1,
-        "Crobat": 1
+        "Crobat": 1,
+        "Castform": 1,
+        "Wooloo": 1,
+        "Applin": 1
       },
-      "total_spawns": 457,
-      "last_spawn": "2026-10-02T16:05:03.655282"
+      "total_spawns": 461,
+      "last_spawn": "2026-10-02T16:05:42.983984"
     }
   },
   "global": {
-    "total_spawns": 457,
+    "total_spawns": 461,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
