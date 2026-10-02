@@ -19,7 +19,7 @@
         "Dachsbun": 1,
         "Meowth": 1,
         "Grookey": 1,
-        "Hatenna": 2,
+        "Hatenna": 3,
         "Gastly": 1,
         "Gothita": 1,
         "Dada zarude": 1,
@@ -27,7 +27,7 @@
         "Tinkatink": 2,
         "Vigoroth": 1,
         "Rufflet": 1,
-        "Dratini": 1,
+        "Dratini": 2,
         "Impidimp": 2,
         "Tadbulb": 1,
         "Clauncher": 1,
@@ -96,14 +96,19 @@
         "Servine": 1,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
-        "Tranquill": 1
+        "Tranquill": 1,
+        "Lechonk": 1,
+        "Skitty": 1,
+        "Skwovet": 1,
+        "Cyndaquil": 1,
+        "Steelix": 1
       },
-      "total_spawns": 101,
-      "last_spawn": "2026-10-02T15:34:07.748604"
+      "total_spawns": 108,
+      "last_spawn": "2026-10-02T15:34:43.194324"
     }
   },
   "global": {
-    "total_spawns": 101,
+    "total_spawns": 108,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
