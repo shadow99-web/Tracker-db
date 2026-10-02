@@ -68,7 +68,7 @@
         "Sandshrew": 1,
         "Varoom": 1,
         "Chingling": 1,
-        "Oddish": 1,
+        "Oddish": 2,
         "Pansear": 1,
         "Roggenrola": 2,
         "Bibarel": 1,
@@ -141,15 +141,19 @@
         "Tauros": 1,
         "Panpour": 1,
         "Growlithe": 1,
-        "Greavard": 1,
-        "Abra": 1
+        "Greavard": 2,
+        "Abra": 1,
+        "Chef dente": 1,
+        "Spritzee": 1,
+        "Capsakid": 1,
+        "Magmortar": 1
       },
-      "total_spawns": 170,
-      "last_spawn": "2026-10-02T15:40:07.857411"
+      "total_spawns": 176,
+      "last_spawn": "2026-10-02T15:40:38.107936"
     }
   },
   "global": {
-    "total_spawns": 170,
+    "total_spawns": 176,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
