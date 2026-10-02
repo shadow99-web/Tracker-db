@@ -88,7 +88,7 @@
         "Nymble": 1,
         "Axew": 3,
         "Sewaddle": 5,
-        "Bellsprout": 3,
+        "Bellsprout": 4,
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
@@ -243,7 +243,7 @@
         "Tangela": 1,
         "Finneon": 1,
         "Klefki": 1,
-        "Quaxly": 2,
+        "Quaxly": 3,
         "Dewott": 2,
         "Rolycoly": 1,
         "Caterpie": 2,
@@ -323,14 +323,16 @@
         "Herdier": 1,
         "Rowlet": 1,
         "Goomy": 1,
-        "Skiploom": 1
+        "Skiploom": 1,
+        "Pikipek": 1,
+        "Buizel": 1
       },
-      "total_spawns": 517,
-      "last_spawn": "2026-10-02T16:15:23.741744"
+      "total_spawns": 521,
+      "last_spawn": "2026-10-02T16:16:03.557209"
     }
   },
   "global": {
-    "total_spawns": 517,
+    "total_spawns": 521,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
