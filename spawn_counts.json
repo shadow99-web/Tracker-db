@@ -35,7 +35,7 @@
         "Pawmo": 1,
         "Munna": 1,
         "Buneary": 1,
-        "Wattrel": 2,
+        "Wattrel": 3,
         "Cubone": 1,
         "Geodude": 3,
         "Mudkip": 1,
@@ -110,7 +110,7 @@
         "Gimmighoul": 2,
         "Magnemite": 2,
         "Porygon": 1,
-        "Larvitar": 1,
+        "Larvitar": 2,
         "Chinchou": 1,
         "Poliwhirl": 1,
         "Dhelmise": 1,
@@ -202,7 +202,7 @@
         "Wailord": 1,
         "Kadabra": 1,
         "Monferno": 1,
-        "Bombirdier": 1,
+        "Bombirdier": 2,
         "East sea gastrodon": 1,
         "Krokorok": 1,
         "Prof tangrowth": 1,
@@ -211,14 +211,18 @@
         "Luxray": 1,
         "Gloom": 1,
         "Morelull": 1,
-        "Noibat": 1
+        "Noibat": 1,
+        "Ducklett": 1,
+        "Bunnelby": 1,
+        "Perrserker": 1,
+        "Pineco": 1
       },
-      "total_spawns": 280,
-      "last_spawn": "2026-10-02T15:49:27.788607"
+      "total_spawns": 287,
+      "last_spawn": "2026-10-02T15:50:02.927158"
     }
   },
   "global": {
-    "total_spawns": 280,
+    "total_spawns": 287,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
