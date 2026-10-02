@@ -182,7 +182,7 @@
         "Magneton": 2,
         "Crocalor": 1,
         "Poochyena": 2,
-        "Machop": 3,
+        "Machop": 4,
         "Zigzagoon": 3,
         "Prinplup": 2,
         "Peakychu": 3,
@@ -309,7 +309,7 @@
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 2,
-        "Seedot": 4,
+        "Seedot": 5,
         "Hippopotas": 1,
         "Lillipup": 3,
         "Weepinbell": 1,
@@ -459,15 +459,15 @@
         "Burmy": 1,
         "Annihilape": 1,
         "Breloom": 1,
-        "Hariyama": 1,
+        "Hariyama": 2,
         "Graveler": 1
       },
-      "total_spawns": 923,
-      "last_spawn": "2026-10-02T17:23:53.077353"
+      "total_spawns": 926,
+      "last_spawn": "2026-10-02T17:24:23.777725"
     }
   },
   "global": {
-    "total_spawns": 923,
+    "total_spawns": 926,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
