@@ -192,7 +192,7 @@
         "Sentret": 1,
         "Glimmet": 1,
         "Sandy wormadam": 1,
-        "Battle cyclizar": 2,
+        "Battle cyclizar": 3,
         "Steenee": 1,
         "Teddiursa": 4,
         "Spinarak": 2,
@@ -222,7 +222,7 @@
         "Gothorita": 2,
         "Tentacool": 1,
         "Whismur": 1,
-        "Toedscool": 2,
+        "Toedscool": 3,
         "Incineroar": 2,
         "Arctibax": 2,
         "Meowstic": 1,
@@ -266,7 +266,7 @@
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 1,
-        "Wiglett": 2,
+        "Wiglett": 3,
         "Archen": 1,
         "Amaura": 1,
         "Manaphy": 1,
@@ -341,7 +341,7 @@
         "Pincurchin": 1,
         "Slowpoke": 2,
         "Clodsire": 1,
-        "Spewpa": 1,
+        "Spewpa": 2,
         "Goldeen": 1,
         "Weedle": 1,
         "Marshtomp": 1,
@@ -368,12 +368,12 @@
         "Cufant": 1,
         "Passimian": 1
       },
-      "total_spawns": 624,
-      "last_spawn": "2026-10-02T16:33:43.222074"
+      "total_spawns": 628,
+      "last_spawn": "2026-10-02T16:34:23.762620"
     }
   },
   "global": {
-    "total_spawns": 624,
+    "total_spawns": 628,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
