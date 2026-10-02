@@ -28,7 +28,7 @@
         "Vigoroth": 1,
         "Rufflet": 1,
         "Dratini": 1,
-        "Impidimp": 1,
+        "Impidimp": 2,
         "Tadbulb": 1,
         "Clauncher": 1,
         "Vanillish": 2,
@@ -75,15 +75,18 @@
         "Braixen": 1,
         "Shroomish": 1,
         "Trubbish": 1,
-        "Scatterbug": 1,
-        "Durant": 1
+        "Scatterbug": 3,
+        "Durant": 2,
+        "Fidough": 1,
+        "Vanillite": 1,
+        "Rellor": 1
       },
-      "total_spawns": 75,
-      "last_spawn": "2026-10-02T15:31:52.696078"
+      "total_spawns": 82,
+      "last_spawn": "2026-10-02T15:32:27.565074"
     }
   },
   "global": {
-    "total_spawns": 75,
+    "total_spawns": 82,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
