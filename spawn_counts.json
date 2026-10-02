@@ -362,7 +362,7 @@
         "Carvanha": 1,
         "Tepig": 1,
         "Metang": 1,
-        "Tarountula": 1,
+        "Tarountula": 2,
         "Ledian": 1,
         "Diglett": 1,
         "Cufant": 1,
@@ -407,14 +407,17 @@
         "Cherrim": 1,
         "Xatu": 1,
         "Corvisquire": 1,
-        "Brambleghast": 1
+        "Brambleghast": 1,
+        "Pachirisu": 1,
+        "Magikarp": 1,
+        "Clamperl": 1
       },
-      "total_spawns": 743,
-      "last_spawn": "2026-10-02T16:53:52.821136"
+      "total_spawns": 747,
+      "last_spawn": "2026-10-02T16:54:32.713485"
     }
   },
   "global": {
-    "total_spawns": 743,
+    "total_spawns": 747,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
