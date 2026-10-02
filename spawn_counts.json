@@ -28,7 +28,7 @@
         "Vigoroth": 4,
         "Rufflet": 2,
         "Dratini": 2,
-        "Impidimp": 4,
+        "Impidimp": 5,
         "Tadbulb": 2,
         "Clauncher": 2,
         "Vanillish": 2,
@@ -143,7 +143,7 @@
         "Growlithe": 1,
         "Greavard": 4,
         "Abra": 2,
-        "Chef dente": 3,
+        "Chef dente": 4,
         "Spritzee": 2,
         "Capsakid": 1,
         "Magmortar": 1,
@@ -410,7 +410,7 @@
         "Brambleghast": 1,
         "Pachirisu": 1,
         "Magikarp": 1,
-        "Clamperl": 1,
+        "Clamperl": 2,
         "Corphish": 1,
         "Trumbeak": 1,
         "Seadra": 1,
@@ -424,12 +424,12 @@
         "Oricorio": 1,
         "Noivern": 1
       },
-      "total_spawns": 777,
-      "last_spawn": "2026-10-02T16:59:32.998992"
+      "total_spawns": 780,
+      "last_spawn": "2026-10-02T17:00:04.143401"
     }
   },
   "global": {
-    "total_spawns": 777,
+    "total_spawns": 780,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
