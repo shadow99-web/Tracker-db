@@ -64,7 +64,7 @@
         "Pawmi": 2,
         "Salandit": 3,
         "Ivysaur": 1,
-        "Tynamo": 4,
+        "Tynamo": 5,
         "Sandshrew": 4,
         "Varoom": 3,
         "Chingling": 1,
@@ -107,7 +107,7 @@
         "Lugia": 1,
         "Wingull": 1,
         "Dj rotom": 1,
-        "Gimmighoul": 6,
+        "Gimmighoul": 7,
         "Magnemite": 6,
         "Porygon": 4,
         "Larvitar": 2,
@@ -160,7 +160,7 @@
         "Poliwag": 4,
         "Skrelp": 1,
         "Duskull": 6,
-        "Dondozo": 2,
+        "Dondozo": 3,
         "Mankey": 1,
         "Pancham": 1,
         "Milotic": 1,
@@ -222,7 +222,7 @@
         "Gothorita": 2,
         "Tentacool": 1,
         "Whismur": 4,
-        "Toedscool": 3,
+        "Toedscool": 4,
         "Incineroar": 3,
         "Arctibax": 2,
         "Meowstic": 1,
@@ -432,12 +432,12 @@
         "Joltik": 1,
         "Staraptor": 1
       },
-      "total_spawns": 806,
-      "last_spawn": "2026-10-02T17:04:22.732201"
+      "total_spawns": 810,
+      "last_spawn": "2026-10-02T17:05:03.716965"
     }
   },
   "global": {
-    "total_spawns": 806,
+    "total_spawns": 810,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
