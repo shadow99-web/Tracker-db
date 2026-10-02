@@ -46,7 +46,7 @@
         "Togepi": 9,
         "Vibrava": 2,
         "Hatterene": 1,
-        "Palpitoad": 2,
+        "Palpitoad": 3,
         "Smoliv": 4,
         "Marowak": 1,
         "Lotad": 6,
@@ -167,7 +167,7 @@
         "Turtwig": 3,
         "Cetoddle": 4,
         "Dreepy": 5,
-        "Bramblin": 2,
+        "Bramblin": 3,
         "Voltorb": 1,
         "Starly": 4,
         "Corviknight": 2,
@@ -378,7 +378,7 @@
         "Petilil": 2,
         "Shedinja": 1,
         "Cottonee": 1,
-        "Tirtouga": 1,
+        "Tirtouga": 2,
         "Magmar": 1,
         "Venonat": 1,
         "Cubchoo": 2,
@@ -457,14 +457,15 @@
         "Dragonair": 1,
         "Nosepass": 1,
         "Burmy": 1,
-        "Annihilape": 1
+        "Annihilape": 1,
+        "Breloom": 1
       },
-      "total_spawns": 912,
-      "last_spawn": "2026-10-02T17:22:02.910629"
+      "total_spawns": 916,
+      "last_spawn": "2026-10-02T17:22:43.365741"
     }
   },
   "global": {
-    "total_spawns": 912,
+    "total_spawns": 916,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
