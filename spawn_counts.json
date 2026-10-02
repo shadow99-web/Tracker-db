@@ -119,7 +119,7 @@
         "Wurmple": 4,
         "Gligar": 2,
         "Grumpig": 1,
-        "Veluza": 3,
+        "Veluza": 4,
         "Pidove": 4,
         "Shinx": 4,
         "Espathra": 3,
@@ -175,7 +175,7 @@
         "Grubbin": 4,
         "Chikorita": 2,
         "Sunkern": 1,
-        "Chespin": 2,
+        "Chespin": 3,
         "Cacnea": 2,
         "Trapinch": 2,
         "Slurpuff": 2,
@@ -441,14 +441,15 @@
         "Woobat": 1,
         "Cascoon": 1,
         "Trash burmy": 1,
-        "La reine trim furfrou": 1
+        "La reine trim furfrou": 1,
+        "Aron": 2
       },
-      "total_spawns": 845,
-      "last_spawn": "2026-10-02T17:10:52.863637"
+      "total_spawns": 849,
+      "last_spawn": "2026-10-02T17:11:32.857722"
     }
   },
   "global": {
-    "total_spawns": 845,
+    "total_spawns": 849,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
