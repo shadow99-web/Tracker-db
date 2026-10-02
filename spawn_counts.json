@@ -92,12 +92,12 @@
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
-        "Litwick": 4,
+        "Litwick": 5,
         "Servine": 2,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 2,
-        "Lechonk": 5,
+        "Lechonk": 6,
         "Skitty": 2,
         "Skwovet": 3,
         "Cyndaquil": 1,
@@ -366,14 +366,15 @@
         "Ledian": 1,
         "Diglett": 1,
         "Cufant": 1,
-        "Passimian": 1
+        "Passimian": 1,
+        "Comfey": 1
       },
-      "total_spawns": 634,
-      "last_spawn": "2026-10-02T16:35:32.763962"
+      "total_spawns": 637,
+      "last_spawn": "2026-10-02T16:36:02.879508"
     }
   },
   "global": {
-    "total_spawns": 634,
+    "total_spawns": 637,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
