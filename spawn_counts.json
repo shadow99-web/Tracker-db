@@ -64,11 +64,11 @@
         "Pawmi": 1,
         "Salandit": 1,
         "Ivysaur": 1,
-        "Tynamo": 1,
+        "Tynamo": 2,
         "Sandshrew": 2,
         "Varoom": 1,
         "Chingling": 1,
-        "Oddish": 3,
+        "Oddish": 4,
         "Pansear": 1,
         "Roggenrola": 2,
         "Bibarel": 1,
@@ -184,14 +184,19 @@
         "Poochyena": 1,
         "Machop": 1,
         "Zigzagoon": 1,
-        "Prinplup": 1
+        "Prinplup": 1,
+        "Peakychu": 1,
+        "Seel": 1,
+        "Banette": 1,
+        "Gossifleur": 1,
+        "Sentret": 1
       },
-      "total_spawns": 242,
-      "last_spawn": "2026-10-02T15:46:12.935452"
+      "total_spawns": 249,
+      "last_spawn": "2026-10-02T15:46:47.465717"
     }
   },
   "global": {
-    "total_spawns": 242,
+    "total_spawns": 249,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
