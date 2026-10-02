@@ -49,7 +49,7 @@
         "Palpitoad": 2,
         "Smoliv": 4,
         "Marowak": 1,
-        "Lotad": 5,
+        "Lotad": 6,
         "Bounsweet": 6,
         "Solosis": 5,
         "Froakie": 1,
@@ -107,7 +107,7 @@
         "Lugia": 1,
         "Wingull": 1,
         "Dj rotom": 1,
-        "Gimmighoul": 7,
+        "Gimmighoul": 8,
         "Magnemite": 6,
         "Porygon": 4,
         "Larvitar": 3,
@@ -150,7 +150,7 @@
         "Roaming gimmighoul": 3,
         "Jangmo-o": 2,
         "Swanna": 1,
-        "Surskit": 2,
+        "Surskit": 3,
         "Hattrem": 2,
         "Cryogonal": 1,
         "Sliggoo": 2,
@@ -455,14 +455,15 @@
         "Ride cyclizar": 1,
         "Nuzleaf": 1,
         "Dragonair": 1,
-        "Nosepass": 1
+        "Nosepass": 1,
+        "Burmy": 1
       },
-      "total_spawns": 904,
-      "last_spawn": "2026-10-02T17:20:43.659783"
+      "total_spawns": 908,
+      "last_spawn": "2026-10-02T17:21:22.926469"
     }
   },
   "global": {
-    "total_spawns": 904,
+    "total_spawns": 908,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
