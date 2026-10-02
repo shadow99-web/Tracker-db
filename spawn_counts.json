@@ -20,7 +20,7 @@
         "Meowth": 1,
         "Grookey": 1,
         "Hatenna": 4,
-        "Gastly": 2,
+        "Gastly": 3,
         "Gothita": 2,
         "Dada zarude": 1,
         "Fomantis": 3,
@@ -122,7 +122,7 @@
         "Veluza": 2,
         "Pidove": 2,
         "Shinx": 4,
-        "Espathra": 1,
+        "Espathra": 2,
         "Amoonguss": 1,
         "Starmie": 1,
         "Flamigo": 3,
@@ -318,14 +318,16 @@
         "Nacli": 1,
         "Pidgeotto": 1,
         "Shroodle": 1,
-        "Hitmonchan": 1
+        "Hitmonchan": 1,
+        "Slugma": 1,
+        "Herdier": 1
       },
-      "total_spawns": 506,
-      "last_spawn": "2026-10-02T16:13:33.584698"
+      "total_spawns": 510,
+      "last_spawn": "2026-10-02T16:14:14.179331"
     }
   },
   "global": {
-    "total_spawns": 506,
+    "total_spawns": 510,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
