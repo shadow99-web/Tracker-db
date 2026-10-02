@@ -74,7 +74,7 @@
         "Bibarel": 1,
         "Braixen": 1,
         "Shroomish": 2,
-        "Trubbish": 1,
+        "Trubbish": 2,
         "Scatterbug": 5,
         "Durant": 2,
         "Fidough": 3,
@@ -92,7 +92,7 @@
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
-        "Litwick": 5,
+        "Litwick": 6,
         "Servine": 2,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
@@ -135,7 +135,7 @@
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 5,
+        "Smearguru": 6,
         "Dusclops": 1,
         "Vullaby": 2,
         "Tauros": 2,
@@ -400,14 +400,15 @@
         "Hero palafin": 1,
         "Golurk": 1,
         "Grovyle": 1,
-        "Shuppet": 1
+        "Shuppet": 1,
+        "Crustle": 1
       },
-      "total_spawns": 724,
-      "last_spawn": "2026-10-02T16:50:33.075058"
+      "total_spawns": 728,
+      "last_spawn": "2026-10-02T16:51:12.868613"
     }
   },
   "global": {
-    "total_spawns": 724,
+    "total_spawns": 728,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
