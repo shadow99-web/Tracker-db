@@ -21,7 +21,7 @@
         "Grookey": 2,
         "Hatenna": 4,
         "Gastly": 4,
-        "Gothita": 2,
+        "Gothita": 3,
         "Dada zarude": 1,
         "Fomantis": 3,
         "Tinkatink": 3,
@@ -166,7 +166,7 @@
         "Milotic": 1,
         "Turtwig": 3,
         "Cetoddle": 3,
-        "Dreepy": 4,
+        "Dreepy": 5,
         "Bramblin": 1,
         "Voltorb": 1,
         "Starly": 4,
@@ -309,7 +309,7 @@
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 1,
-        "Seedot": 2,
+        "Seedot": 3,
         "Hippopotas": 1,
         "Lillipup": 2,
         "Weepinbell": 1,
@@ -368,14 +368,15 @@
         "Cufant": 1,
         "Passimian": 1,
         "Comfey": 1,
-        "Lileep": 1
+        "Lileep": 1,
+        "Cetitan": 1
       },
-      "total_spawns": 648,
-      "last_spawn": "2026-10-02T16:37:52.676212"
+      "total_spawns": 652,
+      "last_spawn": "2026-10-02T16:38:32.789935"
     }
   },
   "global": {
-    "total_spawns": 648,
+    "total_spawns": 652,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
