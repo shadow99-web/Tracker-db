@@ -35,7 +35,7 @@
         "Pawmo": 1,
         "Munna": 1,
         "Buneary": 2,
-        "Wattrel": 3,
+        "Wattrel": 4,
         "Cubone": 2,
         "Geodude": 6,
         "Mudkip": 1,
@@ -216,7 +216,7 @@
         "Bunnelby": 1,
         "Perrserker": 1,
         "Pineco": 1,
-        "Squawkabilly": 1,
+        "Squawkabilly": 2,
         "Kricketot": 1,
         "Bergmite": 2,
         "Gothorita": 2,
@@ -228,7 +228,7 @@
         "Meowstic": 1,
         "Pumpkaboo": 1,
         "Pansage": 1,
-        "Eevee": 3,
+        "Eevee": 4,
         "Carracosta": 1,
         "Bagon": 1,
         "Toedscruel": 1,
@@ -355,12 +355,12 @@
         "Armarouge": 1,
         "Noctowl": 1
       },
-      "total_spawns": 594,
-      "last_spawn": "2026-10-02T16:28:42.700750"
+      "total_spawns": 597,
+      "last_spawn": "2026-10-02T16:29:12.856543"
     }
   },
   "global": {
-    "total_spawns": 594,
+    "total_spawns": 597,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
