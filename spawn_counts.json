@@ -108,7 +108,7 @@
         "Wingull": 1,
         "Dj rotom": 1,
         "Gimmighoul": 6,
-        "Magnemite": 3,
+        "Magnemite": 4,
         "Porygon": 2,
         "Larvitar": 2,
         "Chinchou": 2,
@@ -182,7 +182,7 @@
         "Magneton": 2,
         "Crocalor": 1,
         "Poochyena": 2,
-        "Machop": 2,
+        "Machop": 3,
         "Zigzagoon": 3,
         "Prinplup": 2,
         "Peakychu": 2,
@@ -377,14 +377,16 @@
         "Yamper": 1,
         "Petilil": 1,
         "Shedinja": 1,
-        "Cottonee": 1
+        "Cottonee": 1,
+        "Tirtouga": 1,
+        "Magmar": 1
       },
-      "total_spawns": 671,
-      "last_spawn": "2026-10-02T16:41:43.780923"
+      "total_spawns": 675,
+      "last_spawn": "2026-10-02T16:42:23.713154"
     }
   },
   "global": {
-    "total_spawns": 671,
+    "total_spawns": 675,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
