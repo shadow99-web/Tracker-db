@@ -102,12 +102,12 @@
         "Skwovet": 2,
         "Cyndaquil": 1,
         "Steelix": 1,
-        "Stufful": 2,
+        "Stufful": 3,
         "Hisuian zorua": 1,
         "Lugia": 1,
         "Wingull": 1,
         "Dj rotom": 1,
-        "Gimmighoul": 3,
+        "Gimmighoul": 4,
         "Magnemite": 3,
         "Porygon": 1,
         "Larvitar": 2,
@@ -314,14 +314,15 @@
         "Lillipup": 1,
         "Weepinbell": 1,
         "Skeledirge": 1,
-        "Floragato": 1
+        "Floragato": 1,
+        "Nacli": 1
       },
-      "total_spawns": 496,
-      "last_spawn": "2026-10-02T16:11:53.027277"
+      "total_spawns": 499,
+      "last_spawn": "2026-10-02T16:12:23.083946"
     }
   },
   "global": {
-    "total_spawns": 496,
+    "total_spawns": 499,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
