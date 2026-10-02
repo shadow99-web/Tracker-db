@@ -227,7 +227,7 @@
         "Arctibax": 2,
         "Meowstic": 1,
         "Pumpkaboo": 1,
-        "Pansage": 1,
+        "Pansage": 2,
         "Eevee": 4,
         "Carracosta": 1,
         "Bagon": 2,
@@ -236,7 +236,7 @@
         "Zweilous": 2,
         "Rookidee": 2,
         "Horsea": 2,
-        "Popplio": 1,
+        "Popplio": 2,
         "Sandile": 5,
         "Cloyster": 2,
         "Kilowattrel": 1,
@@ -247,7 +247,7 @@
         "Dewott": 2,
         "Rolycoly": 2,
         "Caterpie": 2,
-        "Remoraid": 2,
+        "Remoraid": 3,
         "Feebas": 2,
         "Inkay": 1,
         "Droopy tatsugiri": 1,
@@ -406,14 +406,15 @@
         "Lokix": 1,
         "Cherrim": 1,
         "Xatu": 1,
-        "Corvisquire": 1
+        "Corvisquire": 1,
+        "Brambleghast": 1
       },
-      "total_spawns": 739,
-      "last_spawn": "2026-10-02T16:53:03.852737"
+      "total_spawns": 743,
+      "last_spawn": "2026-10-02T16:53:52.821136"
     }
   },
   "global": {
-    "total_spawns": 739,
+    "total_spawns": 743,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
