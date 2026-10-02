@@ -20,7 +20,7 @@
         "Meowth": 1,
         "Grookey": 1,
         "Hatenna": 3,
-        "Gastly": 1,
+        "Gastly": 2,
         "Gothita": 1,
         "Dada zarude": 1,
         "Fomantis": 2,
@@ -43,7 +43,7 @@
         "Treecko": 2,
         "Ralts": 3,
         "Swirlix": 1,
-        "Togepi": 1,
+        "Togepi": 2,
         "Vibrava": 1,
         "Hatterene": 1,
         "Palpitoad": 1,
@@ -90,7 +90,7 @@
         "Sewaddle": 1,
         "Bellsprout": 1,
         "Togetic": 1,
-        "Snom": 1,
+        "Snom": 2,
         "Mabosstiff": 1,
         "Litwick": 1,
         "Servine": 1,
@@ -115,14 +115,18 @@
         "Poliwhirl": 1,
         "Dhelmise": 1,
         "Klawf": 1,
-        "Toxapex": 1
+        "Toxapex": 1,
+        "Wurmple": 1,
+        "Gligar": 1,
+        "Grumpig": 1,
+        "Veluza": 1
       },
-      "total_spawns": 127,
-      "last_spawn": "2026-10-02T15:36:23.213410"
+      "total_spawns": 134,
+      "last_spawn": "2026-10-02T15:36:57.760176"
     }
   },
   "global": {
-    "total_spawns": 127,
+    "total_spawns": 134,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
