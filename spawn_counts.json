@@ -10,7 +10,7 @@
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
         "Klink": 1,
-        "Ekans": 1,
+        "Ekans": 2,
         "Rattata": 1,
         "Sizzlipede": 1,
         "Mosslax": 1,
@@ -42,14 +42,19 @@
         "White plumage squawkabilly": 1,
         "Treecko": 1,
         "Ralts": 2,
-        "Swirlix": 1
+        "Swirlix": 1,
+        "Togepi": 1,
+        "Vibrava": 1,
+        "Hatterene": 1,
+        "Palpitoad": 1,
+        "Smoliv": 1
       },
-      "total_spawns": 37,
-      "last_spawn": "2026-10-02T15:28:42.693083"
+      "total_spawns": 43,
+      "last_spawn": "2026-10-02T15:29:12.946051"
     }
   },
   "global": {
-    "total_spawns": 37,
+    "total_spawns": 43,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
