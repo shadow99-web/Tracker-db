@@ -99,7 +99,7 @@
         "Tranquill": 2,
         "Lechonk": 4,
         "Skitty": 2,
-        "Skwovet": 1,
+        "Skwovet": 2,
         "Cyndaquil": 1,
         "Steelix": 1,
         "Stufful": 2,
@@ -198,7 +198,7 @@
         "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
-        "Mienfoo": 1,
+        "Mienfoo": 2,
         "Wailord": 2,
         "Kadabra": 2,
         "Monferno": 1,
@@ -248,7 +248,7 @@
         "Rolycoly": 1,
         "Caterpie": 1,
         "Remoraid": 1,
-        "Feebas": 1,
+        "Feebas": 2,
         "Inkay": 1,
         "Droopy tatsugiri": 1,
         "Ledyba": 1,
@@ -267,14 +267,18 @@
         "Honedge": 1,
         "Sealeo": 1,
         "Wiglett": 1,
-        "Archen": 1
+        "Archen": 1,
+        "Amaura": 1,
+        "Manaphy": 1,
+        "Centiskorch": 1,
+        "Typhlosion": 1
       },
-      "total_spawns": 378,
-      "last_spawn": "2026-10-02T15:57:44.502475"
+      "total_spawns": 385,
+      "last_spawn": "2026-10-02T15:58:17.694122"
     }
   },
   "global": {
-    "total_spawns": 378,
+    "total_spawns": 385,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
