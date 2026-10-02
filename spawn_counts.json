@@ -29,7 +29,7 @@
         "Rufflet": 2,
         "Dratini": 2,
         "Impidimp": 5,
-        "Tadbulb": 2,
+        "Tadbulb": 3,
         "Clauncher": 2,
         "Vanillish": 2,
         "Pawmo": 1,
@@ -55,7 +55,7 @@
         "Froakie": 1,
         "Hoppip": 4,
         "Clobbopus": 1,
-        "Zubat": 5,
+        "Zubat": 6,
         "Koffing": 2,
         "Yanma": 2,
         "Kabuto": 4,
@@ -265,7 +265,7 @@
         "Beldum": 1,
         "Charcadet": 1,
         "Honedge": 3,
-        "Sealeo": 2,
+        "Sealeo": 3,
         "Wiglett": 6,
         "Archen": 1,
         "Amaura": 2,
@@ -416,7 +416,7 @@
         "Seadra": 1,
         "Staryu": 1,
         "Hitmontop": 1,
-        "Doublade": 1,
+        "Doublade": 2,
         "Morgrem": 1,
         "Blissey": 1,
         "White flower florges": 1,
@@ -450,12 +450,12 @@
         "Golduck": 1,
         "Tinkatuff": 1
       },
-      "total_spawns": 865,
-      "last_spawn": "2026-10-02T17:14:13.258966"
+      "total_spawns": 869,
+      "last_spawn": "2026-10-02T17:14:53.547307"
     }
   },
   "global": {
-    "total_spawns": 865,
+    "total_spawns": 869,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
