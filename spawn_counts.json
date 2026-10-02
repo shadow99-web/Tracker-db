@@ -20,7 +20,7 @@
         "Meowth": 1,
         "Grookey": 2,
         "Hatenna": 4,
-        "Gastly": 3,
+        "Gastly": 4,
         "Gothita": 2,
         "Dada zarude": 1,
         "Fomantis": 3,
@@ -183,7 +183,7 @@
         "Crocalor": 1,
         "Poochyena": 2,
         "Machop": 2,
-        "Zigzagoon": 2,
+        "Zigzagoon": 3,
         "Prinplup": 2,
         "Peakychu": 2,
         "Seel": 1,
@@ -285,7 +285,7 @@
         "Crawdaunt": 1,
         "Karrablast": 2,
         "Quilladin": 1,
-        "Deino": 1,
+        "Deino": 2,
         "Pawniard": 1,
         "Rabsca": 1,
         "Frigibax": 1,
@@ -368,12 +368,12 @@
         "Cufant": 1,
         "Passimian": 1
       },
-      "total_spawns": 631,
-      "last_spawn": "2026-10-02T16:35:02.750946"
+      "total_spawns": 634,
+      "last_spawn": "2026-10-02T16:35:32.763962"
     }
   },
   "global": {
-    "total_spawns": 631,
+    "total_spawns": 634,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
