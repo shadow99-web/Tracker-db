@@ -87,7 +87,7 @@
         "Bellibolt": 2,
         "Nymble": 1,
         "Axew": 3,
-        "Sewaddle": 4,
+        "Sewaddle": 5,
         "Bellsprout": 3,
         "Togetic": 1,
         "Snom": 3,
@@ -107,7 +107,7 @@
         "Lugia": 1,
         "Wingull": 1,
         "Dj rotom": 1,
-        "Gimmighoul": 4,
+        "Gimmighoul": 5,
         "Magnemite": 3,
         "Porygon": 1,
         "Larvitar": 2,
@@ -320,14 +320,15 @@
         "Shroodle": 1,
         "Hitmonchan": 1,
         "Slugma": 1,
-        "Herdier": 1
+        "Herdier": 1,
+        "Rowlet": 1
       },
-      "total_spawns": 510,
-      "last_spawn": "2026-10-02T16:14:14.179331"
+      "total_spawns": 513,
+      "last_spawn": "2026-10-02T16:14:45.731150"
     }
   },
   "global": {
-    "total_spawns": 510,
+    "total_spawns": 513,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
