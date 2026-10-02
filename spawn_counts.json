@@ -86,7 +86,7 @@
         "Lickitung": 1,
         "Bellibolt": 3,
         "Nymble": 1,
-        "Axew": 4,
+        "Axew": 5,
         "Sewaddle": 6,
         "Bellsprout": 5,
         "Togetic": 1,
@@ -223,7 +223,7 @@
         "Tentacool": 1,
         "Whismur": 2,
         "Toedscool": 3,
-        "Incineroar": 2,
+        "Incineroar": 3,
         "Arctibax": 2,
         "Meowstic": 1,
         "Pumpkaboo": 1,
@@ -385,7 +385,7 @@
         "Tyrogue": 1,
         "Croconaw": 1,
         "Sawk": 1,
-        "Palafin": 1,
+        "Palafin": 2,
         "Makuhita": 1,
         "Bonsly": 1,
         "Electrike": 1,
@@ -408,12 +408,12 @@
         "Xatu": 1,
         "Corvisquire": 1
       },
-      "total_spawns": 736,
-      "last_spawn": "2026-10-02T16:52:32.869378"
+      "total_spawns": 739,
+      "last_spawn": "2026-10-02T16:53:03.852737"
     }
   },
   "global": {
-    "total_spawns": 736,
+    "total_spawns": 739,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
