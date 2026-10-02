@@ -28,7 +28,7 @@
         "Vigoroth": 4,
         "Rufflet": 1,
         "Dratini": 2,
-        "Impidimp": 3,
+        "Impidimp": 4,
         "Tadbulb": 1,
         "Clauncher": 2,
         "Vanillish": 2,
@@ -329,14 +329,16 @@
         "Taillow": 1,
         "Snorlax": 1,
         "Nidorina": 1,
-        "Wailmer": 1
+        "Wailmer": 1,
+        "Finizen": 1,
+        "Sigilyph": 1
       },
-      "total_spawns": 528,
-      "last_spawn": "2026-10-02T16:17:13.190575"
+      "total_spawns": 531,
+      "last_spawn": "2026-10-02T16:17:44.109495"
     }
   },
   "global": {
-    "total_spawns": 528,
+    "total_spawns": 531,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
