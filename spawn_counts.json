@@ -87,7 +87,7 @@
         "Bellibolt": 2,
         "Nymble": 1,
         "Axew": 4,
-        "Sewaddle": 5,
+        "Sewaddle": 6,
         "Bellsprout": 5,
         "Togetic": 1,
         "Snom": 3,
@@ -361,14 +361,16 @@
         "Elekid": 1,
         "Carvanha": 1,
         "Tepig": 1,
-        "Metang": 1
+        "Metang": 1,
+        "Tarountula": 1,
+        "Ledian": 1
       },
-      "total_spawns": 615,
-      "last_spawn": "2026-10-02T16:32:12.715016"
+      "total_spawns": 618,
+      "last_spawn": "2026-10-02T16:32:42.894263"
     }
   },
   "global": {
-    "total_spawns": 615,
+    "total_spawns": 618,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
