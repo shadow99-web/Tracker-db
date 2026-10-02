@@ -219,7 +219,7 @@
         "Squawkabilly": 1,
         "Kricketot": 1,
         "Bergmite": 2,
-        "Gothorita": 1,
+        "Gothorita": 2,
         "Tentacool": 1,
         "Whismur": 1,
         "Toedscool": 2,
@@ -264,7 +264,7 @@
         "Orthworm": 1,
         "Beldum": 1,
         "Charcadet": 1,
-        "Honedge": 1,
+        "Honedge": 2,
         "Sealeo": 1,
         "Wiglett": 1,
         "Archen": 1,
@@ -287,14 +287,18 @@
         "Quilladin": 1,
         "Deino": 1,
         "Pawniard": 1,
-        "Rabsca": 1
+        "Rabsca": 1,
+        "Frigibax": 1,
+        "Pikachu": 1,
+        "Fennekin": 1,
+        "Relicanth": 1
       },
-      "total_spawns": 431,
-      "last_spawn": "2026-10-02T16:02:07.696820"
+      "total_spawns": 437,
+      "last_spawn": "2026-10-02T16:02:37.876393"
     }
   },
   "global": {
-    "total_spawns": 431,
+    "total_spawns": 437,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
