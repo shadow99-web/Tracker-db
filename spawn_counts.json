@@ -23,7 +23,7 @@
         "Gastly": 2,
         "Gothita": 2,
         "Dada zarude": 1,
-        "Fomantis": 2,
+        "Fomantis": 3,
         "Tinkatink": 3,
         "Vigoroth": 4,
         "Rufflet": 1,
@@ -62,7 +62,7 @@
         "Seviper": 1,
         "Scrafty": 1,
         "Pawmi": 1,
-        "Salandit": 1,
+        "Salandit": 2,
         "Ivysaur": 1,
         "Tynamo": 2,
         "Sandshrew": 2,
@@ -234,14 +234,17 @@
         "Toedscruel": 1,
         "Luxio": 1,
         "Zweilous": 1,
-        "Rookidee": 1
+        "Rookidee": 2,
+        "Horsea": 1,
+        "Popplio": 1,
+        "Sandile": 1
       },
-      "total_spawns": 312,
-      "last_spawn": "2026-10-02T15:52:12.699148"
+      "total_spawns": 318,
+      "last_spawn": "2026-10-02T15:52:42.893168"
     }
   },
   "global": {
-    "total_spawns": 312,
+    "total_spawns": 318,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
