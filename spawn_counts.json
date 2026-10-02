@@ -125,7 +125,7 @@
         "Espathra": 3,
         "Amoonguss": 1,
         "Starmie": 1,
-        "Flamigo": 5,
+        "Flamigo": 6,
         "Timburr": 5,
         "Family of three maushold": 1,
         "Wynaut": 1,
@@ -235,7 +235,7 @@
         "Luxio": 2,
         "Zweilous": 2,
         "Rookidee": 3,
-        "Horsea": 2,
+        "Horsea": 3,
         "Popplio": 2,
         "Sandile": 5,
         "Cloyster": 2,
@@ -458,14 +458,16 @@
         "Nosepass": 1,
         "Burmy": 1,
         "Annihilape": 1,
-        "Breloom": 1
+        "Breloom": 1,
+        "Hariyama": 1,
+        "Graveler": 1
       },
-      "total_spawns": 916,
-      "last_spawn": "2026-10-02T17:22:43.365741"
+      "total_spawns": 920,
+      "last_spawn": "2026-10-02T17:23:22.987530"
     }
   },
   "global": {
-    "total_spawns": 916,
+    "total_spawns": 920,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
