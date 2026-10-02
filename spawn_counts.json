@@ -221,7 +221,7 @@
         "Bergmite": 2,
         "Gothorita": 2,
         "Tentacool": 1,
-        "Whismur": 1,
+        "Whismur": 2,
         "Toedscool": 3,
         "Incineroar": 2,
         "Arctibax": 2,
@@ -265,7 +265,7 @@
         "Beldum": 1,
         "Charcadet": 1,
         "Honedge": 3,
-        "Sealeo": 1,
+        "Sealeo": 2,
         "Wiglett": 3,
         "Archen": 1,
         "Amaura": 1,
@@ -351,7 +351,7 @@
         "Jumpluff": 1,
         "Slakoth": 3,
         "Cacturne": 1,
-        "Snivy": 2,
+        "Snivy": 3,
         "Armarouge": 1,
         "Noctowl": 1,
         "Rhydon": 1,
@@ -379,14 +379,15 @@
         "Shedinja": 1,
         "Cottonee": 1,
         "Tirtouga": 1,
-        "Magmar": 1
+        "Magmar": 1,
+        "Venonat": 1
       },
-      "total_spawns": 675,
-      "last_spawn": "2026-10-02T16:42:23.713154"
+      "total_spawns": 679,
+      "last_spawn": "2026-10-02T16:43:02.819918"
     }
   },
   "global": {
-    "total_spawns": 675,
+    "total_spawns": 679,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
