@@ -165,7 +165,7 @@
         "Pancham": 1,
         "Milotic": 1,
         "Turtwig": 3,
-        "Cetoddle": 2,
+        "Cetoddle": 3,
         "Dreepy": 3,
         "Bramblin": 1,
         "Voltorb": 1,
@@ -257,7 +257,7 @@
         "Litten": 2,
         "Mareep": 3,
         "Exploud": 1,
-        "Farfetch'd": 1,
+        "Farfetch'd": 2,
         "Girafarig": 1,
         "Flittle": 2,
         "Wimpod": 1,
@@ -358,14 +358,16 @@
         "Mudbray": 1,
         "Cyclizar": 1,
         "Frosmoth": 1,
-        "Elekid": 1
+        "Elekid": 1,
+        "Carvanha": 1,
+        "Tepig": 1
       },
-      "total_spawns": 607,
-      "last_spawn": "2026-10-02T16:30:52.816737"
+      "total_spawns": 611,
+      "last_spawn": "2026-10-02T16:31:32.818732"
     }
   },
   "global": {
-    "total_spawns": 607,
+    "total_spawns": 611,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
