@@ -75,7 +75,7 @@
         "Braixen": 1,
         "Shroomish": 1,
         "Trubbish": 1,
-        "Scatterbug": 3,
+        "Scatterbug": 4,
         "Durant": 2,
         "Fidough": 1,
         "Vanillite": 2,
@@ -93,7 +93,7 @@
         "Snom": 2,
         "Mabosstiff": 1,
         "Litwick": 2,
-        "Servine": 1,
+        "Servine": 2,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 1,
@@ -197,14 +197,18 @@
         "Teddiursa": 1,
         "Spinarak": 1,
         "Orange flower floette": 1,
-        "Appletun": 1
+        "Appletun": 1,
+        "Mienfoo": 1,
+        "Wailord": 1,
+        "Kadabra": 1,
+        "Monferno": 1
       },
-      "total_spawns": 261,
-      "last_spawn": "2026-10-02T15:47:47.778470"
+      "total_spawns": 267,
+      "last_spawn": "2026-10-02T15:48:23.913596"
     }
   },
   "global": {
-    "total_spawns": 261,
+    "total_spawns": 267,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
