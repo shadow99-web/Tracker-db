@@ -85,7 +85,7 @@
         "Probopass": 1,
         "Lickitung": 1,
         "Bellibolt": 3,
-        "Nymble": 1,
+        "Nymble": 2,
         "Axew": 5,
         "Sewaddle": 6,
         "Bellsprout": 5,
@@ -120,7 +120,7 @@
         "Gligar": 2,
         "Grumpig": 1,
         "Veluza": 3,
-        "Pidove": 3,
+        "Pidove": 4,
         "Shinx": 4,
         "Espathra": 3,
         "Amoonguss": 1,
@@ -185,7 +185,7 @@
         "Machop": 3,
         "Zigzagoon": 3,
         "Prinplup": 2,
-        "Peakychu": 2,
+        "Peakychu": 3,
         "Seel": 1,
         "Banette": 1,
         "Gossifleur": 1,
@@ -221,7 +221,7 @@
         "Bergmite": 2,
         "Gothorita": 2,
         "Tentacool": 1,
-        "Whismur": 3,
+        "Whismur": 4,
         "Toedscool": 3,
         "Incineroar": 3,
         "Arctibax": 2,
@@ -424,12 +424,12 @@
         "Oricorio": 1,
         "Noivern": 1
       },
-      "total_spawns": 780,
-      "last_spawn": "2026-10-02T17:00:04.143401"
+      "total_spawns": 784,
+      "last_spawn": "2026-10-02T17:00:42.960174"
     }
   },
   "global": {
-    "total_spawns": 780,
+    "total_spawns": 784,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
