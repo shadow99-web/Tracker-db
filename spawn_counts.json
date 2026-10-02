@@ -169,11 +169,11 @@
         "Dreepy": 5,
         "Bramblin": 3,
         "Voltorb": 1,
-        "Starly": 4,
+        "Starly": 5,
         "Corviknight": 2,
         "Hisuian qwilfish": 1,
         "Grubbin": 4,
-        "Chikorita": 2,
+        "Chikorita": 3,
         "Sunkern": 1,
         "Chespin": 3,
         "Cacnea": 2,
@@ -473,14 +473,15 @@
         "Dolliv": 1,
         "Elgyem": 1,
         "Ursaring": 1,
-        "Hoothoot": 1
+        "Hoothoot": 1,
+        "Psyduck": 1
       },
-      "total_spawns": 968,
-      "last_spawn": "2026-10-02T17:31:22.979303"
+      "total_spawns": 971,
+      "last_spawn": "2026-10-02T17:31:53.502751"
     }
   },
   "global": {
-    "total_spawns": 968,
+    "total_spawns": 971,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
