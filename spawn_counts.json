@@ -114,7 +114,7 @@
         "Chinchou": 1,
         "Poliwhirl": 1,
         "Dhelmise": 1,
-        "Klawf": 2,
+        "Klawf": 3,
         "Toxapex": 1,
         "Wurmple": 3,
         "Gligar": 2,
@@ -209,7 +209,7 @@
         "Minccino": 1,
         "Drifloon": 1,
         "Luxray": 1,
-        "Gloom": 2,
+        "Gloom": 3,
         "Morelull": 2,
         "Noibat": 2,
         "Ducklett": 1,
@@ -311,12 +311,12 @@
         "Chimchar": 1,
         "Seedot": 1
       },
-      "total_spawns": 475,
-      "last_spawn": "2026-10-02T16:08:02.839347"
+      "total_spawns": 477,
+      "last_spawn": "2026-10-02T16:08:33.096696"
     }
   },
   "global": {
-    "total_spawns": 475,
+    "total_spawns": 477,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
