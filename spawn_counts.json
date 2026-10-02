@@ -68,7 +68,7 @@
         "Sandshrew": 2,
         "Varoom": 1,
         "Chingling": 1,
-        "Oddish": 4,
+        "Oddish": 5,
         "Pansear": 1,
         "Roggenrola": 2,
         "Bibarel": 1,
@@ -155,11 +155,11 @@
         "Cryogonal": 1,
         "Sliggoo": 1,
         "Fletchling": 1,
-        "Litleo": 1,
+        "Litleo": 2,
         "Venipede": 2,
         "Poliwag": 2,
         "Skrelp": 1,
-        "Duskull": 1,
+        "Duskull": 2,
         "Dondozo": 1,
         "Mankey": 1,
         "Pancham": 1,
@@ -199,7 +199,7 @@
         "Orange flower floette": 1,
         "Appletun": 1,
         "Mienfoo": 1,
-        "Wailord": 1,
+        "Wailord": 2,
         "Kadabra": 2,
         "Monferno": 1,
         "Bombirdier": 2,
@@ -257,14 +257,17 @@
         "Litten": 1,
         "Mareep": 1,
         "Exploud": 1,
-        "Farfetch'd": 1
+        "Farfetch'd": 1,
+        "Girafarig": 1,
+        "Flittle": 1,
+        "Wimpod": 1
       },
-      "total_spawns": 357,
-      "last_spawn": "2026-10-02T15:55:57.851788"
+      "total_spawns": 364,
+      "last_spawn": "2026-10-02T15:56:33.861360"
     }
   },
   "global": {
-    "total_spawns": 357,
+    "total_spawns": 364,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
