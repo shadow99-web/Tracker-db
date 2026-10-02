@@ -116,7 +116,7 @@
         "Dhelmise": 1,
         "Klawf": 4,
         "Toxapex": 1,
-        "Wurmple": 4,
+        "Wurmple": 5,
         "Gligar": 2,
         "Grumpig": 1,
         "Veluza": 4,
@@ -194,11 +194,11 @@
         "Sandy wormadam": 1,
         "Battle cyclizar": 3,
         "Steenee": 1,
-        "Teddiursa": 5,
+        "Teddiursa": 6,
         "Spinarak": 2,
         "Orange flower floette": 1,
         "Appletun": 1,
-        "Mienfoo": 3,
+        "Mienfoo": 4,
         "Wailord": 2,
         "Kadabra": 3,
         "Monferno": 2,
@@ -447,14 +447,15 @@
         "Mareanie": 1,
         "Ponyta": 1,
         "Claydol": 1,
-        "Golduck": 1
+        "Golduck": 1,
+        "Tinkatuff": 1
       },
-      "total_spawns": 861,
-      "last_spawn": "2026-10-02T17:13:34.515608"
+      "total_spawns": 865,
+      "last_spawn": "2026-10-02T17:14:13.258966"
     }
   },
   "global": {
-    "total_spawns": 861,
+    "total_spawns": 865,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
