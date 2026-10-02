@@ -328,9 +328,9 @@
         "Buizel": 3,
         "Taillow": 1,
         "Snorlax": 1,
-        "Nidorina": 1,
+        "Nidorina": 2,
         "Wailmer": 1,
-        "Finizen": 2,
+        "Finizen": 3,
         "Sigilyph": 1,
         "Torchic": 2,
         "Jolteon": 1,
@@ -349,7 +349,7 @@
         "Shelmet": 1,
         "Smeargle": 1,
         "Jumpluff": 1,
-        "Slakoth": 3,
+        "Slakoth": 4,
         "Cacturne": 1,
         "Snivy": 5,
         "Armarouge": 2,
@@ -462,12 +462,12 @@
         "Hariyama": 1,
         "Graveler": 1
       },
-      "total_spawns": 920,
-      "last_spawn": "2026-10-02T17:23:22.987530"
+      "total_spawns": 923,
+      "last_spawn": "2026-10-02T17:23:53.077353"
     }
   },
   "global": {
-    "total_spawns": 920,
+    "total_spawns": 923,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
