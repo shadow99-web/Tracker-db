@@ -46,7 +46,7 @@
         "Togepi": 5,
         "Vibrava": 1,
         "Hatterene": 1,
-        "Palpitoad": 1,
+        "Palpitoad": 2,
         "Smoliv": 2,
         "Marowak": 1,
         "Lotad": 1,
@@ -77,7 +77,7 @@
         "Trubbish": 1,
         "Scatterbug": 4,
         "Durant": 2,
-        "Fidough": 1,
+        "Fidough": 2,
         "Vanillite": 2,
         "Rellor": 2,
         "Toxel": 3,
@@ -243,7 +243,7 @@
         "Tangela": 1,
         "Finneon": 1,
         "Klefki": 1,
-        "Quaxly": 1,
+        "Quaxly": 2,
         "Dewott": 2,
         "Rolycoly": 1,
         "Caterpie": 1,
@@ -278,16 +278,18 @@
         "Golisopod": 1,
         "Tympole": 1,
         "Arctozolt": 1,
-        "Pidgey": 2,
+        "Pidgey": 3,
         "Totodile": 1,
-        "Lombre": 1
+        "Lombre": 1,
+        "Sprigatito": 1,
+        "Crawdaunt": 1
       },
-      "total_spawns": 398,
-      "last_spawn": "2026-10-02T15:59:22.942700"
+      "total_spawns": 404,
+      "last_spawn": "2026-10-02T15:59:53.147564"
     }
   },
   "global": {
-    "total_spawns": 398,
+    "total_spawns": 404,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
