@@ -200,7 +200,7 @@
         "Appletun": 1,
         "Mienfoo": 2,
         "Wailord": 2,
-        "Kadabra": 2,
+        "Kadabra": 3,
         "Monferno": 1,
         "Bombirdier": 2,
         "East sea gastrodon": 1,
@@ -336,14 +336,17 @@
         "Jolteon": 1,
         "Grotle": 1,
         "Spheal": 1,
-        "Lumineon": 1
+        "Lumineon": 1,
+        "Blipbug": 1,
+        "Pincurchin": 1,
+        "Slowpoke": 1
       },
-      "total_spawns": 543,
-      "last_spawn": "2026-10-02T16:19:46.230979"
+      "total_spawns": 547,
+      "last_spawn": "2026-10-02T16:20:23.811766"
     }
   },
   "global": {
-    "total_spawns": 543,
+    "total_spawns": 547,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
