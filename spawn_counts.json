@@ -37,7 +37,7 @@
         "Buneary": 1,
         "Wattrel": 2,
         "Cubone": 1,
-        "Geodude": 1,
+        "Geodude": 2,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
         "Treecko": 2,
@@ -53,10 +53,10 @@
         "Bounsweet": 1,
         "Solosis": 1,
         "Froakie": 1,
-        "Hoppip": 1,
+        "Hoppip": 2,
         "Clobbopus": 1,
         "Zubat": 2,
-        "Koffing": 1,
+        "Koffing": 2,
         "Yanma": 1,
         "Kabuto": 1,
         "Seviper": 1,
@@ -126,14 +126,18 @@
         "Amoonguss": 1,
         "Starmie": 1,
         "Flamigo": 1,
-        "Timburr": 1
+        "Timburr": 1,
+        "Family of three maushold": 1,
+        "Wynaut": 1,
+        "Phantump": 1,
+        "Tandemaus": 1
       },
-      "total_spawns": 144,
-      "last_spawn": "2026-10-02T15:37:58.141822"
+      "total_spawns": 151,
+      "last_spawn": "2026-10-02T15:38:32.686817"
     }
   },
   "global": {
-    "total_spawns": 144,
+    "total_spawns": 151,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
