@@ -87,7 +87,7 @@
         "Bellibolt": 3,
         "Nymble": 2,
         "Axew": 5,
-        "Sewaddle": 6,
+        "Sewaddle": 7,
         "Bellsprout": 6,
         "Togetic": 1,
         "Snom": 3,
@@ -324,7 +324,7 @@
         "Rowlet": 1,
         "Goomy": 1,
         "Skiploom": 1,
-        "Pikipek": 1,
+        "Pikipek": 2,
         "Buizel": 3,
         "Taillow": 1,
         "Snorlax": 1,
@@ -445,7 +445,7 @@
         "Aron": 2,
         "Whirlipede": 1,
         "Mareanie": 1,
-        "Ponyta": 1,
+        "Ponyta": 2,
         "Claydol": 1,
         "Golduck": 1,
         "Tinkatuff": 1,
@@ -471,14 +471,15 @@
         "Blue flower florges": 1,
         "Hisuian zoroark": 1,
         "Dolliv": 1,
-        "Elgyem": 1
+        "Elgyem": 1,
+        "Ursaring": 1
       },
-      "total_spawns": 956,
-      "last_spawn": "2026-10-02T17:29:22.727197"
+      "total_spawns": 960,
+      "last_spawn": "2026-10-02T17:30:02.864415"
     }
   },
   "global": {
-    "total_spawns": 956,
+    "total_spawns": 960,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
