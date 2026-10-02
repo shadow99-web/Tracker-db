@@ -120,13 +120,13 @@
         "Gligar": 2,
         "Grumpig": 1,
         "Veluza": 3,
-        "Pidove": 2,
+        "Pidove": 3,
         "Shinx": 4,
         "Espathra": 2,
         "Amoonguss": 1,
         "Starmie": 1,
         "Flamigo": 3,
-        "Timburr": 1,
+        "Timburr": 2,
         "Family of three maushold": 1,
         "Wynaut": 1,
         "Phantump": 1,
@@ -138,7 +138,7 @@
         "Smearguru": 5,
         "Dusclops": 1,
         "Vullaby": 2,
-        "Tauros": 1,
+        "Tauros": 2,
         "Panpour": 1,
         "Growlithe": 1,
         "Greavard": 4,
@@ -153,7 +153,7 @@
         "Surskit": 1,
         "Hattrem": 2,
         "Cryogonal": 1,
-        "Sliggoo": 1,
+        "Sliggoo": 2,
         "Fletchling": 2,
         "Litleo": 2,
         "Venipede": 3,
@@ -370,12 +370,12 @@
         "Comfey": 1,
         "Lileep": 1
       },
-      "total_spawns": 644,
-      "last_spawn": "2026-10-02T16:37:12.880861"
+      "total_spawns": 648,
+      "last_spawn": "2026-10-02T16:37:52.676212"
     }
   },
   "global": {
-    "total_spawns": 644,
+    "total_spawns": 648,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
