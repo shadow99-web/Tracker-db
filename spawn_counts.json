@@ -116,7 +116,7 @@
         "Dhelmise": 1,
         "Klawf": 3,
         "Toxapex": 1,
-        "Wurmple": 3,
+        "Wurmple": 4,
         "Gligar": 2,
         "Grumpig": 1,
         "Veluza": 3,
@@ -245,7 +245,7 @@
         "Klefki": 1,
         "Quaxly": 3,
         "Dewott": 2,
-        "Rolycoly": 1,
+        "Rolycoly": 2,
         "Caterpie": 2,
         "Remoraid": 2,
         "Feebas": 2,
@@ -350,14 +350,15 @@
         "Smeargle": 1,
         "Jumpluff": 1,
         "Slakoth": 1,
-        "Cacturne": 1
+        "Cacturne": 1,
+        "Snivy": 1
       },
-      "total_spawns": 581,
-      "last_spawn": "2026-10-02T16:26:33.007813"
+      "total_spawns": 584,
+      "last_spawn": "2026-10-02T16:27:03.056838"
     }
   },
   "global": {
-    "total_spawns": 581,
+    "total_spawns": 584,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
