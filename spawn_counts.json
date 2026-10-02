@@ -81,7 +81,7 @@
         "Vanillite": 2,
         "Rellor": 2,
         "Toxel": 3,
-        "Maschiff": 1,
+        "Maschiff": 2,
         "Probopass": 1,
         "Lickitung": 1,
         "Bellibolt": 2,
@@ -215,14 +215,20 @@
         "Ducklett": 1,
         "Bunnelby": 1,
         "Perrserker": 1,
-        "Pineco": 1
+        "Pineco": 1,
+        "Squawkabilly": 1,
+        "Kricketot": 1,
+        "Bergmite": 1,
+        "Gothorita": 1,
+        "Tentacool": 1,
+        "Whismur": 1
       },
-      "total_spawns": 287,
-      "last_spawn": "2026-10-02T15:50:02.927158"
+      "total_spawns": 294,
+      "last_spawn": "2026-10-02T15:50:38.042653"
     }
   },
   "global": {
-    "total_spawns": 287,
+    "total_spawns": 294,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
