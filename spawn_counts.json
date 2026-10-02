@@ -320,7 +320,7 @@
         "Shroodle": 1,
         "Hitmonchan": 1,
         "Slugma": 1,
-        "Herdier": 2,
+        "Herdier": 3,
         "Rowlet": 1,
         "Goomy": 1,
         "Skiploom": 1,
@@ -382,14 +382,17 @@
         "Magmar": 1,
         "Venonat": 1,
         "Cubchoo": 1,
-        "Tyrogue": 1
+        "Tyrogue": 1,
+        "Croconaw": 1,
+        "Sawk": 1,
+        "Palafin": 1
       },
-      "total_spawns": 683,
-      "last_spawn": "2026-10-02T16:43:43.240539"
+      "total_spawns": 687,
+      "last_spawn": "2026-10-02T16:44:22.826857"
     }
   },
   "global": {
-    "total_spawns": 683,
+    "total_spawns": 687,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
