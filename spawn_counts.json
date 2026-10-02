@@ -108,7 +108,7 @@
         "Wingull": 1,
         "Dj rotom": 1,
         "Gimmighoul": 6,
-        "Magnemite": 5,
+        "Magnemite": 6,
         "Porygon": 3,
         "Larvitar": 2,
         "Chinchou": 2,
@@ -410,14 +410,16 @@
         "Brambleghast": 1,
         "Pachirisu": 1,
         "Magikarp": 1,
-        "Clamperl": 1
+        "Clamperl": 1,
+        "Corphish": 1,
+        "Trumbeak": 1
       },
-      "total_spawns": 747,
-      "last_spawn": "2026-10-02T16:54:32.713485"
+      "total_spawns": 750,
+      "last_spawn": "2026-10-02T16:55:05.318723"
     }
   },
   "global": {
-    "total_spawns": 747,
+    "total_spawns": 750,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
