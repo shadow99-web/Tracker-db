@@ -70,7 +70,7 @@
         "Chingling": 1,
         "Oddish": 5,
         "Pansear": 2,
-        "Roggenrola": 3,
+        "Roggenrola": 4,
         "Bibarel": 1,
         "Braixen": 1,
         "Shroomish": 1,
@@ -135,7 +135,7 @@
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 4,
+        "Smearguru": 5,
         "Dusclops": 1,
         "Vullaby": 1,
         "Tauros": 1,
@@ -283,7 +283,7 @@
         "Lombre": 1,
         "Sprigatito": 1,
         "Crawdaunt": 1,
-        "Karrablast": 1,
+        "Karrablast": 2,
         "Quilladin": 1,
         "Deino": 1,
         "Pawniard": 1,
@@ -293,7 +293,7 @@
         "Fennekin": 1,
         "Relicanth": 1,
         "Bulbasaur": 1,
-        "Helioptile": 1,
+        "Helioptile": 2,
         "Gurdurr": 2,
         "Drilbur": 1,
         "Poison arceus": 1,
@@ -349,12 +349,12 @@
         "Shelmet": 1,
         "Smeargle": 1
       },
-      "total_spawns": 573,
-      "last_spawn": "2026-10-02T16:25:13.027202"
+      "total_spawns": 577,
+      "last_spawn": "2026-10-02T16:25:53.733540"
     }
   },
   "global": {
-    "total_spawns": 573,
+    "total_spawns": 577,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
