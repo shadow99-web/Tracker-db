@@ -143,7 +143,7 @@
         "Growlithe": 1,
         "Greavard": 4,
         "Abra": 3,
-        "Chef dente": 5,
+        "Chef dente": 6,
         "Spritzee": 2,
         "Capsakid": 2,
         "Magmortar": 1,
@@ -297,7 +297,7 @@
         "Gurdurr": 2,
         "Drilbur": 1,
         "Poison arceus": 1,
-        "Klang": 1,
+        "Klang": 2,
         "Frogadier": 1,
         "Torracat": 2,
         "Crobat": 1,
@@ -451,14 +451,15 @@
         "Tinkatuff": 1,
         "Tyrunt": 1,
         "Ariados": 1,
-        "Spiritomb": 1
+        "Spiritomb": 1,
+        "Ride cyclizar": 1
       },
-      "total_spawns": 880,
-      "last_spawn": "2026-10-02T17:16:42.657330"
+      "total_spawns": 883,
+      "last_spawn": "2026-10-02T17:17:13.345059"
     }
   },
   "global": {
-    "total_spawns": 880,
+    "total_spawns": 883,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
