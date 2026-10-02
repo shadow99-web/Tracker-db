@@ -51,7 +51,7 @@
         "Marowak": 1,
         "Lotad": 5,
         "Bounsweet": 6,
-        "Solosis": 3,
+        "Solosis": 4,
         "Froakie": 1,
         "Hoppip": 4,
         "Clobbopus": 1,
@@ -88,7 +88,7 @@
         "Nymble": 2,
         "Axew": 5,
         "Sewaddle": 6,
-        "Bellsprout": 5,
+        "Bellsprout": 6,
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 1,
@@ -159,7 +159,7 @@
         "Venipede": 4,
         "Poliwag": 4,
         "Skrelp": 1,
-        "Duskull": 5,
+        "Duskull": 6,
         "Dondozo": 2,
         "Mankey": 1,
         "Pancham": 1,
@@ -429,14 +429,15 @@
         "Numel": 1,
         "Stantler": 1,
         "Sobble": 1,
-        "Joltik": 1
+        "Joltik": 1,
+        "Staraptor": 1
       },
-      "total_spawns": 802,
-      "last_spawn": "2026-10-02T17:03:43.101468"
+      "total_spawns": 806,
+      "last_spawn": "2026-10-02T17:04:22.732201"
     }
   },
   "global": {
-    "total_spawns": 802,
+    "total_spawns": 806,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
