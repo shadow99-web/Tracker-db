@@ -150,7 +150,7 @@
         "Roaming gimmighoul": 2,
         "Jangmo-o": 2,
         "Swanna": 1,
-        "Surskit": 1,
+        "Surskit": 2,
         "Hattrem": 2,
         "Cryogonal": 1,
         "Sliggoo": 2,
@@ -325,7 +325,7 @@
         "Goomy": 1,
         "Skiploom": 1,
         "Pikipek": 1,
-        "Buizel": 1,
+        "Buizel": 2,
         "Taillow": 1,
         "Snorlax": 1,
         "Nidorina": 1,
@@ -337,7 +337,7 @@
         "Grotle": 1,
         "Spheal": 1,
         "Lumineon": 1,
-        "Blipbug": 1,
+        "Blipbug": 2,
         "Pincurchin": 1,
         "Slowpoke": 2,
         "Clodsire": 1,
@@ -393,12 +393,12 @@
         "Baltoy": 1,
         "Jynx": 1
       },
-      "total_spawns": 704,
-      "last_spawn": "2026-10-02T16:47:12.649763"
+      "total_spawns": 707,
+      "last_spawn": "2026-10-02T16:47:42.686806"
     }
   },
   "global": {
-    "total_spawns": 704,
+    "total_spawns": 707,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
