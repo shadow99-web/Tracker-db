@@ -68,7 +68,7 @@
         "Sandshrew": 2,
         "Varoom": 1,
         "Chingling": 1,
-        "Oddish": 2,
+        "Oddish": 3,
         "Pansear": 1,
         "Roggenrola": 2,
         "Bibarel": 1,
@@ -88,7 +88,7 @@
         "Nymble": 1,
         "Axew": 2,
         "Sewaddle": 3,
-        "Bellsprout": 1,
+        "Bellsprout": 2,
         "Togetic": 1,
         "Snom": 2,
         "Mabosstiff": 1,
@@ -125,7 +125,7 @@
         "Espathra": 1,
         "Amoonguss": 1,
         "Starmie": 1,
-        "Flamigo": 1,
+        "Flamigo": 2,
         "Timburr": 1,
         "Family of three maushold": 1,
         "Wynaut": 1,
@@ -164,7 +164,7 @@
         "Mankey": 1,
         "Pancham": 1,
         "Milotic": 1,
-        "Turtwig": 1,
+        "Turtwig": 2,
         "Cetoddle": 1,
         "Dreepy": 1,
         "Bramblin": 1,
@@ -178,14 +178,17 @@
         "Chespin": 1,
         "Cacnea": 1,
         "Trapinch": 1,
-        "Slurpuff": 1
+        "Slurpuff": 1,
+        "Magneton": 1,
+        "Crocalor": 1,
+        "Poochyena": 1
       },
-      "total_spawns": 228,
-      "last_spawn": "2026-10-02T15:45:02.921158"
+      "total_spawns": 235,
+      "last_spawn": "2026-10-02T15:45:37.698010"
     }
   },
   "global": {
-    "total_spawns": 228,
+    "total_spawns": 235,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
