@@ -18,7 +18,7 @@
         "Gible": 3,
         "Dachsbun": 1,
         "Meowth": 1,
-        "Grookey": 1,
+        "Grookey": 2,
         "Hatenna": 4,
         "Gastly": 3,
         "Gothita": 2,
@@ -247,7 +247,7 @@
         "Dewott": 2,
         "Rolycoly": 1,
         "Caterpie": 2,
-        "Remoraid": 1,
+        "Remoraid": 2,
         "Feebas": 2,
         "Inkay": 1,
         "Droopy tatsugiri": 1,
@@ -321,14 +321,16 @@
         "Hitmonchan": 1,
         "Slugma": 1,
         "Herdier": 1,
-        "Rowlet": 1
+        "Rowlet": 1,
+        "Goomy": 1,
+        "Skiploom": 1
       },
-      "total_spawns": 513,
-      "last_spawn": "2026-10-02T16:14:45.731150"
+      "total_spawns": 517,
+      "last_spawn": "2026-10-02T16:15:23.741744"
     }
   },
   "global": {
-    "total_spawns": 513,
+    "total_spawns": 517,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
