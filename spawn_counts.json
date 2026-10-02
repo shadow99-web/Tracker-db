@@ -15,7 +15,7 @@
         "Sizzlipede": 1,
         "Mosslax": 3,
         "Lickilicky": 1,
-        "Gible": 2,
+        "Gible": 3,
         "Dachsbun": 1,
         "Meowth": 1,
         "Grookey": 1,
@@ -50,7 +50,7 @@
         "Smoliv": 2,
         "Marowak": 1,
         "Lotad": 1,
-        "Bounsweet": 1,
+        "Bounsweet": 2,
         "Solosis": 3,
         "Froakie": 1,
         "Hoppip": 3,
@@ -88,7 +88,7 @@
         "Nymble": 1,
         "Axew": 2,
         "Sewaddle": 3,
-        "Bellsprout": 2,
+        "Bellsprout": 3,
         "Togetic": 1,
         "Snom": 2,
         "Mabosstiff": 1,
@@ -200,7 +200,7 @@
         "Appletun": 1,
         "Mienfoo": 1,
         "Wailord": 1,
-        "Kadabra": 1,
+        "Kadabra": 2,
         "Monferno": 1,
         "Bombirdier": 2,
         "East sea gastrodon": 1,
@@ -232,14 +232,16 @@
         "Carracosta": 1,
         "Bagon": 1,
         "Toedscruel": 1,
-        "Luxio": 1
+        "Luxio": 1,
+        "Zweilous": 1,
+        "Rookidee": 1
       },
-      "total_spawns": 306,
-      "last_spawn": "2026-10-02T15:51:42.671384"
+      "total_spawns": 312,
+      "last_spawn": "2026-10-02T15:52:12.699148"
     }
   },
   "global": {
-    "total_spawns": 306,
+    "total_spawns": 312,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
