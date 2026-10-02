@@ -266,7 +266,7 @@
         "Charcadet": 1,
         "Honedge": 3,
         "Sealeo": 2,
-        "Wiglett": 3,
+        "Wiglett": 4,
         "Archen": 1,
         "Amaura": 1,
         "Manaphy": 1,
@@ -385,14 +385,16 @@
         "Tyrogue": 1,
         "Croconaw": 1,
         "Sawk": 1,
-        "Palafin": 1
+        "Palafin": 1,
+        "Makuhita": 1,
+        "Bonsly": 1
       },
-      "total_spawns": 687,
-      "last_spawn": "2026-10-02T16:44:22.826857"
+      "total_spawns": 690,
+      "last_spawn": "2026-10-02T16:44:52.914276"
     }
   },
   "global": {
-    "total_spawns": 687,
+    "total_spawns": 690,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
