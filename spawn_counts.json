@@ -11,7 +11,7 @@
       "counts": {
         "Klink": 1,
         "Ekans": 3,
-        "Rattata": 3,
+        "Rattata": 4,
         "Sizzlipede": 1,
         "Mosslax": 5,
         "Lickilicky": 1,
@@ -70,7 +70,7 @@
         "Chingling": 1,
         "Oddish": 5,
         "Pansear": 2,
-        "Roggenrola": 5,
+        "Roggenrola": 6,
         "Bibarel": 1,
         "Braixen": 1,
         "Shroomish": 2,
@@ -125,7 +125,7 @@
         "Espathra": 3,
         "Amoonguss": 1,
         "Starmie": 1,
-        "Flamigo": 4,
+        "Flamigo": 5,
         "Timburr": 4,
         "Family of three maushold": 1,
         "Wynaut": 1,
@@ -428,14 +428,15 @@
         "Roserade": 1,
         "Numel": 1,
         "Stantler": 1,
-        "Sobble": 1
+        "Sobble": 1,
+        "Joltik": 1
       },
-      "total_spawns": 798,
-      "last_spawn": "2026-10-02T17:03:05.573745"
+      "total_spawns": 802,
+      "last_spawn": "2026-10-02T17:03:43.101468"
     }
   },
   "global": {
-    "total_spawns": 798,
+    "total_spawns": 802,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
