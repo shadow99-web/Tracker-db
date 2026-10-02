@@ -36,7 +36,7 @@
         "Munna": 1,
         "Buneary": 2,
         "Wattrel": 3,
-        "Cubone": 1,
+        "Cubone": 2,
         "Geodude": 3,
         "Mudkip": 1,
         "White plumage squawkabilly": 1,
@@ -96,7 +96,7 @@
         "Servine": 2,
         "Piplup": 1,
         "Hisuian sliggoo": 1,
-        "Tranquill": 1,
+        "Tranquill": 2,
         "Lechonk": 4,
         "Skitty": 2,
         "Skwovet": 1,
@@ -170,7 +170,7 @@
         "Bramblin": 1,
         "Voltorb": 1,
         "Starly": 2,
-        "Corviknight": 1,
+        "Corviknight": 2,
         "Hisuian qwilfish": 1,
         "Grubbin": 4,
         "Chikorita": 1,
@@ -179,7 +179,7 @@
         "Cacnea": 1,
         "Trapinch": 1,
         "Slurpuff": 2,
-        "Magneton": 1,
+        "Magneton": 2,
         "Crocalor": 1,
         "Poochyena": 1,
         "Machop": 1,
@@ -250,14 +250,16 @@
         "Remoraid": 1,
         "Feebas": 1,
         "Inkay": 1,
-        "Droopy tatsugiri": 1
+        "Droopy tatsugiri": 1,
+        "Ledyba": 1,
+        "Glaceon": 1
       },
-      "total_spawns": 344,
-      "last_spawn": "2026-10-02T15:54:52.856102"
+      "total_spawns": 350,
+      "last_spawn": "2026-10-02T15:55:23.135910"
     }
   },
   "global": {
-    "total_spawns": 344,
+    "total_spawns": 350,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
