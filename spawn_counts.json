@@ -49,7 +49,7 @@
         "Palpitoad": 2,
         "Smoliv": 2,
         "Marowak": 1,
-        "Lotad": 2,
+        "Lotad": 3,
         "Bounsweet": 6,
         "Solosis": 3,
         "Froakie": 1,
@@ -347,14 +347,17 @@
         "Marshtomp": 1,
         "Quaxwell": 1,
         "Shelmet": 1,
-        "Smeargle": 1
+        "Smeargle": 1,
+        "Jumpluff": 1,
+        "Slakoth": 1,
+        "Cacturne": 1
       },
-      "total_spawns": 577,
-      "last_spawn": "2026-10-02T16:25:53.733540"
+      "total_spawns": 581,
+      "last_spawn": "2026-10-02T16:26:33.007813"
     }
   },
   "global": {
-    "total_spawns": 577,
+    "total_spawns": 581,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
