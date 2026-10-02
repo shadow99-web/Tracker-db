@@ -154,7 +154,7 @@
         "Hattrem": 2,
         "Cryogonal": 1,
         "Sliggoo": 1,
-        "Fletchling": 1,
+        "Fletchling": 2,
         "Litleo": 2,
         "Venipede": 2,
         "Poliwag": 3,
@@ -255,7 +255,7 @@
         "Glaceon": 2,
         "Snowy castform": 1,
         "Litten": 2,
-        "Mareep": 2,
+        "Mareep": 3,
         "Exploud": 1,
         "Farfetch'd": 1,
         "Girafarig": 1,
@@ -353,14 +353,15 @@
         "Cacturne": 1,
         "Snivy": 1,
         "Armarouge": 1,
-        "Noctowl": 1
+        "Noctowl": 1,
+        "Rhydon": 1
       },
-      "total_spawns": 597,
-      "last_spawn": "2026-10-02T16:29:12.856543"
+      "total_spawns": 600,
+      "last_spawn": "2026-10-02T16:29:42.882923"
     }
   },
   "global": {
-    "total_spawns": 597,
+    "total_spawns": 600,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
