@@ -19,7 +19,7 @@
         "Dachsbun": 1,
         "Meowth": 1,
         "Grookey": 1,
-        "Hatenna": 3,
+        "Hatenna": 4,
         "Gastly": 2,
         "Gothita": 1,
         "Dada zarude": 1,
@@ -119,14 +119,18 @@
         "Wurmple": 1,
         "Gligar": 1,
         "Grumpig": 1,
-        "Veluza": 1
+        "Veluza": 1,
+        "Pidove": 1,
+        "Shinx": 1,
+        "Espathra": 1,
+        "Amoonguss": 1
       },
-      "total_spawns": 134,
-      "last_spawn": "2026-10-02T15:36:57.760176"
+      "total_spawns": 139,
+      "last_spawn": "2026-10-02T15:37:27.990630"
     }
   },
   "global": {
-    "total_spawns": 134,
+    "total_spawns": 139,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
