@@ -65,7 +65,7 @@
         "Salandit": 3,
         "Ivysaur": 1,
         "Tynamo": 3,
-        "Sandshrew": 2,
+        "Sandshrew": 3,
         "Varoom": 2,
         "Chingling": 1,
         "Oddish": 5,
@@ -230,7 +230,7 @@
         "Pansage": 1,
         "Eevee": 4,
         "Carracosta": 1,
-        "Bagon": 1,
+        "Bagon": 2,
         "Toedscruel": 1,
         "Luxio": 2,
         "Zweilous": 2,
@@ -311,7 +311,7 @@
         "Chimchar": 1,
         "Seedot": 4,
         "Hippopotas": 1,
-        "Lillipup": 2,
+        "Lillipup": 3,
         "Weepinbell": 1,
         "Skeledirge": 1,
         "Floragato": 1,
@@ -376,14 +376,15 @@
         "Machoke": 1,
         "Yamper": 1,
         "Petilil": 1,
-        "Shedinja": 1
+        "Shedinja": 1,
+        "Cottonee": 1
       },
-      "total_spawns": 667,
-      "last_spawn": "2026-10-02T16:41:03.743522"
+      "total_spawns": 671,
+      "last_spawn": "2026-10-02T16:41:43.780923"
     }
   },
   "global": {
-    "total_spawns": 667,
+    "total_spawns": 671,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
