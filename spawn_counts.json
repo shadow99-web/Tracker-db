@@ -19,7 +19,7 @@
         "Dachsbun": 2,
         "Meowth": 1,
         "Grookey": 2,
-        "Hatenna": 4,
+        "Hatenna": 5,
         "Gastly": 6,
         "Gothita": 3,
         "Dada zarude": 1,
@@ -279,7 +279,7 @@
         "Tympole": 3,
         "Arctozolt": 1,
         "Pidgey": 4,
-        "Totodile": 2,
+        "Totodile": 3,
         "Lombre": 1,
         "Sprigatito": 1,
         "Crawdaunt": 1,
@@ -351,7 +351,7 @@
         "Jumpluff": 1,
         "Slakoth": 3,
         "Cacturne": 1,
-        "Snivy": 4,
+        "Snivy": 5,
         "Armarouge": 2,
         "Noctowl": 2,
         "Rhydon": 1,
@@ -457,12 +457,12 @@
         "Dragonair": 1,
         "Nosepass": 1
       },
-      "total_spawns": 901,
-      "last_spawn": "2026-10-02T17:20:12.783645"
+      "total_spawns": 904,
+      "last_spawn": "2026-10-02T17:20:43.659783"
     }
   },
   "global": {
-    "total_spawns": 901,
+    "total_spawns": 904,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
