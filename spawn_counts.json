@@ -58,7 +58,7 @@
         "Zubat": 3,
         "Koffing": 2,
         "Yanma": 1,
-        "Kabuto": 2,
+        "Kabuto": 3,
         "Seviper": 1,
         "Scrafty": 1,
         "Pawmi": 2,
@@ -143,7 +143,7 @@
         "Growlithe": 1,
         "Greavard": 4,
         "Abra": 1,
-        "Chef dente": 1,
+        "Chef dente": 2,
         "Spritzee": 2,
         "Capsakid": 1,
         "Magmortar": 1,
@@ -232,7 +232,7 @@
         "Carracosta": 1,
         "Bagon": 1,
         "Toedscruel": 1,
-        "Luxio": 1,
+        "Luxio": 2,
         "Zweilous": 1,
         "Rookidee": 2,
         "Horsea": 1,
@@ -311,12 +311,12 @@
         "Chimchar": 1,
         "Seedot": 1
       },
-      "total_spawns": 477,
-      "last_spawn": "2026-10-02T16:08:33.096696"
+      "total_spawns": 480,
+      "last_spawn": "2026-10-02T16:09:03.220567"
     }
   },
   "global": {
-    "total_spawns": 477,
+    "total_spawns": 480,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
