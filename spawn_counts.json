@@ -25,7 +25,7 @@
         "Dada zarude": 1,
         "Fomantis": 2,
         "Tinkatink": 3,
-        "Vigoroth": 1,
+        "Vigoroth": 2,
         "Rufflet": 1,
         "Dratini": 2,
         "Impidimp": 2,
@@ -86,7 +86,7 @@
         "Lickitung": 1,
         "Bellibolt": 1,
         "Nymble": 1,
-        "Axew": 1,
+        "Axew": 2,
         "Sewaddle": 1,
         "Bellsprout": 1,
         "Togetic": 1,
@@ -107,7 +107,7 @@
         "Lugia": 1,
         "Wingull": 1,
         "Dj rotom": 1,
-        "Gimmighoul": 1,
+        "Gimmighoul": 2,
         "Magnemite": 1,
         "Porygon": 1,
         "Larvitar": 1,
@@ -135,14 +135,18 @@
         "Boldore": 1,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 1
+        "Smearguru": 1,
+        "Dusclops": 1,
+        "Vullaby": 1,
+        "Tauros": 1,
+        "Panpour": 1
       },
-      "total_spawns": 157,
-      "last_spawn": "2026-10-02T15:39:03.140638"
+      "total_spawns": 164,
+      "last_spawn": "2026-10-02T15:39:37.824562"
     }
   },
   "global": {
-    "total_spawns": 157,
+    "total_spawns": 164,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
