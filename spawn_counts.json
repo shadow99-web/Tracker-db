@@ -166,7 +166,7 @@
         "Milotic": 1,
         "Turtwig": 3,
         "Cetoddle": 3,
-        "Dreepy": 3,
+        "Dreepy": 4,
         "Bramblin": 1,
         "Voltorb": 1,
         "Starly": 4,
@@ -255,7 +255,7 @@
         "Glaceon": 2,
         "Snowy castform": 1,
         "Litten": 2,
-        "Mareep": 4,
+        "Mareep": 5,
         "Exploud": 1,
         "Farfetch'd": 2,
         "Girafarig": 1,
@@ -349,7 +349,7 @@
         "Shelmet": 1,
         "Smeargle": 1,
         "Jumpluff": 1,
-        "Slakoth": 1,
+        "Slakoth": 2,
         "Cacturne": 1,
         "Snivy": 2,
         "Armarouge": 1,
@@ -367,14 +367,15 @@
         "Diglett": 1,
         "Cufant": 1,
         "Passimian": 1,
-        "Comfey": 1
+        "Comfey": 1,
+        "Lileep": 1
       },
-      "total_spawns": 637,
-      "last_spawn": "2026-10-02T16:36:02.879508"
+      "total_spawns": 641,
+      "last_spawn": "2026-10-02T16:36:42.800417"
     }
   },
   "global": {
-    "total_spawns": 637,
+    "total_spawns": 641,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
