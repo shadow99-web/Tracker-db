@@ -185,7 +185,7 @@
         "Machop": 5,
         "Zigzagoon": 3,
         "Prinplup": 2,
-        "Peakychu": 4,
+        "Peakychu": 5,
         "Seel": 2,
         "Banette": 1,
         "Gossifleur": 1,
@@ -276,7 +276,7 @@
         "Furret": 1,
         "Rhyhorn": 2,
         "Golisopod": 1,
-        "Tympole": 3,
+        "Tympole": 4,
         "Arctozolt": 1,
         "Pidgey": 4,
         "Totodile": 3,
@@ -324,7 +324,7 @@
         "Rowlet": 1,
         "Goomy": 1,
         "Skiploom": 1,
-        "Pikipek": 2,
+        "Pikipek": 3,
         "Buizel": 3,
         "Taillow": 1,
         "Snorlax": 1,
@@ -472,14 +472,15 @@
         "Hisuian zoroark": 1,
         "Dolliv": 1,
         "Elgyem": 1,
-        "Ursaring": 1
+        "Ursaring": 1,
+        "Hoothoot": 1
       },
-      "total_spawns": 964,
-      "last_spawn": "2026-10-02T17:30:42.821917"
+      "total_spawns": 968,
+      "last_spawn": "2026-10-02T17:31:22.979303"
     }
   },
   "global": {
-    "total_spawns": 964,
+    "total_spawns": 968,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
