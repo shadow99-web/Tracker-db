@@ -190,7 +190,7 @@
         "Banette": 1,
         "Gossifleur": 1,
         "Sentret": 1,
-        "Glimmet": 1,
+        "Glimmet": 2,
         "Sandy wormadam": 1,
         "Battle cyclizar": 3,
         "Steenee": 1,
@@ -202,7 +202,7 @@
         "Wailord": 2,
         "Kadabra": 3,
         "Monferno": 2,
-        "Bombirdier": 2,
+        "Bombirdier": 3,
         "East sea gastrodon": 1,
         "Krokorok": 2,
         "Prof tangrowth": 4,
@@ -290,7 +290,7 @@
         "Rabsca": 2,
         "Frigibax": 1,
         "Pikachu": 2,
-        "Fennekin": 1,
+        "Fennekin": 2,
         "Relicanth": 1,
         "Bulbasaur": 1,
         "Helioptile": 2,
@@ -467,14 +467,15 @@
         "Hoopa": 1,
         "Snubbull": 1,
         "Combusken": 1,
-        "Gyarados": 1
+        "Gyarados": 1,
+        "Blue flower florges": 1
       },
-      "total_spawns": 948,
-      "last_spawn": "2026-10-02T17:28:03.452001"
+      "total_spawns": 952,
+      "last_spawn": "2026-10-02T17:28:42.934943"
     }
   },
   "global": {
-    "total_spawns": 948,
+    "total_spawns": 952,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
