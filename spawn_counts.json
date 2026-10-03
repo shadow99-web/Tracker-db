@@ -27,7 +27,7 @@
         "Tinkatink": 3,
         "Vigoroth": 4,
         "Rufflet": 2,
-        "Dratini": 2,
+        "Dratini": 3,
         "Impidimp": 5,
         "Tadbulb": 4,
         "Clauncher": 2,
@@ -182,7 +182,7 @@
         "Magneton": 2,
         "Crocalor": 1,
         "Poochyena": 2,
-        "Machop": 5,
+        "Machop": 6,
         "Zigzagoon": 3,
         "Prinplup": 2,
         "Peakychu": 5,
@@ -235,7 +235,7 @@
         "Luxio": 2,
         "Zweilous": 2,
         "Rookidee": 3,
-        "Horsea": 3,
+        "Horsea": 4,
         "Popplio": 2,
         "Sandile": 5,
         "Cloyster": 2,
@@ -480,12 +480,12 @@
         "Carbink": 1,
         "Magnezone": 1
       },
-      "total_spawns": 991,
-      "last_spawn": "2026-10-03T10:09:52.736883"
+      "total_spawns": 994,
+      "last_spawn": "2026-10-03T10:10:22.760886"
     }
   },
   "global": {
-    "total_spawns": 991,
+    "total_spawns": 994,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
