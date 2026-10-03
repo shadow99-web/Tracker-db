@@ -35,7 +35,7 @@
         "Pawmo": 1,
         "Munna": 1,
         "Buneary": 2,
-        "Wattrel": 4,
+        "Wattrel": 5,
         "Cubone": 2,
         "Geodude": 8,
         "Mudkip": 1,
@@ -372,7 +372,7 @@
         "Cetitan": 1,
         "Swellow": 1,
         "Flapple": 1,
-        "Spoink": 2,
+        "Spoink": 3,
         "Machoke": 1,
         "Yamper": 1,
         "Petilil": 2,
@@ -429,7 +429,7 @@
         "Numel": 1,
         "Stantler": 1,
         "Sobble": 1,
-        "Joltik": 1,
+        "Joltik": 2,
         "Staraptor": 1,
         "Thwackey": 1,
         "Dudunsparce": 3,
@@ -481,14 +481,15 @@
         "Magnezone": 1,
         "Combee": 1,
         "Dottler": 1,
-        "Gholdengo": 1
+        "Gholdengo": 1,
+        "Pignite": 1
       },
-      "total_spawns": 1009,
-      "last_spawn": "2026-10-03T10:12:52.856504"
+      "total_spawns": 1013,
+      "last_spawn": "2026-10-03T10:13:32.718343"
     }
   },
   "global": {
-    "total_spawns": 1009,
+    "total_spawns": 1013,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
