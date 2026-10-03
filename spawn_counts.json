@@ -29,7 +29,7 @@
         "Rufflet": 2,
         "Dratini": 3,
         "Impidimp": 5,
-        "Tadbulb": 4,
+        "Tadbulb": 5,
         "Clauncher": 2,
         "Vanillish": 3,
         "Pawmo": 1,
@@ -343,7 +343,7 @@
         "Clodsire": 1,
         "Spewpa": 2,
         "Goldeen": 2,
-        "Weedle": 2,
+        "Weedle": 3,
         "Marshtomp": 1,
         "Quaxwell": 1,
         "Shelmet": 1,
@@ -478,14 +478,15 @@
         "Maushold": 1,
         "Houndour": 1,
         "Carbink": 1,
-        "Magnezone": 1
+        "Magnezone": 1,
+        "Combee": 1
       },
-      "total_spawns": 994,
-      "last_spawn": "2026-10-03T10:10:22.760886"
+      "total_spawns": 997,
+      "last_spawn": "2026-10-03T10:10:53.076770"
     }
   },
   "global": {
-    "total_spawns": 994,
+    "total_spawns": 997,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
