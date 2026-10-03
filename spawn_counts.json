@@ -47,7 +47,7 @@
         "Vibrava": 2,
         "Hatterene": 1,
         "Palpitoad": 3,
-        "Smoliv": 4,
+        "Smoliv": 6,
         "Marowak": 1,
         "Lotad": 6,
         "Bounsweet": 8,
@@ -65,7 +65,7 @@
         "Salandit": 4,
         "Ivysaur": 1,
         "Tynamo": 9,
-        "Sandshrew": 4,
+        "Sandshrew": 5,
         "Varoom": 4,
         "Chingling": 1,
         "Oddish": 7,
@@ -88,7 +88,7 @@
         "Nymble": 2,
         "Axew": 6,
         "Sewaddle": 7,
-        "Bellsprout": 6,
+        "Bellsprout": 7,
         "Togetic": 1,
         "Snom": 3,
         "Mabosstiff": 2,
@@ -142,7 +142,7 @@
         "Panpour": 1,
         "Growlithe": 1,
         "Greavard": 5,
-        "Abra": 4,
+        "Abra": 5,
         "Chef dente": 9,
         "Spritzee": 2,
         "Capsakid": 3,
@@ -201,7 +201,7 @@
         "Mienfoo": 4,
         "Wailord": 2,
         "Kadabra": 3,
-        "Monferno": 3,
+        "Monferno": 4,
         "Bombirdier": 4,
         "East sea gastrodon": 1,
         "Krokorok": 2,
@@ -246,7 +246,7 @@
         "Quaxly": 3,
         "Dewott": 2,
         "Rolycoly": 4,
-        "Caterpie": 2,
+        "Caterpie": 3,
         "Remoraid": 3,
         "Feebas": 3,
         "Inkay": 1,
@@ -322,7 +322,7 @@
         "Slugma": 2,
         "Herdier": 3,
         "Rowlet": 2,
-        "Goomy": 2,
+        "Goomy": 3,
         "Skiploom": 1,
         "Pikipek": 4,
         "Buizel": 3,
@@ -506,7 +506,7 @@
         "Phanpy": 1,
         "Doduo": 1,
         "Oshawott": 1,
-        "Misdreavus": 2,
+        "Misdreavus": 3,
         "Sensu oricorio": 1,
         "Scraggy": 1,
         "Baxcalibur": 1,
@@ -530,14 +530,16 @@
         "Barboach": 1,
         "Swablu": 1,
         "Aipom": 1,
-        "Stretchy tatsugiri": 1
+        "Stretchy tatsugiri": 1,
+        "Charmeleon": 1,
+        "Sandygast": 1
       },
-      "total_spawns": 1269,
-      "last_spawn": "2026-10-03T10:25:12.381721"
+      "total_spawns": 1280,
+      "last_spawn": "2026-10-03T10:25:42.793087"
     }
   },
   "global": {
-    "total_spawns": 1269,
+    "total_spawns": 1280,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
