@@ -11,7 +11,7 @@
       "counts": {
         "Klink": 1,
         "Ekans": 3,
-        "Rattata": 4,
+        "Rattata": 5,
         "Sizzlipede": 1,
         "Mosslax": 5,
         "Lickilicky": 1,
@@ -41,7 +41,7 @@
         "Mudkip": 1,
         "White plumage squawkabilly": 2,
         "Treecko": 4,
-        "Ralts": 4,
+        "Ralts": 5,
         "Swirlix": 1,
         "Togepi": 9,
         "Vibrava": 2,
@@ -126,7 +126,7 @@
         "Amoonguss": 1,
         "Starmie": 1,
         "Flamigo": 7,
-        "Timburr": 5,
+        "Timburr": 6,
         "Family of three maushold": 1,
         "Wynaut": 1,
         "Phantump": 2,
@@ -477,12 +477,12 @@
         "Psyduck": 1,
         "Maushold": 1
       },
-      "total_spawns": 980,
-      "last_spawn": "2026-10-03T10:08:02.703131"
+      "total_spawns": 983,
+      "last_spawn": "2026-10-03T10:08:32.809908"
     }
   },
   "global": {
-    "total_spawns": 980,
+    "total_spawns": 983,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
