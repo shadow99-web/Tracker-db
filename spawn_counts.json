@@ -119,7 +119,7 @@
         "Wurmple": 5,
         "Gligar": 2,
         "Grumpig": 1,
-        "Veluza": 4,
+        "Veluza": 5,
         "Pidove": 5,
         "Shinx": 4,
         "Espathra": 3,
@@ -160,7 +160,7 @@
         "Poliwag": 4,
         "Skrelp": 2,
         "Duskull": 7,
-        "Dondozo": 3,
+        "Dondozo": 4,
         "Mankey": 1,
         "Pancham": 1,
         "Milotic": 1,
@@ -322,7 +322,7 @@
         "Slugma": 1,
         "Herdier": 3,
         "Rowlet": 1,
-        "Goomy": 1,
+        "Goomy": 2,
         "Skiploom": 1,
         "Pikipek": 3,
         "Buizel": 3,
@@ -432,7 +432,7 @@
         "Joltik": 1,
         "Staraptor": 1,
         "Thwackey": 1,
-        "Dudunsparce": 1,
+        "Dudunsparce": 2,
         "Kricketune": 2,
         "Ceruledge": 1,
         "Houndstone": 1,
@@ -483,12 +483,12 @@
         "Dottler": 1,
         "Gholdengo": 1
       },
-      "total_spawns": 1001,
-      "last_spawn": "2026-10-03T10:11:33.195524"
+      "total_spawns": 1005,
+      "last_spawn": "2026-10-03T10:12:12.935320"
     }
   },
   "global": {
-    "total_spawns": 1001,
+    "total_spawns": 1005,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
