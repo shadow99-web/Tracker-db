@@ -79,7 +79,7 @@
         "Durant": 2,
         "Fidough": 3,
         "Vanillite": 4,
-        "Rellor": 3,
+        "Rellor": 4,
         "Toxel": 3,
         "Maschiff": 4,
         "Probopass": 1,
@@ -154,7 +154,7 @@
         "Hattrem": 2,
         "Cryogonal": 1,
         "Sliggoo": 2,
-        "Fletchling": 2,
+        "Fletchling": 3,
         "Litleo": 3,
         "Venipede": 5,
         "Poliwag": 4,
@@ -165,7 +165,7 @@
         "Pancham": 1,
         "Milotic": 1,
         "Turtwig": 3,
-        "Cetoddle": 4,
+        "Cetoddle": 5,
         "Dreepy": 5,
         "Bramblin": 3,
         "Voltorb": 1,
@@ -263,7 +263,7 @@
         "Wimpod": 2,
         "Orthworm": 3,
         "Beldum": 1,
-        "Charcadet": 1,
+        "Charcadet": 2,
         "Honedge": 3,
         "Sealeo": 3,
         "Wiglett": 9,
@@ -482,14 +482,15 @@
         "Combee": 1,
         "Dottler": 1,
         "Gholdengo": 1,
-        "Pignite": 1
+        "Pignite": 1,
+        "Drowzee": 1
       },
-      "total_spawns": 1016,
-      "last_spawn": "2026-10-03T10:14:03.136156"
+      "total_spawns": 1021,
+      "last_spawn": "2026-10-03T10:14:42.099267"
     }
   },
   "global": {
-    "total_spawns": 1016,
+    "total_spawns": 1021,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
