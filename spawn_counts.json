@@ -97,7 +97,7 @@
         "Piplup": 1,
         "Hisuian sliggoo": 1,
         "Tranquill": 2,
-        "Lechonk": 8,
+        "Lechonk": 9,
         "Skitty": 2,
         "Skwovet": 3,
         "Cyndaquil": 1,
@@ -211,7 +211,7 @@
         "Luxray": 1,
         "Gloom": 3,
         "Morelull": 3,
-        "Noibat": 2,
+        "Noibat": 3,
         "Ducklett": 1,
         "Bunnelby": 1,
         "Perrserker": 1,
@@ -335,7 +335,7 @@
         "Torchic": 2,
         "Jolteon": 1,
         "Grotle": 1,
-        "Spheal": 1,
+        "Spheal": 2,
         "Lumineon": 1,
         "Blipbug": 3,
         "Pincurchin": 1,
@@ -475,14 +475,15 @@
         "Ursaring": 1,
         "Hoothoot": 1,
         "Psyduck": 1,
-        "Maushold": 1
+        "Maushold": 1,
+        "Houndour": 1
       },
-      "total_spawns": 983,
-      "last_spawn": "2026-10-03T10:08:32.809908"
+      "total_spawns": 987,
+      "last_spawn": "2026-10-03T10:09:13.159961"
     }
   },
   "global": {
-    "total_spawns": 983,
+    "total_spawns": 987,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
