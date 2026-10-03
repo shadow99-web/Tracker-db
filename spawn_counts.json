@@ -19,7 +19,7 @@
         "Dachsbun": 2,
         "Meowth": 1,
         "Grookey": 4,
-        "Hatenna": 8,
+        "Hatenna": 9,
         "Gastly": 8,
         "Gothita": 5,
         "Dada zarude": 1,
@@ -36,7 +36,7 @@
         "Munna": 1,
         "Buneary": 2,
         "Wattrel": 5,
-        "Cubone": 2,
+        "Cubone": 3,
         "Geodude": 8,
         "Mudkip": 1,
         "White plumage squawkabilly": 2,
@@ -166,7 +166,7 @@
         "Milotic": 1,
         "Turtwig": 3,
         "Cetoddle": 5,
-        "Dreepy": 7,
+        "Dreepy": 8,
         "Bramblin": 7,
         "Voltorb": 1,
         "Starly": 7,
@@ -185,12 +185,12 @@
         "Machop": 8,
         "Zigzagoon": 3,
         "Prinplup": 2,
-        "Peakychu": 6,
+        "Peakychu": 7,
         "Seel": 2,
         "Banette": 1,
         "Gossifleur": 1,
         "Sentret": 2,
-        "Glimmet": 4,
+        "Glimmet": 5,
         "Sandy wormadam": 1,
         "Battle cyclizar": 3,
         "Steenee": 1,
@@ -260,7 +260,7 @@
         "Farfetch'd": 4,
         "Girafarig": 1,
         "Flittle": 4,
-        "Wimpod": 4,
+        "Wimpod": 5,
         "Orthworm": 5,
         "Beldum": 1,
         "Charcadet": 5,
@@ -535,14 +535,19 @@
         "Sandygast": 1,
         "Falinks": 1,
         "Magby": 1,
-        "Tatsugiri": 1
+        "Tatsugiri": 1,
+        "Anorith": 1,
+        "Natu": 1,
+        "Electabuzz": 1,
+        "Gulpin": 1,
+        "Swalot": 1
       },
-      "total_spawns": 1306,
-      "last_spawn": "2026-10-03T10:26:44.102271"
+      "total_spawns": 1317,
+      "last_spawn": "2026-10-03T10:27:14.155929"
     }
   },
   "global": {
-    "total_spawns": 1306,
+    "total_spawns": 1317,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
