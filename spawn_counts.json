@@ -356,7 +356,7 @@
         "Noctowl": 2,
         "Rhydon": 1,
         "Mudbray": 1,
-        "Cyclizar": 1,
+        "Cyclizar": 2,
         "Frosmoth": 1,
         "Elekid": 1,
         "Carvanha": 1,
@@ -470,20 +470,22 @@
         "Gyarados": 1,
         "Blue flower florges": 1,
         "Hisuian zoroark": 1,
-        "Dolliv": 1,
+        "Dolliv": 2,
         "Elgyem": 1,
         "Ursaring": 1,
         "Hoothoot": 1,
         "Psyduck": 1,
         "Maushold": 1,
-        "Houndour": 1
+        "Houndour": 1,
+        "Carbink": 1,
+        "Magnezone": 1
       },
-      "total_spawns": 987,
-      "last_spawn": "2026-10-03T10:09:13.159961"
+      "total_spawns": 991,
+      "last_spawn": "2026-10-03T10:09:52.736883"
     }
   },
   "global": {
-    "total_spawns": 987,
+    "total_spawns": 991,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
