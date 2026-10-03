@@ -9,7 +9,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Klink": 1,
+        "Klink": 2,
         "Ekans": 3,
         "Rattata": 6,
         "Sizzlipede": 1,
@@ -61,7 +61,7 @@
         "Kabuto": 4,
         "Seviper": 1,
         "Scrafty": 1,
-        "Pawmi": 3,
+        "Pawmi": 4,
         "Salandit": 4,
         "Ivysaur": 1,
         "Tynamo": 9,
@@ -167,7 +167,7 @@
         "Turtwig": 3,
         "Cetoddle": 5,
         "Dreepy": 7,
-        "Bramblin": 6,
+        "Bramblin": 7,
         "Voltorb": 1,
         "Starly": 7,
         "Corviknight": 2,
@@ -261,7 +261,7 @@
         "Girafarig": 1,
         "Flittle": 4,
         "Wimpod": 4,
-        "Orthworm": 4,
+        "Orthworm": 5,
         "Beldum": 1,
         "Charcadet": 5,
         "Honedge": 4,
@@ -281,14 +281,14 @@
         "Pidgey": 4,
         "Totodile": 4,
         "Lombre": 2,
-        "Sprigatito": 1,
+        "Sprigatito": 2,
         "Crawdaunt": 1,
         "Karrablast": 2,
         "Quilladin": 1,
         "Deino": 2,
-        "Pawniard": 1,
+        "Pawniard": 2,
         "Rabsca": 2,
-        "Frigibax": 2,
+        "Frigibax": 3,
         "Pikachu": 2,
         "Fennekin": 2,
         "Relicanth": 1,
@@ -349,7 +349,7 @@
         "Shelmet": 2,
         "Smeargle": 1,
         "Jumpluff": 1,
-        "Slakoth": 7,
+        "Slakoth": 8,
         "Cacturne": 1,
         "Snivy": 6,
         "Armarouge": 2,
@@ -359,7 +359,7 @@
         "Cyclizar": 2,
         "Frosmoth": 1,
         "Elekid": 1,
-        "Carvanha": 1,
+        "Carvanha": 2,
         "Tepig": 4,
         "Metang": 1,
         "Tarountula": 3,
@@ -505,7 +505,7 @@
         "Vulpix": 1,
         "Phanpy": 1,
         "Doduo": 1,
-        "Oshawott": 1,
+        "Oshawott": 2,
         "Misdreavus": 3,
         "Sensu oricorio": 1,
         "Scraggy": 1,
@@ -532,14 +532,17 @@
         "Aipom": 1,
         "Stretchy tatsugiri": 1,
         "Charmeleon": 1,
-        "Sandygast": 1
+        "Sandygast": 1,
+        "Falinks": 1,
+        "Magby": 1,
+        "Tatsugiri": 1
       },
-      "total_spawns": 1280,
-      "last_spawn": "2026-10-03T10:25:42.793087"
+      "total_spawns": 1293,
+      "last_spawn": "2026-10-03T10:26:13.126383"
     }
   },
   "global": {
-    "total_spawns": 1280,
+    "total_spawns": 1293,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
