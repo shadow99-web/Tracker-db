@@ -11,7 +11,7 @@
       "counts": {
         "Klink": 5,
         "Ekans": 3,
-        "Rattata": 6,
+        "Rattata": 7,
         "Sizzlipede": 5,
         "Mosslax": 17,
         "Lickilicky": 1,
@@ -47,10 +47,10 @@
         "Vibrava": 4,
         "Hatterene": 1,
         "Palpitoad": 4,
-        "Smoliv": 11,
+        "Smoliv": 12,
         "Marowak": 1,
         "Lotad": 7,
-        "Bounsweet": 11,
+        "Bounsweet": 12,
         "Solosis": 13,
         "Froakie": 4,
         "Hoppip": 10,
@@ -207,7 +207,7 @@
         "Krokorok": 4,
         "Prof tangrowth": 7,
         "Minccino": 3,
-        "Drifloon": 3,
+        "Drifloon": 4,
         "Luxray": 2,
         "Gloom": 4,
         "Morelull": 4,
@@ -349,7 +349,7 @@
         "Shelmet": 5,
         "Smeargle": 1,
         "Jumpluff": 2,
-        "Slakoth": 10,
+        "Slakoth": 11,
         "Cacturne": 1,
         "Snivy": 7,
         "Armarouge": 2,
@@ -395,7 +395,7 @@
         "Spearow": 5,
         "Wobbuffet": 1,
         "Paras": 2,
-        "Larvesta": 1,
+        "Larvesta": 3,
         "Bruxish": 1,
         "Hero palafin": 1,
         "Golurk": 1,
@@ -558,7 +558,7 @@
         "Dusknoir": 1,
         "Grafaiai": 1,
         "Muk": 1,
-        "Staravia": 1,
+        "Staravia": 2,
         "Leafeon": 1,
         "Watchog": 1,
         "Purugly": 1,
@@ -640,7 +640,7 @@
         "Beheeyem": 1,
         "Delcatty": 1,
         "Foongus": 1,
-        "Fletchinder": 1,
+        "Fletchinder": 2,
         "Bronzong": 1,
         "Rockruff": 1,
         "Krookodile": 1,
@@ -665,14 +665,15 @@
         "Bidoof": 1,
         "Pa'u oricorio": 1,
         "Spidops": 1,
-        "Zorua": 1
+        "Zorua": 1,
+        "Espurr": 1
       },
-      "total_spawns": 2205,
-      "last_spawn": "2026-10-05T11:04:48.085490"
+      "total_spawns": 2215,
+      "last_spawn": "2026-10-05T11:05:18.473084"
     }
   },
   "global": {
-    "total_spawns": 2205,
+    "total_spawns": 2215,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
