@@ -9,7 +9,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Klink": 6,
+        "Klink": 7,
         "Ekans": 3,
         "Rattata": 7,
         "Sizzlipede": 5,
@@ -50,7 +50,7 @@
         "Smoliv": 12,
         "Marowak": 1,
         "Lotad": 7,
-        "Bounsweet": 15,
+        "Bounsweet": 16,
         "Solosis": 13,
         "Froakie": 4,
         "Hoppip": 10,
@@ -84,7 +84,7 @@
         "Maschiff": 9,
         "Probopass": 1,
         "Lickitung": 3,
-        "Bellibolt": 3,
+        "Bellibolt": 4,
         "Nymble": 6,
         "Axew": 9,
         "Sewaddle": 14,
@@ -108,7 +108,7 @@
         "Wingull": 5,
         "Dj rotom": 2,
         "Gimmighoul": 12,
-        "Magnemite": 11,
+        "Magnemite": 12,
         "Porygon": 8,
         "Larvitar": 10,
         "Chinchou": 4,
@@ -143,7 +143,7 @@
         "Growlithe": 1,
         "Greavard": 10,
         "Abra": 8,
-        "Chef dente": 13,
+        "Chef dente": 14,
         "Spritzee": 2,
         "Capsakid": 9,
         "Magmortar": 2,
@@ -167,7 +167,7 @@
         "Turtwig": 6,
         "Cetoddle": 11,
         "Dreepy": 18,
-        "Bramblin": 10,
+        "Bramblin": 11,
         "Voltorb": 1,
         "Starly": 14,
         "Corviknight": 3,
@@ -188,7 +188,7 @@
         "Peakychu": 10,
         "Seel": 6,
         "Banette": 2,
-        "Gossifleur": 1,
+        "Gossifleur": 2,
         "Sentret": 2,
         "Glimmet": 11,
         "Sandy wormadam": 1,
@@ -248,7 +248,7 @@
         "Rolycoly": 8,
         "Caterpie": 14,
         "Remoraid": 4,
-        "Feebas": 4,
+        "Feebas": 5,
         "Inkay": 1,
         "Droopy tatsugiri": 2,
         "Ledyba": 3,
@@ -264,7 +264,7 @@
         "Orthworm": 8,
         "Beldum": 3,
         "Charcadet": 11,
-        "Honedge": 7,
+        "Honedge": 8,
         "Sealeo": 4,
         "Wiglett": 12,
         "Archen": 3,
@@ -672,7 +672,7 @@
         "Togekiss": 1,
         "Unown q": 1,
         "Pidgeot": 1,
-        "Piloswine": 1,
+        "Piloswine": 2,
         "Chimecho": 1,
         "Walrein": 1,
         "Coalossal": 1,
@@ -681,14 +681,15 @@
         "Shieldon": 1,
         "Eiscue": 1,
         "Flareon": 1,
-        "Sneasel": 1
+        "Sneasel": 1,
+        "Shellos": 1
       },
-      "total_spawns": 2388,
-      "last_spawn": "2026-10-05T11:12:38.174598"
+      "total_spawns": 2399,
+      "last_spawn": "2026-10-05T11:13:08.290728"
     }
   },
   "global": {
-    "total_spawns": 2388,
+    "total_spawns": 2399,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
