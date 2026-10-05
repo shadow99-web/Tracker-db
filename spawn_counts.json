@@ -51,7 +51,7 @@
         "Marowak": 1,
         "Lotad": 10,
         "Bounsweet": 17,
-        "Solosis": 14,
+        "Solosis": 15,
         "Froakie": 4,
         "Hoppip": 12,
         "Clobbopus": 2,
@@ -78,7 +78,7 @@
         "Scatterbug": 9,
         "Durant": 3,
         "Fidough": 14,
-        "Vanillite": 15,
+        "Vanillite": 16,
         "Rellor": 17,
         "Toxel": 6,
         "Maschiff": 12,
@@ -364,7 +364,7 @@
         "Metang": 3,
         "Tarountula": 15,
         "Ledian": 1,
-        "Diglett": 2,
+        "Diglett": 3,
         "Cufant": 2,
         "Passimian": 3,
         "Comfey": 1,
@@ -554,7 +554,7 @@
         "White-striped basculin": 2,
         "Arctovish": 2,
         "Toxicroak": 1,
-        "Scovillain": 5,
+        "Scovillain": 6,
         "Dusknoir": 2,
         "Grafaiai": 1,
         "Muk": 1,
@@ -563,7 +563,7 @@
         "Watchog": 1,
         "Purugly": 1,
         "Ditto": 1,
-        "Dwebble": 2,
+        "Dwebble": 3,
         "Ferroseed": 3,
         "Turtonator": 1,
         "Mime jr.": 2,
@@ -581,7 +581,7 @@
         "Lairon": 3,
         "Sableye": 2,
         "Blue flower floette": 1,
-        "Scyther": 4,
+        "Scyther": 5,
         "Bouffalant": 1,
         "Kartana": 1,
         "Eelektrik": 1,
@@ -598,7 +598,7 @@
         "Whimsicott": 1,
         "Omanyte": 2,
         "Exeggcute": 2,
-        "Blue plumage squawkabilly": 4,
+        "Blue plumage squawkabilly": 5,
         "Palossand": 1,
         "Medicham": 1,
         "Alakazam": 2,
@@ -625,7 +625,7 @@
         "Dipplin": 1,
         "Kabutops": 1,
         "Sneasler": 1,
-        "Nickit": 2,
+        "Nickit": 4,
         "Purrloin": 5,
         "Araquanid": 1,
         "Pelipper": 1,
@@ -719,14 +719,16 @@
         "Armaldo": 1,
         "Avalugg": 1,
         "Drizzile": 1,
-        "Matron trim furfrou": 1
+        "Matron trim furfrou": 1,
+        "Gorebyss": 1,
+        "Budew": 1
       },
-      "total_spawns": 2956,
-      "last_spawn": "2026-10-05T11:36:38.096310"
+      "total_spawns": 2967,
+      "last_spawn": "2026-10-05T11:37:08.186890"
     }
   },
   "global": {
-    "total_spawns": 2956,
+    "total_spawns": 2967,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
