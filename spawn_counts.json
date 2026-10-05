@@ -11,7 +11,7 @@
       "counts": {
         "Klink": 9,
         "Ekans": 3,
-        "Rattata": 7,
+        "Rattata": 8,
         "Sizzlipede": 5,
         "Mosslax": 20,
         "Lickilicky": 1,
@@ -108,7 +108,7 @@
         "Wingull": 7,
         "Dj rotom": 3,
         "Gimmighoul": 12,
-        "Magnemite": 14,
+        "Magnemite": 15,
         "Porygon": 13,
         "Larvitar": 11,
         "Chinchou": 4,
@@ -135,7 +135,7 @@
         "Boldore": 7,
         "Malamar": 1,
         "Sudowoodo": 1,
-        "Smearguru": 14,
+        "Smearguru": 16,
         "Dusclops": 4,
         "Vullaby": 3,
         "Tauros": 2,
@@ -190,7 +190,7 @@
         "Banette": 2,
         "Gossifleur": 3,
         "Sentret": 3,
-        "Glimmet": 13,
+        "Glimmet": 14,
         "Sandy wormadam": 1,
         "Battle cyclizar": 6,
         "Steenee": 4,
@@ -254,7 +254,7 @@
         "Ledyba": 3,
         "Glaceon": 2,
         "Snowy castform": 1,
-        "Litten": 6,
+        "Litten": 7,
         "Mareep": 12,
         "Exploud": 3,
         "Farfetch'd": 5,
@@ -305,7 +305,7 @@
         "Wooloo": 3,
         "Applin": 5,
         "Carkol": 3,
-        "Swinub": 11,
+        "Swinub": 12,
         "Audino": 1,
         "Grapploct": 1,
         "Chimchar": 4,
@@ -374,7 +374,7 @@
         "Flapple": 1,
         "Spoink": 10,
         "Machoke": 3,
-        "Yamper": 1,
+        "Yamper": 2,
         "Petilil": 3,
         "Shedinja": 1,
         "Cottonee": 3,
@@ -665,7 +665,7 @@
         "Bidoof": 2,
         "Pa'u oricorio": 1,
         "Spidops": 1,
-        "Zorua": 2,
+        "Zorua": 3,
         "Espurr": 1,
         "Dartrix": 2,
         "Wooper": 4,
@@ -700,14 +700,16 @@
         "Druddigon": 1,
         "Dracozolt": 1,
         "Qwilfish": 1,
-        "Heracross": 1
+        "Heracross": 1,
+        "Pangoro": 1,
+        "Skiddo": 1
       },
-      "total_spawns": 2734,
-      "last_spawn": "2026-10-05T11:27:12.730527"
+      "total_spawns": 2745,
+      "last_spawn": "2026-10-05T11:27:42.825946"
     }
   },
   "global": {
-    "total_spawns": 2734,
+    "total_spawns": 2745,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
