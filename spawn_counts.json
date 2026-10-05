@@ -9,7 +9,7 @@
     "1459840886732095665": {
       "name": "S\u1d1b\u1d0f\u0280\u1d0d\u30e1\u0280\u026a\u1d05\u1d07\u0280z",
       "counts": {
-        "Klink": 4,
+        "Klink": 5,
         "Ekans": 3,
         "Rattata": 6,
         "Sizzlipede": 5,
@@ -49,13 +49,13 @@
         "Palpitoad": 4,
         "Smoliv": 11,
         "Marowak": 1,
-        "Lotad": 6,
+        "Lotad": 7,
         "Bounsweet": 11,
         "Solosis": 13,
         "Froakie": 4,
         "Hoppip": 10,
         "Clobbopus": 2,
-        "Zubat": 9,
+        "Zubat": 10,
         "Koffing": 3,
         "Yanma": 3,
         "Kabuto": 4,
@@ -70,7 +70,7 @@
         "Chingling": 3,
         "Oddish": 12,
         "Pansear": 4,
-        "Roggenrola": 13,
+        "Roggenrola": 14,
         "Bibarel": 1,
         "Braixen": 4,
         "Shroomish": 3,
@@ -102,7 +102,7 @@
         "Skwovet": 4,
         "Cyndaquil": 1,
         "Steelix": 1,
-        "Stufful": 4,
+        "Stufful": 5,
         "Hisuian zorua": 1,
         "Lugia": 1,
         "Wingull": 5,
@@ -113,7 +113,7 @@
         "Larvitar": 7,
         "Chinchou": 4,
         "Poliwhirl": 3,
-        "Dhelmise": 1,
+        "Dhelmise": 2,
         "Klawf": 5,
         "Toxapex": 1,
         "Wurmple": 8,
@@ -284,7 +284,7 @@
         "Sprigatito": 3,
         "Crawdaunt": 1,
         "Karrablast": 2,
-        "Quilladin": 2,
+        "Quilladin": 3,
         "Deino": 5,
         "Pawniard": 3,
         "Rabsca": 3,
@@ -311,10 +311,10 @@
         "Chimchar": 4,
         "Seedot": 11,
         "Hippopotas": 1,
-        "Lillipup": 9,
+        "Lillipup": 10,
         "Weepinbell": 2,
         "Skeledirge": 1,
-        "Floragato": 2,
+        "Floragato": 3,
         "Nacli": 6,
         "Pidgeotto": 2,
         "Shroodle": 4,
@@ -351,7 +351,7 @@
         "Jumpluff": 2,
         "Slakoth": 10,
         "Cacturne": 1,
-        "Snivy": 6,
+        "Snivy": 7,
         "Armarouge": 2,
         "Noctowl": 2,
         "Rhydon": 2,
@@ -663,14 +663,16 @@
         "Scorbunny": 1,
         "Bastiodon": 1,
         "Bidoof": 1,
-        "Pa'u oricorio": 1
+        "Pa'u oricorio": 1,
+        "Spidops": 1,
+        "Zorua": 1
       },
-      "total_spawns": 2193,
-      "last_spawn": "2026-10-05T11:04:14.158715"
+      "total_spawns": 2205,
+      "last_spawn": "2026-10-05T11:04:48.085490"
     }
   },
   "global": {
-    "total_spawns": 2193,
+    "total_spawns": 2205,
     "started": "2026-10-02T15:25:22.705414"
   }
 }
